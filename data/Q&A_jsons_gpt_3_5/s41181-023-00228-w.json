@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the validation of an Automated Dispensing System (ADS) for radiopharmaceuticals. ",
+        "Question": "What is the linear range for lutetium-177 in the ADS system?",
+        "A": "1000\u201310,000 MBq",
+        "B": "20\u201374 MBq",
+        "C": "100\u20131000 MBq",
+        "D": "100\u20132000 MBq",
+        "Answer": "A",
+        "Source": "The ADS can dispense accurate doses in the following linear range: 1000\u201310,000 MBq for lutetium\u2011177."
+    },
+    "Question_2": {
+        "Context": "The paper details the accuracy and precision validation of the ADS system for different isotopes.",
+        "Question": "What is the maximum bias allowed for accuracy validation in the ADS system?",
+        "A": "2.35%",
+        "B": "3.03%",
+        "C": "5%",
+        "D": "10%",
+        "Answer": "C",
+        "Source": "The maximum bias is 2.35% and the maximum coefficient of variation is 3.03% which meets the acceptance criteria of < 5%."
+    },
+    "Question_3": {
+        "Context": "The paper describes the environmental validation of the ADS system.",
+        "Question": "What is the maximum allowed CFU for a GMP class A environment?",
+        "A": "1 CFU",
+        "B": "5 CFU",
+        "C": "10 CFU",
+        "D": "No growth",
+        "Answer": "A",
+        "Source": "None of the nine contact plates showed growth of CFU and the particle count at rest and in operation did not exceed the GMP limits. Only one CFU was found after incubation."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the radiation protection aspects of the ADS system.",
+        "Question": "What is the measured dose rate at 10 cm for Zirconium-89 with shielding?",
+        "A": "150 \u00b5Sv/h",
+        "B": "393 \u00b5Sv/h",
+        "C": "300 \u00b5Sv/h",
+        "D": "1200 \u00b5Sv/h",
+        "Answer": "A",
+        "Source": "The measured dose rate for Zirconium-89 (37 MBq) at 10 cm with 0.4 mm tungsten shielding was 150 \u00b5Sv/h."
+    },
+    "Question_5": {
+        "Context": "The paper outlines the data integrity validation of the ADS system.",
+        "Question": "How was the transfer of patient data between two software systems validated?",
+        "A": "Direct communication between systems",
+        "B": "Manual entry of patient data",
+        "C": "Excel export list from one system imported into the other",
+        "D": "No validation performed",
+        "Answer": "C",
+        "Source": "However, an Excel export list from IBC-NM can be made and imported into the Happy Brain software. This eliminates the need to manually enter patient data from one system into the other with a greater risk of human error."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the validation stages of the ADS system.",
+        "Question": "What is the first stage in the qualification process according to the European Commission guidelines?",
+        "A": "User requirement specifications (URS)",
+        "B": "Design qualification (DQ)",
+        "C": "Factory acceptance testing (FAT)",
+        "D": "Installation qualification (IQ)",
+        "Answer": "A",
+        "Source": "The main stages of qualification in order include: user requirement specifications (URS), design qualification (DQ), factory acceptance testing (FAT), installation qualification (IQ), operational qualification (OQ) and performance qualification (PQ)."
+    },
+    "Question_7": {
+        "Context": "The paper describes the validation process for aseptic production with the ADS system.",
+        "Question": "What was used to determine the sterility of the production process?",
+        "A": "Radioactive broth",
+        "B": "Tryptic soy broth",
+        "C": "Clear medium",
+        "D": "CFU plates",
+        "Answer": "B",
+        "Source": "For the production validation, the sterility was investigated by simulating the production using tryptic soy broth."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the validation of the ADS system for different isotopes.",
+        "Question": "What is the validated range for routine dose dispensing of Zirconium-89 products?",
+        "A": "1000\u201310,000 MBq",
+        "B": "20\u201374 MBq",
+        "C": "10\u20131000 MBq",
+        "D": "100\u20132000 MBq",
+        "Answer": "B",
+        "Source": "The validated linearity range for routine dose dispensing of Zr-89 products was set to 20\u201374 MBq."
+    },
+    "Question_9": {
+        "Context": "The paper details the validation of the ADS system for aseptic production.",
+        "Question": "What was used to validate the environmental conditions for a GMP class A environment?",
+        "A": "Particle counter",
+        "B": "CFU plates",
+        "C": "Turbidity measurement",
+        "D": "Incubation at 30\u201335 \u00b0C",
+        "Answer": "A",
+        "Source": "In addition, the Apex Z50 particle counter was used to validate if the requirements for a GMP class A environment were preserved."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the validation of the ADS system for data integrity.",
+        "Question": "What software was used to control the dispensing system?",
+        "A": "Happy Brain software",
+        "B": "Excel software",
+        "C": "Patient information software",
+        "D": "IBC-NM software",
+        "Answer": "A",
+        "Source": "The system is controlled with the included Happy Brain software (version 4.4.36)."
+    }
+}

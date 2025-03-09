@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on investigating the synergistic effects of cutting parameters on surface roughness in ball end milling of oxygen-free high conductivity (OFHC) copper.",
+        "Question": "Which experimental design was used for the study?",
+        "A": "Factorial design",
+        "B": "Central composite design",
+        "C": "Response surface methodology",
+        "D": "Taguchi method",
+        "Answer": "B",
+        "Source": "Firstly, an experimental plan based on a full factorial rotatable central composite design with variable parameters, the cutting feed rate or feed per tooth, axial depth of cut, radial depth of cut, and the cutting speed, was developed."
+    },
+    "Question_2": {
+        "Context": "The study aimed to determine a statistical model that can suitably correlate the experimental results.",
+        "Question": "What was the range for each variable in the experimental plan?",
+        "A": "3 levels",
+        "B": "4 levels",
+        "C": "5 levels",
+        "D": "6 levels",
+        "Answer": "C",
+        "Source": "The range for each variable was varied through five different levels."
+    },
+    "Question_3": {
+        "Context": "The study concluded that the step over or radial depth of cut had a significant influence on the surface roughness of the milled OFHC copper.",
+        "Question": "Which parameter had the highest contribution to the surface roughness model?",
+        "A": "Cutting speed",
+        "B": "Axial depth of cut",
+        "C": "Radial depth of cut",
+        "D": "Cutting feed rate",
+        "Answer": "C",
+        "Source": "The surface roughness model suggests that the radial depth of cut provides the primary contribution (45.81%) and influences most significantly on the surface roughness."
+    },
+    "Question_4": {
+        "Context": "The study highlighted the importance of selecting proper process parameters for achieving good surface finish.",
+        "Question": "Which method was used for developing models and quantifying the relationship between roughness and its parameters?",
+        "A": "Response surface methodology",
+        "B": "Factorial designs",
+        "C": "Taguchi methods",
+        "D": "Experimental design",
+        "Answer": "A",
+        "Source": "The different methods include that confined in this approach response surface method (RSM), factorial designs, and Taguchi methods."
+    },
+    "Question_5": {
+        "Context": "The study emphasized the significance of end milling in various industries.",
+        "Question": "What is a key parameter in the machining process that is important for product quality?",
+        "A": "Cutting speed",
+        "B": "Surface roughness",
+        "C": "Cutting feed rate",
+        "D": "Depth of cut",
+        "Answer": "B",
+        "Source": "Usually, the product quality is measured by its surface roughness. Minimizing the surface roughness results in a product with good surface finish of the final machined part."
+    },
+    "Question_6": {
+        "Context": "The study discussed the demand for good quality finished OFHC Cu material.",
+        "Question": "What is the main application of OFHC Cu in electrical industries?",
+        "A": "X-ray storage ring",
+        "B": "Cryogenic shunts",
+        "C": "Medical science",
+        "D": "Nuclear industry",
+        "Answer": "B",
+        "Source": "Presently, the demand for good quality of finished OFHC Cu material (like a mirror finish surface) is increasing at a brisk pace for its use in various sectors, like manufacturing, electrical, electronics, nuclear, and medical science."
+    },
+    "Question_7": {
+        "Context": "The study highlighted the importance of end milling in various industries.",
+        "Question": "Which material was used for the end milling process in the study?",
+        "A": "Al 6061-T4",
+        "B": "AISI 1040 steel",
+        "C": "Medium-leaded brass UNS C34000",
+        "D": "OFHC copper",
+        "Answer": "D",
+        "Source": "The present study was performed on the OFHC Cu."
+    },
+    "Question_8": {
+        "Context": "The study emphasized the importance of selecting proper process parameters for achieving good surface finish.",
+        "Question": "Which method was used for modeling and optimization of the end milling process parameters?",
+        "A": "Artificial intelligence",
+        "B": "Response surface methodology",
+        "C": "Factorial designs",
+        "D": "Taguchi methods",
+        "Answer": "B",
+        "Source": "Lakshmi et al. used RSM for modeling and optimization of the end milling process parameters."
+    },
+    "Question_9": {
+        "Context": "The study discussed the importance of reducing effort and minimizing machining time and cost.",
+        "Question": "Which approach was used to predict the surface roughness in the machining process?",
+        "A": "Single factor at a time",
+        "B": "Trial-and-error approach",
+        "C": "Response surface methodology",
+        "D": "Factorial designs",
+        "Answer": "C",
+        "Source": "Among the various approaches used to predict the surface roughness, the present article demands a brief review of roughness modeling using RSM."
+    },
+    "Question_10": {
+        "Context": "The study focused on developing a statistical model to predict surface roughness in high-speed flat end milling.",
+        "Question": "What was the material used for high-speed flat end milling in the study?",
+        "A": "AISI 1040 steel",
+        "B": "OFHC copper",
+        "C": "Al 6061-T4",
+        "D": "EN24 grade steel",
+        "Answer": "A",
+        "Source": "Ozcelik et al. developed a statistical model to predict the surface roughness in high-speed flat end milling of AISI 1040 steel."
+    }
+}

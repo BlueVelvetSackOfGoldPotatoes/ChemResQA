@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Alfalfa is a perennial herbaceous plant that is rich in nutrients and serves as an ideal food for cattle. The odor of alfalfa can influence livestock feeding behavior.",
+        "Question": "Which stage of alfalfa growth is associated with the highest accumulation of volatile organic compounds (VOCs)?",
+        "A": "Budding stage",
+        "B": "Early flowering stage",
+        "C": "Full flowering stage",
+        "D": "All stages have similar VOC accumulation",
+        "Answer": "B",
+        "Source": "The VOCs were most accumulated in the early flowering stages, which had more sweet and fruity flavors, and the main substances that differed from the budding stage and the full flowering stage were methyl heptanoate, butyl butyrate, \u03b2-ionone, and other esters and terpenoids."
+    },
+    "Question_2": {
+        "Context": "In the context of alfalfa growth, certain chemical compounds and metabolic pathways are correlated with the plant's nutritional content.",
+        "Question": "Which compounds were found to be positively correlated with crude protein and ether extract in alfalfa?",
+        "A": "Alcohols and ketones",
+        "B": "Nitrogen and sulfur compounds",
+        "C": "Dry matter content and soluble carbohydrates",
+        "D": "Neutral detergent fiber",
+        "Answer": "B",
+        "Source": "The crude protein and ether extract decreased and were positively correlated with terpenoids, heterocycles, and nitrogen and sulfur compounds, while the dry matter content, soluble carbohydrates, and neutral detergent fiber increased and were positively correlated with alcohols and ketones."
+    },
+    "Question_3": {
+        "Context": "Volatile organic compounds (VOCs) in plants can be categorized into various types based on their chemical structure and properties.",
+        "Question": "Which category of VOCs was found to decrease continuously throughout the growth and development of alfalfa?",
+        "A": "Terpenoids",
+        "B": "Esters",
+        "C": "Heterocyclic substances",
+        "D": "Alcohols",
+        "Answer": "C",
+        "Source": "Results showed that terpenoids increased first and then decreased with growth and development, heterocyclic substances decreased continuously, and alcohols and ketones increased."
+    },
+    "Question_4": {
+        "Context": "The metabolic pathways in plants are responsible for the biosynthesis of various compounds, including VOCs.",
+        "Question": "Which metabolic pathway was up-regulated in the full flowering stage of alfalfa?",
+        "A": "Monoterpene pathway",
+        "B": "Sesquiterpene pathway",
+        "C": "Triterpene pathway",
+        "D": "Phenyl-propylene synthesis pathway",
+        "Answer": "D",
+        "Source": "The monoterpene, sesquiterpene, and triterpene pathways were up-regulated in the early flowering stage, and the phenyl-propylene synthesis pathway was up-regulated in the full flowering stage."
+    },
+    "Question_5": {
+        "Context": "Alfalfa's odor and its quality can be assessed by analyzing its volatile organic compounds (VOCs).",
+        "Question": "What was the trend observed in the content of terpenoids during the growth of alfalfa?",
+        "A": "Continuously increased",
+        "B": "Continuously decreased",
+        "C": "Increased first and then decreased",
+        "D": "Remained constant",
+        "Answer": "C",
+        "Source": "Results showed that terpenoids increased first and then decreased with growth and development."
+    },
+    "Question_6": {
+        "Context": "The content of various nutrients in alfalfa changes as the plant grows and develops.",
+        "Question": "What is the trend in the content of crude protein (CP) and ether extract (EE) as alfalfa progresses from budding to full flowering stage?",
+        "A": "Both CP and EE content increase",
+        "B": "Both CP and EE content decrease",
+        "C": "CP increases and EE decreases",
+        "D": "CP decreases and EE increases",
+        "Answer": "B",
+        "Source": "The crude protein and ether extract decreased and were positively correlated with terpenoids, heterocycles, and nitrogen and sulfur compounds."
+    },
+    "Question_7": {
+        "Context": "The chemical composition of alfalfa, including dry matter content and fiber, is an important aspect of its quality as forage.",
+        "Question": "Which components were found to increase in alfalfa as it matured from the budding to the full flowering stage?",
+        "A": "Crude protein and ether extract",
+        "B": "Dry matter content and soluble carbohydrates",
+        "C": "Neutral detergent fiber and heterocyclic compounds",
+        "D": "Alcohols and ketones",
+        "Answer": "B",
+        "Source": "The dry matter content, soluble carbohydrates, and neutral detergent fiber increased and were positively correlated with alcohols and ketones."
+    },
+    "Question_8": {
+        "Context": "Alfalfa contains a variety of volatile organic compounds that contribute to its overall odor profile.",
+        "Question": "Which types of VOCs were predominant in alfalfa during the three stages of growth?",
+        "A": "Heterocyclic compounds, terpenes, ketones, and alcohols",
+        "B": "Esters, ethers, halogenated hydrocarbons, and phenols",
+        "C": "Nitrogenous compounds, sulfurous compounds, and aromatics",
+        "D": "Acids, amines, and hydrocarbons",
+        "Answer": "A",
+        "Source": "The VOCs of alfalfa in the three stages were mainly composed of heterocyclic compounds, terpenes, ketones, and alcohols."
+    },
+    "Question_9": {
+        "Context": "The odor of alfalfa can be characterized by various sensory flavors, which are influenced by its volatile organic compounds.",
+        "Question": "What sensory flavors were more pronounced in the early flowering stage of alfalfa compared to the budding and full flowering stages?",
+        "A": "Sweet and fruity",
+        "B": "Fishy and moldy",
+        "C": "Bitter and nutty",
+        "D": "Sour and acidic",
+        "Answer": "A",
+        "Source": "The VOCs were most accumulated in the early flowering stages, which had more sweet and fruity flavors."
+    },
+    "Question_10": {
+        "Context": "The metabolic pathways in alfalfa are involved in the synthesis of various compounds that can affect its odor and quality.",
+        "Question": "Which metabolic pathways were up-regulated in the early flowering stage of alfalfa?",
+        "A": "Monoterpene, sesquiterpene, and triterpene pathways",
+        "B": "Phenyl-propylene synthesis pathway",
+        "C": "Glycolysis and C4 pathway",
+        "D": "Lignin synthesis pathway",
+        "Answer": "A",
+        "Source": "The monoterpene, sesquiterpene, and triterpene pathways were up-regulated in the early flowering stage."
+    }
+}

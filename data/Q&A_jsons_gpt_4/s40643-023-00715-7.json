@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Polyethylene terephthalate (PET) is a common plastic that accumulates in the environment, particularly in wastewater treatment systems, where it can persist due to its chemical resistance.",
+        "Question": "What environmental issue is associated with polyethylene terephthalate (PET)?",
+        "A": "It contributes to air pollution",
+        "B": "It is a major component of smog",
+        "C": "It accumulates in biological wastewater treatment systems",
+        "D": "It depletes the ozone layer",
+        "Answer": "C",
+        "Source": "The escalating crisis of polyethylene terephthalate (PET) microplastic contamination in biological wastewater treatment systems is a pressing environmental concern."
+    },
+    "Question_2": {
+        "Context": "Microplastics are small plastic particles that can be formed through various processes and have been found to accumulate in sewage sludge.",
+        "Question": "How are microplastics commonly produced?",
+        "A": "Through the weathering and mechanical tearing of larger plastic pieces",
+        "B": "By the natural breakdown of organic materials",
+        "C": "Through the evaporation of plastic-containing liquids",
+        "D": "By the condensation of plastic vapors",
+        "Answer": "A",
+        "Source": "Microplastics are produced through the weathering and mechanical tearing (such as tires) of larger pieces of plastic, and are also directly manufactured and utilized in many personal care and cosmetic products (PCCPs)."
+    },
+    "Question_3": {
+        "Context": "Microplastics are known to be resistant to microbial degradation, which contributes to their accumulation in environments such as sewage sludge.",
+        "Question": "Why are microplastics resistant to microbial degradation?",
+        "A": "Because they are too small to be detected by microbes",
+        "B": "Due to their chemically inert backbone structure",
+        "C": "Because they are typically coated with protective films",
+        "D": "Due to their ability to dissolve in water",
+        "Answer": "B",
+        "Source": "Microplastics are often highly resistant to microbial degradation due to their chemically inert backbone structure."
+    },
+    "Question_4": {
+        "Context": "The biodegradation of PET into monomers is a process that has been demonstrated to be feasible.",
+        "Question": "What is the end result of the biodegradation of PET?",
+        "A": "Formation of microplastics",
+        "B": "Breakdown into monomers",
+        "C": "Conversion into a gaseous state",
+        "D": "Solidification into a more compact form",
+        "Answer": "B",
+        "Source": "Among them, the biodegradation of PET into monomers has been proven feasible."
+    },
+    "Question_5": {
+        "Context": "Enzymes that can degrade PET, such as IsPETase, have been identified and characterized.",
+        "Question": "What is the function of enzymes like IsPETase in relation to PET?",
+        "A": "They catalyze the hydrolysis of the ester bond within the PET molecule",
+        "B": "They increase the crystallinity of PET",
+        "C": "They polymerize PET monomers",
+        "D": "They act as a physical barrier to prevent PET degradation",
+        "Answer": "A",
+        "Source": "The catalysis mechanism of DuraPETase involves the hydrolysis of the ester bond within the PET molecule."
+    },
+    "Question_6": {
+        "Context": "DuraPETase is an enzyme that has been engineered to have enhanced PET hydrolytic activity.",
+        "Question": "How does DuraPETase compare to the wild-type IsPETase in terms of hydrolytic activity against PET?",
+        "A": "It has the same level of activity",
+        "B": "It has reduced activity",
+        "C": "It has over 300-fold higher activity",
+        "D": "It has no activity against PET",
+        "Answer": "C",
+        "Source": "Compared to the wild-type IsPETase, DuraPETase showed over 300-fold higher hydrolytic activity against PET powder."
+    },
+    "Question_7": {
+        "Context": "Comamonas testosteroni CNB-1 is a bacterial strain that has been utilized for its ability to degrade certain compounds.",
+        "Question": "What compounds can Comamonas testosteroni CNB-1 utilize for growth?",
+        "A": "Methane and ethane",
+        "B": "Terephthalic acid (TPA) and ethylene glycol (EG)",
+        "C": "Glucose and fructose",
+        "D": "Nitrogen and phosphorus",
+        "Answer": "B",
+        "Source": "Additionally, studies have reported that Comamonas can degrade terephthalic acid (TPA) and ethylene glycol (EG), which are the main products of PET depolymerization."
+    },
+    "Question_8": {
+        "Context": "The p-NPB assay is a method used to measure the extracellular hydrolase activity of enzymes.",
+        "Question": "What does the p-NPB assay measure in the context of enzyme activity?",
+        "A": "The ability to synthesize new enzymes",
+        "B": "The ability to resist high temperatures",
+        "C": "The ability to produce p-nitrophenol (p-NP) from p-nitrophenyl butyrate (p-NPB)",
+        "D": "The ability to bind to specific substrates",
+        "Answer": "C",
+        "Source": "The hydrolase activity of CNB-1/pDuraPETase was evaluated using p-NPB (Sigma-Aldrich N9876) as a model substrate with certain modifications... The production of p-nitrophenol (p-NP) was monitored at 405 nm within 30 min at 30 \u00b0C."
+    },
+    "Question_9": {
+        "Context": "High-performance liquid chromatography (HPLC) is a technique used to analyze the degradation products of PET.",
+        "Question": "What is the purpose of using HPLC in the analysis of PET degradation?",
+        "A": "To measure the molecular weight of PET",
+        "B": "To identify the presence of PET in a sample",
+        "C": "To monitor the concentration of oxygen in the sample",
+        "D": "To quantify the degradation products such as TPA, MHET, and BHET",
+        "Answer": "D",
+        "Source": "HPLC was performed... The typical elution conditions were as follows: 0 to 30 min, 25% (v/v) methanol, and 30 to 50 min, 25\u2013100% methanol linear gradient. 10 \u03bcL of the final degradation products was used for detection."
+    },
+    "Question_10": {
+        "Context": "Thermogravimetric analysis (TGA) is a method that can be used to assess the degradation of polymers such as PET.",
+        "Question": "What does thermogravimetric analysis (TGA) monitor in the context of PET degradation?",
+        "A": "The change in color of PET",
+        "B": "The electrical conductivity of PET",
+        "C": "The mass loss of PET with temperature",
+        "D": "The transparency of PET",
+        "Answer": "C",
+        "Source": "Thermogravimetric analysis was used to determine the degradation of PET nanoplastics by CNB-1 derived PET-degrading biocatalyst. The experiments were performed... The mass loss with time and temperature is monitored."
+    }
+}

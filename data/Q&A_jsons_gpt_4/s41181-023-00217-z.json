@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Receptor interacting protein kinase 1 (RIPK1) is a serine/threonine kinase involved in the regulation of programmed cell death and inflammation.",
+        "Question": "What is the role of RIPK1 in programmed cell death and inflammation?",
+        "A": "It acts as a growth factor.",
+        "B": "It regulates programmed cell deaths and inflammation.",
+        "C": "It serves as a receptor for neurotransmitters.",
+        "D": "It functions as an antibody.",
+        "Answer": "B",
+        "Source": "Receptor interacting protein kinase 1 (RIPK1) is a serine/threonine kinase, which regulates programmed cell death and inflammation."
+    },
+    "Question_2": {
+        "Context": "In Alzheimer\u2019s disease (AD), microglia transition from a homeostatic state to a dysfunctional state, characterized by a reduced capacity for phagocytosis and clearance of amyloid \u03b2 proteins.",
+        "Question": "What characterizes the transition of microglia to a dysfunctional state in Alzheimer\u2019s disease?",
+        "A": "Increased capacity for phagocytosis.",
+        "B": "Enhanced clearance of amyloid \u03b2 proteins.",
+        "C": "Reduced capacity for phagocytosis and clearance of amyloid \u03b2 proteins.",
+        "D": "Increased production of neurotransmitters.",
+        "Answer": "C",
+        "Source": "RIPK1 is highly expressed during microglia\u2019s phenotypic transition from their homeostatic states to their dysfunctional states, the latter state being characterized by the reduced capacity for phagocytosis and clearance of amyloid \u03b2 proteins."
+    },
+    "Question_3": {
+        "Context": "Positron emission tomography (PET) imaging is a technique used to observe metabolic processes in the body. The development of radioligands for PET imaging requires compounds with specific properties.",
+        "Question": "What properties are desirable in a compound used for PET imaging?",
+        "A": "High affinity and selectivity for the target, and favorable physiochemical properties.",
+        "B": "Low affinity for the target and high solubility in water.",
+        "C": "High molecular weight and low selectivity for the target.",
+        "D": "Radioactivity with a long half-life and low purity.",
+        "Answer": "A",
+        "Source": "(S)\u20112,2\u2011dimethyl\u20111\u2011(5\u2011phenyl\u20114,5\u2011dihydro\u20111H\u2011pyrazol\u20111\u2011yl)propan\u20111\u2011one (GSK\u2019963) has a high affinity, selectivity for RIPK1, and favorable physiochemical properties based on its chemical structure."
+    },
+    "Question_4": {
+        "Context": "The Grignard reaction is a chemical reaction used to form carbon-carbon bonds, involving a Grignard reagent and a carbonyl compound.",
+        "Question": "What is a typical outcome of a Grignard reaction?",
+        "A": "Formation of a carbon-nitrogen bond.",
+        "B": "Formation of a carbon-carbon bond.",
+        "C": "Reduction of a carbonyl group to an alcohol.",
+        "D": "Oxidation of an alcohol to a carbonyl compound.",
+        "Answer": "B",
+        "Source": "In this study, since 11C\u2011labeling GSK\u2019963 retaining its structure requiring the Grignard reaction of tert\u2011butylmagnesium halides and [11C]carbon dioxide was anticipated to give a low yield, we decided instead to 11C\u2011label a GSK\u2019963 analog."
+    },
+    "Question_5": {
+        "Context": "In the context of PET imaging, the introduction of a radioactive isotope into a compound's structure is crucial for the detection and imaging of the target molecule.",
+        "Question": "What is the purpose of labeling a compound with a radioactive isotope in PET imaging?",
+        "A": "To decrease the compound's reactivity.",
+        "B": "To increase the compound's molecular weight.",
+        "C": "To enable the detection and imaging of the compound in the body.",
+        "D": "To stabilize the compound's chemical structure.",
+        "Answer": "C",
+        "Source": "The purpose of this study was to develop a suitable radioligand for positron emission tomography (PET) imaging of RIPK1."
+    },
+    "Question_6": {
+        "Context": "The Pd-mediated cross-coupling reaction is a method used in organic chemistry to form carbon-carbon bonds between two different types of carbon groups.",
+        "Question": "What is the role of Pd in a Pd-mediated cross-coupling reaction?",
+        "A": "It acts as a reducing agent.",
+        "B": "It serves as a catalyst.",
+        "C": "It functions as a protecting group.",
+        "D": "It is used as a solvent.",
+        "Answer": "B",
+        "Source": "Thus, we successfully 11C\u2011labeled GG502 using a Pd\u2011mediated cross\u2011coupling reaction in favorable yields."
+    },
+    "Question_7": {
+        "Context": "The concept of brain permeability in the context of PET imaging refers to the ability of a compound to cross the blood-brain barrier and enter the brain tissue.",
+        "Question": "Why is brain permeability an important property for PET imaging ligands?",
+        "A": "Because it ensures the ligand remains in the bloodstream.",
+        "B": "Because it allows the ligand to enter and be imaged within the brain tissue.",
+        "C": "Because it prevents the ligand from being metabolized.",
+        "D": "Because it increases the ligand's affinity for proteins in the blood.",
+        "Answer": "B",
+        "Source": "On brain PET imaging in a rhesus monkey, [11C]GG502 showed a good brain permeability."
+    },
+    "Question_8": {
+        "Context": "In autoradiography, a technique used to visualize the distribution of radioactively labeled compounds, specific binding refers to the selective association of a ligand with its target molecule.",
+        "Question": "What does specific binding indicate in autoradiography?",
+        "A": "The ligand binds non-selectively to various molecules.",
+        "B": "The ligand binds selectively to its target molecule.",
+        "C": "The ligand is metabolized into different compounds.",
+        "D": "The ligand is rapidly cleared from the tissue.",
+        "Answer": "B",
+        "Source": "On autoradiography, radioactivity accumulation was observed for [11C]GG502 and decreased by non\u2011radioactive GG502 in the mouse spleen and human brain, indicating the possibility of specific binding of this ligand to RIPK1."
+    },
+    "Question_9": {
+        "Context": "The standardized uptake value (SUV) is a quantitative measure used in PET imaging to assess the concentration of a radiotracer in a given region of interest.",
+        "Question": "What does a peak standardized uptake value (SUV) indicate in PET imaging?",
+        "A": "The lowest concentration of the radiotracer in the region of interest.",
+        "B": "The average concentration of the radiotracer over the entire scan duration.",
+        "C": "The highest concentration of the radiotracer in the region of interest.",
+        "D": "The rate of radiotracer metabolism in the region of interest.",
+        "Answer": "C",
+        "Source": "On brain PET imaging in a rhesus monkey, [11C]GG502 showed a good brain permeability (peak standardized uptake value (SUV) ~3.0)."
+    },
+    "Question_10": {
+        "Context": "In the context of PET imaging, the term 'radiochemical purity' refers to the proportion of the total radioactivity that is in the form of the desired radioligand.",
+        "Question": "Why is radiochemical purity important in the synthesis of PET ligands?",
+        "A": "To ensure the ligand has a long half-life.",
+        "B": "To guarantee the ligand has a high molecular weight.",
+        "C": "To confirm the ligand is free from radioactive impurities.",
+        "D": "To increase the ligand's solubility in water.",
+        "Answer": "C",
+        "Source": "Thus, we successfully 11C\u2011labeled GG502 using a Pd\u2011mediated cross\u2011coupling reaction in favorable yields (3.6 \u00b1 1.9%) and radiochemical purities (> 96%)."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In precision agriculture, monitoring the availability of nutrients in soil is crucial for crop growth. Soil electrical conductivity (EC) is known to be influenced by various factors including soil organic matter, texture, temperature, and water content.",
+        "Question": "What is soil electrical conductivity (EC) related to in the context of soil nutrient availability?",
+        "A": "Soil color and structure",
+        "B": "Nutrients in soil solution",
+        "C": "Type of crops grown",
+        "D": "Air quality above the soil",
+        "Answer": "B",
+        "Source": "Soil electrical conductivity (EC) is related to nutrients in soil solution, which can be affected by soil organic matter, soil texture, temperature, and water content."
+    },
+    "Question_2": {
+        "Context": "The addition of organic matter to soil can influence its electrical conductivity due to the release of ions.",
+        "Question": "How does the addition of organic matter affect soil electrical conductivity (EC)?",
+        "A": "Decreases EC due to absorption of ions",
+        "B": "Does not affect EC",
+        "C": "Increases EC due to ions released from the organic matter",
+        "D": "Increases EC due to reduction of soil temperature",
+        "Answer": "C",
+        "Source": "Humic acid and manure were added to soils in order to evaluate the effect of organic matter on soil EC. Soil EC values linearly increased with increasing water content at 10\u201325% which is favorable water content for plant growth. The EC increased when organic matter was added to soils, which was related to ions released from the organic matter."
+    },
+    "Question_3": {
+        "Context": "Soil texture, which includes the proportions of sand, silt, and clay, can influence the electrical conductivity of soil.",
+        "Question": "Which soil property is known to affect the electrical conductivity (EC) and is related to the proportions of sand, silt, and clay?",
+        "A": "Soil texture",
+        "B": "Soil porosity",
+        "C": "Soil color",
+        "D": "Soil compaction",
+        "Answer": "A",
+        "Source": "Soil electrical conductivity (EC) is affected by soil salinity, clay and water content, and adding nutrients to the soil increases the soil EC."
+    },
+    "Question_4": {
+        "Context": "The calibration factor for soil electrical conductivity (EC) can change based on the soil's properties, such as nutrient content and the presence of organic matter.",
+        "Question": "What happens to the soil EC calibration factor when organic matter is added to soil with high nutrient content?",
+        "A": "It decreases due to reduced ion mobility",
+        "B": "It remains constant as organic matter has no effect",
+        "C": "It increases when EC of the soil is high and organic matter is added",
+        "D": "It fluctuates unpredictably",
+        "Answer": "C",
+        "Source": "Soil EC calibration factor for soil water content increased when EC of the soil was high and organic matter was added."
+    },
+    "Question_5": {
+        "Context": "The relationship between soil water content and electrical conductivity (EC) is an important aspect of soil analysis for nutrient availability.",
+        "Question": "How is soil electrical conductivity (EC) generally affected by soil water content?",
+        "A": "EC decreases as soil water content increases",
+        "B": "EC increases as soil water content increases",
+        "C": "EC is not related to soil water content",
+        "D": "EC increases as soil water content decreases",
+        "Answer": "B",
+        "Source": "Increasing soil water content increased soil EC. When the water content in soil was high, the soil EC increased as a result of the increased solubility of ions in soil."
+    },
+    "Question_6": {
+        "Context": "In soils, the presence of certain ions such as ammonium (NH4+) and nitrate (NO3\u2212) can be measured using specific analytical methods.",
+        "Question": "Which method is used to measure ammonium (NH4+) content in soil?",
+        "A": "Vanadium (III) reduction method",
+        "B": "Indophenol-blue method",
+        "C": "Walkley\u2013Black method",
+        "D": "Stoke\u2019s law",
+        "Answer": "B",
+        "Source": "For NH4+ analysis, 0.125 mL EDTA, 2 mL phenol/nitroprusside (PNP), and 1 mL NaOH/hypochlorite were mixed with 1 mL of the extract. The mixture was incubated at 37 \u00b0C for 20 min and absorbance of the solution was measured at 630 nm using a UV\u2013VIS spectrometer."
+    },
+    "Question_7": {
+        "Context": "The measurement of nitrate (NO3\u2212) in soil is essential for understanding soil fertility and nutrient availability.",
+        "Question": "What method is employed to measure nitrate (NO3\u2212) content in soil?",
+        "A": "Indophenol-blue method",
+        "B": "Walkley\u2013Black method",
+        "C": "Vanadium (III) reduction method",
+        "D": "Stoke\u2019s law",
+        "Answer": "C",
+        "Source": "For NO3\u2212 analysis, 20 \u00b5L of soil extract was mixed with 1 mL of the reagent prepared by dissolving 0.4 g of VCl3 in 50 mL of 1 M HCl and mixing with 0.2 g of sulfanilamide and 0.01 g of N-(1-Naphthyl)-ethylenediamine-dihydrochloride (NEDD) in 400 mL of de-ionized water."
+    },
+    "Question_8": {
+        "Context": "The cation exchange capacity (CEC) of soil is a measure of its ability to hold and exchange cations, which is influenced by the soil's composition.",
+        "Question": "Which elements are considered when calculating the soil cation exchange capacity (CEC)?",
+        "A": "Carbon, Hydrogen, Oxygen, Nitrogen",
+        "B": "Calcium, Magnesium, Potassium, Sodium",
+        "C": "Iron, Copper, Zinc, Manganese",
+        "D": "Phosphorus, Sulfur, Chlorine, Boron",
+        "Answer": "B",
+        "Source": "The soil CEC was calculated with Ca, Mg, K, and Na."
+    },
+    "Question_9": {
+        "Context": "Soil organic matter plays a significant role in plant growth and affects the soil's electrical conductivity.",
+        "Question": "What is the role of soil organic matter in relation to plant growth and soil EC?",
+        "A": "It decreases plant growth and reduces soil EC",
+        "B": "It is inert and does not affect plant growth or soil EC",
+        "C": "It enhances plant growth and increases soil EC",
+        "D": "It only affects the soil pH without influencing EC",
+        "Answer": "C",
+        "Source": "Organic matter is important for plant growth along with nutrients in the soil because it is decomposed into smaller molecules and mineralized elements are absorbed by plants. Organic matter can increase the soil EC due to the nutrients and salts included in organic matter."
+    },
+    "Question_10": {
+        "Context": "The analysis of soil pore water is a method used to assess the availability of nutrients and ions in the soil.",
+        "Question": "What is the significance of analyzing ion contents in soil pore water?",
+        "A": "To determine the soil's air content",
+        "B": "To assess the availability of plant nutrients and ions",
+        "C": "To measure the soil's organic matter content",
+        "D": "To evaluate the soil's resistance to erosion",
+        "Answer": "B",
+        "Source": "Analysis of ion contents in soil pore water was conducted... The pH and EC of the pore water were measured and element contents in the pore water were analyzed... Ammonium and NO3\u2212 contents of the pore water were also analyzed... Soil samples were taken after monitoring EC, dried, and mixed with 1 M NH4CH3COOH solution (pH 7) at a soil to solution ratio of 1:10 for 30 min."
+    }
+}

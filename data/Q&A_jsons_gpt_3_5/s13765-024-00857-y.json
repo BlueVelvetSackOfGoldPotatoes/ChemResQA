@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the synthesis of morpholine-derived halogenated chalcone derivatives and their inhibitory activity against monoamine oxidase (MAO).",
+        "Question": "What was the compound that showed the highest inhibitory activity against MAO-B?",
+        "A": "MHC5",
+        "B": "MHC7",
+        "C": "MHC6",
+        "D": "MHC4",
+        "Answer": "A",
+        "Source": "MHC5 showed the highest inhibitory activity against MAO-B with an IC50 value of 0.065 \u03bcM."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the selectivity index values of the compounds for MAO-B over MAO-A.",
+        "Question": "Which compound had the highest selectivity index for MAO-B over MAO-A?",
+        "A": "MHC5",
+        "B": "MHC4",
+        "C": "MHC8",
+        "D": "MHC2",
+        "Answer": "B",
+        "Source": "The selectivity index values of all the compounds were high for MAO-B over MAO-A, and the values for MHC5 and MHC4 were 66.15 and 80.11, respectively."
+    },
+    "Question_3": {
+        "Context": "The study investigated the enzyme kinetics of MAO-B inhibition by the lead compounds.",
+        "Question": "What type of inhibition did MHC5 and MHC4 exhibit towards MAO-B?",
+        "A": "Non-competitive",
+        "B": "Uncompetitive",
+        "C": "Competitive",
+        "D": "Mixed",
+        "Answer": "C",
+        "Source": "In the Lineweaver-Bulk plot, MHC5 and MHC4 appeared to be competitive MAO-B inhibitors."
+    },
+    "Question_4": {
+        "Context": "The study conducted reversibility tests to evaluate the inhibitory effect of MHC5 and MHC4 on MAO-A and MAO-B.",
+        "Question": "Which reference inhibitors were used for comparison in the reversibility tests?",
+        "A": "Toloxatone and clorgyline",
+        "B": "Safinamide and pargyline",
+        "C": "Clorgyline and pargyline",
+        "D": "Toloxatone and safinamide",
+        "Answer": "B",
+        "Source": "Two types of reference inhibitors were used for MAO-A and MAO-B: reversible inhibitors toloxatone and safinamide mesylate salt, and irreversible inhibitors clorgyline and pargyline."
+    },
+    "Question_5": {
+        "Context": "The study employed molecular docking to predict the binding modes of the lead compounds to MAO-B.",
+        "Question": "Which compound had the highest docking score in the molecular docking analysis?",
+        "A": "MHC5",
+        "B": "MHC7",
+        "C": "MHC6",
+        "D": "MHC4",
+        "Answer": "A",
+        "Source": "MHC5 had lower potency than safinamide, a reversible MAO-B inhibitor; however, it had similar or better potency than pargyline, an irreversible MAO-B inhibitor."
+    },
+    "Question_6": {
+        "Context": "The study utilized molecular dynamics simulations to assess the stability of the receptor-ligand complexes.",
+        "Question": "Which compound exhibited higher root mean square deviation (RMSD) values during the molecular dynamics simulations?",
+        "A": "MHC5",
+        "B": "MHC4",
+        "C": "Both had similar RMSD values",
+        "D": "The text does not provide this information",
+        "Answer": "A",
+        "Source": "The average RMSD values for MHC5 and MHC4 were 2.79 and 2.37, respectively."
+    },
+    "Question_7": {
+        "Context": "The study analyzed the root mean square fluctuation (RMSF) to evaluate the flexibility of specific amino acids during the simulations.",
+        "Question": "Which compound exhibited higher root mean square fluctuation (RMSF) values for the amino acids near the active site?",
+        "A": "MHC5",
+        "B": "MHC4",
+        "C": "Both had similar RMSF values",
+        "D": "The text does not provide this information",
+        "Answer": "A",
+        "Source": "The RMSF variation for MHC5 and MHC4 with the 2V5Z protein was revealed to be 0.50\u20133.0 \u00c5."
+    },
+    "Question_8": {
+        "Context": "The study investigated the protein-ligand contacts to understand the interactions between the compounds and MAO-B.",
+        "Question": "Which amino acid was crucial for the binding site and interacted through pi-pi stacking with the phenyl ring attached to morpholine in both MHC5 and MHC4?",
+        "A": "Tyr60",
+        "B": "Tyr326",
+        "C": "Phe99",
+        "D": "Leu171",
+        "Answer": "B",
+        "Source": "In particular, Tyr326 interacted through pi-pi stacking with the phenyl ring attached to morpholine in both ligands (MHC5 and MHC4)."
+    },
+    "Question_9": {
+        "Context": "The study calculated the free binding energies of the lead compound MHC5 using MM-GBSA.",
+        "Question": "Which type of interaction had the most significant impact on the average binding energy of MHC5?",
+        "A": "Hydrogen bond",
+        "B": "Lipophilic interactions",
+        "C": "Van der Waals interactions",
+        "D": "H-bond and Lipo interactions had equal impact",
+        "Answer": "C",
+        "Source": "The analysis of these energies revealed that \u0394G Bind vdW and \u0394G Bind Lipo had the most significant impact on the average binding energy across all interactions."
+    },
+    "Question_10": {
+        "Context": "The study assessed the ADME/T properties of the lead compounds to understand their pharmacokinetic characteristics.",
+        "Question": "Which compound had the highest predicted total clearance value?",
+        "A": "MHC5",
+        "B": "MHC4",
+        "C": "MHC8",
+        "D": "MHC2",
+        "Answer": "A",
+        "Source": "The total clearances of the lead compounds MHC5 and MHC4 were 0.243 and 0.175 log ml/min/kg, respectively."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Nicotiana glauca is a plant that can grow in suboptimal conditions and is known for producing a significant amount of biomass. It is a non-food crop that has been studied for its potential in biorefining applications.",
+        "Question": "What family does Nicotiana glauca belong to?",
+        "A": "Poaceae",
+        "B": "Solanaceae",
+        "C": "Fabaceae",
+        "D": "Rosaceae",
+        "Answer": "B",
+        "Source": "Nicotiana glauca (N. glauca) or the \u201ctobacco tree\u201d is a fast-growing shrub that belongs to the Solanaceae family."
+    },
+    "Question_2": {
+        "Context": "In the process of evaluating plant-based feedstocks for biorefining, certain plants can be subjected to sequential solvent extractions to enrich the extracts with higher metabolite content.",
+        "Question": "Which method was used to detect the occurrence of plant fatty acids, fatty acid alcohols, alkanes, sterols, and terpenoids in Nicotiana glauca?",
+        "A": "High-performance liquid chromatography",
+        "B": "Nuclear magnetic resonance spectroscopy",
+        "C": "Gas liquid chromatography\u2013mass spectrometry",
+        "D": "Infrared spectroscopy",
+        "Answer": "C",
+        "Source": "The occurrence of plant fatty acids, fatty acid alcohols, alkanes, sterols and terpenoids was detected by gas liquid chromatography\u2013mass spectrometry (GC\u2013MS) and metabolite identification was confirmed by comparison of physico\u2011chemical properties displayed by available authentic standards."
+    },
+    "Question_3": {
+        "Context": "The extraction of certain plant materials can lead to the identification and quantification of valuable compounds, which can be used in various industries.",
+        "Question": "Which compound identified in Nicotiana glauca is known for its antibiotic, antioxidant, and cardiac stimulating properties?",
+        "A": "Linoleic acid",
+        "B": "Squalene",
+        "C": "Solanesol",
+        "D": "Hentriacontane",
+        "Answer": "C",
+        "Source": "Solanesol is a naturally occurring triterpene alcohol with recognised antibiotic, antioxidant, and cardiac stimulating properties."
+    },
+    "Question_4": {
+        "Context": "During the extraction process of plant materials, different solvents can be used to target the extraction of specific types of compounds, such as polar or non-polar substances.",
+        "Question": "Which solvent was used in the rapid extraction process to obtain the non-polar extract from Nicotiana glauca leaves?",
+        "A": "Ethanol",
+        "B": "Water",
+        "C": "n-Hexane",
+        "D": "Methanol",
+        "Answer": "C",
+        "Source": "Rapid extraction with n\u2011hexane: non\u2011polar extract 1 Approximately 300 g of dry leaves were placed into a heated double jacket flask with n-hexane (60% purity) and extracted for 10 min at 50 \u00b0C."
+    },
+    "Question_5": {
+        "Context": "The analysis of plant extracts can reveal the presence of various metabolites, including those that are of commercial value.",
+        "Question": "Which metabolite found in Nicotiana glauca leaves is a precursor for the synthesis of coenzyme Q10 and vitamin K analogues?",
+        "A": "Linoleic acid",
+        "B": "Squalene",
+        "C": "Solanesol",
+        "D": "Hentriacontane",
+        "Answer": "C",
+        "Source": "Solanesol is also a source of isoprene units for the synthesis of high-value bio-prod- ucts such as coenzyme Q10, vitamin K analogues."
+    },
+    "Question_6": {
+        "Context": "The composition of plant cell walls is an important factor in determining their suitability for use in biorefining, particularly for the production of fermentable sugars.",
+        "Question": "Which component is the dominant constituent of the cell wall in Nicotiana glauca, as per the study?",
+        "A": "Cellulose",
+        "B": "Hemicellulose",
+        "C": "Lignin",
+        "D": "Pectin",
+        "Answer": "A",
+        "Source": "The compositional cell wall polysaccharide analyses show that the cellulose content in N. glauca is compara- ble to other hardwood species and that the crystallinity of cellulose in N. glauca stems is higher than published data on poplar."
+    },
+    "Question_7": {
+        "Context": "In the context of biorefining, saccharification is a process where complex carbohydrates are broken down into simple sugars, which can then be fermented to produce bioethanol.",
+        "Question": "Which pre-treatment method was found to be most effective for preparing Nicotiana glauca biomass for saccharification?",
+        "A": "Acid pre-treatment",
+        "B": "Alkaline pre-treatment",
+        "C": "Ammonia pre-treatment",
+        "D": "Hot water pre-treatment",
+        "Answer": "D",
+        "Source": "Saccharification analysis showed that glucose release and cellulose con- version in N. glauca stems is higher when a hot water pre-treatment is applied, showing 7% of the cell wall con- verted into glucose."
+    },
+    "Question_8": {
+        "Context": "The extraction of plant materials can yield various fractions, each enriched with different types of compounds depending on the solvent used.",
+        "Question": "What was the most abundant compound in the wax fraction obtained from Nicotiana glauca leaves?",
+        "A": "Nonacosane",
+        "B": "Triacontane",
+        "C": "Hentriacontane",
+        "D": "Tritriacontane",
+        "Answer": "C",
+        "Source": "The profile of this fraction consisted predomi- nantly of long-chain hydrocarbons, such as nonacosane, triacontane, dotriacontane and tritriacontane. Interest- ingly, hentriancontane was by far the most abundant compound."
+    },
+    "Question_9": {
+        "Context": "The identification of metabolites in plant extracts can be performed using various analytical techniques, which can provide information on the presence and concentration of specific compounds.",
+        "Question": "Which analytical technique was used for the quantification of solanesol in Nicotiana glauca?",
+        "A": "Gas chromatography\u2013mass spectrometry",
+        "B": "High-resolution Q-TOF mass spectrometry",
+        "C": "Liquid chromatography\u2013mass spectrometry",
+        "D": "Ultraviolet-visible spectroscopy",
+        "Answer": "B",
+        "Source": "Identification of solanesol was carried out using the high-resolution Q-TOF mass spectrometer UHR\u2013MAXIS on line with UHPLC UltiMate 3000 and equipped with a PDA detector."
+    },
+    "Question_10": {
+        "Context": "In the study of plant metabolites, the relative abundance of compounds can be compared between different extraction methods to determine the most effective technique for compound recovery.",
+        "Question": "Which fatty acid was found in higher recovery rates in the non-polar extract 1 compared to non-polar extract 2 of Nicotiana glauca?",
+        "A": "Hexadecanoic acid",
+        "B": "Linoleic acid",
+        "C": "Linolenic acid",
+        "D": "Tetracosan-1-ol",
+        "Answer": "D",
+        "Source": "Other metabolites such as hexadecanoic acid, phytol, linoleic acid and lino- lenic acid, some isoprenoids and sterols such as squalene, stigmasterol, campesterol and \u03b2-sitosterol were also identified. Although most of the abundant compounds showed higher rela- tive abundances in non-polar extract 2, other metabolites such as tetracosan-1-ol showed improved recovery rates in non-polar extract 1."
+    }
+}

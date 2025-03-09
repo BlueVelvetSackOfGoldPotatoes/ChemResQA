@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses a correction made to an equation in the original manuscript. ",
+        "Question": "What factor was erroneously included in Eq. (50) in the original manuscript?",
+        "A": "\u03c3\u03b1\u03b2",
+        "B": "2\u03b8",
+        "C": "\u03c3\u03b1\u03b3",
+        "D": "cos",
+        "Answer": "B",
+        "Source": "The equation in the original manuscript erroneously included a factor of 2 on theta and read: cos 2\u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    },
+    "Question_2": {
+        "Context": "The paper mentions a correction made to an equation in the original manuscript. ",
+        "Question": "What should the corrected equation read as per the erratum?",
+        "A": "\u03c3\u03b1\u03b2",
+        "B": "cos \u03b8",
+        "C": "2\u03c3\u03b1\u03b2",
+        "D": "\u03c3\u03b1\u03b3",
+        "Answer": "B",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    },
+    "Question_3": {
+        "Context": "The paper discusses a correction made to an equation in the original manuscript. ",
+        "Question": "What term should be removed from Eq. (50) according to the erratum?",
+        "A": "2",
+        "B": "\u03c3\u03b1\u03b3",
+        "C": "\u03c3\u03b1\u03b2",
+        "D": "cos",
+        "Answer": "A",
+        "Source": "The equation in the original manuscript erroneously included a factor of 2 on theta"
+    },
+    "Question_4": {
+        "Context": "The paper mentions the correction of an equation in the original manuscript. ",
+        "Question": "What mathematical function was incorrectly applied in the original equation?",
+        "A": "\u03c3\u03b1\u03b2",
+        "B": "cos",
+        "C": "\u03b8",
+        "D": "\u03c3\u03b1\u03b3",
+        "Answer": "B",
+        "Source": "The equation in the original manuscript erroneously included a factor of 2 on theta and read: cos 2\u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    },
+    "Question_5": {
+        "Context": "The paper discusses a correction made to an equation in the original manuscript. ",
+        "Question": "What is the corrected coefficient for \u03c3\u03b1\u03b3 in the equation?",
+        "A": "2",
+        "B": "\u03c3\u03b1\u03b2",
+        "C": "cos",
+        "D": "\u03b8",
+        "Answer": "2",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    },
+    "Question_6": {
+        "Context": "The paper mentions a correction made to an equation in the original manuscript. ",
+        "Question": "What is the correct mathematical expression for the corrected equation?",
+        "A": "cos 2\u03b8",
+        "B": "\u03c3\u03b1\u03b3",
+        "C": "2\u03c3\u03b1\u03b2",
+        "D": "cos \u03b8",
+        "Answer": "D",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    },
+    "Question_7": {
+        "Context": "The paper discusses a correction made to an equation in the original manuscript. ",
+        "Question": "What is the relationship between \u03c3\u03b1\u03b3 and \u03c3\u03b1\u03b2 in the corrected equation?",
+        "A": "\u03c3\u03b1\u03b3 = \u03c3\u03b1\u03b2",
+        "B": "\u03c3\u03b1\u03b3 > \u03c3\u03b1\u03b2",
+        "C": "\u03c3\u03b1\u03b3 < \u03c3\u03b1\u03b2",
+        "D": "\u03c3\u03b1\u03b3 = 2\u03c3\u03b1\u03b2",
+        "Answer": "B",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    },
+    "Question_8": {
+        "Context": "The paper mentions a correction made to an equation in the original manuscript. ",
+        "Question": "What is the correct form of the corrected equation?",
+        "A": "cos 2\u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 2\u03c3\u03b1\u03b2 \u00f01\u00de",
+        "B": "cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 2\u03c3\u03b1\u03b2 \u00f01\u00de",
+        "C": "cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 \u03c3\u03b1\u03b2 \u00f01\u00de",
+        "D": "cos 2\u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 \u03c3\u03b1\u03b2 \u00f01\u00de",
+        "Answer": "B",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    },
+    "Question_9": {
+        "Context": "The paper discusses a correction made to an equation in the original manuscript. ",
+        "Question": "What was the error in the original equation related to?",
+        "A": "\u03c3\u03b1\u03b3",
+        "B": "\u03b8",
+        "C": "\u03c3\u03b1\u03b2",
+        "D": "cos",
+        "Answer": "B",
+        "Source": "The equation in the original manuscript erroneously included a factor of 2 on theta"
+    },
+    "Question_10": {
+        "Context": "The paper mentions the correction of an equation in the original manuscript. ",
+        "Question": "What was the factor that should have been included in the original equation instead of 2\u03b8?",
+        "A": "\u03c3\u03b1\u03b2",
+        "B": "cos",
+        "C": "\u03b8",
+        "D": "\u03c3\u03b1\u03b3",
+        "Answer": "C",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "An increase in dietary iron intake can affect the availability and regulation of other essential minerals in the body.",
+        "Question": "What is a potential consequence of a significant increase in dietary iron intake?",
+        "A": "Enhanced copper absorption",
+        "B": "Systemic copper deficiency",
+        "C": "Increased serum alkaline phosphate levels",
+        "D": "Decreased serum cholesterol levels",
+        "Answer": "B",
+        "Source": "a significant increase in dietary iron intake disrupts the regulation of copper availability, ultimately leading to systemic copper deficiency."
+    },
+    "Question_2": {
+        "Context": "Iron plays a crucial role in various physiological processes, and both its deficiency and overload can lead to different pathological disturbances.",
+        "Question": "Which condition is a result of prolonged iron deficiency?",
+        "A": "Insulin resistance",
+        "B": "Anemia",
+        "C": "Joint pain",
+        "D": "Hemochromatosis",
+        "Answer": "B",
+        "Source": "Prolonged iron deficiency can trigger conditions such as anemia, fatigue, weakness, and pica."
+    },
+    "Question_3": {
+        "Context": "Iron overload in the body can lead to various symptoms due to the accumulation of excess iron in tissues.",
+        "Question": "What is a symptom associated with iron overload?",
+        "A": "Fatigue",
+        "B": "Weakness",
+        "C": "Joint pain",
+        "D": "Pica",
+        "Answer": "C",
+        "Source": "Iron overload leads to the accumulation of excess iron in tissues and can result in symptoms such as joint pain."
+    },
+    "Question_4": {
+        "Context": "Copper is an essential mineral that plays a vital role in several physiological functions and its deficiency or overload can cause significant health issues.",
+        "Question": "Which disorder is associated with copper deficiency?",
+        "A": "Wilson's disease",
+        "B": "Menkes disease",
+        "C": "Hemochromatosis",
+        "D": "Insulin resistance",
+        "Answer": "B",
+        "Source": "Genetic disorders such as Menkes disease (associated with copper deficiency) and Wilson\u2019s disease (linked to copper overload) are caused by the dysregulation of copper-transporting ATPases in the cellular trans-Golgi network."
+    },
+    "Question_5": {
+        "Context": "Both iron and copper are absorbed in the small intestine and undergo a reduction process before being utilized by the body.",
+        "Question": "Where in the body are both dietary iron and copper absorbed?",
+        "A": "Large intestine",
+        "B": "Stomach",
+        "C": "Small intestine",
+        "D": "Liver",
+        "Answer": "C",
+        "Source": "Both dietary iron and copper are absorbed in the small intestine, within the brush border of small intestinal epithelial cells, and both minerals must undergo a reduction process."
+    },
+    "Question_6": {
+        "Context": "The relationship between iron and copper in the body is reciprocal, and their levels can influence each other under certain conditions.",
+        "Question": "What happens to copper levels in the liver under iron deficiency conditions?",
+        "A": "Copper levels decrease",
+        "B": "Copper levels remain unchanged",
+        "C": "Copper levels increase",
+        "D": "Copper is excreted",
+        "Answer": "C",
+        "Source": "Under iron deficiency conditions, copper accumulates in the liver to assist in iron utilization."
+    },
+    "Question_7": {
+        "Context": "Copper and iron are both involved in enzymatic reactions and act as cofactors in electron donation and withdrawal.",
+        "Question": "What role do copper and iron play in enzymatic reactions?",
+        "A": "They act as inhibitors",
+        "B": "They act as cofactors in electron donation and withdrawal",
+        "C": "They act as primary substrates",
+        "D": "They act as secondary messengers",
+        "Answer": "B",
+        "Source": "Both divalent minerals act as cofactors in numerous enzymatic reactions and participate in electron donation and withdrawal."
+    },
+    "Question_8": {
+        "Context": "Excessive dietary intake of iron can lead to various physiological disturbances, including effects on erythropoiesis.",
+        "Question": "What is a consequence of excessive dietary iron intake on erythropoiesis?",
+        "A": "Decreased erythropoietin levels",
+        "B": "Increased hemoglobin levels",
+        "C": "Increased erythropoietic demand",
+        "D": "Reduced tissue copper levels",
+        "Answer": "C",
+        "Source": "Excessive dietary iron intake results in growth retardation, increased erythropoietic demand (with decreased hemoglobin levels and elevated erythropoietin levels)."
+    },
+    "Question_9": {
+        "Context": "The balance of iron in the body is regulated through various mechanisms, including the expression of certain genes in response to iron levels.",
+        "Question": "Which gene expression is upregulated in response to high levels of dietary iron?",
+        "A": "ATP7A",
+        "B": "ATP7B",
+        "C": "Hepcidin",
+        "D": "Ferroportin 1",
+        "Answer": "C",
+        "Source": "In the presence of excess iron, hepatic hepcidin levels increase, further inhibiting intestinal iron absorption and/or macrophage iron recycling by suppressing the expression of ferroportin 1, an iron exporter."
+    },
+    "Question_10": {
+        "Context": "The physiological disturbances caused by high dietary iron can be mitigated by adjusting the levels of other minerals in the diet.",
+        "Question": "How can the physiological disturbances caused by a high-iron diet be prevented?",
+        "A": "By reducing dietary protein intake",
+        "B": "By increasing dietary copper intake",
+        "C": "By increasing dietary calcium intake",
+        "D": "By reducing dietary carbohydrate intake",
+        "Answer": "B",
+        "Source": "However, the physiological disturbances caused by a high\u2011iron diet were prevented when additional copper was included in the rodent diet."
+    }
+}

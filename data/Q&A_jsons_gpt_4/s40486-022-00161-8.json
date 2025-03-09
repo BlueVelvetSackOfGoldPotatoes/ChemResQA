@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of neural interfaces, the immune response to invasive neural interfaces is a significant challenge. Researchers aim to minimize this immune response by various methods, including the direct injection of anti-inflammatory reagents to the brain.",
+        "Question": "What is one method to minimize the immune response to invasive neural interfaces?",
+        "A": "Using larger electrodes",
+        "B": "Direct injection of anti-inflammatory reagents to the brain",
+        "C": "Decreasing the number of neural interfaces",
+        "D": "Applying a hydrophilic coating",
+        "Answer": "B",
+        "Source": "Various efforts have been made to overcome the immune response induced by the implantation of neural interfaces, such as modifying the designs and materials of neural interfaces, modifying surface characteristics, and adding functions to them. In particular, direct injection of anti-inflammatory reagents to the brain can minimize the effect of the blood\u2013brain barrier (BBB) and blood\u2013cerebrospinal fluid barrier (BCB)."
+    },
+    "Question_2": {
+        "Context": "Microfluidic channels are integrated with neural interfaces to enable precise and stable delivery of drugs, potentially reducing immune responses or providing chemical stimulation.",
+        "Question": "What is the purpose of integrating microfluidic channels with neural interfaces?",
+        "A": "To increase the size of neural interfaces",
+        "B": "To enable wireless data transmission",
+        "C": "To provide precise and stable drug delivery",
+        "D": "To enhance the electrical conductivity of neural interfaces",
+        "Answer": "C",
+        "Source": "Microfluidic channels integrated with a neural interface enable precise and stable delivery of even a minimal amount of drugs for reducing immune responses or providing chemical stimulation."
+    },
+    "Question_3": {
+        "Context": "Parylene-C is a material known for its biocompatibility and flexibility, making it suitable for applications such as microfluidic channels in neural interfaces.",
+        "Question": "Why is parylene-C used in the fabrication of microfluidic channels for neural interfaces?",
+        "A": "For its magnetic properties",
+        "B": "For its electrical insulation",
+        "C": "For its biocompatibility and flexibility",
+        "D": "For its optical transparency",
+        "Answer": "C",
+        "Source": "The microfluidic flexible interconnection cable was fabricated based on parylene-C, a biocompatible and highly flexible material."
+    },
+    "Question_4": {
+        "Context": "In the design of microfluidic channels, the flow rate of fluids can be influenced by the size of the outlet and the alignment of microstructures within the channel.",
+        "Question": "Which factors are known to affect the fluid flow rate in microfluidic channels?",
+        "A": "The color and transparency of the channel",
+        "B": "The size of the outlet and the alignment of microstructures",
+        "C": "The electrical conductivity of the fluid",
+        "D": "The temperature of the surrounding environment",
+        "Answer": "B",
+        "Source": "The simulation results indicated that the fluid flow depended on the size of the outlet and the alignment of microstructures inside the fluidic channel."
+    },
+    "Question_5": {
+        "Context": "The design of microfluidic channels can include crater-shaped structures which are beneficial in maintaining the channel shape and preventing collapse.",
+        "Question": "What is the advantage of including crater-shaped structures in the design of microfluidic channels?",
+        "A": "To enhance the aesthetic appeal",
+        "B": "To increase the electrical resistance",
+        "C": "To prevent the channel from collapsing",
+        "D": "To reduce the biocompatibility",
+        "Answer": "C",
+        "Source": "However, the crater-shaped structures were advantageous in maintaining the shape of the fluidic channel unblocked because these structures supported the upper layer of the channel to prevent its collapse."
+    },
+    "Question_6": {
+        "Context": "The flow rate of fluids in microfluidic channels can be calculated based on the simulation results, which take into account factors such as the size of the outlet and the inner structures.",
+        "Question": "How is the flow rate of fluids in microfluidic channels typically determined?",
+        "A": "By measuring the color intensity of the fluid",
+        "B": "By the weight of the fluid",
+        "C": "By calculating based on simulation results",
+        "D": "By the pH level of the fluid",
+        "Answer": "C",
+        "Source": "The flow rate was calculated based on the simulation results."
+    },
+    "Question_7": {
+        "Context": "In the context of drug delivery to the brain, the flow rate of the drug delivery system must be compatible with the cerebrospinal fluid (CSF) reproduction rate to avoid overloading the system.",
+        "Question": "Why must the flow rate of a drug delivery system to the brain be considered in relation to the CSF reproduction rate?",
+        "A": "To prevent electrical interference with brain signals",
+        "B": "To ensure compatibility with the CSF reproduction rate",
+        "C": "To increase the speed of drug delivery",
+        "D": "To reduce the cost of the drug delivery system",
+        "Answer": "B",
+        "Source": "The desired design values take into account the reproduction rate of CSF. The outlet radius of 0.02 mm seems too small flow rate, and 0.15 mm is too large. The outlet size of 0.1 mm is estimated as most appropriate."
+    },
+    "Question_8": {
+        "Context": "The design of microfluidic channels for neural interfaces must consider the trade-off between flow rate and the volume of fluid that the channel can contain.",
+        "Question": "What is a critical design consideration for microfluidic channels in neural interfaces?",
+        "A": "The trade-off between flow rate and fluid volume containment",
+        "B": "The color coordination with neural tissues",
+        "C": "The sound produced by fluid flow",
+        "D": "The taste of the fluid being delivered",
+        "Answer": "A",
+        "Source": "The larger inner structures, however, reduced the fluid volume that can be contained in the microfluidic channel, which imposes a trade-off relation."
+    },
+    "Question_9": {
+        "Context": "The robustness of a microfluidic channel design is important for maintaining its shape under physical stress, such as when the device is bent or folded.",
+        "Question": "Why is the robustness of a microfluidic channel design important?",
+        "A": "To ensure it can withstand high temperatures",
+        "B": "To maintain its shape under physical stress",
+        "C": "To allow for color changes in the fluid",
+        "D": "To increase the electrical conductivity",
+        "Answer": "B",
+        "Source": "Although the average velocity in the inline channel was slower than in the zigzag channel, the zigzag channel was more robust in maintaining its shape when the \u03bcFIC was bent or folded."
+    },
+    "Question_10": {
+        "Context": "The use of photoresist reflow technique in the fabrication of microfluidic channels can result in smoother crater-shaped structures, which can be advantageous for membrane deposition and fluid flow.",
+        "Question": "What is the benefit of using the photoresist reflow technique in the fabrication of microfluidic channels?",
+        "A": "To create a more complex circuit design",
+        "B": "To generate a magnetic field within the channel",
+        "C": "To produce smoother crater-shaped structures",
+        "D": "To increase the opacity of the channel",
+        "Answer": "C",
+        "Source": "The PR pattern was smoothed after the thermal treatment. The crater-shaped structures were formed, and then the shape was confirmed using the surface profile measurement. A rounded edge was considered more advantageous for membrane deposition and fluid flow than sharp edges."
+    }
+}

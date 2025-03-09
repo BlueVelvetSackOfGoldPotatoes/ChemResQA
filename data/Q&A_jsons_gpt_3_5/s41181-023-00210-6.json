@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study evaluated a radiotracer for imaging liver fibrogenesis. In vitro specificity studies were conducted.",
+        "Question": "What was the affinity of the trans-Cyclooctenes (TCO) conjugated Z09591 Affibody molecule for human PDGFR\u03b2?",
+        "A": "Nanomolar",
+        "B": "Picomolar",
+        "C": "Millimolar",
+        "D": "Femtomolar",
+        "Answer": "B",
+        "Source": "Biodistribution performed on healthy rats showed rapid clearance of [18F]TZ-Z09591 through the kidneys and low liver background uptake."
+    },
+    "Question_2": {
+        "Context": "The study aimed to evaluate a fluorine-18 radiolabeled Affibody molecule as a PET tracer for imaging liver fibrogenesis.",
+        "Question": "What was the specific tracer evaluated for fibrogenic cells in the fibrotic liver?",
+        "A": "[18F]MeTz",
+        "B": "[18F]F-Py-TFP",
+        "C": "[18F]TZ-Z09591",
+        "D": "[111In]DOTA-Z09591",
+        "Answer": "C",
+        "Source": "Our study highlights [18F]TZ-Z09591 as a specific tracer for fibrogenic cells in the fibrotic liver."
+    },
+    "Question_3": {
+        "Context": "The study conducted autoradiography studies on fibrotic livers from mice or humans.",
+        "Question": "What did the ex vivo biodistribution and autoradiography reveal about [18F]TZ-Z09591 binding in the liver?",
+        "A": "Decreased in fibrotic livers",
+        "B": "No difference in fibrotic livers",
+        "C": "Increased in fibrotic livers",
+        "D": "No binding in fibrotic scars",
+        "Answer": "C",
+        "Source": "Ex vivo biodistribution and ARG revealed that [18F]TZ-Z09591 binding in the liver was increased in fibrotic livers."
+    },
+    "Question_4": {
+        "Context": "The study involved cell culturing of PDGFR\u03b2 positive U-87 human glioblastoma cells.",
+        "Question": "What was used as a negative control in the cell binding studies?",
+        "A": "U-87 cells",
+        "B": "K-562 cells",
+        "C": "Fibrotic liver cells",
+        "D": "Healthy liver cells",
+        "Answer": "B",
+        "Source": "In vitro ARG of K-562 and U-87 cells showed that [18F]TZ-Z09591 uptake was detectable in U-87 cells expressing the target PDGFR\u03b2, while no uptake was visible in K-562 cells not expressing it."
+    },
+    "Question_5": {
+        "Context": "The study performed radiochemistry to label the Affibody molecule with fluorine-18.",
+        "Question": "What was the radiochemical purity of [18F]MeTz?",
+        "A": "80%",
+        "B": "90%",
+        "C": "95%",
+        "D": "99%",
+        "Answer": "D",
+        "Source": "The radiochemical purity of [18F]MeTz was > 99%."
+    },
+    "Question_6": {
+        "Context": "The study evaluated the in vitro stability of [18F]TZ-Z09591.",
+        "Question": "How stable was [18F]TZ-Z09591 in rat plasma after 3 hours?",
+        "A": "Less than 50% intact",
+        "B": "Around 60% intact",
+        "C": "Around 75% intact",
+        "D": "More than 85% intact",
+        "Answer": "D",
+        "Source": "In plasma, no increase in decomposition was observed compared to that in PBS. A purity of approximately 90% was observed after 3h."
+    },
+    "Question_7": {
+        "Context": "The study conducted ex vivo biodistribution in healthy rats injected with [18F]TZ-Z09591.",
+        "Question": "Which organ showed high uptake at an early time point but decreased uptake over time?",
+        "A": "Kidneys",
+        "B": "Liver",
+        "C": "Spleen",
+        "D": "Heart",
+        "Answer": "B",
+        "Source": "Liver uptake was high at an early time with a SUV of 4,07 at 5 min. However, the liver uptake decreased with time."
+    },
+    "Question_8": {
+        "Context": "The study evaluated [18F]TZ-Z09591 in a preclinical liver fibrosis model.",
+        "Question": "What was the observed effect on liver uptake when mice were pretreated with Affibody molecule Z09591?",
+        "A": "Decreased uptake",
+        "B": "Increased uptake",
+        "C": "No effect on uptake",
+        "D": "Complete blocking of uptake",
+        "Answer": "D",
+        "Source": "When mice were pretreated with 40\u00b5g of Affibody molecule Z09591, the uptake decreased significantly."
+    },
+    "Question_9": {
+        "Context": "The study evaluated the potential of [18F]TZ-Z09591 for PET imaging of liver fibrogenesis.",
+        "Question": "What did the ex vivo autoradiography consistently demonstrate in the fibrotic liver?",
+        "A": "Homogeneous pattern of binding",
+        "B": "No binding observed",
+        "C": "Heterogeneous pattern of binding",
+        "D": "Binding only in healthy tissue",
+        "Answer": "C",
+        "Source": "Ex vivo ARG consistently demonstrated heterogeneous patterns of [18F] TZ-Z09591 binding in the fibrotic liver corresponding to fibrotic scars."
+    },
+    "Question_10": {
+        "Context": "The study discussed the potential clinical utility of PET imaging of PDGFR\u03b2 expression using [18F]TZ-Z09591.",
+        "Question": "What was highlighted as a major benefit of PET scans using [18F]TZ-Z09591 for liver fibrosis assessment?",
+        "A": "Low sensitivity",
+        "B": "High cost",
+        "C": "No risk of complications",
+        "D": "Limited availability",
+        "Answer": "C",
+        "Source": "Liver biopsies carry extra cost if complications appear, on average this cost is 4579$, whereas PET scans as a non-invasive technique carry no risk of severe complications."
+    }
+}

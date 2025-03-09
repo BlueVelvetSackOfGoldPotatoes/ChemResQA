@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of a new, automated, accurate, and fast method for ellipse fitting using machine learning. This method is applied to measure fiber orientations in composite materials.",
+        "Question": "What technique is used for image analysis to measure fiber angles in microscopy images?",
+        "A": "Manual corrections",
+        "B": "Threshold algorithm",
+        "C": "Deep learning approach to image segmentation",
+        "D": "Polishing defects",
+        "Answer": "C",
+        "Source": "To enable automatic measurement of fiber angles in microscopy images a deep learning approach to image segmentation was developed using publicly available methods."
+    },
+    "Question_2": {
+        "Context": "The study compares experimental results with numerical simulations for fiber orientation in a high fiber volume content SMC. The simulations are based on two different numerical approaches.",
+        "Question": "Which numerical approach predicts the largest randomness in fiber orientation at the outer edges of the circular disk?",
+        "A": "3D CFD approach",
+        "B": "3DTimon simulations",
+        "C": "Ansys CFX simulations",
+        "D": "Direct Fiber Simulation (DFS)",
+        "Answer": "B",
+        "Source": "For the studied case, comparison between the experimental results and numerical methods indicate that simulations with 3D Timon show the largest randomness in principal and perpendicular flow direction, and hence less difference when compared to experiments at the outer edges of the circular disk."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the experimental setup for measuring fiber orientations in composite materials using the Method of Ellipses.",
+        "Question": "What is used to determine the orientation angles of each fiber in the Method of Ellipses?",
+        "A": "Major axis length",
+        "B": "Minor axis length",
+        "C": "Fiber length",
+        "D": "Diameter",
+        "Answer": "A",
+        "Source": "The fibers\u2019 cross sections are fitted to ellipses followed by geometrical measurements of the major axis \u201ca\u201d and minor axis \u201cb\u201d length, which are used to determine the orientation angles of each fiber."
+    },
+    "Question_4": {
+        "Context": "The study compares numerical simulations with experimental results for fiber orientation in a high fiber volume content SMC. The simulations are based on two different numerical approaches.",
+        "Question": "Which numerical approach predicts essentially no out-of-plane fiber orientation?",
+        "A": "3D CFD approach",
+        "B": "3DTimon simulations",
+        "C": "Ansys CFX simulations",
+        "D": "Direct Fiber Simulation (DFS)",
+        "Answer": "B",
+        "Source": "For the out-of-plane component, a33, the 3D CFD approach and the experiments give results in the same direction, while 3DTimon predicts essentially no out-of-plane orientation whatsoever."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the experimental setup for measuring fiber orientations in composite materials using the Method of Ellipses.",
+        "Question": "What is used to describe the alignment with the principal axes of each fiber in the Method of Ellipses?",
+        "A": "Orientation tensors",
+        "B": "Probability distribution function",
+        "C": "Vector p",
+        "D": "Weighing function F",
+        "Answer": "B",
+        "Source": "The orientation state of each fiber can be described by a probability distribution function \u03a8 (\u03b8, \u03c6), such that"
+    },
+    "Question_6": {
+        "Context": "The study compares experimental results with numerical simulations for fiber orientation in a high fiber volume content SMC. The simulations are based on two different numerical approaches.",
+        "Question": "Which numerical approach predicts the largest resemblance with the experimental out-of-plane component?",
+        "A": "3D CFD approach",
+        "B": "3DTimon simulations",
+        "C": "Ansys CFX simulations",
+        "D": "Direct Fiber Simulation (DFS)",
+        "Answer": "A",
+        "Source": "The 3D CFD approach shows larger resemblance with the experimental out-of-plane component."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the experimental setup for measuring fiber orientations in composite materials using the Method of Ellipses.",
+        "Question": "What is used to compensate for visual bias in the calculation of the average components of the orientation tensor?",
+        "A": "Major axis length",
+        "B": "Minor axis length",
+        "C": "Fiber length",
+        "D": "Weighing function F",
+        "Answer": "D",
+        "Source": "A weighing function F is used to compensate for this visual bias in the calculation of the average components of the orientation tensor."
+    },
+    "Question_8": {
+        "Context": "The study compares numerical simulations with experimental results for fiber orientation in a high fiber volume content SMC. The simulations are based on two different numerical approaches.",
+        "Question": "Which numerical approach predicts the largest alignment with the flow direction?",
+        "A": "3D CFD approach",
+        "B": "3DTimon simulations",
+        "C": "Ansys CFX simulations",
+        "D": "Direct Fiber Simulation (DFS)",
+        "Answer": "C",
+        "Source": "The Advani-Tucker approach in the 3D CFD case suggests that the fibres will align with the flow direction."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the experimental setup for measuring fiber orientations in composite materials using the Method of Ellipses.",
+        "Question": "What is used to describe the alignment with the principal axes of each fiber in the Method of Ellipses?",
+        "A": "Orientation tensors",
+        "B": "Probability distribution function",
+        "C": "Vector p",
+        "D": "Weighing function F",
+        "Answer": "A",
+        "Source": "Orientation tensors are used to describe the alignment with the principal axes."
+    },
+    "Question_10": {
+        "Context": "The study compares experimental results with numerical simulations for fiber orientation in a high fiber volume content SMC. The simulations are based on two different numerical approaches.",
+        "Question": "Which numerical approach predicts the largest randomness in fiber orientation at the outer edges of the circular disk?",
+        "A": "3D CFD approach",
+        "B": "3DTimon simulations",
+        "C": "Ansys CFX simulations",
+        "D": "Direct Fiber Simulation (DFS)",
+        "Answer": "B",
+        "Source": "For the studied case, comparison between the experimental results and numerical methods indicate that simulations with 3D Timon show the largest randomness in principal and perpendicular flow direction, and hence less difference when compared to experiments at the outer edges of the circular disk."
+    }
+}

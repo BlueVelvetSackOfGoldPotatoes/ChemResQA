@@ -1,0 +1,174 @@
+{
+    "zero-shot-classification": [
+        {
+            "model_name": "facebook/bart-large-mnli",
+            "correct": 4590,
+            "wrong": 13770,
+            "unparsable": 0
+        },
+        {
+            "model_name": "cross-encoder/nli-roberta-base",
+            "correct": 4590,
+            "wrong": 13770,
+            "unparsable": 0
+        },
+        {
+            "model_name": "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "cointegrated/rubert-base-cased-nli-threeway",
+            "correct": 4590,
+            "wrong": 13770,
+            "unparsable": 0
+        },
+        {
+            "model_name": "cross-encoder/nli-deberta-v3-large",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "sileod/deberta-v3-small-tasksource-nli",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "cross-encoder/nli-deberta-base",
+            "correct": 4590,
+            "wrong": 13770,
+            "unparsable": 0
+        },
+        {
+            "model_name": "cross-encoder/nli-distilroberta-base",
+            "correct": 4590,
+            "wrong": 13770,
+            "unparsable": 0
+        },
+        {
+            "model_name": "MoritzLaurer/deberta-v3-base-zeroshot-v1.1-all-33",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        }
+    ],
+    "text-generation": [
+        {
+            "model_name": "CHE-72-ZLab/Alibaba-Qwen2-7B-Instruct-GGUF",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "TheBloke/Mistral-7B-Claude-Chat-GGUF",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "TheBloke/Llama-2-70B-Chat-GGUF",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-GGUF",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "mistralai/Mistral-7B-Instruct-v0.2",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "google/gemma-2-9b",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "google/gemma-2-27b",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "facebook/opt-125m",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "meta-llama/Meta-Llama-3-8B-Instruct",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "meta-llama/Llama-2-13b-chat-hf",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "Qwen/Qwen-VL-Chat",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "petals-team/StableBeluga2",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "tiiuae/falcon-7b-instruct",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "meta-llama/Llama-2-7b-hf",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "microsoft/Phi-3-mini-128k-instruct",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        },
+        {
+            "model_name": "meta-llama/Meta-Llama-3-8B",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 0
+        }
+    ]
+}

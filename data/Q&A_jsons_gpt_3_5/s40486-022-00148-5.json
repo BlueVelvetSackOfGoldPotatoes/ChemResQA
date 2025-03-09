@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of a surrogate model for optimizing the annealing duration of self-assembled membrane-cavity structures. It mentions that the hole radius dominantly affects annealing duration.",
+        "Question": "What variable dominantly affects the annealing duration of self-assembled membrane-cavity structures?",
+        "A": "Aspect ratio",
+        "B": "Normalized spacing",
+        "C": "Temperature elevation",
+        "D": "Hole radius",
+        "Answer": "D",
+        "Source": "the hole radius dominantly affects annealing duration"
+    },
+    "Question_2": {
+        "Context": "The paper describes the phase-field model used to simulate the surface diffusion of silicon and the merge of silicon or cavities during high-temperature annealing.",
+        "Question": "What model is employed to simulate the surface diffusion of silicon during high-temperature annealing?",
+        "A": "Finite Element Analysis (FEA)",
+        "B": "Cahn\u2013Hilliard equation",
+        "C": "Mullins\u2013Herring equation",
+        "D": "Neural network",
+        "Answer": "B",
+        "Source": "The phase-field model in COMSOL Multiphysics is in the form of the Cahn\u2013Hilliard equation"
+    },
+    "Question_3": {
+        "Context": "The paper discusses the properties of silicon used in the simulation, including the diffusion coefficient, surface tension, number of atoms per unit area, and atomic volume.",
+        "Question": "Which property of silicon is represented by the diffusion coefficient?",
+        "A": "Surface tension",
+        "B": "Atomic volume",
+        "C": "Number of atoms per unit area",
+        "D": "Diffusion rate",
+        "Answer": "D",
+        "Source": "Ds(m2/s) Diffusion coefficient"
+    },
+    "Question_4": {
+        "Context": "The paper mentions the use of a two-dimensional axisymmetric model for a single hole to achieve a reasonable computational cost for data sampling.",
+        "Question": "What type of model is employed to represent a single hole in the simulation?",
+        "A": "Three-dimensional model",
+        "B": "One-dimensional model",
+        "C": "Axisymmetric model",
+        "D": "Neural network model",
+        "Answer": "C",
+        "Source": "a two-dimensional axisymmetric model of a single hole is employed"
+    },
+    "Question_5": {
+        "Context": "The paper discusses the sensitivity analysis of annealing duration to three variables: radius, aspect ratio, and normalized spacing of hole arrays.",
+        "Question": "Which variable shows the least sensitivity in the sensitivity analysis of annealing duration?",
+        "A": "Radius",
+        "B": "Aspect ratio",
+        "C": "Normalized spacing",
+        "D": "Temperature elevation",
+        "Answer": "C",
+        "Source": "the sensitivity of annealing duration to hole dimensions is analyzed using the established surrogate model from the neural network as well as simulation results"
+    },
+    "Question_6": {
+        "Context": "The paper mentions the use of a neural network with two layers and ten nodes to train the obtained results that have an annealing duration of less than 30 times the reference time.",
+        "Question": "How many layers does the neural network used in the study have?",
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four",
+        "Answer": "B",
+        "Source": "the obtained results that have the annealing duration of less than 30 times of tr are then trained using a neural network with two layers and ten nodes"
+    },
+    "Question_7": {
+        "Context": "The paper discusses the use of a Latin-Hypercube sampling method to obtain 200 sampling points within specified ranges for the parametric study.",
+        "Question": "What method is used to obtain 200 sampling points for the parametric study?",
+        "A": "Monte Carlo method",
+        "B": "Gaussian sampling",
+        "C": "Latin-Hypercube sampling",
+        "D": "Random sampling",
+        "Answer": "C",
+        "Source": "The 200 sampling points are obtained using the Latin-Hypercube (LH) sampling method"
+    },
+    "Question_8": {
+        "Context": "The paper mentions the employment of a transient solver for the simulation with results obtained every 100 seconds for a total simulation time of 6000 seconds.",
+        "Question": "How often are the results obtained during the simulation?",
+        "A": "Every 50 seconds",
+        "B": "Every 75 seconds",
+        "C": "Every 100 seconds",
+        "D": "Every 200 seconds",
+        "Answer": "C",
+        "Source": "The transient results are obtained every 100 seconds for t = 30 \u00d7 tr = 6000 s"
+    },
+    "Question_9": {
+        "Context": "The paper discusses the use of a full three-dimensional model to establish a surrogate model for optimizing the annealing duration of self-assembled membrane-cavity structures.",
+        "Question": "What is employed to achieve a reasonable computational cost for data sampling in the study?",
+        "A": "Three-dimensional model",
+        "B": "Two-dimensional model",
+        "C": "Axisymmetric model",
+        "D": "Neural network model",
+        "Answer": "B",
+        "Source": "A two-dimensional axisymmetric model of a single hole is employed to achieve a reasonable computational cost for the data sampling to build a surrogate model"
+    },
+    "Question_10": {
+        "Context": "The paper mentions the use of a commercial FEM software and a neural network to establish a surrogate model for optimizing the annealing duration of self-assembled membrane-cavity structures.",
+        "Question": "What is employed to establish a surrogate model for optimizing the annealing duration in the study?",
+        "A": "Finite Element Analysis (FEA) software",
+        "B": "Neural network",
+        "C": "Machine learning algorithm",
+        "D": "Phase-field model",
+        "Answer": "B",
+        "Source": "The scheme to build a surrogate model of annealing duration is proposed using commercial FEM software and a neural network"
+    }
+}

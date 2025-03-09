@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In molecular enzyme engineering, multi-enzyme complexes are assembled to enhance the efficiency of biosynthetic pathways.",
+        "Question": "What is the primary purpose of designing multi-enzyme complexes based on scaffold proteins?",
+        "A": "To decrease the production of enzyme cascades",
+        "B": "To increase the production of enzyme cascades",
+        "C": "To study the genetic variations in enzymes",
+        "D": "To reduce the stability of biosynthetic pathways",
+        "Answer": "B",
+        "Source": "Multi-enzyme complexes designed based on scaffold proteins are a current topic in molecular enzyme engineering. They have been gradually applied to increase the production of enzyme cascades, thereby achieving effective biosynthetic pathways."
+    },
+    "Question_2": {
+        "Context": "The catalytic efficiency of multi-enzyme complexes is influenced by factors such as spatial orientation and the presence of linkers.",
+        "Question": "Which factor is NOT considered to influence the catalytic efficiency of multi-enzyme complexes?",
+        "A": "Number of enzymes",
+        "B": "Spatial orientation",
+        "C": "Temperature of the reaction",
+        "D": "Linker flexibility",
+        "Answer": "C",
+        "Source": "The catalytic efficiency of the cascade enzyme reaction in the multi-enzyme complex is influenced by various factors, such as the number of enzymes, spatial orientation, arrangement sequence, and linker."
+    },
+    "Question_3": {
+        "Context": "In enzyme engineering, fusion proteins can be created to form substrate channels that improve catalytic efficiency.",
+        "Question": "What is a benefit of forming substrate channels in space using protein fusion technology?",
+        "A": "Increasing substrate diffusion",
+        "B": "Reducing substrate diffusion",
+        "C": "Enhancing by-product generation",
+        "D": "Decreasing overall catalytic efficiency",
+        "Answer": "B",
+        "Source": "Protein fusion technology enables the enzyme to form substrate channels in space, reducing substrate diffusion and by-product generation while improving the overall catalytic efficiency of the enzyme."
+    },
+    "Question_4": {
+        "Context": "Compartmentalization is a strategy used by organisms to manipulate multi-enzyme reactions.",
+        "Question": "What is the purpose of compartmentalization in multi-enzyme reactions?",
+        "A": "To increase the permeability of enzymes",
+        "B": "To enhance the concentration of unstable intermediates",
+        "C": "To reduce the stability of enzyme systems",
+        "D": "To promote protease activity",
+        "Answer": "B",
+        "Source": "Compartmentalization involves isolating multi-enzymes or enzyme systems with tandem reaction features in a compartment through a semi-permeable membrane. The semi-permeable membrane evolved for compartmentalization to inhibit protease and toxic chemical external attack, ensuring that multi-enzyme reactions could proceed stably and controllably."
+    },
+    "Question_5": {
+        "Context": "Substrate channeling is a phenomenon observed in multi-enzyme complexes that enhances catalytic efficiency.",
+        "Question": "What is the substrate channel effect in multi-enzyme complexes?",
+        "A": "A process where the product of an enzyme is directly transferred to the adjacent cascade enzyme",
+        "B": "A process where the product of an enzyme is stored before being transferred to the next enzyme",
+        "C": "A process where the product of an enzyme is diluted in the solution before reaching the next enzyme",
+        "D": "A process where the product of an enzyme is degraded before reaching the next enzyme",
+        "Answer": "A",
+        "Source": "The substrate channel effect is a process in which the product of an enzyme is directly transferred to the adjacent cascade enzyme. It is not restricted by equilibrium, and the catalytic efficiency of the cascade enzyme is significantly high."
+    },
+    "Question_6": {
+        "Context": "Enzyme immobilization is a technique used to improve enzyme stability and reusability.",
+        "Question": "Which method is NOT a strategy for enzyme immobilization?",
+        "A": "Affinity tags",
+        "B": "DNA scaffolds",
+        "C": "Protein scaffolds",
+        "D": "Random mutation",
+        "Answer": "D",
+        "Source": "Affinity tags, DNA scaffolds, and protein scaffolds have been used for selective immobilization of proteins."
+    },
+    "Question_7": {
+        "Context": "The SpyTag/SpyCatcher system is a method for creating covalent bonds between protein components.",
+        "Question": "What is the basis of the SpyTag/SpyCatcher system used in multi-enzyme systems?",
+        "A": "Hydrophobic interactions",
+        "B": "Ionic bonds",
+        "C": "Covalent bonds",
+        "D": "Hydrogen bonds",
+        "Answer": "C",
+        "Source": "The SpyTag/SpyCatcher system derives from the CnaB2 domain, where Asp117 on SpyTag and Lys31 on SpyCatcher can spontaneously form covalent bonds combining protein assembly and chemical reactions that are genetically encoded chemical reactions."
+    },
+    "Question_8": {
+        "Context": "Fusion proteins are created by connecting two or more protein domains to achieve multifunctionality.",
+        "Question": "Which of the following is a method used to construct fusion proteins?",
+        "A": "End-to-end fusion",
+        "B": "Protein degradation",
+        "C": "Enzyme inhibition",
+        "D": "Substrate depletion",
+        "Answer": "A",
+        "Source": "There are mainly four ways to construct fusion proteins: end-to-end fusion, insertional fusion, branched fusion, and linker fusion."
+    },
+    "Question_9": {
+        "Context": "Linkers play a crucial role in the construction of fusion proteins.",
+        "Question": "What is the function of a linker in the construction of fusion proteins?",
+        "A": "To decrease the stability of the protein",
+        "B": "To act as a bridge between different domains",
+        "C": "To inhibit the biological activity of the protein",
+        "D": "To prevent the protein from being expressed",
+        "Answer": "B",
+        "Source": "A suitable linker can provide a stable connection of fusion proteins without disturbing their original biological activity or interactions, proving highly valuable in their construction, expression, stability, solubility, and biological activity."
+    },
+    "Question_10": {
+        "Context": "Protein scaffolds can be used to assemble multi-enzyme complexes for enhanced catalytic efficiency.",
+        "Question": "What is a major advantage of using protein scaffolds for assembling multi-enzyme complexes?",
+        "A": "They require less genetic engineering",
+        "B": "They can easily target the entire complex to specific locations",
+        "C": "They are less effective than DNA scaffolds",
+        "D": "They do not allow control over spatial organization",
+        "Answer": "B",
+        "Source": "A major advantage of protein scaffolds is that they can easily target the entire complex to specific locations. This is usually achieved by adding a localization tag to the scaffold protein."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on identifying functional OMTs involved in the formation of methoxyflavonoids in orange plants. CsOMT16 was one of the CsOMTs examined for its OMT activity with flavonoid substrates.",
+        "Question": "Which CsOMT catalyzed the regiospecific 3\u2019\u2011O\u2011methylation of flavonoids?",
+        "A": "CsOMT15",
+        "B": "CsOMT16",
+        "C": "CsOMT30",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "Of the examined CsOMTs, CsOMT16 catalyzed the regiospecific 3\u2019\u2011O\u2011methylation of flavonoids to the respective 3\u2019\u2011methoxyflavonoids."
+    },
+    "Question_2": {
+        "Context": "The study investigated the substrate preferences of CsOMT16 by examining its OMT activity with various flavonoid substrates.",
+        "Question": "Which flavonoid substrate showed the strongest OMT activity with CsOMT16?",
+        "A": "Eriodictyol",
+        "B": "Luteolin",
+        "C": "Quercetin",
+        "D": "Rhamnetin",
+        "Answer": "C",
+        "Source": "CsOMT16 showed the strongest OMT activity toward quercetin among the examined flavonoids."
+    },
+    "Question_3": {
+        "Context": "The study discussed the kinetic parameters of CsOMT16 with different flavonoid substrates to understand its catalytic efficiency.",
+        "Question": "Which flavonoid substrate had the lowest Km value for CsOMT16?",
+        "A": "Eriodictyol",
+        "B": "Luteolin",
+        "C": "Quercetin",
+        "D": "Rhamnetin",
+        "Answer": "D",
+        "Source": "CsOMT16 had the lowest Km value of 0.25 \u00b5M for rhamnetin."
+    },
+    "Question_4": {
+        "Context": "The study evaluated the biotransformation of flavonoids using CsOMT16-transformed E. coli cells to produce 3\u2019-methoxyflavonoids.",
+        "Question": "Which flavonoid substrate was almost consumed within 2 hours by the E. coli cells transformed with CsOMT16?",
+        "A": "Eriodictyol",
+        "B": "Luteolin",
+        "C": "Quercetin",
+        "D": "Rhamnetin",
+        "Answer": "A",
+        "Source": "Eriodictyol was almost consumed by the E. coli cells within 2 hours and was converted to an equivalent amount of homoeriodictyol."
+    },
+    "Question_5": {
+        "Context": "The study highlighted the successful production of 3\u2019-methoxyflavonoids by biotransformation using CsOMT16-transformed E. coli cells.",
+        "Question": "Which 3\u2019-methoxyflavonoid exhibited anti-microbial activities against bacteria and fungi?",
+        "A": "Homoeriodictyol",
+        "B": "Chrysoeriol",
+        "C": "Isorhamnetin",
+        "D": "Rhamnazin",
+        "Answer": "B",
+        "Source": "Chrysoeriol and isorhamnetin exhibit anti-microbial activities against bacteria and fungi."
+    },
+    "Question_6": {
+        "Context": "The study discussed the substrate preferences of CsOMT16 and its ability to catalyze the 3\u2019-O-methylation of flavonoids.",
+        "Question": "Which flavonoid substrate did CsOMT16 show the lowest Vmax value for?",
+        "A": "Eriodictyol",
+        "B": "Luteolin",
+        "C": "Quercetin",
+        "D": "Rhamnetin",
+        "Answer": "D",
+        "Source": "The Vmax value for rhamnetin was the lowest among those for the examined substrates."
+    },
+    "Question_7": {
+        "Context": "The study investigated the regiospecific methylation of flavonoids by CsOMT16 and its application in the biotechnological production of methoxyflavonoids.",
+        "Question": "Which flavonoid substrate did CsOMT16 convert to isorhamnetin?",
+        "A": "Eriodictyol",
+        "B": "Luteolin",
+        "C": "Quercetin",
+        "D": "Rhamnetin",
+        "Answer": "C",
+        "Source": "Quercetin was converted to isorhamnetin by CsOMT16."
+    },
+    "Question_8": {
+        "Context": "The study discussed the production of 3\u2019-methoxyflavonoids using CsOMT16-transformed E. coli cells and their potential applications.",
+        "Question": "Which 3\u2019-methoxyflavonoid has been reported to have anti-cancer, anti-inflammatory, and anti-oxidation activities?",
+        "A": "Homoeriodictyol",
+        "B": "Chrysoeriol",
+        "C": "Isorhamnetin",
+        "D": "Rhamnazin",
+        "Answer": "C",
+        "Source": "Isorhamnetin has been reported to have anti-cancer, anti-inflammatory, and anti-oxidation activities."
+    },
+    "Question_9": {
+        "Context": "The study focused on the biochemical properties of CsOMT16 and its role in the formation of methoxyflavonoids.",
+        "Question": "Which CsOMT was identified as a putative candidate for flavonoid OMT in orange based on phylogenetic relationships and conservation of signature motifs?",
+        "A": "CsOMT15",
+        "B": "CsOMT16",
+        "C": "CsOMT30",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "The phylogenetic relationships with other functional OMTs and the conservation of the signature motifs suggest that CsOMT16 is a putative candidate of FOMTs in orange."
+    },
+    "Question_10": {
+        "Context": "The study investigated the heterologous expression and purification of CsOMTs to examine their biochemical properties.",
+        "Question": "Which CsOMT was successfully expressed in E. coli BL21 cells at 25 \u00b0C of growth temperature by 0.1 mM IPTG?",
+        "A": "CsOMT15",
+        "B": "CsOMT16",
+        "C": "CsOMT30",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "CsOMT16 was successfully expressed in E. coli BL21 cells at 25 \u00b0C of growth temperature by 0.1 mM IPTG."
+    }
+}

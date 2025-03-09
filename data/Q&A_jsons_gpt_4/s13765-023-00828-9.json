@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "RNA interference (RNAi) is a biological process in which RNA molecules inhibit gene expression or translation, by neutralizing targeted mRNA molecules.",
+        "Question": "What is the role of Dicer in the RNAi mechanism?",
+        "A": "It synthesizes double-stranded RNA (dsRNA).",
+        "B": "It processes dsRNA into small interfering RNAs (siRNAs).",
+        "C": "It integrates siRNAs into the RNA-induced silencing complex.",
+        "D": "It degrades the target mRNA.",
+        "Answer": "B",
+        "Source": "In the RNAi mechanism, Dicer processes double-stranded RNA (dsRNA) into smaller entities known as small interfering RNAs (siRNAs)."
+    },
+    "Question_2": {
+        "Context": "RNA-induced silencing complex plays a crucial role in the RNAi mechanism by facilitating the gene silencing process.",
+        "Question": "What is the function of the RNA-induced silencing complex in RNAi?",
+        "A": "It synthesizes siRNAs from dsRNA.",
+        "B": "It amplifies the dsRNA molecules.",
+        "C": "It forms sequence-specific base pairing with complementary regions of the target mRNA.",
+        "D": "It directly synthesizes mRNA.",
+        "Answer": "C",
+        "Source": "These siRNAs subsequently integrate into the RNA-induced silencing complex to form sequence-specific base pairing with complementary regions of the target mRNA."
+    },
+    "Question_3": {
+        "Context": "RNAi technology can be used to target specific genes in organisms, potentially controlling the expression of those genes.",
+        "Question": "What is the outcome of the interaction between siRNAs and target mRNA in RNAi?",
+        "A": "Enhanced expression of the target gene.",
+        "B": "Initiation of the replication process of the target mRNA.",
+        "C": "Initiation of the degradation process of the target mRNA.",
+        "D": "Prevention of the siRNA from binding to the mRNA.",
+        "Answer": "C",
+        "Source": "This interaction effectively initiates the degradation process of the target mRNA."
+    },
+    "Question_4": {
+        "Context": "RNAi technology can be designed to target conserved motifs within gene families to regulate gene expression.",
+        "Question": "Why might targeting conserved motifs with dsRNA be an effective strategy in RNAi?",
+        "A": "Because conserved motifs are unique to each gene, ensuring specific targeting.",
+        "B": "Because conserved motifs are present in multiple members of a gene family, potentially allowing for broader regulation.",
+        "C": "Because conserved motifs are easier to synthesize in the laboratory.",
+        "D": "Because conserved motifs are less likely to mutate over time.",
+        "Answer": "B",
+        "Source": "We designed and synthesized dsRNAs targeting the 'AIMY' and 'GHRHDWE' conserved motifs of PcNLP gene family, which are predicted to be key elements for the expression of NLPs and pathogen infection."
+    },
+    "Question_5": {
+        "Context": "The 'AIMY' and 'GHRHDWE' motifs are conserved sequences found in certain proteins that can be targeted by RNAi.",
+        "Question": "What is the significance of the 'AIMY' and 'GHRHDWE' motifs in the context of RNAi targeting?",
+        "A": "They indicate the presence of a pathogen in the host.",
+        "B": "They are essential for the structural stability of proteins.",
+        "C": "They are key elements for the expression of certain proteins and pathogen infection.",
+        "D": "They are used as markers for successful RNAi.",
+        "Answer": "C",
+        "Source": "We designed and synthesized dsRNAs targeting the 'AIMY' and 'GHRHDWE' conserved motifs of PcNLP gene family, which are predicted to be key elements for the expression of NLPs and pathogen infection."
+    },
+    "Question_6": {
+        "Context": "RNAi can be used to suppress the infection caused by pathogens by targeting specific genes involved in the infection process.",
+        "Question": "What is the expected result of introducing dsRNAs that target pathogen genes into a host organism?",
+        "A": "Increased virulence of the pathogen.",
+        "B": "Suppression of the host's immune response.",
+        "C": "Suppression of pathogen infection.",
+        "D": "Enhanced nutrient absorption by the pathogen.",
+        "Answer": "C",
+        "Source": "After infiltration of dsRNAs targeting the motifs and inoculation with P. capsici, we confirmed a significant suppression of P. capsici infection and downregulation of the PcNLP gene family."
+    },
+    "Question_7": {
+        "Context": "The RNAi pathway can be triggered by the introduction of exogenous dsRNA molecules into a plant's cellular system.",
+        "Question": "What triggers the RNAi gene silencing mechanism in plants?",
+        "A": "The presence of single-stranded RNA.",
+        "B": "The introduction of exogenous double-stranded RNA molecules.",
+        "C": "The activation of Dicer-like endonucleases by light.",
+        "D": "The binding of mRNA to ribosomes.",
+        "Answer": "B",
+        "Source": "Following the exogenous introduction of double-stranded RNA (dsRNA) molecules, the RNAi pathway triggers a gene silencing mechanism."
+    },
+    "Question_8": {
+        "Context": "In the RNAi pathway, siRNAs are incorporated into a protein complex to facilitate gene silencing.",
+        "Question": "Into which protein do siRNAs incorporate to form the RNA-induced silencing complex?",
+        "A": "Dicer",
+        "B": "Polymerase",
+        "C": "Argonaute",
+        "D": "Ligase",
+        "Answer": "C",
+        "Source": "These siRNAs are then incorporated into the Argonaute protein, forming the RNA-induced silencing complex."
+    },
+    "Question_9": {
+        "Context": "The RNAi mechanism involves the cleavage of dsRNA into smaller RNA molecules that can guide gene silencing.",
+        "Question": "What are the smaller RNA entities that Dicer processes dsRNA into called?",
+        "A": "Messenger RNAs (mRNAs)",
+        "B": "Ribosomal RNAs (rRNAs)",
+        "C": "Transfer RNAs (tRNAs)",
+        "D": "Small interfering RNAs (siRNAs)",
+        "Answer": "D",
+        "Source": "In the RNAi mechanism, Dicer processes double-stranded RNA (dsRNA) into smaller entities known as small interfering RNAs (siRNAs)."
+    },
+    "Question_10": {
+        "Context": "RNAi technology can be applied to control plant pathogens by targeting specific genes associated with pathogenicity.",
+        "Question": "What is the role of the 'GHRHDWE' motif in the context of plant pathogens and RNAi?",
+        "A": "It is a requirement for the activity of NLPs and is involved in cavity formation on the protein surface.",
+        "B": "It is a regulatory element for plant growth and development.",
+        "C": "It is a genetic marker for plant resistance to pathogens.",
+        "D": "It is an indicator of the nutritional status of the plant.",
+        "Answer": "A",
+        "Source": "Additionally, the 'GHRHDWE' motif is a requirement for the activity of NLPs. In addition, this motif is critically involved in cavity formation on the protein surface, which is important for the necrosis-inducing activity of Pectobacterium carotovorum."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of multi-junction tandem solar cells to achieve high efficiency in photovoltaics. ",
+        "Question": "What is one of the main challenges with tandem solar cells?",
+        "A": "Reduced absorption and thermalization losses",
+        "B": "High cost of fabrication",
+        "C": "Difficulty in achieving current matching between subcells",
+        "D": "Limited availability of materials",
+        "Answer": "C",
+        "Source": "Due to the numerous functional layers compared to the single junction cell, the probability of photogenerated carrier losses at the interface is high, thus interfacial modification at all interfaces should be a prerequisite to secure high efficiency as well as stability."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the concept and structure of tandem solar cells, including the classification based on the direction of charge carrier collection.",
+        "Question": "How are perovskite solar cells classified based on the direction of charge carrier collection?",
+        "A": "n-i-p (normal) and p-i-n (inverted)",
+        "B": "Top and bottom cells",
+        "C": "Single-junction and multi-junction",
+        "D": "Thin film and thick film",
+        "Answer": "A",
+        "Source": "The perovskite solar cells can be classified based on the direction of charge carrier collection into two types: n-i-p (normal) and p-i-n (inverted)."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the strategies for improving charge-carrier dynamics in perovskite-based tandem cells.",
+        "Question": "What is crucial for efficient charge collection in perovskite materials?",
+        "A": "Formation of a built-in electric field at the perovskite/CTL interface",
+        "B": "High concentration of defects in the perovskite layer",
+        "C": "Thick perovskite layer",
+        "D": "Low conductivity of the charge transport layer",
+        "Answer": "A",
+        "Source": "For efficient charge collection, the formation of the built-in electric field at the perovskite/CTL interface and enhanced conductivity of the CTL are crucial."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the roles of interface engineering in tandem solar cells.",
+        "Question": "What is one of the functions of interface engineering in perovskite-based tandem cells?",
+        "A": "Reducing the bandgap of the perovskite material",
+        "B": "Suppressing ion migration",
+        "C": "Increasing the number of functional layers",
+        "D": "Introducing defects in the bulk materials",
+        "Answer": "B",
+        "Source": "Interface engineering plays a key role in (1) defect passivation, (2) improving charge-carrier dynamics, (3) band alignment, and (4) suppressing ion migration at the interfaces."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the concept of defect passivation in perovskite-based tandem cells.",
+        "Question": "What type of defects can induce deep-level traps in perovskite materials?",
+        "A": "Vacancies",
+        "B": "Interstitials",
+        "C": "Antisite substitutions",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "While vacancies and interstitials dominantly exhibit shallow transition energy levels, antisite defects induce deep-level traps which are more detrimental defects than shallow traps."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the morphology control of bottom cells in perovskite-based tandem cells.",
+        "Question": "What is an effective strategy for morphology control of chalcogenide thin film solar cells?",
+        "A": "Increasing the surface roughness",
+        "B": "Reducing the surface roughness",
+        "C": "Adding more layers to the bottom cell",
+        "D": "Using a thicker perovskite layer",
+        "Answer": "B",
+        "Source": "For chalcogenide thin film solar cells, surface flattening of the bottom cell is an effective strategy for morphology control."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the importance of the top electrode in perovskite-based tandem cells.",
+        "Question": "What is essential for the top electrode in perovskite-based tandem cells?",
+        "A": "High reflectance of incident light",
+        "B": "Low conductivity",
+        "C": "Protection of the perovskite layer from sputtering damage",
+        "D": "Thick top electrode layer",
+        "Answer": "C",
+        "Source": "Additionally, it is essential to protect a perovskite layer from sputtering damage during the deposition of the top electrode."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the challenges in the fabrication process of 2-T tandem solar cells.",
+        "Question": "What is a challenge in the fabrication process of 2-T tandem solar cells?",
+        "A": "High cost of materials",
+        "B": "Difficulty in achieving current matching between subcells",
+        "C": "Limited availability of solar irradiance",
+        "D": "Low efficiency compared to 4-T tandem cells",
+        "Answer": "B",
+        "Source": "However, the fabrication process of the 2-T TSC is tricky due to single substrate and current matching between subcells."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the use of tunnel junctions in tandem solar cells.",
+        "Question": "What is the function of a tunnel junction in tandem solar cells?",
+        "A": "Efficient charge carrier recombination",
+        "B": "Protection of the bottom cell during the top cell process",
+        "C": "Reducing optical losses and shunt resistance",
+        "D": "Increasing the thickness of the perovskite layer",
+        "Answer": "C",
+        "Source": "Using a tunnel junction, optical losses and shunt resistance can be reduced, leading to the increase of the bottom cell photocurrent by more than 1 mA cm\u20132."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the strategies for improving charge-carrier dynamics in perovskite-based tandem cells.",
+        "Question": "What is crucial for efficient charge collection in perovskite materials?",
+        "A": "Formation of a built-in electric field at the perovskite/CTL interface",
+        "B": "High concentration of defects in the perovskite layer",
+        "C": "Thick perovskite layer",
+        "D": "Low conductivity of the charge transport layer",
+        "Answer": "A",
+        "Source": "For efficient charge collection, the formation of the built-in electric field at the perovskite/CTL interface and enhanced conductivity of the CTL are crucial."
+    }
+}

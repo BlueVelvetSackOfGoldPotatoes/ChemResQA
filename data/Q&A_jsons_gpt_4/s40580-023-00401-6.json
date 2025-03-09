@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In wound treatment, various properties are important for optimal healing. These include hydration, anti-bacterial properties, oxygenation, and patient-specific drug delivery.",
+        "Question": "Which property is NOT typically required for optimal wound healing?",
+        "A": "Hydration",
+        "B": "Anti-bacterial properties",
+        "C": "Oxygenation",
+        "D": "High temperature",
+        "Answer": "D",
+        "Source": "Wound treatment requires a plethora of independent properties. Hydration, anti-bacterial properties, oxygenation and patient-specific drug delivery all contribute to the best possible wound healing."
+    },
+    "Question_2": {
+        "Context": "Three-dimensional printing techniques are used to create wound dressings with an open porous structure from biomedically optimized materials.",
+        "Question": "What is the advantage of an open porous structure in 3D-printed wound dressings?",
+        "A": "It provides oxygenation",
+        "B": "It increases the risk of infection",
+        "C": "It reduces hydration",
+        "D": "It prevents drug delivery",
+        "Answer": "A",
+        "Source": "Three-dimensional (3D) printing has emerged as a set of techniques to realize individually adapted wound dressings with open porous structure from biomedically optimized materials."
+    },
+    "Question_3": {
+        "Context": "Zinc oxide is a material known for its antibacterial properties, which is why it is often integrated into bioinks for wound dressings.",
+        "Question": "What form of zinc oxide retains remarkable antibacterial properties while exhibiting lower toxicity towards surrounding tissue?",
+        "A": "Nanoparticles",
+        "B": "Tetrapodal microcrystals",
+        "C": "Ionic zinc",
+        "D": "Zinc sheets",
+        "Answer": "B",
+        "Source": "In the form of tetrapodal microcrystals, ZnO retains remarkable antibacterial properties while exhibiting lower toxicity towards surrounding tissue."
+    },
+    "Question_4": {
+        "Context": "The synthesis of tetrapodal zinc oxide involves a flame transport synthesis method.",
+        "Question": "What is the role of polyvinyl butyral (PVB) in the synthesis of tetrapodal zinc oxide?",
+        "A": "It acts as a fuel",
+        "B": "It protects zinc from oxidation",
+        "C": "It is the main source of zinc",
+        "D": "It catalyzes the reaction",
+        "Answer": "B",
+        "Source": "The zinc was protected from oxidation by the PVB which reacted with the furnace\u2019s oxygen to form CO2."
+    },
+    "Question_5": {
+        "Context": "Sodium alginate is used as a carrier hydrogel in bioink fabrication due to its favorable properties.",
+        "Question": "Which property of sodium alginate is NOT mentioned as a reason for its selection as a carrier hydrogel for bioink?",
+        "A": "Biocompatibility",
+        "B": "Facile gelation",
+        "C": "Capability for derivation",
+        "D": "High electrical conductivity",
+        "Answer": "D",
+        "Source": "The carrier hydrogel for printing the t-ZnO-laden constructs was chosen to be an aqueous solution of sodium alginate because of its excellent properties such as biocompatibility, facile gelation and the capability for derivation."
+    },
+    "Question_6": {
+        "Context": "The rheological properties of materials are important for their processing and application in biofabrication.",
+        "Question": "What rheological behavior is exhibited by a high concentration alginate-based ink that is beneficial for bioprinting?",
+        "A": "Shear-thickening",
+        "B": "Shear-thinning",
+        "C": "Viscoelasticity",
+        "D": "Both B and C",
+        "Answer": "D",
+        "Source": "A high concentration of alginate in water at approximately 20 wt.% yields a malleable, dough-like paste, that is a very good basis for bioprinting. It exhibits both shear-thinning behavior as well as viscoelastic properties leading to shape retention after extrusion."
+    },
+    "Question_7": {
+        "Context": "The specific surface area of a material is an important characteristic that can influence its interaction with other substances, such as in the adsorption of proteins.",
+        "Question": "Which method is suitable for determining the specific surface area of a material?",
+        "A": "X-ray powder diffraction",
+        "B": "Micro Raman",
+        "C": "Gas adsorption using BET theory",
+        "D": "Rheological analysis",
+        "Answer": "C",
+        "Source": "The specific surface area of a material can be determined by gas adsorption. A suitable method is based on the equation of Brunauer, Emmett and Teller (BET) with the assumption that the amount of adsorbed gas is proportional to the surface area of the sample."
+    },
+    "Question_8": {
+        "Context": "In the context of wound dressings, the adsorption of proteins on zinc oxide tetrapods can be influenced by the isoelectric point (IEP) of the protein.",
+        "Question": "Which type of proteins are more likely to adsorb to the surface of zinc oxide tetrapods?",
+        "A": "Proteins with an IEP below pH 7",
+        "B": "Proteins with an IEP above pH 7",
+        "C": "Proteins with a neutral IEP",
+        "D": "Proteins with no IEP",
+        "Answer": "B",
+        "Source": "A clear difference can between the proteins with an alkaline IEP above pH 7 and those with acidic IEP below pH 7 can be observed. Avidin and Lysozyme both have an IEP above 10, rendering them positively charged at neutral pH."
+    },
+    "Question_9": {
+        "Context": "The antibacterial properties of wound dressings are crucial for preventing wound infections.",
+        "Question": "Which bacterium is commonly associated with wound infections and was used to evaluate the antibacterial capabilities of alginate-based wound patches?",
+        "A": "Escherichia coli",
+        "B": "Staphylococcus aureus",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Bacillus subtilis",
+        "Answer": "B",
+        "Source": "For the antibacterial tests, Staphylococcus (S.) aureus (ATCC 29213) was used, as it is a typical wound pathogen with the potential for multi-resistance against antibiotics and was, therefore, chosen as a model microorganism for the evaluation of the antibacterial capabilities of the alginate-based wound patches."
+    },
+    "Question_10": {
+        "Context": "The biocompatibility of wound dressings is essential to ensure they do not adversely affect the skin.",
+        "Question": "What is a commonly used method to analyze the cytotoxic effects of wound dressings on skin?",
+        "A": "Protein adsorption analysis",
+        "B": "Lactate dehydrogenase (LDH) release measurement",
+        "C": "Raman spectroscopy",
+        "D": "X-ray diffraction",
+        "Answer": "B",
+        "Source": "Potential cytotoxic effects were analyzed by the Cytotoxicity Detection Kit (LDH, Roche, Switzerland obtained from Sigma Aldrich, Germany, art.no: 4744926001) according to the manufacturer\u2019s protocol. This procedure is based on the release of lactate dehydrogenase (LDH), a stable cytoplasmic enzyme released by damaged cells."
+    }
+}

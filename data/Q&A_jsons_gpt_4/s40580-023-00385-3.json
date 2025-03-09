@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Messenger RNA (mRNA) is a versatile molecule that can be used to encode various therapeutic agents such as tumor-associated antigens, immune cell receptors, cytokines, and antibodies for cancer immunotherapy.",
+        "Question": "What is the role of mRNA in cancer immunotherapy?",
+        "A": "To suppress the immune system",
+        "B": "To encode for therapeutic agents",
+        "C": "To directly kill cancer cells",
+        "D": "To promote tumor growth",
+        "Answer": "B",
+        "Source": "Messenger RNA (mRNA) stands as a versatile instrument in this context, with its capacity to encode tumor\u2011associated antigens (TAAs), immune cell receptors, cytokines, and antibodies."
+    },
+    "Question_2": {
+        "Context": "Lipid nanoparticles (LNPs) are used as delivery systems for mRNA in cancer immunotherapy due to their ability to protect mRNA and enhance intracellular delivery efficiency.",
+        "Question": "Why are lipid nanoparticles (LNPs) significant in mRNA delivery for cancer immunotherapy?",
+        "A": "They increase the immunogenicity of mRNA",
+        "B": "They reduce the efficacy of mRNA",
+        "C": "They provide protection to mRNA and enhance delivery",
+        "D": "They are used to directly target and kill cancer cells",
+        "Answer": "C",
+        "Source": "Lipid nanoparticles (LNPs) have emerged as significant candidates for mRNA delivery in cancer immunotherapy, providing both protection to the mRNA and enhanced intracellular delivery efficiency."
+    },
+    "Question_3": {
+        "Context": "Ionizable lipids are a component of lipid nanoparticles (LNPs) and have a pH-sensitive charge that can change depending on the environment, which is beneficial for mRNA delivery.",
+        "Question": "What is the characteristic feature of ionizable lipids used in LNPs for mRNA delivery?",
+        "A": "They are permanently positively charged",
+        "B": "They are pH-sensitive and can change their charge",
+        "C": "They repel mRNA molecules",
+        "D": "They are negatively charged in the bloodstream",
+        "Answer": "B",
+        "Source": "Ionizable lipids are characterized by their pH sensitivity, transitioning from a positively charged state at low pH to neutrality at physiological pH, due to the capacity of their head groups to transfer charge."
+    },
+    "Question_4": {
+        "Context": "Polyethylene glycol (PEG)-lipids are used in the formulation of lipid nanoparticles (LNPs) and play a role in enhancing the stability and circulation time of LNPs in the bloodstream.",
+        "Question": "What is the role of PEG-lipids in lipid nanoparticles (LNPs)?",
+        "A": "To decrease the stability of LNPs",
+        "B": "To facilitate the rapid clearance of LNPs",
+        "C": "To enhance the stability and circulation time of LNPs",
+        "D": "To promote the degradation of mRNA",
+        "Answer": "C",
+        "Source": "Another critical component, PEG-lipid, significantly impacts the properties of lipid nanoparticles. It ensures prolonged systemic circulation and enhanced stability by averting opsonization and phagocytosis by macrophages."
+    },
+    "Question_5": {
+        "Context": "Cholesterol is a component of lipid nanoparticles (LNPs) that affects the delivery effectiveness and distribution of these nanoparticles.",
+        "Question": "What is the impact of cholesterol on lipid nanoparticles (LNPs)?",
+        "A": "It decreases the fluidity of LNPs",
+        "B": "It has no impact on LNPs",
+        "C": "It reduces the delivery effectiveness of LNPs",
+        "D": "It affects the delivery effectiveness and distribution of LNPs",
+        "Answer": "D",
+        "Source": "Cholesterol, in particular, also affects the delivery effectiveness and distribution of lipid nanoparticles, with specific modifications amplifying efficacy and selectivity for certain cell types."
+    },
+    "Question_6": {
+        "Context": "Tumor-associated antigens (TAAs) are proteins expressed in cancer cells that can be recognized by the immune system as foreign, and their presentation can induce an anti-cancer immune response.",
+        "Question": "What is the significance of tumor-associated antigens (TAAs) in cancer immunotherapy?",
+        "A": "They suppress the immune response to cancer cells",
+        "B": "They are used as a fuel source for cancer cells",
+        "C": "They induce an anti-cancer immune response",
+        "D": "They decrease the recognition of cancer cells by the immune system",
+        "Answer": "C",
+        "Source": "TAAs are proteins expressed in cancer cells and recognized by the immune system as foreign. Importantly, TAAs are presented to T and B cells by antigen-presenting cells (APCs), which can induce a robust anti-cancer immune response."
+    },
+    "Question_7": {
+        "Context": "Chimeric antigen receptor (CAR) engineered immune cells are designed to recognize and target cancer cells specifically by expressing CARs that can bind to surface proteins on cancer cells.",
+        "Question": "What is the purpose of engineering immune cells with chimeric antigen receptors (CARs) in cancer immunotherapy?",
+        "A": "To help immune cells avoid detection by cancer cells",
+        "B": "To enable immune cells to specifically recognize and target cancer cells",
+        "C": "To reduce the overall immune response",
+        "D": "To promote the growth of cancer cells",
+        "Answer": "B",
+        "Source": "Engineered immune cell therapy has the potential for cancer treatment by enabling specific recognition of cancer cells. A classic example is activating cell-mediated immunity against malignancies by expressing CAR-recognized surface proteins on T cells or natural killer (NK) cells."
+    },
+    "Question_8": {
+        "Context": "Adjuvants in immunotherapy are substances that enhance the body's immune response to an antigen.",
+        "Question": "What is the role of adjuvants in cancer immunotherapy?",
+        "A": "To directly kill cancer cells",
+        "B": "To reduce the effectiveness of cancer vaccines",
+        "C": "To enhance the body's immune response to an antigen",
+        "D": "To act as the primary therapeutic agent",
+        "Answer": "C",
+        "Source": "Immunogenic adjuvants modulate signals contributing to antigen recognition, upregulation of costimulatory molecules, and cytokine production."
+    },
+    "Question_9": {
+        "Context": "Cytokines are signaling proteins that play a role in cell signaling and can be encoded by mRNA for therapeutic purposes in cancer immunotherapy.",
+        "Question": "What is the therapeutic role of cytokines encoded by mRNA in cancer immunotherapy?",
+        "A": "To suppress immune cell activation",
+        "B": "To serve as signaling proteins in cell communication",
+        "C": "To act as a nutrient source for cancer cells",
+        "D": "To directly interact with cancer cell DNA",
+        "Answer": "B",
+        "Source": "LNP-based mRNA cancer immunotherapy employs strategies such as encoding immune-related proteins (e.g., cytokines, antibodies) for direct anti-cancer effects."
+    },
+    "Question_10": {
+        "Context": "Antibodies are proteins that can bind to specific antigens, and their encoding by mRNA can be used for therapeutic purposes in cancer immunotherapy.",
+        "Question": "What is the function of antibodies encoded by mRNA in cancer immunotherapy?",
+        "A": "To promote tumor angiogenesis",
+        "B": "To decrease the specificity of the immune response",
+        "C": "To bind to specific antigens for therapeutic purposes",
+        "D": "To act as a direct energy source for immune cells",
+        "Answer": "C",
+        "Source": "LNP-based mRNA cancer immunotherapy employs strategies such as encoding immune-related proteins (e.g., cytokines, antibodies) for direct anti-cancer effects."
+    }
+}

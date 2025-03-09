@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the friction and temperature behavior of surface coatings in rolling-sliding contacts for dry lubricated gears. The experimental setup included case-hardened steel 16MnCr5E (AISI5115) as substrate material together with two different coatings: a-C:H:Zr DLC coating (ZrCg) and a MoS2-bonded coating (MoS2-BoC).",
+        "Question": "What material was considered as the substrate material in the experimental setup?",
+        "A": "Graphite",
+        "B": "Diamond-like carbon",
+        "C": "16MnCr5E",
+        "D": "Zirconium dioxide",
+        "Answer": "C",
+        "Source": "Both test disks were made of case-hardened steel 16MnCr5E (AISI5115) with a surface hardness of 60 \u00b1 2 HRC and a case hardening depth of CHD550HV1 = 0.9 \u00b1 0.2 mm."
+    },
+    "Question_2": {
+        "Context": "The study focused on investigating the friction and temperature behavior of surface coatings in rolling-sliding contacts for dry lubricated gears. The experimental setup included case-hardened steel 16MnCr5E (AISI5115) as substrate material together with two different coatings: a-C:H:Zr DLC coating (ZrCg) and a MoS2-bonded coating (MoS2-BoC).",
+        "Question": "Which coating was based on polyimide as a binder?",
+        "A": "Graphite",
+        "B": "Diamond-like carbon",
+        "C": "MoS2-bonded coating",
+        "D": "ZrCg DLC coating",
+        "Answer": "C",
+        "Source": "For contact temperature measurements, a MoS2-BoC was used that consists of 70 wt.% polyimide as binder and 30 wt.% of MoS2."
+    },
+    "Question_3": {
+        "Context": "The study investigated the friction and temperature behavior of surface coatings in rolling-sliding contacts for dry lubricated gears. The experimental setup included case-hardened steel 16MnCr5E (AISI5115) as substrate material together with two different coatings: a-C:H:Zr DLC coating (ZrCg) and a MoS2-bonded coating (MoS2-BoC).",
+        "Question": "What was the purpose of using thin-film sensors in the study?",
+        "A": "To measure bulk temperatures",
+        "B": "To measure friction coefficients",
+        "C": "To measure contact temperatures",
+        "D": "To measure surface roughness",
+        "Answer": "C",
+        "Source": "Besides contact temperature measurements were performed at constant sum velocity v\u2211 = 2 m/s, but different loads and slip ratios s, as shown in Table 2."
+    },
+    "Question_4": {
+        "Context": "The study focused on investigating the friction and temperature behavior of surface coatings in rolling-sliding contacts for dry lubricated gears. The experimental setup included case-hardened steel 16MnCr5E (AISI5115) as substrate material together with two different coatings: a-C:H:Zr DLC coating (ZrCg) and a MoS2-bonded coating (MoS2-BoC).",
+        "Question": "What was the main conclusion regarding the bearable load level of uncoated steel surfaces under dry lubrication?",
+        "A": "Very high",
+        "B": "Moderate",
+        "C": "Low",
+        "D": "Negligible",
+        "Answer": "C",
+        "Source": "The bearable load level of uncoated steel surfaces under dry lubrication is very low."
+    },
+    "Question_5": {
+        "Context": "The study investigated the friction and temperature behavior of surface coatings in rolling-sliding contacts for dry lubricated gears. The experimental setup included case-hardened steel 16MnCr5E (AISI5115) as substrate material together with two different coatings: a-C:H:Zr DLC coating (ZrCg) and a MoS2-bonded coating (MoS2-BoC).",
+        "Question": "What was the main effect of surface coatings on the operating areas under dry lubrication?",
+        "A": "No effect",
+        "B": "Decreased operating areas",
+        "C": "Increased operating areas",
+        "D": "Stable operating areas",
+        "Answer": "C",
+        "Source": "Surface coatings can significantly increase operating areas under dry lubrication."
+    },
+    "Question_6": {
+        "Context": "The study focused on investigating the friction and temperature behavior of surface coatings in rolling-sliding contacts for dry lubricated gears. The experimental setup included case-hardened steel 16MnCr5E (AISI5115) as substrate material together with two different coatings: a-C:H:Zr DLC coating (ZrCg) and a MoS2-bonded coating (MoS2-BoC).",
+        "Question": "What was the main difference observed in the coefficients of friction between dry and oil injection lubrication?",
+        "A": "Higher coefficients of friction in dry lubrication",
+        "B": "Lower coefficients of friction in dry lubrication",
+        "C": "No difference in coefficients of friction",
+        "D": "Higher coefficients of friction in oil injection lubrication",
+        "Answer": "A",
+        "Source": "Friction and bulk temperatures are considerably higher compared to oil lubrication."
+    },
+    "Question_7": {
+        "Context": "The study investigated the friction and temperature behavior of surface coatings in rolling-sliding contacts for dry lubricated gears. The experimental setup included case-hardened steel 16MnCr5E (AISI5115) as substrate material together with two different coatings: a-C:H:Zr DLC coating (ZrCg) and a MoS2-bonded coating (MoS2-BoC).",
+        "Question": "What was the main advantage of using thin-film sensors for contact temperature measurements?",
+        "A": "To measure surface roughness",
+        "B": "To measure friction coefficients",
+        "C": "To measure contact temperatures",
+        "D": "To measure bulk temperatures",
+        "Answer": "C",
+        "Source": "Contact temperature measurements were performed at constant sum velocity v\u2211 = 2 m/s, but different loads and slip ratios s."
+    },
+    "Question_8": {
+        "Context": "The study focused on investigating the friction and temperature behavior of surface coatings in rolling-sliding contacts for dry lubricated gears. The experimental setup included case-hardened steel 16MnCr5E (AISI5115) as substrate material together with two different coatings: a-C:H:Zr DLC coating (ZrCg) and a MoS2-bonded coating (MoS2-BoC).",
+        "Question": "What was the main conclusion regarding the thermal performance of MoS2-BoC in terms of contact temperatures?",
+        "A": "Low contact temperatures",
+        "B": "High contact temperatures",
+        "C": "Moderate contact temperatures",
+        "D": "No effect on contact temperatures",
+        "Answer": "B",
+        "Source": "Contact temperatures under dry lubrication can be measured by thin-film sensors for bonded coatings if the electrical insulation is sufficient."
+    },
+    "Question_9": {
+        "Context": "The study investigated the friction and temperature behavior of surface coatings in rolling-sliding contacts for dry lubricated gears. The experimental setup included case-hardened steel 16MnCr5E (AISI5115) as substrate material together with two different coatings: a-C:H:Zr DLC coating (ZrCg) and a MoS2-bonded coating (MoS2-BoC).",
+        "Question": "What was the main effect of low thermal effusivity of MoS2-BoC on contact temperatures?",
+        "A": "Decreased contact temperatures",
+        "B": "Increased contact temperatures",
+        "C": "No effect on contact temperatures",
+        "D": "Stable contact temperatures",
+        "Answer": "B",
+        "Source": "Low thermal effusivity of bonded coatings can result in thermal insulation effects that can accelerate oxidation processes."
+    },
+    "Question_10": {
+        "Context": "The study focused on investigating the friction and temperature behavior of surface coatings in rolling-sliding contacts for dry lubricated gears. The experimental setup included case-hardened steel 16MnCr5E (AISI5115) as substrate material together with two different coatings: a-C:H:Zr DLC coating (ZrCg) and a MoS2-bonded coating (MoS2-BoC).",
+        "Question": "What was the main conclusion regarding the influence of pressure on the measured contact temperatures?",
+        "A": "Pressure had a significant influence",
+        "B": "Pressure had no influence",
+        "C": "Pressure had a minor influence",
+        "D": "Pressure was not considered",
+        "Answer": "D",
+        "Source": "For this and a detailed interpretation, numerical modelling can be applied to obtain the pressure and temperature distributions."
+    }
+}

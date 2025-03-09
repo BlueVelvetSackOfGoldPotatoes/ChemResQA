@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In additive manufacturing of polymer composites, the matrix material can significantly influence the mechanical properties of the final product.",
+        "Question": "Which matrix material showed a smaller effect on the mechanical response when compared to the number of reinforcement layers?",
+        "A": "Polyamide",
+        "B": "Onyx",
+        "C": "Kevlar",
+        "D": "Carbon Fiber",
+        "Answer": "B",
+        "Source": "The type of matrix material has been shown to have very little effect on the mechanical response, with the Standardised Effect for \u2018matrix\u2019 being only 12% of that for \u2018layers\u2019 for UTS (Fig. 3) and only 5% of that for \u2018layers\u2019 for E (Fig. 4)."
+    },
+    "Question_2": {
+        "Context": "The mechanical properties of 3D printed composites can be enhanced by the type of reinforcement material used.",
+        "Question": "Which reinforcement material provided the largest increase in Ultimate Tensile Strength (UTS) and Flexural Modulus for Onyx matrix material?",
+        "A": "High Strength High Temperature Glass Fibre",
+        "B": "Poly para-phenylene terephthalamide Fibre",
+        "C": "Carbon Fibre",
+        "D": "Nylon",
+        "Answer": "C",
+        "Source": "For Onyx, carbon fibre reinforcement offered the largest increase in both UTS and Flexural Modulus over unreinforced material (1228 \u00b1 19% and 1114 \u00b1 6% respectively)."
+    },
+    "Question_3": {
+        "Context": "The orientation of reinforcement fibers in a composite material can affect its mechanical properties.",
+        "Question": "What fiber orientation in the reinforcement of polymer composites is desirable for applications requiring multi-directional strength?",
+        "A": "Unidirectional",
+        "B": "Bi-directional",
+        "C": "Random",
+        "D": "Perpendicular",
+        "Answer": "B",
+        "Source": "A unidirectional angle orientation has higher strength, but only in the direction of the fibre. However, to allow wider application in products where multi-directional strength is required, a bi-directional lay-up is desirable."
+    },
+    "Question_4": {
+        "Context": "In the context of polymer composites, the volume fraction of reinforcement can be a critical factor in determining the composite's mechanical properties.",
+        "Question": "According to the Rules of Mixtures, what happens to the mechanical properties of a composite as the volume fraction of reinforcement fibers increases?",
+        "A": "Mechanical properties decrease",
+        "B": "Mechanical properties remain constant",
+        "C": "Mechanical properties increase",
+        "D": "Mechanical properties fluctuate unpredictably",
+        "Answer": "C",
+        "Source": "The UTS and E of the reinforcement fibres are at least an order of magnitude greater than those of the polymer matrix materials, and, via the Rules of Mixtures (Eqs. 1 and 2), have increased effect in increasing the mechanical properties as their volume fraction (f), e.g. number of layers, is increased."
+    },
+    "Question_5": {
+        "Context": "The mechanical performance of composite materials can be influenced by the type of fibers used for reinforcement.",
+        "Question": "Which type of fiber reinforcement is less likely to provide significant improvements in mechanical properties when compared to carbon fiber?",
+        "A": "Kevlar Fiber",
+        "B": "Glass Fiber",
+        "C": "Nylon Fiber",
+        "D": "Polypropylene Fiber",
+        "Answer": "A",
+        "Source": "Kevlar\u00ae and HSHT also provided improvements but these were less significant."
+    },
+    "Question_6": {
+        "Context": "The process of additive manufacturing involves the layer-by-layer construction of parts.",
+        "Question": "What is the typical layer thickness range used in Material Extrusion additive manufacturing to reduce porosity and increase mechanical strength?",
+        "A": "0.05\u20130.2 mm",
+        "B": "0.3\u20130.5 mm",
+        "C": "1\u20132 mm",
+        "D": "2.5\u20133 mm",
+        "Answer": "A",
+        "Source": "The Material Extrusion process consists of a thermoplastic filament feed into a heated nozzle, where it is melted and deposited onto a planar platform under CNC (Computer Numerical Control). After the manufacture of one layer of the component, the platform lowers (or the nozzle is raised) by one-layer thickness (typically 0.05\u20130.2 mm) and the next layer is deposited."
+    },
+    "Question_7": {
+        "Context": "In the field of polymer composites, the term 'matrix' refers to the continuous phase that surrounds and supports the reinforcement fibers.",
+        "Question": "What is the primary role of the matrix in a fiber-reinforced polymer composite?",
+        "A": "To provide electrical conductivity",
+        "B": "To transfer stress to the reinforcement fibers",
+        "C": "To act as a lubricant for the fibers",
+        "D": "To solely provide color to the composite",
+        "Answer": "B",
+        "Source": "The right balance of matrix and reinforcement materials in a polymer composite results in optimal tensile strength and stiffness for specific applications."
+    },
+    "Question_8": {
+        "Context": "The mechanical properties of polymer composites can be characterized by their Ultimate Tensile Strength (UTS) and Flexural Modulus.",
+        "Question": "What does the Ultimate Tensile Strength (UTS) of a material indicate?",
+        "A": "The ability to conduct heat",
+        "B": "The resistance to electrical currents",
+        "C": "The maximum stress it can withstand when being stretched",
+        "D": "The ability to return to its original shape after deformation",
+        "Answer": "C",
+        "Source": "The effect of matrix material (Onyx or polyamide), reinforcement type (Carbon, Kevlar\u00ae, and HSHT glass), volume of reinforcement, and reinforcement lay-up orientation on both Ultimate Tensile Strength (UTS) and Flexural Modulus were investigated."
+    },
+    "Question_9": {
+        "Context": "Flexural Modulus is a measure of a material's stiffness when it is subjected to bending.",
+        "Question": "What does a higher Flexural Modulus indicate about a material's mechanical property?",
+        "A": "It is more ductile",
+        "B": "It is less dense",
+        "C": "It is more compressible",
+        "D": "It is stiffer",
+        "Answer": "D",
+        "Source": "For Onyx, carbon fibre reinforcement offered the largest increase in both UTS and Flexural Modulus over unreinforced material."
+    },
+    "Question_10": {
+        "Context": "The incorporation of continuous or long fiber reinforcement into additive manufacturing polymer composites can significantly enhance their mechanical properties.",
+        "Question": "What is the primary benefit of using continuous or long fiber reinforcement in 3D printed polymer composites?",
+        "A": "Decreased production time",
+        "B": "Reduced material usage",
+        "C": "Improved aesthetic appearance",
+        "D": "Significantly improved mechanical properties",
+        "Answer": "D",
+        "Source": "The larger challenge of incorporating continuous or long fibre reinforcement into AM polymer composites offers the opportunity for significantly larger improvements in mechanical properties."
+    }
+}

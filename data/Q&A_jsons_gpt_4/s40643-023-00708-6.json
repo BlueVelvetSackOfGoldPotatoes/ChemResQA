@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Aflatoxin B1 is a toxic compound known to cause liver damage and cancer.",
+        "Question": "What is the primary target organ of Aflatoxin B1?",
+        "A": "Kidneys",
+        "B": "Liver",
+        "C": "Lungs",
+        "D": "Heart",
+        "Answer": "B",
+        "Source": "It has been found that AFB1 can affect the normal functioning of several organs and tissues and has pathogenic effects in epidemiological and animal studies. Relevant studies have shown that the target organ of AFB1 is the liver, and severe damage can cause hepatitis, cirrhosis, and even liver cancer."
+    },
+    "Question_2": {
+        "Context": "Aflatoxin B1 can cause different types of liver poisoning depending on the intake times and doses.",
+        "Question": "Which type of liver poisoning can Aflatoxin B1 cause?",
+        "A": "Acute liver poisoning",
+        "B": "Chronic liver poisoning",
+        "C": "Both acute and chronic liver poisoning",
+        "D": "Neither acute nor chronic liver poisoning",
+        "Answer": "C",
+        "Source": "At the same time, different intake times and doses of AFB1 can cause acute or chronic liver poisoning."
+    },
+    "Question_3": {
+        "Context": "Aflatoxin B1 is metabolized in animals to a reactive epoxide form.",
+        "Question": "What is the metabolite of Aflatoxin B1 that induces its toxicity?",
+        "A": "Aflatoxin B1-8,9-epoxide",
+        "B": "Aflatoxin B1-N7-GUA",
+        "C": "Aflatoxin B1-lysine conjugates",
+        "D": "Cytochrome P450",
+        "Answer": "A",
+        "Source": "In animals, AFB1 is metabolized into aflatoxin B1-8,9-epoxide (AFBO) under the action of microsomal mixed-function oxidase of cytochrome P450 (CYP450) superfamily."
+    },
+    "Question_4": {
+        "Context": "The reactive metabolite of Aflatoxin B1 can bind to DNA and proteins, causing damage.",
+        "Question": "What does the metabolite of Aflatoxin B1 form when it combines with DNA?",
+        "A": "Aflatoxin B1-8,9-epoxide",
+        "B": "Aflatoxin B1-N7-GUA adduct",
+        "C": "Aflatoxin B1-lysine conjugates",
+        "D": "Cytochrome P450 complex",
+        "Answer": "B",
+        "Source": "AFBO has a high affinity with DNA and can form the adduct AFB1-N7-GUA, which leads to DNA mutation and eventually causes hepatocellular carcinogenesis."
+    },
+    "Question_5": {
+        "Context": "The binding of Aflatoxin B1 metabolite to proteins can lead to cellular issues.",
+        "Question": "What is the consequence of Aflatoxin B1 metabolite binding to proteins?",
+        "A": "Protein synthesis",
+        "B": "Protein denaturation",
+        "C": "Protein phosphorylation",
+        "D": "Protein glycosylation",
+        "Answer": "B",
+        "Source": "AFBO combines with proteins and other macromolecules to form AFB1-lysine conjugates, which leads to protein denaturation and even cellular metabolic disorders, apoptosis, and necrosis."
+    },
+    "Question_6": {
+        "Context": "Chito-oligosaccharides are derived from the degradation of chitosan and have various biological properties.",
+        "Question": "What is the source of chitosan from which Chito-oligosaccharides are derived?",
+        "A": "Plant cellulose",
+        "B": "Animal collagen",
+        "C": "Shrimp and crab shells",
+        "D": "Fungal cell walls",
+        "Answer": "C",
+        "Source": "Chitin is a natural polysaccharide widely found in shell of crustaceans, and chitosan and COS products are obtained by deacetylation."
+    },
+    "Question_7": {
+        "Context": "Chito-oligosaccharides have been studied for their potential health benefits.",
+        "Question": "Which of the following is NOT a known biological property of Chito-oligosaccharides?",
+        "A": "Antitumor",
+        "B": "Antioxidant",
+        "C": "Hypoglycemic",
+        "D": "Antiviral",
+        "Answer": "D",
+        "Source": "COS has high value in the development of human nutraceuticals due to its biological properties, such as antitumor, antioxidant, and hypoglycemic."
+    },
+    "Question_8": {
+        "Context": "Chito-oligosaccharides have been shown to have beneficial effects in certain dietary models.",
+        "Question": "What effect did Chito-oligosaccharides have in a high-fat diet-induced rat model?",
+        "A": "Increased free radical production",
+        "B": "Decreased activity of antioxidant enzymes",
+        "C": "Scavenged free radicals and increased activity of antioxidant enzymes",
+        "D": "No effect on free radicals or antioxidant enzymes",
+        "Answer": "C",
+        "Source": "Previous studies have shown that COS has a good ability to scavenge free radicals and increase the activity of antioxidant enzymes in a high-fat diet-induced rat model."
+    },
+    "Question_9": {
+        "Context": "RNA-Seq sequencing technology is used to analyze gene expression and understand functional signaling pathways.",
+        "Question": "What does RNA-Seq sequencing technology primarily reflect?",
+        "A": "Protein expression levels",
+        "B": "Lipid composition",
+        "C": "Carbohydrate metabolism",
+        "D": "Expression levels of mRNA and other transcripts",
+        "Answer": "D",
+        "Source": "RNA-Seq sequencing technology is reflecting the expression levels of mRNA, smallRNA, noncodingRNA, etc., or some of the transcripts."
+    },
+    "Question_10": {
+        "Context": "Gene sequencing techniques can help understand the impact of external factors on gene alterations.",
+        "Question": "What can gene sequencing techniques analyze to understand the causes of external stimuli affecting the organism?",
+        "A": "Protein folding patterns",
+        "B": "Functions of differentially expressed genes",
+        "C": "Cell membrane composition",
+        "D": "Mitochondrial DNA mutations",
+        "Answer": "B",
+        "Source": "Therefore, gene sequencing techniques can be used to analyze the functions of DEGs, to understand the causes of external stimuli affecting the organism, and to explore methods of prevention and treatment."
+    }
+}

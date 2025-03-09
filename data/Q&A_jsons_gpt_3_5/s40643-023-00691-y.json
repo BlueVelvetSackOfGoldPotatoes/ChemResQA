@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Yeast isolates were tested for their ability to grow at different temperatures. The growth profile of yeast isolates at various temperatures is shown in the text.",
+        "Question": "Which temperature showed the most significant growth for isolates SL7 and OPT4B?",
+        "A": "30\u00b0C",
+        "B": "37\u00b0C",
+        "C": "40\u00b0C",
+        "D": "42\u00b0C",
+        "Answer": "B",
+        "Source": "The most rapid growth of isolates SL7 and OPT4B occurred at 30\u00b0C, while isolates SL1(1), SL6, SL3, and R5 at 37\u00b0C."
+    },
+    "Question_2": {
+        "Context": "Yeast isolates were tested for their ability to produce xylitol from xylose substrate. The xylitol production profiles by yeast isolates are shown in the text.",
+        "Question": "Which yeast isolate produced the highest amount of xylitol?",
+        "A": "SL1(1)",
+        "B": "SL6",
+        "C": "SL7",
+        "D": "R5",
+        "Answer": "C",
+        "Source": "Isolate SL7 produced 6.0 g/L of xylitol from xylose substrate, the highest among the tested isolates."
+    },
+    "Question_3": {
+        "Context": "Yeast isolates were tested for their ability to consume xylose and produce xylitol. The xylitol production profiles by yeast isolates are shown in the text.",
+        "Question": "Which yeast isolate showed the lowest xylitol production?",
+        "A": "SL1(1)",
+        "B": "SL6",
+        "C": "SL7",
+        "D": "R5",
+        "Answer": "B",
+        "Source": "Isolate SL6 produced 5.0 g/L of xylitol from xylose substrate, the lowest among the tested isolates."
+    },
+    "Question_4": {
+        "Context": "Yeast isolates were tested for their ability to produce ethanol from xylose substrate. The ethanol production profiles by yeast isolates are shown in the text.",
+        "Question": "Which yeast isolate produced the highest amount of ethanol from xylose substrate?",
+        "A": "SL1(1)",
+        "B": "SL6",
+        "C": "SL7",
+        "D": "R5",
+        "Answer": "D",
+        "Source": "Isolate R5 produced 1.34 g/L of ethanol from xylose substrate, the highest among the tested isolates."
+    },
+    "Question_5": {
+        "Context": "Yeast isolates were tested for their ability to produce ethanol from glucose and xylose substrates. The ethanol production profiles by yeast isolates are shown in the text.",
+        "Question": "Which yeast isolate produced the lowest amount of ethanol from xylose substrate?",
+        "A": "SL1(1)",
+        "B": "SL6",
+        "C": "SL7",
+        "D": "R5",
+        "Answer": "C",
+        "Source": "Isolate SL7 produced 0.85 g/L of ethanol from xylose substrate, the lowest among the tested isolates."
+    },
+    "Question_6": {
+        "Context": "Yeast isolates were tested for their ability to produce ethanol from glucose and xylose substrates. The ethanol production profiles by yeast isolates are shown in the text.",
+        "Question": "Which yeast isolate produced the highest amount of ethanol from glucose substrate?",
+        "A": "SL1(1)",
+        "B": "SL6",
+        "C": "SL7",
+        "D": "R5",
+        "Answer": "D",
+        "Source": "Isolate R5 produced 70.75 g/L of ethanol from glucose substrate, the highest among the tested isolates."
+    },
+    "Question_7": {
+        "Context": "Yeast isolates were tested for their ability to grow at different temperatures. The growth profile of yeast isolates at various temperatures is shown in the text.",
+        "Question": "At which temperature did all isolates show a decrease in cell density?",
+        "A": "37\u00b0C",
+        "B": "40\u00b0C",
+        "C": "42\u00b0C",
+        "D": "45\u00b0C",
+        "Answer": "D",
+        "Source": "Although the cell density of all isolates decreased at temperatures above 37\u00b0C, the growth of all isolates was quite significant at 42\u00b0C."
+    },
+    "Question_8": {
+        "Context": "Yeast isolates were tested for their ability to consume xylose and produce xylitol. The xylitol production profiles by yeast isolates are shown in the text.",
+        "Question": "Which yeast isolate showed the highest xylitol production?",
+        "A": "SL1(1)",
+        "B": "SL6",
+        "C": "SL7",
+        "D": "R5",
+        "Answer": "C",
+        "Source": "Isolate SL7 produced 6.0 g/L of xylitol from xylose substrate, the highest among the tested isolates."
+    },
+    "Question_9": {
+        "Context": "Yeast isolates were tested for their ability to produce ethanol from glucose and xylose substrates. The ethanol production profiles by yeast isolates are shown in the text.",
+        "Question": "Which yeast isolate produced the lowest amount of ethanol from glucose substrate?",
+        "A": "SL1(1)",
+        "B": "SL6",
+        "C": "SL7",
+        "D": "R5",
+        "Answer": "B",
+        "Source": "Isolate SL6 produced 63.50 g/L of ethanol from glucose substrate, the lowest among the tested isolates."
+    },
+    "Question_10": {
+        "Context": "Yeast isolates were tested for their ability to produce ethanol from glucose and xylose substrates. The ethanol production profiles by yeast isolates are shown in the text.",
+        "Question": "Which yeast isolate produced the highest amount of ethanol from xylose substrate?",
+        "A": "SL1(1)",
+        "B": "SL6",
+        "C": "SL7",
+        "D": "R5",
+        "Answer": "D",
+        "Source": "Isolate R5 produced 1.34 g/L of ethanol from xylose substrate, the highest among the tested isolates."
+    }
+}

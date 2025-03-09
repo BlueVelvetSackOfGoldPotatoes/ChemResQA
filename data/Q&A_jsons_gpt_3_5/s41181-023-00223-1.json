@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of a novel leukocyte labelling approach with the PET radioisotope zirconium-89 (89Zr).",
+        "Question": "What is the range of 89Zr-leukocyte labelling efficiency after 30\u201360 min?",
+        "A": "30\u201346%",
+        "B": "57\u201387%",
+        "C": "46\u201387%",
+        "D": "16\u201379%",
+        "Answer": "C",
+        "Source": "The 89Zr-leukocyte labelling efficiency ranged from 46 to 87% after 30\u201360 min."
+    },
+    "Question_2": {
+        "Context": "The study involved the systemic administration of 89Zr-labelled leukocytes in mice.",
+        "Question": "Which organs did the 89Zr-labelled leukocytes primarily distribute to at 1 h post injection?",
+        "A": "Heart, brain, muscle",
+        "B": "Lung, liver, spleen",
+        "C": "Kidney, bone, fat",
+        "D": "Stomach, intestine, blood",
+        "Answer": "B",
+        "Source": "Murine biodistribution data showed that cells primarily distributed to the lung, liver, and spleen at 1 h post injection."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the labelling yield and efficiency of 89Zr-labelled leukocytes.",
+        "Question": "What was the average labelling efficiency of the 89Zr-labelled leukocytes?",
+        "A": "46%",
+        "B": "57%",
+        "C": "74%",
+        "D": "87%",
+        "Answer": "B",
+        "Source": "The average labelling efficiency ranged from 46 to 87% (average = 57 \u00b1 12.46%)."
+    },
+    "Question_4": {
+        "Context": "The study involved the preclinical investigation of 89Zr-labelled leukocytes in mice.",
+        "Question": "What was the trend observed in the distribution of 89Zr-labelled leukocytes to the liver over time?",
+        "A": "Decrease in uptake",
+        "B": "No change in uptake",
+        "C": "Increase in uptake",
+        "D": "Uptake in the bone",
+        "Answer": "C",
+        "Source": "A slight trend of 89Zr-leukocytes migrating to the liver over time was observed."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the potential applications of the radiolabelling technique with 89Zr.",
+        "Question": "What is one of the potential applications mentioned for the radiolabelling technique with 89Zr?",
+        "A": "Stem cell differentiation",
+        "B": "Monitoring inflammatory diseases",
+        "C": "Cancer treatment",
+        "D": "Cardiovascular imaging",
+        "Answer": "B",
+        "Source": "The results suggest that this effective and safe radiolabelling approach can be translated into clinical trials and used potentially for monitoring inflammatory diseases."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the advantages of using zirconium-89 for cell labelling.",
+        "Question": "What is one of the advantages of using zirconium-89 for cell tracking?",
+        "A": "High radiation exposure",
+        "B": "Short half-life",
+        "C": "Low sensitivity",
+        "D": "Long half-life",
+        "Answer": "D",
+        "Source": "Zirconium-89 (89Zr) is a long-lived, cyclotron-produced PET radioisotope with a half-life of 78.4 h."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the in vivo tissue biodistribution of 89Zr-labelled leukocytes.",
+        "Question": "Which organ showed the highest uptake of 89Zr-labelled leukocytes at 1 h post injection?",
+        "A": "Liver",
+        "B": "Lung",
+        "C": "Spleen",
+        "D": "Kidney",
+        "Answer": "B",
+        "Source": "Tissue uptake was highest in the lungs, peaking at 1 h."
+    },
+    "Question_8": {
+        "Context": "The study involved the labelling of leukocytes with zirconium-89 using a specific chelating agent.",
+        "Question": "What is the chelating agent used for labelling leukocytes with zirconium-89?",
+        "A": "Desferrioxamine",
+        "B": "Oxine",
+        "C": "HMPAO",
+        "D": "Df-Bz-NCS",
+        "Answer": "D",
+        "Source": "The study focused on the labelling of leukocytes (white blood cells) with zirconium-89 using p-isothiocyanatobenzyl-desferrioxamine B (Df-Bz-NCS)."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the potential applications of the radiolabelling technique with 89Zr.",
+        "Question": "What is one of the potential applications mentioned for the radiolabelling technique with 89Zr?",
+        "A": "Cancer treatment",
+        "B": "Stem cell tracking",
+        "C": "Cardiovascular imaging",
+        "D": "Neurological disorders",
+        "Answer": "B",
+        "Source": "The results suggest that this effective and safe radiolabelling approach can be translated into clinical trials and used potentially for monitoring inflammatory diseases."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the advantages of using zirconium-89 for cell labelling.",
+        "Question": "What is one of the advantages of using zirconium-89 for cell tracking?",
+        "A": "Low specificity",
+        "B": "Short half-life",
+        "C": "High sensitivity",
+        "D": "Low resolution",
+        "Answer": "C",
+        "Source": "Zirconium-89 (89Zr) is a long-lived, cyclotron-produced PET radioisotope with a half-life of 78.4 h, allowing for cell tracking over several days to weeks with high sensitivity, resolution, and specificity."
+    }
+}

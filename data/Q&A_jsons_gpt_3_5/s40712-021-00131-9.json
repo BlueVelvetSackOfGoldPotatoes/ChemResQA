@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effect of cone angle on the mechanical properties of aluminum alloy AA6061-T6 specimens in different welding processes.",
+        "Question": "What was found to be the optimum cone angle for tool pin in the symmetric DFSW process?",
+        "A": "5\u00b0",
+        "B": "10\u00b0",
+        "C": "15\u00b0",
+        "D": "20\u00b0",
+        "Answer": "B",
+        "Source": "The results highlighted that the optimum pin angle was 10\u00b0 in conical pins from the improved mechanical properties points of view in both symmetric and asymmetric DFSW processes."
+    },
+    "Question_2": {
+        "Context": "The study compared the mechanical properties of joints obtained from different welding processes.",
+        "Question": "Which welding process showed the closest mechanical properties to the base (parent) metal?",
+        "A": "SFSW",
+        "B": "Symmetric DFSW",
+        "C": "Asymmetric DFSW",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The peak samples of asymmetric DFSW had the closest mechanical properties to the base metal, in which YS, UTS, and E% parameters were 78.3%, 84.8%, and 86.4% of the base metal, respectively."
+    },
+    "Question_3": {
+        "Context": "The study discussed the effect of cone angle on the mechanical properties of welded specimens.",
+        "Question": "Which cone angle resulted in the highest mechanical properties in the SFSW process?",
+        "A": "0\u00b0",
+        "B": "5\u00b0",
+        "C": "10\u00b0",
+        "D": "15\u00b0",
+        "Answer": "D",
+        "Source": "In the SFSW process, using a 15\u00b0 cone angle resulted in the highest mechanical properties. In this case, YS, UTS, and E% experienced 40%, 17%, and 46.9% growth, respectively compared to the base case (cylindrical pin)."
+    },
+    "Question_4": {
+        "Context": "The study examined the hardness patterns of welded specimens.",
+        "Question": "Where did the lowest hardness values occur in all samples?",
+        "A": "Nugget Zone (NZ)",
+        "B": "Thermo-mechanically affected zone (TMAZ)",
+        "C": "Heat-affected zone (HAZ)",
+        "D": "Base metal",
+        "Answer": "C",
+        "Source": "Regardless of the welding process, the lowest hardness values in all samples occurred in the HAZ region. After HAZ region, the TMAZ and NZ regions attained the lowest hardness compared to the base material."
+    },
+    "Question_5": {
+        "Context": "The study analyzed the fracture locations in the tensile tests.",
+        "Question": "Where did the final fracture occur in the asymmetric DFSW process?",
+        "A": "Nugget Zone (NZ)",
+        "B": "Thermo-mechanically affected zone (TMAZ)",
+        "C": "Heat-affected zone (HAZ)",
+        "D": "Base metal",
+        "Answer": "A",
+        "Source": "In all asymmetric DFSW specimens, the final fracture occurred in the Nugget Zone (NZ) region."
+    },
+    "Question_6": {
+        "Context": "The study discussed the impact of cone angle on the mechanical properties of welded specimens.",
+        "Question": "Which welding process showed the highest mechanical properties at a cone angle of 10\u00b0?",
+        "A": "SFSW",
+        "B": "Symmetric DFSW",
+        "C": "Asymmetric DFSW",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The peak angle was 10\u00b0 in conical pins from the improved mechanical properties points of view in both symmetric and asymmetric DFSW processes."
+    },
+    "Question_7": {
+        "Context": "The study compared the mechanical properties of joints obtained from different welding processes.",
+        "Question": "Which process experienced the most significant growth in mechanical properties compared to the SFSW process?",
+        "A": "Symmetric DFSW",
+        "B": "Asymmetric DFSW",
+        "C": "Both symmetric and asymmetric DFSW",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "In the asymmetric DFSW process, the increase of YS, UTS, and E% for the peak state compared to the SFSW peak state was corresponding to 13.5%, 22.7%, and 20%."
+    },
+    "Question_8": {
+        "Context": "The study discussed the hardness patterns of welded specimens.",
+        "Question": "Where did the highest hardness values occur in all samples?",
+        "A": "Nugget Zone (NZ)",
+        "B": "Thermo-mechanically affected zone (TMAZ)",
+        "C": "Heat-affected zone (HAZ)",
+        "D": "Base metal",
+        "Answer": "D",
+        "Source": "After HAZ region, the hardness of the sample reached the hardness of the base metal (in the range of 95\u2013105)."
+    },
+    "Question_9": {
+        "Context": "The study examined the fracture locations in the tensile tests.",
+        "Question": "Where did the final fracture generally occur in the SFSW and symmetric DFSW processes?",
+        "A": "Nugget Zone (NZ)",
+        "B": "Thermo-mechanically affected zone (TMAZ)",
+        "C": "Heat-affected zone (HAZ)",
+        "D": "Base metal",
+        "Answer": "B",
+        "Source": "The final fracture location of the welded specimen in the tensile test was generally in the Thermo-mechanically affected zone (TMAZ) region."
+    },
+    "Question_10": {
+        "Context": "The study discussed the impact of cone angle on the mechanical properties of welded specimens.",
+        "Question": "Which cone angle resulted in the highest mechanical properties in the asymmetric DFSW process?",
+        "A": "5\u00b0",
+        "B": "10\u00b0",
+        "C": "15\u00b0",
+        "D": "20\u00b0",
+        "Answer": "B",
+        "Source": "The optimum pin angle was 10\u00b0 in conical pins from the improved mechanical properties points of view in both symmetric and asymmetric DFSW processes."
+    }
+}

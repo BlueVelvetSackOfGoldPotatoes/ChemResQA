@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the impact of microbe-derived metabolites and exosomes on neurodevelopment and neurodegenerative disorders using human induced pluripotent stem cells (iPSCs)-derived neurons in a gut-brain axis chip.",
+        "Question": "What was the main focus of the study?",
+        "A": "Impact of antibiotics on gut health",
+        "B": "Effect of exercise on brain function",
+        "C": "Influence of microbe-derived substances on neural growth",
+        "D": "Role of vitamins in neurodegenerative diseases",
+        "Answer": "C",
+        "Source": "our findings indicate that both microbial-derived metabolites and exosomes exert the significant effects on neural growth, maturation, and synaptic plasticity."
+    },
+    "Question_2": {
+        "Context": "The study aimed to recapitulate the physiological environment and functionality of the gut-brain axis chip by mimicking crucial organotypic cellular architecture, functionality, biochemical factors, and biophysical cues.",
+        "Question": "What was the goal of the experiment in relation to the gut-brain axis chip?",
+        "A": "To study the effects of exercise on gut health",
+        "B": "To investigate the impact of microbe-derived substances on neural differentiation",
+        "C": "To analyze the role of vitamins in synaptic plasticity",
+        "D": "To assess the influence of antibiotics on neurodevelopment",
+        "Answer": "B",
+        "Source": "In this study, we investigated the impact of microbe-derived metabolites and exosomes on neurodevelopment and neurodegenerative disorders using human induced pluripotent stem cells (iPSCs)-derived neurons in a gut-brain axis chip."
+    },
+    "Question_3": {
+        "Context": "The study utilized the gut-brain axis chip to explore the interaction of gut-derived metabolites within a human brain microenvironment.",
+        "Question": "What was the specific purpose of using the gut-brain axis chip in the experiment?",
+        "A": "To study the effects of antibiotics on gut microbiota",
+        "B": "To investigate the impact of gut-derived metabolites on neural differentiation",
+        "C": "To analyze the role of vitamins in neurodegenerative diseases",
+        "D": "To assess the influence of exercise on synaptic plasticity",
+        "Answer": "B",
+        "Source": "To explore the interaction of gut-derived metabolites within a human brain microenvironment, we developed a gut-brain axis chip."
+    },
+    "Question_4": {
+        "Context": "The study compared the differentiation and polarization of Caco-2 cells under static and fluidic conditions on the gut chip.",
+        "Question": "What was the outcome of the analysis of Caco-2 cells under fluidic conditions?",
+        "A": "Reduced cell junction formation",
+        "B": "Increased cell diameter and round morphology",
+        "C": "Enhanced cell polarization and differentiation",
+        "D": "Decreased cell height and uniform distribution",
+        "Answer": "C",
+        "Source": "Immunofluorescence staining confirmed the presence of markers indicative of cellular integrity, polarization, and morphological characteristics under both static and fluidic conditions."
+    },
+    "Question_5": {
+        "Context": "The study introduced microbiota to the gut chip to assess the viability and colonization of specific bacterial strains.",
+        "Question": "What was observed when Hy7714 and Hy2782 were cultured under fluidic conditions?",
+        "A": "Overgrowth of bacteria",
+        "B": "Stable colonization with no overgrowth",
+        "C": "Decreased bacterial viability",
+        "D": "Increased bacterial resistance",
+        "Answer": "B",
+        "Source": "Notably, when Hy7714 and Hy2782 were cultured under fluidic conditions, the number of colonized bacteria on the gut chip remained stable, exhibiting no signs of overgrowth even after culturing for 5 days."
+    },
+    "Question_6": {
+        "Context": "The study investigated the impact of microbe-derived metabolites on neural growth using human iNSCs in a brain chip.",
+        "Question": "What was the significant finding regarding the effect of microbe-derived metabolites on neural growth?",
+        "A": "Decreased neurite length",
+        "B": "Increased neurite growth and maturation",
+        "C": "No impact on neural differentiation",
+        "D": "Reduced synaptic plasticity",
+        "Answer": "B",
+        "Source": "Our results suggest that metabolites derived from microbes hold promise as potential candidates and strategies for addressing neurodevelopmental and neurodegenerative disorders."
+    },
+    "Question_7": {
+        "Context": "The study assessed the impact of microbe-derived exosomes on neural differentiation in a brain chip.",
+        "Question": "What was the outcome of the analysis of neural markers in the exosome-treated groups?",
+        "A": "Decreased expression of neural markers",
+        "B": "Increased axonal growth and neural maturation",
+        "C": "No effect on neural differentiation",
+        "D": "Reduced synapse-related protein expression",
+        "Answer": "B",
+        "Source": "Consistent with the immunofluorescence analysis, we observed the high expression of neural markers, including neurofilament, Tuj1, and MAP2, in the exosome-treated groups."
+    },
+    "Question_8": {
+        "Context": "The study examined the effect of microbe-derived metabolites and exosomes on synaptic plasticity in neural cells.",
+        "Question": "What was the observed impact of microbe-derived exosomes on synapse-related proteins?",
+        "A": "Decreased expression of synaptic proteins",
+        "B": "Increased expression of synaptic proteins",
+        "C": "No effect on synaptic plasticity",
+        "D": "Reduced axonal growth",
+        "Answer": "B",
+        "Source": "Immunofluorescence analysis revealed an increased protein expression of PSD95 and GAP43 in differentiated neurons following exposure to microbe-derived metabolites and exosomes."
+    },
+    "Question_9": {
+        "Context": "The study investigated the potential therapeutic effects of microbe-derived metabolites and exosomes in an Alzheimer's disease model.",
+        "Question": "What was the main finding regarding the impact of microbe-derived substances on Alzheimer's disease models?",
+        "A": "Decreased axonal growth in the presence of amyloid-beta",
+        "B": "Increased axonal growth and synaptic activity despite amyloid-beta treatment",
+        "C": "No effect on neural differentiation in Alzheimer's disease models",
+        "D": "Reduced expression of synapse-related proteins in Alzheimer's disease models",
+        "Answer": "B",
+        "Source": "The metabolite- and exosome-treated groups had significantly more axonal growth and formation of neural network than the control group, despite the amyloid beta treatment."
+    },
+    "Question_10": {
+        "Context": "The study concluded that microbe-derived metabolites and exosomes could potentially serve as therapeutic candidates for addressing neurodevelopmental and neurodegenerative disorders.",
+        "Question": "What was the proposed potential of microbe-derived metabolites and exosomes in the context of neurodevelopment and neurodegenerative diseases?",
+        "A": "No therapeutic potential",
+        "B": "Potential as therapeutic candidates",
+        "C": "Negative impact on neural growth",
+        "D": "Limited effect on synaptic plasticity",
+        "Answer": "B",
+        "Source": "Therefore, we confirmed the potential of microbe-derived metabolites and exosomes as therapeutic candidates for the treatment of Alzheimer's disease."
+    }
+}

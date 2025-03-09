@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Chitooligosaccharides (COS) are derived from chitosan and have various applications due to their unique properties.",
+        "Question": "What is the primary method for producing chitooligosaccharides (COS)?",
+        "A": "Chemical synthesis",
+        "B": "Enzymatic hydrolysis",
+        "C": "Fermentation",
+        "D": "Physical extraction",
+        "Answer": "B",
+        "Source": "Enzymatic hydrolysis of chitosan by chitosanase is considered an advantageous route for COS production."
+    },
+    "Question_2": {
+        "Context": "Chitosanase is an enzyme that can catalyze the breakdown of chitosan into chitooligosaccharides.",
+        "Question": "Which organism is commonly used for the heterologous expression of chitosanase?",
+        "A": "Escherichia coli",
+        "B": "Pichia pastoris",
+        "C": "Saccharomyces cerevisiae",
+        "D": "Aspergillus fumigatus",
+        "Answer": "C",
+        "Source": "In this investigation, we opted for using the safe yeast strain Saccharomyces cerevisiae (GRAS), obviating the need for methanol induction, resulting in successful expression."
+    },
+    "Question_3": {
+        "Context": "The optimal conditions for enzyme activity are crucial for efficient catalysis.",
+        "Question": "At what temperature was the optimal chitosanase activity achieved?",
+        "A": "30\u00b0C",
+        "B": "45\u00b0C",
+        "C": "55\u00b0C",
+        "D": "80\u00b0C",
+        "Answer": "C",
+        "Source": "The optimal chitosanase activity was achieved at 55\u2103."
+    },
+    "Question_4": {
+        "Context": "Enzymes have optimal pH ranges where their activity is maximized.",
+        "Question": "What is the optimal pH for chitosanase activity?",
+        "A": "pH 3",
+        "B": "pH 5",
+        "C": "pH 7",
+        "D": "pH 9",
+        "Answer": "B",
+        "Source": "The optimal chitosanase activity was achieved at... pH 5."
+    },
+    "Question_5": {
+        "Context": "Enzyme stability across different temperatures is important for practical applications.",
+        "Question": "Between which temperature ranges did chitosanase show favorable stability?",
+        "A": "20 to 40 \u00b0C",
+        "B": "30 to 50 \u00b0C",
+        "C": "40 to 60 \u00b0C",
+        "D": "50 to 70 \u00b0C",
+        "Answer": "B",
+        "Source": "With favorable stability between 30 and 50 \u00b0C."
+    },
+    "Question_6": {
+        "Context": "Chitosanase can produce different lengths of chitooligosaccharides through enzymatic hydrolysis.",
+        "Question": "What were the primary products of chitosanase enzymatic hydrolysis?",
+        "A": "Chitobiose to chitohexaose",
+        "B": "Chitobiose to chitotetraose",
+        "C": "Chitotriose to chitopentaose",
+        "D": "Chitotetraose to chitohexaose",
+        "Answer": "B",
+        "Source": "Following a 2-h catalytic reaction, the product primarily consisted of chitobiose to chitotetraose."
+    },
+    "Question_7": {
+        "Context": "Chitosanase activity can be influenced by the presence of metal ions.",
+        "Question": "Which of the following metal ions was not mentioned as having an impact on the activity of recombinant chitosanase?",
+        "A": "Zn2+",
+        "B": "Cu2+",
+        "C": "Na+",
+        "D": "Mn2+",
+        "Answer": "C",
+        "Source": "Various metal ions, including Zn2+, Cu2+, Mg2+, Fe3+, Ca2+, K+, and Mn2+, were introduced to attain a final concentration of 10.0 mM."
+    },
+    "Question_8": {
+        "Context": "The CRISPR-Cas9 system is a powerful tool for genome editing and can be used to enhance the production of enzymes.",
+        "Question": "What genome editing system was used to modify the genomic content of Saccharomyces cerevisiae for chitosanase production?",
+        "A": "ZFN-CRISPR",
+        "B": "TALEN-CRISPR",
+        "C": "GTR-CRISPR",
+        "D": "HDR-CRISPR",
+        "Answer": "C",
+        "Source": "Ultimately, utilizing the GTR-CRISPR editing system, shake flask enzyme activity reached 2 U/ml."
+    },
+    "Question_9": {
+        "Context": "Chitosanase enzymes are classified into different families based on their structure and function.",
+        "Question": "Which of the following glycoside hydrolase families does not contain chitosan-specific hydrolases?",
+        "A": "GH5",
+        "B": "GH46",
+        "C": "GH75",
+        "D": "GH80",
+        "Answer": "A",
+        "Source": "Among these families, GH5 and GH8 exhibit chitosan hydrolytic activity and demonstrate the capability to degrade other glycosides, whereas GH46, GH75, and GH80 are dedicated chitosan-specific hydrolases."
+    },
+    "Question_10": {
+        "Context": "The expression of chitosanase in different host organisms can result in varying levels of enzyme activity.",
+        "Question": "Which host organism was shown to have a higher chitosanase activity when expressing the chitosanase gene?",
+        "A": "Escherichia coli",
+        "B": "Pichia pastoris",
+        "C": "Saccharomyces cerevisiae",
+        "D": "Aspergillus fumigatus",
+        "Answer": "C",
+        "Source": "The chitosanase gene in this study has a higher enzyme activity (2 U/ml) in Saccharomyces cerevisiae than other sources of chitosanase."
+    }
+}

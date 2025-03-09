@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the application of a quantum classification algorithm in distinguishing metallic states from insulating states of vanadium dioxide (VO2).",
+        "Question": "What was the parameter used to determine the minimum inner product between the centroid vector and arbitrary vectors with the same sublabel in the classification of metallic and insulating states of VO2?",
+        "A": "0.99",
+        "B": "0.95",
+        "C": "1.0",
+        "D": "0.90",
+        "Answer": "A",
+        "Source": "Here we set D = 0.99."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the classification of randomly generated data using a quantum classification algorithm.",
+        "Question": "How many sublabels were obtained from the training data in the classification of randomly generated data?",
+        "A": "54",
+        "B": "32",
+        "C": "64",
+        "D": "128",
+        "Answer": "A",
+        "Source": "After appropriate learning process, 54 sublabels (22 for red and 32 for blue) are obtained from the training data."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the classification of entanglement in Werner states using a quantum classification algorithm.",
+        "Question": "How many test data points were used in the classification of entanglement in Werner states?",
+        "A": "400",
+        "B": "200",
+        "C": "100",
+        "D": "64",
+        "Answer": "A",
+        "Source": "We prepared 200 entangled states and 200 untangled states as the test data."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the classification of entanglement in Werner states using a quantum classification algorithm.",
+        "Question": "How many points were predicted with wrong labels when the training set contained 32 points?",
+        "A": "12",
+        "B": "8",
+        "C": "16",
+        "D": "4",
+        "Answer": "A",
+        "Source": "In (a), the training set only contains 32 points, and we keep them all as sublabels. So that there are 7 qubits in the classification circuit (5 for sublabels and 2 for test data). 12 points are predicted with wrong label."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the classification of entanglement in Werner states using a quantum classification algorithm.",
+        "Question": "How many points were predicted with wrong labels when the training set contained 64 points?",
+        "A": "8",
+        "B": "12",
+        "C": "4",
+        "D": "16",
+        "Answer": "B",
+        "Source": "In (b) the training set contains 64 points and all are kept as sublabels, and there are 8 qubits in the classification circuit. Finally 8 points are predicted with wrong labels."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the classification of entanglement in Werner states using a quantum classification algorithm.",
+        "Question": "How many points were predicted with wrong labels when the training set contained 128 points?",
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "4",
+        "Answer": "A",
+        "Source": "In (c) there are 128 points in the learning set and we derived 64 sublabels. Similarly as (b) we need 8 qubits to build the classification circuit, and only 6 qubits are predicted with wrong sublabels."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the application of a quantum classification algorithm in distinguishing metallic states from insulating states of vanadium dioxide (VO2).",
+        "Question": "How many sublabels were required for the insulating states and metallic states in the classification of VO2?",
+        "A": "7 and 8",
+        "B": "5 and 6",
+        "C": "10 and 12",
+        "D": "3 and 4",
+        "Answer": "A",
+        "Source": "Finally we need 7 sublabels for insulating states and 8 sublabels for metallic states, which means that the classification circuit consists of 5 qubits (4 for sublabels as control qubit and 1 for data)."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the application of a quantum classification algorithm in distinguishing metallic states from insulating states of vanadium dioxide (VO2).",
+        "Question": "What was the reason for the error in prediction when Pressure (P) or Temperature (T) was small in the classification of metallic and insulating states of VO2?",
+        "A": "Few vectors in these areas were used in the training process.",
+        "B": "Incorrect mapping of vectors.",
+        "C": "Insufficient sublabels.",
+        "D": "Incorrect quantum gates.",
+        "Answer": "A",
+        "Source": "The error appears because of the fact that few vectors in these areas where used in the training process."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the application of a quantum classification algorithm in distinguishing metallic states from insulating states of vanadium dioxide (VO2).",
+        "Question": "What was the significance of mapping data into [0, 2\u03c0] \u00d7 [0, 2\u03c0] in the classification of metallic and insulating states of VO2?",
+        "A": "To focus on the performance at low temperature.",
+        "B": "To improve the prediction results.",
+        "C": "To simplify the classification process.",
+        "D": "To speed up the quantum algorithm.",
+        "Answer": "B",
+        "Source": "To get a better prediction results, an option is to map both training data and test data into [0, \u03c0] \u00d7 [0, \u03c0] instead of [0, 2\u03c0] \u00d7 [0, 2\u03c0]. However, here we do not focus on the performance at low temperature, nor the phase transition about P = 20GPa. As a result, mapping data into [0, 2\u03c0] \u00d7 [0, 2\u03c0] is still an acceptable choice."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the application of a quantum classification algorithm in distinguishing metallic states from insulating states of vanadium dioxide (VO2).",
+        "Question": "What was the method used to classify vectors in higher dimensional space?",
+        "A": "Mapping method I",
+        "B": "Mapping method II",
+        "C": "Both Mapping method I and II",
+        "D": "No method was discussed for higher dimensional space.",
+        "Answer": "C",
+        "Source": "Depending on the structure of qubits, two different mapping methods can be used: Mapping method I and Mapping method II."
+    }
+}

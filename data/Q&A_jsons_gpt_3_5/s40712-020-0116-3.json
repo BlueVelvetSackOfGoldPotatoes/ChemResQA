@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Experimental setup for blast loading on composite plates",
+        "Question": "What method was used to record the maximum deformation of the plate during the TNT explosion in the experimental work?",
+        "A": "Digital Image Correlation (DIC) method",
+        "B": "Smooth Particle Hydrodynamics (SPH)",
+        "C": "Load Blast Enhanced (LBE)",
+        "D": "Sewing needle pin method",
+        "Answer": "D",
+        "Source": "In the experimental work, the focus was on the measurement of the maximum deformation at the center of the plate during the explosion. The maximum deformation was recorded using a simple method called sewing needle pad method as is shown in Fig. 3."
+    },
+    "Question_2": {
+        "Context": "Numerical analysis methods for blast loading simulation",
+        "Question": "Which method showed better agreement with experimental results in analyzing the response of composite plates subjected to blast loading?",
+        "A": "Load Blast Enhanced (LBE)",
+        "B": "Smooth Particle Hydrodynamics (SPH)",
+        "C": "Multi Material Arbitrary Language Euler (MM-ALE)",
+        "D": "Fluid Structure Interaction (FSI)",
+        "Answer": "B",
+        "Source": "The numerical analysis showed that the SPH model gave better agreement with experimental results compared with the CONWEP method."
+    },
+    "Question_3": {
+        "Context": "Experimental and numerical analysis results comparison",
+        "Question": "What was the difference in percentage between the experimental maximum deformation and the SPH simulation without air model for the 12-layer plate with 100g TNT and 300mm SoD?",
+        "A": "73%",
+        "B": "60%",
+        "C": "14%",
+        "D": "8%",
+        "Answer": "B",
+        "Source": "The SPH numerical model without modeling the air predict the maximum plate deflection much lower compared with maximum deflection measured during experimentation. The difference was as high as 60%."
+    },
+    "Question_4": {
+        "Context": "Comparison between LBE and SPH methods",
+        "Question": "Which method underestimated the maximum deflection of the plate compared to the experimental data?",
+        "A": "Load Blast Enhanced (LBE)",
+        "B": "Smooth Particle Hydrodynamics (SPH)",
+        "C": "Multi Material Arbitrary Language Euler (MM-ALE)",
+        "D": "Fluid Structure Interaction (FSI)",
+        "Answer": "A",
+        "Source": "Overall, LBE method gives lower maximum deformation compared with SPH method and experimental data."
+    },
+    "Question_5": {
+        "Context": "Effect of stand-off distance on maximum deformation",
+        "Question": "How does the stand-off distance affect the maximum deformation of the plate during blast loading?",
+        "A": "Increasing stand-off distance decreases deformation",
+        "B": "Decreasing stand-off distance increases deformation",
+        "C": "Stand-off distance has no effect on deformation",
+        "D": "Stand-off distance only affects the type of deformation",
+        "Answer": "B",
+        "Source": "Table 8 shows that the SoD was the dominant factor in the blast loading. Shortening the SoD by half and keeping the same number of layers and the mass of TNT will produce an increase of the deformation by 24%."
+    },
+    "Question_6": {
+        "Context": "Experimental results on plate deformation",
+        "Question": "Did any of the specimens fail or rupture after the blast loading?",
+        "A": "All specimens failed",
+        "B": "Some specimens failed",
+        "C": "No specimens failed",
+        "D": "The text does not mention the outcome",
+        "Answer": "C",
+        "Source": "In all the tests, the specimens did not fail or rupture after the blast loading. Thus, the specimens were able to withstand the blast loading."
+    },
+    "Question_7": {
+        "Context": "Numerical analysis methods for blast loading simulation",
+        "Question": "What is the purpose of including the air model in the SPH method for blast loading simulation?",
+        "A": "To decrease the computational time",
+        "B": "To increase the accuracy of the simulation",
+        "C": "To simplify the modeling process",
+        "D": "To reduce the number of required nodes",
+        "Answer": "B",
+        "Source": "Excluding air model grossly underestimated the maximum deflection of the plate. Therefore, including the air model is important in producing maximum deformation which is comparable with the experimental data."
+    },
+    "Question_8": {
+        "Context": "Comparison between LBE and SPH methods",
+        "Question": "Which method showed a smaller deformation compared to the experimental results?",
+        "A": "Load Blast Enhanced (LBE)",
+        "B": "Smooth Particle Hydrodynamics (SPH)",
+        "C": "Multi Material Arbitrary Language Euler (MM-ALE)",
+        "D": "Fluid Structure Interaction (FSI)",
+        "Answer": "A",
+        "Source": "Table 8 shows that numerical analysis gives smaller deformation compared with the experimental results. LBE method produces even smaller deformation compared to SPH method."
+    },
+    "Question_9": {
+        "Context": "Experimental setup for blast loading on composite plates",
+        "Question": "What material was used to manufacture the composite plate for blast loading experimentation?",
+        "A": "S-glass/phenol",
+        "B": "E-glass/epoxy",
+        "C": "Carbon fiber/epoxy",
+        "D": "Aluminum alloy",
+        "Answer": "B",
+        "Source": "The testing of E-glass/epoxy and S-glass/phenol plates under blast loading has been performed."
+    },
+    "Question_10": {
+        "Context": "Numerical analysis methods for blast loading simulation",
+        "Question": "What is the purpose of the *LOAD_BLAST_ENHANCED card in LS-DYNA software?",
+        "A": "To define the explosive material properties",
+        "B": "To model the blast loading on the composite plate",
+        "C": "To apply the blast loading on all composite elements",
+        "D": "To determine the boundary conditions of the simulation",
+        "Answer": "C",
+        "Source": "The load blast need to be applied on all composite elements as a segment; hence, *LOAD_BLAST_SEGMEN_SET card has to be defined."
+    }
+}

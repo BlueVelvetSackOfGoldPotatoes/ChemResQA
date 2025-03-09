@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of machine learning in theoretical materials science.",
+        "Question": "What is the main goal of continuum mechanics?",
+        "A": "To establish the macroscopic response to a stimulus in a given geometry for a certain material.",
+        "B": "To derive governing equations from first principles starting from a microscopic description.",
+        "C": "To predict molecular properties using machine learning techniques.",
+        "D": "To develop accurate density functional theory force fields.",
+        "Answer": "A",
+        "Source": "The common goal of continuum mechanics is to establish the macroscopic response to a stimulus in a given geometry for a certain material."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the limitations of traditional approaches in mechanics.",
+        "Question": "What is a limitation of fitting data with trial functions?",
+        "A": "Humans are able to visualize data fitting in more than three dimensions.",
+        "B": "It is limited by a bias regarding the functional relations.",
+        "C": "It performs well for non-linear patterns.",
+        "D": "It is not computationally feasible.",
+        "Answer": "B",
+        "Source": "The second approach is limited by a bias regarding the functional relations."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the workflow of machine learning in physics and mechanics.",
+        "Question": "What is the typical modus operandi in machine learning?",
+        "A": "To predict a target Y with features X by maximizing the cost function C.",
+        "B": "To split the available data into training and test sets.",
+        "C": "To choose features X based on general symmetry considerations.",
+        "D": "To minimize the cost function C with respect to the trainable parameters \u03b1.",
+        "Answer": "B",
+        "Source": "The typical modus operandi in ML is to split the available data in training and test sets."
+    },
+    "Question_4": {
+        "Context": "The paper discusses machine learning applications in dislocation dynamics and crystal plasticity.",
+        "Question": "What is the hierarchical simulation workflow in dislocations-based plasticity?",
+        "A": "To describe dislocation pattern formation on a macroscopic scale.",
+        "B": "To pass parameters from lower scale models to higher scale theories.",
+        "C": "To predict the stress-strain behavior of individual samples.",
+        "D": "To develop mod- els incorporating characteristics of lower scale simulations.",
+        "Answer": "B",
+        "Source": "The hierarchical simulation workflow is to pass parameters from the lower scale models to higher scale theories."
+    },
+    "Question_5": {
+        "Context": "The paper discusses machine learning applications in atomistic glasses.",
+        "Question": "What was the goal of the first approach by Cubuk et al. (2015) in predicting plastically deformed atoms?",
+        "A": "To predict the stress-strain behavior of individual samples.",
+        "B": "To classify whether an atom's non-affine displacement has exceeded a certain threshold.",
+        "C": "To predict the microstructure evolution of the center voxel in a cube.",
+        "D": "To construct short and medium range features from interstice distributions.",
+        "Answer": "B",
+        "Source": "The first approach was based on the use of symmetry functions to classify whether an atom's non-affine displacement has exceeded a certain threshold."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the discovery of functions and partial differential equations from data.",
+        "Question": "What is the basic mathematical assumption to the model for discovering governing equations?",
+        "A": "To look for an approximation of f.",
+        "B": "To construct a collection of possible functions.",
+        "C": "To measure X and \u02d9X.",
+        "D": "To solve a linear problem.",
+        "Answer": "A",
+        "Source": "The basic mathematical assumption to the model is that we are interested in the time evolution of some quantity \u02d9X = f (X) and look for an approximation of f."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the use of machine learning in mechanics and physics-related questions.",
+        "Question": "What is a disadvantage of using deep learning approaches in machine learning?",
+        "A": "They are very accurate in many applications.",
+        "B": "They remain often quite difficult to interpret.",
+        "C": "They are easy to understand.",
+        "D": "They are optimal with respect to performance.",
+        "Answer": "B",
+        "Source": "In contrast, decision trees or even linear regression models are much easier to understand than deep learning but are far from optimal with respect to performance."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the successful applications of machine learning in recent years.",
+        "Question": "What is highlighted as vital when applying machine learning to mechanics/physics-related questions?",
+        "A": "Increasing accuracy without focusing on interpretability.",
+        "B": "Incorporating the underlying symmetry of the physical problem.",
+        "C": "Using deep learning approaches exclusively.",
+        "D": "Ignoring the use of interpretable features and estimators.",
+        "Answer": "B",
+        "Source": "In our opinion, it is vital to incorporate the underlying symmetry of the physical problem in the ML model in order to build a stable model with fewer training data."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the limitations of applying machine learning methods to experiments.",
+        "Question": "What is a major difficulty in applying machine learning methods to 2D/3D data from experiments?",
+        "A": "Parts of the information are limited by the precision of the measurement and noise.",
+        "B": "The missing dimension will not affect the prediction.",
+        "C": "The analysis will be quantitative by nature.",
+        "D": "The missing dimension will not render the prediction impossible.",
+        "Answer": "A",
+        "Source": "Parts of the information are limited by the precision of the measurement and noise."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the conclusion regarding the successful applications of machine learning in various fields.",
+        "Question": "What is the promise of combining first principles and data science in expanding knowledge?",
+        "A": "To focus solely on increasing accuracy.",
+        "B": "To use interpretable features and estimators.",
+        "C": "To develop novel data-driven materials theories.",
+        "D": "To ignore the underlying symmetry of the physical problem.",
+        "Answer": "C",
+        "Source": "This combination of first principles and data science promises to be a highly rewarding endeavour to expand our knowledge and develop novel data-driven materials theories."
+    }
+}

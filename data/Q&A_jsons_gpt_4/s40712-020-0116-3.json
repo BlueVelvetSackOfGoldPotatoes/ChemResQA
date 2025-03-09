@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Composite materials are often used for protective structures due to their lightness and high strength. Understanding the behavior of these materials under different loading conditions is crucial for their safe application.",
+        "Question": "What is the typical response of composite materials like woven glass/epoxy when subjected to blast loading?",
+        "A": "They undergo significant plastic deformation",
+        "B": "They shatter into small fragments",
+        "C": "They can withstand the blast without rupturing",
+        "D": "They experience a phase transition",
+        "Answer": "C",
+        "Source": "In all the tests, the specimens did not fail or rupture after the blast loading. Thus, the specimens were able to withstand the blast loading."
+    },
+    "Question_2": {
+        "Context": "The behavior of structures under blast loading is influenced by various factors including the mass of the explosive and the distance from the explosion.",
+        "Question": "Which factors are known to significantly affect the deformation of structures when subjected to blast loading?",
+        "A": "Color and texture of the structure",
+        "B": "Mass of the explosive and stand-off distance",
+        "C": "Ambient temperature and humidity",
+        "D": "Angle of sunlight and time of day",
+        "Answer": "B",
+        "Source": "The effect of blast loading on structures generally depended on explosive\u2019s mass and the stand-off distance between the explosive devices and the structures."
+    },
+    "Question_3": {
+        "Context": "Numerical analysis using various methods can be employed to predict the response of materials to blast loading, which is essential for designing protective structures.",
+        "Question": "Which numerical method is indicated to provide a better agreement with experimental results when analyzing the response of composite plates subjected to blast loading?",
+        "A": "Finite Element Method (FEM)",
+        "B": "Smooth Particle Hydrodynamics (SPH)",
+        "C": "Load Blast Enhanced (LBE)",
+        "D": "Conventional Weighted Pressure (CONWEP)",
+        "Answer": "B",
+        "Source": "The numerical analysis showed that the SPH model gave better agreement with experimental results compared with CONWEP method."
+    },
+    "Question_4": {
+        "Context": "In the context of blast loading, the stand-off distance is the distance between the explosive material and the target structure.",
+        "Question": "What is the effect of reducing the stand-off distance on the deformation experienced by a composite plate subjected to blast loading?",
+        "A": "Decreases the deformation",
+        "B": "Increases the deformation",
+        "C": "Has no effect on the deformation",
+        "D": "Changes the deformation unpredictably",
+        "Answer": "B",
+        "Source": "The larger TNT mass and the shorter SoD will produce higher deformation."
+    },
+    "Question_5": {
+        "Context": "The properties of composite materials, such as woven glass/epoxy, are characterized by various mechanical parameters.",
+        "Question": "Which property of a woven glass/epoxy composite is NOT typically characterized for mechanical analysis?",
+        "A": "Density",
+        "B": "Young\u2019s modulus",
+        "C": "Shear strength",
+        "D": "Electrical conductivity",
+        "Answer": "D",
+        "Source": "Property Symbol Value Unit Density RO 1900 kg/m3 Young\u2018s modulus longitudinal direction E11 13259 MPa Young\u2018s modulus transverse direction E22 13259 MPa Shear modulus G12 3032 MPa Longitudinal compressive strength XC 307 MPa Longitudinal tensile strength XT 261 MPa Transverse compressive strength YC 307 MPa Transverse tensile strength YT 261 MPa Shear strength SC 80 MPa Poison ratio PRBA 0.159 \u2013"
+    },
+    "Question_6": {
+        "Context": "The mechanical properties of materials are crucial for predicting their behavior under different loading conditions, such as blast loading.",
+        "Question": "What is the unit of measure for Young's modulus when characterizing the mechanical properties of materials like woven glass/epoxy?",
+        "A": "Pascal (Pa)",
+        "B": "Joule (J)",
+        "C": "Megapascal (MPa)",
+        "D": "Newton (N)",
+        "Answer": "C",
+        "Source": "Young\u2018s modulus longitudinal direction E11 13259 MPa Young\u2018s modulus transverse direction E22 13259 MPa"
+    },
+    "Question_7": {
+        "Context": "The Chang-Chang failure criteria is a set of conditions used to predict the failure of composite materials under certain loading conditions.",
+        "Question": "What is the purpose of the Chang-Chang failure criteria in the context of numerical analysis of composite materials?",
+        "A": "To predict electrical failure",
+        "B": "To predict thermal failure",
+        "C": "To predict mechanical failure",
+        "D": "To predict chemical degradation",
+        "Answer": "C",
+        "Source": "The composite plate was modeled as shell elements using MAT54, and the failure criteria was Chang-Chang failure criteria."
+    },
+    "Question_8": {
+        "Context": "The response of composite materials to blast loading can be measured experimentally using various methods.",
+        "Question": "Which experimental method was used to measure the maximum deformation of a composite plate during a TNT explosion?",
+        "A": "Digital Image Correlation (DIC)",
+        "B": "Sewing needle pin method",
+        "C": "Laser scanning",
+        "D": "Ultrasonic testing",
+        "Answer": "B",
+        "Source": "Experimentally, the sewing needle method was able to measure the plate maximum deformation during the explosion."
+    },
+    "Question_9": {
+        "Context": "The density of a material is a fundamental physical property that influences its mechanical behavior.",
+        "Question": "What is the density of the woven glass/epoxy composite material used in the context of blast loading?",
+        "A": "1000 kg/m3",
+        "B": "1500 kg/m3",
+        "C": "1900 kg/m3",
+        "D": "2000 kg/m3",
+        "Answer": "C",
+        "Source": "Density RO 1900 kg/m3"
+    },
+    "Question_10": {
+        "Context": "The Smooth Particle Hydrodynamics (SPH) method is a numerical technique used to simulate the behavior of materials under dynamic loading conditions.",
+        "Question": "In the SPH method, what is the importance of including an air model in the analysis of blast loading on composite materials?",
+        "A": "It allows for the simulation of underwater explosions",
+        "B": "It ensures the conservation of mass in the simulation",
+        "C": "It helps to accurately transfer the blast pressure to the material",
+        "D": "It reduces the computational time of the simulation",
+        "Answer": "C",
+        "Source": "It was necessary to include air model in the analysis. Excluding air model grossly underestimated the maximum deflection of the plate."
+    }
+}

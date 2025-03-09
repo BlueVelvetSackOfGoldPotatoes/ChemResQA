@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the advantages of MEMS scanners and their driving mechanisms.",
+        "Question": "What is a key advantage of MEMS scanners mentioned in the text?",
+        "A": "Large size",
+        "B": "High power consumption",
+        "C": "Slow operation",
+        "D": "Compact size leading to rapid operation and low power consumption",
+        "Answer": "D",
+        "Source": "MEMS scanners offer the advantages of compact size leading to rapid operation, and low power consumption."
+    },
+    "Question_2": {
+        "Context": "The paper compares different types of vertical combs used in MEMS scanners.",
+        "Question": "Which type of comb-drive actuator is highlighted for its near absence of hysteresis and relative ease of fabrication?",
+        "A": "Electromagnetic",
+        "B": "Piezoelectric",
+        "C": "Electrostatic",
+        "D": "Electrothermal",
+        "Answer": "C",
+        "Source": "Among them, the electrostatic comb-drive method stands out for its near absence of hysteresis and relative ease of fabrication."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the advantages and limitations of different types of MEMS scanners.",
+        "Question": "What advantage does the quasi-static (QS) type scanner have over the resonance (RS) type scanner?",
+        "A": "Capable of driving the mirror with frequencies and waveforms desired by the user",
+        "B": "Requires a height difference between fixed and movable combs",
+        "C": "Has a rigid spring",
+        "D": "Can control the operating frequency only within a narrow range",
+        "Answer": "A",
+        "Source": "The quasi-static (QS) type scanner has the advantage of being capable of driving the mirror with frequencies and waveforms desired by the user."
+    },
+    "Question_4": {
+        "Context": "The paper introduces a new type of MEMS scanner with concentric vertical combs (CVC).",
+        "Question": "How does the CVC type MEMS scanner improve linearity compared to the AVC type?",
+        "A": "By increasing the driving angles of the rotor",
+        "B": "By requiring a more complex fabrication process",
+        "C": "By maximizing overlapped area of comb resulting in an improvement in linearity",
+        "D": "By having poor linearity due to non-uniform increments of \u03b4A/\u03b4\u03b8",
+        "Answer": "C",
+        "Source": "CVCs are different from AVC in that the movable combs are always angularly aligned with the stationary comb regardless of angular position of the movable electrodes. Thus, the increments of the overlapping area in the CVC type is almost constant, resulting in an improvement in linearity."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the experimental setup and results of the fabricated MEMS scanner with CVC.",
+        "Question": "What is the theoretical OSA achieved with an input voltage of 130 V?",
+        "A": "13.5 degrees",
+        "B": "15.47 degrees",
+        "C": "11.6 degrees",
+        "D": "9.7 degrees",
+        "Answer": "B",
+        "Source": "In the simulation, an input voltage of 130 V is applied to the scanner, resulting in an OSA of 15.47 degrees."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the fabrication process and design of the MEMS scanner with CVC.",
+        "Question": "What is used to magnify the scanning angle in the design of the MEMS scanner?",
+        "A": "Electrodes",
+        "B": "Capacitance",
+        "C": "Angle-amplifying linkages",
+        "D": "Torsional spring",
+        "Answer": "C",
+        "Source": "Angle-amplifying linkages, as shown in Fig. 4, are also employed to magnify the scanning angle."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the comparison of different types of MEMS scanners.",
+        "Question": "Which type of MEMS scanner showed an average OSA of 13.5 degrees?",
+        "A": "SVC",
+        "B": "AVC",
+        "C": "CVC",
+        "D": "RS",
+        "Answer": "C",
+        "Source": "The proposed scanner chips were fabricated through a simple process using three masks, as depicted in Fig. 7. The overall structure and morphology of the produced chip are displayed in the photo image of Fig. 8, where the rotation axes of the stator and rotor coincide, along with a link structure to amplify the OSA of the mirror."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the input shaping method for MEMS scanners.",
+        "Question": "What is recommended to suppress ripples in the output waveform when using complex input signals?",
+        "A": "Increasing the stiffness of the torsional spring",
+        "B": "Applying a shaped input acquired from transfer function and static response curve",
+        "C": "Employing a high pass filter",
+        "D": "Reducing the resonant frequency",
+        "Answer": "B",
+        "Source": "By applying an input shaping method based on the transfer function and static response of the MEMS mirror scanner, the shaped input waveform was theoretically calculated for the target output of triangular output waveform."
+    },
+    "Question_9": {
+        "Context": "The paper concludes with recommendations for future improvements in MEMS scanners.",
+        "Question": "What is a potential option to decrease ripples in the output waveform?",
+        "A": "Increasing the resonant frequency",
+        "B": "Applying a high pass filter",
+        "C": "Applying a low pass filter",
+        "D": "Reducing the maximum rotation angle of the mirror",
+        "Answer": "C",
+        "Source": "The ripples can be further suppressed by employing low pass filter at the cost of reducing the usable range in optical scan angle."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the conclusions drawn from the study on MEMS scanners.",
+        "Question": "What is a key improvement observed in the CVC type MEMS scanner compared to other types?",
+        "A": "Decreased linearity",
+        "B": "Reduced scanning range",
+        "C": "Improved linearity and scanning range",
+        "D": "No improvement in performance",
+        "Answer": "C",
+        "Source": "It was confirmed that linearity and the scanning range were improved compared to the SVC and AVC MEMS scanners."
+    }
+}

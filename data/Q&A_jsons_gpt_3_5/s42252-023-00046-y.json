@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In a study on epoxy matrix composites filled with graphite particulates, what effect was observed on the tensile strength of the composite with an increase in graphite content?",
+        "Question": "What effect was observed on the tensile strength of the composite with an increase in graphite content?",
+        "A": "Increase",
+        "B": "No change",
+        "C": "Initial increase followed by a decline",
+        "D": "Significant decrease",
+        "Answer": "D",
+        "Source": "The results indicate that the addition of graphite particles significantly affects the mechanical properties of the composite. Tensile strength decreases with an increase in graphite content, with a 1wt% addition resulting in a 56% reduction in tensile strength."
+    },
+    "Question_2": {
+        "Context": "What was the observed trend in flexural strength of the graphite/epoxy composites compared to the neat epoxy?",
+        "Question": "What was the observed trend in flexural strength of the graphite/epoxy composites compared to the neat epoxy?",
+        "A": "Decrease",
+        "B": "No change",
+        "C": "Initial increase followed by a decline",
+        "D": "Improvement",
+        "Answer": "D",
+        "Source": "Flexural strength, on the other hand, is improved with the addition of graphite particles, although not in a linear manner. The composite with 0.1wt% graphite exhibits the highest flexural strength."
+    },
+    "Question_3": {
+        "Context": "What was the impact of increasing graphite content on the hardness values of the composites?",
+        "Question": "What was the impact of increasing graphite content on the hardness values of the composites?",
+        "A": "Decrease",
+        "B": "No change",
+        "C": "Initial increase followed by a decline",
+        "D": "Improvement",
+        "Answer": "D",
+        "Source": "Hardness and impact values also show improvement with higher graphite content."
+    },
+    "Question_4": {
+        "Context": "How did the wear rate vary with an increase in graphite content in the epoxy composites?",
+        "Question": "How did the wear rate vary with an increase in graphite content in the epoxy composites?",
+        "A": "Increase",
+        "B": "No change",
+        "C": "Initial increase followed by a decline",
+        "D": "Decrease",
+        "Answer": "D",
+        "Source": "The experimental results indicate that the wear rate decreases with an increase in graphite content."
+    },
+    "Question_5": {
+        "Context": "What was the observed trend in the friction coefficient with an increase in graphite content and applied load?",
+        "Question": "What was the observed trend in the friction coefficient with an increase in graphite content and applied load?",
+        "A": "Increase",
+        "B": "No change",
+        "C": "Initial increase followed by a decline",
+        "D": "Decrease",
+        "Answer": "D",
+        "Source": "The specimens with 1wt% graphite content consistently exhibited the lowest coefficient of friction among all applied loads and sliding speeds."
+    },
+    "Question_6": {
+        "Context": "How did the wear rate vary with an increase in sliding speed in the epoxy composites?",
+        "Question": "How did the wear rate vary with an increase in sliding speed in the epoxy composites?",
+        "A": "Increase",
+        "B": "No change",
+        "C": "Initial increase followed by a decline",
+        "D": "Decrease",
+        "Answer": "D",
+        "Source": "An interesting trend observed in this study is the reduction of wear rate with an increase in sliding speed."
+    },
+    "Question_7": {
+        "Context": "What was the observed failure mode in the layered composites?",
+        "Question": "What was the observed failure mode in the layered composites?",
+        "A": "Delamination",
+        "B": "Cracking",
+        "C": "Buckling",
+        "D": "Deformation",
+        "Answer": "A",
+        "Source": "The failure mode observed in the layered specimens was delamination, characterized by interlayer debonding and changes in the crack propagation direction between the layers."
+    },
+    "Question_8": {
+        "Context": "What was the impact of increasing graphite content on the impact strength of the composites?",
+        "Question": "What was the impact of increasing graphite content on the impact strength of the composites?",
+        "A": "Decrease",
+        "B": "No change",
+        "C": "Initial increase followed by a decline",
+        "D": "Improvement",
+        "Answer": "D",
+        "Source": "Regarding impact strength, the incorporation of 1wt% graphite resulted in a 29% increase in impact value compared to the neat epoxy."
+    },
+    "Question_9": {
+        "Context": "How did the friction coefficient change with an increase in graphite content and applied load?",
+        "Question": "How did the friction coefficient change with an increase in graphite content and applied load?",
+        "A": "Increase",
+        "B": "No change",
+        "C": "Initial increase followed by a decline",
+        "D": "Decrease",
+        "Answer": "D",
+        "Source": "The reduction in the coefficient of friction was most significant when the applied load was changed. While the sliding speed had a relatively minor effect on the coefficient of friction of the composites, a noticeable effect was observed with higher applied loads."
+    },
+    "Question_10": {
+        "Context": "What was the observed trend in wear rate with an increase in sliding speed in the epoxy composites?",
+        "Question": "What was the observed trend in wear rate with an increase in sliding speed in the epoxy composites?",
+        "A": "Increase",
+        "B": "No change",
+        "C": "Initial increase followed by a decline",
+        "D": "Decrease",
+        "Answer": "D",
+        "Source": "An interesting trend observed in this study is the reduction of wear rate with an increase in sliding speed."
+    }
+}

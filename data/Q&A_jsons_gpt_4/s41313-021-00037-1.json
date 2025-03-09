@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In phase field fracture models, a continuous variable field is used to represent cracks in materials. This field evolves to minimize the total strain energy of the system, which consists of strain energy and fracture energy.",
+        "Question": "What does a value of 1 in the continuous variable field of a phase field fracture model represent?",
+        "A": "The material is fully intact",
+        "B": "The material is under maximum strain",
+        "C": "The material is fully cracked",
+        "D": "The material is at half the strain capacity",
+        "Answer": "C",
+        "Source": "In these models, a continuous variable field d ranging from 0 to 1 is used to describe the crack behavior, where d = 0 means the material is intact and d = 1 means it is fully cracked."
+    },
+    "Question_2": {
+        "Context": "Strain energy decomposition methods in phase field fracture models are used to separate the strain energy into components that contribute to fracture and those that do not.",
+        "Question": "Which part of the strain energy density contributes to fracture in phase field fracture models?",
+        "A": "The portion that can be stored by cracked material",
+        "B": "The portion that cannot be stored and contributes to crack formation",
+        "C": "The total free energy of the system",
+        "D": "The kinetic energy of the system",
+        "Answer": "B",
+        "Source": "The total free energy in a damaged material consists of strain energy and fracture energy, according to F = ... The strain energy density is divided into the portion that contributes to fracture \u03c8+ and the portion that does not \u03c8\u2212."
+    },
+    "Question_3": {
+        "Context": "In the context of phase field fracture models, the strain energy density is divided into positive and negative parts, which are associated with different aspects of the material's response to stress.",
+        "Question": "In phase field fracture models, what does the positive part of the strain energy density (\u03c8+) represent?",
+        "A": "Energy associated with compressive strain",
+        "B": "Energy that cannot be stored and contributes to crack formation",
+        "C": "Energy associated with tensile strain",
+        "D": "Energy that can be stored by cracked material",
+        "Answer": "B",
+        "Source": "The strain energy density is divided into the portion that contributes to fracture \u03c8+ and the portion that does not \u03c8\u2212."
+    },
+    "Question_4": {
+        "Context": "The strain energy decomposition method is a critical part of phase field fracture models, and it can be applied to the strain tensor or the stress tensor.",
+        "Question": "What is the purpose of decomposing the strain or stress tensor in phase field fracture models?",
+        "A": "To calculate the total free energy of the system",
+        "B": "To determine the positive and negative parts of the strain energy density",
+        "C": "To evolve the crack variable field",
+        "D": "To apply boundary conditions to the model",
+        "Answer": "B",
+        "Source": "For the phase field fracture model, a decomposition method is needed to determine the positive and negative parts of the strain energy density \u03c8+ and \u03c8\u2212 used in Eq. (3) to define the evolution of d."
+    },
+    "Question_5": {
+        "Context": "In phase field fracture models, the strain tensor can be decomposed into volumetric and deviatoric parts, which contribute differently to fracture.",
+        "Question": "Which parts of the strain tensor contribute to fracture in the strain deviatoric decomposition method?",
+        "A": "Deviatoric and negative volumetric parts",
+        "B": "Only the deviatoric parts",
+        "C": "Deviatoric and positive volumetric parts",
+        "D": "Only the volumetric parts",
+        "Answer": "C",
+        "Source": "In the decomposition method from Amor et al. (2009), \u03c8+ and \u03c8\u2212 are separated based on the volumetric and deviatoric parts of the strain tensor. Deviatoric and positive volumetric parts contribute to fracture."
+    },
+    "Question_6": {
+        "Context": "The spectral decomposition method in phase field fracture models involves decomposing the strain or stress tensor into eigenvalues and eigenvectors.",
+        "Question": "In the strain spectral decomposition method, which eigenvalues of the strain tensor contribute to fracture?",
+        "A": "Only negative eigenvalues",
+        "B": "Only positive eigenvalues",
+        "C": "Both positive and negative eigenvalues",
+        "D": "Neither positive nor negative eigenvalues",
+        "Answer": "B",
+        "Source": "The decomposition method from Miehe et al. (2010; 2010) uses a spectral decomposition of the strain tensor, \u03b5 = ... Positive eigenvalues and a positive sum of all eigenvalues contribute to fracture evolution."
+    },
+    "Question_7": {
+        "Context": "In phase field fracture models, the stress tensor can be decomposed into hydrostatic and deviatoric parts, similar to the strain tensor.",
+        "Question": "In the stress deviatoric decomposition method, which parts of the stress tensor contribute to fracture?",
+        "A": "Only the hydrostatic part",
+        "B": "Hydrostatic and negative deviatoric parts",
+        "C": "Only the deviatoric part",
+        "D": "Positive hydrostatic and deviatoric parts",
+        "Answer": "D",
+        "Source": "For this study, we introduce a new decomposition method that is similar to the strain deviatoric decomposition (Amor et al. 2009). In this method, the undamaged stress \u03c30 from Eq. (5) is decomposed into deviatoric and hydrostatic parts. Deviatoric and positive volumetric parts of the stress contribute to fracture."
+    },
+    "Question_8": {
+        "Context": "In phase field fracture models, the crack energy release rate is an important parameter that represents the energy required to propagate a crack.",
+        "Question": "What does the crack energy release rate (gc) represent in the context of phase field fracture models?",
+        "A": "The energy stored by the material before cracking",
+        "B": "The energy required to initiate a crack",
+        "C": "The energy required to propagate a crack",
+        "D": "The energy dissipated as heat during cracking",
+        "Answer": "C",
+        "Source": "The total free energy in a damaged material consists of strain energy and fracture energy, according to F = ... where gc is the crack energy release rate, l is a length parameter that defines the width of the crack."
+    },
+    "Question_9": {
+        "Context": "In phase field fracture models, the degradation function is used to represent the reduction in material stiffness due to the presence of cracks.",
+        "Question": "What role does the degradation function play in phase field fracture models?",
+        "A": "It defines the evolution of the crack variable field",
+        "B": "It represents the reduction in material stiffness due to cracks",
+        "C": "It calculates the total strain energy of the system",
+        "D": "It separates the strain energy into positive and negative parts",
+        "Answer": "B",
+        "Source": "In all phase field fracture models, a degradation function is used to separate strain energy that can be stored by cracked material from energy that cannot be. The energy that cannot be stored directly contributes to the formation and propagation of cracks and the energy that can be stored does not."
+    },
+    "Question_10": {
+        "Context": "In phase field fracture models, the history variable is used to prevent crack healing by keeping track of the maximum strain energy density at a given location.",
+        "Question": "What is the purpose of the history variable in phase field fracture models?",
+        "A": "To track the maximum strain energy density at a location over time",
+        "B": "To calculate the total free energy of the system",
+        "C": "To determine the displacement field",
+        "D": "To apply the boundary conditions",
+        "Answer": "A",
+        "Source": "The d evolution equation must include an approach to prevent crack healing. In this work we use the approach from Miehe et al. (2010) that employs a history variable H that is equal to the largest \u03c8+ value experienced at a given location up to the current time tc, i.e. H = max \u03c8+ for t =[ 0, tc] ."
+    }
+}

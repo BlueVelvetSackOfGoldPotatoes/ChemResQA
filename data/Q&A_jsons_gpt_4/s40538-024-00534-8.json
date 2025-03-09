@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "One-pot synthesis is a method where all reactants are added into a single reactor, and the desired product is obtained without the need to isolate intermediates.",
+        "Question": "What is the advantage of using one-pot synthesis for the production of metal nanoparticles?",
+        "A": "It requires high energy and expensive equipment.",
+        "B": "It is energy-effective and ecofriendly.",
+        "C": "It produces a large amount of waste.",
+        "D": "It requires upstream extraction of biological materials.",
+        "Answer": "B",
+        "Source": "One\u2011pot synthesis of metal nanoparticles under ambient temperature and pressure using reducing and stabilizing materials from microbes is energy\u2011effective and ecofriendly."
+    },
+    "Question_2": {
+        "Context": "Endospore-forming bacteria can survive harsh conditions by forming endospores, which are resistant to extreme temperatures and chemicals.",
+        "Question": "Why are endospore-forming Bacillus cells suitable for the coproduction of bio-microbicide and nano-microbicide?",
+        "A": "They cannot tolerate metal nanoparticles.",
+        "B": "They require expensive downstream purification.",
+        "C": "They form endospores that tolerate Ag+ and Ag nanoparticles.",
+        "D": "They are unable to produce nano-microbicide at ambient temperatures.",
+        "Answer": "C",
+        "Source": "Bacillus cells at the stationary phase form endospores and tolerate Ag+ and Ag nanoparticles (AgNPs)."
+    },
+    "Question_3": {
+        "Context": "Nanoparticles have unique properties due to their high surface-to-volume ratios, which differ from their bulk counterparts.",
+        "Question": "What property of nanoparticles contributes to their exceptional physical and chemical characteristics?",
+        "A": "High surface-to-volume ratios.",
+        "B": "Low surface-to-volume ratios.",
+        "C": "Use of expensive equipment in their synthesis.",
+        "D": "Use of toxic chemicals in their synthesis.",
+        "Answer": "A",
+        "Source": "Nanoparticles with at least one dimension in the range of 1\u2012100 nm have high surface-to-volume ratios and display exceptional physical and chemical properties compared with their molecular and bulk counterparts."
+    },
+    "Question_4": {
+        "Context": "Metal and metal oxide nanoparticles are synthesized using various methods, some of which may be less desirable due to their environmental impact.",
+        "Question": "Which method of synthesizing metal and metal oxide nanoparticles is considered ecofriendly and reduces health and environmental risks?",
+        "A": "Ultrasonication.",
+        "B": "Microwave irradiation.",
+        "C": "Biological green synthesis under ambient temperature and pressure.",
+        "D": "Thermal ablation.",
+        "Answer": "C",
+        "Source": "Biological green synthesis of nanoparticles under ambient temperature and pressure using ecofriendly reducing and stabilizing materials from microbes and plants without using toxic chemicals reduces health and environmental risks at source level."
+    },
+    "Question_5": {
+        "Context": "The synthesis of nanoparticles can be indicated by a change in the color of the solution, which is a visual cue for the formation of nanoparticles.",
+        "Question": "What indicates the synthesis of silver nanoparticles (AgNPs) during a biological green synthesis process?",
+        "A": "The solution remains clear.",
+        "B": "The solution changes from light yellow to dark brown.",
+        "C": "The solution turns to a bright red color.",
+        "D": "No color change occurs in the solution.",
+        "Answer": "B",
+        "Source": "The synthesis of AgNPs was indicated by color change from light yellow to dark brown."
+    },
+    "Question_6": {
+        "Context": "The size and morphology of nanoparticles can be observed and measured using transmission electron microscopy.",
+        "Question": "Which technique is used to observe the size and morphology of silver nanoparticles?",
+        "A": "UV-visible spectrometry.",
+        "B": "X-ray diffraction spectroscopy.",
+        "C": "Fourier transform infrared spectroscopy.",
+        "D": "Transmission electron microscopy.",
+        "Answer": "D",
+        "Source": "The size and morphology of AgNPs were observed by transmission electron microscopy."
+    },
+    "Question_7": {
+        "Context": "The stability of colloidal nanoparticles in a solution can be indicated by their zeta potential, with higher absolute values suggesting greater stability.",
+        "Question": "What does a high zeta potential indicate about colloidal nanoparticles?",
+        "A": "Low stability and high tendency to aggregate.",
+        "B": "High stability and resistance to aggregation.",
+        "C": "Toxicity to living organisms.",
+        "D": "Inability to be used as microbicides.",
+        "Answer": "B",
+        "Source": "Colloids with high zeta potential (positive or negative) are electrically stabilized, preventing the particles from aggregation."
+    },
+    "Question_8": {
+        "Context": "The presence of certain functional groups can be identified by analyzing the infrared spectrum of a substance, which provides insights into the chemical composition.",
+        "Question": "Which spectroscopy technique is used to detect functional groups responsible for the synthesis and stabilization of silver nanoparticles?",
+        "A": "UV-visible spectrometry.",
+        "B": "X-ray diffraction spectroscopy.",
+        "C": "Fourier transform infrared spectroscopy.",
+        "D": "Transmission electron microscopy.",
+        "Answer": "C",
+        "Source": "The functional groups responsible for the synthesis and stabilization of the AgNPs were detected by Fourier transform infrared (FT-IR) spectroscopy."
+    },
+    "Question_9": {
+        "Context": "The antibacterial activity of substances can be assessed by monitoring the optical density of bacterial cultures, which reflects bacterial growth.",
+        "Question": "How can the antibacterial activity of silver nanoparticles against bacterial growth be determined?",
+        "A": "By measuring the pH of the culture.",
+        "B": "By observing the color of the bacterial cells.",
+        "C": "By monitoring the optical density at 600 nm (OD600).",
+        "D": "By counting the number of bacterial colonies.",
+        "Answer": "C",
+        "Source": "The antibacterial activity of AgNPs against Psa growth was determined by monitoring bacterial OD600."
+    },
+    "Question_10": {
+        "Context": "Biofilms formed by pathogenic bacteria on surfaces can be stained and quantified using crystal violet, which binds to the biofilm matrix.",
+        "Question": "What method is used to determine the anti-biofilm activity of silver nanoparticles against bacterial biofilms?",
+        "A": "Live/dead staining of nucleic acids.",
+        "B": "Crystal violet staining of biofilm.",
+        "C": "Zeta potential measurement.",
+        "D": "Transmission electron microscopy.",
+        "Answer": "B",
+        "Source": "The anti-biofilm activity of AgNPs against Psa was determined by crystal violet staining of biofilm."
+    }
+}

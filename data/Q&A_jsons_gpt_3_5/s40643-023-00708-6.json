@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Aflatoxin B1 (AFB1) is known for its hepatotoxic effects and its role in liver cancer. Chito-oligosaccharides (COS) have been studied for their antioxidant properties and their potential in reducing liver damage induced by AFB1.",
+        "Question": "Which substance obtained from the degradation of chitosan derived from shrimp and crab shells was used in the study to attenuate AFB1-induced acute liver injury?",
+        "A": "Chitin",
+        "B": "AFB1",
+        "C": "Silymarin",
+        "D": "COS",
+        "Answer": "D",
+        "Source": "Chito-oligosaccharides (COS), obtained from the degradation of chitosan derived from shrimp and crab shells, is a natural antioxidant substance and its antitumor properties have been widely studied, but less research has been done on the prevention of AFB1-induced acute liver injury."
+    },
+    "Question_2": {
+        "Context": "The study involved rats that were acutely exposed to AFB1 and simultaneously treated with different doses of COS for 8 days.",
+        "Question": "What was the dosage of AFB1 that the rats were exposed to in the study?",
+        "A": "300 mg/kg BW",
+        "B": "600 mg/kg BW",
+        "C": "1 mg/kg BW",
+        "D": "100 mg/kg BW",
+        "Answer": "C",
+        "Source": "In this study, rats were acutely exposed to 1 mg/kg BW AFB1 and simultaneously gavaged with different doses of COS for 8 days."
+    },
+    "Question_3": {
+        "Context": "The results of the study showed certain effects of COS on hepatic histopathological changes and serum biochemical indices in rats exposed to AFB1.",
+        "Question": "Which of the following was significantly inhibited by COS according to the study results?",
+        "A": "MDA content",
+        "B": "ALT levels",
+        "C": "AST levels",
+        "D": "ALP levels",
+        "Answer": "A",
+        "Source": "The results showed that COS attenuated the hepatic histopathological changes and reduced serum biochemical indices (ALT, AST, ALP, and TBIL) in rats. It significantly inhibited MDA content..."
+    },
+    "Question_4": {
+        "Context": "The study also found that COS promoted certain activities in the rats exposed to AFB1.",
+        "Question": "Which activity production was promoted by COS according to the study results?",
+        "A": "SOD",
+        "B": "ALT",
+        "C": "ALP",
+        "D": "TBIL",
+        "Answer": "A",
+        "Source": "...and promoted SOD and GSH-Px activity production."
+    },
+    "Question_5": {
+        "Context": "The study highlighted the improvement in hepatocyte apoptosis due to the intervention of COS.",
+        "Question": "Which process was improved by COS intervention according to the study?",
+        "A": "Liver cirrhosis",
+        "B": "Hepatocyte apoptosis",
+        "C": "Liver cancer",
+        "D": "Hepatitis",
+        "Answer": "B",
+        "Source": "Moreover, it also improved hepatocyte apoptosis."
+    },
+    "Question_6": {
+        "Context": "The differential genes analyzed in the study were enriched with various entries related to different biological aspects.",
+        "Question": "How many GO entries were enriched with AFB1-vs-HCOS differential genes?",
+        "A": "622",
+        "B": "380",
+        "C": "170",
+        "D": "72",
+        "Answer": "A",
+        "Source": "Furthermore, AFB1-vs-HCOS differential genes were enriched with 622 GO entries..."
+    },
+    "Question_7": {
+        "Context": "The study analyzed differentially expressed genes (DEGs) by KEGG enrichment and found them to be more enriched in specific pathways.",
+        "Question": "Which pathway was NOT mentioned as being enriched in the DEGs according to the study?",
+        "A": "Metabolism",
+        "B": "PPAR signaling pathway",
+        "C": "Peroxidase pathway",
+        "D": "Apoptosis pathway",
+        "Answer": "D",
+        "Source": "Differentially expressed genes (DEGs) analyzed by KEGG enrichment were more enriched in pathways, such as metabolism, PPAR signaling pathway, and peroxisome."
+    },
+    "Question_8": {
+        "Context": "The study verified certain genes associated with oxidative stress damage and apoptosis using Q-PCR technique.",
+        "Question": "Which gene was NOT mentioned as being associated with oxidative stress damage and apoptosis in the study?",
+        "A": "Lama5",
+        "B": "Egr1",
+        "C": "Cyp2b1",
+        "D": "Gadd45g",
+        "Answer": "C",
+        "Source": "Q-PCR technique verified that Lama5, Egr1, Cyp2b1, and Gadd45g in DEGs were associated with oxidative stress damage and apoptosis."
+    },
+    "Question_9": {
+        "Context": "The study concluded that COS intervention had a specific effect on hepatic genes and their function.",
+        "Question": "What was the effect of COS intervention on hepatic genes according to the study conclusion?",
+        "A": "Increased gene expression",
+        "B": "No effect on gene function",
+        "C": "Reduced gene function changes",
+        "D": "Induced gene mutations",
+        "Answer": "C",
+        "Source": "In conclusion, COS intervention reduces the effect of AFB1 on hepatic genes and thus reduces the changes in hepatic gene function."
+    },
+    "Question_10": {
+        "Context": "The study aimed to investigate the intervention effect of COS on AFB1-induced acute liver injury and its mechanism.",
+        "Question": "What was the main purpose of the study according to the text?",
+        "A": "To analyze the effects of AFB1 on liver cancer",
+        "B": "To study the antioxidant properties of COS",
+        "C": "To investigate the intervention effect of COS on AFB1-induced liver injury",
+        "D": "To compare the toxicity of AFB1 and AFB2",
+        "Answer": "C",
+        "Source": "The purpose of this paper is to investigate the intervention effect of COS on AFB1-induced acute liver injury in vivo and its mechanism."
+    }
+}

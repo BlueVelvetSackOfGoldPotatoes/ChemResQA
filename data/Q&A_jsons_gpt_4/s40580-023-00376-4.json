@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Metalloproteases are enzymes that have been identified as significant markers in the metastasis of cancer cells. They are involved in the degradation of the extracellular matrix, which is crucial for cancer cell invasion and migration.",
+        "Question": "Which metalloprotease is known as a critical indicator of metastatic cancer due to its role in degrading the extracellular matrix?",
+        "A": "MT2-MMP",
+        "B": "MT1-MMP",
+        "C": "MMP-9",
+        "D": "MMP-2",
+        "Answer": "B",
+        "Source": "In various recent reports, the metalloproteases have been identified as important markers during the metastasis of cancer cells. In particular, MT1-MMP has provoked concern due to its protease activity in the degradation of the extracellular matrix adjacent to tumors."
+    },
+    "Question_2": {
+        "Context": "Fluorescent nanoclusters, such as those made from gold, can be used to investigate cellular processes due to their resistance to chemical quenching and strong fluorescence.",
+        "Question": "What property of fluorescent Au nanoclusters makes them particularly useful for investigating cellular processes like MT1-MMP-mediated endocytosis?",
+        "A": "Magnetic properties",
+        "B": "Electrical conductivity",
+        "C": "Resistance to chemical quenching",
+        "D": "Radioactivity",
+        "Answer": "C",
+        "Source": "Thus, in the current work, we have applied fluorescent Au nanoclusters which present strong resistance to chemical quenching to the investigation of MT1-MMP-mediated endocytosis."
+    },
+    "Question_3": {
+        "Context": "The process of endocytosis involves the internalization of substances through the cellular membrane. This process can be monitored by using molecular probes that target specific biomarkers on the cell surface.",
+        "Question": "What is the role of MT1-MMP-specific peptide in the context of monitoring protease-mediated endocytosis?",
+        "A": "It enhances the fluorescence of nanoclusters.",
+        "B": "It is used as a molecular probe to target MT1-MMP.",
+        "C": "It prevents the degradation of the extracellular matrix.",
+        "D": "It increases the chemical quenching of nanoclusters.",
+        "Answer": "B",
+        "Source": "We synthesized protein-based Au nanocluster (PAuNC) and MT1-MMP-specific peptide was conjugated with PAuNC (pPAuNC) for monitoring protease-mediated endocytosis."
+    },
+    "Question_4": {
+        "Context": "In the development of nanomedicines, it is crucial to understand the intracellular changes that occur due to the endocytosis of nanoparticles.",
+        "Question": "What intracellular change is associated with the endocytosis of nanoparticles and is often analyzed in research?",
+        "A": "Mitochondrial DNA mutation",
+        "B": "Lipophilic network transformation",
+        "C": "Nucleus enlargement",
+        "D": "Ribosomal disassembly",
+        "Answer": "B",
+        "Source": "Endocytosis does not simply indicate that nanoparticles have been introduced into the cytosol but also entails dynamic remodeling of cell membrane structures or internal vesicles. However, research analyzing the intracellular lipophilic network transformation that accompanies endocytosis is still vague."
+    },
+    "Question_5": {
+        "Context": "The stability of nanoparticles in various pH conditions is important for their application in biological systems, as the pH can vary significantly in different parts of the cell.",
+        "Question": "Why is the pH-stability of nanoparticles like bPAuNC important for their application in molecular imaging?",
+        "A": "Because the pH of the cytosol is always acidic",
+        "B": "Because the pH of the cytosol is always neutral",
+        "C": "Because the pH within cellular compartments varies during endocytosis",
+        "D": "Because the pH outside the cell is always alkaline",
+        "Answer": "C",
+        "Source": "The pH value decreases to ~ 6.3 in the early endosome, ~ 5.5 in the late endosome, and 4.5 or less in the lysosome. Therefore, these results indicate that bPAuNC, which maintains fluorescence at pH 5, is suitable for tracking nanoparticle uptake in the cellular environment due to the maintaining of high quantum yield."
+    },
+    "Question_6": {
+        "Context": "The cytotoxic effects of nanoparticles are a critical consideration in their development for medical applications, as they must not harm the cells they are meant to diagnose or treat.",
+        "Question": "What assay is used to evaluate the cytotoxic effect of nanoparticles like bPAuNC and pPAuNC on cell growth?",
+        "A": "Polymerase chain reaction (PCR)",
+        "B": "Western blotting",
+        "C": "Crystal violet staining assay",
+        "D": "Enzyme-linked immunosorbent assay (ELISA)",
+        "Answer": "C",
+        "Source": "The cellular viability was evaluated using a colorimetric assay based on the colony formation assay by crystal violet (CV, #V5265; Sigma-Aldrich) staining assay following the manufacturer\u2019s instructions."
+    },
+    "Question_7": {
+        "Context": "The targeting ability of nanoparticles can be assessed by their co-localization with specific cellular biomarkers, which can be visualized using confocal microscopy.",
+        "Question": "Which method is used to assess the protease targeting ability of nanoparticles like bPAuNC and pPAuNC?",
+        "A": "Mass spectrometry",
+        "B": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "C": "X-ray crystallography",
+        "D": "Confocal microscopy",
+        "Answer": "D",
+        "Source": "The biomarker-specific intracellular uptake and targeted imaging potential of pPAuNC were evaluated by co-localization analysis and competitive binding inhibition assay via confocal microscopic images."
+    },
+    "Question_8": {
+        "Context": "The interaction between nanoparticles and cancer cells can be influenced by the colloidal stability of the nanoparticles, which can be affected by the pH of the environment.",
+        "Question": "What happens to the colloidal stability of bPAuNC at its isoelectric point?",
+        "A": "It increases and forms a stable suspension",
+        "B": "It remains unchanged",
+        "C": "It decreases and leads to particle aggregation",
+        "D": "It causes the nanoparticles to dissolve completely",
+        "Answer": "C",
+        "Source": "The dispersion instability of bPAuNC arose at the isoelectric point (IEP) of protein. The IEP for albumin was found to be at pH 5.07 and protein aggregation at the gas\u2013liquid interface is known to form insoluble matter in the pH range lower than 5."
+    },
+    "Question_9": {
+        "Context": "Intracellular branched network analysis can be used to visualize and categorize the interactions and structures of lipophilic organelles within cells.",
+        "Question": "What is the purpose of using intracellular branched network analysis in the context of nanoparticle internalization?",
+        "A": "To measure the electrical conductivity of nanoparticles",
+        "B": "To determine the magnetic properties of nanoparticles",
+        "C": "To visualize the local morphological information with lipophilic structures",
+        "D": "To assess the radioactivity of nanoparticles within cells",
+        "Answer": "C",
+        "Source": "The single-cell image was binarized and skeletonized for visualizing the local morphological information with lipophilic structure."
+    },
+    "Question_10": {
+        "Context": "The uptake mechanism of nanoparticles can be studied by observing the changes in their internalization in the presence of competitive inhibitors.",
+        "Question": "What does the presence of free albumin in the extracellular environment indicate about the uptake mechanism of pPAuNC?",
+        "A": "It indicates that pPAuNC uptake is independent of albumin-mediated endocytosis",
+        "B": "It suggests that pPAuNC uptake relies solely on passive diffusion",
+        "C": "It implies that pPAuNC cannot be internalized without albumin",
+        "D": "It shows that pPAuNC uptake is enhanced by albumin-mediated endocytosis",
+        "Answer": "A",
+        "Source": "In contrast, uptake of pPAuNC was not attributed to albumin-mediated endocytosis, as the inclusion of free albumin CLLD did not show an inhibitory effect on the amount of uptake."
+    }
+}

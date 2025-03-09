@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the challenges of handling and mounting high-performance rare earth permanent magnets. ",
+        "Question": "What is a key property of the magnetic setup in many devices?",
+        "A": "High coercive field",
+        "B": "Constant magnetic flux",
+        "C": "High magnetization",
+        "D": "Resistance against opposing magnetic fields",
+        "Answer": "B",
+        "Source": "A constant magnetic flux is a key property of the magnetic setup in many devices."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the use of ultrasonic welding to join hybrid material systems quickly and reliably.",
+        "Question": "What is a benefit of ultrasonic welding mentioned in the text?",
+        "A": "Low joint strength",
+        "B": "High joint strength",
+        "C": "Brittle joint materials",
+        "D": "Slow joining process",
+        "Answer": "B",
+        "Source": "Ultrasonic welding is a powerful technique to join hybrid material systems quickly and reliably, providing high joint strength."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the performance of different joint types in magnetic devices.",
+        "Question": "Which type of joint showed the highest shear strength according to the literature?",
+        "A": "316L/Nd2Fe14B",
+        "B": "316L/Al/Nd2Fe14B",
+        "C": "316L/Ni/Nd2Fe14B",
+        "D": "Adhesively bonded joints",
+        "Answer": "B",
+        "Source": "The highest shear strength of 35 MPa was achieved for 316L/Nd2Fe14B and 316L/Al/Nd2Fe14B, which is more than twice the shear strength of adhesively bonded joints."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the process parameters for ultrasonic welding experiments.",
+        "Question": "What are the key process parameters mentioned for ultrasonic welding?",
+        "A": "Amplitude, welding pressure, welding energy",
+        "B": "Temperature, time, pressure",
+        "C": "Force, speed, material",
+        "D": "Voltage, current, resistance",
+        "Answer": "A",
+        "Source": "The key process parameters for ultrasonic welding mentioned in the text are amplitude, welding pressure, and welding energy."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the microstructure of ultrasonically welded joints.",
+        "Question": "Which joint type showed a full-surface bonding at the microscale?",
+        "A": "316L/Nd2Fe14B",
+        "B": "316L/Al/Nd2Fe14B",
+        "C": "316L/Ni/Nd2Fe14B",
+        "D": "Adhesively bonded joints",
+        "Answer": "B",
+        "Source": "Only joints with an aluminium interlayer (316L/Al-foil/Nd2Fe14B) showed a full-surface bonding."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the magnetic performance of different joint types.",
+        "Question": "Which joint type showed losses of 7% of the magnetic flux density?",
+        "A": "316L/Nd2Fe14B",
+        "B": "316L/Al/Nd2Fe14B",
+        "C": "316L/Ni/Nd2Fe14B",
+        "D": "Adhesively bonded joints",
+        "Answer": "D",
+        "Source": "Joints with an aluminium interlayer showed losses of 3% and adhesively bonded joints showed losses of 7% of the magnetic flux density."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the influence of different surface conditions on joint strength.",
+        "Question": "What caused the significantly lower joint strength of adhesively joined connections in this work?",
+        "A": "Surface preparation",
+        "B": "Material type",
+        "C": "Welding technique",
+        "D": "Temperature",
+        "Answer": "A",
+        "Source": "The preparation of the surfaces is a key aspect to achieve good joint strength of adhesively joined connections and may have caused the significantly lower joint strength of the adhesively joined samples prepared in this work."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the joint failure analysis of ultrasonically welded joints.",
+        "Question": "Where did the joints primarily fail during the shear tests?",
+        "A": "Interlayer between joining partners",
+        "B": "Volume of the joining partners",
+        "C": "Surface of the magnet",
+        "D": "Surface of the steel",
+        "Answer": "B",
+        "Source": "All fracture surfaces included remaining material adherence of the opposite joining partner, which means that the joints did not solely fail in the interlayer between the joining partners, but rather in the volume of the joining partners with lower shear strength."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the microstructural analysis of the joints.",
+        "Question": "Which joint type showed a direct contact between the joining partners at the microscale?",
+        "A": "316L/Nd2Fe14B",
+        "B": "316L/Al/Nd2Fe14B",
+        "C": "316L/Ni/Nd2Fe14B",
+        "D": "Adhesively bonded joints",
+        "Answer": "A",
+        "Source": "In the case of directly bonded joints, the connection between 316L and the Ni/Cu/Ni coating was very close because the surfaces were assimilated and mechanically locked."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the magnetic performance of different joint types.",
+        "Question": "Which joint type did not show any change in magnetic flux density?",
+        "A": "316L/Nd2Fe14B",
+        "B": "316L/Al/Nd2Fe14B",
+        "C": "316L/Ni/Nd2Fe14B",
+        "D": "Adhesively bonded joints",
+        "Answer": "A",
+        "Source": "Directly welded joints and those with a nickel interlayer did not show any losses in comparison to the single magnet in its initial state."
+    }
+}

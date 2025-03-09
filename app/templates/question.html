@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ question.Question }}</title>
+    <style>
+        header {
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+        body {
+            margin: 0;
+            padding-top: 50px; /* Adjust this value based on the height of your header image */
+        }
+    </style>
+    <script>
+        function validateForm() {
+            const options = document.getElementsByName('option');
+            let optionSelected = false;
+            for (let i = 0; i < options.length; i++) {
+                if (options[i].checked) {
+                    optionSelected = true;
+                    break;
+                }
+            }
+            if (!optionSelected) {
+                alert('Please select an option before submitting.');
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <header>
+      <img src="{{ url_for('static', filename='pollice.png') }}" alt="Pollice Image">
+    </header>
+    <h1>{{ question.Question }}</h1>
+    <form action="" method="post" onsubmit="return validateForm()">
+        {% for option in ['A', 'B', 'C', 'D'] %}
+        <input type="radio" id="{{ option }}" name="option" value="{{ option }}">
+        <label for="{{ option }}">{{ question[option] }}</label><br>
+        {% endfor %}
+        <br>
+        <label>Does this question make sense?</label><br>
+        <input type="radio" id="yes" name="question_quality" value="Yes">
+        <label for="yes">Yes</label><br>
+        <input type="radio" id="no" name="question_quality" value="No">
+        <label for="no">No</label><br>
+        <button type="submit">Submit Answer</button>
+    </form>
+</body>
+</html>

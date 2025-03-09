@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Biodegradation study of synthesized Av-cl-poly(AA)",
+        "Question": "What was the maximum weight loss due to biodegradation of Av-cl-poly(AA) after 70 days using the soil burial method?",
+        "A": "70%",
+        "B": "90%",
+        "C": "94%",
+        "D": "93%",
+        "Answer": "B",
+        "Source": "Maximum weight loss due to biodegradation of Av-cl-poly(AA) was found to be 90% after 70 days."
+    },
+    "Question_2": {
+        "Context": "Biodegradation study of synthesized Av-cl-poly(AA)",
+        "Question": "What was the maximum weight loss due to biodegradation of Av-cl-poly(AA) after 70 days using the composting method?",
+        "A": "94%",
+        "B": "90%",
+        "C": "93%",
+        "D": "70%",
+        "Answer": "A",
+        "Source": "Maximum weight loss due to biodegradation of Av-cl-poly(AA) through the composting method was found to be 94% after 70 days."
+    },
+    "Question_3": {
+        "Context": "Biodegradation study of synthesized Av-cl-poly(AA)",
+        "Question": "What was the maximum weight loss due to biodegradation of Av-cl-poly(AA) after 70 days using the vermicomposting method?",
+        "A": "93%",
+        "B": "90%",
+        "C": "94%",
+        "D": "70%",
+        "Answer": "A",
+        "Source": "Maximum weight loss due to biodegradation of Av-cl-poly(AA) with vermicomposting method was found to be 93% after 70 days."
+    },
+    "Question_4": {
+        "Context": "Biodegradation study of synthesized Av-cl-poly(AA)",
+        "Question": "Which method showed the highest biodegradation percentage after 70 days?",
+        "A": "Composting method",
+        "B": "Vermicomposting method",
+        "C": "Soil burial method",
+        "D": "All methods showed the same percentage",
+        "Answer": "B",
+        "Source": "Maximum biodegradation was found to be 90%, 94%, and 93% in case of soil burial, composting, and vermicomposting methods, respectively."
+    },
+    "Question_5": {
+        "Context": "Release kinetics of dichlorvos through the polymer matrices",
+        "Question": "What was the maximum release of dichlorvos through Av-cl-poly(AA) after 44 hours?",
+        "A": "1024.34 ppm",
+        "B": "756.23 ppm",
+        "C": "500 ppm",
+        "D": "2000 ppm",
+        "Answer": "A",
+        "Source": "The results showed that maximum release of dichlorvos was found to be 1024.34 ppm after 44 hours."
+    },
+    "Question_6": {
+        "Context": "Water retention capacity of soil through Av-cl-poly(AA)",
+        "Question": "How many days did the water retention capacity of soil using synthesized Av-cl-poly(AA) prolong from 11 to 20 days?",
+        "A": "9 days",
+        "B": "10 days",
+        "C": "20 days",
+        "D": "15 days",
+        "Answer": "C",
+        "Source": "Water retention capacity prolonged from 11 to 20 days using synthesized Av-cl-poly(AA)."
+    },
+    "Question_7": {
+        "Context": "Water uptake by soil samples using swollen Av-cl-poly(AA)",
+        "Question": "What was the increase in water content of the clay soil after adding 1% swollen Av-cl-poly(AA)?",
+        "A": "5.79%",
+        "B": "6.1%",
+        "C": "6.5%",
+        "D": "7.2%",
+        "Answer": "B",
+        "Source": "The addition of 1% swollen Av-cl-poly(AA) in dry clay soil led to an increase in water content to 6.1%."
+    },
+    "Question_8": {
+        "Context": "Impact of biodegradation of synthesized hydrogel on soil",
+        "Question": "What was the change in organic carbon content in the soil after the degradation of Av-cl-poly(AA)?",
+        "A": "0.31% to 0.36%",
+        "B": "0.36% to 0.31%",
+        "C": "0.25% to 0.30%",
+        "D": "0.40% to 0.45%",
+        "Answer": "A",
+        "Source": "There is an increase in the content (0.36%) of % organic carbon in the soil having degraded hydrogel as compared to the control soil."
+    },
+    "Question_9": {
+        "Context": "Impact of biodegradation of synthesized hydrogel on soil",
+        "Question": "What was the change in potassium content in the soil after the degradation of Av-cl-poly(AA)?",
+        "A": "59 g/m2 to 60 g/m2",
+        "B": "60 g/m2 to 59 g/m2",
+        "C": "55 g/m2 to 60 g/m2",
+        "D": "59 g/m2 to 55 g/m2",
+        "Answer": "A",
+        "Source": "Potassium in the control soil sample was 59 g/m2, but in the Av-cl-poly(AA) degraded soil, it was 60 g/m2."
+    },
+    "Question_10": {
+        "Context": "Impact of biodegradation of synthesized hydrogel on soil",
+        "Question": "What was the change in pH of the soil after the degradation of Av-cl-poly(AA)?",
+        "A": "6.9 to 6.7",
+        "B": "6.7 to 6.9",
+        "C": "7.0 to 6.8",
+        "D": "6.8 to 7.0",
+        "Answer": "A",
+        "Source": "The pH was 6.9 in the control sample, and it was 6.7 in the soil with degraded hydrogel."
+    }
+}

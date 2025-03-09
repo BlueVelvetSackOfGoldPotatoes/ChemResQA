@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The gastrin-releasing peptide receptor (GRPR) is known to be overexpressed in a majority of prostate cancer cases, making it a potential target for diagnostic and therapeutic applications in cancer treatment.",
+        "Question": "What percentage range of prostate cancer cases exhibit overexpression of the GRPR?",
+        "A": "10-25%",
+        "B": "25-50%",
+        "C": "63-100%",
+        "D": "50-75%",
+        "Answer": "C",
+        "Source": "The gastrin-releasing peptide receptor (GRPR) represents a promising target in prostate cancer radiotheranostics. It is a member of the bombesin family of receptors and it is overexpressed in 63\u2013100% of all prostate cancer cases while having a low expression level in healthy tissues of the body, with the exception of the pancreas and the gastrointestinal tract."
+    },
+    "Question_2": {
+        "Context": "In the development of peptide-based radiotheranostics, radiolabeled GRPR antagonists have been found to achieve higher tumor uptake and retention compared to agonists, despite lower internalization in tumor cells.",
+        "Question": "Compared to GRPR agonists, how do radiolabeled GRPR antagonists perform in terms of tumor uptake and retention?",
+        "A": "Lower tumor uptake and retention",
+        "B": "Higher tumor uptake and retention",
+        "C": "Equal tumor uptake and retention",
+        "D": "Variable tumor uptake and retention depending on the tumor type",
+        "Answer": "B",
+        "Source": "Several studies have demonstrated that radiolabeled GRPR antagonists achieve higher tumor uptake and retention in comparison with agonists, despite their significantly inferior internalization in tumor cells."
+    },
+    "Question_3": {
+        "Context": "Neprilysin (NEP) is a peptidase known to degrade certain peptides in the bloodstream, potentially affecting the stability of peptide-based radiopharmaceuticals.",
+        "Question": "What role does neprilysin (NEP) play in the stability of peptide-based radiopharmaceuticals in the bloodstream?",
+        "A": "It increases their stability",
+        "B": "It has no effect on their stability",
+        "C": "It decreases their stability by degrading them",
+        "D": "It changes their target specificity",
+        "Answer": "C",
+        "Source": "However, their stability in the circulation was found to be compromised by the proteolytic action of neprilysin (NEP)."
+    },
+    "Question_4": {
+        "Context": "Radiolabeled peptides can be designed with modifications to enhance their resistance to degrading enzymes such as neprilysin, potentially improving their tumor uptake and retention.",
+        "Question": "What modification can be made to radiolabeled peptides to improve their resistance to degradation by enzymes like neprilysin?",
+        "A": "Decreasing the overall charge of the peptide",
+        "B": "Shortening the amino acid chain",
+        "C": "Introducing structural changes to the native sequence",
+        "D": "Increasing the hydrophilicity of the peptide",
+        "Answer": "C",
+        "Source": "Furthermore, their short amino acid chains, in combination with the structural changes introduced in the native sequence lead to enhanced resistance to degrading peptidases in the blood."
+    },
+    "Question_5": {
+        "Context": "The use of radiometals for labeling peptides in radiotheranostics allows for diagnostic imaging and therapeutic applications, with different radiometals offering various advantages.",
+        "Question": "Which of the following radiometals is commonly used for labeling peptides in therapeutic applications?",
+        "A": "Ga-68",
+        "B": "Lu-177",
+        "C": "F-18",
+        "D": "Zr-89",
+        "Answer": "B",
+        "Source": "Recent studies have revealed the potential of radiolabeled GRPR antagonists for therapeutic applications in human cancer. Thus, the antagonists RM2 and DOTAGA-PEG2-RM26 labeled with Lu-177 displayed favourable biodistribution profiles and managed to extend survival in murine prostate cancer models."
+    },
+    "Question_6": {
+        "Context": "In the context of radiotheranostics, the use of chelators is crucial for labeling peptides with radiometals, and different chelators can be used to accommodate various radiometals.",
+        "Question": "What is the purpose of using a chelator like DOTAGA in the design of peptide-based radiopharmaceuticals?",
+        "A": "To increase the peptide's affinity for the target receptor",
+        "B": "To allow for labeling with trivalent radiometals",
+        "C": "To enhance the peptide's resistance to enzymatic degradation",
+        "D": "To reduce the peptide's renal uptake",
+        "Answer": "B",
+        "Source": "Unlike the open-chain tetraamine in DB15, suitable for labeling with the SPECT radionuclide Tc-99m, DOTAGA allows for labeling with a wider panel of trivalent radiometals of medical relevance, offering better perspectives for radiotheranostic applications."
+    },
+    "Question_7": {
+        "Context": "The introduction of specific amino acids into the structure of a peptide can influence its overall charge, which may affect its interaction with the target receptor.",
+        "Question": "How can the introduction of a basic amino acid like L-Arg next to a chelator in a peptide influence its interaction with a receptor?",
+        "A": "It has no effect on the interaction",
+        "B": "It decreases the receptor affinity",
+        "C": "It increases the receptor affinity",
+        "D": "It changes the peptide's metabolic stability",
+        "Answer": "C",
+        "Source": "Secondly, the introduction of a basic L/D-Arg next to DOTAGA was pursued in order to compensate for the positive charge loss of the N-terminal monocationic [[99mTc]Tc(O)2(N4)]+1 metal-chelate, since a positive charge at the N-terminus of bombesin analogues has been associated with high receptor affinity."
+    },
+    "Question_8": {
+        "Context": "The stability of radiometal-chelate complexes is an important factor in the development of radiopharmaceuticals, as it affects the integrity of the labeled compound in biological systems.",
+        "Question": "What is a common method to assess the stability of a radiometal-chelate complex in radiopharmaceuticals?",
+        "A": "Incubation with a molar excess of EDTA",
+        "B": "Measurement of the compound's hydrophobicity",
+        "C": "Determination of the compound's melting point",
+        "D": "Analysis of the compound's molecular weight",
+        "Answer": "A",
+        "Source": "Radiometal-chelate stability was assessed by incubation of test radioligand (5 \u00b5L of the reaction mixture, 115 pmol) with a \u00d7 1000 molar excess of EDTA (115 nmol, 8.7 \u00b5L) for 1 h at room temperature."
+    },
+    "Question_9": {
+        "Context": "In vitro assays using cancer cell lines can provide insights into the specificity of radioligands for their target receptors, which is crucial for their potential application in cancer diagnosis and therapy.",
+        "Question": "What in vitro method is commonly used to determine the specificity of a radioligand for its target receptor?",
+        "A": "Mass spectrometry analysis",
+        "B": "Western blotting",
+        "C": "Cell uptake studies with and without receptor blocking",
+        "D": "Polymerase chain reaction (PCR)",
+        "Answer": "C",
+        "Source": "For the determination of GRPR-specificity, PC-3 cells were seeded in 35 mm tissue-culture dishes and test radioligand was added to each well (1 nM). In a subset of dishes, 1 \u00b5M of the unlabeled NOTA-PEG2-RM26 was added for blocking the GRPR."
+    },
+    "Question_10": {
+        "Context": "The biodistribution of radiolabeled peptides in animal models is a critical aspect of preclinical studies, as it provides information on the peptides' in vivo behavior and potential for clinical application.",
+        "Question": "In preclinical studies, what is the significance of assessing the biodistribution of a radiolabeled peptide in animal models?",
+        "A": "To determine the peptide's flavor profile",
+        "B": "To evaluate the peptide's in vivo stability and target-specific uptake",
+        "C": "To measure the peptide's impact on animal behavior",
+        "D": "To assess the peptide's ability to induce immunogenicity",
+        "Answer": "B",
+        "Source": "The new DOTAGA-bioconjugates were labeled with the broadly available trivalent radiometal In-111 and their properties were compared in vitro (GRPR affinity, specificity and uptake in prostate adenocarcinoma PC-3 cells), as well as in vivo (metabolic stability in peripheral blood of healthy mice, biodistribution in PC-3 xenograft-bearing mice) to reveal the compound of choice for further study as a Lu-177 radiotherapeutic counterpart."
+    }
+}

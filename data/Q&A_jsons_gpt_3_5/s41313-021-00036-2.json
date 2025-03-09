@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the implications of the anisotropic and long-range nature of correlation functions for the pinning of dislocations of arbitrary orientation.",
+        "Question": "What is the suggested approach to address the problem of solute hardening in compositionally complex alloys?",
+        "A": "Treating the alloy as an effective medium with random distribution of dilatation and compression centers.",
+        "B": "Direct summation of the interaction energies between dislocations and solutes.",
+        "C": "Ignoring the effects of volumetric misfit of atoms of different species.",
+        "D": "Applying external forces to dislocations to overcome pinning energy minima.",
+        "Answer": "A",
+        "Source": "It has been suggested that this problem can be addressed by treating the alloy as an effective medium containing a random distribution of dilatation and compression centers representing the volumetric misfit of atoms of different species."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the theory of dislocations interacting with atomic-scale obstacles in compositionally complex alloy systems.",
+        "Question": "What is the role of statistical theories in the context of dislocation pinning by atomic-scale obstacles?",
+        "A": "They have no relevance in understanding dislocation behavior.",
+        "B": "They provide insights into the pinning of dislocations by atomic-scale obstacles.",
+        "C": "They are only applicable to edge dislocations.",
+        "D": "They focus solely on kinetic effects.",
+        "Answer": "B",
+        "Source": "From a theoretical viewpoint, statistical theories of dislocation pinning by atomic-scale obstacles have attracted the interest of statistical physicists."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the scaling theory of elastic lines in static random fields.",
+        "Question": "How is the dislocation envisaged in the scaling theory of elastic lines?",
+        "A": "As a point particle.",
+        "B": "As an elastic line with line tension.",
+        "C": "As a continuous line with no tension.",
+        "D": "As a rigid body.",
+        "Answer": "B",
+        "Source": "We envisage the dislocation as an elastic line of line tension 0 b2 where is the shear modulus, b the length of the Burgers vector."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the statistical properties of local shear stresses in random alloys.",
+        "Question": "What is the correlation function for the shear stress in the longitudinal direction in the effective medium with random volumetric misfit?",
+        "A": "L(u) = 30u^3 - 12u^2 erf(u/2) + 1",
+        "B": "L(u) = 15u^3 - 6u^2 erf(u/2) + 1",
+        "C": "L(u) = 30u^3 - 12u^2 erf(u/2) + 1 - 6u^2 exp(-u^2/4)",
+        "D": "L(u) = 15u^3 - 6u^2 erf(u/2) + 1 - 6u^2 exp(-u^2/4)",
+        "Answer": "C",
+        "Source": "The correlation functions in the shear direction (\u2019longitudinal\u2019 correlation function L) is derived as L(u) = 30u^3 - 12u^2 erf(u/2) + 1 - 6u^2 exp(-u^2/4)."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the pinning of edge dislocations.",
+        "Question": "What is the pinning length for a perfect edge dislocation in a hypothetical Al0.5Mg0.5 fcc random solid solution?",
+        "A": "32.9 \u00c5",
+        "B": "6.18 \u00c5",
+        "C": "1.59 \u00c5",
+        "D": "0.38 \u00c5",
+        "Answer": "A",
+        "Source": "With these parameters we obtain for a pure edge dislocation Lp = 32.9 \u00c5."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the pinning of screw dislocations.",
+        "Question": "What is the pinning energy per unit length for a screw dislocation?",
+        "A": "0.01 b^2",
+        "B": "0.35 b^2",
+        "C": "2.85 x 10^-4 b^2",
+        "D": "1.83 x 10^-11 J/m",
+        "Answer": "C",
+        "Source": "However, the corresponding optimal displacement w = 0.08a is tiny and accordingly the maximum energy gain is small, amounting to Ep = 0.054 x 10^-11 J/m = 2.85 x 10^-4 b^2."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the pinning of general dislocations.",
+        "Question": "What is the assumption made regarding the line tension variation with the angle for a dislocation of general orientation?",
+        "A": "Linear variation with the angle.",
+        "B": "No variation with the angle.",
+        "C": "Sinusoidal variation with the angle.",
+        "D": "Exponential variation with the angle.",
+        "Answer": "C",
+        "Source": "Moreover, we assume that the line tension varies with the angle according to 0 = s0 cos^2 - e0 sin^2, where, for simplicity, we consider a simple sinusoidal variation."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the comparison with experimental flow stress data.",
+        "Question": "What is the method used to estimate the zero-temperature critical resolved shear stress (CRSS) from experimental data?",
+        "A": "Direct measurement at 0K.",
+        "B": "Extrapolation of temperature-dependent CRSS data to 0K.",
+        "C": "Interpolation of temperature-dependent CRSS data.",
+        "D": "Comparison with theoretical models.",
+        "Answer": "B",
+        "Source": "To obtain 0 T = 0K) we extrapolate the temperature-dependent CRSS data of (Podkuyko and Pustovalov 1978) downwards to 0K."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the implications of the anisotropic and long-range nature of correlation functions for the pinning of dislocations.",
+        "Question": "What is the main conclusion regarding the motion of edge dislocations compared to screw dislocations?",
+        "A": "Edge dislocations are easier to move than screw dislocations.",
+        "B": "Screw dislocations are easier to move than edge dislocations.",
+        "C": "Both edge and screw dislocations have similar motion characteristics.",
+        "D": "The motion of dislocations is not influenced by the correlation functions.",
+        "Answer": "A",
+        "Source": "At elevated temperature, the motion of edge dislocations, being controlled by deep energy minima, is expected to be much more difficult than the motion of screw dislocations."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the scaling analysis of pinning problems.",
+        "Question": "What is the consequence of the small pinning displacement for screw-like pinning?",
+        "A": "Significant pinning stress.",
+        "B": "Deep energy minimum.",
+        "C": "Vanishing pinning stress and energy.",
+        "D": "Reduced pinning length.",
+        "Answer": "A",
+        "Source": "Because of the smallness of wp, Eq. (12) predicts a significant pinning stress of about 190 MPa, half the value for the edge dislocation."
+    }
+}

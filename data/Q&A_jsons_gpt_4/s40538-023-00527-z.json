@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Condensed tannins (CTs) are secondary metabolites in plants that consist of oligomeric and polymeric flavan-3-ols subunits. These subunits include catechin, epicatechin, and their gallate derivatives, which have been shown to exhibit antibacterial activity.",
+        "Question": "Which subunit of condensed tannins has drawn significant interest due to its strong ability to inhibit bacteria?",
+        "A": "Catechin",
+        "B": "Epicatechin",
+        "C": "Epigallocatechin gallate",
+        "D": "Gallocatechin",
+        "Answer": "C",
+        "Source": "Among these CTs, EGCG has drawn the most interest from microbiologists because it contains both galloyl and gallic moieties in flavan-3-ol units, resulting in EGCG having the strongest ability to inhibit bacteria."
+    },
+    "Question_2": {
+        "Context": "The antibacterial mechanisms of condensed tannins can be investigated by determining their effects on bacterial cell membranes and enzyme activities.",
+        "Question": "What is a method used to investigate the antibacterial mechanism of condensed tannins?",
+        "A": "Determining the minimal inhibitory concentration (MIC)",
+        "B": "Measuring the boiling point of the solution",
+        "C": "Calculating the molecular weight of CTs",
+        "D": "Observing the color change in CTs solution",
+        "Answer": "A",
+        "Source": "The mechanism of CTs against Pediococcus pentosaceus was investigated though determined the minimal inhibitory concentration (MIC) of CTs, effects of CTs on cell membrane, scanning and transmission electron microscopy analysis and global transcriptome analysis, et al."
+    },
+    "Question_3": {
+        "Context": "Enzymes such as lactate dehydrogenase are involved in metabolic pathways in bacteria, and their activities can be affected by the presence of antibacterial compounds.",
+        "Question": "Which enzyme's activity is decreased by the presence of condensed tannins in Pediococcus pentosaceus?",
+        "A": "Lactate dehydrogenase",
+        "B": "Alcohol dehydrogenase",
+        "C": "Catalase",
+        "D": "Amylase",
+        "Answer": "A",
+        "Source": "The results showed that CTs decreased the activities of enzymes such as lactic dehydrogenase, and inhibited the pentose phosphate (PP)/glycolytic pathway."
+    },
+    "Question_4": {
+        "Context": "Hydrogen peroxide production by antibacterial agents can be a mechanism of action against bacteria, leading to oxidative stress within the bacterial cells.",
+        "Question": "What is one of the antibacterial activities of condensed tannins against Pediococcus pentosaceus?",
+        "A": "Increasing the production of ethanol",
+        "B": "Decreasing the production of carbon dioxide",
+        "C": "Increasing the production of hydrogen peroxide",
+        "D": "Decreasing the production of lactic acid",
+        "Answer": "C",
+        "Source": "The content of hydrogen peroxide produced by CTs was increased in P. pentosaceus SF11, and antibacterial activity partly occurred due to this hydrogen peroxide."
+    },
+    "Question_5": {
+        "Context": "Global transcriptome analysis can reveal the upregulation or downregulation of genes in response to certain treatments, providing insights into the mechanisms of action.",
+        "Question": "What type of genes were most upregulated in Pediococcus pentosaceus in response to condensed tannins treatment?",
+        "A": "Genes involved in lipid synthesis",
+        "B": "Genes involved in hypothetical protein",
+        "C": "Genes involved in carbohydrate metabolism",
+        "D": "Genes involved in nucleotide synthesis",
+        "Answer": "B",
+        "Source": "The global transcriptome analysis showed that CTs upregulated the expression of 187 genes, most of which were involved in hypothetical protein, followed by the PTS (phosphotransferase system) system, while three genes were involved in oxidative stress."
+    },
+    "Question_6": {
+        "Context": "The phosphotransferase system (PTS) is a method used by bacteria to transport sugars across the cell membrane, which can be affected by antibacterial substances.",
+        "Question": "What system is involved in the transport of sugars in bacteria and was found to be affected by condensed tannins?",
+        "A": "Phospholipid transport system",
+        "B": "Phosphotransferase system",
+        "C": "Protein export system",
+        "D": "Nucleotide exchange system",
+        "Answer": "B",
+        "Source": "The global transcriptome analysis showed that CTs upregulated the expression of 187 genes, most of which were involved in hypothetical protein, followed by the PTS (phosphotransferase system) system, while three genes were involved in oxidative stress."
+    },
+    "Question_7": {
+        "Context": "The phosphate ABC transporter system is a mechanism used by bacteria for the uptake of phosphate, which can be essential for various cellular processes.",
+        "Question": "Which system involved in phosphate uptake in bacteria was found to be downregulated in response to condensed tannins?",
+        "A": "Phosphate ABC transporter system",
+        "B": "Phosphate PTS system",
+        "C": "Phosphate glycolysis system",
+        "D": "Phosphate pentose phosphate pathway",
+        "Answer": "A",
+        "Source": "The expression of 161 genes was downregulated, most of which were involved in the phosphate ABC transporter system."
+    },
+    "Question_8": {
+        "Context": "The minimal inhibitory concentration (MIC) is the lowest concentration of a substance that prevents visible growth of a bacterium.",
+        "Question": "What is the MIC of condensed tannins for inhibiting the growth of Pediococcus pentosaceus?",
+        "A": "750 mg/L",
+        "B": "1500 mg/L",
+        "C": "3000 mg/L",
+        "D": "125 mg/L",
+        "Answer": "B",
+        "Source": "The MIC of CTs for P. pentosaceus SF11 was 1500 mg/L."
+    },
+    "Question_9": {
+        "Context": "Enzymes involved in the pentose phosphate pathway, such as transaldolase, play a role in the metabolism of pentoses and can be inhibited by certain compounds.",
+        "Question": "Which enzyme involved in the pentose phosphate pathway is inhibited by condensed tannins in Pediococcus pentosaceus?",
+        "A": "Hexokinase",
+        "B": "Glucose-6-phosphate dehydrogenase",
+        "C": "Phosphoglucomutase",
+        "D": "Transaldolase",
+        "Answer": "D",
+        "Source": "The results showed that CTs decreased the activities of enzymes such as lactic dehydrogenase, and inhibited the pentose phosphate (PP)/glycolytic pathway."
+    },
+    "Question_10": {
+        "Context": "The antibacterial activity of compounds can be partly due to the induction of oxidative stress, which can be measured by the production of reactive oxygen species (ROS) in bacterial cells.",
+        "Question": "What role does hydrogen peroxide play in the antibacterial activity of condensed tannins against Pediococcus pentosaceus?",
+        "A": "It decreases ROS activity in bacterial cells",
+        "B": "It serves as a nutrient for bacterial growth",
+        "C": "It induces oxidative stress by increasing ROS activity",
+        "D": "It stabilizes the bacterial cell membrane",
+        "Answer": "C",
+        "Source": "The content of hydrogen peroxide produced by CTs was increased in P. pentosaceus SF11, and antibacterial activity partly occurred due to this hydrogen peroxide."
+    }
+}

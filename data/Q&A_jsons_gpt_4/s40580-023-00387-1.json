@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Remote epitaxy is a process that involves the growth of a crystalline film on a substrate through an atomically thin intermediary layer. This intermediary layer is typically a two-dimensional material like graphene, which allows the lattice structure of the substrate to influence the growth of the film without forming a direct bond.",
+        "Question": "What is the fundamental principle that allows remote epitaxy to occur between a 2D material and a 3D material?",
+        "A": "Covalent bonding",
+        "B": "Lattice transparency",
+        "C": "Ionic bonding",
+        "D": "Metallic bonding",
+        "Answer": "B",
+        "Source": "Remote epitaxy has opened novel opportunities for advanced manufacturing and heterogeneous integration of two- dimensional (2D) materials and conventional (3D) materials. The lattice transparency as the fundamental principle of remote epitaxy has been studied and challenged by recent observations defying the concept."
+    },
+    "Question_2": {
+        "Context": "In the context of semiconductor epitaxy, various techniques such as molecular beam epitaxy (MBE) and metal\u2013organic vapor phase epitaxy (MOCVD) are used to deposit crystalline layers on substrates. These methods typically involve forming covalent or ionic bonds at the interface between the substrate and the deposited layer.",
+        "Question": "Which of the following is NOT a method used in conventional epitaxy for depositing crystalline layers?",
+        "A": "Molecular beam epitaxy (MBE)",
+        "B": "Metal\u2013organic vapor phase epitaxy (MOCVD)",
+        "C": "Hydride vapor phase epitaxy (HVPE)",
+        "D": "Van der Waals epitaxy",
+        "Answer": "D",
+        "Source": "Conventional epitaxy broadly refers to epilayer nucleation and growth on substrate by forming covalent or ionic bonds at the interface through physical or chemical vapor deposition (CVD) methods, such as pulsed laser deposition (PLD), molecular beam epitaxy (MBE), metal\u2013organic vapor phase epitaxy (MOCVD), hydride vapor phase epitaxy (HVPE), etc."
+    },
+    "Question_3": {
+        "Context": "Two-dimensional materials like graphene have weak inter-planar van der Waals forces, which allow for the physical separation of individual layers without creating surface dangling bonds. This property is crucial for the integration of these materials into various electronic applications.",
+        "Question": "What property of two-dimensional materials allows for the physical separation of individual layers without creating surface dangling bonds?",
+        "A": "Ionic bonding",
+        "B": "Covalent bonding",
+        "C": "Van der Waals forces",
+        "D": "Metallic bonding",
+        "Answer": "C",
+        "Source": "Two-dimensional (2D) materials have emerged as a promising solution due to their weak inter-planar van der Waals (vdW) forces, allowing for the physical separation of individual layers without surface dangling bonds."
+    },
+    "Question_4": {
+        "Context": "In the field of epitaxy, the term 'homoepitaxy' refers to the growth of a crystalline film on a substrate of the same material, which typically results in a strain-free interface. This is in contrast to 'heteroepitaxy', where the film and substrate are composed of different materials.",
+        "Question": "What does the term 'homoepitaxy' refer to in the context of epitaxial growth?",
+        "A": "Growth of a film on a substrate of a different material",
+        "B": "Growth of a film on a non-crystalline substrate",
+        "C": "Growth of a film on a substrate of the same material",
+        "D": "Growth of a film on a substrate with a large lattice mismatch",
+        "Answer": "C",
+        "Source": "(1) Homoepitaxy or commensurate epitaxy, where the film/substrate interface is strain-free and/or composed of the same material, is the most intuitive epitaxy mode and will not be discussed in detail."
+    },
+    "Question_5": {
+        "Context": "Strained epitaxy is a technique used in semiconductor fabrication where a thin film is grown on a substrate with a different lattice constant. This strain can lead to new physical properties in the film, such as enhanced ferroelectricity.",
+        "Question": "What is a potential outcome of using strained epitaxy in semiconductor fabrication?",
+        "A": "Decreased electrical conductivity",
+        "B": "Enhanced ferroelectricity",
+        "C": "Reduced thermal stability",
+        "D": "Increased lattice transparency",
+        "Answer": "B",
+        "Source": "(2) Heteroepitaxy, where strained growth can be maintained up to a certain thickness before fully relaxed. A strained epilayer can exhibit unexpected physical properties such as ferroelectricity."
+    },
+    "Question_6": {
+        "Context": "Van der Waals epitaxy is a technique that allows the growth of crystalline films on substrates with significant lattice mismatches by utilizing the van der Waals gap, which is free of surface dangling bonds.",
+        "Question": "What is the significance of the van der Waals gap in van der Waals epitaxy?",
+        "A": "It allows the formation of covalent bonds with the substrate",
+        "B": "It enables the growth of films with significant lattice mismatches",
+        "C": "It increases the thermal stability of the grown film",
+        "D": "It enhances the electrical conductivity of the substrate",
+        "Answer": "B",
+        "Source": "The vdW epitaxy comprehensively encompasses specific types of epitaxial structures, including heteroepitaxy of purely 2D stacks, 2D materials grown on conventional wafers, and thin film nucleation on top of 2D materials."
+    },
+    "Question_7": {
+        "Context": "Graphene is a two-dimensional material that is known for its exceptional thermal and mechanical stability. It is also the thinnest material known and has unique properties that make it an ideal candidate for certain types of epitaxial growth.",
+        "Question": "Which of the following properties makes graphene an ideal candidate for investigating interacting forces in unconventional epitaxies?",
+        "A": "Optical transparency",
+        "B": "Thermal stability",
+        "C": "Thickness-controlled synthesis",
+        "D": "Absence of a permanent dipole",
+        "Answer": "D",
+        "Source": "Significantly, graphene is the thinnest material and possesses no permanent dipole, making it an ideal candidate for investigating the interacting forces involved in the unconventional epitaxies discussed in this review article."
+    },
+    "Question_8": {
+        "Context": "The concept of 'lattice transparency' in graphene refers to its ability to allow the underlying substrate's lattice structure to influence the growth of an overlayer without direct bonding, which is fundamental to remote epitaxy.",
+        "Question": "What aspect of graphene's 'transparency' is fundamental to the concept of remote epitaxy?",
+        "A": "Optical transparency",
+        "B": "Electrical transparency",
+        "C": "Wetting transparency",
+        "D": "Lattice transparency",
+        "Answer": "D",
+        "Source": "Intriguingly, graphene exhibits 'transparency' from multiple perspectives: it is optically transparent (< 2% absorption) at 1\u20132 monolayer thickness, making it an ideal 2D transparent conductor; it also demonstrates wetting transparency, meaning that the wetting behavior of the underlying substrate remains unaffected by the thin graphene on top; 'lattice transparency' is a relatively new concept that has emerged in recent years, serving as the fundamental basis for remote epitaxy."
+    },
+    "Question_9": {
+        "Context": "In the context of epitaxial growth, domain matching epitaxy is a technique that allows the combination of materials from different space groups by generating periodic misfit dislocations to minimize strain or structural disorder.",
+        "Question": "What is the purpose of generating periodic misfit dislocations in domain matching epitaxy?",
+        "A": "To increase the electrical conductivity of the film",
+        "B": "To enhance the optical properties of the substrate",
+        "C": "To minimize strain or structural disorder for epitaxial growth",
+        "D": "To create a direct covalent bond between the film and substrate",
+        "Answer": "C",
+        "Source": "(3) Domain matching epitaxy, a special case with the M:N lattice matching relationship between the epilayer and substrate, typically generates periodic misfit dislocations to minimize the strain or structural disorder for the epitaxial growth."
+    },
+    "Question_10": {
+        "Context": "Nanoepitaxy involves the growth of epitaxial structures on a sub-micrometer scale, such as self-assembled quantum dots and nanowires. This type of growth can be influenced by various factors, including adatom adhesive force and surface adhesive force.",
+        "Question": "What is a key factor that governs the shape and nucleation of extended defects in nanoepitaxy?",
+        "A": "The balance between adatom adhesive force and surface adhesive force",
+        "B": "The optical transparency of the substrate",
+        "C": "The electrical conductivity of the nanowires",
+        "D": "The thermal expansion coefficient of the quantum dots",
+        "Answer": "A",
+        "Source": "Nanoepitaxy, introduced here as a distinct type of epitaxy, involves the growth of epi-structures in contact with the substrate on a sub-micrometer scale. Shape and nucleation of extended defects in a QD are governed by balance between adatom adhesive force and surface adhesive force during SK growth."
+    }
+}

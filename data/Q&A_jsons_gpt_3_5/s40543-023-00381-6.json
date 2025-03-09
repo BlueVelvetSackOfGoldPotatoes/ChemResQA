@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study developed a method for quantifying ACPA in biological samples. The method was validated for various parameters.",
+        "Question": "What was the linear concentration range for quantification of ACPA in the developed LC\u2013MS/MS method?",
+        "A": "1.8\u2013100 ng/mL",
+        "B": "1.8\u20131000 ng/mL",
+        "C": "1.8\u2013500 ng/mL",
+        "D": "1.8\u2013250 ng/mL",
+        "Answer": "B",
+        "Source": "The LC\u2013MS/MS method showed an acceptable linearity range from 1.8 to 1000 ng/ml for ACPA."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the sensitivity of the developed method for ACPA quantification.",
+        "Question": "What was the limit of detection (LOD) for ACPA in the LC\u2013MS/MS method?",
+        "A": "0.6 ng/mL",
+        "B": "1.8 ng/mL",
+        "C": "3.0 ng/mL",
+        "D": "5.0 ng/mL",
+        "Answer": "A",
+        "Source": "The LOD was 0.6 ng/ml, and the LOQ calculated in this work was 1.8 ng/ml with acceptable accuracy and precision."
+    },
+    "Question_3": {
+        "Context": "The study assessed the matrix effect on the ionization of analytes in the developed method.",
+        "Question": "What was the matrix effect for ACPA in the presence of the sample matrix?",
+        "A": "98.60%",
+        "B": "95.70%",
+        "C": "100.49%",
+        "D": "97.25%",
+        "Answer": "A",
+        "Source": "The matrix effect was calculated as 98.60% \u00b1 1.67 for ACPA and 100.49% \u00b1 1.60 for IS."
+    },
+    "Question_4": {
+        "Context": "The study investigated the carryover effect in the developed LC\u2013MS/MS method.",
+        "Question": "Was carryover observed in the blank matrix samples after the highest calibration standard injection?",
+        "A": "Yes",
+        "B": "No",
+        "C": "Not mentioned",
+        "D": "Partially",
+        "Answer": "B",
+        "Source": "The carryover was not observed in any of the blank matrix samples after the highest calibration standard injection."
+    },
+    "Question_5": {
+        "Context": "The study examined the dilution integrity of the developed method.",
+        "Question": "What was the bias observed for the fivefold and tenfold dilution integrity tests?",
+        "A": "\u2264 1.70%",
+        "B": "\u2264 2.00%",
+        "C": "\u2264 1.00%",
+        "D": "\u2264 3.00%",
+        "Answer": "A",
+        "Source": "The low bias (\u2264 1.70%) and CV (\u2264 1.40%) values were within acceptance criteria."
+    },
+    "Question_6": {
+        "Context": "The study evaluated the precision and accuracy of the developed method.",
+        "Question": "What was the coefficient of variation (CV) for the inter-day precision at a concentration of 250 ng/mL?",
+        "A": "1.49%",
+        "B": "1.73%",
+        "C": "1.66%",
+        "D": "1.37%",
+        "Answer": "C",
+        "Source": "The values (mean \u00b1 SE; n = 6) of the slope and intercept were 0.0021 \u00b1 0.0001 and 0.0102 \u00b1 0.0029, respectively."
+    },
+    "Question_7": {
+        "Context": "The study assessed the robustness of the developed LC\u2013MS/MS method.",
+        "Question": "What was the p value for the percentage of FA in mobile phase A in the robustness study?",
+        "A": "0.344",
+        "B": "0.538",
+        "C": "0.985",
+        "D": "0.346",
+        "Answer": "A",
+        "Source": "The p values of each variable were higher than 0.05 indicating that small changes do not have a statistically significant effect on the peak area ratio and robustness of the method."
+    },
+    "Question_8": {
+        "Context": "The study investigated the ruggedness of the developed method.",
+        "Question": "Was there a statistically significant difference between the results of two different analysts in the ruggedness study?",
+        "A": "Yes",
+        "B": "No",
+        "C": "Not mentioned",
+        "D": "Partially",
+        "Answer": "B",
+        "Source": "It was found that there was no statistically significant difference (p > 0.05) between them."
+    },
+    "Question_9": {
+        "Context": "The study applied the developed method to quantify ACPA in cell culture samples.",
+        "Question": "What was the amount of ACPA found in the intracellular matrix after 24 hours of incubation?",
+        "A": "773 \u00b1 46.17 ng/ml",
+        "B": "5175 \u00b1 906.85 ng/ml",
+        "C": "773 ng/ml",
+        "D": "5175 ng/ml",
+        "Answer": "A",
+        "Source": "The amount of ACPA in the intracellular matrix was found 773 \u00b1 46.17 ng/ml after 24 h incubation."
+    },
+    "Question_10": {
+        "Context": "The study concluded the applicability of the developed method for ACPA quantification.",
+        "Question": "What was the main recommendation regarding the use of the LC\u2013MS/MS method?",
+        "A": "Use for drug development studies only",
+        "B": "Use for pharmacokinetic studies only",
+        "C": "Use for monitoring ACPA in different biological matrices",
+        "D": "Not recommended for further use",
+        "Answer": "C",
+        "Source": "As a result, it can be recommended to use the LC\u2013MS/MS method for monitoring of ACPA in drug development studies and pharmacokinetic studies to be performed in different biological matrices."
+    }
+}

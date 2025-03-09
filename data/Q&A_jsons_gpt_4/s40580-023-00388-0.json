@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of materials science, epitaxial growth refers to the process of growing a crystalline overlay on a crystalline substrate, where the overlay develops a definite orientation relationship with the substrate.",
+        "Question": "What is expected to happen during pseudomorphic growth when the lattice mismatch is usually less than 3%?",
+        "A": "The epilayer recovers its own lattice constant immediately.",
+        "B": "The epilayer endures lattice distortion and strain accumulation to maintain crystalline quality.",
+        "C": "Misfit dislocations occur at the heterointerface to accommodate strain.",
+        "D": "The epilayer tends to preserve its own lattice structure without distortion.",
+        "Answer": "B",
+        "Source": "For the small lattice mismatch (usually less than 3%) scenarios, a pseudomorphic growth is first expected to happen, during which the epilayer would endure the lattice distortion and strain accumulation to maintain the crystalline quality."
+    },
+    "Question_2": {
+        "Context": "Van der Waals (vdW) epitaxy is a growth method that utilizes the vdW force to guide the materials growth on a dangling-bonds-free surface, allowing the epilayer to preserve its own lattice structure.",
+        "Question": "What is the primary advantage of van der Waals epitaxy over traditional covalent epitaxy?",
+        "A": "The epilayer is constrained to the substrate by covalent interaction.",
+        "B": "The epilayer tends to establish the epitaxial relationship with the substrate.",
+        "C": "The epilayer is not constrained to the substrate by covalent interaction.",
+        "D": "The epilayer immediately recovers its own lattice constant.",
+        "Answer": "C",
+        "Source": "In this scenario, the epilayer is not constrained to the substrate by covalent interaction, thus the epilayer tends to preserve its own lattice structure and not establish the epitaxial relationship with the substrate as that happens in the traditional covalent epitaxy."
+    },
+    "Question_3": {
+        "Context": "Chemical vapor deposition (CVD) is a widely used technique in materials science for producing high-quality, high-performance solid materials, typically under vacuum.",
+        "Question": "Which method is used to fabricate wafer-size 2D materials such as graphene, h-BN, and transition metal dichalcogenides (TMDCs)?",
+        "A": "Mechanical exfoliation",
+        "B": "Molecular beam epitaxy",
+        "C": "Chemical vapor deposition",
+        "D": "Physical vapor deposition",
+        "Answer": "C",
+        "Source": "With years of development, wafer-size 2D materials, including graphene, h-BN, and transition metal dichalcogenides (TMDCs), could be fabricated via the chemical vapor deposition method."
+    },
+    "Question_4": {
+        "Context": "In materials science, the term 'remote epitaxy' refers to a growth mechanism where the epilayer inherits the substrate lattice despite the presence of an interlayer material.",
+        "Question": "What is the term used to describe the growth of crystals on a 2D-material-covered single-crystalline substrate where the epilayer still inherits the substrate lattice?",
+        "A": "Covalent epitaxy",
+        "B": "Remote epitaxy",
+        "C": "Quasi van der Waals epitaxy",
+        "D": "Direct epitaxy",
+        "Answer": "B",
+        "Source": "remote epitaxy, where the epilayer still inherits the substrate lattice regardless of the presence of the 2D material interlayer"
+    },
+    "Question_5": {
+        "Context": "In the context of epitaxial growth, lattice transparency is a concept that describes the ability of a material to allow the potential field from the underlying crystalline substrate to penetrate and modulate the subsequent epitaxial process.",
+        "Question": "Which material is described as being 'electrically penetrable' and allows the remote homoepitaxy to happen?",
+        "A": "Graphene",
+        "B": "Silicon",
+        "C": "h-BN",
+        "D": "GaN",
+        "Answer": "A",
+        "Source": "This demonstrates that the atomic thin graphene is electrically penetrable, which allows the remote homoepitaxy to happen."
+    },
+    "Question_6": {
+        "Context": "In the field of epitaxial growth, the potential relay effect refers to the ability of a material to maintain the strength of a potential field from a substrate, ensuring interaction between the epilayer and the substrate for guiding the lattice arrangement of the epilayer.",
+        "Question": "What effect allows a 2D material like graphene to maintain the potential field strength of a substrate, ensuring the interaction between the epilayer and the substrate?",
+        "A": "Lattice transparency",
+        "B": "Potential relay effect",
+        "C": "Covalent interaction",
+        "D": "Van der Waals force",
+        "Answer": "B",
+        "Source": "Second, the potential relay effect: Originating from the re-distribution of electrons, 2D materials, such as graphene, could maintain the potential field strength of substrates, which ensures the interaction between the epilayer and the substrate is still strong enough to guide the lattice arrangement of the epilayer."
+    },
+    "Question_7": {
+        "Context": "In the process of epitaxial growth, the term 'heteroepitaxy' is used to describe the growth of a crystalline film on a substrate of a different material.",
+        "Question": "What is the term used to describe the growth of a crystalline film on a substrate of a different material?",
+        "A": "Homoepitaxy",
+        "B": "Isoepitaxy",
+        "C": "Heteroepitaxy",
+        "D": "Anisoepitaxy",
+        "Answer": "C",
+        "Source": "the crystalline quality of the hetero-epilayer is not as satisfied as that of the homoepitaxial ones."
+    },
+    "Question_8": {
+        "Context": "In materials science, the term 'quasi van der Waals epitaxy' refers to a growth mechanism where the epitaxial growth is governed by an artificial potential fluctuation created by intentionally doped 2D material.",
+        "Question": "What type of epitaxy is characterized by the artificial potential fluctuation created by intentionally doped 2D material?",
+        "A": "Remote epitaxy",
+        "B": "Covalent epitaxy",
+        "C": "Van der Waals epitaxy",
+        "D": "Quasi van der Waals epitaxy",
+        "Answer": "D",
+        "Source": "quasi vdW epitaxy, where the artificial potential fluctuation created by the intentionally doped 2D material governs the epitaxial growth."
+    },
+    "Question_9": {
+        "Context": "In the context of epitaxial growth, the term 'lattice mismatch' refers to the difference in lattice constants between the epilayer and the substrate, which can lead to strain and dislocations in the grown film.",
+        "Question": "What typically occurs at the heterointerface when there is a large lattice mismatch?",
+        "A": "The epilayer maintains its crystalline quality without defects.",
+        "B": "The epilayer undergoes pseudomorphic growth without strain.",
+        "C": "Misfit dislocations immediately occur to accommodate the strain.",
+        "D": "The epilayer preserves its own lattice constant without any adjustments.",
+        "Answer": "C",
+        "Source": "For the large lattice mismatch ones, misfit dislocations would immediately occur at the heterointerface to accommodate the large mismatch-induced strain."
+    },
+    "Question_10": {
+        "Context": "In materials science, the term 'dangling bonds' refers to unsatisfied valencies of atoms at the surface of a material, which can lead to unwanted bonding and reactions.",
+        "Question": "What is the primary challenge in replicating van der Waals epitaxy for bulk crystals growth?",
+        "A": "The unavoidable presence of dangling bonds on the bulk materials surface.",
+        "B": "The lack of a suitable 2D material to assist the growth.",
+        "C": "The inability to control the temperature during the growth process.",
+        "D": "The difficulty in maintaining the vacuum conditions required for growth.",
+        "Answer": "A",
+        "Source": "However, due to the unavoidable presence of dangling bonds on the bulk materials surface, the vdW epitaxy strategy could not be straightly replicated to bulk crystals growth."
+    }
+}

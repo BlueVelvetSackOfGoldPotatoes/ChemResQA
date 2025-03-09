@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on examining the crystallinity of PLA-WS2 nanocomposite films under different processing conditions. ",
+        "Question": "What is the effect of WS2 nanotube concentration on the crystallinity of PLA after stretching and annealing?",
+        "A": "Decreases crystallinity",
+        "B": "Increases crystallinity",
+        "C": "No effect on crystallinity",
+        "D": "Induces amorphous phase",
+        "Answer": "B",
+        "Source": "The results showed that increasing the nanotube concentration enhances the crystallinity of PLA induced by the stretching process, leading to a more than two-fold increase in crystallinity with a WS2 concentration of 0.3 wt%."
+    },
+    "Question_2": {
+        "Context": "The study involved analyzing the thermal behavior of PLA and PLA-WS2 nanocomposites under different processing conditions.",
+        "Question": "What is the glass transition temperature (Tg) of the PLA and PLA-WS2 nanocomposites?",
+        "A": "Increases with WS2 concentration",
+        "B": "Decreases with WS2 concentration",
+        "C": "Remains constant",
+        "D": "Not affected by processing conditions",
+        "Answer": "C",
+        "Source": "The apparent glass transition temperature (Tg) remained almost constant for all the samples independently of the amount of WS2, suggesting that the filler introduction into the polymer matrix had no measurable stiffening effect on the amorphous phase."
+    },
+    "Question_3": {
+        "Context": "The research included studying the cold crystallization behavior of PLA and PLA-WS2 nanocomposites.",
+        "Question": "How does the cold crystallization temperature (Tcc) change with the presence of WS2 nanotubes?",
+        "A": "Increases with WS2 concentration",
+        "B": "Decreases with WS2 concentration",
+        "C": "Remains constant",
+        "D": "Induces amorphous phase",
+        "Answer": "B",
+        "Source": "The cold crystallization temperature (Tcc) slightly decreases with the concentration of WS2, indicating that the incorporation of WS2 NTs into PLA influences the formation of nuclei during crystallization by decreasing the free energy of nucleation."
+    },
+    "Question_4": {
+        "Context": "The study involved evaluating the thermal transitions of PLA and PLA-WS2 nanocomposites.",
+        "Question": "What is the significance of the double melting peak observed in the DSC thermograms of UNST samples?",
+        "A": "Represents cold crystallization",
+        "B": "Indicates presence of metastable crystals",
+        "C": "Shows amorphous phase transition",
+        "D": "Reflects crystallization due to WS2 nanotubes",
+        "Answer": "B",
+        "Source": "The double peak (corresponding to two melting temperatures Tm1 and Tm2 with Tm1 < Tm2) observed in UNST samples is due to the fusion of smaller and metastable crystals formed during the DSC heating process itself."
+    },
+    "Question_5": {
+        "Context": "The research included analyzing the Raman spectra of PLA and PLA-WS2 nanocomposites.",
+        "Question": "What is the significance of the band centered at 924 cm\u22121 in the Raman spectra?",
+        "A": "Indicates amorphous phase",
+        "B": "Associated with crystalline phase",
+        "C": "Shows presence of WS2 nanotubes",
+        "D": "Reflects glass transition temperature",
+        "Answer": "B",
+        "Source": "The band centered at 924 cm\u22121 is observed only when PLA crystallizes in \u03b1 and \u03b1\u2019 forms, indicating the presence of chains in conformation typical of crystalline phases."
+    },
+    "Question_6": {
+        "Context": "The study involved investigating the dispersion of WS2 NTs in UNST PLA-WS2 films.",
+        "Question": "What was observed in the optical micrographs of UNST PLA-WS2 nanocomposite films?",
+        "A": "Presence of aggregates",
+        "B": "Uniform dispersion of WS2 NTs",
+        "C": "Chemical modification of WS2 NTs",
+        "D": "Absence of WS2 NTs",
+        "Answer": "B",
+        "Source": "The optical micrographs did not reveal the presence of aggregates, demonstrating the uniform dispersion of WS2 NTs in PLA without the need for further functionalization."
+    },
+    "Question_7": {
+        "Context": "The study focused on the mechanical properties of solvent cast PLA-WS2 films.",
+        "Question": "What was the observed trend in the elastic modulus with increasing concentration of WS2 NTs?",
+        "A": "Decrease in elastic modulus",
+        "B": "Increase in elastic modulus",
+        "C": "No effect on elastic modulus",
+        "D": "Presence of chemical interactions",
+        "Answer": "B",
+        "Source": "The results showed a slight increase in the elastic modulus for films at WS2 concentrations higher than 0.2%, indicating that the elastic modulus increased with increasing concentration of WS2 NTs."
+    },
+    "Question_8": {
+        "Context": "The study involved studying the dispersion of WS2 NTs in UNST PLA-WS2 films.",
+        "Question": "What was the effect of sonication on the WS2 nanotubes in the PLA matrix?",
+        "A": "Aggregation of WS2 NTs",
+        "B": "Chemical modification of WS2 NTs",
+        "C": "Unraveling of WS2 NTs",
+        "D": "Absence of WS2 NTs",
+        "Answer": "C",
+        "Source": "The optical micrographs did not reveal the presence of aggregates, demonstrating that the preliminary sonication was efficient in unraveling the nanotubes and that they readily dispersed in PLA without the need for further functionalization."
+    },
+    "Question_9": {
+        "Context": "The research included analyzing the stress-strain curves of PLA and PLA-WS2 films.",
+        "Question": "What was the observed behavior of the stress-strain curves for PLA-WS2 nanocomposites compared to neat PLA?",
+        "A": "Similar behavior",
+        "B": "Decrease in stress",
+        "C": "Increase in stress",
+        "D": "Presence of chemical interactions",
+        "Answer": "A",
+        "Source": "The stress-strain curves showed a very similar behavior for the PLA-WS2 nanocomposites and neat PLA, indicating no significant difference in the stress-strain behavior between the two."
+    },
+    "Question_10": {
+        "Context": "The study involved investigating the dispersion of WS2 NTs in UNST PLA-WS2 films.",
+        "Question": "What did the optical micrographs reveal about the dispersion of WS2 NTs in the PLA matrix?",
+        "A": "Presence of aggregates",
+        "B": "Uniform dispersion of WS2 NTs",
+        "C": "Chemical modification of WS2 NTs",
+        "D": "Absence of WS2 NTs",
+        "Answer": "B",
+        "Source": "The optical micrographs did not reveal the presence of aggregates, demonstrating the uniform dispersion of WS2 NTs in PLA without the need for further functionalization."
+    }
+}

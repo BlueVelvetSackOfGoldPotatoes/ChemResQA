@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Triple-negative breast cancer (TNBC) is a subtype of breast cancer that lacks the expression of estrogen receptor, progesterone receptor, and human epidermal growth factor receptor 2. This makes it more aggressive and difficult to treat compared to other breast cancer subtypes.",
+        "Question": "What characteristic makes triple-negative breast cancer (TNBC) more aggressive and difficult to treat?",
+        "A": "Overexpression of estrogen receptor",
+        "B": "Lack of specific therapeutic targets",
+        "C": "High levels of human epidermal growth factor receptor 2",
+        "D": "Sensitive to chemotherapy",
+        "Answer": "B",
+        "Source": "Triple-negative breast cancer (TNBC) accounts for 15\u201320% of breast cancers, which is characterized by a lack of over-expression of estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2). TNBC tends to be more aggressive and highly heterogeneous, which makes it the subtype with the worst prognosis among all breast cancers."
+    },
+    "Question_2": {
+        "Context": "Trophoblast cell-surface antigen-2 (TROP-2) is a transmembrane glycoprotein that is overexpressed in various human epithelial cancers and is associated with poor prognosis.",
+        "Question": "What is the role of Trophoblast cell-surface antigen-2 (TROP-2) in the context of human epithelial cancers?",
+        "A": "It is underexpressed and indicates a good prognosis",
+        "B": "It is a receptor for growth factors",
+        "C": "It is overexpressed and associated with poor prognosis",
+        "D": "It is a marker for effective immunotherapy",
+        "Answer": "C",
+        "Source": "Trophoblast cell-surface antigen-2 (TROP-2) is a transmembrane glycoprotein over-expressed in 80% of TNBC patients and is associated with the occurrence, progress, and poor prognosis of TNBC."
+    },
+    "Question_3": {
+        "Context": "Antibody-drug conjugates (ADCs) are targeted cancer therapeutics that consist of an antibody linked to a cytotoxic drug. The antibody binds to specific antigens overexpressed on cancer cells, delivering the cytotoxic drug directly to the tumor.",
+        "Question": "What is the primary mechanism of action for antibody-drug conjugates (ADCs) in cancer treatment?",
+        "A": "The antibody stimulates the immune system to attack cancer cells",
+        "B": "The cytotoxic drug prevents blood supply to the tumor",
+        "C": "The antibody binds to antigens on cancer cells, delivering the drug",
+        "D": "The drug induces hypermutation in cancer cell DNA",
+        "Answer": "C",
+        "Source": "ADC consists of an antibody, a chemical linker, and a cytotoxic drug, which can bind to the surface of the target through the antibody and then release a cytotoxic payload to achieve a targeted anticancer effect."
+    },
+    "Question_4": {
+        "Context": "ImmunoPET is a non-invasive imaging technique that uses radiolabeled antibodies to visualize and quantify the expression of specific antigens in tumors, aiding in the diagnosis and monitoring of cancer.",
+        "Question": "What is the purpose of ImmunoPET imaging in the context of cancer?",
+        "A": "To provide structural imaging of bones",
+        "B": "To measure the metabolic activity of tumors",
+        "C": "To visualize and quantify antigen expression in tumors",
+        "D": "To assess the oxygenation level of tumor tissues",
+        "Answer": "C",
+        "Source": "ImmunoPET serves as an ideal non-invasive method for evaluating and monitoring the TROP-2 expression level of tumors before and during ADC treatment."
+    },
+    "Question_5": {
+        "Context": "Zirconium-89 (89Zr) is a radioisotope used in antibody radiolabeling for PET imaging due to its suitable half-life and low \u03b2 energy, which allows for high-resolution imaging.",
+        "Question": "Why is Zirconium-89 (89Zr) suitable for antibody radiolabeling in PET imaging?",
+        "A": "It has a short half-life suitable for rapid imaging",
+        "B": "It emits high \u03b2 energy for deep tissue penetration",
+        "C": "It has a relatively long half-life and low \u03b2 energy for high-resolution images",
+        "D": "It is a gamma emitter used for direct tumor irradiation",
+        "Answer": "C",
+        "Source": "A \u03b2+-emitter, Zirconium-89 (89Zr), with a relatively long half-life (78.4 h) and low \u03b2 energy (395.5 keV) has been investigated and applied in antibody radiolabelling for PET imaging and could provide high-resolution images."
+    },
+    "Question_6": {
+        "Context": "Lutetium-177 (177Lu) is a radionuclide used in radioimmunotherapy (RIT) and can also be used for SPECT imaging due to its emission of both \u03b2-particles and \u03b3-rays.",
+        "Question": "What makes Lutetium-177 (177Lu) suitable for both radioimmunotherapy (RIT) and SPECT imaging?",
+        "A": "It emits only \u03b2-particles that are effective in cell killing",
+        "B": "It emits only \u03b3-rays that are ideal for imaging",
+        "C": "It emits both \u03b2-particles and \u03b3-rays, enabling therapy and imaging",
+        "D": "It has a very short half-life, allowing for repeated administration",
+        "Answer": "C",
+        "Source": "We also radiolabeled NY003 with 177Lu for SPECT imaging and further proved its therapeutic efficacy on TNBC tumors."
+    },
+    "Question_7": {
+        "Context": "The enzyme-linked immunosorbent assay (ELISA) is a common laboratory technique used to measure the binding affinity of antibodies to antigens.",
+        "Question": "What is the purpose of using an enzyme-linked immunosorbent assay (ELISA) in the context of antibody development?",
+        "A": "To determine the concentration of antibodies in blood",
+        "B": "To measure the binding affinity of antibodies to antigens",
+        "C": "To visualize the location of antibodies within cells",
+        "D": "To identify the specific amino acid sequence of antibodies",
+        "Answer": "B",
+        "Source": "The binding affinity of NY003 towards TROP-2 His protein was determined using ELISA assay."
+    },
+    "Question_8": {
+        "Context": "Sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) is a technique used to separate proteins based on their molecular weight.",
+        "Question": "What is the primary use of SDS-PAGE in protein analysis?",
+        "A": "To determine the isoelectric point of proteins",
+        "B": "To measure the enzymatic activity of proteins",
+        "C": "To separate proteins based on their molecular weight",
+        "D": "To amplify protein quantities for further analysis",
+        "Answer": "C",
+        "Source": "SDS-PAGE was performed following the standard protocols. Protein concentration was calibrated to 1 \u03bcg/\u03bcL with a 5 \u00d7 protein loading buffer."
+    },
+    "Question_9": {
+        "Context": "Hybridoma technology involves the fusion of spleen cells with myeloma cells to produce monoclonal antibodies.",
+        "Question": "What is the purpose of hybridoma technology in the production of monoclonal antibodies?",
+        "A": "To enhance the antigenicity of antibodies",
+        "B": "To produce large quantities of polyclonal antibodies",
+        "C": "To generate stable cell lines that produce monoclonal antibodies",
+        "D": "To increase the diversity of antibody species",
+        "Answer": "C",
+        "Source": "then the spleen cells were taken to prepare hybridoma cells until the serum antibody titer reached 100,0000. Positive hybridoma clones with stable and highly secreted anti-TROP-2 monoclonal antibody were screened by enzyme-linked immunosorbent assay (ELISA)."
+    },
+    "Question_10": {
+        "Context": "In the context of radiochemistry, a chelator is a molecule that can form multiple bonds with a metal ion, making it an essential component in the radiolabeling of molecules for imaging and therapy.",
+        "Question": "What is the role of a chelator in the radiolabeling process of molecules for medical imaging and therapy?",
+        "A": "To increase the radioactive decay of metal ions",
+        "B": "To form stable complexes with metal ions for radiolabeling",
+        "C": "To act as a radioactive source for direct imaging",
+        "D": "To enhance the immunogenicity of radiolabeled molecules",
+        "Answer": "B",
+        "Source": "NY003 was conjugated with DFO and DTPA for 89Zr and 177Lu radiolabelling, respectively."
+    }
+}

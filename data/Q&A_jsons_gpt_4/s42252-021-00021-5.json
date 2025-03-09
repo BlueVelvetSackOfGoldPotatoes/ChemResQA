@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Fusion assembly techniques are used to join different types of composites, each offering distinct advantages in terms of mechanical properties and cost-effectiveness.",
+        "Question": "What is a major challenge in joining thermoplastic composite to thermoset composites?",
+        "A": "Preventing color mismatch between composites",
+        "B": "Functionalizing the thermoset composite surface",
+        "C": "Ensuring identical thermal expansion coefficients",
+        "D": "Reducing the weight of the thermoplastic composite",
+        "Answer": "B",
+        "Source": "However, some major challenges need to be addressed such as functionalizing the thermoset composite surface through co-curing with an appropriate thermoplastic interlayer."
+    },
+    "Question_2": {
+        "Context": "Polyetheretherketone (PEEK) is a high-performance polymer that can exist in different states, which affects its properties and suitability for certain applications.",
+        "Question": "Which states of polyetheretherketone (PEEK) were investigated as interlayer materials for joining composites?",
+        "A": "Liquid and gaseous",
+        "B": "Amorphous and semicrystalline",
+        "C": "Solid and plasma",
+        "D": "Ionic and covalent",
+        "Answer": "B",
+        "Source": "In this paper, we investigated the potential of polyetheretherketone (PEEK) and its amorphous (PEEK A) and semicrystalline (PEEK SC) states as interlayer materials, co-cured onto thermoset composites."
+    },
+    "Question_3": {
+        "Context": "Surface treatments can modify the adhesion properties of materials, which is crucial for creating strong bonds between different composite materials.",
+        "Question": "What surface preparation technique was shown to improve the adhesion properties of PEEK when used as an interlayer?",
+        "A": "Corona discharge",
+        "B": "Solvent cleaning",
+        "C": "Atmospheric plasma process",
+        "D": "Mechanical abrasion",
+        "Answer": "C",
+        "Source": "A surface preparation involving the atmospheric plasma process demonstrated that both PEEK state materials can be used as interlayer with favorable adhesion properties."
+    },
+    "Question_4": {
+        "Context": "Infrared welding is a technique used to join materials by heating them with infrared radiation, which has certain advantages in terms of process efficiency.",
+        "Question": "What is a proposed advantage of using infrared welding to join composites?",
+        "A": "It requires no pressure application",
+        "B": "It eliminates the need for an interlayer",
+        "C": "It can quickly heat the materials",
+        "D": "It uses ultraviolet radiation for joining",
+        "Answer": "C",
+        "Source": "Regarding the different solutions proposed to join materials by infrared (IR) welding processes, numerous advantages, such as an ability to quickly heat (typically approximately 20\u201325 s)."
+    },
+    "Question_5": {
+        "Context": "Thermal degradation is a concern when welding high-performance materials, as excessive heat can lead to a loss of material properties.",
+        "Question": "At what temperature does polyetheretherketone (PEEK) begin to show significant changes after short exposure?",
+        "A": "400 \u00b0C",
+        "B": "350 \u00b0C",
+        "C": "420 \u00b0C",
+        "D": "450 \u00b0C",
+        "Answer": "C",
+        "Source": "At 420 \u00b0C, significant changes were observed after 10 s of exposure in the literature."
+    },
+    "Question_6": {
+        "Context": "The selection of an interfacial layer material for hybrid welding is influenced by its compatibility and adhesion properties with other materials.",
+        "Question": "Which material has been demonstrated to be a good candidate for acting as an interfacial layer for thermoset composite due to its intrinsic miscibility with epoxy resin?",
+        "A": "Polyethylene (PE)",
+        "B": "Polyvinyl chloride (PVC)",
+        "C": "Polyetherimide (PEI)",
+        "D": "Polypropylene (PP)",
+        "Answer": "C",
+        "Source": "In the literature, many authors have explored the use of polyetherimide (PEI) as an interface material for hybrid welding. PEI has been demonstrated to be a good candidate to act as an interfacial layer for thermoset composite."
+    },
+    "Question_7": {
+        "Context": "The diffusion of thermoset precursors into thermoplastics is a phenomenon that can be utilized to enhance the toughness of the resulting composite material.",
+        "Question": "Which thermoplastic is known to swell and dissolve into a thermoset precursor at elevated temperatures, thus increasing the toughness of the composite?",
+        "A": "Polysulfone (PSF)",
+        "B": "Polyethersulfone (PES)",
+        "C": "Polyetherimide (PEI)",
+        "D": "Phenoxy",
+        "Answer": "B",
+        "Source": "The most popular tougheners are polysulfone (PSF), polyethersulfone (PES) and PEI, which are typically high glass temperature amorphous thermoplastics."
+    },
+    "Question_8": {
+        "Context": "Surface treatments can enhance the wettability and adhesive properties of polymers, which is important for creating strong bonds in composite materials.",
+        "Question": "Which surface treatment method is known to increase the oxygen content, surface energy, and roughness of PEEK?",
+        "A": "Corona treatment",
+        "B": "Plasma treatment",
+        "C": "Chemical etching",
+        "D": "Thermal oxidation",
+        "Answer": "B",
+        "Source": "Plasma treatment of high-performance polymers, such as PEEK polymers, and the resulting chemical, physical and topological surface modifications are well described in the literature."
+    },
+    "Question_9": {
+        "Context": "The roughness of a polymer surface can be affected by various surface treatments, which in turn can influence the adhesion properties of the material.",
+        "Question": "What is the effect of plasma treatment on the roughness of the PEEK surface according to some studies?",
+        "A": "It decreases the roughness",
+        "B": "It has no effect on roughness",
+        "C": "It increases the roughness",
+        "D": "It changes the color of the surface",
+        "Answer": "C",
+        "Source": "The plasma treatment induced surface etching of PEEK has been thoroughly studied by a few authors. The resulting roughness of the PEEK surface after plasma treatment is not consistently described."
+    },
+    "Question_10": {
+        "Context": "In the context of hybrid composite welding, the use of an interlayer can facilitate the joining process by acting as a medium through which heat and materials can be transferred.",
+        "Question": "What is the role of an interlayer in the context of hybrid composite welding?",
+        "A": "To act as a barrier to prevent heat transfer",
+        "B": "To serve as a medium for heat and material transfer",
+        "C": "To increase the electrical conductivity of the joint",
+        "D": "To absorb excess resin during the curing process",
+        "Answer": "B",
+        "Source": "Resistance welding consists of placing an electrical resistance layer, made of metal or carbon fibers at the interface. The Joule effect is used to heat up the interface up to the point of fusion."
+    }
+}

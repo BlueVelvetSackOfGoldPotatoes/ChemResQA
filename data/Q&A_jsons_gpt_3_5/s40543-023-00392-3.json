@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "IL-33 is a protein that plays a role in inducing a type-2 immune response. It is activated by cleavage of its N-terminal domain by a protease.",
+        "Question": "What activates IL-33?",
+        "A": "Binding to immune cells",
+        "B": "Stimulation by an allergen",
+        "C": "Cell damage",
+        "D": "Protein-protein interaction",
+        "Answer": "B",
+        "Source": "IL-33 is constitutively expressed in epithelial cells and released in response to the cell damage or stimulation by an allergen."
+    },
+    "Question_2": {
+        "Context": "IL-33 signals downstream immune cells by binding to a receptor complex on the cell surface.",
+        "Question": "How does IL-33 signal downstream immune cells?",
+        "A": "By binding to the IL-1RAcP receptor",
+        "B": "By binding to the ST2 receptor",
+        "C": "By binding to eosinophils",
+        "D": "By binding to the IL-1 family protein",
+        "Answer": "B",
+        "Source": "The active form signals downstream immune cells, such as eosinophils, by binding to the heterodimeric ST2:IL-1RAcP receptor complex on the cell surface."
+    },
+    "Question_3": {
+        "Context": "Inhibition of the interaction between IL-33 and ST2 is a target to control inflammatory diseases.",
+        "Question": "What is the rationale for inhibiting the interaction between IL-33 and ST2?",
+        "A": "To stimulate an inflammatory response",
+        "B": "To control allergic diseases",
+        "C": "To promote type-2 immune response",
+        "D": "To induce cell damage",
+        "Answer": "B",
+        "Source": "Inhibition of the interaction between IL-33 and ST2 is an attractive target to control the inflammatory disease at the upstream of the signaling."
+    },
+    "Question_4": {
+        "Context": "Discovering chemical moieties that bind to the IL-33 protein-protein interaction interface is challenging.",
+        "Question": "Why is discovering chemical moieties that bind to the IL-33 protein-protein interaction interface challenging?",
+        "A": "Due to the small and deep binding pocket",
+        "B": "Due to the wide and shallow binding pocket",
+        "C": "Due to the high binding affinity",
+        "D": "Due to the stable binding interactions",
+        "Answer": "B",
+        "Source": "This is a challenging task due to the relatively wide and shallow binding pocket compared to the enzyme\u2019s active site."
+    },
+    "Question_5": {
+        "Context": "A series of IL-33 mutants were designed for binder discovery.",
+        "Question": "What was the approach for IL-33-specific binder discovery?",
+        "A": "Screening a chemical library",
+        "B": "Using conventional drugs",
+        "C": "Targeting the enzyme's active site",
+        "D": "Stimulating an inflammatory response",
+        "Answer": "A",
+        "Source": "For the IL-33-specific binder discovery, a series of IL-33 mutants were designed, and an electrophile chemical library was screened."
+    },
+    "Question_6": {
+        "Context": "IL-33 mutants were designed to make compound binding occur at the hydrophobic binding surface specifically.",
+        "Question": "Why were IL-33 mutants designed?",
+        "A": "To increase protein stability",
+        "B": "To target the enzyme's active site",
+        "C": "To enhance compound binding specificity",
+        "D": "To induce an inflammatory response",
+        "Answer": "C",
+        "Source": "To make compound binding occur at the hydrophobic binding surface specifically, the intrinsic cysteines were mutated to Ala or Ser."
+    },
+    "Question_7": {
+        "Context": "IL-33 (117 to 270) C259A mutant was stable against oxidation.",
+        "Question": "Why was the IL-33 (117 to 270) C259A mutant chosen for further binding studies?",
+        "A": "Due to its involvement in binding to the ST2 receptor",
+        "B": "Due to its stability against oxidation",
+        "C": "Due to its high binding affinity",
+        "D": "Due to its role in inducing an inflammatory response",
+        "Answer": "B",
+        "Source": "We tested the stabilities of the mutants and found that IL-33 (117 to 270) C259A was stable against the oxidation."
+    },
+    "Question_8": {
+        "Context": "Target site-specific binders were obtained from screening and characterized by 2D NMR experiments.",
+        "Question": "How were the selected compound binders characterized?",
+        "A": "By LC-MS analysis",
+        "B": "By X-ray crystallography",
+        "C": "By 2D NMR experiments",
+        "D": "By mass spectrometry",
+        "Answer": "C",
+        "Source": "We obtained target site-specific binders from screening and characterized the binding by 2D NMR experiments."
+    },
+    "Question_9": {
+        "Context": "The ligand binding mode was assessed based on NMR signal changes.",
+        "Question": "How was the ligand binding mode assessed?",
+        "A": "By X-ray crystallography",
+        "B": "By LC-MS analysis",
+        "C": "By NMR signal changes",
+        "D": "By mass spectrometry",
+        "Answer": "C",
+        "Source": "The ligand binding mode was assessed based on the measured NMR signal changes of IL-33 caused by a new ligand binding at the ST2 receptor binding interface."
+    },
+    "Question_10": {
+        "Context": "The study provided valuable information for drug discovery targeting the IL-33 and ST2 interaction.",
+        "Question": "What was the main outcome of the study regarding drug discovery?",
+        "A": "Identification of new chemical moieties",
+        "B": "Mapping of compound binding sites",
+        "C": "Valuable information for drug discovery",
+        "D": "Determination of protein structure",
+        "Answer": "C",
+        "Source": "The assignment data can be used for drug screening and provided the valuable information for the 3D structure determination of protein-drug complexes."
+    }
+}

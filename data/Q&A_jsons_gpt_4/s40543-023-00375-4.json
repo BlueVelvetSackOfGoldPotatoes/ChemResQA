@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In electrochemistry, the study of mass transport is crucial for understanding how materials move from one location to an electrode surface. Mass transport can involve processes such as diffusion, migration, and convection.",
+        "Question": "Which process is dominant during mass transfer in agarose hydrogel according to the diffusion-controlled behavior?",
+        "A": "Migration",
+        "B": "Convection",
+        "C": "Diffusion",
+        "D": "Electrophoresis",
+        "Answer": "C",
+        "Source": "The good linearity of the square root of the scan\u2011rate\u2011dependent peak current demonstrated that diffusion is dominant during mass transfer in agarose hydrogel owing to a reduction in other mass transport effects (i.e., migration and convection)."
+    },
+    "Question_2": {
+        "Context": "Hydrogels are three-dimensional networks of hydrophilic polymer chains that can contain a large amount of water without dissolving. They are used in various applications due to their unique properties.",
+        "Question": "Which of the following is NOT a property of hydrogels that makes them suitable for diverse applications?",
+        "A": "High electronic conductivity",
+        "B": "Structural tunability",
+        "C": "Mass transport properties",
+        "D": "High thermal conductivity",
+        "Answer": "D",
+        "Source": "Hydrogels are promising materials for diverse applications, including energy storage and conversion, drug delivery, biosensors, and electrochemical devices, owing to their high electronic conductivity, structural tunability, and mass transport properties."
+    },
+    "Question_3": {
+        "Context": "Hydrogel polymers can be classified based on their composition. This classification includes synthetic polymers, natural polymers, and hybrid materials.",
+        "Question": "Which category does agarose hydrogel fall into based on its composition?",
+        "A": "Synthetic polymers",
+        "B": "Natural polymers",
+        "C": "Hybrid materials",
+        "D": "Inorganic materials",
+        "Answer": "B",
+        "Source": "Hydrogel polymers can be classified into three categories based on their composition: (1) synthetic polymers, (2) natural polymers, and (3) hybrid materials prepared from both synthetic and natural sources."
+    },
+    "Question_4": {
+        "Context": "Agarose is a natural polymer used to create hydrogels and has a specific structure that contributes to its properties.",
+        "Question": "What is the repeating unit structure of agarose?",
+        "A": "1,3-linked \u03b2-D-galactopyranose and 1,4-linked 3,4-anhydro-\u03b1-L-galactopyranose",
+        "B": "1,4-linked \u03b1-D-glucopyranose units",
+        "C": "1,4-linked \u03b2-D-glucuronic acid and 1,3-linked N-acetyl-D-glucosamine",
+        "D": "1,6-linked \u03b2-D-mannopyranose units",
+        "Answer": "A",
+        "Source": "Among natural hydrogels, agarose with a linear polysaccharide consisting of 1,3-linked \u03b2-D-galactopyranose and 1,4-linked 3,4-anhydro-\u03b1-L-galactopyranose as a repeating unit is commonly used because of its biocompatibility, nontoxicity, low cost, and good experimental properties."
+    },
+    "Question_5": {
+        "Context": "In electrochemical measurements, cyclic voltammetry is a technique used to study the electrochemical properties of substances by varying the voltage and measuring the resulting current.",
+        "Question": "What does a linear relationship between the square root of the scan rate and peak current indicate in cyclic voltammetry?",
+        "A": "Electrochemical irreversibility",
+        "B": "Mass transport is mainly controlled by diffusion",
+        "C": "Presence of a chemical reaction coupled to the electron transfer",
+        "D": "The electrode reaction is adsorption controlled",
+        "Answer": "B",
+        "Source": "Additionally, both the anodic and cathodic peak currents increase with increasing scan rate, and a linear relationship between the square root of the scan rate and peak current is shown. This linearity demonstrates that mass transport is mainly controlled by diffusion in the solution phase."
+    },
+    "Question_6": {
+        "Context": "The diffusion coefficient is an important parameter in electrochemistry, as it indicates how fast a species diffuses through a medium.",
+        "Question": "What is the effect of increasing agarose concentration on the diffusion coefficient of a solute in agarose hydrogel?",
+        "A": "It increases the diffusion coefficient",
+        "B": "It decreases the diffusion coefficient",
+        "C": "It does not affect the diffusion coefficient",
+        "D": "It causes the diffusion coefficient to oscillate",
+        "Answer": "B",
+        "Source": "The D values in agarose are approximately the same order of magnitude as those in the solution, but the mass transport properties deteriorate with increasing agarose concentrations."
+    },
+    "Question_7": {
+        "Context": "Ultramicroelectrodes (UMEs) are electrodes with critical dimensions smaller than approximately 25 \u03bcm and exhibit unique behavior compared to conventional macroelectrodes.",
+        "Question": "Which of the following is NOT an advantageous property of UMEs?",
+        "A": "Higher signal-to-noise ratios",
+        "B": "Negligible ohmic drop due to low current flow",
+        "C": "Suitability for the study of rapid homogeneous or heterogeneous reactions",
+        "D": "Higher detection limits",
+        "Answer": "D",
+        "Source": "UMEs exhibit higher signal-to-noise ratios, lower detection limits, and enhanced sensitivity for electrochemical analysis than macroelectrodes."
+    },
+    "Question_8": {
+        "Context": "Chronoamperometry is an electrochemical technique where a constant potential is applied to an electrode and the resulting current is measured over time.",
+        "Question": "What effect does natural convection have on chronoamperometry measurements?",
+        "A": "It leads to smoother and more reproducible current decay",
+        "B": "It causes irregular and irreproducible responses",
+        "C": "It increases the sensitivity of the measurement",
+        "D": "It has no effect on the measurement",
+        "Answer": "B",
+        "Source": "CA curves and plots of current as a function of the inverse square root of time yielded irregular and irreproducible responses in the solution for relatively long\u2011term electrochemistry."
+    },
+    "Question_9": {
+        "Context": "Hydrogels can be used as solid electrolytes in electrochemical measurements to analyze transport properties.",
+        "Question": "What is the primary benefit of using hydrogels to minimize natural convection in electrochemical measurements?",
+        "A": "To increase the rate of mass transport",
+        "B": "To enhance the sensitivity of the measurement",
+        "C": "To obtain good reproducibility and ensure compliance with fundamental theories",
+        "D": "To increase the ohmic drop",
+        "Answer": "C",
+        "Source": "The minimization of natural convection and migration using hydrogels is beneficial for long-term electrolysis to obtain good reproducibility and ensure compliance with fundamental theories."
+    },
+    "Question_10": {
+        "Context": "The Randles\u2013Sevcik equation is used in electrochemistry to relate the peak current in cyclic voltammetry to the diffusion coefficient of the redox species.",
+        "Question": "According to the Randles\u2013Sevcik equation, what is directly proportional to the net peak current?",
+        "A": "The square of the scan rate",
+        "B": "The cube of the number of electrons transferred",
+        "C": "The square root of the scan rate",
+        "D": "The inverse of the electrode area",
+        "Answer": "C",
+        "Source": "The D of Fe(CN)6 4\u2013 in the solution phase determined using Eq. (1) was 6.34 \u00d710\u20136 cm2/s. Based on this value, the D values of Fe(CN)6 4\u2013 are compared at various agarose concentrations, as shown in Fig. 2."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Lycopene is a tetraterpenoid with antioxidant properties, commonly used in various industries. It can be produced biotechnologically through microbial fermentation, which is considered a sustainable approach.",
+        "Question": "What is lycopene known for in the context of its chemical properties and industrial application?",
+        "A": "It is a preservative used in the metal industry.",
+        "B": "It is a potent antioxidant used in food, medical, and cosmetic industries.",
+        "C": "It is a synthetic dye used in the textile industry.",
+        "D": "It is a flavor enhancer used in the beverage industry.",
+        "Answer": "B",
+        "Source": "Because of its potent antioxidant effects, lycopene has been used in various industries including, but not limited to, food, medical, and cosmetic industries."
+    },
+    "Question_2": {
+        "Context": "Yarrowia lipolytica is a non-conventional yeast species that has been used as a chassis for the production of various compounds due to its natural pathways and properties.",
+        "Question": "Why is Yarrowia lipolytica considered a promising chassis for lycopene production?",
+        "A": "Due to its ability to fix nitrogen.",
+        "B": "Because of its natural mevalonate pathway and oleaginous properties.",
+        "C": "Owing to its high ethanol production rate.",
+        "D": "Because it naturally produces lycopene at high yields.",
+        "Answer": "B",
+        "Source": "Yarrowia lipolytica, a non\u2011conventional yeast species, is a promising chassis due to its natural mevalonate (MVA) pathway, abundant precursor acetyl coenzyme A content, and oleaginous properties."
+    },
+    "Question_3": {
+        "Context": "In metabolic engineering, the introduction of specific biosynthetic genes into an organism is a common strategy to enable the production of target compounds.",
+        "Question": "Which genes are key to enabling Yarrowia lipolytica to biosynthesize lycopene?",
+        "A": "crtE, crtB, and crtI",
+        "B": "nifH, nifD, and nifK",
+        "C": "rpoB, rpoC, and rpoZ",
+        "D": "hemA, hemL, and hemN",
+        "Answer": "A",
+        "Source": "We first evaluated the performance of the key lycopene biosynthetic genes crtE, crtB, and crtI, expressed via ribosomal DNA (rDNA) mediated multicopy random integration in the HMG1\u2011 and GGS1\u2011overexpressing background strain."
+    },
+    "Question_4": {
+        "Context": "The mevalonate pathway is a crucial metabolic route in organisms that leads to the production of terpenoids, including lycopene.",
+        "Question": "What is the role of the mevalonate pathway in the biosynthesis of lycopene?",
+        "A": "It breaks down lycopene into smaller molecules.",
+        "B": "It converts lycopene into more complex terpenoids.",
+        "C": "It provides precursors for the synthesis of lycopene.",
+        "D": "It detoxifies byproducts of lycopene synthesis.",
+        "Answer": "C",
+        "Source": "In the upstream pathway, the MVA pathway utilizes acetyl-CoA to produce IPP, which is subsequently isomerized to generate DMAPP."
+    },
+    "Question_5": {
+        "Context": "Gene editing tools are essential for the precise manipulation of an organism's genome to enhance the production of desired compounds.",
+        "Question": "Which gene editing tool has been developed for targeted and efficient genetic modifications in Yarrowia lipolytica?",
+        "A": "TALENs",
+        "B": "Zinc-finger nucleases",
+        "C": "CRISPR/Cas9 system",
+        "D": "Meganucleases",
+        "Answer": "C",
+        "Source": "However, various biologically synthetic and genome editing tools have recently been developed for targeted, efficient, and multiple genetic modifications of Y. lipolytica, including the CRISPR/Cas9 system."
+    },
+    "Question_6": {
+        "Context": "The efficiency of homologous recombination in Yarrowia lipolytica is relatively low, which can limit its use for targeted genetic integration.",
+        "Question": "What alternative approach can be used for integrating DNA into Yarrowia lipolytica's genome?",
+        "A": "Non-homologous end joining (NHEJ)",
+        "B": "Microhomology-mediated end joining (MMEJ)",
+        "C": "Single-strand annealing (SSA)",
+        "D": "Homology-directed repair (HDR)",
+        "Answer": "A",
+        "Source": "Meanwhile, non-homologous end joining (NHEJ) is an alternative approach for integrating DNA into Y. lipolytica."
+    },
+    "Question_7": {
+        "Context": "Lycopene is a hydrophobic compound that can be stored in lipid droplets within cells.",
+        "Question": "Why might lipid accumulation in Yarrowia lipolytica be beneficial for lycopene production?",
+        "A": "It increases the solubility of lycopene in water.",
+        "B": "It enhances the breakdown of lycopene into simpler compounds.",
+        "C": "It provides a storage location for lipophilic compounds like lycopene.",
+        "D": "It prevents the synthesis of lycopene.",
+        "Answer": "C",
+        "Source": "Moreover, large amounts of lipid droplets that store lipophilic terpenoids, such as lycopene, accumulate in Y. lipolytica."
+    },
+    "Question_8": {
+        "Context": "Fermentation is a process used in biotechnology to grow microorganisms and produce biochemicals under controlled conditions.",
+        "Question": "What was the lycopene yield achieved in Yarrowia lipolytica using a 5-L fed-batch fermentation system?",
+        "A": "430.5 mg/L",
+        "B": "121 mg/g dry cell weight",
+        "C": "17.6 g/L",
+        "D": "448 mg/g dry cell weight",
+        "Answer": "B",
+        "Source": "This strain produced 121 mg/g dry cell weight of lycopene in a 5\u2011L fed\u2011batch fermentation system."
+    },
+    "Question_9": {
+        "Context": "The metabolic pathway of lycopene synthesis involves several enzymatic steps, starting from acetyl-CoA and leading to the formation of lycopene.",
+        "Question": "Which enzyme catalyzes the condensation of two geranylgeranyl diphosphate (GGPP) molecules to form phytoene in the lycopene biosynthesis pathway?",
+        "A": "Phytoene synthase (crtB)",
+        "B": "Phytoene desaturase (crtI)",
+        "C": "Geranylgeranyl diphosphate synthase (GGS1/crtE)",
+        "D": "Geranyl/farnesyl diphosphate synthase (ERG20)",
+        "Answer": "A",
+        "Source": "The condensation of two GGPP molecules by phytoene synthase (crtB) forms phytoene\u2014a colorless compound."
+    },
+    "Question_10": {
+        "Context": "In the context of metabolic engineering, increasing the supply of precursor molecules can be a strategy to enhance the production of a target compound.",
+        "Question": "Which precursor is essential for the biosynthesis of isopentenyl diphosphate (IPP) in the mevalonate pathway?",
+        "A": "Glucose",
+        "B": "Pyruvate",
+        "C": "Acetyl-CoA",
+        "D": "Glycerol",
+        "Answer": "C",
+        "Source": "In the upstream pathway, the MVA pathway utilizes acetyl-CoA to produce IPP, which is subsequently isomerized to generate DMAPP."
+    }
+}

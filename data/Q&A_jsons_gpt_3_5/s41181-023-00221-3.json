@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to investigate the effect of radioactivity on bacterial strains in radiopharmaceutical solutions. The survival rate of Pseudomonas aeruginosa, Staphylococcus aureus, and Staphylococcus epidermidis was studied.",
+        "Question": "Which bacterial strain showed a decrease in CFU in both radioactive and non-radioactive solutions, likely due to a lack of nutrients?",
+        "A": "Pseudomonas aeruginosa",
+        "B": "Staphylococcus aureus",
+        "C": "Staphylococcus epidermidis",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "However, this was not the case for S. epidermidis, as the quantity of bacteria found in both solutions (radioactive and non\u2011radioactive) was rapidly reduced, probably due to a lack of nutrients."
+    },
+    "Question_2": {
+        "Context": "The study involved inoculating radioactive solutions with bacterial strains and monitoring their survival rates over time.",
+        "Question": "Which bacterial strain showed a significant decrease in CFU with higher radioactive activity applied?",
+        "A": "Pseudomonas aeruginosa",
+        "B": "Staphylococcus aureus",
+        "C": "Staphylococcus epidermidis",
+        "D": "All of the above",
+        "Answer": "A",
+        "Source": "Technetium-99 m caused a very important decrease of the number of P. aeruginosa CFU in relation to the non-radioactive samples. The stronger the activity applied was, the sooner this effect appeared."
+    },
+    "Question_3": {
+        "Context": "The study discussed the impact of radioactivity on different bacterial strains in radiopharmaceutical solutions.",
+        "Question": "Which bacterial strain's survival rate was mainly affected by the radioactivity dose?",
+        "A": "Pseudomonas aeruginosa",
+        "B": "Staphylococcus aureus",
+        "C": "Staphylococcus epidermidis",
+        "D": "None of the above",
+        "Answer": "A",
+        "Source": "As reported in Fig. 1a, the average survival rate of P. aeruginosa is mainly affected by the radioactivity dose."
+    },
+    "Question_4": {
+        "Context": "The study compared the survival rates of different bacterial strains in radioactive and non-radioactive solutions.",
+        "Question": "Which bacterial strain's viability was affected by the absence of nutrients in the medium?",
+        "A": "Pseudomonas aeruginosa",
+        "B": "Staphylococcus aureus",
+        "C": "Staphylococcus epidermidis",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "S. epidermidis seems to be strongly affected by the absence of nutrients in the medium. Indeed, the red and green curves are very close, whatever the dose of radioactivity and the exposure time."
+    },
+    "Question_5": {
+        "Context": "The study analyzed the effects of technetium-99 m gamma rays on bacterial strains over time.",
+        "Question": "Which bacterial strain showed a decrease in CFU in both radioactive and non-radioactive solutions with no difference regardless of radioactive activity?",
+        "A": "Pseudomonas aeruginosa",
+        "B": "Staphylococcus aureus",
+        "C": "Staphylococcus epidermidis",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "For the S. epidermidis strain, the results showed a decrease in the number of CFU in both series (radioactive, non-radioactive) with no difference whatever the radioactive activity."
+    },
+    "Question_6": {
+        "Context": "The study examined the impact of radioactivity on different bacterial strains in radiopharmaceutical solutions.",
+        "Question": "Which bacterial strain's viability was affected by both high concentrations of radioelements and the absence of nutrients?",
+        "A": "Pseudomonas aeruginosa",
+        "B": "Staphylococcus aureus",
+        "C": "Staphylococcus epidermidis",
+        "D": "All of the above",
+        "Answer": "B",
+        "Source": "Finally with S. aureus, the number of CFU decreased in the two series at different times. A more significant decrease was observed in the radioactive series for activities greater than 1.85 GBq."
+    },
+    "Question_7": {
+        "Context": "The study discussed the importance of sterility testing in radiopharmaceutical preparations.",
+        "Question": "What recommendation was made regarding the timing of sterility testing for radiopharmaceutical preparations?",
+        "A": "Sterility testing should be done immediately after production.",
+        "B": "Sterility testing should be done after 24 hours of production.",
+        "C": "Sterility testing should be done after 7 days of production.",
+        "D": "Sterility testing should be done after radioactivity decay.",
+        "Answer": "D",
+        "Source": "The results run counter to current practice and the latest EANM recommendation of 2021 that radiopharmaceutical preparations should be decayed before sterility testing."
+    },
+    "Question_8": {
+        "Context": "The study highlighted the challenges in achieving hygiene recommendations and Good Manufacturing Practice in radiopharmacy departments.",
+        "Question": "What is one of the challenges mentioned in achieving hygiene recommendations in radiopharmacy departments?",
+        "A": "Finding a compromise between radiation protection and hygiene.",
+        "B": "Ensuring sufficient radioactivity decay before sterility testing.",
+        "C": "Implementing internal sterility testing.",
+        "D": "Handling radioactive materials without authorization.",
+        "Answer": "A",
+        "Source": "Compliance with hygiene recommendations and Good manufacturing practice (GMP) in a radiopharmacy department is sometimes difficult to achieve because of the challenge in finding a compromise between radiation protection and hygiene."
+    },
+    "Question_9": {
+        "Context": "The study discussed the impact of radioactivity on bacterial strains in radiopharmaceutical solutions.",
+        "Question": "What was the effect of radioactivity on the survival rate of Pseudomonas aeruginosa compared to non-radioactive samples?",
+        "A": "Increased survival rate",
+        "B": "Decreased survival rate",
+        "C": "No significant difference",
+        "D": "Dependent on the radioactive activity",
+        "Answer": "B",
+        "Source": "Technetium-99 m caused a very important decrease of the number of P. aeruginosa CFU in relation to the non-radioactive samples."
+    },
+    "Question_10": {
+        "Context": "The study investigated the impact of radioactivity on different bacterial strains in radiopharmaceutical solutions.",
+        "Question": "What was the recommendation regarding the timing of sterility testing to avoid false negative results?",
+        "A": "Sterility testing should be done immediately after production.",
+        "B": "Sterility testing should be done after 24 hours of production.",
+        "C": "Sterility testing should be done after 7 days of production.",
+        "D": "Sterility testing should be done after radioactivity decay.",
+        "Answer": "A",
+        "Source": "In order to improve the efficiency and level of sterility controls, it is essential to perform such controls as soon as possible, without waiting for the radioactive decay to avoid invalid quality control measures."
+    }
+}

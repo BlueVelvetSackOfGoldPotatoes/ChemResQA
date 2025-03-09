@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Crack initiation in materials can be influenced by various factors such as elasticity, plasticity, and microstructural disorder.",
+        "Question": "What causes crack initiation to emerge in materials?",
+        "A": "Temperature changes",
+        "B": "Elasticity, plasticity, and disorder",
+        "C": "Electrical fields",
+        "D": "Magnetic fields",
+        "Answer": "B",
+        "Source": "Crack initiation emerges due to a combination of elasticity, plasticity, and disorder, and it displays strong dependence on the material\u2019s microstructural details."
+    },
+    "Question_2": {
+        "Context": "In the context of material science, the characterization of structural uncertainty in a material's original microstructure is often based on empirical methods.",
+        "Question": "How is the structural uncertainty in the original microstructure of a material typically characterized?",
+        "A": "Theoretical calculations",
+        "B": "Empirical methods",
+        "C": "Quantum mechanics",
+        "D": "Machine learning algorithms",
+        "Answer": "B",
+        "Source": "The characterization of the structural uncertainty in the original microstructure is typically empirical and systematic characterization protocols are lacking."
+    },
+    "Question_3": {
+        "Context": "The process of alloying can introduce microstructural disorder in metals, affecting their mechanical properties.",
+        "Question": "What is a potential consequence of the alloying process in metals?",
+        "A": "Decreased electrical conductivity",
+        "B": "Increased thermal stability",
+        "C": "Introduction of microstructural disorder",
+        "D": "Reduction in optical reflectivity",
+        "Answer": "C",
+        "Source": "We investigate brittle but elastoplastic metals with continuum, microstructural disorder that could originate in a manufacturing process, such as alloying."
+    },
+    "Question_4": {
+        "Context": "Microstructural disorder in materials can lead to variability in mechanical properties such as strength.",
+        "Question": "What kind of variability in mechanical properties can microstructural disorder cause?",
+        "A": "Color variation",
+        "B": "Strength variability",
+        "C": "Density consistency",
+        "D": "Thermal expansion uniformity",
+        "Answer": "B",
+        "Source": "For example, ranging over several orders of magnitude, intermetallics display strong variability in strength and other material properties."
+    },
+    "Question_5": {
+        "Context": "Grain sizes in alloys can vary significantly depending on the manufacturing process used.",
+        "Question": "What can cause variation in grain sizes within alloys?",
+        "A": "Packaging methods",
+        "B": "Powder metallurgical processes",
+        "C": "Marketing strategies",
+        "D": "Software simulations",
+        "Answer": "B",
+        "Source": "In Titanium Aluminide (TiAl)-based alloys, grain sizes can be as small as 2 \u03bcm (for fine-grained Ti-rich Ti-Al alloy compacts) due to powder metallurgical processes."
+    },
+    "Question_6": {
+        "Context": "The fracture characteristics of materials like alloys can be stochastic, especially when considering short cracks.",
+        "Question": "What type of fracture characteristics do alloys exhibit, particularly for short cracks?",
+        "A": "Deterministic",
+        "B": "Periodic",
+        "C": "Stochastic",
+        "D": "Static",
+        "Answer": "C",
+        "Source": "Due to the very presence of this structural disorder, alloys display stochastic fracture characteristics, especially when cracks can be labeled 'short'."
+    },
+    "Question_7": {
+        "Context": "The fracture mechanics of materials such as concrete do not always follow the criteria of Linear Elastic Fracture Mechanics (LEFM).",
+        "Question": "Which type of material fracture mechanics does not always adhere to the criteria of LEFM?",
+        "A": "Metallic glasses",
+        "B": "High entropy alloys",
+        "C": "Concrete",
+        "D": "Pure metals",
+        "Answer": "C",
+        "Source": "Early experiments of fracture on concrete did not obey the criteria that characterize Linear Elastic Fracture Mechanics (LEFM)."
+    },
+    "Question_8": {
+        "Context": "In quasi-brittle materials, inhomogeneities are significant compared to the structure size, affecting fracture strength.",
+        "Question": "In quasi-brittle materials, what is the relationship between inhomogeneities and structure size?",
+        "A": "Inhomogeneities are negligible",
+        "B": "Inhomogeneities are significant",
+        "C": "Structure size is always larger",
+        "D": "Structure size is always smaller",
+        "Answer": "B",
+        "Source": "Quasi-brittle materials contain inhomogeneities that cannot be considered negligible when compared to the structure size."
+    },
+    "Question_9": {
+        "Context": "The size effect in fracture strength is a phenomenon observed in various materials, where the strength depends on the structure's size.",
+        "Question": "What is the 'size effect' in the context of material fracture strength?",
+        "A": "Strength is independent of size",
+        "B": "Strength decreases with increasing temperature",
+        "C": "Strength greatly depends on the structure's size",
+        "D": "Strength is determined by color",
+        "Answer": "C",
+        "Source": "As a result, the fracture strength of a structure may greatly depend on its size. This phenomenon, typically referred to as size effect, has been observed in many materials from bone to concrete."
+    },
+    "Question_10": {
+        "Context": "The scaling relation for fracture strength in quasi-brittle materials involves a transitional size and the structure's characteristic size.",
+        "Question": "What does the scaling relation for fracture strength in quasi-brittle materials involve?",
+        "A": "Chemical composition and molecular weight",
+        "B": "Transitional size and characteristic size of the structure",
+        "C": "Temperature and pressure conditions",
+        "D": "Electrical conductivity and magnetic permeability",
+        "Answer": "B",
+        "Source": "This scaling relation can be derived by asymptotic matching of the fracture stress as a function of size, represented in Eq. (1) where \u03c3F is the fracture strength, B is a dimensionless constant, f 0 t is the tensile strength, a0 is a constant referred to as the transitional size, and a is the characteristic size of the structure."
+    }
+}

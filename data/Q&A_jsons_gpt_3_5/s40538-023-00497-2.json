@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effects of plasma-activated water (PAW) on mung bean growth. The results showed that nitrogen plasma-activated water (NPAW) treatment improved the vitality and hypocotyl length of mung beans.",
+        "Question": "What was the primary effect of NPAW treatment on mung beans?",
+        "A": "Reduced germination rate",
+        "B": "Decreased hypocotyl length",
+        "C": "Increased vitality and hypocotyl length",
+        "D": "No significant impact",
+        "Answer": "C",
+        "Source": "The results revealed that nitrogen plasma-activated water (NPAW) treatment improves the vitality and hypocotyl length of mung beans."
+    },
+    "Question_2": {
+        "Context": "The study focused on the properties of plasma-activated water (PAW) and its impact on crops. The properties of PAW included a significant decrease in pH value, an increase in oxidation-reduction potential (ORP), and elevated levels of nitrite, nitrate, hydrogen peroxide, and ozone.",
+        "Question": "Which of the following properties increased significantly in PAW?",
+        "A": "pH value",
+        "B": "Oxidation-reduction potential (ORP)",
+        "C": "Nitrite levels",
+        "D": "Hydrogen peroxide levels",
+        "Answer": "D",
+        "Source": "The pH value of activated water after plasma excitation drops significantly, and the temperature also rises from room temperature to 42 \u2103. The oxidation\u2013reduction potential in the PAW significantly increases. The total dissolved solids (TDS) generate many active ions due to plasma addition, with a notable increase from 3.03 \u00b1 0.00 to 33.80 \u00b1 4.97 in APAW. Nitrite, nitrate, hydrogen peroxide, and ozone in PAW all increase significantly."
+    },
+    "Question_3": {
+        "Context": "The study explored the gene expression changes in mung beans after plasma-activated water treatment. The differential gene expression analysis revealed a total of 258 genes, including 168 upregulated and 90 downregulated genes, showing differential expression after APAW treatment compared to the control.",
+        "Question": "How many genes were upregulated after APAW treatment?",
+        "A": "90",
+        "B": "168",
+        "C": "179",
+        "D": "125",
+        "Answer": "B",
+        "Source": "A total of 258 genes, including 168 genes were upregulated and 90 genes were downregulated in response to PAW treatment."
+    },
+    "Question_4": {
+        "Context": "The study investigated the impact of plasma-activated water (PAW) on mung bean growth. The results indicated that the GABA content during the growth of the bean sprouts was monitored, showing an increase in GABA levels after PAW treatment.",
+        "Question": "What was the trend observed in GABA levels after PAW treatment?",
+        "A": "Decreased GABA levels",
+        "B": "No change in GABA levels",
+        "C": "Slight increase in GABA levels",
+        "D": "Significant increase in GABA levels",
+        "Answer": "D",
+        "Source": "After 8 h of germination, the GABA contents of the NPAW and APAW groups are 85.6 \u00b1 8.7 and 105.6 \u00b1 31.0 mg/kg (dry basis), respectively, while that of the control group is 31.3 \u00b1 25.6 mg/kg (dry basis). Moreover, after three days of germination, the GABA contents of the NPAW and APAW groups are 360.0 \u00b1 8.8 and 333.8 \u00b1 67.8 mg/kg (dry basis), respectively, 1.61 and 1.49 times higher than that of the control group."
+    },
+    "Question_5": {
+        "Context": "The study focused on the gene expression changes in mung beans after plasma-activated water treatment. The GO analysis revealed that the upregulated genes were mainly involved in DNA-binding transcription factor activity.",
+        "Question": "Which biological process was primarily affected by the upregulated genes?",
+        "A": "Cell division",
+        "B": "Protein synthesis",
+        "C": "Metabolism",
+        "D": "DNA-binding transcription factor activity",
+        "Answer": "D",
+        "Source": "The upregulation effects of both treatments include changes in cell composition, including, for example, organelles, as well as specific biochemical activities involving, for example, enzymes, receptors, and transporters. On the other hand, downregulation effects by APAW were mainly observed in biological processes related to cell division, protein synthesis, and metabolism in BP."
+    },
+    "Question_6": {
+        "Context": "The study explored the KEGG pathway analysis with the differentially expressed genes. The results indicated significant changes in the phenylpropanoid biosynthesis pathway.",
+        "Question": "Which pathway showed significant changes related to antioxidant function?",
+        "A": "Photosynthetic antenna proteins",
+        "B": "Plant hormone signal transduction",
+        "C": "Phenylpropanoid biosynthesis",
+        "D": "Protein processing in the endoplasmic reticulum",
+        "Answer": "C",
+        "Source": "The alterations in the KEGG pathways depicted in Fig. 7 reflect how plants react to external stimuli. The primary elements of plants\u2019 defense against oxidative stress are phenols. The phenylpropanoid pathway produces polyphenols and flavonoids."
+    },
+    "Question_7": {
+        "Context": "The study investigated the effects of plasma-activated water (PAW) on mung bean growth. The results showed that the total variation of PC1 and PC2 was determined as 39.96% and 29.67%, respectively.",
+        "Question": "What does the total variation of PC1 and PC2 represent?",
+        "A": "39.96% and 29.67% of the gene expression changes",
+        "B": "39.96% and 29.67% of the treatment effects",
+        "C": "39.96% and 29.67% of the total gene count",
+        "D": "39.96% and 29.67% of the differences between samples",
+        "Answer": "D",
+        "Source": "PCA was used to explain the differences in gene expression patterns before and after plasma therapy and those between the two types of gas plasmas. The results suggest that the composition of mung beans becomes somewhat closer after plasma-activated water treatment."
+    },
+    "Question_8": {
+        "Context": "The study examined the impact of plasma-activated water (PAW) on mung bean growth. The results indicated that the aerobic plate count in the control group was 3.42 \u00b1 0.17 log CFU/g, which decreased after plasma treatment.",
+        "Question": "What was the impact of plasma treatment on the aerobic plate count?",
+        "A": "No change",
+        "B": "Increase",
+        "C": "Decrease",
+        "D": "Stabilization",
+        "Answer": "C",
+        "Source": "After treating the seeds with PAW, the total bacterial count is reduced, which can promote the growth of the seeds. The aerobic plate count in the control group is 3.42 \u00b1 0.17 log CFU/g, which decreases to 2.43 \u00b1 0.25 and 2.61 \u00b1 0.67 log CFU/g after nitrogen and air plasma-activated water treatment, respectively."
+    },
+    "Question_9": {
+        "Context": "The study focused on the gene expression changes in mung beans after plasma-activated water treatment. The GO analysis revealed that the downregulated genes were mainly involved in cellular carbohydrate metabolism procedures.",
+        "Question": "Which biological process was primarily affected by the downregulated genes?",
+        "A": "Carbohydrate metabolism",
+        "B": "Cell division",
+        "C": "Protein synthesis",
+        "D": "DNA-binding transcription factor activity",
+        "Answer": "A",
+        "Source": "Cellular carbohydrate metabolism procedures, carbohydrate transport, and the extracellular region are impacted by the downregulated genes of APAW and NPAW."
+    },
+    "Question_10": {
+        "Context": "The study explored the KEGG pathway analysis with the differentially expressed genes. The results indicated significant changes in the thiamine metabolism pathway.",
+        "Question": "Which pathway showed significant changes related to thiamine metabolism?",
+        "A": "Phenylpropanoid biosynthesis",
+        "B": "Plant hormone signal transduction",
+        "C": "Thiamine metabolism",
+        "D": "Protein processing in the endoplasmic reticulum",
+        "Answer": "C",
+        "Source": "NPAW exhibits more of the thiamine metabolism pathway."
+    }
+}

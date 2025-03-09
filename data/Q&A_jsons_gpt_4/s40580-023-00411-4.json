@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of semiconductor device fabrication, monolithic 3D (M3D) integration is a process where device layers are stacked in a three-dimensional configuration to achieve higher connection density and device performance.",
+        "Question": "What is the primary challenge in M3D integration for developing an upper active channel layer?",
+        "A": "Achieving a high degree of crystallinity",
+        "B": "Limitation of the thermal budget for the upper channel process",
+        "C": "Increasing the size of the device layers",
+        "D": "Reducing the delay time through interconnections",
+        "Answer": "B",
+        "Source": "Developing an upper active channel layer for device fabrication is the primary challenge in M3D integration. The difficulty arises from the thermal budget limitation for the upper channel process because a high thermal budget process may degrade the device layers below."
+    },
+    "Question_2": {
+        "Context": "In semiconductor manufacturing, various techniques are used to deposit amorphous silicon at low temperatures, which is a precursor for creating polycrystalline silicon (poly-Si) through subsequent crystallization processes.",
+        "Question": "Which technique allows for the deposition of amorphous silicon at temperatures as low as 300-400 oC?",
+        "A": "Molecular beam epitaxy",
+        "B": "Thermal evaporation",
+        "C": "Plasma-enhanced chemical vapor deposition",
+        "D": "Electron beam physical vapor deposition",
+        "Answer": "C",
+        "Source": "Amorphous Si can be deposited at low temperatures using various techniques, such as low-pressure chemical vapor deposition (LPCVD), plasma-enhanced chemical vapor deposition (PECVD), and sputtering. In PECVD, the deposition temperature can be as low as 300\u2212400 oC."
+    },
+    "Question_3": {
+        "Context": "Laser annealing (LA) is a technique used in semiconductor processing to recrystallize amorphous silicon into polysilicon by melting and subsequent solidification.",
+        "Question": "What is the purpose of controlling the temperature carefully during the laser annealing process?",
+        "A": "To prevent the evaporation of silicon",
+        "B": "To increase the absorption of laser energy",
+        "C": "To enhance the electrical conductivity of the polysilicon",
+        "D": "To avoid damaging the underlying SiO2 layer",
+        "Answer": "D",
+        "Source": "Achieving high-quality poly-Si during laser annealing involves carefully controlling temperature. It is essential to maintain the temperature within the a-Si layer above its melting point for effective transformation while ensuring it stays below the boiling point of silicon to prevent vaporization. Simultaneously, the temperature of the SiO2 layer beneath the a-Si layer must be kept below the melting point of SiO2 to prevent thermal damage."
+    },
+    "Question_4": {
+        "Context": "Metal-induced crystallization (MIC) and metal-induced lateral crystallization (MILC) are low-temperature processes used to produce large-grain polycrystalline silicon films on non-crystalline substrates.",
+        "Question": "What role does the metal layer play in the MIC process?",
+        "A": "It acts as a barrier to prevent contamination",
+        "B": "It serves as a catalyst to induce the growth of Si crystals",
+        "C": "It increases the thermal conductivity of the silicon film",
+        "D": "It is used to reduce the deposition temperature of silicon",
+        "Answer": "B",
+        "Source": "MIC and MILC are techniques to produce large-grain polycrystalline silicon films on non-crystalline substrates, such as glass. These techniques are based on metal-induced growth, which involves using metal as a catalyst to induce the growth of Si crystals."
+    },
+    "Question_5": {
+        "Context": "In the context of semiconductor device fabrication, single-crystal silicon (SCS) channels offer superior performance compared to polycrystalline silicon due to their higher carrier mobility and reliability.",
+        "Question": "Which technique involves melting amorphous silicon films and crystallizing them from single-crystal silicon seeds grown from the silicon substrate through contact holes?",
+        "A": "Chemical vapor deposition",
+        "B": "Seed window technique",
+        "C": "Molecular beam epitaxy",
+        "D": "Solid-phase epitaxy",
+        "Answer": "B",
+        "Source": "The seed window technique involves melting amorphous Si films and crystallizing them from single-crystal Si seeds grown from the Si substrate through contact holes. This has been achieved through selective epitaxial Si deposition, producing perfect SCS films on the oxide layer."
+    },
+    "Question_6": {
+        "Context": "The \u00b5-Czochralski (grain-filter) process is a method used in semiconductor fabrication to control the location of crystal grains and enhance the yield of monocrystalline islands.",
+        "Question": "What is the primary issue with the grain-filter process in achieving uniform device fabrication?",
+        "A": "Controlling the deposition rate of silicon",
+        "B": "Managing the thermal budget during annealing",
+        "C": "Grain misorientation or nonuniformity across the wafer",
+        "D": "Preventing the diffusion of metal catalysts",
+        "Answer": "C",
+        "Source": "Despite precise control of the location of each grain by the position of the grain filter in this process, the control of grain orientation is a substantial challenge in achieving uniform device fabrication."
+    },
+    "Question_7": {
+        "Context": "Wafer bonding is a technique used in semiconductor processing where two clean and flat surfaces are brought into direct contact to adhere and bond without an intermediate layer.",
+        "Question": "What is essential for achieving high-quality bonding in the wafer bonding process?",
+        "A": "High thermal budget",
+        "B": "Highly flat and defect-free surfaces",
+        "C": "Use of a metal catalyst",
+        "D": "Application of a thick dielectric cap",
+        "Answer": "B",
+        "Source": "The basic process of this technique encompasses surface preparation, direct contact, adhesion, and bonding across two clean and flat surfaces without an intermediate layer. Highly flat and no defect surfaces are essential for the wafer bonding process for high-yield and strong bonding."
+    },
+    "Question_8": {
+        "Context": "Ion-cut is a semiconductor fabrication process that separates a thin layer of material from bulk materials for transfer and stacking on another layer.",
+        "Question": "What forms the buried layer of microbubbles in the ion-cut process?",
+        "A": "A high dose of hydrogen ions",
+        "B": "A thin layer of metal catalyst",
+        "C": "A layer of amorphous silicon",
+        "D": "A sacrificial layer of oxide",
+        "Answer": "A",
+        "Source": "In the ion-cut process, a high dose of hydrogen ions is implanted. A hydrogen ion layer is formed, which becomes a buried layer of microbubbles by various doping doses."
+    },
+    "Question_9": {
+        "Context": "Metal oxides like indium-gallium-zinc-oxide (IGZO) are used in thin-film transistor applications due to their high mobility, transparency, and compatibility with large-area and flexible substrates.",
+        "Question": "What is the maximum process temperature for IGZO thin films to avoid degradation of bottom devices in M3D integration?",
+        "A": "300 oC",
+        "B": "400 oC",
+        "C": "500 oC",
+        "D": "600 oC",
+        "Answer": "B",
+        "Source": "The maximum temperature for the whole process should be lower than 400 oC to avoid the degradation of the bottom devices."
+    },
+    "Question_10": {
+        "Context": "In the context of semiconductor device fabrication, 2D materials such as graphene and transition metal dichalcogenides are considered for M3D circuits due to their unique electronic properties.",
+        "Question": "What is a challenge associated with using 2D materials in M3D integration?",
+        "A": "Achieving high thermal conductivity",
+        "B": "Reducing the optical transparency",
+        "C": "Achieving large-scale synthesis and transfer of high-quality 2D materials",
+        "D": "Increasing the electrical resistance",
+        "Answer": "C",
+        "Source": "The use of 2D materials in M3D integration also has difficulty achieving large-scale synthesis and transfer of high-quality 2D materials and integrating 2D materials with existing fabrication processes."
+    }
+}

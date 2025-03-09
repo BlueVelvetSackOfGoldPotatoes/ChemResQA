@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on investigating the effects of various factors on the electrical conduction of carbon/epoxy laminates.",
+        "Question": "What were the objectives of the study?",
+        "A": "To analyze the effects of temperature only.",
+        "B": "To examine the effects of electrical currents, temperatures, and clamping torques.",
+        "C": "To investigate the impact of conductive paint on electrical conductivity.",
+        "D": "To study the mechanical properties of carbon fibers.",
+        "Answer": "B",
+        "Source": "The objectives of this work are to ascertain the effects of electrical currents, temperatures, and clamping torques on the anisotropic electrical conduction of carbon/epoxy laminates."
+    },
+    "Question_2": {
+        "Context": "The study involved the development of a two-probe method with solid electrodes for testing.",
+        "Question": "What method was developed for testing the electrical conduction of carbon/epoxy laminates?",
+        "A": "Four-probe method with liquid electrodes",
+        "B": "Two-probe method with solid electrodes",
+        "C": "Three-probe method with gaseous electrodes",
+        "D": "Five-probe method with metallic electrodes",
+        "Answer": "B",
+        "Source": "Two-probe method with solid electrodes was developed with machined carbon/epoxy laminate specimens of various dimensions."
+    },
+    "Question_3": {
+        "Context": "The study investigated the relationship between electrical resistance and temperature.",
+        "Question": "How did the rise in temperatures affect the electrical conductivity of the laminates?",
+        "A": "Increased the electrical conductivity",
+        "B": "Had no effect on electrical conductivity",
+        "C": "Reduced the electrical conductivity",
+        "D": "Made the electrical conductivity unstable",
+        "Answer": "C",
+        "Source": "The rises of temperatures resulted in the similar reductions in electrical conductivity due to the increased resistance."
+    },
+    "Question_4": {
+        "Context": "The study examined the impact of clamping torques on electrical conductivity.",
+        "Question": "What effect did an increase in clamping torque have on electrical conductivity values?",
+        "A": "Decreased the electrical conductivity",
+        "B": "Increased the electrical conductivity",
+        "C": "Had no effect on electrical conductivity",
+        "D": "Made the electrical conductivity unstable",
+        "Answer": "B",
+        "Source": "The increase in clamping torque increased the electrical conductivity values in both directions."
+    },
+    "Question_5": {
+        "Context": "The study discussed the use of conductive paint on the contact faces of specimens.",
+        "Question": "How did applying conductive paint affect the contact resistance?",
+        "A": "Reduced the contact resistance significantly",
+        "B": "Increased the contact resistance",
+        "C": "Had no effect on contact resistance",
+        "D": "Made the contact resistance unstable",
+        "Answer": "C",
+        "Source": "Applying conductive paint to the contact faces did not appear to affect the contact resistance."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the impact of current levels on electrical conductivities.",
+        "Question": "What happened to the electrical conductivities as the current levels increased?",
+        "A": "Increased exponentially",
+        "B": "Decreased exponentially",
+        "C": "Remained constant",
+        "D": "Became unstable",
+        "Answer": "B",
+        "Source": "The milliampere-to-ampere increases of current led to significant reductions in electrical conductivities in both in-plane and through-the-thickness directions."
+    },
+    "Question_7": {
+        "Context": "The study explored the relationship between temperature and electrical conductivity.",
+        "Question": "How did the rise in temperature affect the electrical conductivity values?",
+        "A": "Increased the electrical conductivity",
+        "B": "Had no effect on electrical conductivity",
+        "C": "Reduced the electrical conductivity",
+        "D": "Made the electrical conductivity unstable",
+        "Answer": "C",
+        "Source": "The rises of temperatures resulted in the similar reductions in electrical conductivity due to the increased resistance."
+    },
+    "Question_8": {
+        "Context": "The study investigated the effects of clamping pressures on electrical conductivity.",
+        "Question": "What was the predicted effect of an increase in clamping pressure on electrical conductivity?",
+        "A": "Decrease in electrical conductivity",
+        "B": "Increase in electrical conductivity",
+        "C": "No effect on electrical conductivity",
+        "D": "Unstable electrical conductivity",
+        "Answer": "B",
+        "Source": "Equation (4) predicts that the increase in clamping pressure at a given temperature should result in the increase in electrical conductivity."
+    },
+    "Question_9": {
+        "Context": "The study discussed the impact of conductive paint on electrical conductivity.",
+        "Question": "How did the use of conductive paint affect the electrical conductivity values?",
+        "A": "Increased the electrical conductivity significantly",
+        "B": "Decreased the electrical conductivity",
+        "C": "Had no effect on electrical conductivity",
+        "D": "Made the electrical conductivity unstable",
+        "Answer": "C",
+        "Source": "Applying conductive paint to the contact faces did not appear to affect the contact resistance."
+    },
+    "Question_10": {
+        "Context": "The study analyzed the effects of various factors on electrical conductivity.",
+        "Question": "What were the common challenges faced in previous investigations of electrical conduction in composite laminates?",
+        "A": "Homogeneous materials",
+        "B": "Measurement standard for electrical conduction",
+        "C": "Extrinsic and intrinsic factors were clear",
+        "D": "Direct current of milliamperes",
+        "Answer": "B",
+        "Source": "The common challenges to these investigations were that (b) the lack of measurement standard for electrical conduction for anisotropic composite laminates led to the adaptations from those for isotropic and homogeneous materials."
+    }
+}

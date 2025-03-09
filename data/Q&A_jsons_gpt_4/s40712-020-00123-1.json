@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of fracture mechanics, the presence of cracks in a material can lead to a decrease in the strength of components due to stress concentration at the crack tips during loading, which may cause failure initiation.",
+        "Question": "What is the primary reason for structure failure in materials?",
+        "A": "Heat exposure",
+        "B": "Presence of cracks",
+        "C": "Electrical discharge",
+        "D": "Corrosion",
+        "Answer": "B",
+        "Source": "The major cause of structure failure is the presence of cracks in the material. In fact, the strength of components decreases in the presence of cracks. This destructive effect is mainly due the existence of stress concentration at the crack tips during the different kinds of loadings which may cause the failure initiation in the material."
+    },
+    "Question_2": {
+        "Context": "Polymeric materials like epoxy resins are used in various engineering applications due to their mechanical and thermal properties, including high adhesion to many substrates, good heat and chemical resistance, and low shrinkage.",
+        "Question": "Which property is NOT a reason for the great interest in epoxy resins for engineering applications?",
+        "A": "High adhesion to many substrates",
+        "B": "Good electrical conductivity",
+        "C": "Good heat and chemical resistance",
+        "D": "Low shrinkage",
+        "Answer": "B",
+        "Source": "Epoxy resin is one of the most widespread polymeric materials used in various engineering and industrial applications. This great interest for epoxy resins is due to its considerable mechanical and thermal properties such as high adhesion to many substrates, good heat and chemical resistance, and low shrinkage."
+    },
+    "Question_3": {
+        "Context": "The fracture toughness of polymeric materials is a critical property for evaluating their failure, and it must be determined accurately for reliable operation under different kinds of loadings.",
+        "Question": "What property must be accurately specified to evaluate the failure of polymeric members?",
+        "A": "Electrical resistance",
+        "B": "Thermal conductivity",
+        "C": "Fracture toughness",
+        "D": "Optical clarity",
+        "Answer": "C",
+        "Source": "For predicting the load-carrying capacity of these components, their mechanical properties should be determined at first. One of the main properties used for evaluating the failure of polymeric members is their fracture toughness which should be specified accurately."
+    },
+    "Question_4": {
+        "Context": "In fracture mechanics, the Equivalent Material Concept (EMC) is used to simplify the analysis of ductile fracture by equating a ductile material with a virtual brittle material with the same elastic modulus and fracture toughness.",
+        "Question": "What concept is used to simplify the analysis of ductile fracture by equating a ductile material with a virtual brittle material?",
+        "A": "Equivalent Material Concept (EMC)",
+        "B": "Virtual Stress Method (VSM)",
+        "C": "Linear Elastic Fracture Mechanics (LEFM)",
+        "D": "Ductile-Brittle Transition Model (DBTM)",
+        "Answer": "A",
+        "Source": "Recently, a novel approach has been proposed by Torabi (2012), named as the equivalent material concept (EMC), which has been used as a simple method to predict the ductile failure in several researches until now."
+    },
+    "Question_5": {
+        "Context": "The generalized maximum tangential stress criterion is a fracture criterion that predicts crack propagation when the maximum tangential stress at the border of the crack tip reaches a critical value.",
+        "Question": "According to the generalized maximum tangential stress criterion, what condition leads to crack propagation?",
+        "A": "Minimum tangential stress reaches a critical value",
+        "B": "Maximum normal stress reaches a critical value",
+        "C": "Maximum tangential stress reaches a critical value",
+        "D": "Maximum shear stress remains below a critical value",
+        "Answer": "C",
+        "Source": "The generalized maximum tangential criterion declares that the crack will propagate in the material when the maximum tangential stress along \u03b80 attains a critical value."
+    },
+    "Question_6": {
+        "Context": "In the context of fracture mechanics, the stress intensity factors (SIFs) are crucial parameters that describe the stress state near the tip of a crack in a material under loading.",
+        "Question": "What are the parameters called that describe the stress state near the tip of a crack in a material under loading?",
+        "A": "Stress concentration factors (SCFs)",
+        "B": "Stress intensity factors (SIFs)",
+        "C": "Stress distribution coefficients (SDCs)",
+        "D": "Stress amplification numbers (SANs)",
+        "Answer": "B",
+        "Source": "Stress intensity factors (SIFs) of specimens are determined by combination of EMC and dislocation method and also by performing finite element analyses."
+    },
+    "Question_7": {
+        "Context": "In materials science, the plane stress condition is an assumption used in the analysis of thin plates where the stress across the thickness is assumed to be negligible compared to the stress in the plane.",
+        "Question": "What is the assumption called that is used in the analysis of thin plates where the stress across the thickness is negligible compared to the stress in the plane?",
+        "A": "Plane strain condition",
+        "B": "Uniaxial stress condition",
+        "C": "Plane stress condition",
+        "D": "Biaxial stress condition",
+        "Answer": "C",
+        "Source": "Therefore, specimens with the thickness of 3 mm also have the plane stress condition. Based on this condition, the critical stress intensity factor coefficient (Kc) is used in the formulation instead of KIc."
+    },
+    "Question_8": {
+        "Context": "The digital image correlation (DIC) technique is a high accuracy method used to obtain the tensile stress-strain curve for materials by analyzing images of the specimen surface during a tensile test.",
+        "Question": "Which technique is used to obtain the tensile stress-strain curve for materials by analyzing images of the specimen surface during a tensile test?",
+        "A": "Spectroscopy",
+        "B": "Ultrasonic testing",
+        "C": "X-ray diffraction",
+        "D": "Digital image correlation (DIC)",
+        "Answer": "D",
+        "Source": "The digital image correlation (DIC) technique was employed as a high accuracy method to achieve the tensile stress\u2013strain curve for the epoxy material."
+    },
+    "Question_9": {
+        "Context": "The vacuum mixing procedure is a method used to prepare a homogenous mixture of materials, such as epoxy resin and hardener, by blending them under vacuum pressure.",
+        "Question": "What is the purpose of using the vacuum mixing procedure in the preparation of materials like epoxy resin and hardener?",
+        "A": "To increase the viscosity of the mixture",
+        "B": "To create a porous structure in the mixture",
+        "C": "To prepare a homogenous mixture",
+        "D": "To reduce the curing time of the mixture",
+        "Answer": "C",
+        "Source": "The vacuum mixing procedure is used to prepare a homogenous mixture. The epoxy resin and hardener are poured in a vacuum mixing machine container, and the mixture is uniformly blended under vacuum pressure of 0.7 bars at ambient temperature."
+    },
+    "Question_10": {
+        "Context": "The tensile properties of a material, such as the elastic modulus and Poisson's ratio, are determined based on standard test methods to be used in fracture analyses.",
+        "Question": "What are the standard test methods used for determining the tensile properties of a material?",
+        "A": "ASTM D638 and ASTM E132-04",
+        "B": "ISO 527-1 and ISO 527-2",
+        "C": "EN 10002-1 and DIN 50106",
+        "D": "JIS Z 2241 and BS 18",
+        "Answer": "A",
+        "Source": "Hence, these properties were determined by performing the tensile and the Poisson\u2019s ratio tests based on the standard test methods ASTM D638 (1994) and ASTM E132-04 (2010), respectively."
+    }
+}

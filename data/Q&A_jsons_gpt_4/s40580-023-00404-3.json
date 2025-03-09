@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In two-dimensional semiconductors, excitonic quasiparticles such as neutral excitons, charged excitons, and interlayer excitons play a significant role in the material's optical characteristics. These characteristics are influenced by factors like the direct bandgap, quantum confinement effect, strong light-matter interaction, and valley-specific dynamics.",
+        "Question": "Which type of excitonic quasiparticle in two-dimensional semiconductors is influenced by the quantum confined Stark effect?",
+        "A": "Neutral excitons",
+        "B": "Charged excitons",
+        "C": "Interlayer excitons",
+        "D": "Bipolarons",
+        "Answer": "C",
+        "Source": "While IXs do not carry a net electric charge, recent studies demonstrated the spatial control of IXs using out-of-plane electric field. In the 2D TMD heterostructures, IXs have spatially separated holes and electrons within different layers, resulting in a large out-of-plane dipole moment p. Consequently, an electric field Ez(x, y) perpendicular to the crystal plane enables the modulation of IXs energy through quantum confined Stark effect with the relation, \u03b5 = \u2212 p \u00b7 E."
+    },
+    "Question_2": {
+        "Context": "In the context of two-dimensional semiconductors, strain gradients can be used to manipulate the transport properties of excitons. The strain affects the bandgap energy of the material, which in turn influences the movement of excitons.",
+        "Question": "What is the effect of a strain gradient on the transport of neutral excitons in two-dimensional semiconductors?",
+        "A": "It has no effect",
+        "B": "It causes excitons to move towards areas of higher bandgap energy",
+        "C": "It causes excitons to move towards areas of lower bandgap energy",
+        "D": "It inverts the spin of excitons",
+        "Answer": "C",
+        "Source": "The generation of strain-gradient leads to the local modification of the exciton density, as the exciton current flows toward a low bandgap energy."
+    },
+    "Question_3": {
+        "Context": "Surface plasmon polaritons (SPPs) can be used to enhance exciton transport in two-dimensional semiconductors. SPPs are collective oscillations of free electrons at the interface between a metal and a dielectric, which can couple with excitons to enable their transport.",
+        "Question": "What is the role of surface plasmon polaritons in exciton transport within two-dimensional semiconductors?",
+        "A": "They decrease the lifetime of excitons",
+        "B": "They enable long-range transport of exciton emission",
+        "C": "They localize excitons to prevent transport",
+        "D": "They convert excitons into photons",
+        "Answer": "B",
+        "Source": "The exciton transport as a coupling form with the SPP, exploiting the unique characteristics of plasmons, such as subwavelength local confinement and long propagation length."
+    },
+    "Question_4": {
+        "Context": "Photonic cavities are structures that can trap and manipulate light at certain frequencies. When integrated with two-dimensional semiconductors, they can influence exciton transport by coupling excitons with specific photonic modes.",
+        "Question": "What is the potential application of coupling excitons with specific photonic modes within photonic cavity structures in two-dimensional semiconductors?",
+        "A": "To reduce the interaction between excitons and photons",
+        "B": "To increase the thermal energy loss of excitons",
+        "C": "To enable directional propagation of exciton emission",
+        "D": "To isolate excitons from external electric fields",
+        "Answer": "C",
+        "Source": "By integrating a custom-designed photonic cavity structure considering the exciton resonances of 2D materials, it becomes feasible to couple excitons with specific photonic modes. This capability has various applications in exciton transport, such as extending the propagation distance and enabling directional propagation of exciton emission without applying external stimulus."
+    },
+    "Question_5": {
+        "Context": "In two-dimensional semiconductors, charged excitons, also known as trions, are excitonic quasiparticles that consist of an electron or hole bound to an exciton. They can be manipulated using in-plane electric fields due to their charged nature.",
+        "Question": "What is the primary mechanism that allows for the transport of charged excitons in two-dimensional semiconductors?",
+        "A": "Magnetic fields",
+        "B": "In-plane electric fields",
+        "C": "Thermal gradients",
+        "D": "Optical trapping",
+        "Answer": "B",
+        "Source": "In contrast to the neutral excitons, the transport of charged excitons, which is a Fermi polaron formed by Coulomb attraction between the exciton and surrounding electrons can be driven by an in-plane electric field."
+    },
+    "Question_6": {
+        "Context": "In two-dimensional semiconductors, excitons can be generated and manipulated by external stimuli. The lifetime of these excitons is a crucial factor that influences their transport and the efficiency of devices based on excitonic quasiparticles.",
+        "Question": "What is a significant limitation of charged excitons in two-dimensional semiconductors that affects their transport?",
+        "A": "High thermal energy loss",
+        "B": "Long lifetime",
+        "C": "Short lifetime",
+        "D": "High exciton funneling efficiency",
+        "Answer": "C",
+        "Source": "However, short transport distance of charged excitons in TMD monolayers gives limitation in field of optoelectronic devices. For the development of charged exciton-based devices, inducing high density of charged excitons is a crucial prerequisite."
+    },
+    "Question_7": {
+        "Context": "In the field of two-dimensional semiconductors, the concept of exciton funneling refers to the process where excitons move towards regions of lower energy within the material. This phenomenon can be influenced by various factors, including strain gradients.",
+        "Question": "What is the effect of applying tensile strain on the bandgap energy of two-dimensional semiconductors, and how does it affect exciton funneling?",
+        "A": "Tensile strain increases bandgap energy and causes exciton anti-funneling",
+        "B": "Tensile strain decreases bandgap energy and causes exciton funneling",
+        "C": "Tensile strain has no effect on bandgap energy or exciton funneling",
+        "D": "Tensile strain increases bandgap energy and causes exciton funneling",
+        "Answer": "B",
+        "Source": "The tensile strain can be applied at the top position of the wrinkle, which decreases the bandgap energy. This led the photo-generated excitons to be effectively confined at the top of the wrinkle."
+    },
+    "Question_8": {
+        "Context": "In two-dimensional semiconductors, excitons can exhibit different behaviors under strain gradients. While bright excitons tend to move towards regions of lower energy, dark excitons can exhibit an opposite response.",
+        "Question": "What is the behavior of dark excitons under a strain gradient in two-dimensional semiconductors?",
+        "A": "They move towards regions of higher strain",
+        "B": "They remain stationary regardless of strain",
+        "C": "They move towards regions of lower strain",
+        "D": "They convert into bright excitons",
+        "Answer": "A",
+        "Source": "While the bright excitons exhibit the funneling toward the minima of tensile stain, the dark excitons drift away from the minima of tensile strain, showing the anti-funneling effect."
+    },
+    "Question_9": {
+        "Context": "In two-dimensional semiconductors, the quantum confined Stark effect can be used to control the transport of excitons. This effect arises due to the interaction between an electric field and the dipole moment of excitons, particularly interlayer excitons in heterostructures.",
+        "Question": "How does the quantum confined Stark effect influence the energy of interlayer excitons in two-dimensional semiconductors?",
+        "A": "It increases the energy proportional to the electric field strength",
+        "B": "It decreases the energy proportional to the electric field strength",
+        "C": "It has no effect on the energy of interlayer excitons",
+        "D": "It randomizes the energy levels of interlayer excitons",
+        "Answer": "B",
+        "Source": "In the 2D TMD heterostructures, IXs have spatially separated holes and electrons within different layers, resulting in a large out-of-plane dipole moment p. Consequently, an electric field Ez(x, y) perpendicular to the crystal plane enables the modulation of IXs energy through quantum confined Stark effect with the relation, \u03b5 = \u2212 p \u00b7 E."
+    },
+    "Question_10": {
+        "Context": "In the study of two-dimensional semiconductors, the term 'exciton funneling efficiency' refers to the effectiveness with which excitons are directed or 'funneled' towards specific regions within the material, often influenced by strain gradients.",
+        "Question": "What factor significantly enhances the exciton funneling efficiency at nanoscale strain gradients in two-dimensional semiconductors?",
+        "A": "Increased thermal energy",
+        "B": "Drift-dominant exciton flow",
+        "C": "Decreased light-matter interaction",
+        "D": "Increased exciton lifetime",
+        "Answer": "B",
+        "Source": "Indeed, analyzing drift-diffusion equation with experimentally obtained strain gradient profile demonstrated the higher funneling efficiency at the nanoscale strain gradient, as shown in Fig. 5b-(vi-vii). This was attributed to the drift-dominant nature of the nanoscale strain gradient, as the drift current significantly affected by the gradient of the applied strain."
+    }
+}

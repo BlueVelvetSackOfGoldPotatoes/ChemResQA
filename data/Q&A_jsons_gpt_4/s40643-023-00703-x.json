@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Laccase enzymes are known for their ability to degrade a wide range of substrates, including synthetic dyes, due to their oxidation capabilities.",
+        "Question": "Which type of enzyme is recognized for catalyzing the oxidation of synthetic dyes?",
+        "A": "Lipase",
+        "B": "Protease",
+        "C": "Laccase",
+        "D": "Amylase",
+        "Answer": "C",
+        "Source": "Laccase (EC 1.10.3.2) is a copper rich polyphenol oxidase that catalyzed the oxidation of a wide variety of substrates, which includes several types of phenolic and nonphenolic hazardous compounds."
+    },
+    "Question_2": {
+        "Context": "In enzymatic reactions, the stability of an enzyme can be influenced by pH levels, with some enzymes showing stability within specific pH ranges.",
+        "Question": "At which pH range was the laccase enzyme obtained from S. maltophilia E1 found to be stable?",
+        "A": "Alkaline pH",
+        "B": "Neutral pH",
+        "C": "Acidic pH",
+        "D": "Both acidic and alkaline pH",
+        "Answer": "C",
+        "Source": "The enzyme activity was found to be steady at an acidic pH, and a mesophilic temperature range."
+    },
+    "Question_3": {
+        "Context": "Temperature can affect the activity of enzymes, with certain enzymes being more active within specific temperature ranges known as mesophilic.",
+        "Question": "Within which temperature range is the laccase enzyme from S. maltophilia E1 stable?",
+        "A": "Thermophilic range",
+        "B": "Mesophilic range",
+        "C": "Psychrophilic range",
+        "D": "Hyperthermophilic range",
+        "Answer": "B",
+        "Source": "The enzyme activity was found to be steady at an acidic pH, and a mesophilic temperature range."
+    },
+    "Question_4": {
+        "Context": "The degradation of synthetic dyes by enzymes can lead to the formation of new compounds, which can be analyzed using specific chromatographic techniques.",
+        "Question": "Which analytical technique is used to characterize the decolorized derivatives of synthetic dyes?",
+        "A": "High-performance liquid chromatography (HPLC)",
+        "B": "Gas chromatography\u2013mass spectrometry (GC\u2013MS)",
+        "C": "Thin-layer chromatography (TLC)",
+        "D": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "Answer": "B",
+        "Source": "Gas chromatography\u2013mass spectrometry (GC\u2013MS) analysis of the decolorized derivatives of Malachite green revealed a conversion into a distinct compounds."
+    },
+    "Question_5": {
+        "Context": "Synthetic dyes can have toxic effects on plants, which can be assessed by observing the effects on seed germination and seedling growth.",
+        "Question": "What is an indicator of enzymatic detoxification of synthetic dyes in relation to plant toxicity?",
+        "A": "Increased seed germination rate",
+        "B": "Decreased seed germination rate",
+        "C": "Color change in seedlings",
+        "D": "Increased seedling mortality rate",
+        "Answer": "A",
+        "Source": "Moreover, after undergoing laccase treatment, Malachite green exhibited decreased phytotoxic effects on Oryza sativa, pointing to enzymatic detoxification."
+    },
+    "Question_6": {
+        "Context": "The use of agricultural residues as substrates for enzyme production can be a cost-effective approach in biotechnological applications.",
+        "Question": "Which agricultural residue was found to be the most effective substrate for laccase production by S. maltophilia?",
+        "A": "Wheat bran",
+        "B": "Rice husk",
+        "C": "Coconut husk",
+        "D": "Barley bran",
+        "Answer": "C",
+        "Source": "Among variety of substrates, coconut husk exhibited optimal efficacy."
+    },
+    "Question_7": {
+        "Context": "The optimization of enzyme production can be achieved using various statistical methodologies that consider multiple variables.",
+        "Question": "Which statistical methodology was used for the optimization of laccase production in this context?",
+        "A": "Principal component analysis (PCA)",
+        "B": "Response Surface Methodology (RSM)",
+        "C": "Linear regression analysis",
+        "D": "Factorial design",
+        "Answer": "B",
+        "Source": "Response Surface Methodology (RSM) and the One Variable at a Time (OVAT) approach was pursued for the optimization of laccase production."
+    },
+    "Question_8": {
+        "Context": "In bioremediation, the ability of enzymes to decolorize dyes can be quantitatively assessed by measuring the reduction in dye coloration.",
+        "Question": "What level of reduction in Malachite green dye coloration was achieved by the laccase from S. maltophilia E1?",
+        "A": "50.5%",
+        "B": "75.2%",
+        "C": "92.1%",
+        "D": "100%",
+        "Answer": "C",
+        "Source": "The laccase obtained from S. maltophilia E1 demonstrated proficient dye decolorization capabilities, achieving a notable 92.1% reduction in Malachite green dye coloration at a concentration of 500 ppm."
+    },
+    "Question_9": {
+        "Context": "The production of laccase by bacteria can be enhanced by optimizing the medium composition, including the concentration of certain metal ions.",
+        "Question": "Which metal ion is commonly added to the medium to enhance bacterial laccase production?",
+        "A": "Iron (Fe)",
+        "B": "Copper (Cu)",
+        "C": "Zinc (Zn)",
+        "D": "Magnesium (Mg)",
+        "Answer": "B",
+        "Source": "The sample was transported immediately to the lab in an icebox for further use. Soil sediment sample was sequentially diluted up to 10\u20138 and then 0.1 mL sample was spread on M162 agar medium supplemented with 2 g/L yeast extract, 2 g/L tryptone, 100 \u00b5M CuSO4, and 2 mM Guaiacol."
+    },
+    "Question_10": {
+        "Context": "The degradation of synthetic dyes by laccase can lead to the formation of less toxic compounds, which can be assessed by their impact on plant growth.",
+        "Question": "What is the effect of laccase-treated Malachite green on the phytotoxicity towards Oryza sativa?",
+        "A": "Increased phytotoxicity",
+        "B": "No change in phytotoxicity",
+        "C": "Decreased phytotoxicity",
+        "D": "Complete elimination of phytotoxicity",
+        "Answer": "C",
+        "Source": "Moreover, after undergoing laccase treatment, Malachite green exhibited decreased phytotoxic effects on Oryza sativa, pointing to enzymatic detoxification."
+    }
+}

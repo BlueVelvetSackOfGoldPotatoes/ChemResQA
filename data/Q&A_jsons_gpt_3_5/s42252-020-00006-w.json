@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the preparation of NdFeB powders filled polymeric matrix (PEEK) and their use in 3D printing to produce high-performance magnets. The influence of the filler on the main thermomechanical properties of the resulting composites was evaluated.",
+        "Question": "What is one possible solution proposed in the paper to address the poor corrosion resistance of NdFeB magnets?",
+        "A": "Development of innovative polymeric composite magnetic materials",
+        "B": "Increasing the filler amount in the composite",
+        "C": "Using a different type of magnetic filler",
+        "D": "Reducing the amount of PEEK in the composite",
+        "Answer": "A",
+        "Source": "One possible solution is the development of innovative polymeric composite magnetic materials."
+    },
+    "Question_2": {
+        "Context": "The paper mentions that the PEEK- NdFeB filaments were produced with three percentages of filler amount (25, 50, and 75 wt%).",
+        "Question": "What were the three percentages of filler amount used in the production of PEEK-NdFeB filaments?",
+        "A": "15, 30, 45 wt%",
+        "B": "20, 40, 60 wt%",
+        "C": "25, 50, 75 wt%",
+        "D": "10, 20, 30 wt%",
+        "Answer": "C",
+        "Source": "PEEK-NdFeB filaments were produced with three percentages of filler amount (i.e. 25, 50, and 75 wt%)."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the thermal stability of the printed parts and the effects of the printing process on the material properties.",
+        "Question": "What was observed in the DSC analysis of the printed parts regarding the crystallinity of the first layer compared to the upper layers?",
+        "A": "The first layer had higher crystallinity than the upper layers",
+        "B": "The first layer had lower crystallinity than the upper layers",
+        "C": "The first layer had similar crystallinity to the upper layers",
+        "D": "The first layer had no crystallinity",
+        "Answer": "B",
+        "Source": "The first layer was found to have a lower degree of crystallinity, reported by the presence of a cold crystallization peak after the glass transition."
+    },
+    "Question_4": {
+        "Context": "The paper reports a decrease in thermal stability after printing and discusses the reasons behind this observation.",
+        "Question": "What is one possible reason for the decrease in thermal stability of the printed parts compared to the relevant filaments?",
+        "A": "Higher crystallinity in the printed parts",
+        "B": "Degradation of the PEEK matrix during printing",
+        "C": "Lower filler content in the printed parts",
+        "D": "Improved interlayer adhesion in the printed parts",
+        "Answer": "B",
+        "Source": "A decrease in thermal stability after printing was observed, attributed to some degree of degradation occurring to the polymer during the printing."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the tensile testing of the 3D composite printed parts and the mechanical properties observed.",
+        "Question": "What effect did the presence of irregular edges on the particles have on the mechanical properties of the printed parts?",
+        "A": "Increased tensile strength",
+        "B": "Decreased tensile strength",
+        "C": "Increased elongation at break",
+        "D": "No effect on mechanical properties",
+        "Answer": "B",
+        "Source": "The presence of irregular edges on the particles acted as initiation sites for cracks, leading to a decrease in tensile strength."
+    },
+    "Question_6": {
+        "Context": "The paper reports the magnetic properties of the printed samples and discusses the discrepancy between the measured and expected values.",
+        "Question": "What was one possible explanation provided for the discrepancy between the measured and expected magnetic properties of the printed parts?",
+        "A": "Presence of porosity in the samples",
+        "B": "Higher filler content than expected",
+        "C": "Lower printing temperature",
+        "D": "Different magnetic filler used",
+        "Answer": "A",
+        "Source": "The discrepancy among the measured Br and the expected values is due to the presence of porosities in the sample."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the thermal degradation of the PEEK matrix during the printing process and its impact on the magnetic properties of the printed parts.",
+        "Question": "What was observed in the EDX map analysis of the magnetic particles contained in the printed samples?",
+        "A": "Higher Nd and Fe content",
+        "B": "Presence of voids",
+        "C": "Low Nd and Fe content and high oxygen content",
+        "D": "No oxidation of the particles",
+        "Answer": "C",
+        "Source": "The Nd and Fe content was found to be low and the oxygen content high, suggesting the formation of species coming from oxidation reaction."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the coercitivity of the printed samples and the differences observed between PEEK_25NdFeB and PEEK_50NdFeB.",
+        "Question": "What was one observed difference in the coercitivity between PEEK_25NdFeB and PEEK_50NdFeB printed samples?",
+        "A": "Higher coercitivity in PEEK_50NdFeB",
+        "B": "Lower coercitivity in PEEK_50NdFeB",
+        "C": "No difference in coercitivity between the two samples",
+        "D": "Higher coercitivity in PEEK_25NdFeB",
+        "Answer": "B",
+        "Source": "Coercitivity was found to be much lower in PEEK_50NdFeB printed parts with respect to PEEK_25NdFeB samples."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the feasibility of using PEEK-NdFeB composite filaments in 3D printing for high-performance magnets.",
+        "Question": "What was the energy product value observed for PEEK_25NdFeB printed parts?",
+        "A": "130 J/m3",
+        "B": "750 J/m3",
+        "C": "500 J/m3",
+        "D": "100 J/m3",
+        "Answer": "A",
+        "Source": "Energy products of 130 J/m3 for PEEK_25NdFeB demonstrated the feasibility of the magnetic 3D printed composite with PEEK."
+    },
+    "Question_10": {
+        "Context": "The paper concludes by discussing the need for further optimization of the printing process to develop magnets suitable for space applications.",
+        "Question": "What was identified as a major finding regarding the printed samples in the conclusion of the paper?",
+        "A": "Presence of optimal filler orientation",
+        "B": "Negligible amount of porosity",
+        "C": "Lack of filler-matrix adhesion",
+        "D": "High thermal stability after printing",
+        "Answer": "C",
+        "Source": "The major finding was considered the presence of a not negligible amount of porosity and, in the case of PEEK_50NdFeB sample, the lack of filler orientation."
+    }
+}

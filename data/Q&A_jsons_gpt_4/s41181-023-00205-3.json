@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the treatment of hepatocellular carcinoma, various therapies exploit the arterial routes to direct localized therapies to hepatic tumors.",
+        "Question": "Which of the following therapies is NOT known to exploit arterial routes for directing localized treatment to hepatic tumors?",
+        "A": "Transarterial embolization (TAE)",
+        "B": "Chemoembolization (TACE)",
+        "C": "Radioembolization (TARE)",
+        "D": "Intravenous chemotherapy",
+        "Answer": "D",
+        "Source": "Therapies, such as transarterial embolization (TAE), chemoembolization (TACE) and radioembolization (TARE), exploit these arterial routes to direct localized therapies to hepatic tumors."
+    },
+    "Question_2": {
+        "Context": "Targeted alpha therapy (TAT) is a form of treatment that utilizes the unique properties of alpha particles to treat cancer.",
+        "Question": "What is a characteristic feature of alpha particles that makes targeted alpha therapy (TAT) highly potent?",
+        "A": "Long range in tissue",
+        "B": "Low linear energy transfer",
+        "C": "High linear energy transfer",
+        "D": "Ability to penetrate deep into tissues",
+        "Answer": "C",
+        "Source": "Targeted alpha therapy (TAT) is highly potent treatment due to the densely ionizing track and a short path-length (40\u201390 \u03bcm) of the emitted \u03b1-particles, resulting in a high linear energy transfer (LET) (50\u2013230 keV/\u03bcm)."
+    },
+    "Question_3": {
+        "Context": "In the context of radioembolization therapies, different isotopes can be used to deliver radiation to tumors.",
+        "Question": "Which isotope is commonly used in transarterial radioembolization (TARE) for the treatment of hepatocellular carcinoma?",
+        "A": "Actinium-225",
+        "B": "Yttrium-90",
+        "C": "Rhenium-188",
+        "D": "Iodine-131",
+        "Answer": "B",
+        "Source": "Current TARE-agents utilize \u03b2-particle-emitting radioisotopes, such as yttrium-90 or rhenium-188. Yttrium-90 TARE-agents utilize glass or resin microspheres and are the most advanced \u03b2-particle-emitting TARE-agents (\u03b2TARE)."
+    },
+    "Question_4": {
+        "Context": "The liver receives blood supply from two main sources, which are important considerations in the treatment of liver diseases.",
+        "Question": "What is the primary blood supply source for healthy liver tissue?",
+        "A": "Hepatic artery",
+        "B": "Portal vein",
+        "C": "Renal artery",
+        "D": "Inferior vena cava",
+        "Answer": "B",
+        "Source": "Both primary and secondary liver tumors are fed through the hepatic artery while the healthy liver is supplied by the portal vein."
+    },
+    "Question_5": {
+        "Context": "In the development of novel therapeutic agents, the stability of the compound is a critical factor for its efficacy and distribution.",
+        "Question": "What is an indicator of a radiopharmaceutical compound's stability over time?",
+        "A": "Decrease in radiochemical purity",
+        "B": "Increase in molecular weight",
+        "C": "Maintenance of high radiochemical purity",
+        "D": "Change in isotopic composition",
+        "Answer": "C",
+        "Source": "[225Ac]Ac-DOTA-TDA was shown to be a highly stable with bench-top stability at \u2265 95% radiochemical purity (RCP) over a 3-day period and serum stability was \u2265 90% RCP over 5-days."
+    },
+    "Question_6": {
+        "Context": "In pharmacokinetics, the distribution and clearance of compounds within the body are studied to understand the behavior of drugs.",
+        "Question": "In pharmacokinetic studies, what does retention in the tumor with clearance through normal organs indicate?",
+        "A": "The compound is toxic to normal tissues",
+        "B": "The compound is not being absorbed by the body",
+        "C": "The compound is selectively retained in the tumor",
+        "D": "The compound has no therapeutic effect",
+        "Answer": "C",
+        "Source": "The pharmacokinetic data showed retention in the tumor of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae and clearance through the normal organs."
+    },
+    "Question_7": {
+        "Context": "In the context of dosimetry for radiotherapeutic agents, the maximum tolerable activity (MTA) is calculated to determine safe dosage levels.",
+        "Question": "What does the estimated maximum tolerable activity (MTA) for a radiotherapeutic agent depend on?",
+        "A": "The patient's financial status",
+        "B": "The radioisotope's market availability",
+        "C": "The organ's radiation tolerance",
+        "D": "The duration of the clinical trial",
+        "Answer": "C",
+        "Source": "The dose limiting organ was the liver, and the estimated maximum tolerable activity based on the rodents whole-body weight: 728\u20133641 Bq/g (male rat), 396\u20131982 Bq/g (male mouse), and 453\u20132263 Bq/g (female mouse), depending on an RBE-value (range 1\u20135)."
+    },
+    "Question_8": {
+        "Context": "In targeted radiotherapy, the concept of relative biological effectiveness (RBE) is used to compare the biological effectiveness of different types of ionizing radiation.",
+        "Question": "What does the relative biological effectiveness (RBE) value indicate in the context of targeted radiotherapy?",
+        "A": "The cost-effectiveness of the treatment",
+        "B": "The potency of the radiation relative to a standard",
+        "C": "The duration of the treatment's effectiveness",
+        "D": "The patient's resistance to the radiation",
+        "Answer": "B",
+        "Source": "The relative biological effectiveness (RBE) for \u03b1-particles was incorporated in the dosimetric calculations (Sgouros et al. 2010, 2018b), and the estimated maximum tolerable activity (eMTA) [Bq] was calculated."
+    },
+    "Question_9": {
+        "Context": "In the treatment of cancer, the pharmacokinetics of a therapeutic agent can be influenced by the presence of its decay products.",
+        "Question": "What is a potential consequence of the decay of a radiopharmaceutical agent in the body?",
+        "A": "It can lead to the accumulation of decay products in unintended organs",
+        "B": "It can cause the agent to become permanently bound to the tumor",
+        "C": "It can result in the spontaneous synthesis of new therapeutic compounds",
+        "D": "It can prevent the agent from being metabolized by the body",
+        "Answer": "A",
+        "Source": "In addition, the tumor and liver acted as suppliers of the free daughters, which accumulated in the kidneys supplied via the blood."
+    },
+    "Question_10": {
+        "Context": "The pharmacokinetics of a drug can be studied by analyzing its distribution in various organs and tissues over time.",
+        "Question": "In a pharmacokinetic study, what does a negative value of activity (Bq/g) associated with a compound's decay daughters in an organ indicate?",
+        "A": "The organ is producing the decay daughters",
+        "B": "The decay daughters are accumulating in the organ",
+        "C": "The decay daughters are being synthesized within the organ",
+        "D": "The decay daughters are relocating away from the organ",
+        "Answer": "D",
+        "Source": "The activity of the free daughters associated with the administered dose have mostly decayed and a negative value of activity (Bq/g) is observed for free bismuth-213 and francium-221 at 6-h (-580 \u00b1 67 Bq/g and -233 \u00b1 108 Bq/g, respectively)."
+    }
+}

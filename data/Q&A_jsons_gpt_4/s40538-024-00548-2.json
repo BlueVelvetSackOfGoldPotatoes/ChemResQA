@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of plant physiology, chlorophyll and carotenoids are pigments essential for the process of photosynthesis. Chlorophylls absorb light most efficiently in the blue and red wavelengths, while carotenoids absorb in the blue-green range. These pigments are crucial for capturing light energy that plants use to convert carbon dioxide and water into glucose and oxygen.",
+        "Question": "Which pigments are primarily responsible for absorbing light during photosynthesis in plants?",
+        "A": "Chlorophyll and carotenoids",
+        "B": "Xanthophyll and anthocyanins",
+        "C": "Phycobilins and flavonoids",
+        "D": "Chlorophyll and phycocyanin",
+        "Answer": "A",
+        "Source": "The UC group exhibited significantly higher Chl, Chl a, Chl b, and Car contents compared to the MC group (p < 0.05). In addition, POD, SOD, and SS enzyme activities, soluble protein and sugar content, starch and sucrose content, and MDA content exhibited significant increases in the UC group."
+    },
+    "Question_2": {
+        "Context": "In plant biochemistry, malondialdehyde (MDA) is a marker for oxidative stress and cell membrane damage. It is a product of lipid peroxidation, which occurs when reactive oxygen species attack the lipids in cell membranes.",
+        "Question": "What does an increase in malondialdehyde (MDA) content in plants indicate?",
+        "A": "Enhanced photosynthesis",
+        "B": "Increased nutrient absorption",
+        "C": "Oxidative stress and cell membrane damage",
+        "D": "Decreased respiration rate",
+        "Answer": "C",
+        "Source": "Higher MDA levels in the MC indicated that C. chinensis in the understory cultivation system may have been subjected to stress. These stressors may cause cells in C. chinensis to produce superoxide-free radicals and induce antioxidant enzymes to reduce oxidative damage by preventing peroxidation in C. chinensis."
+    },
+    "Question_3": {
+        "Context": "In the study of plant metabolism, enzymes such as peroxidase (POD), superoxide dismutase (SOD), and catalase (CAT) are known to be involved in the detoxification of reactive oxygen species (ROS). These enzymes work together to mitigate oxidative stress in plant cells.",
+        "Question": "Which enzymes are involved in the detoxification of reactive oxygen species in plants?",
+        "A": "Lipase, protease, and amylase",
+        "B": "Peroxidase, superoxide dismutase, and catalase",
+        "C": "Lactase, pepsin, and trypsin",
+        "D": "Hexokinase, phosphofructokinase, and pyruvate kinase",
+        "Answer": "B",
+        "Source": "Higher MDA levels in the MC indicated that C. chinensis in the understory cultivation system may have been subjected to stress. These stressors may cause cells in C. chinensis to produce superoxide-free radicals and induce antioxidant enzymes to reduce oxidative damage by preventing peroxidation in C. chinensis."
+    },
+    "Question_4": {
+        "Context": "In plant biochemistry, the phenylpropanoid biosynthesis pathway is responsible for the production of a wide range of secondary metabolites. These metabolites include flavonoids, lignins, and certain alkaloids, which play roles in plant defense, pigmentation, and structural support.",
+        "Question": "What types of compounds are typically produced by the phenylpropanoid biosynthesis pathway in plants?",
+        "A": "Nucleic acids and proteins",
+        "B": "Chlorophylls and carotenoids",
+        "C": "Flavonoids, lignins, and certain alkaloids",
+        "D": "Amino acids and peptides",
+        "Answer": "C",
+        "Source": "In this study, 17 DEGs were identified in the phenylpropanoid biosynthesis pathway (map00940). In comparison with MC, one, two, and thirteen genes encoding 4-coumarate-CoA ligase (4CL), caffeic acid 3-O-methyltransferase (COMT1), and POD, respectively, were significantly upregulated in UC, consistent with the change in POD activity."
+    },
+    "Question_5": {
+        "Context": "Cytokinins are a class of plant hormones that promote cell division and shoot formation. They are synthesized in roots and transported to other parts of the plant. Zeatin is a type of cytokinin that is involved in promoting growth and development.",
+        "Question": "What role do cytokinins, such as zeatin, play in plant growth and development?",
+        "A": "They inhibit root growth and promote leaf senescence",
+        "B": "They promote cell division and shoot formation",
+        "C": "They regulate the opening and closing of stomata",
+        "D": "They are responsible for the synthesis of chlorophyll",
+        "Answer": "B",
+        "Source": "Nine DEGs involved in the zeatin biosynthesis pathway (map00908) were identified in 'UC_vs_MC'. Among these DEGs, one, one, three, and three genes encoding cytokinin hydroxylase (CYP 735A), cytokinin dehydrogenase 5 (CKX5), zeatin O-glucosyltransferase (ZOG), and UDP-glycosyltransferase 73C5 (UGT 73C5), respectively, were significantly upregulated in UC."
+    },
+    "Question_6": {
+        "Context": "Photosynthesis in plants involves the conversion of light energy into chemical energy, which is stored in the form of glucose. The process occurs in the chloroplasts and involves two main stages: the light-dependent reactions and the Calvin cycle.",
+        "Question": "In which part of the plant cell does photosynthesis primarily occur?",
+        "A": "Mitochondria",
+        "B": "Nucleus",
+        "C": "Chloroplasts",
+        "D": "Endoplasmic reticulum",
+        "Answer": "C",
+        "Source": "After understory cultivation, a total of 22 DEGs related to the photosynthetic pathway (map00195) were identified. Compared with MC, 20 of those genes encoding photosystem II CP47 reaction center protein (Psb B), oxygen-evolving enhancer protein 1 (Psb O), photosystem II 10 kDa polypeptide (Psb R), and photosystem II 22 kDa protein (Psb S) in the photosystem II reaction center, photosystem I reaction center subunit proteins (Psa D, Psa E, Psa F, Psa G, Psa H, Psa K, Psa N, and Psa O), cytochrome b6-f complex iron\u2013sulfur subunit (Pet C), plastocyanin A (Pet E), and ferredoxin-3 (Pet F) involved in photosynthetic electron transport, ATP synthase gamma chain (gamma), ATP synthase subunit delta (delta), and ATP synthase subunit b\u2032 (b), were significantly upregulated in UC."
+    },
+    "Question_7": {
+        "Context": "Tyrosine metabolism in plants is a pathway that leads to the production of various compounds, including isoquinoline alkaloids. These alkaloids are secondary metabolites that can have significant pharmacological effects.",
+        "Question": "What is the significance of tyrosine metabolism in plants?",
+        "A": "It is primarily involved in the synthesis of primary metabolites such as glucose",
+        "B": "It leads to the production of isoquinoline alkaloids, which are secondary metabolites",
+        "C": "It is responsible for the breakdown of chlorophyll during leaf senescence",
+        "D": "It regulates the uptake of water and minerals from the soil",
+        "Answer": "B",
+        "Source": "Genes involved in tyrosine metabolism and isoquinoline alkaloid biosynthesis were found to be altered by understory cultivation. Eight DEGs were identified in tyrosine metabolism and isoquinoline alkaloid biosynthesis pathways."
+    },
+    "Question_8": {
+        "Context": "Starch and sucrose metabolism in plants are crucial for providing energy and structural components. Starch is a storage carbohydrate that can be broken down into glucose to provide energy, while sucrose is a disaccharide that serves as a transport sugar in plants.",
+        "Question": "What is the role of starch and sucrose metabolism in plants?",
+        "A": "They are involved in the synthesis of nucleic acids",
+        "B": "They provide pigments for photosynthesis",
+        "C": "They provide energy and structural components",
+        "D": "They are involved in the detoxification of heavy metals",
+        "Answer": "C",
+        "Source": "In the 'UC_vs_MC' comparison, 16 DEGs were identified in the starch and sucrose metabolism pathways. The results showed that one, one, four, two, three, and one genes encoding beta-fructofuranosidase (INV), alpha-glucosidase (AGL), beta-glucosidase (BGL), SPS, alpha-amylase (AMY), and isoamylase (ISA) were significantly upregulated in UC compared to MC."
+    },
+    "Question_9": {
+        "Context": "Isoquinoline alkaloids are a group of naturally occurring chemical compounds found in plants. They are known for their diverse pharmacological properties, including antimicrobial, anti-inflammatory, and anticancer activities.",
+        "Question": "What are isoquinoline alkaloids commonly known for?",
+        "A": "Their role in plant growth and chlorophyll synthesis",
+        "B": "Their ability to increase the rate of photosynthesis",
+        "C": "Their diverse pharmacological properties",
+        "D": "Their function as primary metabolites in energy production",
+        "Answer": "C",
+        "Source": "The isoquinoline alkaloids, including epiberberine, palmatine, and berberine, were prepared following previously established procedures. The isoquinoline alkaloid contents were determined using a high-performance liquid chromatography (HPLC) system."
+    },
+    "Question_10": {
+        "Context": "In the context of plant biochemistry, enzymes such as beta-fructofuranosidase, alpha-glucosidase, and beta-glucosidase are involved in the breakdown of carbohydrates. These enzymes catalyze the hydrolysis of glycosidic bonds, allowing the release of simple sugars.",
+        "Question": "Which enzymes are involved in the breakdown of carbohydrates in plants?",
+        "A": "Lipases and proteases",
+        "B": "Nucleases and phosphatases",
+        "C": "Beta-fructofuranosidase, alpha-glucosidase, and beta-glucosidase",
+        "D": "Ligases and lyases",
+        "Answer": "C",
+        "Source": "In the 'UC_vs_MC' comparison, 16 DEGs were identified in the starch and sucrose metabolism pathways. The results showed that one, one, four, two, three, and one genes encoding beta-fructofuranosidase (INV), alpha-glucosidase (AGL), beta-glucosidase (BGL), SPS, alpha-amylase (AMY), and isoamylase (ISA) were significantly upregulated in UC compared to MC."
+    }
+}

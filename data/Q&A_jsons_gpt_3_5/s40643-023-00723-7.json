@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Functional lipids are widely acknowledged for their potential health benefits. Enzymatic catalysis offers advantages over chemical methods for lipid modification. What is a key advantage of enzymatic catalysis mentioned in the text?",
+        "Question": "What advantage does enzymatic catalysis offer over chemical methods for lipid modification?",
+        "A": "High selectivity",
+        "B": "Low activity",
+        "C": "Harsh operating conditions",
+        "D": "Increased byproduct formation",
+        "Answer": "A",
+        "Source": "In contrast to chemical methods, enzymes stand out as biodegradable biocatalysts, offering significant advantages in the industry, such as high selectivity, mild operating conditions, and reduced byproduct formation."
+    },
+    "Question_2": {
+        "Context": "Protein engineering techniques have been implemented to enhance enzyme performance in functional lipid synthesis. What is the primary goal of protein engineering mentioned in the text?",
+        "Question": "What is the primary goal of protein engineering in enhancing enzyme performance for functional lipid synthesis?",
+        "A": "Reducing selectivity",
+        "B": "Increasing stability",
+        "C": "Enhancing activity",
+        "D": "Promoting byproduct formation",
+        "Answer": "C",
+        "Source": "Protein engineering involves the modification of sequences in natural proteins with the goal of enhancing their activity."
+    },
+    "Question_3": {
+        "Context": "Directed evolution enhances enzyme properties through multiple rounds of mutation and screening. What is the advantage of directed evolution mentioned in the text?",
+        "Question": "What is a key advantage of directed evolution in enhancing enzyme properties?",
+        "A": "Limited knowledge of protein structure information",
+        "B": "High screening pressure",
+        "C": "Enhancing enzyme stability",
+        "D": "Improving enzyme activity",
+        "Answer": "A",
+        "Source": "The advantage of directed evolution lies in its ability to obtain desired enzyme variants with limited knowledge of protein structure information and catalytic mechanisms."
+    },
+    "Question_4": {
+        "Context": "Rational design approaches contribute to reducing screening costs in enzyme modification. What is a key factor influencing the success of rational design mentioned in the text?",
+        "Question": "What factor significantly influences the success of rational design in enzyme modification?",
+        "A": "Careful selection of mutation targets",
+        "B": "Random mutagenesis techniques",
+        "C": "Limited understanding of protein information",
+        "D": "Vast mutation library",
+        "Answer": "A",
+        "Source": "Their success is significantly influenced by the careful selection of mutation targets. This necessitates a thorough understanding and awareness of protein information by researchers."
+    },
+    "Question_5": {
+        "Context": "The mutation T237R resulted in an increased synthesis ratio of partial glycerides/triglycerides. What is the significance of this mutation mentioned in the text?",
+        "Question": "What effect does the T237R mutation have on lipid synthesis?",
+        "A": "Decreases synthesis ratio",
+        "B": "Increases synthesis ratio",
+        "C": "No impact on synthesis ratio",
+        "D": "Reduces enzyme activity",
+        "Answer": "B",
+        "Source": "Changes in hydrophobicity and steric hindrance contributed to a higher production of DAG over TAG. This highlights the significant potential of the T237R mutation as a mono- and diacylglycerol lipase."
+    },
+    "Question_6": {
+        "Context": "The mutation V453E exhibited a one-thousand-fold improvement in trans-over-cis selectivity. What was the key factor contributing to this improvement?",
+        "Question": "What factor contributed to the significant improvement in selectivity shown by the V453E mutation?",
+        "A": "Enhanced enzyme stability",
+        "B": "Reinforced electronic interaction",
+        "C": "Increased enzyme activity",
+        "D": "Reduced enzyme specificity",
+        "Answer": "B",
+        "Source": "The improvement was attributed to the reinforced electronic interaction between the enzyme\u2019s residues and the double bond of the substrate, thereby stabilizing the binding of elaidic acid in the channel."
+    },
+    "Question_7": {
+        "Context": "Disulfide bond 'stapling' has been shown to enhance enzyme thermal stability. What is a key benefit of enhancing enzyme thermal stability mentioned in the text?",
+        "Question": "What is a key benefit of enhancing enzyme thermal stability?",
+        "A": "Reduced biocatalytic efficiency",
+        "B": "Increased processing times",
+        "C": "Elevated energy consumption",
+        "D": "Improved biocatalytic efficiency",
+        "Answer": "D",
+        "Source": "More thermostable enzymes in the industry have shown benefits such as improved biocatalytic efficiency, shortened processing times, and ultimately reduced energy consumption."
+    },
+    "Question_8": {
+        "Context": "B-factor analysis has been used to enhance enzyme thermal stability. What does B-factor analysis help identify in enzymes?",
+        "Question": "What does B-factor analysis help identify in enzymes?",
+        "A": "Flexible protein regions",
+        "B": "Catalytic residues",
+        "C": "Enzyme activity",
+        "D": "Protein structure",
+        "Answer": "A",
+        "Source": "The amino acid residues crucial for thermal stability, often located in flexible protein regions, is achieved through B-factor analysis."
+    },
+    "Question_9": {
+        "Context": "Immobilization techniques aim to enhance biocatalyst stability. What is a common method used in enzyme immobilization mentioned in the text?",
+        "Question": "What is a common method used in enzyme immobilization to enhance biocatalyst stability?",
+        "A": "Adsorption",
+        "B": "Reduced stability",
+        "C": "Increased enzyme activity",
+        "D": "Enhanced recovery steps",
+        "Answer": "A",
+        "Source": "Immobilization techniques aim to anchor enzymes on solid supports, employing various methods such as adsorption, entrapment, covalent bonding, and cross-linking, to enhance biocatalyst stability."
+    },
+    "Question_10": {
+        "Context": "Whole-cell biocatalysts are transforming the field of biocatalysis for lipid modification. What is a key advantage of whole-cell biocatalysts mentioned in the text?",
+        "Question": "What is a key advantage of whole-cell biocatalysts in lipid modification?",
+        "A": "Reduced enzyme specificity",
+        "B": "Enhanced biocatalytic efficiency",
+        "C": "Decreased product separation",
+        "D": "Increased operational stability",
+        "Answer": "B",
+        "Source": "Diverse microorganisms exhibit the capability to biosynthesize fatty acids utilizing a range of raw materials. The evolution of synthetic biology has provided the means to construct microbial cell factories, serving as platforms for microbial synthesis, enabling the production of targeted compounds."
+    }
+}

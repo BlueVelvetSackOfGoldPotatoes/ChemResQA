@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Tobacco mosaic virus (TMV) is a plant pathogen that affects the quality and yield of crops. Certain compounds can exhibit antiviral activities against TMV, which can be measured by their inactivation, protective, and curative effects.",
+        "Question": "What class of natural compounds has been identified to have potential anti-TMV activities?",
+        "A": "Steroids",
+        "B": "Isocoumarins",
+        "C": "Carbohydrates",
+        "D": "Proteins",
+        "Answer": "B",
+        "Source": "Natural products are important potential sources of biopesticides for the prevention and treatment of TMV. This study focuses on the discovery of anti\u2011TMV active compounds from Aspergillus versicolor and investigates their activities against TMV."
+    },
+    "Question_2": {
+        "Context": "In the search for bioactive compounds, endophytic fungi like Aspergillus versicolor have been explored for their ability to produce secondary metabolites with various biological activities.",
+        "Question": "Which of the following secondary metabolites is NOT mentioned as being produced by Aspergillus species?",
+        "A": "Alkaloids",
+        "B": "Terpenoids",
+        "C": "Glycosides",
+        "D": "Isocoumarins",
+        "Answer": "C",
+        "Source": "Different endophytic Aspergillus species have proved their ability to produce plenty of secondary metabolites including butenolides, alkaloids, terpenoids, coumarin, cytochalasins, phenalenones, r-terphenyls, xanthones, sterols, diphenyl ether and anthraquinone derivatives with diverse biological activities."
+    },
+    "Question_3": {
+        "Context": "Isocoumarins are a type of secondary metabolite that can be isolated from various sources, including fungi. They can possess a range of biological activities.",
+        "Question": "Which structural feature is characteristic of isocoumarins?",
+        "A": "A benzene ring",
+        "B": "A pyridine ring",
+        "C": "A lactone ring",
+        "D": "An amino group",
+        "Answer": "C",
+        "Source": "In this study, four isocoumarins 7\u2011methoxy\u20113\u2011(2\u2011oxopropy)\u20115\u2011hydroxymethyl\u2011isocoumarin (1), 7\u2011methyl\u20113\u2011(2\u2011 oxopropy)\u20115\u2011hydroxymethyl\u2011isocoumarin (2), oryzaein A (4) and oryzaein B (5), two indole alkaloids aspergilline F (6) and aspergilline G (7), and one indole alkaloid and isocoumarin hybrid aspergillactone A (3) were isolated from Nicotiana tabacum\u2011derived A. versicolor YNCA0363."
+    },
+    "Question_4": {
+        "Context": "Indole alkaloids are a class of compounds that contain an indole ring, which is a bicyclic structure composed of a benzene ring fused to a pyrrole ring. They are known for their diverse pharmacological properties.",
+        "Question": "What is the basic structure of indole alkaloids?",
+        "A": "A benzene ring fused to a pyrrole ring",
+        "B": "A benzene ring fused to a pyridine ring",
+        "C": "A benzene ring attached to a lactone ring",
+        "D": "A benzene ring attached to an amino group",
+        "Answer": "A",
+        "Source": "Among them, compounds 1\u20133 are new isolates, compound 3 repre\u2011 sents the first example of indole alkaloid and isocoumarin connected by C(12)\u2011N(1\u2032) bond."
+    },
+    "Question_5": {
+        "Context": "The efficacy of compounds against TMV can be evaluated by their ability to inactivate the virus, protect plants from the virus, and cure infected plants.",
+        "Question": "What is the measure of a compound's ability to directly destroy viral particles?",
+        "A": "Protective efficacy",
+        "B": "Curative efficacy",
+        "C": "Inactivation efficacy",
+        "D": "Binding efficacy",
+        "Answer": "C",
+        "Source": "The inactivation efficacies for compounds 1, 2 and 3 were 58.9, 43.8 and 52.6% at the concentration of 50 \u03bcg/mL, respectively, which were significantly higher than that of positive control, ningnanmycin."
+    },
+    "Question_6": {
+        "Context": "Molecular docking is a computational technique used to predict the preferred orientation of one molecule to a second when bound to each other to form a stable complex.",
+        "Question": "What was the purpose of molecular docking in the context of TMV research?",
+        "A": "To predict the metabolic pathways of compounds",
+        "B": "To determine the binding ability of compounds to TMV-CP protein",
+        "C": "To assess the solubility of compounds in water",
+        "D": "To evaluate the toxicity of compounds to plants",
+        "Answer": "B",
+        "Source": "The results of molecular dock\u2011 ing showed that the binding ability of compounds 1, 3, 2 to TMV\u2011CP protein decreased in turn, which was consistent with the results of activities assays."
+    },
+    "Question_7": {
+        "Context": "Transmission electron microscopy (TEM) is a technique that allows for the visualization of small particles, such as viruses, at high resolution.",
+        "Question": "What was the role of TEM in the study of TMV?",
+        "A": "To determine the size of TMV particles",
+        "B": "To observe the morphological changes of TMV particles after treatment with a compound",
+        "C": "To identify the type of virus",
+        "D": "To measure the concentration of TMV in a sample",
+        "Answer": "B",
+        "Source": "Transmission electron microscopy (TEM) showed that compound 1 could directly destroy viral particles into small fragments."
+    },
+    "Question_8": {
+        "Context": "The chemical structure of compounds can be elucidated using various spectroscopic techniques, including nuclear magnetic resonance (NMR).",
+        "Question": "Which spectroscopic technique is used to determine the structure of organic compounds by observing the interaction of nuclear spins with an external magnetic field?",
+        "A": "Mass spectrometry",
+        "B": "Infrared spectroscopy",
+        "C": "Ultraviolet-visible spectroscopy",
+        "D": "Nuclear magnetic resonance spectroscopy",
+        "Answer": "D",
+        "Source": "One- and two-dimensional (1D and 2D) nuclear mag- netic resonance (NMR) spectroscopic data were recorded on a DRX-500 NMR spectrometer in CDCl3 with TMS serving as internal standard."
+    },
+    "Question_9": {
+        "Context": "The presence of specific functional groups in a molecule can be inferred from their characteristic absorption bands in the infrared (IR) spectrum.",
+        "Question": "Which IR absorption band is indicative of hydroxyl (OH) groups?",
+        "A": "Around 1700 cm\u22121",
+        "B": "Around 1600 cm\u22121",
+        "C": "Around 3400 cm\u22121",
+        "D": "Around 2900 cm\u22121",
+        "Answer": "C",
+        "Source": "The IR absorptions revealed the presence of hydroxyl (3409 cm\u22121), carbonyl (1735 cm\u22121), and aromatic or olefinic (1668 cm\u22121) functionalities."
+    },
+    "Question_10": {
+        "Context": "The efficacy of antiviral compounds can be assessed by their ability to reduce the levels of viral proteins in infected plants, which can be measured using western blot analysis.",
+        "Question": "In the context of TMV infection, what does a decrease in the band intensity of TMV-CP in a western blot analysis indicate?",
+        "A": "Increased viral replication",
+        "B": "Decreased efficacy of the antiviral compound",
+        "C": "Increased efficacy of the antiviral compound",
+        "D": "Unchanged viral protein levels",
+        "Answer": "C",
+        "Source": "The results indicated that compounds 1, 2 and 3 exhib- ited notable protective effects at a concentration of 50 \u03bcg/mL, with inhibition rates of 62.3% \u00b1 4.7, 48.6% \u00b1 3.2 and 54.5% \u00b1 4.5, respectively (Additional file 1: Fig. S12). These rates were better than that of ningnanmycin, which had an inhibition rate of 39.5% \u00b1 4.2."
+    }
+}

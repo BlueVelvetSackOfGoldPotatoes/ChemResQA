@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses a novel method for the detection of microRNA (miRNA) by integrating catalytic hairpin assembly (CHA) and primer exchange reaction (PER).",
+        "Question": "What is the significance of high-efficiency quantification of miRNAs according to the paper?",
+        "A": "It is not important for cancer diagnosis",
+        "B": "It is crucial for the diagnosis, prognosis, and treatment of cancers",
+        "C": "It has no impact on cancer research",
+        "D": "It is only relevant for basic research",
+        "Answer": "B",
+        "Source": "High-efficiency quantification of miRNAs is significant for the diagnosis, prognosis, and treatment of cancers."
+    },
+    "Question_2": {
+        "Context": "The paper describes a method for sensitive and label-free miRNA detection.",
+        "Question": "What is the detection scaffold in the method constructed from?",
+        "A": "Two DNA polymerases",
+        "B": "Two hairpin structure probes (H1 probe and H2 probe)",
+        "C": "Two RNA molecules",
+        "D": "Two enzymes",
+        "Answer": "B",
+        "Source": "The detection scaffold is constructed based on the hybridization between two hairpin structure probes (H1 probe and H2 probe)."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the working mechanism of the established approach for miRNA detection.",
+        "Question": "What is the role of the H2 probe in the detection scaffold?",
+        "A": "Initiating the PER process",
+        "B": "Inducing CHA for signal amplification",
+        "C": "Generating ThT-based label-free signal",
+        "D": "Binding with the target miRNA",
+        "Answer": "A",
+        "Source": "The liberated H2 probe works as a template to initiate the PER process under the cooperation of primer sequence and DNA polymerase."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the analytical performance of the established approach for miRNA detection.",
+        "Question": "What is the limit of detection of the proposed approach?",
+        "A": "100 pM",
+        "B": "1 nM",
+        "C": "100 aM",
+        "D": "1 pM",
+        "Answer": "C",
+        "Source": "The limit of detection was as low as 51 aM, which is comparable or superior to most of the established label-free miRNA detection approaches."
+    },
+    "Question_5": {
+        "Context": "The paper evaluates the specificity of the established approach for miRNA detection.",
+        "Question": "How does the proposed method perform in distinguishing target miRNA from interfering ones?",
+        "A": "It cannot distinguish between different miRNAs",
+        "B": "It effectively distinguishes target miRNA from interfering ones",
+        "C": "It fails to detect any miRNAs accurately",
+        "D": "It only detects a single type of miRNA",
+        "Answer": "B",
+        "Source": "The proposed method effectively distinguishes target miRNA from the interfering ones, indicating a high selectivity of the established approach."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the stability and repeatability of the established approach for miRNA detection.",
+        "Question": "What is the coefficient of variation (CV) value for the repeatability of the approach?",
+        "A": "1.5%",
+        "B": "2.76%",
+        "C": "5%",
+        "D": "10%",
+        "Answer": "B",
+        "Source": "The calculated CV (coefficient of variation) value from the result was 2.76%, implying a high repeatability of the approach."
+    },
+    "Question_7": {
+        "Context": "The paper describes the experimental section of the proposed method for miRNA detection.",
+        "Question": "What is the role of Thioflavin T (ThT) in the detection process?",
+        "A": "Initiating the PER process",
+        "B": "Generating fluorescence signals",
+        "C": "Binding with the target miRNA",
+        "D": "Inducing CHA for signal amplification",
+        "Answer": "B",
+        "Source": "The G-quadruplex, a unique secondary structure that is fold by G-rich sequence, may be recognized by the fluorescent dye Thioflavin T (ThT), which generates fluorescence signals."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the experimental optimization of the proposed method for miRNA detection.",
+        "Question": "What was the selected DNA polymerase concentration for the chain extension process?",
+        "A": "0.1 U/L",
+        "B": "0.5 U/L",
+        "C": "1 U/L",
+        "D": "2 U/L",
+        "Answer": "B",
+        "Source": "0.5 U/L DNA polymerase was selected to be applied in the following experiments."
+    },
+    "Question_9": {
+        "Context": "The paper evaluates the analytical performance of the proposed approach for miRNA detection.",
+        "Question": "What was the correlation coefficient between the ThT signal and the logarithmic concentrations of miRNA-21?",
+        "A": "0.8",
+        "B": "0.9",
+        "C": "0.95",
+        "D": "0.9912",
+        "Answer": "D",
+        "Source": "The correlation coefficient between the ThT signal and the logarithmic concentrations of miRNA-21 was 0.9912."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the experimental section of the proposed method for miRNA detection.",
+        "Question": "What was used to quantify miRNA-21 in clinical samples alongside the proposed approach?",
+        "A": "Western blotting",
+        "B": "ELISA",
+        "C": "qRT-PCR",
+        "D": "Immunohistochemistry",
+        "Answer": "C",
+        "Source": "Both the proposed approach and qRT-PCR method were utilized in quantifying miRNA-21 in these samples."
+    }
+}

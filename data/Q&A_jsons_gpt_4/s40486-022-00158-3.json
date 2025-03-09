@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Intrafascicular electrodes are used to connect the nervous system to external systems, enabling sensory feedback that can induce sensations in patients.",
+        "Question": "What is the primary use of intrafascicular electrodes in the context of nerve-based prostheses?",
+        "A": "To stimulate muscle contractions",
+        "B": "To connect the nervous system to external systems for sensory feedback",
+        "C": "To suppress the immune response in the nervous system",
+        "D": "To record the electrical activity of the heart",
+        "Answer": "B",
+        "Source": "To develop such prostheses, intrafascicular electrodes, a type of peripheral nerve interface, are essentially used to connect the nervous system and external systems. Through these electrodes, sensory feedback to induce sensations in patients is possible."
+    },
+    "Question_2": {
+        "Context": "For sensory feedback to evoke natural sensations, it is necessary to record nerve signals accurately to identify patterns of sensory signals.",
+        "Question": "Why is precise recording of nerve signals important for evoking natural sensations in sensory feedback applications?",
+        "A": "To increase the strength of the nerve signals",
+        "B": "To identify patterns of sensory signals in the nerve",
+        "C": "To stimulate the nerve at random intervals",
+        "D": "To reduce the cost of the prostheses",
+        "Answer": "B",
+        "Source": "To evoke natural sensations, precise recordings of nerve signals should precede sensory feedback, in order to identify patterns of sensory signals in the nerve and to mimic these patterns in stimulating the nerve."
+    },
+    "Question_3": {
+        "Context": "The Utah slanted electrode array (USEA) is an intrafascicular electrode known for its neural stimulation and recording capabilities, but it has limitations due to its rigid silicon-based structure.",
+        "Question": "What is a limitation of the Utah slanted electrode array (USEA) when applied to peripheral nerves?",
+        "A": "It is too flexible",
+        "B": "It is fabricated based on silicon and is rigid",
+        "C": "It cannot record neural signals",
+        "D": "It is made of organic materials",
+        "Answer": "B",
+        "Source": "Among several intrafascicular electrodes, the Utah slanted electrode array (USEA) is the only electrodes with proven neural stimulation and neural recording capabilities. However, the USEA is rigid and inflexible as it is fabricated based on silicon."
+    },
+    "Question_4": {
+        "Context": "Polydimethylsiloxane (PDMS) is a material used in the development of flexible penetrating microelectrode arrays (FPMAs) due to its flexible properties.",
+        "Question": "Why is PDMS used in the development of flexible penetrating microelectrode arrays (FPMAs)?",
+        "A": "Because it is a highly conductive metal",
+        "B": "Because it is a rigid material",
+        "C": "Because it is flexible and reduces immune responses",
+        "D": "Because it is a type of reactive ion",
+        "Answer": "C",
+        "Source": "We previously developed a polydimethylsiloxane (PDMS)-based flexible penetrating microelectrode array (FPMA) through MESM-based technology. Because the FPMA is based on flexible PDMS rather than silicon, it is flexible to fit the shape of the nerve and lowers the immune response."
+    },
+    "Question_5": {
+        "Context": "In the development of neural interfaces, the use of materials with excellent biocompatibility is crucial for in-vivo implantation.",
+        "Question": "Which material is coated on the neural interface device for its biocompatibility and is used for in-vivo implantation?",
+        "A": "Polyethylene glycol (PEG)",
+        "B": "Silicon",
+        "C": "Polydimethylsiloxane (PDMS)",
+        "D": "Parylene-C",
+        "Answer": "D",
+        "Source": "The integrated neural interface was coated with 2 \u03bcm thick Parylene-C, which has excellent biocompatibility, for implantation in in-vivo."
+    },
+    "Question_6": {
+        "Context": "The recording of neural signals requires a system that can minimize electromagnetic interference for accurate data acquisition.",
+        "Question": "What is used to minimize electromagnetic interferences during the recording of neural signals?",
+        "A": "A Faraday cage",
+        "B": "A high-frequency filter",
+        "C": "A silicon wafer",
+        "D": "A PDMS substrate",
+        "Answer": "A",
+        "Source": "After surgery, the rabbit was placed in a custom-made faraday cage to minimize electromagnetic interferences."
+    },
+    "Question_7": {
+        "Context": "To analyze recorded neural signals, certain software tools can be used to calculate the signal-to-noise ratio (SNR) and separate action potential units.",
+        "Question": "Which software can be used to analyze recorded neural signals and calculate the signal-to-noise ratio (SNR)?",
+        "A": "Microsoft Excel",
+        "B": "Adobe Photoshop",
+        "C": "Matlab",
+        "D": "AutoCAD",
+        "Answer": "C",
+        "Source": "The recorded neural signals were analyzed with commercial software Matlab and SPIKE 2."
+    },
+    "Question_8": {
+        "Context": "The signal-to-noise ratio (SNR) is an important measure in the analysis of neural signals, indicating the clarity of the signal.",
+        "Question": "What does a higher signal-to-noise ratio (SNR) indicate in the context of neural signal analysis?",
+        "A": "Lower clarity of the signal",
+        "B": "Higher amplitude of the noise",
+        "C": "Higher clarity of the signal",
+        "D": "Shorter duration of the action potentials",
+        "Answer": "C",
+        "Source": "The signal-to-noise ratio (SNR) was calculated using the following equation. SNR = averageofactionpotentialamplitude 2 \u00d7 standarddeviationofnoise"
+    },
+    "Question_9": {
+        "Context": "Neural signals can be categorized based on their response to stimuli, such as spontaneous neural signals and evoked neural signals.",
+        "Question": "What type of neural signals are generated in response to sensory stimulation?",
+        "A": "Spontaneous neural signals",
+        "B": "Evoked sensory neural signals",
+        "C": "Compound action potentials",
+        "D": "Muscle contraction signals",
+        "Answer": "B",
+        "Source": "After confirming the ability of the FPMA to record neural signals through spontaneous neural signal recording, we tried to record evoked neural signals generated by sensory stimulation."
+    },
+    "Question_10": {
+        "Context": "The recording of evoked sensory neural signals can provide insights into the relationship between neural activity and physical movements.",
+        "Question": "What was observed in the recorded neural signals in relation to ankle movement?",
+        "A": "A constant inter-spike interval",
+        "B": "A decrease in signal amplitude",
+        "C": "Different waveforms according to the angle of the ankle",
+        "D": "A constant frequency regardless of movement",
+        "Answer": "C",
+        "Source": "Also, depending on the angle of the ankle, the neural signals showed different waveforms. Two types of waveforms appeared alternately according to the ankle position."
+    }
+}

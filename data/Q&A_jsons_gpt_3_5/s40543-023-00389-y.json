@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the relationship between FUS mutations and the protein UBAP2L in the context of stress granule formation.",
+        "Question": "What is the primary protein associated with SG formation?",
+        "A": "FUS",
+        "B": "PRMT1",
+        "C": "UBAP2L",
+        "D": "eIF4G",
+        "Answer": "C",
+        "Source": "UBAP2L, which functions upstream of G3BP, has been shown to nucleate SGs in the presence of endoplasmic reticulum stress, oxidative stress, and heat stress."
+    },
+    "Question_2": {
+        "Context": "The study explored the impact of FUS R521C expression on UBAP2L methylation.",
+        "Question": "What effect did FUS R521C expression have on the methylation of UBAP2L?",
+        "A": "Increased methylation",
+        "B": "No effect on methylation",
+        "C": "Reduced methylation",
+        "D": "Changed the type of methylation",
+        "Answer": "C",
+        "Source": "We discovered that me-UBAP2L was reduced in FUS R521C compared to FUS WT, implying that FUS R521C disrupts UBAP2L methylation."
+    },
+    "Question_3": {
+        "Context": "The study examined the impact of PRMT1 knockdown on FUS R521C-positive SGs.",
+        "Question": "What was the effect of PRMT1 knockdown on FUS R521C-positive SGs?",
+        "A": "Decreased SG formation",
+        "B": "No effect on SG formation",
+        "C": "Increased SG formation",
+        "D": "Changed the composition of SGs",
+        "Answer": "C",
+        "Source": "When PRMT1 function was inhibited with siPRMT1, FUS R521C/UBAP2L-positive SGs increased more than siNC, indicating that PRMT1 controls FUS R521C-positive SGs."
+    },
+    "Question_4": {
+        "Context": "The study investigated the relationship between FUS R521C and PRMT1.",
+        "Question": "Which protein had a stronger interaction with FUS R521C compared to FUS WT?",
+        "A": "PRMT1",
+        "B": "UBAP2L",
+        "C": "eIF4G",
+        "D": "G3BP",
+        "Answer": "A",
+        "Source": "Interestingly, UBAP2L was found to be more strongly associated and pulled down with FUS R521C than with FUS WT."
+    },
+    "Question_5": {
+        "Context": "The study focused on the cellular localization of FUS and UBAP2L under oxidative stress conditions.",
+        "Question": "Where were FUS and UBAP2L mostly found in the absence of oxidative stress?",
+        "A": "Nucleus",
+        "B": "Cytoplasm",
+        "C": "Mitochondria",
+        "D": "Endoplasmic reticulum",
+        "Answer": "A",
+        "Source": "In the absence of oxidative stress (DW), in both FUS WT and FUS R521C, FUS was mostly found in the nucleus."
+    },
+    "Question_6": {
+        "Context": "The study examined the ultrastructure of cytoplasmic stress granules under different conditions.",
+        "Question": "What was observed in the perinuclear cytoplasmic area of cells after stress treatment?",
+        "A": "Mitochondria",
+        "B": "Endoplasmic reticulum",
+        "C": "Stress granules",
+        "D": "Lysosomes",
+        "Answer": "C",
+        "Source": "Stress granules, on the other hand, were observed in the perinuclear cytoplasmic area of the cells after SA treatment."
+    },
+    "Question_7": {
+        "Context": "The study investigated the relationship between PRMT1 and UBAP2L.",
+        "Question": "What was the result of immunoprecipitation with an anti-HA antibody in relation to PRMT1 and UBAP2L?",
+        "A": "No interaction observed",
+        "B": "PRMT1 and UBAP2L interacted",
+        "C": "UBAP2L dissociated from PRMT1",
+        "D": "UBAP2L was degraded",
+        "Answer": "B",
+        "Source": "As a result, it was discovered that HA-UBAP2L and PRMT1 interact."
+    },
+    "Question_8": {
+        "Context": "The study examined the impact of PRMT1 knockdown on arginine methylation of UBAP2L.",
+        "Question": "What was the effect of PRMT1 knockdown on the arginine methylation of UBAP2L?",
+        "A": "Increased methylation",
+        "B": "No effect on methylation",
+        "C": "Reduced methylation",
+        "D": "Changed the type of methylation",
+        "Answer": "C",
+        "Source": "This data revealed that siPRMT1 reduced the arginine methylation of HA-UBAP2L."
+    },
+    "Question_9": {
+        "Context": "The study explored the relationship between FUS R521C and UBAP2L methylation.",
+        "Question": "What was the observed effect of FUS R521C expression on UBAP2L methylation?",
+        "A": "Increased methylation",
+        "B": "No effect on methylation",
+        "C": "Reduced methylation",
+        "D": "Changed the type of methylation",
+        "Answer": "C",
+        "Source": "We discovered that me-UBAP2L was reduced in FUS R521C compared to FUS WT, implying that FUS R521C disrupts UBAP2L methylation."
+    },
+    "Question_10": {
+        "Context": "The study focused on the formation of FUS R521C-positive SGs under different conditions.",
+        "Question": "What was the observed effect of PRMT1 knockdown on FUS R521C-positive SGs?",
+        "A": "Decreased SG formation",
+        "B": "No effect on SG formation",
+        "C": "Increased SG formation",
+        "D": "Changed the composition of SGs",
+        "Answer": "C",
+        "Source": "When PRMT1 function was inhibited with siPRMT1, FUS R521C/UBAP2L-positive SGs increased more than siNC, indicating that PRMT1 controls FUS R521C-positive SGs."
+    }
+}

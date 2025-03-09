@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Ultrasound-assisted extraction (UAE) is a method used to extract compounds from various materials. It involves the use of ultrasonic waves to create cavitation bubbles in a solvent, which when collapsed, can disrupt cell walls and enhance the release of target compounds.",
+        "Question": "What is the optimal ultrasonication time for maximum oil recovery from rainbow trout intestines using UAE?",
+        "A": "5 minutes",
+        "B": "15 minutes",
+        "C": "30 minutes",
+        "D": "60 minutes",
+        "Answer": "C",
+        "Source": "The oil extraction efficiency was 43.5% at 5 min of ultrasonication time, and the highest extraction yield of 46.5% was obtained at 30 min."
+    },
+    "Question_2": {
+        "Context": "In the context of oil extraction, the peroxide value (POV) is a measure of the extent to which the oil has undergone primary oxidation, which is an indicator of the oil's freshness and quality.",
+        "Question": "Which adsorbent exhibited the highest efficiency for the elimination of peroxides from extracted oil?",
+        "A": "Activated charcoal",
+        "B": "Silica gel",
+        "C": "Aluminum oxide",
+        "D": "Bentonite clay",
+        "Answer": "B",
+        "Source": "The analysis indicated that silica gel exhibited the highest efficiency as an adsorbent for the elimination of peroxides from extracted oil."
+    },
+    "Question_3": {
+        "Context": "Antioxidants are often added to oils to prevent oxidation, which can degrade the quality of the oil. Natural antioxidants are preferred over synthetic ones due to safety concerns.",
+        "Question": "Which natural antioxidant was found to be a less-costly alternative to pure antioxidants like tannic acid and gallic acid for oil preservation?",
+        "A": "Rosemary extract",
+        "B": "Aronia (black chokeberry) powder",
+        "C": "Vitamin E",
+        "D": "Green tea leaves extract",
+        "Answer": "B",
+        "Source": "Overall, this study revealed that Aronia has the potential to serve as a natural, less-costly antioxidant alternative to pure antioxidants, such as tannic acid and gallic acid."
+    },
+    "Question_4": {
+        "Context": "Fatty acids are classified into different types based on their chemical structure. Polyunsaturated fatty acids (PUFAs) are one type that includes essential fatty acids like omega-3 and omega-6, which are important for human health.",
+        "Question": "What is the significance of the ratio of omega-6 to omega-3 fatty acids in fish oil?",
+        "A": "It determines the oil's resistance to rancidity",
+        "B": "It indicates the oil's viscosity",
+        "C": "It is an indicator of the nutritional value of the oil",
+        "D": "It measures the oil's peroxide value",
+        "Answer": "C",
+        "Source": "The ratio of \u03c9-6 to \u03c9-3 FAs is commonly used as an indicator of the nutritional value of fish oil."
+    },
+    "Question_5": {
+        "Context": "The process of transesterification is used to convert fats and oils into their corresponding fatty acid methyl esters (FAMEs), which are more suitable for analysis by gas chromatography.",
+        "Question": "What is the purpose of acid-catalyzed transesterification in the analysis of fatty acids in lipids?",
+        "A": "To increase the boiling point of fatty acids",
+        "B": "To convert fatty acids into their methyl esters",
+        "C": "To reduce the peroxide value of fatty acids",
+        "D": "To separate saturated fatty acids from unsaturated ones",
+        "Answer": "B",
+        "Source": "The FAs in the lipids were chemically transformed into their fatty acid methyl esters (FAMEs) using acid-catalyzed transesterification."
+    },
+    "Question_6": {
+        "Context": "In the context of oil extraction, the addition of salt can influence the separation process by affecting the specific gravity between the oil and the aqueous phase.",
+        "Question": "What effect does the addition of salt have on oil recovery during the extraction process?",
+        "A": "It decreases the specific gravity difference between the oil and aqueous phase",
+        "B": "It increases the emulsification of oil",
+        "C": "It helps separate oil from emulsion by increasing the specific gravity difference",
+        "D": "It has no effect on the oil recovery process",
+        "Answer": "C",
+        "Source": "Werman and Neeman [50] found that adding salt to the extraction process can help separate oil from emulsion and increase the difference in specific gravity between the oil and the aqueous phase."
+    },
+    "Question_7": {
+        "Context": "The moisture content of oil samples is an important quality parameter that needs to be minimized to improve the stability and shelf life of the oil.",
+        "Question": "What was the effect of the purification process on the moisture content (MC) of the oil samples?",
+        "A": "It increased the MC",
+        "B": "It decreased the MC to zero",
+        "C": "It had no effect on the MC",
+        "D": "It caused the MC to fluctuate unpredictably",
+        "Answer": "B",
+        "Source": "The purification process decreased the MC of the oil samples to zero."
+    },
+    "Question_8": {
+        "Context": "Gas chromatography\u2013mass spectrometry (GC\u2013MS) is a technique used to identify and quantify compounds within a sample. It is particularly useful for analyzing volatile and semi-volatile organic compounds.",
+        "Question": "What was the purpose of using GC\u2013MS in the analysis of the extracted oil?",
+        "A": "To determine the moisture content of the oil",
+        "B": "To identify and quantify fatty acids and other organic compounds",
+        "C": "To measure the peroxide value of the oil",
+        "D": "To assess the viscosity of the oil",
+        "Answer": "B",
+        "Source": "Organic compounds in the extracted oil were identified by diluting 0.2 g of the oil in MTBE. FAs and other organic compounds were analyzed by gas chromatography\u2013mass spectrometry (GC\u2013MS)."
+    },
+    "Question_9": {
+        "Context": "The acid value (AV) is a measure of the amount of free fatty acids present in fats and oils. It is an important quality parameter for oils, indicating the degree of hydrolysis and potential rancidity.",
+        "Question": "What is the significance of measuring the acid value (AV) in oil samples?",
+        "A": "To determine the oil's resistance to oxidation",
+        "B": "To assess the oil's color quality",
+        "C": "To evaluate the degree of hydrolysis and potential rancidity",
+        "D": "To measure the oil's boiling point",
+        "Answer": "C",
+        "Source": "Determination of the free fatty acid (FFA) content and AV of the trout oil samples was carried out using the procedure outlined by Seaborn et al."
+    },
+    "Question_10": {
+        "Context": "The use of ultrasound in extraction processes can lead to the degradation of soluble constituents if the ultrasonication is prolonged beyond the optimal time.",
+        "Question": "What is the consequence of extending ultrasonication time beyond the point of equilibrium in ultrasound-assisted extraction?",
+        "A": "It increases the extraction yield indefinitely",
+        "B": "It decreases the mass transfer rate and oil recovery",
+        "C": "It has no effect on the extraction yield",
+        "D": "It increases the moisture content of the oil",
+        "Answer": "B",
+        "Source": "After reaching equilibrium, the oil recovery decreases due to a decrease in the mass transfer rate between the oil and the medium."
+    }
+}

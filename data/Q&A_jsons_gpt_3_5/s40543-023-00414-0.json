@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study evaluates the efficacy of different dimensionality reduction techniques in single-cell RNA sequencing data analysis.",
+        "Question": "What is the primary focus of the Mantel test in this study?",
+        "A": "Assessing the computational efficiency of the techniques",
+        "B": "Evaluating the preservation of pairwise relationships between cells in the original and reduced spaces",
+        "C": "Measuring the classification accuracy of the K-nearest neighbor algorithm",
+        "D": "Determining the trustworthiness and continuity of the dimensionality reduction techniques",
+        "Answer": "B",
+        "Source": "The Mantel test can be utilized along with the Pearson Correlation Coefficient (PCC) to evaluate the preservation of pairwise relationships between cells in the original HDS and their LDS representations."
+    },
+    "Question_2": {
+        "Context": "The study compares the performance of different dimensionality reduction techniques in preserving local and global structures in single-cell RNA sequencing data.",
+        "Question": "What is the purpose of the Matthew's correlation coefficient in this study?",
+        "A": "Assessing the computational efficiency of the techniques",
+        "B": "Evaluating the preservation of pairwise relationships between cells in the original and reduced spaces",
+        "C": "Measuring the classification accuracy of the K-nearest neighbor algorithm",
+        "D": "Determining the trustworthiness and continuity of the dimensionality reduction techniques",
+        "Answer": "C",
+        "Source": "The MCC is a widely utilized performance metric for assessing prediction precision in multi-class classification tasks."
+    },
+    "Question_3": {
+        "Context": "The study explores the runtime efficiency of various dimensionality reduction techniques in single-cell RNA sequencing data analysis.",
+        "Question": "What is the main focus of the Trustworthiness and Continuity metrics in this study?",
+        "A": "Assessing the computational efficiency of the techniques",
+        "B": "Evaluating the preservation of pairwise relationships between cells in the original and reduced spaces",
+        "C": "Measuring the classification accuracy of the K-nearest neighbor algorithm",
+        "D": "Determining the fidelity of local and global structures in the reduced-dimensional representations",
+        "Answer": "D",
+        "Source": "TW and CN play a crucial role in validating and selecting appropriate DR techniques for scRNA-seq data analysis."
+    },
+    "Question_4": {
+        "Context": "The study investigates the necessity of compactness preservation in the dimensionality reduction of single-cell RNA sequencing data.",
+        "Question": "What does the CP-PaCMAP algorithm aim to achieve in terms of data visualization?",
+        "A": "Preserve both local and global structures",
+        "B": "Maximize computational efficiency",
+        "C": "Focus solely on global structures",
+        "D": "Ignore compactness preservation",
+        "Answer": "A",
+        "Source": "Its ability to preserve both local and global structures, coupled with its enhanced computational efficiency, positions CP-PaCMAP as a promising tool for researchers seeking to gain deeper insights into cellular heterogeneity."
+    },
+    "Question_5": {
+        "Context": "The study discusses the application of different dimensionality reduction techniques in analyzing scRNA-seq data from various tissues.",
+        "Question": "What is the significance of the Matthew's correlation coefficient in assessing classification performance?",
+        "A": "It measures the computational efficiency of the techniques",
+        "B": "It evaluates the preservation of pairwise relationships between cells",
+        "C": "It quantifies the accuracy of the K-nearest neighbor algorithm",
+        "D": "It provides a comprehensive indicator of the classifier's predictive performance",
+        "Answer": "D",
+        "Source": "The MCC is a valuable metric in the context of multi-class classification tasks due to its ability to consider the disparities in class distributions."
+    },
+    "Question_6": {
+        "Context": "The study presents a comparison of different dimensionality reduction techniques in maintaining structural integrity in single-cell RNA sequencing data.",
+        "Question": "What is the primary focus of the Trustworthiness and Continuity metrics in this study?",
+        "A": "Assess the computational efficiency of the techniques",
+        "B": "Evaluate the preservation of pairwise relationships between cells",
+        "C": "Measure the classification accuracy of the K-nearest neighbor algorithm",
+        "D": "Validate and select appropriate DR techniques based on structural fidelity",
+        "Answer": "D",
+        "Source": "TW and CN play a crucial role in validating and selecting appropriate DR techniques for scRNA-seq data analysis."
+    },
+    "Question_7": {
+        "Context": "The study highlights the importance of runtime efficiency in dimensionality reduction techniques applied to scRNA-seq data analysis.",
+        "Question": "What is the focus of the Mantel test in evaluating the performance of DR techniques?",
+        "A": "Assessing the computational efficiency of the techniques",
+        "B": "Evaluating the preservation of pairwise relationships between cells in the original and reduced spaces",
+        "C": "Measuring the classification accuracy of the K-nearest neighbor algorithm",
+        "D": "Determining the trustworthiness and continuity of the dimensionality reduction techniques",
+        "Answer": "B",
+        "Source": "The Mantel test can be utilized along with the Pearson Correlation Coefficient (PCC) to evaluate the preservation of pairwise relationships between cells in the original HDS and their LDS representations."
+    },
+    "Question_8": {
+        "Context": "The study investigates the impact of different dimensionality reduction techniques on preserving local and global structures in single-cell RNA sequencing data.",
+        "Question": "What is the role of the Matthew's correlation coefficient in assessing the performance of classification algorithms?",
+        "A": "Assessing the computational efficiency of the techniques",
+        "B": "Evaluating the preservation of pairwise relationships between cells in the original and reduced spaces",
+        "C": "Measuring the classification accuracy of the K-nearest neighbor algorithm",
+        "D": "Providing a comprehensive indicator of the classifier's predictive performance",
+        "Answer": "D",
+        "Source": "The MCC is a widely utilized performance metric for assessing prediction precision in multi-class classification tasks."
+    },
+    "Question_9": {
+        "Context": "The study discusses the importance of trustworthiness and continuity metrics in evaluating the performance of dimensionality reduction techniques in single-cell RNA sequencing data analysis.",
+        "Question": "What is the primary focus of the Trustworthiness and Continuity metrics in this study?",
+        "A": "Assessing the computational efficiency of the techniques",
+        "B": "Evaluating the preservation of pairwise relationships between cells in the original and reduced spaces",
+        "C": "Measuring the classification accuracy of the K-nearest neighbor algorithm",
+        "D": "Determining the fidelity of local and global structures in the reduced-dimensional representations",
+        "Answer": "D",
+        "Source": "TW and CN play a crucial role in validating and selecting appropriate DR techniques for scRNA-seq data analysis."
+    },
+    "Question_10": {
+        "Context": "The study explores the runtime efficiency of various dimensionality reduction techniques in single-cell RNA sequencing data analysis.",
+        "Question": "What is the main focus of the Trustworthiness and Continuity metrics in this study?",
+        "A": "Assessing the computational efficiency of the techniques",
+        "B": "Evaluating the preservation of pairwise relationships between cells in the original and reduced spaces",
+        "C": "Measuring the classification accuracy of the K-nearest neighbor algorithm",
+        "D": "Determining the fidelity of local and global structures in the reduced-dimensional representations",
+        "Answer": "D",
+        "Source": "TW and CN play a crucial role in validating and selecting appropriate DR techniques for scRNA-seq data analysis."
+    }
+}

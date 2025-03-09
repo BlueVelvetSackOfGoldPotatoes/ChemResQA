@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the physicochemical changes in cold mix asphalts during curing and transitioning to different simulated seasons.",
+        "Question": "What was the main focus of the tests carried out in the study?",
+        "A": "Assessing the influence of weather on curing",
+        "B": "Evaluating the mechanical behavior of the mix using oedometer tests",
+        "C": "Studying the physicochemical evolutions of extracted binders",
+        "D": "Comparing hot mix and cold mix asphalt properties",
+        "Answer": "A",
+        "Source": "Several tests were carried out in order to better grasp the influence of the weather (temperature and humidity) on the curing of such materials."
+    },
+    "Question_2": {
+        "Context": "The study focuses on the characteristics of emulsion cold mix asphalt samples.",
+        "Question": "What is the main purpose of using cold mix asphalts compared to hot mix asphalts?",
+        "A": "To reduce energy consumption during manufacturing",
+        "B": "To improve pavement durability",
+        "C": "To increase the speed of curing",
+        "D": "To enhance the ecological sustainability of road repair",
+        "Answer": "A",
+        "Source": "Contrary to hot mix asphalts which are manufactured at 160 \u00b0C, cold mix asphalts process requires emulsified bitumen and cold and wet rocks, saving energy to heat it up and preventing fumes generation."
+    },
+    "Question_3": {
+        "Context": "The study discusses the behavior of cold mix asphalts during curing.",
+        "Question": "What was observed in terms of the mix and binder behavior with varying temperature and humidity?",
+        "A": "Stiffening of the mix and binder aging at higher temperature and lower humidity",
+        "B": "Softening of the mix and binder aging at lower temperature and higher humidity",
+        "C": "No change in mix behavior with varying temperature and humidity",
+        "D": "Decrease in stiffness of the mix and binder aging at higher temperature and higher humidity",
+        "Answer": "A",
+        "Source": "The results show stiffening of the mix and aging of the binder linked to a higher temperature and a lower humidity."
+    },
+    "Question_4": {
+        "Context": "The study includes testing the mechanical behavior of the samples using oedometer tests.",
+        "Question": "What was the purpose of evaluating the mechanical behavior of the mix using oedometer tests?",
+        "A": "To measure the stiffness of the non-cohesive material",
+        "B": "To determine the stress-strain relationship of the mix",
+        "C": "To assess the impact of temperature on the mix",
+        "D": "To calculate the void content of the samples",
+        "Answer": "A",
+        "Source": "This technique uses cyclic compression of a specimen that is set in a cylindrical mold to calculate the stiffness of a non-cohesive material."
+    },
+    "Question_5": {
+        "Context": "The study discusses the rheological evolution of the binder extracted from cold mix asphalt samples.",
+        "Question": "What trend was observed in the shear modulus of the binder during warm and cold curing conditions?",
+        "A": "Shear modulus increased during warm conditions and decreased during cold conditions",
+        "B": "Shear modulus decreased during warm conditions and increased during cold conditions",
+        "C": "Shear modulus remained constant during both warm and cold conditions",
+        "D": "Shear modulus showed no significant change during either warm or cold conditions",
+        "Answer": "A",
+        "Source": "Warm and dry temperature-moisture parameters increase the stiffness of the material and its binder aging, while cold temperature and high moisture parameters result in a stagnation of the stiffness moduli."
+    },
+    "Question_6": {
+        "Context": "The study discusses the glass transition and crystallized fractions of the extracted binders.",
+        "Question": "What was observed regarding the glass transition temperature and crystallized fractions during the curing process?",
+        "A": "Significant changes in glass transition temperature and crystallized fractions",
+        "B": "Stable glass transition temperature and crystallized fractions",
+        "C": "Decrease in glass transition temperature and increase in crystallized fractions",
+        "D": "Increase in glass transition temperature and decrease in crystallized fractions",
+        "Answer": "B",
+        "Source": "The glass transition and the crystallized fractions do not significantly change during the whole curing process."
+    },
+    "Question_7": {
+        "Context": "The study discusses the oxidation levels of the extracted binders.",
+        "Question": "How did the oxidation levels of the binders change during warm and cold curing conditions?",
+        "A": "Oxidation levels increased during warm conditions and remained constant during cold conditions",
+        "B": "Oxidation levels increased during both warm and cold conditions",
+        "C": "Oxidation levels remained constant during both warm and cold conditions",
+        "D": "Oxidation levels decreased during warm conditions and increased during cold conditions",
+        "Answer": "A",
+        "Source": "During warm period, the carbonyl and sulfoxide oxidation indexes significantly increase with time. During cold period, they tend to be constant which shows that there is no oxidation mechanism during a cold weather."
+    },
+    "Question_8": {
+        "Context": "The study compares the mix mechanical behavior with the physicochemical evolution of the extracted binder.",
+        "Question": "What conclusion can be drawn regarding the relationship between the mix and binder behavior during curing?",
+        "A": "The mix behavior is entirely explained by the binder behavior",
+        "B": "The binder behavior does not entirely explain the mix behavior",
+        "C": "The mix and binder behavior are not related",
+        "D": "The mix behavior is independent of the curing conditions",
+        "Answer": "B",
+        "Source": "The binder evolution does not entirely explain the mix evolution. Other physicochemical processes are to be taken into account to completely understand this type of materials."
+    },
+    "Question_9": {
+        "Context": "The study discusses the comparison between different curing parameters.",
+        "Question": "What was observed in terms of the stiffness evolution of the mix and binder during warm and cold curing conditions?",
+        "A": "Stiffening of the mix and binder during warm conditions, and stagnation during cold conditions",
+        "B": "Softening of the mix and binder during cold conditions, and stiffening during warm conditions",
+        "C": "No change in stiffness of the mix and binder during either warm or cold conditions",
+        "D": "Decrease in stiffness of the mix and binder during warm conditions, and increase during cold conditions",
+        "Answer": "A",
+        "Source": "Warm and dry temperature-moisture parameters increase the stiffness of the material and its binder aging, while cold temperature and high moisture parameters result in a stagnation of the stiffness moduli."
+    },
+    "Question_10": {
+        "Context": "The study discusses the coefficients between the final and initial moduli of the mix and binder.",
+        "Question": "What do the coefficients between the final and initial moduli indicate about the stiffness evolution of the mix and binder?",
+        "A": "A coefficient close to 1 indicates no significant change in stiffness, below 1 indicates a decrease, and above 1 indicates an increase",
+        "B": "A coefficient close to 1 indicates a decrease in stiffness, below 1 indicates no significant change, and above 1 indicates an increase",
+        "C": "A coefficient close to 1 indicates an increase in stiffness, below 1 indicates no significant change, and above 1 indicates a decrease",
+        "D": "A coefficient close to 1 indicates an increase in stiffness, below 1 indicates a decrease, and above 1 indicates no significant change",
+        "Answer": "A",
+        "Source": "These coefficients can help to understand at what amount the stiffness increased: if the coefficient is close to 1, then the modulus did not evolve significantly; if the coefficient is lower than 0, the modulus decreased with time; finally if the coefficient is higher than 1 then the stiffness improved."
+    }
+}

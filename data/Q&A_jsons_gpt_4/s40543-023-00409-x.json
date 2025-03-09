@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Staphylococcus aureus is a bacterium that can cause a range of illnesses from minor infections to life-threatening diseases. It is important to have methods for its detection and isolation.",
+        "Question": "What is the significance of developing rapid and reliable technologies for the detection and identification of Staphylococcus aureus?",
+        "A": "To improve agricultural yield",
+        "B": "To enhance the early identification and treatment of infectious illnesses",
+        "C": "To increase the speed of computer processors",
+        "D": "To advance space exploration technologies",
+        "Answer": "B",
+        "Source": "The ability to quickly and accurately analyze Staphylococcus aureus (S. aureus) and isolate the bacteria in a simplified setting is crucial for the early identification and treatment of infectious illnesses."
+    },
+    "Question_2": {
+        "Context": "In the context of molecular biology, rolling circle amplification is a process that can amplify DNA with a repetitive sequence.",
+        "Question": "What is the purpose of using rolling circle amplification in the context of detecting Staphylococcus aureus?",
+        "A": "To decrease the sensitivity of detection",
+        "B": "To reduce the cost of DNA sequencing",
+        "C": "To build a detection scaffold with a repetitive functional hairpin structure",
+        "D": "To simplify the protein synthesis process",
+        "Answer": "C",
+        "Source": "This technique uses a rolling circle amplification procedure to build a detection scaffold with a repetitive functional hairpin structure that, upon identifying S. aureus, can launch a catalytic hairpin assembly-mediated DNAzyme-based cascade signal amplification."
+    },
+    "Question_3": {
+        "Context": "Catalytic hairpin assembly is a technique used in molecular biology for signal amplification.",
+        "Question": "What role does catalytic hairpin assembly play in the detection of Staphylococcus aureus?",
+        "A": "It decreases the specificity of the detection method",
+        "B": "It is used to reduce the detection time",
+        "C": "It serves as a method for DNA repair",
+        "D": "It enhances the sensitivity of the detection technique",
+        "Answer": "D",
+        "Source": "This technique uses a rolling circle amplification procedure to build a detection scaffold with a repetitive functional hairpin structure that, upon identifying S. aureus, can launch a catalytic hairpin assembly-mediated DNAzyme-based cascade signal amplification."
+    },
+    "Question_4": {
+        "Context": "Aptamers are oligonucleotide sequences that can bind to specific targets with high affinity and specificity.",
+        "Question": "What is the function of aptamers in the context of detecting Staphylococcus aureus?",
+        "A": "To catalyze the breakdown of bacterial cell walls",
+        "B": "To serve as a nutrient source for bacteria",
+        "C": "To bind to protein A with high affinity and specificity",
+        "D": "To inhibit the replication of bacterial DNA",
+        "Answer": "C",
+        "Source": "The Protein A aptamer is a short oligonucleotide sequence discovered through in vitro screening that can bind to protein A with high affinity and specificity by forming a unique molecular conformation."
+    },
+    "Question_5": {
+        "Context": "DNAzymes are catalytic DNA molecules that can cleave substrates in the presence of specific ions.",
+        "Question": "What is the role of DNAzymes in the detection scaffold for Staphylococcus aureus?",
+        "A": "To suppress the immune response",
+        "B": "To cleave reporter probes and release fluorescent signals",
+        "C": "To facilitate the adhesion of bacteria to surfaces",
+        "D": "To enhance the growth rate of bacterial cultures",
+        "Answer": "B",
+        "Source": "The CHA product\u2019s DNAzyme fragments can cleave reporter probes, hence releasing fluorescent signals."
+    },
+    "Question_6": {
+        "Context": "Fluorescent dyes like SYBR Green I are used to bind to specific structures of DNA and signal the presence of these structures.",
+        "Question": "What does an increased SYBR Green I signal indicate in the context of a detection scaffold for Staphylococcus aureus?",
+        "A": "Presence of single-stranded RNA",
+        "B": "Degradation of the DNA scaffold",
+        "C": "Generation of a large quantity of double-stranded DNA",
+        "D": "Inhibition of DNA polymerase activity",
+        "Answer": "C",
+        "Source": "As can be seen in Fig. 2A, B, a large quantity of dsDNA (stem) was generated in the detection scaffold group, as evidenced by the SYBR Green I signal being noticeably greater in this group."
+    },
+    "Question_7": {
+        "Context": "In molecular detection techniques, the limit of detection (LOD) is an important measure of the method's sensitivity.",
+        "Question": "What is the limit of detection for Staphylococcus aureus using the described detection method?",
+        "A": "21 cfu/mL",
+        "B": "100 cfu/mL",
+        "C": "1.00 \u00d7 107 cfu/mL",
+        "D": "5.00 \u00d7 103 cfu/mL",
+        "Answer": "A",
+        "Source": "The approach has a low limit of detection of 21 cfu/mL and a broad detection range of six orders of magnitude due to the inclusion of the catalytic hairpin assembly for signal amplification."
+    },
+    "Question_8": {
+        "Context": "Selectivity is a measure of a detection method's ability to specifically identify the target of interest in the presence of other similar substances.",
+        "Question": "Why does the described method exhibit high selectivity for Staphylococcus aureus?",
+        "A": "Due to the high temperature used during detection",
+        "B": "Because of the strong binding between the aptamer and the bacteria of interest",
+        "C": "Owing to the use of broad-spectrum antibiotics in the assay",
+        "D": "Because it uses a universal bacterial detection probe",
+        "Answer": "B",
+        "Source": "The method\u2019s great selectivity originates from the strong binding between the aptamer and the bacteria of interest."
+    },
+    "Question_9": {
+        "Context": "In molecular biology, the incubation time can affect the efficiency of certain reactions, such as signal amplification.",
+        "Question": "What is the optimal incubation time for the signal amplification process in the detection of Staphylococcus aureus?",
+        "A": "5 minutes",
+        "B": "15 minutes",
+        "C": "30 minutes",
+        "D": "60 minutes",
+        "Answer": "D",
+        "Source": "Figure 3A shows that after 60 min (minute) of incubation, the fluorescent signal had increased significantly."
+    },
+    "Question_10": {
+        "Context": "Centrifugation is a process used to separate components in a mixture, which can be crucial for isolating specific targets like bacteria.",
+        "Question": "What centrifugation speed was found to be optimal for the isolation of Staphylococcus aureus using the described method?",
+        "A": "3000 rpm",
+        "B": "4000 rpm",
+        "C": "5000 rpm",
+        "D": "6000 rpm",
+        "Answer": "C",
+        "Source": "5000 rpm was chosen for further testing because it is shown in Fig. 3B to produce the highest fluorescence enhancement."
+    }
+}

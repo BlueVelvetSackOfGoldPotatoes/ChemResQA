@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Monoamine oxidases (MAOs) are enzymes that catalyze the oxidative deamination of monoamines and are found in the outer mitochondrial membrane. They are involved in the regulation of neurotransmitter levels and are linked to various neurological disorders when their levels are altered.",
+        "Question": "Where are monoamine oxidases (MAOs) located within the cell?",
+        "A": "Nucleus",
+        "B": "Outer mitochondrial membrane",
+        "C": "Endoplasmic reticulum",
+        "D": "Cytoplasm",
+        "Answer": "B",
+        "Source": "The FAD-dependent enzyme monoamine oxidase (MAO) is located in the outer mitochondrial membrane."
+    },
+    "Question_2": {
+        "Context": "Monoamine oxidases have two isoforms, MAO-A and MAO-B, which vary in their tissue distribution and substrate-inhibitor recognition sites, despite having many sequence similarities.",
+        "Question": "How many isoforms do monoamine oxidases have?",
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four",
+        "Answer": "B",
+        "Source": "The enzyme has two isoforms: MAO-A and MAO-B."
+    },
+    "Question_3": {
+        "Context": "Monoamine oxidases play a crucial role in the metabolism of neurotransmitters such as adrenaline, noradrenaline, dopamine, -phenylethylamine, and benzylamine by catalyzing the oxidative deamination of a variety of monoamines.",
+        "Question": "Which neurotransmitter is NOT metabolized by monoamine oxidases?",
+        "A": "Adrenaline",
+        "B": "Noradrenaline",
+        "C": "Dopamine",
+        "D": "Acetylcholine",
+        "Answer": "D",
+        "Source": "They play a crucial role in the metabolism of neurotransmitters, such adrenaline, noradrenaline, dopamine, -phenylethylamine, and benzylamine by catalyzing the oxidative deamination of a variety of monoamines."
+    },
+    "Question_4": {
+        "Context": "Inhibitors of MAO are a class of medicines used to treat disorders such as Alzheimer\u2019s disease (AD) and Parkinson\u2019s disease (PD).",
+        "Question": "What class of medicines is used to treat disorders like Alzheimer\u2019s disease and Parkinson\u2019s disease?",
+        "A": "MAO activators",
+        "B": "MAO substrates",
+        "C": "MAO inhibitors",
+        "D": "MAO enzymes",
+        "Answer": "C",
+        "Source": "Inhibitors of MAO are a class of medicines used to treat such disorders."
+    },
+    "Question_5": {
+        "Context": "Ferulic acid is a naturally occurring phenolic compound found in various plant species and has been demonstrated to have a variety of biological functions, including anti-inflammatory, anticancer, and neuroprotective effects.",
+        "Question": "What biological functions does ferulic acid exhibit?",
+        "A": "Anti-inflammatory, anticancer, and neuroprotective effects",
+        "B": "Antiviral, antifungal, and antibacterial effects",
+        "C": "Antioxidant, anticoagulant, and antihypertensive effects",
+        "D": "Antiemetic, antipyretic, and analgesic effects",
+        "Answer": "A",
+        "Source": "Ferulic acid is a well-known naturally occurring phenolic compound found in various plant species. It has been demonstrated to have a variety of biological functions, including anti-inflammatory, anticancer, and neuroprotective effects."
+    },
+    "Question_6": {
+        "Context": "Hydrazide derivatives have been reported to have MAO-B inhibition capabilities, which is significant in the search for new therapeutic agents for neurological conditions.",
+        "Question": "What type of derivatives have been reported to inhibit MAO-B?",
+        "A": "Ester derivatives",
+        "B": "Ether derivatives",
+        "C": "Hydrazide derivatives",
+        "D": "Ketone derivatives",
+        "Answer": "C",
+        "Source": "Recently, hydrazide derivatives have been reported to have MAO-B inhibition capabilities."
+    },
+    "Question_7": {
+        "Context": "The inhibitory activity of compounds on MAO enzymes can be quantified using an IC50 value, which is the concentration at which the compound inhibits 50% of the enzyme activity.",
+        "Question": "What does the IC50 value represent in the context of enzyme inhibition?",
+        "A": "The concentration at which the compound activates 50% of the enzyme",
+        "B": "The concentration at which the compound inhibits 100% of the enzyme",
+        "C": "The concentration at which the compound inhibits 50% of the enzyme",
+        "D": "The time it takes for the compound to inhibit the enzyme activity by 50%",
+        "Answer": "C",
+        "Source": "For inhibition study, residual activity was assayed after addition of 10 \u03bcM inhibitor as an initial screening step, and IC50 values were determined for potential compounds with residual activity of less than 80%."
+    },
+    "Question_8": {
+        "Context": "In the context of enzyme inhibition, the selectivity index (SI) is a ratio that compares the inhibitory potency of a compound against different enzyme isoforms.",
+        "Question": "What does the selectivity index (SI) indicate in enzyme inhibition studies?",
+        "A": "The time it takes for a compound to inhibit an enzyme",
+        "B": "The ratio of inhibitory potency against different enzyme isoforms",
+        "C": "The total amount of enzyme inhibited by a compound",
+        "D": "The specificity of an enzyme for its substrate",
+        "Answer": "B",
+        "Source": "The selectivity index (SI) value of MAO-B was calculated as IC50 of MAO-A/IC50 of MAO-B."
+    },
+    "Question_9": {
+        "Context": "Reversibility studies of enzyme inhibitors are important to determine whether the inhibition can be reversed after the inhibitor is removed, which is a desirable property for some therapeutic agents.",
+        "Question": "Why are reversibility studies important for enzyme inhibitors?",
+        "A": "To determine the toxicity of the inhibitor",
+        "B": "To measure the stability of the inhibitor in solution",
+        "C": "To assess whether the inhibition can be reversed after the inhibitor is removed",
+        "D": "To calculate the molecular weight of the inhibitor",
+        "Answer": "C",
+        "Source": "The reversibility of the leading compound for MAO-B was evaluated by comparing undialyzed and dialyzed residual activities at a concentration of approximately 2 times the IC50 after preincubation for 30 min prior to measurement."
+    },
+    "Question_10": {
+        "Context": "Molecular docking studies are computational methods that predict the preferred orientation of one molecule to a second when bound to each other to form a stable complex, which is useful in drug design to predict the binding affinity and activity of small molecule inhibitors with their target enzymes.",
+        "Question": "What is the purpose of molecular docking studies in drug design?",
+        "A": "To predict the solubility of a drug in water",
+        "B": "To determine the half-life of a drug in the bloodstream",
+        "C": "To predict the preferred orientation of a drug molecule when bound to its target",
+        "D": "To measure the rate of metabolism of a drug in the liver",
+        "Answer": "C",
+        "Source": "The Schrodinger suite was used to carry out the molecular docking investigation of FA3. The human MAO-B (2V5Z) structure was retrieved from the Protein Data Bank. The crystal structures were improved and optimized using the protein preparation wizard included in the Schrodinger suite, which also performed energy minimization, hydrogen atom addition, protonation state correction, and protonation state addition."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of condensed matter physics, disorder in materials can lead to various transport properties. Disorder can range from a few impurities in a crystalline host to strongly disordered alloys or glassy structures.",
+        "Question": "What phenomenon occurs in disordered electronic systems at low temperatures due to back scattering?",
+        "A": "Anderson localization",
+        "B": "Metal-insulator transition",
+        "C": "Weak localization",
+        "D": "Colossal magnetoresistance",
+        "Answer": "C",
+        "Source": "Weak localization, to be distinguished from AL, is the precursor effect of AL, that occurs in disordered electronic systems at low temperatures due to back scattering."
+    },
+    "Question_2": {
+        "Context": "In the context of electronic materials, weak localization is a quantum interference effect that manifests as a correction to the resistivity of a metal or semiconductor.",
+        "Question": "What is the effect of weak localization on the resistivity of a metal or semiconductor?",
+        "A": "It decreases the resistivity",
+        "B": "It increases the resistivity",
+        "C": "It does not affect the resistivity",
+        "D": "It causes the resistivity to oscillate",
+        "Answer": "B",
+        "Source": "The effect manifests itself as a positive correction to the resistivity of a metal or semiconductor."
+    },
+    "Question_3": {
+        "Context": "In materials science, the strain at interfaces between different materials can significantly influence electronic properties.",
+        "Question": "What role does vertical interfacial strain (VIS) play in the context of electronic materials?",
+        "A": "It decreases the electronic coupling",
+        "B": "It has no significant effect",
+        "C": "It plays an important role through tuning the interfacial orbital and lattice order parameters",
+        "D": "It increases the thermal conductivity",
+        "Answer": "C",
+        "Source": "To achieve these fascinating properties, the vertical interfical strain (VIS) plays an important role through tunning the interfical orbital, lattice order parameters and resulted film functionality."
+    },
+    "Question_4": {
+        "Context": "In electronic systems, the concept of Anderson localization refers to the phenomenon where multiple scattering interference of waves due to randomness in the potential alters the nature of the wave functions.",
+        "Question": "In which types of semiconductors or conductors does classical Anderson localization typically occur?",
+        "A": "3D semiconductors",
+        "B": "1D and 2D semiconductors or 1D conductors",
+        "C": "Superconductors",
+        "D": "Metallic conductors",
+        "Answer": "B",
+        "Source": "Classical Anderson localization, known as strong localization, is multiple scattering interference of the waves due to randomness in the potential, thus altering the nature of the wave functions, usually occurring in one dimensional (1D) and 2D semiconductors or 1D conductors."
+    },
+    "Question_5": {
+        "Context": "In the study of disordered electronic systems, metal-insulator transitions (MIT) can be induced by disorder. However, the identification of these transitions as due to classical Anderson localization in 3D remains a topic of debate.",
+        "Question": "What is the subject of controversy in the context of metal-insulator transitions in disordered electronic systems?",
+        "A": "The role of magnetic fields",
+        "B": "The identification of these transitions as due to classical Anderson localization in 3D",
+        "C": "The effect of temperature on MIT",
+        "D": "The influence of crystal structure on MIT",
+        "Answer": "B",
+        "Source": "While, there are many examples of disorder-induced metal\u2013insulator transitions (MIT), unambiguous identification of these as due to classical Anderson localization in 3D remains a controversial subject of discussion in condensed matter physics."
+    },
+    "Question_6": {
+        "Context": "In the context of electronic materials, the term 'half-metal' refers to a material that exhibits metallic conduction in one spin channel and localized behavior in the other.",
+        "Question": "What is a 'transport half-metal'?",
+        "A": "A material that shows metallic conduction in both spin channels",
+        "B": "A material that shows localized behavior in both spin channels",
+        "C": "A material that shows metallic conduction in the majority spin channel and localized behavior in the minority spin channel",
+        "D": "A material that shows superconductivity at half the critical temperature",
+        "Answer": "C",
+        "Source": "La2/3Sr1/3MnO3 (LSMO) when ferromagnetic is a transport half-metal, meaning that its transport shows metallic conduction in the majority spin channel, and localized behavior due to strong localization, in the minority channel."
+    },
+    "Question_7": {
+        "Context": "In the field of electronic materials, strain can have a significant impact on the properties of materials, particularly in the context of thin films.",
+        "Question": "What is the effect of strain on the electronic structure of ferromagnetic materials?",
+        "A": "It decreases the carrier density",
+        "B": "It has no significant effect",
+        "C": "It increases the magnetic susceptibility",
+        "D": "It is sensitive to the minority spin channel for ferromagnetic character",
+        "Answer": "D",
+        "Source": "The strain dependence of the electronic structure, in particular in the minority spin channel for ferromagnetic character, the study of localization and novel electronic states at the interface of LSMO is attractive."
+    },
+    "Question_8": {
+        "Context": "In the study of electronic materials, the concept of weak localization and electron-electron interaction (EEI) can contribute to the metal-insulator transition at low temperatures.",
+        "Question": "What contributes to the low-temperature metal-insulator transition in disordered electronic systems?",
+        "A": "Only weak localization",
+        "B": "Only electron-electron interaction",
+        "C": "Both weak localization and electron-electron interaction",
+        "D": "Neither weak localization nor electron-electron interaction",
+        "Answer": "C",
+        "Source": "Both weak localization and electron\u2013electron interaction (EEI) contribute the low-T MIT."
+    },
+    "Question_9": {
+        "Context": "In the context of electronic materials, the scaling theory of localization is used to describe the behavior of conductance in disordered systems.",
+        "Question": "According to the scaling theory of localization, what is the behavior of the dimensionless conductance, g, in the large conductance regime?",
+        "A": "g is substantially less than the characteristic dimensionless conductance gc",
+        "B": "g is substantially greater than the characteristic dimensionless conductance gc",
+        "C": "g is equal to the characteristic dimensionless conductance gc",
+        "D": "g is not related to the characteristic dimensionless conductance gc",
+        "Answer": "B",
+        "Source": "Here, g is substantially greater than gc in the whole system even for the x = 0.3 compound, indicating that our samples lie in the large conductance regime."
+    },
+    "Question_10": {
+        "Context": "In the context of electronic materials, the concept of weak localization can be influenced by the application of a magnetic field.",
+        "Question": "What is the effect of a strong magnetic field on weak localization in disordered electronic systems?",
+        "A": "It enhances the weak localization effect",
+        "B": "It has no effect on weak localization",
+        "C": "It suppresses the weak localization effect",
+        "D": "It changes weak localization into strong localization",
+        "Answer": "C",
+        "Source": "As discussed by Bergmann [41], the application of a strong magnetic field (\u2265 8 T) normally suppresses WL effect in resistivity, which leaves a temperature dependent resistivity only due to the EEI contribution."
+    }
+}

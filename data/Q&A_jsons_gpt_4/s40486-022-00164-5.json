@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In semiconductor fabrication, certain structures can be created by annealing, which involves heating the material to alter its properties or shape.",
+        "Question": "What is the purpose of annealing in semiconductor fabrication?",
+        "A": "To clean the semiconductor surface",
+        "B": "To create buried cavities with different morphologies",
+        "C": "To cool down the semiconductor quickly",
+        "D": "To increase the electrical resistance of the semiconductor",
+        "Answer": "B",
+        "Source": "By annealing straightly etched hole patterns, micro to nanoscale buried cavities are acquired without a need for a hermetic sealing process."
+    },
+    "Question_2": {
+        "Context": "In the context of semiconductor structures, the morphology of cavities can vary depending on the fabrication process parameters.",
+        "Question": "Which factor influences the morphology of cavities in semiconductor structures?",
+        "A": "The color of the semiconductor material",
+        "B": "The initial hole pattern and annealing duration",
+        "C": "The size of the semiconductor wafer",
+        "D": "The ambient temperature of the storage facility",
+        "Answer": "B",
+        "Source": "These cavities are formed in various morphologies, from circular pipes to spheres and plates, depending on the shape of initial hole pattern and annealing duration."
+    },
+    "Question_3": {
+        "Context": "In the field of optoelectronics and micro-/nanoelectronics, precise control over the morphology of semiconductor structures is crucial for their functionality.",
+        "Question": "Why is the control over cavity shapes important in applications such as optoelectronics and micro-/nanoelectronics?",
+        "A": "To ensure the devices can withstand high temperatures",
+        "B": "To make the devices look aesthetically pleasing",
+        "C": "To enable the devices to operate at high speeds",
+        "D": "To ensure the devices function properly for their intended application",
+        "Answer": "D",
+        "Source": "Each application require different sub-surface morphologies for its appropriate employment."
+    },
+    "Question_4": {
+        "Context": "Simulation tools are used in semiconductor fabrication to predict the outcomes of processes like annealing.",
+        "Question": "What is the limitation of theoretical simulations in predicting the morphological transformation of semiconductor structures?",
+        "A": "They are too fast to be accurate",
+        "B": "They require physical handling of the semiconductor",
+        "C": "They require simplifications which limit accuracy",
+        "D": "They can only simulate the color changes in the material",
+        "Answer": "C",
+        "Source": "However, a theoretical simulation inevitably requires simplifications which limit its accuracy."
+    },
+    "Question_5": {
+        "Context": "Deep learning models can be trained to predict changes in semiconductor structures based on empirical data.",
+        "Question": "What type of data is used to train deep learning models for simulating morphological transformations in semiconductor structures?",
+        "A": "Theoretical equations",
+        "B": "Historical price data of semiconductors",
+        "C": "Cross-sectional images at different annealing times",
+        "D": "Data from public opinion polls on semiconductor usage",
+        "Answer": "C",
+        "Source": "Namely, a deep learning model is trained to predict GON\u2019s morphological transformation from 4 cross-sectional images acquired at different annealing times."
+    },
+    "Question_6": {
+        "Context": "Autoencoders are a type of neural network used for tasks such as image reconstruction.",
+        "Question": "What is the primary function of an autoencoder in the context of image analysis?",
+        "A": "To compress images to a smaller size",
+        "B": "To enhance the resolution of images",
+        "C": "To classify images into different categories",
+        "D": "To predict future images based on past data",
+        "Answer": "A",
+        "Source": "As the name \u2018encoder-decoder\u2019 connotes, encoder component compresses the input data into a smaller size, extracting the input\u2019s essential features in doing so."
+    },
+    "Question_7": {
+        "Context": "In semiconductor fabrication, the morphology of structures such as Germanium-on-Nothing (GON) can be characterized by specific parameters.",
+        "Question": "Which parameter is NOT typically used to characterize the morphology of GON structures?",
+        "A": "Period of hole patterns",
+        "B": "Length of holes",
+        "C": "Color intensity of the holes",
+        "D": "Spacing between holes",
+        "Answer": "C",
+        "Source": "The red alphabets in 5 min image denote the essential parameters that characterize the cavity\u2019s morphology: period of hole patterns (P), length of holes (L), spacing between holes (S), diameter of holes (D), and height of roughness (H)."
+    },
+    "Question_8": {
+        "Context": "In the process of annealing semiconductor structures, the transformation of morphology can be observed through various stages.",
+        "Question": "What is the sequence of morphological transformations observed in GON structures during annealing?",
+        "A": "Circular pipes, spheres, plates, and then flattening of the plate's surface",
+        "B": "Spheres, circular pipes, plates, and then coarsening of the plate's surface",
+        "C": "Plates, spheres, circular pipes, and then roughening of the plate's surface",
+        "D": "Circular pipes, plates, spheres, and then polishing of the plate's surface",
+        "Answer": "A",
+        "Source": "At 5 min, the top surface of initial vertical holes is closed to form circular pipes. Then, the membrane walls between the pipes are thinned as the vertical height reduces, forming into sphere-like cavities. Eventually, the individual cavities are merged to form a horizontal plate, and further annealing smoothens the plate\u2019s surface roughness."
+    },
+    "Question_9": {
+        "Context": "The spacing between individual cavities in a GON structure is a critical parameter that determines the form factor of the structure.",
+        "Question": "What does the spacing parameter (S) indicate about the form factor of GON structures?",
+        "A": "The color contrast between cavities",
+        "B": "The electrical conductivity between cavities",
+        "C": "The transition from individual to merged cavities",
+        "D": "The thermal resistance of the cavities",
+        "Answer": "C",
+        "Source": "Individual cavities are developed until parameter S reaches zero at 40 min, and a merged plate-like cavity is formed after 40 min."
+    },
+    "Question_10": {
+        "Context": "The use of empirical data in deep learning models for simulating semiconductor processes can lead to a more accurate representation of physical properties.",
+        "Question": "Why is the use of empirical data in deep learning simulations advantageous over theoretical simulations?",
+        "A": "It allows for faster computation speeds",
+        "B": "It automatically incorporates detailed physical properties",
+        "C": "It requires less computational power",
+        "D": "It is easier to understand for non-experts",
+        "Answer": "B",
+        "Source": "On the other hand, a deep learning model\u2019s use of empirical data automatically incorporates the detailed physical nature such as crystalline direction."
+    }
+}

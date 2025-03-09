@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In polymer chemistry, the interface between polymer matrices and nanofillers plays a crucial role in determining the final properties of the composite material.",
+        "Question": "What is the role of the interface between polymer matrices and nanofillers in composite materials?",
+        "A": "It determines the color of the composite material",
+        "B": "It is critical for efficient interaction to achieve desired final properties",
+        "C": "It prevents the composite material from conducting electricity",
+        "D": "It has no significant role in the properties of the composite material",
+        "Answer": "B",
+        "Source": "The interface between polymer matrices and nanofillers is critical for efficient interaction to achieve the desired final properties."
+    },
+    "Question_2": {
+        "Context": "Block copolymers can be used to control the interface between polymer matrices and nanofillers, influencing the interfacial interaction.",
+        "Question": "What is the purpose of using block copolymers in polymer-nanofiller composites?",
+        "A": "To decrease the thermal stability of the composite",
+        "B": "To enhance the color variety of the composite",
+        "C": "To control the interface and achieve optimum interfacial interaction",
+        "D": "To make the composite material more brittle",
+        "Answer": "C",
+        "Source": "In this work, block copolymers were utilized to control the interface and achieve optimum interfacial interaction."
+    },
+    "Question_3": {
+        "Context": "Compatibilizers like block copolymers can be added to polymer blends to optimize their morphology and properties.",
+        "Question": "What is the effect of adding block copolymers to polymer blends?",
+        "A": "It decreases the electrical conductivity of the blend",
+        "B": "It leads to blend morphology refinement",
+        "C": "It prevents nanofillers from being added to the blend",
+        "D": "It increases the immiscibility of the polymer blend",
+        "Answer": "B",
+        "Source": "Copolymers at the interface led to blend morphology refinement."
+    },
+    "Question_4": {
+        "Context": "The electrical conductivity of polymer blends can be significantly altered by the addition of nanofillers and compatibilizers.",
+        "Question": "How does the addition of compatibilizers affect the electrical conductivity of polymer blends?",
+        "A": "It always decreases the electrical conductivity",
+        "B": "It has no effect on the electrical conductivity",
+        "C": "It can substantially increase the electrical conductivity",
+        "D": "It changes the color of the polymer blend without affecting conductivity",
+        "Answer": "C",
+        "Source": "Adding block copolymers at a relatively low concentration of 1 vol% to compatibilize the PP/PS 80:20 blend substantially increased the electrical conductivity."
+    },
+    "Question_5": {
+        "Context": "The morphology of polymer blends can be influenced by the selective localization of nanofillers due to interactions with different polymer phases.",
+        "Question": "What determines the selective localization of nanofillers in polymer blends?",
+        "A": "The color of the polymer blend",
+        "B": "The phase of the moon during synthesis",
+        "C": "The interaction between nanofiller and polymer phases",
+        "D": "The brand of the nanofiller used",
+        "Answer": "C",
+        "Source": "The morphology shows that the interaction between MWCNT and PS is stronger than the interaction between MWCNT and PP, hence there is selective localization of the nanofiller in the PS phase."
+    },
+    "Question_6": {
+        "Context": "The rheological properties of polymer blends are affected by the addition of nanofillers and compatibilizers.",
+        "Question": "What happens to the rheological properties of polymer blends when compatibilizers are added?",
+        "A": "They become independent of temperature",
+        "B": "They remain unchanged regardless of compatibilizer concentration",
+        "C": "They decrease exponentially with the addition of compatibilizers",
+        "D": "They can increase as the compatibilizer content is increased",
+        "Answer": "D",
+        "Source": "Both the conductivity and the storage modulus increased as the SEBS copolymer content was increased."
+    },
+    "Question_7": {
+        "Context": "In polymer science, the concept of compatibilization refers to the process of improving the mixing of phases in immiscible polymer blends.",
+        "Question": "What is the main goal of compatibilization in immiscible polymer blends?",
+        "A": "To separate the phases more distinctly",
+        "B": "To improve the mixing of the phases",
+        "C": "To reduce the thermal stability of the blend",
+        "D": "To increase the viscosity of one of the phases",
+        "Answer": "B",
+        "Source": "The compatibilization mechanism is used to develop the mixing of the phases and to control the morphology of an immiscible polymer blend."
+    },
+    "Question_8": {
+        "Context": "Polymer blends are often immiscible, leading to poor performance due to large domains of the dispersed phase and poor adhesion between phases.",
+        "Question": "Why do immiscible polymer blends often exhibit poor performance?",
+        "A": "Due to the high cost of production",
+        "B": "Because of their high electrical conductivity",
+        "C": "Due to large domains of the dispersed phase and poor adhesion between phases",
+        "D": "Because they are too viscous to be processed",
+        "Answer": "C",
+        "Source": "Polymer blends are generally immiscible and this results most times in poor performance of the system due to the large domains of the dispersed phase and poor adhesion between the phases."
+    },
+    "Question_9": {
+        "Context": "The introduction of nanofillers into polymer blends can result in a more complex system with various interactions influencing the final properties.",
+        "Question": "What interactions are important in determining the properties of polymer blend nanocomposites with nanofillers?",
+        "A": "Polymer-polymer interaction, CNT-CNT interactions, and polymer-CNT interaction",
+        "B": "Interaction between different colors in the polymer blend",
+        "C": "The interaction between the blend and the manufacturing equipment",
+        "D": "The interaction between the blend and external magnetic fields",
+        "Answer": "A",
+        "Source": "In this system, polymer-polymer interaction, CNT-CNT interactions, and polymer-CNT interaction are all important to determine the composites\u2019 final properties."
+    },
+    "Question_10": {
+        "Context": "The morphology of immiscible polymer blends can be controlled by the addition of compatibilizers, which can lead to the refinement of the blend morphology.",
+        "Question": "What is one of the effects of adding compatibilizers to immiscible polymer blends?",
+        "A": "Decrease in the melting point of the blend",
+        "B": "Refinement of the blend morphology",
+        "C": "Complete miscibility of all polymer phases",
+        "D": "Reduction in the weight of the blend",
+        "Answer": "B",
+        "Source": "The most popularly used immiscible blends are compatibilized, and their final properties can be optimized by controlling the blend morphology."
+    }
+}

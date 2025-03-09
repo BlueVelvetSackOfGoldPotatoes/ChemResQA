@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the properties of La-doped BaSnO3 (BLSO) films grown on different substrates for electromagnetic shielding transparent conductors.",
+        "Question": "What is the optimal La concentration for achieving the lowest sheet resistance in BLSO films on MgAl2O4 with an MgO template layer?",
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%",
+        "Answer": "A",
+        "Source": "The optimal La concentration was consistent with 5\u201310% of La-doped BaSnO3 films, as the sheet resistance became close to the single-crystal level because of minimal trapping/scattering of free electrons."
+    },
+    "Question_2": {
+        "Context": "The study discusses the transmittance properties of BLSO films on different substrates.",
+        "Question": "What is the ultraviolet-visible transmittance range achieved by BLSO films on MgAl2O4 with an MgO template layer?",
+        "A": "60-80%",
+        "B": "70-90%",
+        "C": "80-100%",
+        "D": "50-70%",
+        "Answer": "C",
+        "Source": "The films exhibited high ultraviolet-visible transmittance (> 85%), which is rarely achieved in most previous studies of epitaxial BLSO films on expensive SrTiO3."
+    },
+    "Question_3": {
+        "Context": "The study explores the electromagnetic shielding effectiveness of BLSO films on different substrates.",
+        "Question": "What is the shielding effectiveness of BLSO films on MgAl2O4 with an MgO template layer at 10 GHz?",
+        "A": "16.1-28.1 dB",
+        "B": "27.3-29.4 dB",
+        "C": "25.9 dB",
+        "D": "10-20 dB",
+        "Answer": "C",
+        "Source": "The SE was as high as ~ 25.9 dB at 10 GHz, comparable to those of other potential TC-EMS materials like Sn-doped In2O3 and SrMoO3."
+    },
+    "Question_4": {
+        "Context": "The study investigates the correlation between La concentration and conductivity in BLSO films.",
+        "Question": "How does the carrier density change with increasing La concentration in BLSO films on MgAl2O4 with an MgO template layer?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Fluctuates",
+        "Answer": "B",
+        "Source": "Hall measurements showed that the carrier density of BLSO films increased from 4.2 to 14.1 \u00d7 10^20 cm\u22123 as the La concentration decreased."
+    },
+    "Question_5": {
+        "Context": "The study delves into the influence of La concentration on carrier mobility in BLSO films.",
+        "Question": "What is the trend observed in carrier mobility with increasing La concentration in BLSO films on MgAl2O4 with an MgO template layer?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Fluctuates",
+        "Answer": "B",
+        "Source": "A decrease in carrier mobility was observed with La concentration increase, indicating a decrease from 36.7 cm^2 V\u22121 s\u22121 to 4.3 cm^2 V\u22121 s\u22121 for both BLSO films and SrTiO3 films."
+    },
+    "Question_6": {
+        "Context": "The study examines the relationship between crystallinity and conductivity in BLSO films.",
+        "Question": "How does the FWHM of the (002) BLSO XRD peak change with increasing La concentration in BLSO films on MgAl2O4 with an MgO template layer?",
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains constant",
+        "D": "Fluctuates",
+        "Answer": "B",
+        "Source": "The FWHM for the (002) BLSO XRD peak of BLSO films increased with increasing La concentration, indicating a decrease in crystallinity."
+    },
+    "Question_7": {
+        "Context": "The study evaluates the conductivity of BLSO films with varying La concentrations.",
+        "Question": "What is the maximum conductivity achieved in BLSO films on MgAl2O4 with an MgO template layer?",
+        "A": "1-10 \u03a9\u22121 cm\u22121",
+        "B": "10-100 \u03a9\u22121 cm\u22121",
+        "C": "100-1000 \u03a9\u22121 cm\u22121",
+        "D": "1000-10000 \u03a9\u22121 cm\u22121",
+        "Answer": "D",
+        "Source": "The 5% \u2212 BLSOMgO MgAl2O4 film showed the lowest level of electron scattering and the highest conductivity, which was 1000-fold higher compared to films without the template layer."
+    },
+    "Question_8": {
+        "Context": "The study investigates the effect of La concentration on the SE of BLSO films.",
+        "Question": "How does the X-band SE of BLSO films on MgAl2O4 with an MgO template layer change with increasing La concentration?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Fluctuates",
+        "Answer": "B",
+        "Source": "The SE values decrease with an increase in La concentration, as does the BLSO conductivity."
+    },
+    "Question_9": {
+        "Context": "The study explores the correlation between La concentration and transmittance properties of BLSO films.",
+        "Question": "How does the infrared transmittance change with La concentration in BLSO films on MgAl2O4 with an MgO template layer?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Fluctuates",
+        "Answer": "B",
+        "Source": "The infrared transmittance of BLSOMgO MgAl2O4 decreases with a decrease in La concentration, but the ultraviolet\u2013visible transmittance does not change."
+    },
+    "Question_10": {
+        "Context": "The study examines the relationship between La concentration and carrier density in BLSO films.",
+        "Question": "What trend is observed in carrier density with increasing La concentration in BLSO films on MgAl2O4 with an MgO template layer?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Fluctuates",
+        "Answer": "B",
+        "Source": "The carrier density of BLSOMgO MgAl2O4 increased from 4.2 to 14.1 \u00d7 10^20 cm\u22123 as the La concentration decreased."
+    }
+}

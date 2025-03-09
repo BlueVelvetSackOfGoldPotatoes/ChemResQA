@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In agriculture, replanting problems can occur when the same species is planted in the same soil repeatedly, leading to decreased plant health and increased production costs.",
+        "Question": "What issue is associated with replanting ramet seedlings in the original planting hole?",
+        "A": "They grow more vigorously each year",
+        "B": "They weaken year-by-year until their death",
+        "C": "They become more resistant to diseases",
+        "D": "They increase the land utilisation rate",
+        "Answer": "B",
+        "Source": "If ramet seedlings are replanted in the original planting hole, they weaken year-by-year until their death, which reduces the land utilisation rate and increases the production costs."
+    },
+    "Question_2": {
+        "Context": "Exogenous lactic acid bacteria can be applied to soil to improve its quality and alleviate certain agricultural problems.",
+        "Question": "What is the main component of the exogenous lactic acid bacteria used to improve planting soil?",
+        "A": "Bifidobacterium",
+        "B": "Streptococcus",
+        "C": "Lactobacillus plantarum",
+        "D": "Lactococcus",
+        "Answer": "C",
+        "Source": "In this study, exogenous lactic acid bacteria (LAB, the main component is Lactobacillus plantarum) were applied to improve the planting soil of herbaceous peony."
+    },
+    "Question_3": {
+        "Context": "The application of certain bacteria to soil can influence the growth and flowering of plants.",
+        "Question": "Which herbaceous peony cultivar showed increased plant height and flowering rate after LAB treatment?",
+        "A": "Dafugui",
+        "B": "Hongxiuqiu",
+        "C": "Zifengyu",
+        "D": "All of the above",
+        "Answer": "B",
+        "Source": "The results showed that after LAB treatment, the plant height, flowering rate, other morphological indexes and root vitality of 'Hongxiuqiu' were increased."
+    },
+    "Question_4": {
+        "Context": "Soil nutrients and enzyme activity are important for the health and growth of plants.",
+        "Question": "Which herbaceous peony cultivar's rhizosphere soil nutrient content and enzyme activity were most improved after LAB treatment?",
+        "A": "Dafugui",
+        "B": "Hongxiuqiu",
+        "C": "Zifengyu",
+        "D": "All were equally improved",
+        "Answer": "A",
+        "Source": "The 'Dafugui' rhizosphere soil nutrient content and enzyme activity were improved, followed by 'Hongxiuqiu' and 'Zifengyu'."
+    },
+    "Question_5": {
+        "Context": "Plant hormones like salicylic acid and abscisic acid play roles in plant stress responses and development.",
+        "Question": "What was the effect of LAB treatment on the rhizosphere soil free salicylic acid content and root abscisic acid content?",
+        "A": "Both increased",
+        "B": "Both decreased",
+        "C": "Salicylic acid increased and abscisic acid decreased",
+        "D": "Salicylic acid decreased and abscisic acid increased",
+        "Answer": "B",
+        "Source": "The rhizosphere soil free salicylic acid content and root abscisic acid content decreased."
+    },
+    "Question_6": {
+        "Context": "The presence of certain compounds in the soil can indicate improved soil health and plant resilience.",
+        "Question": "Which of the following increased in the soil after LAB treatment?",
+        "A": "Soil bacterial abundance",
+        "B": "Root antioxidant enzyme activity",
+        "C": "Proline content",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The soil bacterial abundance, root antioxidant enzyme activity, proline and paeoniflorin content increased in all varieties."
+    },
+    "Question_7": {
+        "Context": "The application of beneficial microorganisms to soil can enhance the ornamental value of plants by affecting their growth and development.",
+        "Question": "What was one of the outcomes of LAB application on herbaceous peony?",
+        "A": "Decreased flowering rate",
+        "B": "Reduced plant height",
+        "C": "Improved ornamental value",
+        "D": "Stunted root development",
+        "Answer": "C",
+        "Source": "This study found that LAB application can improve soil fertility and enzyme activity, promote the growth and development of herbaceous peony, increase the flowering rate and improve the ornamental value."
+    },
+    "Question_8": {
+        "Context": "Different plant varieties may respond differently to the same soil treatment.",
+        "Question": "What did the study suggest about the influence of LAB on different herbaceous peony varieties?",
+        "A": "All varieties responded the same",
+        "B": "The influence of LAB varied among varieties",
+        "C": "LAB had no influence on any variety",
+        "D": "Only one variety showed a positive response",
+        "Answer": "B",
+        "Source": "However, the influence of LAB on different herbaceous peony varieties varied."
+    },
+    "Question_9": {
+        "Context": "Optimizing the application of soil amendments can be crucial for achieving the desired effects on plant growth and health.",
+        "Question": "What does the text suggest is necessary for the application of LAB to alleviate replanting problems?",
+        "A": "Reducing the number of varieties",
+        "B": "Optimising the application concentration and frequency",
+        "C": "Applying LAB only once",
+        "D": "Using LAB without other soil treatments",
+        "Answer": "B",
+        "Source": "Therefore, it is necessary to further expand the number of varieties, optimise the application concentration and frequency of LAB application."
+    },
+    "Question_10": {
+        "Context": "The content of certain amino acids and secondary metabolites in plants can be indicative of their stress tolerance and overall health.",
+        "Question": "Which compound, associated with stress tolerance in plants, increased in content after LAB treatment?",
+        "A": "Glucose",
+        "B": "Chlorophyll",
+        "C": "Proline",
+        "D": "Starch",
+        "Answer": "C",
+        "Source": "The soil bacterial abundance, root antioxidant enzyme activity, proline and paeoniflorin content increased in all varieties."
+    }
+}

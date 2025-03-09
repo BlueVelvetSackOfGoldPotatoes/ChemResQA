@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In numerical modeling of transport phenomena, spatial discretization can be approached using different grid arrangements. One common approach is the collocated grid arrangement where all variables are stored at the same grid points.",
+        "Question": "What is a characteristic feature of collocated grid arrangement in numerical modeling?",
+        "A": "Variables are stored at staggered grid points.",
+        "B": "Variables are stored at the same grid points.",
+        "C": "Pressure and velocity are stored at separate points.",
+        "D": "It requires a larger grid size for independent results.",
+        "Answer": "B",
+        "Source": "In collocated grid (see Fig. 1), faces and nodes of all the variables are the same. The formulation of the collocated grid is simpler than that of the staggered grid and of course, is similar."
+    },
+    "Question_2": {
+        "Context": "The finite volume method is a common approach in computational fluid dynamics used to discretize the governing equations of fluid flow.",
+        "Question": "What is the finite volume method used for in computational fluid dynamics?",
+        "A": "To visualize fluid flow patterns.",
+        "B": "To discretize the governing equations of fluid flow.",
+        "C": "To physically model fluid flow in a laboratory.",
+        "D": "To measure the velocity of fluid flow directly.",
+        "Answer": "B",
+        "Source": "The next step is to discretize the computational domain. Whether the grid system is collocated or staggered, integrating governing Eqs. (5)\u2013(7) over an arbitrary control volume depicted in Fig. 2 gives semi-discretized Eqs. (9)\u2013(11)."
+    },
+    "Question_3": {
+        "Context": "In fluid dynamics, the lid-driven cavity problem is a well-known benchmark problem used to test and validate numerical methods.",
+        "Question": "What is the lid-driven cavity problem typically used for in fluid dynamics?",
+        "A": "To test and validate numerical methods.",
+        "B": "To study the effects of gravity on fluid flow.",
+        "C": "To measure the chemical composition of fluids.",
+        "D": "To determine the thermal conductivity of fluids.",
+        "Answer": "A",
+        "Source": "As a classic problem, lid-driven cavity flow is widely implemented in order to validate, compare, and investigate numerical methods and schemes."
+    },
+    "Question_4": {
+        "Context": "In computational fluid dynamics, the SIMPLE algorithm is a commonly used method to couple the velocity and pressure fields.",
+        "Question": "What is the purpose of the SIMPLE algorithm in computational fluid dynamics?",
+        "A": "To predict the transition to turbulence.",
+        "B": "To analyze the motion of an incompressible viscous fluid.",
+        "C": "To couple the velocity and pressure fields.",
+        "D": "To calculate the vorticity at nodal points.",
+        "Answer": "C",
+        "Source": "According to the SIMPLE algorithm, the first step is to guess the pressure field. Nevertheless, due to the non-linearity of the momentum equation, the velocity field must be guessed also."
+    },
+    "Question_5": {
+        "Context": "In computational modeling, the upwind scheme is a numerical discretization method used for convective transport.",
+        "Question": "What is the upwind scheme used for in computational modeling?",
+        "A": "To discretize the diffusive transport terms.",
+        "B": "To calculate the pressure gradient function.",
+        "C": "To discretize the convective transport terms.",
+        "D": "To implement boundary conditions in a grid.",
+        "Answer": "C",
+        "Source": "The upwind scheme is implemented for convected velocities. In order to generalize the formulation, the relation is derived for the second order upwind."
+    },
+    "Question_6": {
+        "Context": "In computational fluid dynamics, the central difference scheme is a numerical method used to approximate derivatives.",
+        "Question": "What is the central difference scheme primarily used for in computational fluid dynamics?",
+        "A": "To approximate the derivatives in the discretization of equations.",
+        "B": "To calculate the exact solution of the momentum equations.",
+        "C": "To estimate the pressure forces on control volume faces.",
+        "D": "To determine the optimum frequency in simulations.",
+        "Answer": "A",
+        "Source": "Approximate the diffusion terms of viscous stresses by central difference scheme."
+    },
+    "Question_7": {
+        "Context": "In fluid dynamics, the Reynolds number is a dimensionless quantity that is used to predict flow patterns in different fluid flow situations.",
+        "Question": "What does the Reynolds number represent in fluid dynamics?",
+        "A": "The thermal conductivity of the fluid.",
+        "B": "The chemical reactivity of the fluid.",
+        "C": "The ratio of inertial forces to viscous forces.",
+        "D": "The speed of sound in the fluid.",
+        "Answer": "C",
+        "Source": "The fluid properties are incorporated into Reynolds number: Re = (rho*u0*L)/mu."
+    },
+    "Question_8": {
+        "Context": "In fluid dynamics, the non-dimensionalization of governing equations is a technique used to reduce the number of parameters and generalize the results.",
+        "Question": "Why are governing equations non-dimensionalized in fluid dynamics?",
+        "A": "To increase the accuracy of numerical simulations.",
+        "B": "To reduce the number of parameters and generalize the results.",
+        "C": "To visualize the fluid flow in a physical model.",
+        "D": "To measure the viscosity of the fluid directly.",
+        "Answer": "B",
+        "Source": "Making governing equations non-dimensional enables us to incorporate some fluid and geometric parameters and to generalize the results of the simulation."
+    },
+    "Question_9": {
+        "Context": "In computational fluid dynamics, the SIMPLEC algorithm is a variant of the SIMPLE algorithm used for pressure-velocity coupling.",
+        "Question": "How does the SIMPLEC algorithm differ from the SIMPLE algorithm in computational fluid dynamics?",
+        "A": "It uses a different method to discretize the momentum equations.",
+        "B": "It employs a different approach to approximate the pressure correction.",
+        "C": "It calculates the vorticity at nodal points differently.",
+        "D": "It uses a larger grid size for simulations.",
+        "Answer": "B",
+        "Source": "SIMPLE algorithm ignores the first term of right-hand side, whereas SIMPLEC uses the assumption of u' nb = u' P u0 P = du P (P0 I-1,J - P0 I,J)."
+    },
+    "Question_10": {
+        "Context": "In computational fluid dynamics, the SIMPLER algorithm is another variant of the SIMPLE algorithm used for iterative solution of the pressure field.",
+        "Question": "What is a key feature of the SIMPLER algorithm in computational fluid dynamics?",
+        "A": "It predicts the transition to turbulence automatically.",
+        "B": "It calculates the predictive pressure in the initial stage.",
+        "C": "It uses a staggered grid arrangement for simulations.",
+        "D": "It employs a second-order upwind scheme for discretization.",
+        "Answer": "B",
+        "Source": "In SIMPLER algorithm, the predictive pressure P* itself is calculated in the initial stage by virtual velocity field."
+    }
+}

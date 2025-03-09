@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Dosimetry data for [18F]TRACK in healthy humans was reported in the study. ",
+        "Question": "Which organ had the highest average absorbed dose?",
+        "A": "Lungs",
+        "B": "Brain",
+        "C": "Kidneys",
+        "D": "Liver",
+        "Answer": "D",
+        "Source": "Average organ absorbed dose was highest for liver and gall bladder with 6.1E\u22122 (\u00b1 1.06E\u22122) mGy/MBq..."
+    },
+    "Question_2": {
+        "Context": "The study focused on the dosimetry of [18F]TRACK in healthy participants.",
+        "Question": "What was the total detriment weighted effective dose (EDW) for [18F]TRACK?",
+        "A": "1.45 mSv/MBq",
+        "B": "1.63 mSv/MBq",
+        "C": "1.92 mSv/MBq",
+        "D": "2.12 mSv/MBq",
+        "Answer": "B",
+        "Source": "Range for the detriment weighted dose (EDW) coefficient was similar from 1.45 to 1.92 mSv/MBq with an average EDW across subjects of 1.63E\u22122 (\u00b1 1.68E\u22123)."
+    },
+    "Question_3": {
+        "Context": "The study involved the synthesis and administration of [18F]TRACK to healthy participants.",
+        "Question": "What was the radiochemical yield of [18F]TRACK synthesis?",
+        "A": "4.4%",
+        "B": "5.7%",
+        "C": "3.5%",
+        "D": "8.2%",
+        "Answer": "A",
+        "Source": "Radiochemical yield was 4.4 \u00b1 0.8% not corrected for decay (activity range 3.5\u20135.7 GBq)..."
+    },
+    "Question_4": {
+        "Context": "The study aimed to provide dosimetry data for [18F]TRACK in humans.",
+        "Question": "Which imaging technique was used for PET scans in the study?",
+        "A": "MRI",
+        "B": "CT",
+        "C": "X-ray",
+        "D": "Ultrasound",
+        "Answer": "B",
+        "Source": "PET scans were performed on a General Electric Discovery PET-CT 690 scanner..."
+    },
+    "Question_5": {
+        "Context": "The study assessed the biodistribution and dosimetry of [18F]TRACK in healthy humans.",
+        "Question": "Which organ showed delayed second activity peak and larger inter-individual variability?",
+        "A": "Brain",
+        "B": "Kidneys",
+        "C": "Liver",
+        "D": "Gall bladder",
+        "Answer": "D",
+        "Source": "Organs of the digestive tract (gall bladder, small bowel, and colon) also showed a delayed second activity peak..."
+    },
+    "Question_6": {
+        "Context": "The study involved the administration of [18F]TRACK to healthy participants.",
+        "Question": "What was the average molar activity of [18F]TRACK at the end of synthesis?",
+        "A": "250 \u00b1 82 GBq/\u00b5mol",
+        "B": "133.3 GBq/\u00b5mol",
+        "C": "156.4 GBq/\u00b5mol",
+        "D": "144 GBq/\u00b5mol",
+        "Answer": "A",
+        "Source": "Molar activities of 250 \u00b1 82 GBq/\u00b5mol at the end of synthesis..."
+    },
+    "Question_7": {
+        "Context": "The study focused on the dosimetry of [18F]TRACK in healthy participants.",
+        "Question": "Which organ had the highest absorbed dose coefficient?",
+        "A": "Ovaries",
+        "B": "Testes",
+        "C": "Liver",
+        "D": "Kidneys",
+        "Answer": "C",
+        "Source": "Consistent with hepato-biliary elimination, the absorbed dose coefficients were highest for liver..."
+    },
+    "Question_8": {
+        "Context": "The study aimed to provide dosimetry data for [18F]TRACK in humans.",
+        "Question": "What was the average equivalent dose coefficient estimate for [18F]TRACK?",
+        "A": "1.49 mSv/MBq",
+        "B": "1.62 mSv/MBq",
+        "C": "1.70 mSv/MBq",
+        "D": "1.84 mSv/MBq",
+        "Answer": "B",
+        "Source": "The average equivalent dose coefficient estimate was 16.3 \u00b5Sv/MBq or 6.00 mSv for a standard injected dose of 370 MBq..."
+    },
+    "Question_9": {
+        "Context": "The study involved the synthesis and administration of [18F]TRACK to healthy participants.",
+        "Question": "Which software was used for segmentation of source organs on CT scans?",
+        "A": "Velocity Software",
+        "B": "MIRD-Calc software",
+        "C": "Genesis",
+        "D": "OSEM algorithm",
+        "Answer": "A",
+        "Source": "A set of 13 source organs and one region representing the rest of the body were segmented on each participant\u2019s CT scan using the Velocity Software..."
+    },
+    "Question_10": {
+        "Context": "The study assessed the biodistribution and dosimetry of [18F]TRACK in healthy humans.",
+        "Question": "What was the percentage of injected activity accounted for by the dosimetry model on average?",
+        "A": "85%",
+        "B": "89.7%",
+        "C": "92%",
+        "D": "94%",
+        "Answer": "B",
+        "Source": "The model explained on average 89.7 (\u00b1 3.27) % of the total injected activity..."
+    }
+}

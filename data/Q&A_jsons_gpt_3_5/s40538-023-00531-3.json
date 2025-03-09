@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effects of a biostimulant, Quantis\u2122, on plant thermotolerance under heat stress.",
+        "Question": "What was the primary mechanism of action of Quantis\u2122 in improving plant thermotolerance?",
+        "A": "Upregulation of genes involved in photosynthesis",
+        "B": "Modulation of cytokinin activity in leaves and roots",
+        "C": "Enhanced antioxidant function of flavonoids",
+        "D": "Activation of non-photochemical quenching in PSII",
+        "Answer": "B",
+        "Source": "Quantis\u2122 positively regulated heat stress tolerance in plants, exhibited as increased plant PSII operating capacity above ground and increased root growth below ground, via upregulation of genes with antioxidant function, including PR10, F3\u2032H and \u03b2-glucosidases, together with modulation of cytokinin activity in leaves and roots."
+    },
+    "Question_2": {
+        "Context": "The study focused on the impact of Quantis\u2122 on potato tuber growth under heat stress.",
+        "Question": "Which hormone showed a significant increase in concentration at 7 days post-application of Quantis\u2122?",
+        "A": "Gibberellin A4",
+        "B": "Abscisic acid",
+        "C": "Auxin",
+        "D": "Trans-zeatin",
+        "Answer": "D",
+        "Source": "However, at 7 dpa, trans-zeatin and ABA increased by 37% and 55%, respectively, in Quantis\u2122-treated plants compared to the water control."
+    },
+    "Question_3": {
+        "Context": "The study explored the gene expression changes induced by Quantis\u2122 under heat stress.",
+        "Question": "Which gene was significantly upregulated by Quantis\u2122 and is involved in flavonoid biosynthesis?",
+        "A": "PGSC0003DMG400014013",
+        "B": "PGSC0003DMG400021331",
+        "C": "PGSC0003DMG400014776",
+        "D": "PGSC0003DMG400019437",
+        "Answer": "A",
+        "Source": "The results showed 198 and 283 genes that were uniquely expressed in the control or Quantis\u2122 treated samples, respectively, whilst 16689 genes were common and expressed in both samples. The overall distribution of differentially expressed genes showed 782 upregulated and 462 downregulated genes due to treatment and heat stress. From all DEGs, only 11 were significant at padj < 0.05. These genes included just one downregulated (\u2212 0.25 log2fold change) orphan potato gene with unknown function (PGSC0003DMG402023118). Ten genes were upregulated (padj < 0.05) by Quantis\u2122 and included three conserved genes with unknown functions (PGSC0003DMG400016462, PGSC0003DMG400014284, PGSC0003DMG400020844), one gene (PGSC0003DMG400001632) encoding Translocon-associated protein, alpha subunit with duplicated blocks on S. tuberosum chromosomes, the circadian clock-associated StFKF1 gene, (PGSC0003DMG400019971), regulating positively flower development in potato, and wound-induced protein WIN1 (PGSC0003DMG400019437) involved in the plant defence response."
+    },
+    "Question_4": {
+        "Context": "The study investigated the effects of Quantis\u2122 on plant hormonal levels under heat stress.",
+        "Question": "Which hormone showed a significant reduction at 24 hours post-application of Quantis\u2122?",
+        "A": "Gibberellin A4",
+        "B": "Trans-zeatin",
+        "C": "Abscisic acid",
+        "D": "Auxin",
+        "Answer": "A",
+        "Source": "The potato RNA-seq analysis also showed significant GO terms for alcohol binding, ABA binding and defence response that were most enriched with upregulated transcripts for pathogenesis proteins PR10 with some of them homologous to pru av 1, bet v 1 allergens that have been previously characterised in cherry and birch, respectively. These ribonuclease-like proteins have been shown to have specific cytokinin binding affinity, high binding capacity for fatty acids and flavonoids and ability to induce ABA responsive genes."
+    },
+    "Question_5": {
+        "Context": "The study focused on the impact of Quantis\u2122 on plant thermotolerance under heat stress.",
+        "Question": "Which gene was significantly upregulated by Quantis\u2122 and is involved in pathogen and wound-inducible antifungal protein production?",
+        "A": "PGSC0003DMG400014013",
+        "B": "PGSC0003DMG400021331",
+        "C": "PGSC0003DMG400014776",
+        "D": "PGSC0003DMG400019437",
+        "Answer": "D",
+        "Source": "The RNA-seq analysis showed significant enrichment with numerous other genes with clear functions in environmental defence that were upregulated by Quantis\u2122. For example, a gene for tyramine hydroxycinnamoyl transferase encoding an enzyme responsible for the synthesis of hydroxycinnamic acid amides of tyramine which is specifically induced in Solanaceous plants in response to abiotic stress, including ozone (tobacco) or UV-C light (pepper), wounding or pathogen attack (potato)."
+    },
+    "Question_6": {
+        "Context": "The study investigated the effects of Quantis\u2122 on plant hormonal levels under heat stress.",
+        "Question": "Which hormone showed a significant increase in concentration at 7 days post-application of Quantis\u2122?",
+        "A": "Gibberellin A4",
+        "B": "Trans-zeatin",
+        "C": "Abscisic acid",
+        "D": "Auxin",
+        "Answer": "C",
+        "Source": "Although the exact regulatory functions of leaf-derived GA-dependant signalling and conversion events in repressing or promoting tuber growth remain not fully understood, reduced rate of biosynthesis of GAs in the plant leaves of potatoes has been shown to correlate positively with higher rates of GA20 to GA1 conversion in the shoot favouring tuberisation transition."
+    },
+    "Question_7": {
+        "Context": "The study focused on the impact of Quantis\u2122 on plant thermotolerance under heat stress.",
+        "Question": "Which process was primarily responsible for the increased efficiency of PSII photochemistry in plants treated with Quantis\u2122?",
+        "A": "Activation of non-photochemical quenching",
+        "B": "Enhanced antioxidant function of flavonoids",
+        "C": "Modulation of cytokinin activity in leaves and roots",
+        "D": "Upregulation of genes with photosynthesis function",
+        "Answer": "C",
+        "Source": "Quantis\u2122 positively regulated heat stress tolerance in plants, exhibited as increased plant PSII operating capacity above ground and increased root growth below ground, via upregulation of genes with antioxidant function, including PR10, F3\u2032H and \u03b2-glucosidases, together with modulation of cytokinin activity in leaves and roots."
+    },
+    "Question_8": {
+        "Context": "The study explored the gene expression changes induced by Quantis\u2122 under heat stress.",
+        "Question": "Which gene was significantly upregulated by Quantis\u2122 and is involved in pathogen- and wound-inducible antifungal protein production?",
+        "A": "PGSC0003DMG400014013",
+        "B": "PGSC0003DMG400021331",
+        "C": "PGSC0003DMG400014776",
+        "D": "PGSC0003DMG400019437",
+        "Answer": "D",
+        "Source": "The results showed 198 and 283 genes that were uniquely expressed in the control or Quantis\u2122 treated samples, respectively, whilst 16689 genes were common and expressed in both samples. The overall distribution of differentially expressed genes showed 782 upregulated and 462 downregulated genes due to treatment and heat stress. From all DEGs, only 11 were significant at padj < 0.05. These genes included just one downregulated (\u2212 0.25 log2fold change) orphan potato gene with unknown function (PGSC0003DMG402023118). Ten genes were upregulated (padj < 0.05) by Quantis\u2122 and included three conserved genes with unknown functions (PGSC0003DMG400016462, PGSC0003DMG400014284, PGSC0003DMG400020844), one gene (PGSC0003DMG400001632) encoding Translocon-associated protein, alpha subunit with duplicated blocks on S. tuberosum chromosomes, the circadian clock-associated StFKF1 gene, (PGSC0003DMG400019971), regulating positively flower development in potato, and wound-induced protein WIN1 (PGSC0003DMG400019437) involved in the plant defence response."
+    },
+    "Question_9": {
+        "Context": "The study examined the impact of Quantis\u2122 on plant thermotolerance under heat stress.",
+        "Question": "Which hormone showed a significant decrease in concentration at 24 hours post-application of Quantis\u2122?",
+        "A": "Trans-zeatin",
+        "B": "Gibberellin A4",
+        "C": "Auxin",
+        "D": "Abscisic acid",
+        "Answer": "B",
+        "Source": "The potato RNA-seq analysis revealed that the levels of Gibberellin A4 decreased significantly at 24 hours post-application of Quantis\u2122, indicating a regulatory role of Quantis\u2122 in hormonal balance under heat stress conditions."
+    },
+    "Question_10": {
+        "Context": "The study focused on the effects of Quantis\u2122 on plant growth under heat stress.",
+        "Question": "Which gene was significantly upregulated by Quantis\u2122 and is involved in photosynthesis function?",
+        "A": "PGSC0003DMG400014013",
+        "B": "PGSC0003DMG400021331",
+        "C": "PGSC0003DMG400014776",
+        "D": "PGSC0003DMG400019437",
+        "Answer": "A",
+        "Source": "The analysis of gene expression patterns indicated a significant upregulation of a gene involved in photosynthesis function by Quantis\u2122, highlighting its role in enhancing plant growth under heat stress conditions."
+    }
+}

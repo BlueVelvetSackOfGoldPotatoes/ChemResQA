@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Fermentation is a biochemical process that involves the breakdown of compounds by microorganisms, which can result in the production of various beneficial substances.",
+        "Question": "What is the primary product of lactic acid bacteria (LAB) fermentation?",
+        "A": "Ethanol",
+        "B": "Lactic acid",
+        "C": "Acetic acid",
+        "D": "Butyric acid",
+        "Answer": "B",
+        "Source": "Fermentation metabolites vary by strain, but lactic acid (LA) is the primary product. Lactic acid can reach 1% in several LAB fermentations."
+    },
+    "Question_2": {
+        "Context": "During fermentation, microorganisms can produce enzymes that help in breaking down complex substrates into simpler, more digestible forms.",
+        "Question": "Which enzyme secreted by LABs during fermentation facilitates the breakdown of lactose?",
+        "A": "Amylase",
+        "B": "Protease",
+        "C": "Lipase",
+        "D": "\u03b2-galactosidase",
+        "Answer": "D",
+        "Source": "The secretion of the \u03b2-galactosidase enzyme facilitates the breakdown of lactose, thus addressing lactose intolerance."
+    },
+    "Question_3": {
+        "Context": "Fermentation can enhance the nutritional profile of food by increasing the availability of certain vitamins.",
+        "Question": "Which vitamins are particularly amplified in their production during the fermentation of plant and dairy matrices?",
+        "A": "Vitamin C and Vitamin E",
+        "B": "Vitamin A and Vitamin D",
+        "C": "Folate, riboflavin, and Vitamin B12",
+        "D": "Vitamin K and Vitamin B6",
+        "Answer": "C",
+        "Source": "Despite the enhanced availability of trace minerals and vitamins, fermentation of plant and dairy matrices amplifies the production of vitamins, particularly folate, riboflavin, and B12."
+    },
+    "Question_4": {
+        "Context": "Fermentation can lead to the production of bioactive peptides with various health benefits.",
+        "Question": "What type of health-promoting properties do the biologically active peptides produced in fermented dairy products possess?",
+        "A": "Anti-thrombotic, anti-hypertensive, immune-modulatory, osteogenic, and antioxidant",
+        "B": "Anti-viral, anti-bacterial, anti-fungal, and anti-parasitic",
+        "C": "Anti-inflammatory, analgesic, sedative, and antipyretic",
+        "D": "Anti-carcinogenic, anti-mutagenic, anti-toxic, and radioprotective",
+        "Answer": "A",
+        "Source": "The fermented dairy products contain biologically active peptides such as yogurt, cheese, fermented milk, kefir, dahi, etc. These peptides have anti-thrombotic, anti-hypertensive, immune-modulatory, osteogenic, and antioxidant properties."
+    },
+    "Question_5": {
+        "Context": "Fermentation can result in the production of exopolysaccharides (EPSs) by certain microorganisms, which have been associated with various health benefits.",
+        "Question": "What health benefits have been related to the exopolysaccharides (EPSs) produced during LAB fermentation?",
+        "A": "Antidiabetic, cholesterol-reducing, antioxidant, and immunomodulatory effects",
+        "B": "Anti-aging, skin whitening, hair growth, and vision improvement",
+        "C": "Memory enhancement, mood stabilization, sleep regulation, and appetite suppression",
+        "D": "Bone strengthening, muscle growth, joint lubrication, and tissue regeneration",
+        "Answer": "A",
+        "Source": "As an example, various LABs have been found to produce exopolysaccharides (EPSs) during fermentation. The produced EPSs have been related to different health benefits, including antidiabetic, cholesterol-reducing, antioxidant, and immunomodulatory effects."
+    },
+    "Question_6": {
+        "Context": "Fermentation can improve the extraction efficiency of compounds from food matrices, leading to the generation of novel bioactive compounds.",
+        "Question": "What is one of the effects of fermentation on the antioxidant profile of food?",
+        "A": "Decreases the antioxidant capacity",
+        "B": "Does not affect the antioxidant capacity",
+        "C": "Alters the antioxidant profile",
+        "D": "Only increases the antioxidant capacity",
+        "Answer": "C",
+        "Source": "Fermentation further improves compound extraction efficiency, alters the antioxidant profile, and generates novel bioactive compounds from the food matrix."
+    },
+    "Question_7": {
+        "Context": "Fermentation can be used to produce valuable by-products from food waste, utilizing various substrates.",
+        "Question": "Which of the following by-products can be produced from the fermentation of food wastes?",
+        "A": "Enzymes, pigments, and biofuels",
+        "B": "Plastics, synthetic fibers, and rubber",
+        "C": "Pesticides, herbicides, and fungicides",
+        "D": "Cosmetics, detergents, and soaps",
+        "Answer": "A",
+        "Source": "Fermentation of various food wastes has resulted in the successful production of valuable by-products, including enzymes, pigments, and biofuels."
+    },
+    "Question_8": {
+        "Context": "Fermentation processes can be optimized by controlling various environmental conditions to ensure the highest possible yield of the desired product.",
+        "Question": "Which environmental conditions must be controlled during the fermentation process to ensure optimal organism growth and product yield?",
+        "A": "Temperature, pH, and oxygen concentrations",
+        "B": "Humidity, light exposure, and carbon dioxide levels",
+        "C": "Atmospheric pressure, sound levels, and nitrogen concentrations",
+        "D": "Magnetic field strength, salinity, and sulfur content",
+        "Answer": "A",
+        "Source": "Additionally, the temperature, pH, and oxygen concentrations must be controlled in order to ensure the highest possible yield of the desired product."
+    },
+    "Question_9": {
+        "Context": "Fermentation can be induced spontaneously by microorganisms commonly found in raw ingredients or can be controlled using starting cultures.",
+        "Question": "What is the result of using starting cultures in the fermentation process?",
+        "A": "Decreased product standardization",
+        "B": "Increased risk of food poisoning",
+        "C": "Acquiring a standardized food product",
+        "D": "Reduction in the nutritional value of the food",
+        "Answer": "C",
+        "Source": "Using starting cultures allow for acquiring a standardized food product."
+    },
+    "Question_10": {
+        "Context": "The fermentation process involves the biochemical activity of organisms, which can be harnessed for the production of various products in different industries.",
+        "Question": "In which industries is fermentation technology utilized for the production of metabolites?",
+        "A": "Food, pharmaceuticals, and alcoholic beverages",
+        "B": "Automotive, aerospace, and marine",
+        "C": "Electronics, telecommunications, and computing",
+        "D": "Construction, mining, and metallurgy",
+        "Answer": "A",
+        "Source": "Industrial-scale production of food, pharmaceuticals, and alcoholic beverages utilizes fermentation technology powered by these organisms."
+    }
+}

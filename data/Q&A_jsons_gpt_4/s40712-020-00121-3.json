@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Amorphous silicon solar cells are known to degrade over time, which can affect their mechanical properties such as roughness and delamination.",
+        "Question": "What is a common method used to investigate the state of degradation in amorphous silicon solar modules?",
+        "A": "Roughness parametric test",
+        "B": "Optical microscopy",
+        "C": "Electron microscopy",
+        "D": "X-ray diffraction",
+        "Answer": "A",
+        "Source": "Adequate analysis of roughness parameters was performed to investigate the state of degradation of the amorphous silicon solar modules (a-Si:H) used in this study."
+    },
+    "Question_2": {
+        "Context": "In the production of thin-film solar cells, the relationship between surface roughness and electrical efficiencies is important.",
+        "Question": "Why is roughness analysis necessary in thin-film solar cells production?",
+        "A": "To determine the color of the solar cells",
+        "B": "To quantify the relationship between roughness parameters and electrical efficiencies",
+        "C": "To measure the weight of the solar cells",
+        "D": "To assess the thermal conductivity of the solar cells",
+        "Answer": "B",
+        "Source": "Roughness parametric test is necessary in thin film solar cells production process because it is used to quantify the relationship that exists between roughness parameters and electrical efficiencies of solar cells."
+    },
+    "Question_3": {
+        "Context": "The mechanical properties of hydrogenated amorphous silicon (a-Si:H) thin films are influenced by interface defects.",
+        "Question": "What property of a-Si:H thin films is affected by interface defects?",
+        "A": "Optical band gap",
+        "B": "Color",
+        "C": "Mechanical properties",
+        "D": "Electrical conductivity",
+        "Answer": "C",
+        "Source": "These optoelectronic properties depend on the mechanical properties of a-Si:H materials, meanwhile, mechanical properties are affected by interface defects."
+    },
+    "Question_4": {
+        "Context": "The degradation of amorphous silicon solar cells can lead to an increase in structural defects.",
+        "Question": "What happens to the micro-structural defects of amorphous silicon solar cells as they degrade?",
+        "A": "They decrease",
+        "B": "They remain constant",
+        "C": "They increase",
+        "D": "They fluctuate randomly",
+        "Answer": "C",
+        "Source": "Nevertheless, as the module starts to degrade, more its micro-defects start to increase; hence, the roughness in its defective region is expected to be more pronounced than the one from the non-defective (hotspot) region."
+    },
+    "Question_5": {
+        "Context": "Scanning probe microscopy (SPM) is a technique used to analyze the surface of materials at the nanoscale.",
+        "Question": "Which technique was used to measure roughness and mechanical properties of solar cells at the nanoscale level?",
+        "A": "Transmission electron microscopy",
+        "B": "Scanning electron microscopy",
+        "C": "Scanning probe microscopy",
+        "D": "Atomic force microscopy",
+        "Answer": "C",
+        "Source": "Measurements were taken with scanning probe microscope (SPM) and PeakForce Quantitative Nanomechanical (QNM) technique was used through the cross sectional area of the analyzed samples."
+    },
+    "Question_6": {
+        "Context": "Atomic force microscopy (AFM) can be used in different modes depending on the sample's surface characteristics.",
+        "Question": "Which mode of AFM is mostly useful for hard surfaces where a tip is in contact with a surface?",
+        "A": "Non-contact mode",
+        "B": "Tapping mode",
+        "C": "Contact mode",
+        "D": "PeakForce mode",
+        "Answer": "C",
+        "Source": "The contact mode is mostly useful for hard surfaces where a tip is in contact with a surface."
+    },
+    "Question_7": {
+        "Context": "Surface roughness of materials can be statistically analyzed using different parameters.",
+        "Question": "Which parameter is more sensitive in analyzing peaks and valleys of surface roughness?",
+        "A": "Average roughness (Ra)",
+        "B": "Root mean square (RMS) roughness",
+        "C": "Maximum profile peak height (Rp)",
+        "D": "Maximum profile valley depth (Rv)",
+        "Answer": "B",
+        "Source": "The root mean square roughness is similar to the average roughness, since RMS (Rq) is the absolute mean square of the surface roughness."
+    },
+    "Question_8": {
+        "Context": "The mechanical stress and degradation in solar cells can be quantified by analyzing certain mechanical properties.",
+        "Question": "Which mechanical property is quantified by the degree of decrease of adhesive force and interlayer delamination?",
+        "A": "Elasticity",
+        "B": "Hardness",
+        "C": "Mechanical degradation",
+        "D": "Tensile strength",
+        "Answer": "C",
+        "Source": "This work, quantifies mechanical degradation by the degree of decrease of adhesive force and interlayer delamination in the form of deformation."
+    },
+    "Question_9": {
+        "Context": "The PeakForce Quantitative Nanomechanical (QNM) technique in atomic force microscopy can provide information about material properties.",
+        "Question": "What kind of information can the PeakForce QNM technique provide for material characterization?",
+        "A": "Color and texture",
+        "B": "Weight and volume",
+        "C": "Adhesion, Young\u2019s modulus, and deformation",
+        "D": "Thermal and electrical conductivity",
+        "Answer": "C",
+        "Source": "Hence, the PeakForce QNM was used to monitor the difference between the material properties of the samples from the defective and non-defective regions."
+    },
+    "Question_10": {
+        "Context": "The performance of amorphous silicon solar cells is influenced by their material properties, which can be altered due to degradation.",
+        "Question": "What is a significant consequence of the degradation of mechanical properties in amorphous silicon solar cells?",
+        "A": "Increased optical band gap",
+        "B": "Reduced lifetime of the antireflective film",
+        "C": "Enhanced electrical conductivity",
+        "D": "Increased thermal resistance",
+        "Answer": "B",
+        "Source": "A significant change or reduction in these results could have reduced the lifetime of the antireflective film in the region of the module where the samples were taken."
+    }
+}

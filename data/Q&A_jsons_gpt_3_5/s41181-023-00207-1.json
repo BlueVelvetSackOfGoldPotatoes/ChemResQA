@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Imaging of cell death can provide an early indication of treatment response in cancer.",
+        "Question": "What is the main purpose of using [99mTc]Tc-Duramycin in the study?",
+        "A": "To monitor tumor metabolic activity",
+        "B": "To assess inflammation in tumors",
+        "C": "To differentiate early responders from non-responders",
+        "D": "To evaluate the Warburg effect",
+        "Answer": "C",
+        "Source": "These techniques can provide higher sensitivity and specificity in differentiating early responders from non-responders after cancer treatment compared to conventional imaging methods such as X-ray computed tomography (CT) and magnetic resonance imaging (MRI)."
+    },
+    "Question_2": {
+        "Context": "Imaging of cell death can provide an early indication of treatment response in cancer.",
+        "Question": "What advantage does duramycin have over annexin V in terms of binding targets?",
+        "A": "Higher specificity for PS",
+        "B": "Higher affinity for apoptotic cells",
+        "C": "Better biodistribution profile",
+        "D": "Faster blood clearance",
+        "Answer": "B",
+        "Source": "The higher availability of PE in the plasma membrane represents another advantage of duramycin over annexin V."
+    },
+    "Question_3": {
+        "Context": "Imaging of cell death can provide an early indication of treatment response in cancer.",
+        "Question": "What is the predominant mode of excretion of [99mTc]Tc-Duramycin?",
+        "A": "Hepatobiliary",
+        "B": "Renal",
+        "C": "Pulmonary",
+        "D": "Fecal",
+        "Answer": "B",
+        "Source": "About 56% of the injected activity was eliminated within the first 24 h through the kidneys, and no hepatobiliary excretion was observed."
+    },
+    "Question_4": {
+        "Context": "Imaging of cell death can provide an early indication of treatment response in cancer.",
+        "Question": "What is the mean effective dose of [99mTc]Tc-Duramycin per MBq?",
+        "A": "7.10 \u00b5Sv",
+        "B": "7.61 \u00b5Sv",
+        "C": "3.60 mSv",
+        "D": "12.5 mSv",
+        "Answer": "B",
+        "Source": "The mean effective dose was 7.61 \u00b1 0.75 \u00b5Sv/MBq."
+    },
+    "Question_5": {
+        "Context": "Imaging of cell death can provide an early indication of treatment response in cancer.",
+        "Question": "Which organ received the highest absorbed dose of [99mTc]Tc-Duramycin?",
+        "A": "Heart wall",
+        "B": "Kidneys",
+        "C": "Liver",
+        "D": "Spleen",
+        "Answer": "B",
+        "Source": "The kidneys (43.8 \u00b1 4.07 \u00b5Gy/MBq) showed the highest absorbed dose."
+    },
+    "Question_6": {
+        "Context": "Imaging of cell death can provide an early indication of treatment response in cancer.",
+        "Question": "What is the main limitation of using caspase-3-targeting tracers for imaging cell death?",
+        "A": "Fast and transient caspase-3 activation",
+        "B": "Low specificity for apoptotic cells",
+        "C": "High background activity",
+        "D": "Slow blood clearance",
+        "Answer": "A",
+        "Source": "Since caspase-3 activation is a fast and transient process, following treatment, it is necessary to select appropriate timing for imaging carefully."
+    },
+    "Question_7": {
+        "Context": "Imaging of cell death can provide an early indication of treatment response in cancer.",
+        "Question": "What is the next step after evaluating [99mTc]Tc-Duramycin in healthy volunteers?",
+        "A": "Phase III clinical trial",
+        "B": "Comparison study with [18F]FDG",
+        "C": "Phase II study in cancer patients",
+        "D": "Preclinical animal studies",
+        "Answer": "C",
+        "Source": "The next step is to assess the ability of [99mTc]Tc-Duramycin to assess tumor response in cancer patients."
+    },
+    "Question_8": {
+        "Context": "Imaging of cell death can provide an early indication of treatment response in cancer.",
+        "Question": "What is the primary advantage of using HPLC purification for [99mTc]Tc-Duramycin production?",
+        "A": "Reduced liver and spleen accumulation",
+        "B": "Faster blood clearance",
+        "C": "Improved signal enhancement",
+        "D": "Higher affinity to plasma proteins",
+        "Answer": "A",
+        "Source": "HPLC purification of kit-prepared [99mTc]Tc-Duramycin resulted in better imaging properties with faster clearance from the blood and lower uptake in the liver."
+    },
+    "Question_9": {
+        "Context": "Imaging of cell death can provide an early indication of treatment response in cancer.",
+        "Question": "What is the main challenge in detecting response in liver metastases using [99mTc]Tc-Duramycin?",
+        "A": "High physiological background uptake in the liver",
+        "B": "Low specificity for liver cells",
+        "C": "Fast blood clearance",
+        "D": "Limited tumor penetration",
+        "Answer": "A",
+        "Source": "Given the high physiological background uptake in the liver, the ability to detect response in liver metastases could be hampered."
+    },
+    "Question_10": {
+        "Context": "Imaging of cell death can provide an early indication of treatment response in cancer.",
+        "Question": "What is the primary focus of the ongoing phase II study with [99mTc]Tc-Duramycin in cancer patients?",
+        "A": "Monitoring tumor metabolic activity",
+        "B": "Assessing inflammation in tumors",
+        "C": "Evaluating treatment-induced cell death",
+        "D": "Comparing [99mTc]Tc-Duramycin with [18F]FDG",
+        "Answer": "C",
+        "Source": "Results of this clinical study will provide crucial insights into the radiopharmaceutical\u2019s clinical performance and its potential to improve patient outcomes."
+    }
+}

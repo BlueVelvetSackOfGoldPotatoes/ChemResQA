@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "A specific PET tracer is discussed in the text. ",
+        "Question": "What is the name of the PET tracer targeting the cystine/glutamate antiporter?",
+        "A": "[18F]FDG",
+        "B": "[18F]FSPG",
+        "C": "[18F]FLT",
+        "D": "[18F]FMISO",
+        "Answer": "B",
+        "Source": "Among all radiopharmaceuticals for PET imaging, the glucose analogue [18F]fluorodeoxyglucose ([18F]FDG) is the most heavily used to date in oncological applications. However, there are clinical gaps in the effectiveness of [18F]FDG PET, and increasingly, PET tracers targeting very specific molecular and even \u2018druggable\u2019 pathways are required. As a result, there is a great demand for additional radiopharmaceuticals with unique targeting capability for molecular imaging. Recently, a glutamate-based tracer, (S)-4-(3-[18F]fluoropropyl)-L-glutamic acid ([18F]FSPG), has started to receive great attention as it has been shown to specifically target the cystine/glutamate antiporter (xc\u2212)."
+    },
+    "Question_2": {
+        "Context": "The text discusses the dosimetry and biodistribution of a PET tracer.",
+        "Question": "Which organs showed low background uptake of the PET tracer [18F]FSPG?",
+        "A": "Brain, lung, liver, and bowel",
+        "B": "Heart, kidney, spleen, and pancreas",
+        "C": "Stomach, intestines, bladder, and gallbladder",
+        "D": "Muscles, bones, skin, and eyes",
+        "Answer": "A",
+        "Source": "Of note, the low uptake in the brain, lung, liver, and bowel renders [18F]FSPG an excellent imaging agent characterized by high tumor-to-background ratios."
+    },
+    "Question_3": {
+        "Context": "The text mentions the production of the PET tracer [18F]FSPG.",
+        "Question": "What were the average radiochemical yields of [18F]FSPG using TRACERlab\u2122 FXFN and FASTlab\u2122?",
+        "A": "15.2% and 20.5%",
+        "B": "22.56% and 30.82%",
+        "C": "10.5% and 18.9%",
+        "D": "28.3% and 35.6%",
+        "Answer": "B",
+        "Source": "Starting with activity levels of 60\u201385 GBq, the fully-automated process to produce [18F]FSPG took less than 45 min with average radiochemical yields of 22.56 \u00b1 0.97% and 30.82 \u00b1 1.60% (non-decay corrected) using TRACERlab\u2122 FXFN and FASTlab\u2122, respectively."
+    },
+    "Question_4": {
+        "Context": "The text discusses the quality control of the PET tracer [18F]FSPG.",
+        "Question": "What was the radiochemical purity of the formulated [18F]FSPG solution?",
+        "A": "80%",
+        "B": "90%",
+        "C": "95%",
+        "D": "98%",
+        "Answer": "C",
+        "Source": "The radiochemical purities were > 95% and the formulated [18F]FSPG solution was determined to be sterile and colorless with the pH of 6.5\u20137.5."
+    },
+    "Question_5": {
+        "Context": "The text mentions the clinical trials using the PET tracer [18F]FSPG.",
+        "Question": "What is the purpose of the clinical trials using [18F]FSPG PET?",
+        "A": "To study brain function",
+        "B": "To detect heart diseases",
+        "C": "To investigate tumor detection",
+        "D": "To analyze bone density",
+        "Answer": "C",
+        "Source": "While the clinical trials using [18F]FSPG PET are currently underway, the automated approaches reported herein will accelerate the clinical adoption of this radiotracer and warrant centralized and large-scale production of [18F]FSPG."
+    },
+    "Question_6": {
+        "Context": "The text discusses the demand for additional radiopharmaceuticals.",
+        "Question": "Why is there a great demand for additional radiopharmaceuticals with unique targeting capability for molecular imaging?",
+        "A": "To study plant biology",
+        "B": "To investigate geological formations",
+        "C": "To target specific molecular pathways",
+        "D": "To explore oceanography",
+        "Answer": "C",
+        "Source": "However, there are clinical gaps in the effectiveness of [18F]FDG PET, and increasingly, PET tracers targeting very specific molecular and even \u2018druggable\u2019 pathways are required."
+    },
+    "Question_7": {
+        "Context": "The text discusses the role of amino acids in cancer cells.",
+        "Question": "Why is the demand for amino acids elevated in cancer cells?",
+        "A": "To produce energy",
+        "B": "To maintain cell structure",
+        "C": "Due to accelerated growth rate",
+        "D": "To regulate body temperature",
+        "Answer": "C",
+        "Source": "Due to an accelerated growth rate in cancer cells, the demand for amino acids is elevated as well."
+    },
+    "Question_8": {
+        "Context": "The text mentions the role of the xc\u2212 antiporter in cancer cells.",
+        "Question": "What does the xc\u2212 antiporter mediate in cancer cells?",
+        "A": "Uptake of glucose",
+        "B": "Uptake of amino acids",
+        "C": "Uptake of lipids",
+        "D": "Uptake of vitamins",
+        "Answer": "B",
+        "Source": "The xc\u2212 antiporter is a plasma membrane transporter mediating cellular uptake of cystine in exchange for intracellular glutamate with an equal stoichiometry ratio."
+    },
+    "Question_9": {
+        "Context": "The text discusses the impact of xc\u2212 antiporter activity on cancer cells.",
+        "Question": "How does xc\u2212 antiporter activity promote radioresistance in cancer cells?",
+        "A": "By inducing apoptosis",
+        "B": "By inhibiting ferroptosis",
+        "C": "By increasing oxidative stress",
+        "D": "By enhancing cell proliferation",
+        "Answer": "B",
+        "Source": "Lei et al. (2020) discovered that xc\u2212 antiporter activity promotes radioresistance largely through inhibiting ferroptosis, a form of regulated cell death induced by lipid peroxidation."
+    },
+    "Question_10": {
+        "Context": "The text mentions the clinical studies using the PET tracer [18F]FSPG.",
+        "Question": "What type of tumors were examined in patients using [18F]FSPG PET?",
+        "A": "Breast cancer",
+        "B": "Prostate cancer",
+        "C": "Non-small cell lung cancer",
+        "D": "Colon cancer",
+        "Answer": "C",
+        "Source": "Recent clinical studies examining dosimetry and biodistribution of [18F]FSPG in healthy volunteers and tumor detection in patients with non-small cell lung cancer, hepatocellular carcinoma, and brain tumors have shown promising results."
+    }
+}

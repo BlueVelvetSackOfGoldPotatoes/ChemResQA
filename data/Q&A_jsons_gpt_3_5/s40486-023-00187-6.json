@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Information about a new material EOPPA designed in the paper.",
+        "Question": "What is the main feature of EOPPA as mentioned in the text?",
+        "A": "Low thermal stability",
+        "B": "Poor solubility",
+        "C": "High charge carrier mobility",
+        "D": "Limited optoelectronic properties",
+        "Answer": "C",
+        "Source": "The EOPPA compound was considered a tough, tall-performing semiconductor with the versatility of a thin-film gadget over 0.18 cm2 V\u22121 S\u22121."
+    },
+    "Question_2": {
+        "Context": "Details about the synthesis process of EOPPA.",
+        "Question": "What was used as a catalyst in the synthesis of EOPPA?",
+        "A": "Pd (pph3)4",
+        "B": "Na2CO3",
+        "C": "NaBH4",
+        "D": "Water",
+        "Answer": "A",
+        "Source": "add 6(trifluoromethanesulfonate) 2phenyl anthracene (0.036 g or 0.74 mol), 4(2Etheyl Octyl) Phenylboronic acid pinacol ester phenyl boric acid (0.25 g or 0.74 mol), and tetra (triphenylphosphine) palladium as a catalyst Pd (pph3)4 (0.036 g or 0.32 \u00d7 10\u22124 mol)."
+    },
+    "Question_3": {
+        "Context": "Information about the charge transport properties of EOPPA.",
+        "Question": "How was the charge mobility of EOPPA thin films measured?",
+        "A": "By UV-Vis spectroscopy",
+        "B": "Through X-ray diffraction",
+        "C": "Using cyclic voltammetry",
+        "D": "By thermal gravimetric analysis",
+        "Answer": "C",
+        "Source": "The mobility tests were conducted on the complete system of devices under natural environmental conditions, providing valuable insights into the performance of the thin film devices in the air."
+    },
+    "Question_4": {
+        "Context": "Details about the crystal structure analysis of EOPPA.",
+        "Question": "What technique was primarily used to analyze the crystal structure of EOPPA?",
+        "A": "Transmission electron microscopy",
+        "B": "X-ray diffraction",
+        "C": "Selected area electron diffraction",
+        "D": "Optical microscope",
+        "Answer": "B",
+        "Source": "The X-ray techniques primarily revealed peak positions rather than providing detailed surface information."
+    },
+    "Question_5": {
+        "Context": "Information about the thermal stability of EOPPA.",
+        "Question": "What was the decomposition temperature of EOPPA as indicated in the text?",
+        "A": "125 \u00b0C",
+        "B": "200 \u00b0C",
+        "C": "225 \u00b0C",
+        "D": "250 \u00b0C",
+        "Answer": "C",
+        "Source": "The EOPPA compound demonstrated a decomposition temperature (Td, 5% weight loss) of approximately 225 \u00b0C."
+    },
+    "Question_6": {
+        "Context": "Details about the charge transport properties of EOPPA.",
+        "Question": "What was the charge mobility value of EOPPA thin films?",
+        "A": "0.10 cm2 V\u22121 S\u22121",
+        "B": "0.18 cm2 V\u22121 S\u22121",
+        "C": "0.25 cm2 V\u22121 S\u22121",
+        "D": "0.30 cm2 V\u22121 S\u22121",
+        "Answer": "B",
+        "Source": "Remarkably, the calculated mobility values exceeded 0.18 cm2 V\u22121 S\u22121."
+    },
+    "Question_7": {
+        "Context": "Details about the synthesis process of EOPPA.",
+        "Question": "What was the yield percentage of the final product of EOPPA synthesis?",
+        "A": "50%",
+        "B": "60%",
+        "C": "70%",
+        "D": "57.93%",
+        "Answer": "D",
+        "Source": "Then 0.20 g (57.93%) of a yellowish solid was obtained."
+    },
+    "Question_8": {
+        "Context": "Information about the crystal structure analysis of EOPPA.",
+        "Question": "What did the X-ray diffraction peaks indicate about EOPPA?",
+        "A": "Amorphous structure",
+        "B": "Crystallized material",
+        "C": "Liquid state",
+        "D": "Gas state",
+        "Answer": "B",
+        "Source": "The XRD peaks indicate that EOPPA is a crystallized material."
+    },
+    "Question_9": {
+        "Context": "Details about the charge transport properties of EOPPA.",
+        "Question": "What was used as an electrolyte in the cyclic voltammetry analysis of EOPPA?",
+        "A": "Water",
+        "B": "Tetrabutylammonium hexafluorophosphate",
+        "C": "Ethanol",
+        "D": "Toluene",
+        "Answer": "B",
+        "Source": "Cyclic voltammetry (CV) curves were scanned on a CHI660C electrochemistry station in dry CH2Cl2, tetrabutlyammonium hexafluorophosphate (Bu4NPF6) was used as an electrolyte (0.1 M)."
+    },
+    "Question_10": {
+        "Context": "Information about the charge transport properties of EOPPA.",
+        "Question": "What was the calculated HOMO energy level of EOPPA?",
+        "A": "-5.6 eV",
+        "B": "-5.138 eV",
+        "C": "-4.8 eV",
+        "D": "-6.0 eV",
+        "Answer": "B",
+        "Source": "In the CV analysis of EOPPA, the calculated HOMO level was determined to be approximately \u2212 5.138 eV."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the growth optimization of Chlorella sp. S5 under different conditions.",
+        "Question": "What was the specific growth rate of Chlorella sp. S5 during the study?",
+        "A": "0.12 \u00b5/day",
+        "B": "0.14 \u00b5/day",
+        "C": "0.16 \u00b5/day",
+        "D": "0.18 \u00b5/day",
+        "Answer": "B",
+        "Source": "The specific growth rate of Chlorella sp. S5 was found to be 0.14 \u00b5/day."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the lipid content of Chlorella sp. S5 for potential biofuel production.",
+        "Question": "What was the lipid content of Chlorella sp. S5 during the study?",
+        "A": "14%",
+        "B": "16%",
+        "C": "18%",
+        "D": "20%",
+        "Answer": "B",
+        "Source": "The lipid content of Chlorella sp. S5 was found to be 16%."
+    },
+    "Question_3": {
+        "Context": "The study investigated the volumetric lipid productivity of Chlorella sp. S5.",
+        "Question": "What was the volumetric lipid productivity of Chlorella sp. S5 during the study?",
+        "A": "40.2 mgL-1 day-1",
+        "B": "46.4 mgL-1 day-1",
+        "C": "50.6 mgL-1 day-1",
+        "D": "55.8 mgL-1 day-1",
+        "Answer": "B",
+        "Source": "The volumetric lipid productivity of Chlorella sp. S5 was 46.4 mgL-1 day-1."
+    },
+    "Question_4": {
+        "Context": "The study examined the reduction of nitrates and phosphates from agricultural runoff using Chlorella sp. S5.",
+        "Question": "What percentage reduction of nitrates was achieved by Chlorella sp. S5 in agricultural runoff treatment?",
+        "A": "85%",
+        "B": "90%",
+        "C": "95%",
+        "D": "98%",
+        "Answer": "C",
+        "Source": "Chlorella sp. S5 achieved a 95% reduction in nitrates from agricultural runoff."
+    },
+    "Question_5": {
+        "Context": "The study analyzed the reduction of phosphates in agricultural runoff by Chlorella sp. S5.",
+        "Question": "What percentage reduction of phosphates was achieved by Chlorella sp. S5 in agricultural runoff treatment?",
+        "A": "85%",
+        "B": "90%",
+        "C": "91%",
+        "D": "95%",
+        "Answer": "D",
+        "Source": "Chlorella sp. S5 achieved a 91% reduction in phosphates from agricultural runoff."
+    },
+    "Question_6": {
+        "Context": "The study investigated the biodiesel production process using B. subtilis Q4 MZ841642.",
+        "Question": "What was the total FAME content of the biodiesel produced?",
+        "A": "95%",
+        "B": "98%",
+        "C": "99%",
+        "D": "100%",
+        "Answer": "B",
+        "Source": "The GC\u2013MS analysis showed that the total FAME content of biodiesel produced was 98%."
+    },
+    "Question_7": {
+        "Context": "The study evaluated the FAME composition of the algal biodiesel produced.",
+        "Question": "Which fatty acid methyl ester had the highest percentage in the algal biodiesel?",
+        "A": "Methyl palmitate",
+        "B": "Methyl linoleate",
+        "C": "Methyl myristate",
+        "D": "Methyl stearate",
+        "Answer": "A",
+        "Source": "The FAME content of algal biodiesel was highest for methyl palmitate at 32.1%."
+    },
+    "Question_8": {
+        "Context": "The study examined the anaerobic digestion of oil-free algal biomass for biogas production.",
+        "Question": "What was the biomethane yield obtained from the lipid-extracted algal biomass?",
+        "A": "330.34 NmL/g VSadded",
+        "B": "364.34 NmL/g VSadded",
+        "C": "400 NmL/g VSadded",
+        "D": "450 NmL/g VSadded",
+        "Answer": "B",
+        "Source": "The biomethane yield obtained from lipid-extracted biomass was 364.34 NmL/g VSadded."
+    },
+    "Question_9": {
+        "Context": "The study investigated the anaerobic digestion process using different substrates.",
+        "Question": "What was the biogas yield obtained from the whole biomass of Chlorella sp. S5?",
+        "A": "300 NmL/g VSadded",
+        "B": "330.34 NmL/g VSadded",
+        "C": "364.34 NmL/g VSadded",
+        "D": "400 NmL/g VSadded",
+        "Answer": "B",
+        "Source": "The biogas yield obtained from whole biomass was 330.34 NmL/g VSadded."
+    },
+    "Question_10": {
+        "Context": "The study evaluated the growth of B. subtilis Q4 under varying concentrations of methanol.",
+        "Question": "At which methanol concentration did B. subtilis Q4 show the highest growth?",
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%",
+        "Answer": "B",
+        "Source": "B. subtilis Q4 showed high growth at 10% methanol at all the incubation points."
+    }
+}

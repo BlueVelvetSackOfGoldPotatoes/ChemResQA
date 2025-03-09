@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the propagation of Rayleigh waves in a transversely isotropic magneto-thermoelastic medium with mass diffusion and three-phase-lag heat transfer. Various wave characteristics are computed numerically and depicted graphically.",
+        "Question": "What is the influence of wavenumber on the phase velocity of Rayleigh waves in the transversely isotropic magneto-thermoelastic medium?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "First increases then decreases",
+        "Answer": "A",
+        "Source": "Phase velocity defines the speed at which waves oscillating at a particular frequency propagate and it depends on the real component of the wave number. The phase velocities are given by V = \u03c9 Re \u03be."
+    },
+    "Question_2": {
+        "Context": "The study discusses the effects of three-phase-lag heat transfer, GN type-III, and LS theory of heat transfer on various quantities in the transversely isotropic magneto-thermoelastic medium.",
+        "Question": "What factor does the attenuation coefficient of Rayleigh waves depend on in the transversely isotropic magneto-thermoelastic medium?",
+        "A": "Wavenumber",
+        "B": "Phase velocity",
+        "C": "Specific loss",
+        "D": "Penetration depth",
+        "Answer": "A",
+        "Source": "The attenuation coefficient is defined as Q = Img \u03be. It depends on the imaginary component of the wavenumber."
+    },
+    "Question_3": {
+        "Context": "The study presents the specific loss of Rayleigh waves in the transversely isotropic magneto-thermoelastic medium under the influence of different theories of thermoelasticity.",
+        "Question": "What parameter influences the specific loss of Rayleigh waves in the transversely isotropic magneto-thermoelastic medium?",
+        "A": "Wavenumber",
+        "B": "Attenuation coefficient",
+        "C": "Phase velocity",
+        "D": "Penetration depth",
+        "Answer": "A",
+        "Source": "The specific loss W is given by W = \u0394W/W = 4\u03c0 Img \u03be Re \u03be."
+    },
+    "Question_4": {
+        "Context": "The study investigates the penetration depth of Rayleigh waves in the transversely isotropic magneto-thermoelastic medium under the influence of different theories of thermoelasticity.",
+        "Question": "What does the penetration depth of Rayleigh waves depend on in the transversely isotropic magneto-thermoelastic medium?",
+        "A": "Wavenumber",
+        "B": "Phase velocity",
+        "C": "Specific loss",
+        "D": "Attenuation coefficient",
+        "Answer": "A",
+        "Source": "Penetration depth describes how deep a wave can penetrate into a material and describes the decay of waves inside of a material. The penetration depth S is defined as 1/Img \u03be."
+    },
+    "Question_5": {
+        "Context": "The study analyzes the concentration changes of Rayleigh waves in the transversely isotropic magneto-thermoelastic medium under the influence of different theories of thermoelasticity.",
+        "Question": "What factor leads to an increase in the concentration of Rayleigh waves in the transversely isotropic magneto-thermoelastic medium?",
+        "A": "Wavenumber",
+        "B": "Phase velocity",
+        "C": "Specific loss",
+        "D": "Penetration depth",
+        "Answer": "A",
+        "Source": "From the graph, we observe that the concentration C increases with increase in wavenumber for all the three theories with a little magnitude difference."
+    },
+    "Question_6": {
+        "Context": "The study examines the variations of Rayleigh wave velocity with wavenumber in the transversely isotropic magneto-thermoelastic medium under the influence of different theories of thermoelasticity.",
+        "Question": "How does the Rayleigh wave velocity change with wavenumber in the transversely isotropic magneto-thermoelastic medium?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "First decreases then remains constant",
+        "Answer": "A",
+        "Source": "The Rayleigh wave velocity increases for the GN-III theory case and no change for TPL case, while for L-S theory, it first decreases and then remains the same with an increase in wavenumber."
+    },
+    "Question_7": {
+        "Context": "The study explores the temperature changes of Rayleigh waves in the transversely isotropic magneto-thermoelastic medium under the influence of different theories of thermoelasticity.",
+        "Question": "How does the temperature change with wavenumber in the transversely isotropic magneto-thermoelastic medium?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "First increases then decreases",
+        "Answer": "A",
+        "Source": "From the graph, we observe that the temperature T increases with increase in wavenumber for all the three theories with a little magnitude difference."
+    },
+    "Question_8": {
+        "Context": "The study investigates the influence of three-phase-lag theory, GN-III theory, and LS theory on the tangential stress components in the transversely isotropic magneto-thermoelastic medium.",
+        "Question": "How does tangential stress tzx vary with wavenumber in the transversely isotropic magneto-thermoelastic medium?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "First decreases then increases",
+        "Answer": "B",
+        "Source": "From the graph, we observe that tangential stress tzx decreases with wave number in all the three theories with a little difference in magnitude."
+    },
+    "Question_9": {
+        "Context": "The study analyzes the variations of normal stress components in the transversely isotropic magneto-thermoelastic medium under the influence of different theories of thermoelasticity.",
+        "Question": "How does the normal stress tzz change with wavenumber in the transversely isotropic magneto-thermoelastic medium?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "First increases then decreases",
+        "Answer": "A",
+        "Source": "Here, we observe that the normal stress tzz increases with increase in wavenumber with a small magnitude difference in all the three theories."
+    },
+    "Question_10": {
+        "Context": "The study examines the deviations of the attenuation coefficient with wavenumber in the transversely isotropic magneto-thermoelastic medium under the influence of different theories of thermoelasticity.",
+        "Question": "How does the attenuation coefficient vary with wavenumber in the transversely isotropic magneto-thermoelastic medium?",
+        "A": "Gradually increasing",
+        "B": "Increasing in the form of a curve",
+        "C": "Decreases",
+        "D": "First increases then decreases",
+        "Answer": "C",
+        "Source": "For L-S theory, the value of the attenuation coefficient decreases with increase in wavenumber."
+    }
+}

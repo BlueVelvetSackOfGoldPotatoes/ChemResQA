@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Nickel nanoparticles have demonstrated good electrocatalytic activity towards various compounds due to their unique properties.",
+        "Question": "Which of the following compounds have nickel nanoparticles shown good electrocatalytic activity towards?",
+        "A": "Dopamine, ascorbic acid, uric acid",
+        "B": "Sodium chloride, potassium bromide, calcium carbonate",
+        "C": "Benzene, toluene, methanol",
+        "D": "Glucose, oxygen, ethanol",
+        "Answer": "A",
+        "Source": "Nickel nanoparticles have demonstrated good electrocatalytic activity towards dopamine, ascorbic acid, uric acid, nitrite, glucose, ethanol, methanol, oxygen, catechol, and hydroquinone."
+    },
+    "Question_2": {
+        "Context": "Multi-walled carbon nanotubes (MWCNTs) are appreciated as electrode modifiers in electrochemical sensor fabrication due to their unique characteristics.",
+        "Question": "What are the characteristics of multi-walled carbon nanotubes that make them suitable as electrode modifiers in electrochemical sensor fabrication?",
+        "A": "Low surface area and chemical reactivity",
+        "B": "Electronic conductivity, large surface area, and chemical inertness",
+        "C": "High thermal expansion and low electrical conductivity",
+        "D": "Mechanical flexibility and high chemical reactivity",
+        "Answer": "B",
+        "Source": "Scientists have come to appreciate MWCNTs as electrode modifiers in electrochemical sensor fabrication owing to their electronic conductivity, huge surface area, and chemical inertness."
+    },
+    "Question_3": {
+        "Context": "Phthalocyanine is a macrocyclic compound with a central planar molecule that can bind various analytes.",
+        "Question": "What type of interactions allow phthalocyanine to bind a variety of analytes?",
+        "A": "Ionic bonding and metallic bonding",
+        "B": "Hydrogen bonds, coordination interactions, and van der Waals forces",
+        "C": "Covalent bonding and dipole-dipole interactions",
+        "D": "Magnetic interactions and London dispersion forces",
+        "Answer": "B",
+        "Source": "The presence of hydrogen bonds, coordination interactions, and van der Waals forces allows Pc to bind a variety of analytes in an indifferent way."
+    },
+    "Question_4": {
+        "Context": "Metal phthalocyanines (MPc) have been extensively utilized due to their excellent catalytic properties.",
+        "Question": "What role do the central metal ions play in metal phthalocyanines?",
+        "A": "They decrease the catalytic activity of the compound.",
+        "B": "They are responsible for the high thermal stability of the compound.",
+        "C": "They contribute to the high catalytic activity of the compound.",
+        "D": "They reduce the electrical conductivity of the compound.",
+        "Answer": "C",
+        "Source": "In metal phthalocyanine, the central metal ions play a significant role in its high catalytic activity."
+    },
+    "Question_5": {
+        "Context": "Nickel phthalocyanine multi-walled carbon nanotubes (NiPcMWCNTs) nanocomposites are used to construct electrochemical sensors.",
+        "Question": "What advantages do NiPcMWCNTs nanocomposites offer when used in electrochemical sensors?",
+        "A": "Low selectivity and high limit of detection",
+        "B": "High selectivity, low limit of detection, and large current response",
+        "C": "Poor reproducibility and low sensitivity",
+        "D": "Narrow concentration range and low current response",
+        "Answer": "B",
+        "Source": "Nickel phthalocyanine multi-walled carbon nanotubes (NiPcMWCNTs) nanocomposites are now used to make electrochemical sensors that can detect a wide range of analytes with high selectivity, a low limit of detection, a large current response, high sensitivity, great reproducibility and repeatability, a large capacitance, and excellent stability over a wide concentration range."
+    },
+    "Question_6": {
+        "Context": "The electrochemical reduction of bromate is a significant process due to the potential health risks associated with bromate.",
+        "Question": "What is the maximum acceptable level of bromate in drinking water set by the World Health Organization and the US Environmental Protection Agency?",
+        "A": "0.078 \u00b5M",
+        "B": "25 \u00b5g L\u22121",
+        "C": "10 \u00b5g L\u22121",
+        "D": "1 \u00b5M",
+        "Answer": "A",
+        "Source": "The World Health Organization, together with the US Environmental Protection Agency (USEPA), has set 0.078 \u00b5M (10 \u00b5g L\u22121) as the maximum acceptable level (MAL) owing to its carcinogenicity."
+    },
+    "Question_7": {
+        "Context": "Electrochemical impedance spectroscopy (EIS) is a technique used to investigate the electron transport behaviors of nanomaterials.",
+        "Question": "What does a lower value of charge transfer resistance (Rct) in EIS indicate about an electrode's electron transport capability?",
+        "A": "Slower electron transfer",
+        "B": "Higher electron transfer",
+        "C": "No impact on electron transfer",
+        "D": "Decreased electrical conductivity",
+        "Answer": "B",
+        "Source": "The results of the EIS and CV experiments conducted in 5 mM K3(Fe(CN)6/K4(Fe(CN)6 made in 0.1 M of PBS (pH 7) revealed that the NiPcMWCNTs/GCE exhibited higher current response, faster electron transfer, and high specific capacitance compared to other electrodes."
+    },
+    "Question_8": {
+        "Context": "The detection limit (LoD) and sensitivity are important parameters in evaluating the performance of electrochemical sensors.",
+        "Question": "What does a lower detection limit (LoD) in an electrochemical sensor indicate?",
+        "A": "Higher concentration of analyte is required for detection",
+        "B": "Lower sensitivity to the analyte",
+        "C": "Higher sensitivity to the analyte",
+        "D": "The sensor is unsuitable for trace detection",
+        "Answer": "C",
+        "Source": "Using the EIS technique, an LoD of 6.72 \u03bcM was obtained with a sensitivity of 483.7 \u03bcA \u03bcM\u22121 over a linear dynamic range (LDR) of 24\u2013100 \u03bcM. Whereas, with the SWV technique, a lower LoD (1.47 \u03bcM) was obtained with a higher sensitivity (1293 \u03bcA \u03bcM\u22121) over an LDR of 12\u201356 \u03bcM."
+    },
+    "Question_9": {
+        "Context": "The electrochemical behavior of electrodes can be influenced by the pH of the electrolyte solution.",
+        "Question": "What effect does increasing the pH of the electrolyte have on the cathodic peak potentials during the electrochemical reduction of bromate?",
+        "A": "No change in the cathodic peak potentials",
+        "B": "A positive shift in the cathodic peak potentials",
+        "C": "A negative shift in the cathodic peak potentials",
+        "D": "Elimination of the cathodic peak potentials",
+        "Answer": "C",
+        "Source": "With an increasing pH of the electrolyte, a negative shift in the cathodic peak potentials was noticed, suggesting that the electrocatalytic reduction of bromate involves proton transfer at the modified nanocomposite electrode."
+    },
+    "Question_10": {
+        "Context": "The electrochemical reduction of bromate at a modified electrode can involve multiple steps and electron transfers.",
+        "Question": "What is the proposed mechanism for the electrochemical reduction of bromate at a nickel phthalocyanine multi-walled carbon nanotubes modified electrode?",
+        "A": "Reduction of bromate to bromide with simultaneous oxidation of NiIIPc to NiIIIPc",
+        "B": "Oxidation of bromate to bromine with simultaneous reduction of NiIIIPc to NiIIPc",
+        "C": "Reduction of bromate to bromine with no change in the oxidation state of NiPc",
+        "D": "Oxidation of bromate to oxygen with simultaneous reduction of NiIIPc to Ni0Pc",
+        "Answer": "A",
+        "Source": "The proposed mechanism of bromate reduction at NiPcMWCNTs/GCE, as illustrated in Scheme 1, involves two phases. The first phase is the oxidation of NiIIPc to NiIIIPc, while the second phase is the reduction of bromate to bromide and NiIIPc regeneration."
+    }
+}

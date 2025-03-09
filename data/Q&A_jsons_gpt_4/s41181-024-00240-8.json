@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Multidrug resistance-associated protein 1 (MRP1) is a transporter protein that pumps various compounds out of cells using the energy of ATP hydrolysis. It is involved in physiological and pathophysiological processes in the body.",
+        "Question": "What is the primary function of Multidrug resistance-associated protein 1 (MRP1)?",
+        "A": "Synthesizing ATP",
+        "B": "Efflux of various compounds out of cells",
+        "C": "DNA replication",
+        "D": "Protein degradation",
+        "Answer": "B",
+        "Source": "Multidrug resistance-associated protein 1 (MRP1) is a member of the adenosine triphosphate (ATP)-binding cassette superfamily of transporters and pumps various compounds, including therapeutic agents and physiological substances, out of cells using the energy of ATP hydrolysis."
+    },
+    "Question_2": {
+        "Context": "In the synthesis of certain radiolabeled compounds, the use of different solvents can affect the selectivity and yield of the desired product.",
+        "Question": "Which solvent improved the selectivity of [11C]7m6BP/[11C]9m6BP in the methylation reaction?",
+        "A": "Acetone",
+        "B": "Acetonitrile",
+        "C": "Tetrahydrofuran (THF)",
+        "D": "N,N-dimethylformamide",
+        "Answer": "C",
+        "Source": "Several less polar solvents, including tetrahydrofuran (THF), 2-methyltetrahydrofuran (2-MeTHF), and ethyl acetate (AcOEt) improved the [11C]7m6BP/[11C]9m6BP selectivity from 1:1 to 2:1, compared with the conventionally used solvents for the alkylation of 6-halopurines, acetone, acetonitrile, and N,N-dimethylformamide."
+    },
+    "Question_3": {
+        "Context": "The synthesis of radiolabeled compounds often requires the use of a methylating agent to introduce a radioactive carbon atom into the molecule.",
+        "Question": "Which methylating agent was used to increase the conversion at a lower temperature in the synthesis of [11C]7m6BP?",
+        "A": "[11C]CH3Br",
+        "B": "[11C]CH3Cl",
+        "C": "[11C]CH3F",
+        "D": "[11C]CH3OTf",
+        "Answer": "D",
+        "Source": "[11C]Methyl triflate ([11C]CH3OTf) was thus used as a methylating agent to increase the conversion at a lower temperature."
+    },
+    "Question_4": {
+        "Context": "In the context of organic synthesis, the reaction temperature can significantly influence the reaction rate and the solubility of reactants in the solvent.",
+        "Question": "At what temperature did the 11C-methylation using [11C]CH3OTf proceed efficiently in solvents like THF, 2-MeTHF, and AcOEt?",
+        "A": "80 \u00b0C",
+        "B": "100 \u00b0C",
+        "C": "140 \u00b0C",
+        "D": "180 \u00b0C",
+        "Answer": "B",
+        "Source": "The 11C-methylation using [11C]CH3OTf at 100 \u00b0C proceeded efficiently in THF, 2-MeTHF, and AcOEt with maintenance of the improved selectivity."
+    },
+    "Question_5": {
+        "Context": "The radiochemical yield (RCY) is an important parameter in the synthesis of radiolabeled compounds, indicating the amount of desired radioactive product obtained from the starting material.",
+        "Question": "What was the range of isolated RCYs (decay corrected) for the solvent 2-MeTHF in the synthesis of [11C]7m6BP?",
+        "A": "22-31%",
+        "B": "24-28%",
+        "C": "29-35%",
+        "D": "6.6-11%",
+        "Answer": "C",
+        "Source": "The isolated RCYs (decay corrected) for THF, 2-MeTHF, and AcOEt were 24-28%, 29-35%, and 22-31% (n = 3), respectively."
+    },
+    "Question_6": {
+        "Context": "In the synthesis of radiolabeled compounds, the choice of solvent can affect the solubility of the precursor and the efficiency of the reaction.",
+        "Question": "Which solvent was observed to have poor solubility of 6-bromopurine, leading to a considerable amount of unreacted [11C]CH3I?",
+        "A": "Diisopropyl ether (iPr2O)",
+        "B": "Dichloromethane (DCM)",
+        "C": "Toluene (Tol)",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "When iPr2O, CHCl3, Tol, or DCM was used, a considerable amount of unreacted [11C]CH3I was observed, and the reaction scarcely proceeded even at high temperature (180 \u00b0C)."
+    },
+    "Question_7": {
+        "Context": "The use of a less polar solvent in the alkylation reaction of 6-halopurines can influence the selectivity of the reaction towards the desired N7- or N9-alkylated purine isomer.",
+        "Question": "Which of the following solvents did NOT improve the [11C]7m6BP/[11C]9m6BP selectivity to 2:1?",
+        "A": "1,4-Dioxane (1,4-DO)",
+        "B": "2-Methyltetrahydrofuran (2-MeTHF)",
+        "C": "Ethyl acetate (AcOEt)",
+        "D": "Acetonitrile (MeCN)",
+        "Answer": "D",
+        "Source": "While 1,4-DO and 2-MeTHF improved the [11C]7m6BP/[11C]9m6BP selectivity to 2:1, the methylation did not proceed efficiently. The use of less polar solvents\u2014AcOMe, AcOEt, MP, THF, and 1,3-DO\u2014appeared promising for increasing the RCY of [11C]7m6BP at 140 \u00b0C or 180 \u00b0C."
+    },
+    "Question_8": {
+        "Context": "In radiochemistry, the molar activity (Am) of a radiolabeled compound is a measure of the radioactivity per amount of substance and is an important parameter for determining the purity and usefulness of the compound.",
+        "Question": "What was the range of molar activity (Am) for [11C]7m6BP when synthesized using THF as the solvent?",
+        "A": "79-180 GBq/\u00b5mol",
+        "B": "98-200 GBq/\u00b5mol",
+        "C": "100-170 GBq/\u00b5mol",
+        "D": "110-160 GBq/\u00b5mol",
+        "Answer": "A",
+        "Source": "The molar activity (Am) was determined by comparing the assayed radioactivity to the mass associated with the 7m6BP UV peak at 288 nm. The molar activity (Am) for THF was 140-180 GBq/\u00b5mol."
+    },
+    "Question_9": {
+        "Context": "The synthesis of radiolabeled compounds for clinical use requires not only high selectivity and yield but also high radiochemical purity to ensure the safety and effectiveness of the compound.",
+        "Question": "What was the radiochemical purity of [11C]7m6BP higher than 95% up to how many minutes after being formulated?",
+        "A": "30 minutes",
+        "B": "45 minutes",
+        "C": "60 minutes",
+        "D": "90 minutes",
+        "Answer": "C",
+        "Source": "The radiochemical purity of [11C]7m6BP was higher than 95% up to 60 min after being formulated."
+    },
+    "Question_10": {
+        "Context": "The synthesis of radiolabeled compounds often involves trapping a reactive intermediate, such as [11C]CH3OTf, in a mixture containing the precursor and a base.",
+        "Question": "What base was used in the synthesis of [11C]7m6BP?",
+        "A": "Sodium bicarbonate",
+        "B": "Potassium carbonate",
+        "C": "Calcium hydroxide",
+        "D": "Magnesium oxide",
+        "Answer": "B",
+        "Source": "Potassium Carbonate (K2CO3, guaranteed reagent) was purchased from FUJIFILM Wako Pure Chemical Corporation and was ground in a mortar into a fine powder, which was used for manual and automated syntheses."
+    }
+}

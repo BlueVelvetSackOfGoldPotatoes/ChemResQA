@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Functional lipids are modified natural lipids that can provide health benefits. These modifications can be achieved through various methods including enzymatic catalysis.",
+        "Question": "What is one advantage of enzymatic catalysis over chemical methods for lipid modification?",
+        "A": "Higher energy consumption",
+        "B": "Increased byproduct formation",
+        "C": "High selectivity",
+        "D": "Harsher operating conditions",
+        "Answer": "C",
+        "Source": "In contrast to chemical methods, enzymes stand out as biodegradable biocatalysts, offering significant advantages in the industry, such as high selectivity, mild operating conditions, and reduced byproduct formation."
+    },
+    "Question_2": {
+        "Context": "Enzymes such as lipases and phospholipases are used to modify the composition or position of fatty acids in lipids, which is a key step in the synthesis of functional lipids.",
+        "Question": "Which enzymes are primarily used for the hydrolysis, esterification, or interesterification of structured triglycerides (TAGs)?",
+        "A": "Proteases and amylases",
+        "B": "Lipases and phospholipases",
+        "C": "Ligases and oxidoreductases",
+        "D": "Isomerases and transferases",
+        "Answer": "B",
+        "Source": "Structured TAGs undergo hydrolysis, esterification, or interesterification catalyzed by enzymes such as lipases and phospholipases, with a primary focus on modifying the composition and/or position of fatty acids in lipids."
+    },
+    "Question_3": {
+        "Context": "Protein engineering techniques can be used to overcome challenges faced by enzymes in industrial applications, such as low activity or stability.",
+        "Question": "What is one of the main goals of implementing protein engineering techniques in the context of enzyme performance for functional lipid synthesis?",
+        "A": "To reduce the purity of the enzymes",
+        "B": "To enhance enzyme performance",
+        "C": "To increase the cost of enzyme production",
+        "D": "To decrease enzyme selectivity",
+        "Answer": "B",
+        "Source": "To address these challenges, protein engineering techniques have been implemented to enhance enzyme performance in functional lipid synthesis."
+    },
+    "Question_4": {
+        "Context": "Directed evolution is a protein engineering technique that enhances enzyme properties through multiple rounds of mutation and screening.",
+        "Question": "What is the primary advantage of using directed evolution in enzyme modification?",
+        "A": "It requires a detailed understanding of protein structure",
+        "B": "It can obtain desired enzyme variants with limited knowledge of protein structure",
+        "C": "It always results in a decrease in enzyme activity",
+        "D": "It is less selective than rational design methods",
+        "Answer": "B",
+        "Source": "The advantage of directed evolution lies in its ability to obtain desired enzyme variants with limited knowledge of protein structure information and catalytic mechanisms."
+    },
+    "Question_5": {
+        "Context": "Rational design is a protein engineering approach that targets specific residues within an enzyme's substrate-binding pocket or channel to modify its catalytic activity or selectivity.",
+        "Question": "What does rational design in enzyme engineering primarily target to modify enzyme properties?",
+        "A": "The enzyme's entire amino acid sequence",
+        "B": "Residues outside of the active site",
+        "C": "Residues within the substrate-binding pocket or channel",
+        "D": "The secondary structure of the enzyme",
+        "Answer": "C",
+        "Source": "On the basis of protein sequence information, structural details, and catalytic mechanisms, the catalytic activity or selectivity modification of enzymes primarily targets residues within the substrate-binding pocket or channel."
+    },
+    "Question_6": {
+        "Context": "Enzymes can be engineered to have increased stability, which is beneficial for industrial applications where harsh conditions may denature typical enzymes.",
+        "Question": "What is a method used in protein engineering to increase the thermal stability of enzymes?",
+        "A": "Decreasing the number of active sites",
+        "B": "Introducing disulfide bonds",
+        "C": "Reducing the molecular weight of the enzyme",
+        "D": "Eliminating all flexible regions in the enzyme",
+        "Answer": "B",
+        "Source": "The introduction of covalent bonds, such as disulfide and thioether bonds, has been shown to enhance enzyme thermal stability."
+    },
+    "Question_7": {
+        "Context": "Enzymes with high selectivity are desirable for the synthesis of specific functional lipids, as they can preferentially catalyze reactions with certain substrates over others.",
+        "Question": "What is the significance of enzyme selectivity in the synthesis of functional lipids?",
+        "A": "It determines the color of the final lipid product",
+        "B": "It affects the viscosity of the reaction medium",
+        "C": "It influences the specificity of the enzyme for certain substrates",
+        "D": "It is unrelated to the enzyme's catalytic activity",
+        "Answer": "C",
+        "Source": "A diverse range of enzymes is applicable for the modification of fats, oils, and other lipids due to their inherent excellent chemo-, regio-, and stereoselectivity."
+    },
+    "Question_8": {
+        "Context": "The synthesis of functional lipids often involves the enzymatic modification of natural lipid structures to produce derivatives with specific nutritional requirements.",
+        "Question": "Which of the following is a functional lipid derivative produced through enzymatic modification?",
+        "A": "Glucose",
+        "B": "Diacylglycerols (DAGs)",
+        "C": "Amino acids",
+        "D": "Nucleotides",
+        "Answer": "B",
+        "Source": "This process yields functional lipid derivatives, including diacylglycerols (DAGs), structured triglycerides (TAGs), and structural phospholipids (PLs), precisely tailored to meet specific nutritional requirements."
+    },
+    "Question_9": {
+        "Context": "Enzyme-catalyzed reactions can be optimized by modifying the enzyme to improve its interaction with the substrate, which can lead to increased production of the desired product.",
+        "Question": "What is a potential outcome of optimizing enzyme-substrate interaction through protein engineering?",
+        "A": "Decreased production of the desired product",
+        "B": "Increased production of the desired product",
+        "C": "Unchanged enzyme specificity",
+        "D": "Reduced enzyme stability",
+        "Answer": "B",
+        "Source": "These rational strategies contribute to a certain extent in reducing screening costs, but their success is significantly influenced by the careful selection of mutation targets."
+    },
+    "Question_10": {
+        "Context": "The industrial application of enzymes in the synthesis of functional lipids can be hindered by the enzymes' suboptimal performance and high costs.",
+        "Question": "What is a challenge in the enzymatic modification of functional lipids for industrial applications?",
+        "A": "Excessively high enzyme activity",
+        "B": "Overproduction of desired lipids",
+        "C": "Low activity and stability of enzymes",
+        "D": "Too few byproducts formed",
+        "Answer": "C",
+        "Source": "Nevertheless, enzymes face challenges in industrial applications, such as low activity, stability, and undesired selectivity."
+    }
+}

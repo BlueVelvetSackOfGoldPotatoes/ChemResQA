@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Organic-inorganic hybrid perovskites are materials that have been extensively researched for their application in solar cell technology. These materials have a perovskite structure and can contain a mix of different metal ions at the B-site of their ABX3 crystal structure.",
+        "Question": "What is the ideal bandgap range for Pb-free or Pb-less perovskite materials aimed at achieving higher theoretical efficiency in solar cells?",
+        "A": "0.5\u20130.7 eV",
+        "B": "1.1\u20131.3 eV",
+        "C": "1.5\u20131.7 eV",
+        "D": "2.0\u20132.2 eV",
+        "Answer": "B",
+        "Source": "Recently, efforts to discover a Pb-free or Pb-less perovskite material with an ideal bandgap ranging 1.1\u20131.3 eV have led researchers to investigate Sn\u2013Pb mixed perovskites."
+    },
+    "Question_2": {
+        "Context": "In the context of solar cell research, bandgap bowing is a phenomenon observed when mixing different metal ions in the perovskite structure, which can result in a non-linear change in the bandgap energy.",
+        "Question": "What is the approximate bandgap of Sn\u2013Pb mixed perovskites suitable for high-efficiency solar cells?",
+        "A": "0.95 eV",
+        "B": "1.25 eV",
+        "C": "1.6 eV",
+        "D": "2.1 eV",
+        "Answer": "B",
+        "Source": "Sn\u2013Pb mixed perovskites have a bandgap of ~ 1.25 eV, which is suitable for high-efficiency single-junction and perovskite/perovskite tandem solar cells."
+    },
+    "Question_3": {
+        "Context": "In the development of perovskite solar cells, the incorporation of different metal ions can lead to various material properties. Tin (Sn) is one such metal that has been mixed with lead (Pb) to create Sn\u2013Pb mixed perovskites.",
+        "Question": "What is one of the drawbacks of incorporating Sn2+ into the crystal structure of Sn\u2013Pb mixed perovskites?",
+        "A": "Improved thin film morphologies",
+        "B": "Decreased vulnerability to oxidation",
+        "C": "Enhanced surface properties",
+        "D": "Easy oxidation of Sn2+",
+        "Answer": "D",
+        "Source": "However, incorporating Sn2+ into the crystal structure also causes various drawbacks, such as inhomogeneous thin film morphologies, easy oxidation of Sn2+, and more vulnerable surface properties."
+    },
+    "Question_4": {
+        "Context": "In the field of perovskite solar cells, the photovoltaic performance is often characterized by parameters such as open-circuit voltage (VOC), short-circuit current density (JSC), fill factor (FF), and photoconversion efficiency (PCE).",
+        "Question": "What was the efficiency of the first reported Sn\u2013Pb mixed perovskite solar cells compared to Pb-based perovskite solar cells?",
+        "A": "Approximately 25%",
+        "B": "Approximately 50%",
+        "C": "Approximately 75%",
+        "D": "Approximately 100%",
+        "Answer": "A",
+        "Source": "The first reported Sn\u2013Pb mixed PSCs had an efficiency of only approximately 25% of that of Pb-based PSCs."
+    },
+    "Question_5": {
+        "Context": "The efficiency of perovskite solar cells has been rapidly improving over the years. Researchers have been working on various compositions, including Sn\u2013Pb mixed perovskites, to achieve higher efficiencies.",
+        "Question": "As of the latest advancements, what is the highest efficiency achieved by Sn\u2013Pb mixed perovskite solar cells?",
+        "A": "14.1%",
+        "B": "17.5%",
+        "C": "21.7%",
+        "D": "23.6%",
+        "Answer": "D",
+        "Source": "Most recently, Sn\u2013Pb mixed PSCs have achieved an impressive efficiency of 23.6%."
+    },
+    "Question_6": {
+        "Context": "In perovskite solar cells, the bandgap can be tuned by altering the composition of the perovskite material. This tuning is crucial for optimizing the absorption of the solar spectrum.",
+        "Question": "What phenomenon occurs when Sn and Pb are mixed in the perovskite structure, leading to a change in the bandgap?",
+        "A": "Bandgap broadening",
+        "B": "Bandgap bowing",
+        "C": "Bandgap bridging",
+        "D": "Bandgap balancing",
+        "Answer": "B",
+        "Source": "Sn\u2013Pb perovskites can reach a bandgap of 1.25 eV due to bandgap bowing, a phenomenon in which the bandgap shrinks when Sn and Pb are mixed."
+    },
+    "Question_7": {
+        "Context": "In the study of perovskite materials for solar cell applications, the stability of the perovskite layer is a critical factor. The stability can be affected by the oxidation state of the metal ions within the perovskite structure.",
+        "Question": "Which additive has been used to inhibit the oxidation of Sn2+ ions in Sn\u2013Pb mixed perovskites?",
+        "A": "Guanidinium thiocyanate (GASCN)",
+        "B": "Formamidine sulfinic acid (FSA)",
+        "C": "Metallic Sn powder",
+        "D": "Chloride ions",
+        "Answer": "C",
+        "Source": "During the 3rd research period, researchers focused more actively on preventing the oxidation of Sn2+ ions. The primary methods reported for inhibiting oxidation involved the use of additives that act as antioxidants. Consequently, the Sn\u2013Pb mixed PSC eventually achieved an efficiency of over 21%, reducing the relative efficiency difference with Pb-based PSC to less than 20% (21.7% and 25.5% for Sn\u2013Pb mixed and Pb-based PSCs, respectively)."
+    },
+    "Question_8": {
+        "Context": "Surface treatments are employed in the fabrication of perovskite solar cells to improve the interfacial properties between the perovskite layer and the charge transport layers, which can lead to enhanced device performance.",
+        "Question": "What type of surface treatment has been used to modulate the surface of Sn\u2013Pb perovskite for better charge transfer characteristics?",
+        "A": "Long-chain amine-based surface treatments",
+        "B": "Short-chain alkane-based surface treatments",
+        "C": "Silicon-based surface treatments",
+        "D": "Graphene oxide-based surface treatments",
+        "Answer": "A",
+        "Source": "After the development of various antioxidant additives, the main research trends in Sn\u2013Pb mixed perovskites shifted to surface defect control during the 4th research period. A commonly used strategy is the adoption of long-chain amine-based surface treatments."
+    },
+    "Question_9": {
+        "Context": "The photovoltaic parameters of solar cells, such as the short-circuit current density (JSC), are influenced by the material properties of the perovskite used as the light-absorbing layer.",
+        "Question": "What is the reported percentage of the achieved short-circuit current density (JSC) for Sn\u2013Pb mixed perovskite solar cells compared to the theoretical Shockley-Queisser limit?",
+        "A": "Approximately 83%",
+        "B": "Approximately 92%",
+        "C": "Approximately 75%",
+        "D": "Approximately 65%",
+        "Answer": "A",
+        "Source": "Despite the Sn\u2013Pb mixed perovskite having an ideal low band gap, its short-circuit current density (JSC) value is only approximately 83% of the theoretical JSC."
+    },
+    "Question_10": {
+        "Context": "In the development of solar cells, the incorporation of additives into the perovskite precursor can lead to improvements in the film quality and photovoltaic performance.",
+        "Question": "Which additive has been reported to reduce the trap state density and improve the carrier lifetime in Sn\u2013Pb mixed perovskite solar cells?",
+        "A": "Chloride ions",
+        "B": "Guanidinium thiocyanate (GASCN)",
+        "C": "Cadmium iodide (CdI2)",
+        "D": "Formamidine sulfinic acid (FSA)",
+        "Answer": "B",
+        "Source": "To address these issues, researchers have designed precursors based on additives such as chlorides, GASCN, and CdI2. These reported precursor strategies could mitigate most of the aforementioned issues, improving the quality of Sn\u2013Pb perovskite films."
+    }
+}

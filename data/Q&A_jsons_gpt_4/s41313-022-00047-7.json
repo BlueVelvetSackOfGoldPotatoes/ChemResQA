@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In computational chemistry, the non-relativistic, time-independent molecular Hamiltonian is a fundamental operator that describes the energy of a molecule in terms of the coordinates and momenta of its nuclei and electrons.",
+        "Question": "What does the molecular Hamiltonian operator account for in its formulation?",
+        "A": "Only the kinetic energy of the electrons",
+        "B": "Only the potential energy between electrons and nuclei",
+        "C": "Only the repulsion energy between electrons",
+        "D": "The kinetic energy of nuclei and electrons, the potential energy between electrons and nuclei, and the repulsion energy between electrons and nuclei",
+        "Answer": "D",
+        "Source": "The non-relativistic, time-independent molecular Hamiltonian is \u02c6Hmol = \u2212 \u2211i \u22072 Ri / 2Mi \u2212 \u2211i \u22072 ri / 2mi \u2212 \u2211i,j Zi / |Ri \u2212 rj| + \u2211i,j>i ZiZj / |Ri \u2212 Rj| + \u2211i,j>i 1 / |ri \u2212 rj| with Ri the coordinate of the i-th nuclei of mass Mi and charge Zi and with ri the coordinate of the i-th electron with mass me = 1 and charge e = 1."
+    },
+    "Question_2": {
+        "Context": "The variational quantum eigensolver (VQE) is a quantum algorithm used to estimate the ground state energy of a quantum system by preparing a quantum state using a parameterized quantum circuit and minimizing the energy expectation value.",
+        "Question": "What principle does the variational quantum eigensolver (VQE) rely on to estimate the ground state energy of a quantum system?",
+        "A": "Heisenberg uncertainty principle",
+        "B": "Variational principle",
+        "C": "Pauli exclusion principle",
+        "D": "Superposition principle",
+        "Answer": "B",
+        "Source": "The variational quantum eigensolver (VQE) method estimates the minimal expectation value of a Hermitian operator with respect to a variable quantum circuit. The method relies on the variational principle, which states that only the lowest eigenstate of a non-negative operator can minimize the expectation value."
+    },
+    "Question_3": {
+        "Context": "In quantum chemistry, the fidelity of a quantum state is a measure of how closely the prepared quantum state matches the true ground state of the system.",
+        "Question": "How is the fidelity between a prepared quantum state and the true ground state quantified?",
+        "A": "F = |\u27e8\u03c8|U(\u03b8)|\u03c8(0)\u27e9|",
+        "B": "F = \u27e8\u03c8(\u03b8)|H(R)|\u03c8(\u03b8)\u27e9",
+        "C": "F = |\u27e8\u03c8(\u03b8)|H(R)|\u03c8(\u03b8)\u27e9|",
+        "D": "F = |\u27e8\u03c8|U(\u03b8)|\u03c8(0)\u27e9|\u00b2",
+        "Answer": "D",
+        "Source": "The accuracy with which a given ansatz operator represents the true ground state of the Hamiltonian may be quantified using the fidelity F = |\u27e8\u03c8|U(\u03b8)|\u03c8(0)\u27e9|\u00b2 where \u03c8 is the expected ground state in the qubit representation."
+    },
+    "Question_4": {
+        "Context": "Unitary coupled cluster (UCC) theory is a method used in quantum chemistry to approximate the ground state of a molecular system by considering excitations of electrons from occupied to virtual orbitals.",
+        "Question": "What does the UCC singles and doubles (UCCSD) ansatz include in its formulation?",
+        "A": "Only single excitations of electrons",
+        "B": "Only double excitations of electrons",
+        "C": "Both single and double excitations of electrons",
+        "D": "Triple excitations of electrons",
+        "Answer": "C",
+        "Source": "Terminating the series at M = 2 limits the theory to single and double excitations and yields what is known as the UCC singles and doubles (UCCSD) ansatz."
+    },
+    "Question_5": {
+        "Context": "The Jordan-Wigner transformation is a technique used in quantum chemistry to map fermionic operators to qubit operators, enabling the simulation of fermionic systems on quantum computers.",
+        "Question": "What is the purpose of the Jordan-Wigner transformation in the context of quantum chemistry simulations?",
+        "A": "To optimize the parameters of a quantum circuit",
+        "B": "To measure the energy expectation value of a quantum system",
+        "C": "To map fermionic operators to qubit operators",
+        "D": "To calculate the classical energy of a molecule",
+        "Answer": "C",
+        "Source": "The fermionic representation of the Hamiltonian in (2) may be transformed into a qubit representation using the usual Pauli operators... Several transformations into the qubit representation are known to satisfy the necessary fermionic commutation relations, and we employ the Jordan-Wigner transformation defined as..."
+    },
+    "Question_6": {
+        "Context": "In quantum chemistry, the Born-Oppenheimer approximation is a simplification that allows the separation of the electronic and nuclear motions in the molecular Hamiltonian.",
+        "Question": "What does the Born-Oppenheimer approximation allow for in quantum chemistry calculations?",
+        "A": "It allows for the approximation of the molecular Hamiltonian as purely electronic.",
+        "B": "It allows for the exclusion of electron-electron interactions.",
+        "C": "It allows for the treatment of electrons and nuclei as classical particles.",
+        "D": "It allows for the separation of electronic and nuclear Hamiltonians.",
+        "Answer": "D",
+        "Source": "Under the Born-Openheimer approximation, the molecular Hamiltonian is decomposed into an electronic Hamiltonian and nuclear Hamiltonian."
+    },
+    "Question_7": {
+        "Context": "In quantum chemistry, the Hartree-Fock method provides an approximate solution to the Schr\u00f6dinger equation by assuming that each electron moves independently in an average field created by all other electrons.",
+        "Question": "What is the Hartree-Fock method used for in quantum chemistry?",
+        "A": "To calculate the exact non-relativistic energies of molecules",
+        "B": "To provide an approximate solution to the Schr\u00f6dinger equation",
+        "C": "To simulate the dynamics of chemical reactions",
+        "D": "To measure the spin of electrons in a molecule",
+        "Answer": "B",
+        "Source": "For example, using the Hartree-Fock solution to the electronic Hamiltonian offers a convenient choice for the reference state, and the vacancy or occupation of a molecular orbital may be encoded by 0 or 1, respectively."
+    },
+    "Question_8": {
+        "Context": "In quantum chemistry, the anti-commutation relations of fermionic creation and annihilation operators are fundamental to the description of fermionic systems and their behavior.",
+        "Question": "What do the anti-commutation relations {a\u2020p, aq} = \u03b4p,q and {ap, aq} = 0 signify in quantum chemistry?",
+        "A": "They represent the uncertainty principle for fermions.",
+        "B": "They signify the conservation of energy in fermionic systems.",
+        "C": "They are the fundamental relations for fermionic creation and annihilation operators.",
+        "D": "They describe the Pauli exclusion principle for fermions.",
+        "Answer": "C",
+        "Source": "The associated fermionic creation and annihilation operators satisfy the anti-commutation relations {a\u2020p, aq} = \u03b4p,q and {ap, aq} = 0."
+    },
+    "Question_9": {
+        "Context": "In quantum chemistry, configuration state functions or symmetry-adapted basis functions are used to describe electronic states that are eigenstates of the spin operator.",
+        "Question": "What are configuration state functions or symmetry-adapted basis functions used for in quantum chemistry?",
+        "A": "To describe states that conserve electron spin and obey spin symmetry",
+        "B": "To represent the kinetic energy of electrons",
+        "C": "To calculate the potential energy surfaces of molecules",
+        "D": "To determine the exact position of electrons in an atom",
+        "Answer": "A",
+        "Source": "Specifically, we restrict the ansatz to basis states that are, by construction, spin eigenstates with S2 = 0. Such states are formed from linear combinations of the corresponding excitation operators that conserve electron spin and obey the spin symmetry."
+    },
+    "Question_10": {
+        "Context": "In quantum chemistry, the ADAPT-VQE method is an adaptive algorithm that iteratively builds a quantum circuit ansatz to approximate the ground state of a molecular system.",
+        "Question": "What is the primary goal of the ADAPT-VQE method in quantum chemistry simulations?",
+        "A": "To iteratively build an ansatz circuit until a desired convergence in the energy expectation value is obtained",
+        "B": "To transform the molecular Hamiltonian into its classical counterpart",
+        "C": "To calculate the exact electronic transitions in a molecule",
+        "D": "To measure the temperature dependence of chemical reactions",
+        "Answer": "A",
+        "Source": "The ADAPT method creates an approximation to (23) by selecting a subset of elements in the operator pool T to generate an ansatz operator... When the norm of the gradient vector is less than a defined threshold, the algorithm converges and the lowest energy state is recovered."
+    }
+}

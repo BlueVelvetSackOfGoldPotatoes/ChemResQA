@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Wearable electronic skins (e-skins) are designed to adhere to uneven surfaces like human skin and can monitor various physiological signals.",
+        "Question": "What is one of the main disadvantages of e-skins that has been reported?",
+        "A": "High energy consumption",
+        "B": "Mechanical instability and by-product accumulation at the interface",
+        "C": "Incompatibility with mobile devices",
+        "D": "Limited range of detectable signals",
+        "Answer": "B",
+        "Source": "However, most of the e-skins reported to date have some disadvantages in terms of mechanical instability and accumulation of by-products at the interface between the human skin and the device."
+    },
+    "Question_2": {
+        "Context": "The mechanical stability of materials can be analyzed using finite element analysis (FEA) simulation, which helps in comparing different patterns for their stress and strain distribution.",
+        "Question": "What was the purpose of using FEA simulation in the context of e-skins?",
+        "A": "To determine the color change of materials",
+        "B": "To evaluate the battery life of e-skins",
+        "C": "To analyze and compare the mechanical stability of different patterns",
+        "D": "To measure the electrical conductivity of e-skins",
+        "Answer": "C",
+        "Source": "Prior to the experiment, the mechanical stability of the eyes-pattern was theoretically analyzed by FEA simulation to compare with that of other patterns."
+    },
+    "Question_3": {
+        "Context": "In the development of wearable electronics, the mechanical properties of materials are crucial for ensuring durability and functionality during body movements.",
+        "Question": "What mechanical property is important for e-skins to prevent device degradation and inaccurate sensing due to body movements?",
+        "A": "Optical transparency",
+        "B": "Thermal conductivity",
+        "C": "Mechanical stability",
+        "D": "Electrical resistance",
+        "Answer": "C",
+        "Source": "In detail, the e-skin attached to the skin becomes constantly stressed by the bending and stretching through body movements in daily life, leading to device degradation and inaccurate sensing properties."
+    },
+    "Question_4": {
+        "Context": "The design of e-skins often includes patterns that can dissipate mechanical stress and strain effectively.",
+        "Question": "Which pattern was reported to dissipate mechanical stress and strain more effectively than other patterns?",
+        "A": "Circular hole patterns",
+        "B": "Auxetic kirigami patterns",
+        "C": "Eyes-pattern",
+        "D": "Hexagonal patterns",
+        "Answer": "C",
+        "Source": "The ingeniously designed pattern of the eyes allowed mechanical stress and strain to be dissipated more effectively than other previously reported patterns."
+    },
+    "Question_5": {
+        "Context": "Sweat permeability in e-skins is a desirable feature to prevent accumulation of by-products from the skin surface.",
+        "Question": "What feature of e-skins allows for superior sweat permeability?",
+        "A": "Increased electrical conductivity",
+        "B": "Use of hydrophobic materials",
+        "C": "Incorporation of a free form factor",
+        "D": "Perforated pattern with eyes-structure",
+        "Answer": "D",
+        "Source": "E-skin permeability of by-product was experimentally confirmed through sweat removal tests, showing superior sweat permeability compared to conventional e-skins."
+    },
+    "Question_6": {
+        "Context": "The ability of e-skins to maintain performance under bending conditions is critical for their application on the human body.",
+        "Question": "What was the minimum radius of curvature that the developed e-skin could withstand while maintaining mechanical and electrical performance?",
+        "A": "500 \u03bcm",
+        "B": "3 mm",
+        "C": "5 mm",
+        "D": "1 cm",
+        "Answer": "A",
+        "Source": "The developed e-skin maintained its mechanical and electrical performance under bending conditions with a radius of curvature of 500 \u03bcm."
+    },
+    "Question_7": {
+        "Context": "In the context of e-skins, the von Mises stress is a criterion used to predict the yield of materials under complex loading.",
+        "Question": "What is the von Mises stress equation used for in the context of e-skins?",
+        "A": "To predict the electrical resistance under stress",
+        "B": "To evaluate the color change due to chemical reactions",
+        "C": "To calculate localized stresses and strains in e-skin patterns",
+        "D": "To measure the thermal expansion of materials",
+        "Answer": "C",
+        "Source": "To calculate the localized stresses and strains of the designed patterns in the e-skin, FEA calculations were performed using Ansys Workbench."
+    },
+    "Question_8": {
+        "Context": "The permeability of e-skins to by-products such as sweat is important to prevent adverse effects on both the device and the skin.",
+        "Question": "How was the sweat permeability of the e-skin experimentally confirmed?",
+        "A": "By measuring the electrical resistance change",
+        "B": "Through color change of litmus paper in sweat removal tests",
+        "C": "Using thermal imaging to detect sweat evaporation",
+        "D": "By quantifying the weight of absorbed sweat",
+        "Answer": "B",
+        "Source": "The sweat permeability of the developed device was analyzed by verifying the color change of litmus paper on the e-skin attached to the skin."
+    },
+    "Question_9": {
+        "Context": "Real-time monitoring of physiological signals is a key function of wearable e-skins.",
+        "Question": "What physiological signal was the e-skin with the eyes-patterned structure designed to monitor in real-time?",
+        "A": "Heart rate",
+        "B": "Blood pressure",
+        "C": "Body temperature",
+        "D": "Blood glucose levels",
+        "Answer": "C",
+        "Source": "Finally, the real-time monitoring of the body temperature was carried out using our resistive-type thermometer in the e-skin."
+    },
+    "Question_10": {
+        "Context": "The design and fabrication of e-skins involve multiple steps, including the deposition of materials and patterning.",
+        "Question": "What materials were sequentially deposited on a rigid substrate to fabricate the e-skin?",
+        "A": "Aluminum and polyimide thin films",
+        "B": "Silicon and gold thin films",
+        "C": "Copper and silver thin films",
+        "D": "Polyethylene and platinum thin films",
+        "Answer": "A",
+        "Source": "(i) 200 nm-thick aluminum (Al) and 5 \u03bcm-thick polyimide (PI) thin films were sequentially deposited on a rigid p-type Si substrate."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the analysis of pesticide residues in food, the QuEChERS method is a sample preparation technique that simplifies the process of extracting analytes from complex matrices.",
+        "Question": "What does the acronym QuEChERS stand for?",
+        "A": "Quick, easy, cheap, effective, rugged, and safe",
+        "B": "Quantitative extraction, chromatography, high efficiency, resolution, and speed",
+        "C": "Quality ensured, chemical extraction, and residue separation",
+        "D": "Quick, efficient, chromatographic, hygienic, and reliable system",
+        "Answer": "A",
+        "Source": "In this study, quick, easy, cheap, effective, rugged, and safe (QuEChERS) sample preparation together with high-performance liquid chromatography with ultraviolet detection (HPLC\u2013 UV) was applied for the multi-residue analysis of seven sulfonylurea herbicides (SUHs) in tomatoes."
+    },
+    "Question_2": {
+        "Context": "Sulfonylurea herbicides are a class of compounds that inhibit a specific enzyme in plants, which is crucial for their growth. They are used to control weeds in various crops.",
+        "Question": "Which enzyme do sulfonylurea herbicides inhibit to control weed growth?",
+        "A": "Glutamine synthetase",
+        "B": "Acetolactate synthase",
+        "C": "Nitrate reductase",
+        "D": "Phosphoenolpyruvate carboxylase",
+        "Answer": "B",
+        "Source": "Sulfonylurea herbicides (SUHs) are an important group of herbicides belonging to the acetolactate synthase- inhibiting herbicide family."
+    },
+    "Question_3": {
+        "Context": "The presence of natural pigments in plant matrices can interfere with the analytical methods used for pesticide residue analysis, affecting the accuracy and sensitivity of the results.",
+        "Question": "Which compounds are the main water-insoluble pigments in tomatoes that can interfere with chromatographic analysis?",
+        "A": "Chlorophylls and anthocyanins",
+        "B": "Flavonoids and tannins",
+        "C": "\u03b2-carotene and lycopene",
+        "D": "Curcumin and quercetin",
+        "Answer": "C",
+        "Source": "The red pigments of tomatoes are water-insoluble compounds, mainly \u03b2-carotene and lycopene. High concentrations of carotenoids co-extracted with other analytes of interest can interfere with the accuracy and sensitivity of chromatographic analysis."
+    },
+    "Question_4": {
+        "Context": "In the context of sample preparation for pesticide residue analysis, solid-phase extraction (SPE) is a method used to separate analytes from other substances based on their physical and chemical properties.",
+        "Question": "What is the main purpose of using solid-phase extraction (SPE) in the analysis of pesticide residues in food samples?",
+        "A": "To increase the pH of the sample",
+        "B": "To remove water from the sample",
+        "C": "To separate analytes from other substances",
+        "D": "To change the color of the sample",
+        "Answer": "C",
+        "Source": "To remove interference in tomatoes, several sample preparation techniques, including solid\u2013liquid extraction with low-temperature purification, supercritical fluid extraction, matrix solid-phase dispersion, magnetic graphene solid-phase extraction, and solid-phase extraction (SPE) have been studied and validated."
+    },
+    "Question_5": {
+        "Context": "High-performance liquid chromatography (HPLC) is a technique used to separate, identify, and quantify components in a mixture. The use of a photodiode array detector allows for the detection of analytes based on their UV-visible spectra.",
+        "Question": "What is the role of a photodiode array detector in HPLC?",
+        "A": "To increase the pressure of the mobile phase",
+        "B": "To detect analytes based on their UV-visible spectra",
+        "C": "To separate the components in a mixture",
+        "D": "To quantify the pH of the sample",
+        "Answer": "B",
+        "Source": "A Nexera XR HPLC system (Shimadzu, Kyoto, Japan) equipped with a photodiode array detector was used for analysis."
+    },
+    "Question_6": {
+        "Context": "Matrix effects in analytical chemistry refer to the influence of other substances in the sample on the measurement of the analyte of interest. These effects can lead to suppression or enhancement of the analyte signal.",
+        "Question": "What is a matrix effect in the context of analytical chemistry?",
+        "A": "A change in the color of the sample matrix",
+        "B": "A change in the temperature of the analytical instrument",
+        "C": "A change in the volume of the sample matrix",
+        "D": "A modification of the analyte response due to other substances in the sample",
+        "Answer": "D",
+        "Source": "Co-eluting interferents can cause analyte response modifications (suppression or enhancement) and affect the accuracy of the analytical results."
+    },
+    "Question_7": {
+        "Context": "The limit of detection (LOD) and limit of quantification (LOQ) are parameters that describe the smallest concentration of an analyte that can be reliably detected or quantified in an analytical procedure.",
+        "Question": "What do the terms 'limit of detection' (LOD) and 'limit of quantification' (LOQ) refer to in analytical procedures?",
+        "A": "The highest concentration of analyte that can be detected or quantified",
+        "B": "The smallest concentration of analyte that can be reliably detected or quantified",
+        "C": "The optimal concentration of analyte for calibration curves",
+        "D": "The concentration of analyte that causes saturation of the detector",
+        "Answer": "B",
+        "Source": "The limit of detection (LOD) and limit of quantification (LOQ) were determined from seven independently spiked concentrations of pesticides (0.008\u20130.5 mg kg\u22121 of tomatoes)."
+    },
+    "Question_8": {
+        "Context": "In chromatography, the mobile phase is a solvent that carries the analytes through the stationary phase, allowing for their separation based on different affinities.",
+        "Question": "What is the purpose of the mobile phase in chromatography?",
+        "A": "To solidify the sample for analysis",
+        "B": "To carry the analytes through the stationary phase",
+        "C": "To act as a detector for the analytes",
+        "D": "To absorb UV light for detection",
+        "Answer": "B",
+        "Source": "Chromatographic separation was achieved using an Agilent Eclipse XDB-C18 reserved-phase column (250 mm \u00d7 4.6 mm i.d., 5 \u03bcm). The mobile phase consisted of 0.1% (v/v) formic acid in water (A) and 0.1% (v/v) formic acid in acetonitrile (B)."
+    },
+    "Question_9": {
+        "Context": "The use of sorbents in dispersive solid-phase extraction (d-SPE) is a technique to clean up and concentrate analytes from a sample matrix, which can include the removal of unwanted pigments or other interferents.",
+        "Question": "What is the role of sorbents such as octadecylsilane (C18) in dispersive solid-phase extraction (d-SPE)?",
+        "A": "To catalyze reactions in the sample",
+        "B": "To change the pH of the sample",
+        "C": "To remove unwanted pigments or other interferents",
+        "D": "To add color to the sample for better visualization",
+        "Answer": "C",
+        "Source": "To reduce the amount of carotenoids in tomato extracts, several d-SPE clean-up procedures were compared, and octadecylsilane (C18) provided the best color removal rate (%) of tomato extracts and recoveries (%) for all the tested SUHs."
+    },
+    "Question_10": {
+        "Context": "The validation of an analytical method involves the assessment of parameters such as linearity, which refers to the method's ability to obtain test results that are directly proportional to the concentration of analyte in the sample.",
+        "Question": "In the validation of an analytical method, what does linearity refer to?",
+        "A": "The method's ability to produce the same results under varying conditions",
+        "B": "The method's ability to detect the presence of any analyte in the sample",
+        "C": "The method's ability to obtain test results that are directly proportional to the concentration of analyte in the sample",
+        "D": "The method's ability to work without any interference from the sample matrix",
+        "Answer": "C",
+        "Source": "The validation results indicate good linearity (R2 > 0.9970), accuracy, and precision."
+    }
+}

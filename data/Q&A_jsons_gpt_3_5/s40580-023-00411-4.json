@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of Monolithic 3D (M3D) integration for device fabrication. ",
+        "Question": "What is the primary challenge in M3D integration mentioned in the text?",
+        "A": "High thermal budget process",
+        "B": "Materials compatibility",
+        "C": "Process complexity",
+        "D": "Yield and reliability",
+        "Answer": "A",
+        "Source": "The difficulty arises from the thermal budget limitation for the upper channel process because a high thermal budget process may degrade the device layers below."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the techniques for forming upper channels in M3D integration.",
+        "Question": "Which technique involves the recrystallization of amorphous silicon into polysilicon?",
+        "A": "Laser annealing",
+        "B": "Flash-lamp annealing",
+        "C": "Metal-induced crystallization",
+        "D": "Metal-induced lateral crystallization",
+        "Answer": "A",
+        "Source": "LA is a powerful technique to recrystallize amorphous Si into polysilicon in M3D integration."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the challenges faced in fabricating upper channels in M3D integration.",
+        "Question": "Which technique involves the use of metal as a catalyst to induce the growth of Si crystals?",
+        "A": "Laser annealing",
+        "B": "Flash-lamp annealing",
+        "C": "Metal-induced crystallization",
+        "D": "Metal-induced lateral crystallization",
+        "Answer": "C",
+        "Source": "MIC involves the deposition of a thin layer of metal (such as Ni or Al) on top of the a-Si film, followed by high-temperature annealing of the metal/a-Si film."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the potential applications of 2D materials in M3D integration.",
+        "Question": "Which material is mentioned as a potential buffer layer between III\u2212V compounds and Si substrates?",
+        "A": "Graphene",
+        "B": "MoS2",
+        "C": "WS2",
+        "D": "BN",
+        "Answer": "A",
+        "Source": "For example, graphene can be used as a buffer layer between III\u2212V compounds and Si substrates, reducing the lattice mismatch and improving the epitaxial layer quality."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the challenges in using 2D materials in M3D integration.",
+        "Question": "What is a major challenge mentioned in the text regarding the use of 2D materials in M3D integration?",
+        "A": "Large-scale synthesis",
+        "B": "Transfer of high-quality 2D materials",
+        "C": "Integration with existing fabrication processes",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Nevertheless, challenges remain, such as the inability to grow certain elemental semiconductors through remote epitaxy and the need for further development for true wafer-scale applications."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the use of germanium and III\u2212V compounds in M3D integration.",
+        "Question": "What is a key advantage of germanium compared to silicon?",
+        "A": "Higher thermal conductivity",
+        "B": "Higher bandgap",
+        "C": "Lower electron mobility",
+        "D": "Lower processing temperature",
+        "Answer": "A",
+        "Source": "The smaller bandgap of Ge compared to Si (0.67 and 1.12 eV) allows Ge to be used in a wider range of applications, such as high-speed optoelectronics and energy harvesting devices."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the epitaxial layer transfer techniques for M3D integration.",
+        "Question": "Which technique involves inserting a sacrificial layer that can be selectively etched?",
+        "A": "Optical lift-off",
+        "B": "Mechanical lift-off",
+        "C": "Chemical lift-off",
+        "D": "2D-assisted lift-off",
+        "Answer": "C",
+        "Source": "Chemical lift-off involves inserting a sacrificial layer that can be selectively etched as shown in Fig. 12a."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the challenges in using epitaxial layer transfer techniques for M3D integration.",
+        "Question": "Which technique has limitations on material scope but allows for fast and robust separation?",
+        "A": "Chemical lift-off",
+        "B": "Optical lift-off",
+        "C": "Mechanical lift-off",
+        "D": "2D-assisted lift-off",
+        "Answer": "B",
+        "Source": "Optical lift-off uses excimer lasers to separate epitaxial layers from transparent substrates as shown in Fig. 12b, allowing fast and robust separation but with limitations on material scope."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the challenges in using epitaxial layer transfer techniques for M3D integration.",
+        "Question": "Which technique involves introducing a buried layer of hydrogen ions into the substrate by ion implantation?",
+        "A": "Optical lift-off",
+        "B": "Mechanical lift-off",
+        "C": "Chemical lift-off",
+        "D": "2D-assisted lift-off",
+        "Answer": "B",
+        "Source": "Mechanical lift-off, in which a buried layer of hydrogen ions is introduced into the substrate by ion implantation, followed by wafer bonding with another substrate."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the challenges in using epitaxial layer transfer techniques for M3D integration.",
+        "Question": "Which technique combines benefits from van der Waals epitaxy, remote epitaxy, and 2D material-assisted transfer?",
+        "A": "Chemical lift-off",
+        "B": "Optical lift-off",
+        "C": "Mechanical lift-off",
+        "D": "2D-assisted lift-off",
+        "Answer": "D",
+        "Source": "The 2D-assisted transfer technique combines benefits from van der Waals epitaxy, remote epitaxy, and 2D material-assisted transfer, offering controlled spalling depth and an atomically sharp separation interface."
+    }
+}

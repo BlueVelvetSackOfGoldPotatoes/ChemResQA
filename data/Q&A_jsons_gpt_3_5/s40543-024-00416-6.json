@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the convergence of AI and quantum cryptography and its potential implications for data security. ",
+        "Question": "What is the cornerstone of quantum cryptography mentioned in the text?",
+        "A": "Complex mathematical algorithms",
+        "B": "Physical properties of quantum particles",
+        "C": "Quantum key distribution (QKD)",
+        "D": "Fundamental quantum mechanical principles",
+        "Answer": "C",
+        "Source": "The cornerstone of quantum cryptography is quantum key distribution (QKD), a method that enables two parties to generate a shared random secret key, which is essential for encrypting and decrypting messages."
+    },
+    "Question_2": {
+        "Context": "The paper highlights the benefits of quantum cryptography and its potential to provide impervious communication channels.",
+        "Question": "What is the primary benefit of quantum cryptography mentioned in the text?",
+        "A": "Enhancing computational power",
+        "B": "Overcoming limitations of traditional cryptographic methods",
+        "C": "Creating inherently secure communication systems",
+        "D": "Establishing secure key between two parties",
+        "Answer": "C",
+        "Source": "The primary benefit of quantum cryptography is its potential to provide communication channels impervious to eavesdropping."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the challenges posed by the 'quantum threat' to existing cryptographic systems.",
+        "Question": "What is the 'quantum threat' mentioned in the text?",
+        "A": "Potential vulnerabilities in quantum cryptographic systems",
+        "B": "Advanced quantum computing capabilities",
+        "C": "Quantum key distribution errors",
+        "D": "Quantum entanglement issues",
+        "Answer": "B",
+        "Source": "The 'quantum threat' refers to the potential vulnerability of existing cryptographic systems in the face of advanced quantum computing capabilities."
+    },
+    "Question_4": {
+        "Context": "The paper explores the potential of integrating AI with quantum cryptography to address security challenges.",
+        "Question": "What is the role of AI in enhancing quantum cryptographic protocols?",
+        "A": "Error correction and detection of security breaches",
+        "B": "Optimising the rate of quantum key generation",
+        "C": "Developing post-quantum cryptographic algorithms",
+        "D": "Enhancing computational power of quantum computers",
+        "Answer": "A",
+        "Source": "AI algorithms can help with error correction, an inevitable occurrence in any real-world QKD system. By predicting and correcting errors, AI can ensure the quantum key\u2019s integrity, which is essential for maintaining the security of the communication channel."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the convergence of AI and quantum cryptography and its potential implications for data security.",
+        "Question": "What is the primary benefit of integrating AI with quantum cryptography mentioned in the text?",
+        "A": "Enhanced computational power",
+        "B": "Improved efficiency of cryptographic systems",
+        "C": "Robust security measures",
+        "D": "Predictive analysis for potential vulnerabilities",
+        "Answer": "C",
+        "Source": "The role of AI in cybersecurity has become increasingly significant in recent times due to its ability to leverage machine learning and advanced algorithms to rapidly identify patterns, anomalies, and potential threats within vast data sets."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the potential risks and mitigations of integrating artificial intelligence and quantum cryptography.",
+        "Question": "What is a potential risk mentioned in the text regarding the integration of AI and quantum cryptography?",
+        "A": "Increased data privacy concerns",
+        "B": "New vulnerabilities in cryptographic systems",
+        "C": "Potential for abuse of innovative technologies",
+        "D": "Ethical considerations and regulatory implications",
+        "Answer": "B",
+        "Source": "The potential benefits of integrating AI and quantum cryptography are vast and exciting, and it holds the promise of creating a secure computational environment in an era where quantum computing is set to become a significant player."
+    },
+    "Question_7": {
+        "Context": "The paper explores the applications and implications of the convergence of AI and quantum cryptography.",
+        "Question": "What is a real-world application mentioned in the text for AI-powered quantum cryptography?",
+        "A": "Enhanced security mechanisms in the healthcare industry",
+        "B": "Improved efficiency of transaction security in retail",
+        "C": "Increased data protection in the banking sector",
+        "D": "Secure communication channels in telecommunications",
+        "Answer": "C",
+        "Source": "AI methods have changed encryption techniques, leading to more advanced security measures that can counter constantly evolving threats. Traditional security measures have limitations that make detecting advanced and insider threats difficult."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the future of AI-powered quantum cryptography and the need for collaboration and policy development.",
+        "Question": "What is a key consideration mentioned in the text for advancing AI-driven quantum cryptography?",
+        "A": "Global data protection standards",
+        "B": "Increased research capabilities",
+        "C": "Technological advancements in AI and quantum mechanics",
+        "D": "Potential for adaptation to future developments",
+        "Answer": "A",
+        "Source": "To advance our understanding of AI-driven quantum cryptography, companies that depend on secure data transmissions should allocate resources towards research and development that combines artificial intelligence and quantum mechanics."
+    },
+    "Question_9": {
+        "Context": "The paper explores the potential benefits of integrating AI with quantum cryptography and the ongoing research in the field.",
+        "Question": "What is a primary area of research mentioned in the text regarding AI-driven quantum cryptography?",
+        "A": "Hybrid cryptographic systems",
+        "B": "Automated cryptographic protocol design",
+        "C": "Quantum key distribution enhancements",
+        "D": "Quantum machine learning for cryptanalysis",
+        "Answer": "D",
+        "Source": "AI algorithms can help optimise the protocols and algorithms used in MPC, ensuring secure, collaborative computation among multiple parties without revealing individual data inputs."
+    },
+    "Question_10": {
+        "Context": "The paper concludes by discussing the potential implications of integrating AI and quantum cryptography for data security.",
+        "Question": "What is a key consideration mentioned in the text for advancing AI-driven quantum cryptography?",
+        "A": "Ethical considerations and regulatory implications",
+        "B": "Global data protection standards",
+        "C": "Technological advancements in AI and quantum mechanics",
+        "D": "Potential for adaptation to future developments",
+        "Answer": "A",
+        "Source": "However, it is crucial to consider ethical implications and ensure that advancements in AI-driven quantum cryptography are aligned with global data protection standards and privacy concerns."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In organic chemistry, functional groups are specific groups of atoms within molecules that are responsible for the characteristic chemical reactions of those molecules.",
+        "Question": "Which functional group is typically responsible for the properties of alcohols?",
+        "A": "Carboxyl group",
+        "B": "Hydroxyl group",
+        "C": "Amino group",
+        "D": "Phosphate group",
+        "Answer": "B",
+        "Source": "The hydroxyl group (-OH) is the functional group that characterizes the family of alcohols. It is this group that is responsible for the specific properties of alcohol molecules, including their polarity and ability to form hydrogen bonds."
+    },
+    "Question_2": {
+        "Context": "Isomerism is a concept in organic chemistry where molecules with the same molecular formula have different arrangements of atoms in space.",
+        "Question": "What type of isomerism occurs due to the presence of a double bond, leading to 'cis' and 'trans' isomers?",
+        "A": "Stereoisomerism",
+        "B": "Structural isomerism",
+        "C": "Conformational isomerism",
+        "D": "Tautomeric isomerism",
+        "Answer": "A",
+        "Source": "Stereoisomerism includes geometric isomerism, which arises from the inflexibility of double bonds. Molecules with the same connectivity but different orientations of their atoms in space due to double bonds can be classified as 'cis' or 'trans' isomers."
+    },
+    "Question_3": {
+        "Context": "Aromatic compounds are a class of compounds that include benzene as a characteristic feature of their structure.",
+        "Question": "Which of the following is not a characteristic of aromatic compounds?",
+        "A": "They have a ring structure.",
+        "B": "They exhibit resonance.",
+        "C": "They are typically nonpolar.",
+        "D": "They contain at least one nitrogen atom.",
+        "Answer": "D",
+        "Source": "Aromatic compounds are characterized by their ring structure, resonance stabilization, and typically nonpolar nature. The presence of a nitrogen atom is not a requirement for a compound to be classified as aromatic."
+    },
+    "Question_4": {
+        "Context": "In organic chemistry, the term 'chirality' refers to a molecule's property of not being superimposable on its mirror image.",
+        "Question": "What is an object called if it is not superimposable on its mirror image?",
+        "A": "Achiral",
+        "B": "Chiral",
+        "C": "Isomeric",
+        "D": "Enantiomeric",
+        "Answer": "B",
+        "Source": "A chiral molecule is one that cannot be superimposed on its mirror image. Such molecules often have a carbon atom with four different substituents, known as a chiral center or stereocenter."
+    },
+    "Question_5": {
+        "Context": "Carbonyl compounds are characterized by the presence of a carbonyl group, which consists of a carbon atom double-bonded to an oxygen atom.",
+        "Question": "Which of the following is a carbonyl compound?",
+        "A": "Ethanol",
+        "B": "Methane",
+        "C": "Acetone",
+        "D": "Ethane",
+        "Answer": "C",
+        "Source": "Acetone is a carbonyl compound as it contains a carbonyl group (C=O). Ethanol, methane, and ethane do not contain a carbonyl group and are therefore not classified as carbonyl compounds."
+    },
+    "Question_6": {
+        "Context": "Organic reactions often involve the making and breaking of chemical bonds. A common type of reaction is the substitution reaction.",
+        "Question": "In a nucleophilic substitution reaction, what type of chemical species typically attacks the substrate?",
+        "A": "A positively charged ion",
+        "B": "A negatively charged ion",
+        "C": "A neutral molecule with no charge",
+        "D": "A radical species",
+        "Answer": "B",
+        "Source": "In a nucleophilic substitution reaction, a nucleophile, which is often a negatively charged ion or a neutral molecule with a lone pair of electrons, attacks the substrate, typically at a positively charged or electron-deficient carbon."
+    },
+    "Question_7": {
+        "Context": "Organic molecules can be represented by different types of formulas. One common representation is the structural formula, which shows the arrangement of atoms within the molecule.",
+        "Question": "What does a structural formula of an organic molecule typically indicate?",
+        "A": "The physical properties of the molecule",
+        "B": "The exact mass of the molecule",
+        "C": "The arrangement of atoms in the molecule",
+        "D": "The energy content of the molecule",
+        "Answer": "C",
+        "Source": "The structural formula of an organic molecule provides information about the arrangement of atoms and the bonds between them. It does not directly indicate the physical properties, exact mass, or energy content of the molecule."
+    },
+    "Question_8": {
+        "Context": "Alkanes are a class of hydrocarbons that contain only single bonds between carbon atoms.",
+        "Question": "What is the general formula for alkanes?",
+        "A": "CnH2n+2",
+        "B": "CnH2n",
+        "C": "CnHn",
+        "D": "CnH2n-2",
+        "Answer": "A",
+        "Source": "The general formula for alkanes, which are saturated hydrocarbons, is CnH2n+2. This formula indicates that for every carbon atom, there are two more hydrogen atoms than twice the number of carbon atoms."
+    },
+    "Question_9": {
+        "Context": "Alkenes are hydrocarbons that contain at least one carbon-carbon double bond.",
+        "Question": "What is the simplest alkene, consisting of the fewest carbon atoms?",
+        "A": "Ethene",
+        "B": "Propene",
+        "C": "Butene",
+        "D": "Methene",
+        "Answer": "A",
+        "Source": "Ethene, also known as ethylene, is the simplest alkene and consists of two carbon atoms connected by a double bond. It is the alkene with the fewest carbon atoms."
+    },
+    "Question_10": {
+        "Context": "Acids and bases are common in organic chemistry, and their strength is often discussed in terms of their dissociation in water.",
+        "Question": "Which of the following is considered a strong acid?",
+        "A": "Acetic acid",
+        "B": "Hydrochloric acid",
+        "C": "Phenol",
+        "D": "Ethanol",
+        "Answer": "B",
+        "Source": "Hydrochloric acid is considered a strong acid because it completely dissociates in water. Acetic acid, phenol, and ethanol are considered weak acids because they do not fully dissociate in water."
+    }
+}

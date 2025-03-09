@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Single-walled carbon nanotubes (SWCNTs) are known for their exceptional electrical, mechanical, thermal, and optical properties, which make them suitable for various applications including biosensors.",
+        "Question": "What property of single-walled carbon nanotubes makes them particularly suitable for use in electrochemical biosensors?",
+        "A": "Optical transparency",
+        "B": "Electrical conductivity",
+        "C": "Mechanical flexibility",
+        "D": "Thermal resistance",
+        "Answer": "B",
+        "Source": "Since the discovery of carbon nanotubes (CNTs), they have attracted significant research attention in many fields due to their excellent electrical, mechanical, thermal, and optical properties. In particular, the electrical conductivity and large surface have made them suitable for biosensors."
+    },
+    "Question_2": {
+        "Context": "Glucose is a vital nutrient and its abnormal levels in blood can lead to serious health issues. Therefore, sensitive and reliable glucose detection methods are important for managing conditions such as diabetes.",
+        "Question": "What is the significance of detecting glucose levels in human blood?",
+        "A": "To monitor oxygen levels",
+        "B": "To manage diabetes",
+        "C": "To check for infections",
+        "D": "To measure blood pressure",
+        "Answer": "B",
+        "Source": "Glucose is one of the essential nutrients and has been widely used in the food and drug industry. However, the abnormal level of glucose in blood is considered to be responsible for endocrine and metabolic disorders such as diabetes mellitus."
+    },
+    "Question_3": {
+        "Context": "Amperometry is a technique used in electrochemical measurements where the current is measured over time at a fixed potential, and it is particularly useful for the detection of glucose in biosensors.",
+        "Question": "What does amperometry measure in the context of glucose biosensors?",
+        "A": "Voltage over time",
+        "B": "Current over time",
+        "C": "Resistance over time",
+        "D": "Capacitance over time",
+        "Answer": "B",
+        "Source": "Moreover, it is readily amenable to commercialization because of low manufacturing cost with the help of recent microfabrication advances. The high electrocatalytic activity of CNTs promotes effective electron transfer in electrochemical reactions, making them greatly attractive for dehydrogenase/oxidase-based amperometric biosensors."
+    },
+    "Question_4": {
+        "Context": "Ferrocenecarboxylic acid (FCA) is used in glucose biosensors as a mediator to facilitate electron transfer between the enzyme glucose oxidase (GOx) and the electrode.",
+        "Question": "What role does ferrocenecarboxylic acid (FCA) play in glucose biosensors?",
+        "A": "It acts as a stabilizing agent for the biosensor",
+        "B": "It serves as a substrate for glucose oxidase",
+        "C": "It functions as an electron transfer mediator",
+        "D": "It is used as a binding agent for the electrode",
+        "Answer": "C",
+        "Source": "The marked electrocatalytic and biocompatible properties of biosensors based on SWCNT electrodes with the incorporation of ferrocenecarboxylic acid and polyethylene glycol enable effective amperometric measurement of glucose."
+    },
+    "Question_5": {
+        "Context": "Polyethylene glycol (PEG) is often used in the construction of biosensors to enhance biocompatibility and stability.",
+        "Question": "What is the purpose of incorporating polyethylene glycol (PEG) in the construction of glucose biosensors?",
+        "A": "To increase electrical conductivity",
+        "B": "To enhance biocompatibility",
+        "C": "To provide optical clarity",
+        "D": "To serve as a glucose substrate",
+        "Answer": "B",
+        "Source": "The marked electrocatalytic and biocompatible properties of biosensors based on SWCNT electrodes with the incorporation of ferrocenecarboxylic acid and polyethylene glycol enable effective amperometric measurement of glucose."
+    },
+    "Question_6": {
+        "Context": "Glucose oxidase (GOx) is an enzyme that catalyzes the oxidation of glucose to gluconolactone, which is an important reaction in glucose biosensors.",
+        "Question": "What is the function of glucose oxidase (GOx) in glucose biosensors?",
+        "A": "It catalyzes the oxidation of glucose",
+        "B": "It reduces the glucose concentration",
+        "C": "It increases the glucose stability",
+        "D": "It detects the presence of insulin",
+        "Answer": "A",
+        "Source": "Glucose assay can be simply accomplished by introducing a glucose sample into the fabricated biosensor. The marked electrocatalytic and biocompatible properties of biosensors based on SWCNT electrodes with the incorporation of ferrocenecarboxylic acid and polyethylene glycol enable effective amperometric measurement of glucose."
+    },
+    "Question_7": {
+        "Context": "O2-plasma treatment is a technique used in the fabrication of biosensor electrodes to pattern conductive films on substrates.",
+        "Question": "What is the purpose of using O2-plasma treatment in the fabrication of biosensor electrodes?",
+        "A": "To clean the surface of the substrate",
+        "B": "To enhance the adhesion of the conductive film",
+        "C": "To pattern the conductive film on the substrate",
+        "D": "To increase the thermal resistance of the substrate",
+        "Answer": "C",
+        "Source": "The device fabrication using O2-plasma treatment allows precision and uniformity for the construction of three SWCNT electrodes on the flexible plastic substrate."
+    },
+    "Question_8": {
+        "Context": "The stability of a biosensor is an important characteristic that determines its longevity and reliability over time.",
+        "Question": "In the context of glucose biosensors, what does 'long-term stability' refer to?",
+        "A": "The ability to withstand high temperatures",
+        "B": "The sensor's durability against physical stress",
+        "C": "The consistency of sensor readings over time",
+        "D": "The sensor's resistance to chemical degradation",
+        "Answer": "C",
+        "Source": "The device shows efficient electroanalytical performances with high sensitivity, good reproducibility, and long-term stability (over a month)."
+    },
+    "Question_9": {
+        "Context": "The linear range of response in a biosensor refers to the range of analyte concentration over which the sensor provides a linear relationship between concentration and signal output.",
+        "Question": "What does the 'linear range of response' indicate in a glucose biosensor?",
+        "A": "The temperature range in which the sensor operates",
+        "B": "The range of glucose concentrations it can detect linearly",
+        "C": "The lifespan of the sensor",
+        "D": "The speed of the sensor's response",
+        "Answer": "B",
+        "Source": "A linear range of response was found from 0 to 10 mM of glucose with a fast response time of 10 s."
+    },
+    "Question_10": {
+        "Context": "The sensitivity of a biosensor is a measure of its ability to detect small changes in the concentration of the analyte.",
+        "Question": "What does 'high sensitivity' in the context of a glucose biosensor imply?",
+        "A": "It can detect a wide range of glucose concentrations",
+        "B": "It can detect very low concentrations of glucose",
+        "C": "It can operate at high temperatures",
+        "D": "It has a long shelf life",
+        "Answer": "B",
+        "Source": "The device shows efficient electroanalytical performances with high sensitivity (5.5 \u03bcA\u00b7mM\u22121\u00b7cm\u22122), good reproducibility (CV less than 3%), and long-term stability (over a month)."
+    }
+}

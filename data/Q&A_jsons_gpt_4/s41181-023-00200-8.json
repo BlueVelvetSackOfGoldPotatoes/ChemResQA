@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Positron emission tomography (PET) is a technique that uses radioactive substances to visualize and measure metabolic processes in the body.",
+        "Question": "What is the target of the PET tracer [18F]FSPG?",
+        "A": "Glucose metabolism",
+        "B": "Cystine/glutamate antiporter",
+        "C": "Blood flow",
+        "D": "Oxygen consumption",
+        "Answer": "B",
+        "Source": "[18F]FSPG is a positron emission tomography (PET) tracer that specifically targets the cystine/glutamate antiporter (xc\u2212), which is frequently overexpressed in cancer and several neurological disorders."
+    },
+    "Question_2": {
+        "Context": "Radiopharmaceuticals based on radiolabeled amino acid analogues can provide insights into protein metabolism in malignant cells.",
+        "Question": "What cellular function is indicated by the uptake of radiolabeled amino acid analogues?",
+        "A": "Nucleic acid synthesis",
+        "B": "Lipid metabolism",
+        "C": "Protein metabolism",
+        "D": "Carbohydrate metabolism",
+        "Answer": "C",
+        "Source": "Imaging radiopharmaceuticals based on radiolabeled amino acid analogues have long been appreciated to provide information regarding protein metabolism of malignant cells."
+    },
+    "Question_3": {
+        "Context": "The xc\u2212 antiporter is a plasma membrane transporter that plays a role in maintaining redox balance by mediating the cellular uptake of cystine in exchange for intracellular glutamate.",
+        "Question": "What is the stoichiometry of the exchange mediated by the xc\u2212 antiporter?",
+        "A": "1 cystine for 2 glutamate",
+        "B": "2 cystine for 1 glutamate",
+        "C": "1 cystine for 1 glutamate",
+        "D": "2 cystine for 2 glutamate",
+        "Answer": "C",
+        "Source": "The xc\u2212 antiporter is a plasma membrane transporter mediating cellular uptake of cystine in exchange for intracellular glutamate with an equal stoichiometry ratio."
+    },
+    "Question_4": {
+        "Context": "In the context of oxidative stress, such as in cancer and neurological disorders, the demand for antioxidants is high.",
+        "Question": "Why is the activity of the xc\u2212 antiporter increased under conditions of oxidative stress?",
+        "A": "To increase oxygen supply",
+        "B": "To enhance glucose uptake",
+        "C": "To ensure cysteine supply for antioxidant synthesis",
+        "D": "To promote lipid peroxidation",
+        "Answer": "C",
+        "Source": "De novo biosynthesis or a catabolic supply of cysteine is not sufficient to meet the high demand for antioxidant synthesis under conditions of oxidative stress such as in cancer and neurological disorders, which drives xc\u2212 activity to ensure cysteine supply."
+    },
+    "Question_5": {
+        "Context": "Ferroptosis is a form of regulated cell death induced by lipid peroxidation, and certain cellular activities can promote radioresistance by inhibiting ferroptosis.",
+        "Question": "What cellular activity has been found to promote radioresistance by inhibiting ferroptosis?",
+        "A": "Glucose transport",
+        "B": "xc\u2212 antiporter activity",
+        "C": "Protein kinase activation",
+        "D": "Lipid synthesis",
+        "Answer": "B",
+        "Source": "Lei et al. (2020) discovered that xc\u2212 antiporter activity promotes radioresistance largely through inhibiting ferroptosis, a form of regulated cell death induced by lipid peroxidation."
+    },
+    "Question_6": {
+        "Context": "The BAP1 gene is associated with tumor suppression, and its activity has implications for the function of certain cellular transporters.",
+        "Question": "What effect does BAP1 have on the xc\u2212 antiporter?",
+        "A": "It activates the xc\u2212 antiporter",
+        "B": "It has no effect on the xc\u2212 antiporter",
+        "C": "It promotes ferroptosis through repressing xc\u2212 antiporter expression",
+        "D": "It increases the uptake of glucose",
+        "Answer": "C",
+        "Source": "BAP1 promotes ferroptosis through repressing xc\u2212 antiporter expression, resulting in tumor suppression."
+    },
+    "Question_7": {
+        "Context": "The uptake of certain PET tracers in various organs can affect the contrast and clarity of imaging.",
+        "Question": "Which PET tracer is known for low background uptake in the brain, lung, liver, and bowel?",
+        "A": "[18F]FDG",
+        "B": "[18F]FSPG",
+        "C": "[18F]NaF",
+        "D": "[11C]Choline",
+        "Answer": "B",
+        "Source": "Low background uptake in the brain, lung, liver, and bowel was observed that further leads to excellent imaging contrasts of [18F]FSPG PET."
+    },
+    "Question_8": {
+        "Context": "The production of radiopharmaceuticals requires adherence to specific manufacturing standards to ensure their safety and efficacy.",
+        "Question": "What is the required compliance standard for the production of [18F]FSPG for clinical use?",
+        "A": "FDA approval",
+        "B": "ISO certification",
+        "C": "cGMP compliance",
+        "D": "GLP compliance",
+        "Answer": "C",
+        "Source": "Reliable production-scale cGMP-compliant automated procedures for [18F]FSPG production are still lacking to further increase the utility and clinical adoption of this radiotracer."
+    },
+    "Question_9": {
+        "Context": "Automated radiosynthesis modules are used in the production of radiopharmaceuticals, and different modules may have distinct features.",
+        "Question": "What is a major difference between the FASTlab\u2122 module and its predecessor in the context of radiosynthesis?",
+        "A": "The FASTlab\u2122 module requires more reagent reservoirs",
+        "B": "The FASTlab\u2122 module includes a more advanced HPLC system",
+        "C": "The FASTlab\u2122 module eliminates the pre-synthesis cleaning requirement",
+        "D": "The FASTlab\u2122 module uses a different radioisotope",
+        "Answer": "C",
+        "Source": "Another major factor that differentiates the FASTlab module from their predecessor is the elimination of the pre-synthesis cleaning requirement, thus a natural reduction in preparation works and time."
+    },
+    "Question_10": {
+        "Context": "The radiochemical yield of a synthesized radiotracer is an important measure of the synthesis process efficiency.",
+        "Question": "What were the average radiochemical yields of [18F]FSPG using TRACERlab\u2122 FXFN and FASTlab\u2122, respectively?",
+        "A": "22.56% and 30.82%",
+        "B": "15.30% and 25.50%",
+        "C": "18.75% and 28.90%",
+        "D": "20.00% and 35.00%",
+        "Answer": "A",
+        "Source": "The fully-automated process to produce [18F]FSPG took less than 45 min with average radiochemical yields of 22.56 \u00b1 0.97% and 30.82 \u00b1 1.60% (non-decay corrected) using TRACERlab\u2122 FXFN and FASTlab\u2122, respectively."
+    }
+}

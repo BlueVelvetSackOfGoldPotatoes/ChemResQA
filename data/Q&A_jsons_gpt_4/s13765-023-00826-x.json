@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Anorexia is a condition characterized by a lack of appetite, which can result from various factors including psychological issues and physiological changes.",
+        "Question": "Which area of the brain is considered the center for appetite control?",
+        "A": "Cerebellum",
+        "B": "Hypothalamus",
+        "C": "Amygdala",
+        "D": "Hippocampus",
+        "Answer": "B",
+        "Source": "The hypothalamus is the center of appetite control, and various appetite control mechanisms are known."
+    },
+    "Question_2": {
+        "Context": "In the regulation of appetite, the hypothalamus synthesizes different types of neuropeptides that can either stimulate or inhibit food intake.",
+        "Question": "Which of the following neuropeptides is known to stimulate food intake?",
+        "A": "Melanin-concentrating hormone (MCH)",
+        "B": "Cocaine- and amphetamine-regulated transcript (CART)",
+        "C": "Neuropeptide Y (NPY)",
+        "D": "Cholecystokinin (CCK)",
+        "Answer": "C",
+        "Source": "The function and structure of several hypothalamic peptides, including melanin-concentrating hormone (MCH), cocaine- and amphetamine-regulated transcript (CART), orexins, neuropeptide Y (NPY), melanocortins, and agouti-related peptide (AGRP) have been studied in rodent models."
+    },
+    "Question_3": {
+        "Context": "Peripheral neuropeptides play a role in signaling the central nervous system about the status of nutrient availability, which can influence the regulation of food intake.",
+        "Question": "Which peripheral neuropeptide is known for its role in signaling satiety and reducing food intake?",
+        "A": "Ghrelin",
+        "B": "Peptide YY (PYY3-36)",
+        "C": "Neuropeptide Y (NPY)",
+        "D": "Orexins",
+        "Answer": "B",
+        "Source": "Peripheral neuropeptides, including bombesin, amylin, peptide YY (PYY3-36), ghrelin, and cholecystokinin (CCK), govern essential gastrointestinal processes, such as absorption, secretion, and motility, offer feedback to the central nervous system on nutrition availability, and may help regulate food intake."
+    },
+    "Question_4": {
+        "Context": "Herbal medicines are often used to treat various conditions, including those affecting appetite, due to their complex mix of components.",
+        "Question": "Which herbal prescription is known to contain 10 herbs and is used to treat qi and blood deficiency syndromes by balancing Yin and Yang?",
+        "A": "Hyangsayukgunja-tang (HYT)",
+        "B": "Sipjeondaebo-tang (SDT)",
+        "C": "Juzen-taiho-to",
+        "D": "Yukgunja-tang (YT)",
+        "Answer": "B",
+        "Source": "SDT is a frequently prescribed herbal medicine comprising 10 herbs (Astragali Radix, Panax ginseng radix, Atractylodes Rhizoma Alba, Poria sclerotium, Rehmanniae Radix, Angelicae Gigantis Radix, Paeonia Radix, Cnidii Rhizoma, Glycyrrhizae Radix et Rhizoma, and Cinnamomi Ramulus) in Korea, Japan, and China."
+    },
+    "Question_5": {
+        "Context": "Herbal prescriptions are used for their therapeutic effects on digestive disorders and are composed of multiple herbs.",
+        "Question": "Which herbal prescription is known to comprise 14 herbs and is used for treating digestive disorders such as gastric flatulence and anorexia?",
+        "A": "Sipjeondaebo-tang (SDT)",
+        "B": "Hyangsayukgunja-tang (HYT)",
+        "C": "Yukgunja-tang (YT)",
+        "D": "Juzen-taiho-to",
+        "Answer": "B",
+        "Source": "HYT is commercially available and comprises 14 herbs: Cyperi Rhizoma, Atractylodis Rhizoma Alba, Poria Sclerotium, Pinelliae Tuber, Citri Unshius Pericarpium, Amomi Fructus Rotundus, Magnoliae Cortex, Amomi Fructus, Ginseng Radix Alba, Aucklandiae Radix, Aipiniae Oxyphyllae Fructus, Glycyrrhizae Radix et Rhizoma, Zingiberis Rhizoma Crudus, and Zizyphi Fructus."
+    },
+    "Question_6": {
+        "Context": "In vitro experiments with cell cultures can be used to study the effects of substances on cell viability and gene expression.",
+        "Question": "What type of cells were used as appetite-regulating cells in the experiments to analyze the effects of herbal prescriptions on appetite control?",
+        "A": "Hepatocytes",
+        "B": "Fibroblasts",
+        "C": "Mouse hypothalamic neuronal GT1-7 cells",
+        "D": "Pancreatic cells",
+        "Answer": "C",
+        "Source": "We used mouse hypothalamic neuronal GT1-7 cells as appetite-regulating cells and analyzed the differences in the related genes by SDT and HYT using microarray."
+    },
+    "Question_7": {
+        "Context": "Microarray analysis is a powerful tool used to study gene expression profiles in response to various treatments.",
+        "Question": "What was the purpose of using microarray analysis in the context of studying appetite control?",
+        "A": "To identify the active components in herbal prescriptions",
+        "B": "To analyze the difference in efficacy between two herbal prescriptions",
+        "C": "To measure the concentration of neuropeptides",
+        "D": "To observe the direct effects on food intake",
+        "Answer": "B",
+        "Source": "We used mouse hypothalamic neuronal GT1-7 cells as appetite control center cells and analyzed the difference in efficacy between SDT and HYT using microarray and network pharmacology."
+    },
+    "Question_8": {
+        "Context": "Network pharmacology is an approach that can be used to analyze the interactions between drugs, their targets, and diseases.",
+        "Question": "In the context of appetite control, what was the focus of network pharmacology analysis?",
+        "A": "Determining the toxicity of herbal prescriptions",
+        "B": "Analyzing the differential expression of anorexia-related genes",
+        "C": "Studying the effects of herbal prescriptions on cell morphology",
+        "D": "Comparing the nutritional content of different herbal prescriptions",
+        "Answer": "B",
+        "Source": "Using network pharmacology, we analyzed the differential expression of neuropeptide Y receptors, glucagon, corticotropin-releasing hormone receptors 1, and 5-hydroxytryptamine receptor 4 among the 17 anorexia-related genes selected from the comparative toxicogenomics database and also analyzed the active components that affect gene expression."
+    },
+    "Question_9": {
+        "Context": "The comparative toxicogenomics database (CTD) is a resource that curates information about the relationships between chemicals, genes, and diseases.",
+        "Question": "What type of genes were selected from the CTD for analysis in the context of anorexia?",
+        "A": "Genes related to metabolic pathways",
+        "B": "Genes associated with cell division",
+        "C": "Anorexia-related genes",
+        "D": "Genes involved in protein synthesis",
+        "Answer": "C",
+        "Source": "We analyzed the fold-change in anorexia-associated genes in the microarray compared with that in the control. Genes with an absolute fold-change value \u2265 1.5 were presumed to be differentially expressed genes (DEGs)."
+    },
+    "Question_10": {
+        "Context": "Pathway enrichment analysis is a method used to identify biological pathways that are significantly enriched in a set of genes.",
+        "Question": "Which biological pathway was associated with differentially expressed genes in samples treated with high-dose herbal prescriptions?",
+        "A": "Olfactory transduction",
+        "B": "Pancreatic secretion",
+        "C": "Serotonergic synapse",
+        "D": "Apelin signaling pathway",
+        "Answer": "B",
+        "Source": "More specifically, pancreatic secretion was associated with DEGs in the high-dose group treated with \u2018HYT\u2019 or \u2018SDT\u2019, while salivary secretion was associated with the high-dose \u2018SDT\u2019 group."
+    }
+}

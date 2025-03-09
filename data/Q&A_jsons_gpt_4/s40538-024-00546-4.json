@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Biochar is a carbon-rich material produced by pyrolysis of organic residues, which is known to influence soil properties and microbial communities.",
+        "Question": "What is the primary use of biochar in agriculture?",
+        "A": "As a pesticide",
+        "B": "To enhance soil fertility",
+        "C": "As a plant growth hormone",
+        "D": "To increase soil water retention only",
+        "Answer": "B",
+        "Source": "Biochar is mainly used to enhance soil fertility, microbial activity, improve plant performance and reduce disease incidence."
+    },
+    "Question_2": {
+        "Context": "Biochar application to soil can affect the chemical properties of the soil, such as pH, and nutrient availability.",
+        "Question": "What significant change in soil pH was observed with the application of 30 t ha\u22121 of biochar?",
+        "A": "Decrease by 9.61%",
+        "B": "Increase by 1.50%",
+        "C": "Increase by 9.61%",
+        "D": "No change",
+        "Answer": "C",
+        "Source": "The amendment of 30 t ha\u22121 of biochar (B2) significantly improve soil pH by 1.50% and 9.61% compared with that of B1 and B0."
+    },
+    "Question_3": {
+        "Context": "Biochar application can lead to changes in the availability of certain nutrients in the soil, which are essential for plant growth.",
+        "Question": "Which nutrient was significantly increased in availability by the application of 15 t ha\u22121 of biochar?",
+        "A": "Available potassium (AK)",
+        "B": "Ammonium nitrogen (NH4 +\u2013N)",
+        "C": "Nitrate nitrogen (NO3 \u2212-N)",
+        "D": "Available phosphorus (AP)",
+        "Answer": "D",
+        "Source": "The application of 15 t ha\u22121 biochar significantly increased available phosphorus (AP) and ammonium nitrogen (NH4 +\u2013N) by 209.93 mg kg\u22121 and 12.1 mg kg\u22121."
+    },
+    "Question_4": {
+        "Context": "Soil enzymes such as acid phosphatase, urease, and sucrase are indicators of soil health and are involved in nutrient cycling.",
+        "Question": "Which soil enzyme activity was reported to increase with the application of biochar?",
+        "A": "Soil acid phosphatase (S-ACP)",
+        "B": "Soil lipase",
+        "C": "Soil protease",
+        "D": "Soil amylase",
+        "Answer": "A",
+        "Source": "Furthermore, biochar application increased the activities of soil acid phosphatase (S-ACP), urease (S-UE), and sucrase (S-SC)."
+    },
+    "Question_5": {
+        "Context": "The microbial community in the rhizosphere can be altered by the addition of biochar, potentially affecting the abundance of beneficial and pathogenic microorganisms.",
+        "Question": "What was the effect of biochar on the relative abundance of the soil pathogen Fusarium?",
+        "A": "Significant increase",
+        "B": "No significant change",
+        "C": "Significant decrease",
+        "D": "Fluctuating effect",
+        "Answer": "C",
+        "Source": "There was a significant decrease in the relative abundance of the soil pathogen Fusarium (P < 0.01)."
+    },
+    "Question_6": {
+        "Context": "Biochar is produced by the pyrolysis of biological materials such as wood, crop residues, and other organic waste.",
+        "Question": "At what temperature was the biochar used in the experiment pyrolysed?",
+        "A": "300 \u2103",
+        "B": "400 \u2103",
+        "C": "500 \u2103",
+        "D": "600 \u2103",
+        "Answer": "C",
+        "Source": "Biochar used in this experiment was made from palm residues and pyrolysed at 500 \u2103 produced locally."
+    },
+    "Question_7": {
+        "Context": "The microbial community in soil plays a crucial role in nutrient cycling and plant health.",
+        "Question": "Which beneficial microorganism's relative abundance was increased due to biochar application?",
+        "A": "Rhodanobacteraceae",
+        "B": "Escherichia coli",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Clostridium botulinum",
+        "Answer": "A",
+        "Source": "Alpha diversity analysis showed that the addition of biochar significantly altered the variety and abundance of rhizosphere microorganisms and increased the relative abundance of beneficial microorganisms Rhodanobacteraceae."
+    },
+    "Question_8": {
+        "Context": "Soil pH is a measure of the acidity or alkalinity of the soil, which can be influenced by various soil amendments.",
+        "Question": "What was the pH value of the soil reported to be highest in the study?",
+        "A": "6.34",
+        "B": "6.77",
+        "C": "6.84",
+        "D": "6.95",
+        "Answer": "D",
+        "Source": "Therefore, significant higher value of soil pH was 6.95 and the content of soil available K, P, NH4 +-N, and NO3 \u2212-N were 214.6 mg kg\u22121, 188.6 mg kg\u22121, 9.71 mg kg\u22121, and 47.3 mg kg\u22121 were determined in the rhizosphere soil of sugarcane by B2 treatment."
+    },
+    "Question_9": {
+        "Context": "The application of biochar can have a liming effect on the soil, which refers to the process of increasing the soil pH.",
+        "Question": "What is the liming effect of biochar application on soil?",
+        "A": "Decreases soil pH",
+        "B": "Increases soil pH",
+        "C": "Has no effect on soil pH",
+        "D": "Increases soil acidity",
+        "Answer": "B",
+        "Source": "Biochar changes the rhizosphere microbial community structure and abundance, promotes plant growth, and improves resistance to plant pathogen including fungal disease."
+    },
+    "Question_10": {
+        "Context": "Sugarcane Pokkah boeng disease is a fungal disease affecting sugarcane crops, caused by different species of the genus Fusarium.",
+        "Question": "What is the main pathogen causing Pokkah boeng disease in sugarcane?",
+        "A": "Rhizoctonia solani",
+        "B": "Phytophthora spp.",
+        "C": "Fusarium spp.",
+        "D": "Verticillium dahliae",
+        "Answer": "C",
+        "Source": "Pokkah boeng (PB) is one of the prevalent sugarcane airborne fungal disease caused by Fusarium spp."
+    }
+}

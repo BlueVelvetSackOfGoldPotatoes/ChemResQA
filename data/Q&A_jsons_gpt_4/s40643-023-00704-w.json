@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Proteases are enzymes that break down proteins into smaller peptides and amino acids. They can be categorized based on where they cleave peptide bonds in protein substrates.",
+        "Question": "Which type of protease cleaves the internal peptide bonds of proteins?",
+        "A": "Exopeptidases",
+        "B": "Endopeptidases",
+        "C": "Lipases",
+        "D": "Amylases",
+        "Answer": "B",
+        "Source": "Proteases are a class of enzymes that hydrolyze proteins, breaking them down into smaller peptides and amino acids. Depending on the peptide bond hydrolyzed, proteases can be divided into exopeptidases, which cleave the N- or C-terminal peptide bond, and endopeptidases, which cleave the internal peptide bond."
+    },
+    "Question_2": {
+        "Context": "Proteases can be classified based on the optimal pH for their action. This classification includes alkaline, acidic, and neutral proteases.",
+        "Question": "Which class of proteases is optimized to function at a high pH level?",
+        "A": "Alkaline proteases",
+        "B": "Acidic proteases",
+        "C": "Neutral proteases",
+        "D": "All of the above",
+        "Answer": "A",
+        "Source": "Depending on the optimal pH for their action, they can be classified as alkaline, acidic, or neutral proteases."
+    },
+    "Question_3": {
+        "Context": "Proteases can also be categorized based on the active site group that participates in their hydrolytic action.",
+        "Question": "Which type of protease has a serine residue at its active site?",
+        "A": "Sulfhydryl proteases",
+        "B": "Metalloproteases",
+        "C": "Serine proteases",
+        "D": "Acid proteases",
+        "Answer": "C",
+        "Source": "Additionally, they can be divided into serine proteases, sulfhydryl proteases, metalloproteases, and acid proteases, according to the group in which they exert their hydrolytic action."
+    },
+    "Question_4": {
+        "Context": "Salt-tolerant proteases (STPs) are a type of protease that can maintain activity in high-salt environments.",
+        "Question": "At what concentration of NaCl can salt-tolerant proteases typically maintain their activity?",
+        "A": "Approximately 0.5 M NaCl",
+        "B": "Approximately 1.0 M NaCl",
+        "C": "Approximately 2.0 M NaCl",
+        "D": "Approximately 3.0 M NaCl or higher",
+        "Answer": "D",
+        "Source": "Salt-tolerant proteases (STPs) are known for their high salt tolerance, and are able to withstand concentrations of approximately 3.0 M NaCl or higher."
+    },
+    "Question_5": {
+        "Context": "Microorganisms such as bacteria and fungi are known to secrete proteases with various properties suitable for industrial applications.",
+        "Question": "Which microorganism is known to secrete alkaline proteases?",
+        "A": "Bacillus cereus",
+        "B": "Aspergillus niger",
+        "C": "Rhodotorula mucilaginosa",
+        "D": "Aspergillus oryzae",
+        "Answer": "A",
+        "Source": "For example, the bacterium Bacillus cereus is known to secrete alkaline proteases."
+    },
+    "Question_6": {
+        "Context": "The ability of proteases to function in the presence of various metal ions can be an important characteristic for certain industrial applications.",
+        "Question": "Which metal ion is reported to enhance the activity of certain alkaline proteases used in detergent formulations?",
+        "A": "NaCl",
+        "B": "CaCl2",
+        "C": "MgCl2",
+        "D": "FeCl3",
+        "Answer": "B",
+        "Source": "Similarly, alkaline proteases used in detergent formulations have been reported to be active at concentrations up to 4 M NaCl, with enhanced activity in the presence of CaCl2, KCl, and MnCl2."
+    },
+    "Question_7": {
+        "Context": "Microorganisms adapted to high-salt environments are a source of salt-tolerant proteases, which have various industrial applications.",
+        "Question": "What is a potential application of salt-tolerant neutral proteases in the food industry?",
+        "A": "Cheese ripening",
+        "B": "Soy sauce production",
+        "C": "Baking",
+        "D": "Brewing",
+        "Answer": "B",
+        "Source": "The salt-tolerant neutral protease from Aspergillus oryzae CICIM F0899 has shown high salt tolerance in 18% NaCl and can maintain 72% of its initial activity after 14 days. It has promising applications in soy sauce production."
+    },
+    "Question_8": {
+        "Context": "Enzymes that are stable and active in high-salt conditions can be particularly useful in the detergent industry.",
+        "Question": "What characteristic of the alkaline protease from Bacillus sp. strain NPST-AK15 suggests its potential role in commercial detergents?",
+        "A": "Stability in high sugar concentrations",
+        "B": "Stability in NaCl up to 20% (w/v)",
+        "C": "Optimum pH at 4.0",
+        "D": "Optimum temperature at 30 \u00b0C",
+        "Answer": "B",
+        "Source": "The alkaline protease from the halotolerant alkaliphilic Bacillus sp. strain NPST-AK15 can remain stable in NaCl up to 20% (w/v)."
+    },
+    "Question_9": {
+        "Context": "Proteases with high salt tolerance can maintain their activity even in the presence of high concentrations of NaCl, which is beneficial for certain biotechnological applications.",
+        "Question": "What is the optimum pH for the acid protease from Rhodotorula mucilaginosa L7?",
+        "A": "5.0",
+        "B": "7.0",
+        "C": "8.5",
+        "D": "10.5",
+        "Answer": "A",
+        "Source": "The acid protease from Rhodotorula mucilaginosa L7 can maintain 60% activity in 3.5 M NaCl concentration, and its optimum pH and temperature are 5.0 and 50 \u00b0C, respectively."
+    },
+    "Question_10": {
+        "Context": "The isolation of microorganisms from high-salt environments is a strategy used to discover new salt-tolerant proteases.",
+        "Question": "From which of the following environments have strains been isolated for the production of salt-tolerant proteases?",
+        "A": "Saline soils",
+        "B": "Freshwater lakes",
+        "C": "Temperate forests",
+        "D": "Desert sands",
+        "Answer": "A",
+        "Source": "Notably, the strains have been isolated from various high-salt environments such as saline soils, seawater, lakes, and marine sediments, and used in various industries."
+    }
+}

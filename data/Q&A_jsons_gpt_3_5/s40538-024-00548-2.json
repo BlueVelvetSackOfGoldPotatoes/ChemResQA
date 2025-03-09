@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the impact of understory cultivation on C. chinensis. It explored physiological properties, yield indicators, and isoquinoline alkaloid content.",
+        "Question": "What is the primary active component of C. chinensis?",
+        "A": "Epiberberine",
+        "B": "Palmatine",
+        "C": "Berberine",
+        "D": "Coptisine",
+        "Answer": "C",
+        "Source": "The dried rhizomes of C. chinensis, known as 'Weilian' in Chinese, found widespread use for purging fire, detoxication, and their antioxidant properties. The primary active components of C. chinensis include isoquinoline alkaloids, such as epiberberine, palmatine, berberine, and coptisine."
+    },
+    "Question_2": {
+        "Context": "The study examined variations in C. chinensis in response to understory cultivation. It analyzed transcriptome data to elucidate potential mechanisms driving alterations.",
+        "Question": "Which pathway exhibited significant enrichment of differentially expressed genes in response to understory cultivation?",
+        "A": "Phenylpropanoid biosynthesis",
+        "B": "Photosynthesis",
+        "C": "Zeatin biosynthesis",
+        "D": "Starch and sucrose metabolism",
+        "Answer": "A",
+        "Source": "The KEGG enrichment analysis showed significant enrichment of genes in pathways such as 'Phenylpropanoid biosynthesis,' 'Zeatin biosynthesis,' 'Photosynthesis,' 'Tyrosine metabolism,' 'Isoquinoline alkaloid biosynthesis,' and 'Starch and sucrose metabolism' pathways."
+    },
+    "Question_3": {
+        "Context": "The study evaluated physiological properties and yield indicators to discern alterations in C. chinensis under understory cultivation.",
+        "Question": "Which enzyme activity exhibited a significant increase in the understory cultivation group?",
+        "A": "Peroxidase",
+        "B": "Superoxide dismutase",
+        "C": "Catalase",
+        "D": "Malondialdehyde",
+        "Answer": "B",
+        "Source": "Under UC, there is a significant increase in SOD enzyme activity, catalyzing the disproportionation of superoxide-free radical to generate more H2O2 and O2."
+    },
+    "Question_4": {
+        "Context": "The study focused on the impact of understory cultivation on C. chinensis viability, yield, and isoquinoline alkaloid content.",
+        "Question": "Which gene family was identified as being significantly differentially expressed in the transcriptome of C. chinensis?",
+        "A": "ERF/DREB",
+        "B": "WRKY",
+        "C": "HD-ZIP",
+        "D": "MYB",
+        "Answer": "A",
+        "Source": "Differentially expressed genes annotated various TFs, including ERF/DREB, WRKY, HD-ZIP, MYB, MIKC C4-GATA-related, GARP_G2-like, SBP, DOF, and AP2, which may play pivotal roles in enhancing the viability and yield of the understory cultivation system."
+    },
+    "Question_5": {
+        "Context": "The study examined the isoquinoline alkaloid content of C. chinensis under different cultivation conditions.",
+        "Question": "Which isoquinoline alkaloid exhibited a significant decrease in content under understory cultivation?",
+        "A": "Epiberberine",
+        "B": "Palmatine",
+        "C": "Berberine",
+        "D": "Coptisine",
+        "Answer": "D",
+        "Source": "The cultivation method positively influenced the levels of epiberberine, palmatine, and berberine, while diminishing coptisine content in C. chinensis."
+    },
+    "Question_6": {
+        "Context": "The study explored the relationship between gene expression levels and physiological properties in C. chinensis under understory cultivation.",
+        "Question": "Which enzyme activity was significantly positively correlated with epiberberine, palmatine, and berberine content?",
+        "A": "Peroxidase",
+        "B": "Superoxide dismutase",
+        "C": "Catalase",
+        "D": "Malondialdehyde",
+        "Answer": "A",
+        "Source": "SOD activity, POD activity, and MDA content were significantly and positively correlated with epiberberine, palmatine, and berberine content."
+    },
+    "Question_7": {
+        "Context": "The study investigated the impact of understory cultivation on the physiological properties and yield indicators of C. chinensis.",
+        "Question": "Which pathway exhibited significant alterations in gene expression levels under understory cultivation?",
+        "A": "Starch and sucrose metabolism",
+        "B": "Photosynthesis",
+        "C": "Tyrosine metabolism",
+        "D": "Isoquinoline alkaloid biosynthesis",
+        "Answer": "A",
+        "Source": "Sucrose and starch metabolism, crucial for providing nutrients and energy for crop yield and stress responses, demonstrated significant alterations in the UC."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the correlation between differentially expressed genes and yield indicators in C. chinensis under understory cultivation.",
+        "Question": "Which gene exhibited a significant positive correlation with plant fresh weight, aboveground fresh weight, and underground fresh weight?",
+        "A": "Psb B",
+        "B": "Psb R",
+        "C": "Psb S",
+        "D": "Psa D",
+        "Answer": "D",
+        "Source": "INV, BGL-2, BGL-4, SPS-2, AMY-3, Psb B, Psb R, Psb S, Psa D, Psa E, Psa H, Psa O, Pet C, Pet H, deta, and b showed significant positive correlations with plant fresh weight, aboveground fresh weight, and underground fresh weight."
+    },
+    "Question_9": {
+        "Context": "The study examined the impact of understory cultivation on the isoquinoline alkaloid content of C. chinensis.",
+        "Question": "Which isoquinoline alkaloid exhibited a significant increase in content under understory cultivation?",
+        "A": "Epiberberine",
+        "B": "Palmatine",
+        "C": "Berberine",
+        "D": "Coptisine",
+        "Answer": "C",
+        "Source": "The study revealed that epiberberine, palmatine, and berberine concentrations notably elevated in the UC compared to the MC."
+    },
+    "Question_10": {
+        "Context": "The study explored the relationship between gene expression levels and physiological properties in C. chinensis under understory cultivation.",
+        "Question": "Which physiological property exhibited a significant positive correlation with individual plant, aboveground, and underground fresh weights?",
+        "A": "Chlorophyll a",
+        "B": "Chlorophyll b",
+        "C": "Chlorophyll a + chlorophyll b",
+        "D": "Carotenoid",
+        "Answer": "D",
+        "Source": "Chl a, Chl b, Chl, Cars, soluble protein, soluble sugar content, starch content, sucrose content, and SS activity exhibited significant positive correlations with individual plant, aboveground, and underground fresh weights."
+    }
+}

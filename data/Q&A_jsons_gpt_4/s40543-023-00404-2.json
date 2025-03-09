@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Volatile organic compounds (VOCs) are substances that can easily evaporate and enter the atmosphere under normal conditions of temperature and pressure.",
+        "Question": "Which of the following is a standard method to evaluate human exposure to VOCs?",
+        "A": "Direct reading with a portable gas chromatograph",
+        "B": "Sampling the air on sorbents followed by liquid extraction and gas chromatograph analysis",
+        "C": "Using a mass spectrometer in an open field",
+        "D": "Real-time monitoring with a photoionization detector",
+        "Answer": "B",
+        "Source": "The standard method to evaluate human exposure to volatile organic compounds (VOCs) is in general performed by sampling the air on sorbents followed by liquid extraction and detection using laboratory gas chromatograph (GC)."
+    },
+    "Question_2": {
+        "Context": "In the analysis of VOCs, the use of certain solvents can add risk factors due to their toxicity.",
+        "Question": "Which toxic solvent is commonly employed in the conventional method of VOC analysis that adds a risk factor?",
+        "A": "Methanol",
+        "B": "Ethanol",
+        "C": "Carbon disulfide",
+        "D": "Acetone",
+        "Answer": "C",
+        "Source": "The conventional method is time and labor intensive and employs a toxic solvent which adds a risk factor as well as waste."
+    },
+    "Question_3": {
+        "Context": "Gas chromatographs (GC) equipped with flame ionization detectors (FID) are used to detect and quantify organic compounds in various samples.",
+        "Question": "What is the main advantage of using a portable GC with FID for VOC analysis?",
+        "A": "It requires a large volume of sample for analysis",
+        "B": "It allows near real-time, in-situ analysis",
+        "C": "It is less sensitive compared to laboratory GC",
+        "D": "It can only be used in laboratory settings",
+        "Answer": "B",
+        "Source": "Hence, there have been increasing demands for portable GC instruments which allow near real-time, in-situ analysis."
+    },
+    "Question_4": {
+        "Context": "Volatile organic compounds (VOCs) can pose health risks upon exposure, and certain compounds are classified based on their carcinogenic potential.",
+        "Question": "How is ethylbenzene classified in terms of its carcinogenic potential?",
+        "A": "Group 1 - Carcinogenic to humans",
+        "B": "Group 2A - Probably carcinogenic to humans",
+        "C": "Group 2B - Possibly carcinogenic to humans",
+        "D": "Group 3 - Not classifiable as to its carcinogenicity to humans",
+        "Answer": "C",
+        "Source": "Ethylbenzene is a possible carcinogen classified as Group 2B by the International Agency for Research on Cancer (IARC)."
+    },
+    "Question_5": {
+        "Context": "Volatile organic compounds (VOCs) can be found in many industrial processes and products, and their excessive exposure can lead to various health issues.",
+        "Question": "Which of the following health effects is NOT typically associated with acute exposure to VOCs?",
+        "A": "Eye irritation",
+        "B": "Nausea",
+        "C": "Skin moisturization",
+        "D": "Dizziness",
+        "Answer": "C",
+        "Source": "Excessive, acute exposure to VOCs can cause eye, nose and throat irritation, nausea, and dizziness and chronic exposure to high concentration can cause liver/kidney disease, central nervous system (CNS) damage, and cancer."
+    },
+    "Question_6": {
+        "Context": "In gas chromatography, the choice of column can affect the separation and analysis of compounds.",
+        "Question": "What is the main purpose of using dual columns with different characteristics in a gas chromatograph?",
+        "A": "To increase the complexity of the analysis",
+        "B": "To reduce the sensitivity of the instrument",
+        "C": "To provide high sensitivity with selectivity for compounds that co-elute",
+        "D": "To make the instrument more portable",
+        "Answer": "C",
+        "Source": "Dual columns, with different characteristics when dedicated to the same atmospheric analysis, enables a GC analyzer to provide very high sensitivity with selectivity for compounds that co-elute."
+    },
+    "Question_7": {
+        "Context": "The detection limits of analytical instruments are crucial for determining the smallest quantity of a substance that can be reliably measured.",
+        "Question": "What is the limit of detection for BTEX compounds using the prototype GC with dual FID?",
+        "A": "10 ppm in air",
+        "B": "1 ppb in air",
+        "C": "100 ppb in air",
+        "D": "0.1 ppm in air",
+        "Answer": "B",
+        "Source": "The protoGC had default dual columns each connected to its individual FID for which the dynamic range was 5,000 and limit of detection for BTEX was 1 ppb in air."
+    },
+    "Question_8": {
+        "Context": "Calibration of analytical instruments is necessary to ensure accurate measurements of analytes.",
+        "Question": "What is typically used to calibrate a gas chromatograph for VOC analysis?",
+        "A": "A series of known concentrations of nitrogen",
+        "B": "A single standard solution of the analyte",
+        "C": "A series of dilutions of the analyte in a solvent",
+        "D": "Pure water at different temperatures",
+        "Answer": "C",
+        "Source": "Three calibration standards of 2.5, 10, and 25 \u00b5g/ml were prepared for calibration according to the manufacturer\u2019s instructions."
+    },
+    "Question_9": {
+        "Context": "The correlation coefficient is a statistical measure that describes the extent to which two variables are linearly related.",
+        "Question": "What does a correlation coefficient (r) close to 1 between two methods of VOC analysis indicate?",
+        "A": "No correlation between the methods",
+        "B": "A perfect negative linear relationship between the methods",
+        "C": "A strong positive linear association between the methods",
+        "D": "The methods are identical in every aspect",
+        "Answer": "C",
+        "Source": "The results of protoGC correlated well with the conventional method (r = 0.991\u20130.999), indicating that protoGC has comparable performance with the conventional method within the test conditions."
+    },
+    "Question_10": {
+        "Context": "Statistical analysis can be used to compare the performance of different analytical methods.",
+        "Question": "What statistical test can be used to determine whether mean concentrations of VOCs are significantly different between two analytical methods?",
+        "A": "Chi-square test",
+        "B": "Two-way ANOVA",
+        "C": "T-test",
+        "D": "Pearson correlation test",
+        "Answer": "B",
+        "Source": "A two-way ANOVA was performed at each target concentration to examine the effect of method (i.e., protoGC and conventional) and analyte (i.e., toluene, ethylbenzene, and o-, m-, and p-xylene) on mean concentrations to mainly determine whether the mean concentrations were statistically different between methods as well as analytes."
+    }
+}

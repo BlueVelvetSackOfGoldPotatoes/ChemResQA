@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In molecular science, the behavior of electrons and atomic nuclei, as well as their interactions with electromagnetic fields, are fundamental aspects that need to be understood for the development of valuable chemicals and materials.",
+        "Question": "What type of mechanics is often inadequate for addressing problems in molecular science that involve the dynamics of electrons and atomic nuclei?",
+        "A": "Quantum mechanics",
+        "B": "Classical mechanics",
+        "C": "Statistical mechanics",
+        "D": "Relativistic mechanics",
+        "Answer": "B",
+        "Source": "Although some problems in this field can be adequately addressed by classical mechanics, many demand an explicit quantum mechanical description."
+    },
+    "Question_2": {
+        "Context": "The representation of wave functions in quantum problems is a challenge due to the exponential growth of required resources with system size, which is a key consideration in the field of quantum computing.",
+        "Question": "How does the representation of wave functions scale with system size in quantum problems?",
+        "A": "Linearly",
+        "B": "Polynomially",
+        "C": "Exponentially",
+        "D": "Logarithmically",
+        "Answer": "C",
+        "Source": "Such quantum problems require a representation of wave functions that grows exponentially with system size and therefore should naturally benefit from quantum computation on a number of logical qubits that scales only linearly with system size."
+    },
+    "Question_3": {
+        "Context": "Quantum computing is anticipated to provide significant advantages over traditional computing for certain computational problems due to its different scaling behavior.",
+        "Question": "What type of speedup does quantum computing promise over traditional computing for certain computational problems?",
+        "A": "Linear speedup",
+        "B": "Polynomial speedup",
+        "C": "Exponential speedup",
+        "D": "Logarithmic speedup",
+        "Answer": "C",
+        "Source": "Quantum computing promises exponential speedups over traditional computing for certain computational problems."
+    },
+    "Question_4": {
+        "Context": "In molecular science, the Born-Oppenheimer approximation is a key concept that simplifies the complex interactions between electrons and nuclei.",
+        "Question": "What does the Born-Oppenheimer approximation typically assume in molecular science?",
+        "A": "The motion of electrons is negligible",
+        "B": "The motion of nuclei is negligible",
+        "C": "Both electrons and nuclei are stationary",
+        "D": "Electrons and nuclei move at the same speed",
+        "Answer": "B",
+        "Source": "The energy assignment is typically done in terms of the electronic energy emerging from the Born-Oppenheimer approximation that freezes out the motion of the nuclei, which are much heavier than electrons."
+    },
+    "Question_5": {
+        "Context": "Density functional theory (DFT) is a widely used computational method in chemistry for determining the electronic structure of molecules and materials.",
+        "Question": "What is the typical scaling of Density Functional Theory (DFT) with respect to the number of one-electron basis functions?",
+        "A": "O(m)",
+        "B": "O(m^2)",
+        "C": "O(m^3)",
+        "D": "O(m^4)",
+        "Answer": "C",
+        "Source": "Its relatively low scaling of around O(m3) with respect to the number m of one-electron basis functions enables routine calculations of chemical systems with up to about a thousand atoms."
+    },
+    "Question_6": {
+        "Context": "In computational chemistry, the accuracy of methods such as DFT can be limited by the approximations made in the exchange-correlation energy functional.",
+        "Question": "What aspect of Density Functional Theory (DFT) is known to introduce uncertainty in the accuracy of calculated energies?",
+        "A": "The basis set size",
+        "B": "The exchange-correlation energy functional",
+        "C": "The number of electrons in the system",
+        "D": "The use of the Born-Oppenheimer approximation",
+        "Answer": "B",
+        "Source": "However, their accuracy remains somewhat obscure due to the approximate nature of the so-called exchange-correlation energy functional that must be selected."
+    },
+    "Question_7": {
+        "Context": "In the context of molecular systems with strong electron correlation, traditional DFT methods may face challenges and require the adoption of symmetry breaking.",
+        "Question": "In which type of molecular systems do standard Kohn-Sham DFT methods face challenges and may require symmetry breaking?",
+        "A": "Systems with weak electron correlation",
+        "B": "Systems with strong electron correlation",
+        "C": "Systems with a small number of electrons",
+        "D": "Systems with a large number of nuclei",
+        "Answer": "B",
+        "Source": "This poses severe challenges for standard Kohn-Sham DFT in a wide range of strongly correlated systems such as molecular systems with one or multiple transition metals, bond breaking and transition states, light-matter interaction, and, in practice, may require the adoption of some sort of symmetry breaking (typically, that of spin symmetry)."
+    },
+    "Question_8": {
+        "Context": "The Full Configuration Interaction (FCI) method is a highly accurate approach for solving the electronic Schr\u00f6dinger equation, but it is limited by the exponential scaling of computational resources required.",
+        "Question": "What is the main limitation of the Full Configuration Interaction (FCI) method in practice?",
+        "A": "It requires a large number of iterations",
+        "B": "It can only be applied to small chemical systems",
+        "C": "It is less accurate than DFT",
+        "D": "It is only applicable to ground state calculations",
+        "Answer": "B",
+        "Source": "In practice, the exact solution of the FCI problem is only possible for rather small chemical systems (i.e., those with less than about 18 spatial orbitals) on classical computers."
+    },
+    "Question_9": {
+        "Context": "Coupled-Cluster Singles and Doubles with Perturbative Triples (CCSD(T)) is considered the gold standard in traditional quantum chemistry methods for its balance between accuracy and computational feasibility.",
+        "Question": "Why is CCSD(T) considered the gold standard in traditional quantum chemistry methods?",
+        "A": "It has the lowest computational cost",
+        "B": "It can handle an unlimited number of orbitals",
+        "C": "It balances accuracy with computational feasibility",
+        "D": "It is based on the simplest theoretical model",
+        "Answer": "C",
+        "Source": "CCSD(T) is considered the gold standard in traditional quantum chemistry methods. However, due to the single reference nature of the method, it still breaks down for systems with strong static correlations, e.g. open-shell metal complexes, or non-equilibrium structures involving double-bond (and beyond) forming and breaking."
+    },
+    "Question_10": {
+        "Context": "In computational chemistry, the evaluation of excited state energies is a challenging task that is important for understanding phenomena such as photochemistry.",
+        "Question": "Which traditional quantum chemistry method is known to have limitations in evaluating excited state energies?",
+        "A": "Density Functional Theory (DFT)",
+        "B": "Time-dependent DFT (TD-DFT)",
+        "C": "Full Configuration Interaction (FCI)",
+        "D": "Coupled-Cluster Singles and Doubles (CCSD)",
+        "Answer": "B",
+        "Source": "Popular approaches like linear-response time-dependent DFT (TD-DFT) have introduced further approximations thus lowering their accuracy."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of nuclear medicine, what is the aim of the PRISMAP consortium?",
+        "Question": "What is the main aim of the PRISMAP consortium in the field of nuclear medicine?",
+        "A": "To offer a broad catalog of conventional radionuclides for medical research.",
+        "B": "To facilitate access to novel radionuclides for medical and translational research.",
+        "C": "To conduct clinical trials for existing radionuclides.",
+        "D": "To establish a network of hospitals for radionuclide therapy.",
+        "Answer": "B",
+        "Source": "In order to support the ongoing research across Europe to facilitate access to novel radionuclides, the PRISMAP consortium (European medical radionuclides programme) was established to offer the broadest catalog of non-conventional radionuclides for medical and translational research."
+    },
+    "Question_2": {
+        "Context": "What are the most frequently used PET radionuclides in clinical practice?",
+        "Question": "Which radionuclides are commonly used for positron emission tomography (PET)?",
+        "A": "177Lu and 225Ac",
+        "B": "64Cu and Terbium isotopes",
+        "C": "18F and 11C",
+        "D": "90Y and 111In",
+        "Answer": "C",
+        "Source": "The most frequently used PET radionuclides are the pure positron-emitters 18F and 11C, which can be produced at medical cyclotrons."
+    },
+    "Question_3": {
+        "Context": "What radionuclides are identified as of interest for users in the next 2\u20135 years?",
+        "Question": "Which radionuclides are expected to be of interest for users in the next 2\u20135 years?",
+        "A": "64Cu, Terbium radionuclide 'family', and alpha emitters like 225Ac",
+        "B": "177Lu, 68Ga, and 111In",
+        "C": "90Y, other alpha emitters, and 225Ac",
+        "D": "64Cu, 111In, and 90Y",
+        "Answer": "A",
+        "Source": "Radionuclides that would be of interest for users within the next 2\u20135 years are 64Cu, Terbium radionuclide 'family', and alpha emitters, such as 225Ac."
+    },
+    "Question_4": {
+        "Context": "What is the main limitation to the development of novel radio-medicinal products?",
+        "Question": "What is identified as a main limitation to the development of novel radio-medicinal products?",
+        "A": "Access to radionuclides during the development and early biomedical research phases.",
+        "B": "Lack of funding for clinical trials.",
+        "C": "Regulatory restrictions on radionuclide usage.",
+        "D": "Limited availability of medical cyclotrons.",
+        "Answer": "A",
+        "Source": "One of the main limits to the development of novel radio-medicinal products is the access to radionuclides during the development and early biomedical research phases."
+    },
+    "Question_5": {
+        "Context": "What radionuclide is proposed as an alternative to 68Ga for PET imaging?",
+        "Question": "Which radionuclide is suggested as an alternative to 68Ga for PET imaging?",
+        "A": "225Ac",
+        "B": "64Cu",
+        "C": "177Lu",
+        "D": "111In",
+        "Answer": "B",
+        "Source": "Scandium-44 was proposed as an alternative radionuclide to 68Ga for PET imaging allowing the user of 44Sc-PSMA-617 as a diagnostic match to 177Lu-PSMA-617."
+    },
+    "Question_6": {
+        "Context": "What radionuclide is used for therapy with gamma emission suitable for SPECT imaging?",
+        "Question": "Which radionuclide is used for therapy with gamma emission suitable for single photon emission computed tomography (SPECT) imaging?",
+        "A": "225Ac",
+        "B": "64Cu",
+        "C": "177Lu",
+        "D": "67Cu",
+        "Answer": "D",
+        "Source": "Copper-67 (T1/2 = 61.83 h, \u03b2\u2212 = 100%, < E\u03b2- > = 145 keV) is an emerging \u03b2\u2212 emitter of interest for therapy with \u03b3-emission usable for SPECT/CT."
+    },
+    "Question_7": {
+        "Context": "What radionuclide is used for bone pain palliation?",
+        "Question": "Which radionuclide is mainly used for bone pain palliation?",
+        "A": "225Ac",
+        "B": "64Cu",
+        "C": "177Lu",
+        "D": "153Sm",
+        "Answer": "D",
+        "Source": "Samarium-153 (T1/2 = 46.28 h, \u03b2\u2212 = 100%, < E\u03b2- > = 225 keV) is suited as a source for M\u00f6\u00dfbauer spectroscopy, a highly sensitive technique to characterize the chemical state and chemical environment of samarium bound in solids or frozen ex vivo samples."
+    },
+    "Question_8": {
+        "Context": "Which radionuclide is used for targeted alpha therapy of cancer?",
+        "Question": "Which radionuclide is used for targeted alpha therapy of cancer?",
+        "A": "225Ac",
+        "B": "64Cu",
+        "C": "177Lu",
+        "D": "153Sm",
+        "Answer": "A",
+        "Source": "Actinium-225 (T1/2 = 9.92 d, \u03b1cumulative = 400%, < E\u03b1 cumulative > = 6.88 MeV) is one of the most promising new radioisotopes in the fight against cancer."
+    },
+    "Question_9": {
+        "Context": "What is the main interest of end users regarding research and development activities?",
+        "Question": "What is the main interest of end users regarding research and development activities?",
+        "A": "Collaboration in obtaining emerging radionuclides.",
+        "B": "Regulation of training processes.",
+        "C": "Development of new imaging technologies.",
+        "D": "Implementation of new radiopharmaceuticals.",
+        "Answer": "A",
+        "Source": "Out of all respondents from preclinical/clinical institutions, 87,5% mentioned that their research and development activities would benefit from collaboration/cooperation in obtaining emerging radionuclides with centralized and harmonized procedures and legislation, offered by efforts of the PRISMAP consortium."
+    },
+    "Question_10": {
+        "Context": "What is the main limitation in the training process according to end users?",
+        "Question": "What is identified as the main limitation in the training process according to end users?",
+        "A": "Lack of integration of radiopharmaceutical research in faculty courses.",
+        "B": "Insufficient access to radioisotopes.",
+        "C": "Limited time resource for training.",
+        "D": "Lack of trained preclinical scientists.",
+        "Answer": "A",
+        "Source": "The main limitations in the training process were identified as a lack of integration of radiopharmaceutical research in faculty courses and student curriculum."
+    }
+}

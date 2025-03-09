@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In radioimmunotherapy, a therapeutic radionuclide is conjugated to a monoclonal antibody to selectively target molecular receptors overexpressed on cancerous cells.",
+        "Question": "What is the primary function of a monoclonal antibody in a radioimmunoconjugate used for cancer treatment?",
+        "A": "To provide energy for radiation therapy",
+        "B": "To act as a carrier for the radionuclide to target cancer cells",
+        "C": "To suppress the immune response of the patient",
+        "D": "To directly kill cancer cells without the need for a radionuclide",
+        "Answer": "B",
+        "Source": "RIT is a molecular form of radiation therapy which uses radioimmunoconjugates to selectively irradiate targeted cells. Consisting of a therapeutic radionuclide conjugated to a monoclonal antibody, radioimmunoconjugates can be tailored to target different molecular receptors overexpressed on cancerous cells."
+    },
+    "Question_2": {
+        "Context": "Mucin 1 (MUC1) is a transmembrane glycoprotein that undergoes aberrant glycosylation during carcinogenesis, exposing cancer-specific epitopes that can be targeted by monoclonal antibodies.",
+        "Question": "What structural change in MUC1 facilitates its targeting by monoclonal antibodies in cancer cells?",
+        "A": "Loss of transmembrane region",
+        "B": "Aberrant glycosylation pattern exposing specific epitopes",
+        "C": "Decrease in molecular weight",
+        "D": "Increase in the number of transmembrane domains",
+        "Answer": "B",
+        "Source": "As these cells enter carcinogenesis, MUC1 undergoes apical polarisation and exhibits an aberrant glycosylation pattern within the N-terminus which exposes cancer-specific epitopes within the variable number tandem repeat region (VNTR)."
+    },
+    "Question_3": {
+        "Context": "Actinium-225 (Ac-225) is an alpha-emitting radionuclide with potential therapeutic applications in cancer treatment due to its high linear energy transfer and short range in tissue.",
+        "Question": "Why are alpha-emitting radionuclides like Ac-225 considered effective for radioimmunotherapy?",
+        "A": "They have a long range in tissue, affecting a large volume of cells",
+        "B": "They have a low linear energy transfer, minimizing damage to healthy cells",
+        "C": "They have a high linear energy transfer, causing dense DNA damage",
+        "D": "They emit only gamma rays, which are easily detectable",
+        "Answer": "C",
+        "Source": "Alpha particles have a shorter range in tissue and higher LET (\u223c100 keV/\u00b5m) compared to beta-particles, which allows for more localised and dense DNA damage within the targeted cells."
+    },
+    "Question_4": {
+        "Context": "The decay chain of certain radionuclides can be complex, resulting in the emission of multiple types of radiation, which can complicate clinical implementation due to issues such as recoil energy and dosimetry.",
+        "Question": "What is a challenge in the clinical implementation of alpha-emitting radionuclides like Ac-225?",
+        "A": "They are too stable and do not decay",
+        "B": "They only emit alpha particles, making detection difficult",
+        "C": "Their complex decay chains can lead to high recoil energies affecting conjugate stability",
+        "D": "They have a very long half-life, making them impractical for clinical use",
+        "Answer": "C",
+        "Source": "The decay chain of Ac-225 is complex and results in the emission of multiple alpha- and beta-particles combined with gamma emissions. The decay chain of Ac-225 also presents the issue of high recoil energies affecting conjugate stability which can increase off-target radiotoxicities."
+    },
+    "Question_5": {
+        "Context": "In the context of radioimmunotherapy, the specificity of a radioimmunoconjugate for its target is crucial for its therapeutic efficacy.",
+        "Question": "What characteristic of a radioimmunoconjugate determines its ability to specifically target cancer cells?",
+        "A": "The type of radiation it emits",
+        "B": "The half-life of the radionuclide",
+        "C": "The monoclonal antibody's affinity for a cancer-specific antigen",
+        "D": "The energy required to produce the radionuclide",
+        "Answer": "C",
+        "Source": "Specific targeting of MUC1-CE via C595 provides an opportunity to target a high proportion of PDAC cells."
+    },
+    "Question_6": {
+        "Context": "The therapeutic efficacy of a radioimmunoconjugate can be influenced by the expression levels of the target antigen on cancer cells.",
+        "Question": "How does the expression level of a target antigen like MUC1-CE on cancer cells affect the efficacy of a radioimmunoconjugate?",
+        "A": "Higher expression levels decrease the efficacy due to receptor saturation",
+        "B": "Expression levels have no impact on the efficacy of the radioimmunoconjugate",
+        "C": "Lower expression levels increase the efficacy due to enhanced receptor sensitivity",
+        "D": "Higher expression levels increase the efficacy due to more binding sites for the radioimmunoconjugate",
+        "Answer": "D",
+        "Source": "Cell binding and internalisation of [225Ac]Ac-DOTA-C595 was rapid and greatest in cells with strong MUC1-CE expression."
+    },
+    "Question_7": {
+        "Context": "The internalisation of a radioimmunoconjugate into cancer cells is a critical step for the delivery of cytotoxic radiation to the cell's nucleus.",
+        "Question": "Why is the internalisation of a radioimmunoconjugate into cancer cells important for its therapeutic effect?",
+        "A": "It allows the radioimmunoconjugate to exit the cell and target neighboring cells",
+        "B": "It prevents the radioimmunoconjugate from binding to the cell's receptors",
+        "C": "It facilitates the delivery of radiation directly to the cell's nucleus",
+        "D": "It enhances the stability of the radioimmunoconjugate in the bloodstream",
+        "Answer": "C",
+        "Source": "Due to the short range of alpha particles, cellular internalisation is required to maximise cell kill in Ac-225 RIT. Internalisation reduces the distance between emission of the alpha particle and the nuclear DNA to increase the likelihood of interaction."
+    },
+    "Question_8": {
+        "Context": "The linear energy transfer (LET) of a particle is a measure of the energy deposited by the particle as it travels through a medium.",
+        "Question": "What is the approximate linear energy transfer (LET) value for alpha particles emitted by radionuclides like Ac-225?",
+        "A": "0.2 keV/\u00b5m",
+        "B": "100 keV/\u00b5m",
+        "C": "1 MeV/\u00b5m",
+        "D": "10 keV/\u00b5m",
+        "Answer": "B",
+        "Source": "Alpha particles have a shorter range in tissue and higher LET (\u223c100 keV/\u00b5m) compared to beta-particles, which allows for more localised and dense DNA damage within the targeted cells."
+    },
+    "Question_9": {
+        "Context": "The decay of Actinium-225 (Ac-225) results in the emission of multiple alpha particles, which contributes to its therapeutic effect.",
+        "Question": "How many alpha particles are emitted during the decay of Actinium-225 (Ac-225)?",
+        "A": "One alpha particle",
+        "B": "Two alpha particles",
+        "C": "Three alpha particles",
+        "D": "Four alpha particles",
+        "Answer": "D",
+        "Source": "As the parent radionuclide, Ac-225 provides several benefits over Bi-213, namely a longer half-life of 9.9 days vs 45 min, and an increased therapeutic effect due to the emission of four alpha particles compared to a single alpha particle emitted by Bi-213."
+    },
+    "Question_10": {
+        "Context": "The stability of a radioimmunoconjugate is important for its safety and efficacy, and the recoil energy from radionuclide decay can affect this stability.",
+        "Question": "What is the impact of high recoil energy on the stability of a radioimmunoconjugate?",
+        "A": "It enhances the targeting accuracy of the radioimmunoconjugate",
+        "B": "It increases the half-life of the radioimmunoconjugate",
+        "C": "It can lead to the detachment of daughter radionuclides, increasing off-target radiotoxicities",
+        "D": "It has no significant impact on the radioimmunoconjugate",
+        "Answer": "C",
+        "Source": "The decay chain of Ac-225 also presents the issue of high recoil energies affecting conjugate stability which can increase off-target radiotoxicities."
+    }
+}

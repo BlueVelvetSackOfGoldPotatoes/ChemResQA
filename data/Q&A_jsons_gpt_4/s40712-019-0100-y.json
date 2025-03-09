@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of mechanical engineering, the study of stress and strain on materials is crucial for ensuring the safety and reliability of structures. When a cylindrical vessel with thick walls is subjected to internal pressure, it experiences different types of stresses, including hoop stress, which is the force exerted circumferentially in both directions on every particle in the cylinder wall.",
+        "Question": "What is the effect of increasing the size of a radial cross bore in a thick-walled cylinder under internal pressure on the hoop stress?",
+        "A": "Hoop stress decreases as the cross bore size increases",
+        "B": "Hoop stress remains constant regardless of the cross bore size",
+        "C": "Hoop stress increases as the cross bore size increases",
+        "D": "Hoop stress initially increases and then decreases as the cross bore size increases",
+        "Answer": "C",
+        "Source": "The maximum hoop stress was found to increase with the increase in the cross bore size. This increase in the hoop stress was more pronounced in the cylinders with small thickness ratios, specifically K = 1.4 and 1.5."
+    },
+    "Question_2": {
+        "Context": "In mechanical engineering, the concept of stress concentration factors (SCF) is used to quantify the increase in stress in a material around discontinuities or geometric irregularities, such as holes or notches, compared to the nominal stress in the rest of the material.",
+        "Question": "Which cross bore size ratio resulted in the lowest hoop stress concentration factor (SCF) in thick-walled cylinders?",
+        "A": "0.1",
+        "B": "0.5",
+        "C": "0.7",
+        "D": "1.0",
+        "Answer": "A",
+        "Source": "Amongst the five different circular radial cross bore size ratios studied, the smallest cross bore size ratio of 0.1, gave the lowest hoop stress while the highest stress occurred with a cross bore size of 1.0."
+    },
+    "Question_3": {
+        "Context": "In the analysis of pressure vessels, the thickness ratio is an important parameter that compares the outer diameter to the inner diameter of the vessel. It is a measure of the relative wall thickness and is used to assess the structural stiffness of the vessel.",
+        "Question": "How does the thickness ratio of a cylinder affect the hoop stress under internal pressure?",
+        "A": "Hoop stress is independent of the thickness ratio",
+        "B": "Hoop stress decreases as the thickness ratio increases",
+        "C": "Hoop stress increases as the thickness ratio increases",
+        "D": "Hoop stress first increases and then decreases with an increase in thickness ratio",
+        "Answer": "B",
+        "Source": "As the thickness ratio reduces, the structural stiffness reduces leading to high magnitudes of hoop stresses. Further reduction of the structural stiffness is observed whenever there is an increase in the cross bore size leading to much higher magnitudes of the hoop stresses."
+    },
+    "Question_4": {
+        "Context": "In the context of mechanical engineering, the pressure-carrying capacity of a vessel is an important measure of its ability to safely contain internal pressures without failure. The introduction of geometric discontinuities such as cross bores can significantly affect this capacity.",
+        "Question": "What is the impact of introducing a radial cross bore on the pressure-carrying capacity of a thick-walled cylinder?",
+        "A": "It increases the pressure-carrying capacity",
+        "B": "It decreases the pressure-carrying capacity",
+        "C": "It has no impact on the pressure-carrying capacity",
+        "D": "It first decreases and then increases the pressure-carrying capacity",
+        "Answer": "B",
+        "Source": "The maximum hoop stress for most of the studied cases occurred in the transverse plane, at the intersection between the main bore and the cross bore except for the values of K = 1.4, 1.5 and 1.75."
+    },
+    "Question_5": {
+        "Context": "In the study of stress in materials, the maximum principal stress refers to the greatest stress experienced at a point in the material. In cylindrical vessels with cross bores, the location of this stress is of particular interest as it can indicate areas of potential weakness.",
+        "Question": "Where does the maximum hoop stress generally occur in a cylinder with a radial cross bore under internal pressure?",
+        "A": "At the ends of the cylinder",
+        "B": "Along the longitudinal axis of the cylinder",
+        "C": "At the intersection between the main bore and the cross bore",
+        "D": "At the outer surface of the cylinder",
+        "Answer": "C",
+        "Source": "The location of the maximum hoop stress on the cylinder generally occurred along the radial cross bore. The exact positions for all the studied cases are tabulated in Appendix."
+    },
+    "Question_6": {
+        "Context": "In the analysis of structures, the finite element method (FEM) is a numerical technique used to find approximate solutions to complex structural problems. It involves creating a mesh of the structure and applying forces to determine the stress distribution.",
+        "Question": "What type of elements are recommended for use in finite element analysis (FEA) when dealing with stress concentration problems?",
+        "A": "First-order hexahedral elements",
+        "B": "Second-order hexahedral elements",
+        "C": "First-order tetrahedral elements",
+        "D": "Second-order tetrahedral elements",
+        "Answer": "B",
+        "Source": "According to the Abaqus software guideline, only second-order hexahedral and tetrahedral elements are recommended for stress concentration problems."
+    },
+    "Question_7": {
+        "Context": "In mechanical engineering, the modulus of elasticity, also known as Young's modulus, is a measure of the stiffness of a material. It quantifies the relationship between stress and strain in the linear elastic region of the material's stress-strain curve.",
+        "Question": "What is the value of Young's modulus of elasticity used in the finite element analysis of high-pressure vessels?",
+        "A": "78 GPa",
+        "B": "190 GPa",
+        "C": "290 GPa",
+        "D": "780 GPa",
+        "Answer": "B",
+        "Source": "The material properties chosen for this simulation were similar to those commonly used in the technical literature of high-pressure vessels."
+    },
+    "Question_8": {
+        "Context": "In materials science, Poisson's ratio is a measure of the Poisson effect, which describes the expansion or contraction of a material in directions perpendicular to the direction of loading. It is a fundamental property that relates lateral and axial strains.",
+        "Question": "What is the value of Poisson's ratio used in the static analysis of high-pressure vessels?",
+        "A": "0.19",
+        "B": "0.29",
+        "C": "0.39",
+        "D": "0.49",
+        "Answer": "B",
+        "Source": "The material properties chosen for this simulation were similar to those commonly used in the technical literature of high-pressure vessels."
+    },
+    "Question_9": {
+        "Context": "In the design and analysis of pressure vessels, internal pressure is a critical factor. It is the pressure exerted on the walls of the vessel by the fluid or gas contained within it. This pressure is a key parameter in determining the stress distribution in the vessel.",
+        "Question": "What internal pressure value is commonly used in the analysis of pressure vessels?",
+        "A": "0.1 MPa",
+        "B": "1 MPa",
+        "C": "10 MPa",
+        "D": "100 MPa",
+        "Answer": "B",
+        "Source": "The internal pressure was taken as 1 MPa, being the most common pressure used in pressure vessel analyses."
+    },
+    "Question_10": {
+        "Context": "In the context of mechanical engineering, the axial stress in a pressure vessel is the stress parallel to the axis of the vessel. It is influenced by factors such as internal pressure and the vessel's geometry.",
+        "Question": "How is the uniform axial stress (\u03c3z) applied at the far end of the vessels calculated?",
+        "A": "\u03c3z = pi * (K - 1)",
+        "B": "\u03c3z = pi / (K + 1)",
+        "C": "\u03c3z = pi / (K - 1)",
+        "D": "\u03c3z = pi * (K^2 - 1)",
+        "Answer": "D",
+        "Source": "In addition, a uniform axial stress \u03c3z, calculated by using Eq. 1 for each thickness ratio, was applied at the far end of the vessels."
+    }
+}

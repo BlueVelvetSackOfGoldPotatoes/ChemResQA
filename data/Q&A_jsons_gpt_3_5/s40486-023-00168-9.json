@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Perovskites are known for their flexible structural, optical, and morphological properties due to their lattice framework having a general form AA\u02b9BB\u02b9O6. They are more useful for hydrogen evolution due to their higher conduction band potential than simple perovskites.",
+        "Question": "Why are double perovskites more useful for hydrogen evolution compared to simple perovskites?",
+        "A": "They have a lower conduction band potential.",
+        "B": "They have a higher bandgap energy.",
+        "C": "They have a more rigid lattice framework.",
+        "D": "They have a lower surface area-to-volume ratio.",
+        "Answer": "A",
+        "Source": "They are more useful for hydrogen evolution due to their higher conduction band potential than simple perovskites."
+    },
+    "Question_2": {
+        "Context": "Semiconductor metal oxides have drawbacks such as fast electron\u2013hole recombination rate, high bandgap energy, and lower adsorption rates deter the catalytic progress.",
+        "Question": "What is a drawback of semiconductor metal oxides in terms of catalytic progress?",
+        "A": "Low bandgap energy.",
+        "B": "Slow electron-hole recombination rate.",
+        "C": "High adsorption rates.",
+        "D": "High bandgap energy.",
+        "Answer": "D",
+        "Source": "Semiconductor metal oxides have drawbacks: fast electron\u2013hole recombination rate, high bandgap energy, and lower adsorption rates deter the catalytic progress."
+    },
+    "Question_3": {
+        "Context": "Photocatalysis utilizes the photo-induced redox reaction of a photocatalyst material to convert harmful pollutants into less toxic or non-toxic substances.",
+        "Question": "What is the main purpose of photocatalysis?",
+        "A": "To increase harmful pollutants.",
+        "B": "To generate toxic substances.",
+        "C": "To convert harmful pollutants into less toxic substances.",
+        "D": "To produce harmful by-products.",
+        "Answer": "C",
+        "Source": "Photocatalysis for waste degradation is a promising technology that utilizes the photo-induced redox reaction of a photocatalyst material to convert harmful pollutants into less toxic or non-toxic substances."
+    },
+    "Question_4": {
+        "Context": "Lead-free perovskites have been synthesized by various methods, such as sol\u2013gel, solid-state synthesis, and hydrothermal methods.",
+        "Question": "How are lead-free perovskites typically synthesized?",
+        "A": "By chemical vapor deposition.",
+        "B": "By electroplating.",
+        "C": "By sol\u2013gel method.",
+        "D": "By ion exchange method.",
+        "Answer": "C",
+        "Source": "Lead-free perovskites have been synthesized by various methods, such as sol\u2013gel, solid-state synthesis, and hydrothermal methods."
+    },
+    "Question_5": {
+        "Context": "Double perovskite nanoparticles have a high surface area-to-volume ratio, making them suitable for device-level fabrication in photocatalysis.",
+        "Question": "What property makes double perovskite nanoparticles suitable for device-level fabrication?",
+        "A": "Low surface area-to-volume ratio.",
+        "B": "High bandgap energy.",
+        "C": "High surface area-to-volume ratio.",
+        "D": "Low conduction band potential.",
+        "Answer": "C",
+        "Source": "Double perovskite nanoparticles have a high surface area-to-volume ratio, which makes them suitable for device-level fabrication in photocatalysis."
+    },
+    "Question_6": {
+        "Context": "K2Ta2O6 is known to be the secondary phase that forms at lower temperatures when synthesizing KTaO3.",
+        "Question": "What is the secondary phase that forms at lower temperatures when synthesizing KTaO3?",
+        "A": "K2Ta2O6.",
+        "B": "Ba2TiMoO6.",
+        "C": "Sr2FeNbO6.",
+        "D": "La2FeTiO6.",
+        "Answer": "A",
+        "Source": "K2Ta2O6 is known to be the secondary phase that forms at lower temperatures when synthesizing KTaO3."
+    },
+    "Question_7": {
+        "Context": "Ba2TiMoO6 double perovskite has been reported to exhibit ferroelectric hysteretic behavior at room temperature.",
+        "Question": "What behavior has been reported for Ba2TiMoO6 double perovskite at room temperature?",
+        "A": "Superconductivity.",
+        "B": "Ferroelectric hysteretic behavior.",
+        "C": "Photoconductivity.",
+        "D": "Diamagnetism.",
+        "Answer": "B",
+        "Source": "Ba2TiMoO6 double perovskite has been reported to exhibit ferroelectric hysteretic behavior at room temperature."
+    },
+    "Question_8": {
+        "Context": "Sr2FeNbO6 is known for its applications as a visible light n-type semiconductor photocatalyst with a bandgap of 2.04 eV.",
+        "Question": "What type of semiconductor is Sr2FeNbO6 known as?",
+        "A": "P-type.",
+        "B": "N-type.",
+        "C": "Intrinsic.",
+        "D": "Extrinsic.",
+        "Answer": "B",
+        "Source": "Sr2FeNbO6 is known for its applications as a visible light n-type semiconductor photocatalyst with a bandgap of 2.04 eV."
+    },
+    "Question_9": {
+        "Context": "La2FeTiO6 could degrade > 62% compared to LaFeO3\u2019s degradation of 49% in visible light for 5 h.",
+        "Question": "Which material showed better degradation of p-chlorophenol in visible light?",
+        "A": "LaFeO3.",
+        "B": "La2FeTiO6.",
+        "C": "BiFeO3.",
+        "D": "Ba2TiMoO6.",
+        "Answer": "B",
+        "Source": "La2FeTiO6 could degrade > 62% compared to LaFeO3\u2019s degradation of 49% in visible light for 5 h."
+    },
+    "Question_10": {
+        "Context": "Cobalt has been doped in BiFeO3 to observe the structural and optical changes.",
+        "Question": "What is the purpose of doping cobalt in BiFeO3?",
+        "A": "To decrease the energy band gap.",
+        "B": "To increase the crystallite size.",
+        "C": "To reduce the photocatalytic activity.",
+        "D": "To increase the energy band gap.",
+        "Answer": "D",
+        "Source": "Prasannakumara et al. have synthesized Co-doped BiFeO3 by sol\u2013gel method and observed that with an increase in the concentration of Co ion doping, the energy band gap has steadily increased from 1.74 eV for an undoped thin film to 1.91 eV for BiFe1\u2212xCoxO3 where x = 0.08 is the maximum doping."
+    }
+}

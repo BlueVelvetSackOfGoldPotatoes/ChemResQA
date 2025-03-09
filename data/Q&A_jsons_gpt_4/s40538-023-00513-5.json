@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Microbes in mangrove ecosystems can adapt to salinity and variable environmental conditions, playing a critical role in the nutrient cycling of carbon and nitrogen.",
+        "Question": "Which type of microbes are known for their adaptability to salinity and variable environmental conditions in mangrove ecosystems?",
+        "A": "Fungi",
+        "B": "Bacteria",
+        "C": "Viruses",
+        "D": "Protozoa",
+        "Answer": "B",
+        "Source": "Diverse microbes, such as bacteria, are of immense worth to mangrove ecosystems due to their adaptability to salinity and variable environmental characteristics conditions."
+    },
+    "Question_2": {
+        "Context": "Pyridine and its derivatives are heterocyclic aromatic compounds that are produced largely by human activities and can lead to environmental pollution.",
+        "Question": "What are pyridine and its derivatives primarily known as in the context of environmental chemistry?",
+        "A": "Nutrients",
+        "B": "Biodegradable waste",
+        "C": "Heterocyclic aromatic compounds",
+        "D": "Inorganic pollutants",
+        "Answer": "C",
+        "Source": "Pyridine and its derivatives compose most heterocyclic aromatic compounds largely produced by human activities that lead to environmental pollution."
+    },
+    "Question_3": {
+        "Context": "In an ecosystem, bacteria contribute to the cycling of essential elements, which is important for maintaining the balance of the ecosystem.",
+        "Question": "What is the role of bacteria in the cycling of essential elements within an ecosystem?",
+        "A": "Pollution creation",
+        "B": "Nutrient cycling",
+        "C": "Energy consumption",
+        "D": "Habitat destruction",
+        "Answer": "B",
+        "Source": "Bacteria have a crucial role in the nutrient cycling of carbon and nitrogen etc., to understand their functional involvement with environmental factors or ecosystem functioning."
+    },
+    "Question_4": {
+        "Context": "The degradation of organic compounds in ecosystems can be facilitated by certain microbial processes, which can lead to the availability of nutrients.",
+        "Question": "What is the outcome of microbial degradation of organic compounds in ecosystems?",
+        "A": "Decreased nutrient availability",
+        "B": "Increased environmental pollution",
+        "C": "Availability of nutrients",
+        "D": "Reduction in microbial population",
+        "Answer": "C",
+        "Source": "This work established the genetic-based molecular degradation of organic compounds in the mangrove ecosystem, which ultimately makes the availability of nutrients."
+    },
+    "Question_5": {
+        "Context": "The degradation of pyridine by bacteria can be influenced by various abiotic factors, which can affect the efficiency of the degradation process.",
+        "Question": "Which factors can influence the bacterial degradation of pyridine?",
+        "A": "Temperature and pH",
+        "B": "Light intensity and sound waves",
+        "C": "Wind speed and atmospheric pressure",
+        "D": "Magnetic fields and radiation",
+        "Answer": "A",
+        "Source": "As well as the effects of various abiotic factors on pyridine degradation to discover the pyridine degradation and the removal of ammonia nitrogen and the proposed nitrogen metabolism pathway."
+    },
+    "Question_6": {
+        "Context": "The biodegradation of pyridine can be described using kinetic models, which help in understanding the rate and pattern of degradation.",
+        "Question": "Which kinetic model is often used to describe the biodegradation profile of pyridine by bacteria?",
+        "A": "Zero-order kinetics",
+        "B": "Second-order kinetics",
+        "C": "Pseudo-first-order kinetics",
+        "D": "Michaelis-Menten kinetics",
+        "Answer": "C",
+        "Source": "The pseudo-first-order kinetics model described the pyridine biodegradation profile of NM1-A2 well."
+    },
+    "Question_7": {
+        "Context": "During the biodegradation of pyridine, certain byproducts are formed as a result of the breakdown of the pyridine ring.",
+        "Question": "What is a byproduct of pyridine biodegradation in the context of nitrogen cycling?",
+        "A": "Carbon dioxide",
+        "B": "Ammonia nitrogen",
+        "C": "Sulfuric acid",
+        "D": "Methane",
+        "Answer": "B",
+        "Source": "Within 96 h, the pyridine ring in the total nitrogen (TN) fraction at the maximum concentration of 55.31 \u00b1 0.17 mg/L, furtherly 51.3% \u00b1 2.39% of (TN) converted into Ammonia nitrogen (NH4+-N)."
+    },
+    "Question_8": {
+        "Context": "The ability of a bacterial strain to degrade pyridine can be assessed over multiple cycles to determine its potential for repeated use in bioremediation processes.",
+        "Question": "What does the ability of a bacterial strain to degrade pyridine over multiple cycles indicate?",
+        "A": "Resistance to antibiotics",
+        "B": "Sensitivity to pollutants",
+        "C": "Potential for repeated use in bioremediation",
+        "D": "Need for genetic modification",
+        "Answer": "C",
+        "Source": "Furthermore, NM1-A2 exhibited its pyridine biodegradation activity decreased by only 4% after three consecutive cycles (48 h each)."
+    },
+    "Question_9": {
+        "Context": "The presence of specific genes in bacteria can be indicative of their involvement in certain metabolic pathways, such as nitrogen metabolism.",
+        "Question": "What does the presence of nrt-ABCD nitrate transport family and gltABCD operons in a bacterial strain suggest about its metabolic capabilities?",
+        "A": "Involvement in carbon fixation",
+        "B": "Involvement in nitrogen metabolism",
+        "C": "Involvement in sulfur reduction",
+        "D": "Involvement in phosphate solubilization",
+        "Answer": "B",
+        "Source": "Moreover, NM1-A2 possessed nrt-ABCD nitrate transport family and gltABCD operons that participate in the activities of glutamine and glutamate synthetase in NH4+ conversion in the nitrogen cycle."
+    },
+    "Question_10": {
+        "Context": "The expression of nitrogen metabolism genes in bacteria can be analyzed using RT-qPCR, which quantifies the level of gene expression.",
+        "Question": "What is the purpose of using RT-qPCR in the analysis of nitrogen metabolism genes in bacteria?",
+        "A": "To identify the physical location of genes",
+        "B": "To determine the size of the bacterial genome",
+        "C": "To quantify the level of gene expression",
+        "D": "To alter the genetic makeup of the bacteria",
+        "Answer": "C",
+        "Source": "The nitrogen metabolism genes (nrtA, nrtB, nrtC, nirB, nirD, gltB, gltD, glnA) exhibited expression in NM1-A2."
+    }
+}

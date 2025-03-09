@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Understanding soil-water content (SWC) is crucial for various processes. What is a common misconception regarding SWC and soil-moisture contents (SMCs)?",
+        "Question": "What is a common misconception regarding SWC and soil-moisture contents (SMCs)?",
+        "A": "SWCs and SMCs are interchangeable terms.",
+        "B": "SWCs account for the volume of water in a unit of soil volume.",
+        "C": "SMCs are more relevant for plant growth than SWCs.",
+        "D": "SWCs are not influenced by soil texture.",
+        "Answer": "A",
+        "Source": "SWCs account for a ratio between the volume of water present in a unit of soil volume. It has been discovered that the rate of mineralization significantly affects the microbial contents and activity, which helps to regulate plant growth. SWCs are often confused with soil-moisture contents (SMCs), which in general are different."
+    },
+    "Question_2": {
+        "Context": "Soil-water holding capacity (SWHC) is influenced by various factors. How does soil texture affect SWHC?",
+        "Question": "How does soil texture affect soil-water holding capacity (SWHC)?",
+        "A": "Finer-textured soils have lower SWHC than coarser-textured soils.",
+        "B": "Soil texture has no impact on SWHC.",
+        "C": "Clayey soils have higher SWHC than sandy soils.",
+        "D": "Sandy soils can hold more water than clayey soils.",
+        "Answer": "C",
+        "Source": "In general, higher water-holding capacity is a feature of finer-textured soils (clayey soils) than coarser textured soils (sandy soils), because they have 8\u201310 times more total pore space and smaller pores that hold water more tightly."
+    },
+    "Question_3": {
+        "Context": "The movement of water in soil pores is influenced by various factors. What determines the direction of water movement in or out of plant roots?",
+        "Question": "What determines the direction of water movement in or out of plant roots?",
+        "A": "Gravitational pull",
+        "B": "TACT theory",
+        "C": "Soil texture",
+        "D": "Soil pH",
+        "Answer": "B",
+        "Source": "The water movement from soil to plant roots is justified by the suction phenomena elucidated by TACT theory (transpiration, adhesion, cohesion, and tension). The present theory elucidates the mechanism underlying water transport within the xylem and the generation of negative water potential within plant roots."
+    },
+    "Question_4": {
+        "Context": "Soil texture plays a significant role in nutrient availability. How does soil texture influence nutrient retention and leaching?",
+        "Question": "How does soil texture influence nutrient retention and leaching?",
+        "A": "Finer-textured soils have higher nutrient leaching potential.",
+        "B": "Clayey soils can store more cations than sandy soils.",
+        "C": "Sandy soils have higher nutrient retention than clayey soils.",
+        "D": "Clayey soils have lower nutrient availability than sandy soils.",
+        "Answer": "B",
+        "Source": "In general, finer-textured soils (finer than 1 mm) have higher soil nutrient concentrations than coarser-textured soils, because they have a larger surface area and a more negative charge on their surfaces that can adsorb cations."
+    },
+    "Question_5": {
+        "Context": "Advancements in soil-water content (SWC) measurements have led to various techniques. What is a disadvantage of the gravimetric method (GM) for measuring SWC?",
+        "Question": "What is a disadvantage of the gravimetric method (GM) for measuring SWC?",
+        "A": "It is non-destructive.",
+        "B": "It provides real-time knowledge.",
+        "C": "It cannot measure the same sample area again.",
+        "D": "It is not affected by soil bulk density.",
+        "Answer": "C",
+        "Source": "The GM is a destructive approach that often fails to provide real-time knowledge and cannot measure the same sample area again."
+    },
+    "Question_6": {
+        "Context": "Artificial intelligence (AI) is revolutionizing soil texture analysis. What is a key advantage of AI tools over conventional methods for soil texture prediction?",
+        "Question": "What is a key advantage of AI tools over conventional methods for soil texture prediction?",
+        "A": "AI tools require specialized instruments.",
+        "B": "AI tools are time-consuming.",
+        "C": "AI tools provide subjective data analysis.",
+        "D": "AI tools reduce cost, time, and labor involved.",
+        "Answer": "D",
+        "Source": "AI tools are a promising set of alternatives for these limitations that otherwise confine soil management. AI processing of these data sets mainly reduces the cost, time, and labor involved compared with conventional laboratory protocols."
+    },
+    "Question_7": {
+        "Context": "Soil texture prediction using AI involves machine learning (ML) and deep learning (DL). What type of data sets are utilized by these algorithms for accurate soil texture predictions?",
+        "Question": "What type of data sets are utilized by machine learning (ML) and deep learning (DL) algorithms for accurate soil texture predictions?",
+        "A": "Numerical data sets only.",
+        "B": "Non-numerical data sets only.",
+        "C": "Compositional, spectral, and geographical data sets.",
+        "D": "Textual data sets.",
+        "Answer": "C",
+        "Source": "The inputs utilized by these algorithms are compositional, spectral, and geographical data sets that can be in non-numerical form."
+    },
+    "Question_8": {
+        "Context": "The neutron method (NM) is a technique for measuring soil-water content. What is a limitation of the neutron method (NM)?",
+        "Question": "What is a limitation of the neutron method (NM) for measuring soil-water content?",
+        "A": "It is non-destructive.",
+        "B": "It provides real-time knowledge.",
+        "C": "It requires calibration with other methods.",
+        "D": "It is not affected by tightly bound hygroscopic water molecules.",
+        "Answer": "C",
+        "Source": "The NM was then developed for more likely real-time and non-destructive SWC measurements. However, it is expensive, hazardous, and requires calibration with other methods and correction for soil bulk density and temperature."
+    },
+    "Question_9": {
+        "Context": "Ground penetration radar (GPR) is a method for measuring soil-water content. What is a disadvantage of the GPR method?",
+        "Question": "What is a disadvantage of the ground penetration radar (GPR) method for measuring soil-water content?",
+        "A": "It is non-destructive.",
+        "B": "It is complex and expensive.",
+        "C": "It is not affected by soil texture.",
+        "D": "It does not require calibration with other methods.",
+        "Answer": "B",
+        "Source": "This method is non-destructive, high-resolution, and capable of measuring SWC at different depths and large areas of soil. However, it is complex, expensive, and affected by soil texture, structure, salinity, and surface roughness."
+    },
+    "Question_10": {
+        "Context": "The future of soil texture analysis involves integrating AI models seamlessly. What is a crucial challenge that needs to be addressed for successful implementation of AI-based soil texture analysis?",
+        "Question": "What is a crucial challenge that needs to be addressed for successful implementation of AI-based soil texture analysis?",
+        "A": "Data quality",
+        "B": "Interpretability of results",
+        "C": "System integration",
+        "D": "Cost-effectiveness",
+        "Answer": "A",
+        "Source": "However, addressing challenges related to data quality, interpretability, and system integration will be crucial for the successful implementation of AI-based soil texture analysis."
+    }
+}

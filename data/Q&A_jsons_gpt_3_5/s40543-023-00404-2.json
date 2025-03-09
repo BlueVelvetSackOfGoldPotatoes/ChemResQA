@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study compared the performance of a prototype portable GC (protoGC) with a conventional GC laboratory method. The results showed a strong positive association between the two methods for all analytes.",
+        "Question": "What was the correlation coefficient between protoGC-Column 1 and the conventional GC method for toluene?",
+        "A": "0.999",
+        "B": "0.998",
+        "C": "0.996",
+        "D": "0.997",
+        "Answer": "A",
+        "Source": "r = 0.999 for toluene between protoGC-Column 1 and conventional method."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the performance of the prototype GC/dual FID (protoGC) by comparing its performance with the conventional GC analytical method.",
+        "Question": "Which analyte showed the smallest difference in mean concentrations between protoGC (both columns) and the traditional method?",
+        "A": "Toluene",
+        "B": "Ethylbenzene",
+        "C": "o-Xylene",
+        "D": "m-Xylene",
+        "Answer": "A",
+        "Source": "Among the five analytes examined, toluene showed the smallest difference in mean concentrations between protoGC (both columns) and the traditional method."
+    },
+    "Question_3": {
+        "Context": "The study compared the mean concentrations of five individual analytes at different theoretical target concentrations between protoGC and the conventional method.",
+        "Question": "Which method had higher mean concentrations than protoGC-Column 1 at all challenge concentration levels?",
+        "A": "Conventional method",
+        "B": "protoGC-Column 1",
+        "C": "No significant difference",
+        "D": "Not mentioned",
+        "Answer": "A",
+        "Source": "Traditional method had higher mean concentrations than protoGC-Column 1 at all challenge concentration levels."
+    },
+    "Question_4": {
+        "Context": "The study examined the mean concentration ratios of measured values from protoGC and traditional GC method to theoretical target values for each analyte.",
+        "Question": "Which analyte tended to be underestimated at the highest challenge atmospheric concentration by protoGC?",
+        "A": "Ethylbenzene",
+        "B": "o-Xylene",
+        "C": "m-Xylene",
+        "D": "p-Xylene",
+        "Answer": "D",
+        "Source": "protoGC tended to underestimate ethylbenzene and xylenes at the highest challenge atmospheric concentration compared to the traditional method primarily due to the overloading of the columns."
+    },
+    "Question_5": {
+        "Context": "The study discussed the statistical analysis results comparing mean concentrations between protoGC and the conventional method.",
+        "Question": "At which concentration level did toluene show no significant difference between protoGC-Column 1 and the conventional method?",
+        "A": "1x",
+        "B": "2x",
+        "C": "4x",
+        "D": "8x",
+        "Answer": "A",
+        "Source": "At 1x and 8x levels, when challenged with toluene, no significant difference was detected between protoGC-Column 1 and the traditional method."
+    },
+    "Question_6": {
+        "Context": "The study highlighted the importance of adjusting sampling volumes and injection times for protoGC in highly concentrated environments.",
+        "Question": "What was the main reason for the underestimation of ethylbenzene and xylenes at the highest challenge atmospheric concentration by protoGC?",
+        "A": "Overloading of the columns",
+        "B": "Sampling error",
+        "C": "Calibration issues",
+        "D": "Analytical method limitations",
+        "Answer": "A",
+        "Source": "The underestimation was primarily due to the overloading of the columns, making it desirable to use shorter sampling volumes in highly concentrated environments."
+    },
+    "Question_7": {
+        "Context": "The study discussed the benefits of using protoGC in time-critical applications.",
+        "Question": "What was highlighted as an added benefit of protoGC in time-critical applications?",
+        "A": "Quick determination of safety in the environment",
+        "B": "High sensitivity to all VOCs",
+        "C": "Low equipment cost",
+        "D": "Longer sampling times",
+        "Answer": "A",
+        "Source": "The shortened sampling/analysis time of protoGC will be the added benefit in time-critical applications to quickly determine the safety of the environment of interest."
+    },
+    "Question_8": {
+        "Context": "The study mentioned the need for further evaluation of protoGC under various environmental conditions.",
+        "Question": "What was identified as necessary for a thorough evaluation of protoGC's performance?",
+        "A": "Evaluation under different temperatures",
+        "B": "Evaluation under different relative humidities",
+        "C": "Evaluation with other compounds",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The portable GC/FID will need to be further examined at various environmental conditions of temperatures and relative humidities as well as with other compounds to thoroughly evaluate its performance."
+    },
+    "Question_9": {
+        "Context": "The study discussed the limitations of the statistical analysis using a two-way ANOVA.",
+        "Question": "What was mentioned as a limitation of the statistical analysis?",
+        "A": "Presence of outliers",
+        "B": "Type II error rate",
+        "C": "Unequal variance assumption",
+        "D": "Small sample size",
+        "Answer": "A",
+        "Source": "There were several outliers which were not excluded in the analysis since they were believed to be true values."
+    },
+    "Question_10": {
+        "Context": "The study emphasized the importance of adjusting sampling volumes and injection times for protoGC.",
+        "Question": "What was suggested as more appropriate for protoGC when sampling high levels of VOCs?",
+        "A": "Shorter sampling volumes",
+        "B": "Longer injection times",
+        "C": "Higher dilution factors",
+        "D": "Use of a toxic solvent",
+        "Answer": "A",
+        "Source": "Using lower sampling times and shorter injection times are more appropriate for protoGC when sampling these high levels of VOCs."
+    }
+}

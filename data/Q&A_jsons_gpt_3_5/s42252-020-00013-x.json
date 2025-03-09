@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses a method for structural health monitoring in glass fibre reinforced polymers using in-situ electrical capacitance measurements. The method involves replacing glass fibre rovings with carbon fibre rovings at regular intervals.",
+        "Question": "What material was used to replace individual glass fibre rovings in the specimens for the structural health monitoring method?",
+        "A": "Carbon fibre",
+        "B": "Solid copper",
+        "C": "Stranded copper",
+        "D": "Conductive nanoparticles",
+        "Answer": "A",
+        "Source": "Individual rovings of Gurit UT-E250 non-crimp UD glass-fibre fabric were replaced at regular intervals with CF rovings FT300B 6000-50B (Torayca)."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the influence of different conductor materials on the mechanical and electrical properties of the specimens. It mentions the manufacturing process and the specific conductors used.",
+        "Question": "What was the approximate diameter of the copper wires used as conductors in the specimens?",
+        "A": "7 \u03bcm",
+        "B": "186 \u03bcm",
+        "C": "1319 \u03bcm",
+        "D": "1.5 mm",
+        "Answer": "C",
+        "Source": "Stranded copper conductors consist of 64 copper strands with a diameter of 186 \u03bcm. The single solid copper wire has a diameter of 1319 \u03bcm."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the results of quasi-static tensile tests on specimens with different conductor configurations. It mentions the impact of the conductors on tensile strength and Young's modulus.",
+        "Question": "Which conductor type showed the lowest decrease in maximum tensile strength compared to the reference specimens?",
+        "A": "Carbon fibre",
+        "B": "Solid copper",
+        "C": "Stranded copper",
+        "D": "Conductive nanoparticles",
+        "Answer": "B",
+        "Source": "Comparing the mean tensile strength values of the specimens with the three conductor configurations and both spacings with non-modified reference specimens, a slight decrease of maximum 6% in case of the solid copper conductors is visible."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the analytical modelling of capacitance decrease due to the formation of cracks in the specimens. It explains the theoretical basis for the modelling.",
+        "Question": "What change in the dielectric properties of the material is considered in the analytical model for capacitance decrease?",
+        "A": "Change in material thickness",
+        "B": "Change in material density",
+        "C": "Change in permittivity due to air introduced by cracks",
+        "D": "Change in material conductivity",
+        "Answer": "C",
+        "Source": "The calculated relative permittivity of the material is 46. This value is relatively high compared to different values of GFRP in literature. The permittivity is calculated following Eq. 1 from the slope of the linear regression fit, which depicts the measured values well."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the results of step-wise force-controlled tensile tests on specimens with different conductor configurations. It mentions the reversibility of capacitance decrease and the influence of crack formation.",
+        "Question": "Which conductor type showed a mostly irreversible capacitance decrease due to cracks during unloading?",
+        "A": "Carbon fibre",
+        "B": "Solid copper",
+        "C": "Stranded copper",
+        "D": "Conductive nanoparticles",
+        "Answer": "A",
+        "Source": "Step-wise tests confirm that the capacitance decrease due to cracks is mostly irreversible during unloading. Therefore, this method is capable of in-situ damage monitoring as well as damage state estimation with knowledge of capacitance decrease at specific points during the lifetime."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the experimental results of capacitance measurements on specimens with different conductor configurations. It explains the correlation between capacitance decrease and crack formation.",
+        "Question": "Which conductor type showed the highest sensitivity to capacitance changes due to cracks?",
+        "A": "Carbon fibre",
+        "B": "Solid copper",
+        "C": "Stranded copper",
+        "D": "Conductive nanoparticles",
+        "Answer": "A",
+        "Source": "The CF conductors show the highest sensitivity to capacitance changes due to cracks comparing the quantitative amount and qualitative shape of the measured capacitance change."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the manufacturing process of the specimens with integrated conductors for structural health monitoring. It mentions the specific conductors used and the fabrication method.",
+        "Question": "What manufacturing process was used to create the 2 mm thick laminates with integrated conductive rovings?",
+        "A": "Resin infusion",
+        "B": "3D printing",
+        "C": "Casting",
+        "D": "Extrusion",
+        "Answer": "A",
+        "Source": "The 2 mm thick laminates were manufactured in vacuum-assisted resin transfer moulding (RTM) process using the two-component epoxy system Hexion EPIKOTE\u2122 Resin MGS\u2122 RIMR 135 and EPIKURE\u2122 Curing Agent MGS\u2122 RIMH 137."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the results of permittivity determination and capacitance measurements on specimens. It explains the influence of crack formation on the measured capacitance.",
+        "Question": "What was the calculated relative permittivity of the material in the tensile direction?",
+        "A": "6",
+        "B": "46",
+        "C": "100",
+        "D": "135",
+        "Answer": "B",
+        "Source": "The calculated relative permittivity of the material is 46. This value is relatively high compared to different values of GFRP in literature."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the results of quasi-static tensile tests on specimens with different conductor configurations. It mentions the impact of conductors on the Young's modulus.",
+        "Question": "Which conductor type showed the lowest decrease in Young's modulus compared to the reference specimens?",
+        "A": "Carbon fibre",
+        "B": "Solid copper",
+        "C": "Stranded copper",
+        "D": "Conductive nanoparticles",
+        "Answer": "A",
+        "Source": "In case of the stranded and solid copper conductors, the Young\u2019s modulus is lowered between 9.21% and 14.44%. The integration of the CF conductors does not change the Young\u2019s modulus significantly."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the results of step-wise force-controlled tensile tests on specimens with different conductor configurations. It explains the influence of crack formation on the capacitance decrease.",
+        "Question": "Which conductor type showed a step-wise behaviour in capacitance change with maxima and minima opposing the force curve?",
+        "A": "Carbon fibre",
+        "B": "Solid copper",
+        "C": "Stranded copper",
+        "D": "Conductive nanoparticles",
+        "Answer": "B",
+        "Source": "For solid copper conductors, the capacitance change shows a step-wise behaviour with maxima and minima opposing the force curve. The capacitance change during the single load steps seems to be mostly distance driven."
+    }
+}

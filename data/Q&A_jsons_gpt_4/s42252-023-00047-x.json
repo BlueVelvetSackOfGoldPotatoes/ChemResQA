@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Incorporating inorganic nanomaterials into a polymer matrix can enhance the thermoelectric performance of the composite material.",
+        "Question": "What is the role of inorganic nanomaterials when incorporated into a polymer matrix for thermoelectric applications?",
+        "A": "To decrease the electrical conductivity",
+        "B": "To enhance physical flexibility",
+        "C": "To increase the thermal conductivity",
+        "D": "To improve thermoelectric performance",
+        "Answer": "D",
+        "Source": "Incorporating inorganic nanomaterials into a polymer matrix is one of the most effective ways to create thermoelectric performance for applications where physical flexibility is essential."
+    },
+    "Question_2": {
+        "Context": "Copper iodide (CuI) nanosheets can be synthesized by dissolving bulk CuI in an organic solvent such as dimethyl sulfoxide (DMSO).",
+        "Question": "Which solvent is used for synthesizing CuI nanosheets by dissolving bulk CuI?",
+        "A": "Water",
+        "B": "Ethanol",
+        "C": "Dimethyl sulfoxide (DMSO)",
+        "D": "Acetone",
+        "Answer": "C",
+        "Source": "The process involved the preparation of bulk CuI from precursors and, subsequently, the nanosheet synthesis by dissolving the bulk CuI in dimethyl sulfoxide (DMSO)."
+    },
+    "Question_3": {
+        "Context": "The Seebeck coefficient is a property of materials that relates to their thermoelectric performance.",
+        "Question": "What does a high Seebeck coefficient in a material indicate in the context of thermoelectric performance?",
+        "A": "Low electrical resistance",
+        "B": "High thermal insulation",
+        "C": "High thermoelectric performance",
+        "D": "Low carrier concentration",
+        "Answer": "C",
+        "Source": "The performance of thermoelectric materials can be realized by a unitless quantity called the Figure of merit, ZT. It is expressed as (S2\u03c3/k) *T, where S, \u03c3, k, and T are the Seebeck coefficient, electrical conductivity, thermal conductivity, and absolute temperature, respectively."
+    },
+    "Question_4": {
+        "Context": "The electrical conductivity of a composite material can be influenced by the dispersion of inorganic nanomaterials within the polymer matrix.",
+        "Question": "What effect does the dispersion of inorganic nanomaterials within a polymer matrix have on the electrical conductivity of the composite material?",
+        "A": "It has no effect on electrical conductivity",
+        "B": "It decreases electrical conductivity due to increased scattering",
+        "C": "It increases electrical conductivity by providing more conductive pathways",
+        "D": "It increases thermal conductivity but decreases electrical conductivity",
+        "Answer": "C",
+        "Source": "The film with 6.9 vol% of CuI nanosheets exhibited an electrical conductivity and Seebeck coefficient of 852.07 S\u00b7cm\u20111 and 14.95 \u00b5V\u00b7K\u20111, respectively. This resulted in an enhanced power factor of 19.04 \u00b5W\u0387m\u20111\u00b7K\u20112, much higher than the individual composite components."
+    },
+    "Question_5": {
+        "Context": "The morphology of nanosheets can be characterized by various microscopic techniques.",
+        "Question": "Which microscopic technique would be appropriate for examining the morphology and crystallinity of nanosheets?",
+        "A": "X-ray diffraction (XRD)",
+        "B": "Transmission electron microscopy (TEM)",
+        "C": "Atomic force microscopy (AFM)",
+        "D": "Scanning tunneling microscopy (STM)",
+        "Answer": "B",
+        "Source": "The morphology of the nanosheets and the nanocomposite films was thoroughly examined, and the film\u2019s thermoelectric performance was evaluated using a standard thermoelectric measurement system, ZEM\u20113."
+    },
+    "Question_6": {
+        "Context": "The power factor of a thermoelectric material is an important parameter that is influenced by its Seebeck coefficient and electrical conductivity.",
+        "Question": "What parameters are used to calculate the power factor of a thermoelectric material?",
+        "A": "Thermal conductivity and Seebeck coefficient",
+        "B": "Electrical conductivity and thermal conductivity",
+        "C": "Seebeck coefficient and electrical conductivity",
+        "D": "Carrier concentration and mobility",
+        "Answer": "C",
+        "Source": "As a result, the term S2\u03c3, known as the power factor, is often used to evaluate the thermoelectric performance of polymer nanocomposites."
+    },
+    "Question_7": {
+        "Context": "The synthesis of CuI nanosheets involves the use of an organic solvent that can act as a capping agent to stabilize the particles.",
+        "Question": "What is the role of an organic solvent like DMSO in the synthesis of CuI nanosheets?",
+        "A": "To increase the reaction temperature",
+        "B": "To act as a capping agent and stabilize the nanosheets",
+        "C": "To decrease the size of the nanosheets",
+        "D": "To reduce the electrical conductivity of the nanosheets",
+        "Answer": "B",
+        "Source": "When DI water was gradually added, CuI nanosheets would be produced through the decomposition of the [Cu(DMSO)4]+ complex formed in this solution \u2014 a passivation layer of Cu+\u2013DMSO adsorbed on the particle surface was suggested to be responsible for the nanoscale formation."
+    },
+    "Question_8": {
+        "Context": "The electrical conductivity of PEDOT: PSS can be improved by the addition of inorganic nanomaterials and treatment with organic solvents.",
+        "Question": "Which treatment is known to weaken the coulombic interaction between PEDOT and PSS, leading to increased electrical conductivity?",
+        "A": "Heating",
+        "B": "Acid treatment",
+        "C": "Ultrasonication",
+        "D": "DMSO treatment",
+        "Answer": "D",
+        "Source": "Firstly, DMSO, an organic solvent, weakens the coulombic interaction between PEDOT (+) and PSS (-), resulting in increased electrical conductivity of PEDOT: PSS due as supported by [38]."
+    },
+    "Question_9": {
+        "Context": "The thermoelectric performance of a material is often evaluated using a standard measurement system.",
+        "Question": "Which system is commonly used for evaluating the thermoelectric performance of materials?",
+        "A": "ZEM-3",
+        "B": "SEM",
+        "C": "TEM",
+        "D": "XRD",
+        "Answer": "A",
+        "Source": "The morphology of the nanosheets and the nanocomposite films was thoroughly examined, and the film\u2019s thermoelectric performance was evaluated using a standard thermoelectric measurement system, ZEM\u20113."
+    },
+    "Question_10": {
+        "Context": "The Seebeck coefficient and electrical conductivity are two parameters that are interdependent in thermoelectric materials.",
+        "Question": "In thermoelectric materials, what is the relationship between the Seebeck coefficient and electrical conductivity?",
+        "A": "They are directly proportional to each other",
+        "B": "They are inversely proportional to each other",
+        "C": "Increasing one does not affect the other",
+        "D": "They are independent parameters",
+        "Answer": "B",
+        "Source": "However, achieving high-performance thermoelectric materials is challenging since the Seebeck coefficient and electrical conductivity are interdependent; increasing one often results in the decrease of the other."
+    }
+}

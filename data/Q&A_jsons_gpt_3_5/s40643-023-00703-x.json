@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to isolate bacteria capable of producing laccase enzymes from an anthropogenic environment. The viability of utilizing cost-effective agricultural residues as substrates for laccase production was assessed.",
+        "Question": "What was identified as the bacterial strain capable of producing laccase in the study?",
+        "A": "Bacillus aquimaris AKRCo2",
+        "B": "Stenotrophomonas maltophilia E1",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Escherichia coli",
+        "Answer": "B",
+        "Source": "The isolate named E1 was successfully passed the screening, and it was identified as Stenotrophomonas maltophilia E1 by 16S rRNA sequencing techniques."
+    },
+    "Question_2": {
+        "Context": "The study evaluated various low-cost agriculture waste residues for laccase production. Coconut husk exhibited optimal efficacy among the tested substrates.",
+        "Question": "Which agricultural waste residue exhibited optimal efficacy for laccase production in the study?",
+        "A": "Wheat bran",
+        "B": "Sawdust",
+        "C": "Rice bran",
+        "D": "Coconut husk",
+        "Answer": "D",
+        "Source": "In the present study, sawdust, coconut husk, rice, wheat, and barley bran were selected for laccase production in which coconut husk was appeared as the best substrate."
+    },
+    "Question_3": {
+        "Context": "The study investigated the effect of different factors on laccase production by S. maltophilia E1. The maximum laccase production was achieved at 36 hours of incubation time.",
+        "Question": "What was the optimal incubation time for maximum laccase production by S. maltophilia E1?",
+        "A": "24 hours",
+        "B": "36 hours",
+        "C": "48 hours",
+        "D": "60 hours",
+        "Answer": "B",
+        "Source": "Result of the OVAT approach displayed that the maximum laccase production was achieved at 36 hours of incubation time."
+    },
+    "Question_4": {
+        "Context": "The study assessed the effect of pH on laccase activity and stability. The crude laccase showed optimal activity at pH 5 and stability in the pH range of 3.0\u20136.0.",
+        "Question": "At which pH value did the crude laccase exhibit optimal activity in the study?",
+        "A": "pH 4",
+        "B": "pH 5",
+        "C": "pH 6",
+        "D": "pH 7",
+        "Answer": "B",
+        "Source": "The obtained results revealed the optimal pH value of the crude laccase was 5 towards ABTS."
+    },
+    "Question_5": {
+        "Context": "The study investigated the decolorization of various dyes by crude laccase. Malachite green was completely decolorized up to 300 ppm concentration.",
+        "Question": "Which dye was completely decolorized up to 300 ppm concentration by the crude laccase?",
+        "A": "Acid orange",
+        "B": "Congo red",
+        "C": "Malachite green",
+        "D": "Methyl orange",
+        "Answer": "C",
+        "Source": "The results showed that crude laccase completely decolorized Malachite green up to 300 ppm concentration."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the degraded products of Malachite green by laccase treatment using GC-MS. Several intermediate compounds were identified, including Michler\u2019s ketone and 4-(dimethylamino) benzophenone.",
+        "Question": "Which compound was identified as an intermediate product of Malachite green degradation with a mass of 267 m/z?",
+        "A": "Michler\u2019s ketone",
+        "B": "4-(dimethylamino) benzophenone",
+        "C": "Dibenzylmethane",
+        "D": "4-(dimethylamino) benzaldehyde",
+        "Answer": "A",
+        "Source": "The intermediates include Michler\u2019s ketone Bis(4-(dimethylamino) phenyl) methanone (267 m/z) were identified."
+    },
+    "Question_7": {
+        "Context": "The study conducted a phytotoxicity assay using Oryza sativa seeds. The laccase-treated Malachite green solution showed significantly lower inhibition of seed germination compared to the untreated dye solution.",
+        "Question": "What was the percentage inhibition of seed germination observed in the laccase-treated Malachite green solution compared to the untreated dye solution?",
+        "A": "15.33%",
+        "B": "25.52%",
+        "C": "42.15%",
+        "D": "4.52%",
+        "Answer": "D",
+        "Source": "The results of the phytotoxicity study showed about 42.15% inhibition of the germination of O. sativa seeds soaked in the laccase untreated Malachite green, whereas laccase-treated Malachite green showed only 4.52% inhibition."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the effect of temperature on laccase activity and stability. The crude laccase showed optimal activity at 35\u00b0C and stability at temperatures between 25 and 40\u00b0C.",
+        "Question": "At which temperature did the crude laccase exhibit optimal activity in the study?",
+        "A": "25\u00b0C",
+        "B": "35\u00b0C",
+        "C": "45\u00b0C",
+        "D": "60\u00b0C",
+        "Answer": "B",
+        "Source": "A temperature of 35\u00b0C was found to be the optimal temperature for crude laccase."
+    },
+    "Question_9": {
+        "Context": "The study investigated the effect of coconut husk, CuSO4, yeast extract, and pH on laccase production using a Box Behnken design. The optimized laccase production reached 51.38 IU/mL.",
+        "Question": "What was the optimized laccase production level achieved in the study?",
+        "A": "16.7 IU/mL",
+        "B": "24.4 IU/mL",
+        "C": "38.7 IU/mL",
+        "D": "51.38 IU/mL",
+        "Answer": "D",
+        "Source": "In the optimized production medium, the production of laccase reached 51.38 \u00b1 1.11 IU/mL, which is basically consistent with the model predicted theoretical value (51.38 IU/mL)."
+    },
+    "Question_10": {
+        "Context": "The study assessed the decolorization of various dyes by crude laccase. Methyl red, Congo red, and Methyl orange were decolorized at 95.4%, 92.6%, and 90.4% respectively at 100 ppm concentration.",
+        "Question": "Which dye was decolorized at 95.4% at 100 ppm concentration by the crude laccase?",
+        "A": "Methyl red",
+        "B": "Congo red",
+        "C": "Methyl orange",
+        "D": "Acid orange",
+        "Answer": "A",
+        "Source": "Methyl red, Congo red, and Methyl orange were decolorized 95.4 \u00b1 0.8, 92.6 \u00b1 1.2, and 90.4 \u00b1 1.2 at 100 ppm concentration, respectively."
+    }
+}

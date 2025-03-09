@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on developing a sustained release agent system (BR@MSN) to enhance the salt stress resistance of cucumber seeds and seedlings. The obtained BR@MSN agent was about 120 nm.",
+        "Question": "What was the particle size of the obtained BR@MSN agent?",
+        "A": "110 nm",
+        "B": "120 nm",
+        "C": "130 nm",
+        "D": "140 nm",
+        "Answer": "B",
+        "Source": "The obtained BR@MSN agent was about 120 nm."
+    },
+    "Question_2": {
+        "Context": "Experimental results revealed that high BR concentration exerted inhibitory effect, while low BR content posed positive influence on seedling growth.",
+        "Question": "How did low brassinolide (BR) concentration affect seedling growth?",
+        "A": "Inhibited growth",
+        "B": "No effect",
+        "C": "Promoted growth",
+        "D": "Caused toxicity",
+        "Answer": "C",
+        "Source": "Low BR content posed positive influence on seedling growth."
+    },
+    "Question_3": {
+        "Context": "The sustained release behavior of BR@MSN followed the first-order kinetic model.",
+        "Question": "Which kinetic model best described the sustained release behavior of BR from BR@MSN?",
+        "A": "Zero-order",
+        "B": "First-order",
+        "C": "Korsmeyer\u2013Peppas",
+        "D": "Higuchi",
+        "Answer": "B",
+        "Source": "The sustained release behavior of BR@MSN followed the first-order kinetic model."
+    },
+    "Question_4": {
+        "Context": "Experimental results revealed that the foliar application of BR@MSN significantly increased the superoxide dismutase (SOD) activity of the cucumber seedlings under salt stress.",
+        "Question": "How did the foliar application of BR@MSN affect superoxide dismutase (SOD) activity?",
+        "A": "Decreased SOD activity",
+        "B": "No effect on SOD activity",
+        "C": "Increased SOD activity",
+        "D": "Caused toxicity to SOD",
+        "Answer": "C",
+        "Source": "The foliar application of BR@MSN significantly increased the SOD activity of the cucumber seedlings under salt stress."
+    },
+    "Question_5": {
+        "Context": "The foliar application of BR@MSN resulted in the decrease of malondialdehyde (MDA) content in cucumber seedlings under salt stress.",
+        "Question": "How did the foliar application of BR@MSN affect malondialdehyde (MDA) content?",
+        "A": "Increased MDA content",
+        "B": "No effect on MDA content",
+        "C": "Decreased MDA content",
+        "D": "Caused toxicity to MDA",
+        "Answer": "C",
+        "Source": "The foliar application of BR@MSN resulted in the decrease of MDA content in cucumber seedlings under salt stress."
+    },
+    "Question_6": {
+        "Context": "Experimental results revealed that the foliar application of BR@MSN significantly increased the chlorophyll content of the cucumber seedlings under salt stress.",
+        "Question": "How did the foliar application of BR@MSN affect chlorophyll content?",
+        "A": "Decreased chlorophyll content",
+        "B": "No effect on chlorophyll content",
+        "C": "Increased chlorophyll content",
+        "D": "Caused toxicity to chlorophyll",
+        "Answer": "C",
+        "Source": "The foliar application of BR@MSN significantly increased the chlorophyll content of the cucumber seedlings under salt stress."
+    },
+    "Question_7": {
+        "Context": "The study revealed that the foliar application of BR@MSN enhanced the salt stress resistance of cucumber seedlings by alleviating ROS accumulation and increasing cell viability.",
+        "Question": "How did the foliar application of BR@MSN enhance salt stress resistance?",
+        "A": "By increasing ROS accumulation",
+        "B": "By decreasing cell viability",
+        "C": "By alleviating ROS accumulation and increasing cell viability",
+        "D": "By causing toxicity to cell viability",
+        "Answer": "C",
+        "Source": "The foliar application of BR@MSN enhanced the salt stress resistance of cucumber seedlings by alleviating ROS accumulation and increasing the cell viability."
+    },
+    "Question_8": {
+        "Context": "The study demonstrated that the foliar application of BR@MSN resulted in the promotion of cell viability in cucumber seedlings under salt stress.",
+        "Question": "What was the effect of the foliar application of BR@MSN on cell viability?",
+        "A": "Decreased cell viability",
+        "B": "No effect on cell viability",
+        "C": "Increased cell viability",
+        "D": "Caused toxicity to cell viability",
+        "Answer": "C",
+        "Source": "The foliar application of BR@MSN resulted in the promotion of cell viability in cucumber seedlings under salt stress."
+    },
+    "Question_9": {
+        "Context": "The study found that the foliar application of BR@MSN significantly reduced the accumulation of superoxide anion in cucumber seedlings under salt stress.",
+        "Question": "How did the foliar application of BR@MSN affect superoxide anion accumulation?",
+        "A": "Increased superoxide anion accumulation",
+        "B": "No effect on superoxide anion accumulation",
+        "C": "Decreased superoxide anion accumulation",
+        "D": "Caused toxicity to superoxide anion accumulation",
+        "Answer": "C",
+        "Source": "The foliar application of BR@MSN significantly reduced the accumulation of superoxide anion in cucumber seedlings under salt stress."
+    },
+    "Question_10": {
+        "Context": "Experimental results revealed that the foliar application of BR@MSN increased the superoxide dismutase (SOD) activity, decreased malondialdehyde (MDA) content, and increased chlorophyll content in cucumber seedlings under salt stress.",
+        "Question": "What were the effects of the foliar application of BR@MSN on SOD activity, MDA content, and chlorophyll content in cucumber seedlings under salt stress?",
+        "A": "Decreased SOD activity, increased MDA content, decreased chlorophyll content",
+        "B": "Increased SOD activity, decreased MDA content, increased chlorophyll content",
+        "C": "Increased SOD activity, increased MDA content, decreased chlorophyll content",
+        "D": "Decreased SOD activity, decreased MDA content, increased chlorophyll content",
+        "Answer": "B",
+        "Source": "The foliar application of BR@MSN increased the superoxide dismutase (SOD) activity, decreased malondialdehyde (MDA) content, and increased chlorophyll content in cucumber seedlings under salt stress."
+    }
+}

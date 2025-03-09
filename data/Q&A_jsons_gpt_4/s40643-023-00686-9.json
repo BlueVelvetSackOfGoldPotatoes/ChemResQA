@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Tannases are enzymes that catalyze the hydrolysis of ester and depside bonds in tannins, leading to the production of glucose and gallic acid.",
+        "Question": "Which fungal genus was identified as having the highest tannase activity in the context of tannase production?",
+        "A": "Rhizopus",
+        "B": "Aspergillus",
+        "C": "Trichoderma",
+        "D": "Penicillium",
+        "Answer": "B",
+        "Source": "The selected fungal isolate NRC8 giving highest tannase activity was identified by molecular technique (18S rRNA) as Aspergillus glaucus."
+    },
+    "Question_2": {
+        "Context": "Solid-state fermentation (SSF) is a process where microorganisms grow on a solid substrate without the presence of free-flowing water, and it is used for the production of various valuable products including enzymes.",
+        "Question": "What was the best substrate for tannase production by Aspergillus glaucus in solid-state fermentation?",
+        "A": "Black tea waste",
+        "B": "Green tea waste",
+        "C": "Coffee powder",
+        "D": "Olive leaves",
+        "Answer": "A",
+        "Source": "Among different tannin-containing wastes tested, the black tea waste was the best substrate for tannase production by Aspergillus glaucus in solid-state fermentation (SSF)."
+    },
+    "Question_3": {
+        "Context": "Optimization of process parameters is crucial for maximizing enzyme production in fermentation processes.",
+        "Question": "What moisture content was found to be optimal for maximal tannase production in SSF?",
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "100%",
+        "Answer": "C",
+        "Source": "Maximal tannase production was achieved with moisture content of 75%."
+    },
+    "Question_4": {
+        "Context": "The pH level of the medium can significantly influence enzyme production during fermentation.",
+        "Question": "At what pH level was maximal tannase production achieved?",
+        "A": "3.0",
+        "B": "4.0",
+        "C": "5.0",
+        "D": "6.0",
+        "Answer": "C",
+        "Source": "Maximal tannase production was achieved with moisture content of 75%, an inoculums size of 6 \u00d7 108 spore/ml and sodium nitrate 0.2% (pH of 5.0) at 30 \u00b0C after 5 days of incubation."
+    },
+    "Question_5": {
+        "Context": "Temperature is a critical factor affecting the growth of microorganisms and enzyme activity during fermentation.",
+        "Question": "At which temperature was the best bioconversion efficiency of tannic acid to gallic acid achieved by A. glaucus tannase?",
+        "A": "20 \u00b0C",
+        "B": "30 \u00b0C",
+        "C": "40 \u00b0C",
+        "D": "50 \u00b0C",
+        "Answer": "C",
+        "Source": "The best bioconversion efficiency was achieved at 40 \u00b0C with tannic acid concentration up to 200 g/L."
+    },
+    "Question_6": {
+        "Context": "Gallic acid is a valuable compound produced from the enzymatic hydrolysis of tannins and has various industrial applications.",
+        "Question": "What was the concentration of gallic acid produced from the SSF process of A. glaucus using black tea waste?",
+        "A": "18.27 mg/ml",
+        "B": "28.27 mg/ml",
+        "C": "38.27 mg/ml",
+        "D": "48.27 mg/ml",
+        "Answer": "C",
+        "Source": "Moreover, production of gallic acid from SSF process of A. glaucus using black tea waste was found to be 38.27 mg/ml."
+    },
+    "Question_7": {
+        "Context": "In the context of enzyme assays, the activity of an enzyme can be quantified by the amount of product formed over time.",
+        "Question": "What is the unit of measurement for tannase activity as defined in the context?",
+        "A": "Micromole of glucose formed per minute",
+        "B": "Micromole of tannic acid degraded per minute",
+        "C": "Micromole of gallic acid formed per minute",
+        "D": "Micromole of ester bonds broken per minute",
+        "Answer": "C",
+        "Source": "One unit of the enzyme was defined as micromole of gallic acid formed per minute."
+    },
+    "Question_8": {
+        "Context": "Fungal isolates can be screened for their ability to produce tannase by observing their growth on agar plates containing tannic acid.",
+        "Question": "In the context of tannase production, what indicates a positive bioconversion of tannic acid to gallic acid and glucose by fungal isolates on agar plates?",
+        "A": "Change in agar color",
+        "B": "Formation of bubbles",
+        "C": "Clear zone diameters around the fungal colonies",
+        "D": "Growth of fungal hyphae",
+        "Answer": "C",
+        "Source": "The clear zone diameters around the fungal colonies, indicating a positive bioconversion of tannic acid to gallic acid and glucose, were measured after four days of incubation."
+    },
+    "Question_9": {
+        "Context": "Microbial tannases are often preferred for industrial applications due to the ease of cultivation and downstream processing.",
+        "Question": "Which of the following microorganisms are common sources for microbial tannase?",
+        "A": "Aspergillus and Rhizopus",
+        "B": "Escherichia coli and Bacillus",
+        "C": "Lactobacillus and Streptococcus",
+        "D": "Pseudomonas and Clostridium",
+        "Answer": "A",
+        "Source": "Microbial tannases have been produced by several microorganisms. Aspergillus, Rhizopus, Trichoderma, Fusarium, Penicillium, Candida, and Saccharomyces are the common microbial sources for tannase."
+    },
+    "Question_10": {
+        "Context": "Statistical designs such as the Box\u2013Behnken design are used to optimize process parameters for enzyme production.",
+        "Question": "What is the purpose of using a Box\u2013Behnken experiment in the context of optimizing tannase production?",
+        "A": "To determine the minimum enzyme activity",
+        "B": "To identify the best fungal isolate for production",
+        "C": "To get a quadratic model for further optimization studies",
+        "D": "To assess the stability of the enzyme at different pH levels",
+        "Answer": "C",
+        "Source": "Box\u2013Behnken experiment was designed to get a quadratic model for further optimization studies."
+    }
+}

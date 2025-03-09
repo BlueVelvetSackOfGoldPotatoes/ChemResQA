@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Fluorescence analysis was used to detect 3-monochloropropane-1,2-diol (3-MCPD) under specific conditions.",
+        "Question": "What is the linear range for 3-MCPD detection under optimal experimental conditions?",
+        "A": "0.025 to 0.5 mg/L",
+        "B": "0.1 to 1.0 mg/L",
+        "C": "0.5 to 2.0 mg/L",
+        "D": "0.025 to 1.0 mg/L",
+        "Answer": "D",
+        "Source": "Fluorescence analysis is used to obtain a linear range from 0.025 to 1.0 mg/L for 3-MCPD detection under optimal experimental conditions."
+    },
+    "Question_2": {
+        "Context": "The method for detecting 3-MCPD involved specific reaction conditions.",
+        "Question": "What was the selected pH for the reaction to achieve a good degree of sensitivity in the experiment?",
+        "A": "7.0",
+        "B": "7.5",
+        "C": "8.0",
+        "D": "8.5",
+        "Answer": "D",
+        "Source": "At a pH higher than 8.5, the fluorescence intensity begins to decrease. Based on these observations, a pH of 8.5 was selected as a reaction condition, to achieve a good degree of sensitivity in the experiment."
+    },
+    "Question_3": {
+        "Context": "The method involved studying the impact of different temperatures on the fluorescence intensity.",
+        "Question": "At what temperature was the ideal temperature determined for the reaction between FITC and amino silica with 3-MCPD?",
+        "A": "60\u00b0C",
+        "B": "70\u00b0C",
+        "C": "80\u00b0C",
+        "D": "90\u00b0C",
+        "Answer": "D",
+        "Source": "As a result, 90 \u00b0C was determined to be the ideal temperature."
+    },
+    "Question_4": {
+        "Context": "The study included investigating the impact of reaction time on the fluorescence intensity.",
+        "Question": "What was the ideal reaction time determined for the reaction between FITC and amino silica with 3-MCPD?",
+        "A": "2 minutes",
+        "B": "4 minutes",
+        "C": "6 minutes",
+        "D": "8 minutes",
+        "Answer": "D",
+        "Source": "When the reaction time reached 8 min, the difference value of fluorescence intensity of the supernatant reached its maximum."
+    },
+    "Question_5": {
+        "Context": "The method was tested for specificity against interfering compounds.",
+        "Question": "Which compound provided the most noticeable fluorescence signal when tested as an interfering compound?",
+        "A": "2-MCPD",
+        "B": "Glycerol (GI)",
+        "C": "Propylene glycol (PG)",
+        "D": "Ethylene glycol (EG)",
+        "Answer": "A",
+        "Source": "Even at high concentrations, the tested interfering compounds failed to provide a significant fluorescence signal. The most noticeable fluorescence signal came from FITC-modified amino silica that was quenched by 3-MCPD."
+    },
+    "Question_6": {
+        "Context": "The study included determining the effect of 3-MCPD concentration on fluorescence intensity.",
+        "Question": "What was the range of 3-MCPD concentrations tested for their impact on fluorescence intensity?",
+        "A": "0.025 to 0.5 mg/L",
+        "B": "0.1 to 1.0 mg/L",
+        "C": "0.5 to 2.0 mg/L",
+        "D": "0.025 to 1.0 mg/L",
+        "Answer": "D",
+        "Source": "The fluorescence intensity of the supernatant was tested with different 3-MCPD concentrations between 0.025 and 1.0 mg/L."
+    },
+    "Question_7": {
+        "Context": "The study involved establishing a standard curve for 3-MCPD detection.",
+        "Question": "What was the correlation coefficient for the standard curve of 3-MCPD?",
+        "A": "0.9915",
+        "B": "0.975",
+        "C": "0.85",
+        "D": "0.925",
+        "Answer": "A",
+        "Source": "The linear range of detection of 3-MCPD was determined to be 0.025 mg/L to 1.0 mg/L by fluorescence analysis, whereas the calculated detection limit was 0.025 mg/L."
+    },
+    "Question_8": {
+        "Context": "The study included assessing the precision and recovery rate of the method.",
+        "Question": "What was the recovery rate range for 3-MCPD under optimal conditions?",
+        "A": "94.2% to 96.2%",
+        "B": "96.5% to 98.5%",
+        "C": "90.2% to 92.5%",
+        "D": "100% to 102%",
+        "Answer": "A",
+        "Source": "The recovery of 3-MCPD was between 94.2% and 106.5% under optimal conditions."
+    },
+    "Question_9": {
+        "Context": "The study involved determining the content of 3-MCPD in soy sauce.",
+        "Question": "What were the determined contents of 3-MCPD in four kinds of soy sauce?",
+        "A": "1.52, 2.02, 2.85, and 2.74 mg/kg",
+        "B": "2.52, 2.02, 2.85, and 2.74 mg/kg",
+        "C": "2.52, 2.20, 2.85, and 2.74 mg/kg",
+        "D": "2.52, 2.02, 2.85, and 2.64 mg/kg",
+        "Answer": "B",
+        "Source": "The content of 3-MCPD in four kinds of soy sauce was determined to be: 2.52, 2.02, 2.85, and 2.74 mg/kg."
+    },
+    "Question_10": {
+        "Context": "The study compared the developed method with other techniques.",
+        "Question": "What advantage does the developed method have over traditional detection techniques?",
+        "A": "Higher sensitivity",
+        "B": "Lower cost",
+        "C": "Rapid detection",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "In terms of detection performance, the limit of detection obtained from this new method is comparable to some of those obtained using traditional detection techniques such as GC\u2013MS. Besides its sensitivity, the developed method has the advantage of rapid detection and easy to operate in real applications by using fluorescence analysis."
+    }
+}

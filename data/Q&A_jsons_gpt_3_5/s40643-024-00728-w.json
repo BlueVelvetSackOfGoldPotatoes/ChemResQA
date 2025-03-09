@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study delves into the aroma characteristics and microbial composition of filler tobacco leaves (FTLs) sourced from six distinct cigar-growing regions within Yunnan, China, following standardized fermentation.",
+        "Question": "What method was employed for comprehensive profiling in the study?",
+        "A": "Gas chromatography-mass spectrometry (GC-MS)",
+        "B": "Electronic nose (E-nose)",
+        "C": "Microbiome analysis",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "An integrated approach using gas chromatography-mass spectrometry (GC\u2013MS), electronic nose (E-nose), and microbiome analysis was employed for comprehensive profiling."
+    },
+    "Question_2": {
+        "Context": "The study highlights the variations in the content of free amino acids (FAAs) observed among filler tobacco leaves (FTLs) from six regions.",
+        "Question": "Which category of amino acids accounted for the majority of the total FAAs content in FTLs?",
+        "A": "Umami amino acids",
+        "B": "Sweet amino acids",
+        "C": "Bitter amino acids",
+        "D": "Salt amino acids",
+        "Answer": "A",
+        "Source": "Specifically, umami amino acids constituted the majority, accounting for 82.14% of the total FAAs."
+    },
+    "Question_3": {
+        "Context": "The study conducted a comprehensive analysis of four chemical elements and four chemical constituents within FTLs sourced from six distinct regions.",
+        "Question": "Which chemical element exhibited consistently high content across all samples from different regions?",
+        "A": "Carbon (C)",
+        "B": "Hydrogen (H)",
+        "C": "Sulfur (S)",
+        "D": "Nitrogen (N)",
+        "Answer": "A",
+        "Source": "In all samples from DHMS, DHRL, LCGM, PEJC, PENE, and YNYX, the C content was consistently high, yet without significant disparities."
+    },
+    "Question_4": {
+        "Context": "The study identified 24 volatile organic compounds (VOCs) as pivotal determinants contributing to the heterogeneity of flavor profiles among filler tobacco leaves (FTLs) from diverse origins.",
+        "Question": "Which VOC emerged as one of the markers contributing to the flavor profiles among FTLs?",
+        "A": "Solanone",
+        "B": "Isophorone",
+        "C": "Durene",
+        "D": "(-)-alpha-terpineol",
+        "Answer": "A",
+        "Source": "Furthermore, distinctions in free amino acid content and chemical constituents were observed across FTLs. Of noteworthy significance, solanone, isophorone, durene, (-)-alpha-terpineol, and 2,3\u2019-bipyridine exhibited the strongest correlations with microbiome data."
+    },
+    "Question_5": {
+        "Context": "The study examined the microbial biogeography associated with filler tobacco leaves (FTLs) sourced from six geographically distinct areas within Yunnan Province, China.",
+        "Question": "Which phylum emerged as the predominant bacterial phylum across all FTL samples?",
+        "A": "Actinobacteriota",
+        "B": "Firmicutes",
+        "C": "Proteobacteria",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Actinobacteriota, Firmicutes, and Proteobacteria emerged as the predominant bacterial phyla across all samples."
+    },
+    "Question_6": {
+        "Context": "The study highlighted the dominant microbial genera identified in the filler tobacco leaves (FTLs) from different regions.",
+        "Question": "Which microbial genus was identified as one of the leading genera in the FTL samples?",
+        "A": "Corynebacterium",
+        "B": "Pseudomonas",
+        "C": "Staphylococcus",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "At the genus level, Corynebacterium, Pseudomonas, Staphylococcus, Aerococcus, Aspergillus, Alternaria, and Cladosporium were the leading genera."
+    },
+    "Question_7": {
+        "Context": "The study utilized O2PLS modeling analysis to examine the correlation between microbial genera and metabolites in the filler tobacco leaves (FTLs).",
+        "Question": "Which microorganisms exhibited a stronger correlation with metabolites, particularly VOCs and FAAs?",
+        "A": "Bacterial microorganisms",
+        "B": "Fungal microorganisms",
+        "C": "Both bacterial and fungal microorganisms",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "The impact of fungal microorganisms on metabolites was more pronounced, which has a stronger regional impact on microbial communities than bacteria."
+    },
+    "Question_8": {
+        "Context": "The study investigated the impact of fermentation on the aroma compounds in cigar tobacco leaves.",
+        "Question": "Which compound originates from the biochemical degradation of sesquiterpenes in tobacco and influences the flavor profiles of cigarettes?",
+        "A": "Solanone",
+        "B": "Isophorone",
+        "C": "Durene",
+        "D": "(-)-alpha-terpineol",
+        "Answer": "A",
+        "Source": "Solanone, a crucial flavoring agent in tobacco, originates from the biochemical degradation of sesquiterpenes inherent to tobacco and exerts a considerable influence on the flavor profiles of cigarettes."
+    },
+    "Question_9": {
+        "Context": "The study explored the microbial communities within fermented filler tobacco leaves (FTLs) from different regions.",
+        "Question": "Which microbial phylum was notably prevalent in the fermented FTLs from Yunnan?",
+        "A": "Ascomycota",
+        "B": "Basidiomycota",
+        "C": "Zygomycota",
+        "D": "Glomeromycota",
+        "Answer": "A",
+        "Source": "In our analysis of fermented FTLs from Yunnan, a pronounced prevalence of the fungal phylum Ascomycota was observed."
+    },
+    "Question_10": {
+        "Context": "The study emphasized the role of microbial communities in the fermentation process of cigar tobacco leaves.",
+        "Question": "Which microbial genus was reported as a dominant microorganism in the curing process of jatropha shoots?",
+        "A": "Corynebacterium",
+        "B": "Aerococcus",
+        "C": "Aspergillus",
+        "D": "Cladosporium",
+        "Answer": "B",
+        "Source": "The salt-tolerant and resistant Aerococcus, renowned for these traits, has been reported as a dominant microorganism in the curing process of jatropha shoots."
+    }
+}

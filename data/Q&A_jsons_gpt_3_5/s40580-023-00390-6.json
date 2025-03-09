@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Nanozymes mimic the function of enzymes in intracellular chemical reactions. They can generate or degrade specific biomolecules to regulate cellular behaviors. Two approaches for utilizing nanozymes in intracellular chemistry have been reported.",
+        "Question": "What are the two approaches for utilizing nanozymes in intracellular chemistry?",
+        "A": "Biomimetic catalysis and bioorthogonal catalysis",
+        "B": "Enzymatic replication and cellular inhibition",
+        "C": "Chemical degradation and biological replication",
+        "D": "Cellular regulation and enzymatic inhibition",
+        "Answer": "A",
+        "Source": "Biomimetic catalysis replicates the identical reactions of natural enzymes, and bioorthogonal catalysis enables chemistries inaccessible in cells."
+    },
+    "Question_2": {
+        "Context": "Nanozymes are employed to attain specific catalysis in cells either to mimic enzymatic mechanisms and kinetics or expand inaccessible chemistries.",
+        "Question": "What is the purpose of employing nanozymes in cells?",
+        "A": "To inhibit cellular processes",
+        "B": "To regulate cellular behaviors",
+        "C": "To induce cellular homeostasis",
+        "D": "To prevent enzymatic reactions",
+        "Answer": "B",
+        "Source": "Nanozymes delivered inside cells have catalyzed chemical reactions that can generate or degrade biomolecules or functional molecules, inducing desired cellular behaviors."
+    },
+    "Question_3": {
+        "Context": "Nanozymes can be categorized as biomimetic, replicating catalytic functions using natural enzymes, or bioorthogonal, which cannot occur in biological processes.",
+        "Question": "How are nanozymes categorized based on their catalytic functions?",
+        "A": "As natural enzymes and artificial enzymes",
+        "B": "As biological and non-biological catalysts",
+        "C": "As biomimetic and bioorthogonal",
+        "D": "As cellular and extracellular catalysts",
+        "Answer": "C",
+        "Source": "Catalysis using nanozymes for intended biochemical cellular reactions can be categorized as biomimetic, which replicates catalytic functions using natural enzymes, and bioorthogonal, which cannot occur in biological processes."
+    },
+    "Question_4": {
+        "Context": "BMNZs possess intrinsic enzyme-like activities, including analogs to peroxidase, oxidase, catalase, superoxide dismutase, and hydrolase activity.",
+        "Question": "What are the enzyme-like activities possessed by BMNZs?",
+        "A": "Peroxidase, oxidase, catalase",
+        "B": "Peroxidase, reductase, hydrolase",
+        "C": "Oxidase, catalase, superoxide dismutase",
+        "D": "Oxidase, reductase, hydrolase",
+        "Answer": "A",
+        "Source": "BMNZs possess intrinsic enzyme-like activities, including analogs to peroxidase, oxidase, catalase, superoxide dismutase, and hydrolase activity."
+    },
+    "Question_5": {
+        "Context": "BMNZs with peroxidase-like activity accelerate the oxidation of substrates by catalyzing H2O2 and follow the Michaelis\u2013Menten kinetics and ping\u2013pong mechanism.",
+        "Question": "What mechanism do BMNZs with peroxidase-like activity follow?",
+        "A": "Michaelis\u2013Menten kinetics and ping\u2013pong mechanism",
+        "B": "Lineweaver-Burk kinetics",
+        "C": "Allosteric regulation",
+        "D": "Competitive inhibition",
+        "Answer": "A",
+        "Source": "BMNZs with peroxidase-like activities follow the Michaelis\u2013Menten kinetics and ping\u2013pong mechanism."
+    },
+    "Question_6": {
+        "Context": "BMNZs with oxidase-like activity catalyze the oxidation of substrates at the expense of molecular oxygen and other oxidizing reagents.",
+        "Question": "What is the primary requirement for BMNZs with oxidase-like activity to catalyze oxidation?",
+        "A": "Presence of reducing agents",
+        "B": "Presence of molecular oxygen",
+        "C": "Presence of metal ions",
+        "D": "Presence of acidic environment",
+        "Answer": "B",
+        "Source": "OXD is a natural enzyme that can catalyze the oxidation of substrates at the expense of molecular oxygen and other oxidizing reagents."
+    },
+    "Question_7": {
+        "Context": "BMNZs with catalase-like activity promote the breakdown of H2O2 into H2O and O2, following the Michaelis\u2013Menten kinetics.",
+        "Question": "What is the primary function of BMNZs with catalase-like activity?",
+        "A": "Promote the breakdown of H2O2",
+        "B": "Promote the breakdown of glucose",
+        "C": "Promote the breakdown of lipids",
+        "D": "Promote the breakdown of proteins",
+        "Answer": "A",
+        "Source": "CAT-like BMNZs follow the Michaelis\u2013Menten kinetics and promote the breakdown of H2O2 into H2O and O2."
+    },
+    "Question_8": {
+        "Context": "SOD-like BMNZs catalyze the dismutation of superoxide radicals into O2 and H2O2, providing antioxidant defense against oxidative stress.",
+        "Question": "What is the primary function of SOD-like BMNZs?",
+        "A": "Catalyze the breakdown of H2O2",
+        "B": "Catalyze the dismutation of superoxide radicals",
+        "C": "Catalyze the oxidation of substrates",
+        "D": "Catalyze the reduction of molecular oxygen",
+        "Answer": "B",
+        "Source": "SOD-like BMNZs catalyze the dismutation of superoxide radicals, such as HOO\u00b7 and \u00b7O2 \u2013, into O2 and H2O2."
+    },
+    "Question_9": {
+        "Context": "BMNZs that mimic hydrolytic enzymes can facilitate reactions by acting as Lewis acid catalysts or activating H2O molecules for nucleophilic attack.",
+        "Question": "How do BMNZs mimic hydrolytic enzymes in facilitating reactions?",
+        "A": "By acting as oxidizing agents",
+        "B": "By acting as reducing agents",
+        "C": "By acting as Lewis acid catalysts",
+        "D": "By acting as Lewis base catalysts",
+        "Answer": "C",
+        "Source": "BMNZs that can mimic hydrolytic enzymes can facilitate the reaction either by acting as Lewis acid catalysts or by activating H2O molecules to produce nucleophilic attack reagents for substrate hydrolysis."
+    },
+    "Question_10": {
+        "Context": "Various nanomaterials with specific features are used to facilitate intracellular catalysis with BMNZs and BONZs.",
+        "Question": "What is the role of nanomaterials in facilitating intracellular catalysis with nanozymes?",
+        "A": "To induce undesirable biological effects",
+        "B": "To inhibit catalytic reactions",
+        "C": "To facilitate specific catalysis",
+        "D": "To prevent cellular behaviors",
+        "Answer": "C",
+        "Source": "For both nanozymes, various nanomaterials and catalytic metals with specific features may be used to facilitate intracellular catalysis."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the optical properties of CsPbBr3 nanoplatelets and their anisotropy.",
+        "Question": "What is the main factor that determines the band gap tunability of CsPbBr3 nanoplatelets?",
+        "A": "Sample thickness",
+        "B": "Crystal structure",
+        "C": "Exciton fine structure",
+        "D": "Quantum confinement",
+        "Answer": "A",
+        "Source": "The two-dimensional CsPbBr3 nanoplatelets have a quantum well electronic structure with a band gap tunable with sample thicknesses in discreet steps based upon the number of monolayers."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the optical properties of CsPbBr3 nanoplatelets and their anisotropy.",
+        "Question": "What is the observed trend in optical anisotropy as the thickness of CsPbBr3 nanoplatelets increases?",
+        "A": "Decrease",
+        "B": "Increase",
+        "C": "Remains constant",
+        "D": "No trend observed",
+        "Answer": "A",
+        "Source": "The thicker (4 ML, 5 ML) NPLs show a progressive decrease in the measured anisotropy and cuboidal CsPbBr3 NCs show small but consistently positive values of anisotropy by all measurements."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the optical properties of CsPbBr3 nanoplatelets and their anisotropy.",
+        "Question": "What type of polarization is observed in the emission transitions of CsPbBr3 nanoplatelets at the band edge?",
+        "A": "In-plane polarization",
+        "B": "Out-of-plane polarization",
+        "C": "Circular polarization",
+        "D": "Random polarization",
+        "Answer": "A",
+        "Source": "The band-edge absorption and emission for ensembles of NPLs exceeds 0.08, approaching the theoretical value of perfect in-plane polarization of 0.1."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the optical properties of CsPbBr3 nanoplatelets and their anisotropy.",
+        "Question": "What technique is used to measure the anisotropic optical properties of CsPbBr3 nanoplatelets in solution?",
+        "A": "Fluorescence anisotropy",
+        "B": "Polarized transient absorption spectroscopy",
+        "C": "Time-resolved photoluminescence",
+        "D": "X-ray diffraction",
+        "Answer": "B",
+        "Source": "A second measurement technique which has been used to measure anisotropy of colloidal nanoparticles is polarized transient absorption spectroscopy."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the optical properties of CsPbBr3 nanoplatelets and their anisotropy.",
+        "Question": "What is the main reason for the diminishing anisotropy observed in thicker CsPbBr3 nanoplatelets?",
+        "A": "Exciton fine structure",
+        "B": "Crystal structure",
+        "C": "Quantum confinement",
+        "D": "Dielectric contributions",
+        "Answer": "A",
+        "Source": "The experimental results of this work can be understood as a verification of the calculations of exciton fine structure showing strong in-plane polarization of the thinnest NPLs, with diminishing values at thicker size."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the optical properties of CsPbBr3 nanoplatelets and their anisotropy.",
+        "Question": "What is the significance of the observed planar absorption and emission transitions in CsPbBr3 nanoplatelets?",
+        "A": "Enhanced efficiency of light-emitting devices",
+        "B": "Increased band gap tunability",
+        "C": "Improved crystal structure",
+        "D": "Reduced quantum confinement",
+        "Answer": "A",
+        "Source": "Dominant planar emission, albeit confined to the thinnest nanoplatelets, is a valuable attribute for enhanced efficiency of light-emitting devices."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the synthesis of CsPbBr3 nanoplatelets.",
+        "Question": "Which materials are used in the room temperature synthesis of CsPbBr3 nanoplatelets?",
+        "A": "Cesium carbonate, lead bromide, toluene",
+        "B": "Oleic acid, oleylamine, mesitylene",
+        "C": "Ethanol, hexane, dodecane",
+        "D": "Acetone, cesium carbonate, 1-octadecene",
+        "Answer": "A",
+        "Source": "Precursor solutions were prepared by dissolving 32.6 mg Cs2CO3 in 10 mL oleic acid and 36.7 mg PbBr2 in 10 mL toluene with 0.1 mL oleic acid and 0.1 mL oleylamine."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the synthesis of CsPbBr3 nanoplatelets.",
+        "Question": "What is the main difference between the room temperature synthesis and hot injection synthesis of CsPbBr3 nanoplatelets?",
+        "A": "Temperature of the reaction",
+        "B": "Type of solvent used",
+        "C": "Duration of the reaction",
+        "D": "Presence of cesium carbonate",
+        "Answer": "A",
+        "Source": "The synthesis for the 458 nm emitting NPLs was modified from this literature. 138 mg of PbBr2, 1 mL of dried oleic acid, and 1 mL of dried oleylamine were loaded into a 25 mL 3-neck flask under anaerobic conditions."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the methods used for structural characterization of CsPbBr3 nanoplatelets.",
+        "Question": "Which technique was used for transmission electron microscopy (TEM) analysis of the samples?",
+        "A": "JEOL 2100F TEM",
+        "B": "Bruker D2 phaser",
+        "C": "Cary-50 spectrometer",
+        "D": "Horiba Jobin\u2013Yvon FL3 fluorimeter",
+        "Answer": "A",
+        "Source": "Transmission electron microscopy (TEM) was performed on the samples using a JEOL 2100F TEM."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the results and discussion related to the optical properties of CsPbBr3 nanoplatelets.",
+        "Question": "What is the main conclusion drawn from the optical properties analysis of CsPbBr3 nanoplatelets?",
+        "A": "Thinner nanoplatelets exhibit higher anisotropy than thicker ones",
+        "B": "Thicker nanoplatelets show stronger polarization",
+        "C": "Cuboidal nanocrystals have isotropic optical transitions",
+        "D": "Exciton fine structure has no impact on anisotropy",
+        "Answer": "A",
+        "Source": "The results confirm the predictions of exciton fine structure calculations of a strong thickness-dependence of anisotropy, which stands in contrast to other NPL systems."
+    }
+}

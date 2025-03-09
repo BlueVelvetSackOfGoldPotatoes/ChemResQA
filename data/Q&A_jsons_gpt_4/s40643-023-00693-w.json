@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Enantiomerically pure amines are valuable in the synthesis of various chemicals, including pharmaceuticals and agrochemicals. One way to synthesize enantiomerically pure amines is through biocatalysis, which can offer advantages such as mild reaction conditions and high selectivity.",
+        "Question": "What is an important class of intermediates for the synthesis of pharmaceuticals and agrochemicals?",
+        "A": "Carboxylic acids",
+        "B": "Enantiomerically pure amines",
+        "C": "Aldehydes",
+        "D": "Ketones",
+        "Answer": "B",
+        "Source": "Enantiomerically pure amines are a significant class of intermediates for the synthesis of pharmaceuticals, agrochemicals, and fine chemicals."
+    },
+    "Question_2": {
+        "Context": "The synthesis of (+)-neomenthylamine can be achieved through biocatalysis, using enzymes such as \u03c9-transaminases to convert ketone substrates into the desired amine products.",
+        "Question": "Which enzyme class is used in the biocatalytic synthesis of (+)-neomenthylamine from a ketone substrate?",
+        "A": "Ligases",
+        "B": "Hydrolases",
+        "C": "Transaminases",
+        "D": "Oxidoreductases",
+        "Answer": "C",
+        "Source": "Here, we report a novel biocatalytic route to synthesize (+)-neomenthylamine by amination of readily available (\u2212)-menthone substrate using \u03c9-transaminase."
+    },
+    "Question_3": {
+        "Context": "In biocatalysis, the choice of amino donor is crucial for the efficiency of the enzymatic reaction. Different amino donors can result in varying yields and selectivities for the desired product.",
+        "Question": "Which amino donor resulted in the highest yield of (+)-neomenthylamine when used with the enzyme VfTA?",
+        "A": "DL-Alanine",
+        "B": "Isopropylamine",
+        "C": "2-Pentanamine",
+        "D": "S-\u03b1-Methylbenzylamine",
+        "Answer": "D",
+        "Source": "Different amino donors were then investigated for VfTA-catalyzed amination of menthone, and interestingly, VfTA exhibited different activities and selectivities for different amino donors."
+    },
+    "Question_4": {
+        "Context": "Enzymes can exhibit different kinetic parameters such as Vmax and Km, which describe the maximum rate of reaction and the substrate concentration at which the reaction rate is half of Vmax, respectively.",
+        "Question": "What does the Km value represent in enzyme kinetics?",
+        "A": "The maximum rate of reaction",
+        "B": "The enzyme concentration at which the reaction rate is half of Vmax",
+        "C": "The substrate concentration at which the reaction rate is half of Vmax",
+        "D": "The time it takes for the enzyme to reach its maximum reaction rate",
+        "Answer": "C",
+        "Source": "Kinetic parameters were determined for the amination of (\u2212)-menthone with VfTA."
+    },
+    "Question_5": {
+        "Context": "The stability of enzymes under different temperatures can be assessed by determining their half-life and melting temperature, which provide insights into the enzyme's robustness and suitability for industrial applications.",
+        "Question": "What does the half-life (t1/2) of an enzyme indicate?",
+        "A": "The temperature at which the enzyme is most active",
+        "B": "The time it takes for the enzyme's activity to increase by half",
+        "C": "The time it takes for the enzyme's activity to decrease by half",
+        "D": "The temperature at which the enzyme denatures",
+        "Answer": "C",
+        "Source": "The thermostability of VfTA was explored by both melting temperature (Tm) measurements and half-life (t1/2) measurements after incubation at different temperatures."
+    },
+    "Question_6": {
+        "Context": "In the context of enzyme-catalyzed reactions, substrate inhibition can occur when an excess of substrate leads to a decrease in the reaction rate, which can be quantified by the substrate inhibition constant (Ki).",
+        "Question": "What is the phenomenon called when an excess of substrate decreases the enzyme-catalyzed reaction rate?",
+        "A": "Enzyme denaturation",
+        "B": "Substrate inhibition",
+        "C": "Product inhibition",
+        "D": "Competitive inhibition",
+        "Answer": "B",
+        "Source": "Unusually, VfTA exhibited substrate inhibition and product inhibition for S-MBA and acetophenone, while no corresponding inhibitions were detected for (\u2212)-menthone and (+)-neomenthylamine."
+    },
+    "Question_7": {
+        "Context": "The synthesis of enantiomerically pure compounds often involves the use of chiral catalysts or biocatalysts to achieve the desired selectivity.",
+        "Question": "What is the purpose of using chiral catalysts or biocatalysts in the synthesis of enantiomerically pure compounds?",
+        "A": "To increase the reaction rate",
+        "B": "To reduce the reaction temperature",
+        "C": "To achieve the desired selectivity",
+        "D": "To simplify the reaction mechanism",
+        "Answer": "C",
+        "Source": "Optically pure (+)-neomenthylamine has been utilized as a building block for chiral stationary phase to resolute enantiomers in HPLC."
+    },
+    "Question_8": {
+        "Context": "Biocatalysis can offer a green approach to chemical synthesis by avoiding the use of hazardous catalysts and harsh conditions, and by generating fewer environmental pollutants.",
+        "Question": "What are the advantages of using biocatalysis for chemical synthesis?",
+        "A": "Higher reaction temperatures",
+        "B": "Use of hazardous catalysts",
+        "C": "Mild reaction conditions",
+        "D": "Generation of more by-products",
+        "Answer": "C",
+        "Source": "This biocatalytic approach features apparent sustainability advantages, including avoidance of costly and poisonous catalysts, mild temperature and pressure operating conditions, easy product separation and low environmental impact."
+    },
+    "Question_9": {
+        "Context": "In biocatalytic processes, the use of whole cells can sometimes be preferred over purified enzymes due to factors such as stability and ease of handling.",
+        "Question": "Why might whole cells be used in a biocatalytic process instead of purified enzymes?",
+        "A": "To increase the reaction specificity",
+        "B": "To enhance the reaction's environmental impact",
+        "C": "For easier product separation",
+        "D": "For stability and ease of handling",
+        "Answer": "D",
+        "Source": "A preparative-scale mixture with a volume of 300 mL, containing 10 mM (\u2212)-menthone, 60 mM S-MBA, 2 mM PLP, and 100 g/L VfTA whole cells in potassium phosphate buffer (pH 6.0) was incubated at 30 \u00b0C and 200 rpm for 28 h."
+    },
+    "Question_10": {
+        "Context": "The use of protecting groups such as Boc (tert-butyloxycarbonyl) is a common strategy in organic synthesis to prevent reactive functional groups from participating in undesired reactions during multi-step syntheses.",
+        "Question": "What is the purpose of using a Boc protecting group in organic synthesis?",
+        "A": "To increase the solubility of the compound",
+        "B": "To prevent reactive functional groups from undesired reactions",
+        "C": "To act as a catalyst in the reaction",
+        "D": "To change the optical activity of the compound",
+        "Answer": "B",
+        "Source": "The reaction was stopped by adding 15 mL 10 M NaOH solution and extracted with MTBE (3 \u00d7 300 mL). The organic extract was dried over anhydrous Na2SO4 and concentrated under reduced pressure vacuum to obtain (+)-neomenthylamine product."
+    }
+}

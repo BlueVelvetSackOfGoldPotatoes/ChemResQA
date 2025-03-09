@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The text discusses the SIMOX fabrication method for SOI wafers.",
+        "Question": "What is the high-temperature annealing process in the SIMOX method primarily responsible for?",
+        "A": "Forming the device layer",
+        "B": "Creating the BOX layer",
+        "C": "Controlling the thickness of the embedded insulator layer",
+        "D": "Reducing power consumption",
+        "Answer": "C",
+        "Source": "The resulting SiO2 layer is embedded within the silicon substrate, giving rise to the characteristic SOI structure. This development provided a means to effectively control the thickness of the embedded insulator layer."
+    },
+    "Question_2": {
+        "Context": "The text discusses the advantages of the Smart Cut\u2122 fabrication method for SOI wafers.",
+        "Question": "What is a notable advantage of the Smart Cut\u2122 technology?",
+        "A": "Increased process complexity",
+        "B": "Limitations in defect-free SOI wafer",
+        "C": "Ability to change the materials of the device layer and handle layer",
+        "D": "High cost and low yield",
+        "Answer": "C",
+        "Source": "The Smart Cut\u2122 technology grants the ability to change the type of device layer (germanium, silicon carbide, indium phosphate etc.) and handle wafer (sapphire etc.), extending the versatility of this process."
+    },
+    "Question_3": {
+        "Context": "The text discusses the Eltran\u00ae fabrication method for SOI wafers.",
+        "Question": "What is a challenge associated with the Eltran\u00ae process?",
+        "A": "Absence of COP occurrence in the device layer",
+        "B": "Reflection of the porous silicon roughness",
+        "C": "High quality device layer due to absence of ion implantation",
+        "D": "High cost and low yield due to multiple process steps and inherent complexity",
+        "Answer": "D",
+        "Source": "High cost and low yield due to multiple process steps and inherent complexity."
+    },
+    "Question_4": {
+        "Context": "The text discusses the BSOI/BESOI fabrication method for SOI wafers.",
+        "Question": "What is an advantage of the BSOI/BESOI process?",
+        "A": "Device layer with a thickness more than 10 \u00b5m",
+        "B": "Material wastage due to thinning down",
+        "C": "Lower defect density",
+        "D": "Damage during the mechanical grinding process",
+        "Answer": "C",
+        "Source": "Device layer with a thickness more than 10 \u00b5m. Lower defect density."
+    },
+    "Question_5": {
+        "Context": "The text discusses the structural characterization of SOI wafers.",
+        "Question": "Which technique is used to determine the surface roughness of SOI wafers?",
+        "A": "Hall effect",
+        "B": "Pseudo-MOSFET technique",
+        "C": "Atomic Force Microscopy (AFM)",
+        "D": "Microwave-reflectance photoconductivity decay technique",
+        "Answer": "C",
+        "Source": "Surface roughness is typically determined using Atomic Force Microscopy (AFM), where a random area of several \u00b5m2 is imaged."
+    },
+    "Question_6": {
+        "Context": "The text discusses the electrical characterization of SOI wafers.",
+        "Question": "What is the primary purpose of the pseudo-MOSFET technique?",
+        "A": "To determine carrier lifetime",
+        "B": "To extract mobility and doping concentration",
+        "C": "To measure residual stress",
+        "D": "To characterize defects",
+        "Answer": "B",
+        "Source": "One of the notable advantages of this approach is the ability to operate and analyze the MOSFET characteristics without requiring manufacturing processes like doping or thermal treatments."
+    },
+    "Question_7": {
+        "Context": "The text discusses the electrical characterization of SOI wafers.",
+        "Question": "Which method is used to extract mobility and doping concentration in SOI wafers?",
+        "A": "Hall effect",
+        "B": "Pseudo-MOSFET technique",
+        "C": "Atomic Force Microscopy (AFM)",
+        "D": "4-point probe",
+        "Answer": "A",
+        "Source": "The Hall effect can be used to extract mobility and doping concentration."
+    },
+    "Question_8": {
+        "Context": "The text discusses the electrical characterization of SOI wafers.",
+        "Question": "What does the Hall effect allow for in SOI wafers?",
+        "A": "Determine carrier lifetime",
+        "B": "Extract mobility and doping concentration",
+        "C": "Measure residual stress",
+        "D": "Characterize defects",
+        "Answer": "B",
+        "Source": "Using these parameters, both the mobility and doping concentration can be extracted."
+    },
+    "Question_9": {
+        "Context": "The text discusses the challenges in SOI wafer production.",
+        "Question": "What is a key challenge in current SOI wafer production methods?",
+        "A": "Cost minimization",
+        "B": "Fabrication of multi-layer SOI wafers",
+        "C": "Development of technology for batch fabrication",
+        "D": "Repetitive process for multi-layer SOI wafers",
+        "Answer": "B",
+        "Source": "There\u2019s a pressing need for new SOI wafer production methods that can minimize or bypass individually applied steps and allow for the majority of the processes to be carried out via batch fabrication."
+    },
+    "Question_10": {
+        "Context": "The text discusses the conclusion regarding SOI wafer technology.",
+        "Question": "What is a potential area for improvement in SOI wafer technology?",
+        "A": "Enhancing device performance",
+        "B": "Cost reduction",
+        "C": "Development of new fabrication methods",
+        "D": "Broadening the spectrum of devices",
+        "Answer": "D",
+        "Source": "If a novel production method, different from merely repeating conventional technologies, is developed for crafting multi-layered SOI wafers, it could broaden the spectrum of devices that can be manufactured."
+    }
+}

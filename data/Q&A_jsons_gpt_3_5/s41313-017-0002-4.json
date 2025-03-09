@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the concept of cracks in materials and their formation due to the breakage of atomic bonds.",
+        "Question": "What is the reason why even closed cracks are visible by a naked eye?",
+        "A": "Material flow out of the system",
+        "B": "Localized loss of energy",
+        "C": "Thermodynamic imbalance",
+        "D": "Breakage of all atomic bonds",
+        "Answer": "A",
+        "Source": "The latter, in our opinion, is the reason why even closed cracks are visible by a naked eye. Thus, material flows out of the system during the fracture process."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the formulation of coupled mass and momenta balance equations for describing fracture.",
+        "Question": "What is the focus of the paper regarding fracture?",
+        "A": "Momenta conservation",
+        "B": "Mass conservation",
+        "C": "Energy conservation",
+        "D": "Thermodynamic equilibrium",
+        "Answer": "B",
+        "Source": "Our focus is on brittle fracture and we propose a finite strain hyperelastic thermodynamic framework for the coupled mass-flow-elastic boundary value problem."
+    },
+    "Question_3": {
+        "Context": "The paper introduces the concepts of cohesive zone models (CZMs) and Continuum Damage Mechanics (CDM) for material failure modeling.",
+        "Question": "What is the main difference between cohesive zone models (CZMs) and Continuum Damage Mechanics (CDM)?",
+        "A": "CZMs focus on bulk material failure, while CDM focuses on surface failure.",
+        "B": "CZMs use damage variables, while CDM does not.",
+        "C": "CDM uses phase fields, while CZMs do not.",
+        "D": "CDM is based on mass conservation, while CZMs are not.",
+        "Answer": "A",
+        "Source": "Surface failure models are known by the name of cohesive zone models (CZMs). In the latter case, continuum is enriched with discontinuities along surfaces\u2014cohesive zones\u2014 with additional traction-displacement-separation constitutive laws."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the challenges with numerical simulations based on bulk failure laws.",
+        "Question": "What issue arises with numerical simulations based on bulk failure laws?",
+        "A": "Pathological mesh sensitivity",
+        "B": "Energy dissipation",
+        "C": "Lack of characteristic length",
+        "D": "Dynamic deformation process",
+        "Answer": "A",
+        "Source": "Unfortunately, numerical simulations based on the bulk failure laws show the so-called pathological mesh sensitivity, which means that the finer meshes lead to the narrower damage localization areas."
+    },
+    "Question_5": {
+        "Context": "The paper introduces nonlocal continuum formulations to address mesh sensitivity issues.",
+        "Question": "What is the purpose of using nonlocal continuum formulations?",
+        "A": "To increase energy dissipation",
+        "B": "To enhance dynamic deformation",
+        "C": "To limit spatial failure localization",
+        "D": "To accelerate crack propagation",
+        "Answer": "C",
+        "Source": "To surmount the latter pitfall gradient- or integral- type nonlocal continuum formulations are used where a characteristic length is incorporated to limit the size of the spatial failure localization."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the concept of cracks in materials and their formation due to the breakage of atomic bonds.",
+        "Question": "What is the characteristic size of the volume where bond breakage occurs?",
+        "A": "Nanometer scale",
+        "B": "Angstrom scale",
+        "C": "Millimeter scale",
+        "D": "Centimeter scale",
+        "Answer": "A",
+        "Source": "Therefore, the physical basis for the nonlocal models appears disputable. A more physically based treatment of the pathological mesh sensitivity of the bulk failure simulations should likely include multi-physics coupling."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the formulation of the coupled mass-flow-elastic initial boundary value problem.",
+        "Question": "What is the switch parameter \u03b6 used for in the constitutive law for the mass source?",
+        "A": "To prevent material healing",
+        "B": "To control energy dissipation",
+        "C": "To regulate mass flow",
+        "D": "To enhance deformation gradient",
+        "Answer": "A",
+        "Source": "The switch parameter \u03b6, which is necessary to prevent material healing, will be explained below."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the constitutive law for the Lagrangean mass flux.",
+        "Question": "What is the purpose of the exponential factor in the constitutive law for the Lagrangean mass flux?",
+        "A": "To enhance mass diffusion",
+        "B": "To suppress diffusion in failed material",
+        "C": "To increase material conductivity",
+        "D": "To accelerate crack propagation",
+        "Answer": "B",
+        "Source": "The exponential factor is necessary in (21) to suppress diffusion in the failed material."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the formulation of the coupled mass-flow-elastic initial boundary value problem.",
+        "Question": "What is the characteristic length l in the constitutive law for the mass source?",
+        "A": "Material density",
+        "B": "Material conductivity",
+        "C": "Material constant",
+        "D": "Mass conductivity",
+        "Answer": "D",
+        "Source": "where l = \ufffd \u03ba/\u03b2 is the characteristic length, which might depend on the deformation process."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the formulation of the coupled mass-flow-elastic initial boundary value problem.",
+        "Question": "What is the physical interpretation of the switch parameter \u03b6 in the constitutive law for the mass source?",
+        "A": "Material elasticity",
+        "B": "Material failure limit",
+        "C": "Material conductivity",
+        "D": "Material density",
+        "Answer": "B",
+        "Source": "Parameter \u03b6 \u2264 0 is not an internal variable. It is a switch: \u03b6 = 0 for the reversible process; and \u03b6 < 0 for the irreversibly failed material and dissipated strain energy."
+    }
+}

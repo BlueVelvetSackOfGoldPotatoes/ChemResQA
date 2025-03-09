@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Gastrin-releasing peptide receptor (GRPR) is a G protein-coupled receptor involved in various physiological functions and is overexpressed in certain types of cancer, making it a target for cancer imaging and therapy.",
+        "Question": "Which physiological functions is the gastrin-releasing peptide receptor (GRPR) involved in?",
+        "A": "Synaptic plasticity, hormone secretion, and smooth muscle contraction",
+        "B": "Blood clotting, oxygen transport, and immune response",
+        "C": "DNA replication, transcription, and translation",
+        "D": "Enzyme regulation, metabolic pathways, and cell signaling",
+        "Answer": "A",
+        "Source": "Gastrin-releasing peptide receptor (GRPR) is a G protein-coupled receptor, expressed in pancreas, gastrointestinal tract, and central nervous system, and involved in physiological functions such as synaptic plasticity, hormone secretion, and smooth muscle contraction."
+    },
+    "Question_2": {
+        "Context": "In the context of receptor targeting for cancer imaging and therapy, overexpression of certain receptors on tumor cells can be exploited by designing radiopharmaceuticals that bind to these receptors.",
+        "Question": "Why is the overexpression of GRPR in various tumors significant for the design of targeted radiopharmaceuticals?",
+        "A": "It indicates a high metabolic rate in tumor cells",
+        "B": "It suggests increased blood flow to the tumor",
+        "C": "It makes GRPR a promising target for cancer imaging and therapy",
+        "D": "It implies a better prognosis for the patient",
+        "Answer": "C",
+        "Source": "The overexpression of GRPR in various tumors makes it a promising target for the design of targeted radiopharmaceuticals for diagnosis and radioligand therapy of GRPR-expressing cancers."
+    },
+    "Question_3": {
+        "Context": "Radiopharmaceuticals can be designed using natural ligands that have high binding affinity towards certain receptors. Gastrin-releasing peptide (GRP) and bombesin (BBN) are two such natural ligands for GRPR.",
+        "Question": "Which sequence is shared by the natural ligands gastrin-releasing peptide (GRP) and bombesin (BBN) that binds to GRPR?",
+        "A": "Trp-Ala-Val-Gly-His-Leu-Met-NH2",
+        "B": "Ser-Pro-Tyr-Asp-Glu-Lys-Arg-NH2",
+        "C": "Ala-Gly-Cys-Lys-Asn-Phe-Phe-NH2",
+        "D": "His-Arg-Lys-Gln-Met-Ala-Val-NH2",
+        "Answer": "A",
+        "Source": "Two natural ligands, gastrin-releasing peptide (GRP) and bombesin (BBN) show high binding affinity towards GRPR and share the same heptapeptide sequence (Trp-Ala-Val-Gly-His-Leu-Met-NH2) at the C-terminus."
+    },
+    "Question_4": {
+        "Context": "Radiolabeled derivatives of GRP and BBN have been used for imaging with techniques such as SPECT and PET, and some have been radiolabeled with beta and alpha emitters for radiotherapeutic applications.",
+        "Question": "What imaging techniques have been used with radiolabeled derivatives of GRP and BBN?",
+        "A": "X-ray and MRI",
+        "B": "SPECT and PET",
+        "C": "CT and Ultrasound",
+        "D": "fMRI and DTI",
+        "Answer": "B",
+        "Source": "The derivatives of GRP and BBN have been radiolabeled for imaging with single photon emission computed tomography (SPECT) and positron emission tomography (PET), and some of them have also been radiolabeled with beta and alpha emitters for radiotherapeutic applications."
+    },
+    "Question_5": {
+        "Context": "In the development of GRPR-targeted radiopharmaceuticals, antagonist sequences are often used as targeting vectors due to their potential advantages over agonist sequences.",
+        "Question": "What are the potential advantages of using antagonist sequences over agonist sequences for GRPR-targeted radiopharmaceuticals?",
+        "A": "Higher tumor uptake and fewer side effects",
+        "B": "Lower production costs and easier synthesis",
+        "C": "Faster clearance from the body and reduced radiation dose",
+        "D": "Improved patient compliance and oral bioavailability",
+        "Answer": "A",
+        "Source": "The development of GRPR-targeted radiopharmaceuticals has been focused on using antagonist sequences as targeting vectors because of their potentially higher tumor uptake due to higher in vivo stability and more binding sites than those available for agonists, and/or less short term adverse effects."
+    },
+    "Question_6": {
+        "Context": "The in vivo instability of GRPR-targeted ligands is a significant challenge, as it is caused by enzymatic degradation, which can limit the effectiveness of radiopharmaceuticals.",
+        "Question": "What is a major cause of in vivo instability of GRPR-targeted ligands?",
+        "A": "Radiation-induced decomposition",
+        "B": "Enzymatic degradation",
+        "C": "Chemical interaction with blood components",
+        "D": "Temperature fluctuations in the body",
+        "Answer": "B",
+        "Source": "The in vivo instability of GRPR-targeted ligands is caused by enzymatic degradation especially by neutral endopeptidase 24.11 (NEP)."
+    },
+    "Question_7": {
+        "Context": "In the design of peptide-based radiopharmaceuticals, modifications to the peptide sequence can be made to improve stability and binding affinity.",
+        "Question": "What is the effect of substituting unnatural amino acids at potential cleavage sites of a GRPR-targeted agonist?",
+        "A": "Decreases the molecular weight of the compound",
+        "B": "Improves in vivo stability and retains agonist characteristics",
+        "C": "Enhances the taste and solubility of the compound",
+        "D": "Reduces the binding affinity to GRPR",
+        "Answer": "B",
+        "Source": "We hypothesized that replacing amino acids at the potential cleavage sites of our previously reported GRPR agonist [68Ga]Ga-TacBOMB2 with unnatural amino acids can improve in vivo stability and retain the agonist characteristics."
+    },
+    "Question_8": {
+        "Context": "The binding affinity of a ligand to a receptor can be quantified by the inhibition constant (Ki), which is an important parameter in the evaluation of potential radiopharmaceuticals.",
+        "Question": "What does a lower Ki value indicate about a ligand's binding affinity to a receptor?",
+        "A": "Lower binding affinity",
+        "B": "Higher binding affinity",
+        "C": "Unchanged binding affinity",
+        "D": "Inability to bind to the receptor",
+        "Answer": "B",
+        "Source": "Compared with the previously reported [68Ga]Ga-TacBOMB2, the Tle10 and NMe-His12 derived [68Ga]Ga-LW01110 showed retained agonist characteristics and improved GRPR binding affinity (Ki = 7.62 vs 1.39 nM)."
+    },
+    "Question_9": {
+        "Context": "In the context of radiopharmaceuticals, the term 'intact tracer' refers to the fraction of the radiolabeled compound that remains unmetabolized in the body after administration, which is crucial for effective imaging.",
+        "Question": "What does an increased percentage of 'intact tracer' in plasma post-injection indicate?",
+        "A": "Higher enzymatic degradation",
+        "B": "Lower in vivo stability",
+        "C": "Improved in vivo stability",
+        "D": "Decreased receptor binding",
+        "Answer": "C",
+        "Source": "In vivo stability studies showed that, compared with the previously reported [68Ga]Ga-TacBOMB2 (12.7 \u00b1 2.93% intact tracer at 15 min post-injection), Tle10 ([68Ga]Ga-LW01108) and NMe-His12 ([68Ga]Ga-LW01107) substitutions increased the intact tracer fraction in mouse plasma to 35.3 \u00b1 0.93 and 66.2 \u00b1 12.4%, respectively."
+    },
+    "Question_10": {
+        "Context": "The hydrophilic or lipophilic nature of a compound can be expressed by its LogD value, which affects its biodistribution and excretion pathways in the body.",
+        "Question": "What does a negative LogD7.4 value typically indicate about a compound's hydrophilicity?",
+        "A": "It is highly hydrophilic",
+        "B": "It is highly lipophilic",
+        "C": "It is neither hydrophilic nor lipophilic",
+        "D": "It is volatile and unstable",
+        "Answer": "A",
+        "Source": "LogD7.4 measurements were conducted for the 68Ga-labeled tracers, and as shown in Table 1, these 68Ga-labeled tracers are highly hydrophilic with average LogD7.4 values in the range of -3.10 to -1.81."
+    }
+}

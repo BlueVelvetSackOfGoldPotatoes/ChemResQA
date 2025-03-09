@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Stretchable electronics require materials that can maintain high conductivity even when deformed. Combining geometrical and materials-based approaches can help achieve this by using non-stretchable conductive materials with unique structures and intrinsically stretchable materials.",
+        "Question": "What is one of the main challenges in creating stretchable electronics?",
+        "A": "Preventing the electronics from overheating",
+        "B": "Achieving high constant conductivity under large deformation",
+        "C": "Making the electronics waterproof",
+        "D": "Ensuring the electronics are lightweight",
+        "Answer": "B",
+        "Source": "These devices have two main challenges (1) achieving high constant conductivity under large deformation and (2) returning to the original position without a set."
+    },
+    "Question_2": {
+        "Context": "In the context of stretchable electronics, a geometrically-based approach typically involves a non-stretchable conductive material and unique geometrical structures that allow for stretchability.",
+        "Question": "What is a characteristic of a geometrically-based approach to stretchable electronics?",
+        "A": "Use of intrinsically stretchable conductive elastomers",
+        "B": "Use of rigid, non-deformable substrates",
+        "C": "Use of unique geometrical structures to enable large deformation",
+        "D": "Elimination of all electronic components to achieve stretchability",
+        "Answer": "C",
+        "Source": "A geometrically\u2010based approach is usually comprised of a non-stretchable conductive material and unique geometrical structures or architectures, such as out\u2010of\u2010plane wrinkles, serpentines, etc., that are stretchable."
+    },
+    "Question_3": {
+        "Context": "In the development of stretchable conductive composites, combining braided carbon nanotube yarns with an elastomeric core can maintain high conductivity under large deformations.",
+        "Question": "What role does the elastomeric core play in a composite material designed for stretchable conductive electronics?",
+        "A": "Acts as a rigid backbone",
+        "B": "Serves as an insulating layer",
+        "C": "Functions as an elastic spring for repeated stretching",
+        "D": "Provides color to the composite material",
+        "Answer": "C",
+        "Source": "This approach combines both geometrical and materials elements where the conductive braided structure can be extended to large deformations and maintain high electrical conductivity, while the elastomer core acts as an elastic spring for repeated stretching."
+    },
+    "Question_4": {
+        "Context": "Tubular braided structures have been used in various applications due to their unique combination of linear and nonlinear mechanical behavior during stretching.",
+        "Question": "What is a characteristic of tubular braided structures?",
+        "A": "They exhibit only linear mechanical behavior during stretching",
+        "B": "They are exclusively used in electrical applications",
+        "C": "They have a unique combination of linear and nonlinear mechanical behavior during stretching",
+        "D": "They cannot be combined with other materials",
+        "Answer": "C",
+        "Source": "This unique structure has a unique combination of linear and nonlinear mechanical behavior during stretching."
+    },
+    "Question_5": {
+        "Context": "The mechanical behavior of braid-core structures has been studied to understand their response under tension, considering factors like the moduli of the core and fiber, Poisson's ratio of the core, the braid angle, and the crimp angle of strand crossovers.",
+        "Question": "Which factors are known to affect the mechanical response of braid-core structures?",
+        "A": "Color and texture of the core material",
+        "B": "Moduli of the core and fiber, Poisson's ratio of the core, the braid angle, and the crimp angle of strand crossovers",
+        "C": "The electrical conductivity of the core material",
+        "D": "The temperature at which the structure is used",
+        "Answer": "B",
+        "Source": "Several parameters were found to affect the mechanical response, including the moduli of the core and fiber, Poisson's ratio of the core, the braid angle, and the strand crossovers' crimp angle."
+    },
+    "Question_6": {
+        "Context": "In the study of mechanical behavior of braided structures, the phenomenon of 'squeeze out' occurs when the core material begins to protrude through the spaces between the braided yarns, limiting further stretching.",
+        "Question": "What is the 'squeeze out' phenomenon in the context of braided structures?",
+        "A": "The process of braiding the yarns around the core",
+        "B": "The coloring of the core material",
+        "C": "The protrusion of the core material through the braided yarns",
+        "D": "The application of a protective coating to the yarns",
+        "Answer": "C",
+        "Source": "Since the rate of the diameter decrease of the CNTYs braid was higher than that of the elastomeric core diameter, squeezing out of the core through the braid inter yarn space occurred."
+    },
+    "Question_7": {
+        "Context": "Friction between the braided yarn and the core in a composite material can significantly affect the mechanical behavior prior to the 'squeeze out' phenomenon.",
+        "Question": "Why is friction between the braided yarn and the core significant in composite materials?",
+        "A": "It enhances the electrical conductivity of the material",
+        "B": "It affects the mechanical behavior prior to 'squeeze out'",
+        "C": "It changes the color of the braided yarns",
+        "D": "It reduces the cost of producing the composite material",
+        "Answer": "B",
+        "Source": "While these models are fairly complex, they do not include the effect of friction between the core and braid, which may significantly affect the mechanical behavior prior to squeeze out."
+    },
+    "Question_8": {
+        "Context": "The mechanical behavior of composite materials can be modeled to predict stress-strain relationships, taking into account factors such as the braiding angle and the number of yarns.",
+        "Question": "What factors are considered in the modeling of the mechanical behavior of composite materials?",
+        "A": "The color and texture of the yarns",
+        "B": "The price of the materials used",
+        "C": "The braiding angle and the number of yarns",
+        "D": "The brand of the braiding machine",
+        "Answer": "C",
+        "Source": "The model predicts the stress\u2013strain behavior of the composite as a function of the initial braiding angle and the number of pitches."
+    },
+    "Question_9": {
+        "Context": "In the context of stretchable conductive composites, the resistivity is a measure of the material's ability to resist the flow of electric current, which is important for maintaining constant electrical properties under deformation.",
+        "Question": "What is the significance of resistivity in stretchable conductive composites?",
+        "A": "It indicates the material's ability to change color under electrical influence",
+        "B": "It measures the material's ability to resist the flow of electric current",
+        "C": "It determines the material's ability to stretch without deformation",
+        "D": "It reflects the material's resistance to chemical reactions",
+        "Answer": "B",
+        "Source": "As the CNTYs are conductive, a stretchable conductive composite was obtained having a resistivity of 9.05 \u00d7 10\u20134 Ohm*cm, which remained constant throughout the tensile loading until failure and under cyclic loading."
+    },
+    "Question_10": {
+        "Context": "The mechanical behavior of braided structures on an elastomeric core can be analyzed in different ranges, where each range represents a specific state of contact and interaction between the braid and the core.",
+        "Question": "What does range II in the analysis of braided structures on an elastomeric core represent?",
+        "A": "The core diameter is smaller than the braid's diameter with no contact",
+        "B": "The core and the braid are in contact resulting in friction and normal stresses",
+        "C": "The core begins to squeeze out, and the fiber structure becomes jammed",
+        "D": "The yarns are assumed to generate uniform stress on the core",
+        "Answer": "B",
+        "Source": "In range II the core and the braid are in contact resulting in friction and normal stresses."
+    }
+}

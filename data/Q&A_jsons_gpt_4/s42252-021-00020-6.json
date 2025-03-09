@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Additive manufacturing, also known as 3D printing, allows for the creation of complex structures by building them layer-by-layer based on a computer-aided design model. This technology has been applied in various fields, including the biomedical sector, where it can be used to create scaffolds for tissue engineering.",
+        "Question": "What is one of the main advantages of using additive manufacturing for creating scaffolds in tissue engineering?",
+        "A": "It requires a large amount of material.",
+        "B": "It is limited to simple shapes.",
+        "C": "It allows for the creation of complex, custom-designed shapes.",
+        "D": "It is a more time-consuming process compared to traditional methods.",
+        "Answer": "C",
+        "Source": "Additive manufacturing techniques established a new paradigm in the manufacture of composite materials providing a simple solution to build complex, custom designed shapes."
+    },
+    "Question_2": {
+        "Context": "Graphene is a one-atom thick two-dimensional carbon material with remarkable properties, including mechanical, thermal, and electrical characteristics. Its incorporation into polymers can significantly enhance the properties of the resulting composites.",
+        "Question": "Which property of graphene is NOT typically associated with its one-atom thick two-dimensional structure?",
+        "A": "Remarkable mechanical properties",
+        "B": "High thermal conductivity",
+        "C": "Significant electrical resistance",
+        "D": "Unique physicochemical properties",
+        "Answer": "C",
+        "Source": "Graphene, a one-atom thick two-dimensional carbon material, has remarkable mechanical, thermal, electrical, and physicochemical properties."
+    },
+    "Question_3": {
+        "Context": "In the context of biomedical applications, scaffolds are structures designed to support tissue regeneration. They can be fabricated using various methods, including solvent casting, freeze-drying, and salt leaching.",
+        "Question": "What is a limitation of conventional scaffold fabrication methods such as solvent casting, freeze-drying, and salt leaching?",
+        "A": "They allow for precise control over scaffold geometry.",
+        "B": "They are highly efficient for producing multifunctional structures.",
+        "C": "They are the most advanced techniques available.",
+        "D": "They offer limited control over the scaffold geometry.",
+        "Answer": "D",
+        "Source": "Suitable scaffolds have been developed using conventional fabrication methods such as solvent casting, freeze-drying and salt leaching. However, control over the scaffold geometry is limited."
+    },
+    "Question_4": {
+        "Context": "Fused deposition modeling (FDM) is an additive manufacturing technique that involves the deposition of thin filaments of thermoplastic polymers or composites to create a 3D object.",
+        "Question": "What is the form of the material fed into the 3D printer in fused deposition modeling (FDM)?",
+        "A": "A liquid resin",
+        "B": "A spool of previously extruded filament",
+        "C": "A powder-based material",
+        "D": "A sheet of metal",
+        "Answer": "B",
+        "Source": "The 3D printer is fed with a spool of a previously extruded filament with standard diameter of 1.75 mm or 3 mm, which is pushed into a heated nozzle."
+    },
+    "Question_5": {
+        "Context": "Selective laser sintering (SLS) is an additive manufacturing technique that uses a laser to sinter powdered material, layer by layer, to create a 3D object.",
+        "Question": "In selective laser sintering (SLS), what is the state of the material used for printing?",
+        "A": "Liquid",
+        "B": "Gaseous",
+        "C": "Solid in the form of powder",
+        "D": "Solid in the form of a filament",
+        "Answer": "C",
+        "Source": "SLS employs a laser to progressively sinter thin layers of powdered polymer/composite on top of a platform, to create a 3D part."
+    },
+    "Question_6": {
+        "Context": "Graphene oxide (GO) is a derivative of graphene that is produced by the chemical oxidation of graphite. It contains various oxygen functional groups that can influence its properties.",
+        "Question": "What is a consequence of the chemical oxidation process used to produce graphene oxide (GO)?",
+        "A": "It increases the electrical conductivity of graphene.",
+        "B": "It removes all oxygen groups from the graphene structure.",
+        "C": "It changes the hybridization of some carbon atoms from sp2 to sp3.",
+        "D": "It makes graphene oxide a better thermal insulator.",
+        "Answer": "C",
+        "Source": "GO is prepared by treatment of graphite flakes with oxidizing agents, bonding oxygen containing functional groups at the graphite surface and edge carbons. In this process the hybridization of part of the graphene carbon changes from sp2 to sp3."
+    },
+    "Question_7": {
+        "Context": "The incorporation of graphene or its derivatives into polymer matrices can enhance the properties of the resulting nanocomposites. This requires a uniform dispersion of the nanoparticles within the polymer matrix.",
+        "Question": "What is essential to fully exploit the reinforcing effect of graphene derivatives in polymer matrices?",
+        "A": "The agglomeration of graphene nanoparticles",
+        "B": "The uniform dispersion and distribution of individual nanoparticles",
+        "C": "The use of high concentrations of graphene derivatives",
+        "D": "The avoidance of any interaction between the composite components",
+        "Answer": "B",
+        "Source": "To fully explore the reinforcing effect and the functional properties resulting from the incorporation of graphene-derivatives into polymer matrices, it is essential to guarantee the uniform dispersion and distribution of the individual nanoparticles."
+    },
+    "Question_8": {
+        "Context": "Melt mixing is a method used to produce polymer composites by subjecting a polymer melt and reinforcement to high shear and complex flow fields using processing equipment.",
+        "Question": "What is one of the advantages of using melt mixing to produce polymer composites?",
+        "A": "It achieves the highest level of nanoparticle dispersion.",
+        "B": "It requires the use of solvents to achieve dispersion.",
+        "C": "It is suitable for both small and large-scale production.",
+        "D": "It is the most time-consuming method for composite production.",
+        "Answer": "C",
+        "Source": "Melt mixing uses polymer processing equipment, typically internal mixers, or twin-screw extruders, to subject the flowing polymer melt and the graphene-based reinforcement to high hydrodynamic (shear and extensional) forces and complex flow fields."
+    },
+    "Question_9": {
+        "Context": "In situ polymerization for the preparation of polymer composites involves the polymerization of a monomer in the presence of dispersed nanoparticles.",
+        "Question": "What is a characteristic of in situ polymerization when used to produce graphene-based polymer composites?",
+        "A": "It is only applicable to polar polymers.",
+        "B": "It is limited to the production of non-conductive materials.",
+        "C": "It can enhance the interfacial strength between nanoparticles and the polymer.",
+        "D": "It always results in the agglomeration of nanoparticles.",
+        "Answer": "C",
+        "Source": "In situ polymerization involves the preparation of a stable dispersion/suspension of the graphene-derivative particles in the liquid monomer, followed by polymerization."
+    },
+    "Question_10": {
+        "Context": "Graphene-based nanocomposites have been developed for various applications, including the biomedical field where they can be used to create scaffolds for tissue engineering and biosensors.",
+        "Question": "What is a potential application of graphene-based polymer nanocomposites in the biomedical field?",
+        "A": "Production of food packaging",
+        "B": "Manufacture of automotive parts",
+        "C": "Creation of scaffolds for tissue engineering",
+        "D": "Development of sports equipment",
+        "Answer": "C",
+        "Source": "Graphene-based composites are mostly used for the fabrication of 3D structures such as scaffolds for tissue engineering and also for biosensing."
+    }
+}

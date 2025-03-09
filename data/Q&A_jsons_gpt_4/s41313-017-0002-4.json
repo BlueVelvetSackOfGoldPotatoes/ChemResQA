@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of materials science, cracks in materials are understood to be caused by the breakage of molecular or atomic bonds, leading to a localized loss of material.",
+        "Question": "What is the primary cause of cracks in materials?",
+        "A": "Elastic deformation",
+        "B": "Massive breakage of molecular or atomic bonds",
+        "C": "Thermal expansion",
+        "D": "Chemical reactions",
+        "Answer": "B",
+        "Source": "Cracks are created by massive breakage of molecular or atomic bonds. The latter, in its turn, leads to the highly localized loss of material, which is the reason why even closed cracks are visible by a naked eye."
+    },
+    "Question_2": {
+        "Context": "In the study of fracture mechanics, the concept of mass conservation is challenged in the area where material failure occurs.",
+        "Question": "What principle is locally violated in the area of material failure due to fracture?",
+        "A": "Principle of energy conservation",
+        "B": "Principle of momentum conservation",
+        "C": "Principle of mass conservation",
+        "D": "Principle of charge conservation",
+        "Answer": "C",
+        "Source": "Mass conservation is violated locally in the area of material failure."
+    },
+    "Question_3": {
+        "Context": "In continuum mechanics, cohesive zone models (CZMs) are used to describe the behavior of materials under stress, particularly where discontinuities along surfaces are present.",
+        "Question": "What do cohesive zone models (CZMs) in continuum mechanics represent?",
+        "A": "Models for elastic deformation",
+        "B": "Models for thermal expansion",
+        "C": "Models for discontinuities along surfaces",
+        "D": "Models for chemical reactions",
+        "Answer": "C",
+        "Source": "Within the framework of continuum mechanics there are surface and bulk material failure models. Surface failure models are known by name of cohesive zone models (CZMs). In the latter case, continuum is enriched with discontinuities along surfaces\u2014cohesive zones\u2014with additional traction-displacement-separation constitutive laws."
+    },
+    "Question_4": {
+        "Context": "Continuum Damage Mechanics (CDM) is a theoretical approach used to describe material failure or damage, incorporating softening in the form of falling stress-strain curves.",
+        "Question": "What does Continuum Damage Mechanics (CDM) primarily describe?",
+        "A": "Material elasticity",
+        "B": "Material failure or damage",
+        "C": "Material conductivity",
+        "D": "Material density",
+        "Answer": "B",
+        "Source": "Bulk failure models are known by name of Continuum Damage Mechanics (CDM). In the latter case, material failure or damage is described by constitutive laws including softening in the form of the falling stress-strain curves."
+    },
+    "Question_5": {
+        "Context": "In the context of material failure, the concept of a characteristic length is introduced to address the issue of mesh sensitivity in numerical simulations.",
+        "Question": "What is the purpose of introducing a characteristic length in the study of material failure?",
+        "A": "To increase the accuracy of chemical reactions",
+        "B": "To improve the elasticity of materials",
+        "C": "To limit the size of spatial failure localization",
+        "D": "To enhance the thermal properties of materials",
+        "Answer": "C",
+        "Source": "This physically unacceptable mesh sensitivity is caused by the lack of a characteristic length in the traditional formulation of continuum mechanics. To surmount the latter pitfall gradient- or integral- type nonlocal continuum, formulations are used where a characteristic length is incorporated to limit the size of the spatial failure localization."
+    },
+    "Question_6": {
+        "Context": "In the study of material fracture, the process of bond breakage is considered to be much faster than the dynamic deformation process, leading to abrupt changes in mass density.",
+        "Question": "How is the rate of bond breakage in material fracture typically compared to the rate of dynamic deformation?",
+        "A": "Bond breakage is slower",
+        "B": "Bond breakage is of the same rate",
+        "C": "Bond breakage is faster",
+        "D": "Bond breakage is unrelated",
+        "Answer": "C",
+        "Source": "We further note that the process of the bond breakage is very fast as compared to the dynamic deformation process and the mass density changes in time as a step function."
+    },
+    "Question_7": {
+        "Context": "The Helmholtz free energy is a thermodynamic potential that helps to understand the energetic changes during deformation in materials.",
+        "Question": "What does the Helmholtz free energy represent in the context of material deformation?",
+        "A": "The total kinetic energy",
+        "B": "The total potential energy",
+        "C": "The specific internal energy minus the product of temperature and entropy",
+        "D": "The specific heat capacity of the material",
+        "Answer": "C",
+        "Source": "We introduce the specific Helmholtz free energy per unit mass w = e - T\u03b7, and, consequently, we have e = w + T\u03b7."
+    },
+    "Question_8": {
+        "Context": "In the field of fracture mechanics, the dissipation inequality is a thermodynamic concept that relates to the internal dissipation during deformation.",
+        "Question": "What must the internal dissipation, Dint, satisfy according to the dissipation inequality in fracture mechanics?",
+        "A": "Dint must be equal to zero",
+        "B": "Dint must be less than zero",
+        "C": "Dint must be greater than or equal to zero",
+        "D": "Dint must oscillate periodically",
+        "Answer": "C",
+        "Source": "or, written in terms of the internal dissipation, Dint = P : \u02d9F - \u03c1(\u02d9e - T \u02d9\u03b7) - \u02d9\u03c1(e - T\u03b7) - 1/T q \u00b7 GradT \u2265 0."
+    },
+    "Question_9": {
+        "Context": "In the study of materials, the mass balance equation is used to describe the localized mass flow in the vicinity of a crack.",
+        "Question": "What does the mass balance equation account for in the vicinity of a crack?",
+        "A": "The conservation of energy",
+        "B": "The conservation of momentum",
+        "C": "The flow of mass",
+        "D": "The conservation of charge",
+        "Answer": "C",
+        "Source": "Thus, material flows out of the system during the fracture process. The system becomes open from the thermodynamic standpoint."
+    },
+    "Question_10": {
+        "Context": "In materials science, the constitutive law for mass source is a critical component for formulating theories related to material failure.",
+        "Question": "What is the role of the constitutive law for mass source in the context of material failure?",
+        "A": "To define the thermal expansion coefficients",
+        "B": "To define the electrical conductivity",
+        "C": "To define the criteria for crack nucleation",
+        "D": "To define the transition to material failure on the stress-strain curve",
+        "Answer": "D",
+        "Source": "To justify the choice of the constitutive Eq. (20) for the mass source/sink we note that in the case of the homogeneous deformation and mass flow the first term on the left hand side of (22) vanishes and we obtain \u03c1 = \u03c10H(\u03b6) exp[ \u2212(w/\u03c6)m]."
+    }
+}

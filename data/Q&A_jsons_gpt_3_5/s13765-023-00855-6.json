@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Carotenoids and chlorophylls were analyzed in watery kimchi. The total carotenoid content was highest in YMK, followed by NK and DC. YMK also had the highest chlorophyll content.",
+        "Question": "Which type of watery kimchi had the highest total carotenoid content?",
+        "A": "DC",
+        "B": "NK",
+        "C": "YMK",
+        "D": "Data insufficient",
+        "Answer": "C",
+        "Source": "Of the three kimchi types, YMK had the highest total carotenoid content (63.78 \u00b1 4.88 mg/100 g), of which lutein, capsanthin, and \u03b2-carotene were the main carotenoids."
+    },
+    "Question_2": {
+        "Context": "Lactic acid and ascorbic acid contents were measured in watery kimchi. YMK had the highest ascorbic acid content.",
+        "Question": "Which type of watery kimchi had the highest ascorbic acid content?",
+        "A": "DC",
+        "B": "NK",
+        "C": "YMK",
+        "D": "Data insufficient",
+        "Answer": "C",
+        "Source": "YMK had a higher content of ascorbic acid compared to DC and NK."
+    },
+    "Question_3": {
+        "Context": "Capsaicinoids were analyzed in watery kimchi. YMK had the highest total capsaicinoid content.",
+        "Question": "Which type of watery kimchi had the highest total capsaicinoid content?",
+        "A": "DC",
+        "B": "NK",
+        "C": "YMK",
+        "D": "Data insufficient",
+        "Answer": "C",
+        "Source": "The highest total capsaicinoid content was found in YMK, followed by DC and NK."
+    },
+    "Question_4": {
+        "Context": "Antioxidant activities were measured in watery kimchi. YMK showed the highest ABTS and DPPH radical scavenging activities.",
+        "Question": "Which type of watery kimchi showed the highest ABTS and DPPH radical scavenging activities?",
+        "A": "DC",
+        "B": "NK",
+        "C": "YMK",
+        "D": "Data insufficient",
+        "Answer": "C",
+        "Source": "Among the watery kimchi, YMK had the highest ABTS and DPPH radical scavenging activities."
+    },
+    "Question_5": {
+        "Context": "Correlation analysis was performed between bioactive compounds and antioxidant activities in watery kimchi. Positive correlations were observed between carotenoids, chlorophylls, and antioxidant activity.",
+        "Question": "Which bioactive compound showed positive correlations with antioxidant activity in watery kimchi?",
+        "A": "Ascorbic acid",
+        "B": "Capsaicinoids",
+        "C": "Chlorophylls",
+        "D": "Data insufficient",
+        "Answer": "C",
+        "Source": "The ABTS and DPPH radical scavenging activity showed positive correlations with neoxanthin, zeaxanthin, lutein, \u03b2-carotene, total capsaicinoids, Chl-a, Chl-b, and total chlorophyll."
+    },
+    "Question_6": {
+        "Context": "The study highlighted the potential of watery kimchi as a source of bioactive compounds. Carotenoids and capsaicinoids were affected by the supporting ingredients used in watery kimchi.",
+        "Question": "What was affected by the supporting ingredients used in watery kimchi?",
+        "A": "Chlorophyll content",
+        "B": "Ascorbic acid content",
+        "C": "Carotenoids and capsaicinoids",
+        "D": "Data insufficient",
+        "Answer": "C",
+        "Source": "The results of this study highlighted watery kimchi as a potentially valuable source of bioactive compounds, and the carotenoids and capsaicinoids were affected by the supporting ingredients used in watery kimchi."
+    },
+    "Question_7": {
+        "Context": "Watery kimchi was found to provide 4.11% of the recommended daily intake of vitamin A. The ascorbic acid content was highest in YMK compared to DC and NK.",
+        "Question": "What percentage of the recommended daily intake of vitamin A did watery kimchi provide?",
+        "A": "2.83%",
+        "B": "3.69%",
+        "C": "4.11%",
+        "D": "Data insufficient",
+        "Answer": "C",
+        "Source": "According to the 2020 Korean dietary reference intakes, watery kimchi provides 4.11% of the recommended daily intake of vitamin A."
+    },
+    "Question_8": {
+        "Context": "The study analyzed carotenoids, chlorophylls, capsaicinoids, lactic acid, and ascorbic acid contents in watery kimchi.",
+        "Question": "Which bioactive compound was not detected in dongchimi (DC)?",
+        "A": "Neoxanthin",
+        "B": "\u03b1-Cryptoxanthin",
+        "C": "Dihydrocapsaicin",
+        "D": "Data insufficient",
+        "Answer": "B",
+        "Source": "\u03b1-Cryptoxanthin was not detected in DC."
+    },
+    "Question_9": {
+        "Context": "The study mentioned that watery kimchi is traditionally consumed during the summer and provides a refreshing taste and texture.",
+        "Question": "Which type of watery kimchi is traditionally consumed during the summer?",
+        "A": "DC",
+        "B": "NK",
+        "C": "YMK",
+        "D": "Data insufficient",
+        "Answer": "C",
+        "Source": "YMK is traditionally consumed during the summer."
+    },
+    "Question_10": {
+        "Context": "The fermentation period for watery kimchi is shorter than that of regular kimchi due to the higher proportion of soup with lower salt content.",
+        "Question": "Why is the fermentation period for watery kimchi shorter than that of regular kimchi?",
+        "A": "Higher salt content",
+        "B": "Higher proportion of soup",
+        "C": "Different fermentation bacteria",
+        "D": "Data insufficient",
+        "Answer": "B",
+        "Source": "The fermentation period for watery kimchi is shorter than that of regular kimchi because of the higher proportion of soup with lower salt content."
+    }
+}

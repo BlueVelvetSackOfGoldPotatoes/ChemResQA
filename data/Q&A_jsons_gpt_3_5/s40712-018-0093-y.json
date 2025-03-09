@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on proposing a method for studying the free transverse vibration of the human lumbar spine using beam theories. The material properties of the lumbar spine components were considered to be different.",
+        "Question": "What is one of the most important characteristics of a structure?",
+        "A": "Flexibility",
+        "B": "Vibration behavior",
+        "C": "Material properties",
+        "D": "Structural changes",
+        "Answer": "B",
+        "Source": "The study mentions that one of the most important characteristics of a structure is its free vibration behavior."
+    },
+    "Question_2": {
+        "Context": "The study discussed the importance of studying the free and forced vibration of the human spine for better understanding of the system's behavior.",
+        "Question": "Why is studying the free and forced vibration of the human spine important?",
+        "A": "For identification of the structure",
+        "B": "For understanding the behavior of the system",
+        "C": "For analyzing material properties",
+        "D": "For assessing structural changes",
+        "Answer": "B",
+        "Source": "The study highlights that studying the free and forced vibration of the human spine is important for better understanding of the behavior of the system."
+    },
+    "Question_3": {
+        "Context": "The study mentioned the use of Euler\u2013Bernoulli and Timoshenko beam theories in previous research to study transverse vibration of thin and thick beams.",
+        "Question": "Which beam theory is used to study thin beams?",
+        "A": "Euler\u2013Bernoulli",
+        "B": "Timoshenko",
+        "C": "Both",
+        "D": "None of the above",
+        "Answer": "A",
+        "Source": "Previous research has used Euler\u2013Bernoulli beam theory to study transverse vibration of thin beams."
+    },
+    "Question_4": {
+        "Context": "The study discussed the composition of the human spine, including vertebrae, intervertebral discs, and endplates.",
+        "Question": "What is the lumbar spine composed of?",
+        "A": "Vertebrae and discs",
+        "B": "Vertebrae and endplates",
+        "C": "Vertebrae, discs, and endplates",
+        "D": "Vertebrae only",
+        "Answer": "C",
+        "Source": "The lumbar spine is composed of vertebrae, intervertebral discs, and endplates."
+    },
+    "Question_5": {
+        "Context": "The study mentioned the unique structure of the lumbar spine components and their different material properties.",
+        "Question": "What gives the spine flexibility in three-dimensional space?",
+        "A": "Vertebrae",
+        "B": "Endplates",
+        "C": "Intervertebral discs",
+        "D": "Combination of unique elements",
+        "Answer": "D",
+        "Source": "The combination of unique elements with different geometry and properties gives the spine flexibility in three-dimensional space."
+    },
+    "Question_6": {
+        "Context": "The study discussed the effect of aging on the flexibility of nucleus pulpous and endplates.",
+        "Question": "What happens to the flexibility of nucleus pulpous and endplates with aging?",
+        "A": "Increases",
+        "B": "Remains the same",
+        "C": "Decreases",
+        "D": "Becomes rigid",
+        "Answer": "C",
+        "Source": "As aging occurs, the flexibility of nucleus pulpous and endplates decreases."
+    },
+    "Question_7": {
+        "Context": "The study presented the results of different case studies with varying material properties of spinal components.",
+        "Question": "What effect did increasing the modulus of elasticity of nucleus pulpous have on natural frequencies?",
+        "A": "Decreased",
+        "B": "Increased",
+        "C": "Remained constant",
+        "D": "No effect",
+        "Answer": "B",
+        "Source": "Increasing the modulus of elasticity of nucleus pulpous resulted in an increase in natural frequencies."
+    },
+    "Question_8": {
+        "Context": "The study discussed the validation of results obtained from the analytic approach using a finite element simulator.",
+        "Question": "How were the results obtained from the analytic approach validated?",
+        "A": "By comparing with previous studies",
+        "B": "By using a different simulation software",
+        "C": "By comparing with results from a finite element simulator",
+        "D": "By theoretical calculations",
+        "Answer": "C",
+        "Source": "The results obtained from the analytic approach were validated by comparing with outcomes from a finite element simulator."
+    },
+    "Question_9": {
+        "Context": "The study concluded that the natural frequencies of the lumbar spine increase with aging due to changes in material properties.",
+        "Question": "What was the main conclusion regarding the natural frequencies of the lumbar spine with aging?",
+        "A": "Decrease",
+        "B": "Remain constant",
+        "C": "Increase",
+        "D": "Depend on the individual",
+        "Answer": "C",
+        "Source": "The study concluded that the natural frequencies of the lumbar spine increase with aging."
+    },
+    "Question_10": {
+        "Context": "The study highlighted the importance of considering the changes in material properties of spinal components with aging.",
+        "Question": "Why is it important to consider changes in material properties of spinal components with aging?",
+        "A": "For better rehabilitation",
+        "B": "For understanding structural changes",
+        "C": "For biochemical analysis",
+        "D": "For assessing mechanical changes",
+        "Answer": "B",
+        "Source": "It is important to consider changes in material properties of spinal components with aging for understanding structural changes."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses different processes for die singulation in advanced packaging technology.",
+        "Question": "Which process resulted in less contamination, chipping, and cracking compared to other processes?",
+        "A": "Blade dicing before grinding (BDBG)",
+        "B": "Stealth dicing before grinding (SDBG)",
+        "C": "Plasma dicing before grinding (PDBG)",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "Plasma dicing before grinding (PDBG) resulted in less contamination, chipping, and cracking compared to other DBG processes."
+    },
+    "Question_2": {
+        "Context": "The study compares die strengths of different processes for ultrathin wafer singulation.",
+        "Question": "Which process exhibited the highest die strength of 1052 Pa?",
+        "A": "Blade dicing before grinding (BDBG)",
+        "B": "Stealth dicing before grinding (SDBG)",
+        "C": "Plasma dicing before grinding (PDBG)",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "Furthermore, PDBG exhibited the highest die strength of 1052 Pa."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the effects of different processes on surface roughness of diced surfaces.",
+        "Question": "Which process exhibited an even overall roughness with no sharp roughness due to scallops?",
+        "A": "Blade dicing before grinding (BDBG)",
+        "B": "Stealth dicing before grinding (SDBG)",
+        "C": "Plasma dicing before grinding (PDBG)",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The surface processed with PDBG exhibited an even overall roughness, and no sharp roughness due to scallops was observed."
+    },
+    "Question_4": {
+        "Context": "The study measured die strength using a three-point bending test.",
+        "Question": "Which process demonstrated greater die strength compared to the other methods?",
+        "A": "Blade dicing before grinding (BDBG)",
+        "B": "Stealth dicing before grinding (SDBG)",
+        "C": "Plasma dicing before grinding (PDBG)",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The PDBG process demonstrated greater die strength compared to the other methods."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the experimental results of die strength for different processes.",
+        "Question": "Which process led to lower die strength owing to the presence of microcracks on the sidewall?",
+        "A": "Blade dicing before grinding (BDBG)",
+        "B": "Stealth dicing before grinding (SDBG)",
+        "C": "Plasma dicing before grinding (PDBG)",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "However, the SDBG process led to lower die strength owing to the presence of microcracks on the sidewall."
+    },
+    "Question_6": {
+        "Context": "The study compared die strengths for different thicknesses of dummy dies.",
+        "Question": "At a thickness of 200 \u03bcm, which process showed die strengths of 724, 293, and 1344 MPa?",
+        "A": "Blade dicing before grinding (BDBG)",
+        "B": "Stealth dicing before grinding (SDBG)",
+        "C": "Plasma dicing before grinding (PDBG)",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "For dummy die with a thickness of 200 \u03bcm, increased die strength of 724, 293, and 1344 MPa were observed for BDBG, SDBG, and PDBG, respectively."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the fabrication process of plasma dicing.",
+        "Question": "What process was used to fabricate a trench structure on a bare 8-inch Si wafer?",
+        "A": "Photolithography",
+        "B": "Deep reactive-ion etching process",
+        "C": "Ashing process",
+        "D": "Grinding process",
+        "Answer": "B",
+        "Source": "Photolithography was performed using a mask with a die size of 10 \u00d7 10 mm. After the photolithography process, a trench structure was fabricated using deep reactive-ion etching process."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the die strength measurement process.",
+        "Question": "What test was commonly employed to examine the effects of shape, surface treatment, and die geometry on die strength?",
+        "A": "Three-point bending test",
+        "B": "Four-point bending test",
+        "C": "Tensile test",
+        "D": "Compression test",
+        "Answer": "A",
+        "Source": "The three-point bending test is commonly employed to examine the effects of shape, surface treatment, and die geometry on die strength."
+    },
+    "Question_9": {
+        "Context": "The study compared die strengths for different thicknesses of dummy dies.",
+        "Question": "At a thickness of 300 \u03bcm, which process showed die strengths of 502, 354, and 1052 MPa?",
+        "A": "Blade dicing before grinding (BDBG)",
+        "B": "Stealth dicing before grinding (SDBG)",
+        "C": "Plasma dicing before grinding (PDBG)",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "Similarly, at a thickness of 300 \u03bcm, the die strengths were 502, 354, and 1052 MPa for BDBG, SDBG, and PDBG, respectively."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the conclusion of the study regarding die singulation processes.",
+        "Question": "Which process was introduced as a highly reliable die singulation process for thin wafers?",
+        "A": "Blade dicing before grinding (BDBG)",
+        "B": "Stealth dicing before grinding (SDBG)",
+        "C": "Plasma dicing before grinding (PDBG)",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "In conclusion, this study introduced a highly reliable die signaling process for thin wafers using PDBG, which was compared to BDBG and SDBG methods."
+    }
+}

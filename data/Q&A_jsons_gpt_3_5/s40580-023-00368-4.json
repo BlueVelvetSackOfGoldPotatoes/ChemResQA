@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Remote epitaxy is a novel epitaxial technique involving a single-crystalline substrate coated with a two-dimensional material. The epitaxial layer grows on the 2D-coated substrate through columbic interaction between an adatom and the substrate.",
+        "Question": "What is the primary reason for using a 2D material coating in remote epitaxy?",
+        "A": "To enhance the epitaxial layer's conductivity",
+        "B": "To prevent covalent bond formation between the epitaxial layer and the substrate",
+        "C": "To increase the thickness of the epitaxial layer",
+        "D": "To reduce the growth pressure during epitaxy",
+        "Answer": "B",
+        "Source": "Since graphene is atomically thin, the surface potential of the underlying single-crystalline substrate can penetrate through the graphene, allowing epitaxial registry to the substrate while simultaneously preventing covalent bond formation between the epitaxial layer that is being grown."
+    },
+    "Question_2": {
+        "Context": "Remote epitaxy allows for the growth of epitaxial layers on 2D-coated substrates. The epitaxial layer can be detached non-destructively from the substrate due to the weak vdW interface of the 2D material.",
+        "Question": "What feature of the 2D material-coated substrate allows for the easy detachment of the epitaxial layer?",
+        "A": "High thermal conductivity of the 2D material",
+        "B": "Strong covalent bonds between the 2D material and the substrate",
+        "C": "Weak vdW interface of the 2D material",
+        "D": "High electrical resistance of the 2D material",
+        "Answer": "C",
+        "Source": "In addition, it has been reported that the grown epitaxial layer can be easily detached from the substrate non-destructively due to the weak vdW interface of the 2D material."
+    },
+    "Question_3": {
+        "Context": "Different types of 2D materials can be used for remote epitaxy. Graphene is one such material with unique properties.",
+        "Question": "What type of bonding is present between carbon atoms in graphene?",
+        "A": "sp3 hybridization",
+        "B": "Ionic bonding",
+        "C": "Metallic bonding",
+        "D": "sp2 hybridization",
+        "Answer": "D",
+        "Source": "Graphene is formed by a network of carbon atoms bonded with sp2 hybridization in a two-dimensional hexagonal lattice."
+    },
+    "Question_4": {
+        "Context": "Graphene can be synthesized using different approaches, including top-down and bottom-up methods.",
+        "Question": "Why is the top-down approach not suitable for remote epitaxy?",
+        "A": "It results in graphene with high defect density",
+        "B": "It produces graphene with controlled thickness",
+        "C": "It allows for large-area graphene films",
+        "D": "It leads to randomness in graphene thickness",
+        "Answer": "D",
+        "Source": "Top-down approach is not suitable for remote epitaxy due to small area and randomness of the graphene thickness which cannot be controlled at all."
+    },
+    "Question_5": {
+        "Context": "The bottom-up approach for graphene synthesis involves forming graphene on specific substrates through chemical bonding.",
+        "Question": "Which type of substrates are commonly used for bottom-up graphene synthesis?",
+        "A": "Metal substrates",
+        "B": "Ceramic substrates",
+        "C": "Polymer substrates",
+        "D": "Glass substrates",
+        "Answer": "A",
+        "Source": "Among the various substrates where sp2 carbon bonding is created, metal substrates such as copper, nickel, Pd, and Ir are representative platforms from which graphene can be formed easily and quickly."
+    },
+    "Question_6": {
+        "Context": "The quality of the epitaxial layer in heteroepitaxy can be affected by lattice parameter and thermal expansion coefficient mismatches.",
+        "Question": "What is a common defect in epitaxial layers grown via heteroepitaxy?",
+        "A": "Grain boundaries",
+        "B": "Threading dislocations",
+        "C": "Wrinkles",
+        "D": "Surface roughness",
+        "Answer": "B",
+        "Source": "In contrast, heteroepitaxy usually results in an epitaxial layer with defects such as threading dislocations due to mismatch of the lattice parameter and thermal expansion coefficient between the substrate and the epitaxial layer materials."
+    },
+    "Question_7": {
+        "Context": "Remote epitaxy allows for the growth of epitaxial layers on 2D-coated substrates. The epitaxial layer can be detached non-destructively from the substrate due to the weak vdW interface of the 2D material.",
+        "Question": "What is the crystallographic relationship of remote epitaxy with the substrate?",
+        "A": "Crystallographic relationship with the interlayer",
+        "B": "No crystallographic relationship",
+        "C": "Crystallographic relationship with the substrate",
+        "D": "Crystallographic relationship with the epitaxial layer",
+        "Answer": "C",
+        "Source": "Remote epitaxy is classified as having a crystallographic relationship with the substrate."
+    },
+    "Question_8": {
+        "Context": "Remote epitaxy enables the growth of epitaxial layers on 2D-coated substrates. The epitaxial layer grows on the 2D-coated substrate through columbic interaction between an adatom and the substrate.",
+        "Question": "What is the primary mechanism that allows epitaxy to occur remotely through the 2D material?",
+        "A": "Ionic bonding",
+        "B": "Covalent bonding",
+        "C": "Columbic interaction",
+        "D": "Metallic bonding",
+        "Answer": "C",
+        "Source": "In this technique, it is necessary to form a few layers of 2D material (typically, 1 \u2013 3 layers of graphene) on the substrate through the methods described in Sects. 3 and 4, and then epitaxial growth is performed on the 2D-coated single-crystalline substrate."
+    },
+    "Question_9": {
+        "Context": "Remote epitaxy allows for the growth of epitaxial layers on 2D-coated substrates. The epitaxial layer can be detached non-destructively from the substrate due to the weak vdW interface of the 2D material.",
+        "Question": "What is the purpose of forming a few layers of 2D material on the substrate before epitaxial growth in remote epitaxy?",
+        "A": "To increase the thickness of the epitaxial layer",
+        "B": "To enhance the conductivity of the epitaxial layer",
+        "C": "To prevent interaction between the adatom and the substrate",
+        "D": "To allow for easy detachment of the epitaxial layer",
+        "Answer": "D",
+        "Source": "In this technique, it is necessary to form a few layers of 2D material (typically, 1 \u2013 3 layers of graphene) on the substrate through the methods described in Sects. 3 and 4, and then epitaxial growth is performed on the 2D-coated single-crystalline substrate."
+    },
+    "Question_10": {
+        "Context": "Remote epitaxy enables the growth of epitaxial layers on 2D-coated substrates. The epitaxial layer grows on the 2D-coated substrate through columbic interaction between an adatom and the substrate.",
+        "Question": "What is the significance of the polarity of the underlying substrates and the 2D material in remote epitaxy of III-V materials?",
+        "A": "It has no effect on the remote interaction",
+        "B": "It affects the growth pressure during epitaxy",
+        "C": "It influences the remote interaction through the 2D material",
+        "D": "It determines the epitaxial layer thickness",
+        "Answer": "C",
+        "Source": "It was revealed that the polarity of the underlying substrates and the 2D material affects remote interaction through the 2D material, making relatively more strict requirements for remote epitaxy of III-V materials are necessary."
+    }
+}

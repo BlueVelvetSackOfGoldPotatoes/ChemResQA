@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Based on the impact of welding factors on tensile properties, microhardness, and surface roughness of friction stir welded AA6061-T651,",
+        "Question": "What was the maximum value of ultimate tensile strength (UTS) achieved for the friction stir welded joints?",
+        "A": "0.35 kN/mm2",
+        "B": "0.41 kN/mm2",
+        "C": "0.43 kN/mm2",
+        "D": "0.44 kN/mm2",
+        "Answer": "C",
+        "Source": "Increase in speed from 710 to 1400 rpm (at constant translation speed of 20 mm/min) linearly increases UTS from 0.37 to 0.44 kN/mm2."
+    },
+    "Question_2": {
+        "Context": "Considering the microhardness profile of the friction stir welded joints,",
+        "Question": "Where was the maximum hardness of HV 120 achieved?",
+        "A": "Retreating side (RS)",
+        "B": "Weld center",
+        "C": "Advancing side (AS)",
+        "D": "Heat-affected zone (HAZ)",
+        "Answer": "C",
+        "Source": "The maximum hardness of HV 120 was achieved for the stir zone (SZ)."
+    },
+    "Question_3": {
+        "Context": "Regarding the impact of rotational speed on surface roughness of the friction stir welded specimens,",
+        "Question": "At which rotational speed was the minimum average surface roughness observed?",
+        "A": "700 rpm",
+        "B": "900 rpm",
+        "C": "1120 rpm",
+        "D": "1400 rpm",
+        "Answer": "D",
+        "Source": "Minimum average value of surface roughness of 6.71 \u03bcm was witnessed in specimen no. 8, i.e., at a rotational speed of 1400 rpm."
+    },
+    "Question_4": {
+        "Context": "Considering the tensile test results of the base alloy and as-welded specimens,",
+        "Question": "What was the yield load for specimen no. 8 welded at a rotational speed of 1400 rpm and a welding speed of 20 mm/min?",
+        "A": "11.80",
+        "B": "12.30",
+        "C": "12.74",
+        "D": "12.22",
+        "Answer": "A",
+        "Source": "Yield load for specimen no. 8 was 11.80."
+    },
+    "Question_5": {
+        "Context": "Based on the microstructural analysis of the friction stir welded joint,",
+        "Question": "What was observed in the stirred zone (SZ) microstructure?",
+        "A": "Noticeable onion ring structures",
+        "B": "Coarse grains oriented along the rolling direction",
+        "C": "Equiaxed grains somewhat oriented in the rolling direction",
+        "D": "Dark spots exposing etch pits",
+        "Answer": "A",
+        "Source": "The SZ consists of noticeable onion ring structures."
+    },
+    "Question_6": {
+        "Context": "Regarding the surface roughness testing results of the aluminum alloy AA6061-T651,",
+        "Question": "What was the effect of decreasing rotational speed on the surface roughness of the friction stir welded specimens?",
+        "A": "Decreased roughness",
+        "B": "Increased roughness",
+        "C": "No effect on roughness",
+        "D": "Unpredictable effect on roughness",
+        "Answer": "B",
+        "Source": "As rotational speed decreases, roughness of the surface increases."
+    },
+    "Question_7": {
+        "Context": "Considering the microhardness values of the friction stir welded samples,",
+        "Question": "What was the microhardness value at the boundary between the heat-affected zone (HAZ) and the thermomechanically affected zone (TMAZ) on the advancing side?",
+        "A": "HV 81",
+        "B": "HV 96",
+        "C": "HV 110",
+        "D": "HV 120",
+        "Answer": "A",
+        "Source": "Boundary between HAZ and TMAZ on advancing side showed hardness value of HV 81."
+    },
+    "Question_8": {
+        "Context": "Based on the tensile test results of the base alloy and as-welded specimens,",
+        "Question": "Which specimen had the maximum ultimate load?",
+        "A": "Specimen 1",
+        "B": "Specimen 5",
+        "C": "Specimen 7",
+        "D": "Specimen 8",
+        "Answer": "D",
+        "Source": "Ultimate load for specimen no. 8 was the highest."
+    },
+    "Question_9": {
+        "Context": "Regarding the microstructural aspects of the friction stir welded joints,",
+        "Question": "What is the primary reason for the increase in hardness in the stir zone (SZ)?",
+        "A": "Presence of equiaxed grains",
+        "B": "Formation of onion ring structures",
+        "C": "Increase in grain size",
+        "D": "Formation of fine recrystallized grains",
+        "Answer": "D",
+        "Source": "Fine recrystallized zone at weld nugget is because of substantial plastic deformation, followed by dynamic recrystallization."
+    },
+    "Question_10": {
+        "Context": "Considering the conclusions drawn from the research work,",
+        "Question": "What was the maximum value of yield strength achieved for the friction stir welded joints?",
+        "A": "0.41 kN/mm2",
+        "B": "0.43 kN/mm2",
+        "C": "0.44 kN/mm2",
+        "D": "0.45 kN/mm2",
+        "Answer": "B",
+        "Source": "Maximum value of UTS and yield strength are found at rotational speed of 1400 rpm and welding speed of 20 mm/min."
+    }
+}

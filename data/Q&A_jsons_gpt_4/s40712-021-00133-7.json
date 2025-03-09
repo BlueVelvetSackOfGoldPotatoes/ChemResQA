@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of material testing, tensile testing is a fundamental method used to determine the mechanical properties of materials. It involves applying a pulling force to a material sample until it fails, and measuring various data points such as stress and strain.",
+        "Question": "What is the purpose of tensile testing in material science?",
+        "A": "To determine the thermal conductivity of a material",
+        "B": "To measure the electrical resistance of a material",
+        "C": "To ascertain the mechanical properties of a material",
+        "D": "To check the solubility of a material in a solvent",
+        "Answer": "C",
+        "Source": "Tensile testing based on EN ISO 1492 was carried out on two types of belts, which are used for the five-point restraining system; the belts attach the sheet to the incubator. The size of each specimen was 15 cm in length with 10 mm/min test speed."
+    },
+    "Question_2": {
+        "Context": "In material science, the stress-strain curve obtained from experimental studies is crucial for understanding the behavior of materials under load. This curve provides information about the material's elasticity, yield strength, and ultimate tensile strength.",
+        "Question": "What information can be derived from the stress-strain curve of a material?",
+        "A": "The material's color change under stress",
+        "B": "The material's elasticity and strength characteristics",
+        "C": "The material's magnetic properties",
+        "D": "The material's refractive index",
+        "Answer": "B",
+        "Source": "The force\u2013displacement curves obtained from experimental studies were compared with numerical results to calibrate the predictions."
+    },
+    "Question_3": {
+        "Context": "In the field of biomechanics, understanding the response of materials and systems to acceleration is important for designing protective equipment and safety mechanisms, especially for vulnerable populations such as infants.",
+        "Question": "Why is it important to study the response of an infant incubator to acceleration?",
+        "A": "To enhance the visual appeal of the incubator",
+        "B": "To improve the incubator's resistance to UV light",
+        "C": "To increase the thermal insulation of the incubator",
+        "D": "To ensure the safety of the infant during transportation",
+        "Answer": "D",
+        "Source": "It is shown that the response of an infant incubator is a function of the ratchet straps, the tension on the belts, the belt type and the distance of the belts from the edges of the incubator, which can significantly affect the experienced acceleration, by the infant."
+    },
+    "Question_4": {
+        "Context": "The coefficient of friction between two surfaces is a measure of the resistance to motion that one surface exerts on another when the two are in contact. It is a critical factor in the design of restraint systems where movement between surfaces needs to be controlled.",
+        "Question": "What role does the coefficient of friction play in the design of safety restraint systems?",
+        "A": "It determines the color contrast between the surfaces",
+        "B": "It measures the transparency level of the materials",
+        "C": "It controls the resistance to motion between contact surfaces",
+        "D": "It assesses the electrical conductivity between the materials",
+        "Answer": "C",
+        "Source": "Contact_Automatic_Surface_To_Surface was utilised between incubator (master) and the mattress (slave) with the static and dynamic coefficient of friction of 0.3 and 0.2, respectably."
+    },
+    "Question_5": {
+        "Context": "In crash testing and safety analysis, the deceleration impulse is a measure of the change in momentum over time, which is important for understanding the forces experienced by passengers during rapid deceleration events such as car crashes.",
+        "Question": "What is the significance of the deceleration impulse in crash testing?",
+        "A": "It indicates the color change of materials under stress",
+        "B": "It measures the change in momentum over time during deceleration",
+        "C": "It determines the melting point of materials in a crash",
+        "D": "It assesses the sound produced during a crash",
+        "Answer": "B",
+        "Source": "The standard provides a graph (see Fig. 1a); two profiles are given at 8 g and 12 g; the test curve should be between the two; otherwise, the test is not valid."
+    },
+    "Question_6": {
+        "Context": "In the context of safety standards for medical equipment transportation, dynamic testing is used to ensure that devices such as incubators remain securely fixed during transport, which may involve rapid changes in velocity.",
+        "Question": "Why is dynamic testing important for the transportation of medical devices like incubators?",
+        "A": "To ensure devices play music during transport",
+        "B": "To guarantee the devices remain fixed during rapid velocity changes",
+        "C": "To make sure the devices can float in water",
+        "D": "To check if devices can operate without electricity",
+        "Answer": "B",
+        "Source": "This standard requires a dynamic testing of the fixations of the medical devices in the patient\u2019s compartment (between 8 and 12 g)."
+    },
+    "Question_7": {
+        "Context": "In the study of crashworthiness, the energy-absorbing characteristics of a structure are crucial. They determine how well a structure can absorb kinetic energy during an impact, which is vital for protecting occupants in a crash.",
+        "Question": "What is the importance of energy-absorbing characteristics in crashworthiness studies?",
+        "A": "To determine the brightness of the structure after a crash",
+        "B": "To assess the waterproof capabilities of the structure",
+        "C": "To evaluate how well the structure absorbs kinetic energy during impact",
+        "D": "To measure the sound insulation of the structure",
+        "Answer": "C",
+        "Source": "The primary outcome of this research is the effect of incidence angles on the energy-absorbing characteristics, as well as some remarkable trade-off design points obtained from various multiple-criteria decision-making (MCDM) methods."
+    },
+    "Question_8": {
+        "Context": "The finite element method (FEM) is a computational technique used to predict how objects will respond to external forces, vibrations, heat, and other physical effects. It is widely used in engineering for design and analysis.",
+        "Question": "What is the purpose of using the finite element method in engineering?",
+        "A": "To predict the color changes in materials under different lighting",
+        "B": "To predict how objects respond to external forces and other physical effects",
+        "C": "To measure the fragrance emitted by materials under stress",
+        "D": "To assess the taste of materials after being subjected to forces",
+        "Answer": "B",
+        "Source": "The developed numerical model is capable to predict the behaviour of the crash dummy and the incubator in terms of acceleration, trajectory and kinematics by less than 8% error."
+    },
+    "Question_9": {
+        "Context": "In biomechanics, the center of gravity is an important factor that affects body kinematics during an accident. It is especially important in the design of safety equipment for children, who have different body segment proportions compared to adults.",
+        "Question": "Why is the center of gravity a significant factor in the design of safety equipment for children?",
+        "A": "It affects the color perception of children",
+        "B": "It influences the body kinematics in the event of an accident",
+        "C": "It determines the flavor preferences of children",
+        "D": "It measures the intellectual development of children",
+        "Answer": "B",
+        "Source": "This dissimilarity in body segment proportions leads to a higher centre of gravity in a child, which affects the body kinematics in the event of an accident."
+    },
+    "Question_10": {
+        "Context": "In the context of safety and crash testing, the term 'kinematics' refers to the study of motion without considering the forces that cause the motion. It is essential for understanding how occupants move during a vehicle collision.",
+        "Question": "What does the term 'kinematics' refer to in the context of crash testing?",
+        "A": "The study of the chemical reactions during a crash",
+        "B": "The study of the color changes in materials during a crash",
+        "C": "The study of motion without considering the forces that cause it",
+        "D": "The study of the sounds produced during a crash",
+        "Answer": "C",
+        "Source": "The developed numerical model is capable to predict the behaviour of the crash dummy and the incubator in terms of acceleration, trajectory and kinematics by less than 8% error."
+    }
+}

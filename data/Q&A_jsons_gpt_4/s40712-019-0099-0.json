@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In ball end milling of metals, the surface roughness is an important quality parameter that can be affected by various cutting parameters.",
+        "Question": "Which cutting parameter has the highest contribution to surface roughness in ball end milling of OFHC copper?",
+        "A": "Axial depth of cut",
+        "B": "Radial depth of cut",
+        "C": "Cutting feed rate",
+        "D": "Cutting speed",
+        "Answer": "B",
+        "Source": "Based on the results from this study, it is concluded that the step over or radial depth of cut have a higher contribution (45.81%) and thus has a significant influence on the surface roughness of the milled OFHC copper."
+    },
+    "Question_2": {
+        "Context": "The response surface methodology (RSM) is a statistical technique used for developing, improving, and optimizing processes in which a response of interest is influenced by several variables.",
+        "Question": "What is the primary purpose of using response surface methodology (RSM) in the context of machining processes?",
+        "A": "To increase the cutting speed",
+        "B": "To optimize the cutting parameters for desired surface roughness",
+        "C": "To reduce the number of cutting tools required",
+        "D": "To enhance the material removal rate",
+        "Answer": "B",
+        "Source": "The developed model would assist in selecting the cutting variables for optimization of ball end milling process for a particular material."
+    },
+    "Question_3": {
+        "Context": "Analysis of variance (ANOVA) is a statistical method used to test differences between two or more means.",
+        "Question": "What is the role of analysis of variance (ANOVA) in the study of machining processes?",
+        "A": "To determine the chemical composition of the material",
+        "B": "To test the strength of the cutting tool",
+        "C": "To examine the dependence of process parameters and their interactions",
+        "D": "To calculate the power consumption of the milling machine",
+        "Answer": "C",
+        "Source": "Finally, for checking the adequacy of the models, analysis of variance (ANOVA) was used to examine the dependence of the process parameters and their interactions."
+    },
+    "Question_4": {
+        "Context": "Surface roughness in machining can be quantified by different parameters, which are indicative of the quality of the machined surface.",
+        "Question": "Which parameters were considered as responses for generating a statistical predictive model in terms of machining parameters?",
+        "A": "Hardness and melting point",
+        "B": "Roughness average (Ra) and mean roughness depth (Rz)",
+        "C": "Material conductivity and density",
+        "D": "Cutting force and tool wear",
+        "Answer": "B",
+        "Source": "Thus, in the present study, two roughness parameters viz. roughness average (Ra) and mean roughness depth (Rz) was considered as responses for generating stata istical predictive model in terms of machining parameters."
+    },
+    "Question_5": {
+        "Context": "In the context of machining, the cutting feed rate is one of the parameters that can influence the outcome of the process.",
+        "Question": "What is the effect of increasing the cutting feed rate on the surface roughness in end milling?",
+        "A": "It decreases the surface roughness",
+        "B": "It has no effect on the surface roughness",
+        "C": "It increases the surface roughness",
+        "D": "It changes the chemical composition of the surface",
+        "Answer": "C",
+        "Source": "Alauddin et al. (Alauddin, El Baradie, and Hashmi, 1996) presented their work on optimizing the surface finish of Inconel 718 in end milling. They used uncoated carbide inserts under dry operating conditions. The RSM was used to develop a first- and second-order models, and based on the results, it was concluded that with the increase in feed surface roughness, increases cutting speed but increasing speed results in a decrease in the surface roughness."
+    },
+    "Question_6": {
+        "Context": "The central composite design (CCD) is a type of experimental design that is useful in response surface methodology.",
+        "Question": "What is the purpose of using a central composite design in the study of machining processes?",
+        "A": "To simplify the chemical analysis of the material",
+        "B": "To minimize the number of experiments required to evaluate the effects of all parameters",
+        "C": "To focus solely on the temperature effects in machining",
+        "D": "To increase the speed of the cutting process",
+        "Answer": "B",
+        "Source": "The RSM can be considered as a systematic approach to find he relationship between various machining criteria and process parameters (Montgomery, 2005). The design of the experiment was performed on Minitab 17 software package. Minitab is designed for analysis of data obtained from the following steps: 1. Choose the number of process parameters taken for the experiment. 2. Select the appropriate model to be used. 3. ANOVA for analysis to check the adequacy of the model. 4. Use proper elimination process stepwise, backward or forward elimination. 5. Inspect the diagnostic plots to validate the model statistically. 6. Steps (2) and (3) helps in identifying if the model is appropriate followed by generating model graphs (contour and 3D graphs) for interpretation."
+    },
+    "Question_7": {
+        "Context": "The cutting speed is a machining parameter that can significantly affect the surface finish of a machined part.",
+        "Question": "What is the effect of increasing the cutting speed on the surface roughness in end milling?",
+        "A": "It increases the surface roughness",
+        "B": "It decreases the surface roughness",
+        "C": "It has no effect on the surface roughness",
+        "D": "It changes the color of the machined surface",
+        "Answer": "B",
+        "Source": "Alauddin et al. (Alauddin, El Baradie, and Hashmi, 1996) presented their work on optimizing the surface finish of Inconel 718 in end milling. They used uncoated carbide inserts under dry operating conditions. The RSM was used to develop a first- and second-order models, and based on the results, it was concluded that with the increase in feed surface roughness, increases cutting speed but increasing speed results in a decrease in the surface roughness."
+    },
+    "Question_8": {
+        "Context": "The radial depth of cut, also known as step over, is a machining parameter that can influence the surface roughness of a milled part.",
+        "Question": "What is the recommended setting for the radial depth of cut to achieve a good surface finish in end milling of OFHC copper?",
+        "A": "A high radial depth of cut",
+        "B": "A low radial depth of cut",
+        "C": "A radial depth of cut has no effect on surface finish",
+        "D": "The radial depth of cut should be equal to the tool diameter",
+        "Answer": "B",
+        "Source": "From the surface plot, it is depicted that with a setting of low radial depth of cut and near to higher level of axial depth of cut, cutting feed rate, and cutting speed, a good surface finish can be obtained."
+    },
+    "Question_9": {
+        "Context": "The axial depth of cut is a parameter in end milling that determines the thickness of the material layer removed in each pass.",
+        "Question": "What is the contribution of axial depth of cut to the surface roughness in ball end milling of OFHC copper?",
+        "A": "It has the highest contribution",
+        "B": "It has no contribution",
+        "C": "It has a secondary contribution",
+        "D": "It is the only factor affecting surface roughness",
+        "Answer": "C",
+        "Source": "Axial depth of cut is the next dominant factor with a contribution of 1.78%."
+    },
+    "Question_10": {
+        "Context": "The surface roughness of machined parts can be measured using various parameters, which are indicative of the quality of the surface.",
+        "Question": "Which surface roughness parameter is considered as the average roughness in the context of machining?",
+        "A": "Roughness average (Ra)",
+        "B": "Mean roughness depth (Rz)",
+        "C": "Surface hardness",
+        "D": "Material toughness",
+        "Answer": "A",
+        "Source": "Thus, in the present study, two roughness parameters viz. roughness average (Ra) and mean roughness depth (Rz) was considered as responses for generating stata istical predictive model in terms of machining parameters."
+    }
+}

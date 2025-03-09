@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Liraglutide is a glucagon-like peptide-1 (GLP-1) analog used in the treatment of type 2 diabetes mellitus and obesity. It is designed to have an extended biological half-life compared to native GLP-1.",
+        "Question": "What structural modifications are made to liraglutide to extend its biological half-life?",
+        "A": "Addition of a 16-carbon fatty acid at Lys26 and replacement of Arg34 with Lys",
+        "B": "Removal of all fatty acids and addition of multiple lysine residues",
+        "C": "Shortening of the peptide chain and addition of arginine at the N-terminus",
+        "D": "Phosphorylation of serine residues and acetylation of lysines",
+        "Answer": "A",
+        "Source": "Liraglutide (Victoza\u00ae) is a GLP-1 analog with an extended half-life in which 16-carbon fatty acid is attached at Lys26, and Arg34 is replaced with Lys while maintaining the pharmacological activities comparable to native GLP-1."
+    },
+    "Question_2": {
+        "Context": "Liraglutide's resistance to metabolic degradation by dipeptidyl peptidase-4 (DPP-4) is a key feature that contributes to its prolonged activity in the body.",
+        "Question": "How does liraglutide's structure contribute to its resistance to degradation by DPP-4?",
+        "A": "By forming a stable complex with DPP-4 inhibitors",
+        "B": "Due to the presence of a high number of D-amino acids",
+        "C": "Through the attachment of a 16-carbon fatty acid which protects it from DPP-4",
+        "D": "By rapid renal elimination which prevents DPP-4 access",
+        "Answer": "C",
+        "Source": "The structural modification protects liraglutide from metabolic degradation by dipeptidyl peptidase-4 (DPP-4), which is responsible for the rapid elimination of GLP-1."
+    },
+    "Question_3": {
+        "Context": "Liraglutide binds to serum albumin, which is a factor that influences its metabolism and elimination.",
+        "Question": "What is the role of serum albumin binding in the metabolism of liraglutide?",
+        "A": "Increases the rate of renal elimination",
+        "B": "Reduces metabolism by preventing enzyme binding",
+        "C": "Enhances the susceptibility to DPP-4 degradation",
+        "D": "Has no effect on metabolism or elimination",
+        "Answer": "B",
+        "Source": "Moreover, liraglutide binds to serum albumin, which further reduces the metabolism possibly by preventing the enzyme binding, and decreases renal elimination."
+    },
+    "Question_4": {
+        "Context": "Liraglutide has a pharmacological effect on weight loss, which is mediated through its action on the brain and the gut.",
+        "Question": "What effects does liraglutide have that contribute to weight loss?",
+        "A": "Stimulating insulin and suppressing glucagon secretion",
+        "B": "Increasing gastric emptying and appetite",
+        "C": "Decreasing insulin sensitivity and glucose uptake",
+        "D": "Reducing leptin production and thyroid activity",
+        "Answer": "A",
+        "Source": "While stimulating insulin and suppressing glucagon secretion, liraglutide inhibits gastric emptying as well as increases satiety and reduces appetite by binding to the GLP-1 receptors in the brain."
+    },
+    "Question_5": {
+        "Context": "The pharmacokinetics of liraglutide, including its distribution to the brain, is an important aspect of its clinical utility and safety profile.",
+        "Question": "Why is characterizing the pharmacokinetics of liraglutide important?",
+        "A": "To determine the proper dosing regimen according to the patient's condition",
+        "B": "To increase the drug's solubility in aqueous solutions",
+        "C": "To enhance the drug's binding to plasma proteins",
+        "D": "To reduce the drug's therapeutic efficacy",
+        "Answer": "A",
+        "Source": "Thus, it is important to determine the proper dosing regimen according to the pharmacokinetics as well as the patient\u2019s condition."
+    },
+    "Question_6": {
+        "Context": "Liquid chromatography\u2013tandem mass spectrometry (LC\u2013MS/MS) is a bioanalytical technique used for the quantification of drugs like liraglutide in biological matrices.",
+        "Question": "What are the advantages of using LC\u2013MS/MS for pharmacokinetic studies?",
+        "A": "High sensitivity, specificity, reproducibility, and high throughput",
+        "B": "Low sensitivity, high variability, and low cost",
+        "C": "High matrix effects, low specificity, and high throughput",
+        "D": "Low reproducibility, high sensitivity, and high cost",
+        "Answer": "A",
+        "Source": "LC\u2013MS/MS has fundamental advantages, including high sensitivity, specificity, reproducibility, and high throughput, and serves as the most favorable bioanalytical technique for pharmacokinetic studies."
+    },
+    "Question_7": {
+        "Context": "The pharmacokinetic parameters of a drug can be determined by analyzing the concentration of the drug in plasma over time following administration.",
+        "Question": "What is the term used to describe the time it takes for the plasma concentration of a drug to reach its peak after administration?",
+        "A": "Elimination half-life",
+        "B": "Volume of distribution",
+        "C": "Maximum concentration",
+        "D": "Time to peak concentration (Tmax)",
+        "Answer": "D",
+        "Source": "After SC injection, liraglutide plasma concentration gradually increased and reached its peak concentration at 2.00\u20136.00 h, then decreased with an average half-life of 3.55 \u00b1 0.51 h."
+    },
+    "Question_8": {
+        "Context": "The bioavailability of a drug is a measure of the fraction of the administered dose that reaches the systemic circulation in an unchanged form.",
+        "Question": "How is the absolute bioavailability of a drug calculated?",
+        "A": "By comparing the area under the plasma concentration\u2013time curve after oral and intravenous administration",
+        "B": "By measuring the drug concentration in the urine",
+        "C": "By determining the rate of drug metabolism in the liver",
+        "D": "By assessing the drug's binding affinity to plasma proteins",
+        "Answer": "A",
+        "Source": "The bioavailability was calculated as the ratio of dose-normalized area under the plasma concentration\u2013time curve (AUC inf) after SC injection and IV injection, i.e., Bioavailability = (AUC sc/Dosesc)/(AUC iv/Doseiv)."
+    },
+    "Question_9": {
+        "Context": "The partition coefficient of a drug between tissues and plasma (Kp) can provide information about the drug's distribution within the body.",
+        "Question": "What does a low tissue-to-plasma partition coefficient (Kp) indicate about a drug's distribution?",
+        "A": "High accumulation in the tissue",
+        "B": "Rapid metabolism within the tissue",
+        "C": "Insignificant distribution to the tissue",
+        "D": "High affinity for tissue-specific receptors",
+        "Answer": "C",
+        "Source": "The tissue-to-plasma partition coefficient (Kp) was calculated by the ratio of liraglutide concentration in the brain tissue homogenates to that in the plasma. The estimated absolute bioavailability of liraglutide after subcutaneous injection was 13.16%. Brain distribution of liraglutide was not significant, with the tissue-to-plasma partition coefficient (Kp) of liraglutide less than 0.00031."
+    },
+    "Question_10": {
+        "Context": "The stability of a drug under various conditions is an important aspect of bioanalytical method validation.",
+        "Question": "Which of the following is NOT a typical condition under which drug stability is tested?",
+        "A": "Short-term stability at room temperature",
+        "B": "Long-term stability at sub-zero temperatures",
+        "C": "Stability after exposure to strong acids",
+        "D": "Stability in the autosampler over a period of time",
+        "Answer": "C",
+        "Source": "The stability was examined under four different conditions as follows: short-term, 4 h at room temperature; long-term, 7 days at \u2212 70 \u00b0C; autosampler, 24 h in the autosampler; freeze/thaw, 3 freeze/thaw cycles."
+    }
+}

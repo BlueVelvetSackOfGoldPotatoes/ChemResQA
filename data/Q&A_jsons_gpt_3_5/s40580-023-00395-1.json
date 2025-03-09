@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "PeLEDs have shown promising efficiency levels. Here is a summary of the best performing PeLEDs for different colors:",
+        "Question": "What is the emission wavelength of the best performing blue PeLED?",
+        "A": "Near-infrared",
+        "B": "Red",
+        "C": "Green",
+        "D": "Blue",
+        "Answer": "D",
+        "Source": "The recently reported bar-coated PNC films exhibited an EQE of 23.26% on a small-size sample (4 mm2 pixel size), whereas a large-scale device (102 mm2) was found to have an EQE of 22.5%."
+    },
+    "Question_2": {
+        "Context": "PeLEDs have shown promising efficiency levels. Here is a summary of the best performing PeLEDs for different colors:",
+        "Question": "What is the luminance of the best performing red PeLED?",
+        "A": "~ 150,000 cd/m2",
+        "B": "~ 100,000 cd/m2",
+        "C": "~ 200,000 cd/m2",
+        "D": "~ 50,000 cd/m2",
+        "Answer": "C",
+        "Source": "The EQE of green, red and near-infrared PeLEDs all exceeded 20%."
+    },
+    "Question_3": {
+        "Context": "PeLEDs have shown promising efficiency levels. Here is a summary of the best performing PeLEDs for different colors:",
+        "Question": "What is the external quantum efficiency (EQE) of the best performing green PeLED?",
+        "A": "23.26%",
+        "B": "22.5%",
+        "C": "28.9%",
+        "D": "20%",
+        "Answer": "A",
+        "Source": "The recently reported bar-coated PNC films exhibited an EQE of 23.26% on a small-size sample (4 mm2 pixel size), whereas a large-scale device (102 mm2) was found to have an EQE of 22.5%."
+    },
+    "Question_4": {
+        "Context": "PeLEDs have shown promising efficiency levels. Here is a summary of the best performing PeLEDs for different colors:",
+        "Question": "What is the emission wavelength of the best performing near-infrared PeLED?",
+        "A": "Near-infrared",
+        "B": "Red",
+        "C": "Green",
+        "D": "Blue",
+        "Answer": "A",
+        "Source": "The recently reported bar-coated PNC films exhibited an EQE of 23.26% on a small-size sample (4 mm2 pixel size), whereas a large-scale device (102 mm2) was found to have an EQE of 22.5%."
+    },
+    "Question_5": {
+        "Context": "PeLEDs based on colloidal perovskite nanocrystals have gained attention. The doctor blade coating method is used for deposition of perovskite films. Here is a question related to this method:",
+        "Question": "What is the main advantage of using doctor blade coating for deposition of perovskite films?",
+        "A": "Low cost",
+        "B": "High speed",
+        "C": "High precision",
+        "D": "Uniform films",
+        "Answer": "D",
+        "Source": "The doctor blade coating is one of the most promising meniscus coating methods for deposition of the perovskite films, offering uniform films across large areas."
+    },
+    "Question_6": {
+        "Context": "PeLEDs based on colloidal perovskite nanocrystals have shown significant advancements. Slot-die coating is a versatile deposition technique. Here is a question related to this technique:",
+        "Question": "What is the advantage of slot-die coating over doctor blade coating for perovskite film deposition?",
+        "A": "Higher speed",
+        "B": "Better parametric control",
+        "C": "Lower cost",
+        "D": "Higher precision",
+        "Answer": "B",
+        "Source": "The slot-die coating enables uniform films across large areas and offers better parametric control between film thickness, the flow rate of perovskite ink, and the movement speed of the coated substrate relative to the slot."
+    },
+    "Question_7": {
+        "Context": "PeLEDs based on colloidal perovskite nanocrystals have demonstrated impressive results. Inkjet printing is an industrially used technique. Here is a question related to this printing method:",
+        "Question": "What is a key advantage of inkjet printing for PeLED fabrication?",
+        "A": "Scalability",
+        "B": "Material waste reduction",
+        "C": "High cost",
+        "D": "Limited substrate compatibility",
+        "Answer": "A",
+        "Source": "The advantages of digital inkjet printing include scalability, material and cost savings due to minimal waste of functional materials, and the ability to print on diverse substrates with arbitrary shapes."
+    },
+    "Question_8": {
+        "Context": "PeLEDs based on colloidal perovskite nanocrystals have shown advancements. Spray coating is a solution-based process. Here is a question related to this coating method:",
+        "Question": "What is a critical aspect of controlling during the spray coating process for perovskite film deposition?",
+        "A": "Drying speed",
+        "B": "Precursor concentration",
+        "C": "Carrier gas pressure",
+        "D": "Size of droplets",
+        "Answer": "A",
+        "Source": "Controlling the crystallization kinetics is a critical aspect of the spray coating process, typically achieved through substrate temperature monitoring or post-deposition annealing steps."
+    },
+    "Question_9": {
+        "Context": "PeLEDs based on colloidal perovskite nanocrystals have shown advancements. Large-scale production methods are being explored. Here is a question related to these methods:",
+        "Question": "What are the major challenges with large-scale production methods for perovskite thin films?",
+        "A": "Uniformity",
+        "B": "Crystallinity",
+        "C": "Film thickness",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "For large-scale production methods, the present challenges are to control the crystallinity of the final layer, uniformity, film thickness, and morphology."
+    },
+    "Question_10": {
+        "Context": "PeLEDs based on colloidal perovskite nanocrystals have shown advancements. Doctor blade coating is a promising method for large-area PeLED fabrication. Here is a question related to this coating technique:",
+        "Question": "What is the expected cost for the emissive layer using doctor blade coating?",
+        "A": "0.02 cent/cm2",
+        "B": "0.05 cent/cm2",
+        "C": "0.10 cent/cm2",
+        "D": "0.20 cent/cm2",
+        "Answer": "A",
+        "Source": "The EQE of doctor-bladed PeLEDs reached > 16%, and the expected cost was as low as 0.02 cent/cm2 of emissive layer."
+    }
+}

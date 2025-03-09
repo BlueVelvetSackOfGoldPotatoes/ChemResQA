@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper describes the fabrication of a glucose biosensor based on single-walled carbon nanotube (SWCNT) electrodes. The biosensor incorporates ferrocenecarboxylic acid (FCA) and polyethylene glycol (PEG) for effective amperometric measurement of glucose.",
+        "Question": "What is the purpose of incorporating ferrocenecarboxylic acid (FCA) in the glucose biosensor?",
+        "A": "To increase the transparency of the SWCNT electrodes",
+        "B": "To provide a stable electrical contact with the substrate",
+        "C": "To act as an electron transfer shuttle between the redox center of glucose oxidase (GOx) and the SWCNT electrode",
+        "D": "To enhance the flexibility of the biosensor",
+        "Answer": "C",
+        "Source": "The FCA in our device can act as an efficient electron transfer shuttle between the FAD center of GOx and the SWCNT electrode."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the advantages of using carbon nanotubes (CNTs) in biosensors due to their outstanding properties.",
+        "Question": "What properties of CNTs make them suitable for biosensors?",
+        "A": "High thermal conductivity and optical properties",
+        "B": "Low electrical conductivity and mechanical properties",
+        "C": "Excellent electrical conductivity and large surface area",
+        "D": "Poor chemical stability and high cost",
+        "Answer": "C",
+        "Source": "In particular, the electrical conductivity and large surface have made them suitable for biosensors."
+    },
+    "Question_3": {
+        "Context": "The paper mentions the need for glucose sensors due to the prevalence of diabetes and the importance of monitoring glucose levels.",
+        "Question": "Why are simple, sensitive, and easy-to-use glucose sensors highly required?",
+        "A": "To monitor cholesterol levels",
+        "B": "To detect endocrine disorders",
+        "C": "To check glucose levels in diabetics",
+        "D": "To measure blood pressure",
+        "Answer": "C",
+        "Source": "Simple, sensitive, and easy-to-use glucose sensors are highly required for the millions of diabetics supposed to check their own glucose levels daily."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the electrocatalytic properties of biosensors based on SWCNT electrodes.",
+        "Question": "What advantage do SWCNT electrodes offer in electrochemical biosensors?",
+        "A": "High sensitivity and rapid response",
+        "B": "Low stability and reproducibility",
+        "C": "Limited linear range of response",
+        "D": "Slow response time",
+        "Answer": "A",
+        "Source": "The device shows efficient electroanalytical performances with high sensitivity, good reproducibility, and long-term stability."
+    },
+    "Question_5": {
+        "Context": "The paper highlights the importance of glucose as a major energy source and metabolic intermediate in human life.",
+        "Question": "What disorder is associated with abnormal levels of glucose in the blood?",
+        "A": "Kidney failure",
+        "B": "Blindness",
+        "C": "Heart disease",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The abnormal level of glucose in blood is considered to be responsible for endocrine and metabolic disorders such as diabetes mellitus, which may cause serious diseases (e.g., kidney failure, blindness, and heart disease)."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the fabrication process of SWCNT electrodes on a flexible plastic substrate.",
+        "Question": "How are SWCNT electrodes fabricated on the plastic substrate?",
+        "A": "By using a vacuum filtration method",
+        "B": "By spin-coating with a positive photoresist polymer",
+        "C": "By exposure to UV light",
+        "D": "By immersing in a NaOH solution",
+        "Answer": "A",
+        "Source": "The homogeneous SWCNT films were fabricated by a vacuum filtration method."
+    },
+    "Question_7": {
+        "Context": "The paper describes the construction of a glucose biosensor based on GOx/FCA/PEG/SWCNT electrodes.",
+        "Question": "What is the purpose of polyethylene glycol (PEG) in the biosensor construction?",
+        "A": "To increase the electrical conductivity of the SWCNT electrodes",
+        "B": "To enhance the flexibility of the biosensor",
+        "C": "To achieve enhanced electron transfer and high biocompatibility",
+        "D": "To provide stability to the biosensor",
+        "Answer": "C",
+        "Source": "The developed electrochemical sensing device offered attractive analytical behavior for glucose detection. The low-potential analysis attributed to the modification of GOx/FCA/PEG/SWCNT allowed the selective detection of glucose against other interfering species."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the advantages of electrochemical sensing techniques in biosensors.",
+        "Question": "What advantages do electrochemical sensing techniques offer over other techniques?",
+        "A": "Low sensitivity and slow response",
+        "B": "Complex manufacturing processes",
+        "C": "High sensitivity and rapid response",
+        "D": "High cost and low portability",
+        "Answer": "C",
+        "Source": "Electrochemical sensing techniques provide significant advantages over other techniques owing to high sensitivity, simplicity, rapid response, miniaturization, and portability."
+    },
+    "Question_9": {
+        "Context": "The paper mentions the importance of glucose sensors for monitoring glucose levels in diabetics.",
+        "Question": "What is the linear range of response found for the glucose biosensor?",
+        "A": "0 to 5 mM",
+        "B": "0 to 15 mM",
+        "C": "0 to 10 mM",
+        "D": "0 to 20 mM",
+        "Answer": "C",
+        "Source": "A linear range of response was found from 0 to 10 mM of glucose with a fast response time of 10 s."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the fabrication and characterization of three SWCNT electrodes on a plastic substrate.",
+        "Question": "What method was used for patterning the SWCNT films on the plastic substrate?",
+        "A": "Inductively coupled plasma (ICP)",
+        "B": "Reactive ion etching (RIE) plasma",
+        "C": "Capacitively coupled plasma (CCP)",
+        "D": "Radio frequency bias",
+        "Answer": "C",
+        "Source": "O2 plasma etching in a capacitively coupled plasma (CCP) system was chosen for SWCNT electrode patterning on PET substrate."
+    }
+}

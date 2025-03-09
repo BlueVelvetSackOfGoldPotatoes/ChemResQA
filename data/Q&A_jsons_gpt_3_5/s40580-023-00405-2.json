@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the thermoelectric properties of FeSe1\u2212xSx single crystals and the evolution of correlation strength with S substitution.",
+        "Question": "What is the characteristic temperature for the nematic transition in FeSe?",
+        "A": "89 K",
+        "B": "65 K",
+        "C": "61 K",
+        "D": "5.2 K",
+        "Answer": "A",
+        "Source": "The nematic transition temperature Ts determined by the minima of d\u03c1/dT is \u223c 89 K for FeSe."
+    },
+    "Question_2": {
+        "Context": "The study discusses the thermoelectric properties of FeSe1\u2212xSx single crystals.",
+        "Question": "What is the superconducting critical temperature (Tc) for FeSe with x = 0.12?",
+        "A": "9.9 K",
+        "B": "10.6 K",
+        "C": "10.5 K",
+        "D": "9.3 K",
+        "Answer": "B",
+        "Source": "Zero resistivity is observed at Tc = 10.6(1) K for x = 0.12 within the nematic region."
+    },
+    "Question_3": {
+        "Context": "The study explores the thermoelectric properties of FeSe1\u2212xSx single crystals.",
+        "Question": "What is the thermopower value at 300 K for FeS?",
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Not mentioned",
+        "Answer": "B",
+        "Source": "S(300 K) decreases with increasing x and finally becomes a negative value of \u223c -9 \u00b5V/K for FeS."
+    },
+    "Question_4": {
+        "Context": "The research delves into the thermoelectric properties of FeSe1\u2212xSx single crystals.",
+        "Question": "What is the ratio of the superconducting specific heat jump at Tc to the Sommerfeld electronic specific heat coefficient for FeSe0.88S0.12?",
+        "A": "0.92",
+        "B": "1.43",
+        "C": "0.5",
+        "D": "1.0",
+        "Answer": "A",
+        "Source": "The \ufffdCp/\u03b3 Tc \u2248 0.92(3), is somehow smaller than the weak coupling value of 1.43."
+    },
+    "Question_5": {
+        "Context": "The study investigates the thermoelectric properties of FeSe1\u2212xSx single crystals.",
+        "Question": "What is the carrier density per volume for FeSe?",
+        "A": "7.4 \u00d7 10^21 cm^-3",
+        "B": "1.32 \u00d7 10^21 cm^-3",
+        "C": "3.51 \u00d7 10^21 cm^-3",
+        "D": "Not mentioned",
+        "Answer": "A",
+        "Source": "Given the volume of unit cell \u223c 0.078487 nm3 for FeSe, we obtain the carrier density per volume n \u2248 7.4(1) \u00d7 10^21 cm\u22123."
+    },
+    "Question_6": {
+        "Context": "The study focuses on the thermoelectric properties of FeSe1\u2212xSx single crystals.",
+        "Question": "What is the effective mass for FeS?",
+        "A": "6.4 me",
+        "B": "13.4 me",
+        "C": "2.2 me",
+        "D": "Not mentioned",
+        "Answer": "C",
+        "Source": "The effective mass m\u2217 derived from kBTF = \u210f2k2 F/2 m\u2217 , evolves from 6.4(1) me for FeSe to 13.4(1) me for x = 0.12 , then monotonically decrease to 2.2(1) me for FeS."
+    },
+    "Question_7": {
+        "Context": "The research explores the thermoelectric properties of FeSe1\u2212xSx single crystals.",
+        "Question": "What is the Fermi velocity for FeSe?",
+        "A": "109 km/s",
+        "B": "29 km/s",
+        "C": "579 km/s",
+        "D": "Not mentioned",
+        "Answer": "A",
+        "Source": "The Fermi velocity \u03bdF obtained by using \u210fkF = m\u2217\u03bdF ; it decreases from 109(1) km s \u22121 for FeSe."
+    },
+    "Question_8": {
+        "Context": "The study discusses the thermoelectric properties of FeSe1\u2212xSx single crystals.",
+        "Question": "What is the carrier concentration for x = 0.23?",
+        "A": "1.85 \u00d7 10^22 cm^-3",
+        "B": "6 \u00d7 10^22 cm^-3",
+        "C": "1.32 \u00d7 10^21 cm^-3",
+        "D": "Not mentioned",
+        "Answer": "A",
+        "Source": "For samples with higher x, the carrier concentration n \u2248 1.85(4) \u223c 6(3) \u00d7 10^22 cm\u22123."
+    },
+    "Question_9": {
+        "Context": "The study delves into the thermoelectric properties of FeSe1\u2212xSx single crystals.",
+        "Question": "What is the value of the electron-phonon coupling constant for FeSe?",
+        "A": "0.91",
+        "B": "0.56",
+        "C": "0.97",
+        "D": "Not mentioned",
+        "Answer": "A",
+        "Source": "By using the Tc = 9.3(1) K and \ufffdD = 223(1) K for FeSe, we obtain \ufffd \u2248 0.91(2), a typical value of an intermediate-coupled BCS superconductor."
+    },
+    "Question_10": {
+        "Context": "The research explores the thermoelectric properties of FeSe1\u2212xSx single crystals.",
+        "Question": "What is the field dependence of the electronic specific heat for FeSe0.88S0.12?",
+        "A": "Linear",
+        "B": "Exponential",
+        "C": "Square root",
+        "D": "Not mentioned",
+        "Answer": "C",
+        "Source": "The \ufffd\u03b3(H) is close to the Volovik relation, namely \ufffd\u03b3(H) \u221d \u221a H, indicating the presence of gap nodes in FeSe0.88S0.12."
+    }
+}

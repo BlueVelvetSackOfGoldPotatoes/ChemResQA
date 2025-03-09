@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the fabrication process of the pressure sensor. ",
+        "Question": "What is the material used for the bottom interdigitated electrode (IDE) in the pressure sensor?",
+        "A": "Gold",
+        "B": "Silver",
+        "C": "Copper",
+        "D": "Aluminum",
+        "Answer": "A",
+        "Source": "a gold interdigitated electrode (IDE) patterned polyimide (PI) layer works as the bottom electrode."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the characteristics of the fabricated sensor.",
+        "Question": "What is the sensitivity of the fabricated sensor?",
+        "A": "0.07 kPa\u22121",
+        "B": "0.19 kPa\u22121",
+        "C": "0.30 kPa\u22121",
+        "D": "0.50 kPa\u22121",
+        "Answer": "B",
+        "Source": "The fabricated sensor exhibits a sensitivity of 0.19 kPa\u22121."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the application of the pressure sensor in a robotic gripper.",
+        "Question": "What is the purpose of attaching the pressure sensor to the robotic gripper?",
+        "A": "Object recognition",
+        "B": "Pressure measurement",
+        "C": "Temperature sensing",
+        "D": "Motion detection",
+        "Answer": "A",
+        "Source": "The sensor is applied to a robotic gripper for object recognition."
+    },
+    "Question_4": {
+        "Context": "The paper describes the fabrication process of the pressure sensor.",
+        "Question": "What method is used to coat the multi-walled carbon nanotubes (MWCNTs) on the fabricated silicon mold?",
+        "A": "Spray-coating",
+        "B": "Stamp-coating",
+        "C": "Dip-coating",
+        "D": "Spin-coating",
+        "Answer": "B",
+        "Source": "The proposed process spray-coats CNTs before PDMS casting and curing. We define such a method as stamp-coating."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the design parameters of the fabricated pressure sensors.",
+        "Question": "How many different micropyramid sizes were studied in the sensor design?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "Answer": "C",
+        "Source": "For the sensor with single-height micropyramids, the w of the micropyramid is 60 \u03bcm. The sensor with two and three different micropyramids heights is designed to have the micropyramids of w = 18, 60 \u03bcm, and w = 18, 36, and 60 \u03bcm, respectively."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the results of the fabricated pressure sensors under varying pressures.",
+        "Question": "What is the detection range of the sensor with 3-step micropyramids?",
+        "A": "7.6 kPa",
+        "B": "13.2 kPa",
+        "C": "23.8 kPa",
+        "D": "30.5 kPa",
+        "Answer": "A",
+        "Source": "The detection range defined as the point where sensor response reaches 90% of the saturation value is 23.8 kPa, 13.2 kPa, and 3.5 kPa for 1, 2, and 3-step sensors."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the response time of the developed sensor.",
+        "Question": "What is the response time of the sensor under pulsed loading by human touch?",
+        "A": "10 ms",
+        "B": "20 ms",
+        "C": "30 ms",
+        "D": "40 ms",
+        "Answer": "B",
+        "Source": "The response time if measured to be 20 ms, and the recovery time was 40 ms."
+    },
+    "Question_8": {
+        "Context": "The paper describes the application of the pressure sensor in tracking walking motions.",
+        "Question": "What is the sensor attached to in order to track the number of steps?",
+        "A": "Hand",
+        "B": "Foot",
+        "C": "Head",
+        "D": "Waist",
+        "Answer": "B",
+        "Source": "Here, the sensor is attached to the shoe insole and is used to count the number of steps."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the durability test of the developed sensor.",
+        "Question": "How many cycles of loading were applied during the durability test?",
+        "A": "1000 cycles",
+        "B": "1500 cycles",
+        "C": "2000 cycles",
+        "D": "2500 cycles",
+        "Answer": "D",
+        "Source": "Figure 4e shows the result of the durability test of 2500 cycles of loading at 2 kPa."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the array integration of the pressure sensor for pressure monitoring.",
+        "Question": "What does the 2 x 2 array of the sensor allow for?",
+        "A": "Pressure measurement only",
+        "B": "Spatial information acquisition",
+        "C": "Temperature sensing",
+        "D": "Motion detection",
+        "Answer": "B",
+        "Source": "Such array integration allows using the developed sensor for large area pressure monitoring with sub-cm spatial resolution."
+    }
+}

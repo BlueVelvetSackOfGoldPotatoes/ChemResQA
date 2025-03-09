@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the separation of particles by deterministic lateral displacement (DLD) in microchannels. It mentions the critical diameter as a key parameter for particle separation.",
+        "Question": "What is the critical diameter dependent on in the DLD process?",
+        "A": "Channel width",
+        "B": "Channel height",
+        "C": "Flow rate",
+        "D": "Particle size",
+        "Answer": "B",
+        "Source": "Beech and Holm found that channel height affects the flow profile and, therefore, the critical diameter. Their results show that the critical diameter increases with increasing channel height."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the separation of particles based on their size in microchannels using deterministic lateral displacement (DLD).",
+        "Question": "What is the analytical equation for the critical diameter based on in the DLD process?",
+        "A": "Equation for flow rate",
+        "B": "Equation for particle size",
+        "C": "Equation for channel width",
+        "D": "Equation for flow profile",
+        "Answer": "B",
+        "Source": "Inglis et al. derived an equation for the critical diameter based on the flow profile and particle size. The equation for the critical diameter is derived under the assumption that the flow between two posts is similar to the flow between two parallel plates."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the separation of particles in microchannels using deterministic lateral displacement (DLD) and the impact of channel height on particle separation efficiency.",
+        "Question": "What is the main goal of the experiment described in the paper?",
+        "A": "To measure particle size distribution",
+        "B": "To study the effect of flow rate on particle separation",
+        "C": "To separate large particles from a polydisperse system",
+        "D": "To analyze the impact of channel width on particle separation",
+        "Answer": "C",
+        "Source": "The main goal of the experiment was to separate large particles from the polydisperse system, collect them at the outlet, and send small particles to waste."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the fabrication of microfluidic devices for particle separation using deterministic lateral displacement (DLD).",
+        "Question": "How were the DLD channels fabricated in the study?",
+        "A": "Using 3D printing",
+        "B": "By soft lithography",
+        "C": "By laser cutting",
+        "D": "By CNC machining",
+        "Answer": "B",
+        "Source": "The master mold of the microfluidic chip was fabricated by soft photolithography. The polydimethylsiloxane (PDMS) slab was then fabricated using a conventional replica molding technique."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the separation efficiency of particles in deep and shallow microchannels using deterministic lateral displacement (DLD).",
+        "Question": "What is the impact of channel height on particle separation efficiency?",
+        "A": "Increases separation efficiency",
+        "B": "Decreases separation efficiency",
+        "C": "No impact on separation efficiency",
+        "D": "Causes clogging in the microchannel",
+        "Answer": "A",
+        "Source": "The separation efficiency increases as the channel height increases. A deep channel provides better particle separation efficiency compared to a shallow one."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the theoretical analysis of particle separation in deterministic lateral displacement (DLD) devices.",
+        "Question": "What is the idealized particle separation model based on in the study?",
+        "A": "Particles are strictly separated based on size",
+        "B": "Particles are separated with a blurred boundary",
+        "C": "Particles are separated based on shape",
+        "D": "Particles are not separated at all",
+        "Answer": "B",
+        "Source": "The idealized DLD microfluidic devices show that the separation boundary between small and large particles is noticeably blurred, indicating that particles are not strictly separated based on size."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the experimental results of particle separation in deep and shallow microchannels using deterministic lateral displacement (DLD).",
+        "Question": "What is the outcome of the experiment regarding particle separation in the deep channel?",
+        "A": "Particles are strictly separated based on size",
+        "B": "Particles are not separated at all",
+        "C": "Particles are mostly sent to waste",
+        "D": "Particles are clogging the channel",
+        "Answer": "A",
+        "Source": "The experimental data show a good agreement between the data and numerical calculation of DLD particle separation in the deep channel, indicating that particles are strictly separated based on size."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the impact of channel height on particle separation efficiency in deterministic lateral displacement (DLD) devices.",
+        "Question": "What is the critical diameter calculated by the empirical equation for the shallow channel?",
+        "A": "3.52 \u00b5m",
+        "B": "4.17 \u00b5m",
+        "C": "3.46 \u00b5m",
+        "D": "5.0 \u00b5m",
+        "Answer": "B",
+        "Source": "The critical diameter calculated by the empirical equation for the shallow channel is DDavis c = 4.17 \u00b5m."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the experimental results of particle separation in deep and shallow microchannels using deterministic lateral displacement (DLD).",
+        "Question": "What is the impact of the channel height on the hydraulic resistance in the microchannel?",
+        "A": "Increases hydraulic resistance",
+        "B": "Decreases hydraulic resistance",
+        "C": "No impact on hydraulic resistance",
+        "D": "Causes clogging in the microchannel",
+        "Answer": "B",
+        "Source": "In the case of a deep channel, the hydraulic resistance is reduced, which allows for an increase in the flow rate. A deep channel provides less clogging and reduced hydraulic resistance."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the experimental results of particle separation in deep and shallow microchannels using deterministic lateral displacement (DLD).",
+        "Question": "What percentage of particles reach the exit without proper separation in the experiment?",
+        "A": "10%",
+        "B": "20%",
+        "C": "30%",
+        "D": "40%",
+        "Answer": "C",
+        "Source": "As a result of numerical fitting, it was found that 30% of the particles reach the exit without separation into small and large ones, creating noise in the particle size distribution at the outlet."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses a memory-dependent derivative approach on a magneto-thermoelastic transversely isotropic medium with two temperatures.",
+        "Question": "What are the correct values for 'a' and 'b' in equation 13?",
+        "A": "a = 0; b = 0",
+        "B": "a = 0; b = 1/2",
+        "C": "a = 0; b = \u03c7/2",
+        "D": "a = 1; b = 1",
+        "Answer": "A",
+        "Source": "The correct values for 'a' and 'b' in equation 13 are a = 0; b = 0 as stated in the correction to the article."
+    },
+    "Question_2": {
+        "Context": "The paper focuses on a specific equation related to magneto-thermoelastic transversely isotropic medium with two temperatures.",
+        "Question": "What is the corrected form of equation 13 in the paper?",
+        "A": "Kt - \u03be = 1 - 2b\u03c7(t - \u03be) + a^2\u03c7^2(t - \u03be)^2",
+        "B": "Kt - \u03be = 1 / (1 + \u03be - t) / \u03c7 \u03be - t + 1 / (1 + \u03be - t) / \u03c7",
+        "C": "Kt - \u03be = a^2\u03c7^2(t - \u03be)^2",
+        "D": "Kt - \u03be = 1 / (1 + \u03be - t) / \u03c7 \u00bd \ufffd2",
+        "Answer": "B",
+        "Source": "The corrected form of equation 13 in the paper is Kt - \u03be = 1 / (1 + \u03be - t) / \u03c7 \u03be - t + 1 / (1 + \u03be - t) / \u03c7 as mentioned in the correction."
+    },
+    "Question_3": {
+        "Context": "The study involves a memory-dependent derivative approach applied to a specific type of medium.",
+        "Question": "What type of medium is considered in the study?",
+        "A": "Isotropic medium",
+        "B": "Anisotropic medium",
+        "C": "Transversely isotropic medium",
+        "D": "Homogeneous medium",
+        "Answer": "C",
+        "Source": "The study focuses on a magneto-thermoelastic transversely isotropic medium with two temperatures, as indicated in the paper."
+    },
+    "Question_4": {
+        "Context": "The research deals with the behavior of a material under certain conditions.",
+        "Question": "How many temperatures are considered in the study of the material?",
+        "A": "One temperature",
+        "B": "Two temperatures",
+        "C": "Three temperatures",
+        "D": "Four temperatures",
+        "Answer": "B",
+        "Source": "The study involves a magneto-thermoelastic transversely isotropic medium with two temperatures, as mentioned in the paper."
+    },
+    "Question_5": {
+        "Context": "The paper discusses a specific mathematical approach applied to a material.",
+        "Question": "What is the term used to describe the derivative approach in the study?",
+        "A": "Memory-independent derivative approach",
+        "B": "Memory-dependent derivative approach",
+        "C": "Time-independent derivative approach",
+        "D": "Temperature-dependent derivative approach",
+        "Answer": "B",
+        "Source": "The paper discusses a memory-dependent derivative approach on the magneto-thermoelastic transversely isotropic medium, as stated in the content."
+    },
+    "Question_6": {
+        "Context": "The study involves corrections to a specific equation in the paper.",
+        "Question": "What was incorrect in the original publication regarding equation 13?",
+        "A": "The value of 'a'",
+        "B": "The value of 'b'",
+        "C": "The entire equation",
+        "D": "The sign of the equation",
+        "Answer": "C",
+        "Source": "The original publication had an incorrect form of equation 13, which was corrected in the paper."
+    },
+    "Question_7": {
+        "Context": "The paper addresses a specific issue related to the publication of the research.",
+        "Question": "What was the reason for the correction to the article?",
+        "A": "Typographical error",
+        "B": "Calculation mistake",
+        "C": "Misinterpretation of results",
+        "D": "Editorial oversight",
+        "Answer": "A",
+        "Source": "The correction to the article was made due to an incorrect equation 13, which was a typographical error in the original publication."
+    },
+    "Question_8": {
+        "Context": "The study involves researchers from different institutions.",
+        "Question": "Which institution is associated with Parveen Lata?",
+        "A": "Government College for Girls, Palwal",
+        "B": "Punjabi University, Patiala",
+        "C": "Kurukshetra University",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "Parveen Lata is associated with the Department of Basic and Applied Sciences at Punjabi University, Patiala, as mentioned in the content."
+    },
+    "Question_9": {
+        "Context": "The paper provides information about the licensing of the article.",
+        "Question": "Under what license is the article published?",
+        "A": "Creative Commons Attribution 3.0",
+        "B": "Creative Commons Attribution 4.0",
+        "C": "Creative Commons Attribution 2.0",
+        "D": "No specific license",
+        "Answer": "B",
+        "Source": "The article is licensed under a Creative Commons Attribution 4.0 International License, allowing various uses as long as proper credit is given to the original author."
+    },
+    "Question_10": {
+        "Context": "The study involves a specific field of study related to materials and mechanics.",
+        "Question": "In which journal was the original publication made?",
+        "A": "International Journal of Mechanical Engineering",
+        "B": "International Journal of Materials Engineering",
+        "C": "International Journal of Mechanical and Materials Engineering",
+        "D": "Journal of Applied Sciences",
+        "Answer": "C",
+        "Source": "The original publication of the article was in the International Journal of Mechanical and Materials Engineering, as stated in the content."
+    }
+}

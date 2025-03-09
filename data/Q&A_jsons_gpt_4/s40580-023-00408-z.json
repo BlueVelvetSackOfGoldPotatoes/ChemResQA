@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "SARS-CoV-2 is a virus that primarily affects the respiratory system and can cause a range of symptoms. It can also impact other systems in the body.",
+        "Question": "Which system is primarily affected by SARS-CoV-2?",
+        "A": "Respiratory system",
+        "B": "Cardiovascular system",
+        "C": "Endocrine system",
+        "D": "Reproductive system",
+        "Answer": "A",
+        "Source": "SARS-CoV-2 primarily affects the respiratory system with associated symptoms such as fever, cough, expectoration, headache, myalgia, or fatigue."
+    },
+    "Question_2": {
+        "Context": "The COVID-19 pandemic has led to the development of various diagnostic tools. Among them, reverse transcription-quantitative polymerase chain reaction (RT-qPCR) is considered the gold standard for detecting SARS-CoV-2.",
+        "Question": "What is the gold standard diagnostic tool for detecting SARS-CoV-2?",
+        "A": "Lateral flow immunoassay",
+        "B": "Enzyme-linked immunosorbent assay",
+        "C": "Reverse transcription-quantitative polymerase chain reaction",
+        "D": "Digital PCR",
+        "Answer": "C",
+        "Source": "Amongst nucleic acid-based tests, reverse transcription-quantitative polymerase chain reaction (RT-qPCR) is still the golden standard for the detection of SARS-CoV-2."
+    },
+    "Question_3": {
+        "Context": "In the context of SARS-CoV-2 detection, certain mutations in the virus's genetic material can lead to false-negative results in RT-qPCR tests.",
+        "Question": "What can cause false-negative SARS-CoV-2 RT-qPCR results?",
+        "A": "High viral load",
+        "B": "Point mutation in the SARS-CoV-2 N gene",
+        "C": "Presence of antibodies",
+        "D": "Use of serological tests",
+        "Answer": "B",
+        "Source": "Having a point mutation in the SARS-CoV-2 N gene (e.g., G29195T) may result in false-negative SARS-CoV-2 RT-qPCR results."
+    },
+    "Question_4": {
+        "Context": "Nanomaterials have been utilized to enhance the performance of biosensors, which are tools used for the rapid, sensitive, and low-cost diagnostics of viruses such as SARS-CoV-2.",
+        "Question": "What role do nanomaterials play in the context of biosensors for virus detection?",
+        "A": "Decrease the sensitivity of the biosensor",
+        "B": "Increase the cost of diagnostics",
+        "C": "Enhance the performance of biosensors",
+        "D": "Reduce the speed of diagnostics",
+        "Answer": "C",
+        "Source": "Special efforts were put on enhancement of nanomaterials on biosensors for rapid, sensitive, and low-cost diagnostics of SARS-CoV-2 virus."
+    },
+    "Question_5": {
+        "Context": "Reverse transcription loop-mediated isothermal amplification (RT-LAMP) is an alternative nucleic acid amplification technique that does not require sophisticated equipment like RT-qPCR.",
+        "Question": "What is a characteristic of the RT-LAMP technique compared to RT-qPCR?",
+        "A": "Requires expensive equipment",
+        "B": "Includes an RNA extraction step",
+        "C": "Does not require use of expensive equipment",
+        "D": "Is less sensitive than RT-qPCR",
+        "Answer": "C",
+        "Source": "In comparison to RT-qPCR, RT-LAMP, proposed by many researchers, does not require use of expensive equipment and an RNA extraction step while reducing overall costs by speeding up the detection time in about 30\u201345 min."
+    },
+    "Question_6": {
+        "Context": "The rapid antigen test (RAT) for SARS-CoV-2 is a diagnostic tool that has certain limitations in terms of sensitivity, which is dependent on the viral load of the sample.",
+        "Question": "What factor influences the sensitivity of the rapid antigen test (RAT) for SARS-CoV-2?",
+        "A": "Temperature of the sample",
+        "B": "Viral load of the sample",
+        "C": "Presence of nanomaterials",
+        "D": "Type of sample collection method",
+        "Answer": "B",
+        "Source": "The sensitivity of RAT depends on the viral load of the sample based on data from a study suggesting that the sensitivity is only achieved when the viral load of the sample is high."
+    },
+    "Question_7": {
+        "Context": "Digital PCR (dPCR) is a nucleic acid quantification method that offers certain advantages over RT-qPCR for the detection of low viral load specimens.",
+        "Question": "What is an advantage of Digital PCR (dPCR) over RT-qPCR?",
+        "A": "Requires a standard curve for quantification",
+        "B": "Less sensitive for absolute quantification of RNA",
+        "C": "Relies on colorimetric detection",
+        "D": "Does not rely on a standard curve for the quantification of nucleic acid molecules",
+        "Answer": "D",
+        "Source": "As an emerging detection technique, Digital PCR (dPCR) does not rely on a standard curve for the quantification of nucleic acid molecules and is highly sensitive for absolute quantification of RNA."
+    },
+    "Question_8": {
+        "Context": "Lateral flow immunoassay (LFIA) is a diagnostic platform that utilizes labels such as gold nanoparticles to produce an optical signal for the detection of SARS-CoV-2 antigens or antibodies.",
+        "Question": "What is commonly used as a label in lateral flow immunoassay (LFIA) for SARS-CoV-2 detection?",
+        "A": "Enzymes",
+        "B": "Gold nanoparticles",
+        "C": "Silver ions",
+        "D": "Carbon nanotubes",
+        "Answer": "B",
+        "Source": "The utilization of nanoparticles as labels has gained attention in developing rapid diagnostic test kits for improved diagnosis and treatment."
+    },
+    "Question_9": {
+        "Context": "Biosensors for SARS-CoV-2 detection can be based on various transduction mechanisms, including electrochemical and optical methods.",
+        "Question": "Which transduction mechanisms are used in biosensors for SARS-CoV-2 detection?",
+        "A": "Thermal and magnetic",
+        "B": "Acoustic and piezoelectric",
+        "C": "Electrochemical and optical",
+        "D": "Gravitational and nuclear",
+        "Answer": "C",
+        "Source": "Biosensors are the preferred detection platform for researchers due to their good sensitivity and selectivity as well as the short detection period."
+    },
+    "Question_10": {
+        "Context": "In the context of SARS-CoV-2 detection, the cycle of quantification (Cq) range in RT-qPCR is an indicator of viral load, which affects the sensitivity of rapid antigen tests.",
+        "Question": "What does a lower Cq range in RT-qPCR indicate in terms of viral load?",
+        "A": "Lower viral load",
+        "B": "Higher viral load",
+        "C": "No viral load",
+        "D": "Unrelated to viral load",
+        "Answer": "B",
+        "Source": "The sensitivity is 90% for the cycle of quantification (Cq) range of 20\u201325 for RT-qPCR, and only 10% for the Cq range of 25\u201330."
+    }
+}

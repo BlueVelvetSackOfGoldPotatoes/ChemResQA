@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Electroanalytical chemistry focuses on the development of new techniques and modified electrodes for quantitative analytical investigations.",
+        "Question": "What is the primary focus of electroanalytical chemistry?",
+        "A": "Developing new storage devices",
+        "B": "Developing new techniques and modified electrodes for quantitative analysis",
+        "C": "Studying the biological effects of electrodes",
+        "D": "Creating new power sources",
+        "Answer": "B",
+        "Source": "Electroanalytical chemistry is a cutting-edge field of electrochemistry, also known as electroanalysis, that focuses on the development of new techniques, and modified electrodes for quantitative analytical investigations that can be used to detect and sense an analyte."
+    },
+    "Question_2": {
+        "Context": "Graphene quantum dots (GQDs) are nanometer-sized graphene fragments with unique physicochemical properties.",
+        "Question": "Which of the following is NOT a property of Graphene quantum dots (GQDs)?",
+        "A": "Fast electron mobility",
+        "B": "Photostability",
+        "C": "Water insolubility",
+        "D": "High specific surface area",
+        "Answer": "C",
+        "Source": "Graphene quantum dots (GQDs), which are ideally nanometer-sized graphene fragments, have recently received increased attention due to their excellent physicochemical properties such as fast electron mobility, photostability, water solubility, biocompatibility, high specific surface area, and nontoxicity."
+    },
+    "Question_3": {
+        "Context": "The quantum confinement effect in graphene quantum dots (GQDs) is influenced by several factors including the particle size.",
+        "Question": "What effect does the particle size of GQDs have on the quantum confinement effect?",
+        "A": "No effect",
+        "B": "Decreases the effect",
+        "C": "Increases the effect",
+        "D": "The effect is only temperature-dependent",
+        "Answer": "C",
+        "Source": "The small size of GQDs makes quantum confinement dominant, and the Coulomb blockade peaks are unequally spaced instead of being periodically distributed."
+    },
+    "Question_4": {
+        "Context": "The optical properties of graphene quantum dots (GQDs) are related to their size, with size-dependent properties influencing the bandgap energy.",
+        "Question": "How does the size of GQDs affect their bandgap energy?",
+        "A": "Larger GQDs have a wider bandgap energy",
+        "B": "Smaller GQDs have a wider bandgap energy",
+        "C": "Size does not affect bandgap energy",
+        "D": "Only the shape, not the size, affects the bandgap energy",
+        "Answer": "B",
+        "Source": "The size-dependent optical properties are related to the bandgap energy of GQDs. As shown in Fig. 2b, increasing the particle size of GQDs will narrow down the bandgap energy."
+    },
+    "Question_5": {
+        "Context": "Graphene quantum dots (GQDs) exhibit strong optical absorption in specific regions of the ultraviolet (UV) and visible spectrum.",
+        "Question": "In which region of the spectrum do GQDs typically exhibit strong optical absorption?",
+        "A": "Infrared region",
+        "B": "Visible region",
+        "C": "Ultraviolet region around 230-320 nm",
+        "D": "Microwave region",
+        "Answer": "C",
+        "Source": "GQDs typically exhibit strong optical absorption in the ultraviolet (UV) region around 230\u2013320 nm, with an absorption shoulder extending into the visible region."
+    },
+    "Question_6": {
+        "Context": "The fluorescence properties of graphene quantum dots (GQDs) can be tuned by altering the excitation wavelength.",
+        "Question": "What happens to the fluorescence emission peak of GQDs when the excitation wavelength is increased?",
+        "A": "The emission peak shifts to a shorter wavelength",
+        "B": "The emission peak remains unchanged",
+        "C": "The emission peak disappears",
+        "D": "The emission peak shifts to a longer wavelength",
+        "Answer": "D",
+        "Source": "The small particle size of GQDs affords a quantum confinement effect, yielding bandgap energy and PL on excitation. Theoretically, the bandgap energy of GQDs should not exceed 1.0 eV as the size is limited to several nm."
+    },
+    "Question_7": {
+        "Context": "GQDs can act as reducing agents due to the presence of oxygen functional groups on their surface.",
+        "Question": "Which functional groups on the surface of GQDs are considered to be reductive?",
+        "A": "Carbonyl groups",
+        "B": "Hydroxyl groups",
+        "C": "Amino groups",
+        "D": "Phosphate groups",
+        "Answer": "B",
+        "Source": "They can reduce metal precursors into metal particles under a certain molar ratio of GQDs. The hydroxyl groups on the surface of GQDs are considered reductive groups."
+    },
+    "Question_8": {
+        "Context": "The biocompatibility of graphene quantum dots (GQDs) is an important factor for their use in bio-applications.",
+        "Question": "What is a crucial factor to consider for ensuring the high biocompatibility of GQDs?",
+        "A": "The precursor and solvent must be nontoxic",
+        "B": "The GQDs must be synthesized at high temperatures",
+        "C": "The GQDs should have a high electrical resistance",
+        "D": "The GQDs must be synthesized in an inert atmosphere",
+        "Answer": "A",
+        "Source": "To get high biocompatibility of GQDs, several factors should be considered. (1) The precursor and solvent must be nontoxic (for instance, they should only produce GQDs, water, or carbide precipitates);"
+    },
+    "Question_9": {
+        "Context": "In biosensing, the adsorption of the target analyte onto the sensor surface is crucial for the performance of the biosensor.",
+        "Question": "What types of interactions improve the selectivity of biosensors by enhancing the binding affinity between the analyte and the sensor surface?",
+        "A": "Physisorption and chemisorption",
+        "B": "Thermal and electrical interactions",
+        "C": "Magnetic and gravitational interactions",
+        "D": "Nuclear and weak interactions",
+        "Answer": "A",
+        "Source": "To improve the selectivity of biosensors, the binding affinity between the analyte and the surface should be observed via physisorption (electrostatic, \u03c0 interactions, hydrogen bond, and van der Waals forces) and chemisorption (covalent bond interaction)."
+    },
+    "Question_10": {
+        "Context": "Graphene quantum dots (GQDs) can be used as fluorescence agents due to their photoluminescence properties.",
+        "Question": "What biological applications can GQDs be used for due to their fluorescence properties?",
+        "A": "Labeling, diagnostic, drug delivery, and electronic devices for health monitoring",
+        "B": "Power generation and energy storage",
+        "C": "Structural reinforcement in construction materials",
+        "D": "Catalysis in industrial chemical reactions",
+        "Answer": "A",
+        "Source": "Owing to their simple preparation, minimal reagents, easy functionalization, and excellent fluorescence properties, GQDs can be used as fluorescence platforms in various biological applications, such as labeling, diagnostic, drug delivery, and electronic devices for health monitoring."
+    }
+}

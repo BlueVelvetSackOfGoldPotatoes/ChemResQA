@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Radiopharmaceuticals are compounds labeled with radioisotopes used in the medical field to diagnose or treat diseases. One such compound is [68Ga]Ga-FAPI-46, which targets the fibroblast activation protein and is used for imaging cancerous tissues.",
+        "Question": "What is the primary use of [68Ga]Ga-FAPI-46 in medicine?",
+        "A": "Imaging of cancerous tissues",
+        "B": "Treatment of viral infections",
+        "C": "Pain relief in chronic conditions",
+        "D": "Stimulation of immune response",
+        "Answer": "A",
+        "Source": "Radiopharmaceuticals capable of targeting the fibroblast activation protein have become widely utilized in the research realm as well as show great promise to be commercialized; with [68Ga]Ga\u2011FAPI\u201146 being one of the most widely utilized."
+    },
+    "Question_2": {
+        "Context": "In radiochemistry, the synthesis of radiopharmaceuticals often involves the use of a cyclotron to produce the required radioisotopes. Gallium-68 can be produced via a cyclotron using a liquid target containing enriched zinc-68.",
+        "Question": "Which nuclear reaction is used in a cyclotron to produce gallium-68 for radiopharmaceuticals?",
+        "A": "68Zn(d,n)68Ga",
+        "B": "68Zn(p,n)68Ga",
+        "C": "68Zn(n,p)68Ga",
+        "D": "68Zn(n,\u03b3)68Ga",
+        "Answer": "B",
+        "Source": "Gallium-68 was obtained in the chemical form of [68Ga]gallium(III) nitrate ([68Ga] Ga(NO3)3) via the 68Zn(p,n)68Ga nuclear reaction, by irradiating a cyclotron liquid target containing 1 M [68Zn]Zn(NO3)2 in dilute nitric acid with a proton beam of 30\u201340 \u03bcA for 60 min."
+    },
+    "Question_3": {
+        "Context": "The synthesis of radiopharmaceuticals requires purification steps to ensure the final product meets quality standards. One such step involves the use of chromatography resins to trap and elute specific isotopes.",
+        "Question": "Which resin is used to trap gallium-68 during the purification process in the synthesis of [68Ga]Ga-FAPI-46?",
+        "A": "Anion exchange resin",
+        "B": "Cation exchange resin",
+        "C": "ZR resin",
+        "D": "TK200 resin",
+        "Answer": "C",
+        "Source": "The 68Ga is trapped on the first column (ZR Resin) while the zinc is not trapped on the column under these conditions."
+    },
+    "Question_4": {
+        "Context": "In the preparation of radiopharmaceuticals, the final product must be sterile and free from bacterial endotoxins. This is often verified through specific quality control tests.",
+        "Question": "What is the maximum acceptable level of bacterial endotoxins in [68Ga]Ga-FAPI-46 according to the provided quality control specifications?",
+        "A": "< 1.00 EU/mL",
+        "B": "< 5.00 EU/mL",
+        "C": "< 8.75 EU/mL",
+        "D": "< 10.00 EU/mL",
+        "Answer": "C",
+        "Source": "Apyrogenicity tests were performed in-house using Endosafe-Nextgen PTS (Charles River Laboratories Inc.) to ensure that doses of [68Ga]Ga-FAPI-46 contained < 8.75 endotoxin units (EU) per mL."
+    },
+    "Question_5": {
+        "Context": "The stability of a radiopharmaceutical is crucial for its efficacy and safety. Stability studies are conducted to ensure the product maintains its purity over time.",
+        "Question": "What was the observed stability duration of [68Ga]Ga-FAPI-46 at room temperature without degradation?",
+        "A": "2 hours",
+        "B": "4 hours",
+        "C": "6 hours",
+        "D": "24 hours",
+        "Answer": "B",
+        "Source": "Stability studies conducted at room temperature showed no degradation of the product out to 4-h, with consistent radiochemical purities by HPLC shown."
+    },
+    "Question_6": {
+        "Context": "The radiochemical purity of a radiopharmaceutical is a measure of the proportion of the radioisotope that is in the desired chemical form. High radiochemical purity is essential for the effectiveness of the radiopharmaceutical.",
+        "Question": "What is the minimum radiochemical purity percentage of [68Ga]Ga-FAPI-46 as determined by HPLC?",
+        "A": "85%",
+        "B": "90%",
+        "C": "95%",
+        "D": "99%",
+        "Answer": "C",
+        "Source": "The resulting [68Ga]FAPI-46 is stable out to its 4-h expiry, with no observed radioimpurity formation or increase in free gallium-68... in high radiochemical purity (> 95%) and in a fully GMP-compliant fashion."
+    },
+    "Question_7": {
+        "Context": "In the synthesis of radiopharmaceuticals, it is important to minimize the presence of metal ion contaminants which can interfere with the radiochemical processes and the purity of the final product.",
+        "Question": "What is the purpose of using metal-free conditions in the preparation of [68Ga]Ga-FAPI-46?",
+        "A": "To increase the reaction speed",
+        "B": "To minimize potential sources of metal ion contaminants",
+        "C": "To enhance the color of the final product",
+        "D": "To reduce the cost of materials",
+        "Answer": "B",
+        "Source": "As with many gallium radiosyntheses it is critical to minimize any potential sources of metal ion contaminants."
+    },
+    "Question_8": {
+        "Context": "The labeling of radiopharmaceuticals involves attaching the radioisotope to a precursor molecule. This process is often carried out under controlled conditions to ensure the efficiency of labeling.",
+        "Question": "At what temperature is the labeling of DOTA-FAPI-46 with gallium-68 typically performed?",
+        "A": "Room temperature",
+        "B": "37 \u00b0C",
+        "C": "95 \u00b0C",
+        "D": "100 \u00b0C",
+        "Answer": "C",
+        "Source": "Labelling of DOTA-FAPI-46 in an acetate buffer takes place at 95 \u00b0C over 10 min."
+    },
+    "Question_9": {
+        "Context": "The half-life of a radioisotope is the time required for half of the radioactive atoms to decay. It is a critical parameter for identifying the radioisotope and ensuring the correct one is being used in the synthesis of a radiopharmaceutical.",
+        "Question": "What is the half-life range for gallium-68 as used in the synthesis of [68Ga]Ga-FAPI-46?",
+        "A": "60-63 minutes",
+        "B": "64-67 minutes",
+        "C": "68-71 minutes",
+        "D": "72-75 minutes",
+        "Answer": "B",
+        "Source": "Radionuclidic identity (t1/2, minutes) 64\u201367"
+    },
+    "Question_10": {
+        "Context": "The final formulation of a radiopharmaceutical includes passing the reaction mixture through a sterilizing filter to ensure the product is free from microbial contamination.",
+        "Question": "What is the size of the sterilizing filter used in the formulation of [68Ga]Ga-FAPI-46?",
+        "A": "0.1-micron",
+        "B": "0.22-micron",
+        "C": "0.45-micron",
+        "D": "0.8-micron",
+        "Answer": "B",
+        "Source": "The reaction mixture is then diluted with 0.9% saline and passed through the Accell CM cartridge to the final vial through a 0.22-micron sterilizing filter."
+    }
+}

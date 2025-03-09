@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Silver ions (Ag+) are used in various applications such as sterilization, purification, and deodorization. However, excessive exposure to Ag+ can lead to accumulation in the body and cause various health issues.",
+        "Question": "What health problems can excessive exposure to silver ions (Ag+) potentially cause?",
+        "A": "Argentosis and cell membrane damage",
+        "B": "Increased cognitive function",
+        "C": "Improved respiratory health",
+        "D": "Strengthened immune system",
+        "Answer": "A",
+        "Source": "Ag+ is used in sterilization, purification and deodorization, but if used improperly, it may accumulate in the body and cause argentosis, serious damage to the cell membrane through extracellular mechanisms, skin irritation, stomach pain, organ edema and even death."
+    },
+    "Question_2": {
+        "Context": "Traditional methods for detecting silver ions include atomic fluorescence spectrometry, atomic absorption/emission spectrometry, and inductively coupled plasma mass spectrometry.",
+        "Question": "Which of the following is NOT a traditional method for detecting silver ions?",
+        "A": "Atomic fluorescence spectrometry",
+        "B": "Inductively coupled plasma mass spectrometry",
+        "C": "Colorimetric sensing method",
+        "D": "Atomic absorption/emission spectrometry",
+        "Answer": "C",
+        "Source": "At present, the most commonly used silver ion detection methods include atomic fluorescence spectrometry, atomic absorption/emission spectrometry, and inductively coupled plasma mass spectrometry."
+    },
+    "Question_3": {
+        "Context": "Graphene oxide and its derivatives are known for their catalytic performance and have been used in colorimetric sensing and detection due to their unique properties.",
+        "Question": "What properties of graphene oxide make it suitable for use in colorimetric sensing and detection?",
+        "A": "Low electrical conductivity",
+        "B": "Layered structure, large specific surface area, and active surface groups",
+        "C": "High thermal expansion",
+        "D": "Opacity and brittleness",
+        "Answer": "B",
+        "Source": "Among nanomaterials, graphene and its derivatives have good catalytic performance and have unique layered structure, large specific surface area and active groups on the surface to provide modified active sites for loading other nanomaterials."
+    },
+    "Question_4": {
+        "Context": "In the synthesis of graphene oxide/nano-platinum composites, certain parameters such as pH, concentration of precursor, synthesis temperature, and time can affect the properties of the resulting composites.",
+        "Question": "Which parameter is NOT typically varied to optimize the synthesis of graphene oxide/nano-platinum composites?",
+        "A": "pH of the mixture",
+        "B": "Concentration of chloroplatinic acid solution",
+        "C": "Synthesis temperature",
+        "D": "Electrical resistance of the mixture",
+        "Answer": "D",
+        "Source": "The parameters (pH of the mixture, concentration of H2PtCl6 solution, synthesis temperature and synthesis time) affect the size, shape, dispersion and catalytic ability of GO/PtNPs."
+    },
+    "Question_5": {
+        "Context": "The catalytic activity of graphene oxide/nano-platinum composites can be measured by observing the reaction with hydrogen peroxide and a substrate such as TMB.",
+        "Question": "What is the purpose of using hydrogen peroxide (H2O2) in the catalytic activity measurement of graphene oxide/nano-platinum composites?",
+        "A": "To increase the pH of the reaction mixture",
+        "B": "To serve as a reducing agent for graphene oxide",
+        "C": "To be decomposed, generating hydroxyl radicals for the oxidation of TMB",
+        "D": "To act as a stabilizer for the nano-platinum particles",
+        "Answer": "C",
+        "Source": "5 \u03bcL of the synthesized GO/PtNPs, 40 \u03bcL of TMB (1 mM), and 4 \u03bcL of H2O2 (10 M) were mixed and then, fixed to 2000 \u03bcL with citrate buffer solution at pH = 5."
+    },
+    "Question_6": {
+        "Context": "The catalytic kinetic parameters of a composite material can be studied by varying the concentration of substrates such as hydrogen peroxide and TMB.",
+        "Question": "In the study of catalytic kinetics, what does a small Michaelis constant (Km) value indicate about a substrate's affinity to the catalyst?",
+        "A": "Low affinity",
+        "B": "No affinity",
+        "C": "High affinity",
+        "D": "Unpredictable affinity",
+        "Answer": "C",
+        "Source": "In addition, the relatively small Km value is obtained by changing the concentration of TMB. This indicates that TMB has stronger affinity with GO/PtNPs."
+    },
+    "Question_7": {
+        "Context": "The detection of silver ions using colorimetric sensing methods can be influenced by the presence of other metal ions, which may cause interference.",
+        "Question": "What is the purpose of conducting a specificity and anti-interference analysis in the detection of Ag+ ions?",
+        "A": "To determine the pH level required for detection",
+        "B": "To assess the response of the sensor to other metal ions",
+        "C": "To identify the optimal temperature for detection",
+        "D": "To measure the electrical conductivity of the sensor",
+        "Answer": "B",
+        "Source": "Specificity and anti\u2011interference analysis Ag+, Zn2+, Cr6+, Cu2+, Ni2+, Al3+, Cd2+ and Ca2+ solutions were added to 1000 \u03bcL citric acid buffer solution with pH 5 and 2 \u03bcL GO/PtNPs solution."
+    },
+    "Question_8": {
+        "Context": "The practical application of a colorimetric sensing method for Ag+ detection can be evaluated by adding known concentrations of Ag+ to various environmental water samples and measuring the recovery rate.",
+        "Question": "What is the purpose of a spike-and-recovery experiment in the context of Ag+ detection?",
+        "A": "To calibrate the colorimetric sensor",
+        "B": "To test the sensor's durability over time",
+        "C": "To verify the accuracy of the sensor in real sample matrices",
+        "D": "To determine the sensor's power consumption",
+        "Answer": "C",
+        "Source": "The practicability of the proposed method was studied by adding different concentrations of Ag+ to various environmental water samples."
+    },
+    "Question_9": {
+        "Context": "The characterization of graphene oxide/nano-platinum composites can be performed using various techniques, including transmission electron microscopy (TEM), Raman spectroscopy, and X-ray diffraction (XRD).",
+        "Question": "What information can be obtained from the TEM characterization of graphene oxide/nano-platinum composites?",
+        "A": "Electrical conductivity",
+        "B": "Magnetic properties",
+        "C": "Shape and size of the nanoparticles",
+        "D": "Thermal stability",
+        "Answer": "C",
+        "Source": "The shape and size analyses of the prepared GO/PtNPs were identified using a JEOL-JEM2100F (Japan) transmission electron microscope (TEM) at 200 kv."
+    },
+    "Question_10": {
+        "Context": "The catalytic activity of graphene oxide/nano-platinum composites can be optimized by adjusting the reaction conditions during their preparation.",
+        "Question": "Which condition is considered optimal for the hydrothermal synthesis of graphene oxide/nano-platinum composites?",
+        "A": "pH value of 9.5",
+        "B": "Concentration of H2PtCl6 at 0.08 mM",
+        "C": "Hydrothermal time of 6 hours",
+        "D": "Reaction temperature of 150 \u00b0C",
+        "Answer": "A",
+        "Source": "Therefore, through the optimization of experimental conditions in the preparation process of GO/PtNPs, the ideal pH value is 9.5, the concentration of H2PtCl6 is 0.24 mM, the hydrothermal time is 9 h, and the reaction temperature is 180 \u00b0C."
+    }
+}

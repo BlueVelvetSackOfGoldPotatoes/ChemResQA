@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study, how did red light exposure affect fungal conidiation and hyphal branching in Shiraia sp. S9?",
+        "Question": "What were the effects of red light exposure on fungal conidiation and hyphal branching in Shiraia sp. S9?",
+        "A": "Inhibited conidiation and promoted hyphal branching",
+        "B": "Promoted conidiation and inhibited hyphal branching",
+        "C": "Had no effect on conidiation but promoted hyphal branching",
+        "D": "Had no effect on conidiation but inhibited hyphal branching",
+        "Answer": "A",
+        "Source": "The continuous irradiation with red light suppressed fungal conidiation, promoted hyphal branching."
+    },
+    "Question_2": {
+        "Context": "How did the application of a NO donor sodium nitroprusside (SNP) impact fungal conidiation and PQ production in Shiraia sp. S9 under red light exposure?",
+        "Question": "What was the effect of SNP application on fungal conidiation and PQ production in Shiraia sp. S9 under red light exposure?",
+        "A": "Restored conidiation and stimulated PQ production",
+        "B": "Inhibited conidiation and PQ production",
+        "C": "Had no effect on conidiation but stimulated PQ production",
+        "D": "Had no effect on conidiation but inhibited PQ production",
+        "Answer": "A",
+        "Source": "The application of a NO donor sodium nitroprusside (SNP) restored conidiation of Shiraia sp. S9 under red light and stimulated PQ production."
+    },
+    "Question_3": {
+        "Context": "What was the role of NO in the regulation of fungal growth and PQ production in Shiraia sp. S9 under red light exposure?",
+        "Question": "How did NO impact fungal growth and PQ production in Shiraia sp. S9 under red light exposure?",
+        "A": "Inhibited fungal growth and PQ production",
+        "B": "Stimulated fungal growth and PQ production",
+        "C": "Had no effect on fungal growth but stimulated PQ production",
+        "D": "Had no effect on fungal growth but inhibited PQ production",
+        "Answer": "B",
+        "Source": "Red light-induced NO, as a signaling molecule, was involved in the regulation of growth and PQ production in Shiraia sp. S9."
+    },
+    "Question_4": {
+        "Context": "How did red light exposure impact the accumulation of individual PQs in Shiraia sp. S9?",
+        "Question": "What was the effect of red light exposure on the accumulation of individual PQs in Shiraia sp. S9?",
+        "A": "Decreased accumulation of individual PQs",
+        "B": "Increased accumulation of individual PQs",
+        "C": "Had no effect on the accumulation of individual PQs",
+        "D": "Varied effects on different individual PQs",
+        "Answer": "B",
+        "Source": "Red light exposure notably boosted the production of red PQ pigments, including HA, HC, and EA-EC in Shiraia sp. S9."
+    },
+    "Question_5": {
+        "Context": "What was the impact of NO scavenger cPTIO on fungal conidiation and PQ production in Shiraia sp. S9 under red light exposure?",
+        "Question": "How did the NO scavenger cPTIO affect fungal conidiation and PQ production in Shiraia sp. S9 under red light exposure?",
+        "A": "Restored conidiation and stimulated PQ production",
+        "B": "Inhibited conidiation and PQ production",
+        "C": "Had no effect on conidiation but stimulated PQ production",
+        "D": "Had no effect on conidiation but inhibited PQ production",
+        "Answer": "D",
+        "Source": "The mycelium cultures exposed to red-light in the presence of a sGC inhibitor NS-2028 or a NO scavenger cPTIO significantly decreased the contents of individual PQs."
+    },
+    "Question_6": {
+        "Context": "How did red light exposure affect the membrane permeability of Shiraia sp. S9?",
+        "Question": "What was the impact of red light exposure on the membrane permeability of Shiraia sp. S9?",
+        "A": "Decreased membrane permeability",
+        "B": "Increased membrane permeability",
+        "C": "Had no effect on membrane permeability",
+        "D": "Varied effects on different membrane components",
+        "Answer": "B",
+        "Source": "Red light exposure induced the production of other signal molecules, such as eATP and Ca2+, and enhanced membrane permeability in Shiraia sp. S9."
+    },
+    "Question_7": {
+        "Context": "What was the role of NO in red light-induced PQ biosynthesis in Shiraia sp. S9?",
+        "Question": "How did NO contribute to red light-induced PQ biosynthesis in Shiraia sp. S9?",
+        "A": "Inhibited PQ biosynthesis",
+        "B": "Stimulated PQ biosynthesis",
+        "C": "Had no effect on PQ biosynthesis",
+        "D": "Varied effects on different PQs",
+        "Answer": "B",
+        "Source": "NO can act as a signal molecule with eATP and Ca2+, working synergistically to enhance the biosynthesis of HA under red light conditions."
+    },
+    "Question_8": {
+        "Context": "What was the effect of the combined treatment of red light and SNP on HA production in Shiraia sp. S9?",
+        "Question": "How did the combined treatment of red light and SNP impact HA production in Shiraia sp. S9?",
+        "A": "Decreased HA production",
+        "B": "Increased HA production",
+        "C": "Had no effect on HA production",
+        "D": "Varied effects on different stages of HA production",
+        "Answer": "B",
+        "Source": "The synergistic combination of red light exposure and NO donor SNP treatment amplified the stimulation of HA production in Shiraia mycelium culture."
+    },
+    "Question_9": {
+        "Context": "What were the effects of red light exposure on fungal biomass and HA production in Shiraia sp. S9?",
+        "Question": "How did red light exposure impact fungal biomass and HA production in Shiraia sp. S9?",
+        "A": "Decreased fungal biomass and HA production",
+        "B": "Increased fungal biomass and HA production",
+        "C": "Had no effect on fungal biomass but increased HA production",
+        "D": "Had no effect on fungal biomass but decreased HA production",
+        "Answer": "B",
+        "Source": "Red light exposure promoted the accumulation of fungal PQs, including HA, HC, and EA-EC, in Shiraia sp. S9."
+    },
+    "Question_10": {
+        "Context": "What was the impact of NO scavenger cPTIO on fungal HA production in Shiraia sp. S9 under red light exposure?",
+        "Question": "How did the NO scavenger cPTIO affect fungal HA production in Shiraia sp. S9 under red light exposure?",
+        "A": "Stimulated HA production",
+        "B": "Inhibited HA production",
+        "C": "Had no effect on HA production",
+        "D": "Varied effects on different stages of HA production",
+        "Answer": "B",
+        "Source": "The red light-induced expressions of HA biosynthetic genes and HA production were markedly inhibited by the NO scavenger cPTIO."
+    }
+}

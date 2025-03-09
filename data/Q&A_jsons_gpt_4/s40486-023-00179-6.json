@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Hybrid nano lubricants (HNLs) are fluids that contain a mixture of nanoparticles in a base oil, which can affect the lubrication performance of vehicles.",
+        "Question": "What is the observed behavior of HNLs with increasing solid volume fraction (SVF)?",
+        "A": "Decreased non-Newtonian behavior",
+        "B": "Increased non-Newtonian behavior",
+        "C": "Transition to Newtonian behavior",
+        "D": "No change in rheological behavior",
+        "Answer": "B",
+        "Source": "It was also observed that with increasing SVF, the non-Newtonian behavior of HNLs was intensified."
+    },
+    "Question_2": {
+        "Context": "The viscosity of lubricants is a critical thermophysical property that can be influenced by the addition of nanoparticles.",
+        "Question": "Which factor has the greatest influence on the viscosity sensitivity of HNLs?",
+        "A": "Temperature changes at low temperatures",
+        "B": "Shear rate changes at low shear rates",
+        "C": "Solid volume fraction changes at high SVFs",
+        "D": "Base oil type changes",
+        "Answer": "C",
+        "Source": "Viscosity sensitivity analysis shows that the greatest sensitivity will result from SVF changes at high SVFs."
+    },
+    "Question_3": {
+        "Context": "In the context of lubricants, the term 'pseudo-plastic behavior' refers to a type of non-Newtonian behavior where viscosity decreases with increasing shear rate.",
+        "Question": "What type of behavior is exhibited by HNLs according to viscosity measurements?",
+        "A": "Newtonian fluid behavior",
+        "B": "Dilatant fluid behavior",
+        "C": "Pseudo-plastic behavior",
+        "D": "Bingham plastic behavior",
+        "Answer": "C",
+        "Source": "Viscosity measurements show pseudo-plastic behavior at all temperatures and SVFs."
+    },
+    "Question_4": {
+        "Context": "The addition of nanoparticles to a base fluid can enhance its thermal conductivity and other thermophysical properties.",
+        "Question": "What was the observed effect on thermal conductivity when nanoparticles were added to a base fluid?",
+        "A": "Decreased thermal conductivity",
+        "B": "No change in thermal conductivity",
+        "C": "Increased thermal conductivity",
+        "D": "Variable effect on thermal conductivity",
+        "Answer": "C",
+        "Source": "The distribution of nanoparticles (NPs) in the base fluid due to the high thermal conductivity (TC) and also the change in mass transfer improves the thermophysical properties such as density, viscosity, and TC."
+    },
+    "Question_5": {
+        "Context": "The viscosity of a fluid can be affected by temperature, and this is an important consideration in the formulation of lubricants.",
+        "Question": "How does temperature generally affect the viscosity of HNLs?",
+        "A": "Viscosity increases with increasing temperature",
+        "B": "Viscosity decreases with increasing temperature",
+        "C": "Viscosity remains constant with changes in temperature",
+        "D": "Viscosity first increases then decreases with increasing temperature",
+        "Answer": "B",
+        "Source": "The results show that the viscosity of HNL decreases with increasing temperature and increases with increasing SVF."
+    },
+    "Question_6": {
+        "Context": "The rheological behavior of fluids can be classified based on their flow characteristics in response to applied shear stress.",
+        "Question": "What classification of fluid behavior is indicated by a power-law index (n) less than 1?",
+        "A": "Newtonian fluid",
+        "B": "Dilatant fluid",
+        "C": "Pseudoplastic fluid",
+        "D": "Bingham plastic fluid",
+        "Answer": "C",
+        "Source": "According to Fig. 8, both HNLs can be classified as non-Newtonian fluids because they are lower than the index line with a certainty of n values in all SVFs."
+    },
+    "Question_7": {
+        "Context": "The study of rheological properties of lubricants is important for understanding how they will perform under different conditions.",
+        "Question": "What is the relationship between shear rate (SR) and shear stress for a Newtonian fluid?",
+        "A": "Inverse relationship",
+        "B": "Nonlinear relationship",
+        "C": "Linear relationship",
+        "D": "Exponential relationship",
+        "Answer": "C",
+        "Source": "According to Eq. 2, for Newtonian fluid, there is a linear relationship between SR and shear stress."
+    },
+    "Question_8": {
+        "Context": "Nanofluids are engineered colloidal suspensions of nanoparticles in a base fluid, which can exhibit enhanced thermal properties.",
+        "Question": "What is the primary reason for the enhanced thermal properties of nanofluids?",
+        "A": "Decreased density of the base fluid",
+        "B": "Increased thermal conductivity of the nanoparticles",
+        "C": "Chemical reactions between nanoparticles and the base fluid",
+        "D": "Reduced viscosity of the nanofluid",
+        "Answer": "B",
+        "Source": "The distribution of nanoparticles (NPs) in the base fluid due to the high thermal conductivity (TC) and also the change in mass transfer improves the thermophysical properties such as density, viscosity, and TC."
+    },
+    "Question_9": {
+        "Context": "The viscosity of lubricants can be modified by changing the composition of the lubricant, such as by adding nanoparticles.",
+        "Question": "What effect does increasing the solid volume fraction (SVF) of nanoparticles in a lubricant have on its viscosity?",
+        "A": "Decreases viscosity",
+        "B": "Increases viscosity",
+        "C": "No change in viscosity",
+        "D": "First increases then decreases viscosity",
+        "Answer": "B",
+        "Source": "The results show that the viscosity of HNL decreases with increasing temperature and increases with increasing SVF."
+    },
+    "Question_10": {
+        "Context": "The response surface methodology (RSM) is a statistical technique used for modeling and analyzing problems in which a response of interest is influenced by several variables.",
+        "Question": "What is the purpose of using RSM in the analysis of HNLs?",
+        "A": "To determine the color of the HNLs",
+        "B": "To predict the electrical conductivity of HNLs",
+        "C": "To predict the viscosity of HNLs",
+        "D": "To measure the density of HNLs",
+        "Answer": "C",
+        "Source": "Finally, using RSM, an empirical model was presented to predict viscosity data with acceptable accuracy (validated using R-Squared and MOD)."
+    }
+}

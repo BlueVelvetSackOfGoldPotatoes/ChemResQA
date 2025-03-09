@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on evaluating the influence of Molded Pulp Products' manufacturing process parameters on mechanical and hygroscopic properties using bleached softwood Chemi-Thermo-Mechanical Pulp. ",
+        "Question": "What was one of the specific process parameters tested in the study?",
+        "A": "Mould B temperature",
+        "B": "Pulping time",
+        "C": "Drying time",
+        "D": "Pressing time",
+        "Answer": "B",
+        "Source": "The results of these tests were used to obtain an optimized manufacturing process with improved mechanical properties and a lower water uptake after sorption analysis and water immersion."
+    },
+    "Question_2": {
+        "Context": "The study aimed to propose new products with a lower environmental impact by using wood cellulose fiber for manufacturing.",
+        "Question": "What is the main advantage of using Chemi-Thermo-Mechanical Pulping (CTMP) over chemical pulps?",
+        "A": "Higher cost",
+        "B": "Lower yield of pulp produced",
+        "C": "Less expensive to produce",
+        "D": "Higher amount of hemicellulose",
+        "Answer": "C",
+        "Source": "It has replaced some chemical pulps for several applications as it is a less-expensive pulp to produce with a much higher yield of pulp produced."
+    },
+    "Question_3": {
+        "Context": "The study mentioned different categories of Molded Pulp Products (MPPs) based on the manufacturing process used.",
+        "Question": "Which category of MPPs is described as having a smooth side in contact with the mold and a rougher side?",
+        "A": "Thick-wall",
+        "B": "Transfer Molded",
+        "C": "Thermoformed",
+        "D": "Processed",
+        "Answer": "A",
+        "Source": "\"Thick-wall\": made using one mould resulting in a smooth side (in contact with mould) and a rougher side."
+    },
+    "Question_4": {
+        "Context": "The study discussed the influence of process parameters on the sorption behavior of Molded Pulp Products.",
+        "Question": "Which factor had a better impact at lower temperature for water activity of 0.1 to 0.5?",
+        "A": "Pulping time",
+        "B": "Mould B temperature",
+        "C": "Moulds C-D temperature",
+        "D": "Drying time moulds C-D",
+        "Answer": "B",
+        "Source": "The mould B temperature has a better impact at lower temperature for aw of 0.1 to 0.5."
+    },
+    "Question_5": {
+        "Context": "The study analyzed the mechanical properties of Molded Pulp Products based on different process parameters.",
+        "Question": "What effect did a longer pulping time have on the Young's Modulus of the samples?",
+        "A": "Decreased",
+        "B": "No effect",
+        "C": "Increased",
+        "D": "Varied",
+        "Answer": "A",
+        "Source": "A lower amount and size of pores as well as longer fibers given by a shorter pulping time is beneficial for a higher Young\u2019s Modulus."
+    },
+    "Question_6": {
+        "Context": "The study discussed the optimization of manufacturing process parameters for improved properties of Molded Pulp Products.",
+        "Question": "How many tests were performed to confirm the theoretical results obtained from the Taguchi method?",
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12",
+        "Answer": "10",
+        "Source": "With the experimental results of these 8 specific tests, the Taguchi Table allowed us to obtain theoretical results of all the other tests possibilities. Two final tests with optimized process parameters from the initial 8 were done to confirm the Taguchi method used for this study."
+    },
+    "Question_7": {
+        "Context": "The study aimed to optimize the hygroscopic and mechanical properties of BCTMP without using additives.",
+        "Question": "What was the main objective of the study regarding the Molded Pulp Products?",
+        "A": "To increase water uptake",
+        "B": "To decrease mechanical properties",
+        "C": "To optimize manufacturing process",
+        "D": "To add chemical additives",
+        "Answer": "C",
+        "Source": "This study allowed us to optimize the hygroscopic and mechanical properties of BCTMP without using additives and by optimizing the manufacturing process."
+    },
+    "Question_8": {
+        "Context": "The study discussed the influence of process parameters on the sorption behavior of Molded Pulp Products.",
+        "Question": "What variable in the GAB equation had the highest impact on water uptake for higher water activity?",
+        "A": "\u03c4m",
+        "B": "C",
+        "C": "K",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "When pressure is applied, the product\u2019s density increased, and pore size reduced. As a result, these modifications in the samples morphology either improved or decreased the mechanical properties."
+    },
+    "Question_9": {
+        "Context": "The study aimed to optimize the hygroscopic and mechanical properties of BCTMP without using additives.",
+        "Question": "What was the outcome of test n\u00b09 with optimized process parameters?",
+        "A": "Lower water uptake and higher Young's Modulus",
+        "B": "Higher water uptake and lower Young's Modulus",
+        "C": "No change in properties",
+        "D": "Inconclusive results",
+        "Answer": "A",
+        "Source": "With test n\u00b010 the water uptake was on average 70% lower than all 8 tests made with the Taguchi table as well as a Young\u2019s modulus after 30h immersion 58% higher."
+    },
+    "Question_10": {
+        "Context": "The study discussed the optimization of manufacturing process parameters for improved properties of Molded Pulp Products.",
+        "Question": "What was the purpose of the two final tests performed after the initial 8 tests?",
+        "A": "To confirm theoretical results",
+        "B": "To introduce new parameters",
+        "C": "To change the manufacturing process",
+        "D": "To compare with previous studies",
+        "Answer": "A",
+        "Source": "Two final tests with optimized process parameters from the initial 8 were done to confirm the Taguchi method used for this study."
+    }
+}

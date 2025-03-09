@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Plant polysaccharides are known for their various pharmacological effects, including immune regulation and antioxidant activities.",
+        "Question": "What pharmacological effects are attributed to plant polysaccharides?",
+        "A": "Regulating immunity and anti-tumor effects",
+        "B": "Antioxidant and antibacterial effects",
+        "C": "Hypoglycemic effects",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Polysaccharides, as one of the main components of lilies, have pharmacological effects in regulating immunity, anti-tumor, antioxidant, antibacterial, and hypoglycemic effects."
+    },
+    "Question_2": {
+        "Context": "The molecular weight of polysaccharides can be determined by high-performance gel permeation chromatography (HPGPC).",
+        "Question": "Which method is used to determine the molecular weight of polysaccharides?",
+        "A": "Ion exchange chromatography",
+        "B": "Gel filtration chromatography",
+        "C": "High-performance gel permeation chromatography (HPGPC)",
+        "D": "Gas chromatography-mass spectrum (GC\u2013MS)",
+        "Answer": "C",
+        "Source": "The molecular weight and homogeneity of the polysaccharide sample were determined by HPGPC method."
+    },
+    "Question_3": {
+        "Context": "Monosaccharide composition of polysaccharides can be analyzed using specific chromatographic techniques.",
+        "Question": "Which chromatographic technique is used to analyze the monosaccharide composition of polysaccharides?",
+        "A": "High-performance liquid chromatography (HPLC)",
+        "B": "Dionex Ion Chromatography",
+        "C": "Gel permeation chromatography",
+        "D": "Thin-layer chromatography (TLC)",
+        "Answer": "B",
+        "Source": "A Dionex Ion Chromatography ICS 5000 system (Thermo Fisher Scientific Inc., USA) and a CarboPac PA20 analytical column (150 \u00d7 3 mm) (Thermo Fisher Scientific Inc., USA) were used to analyze the monosaccharide composition of the LP-1."
+    },
+    "Question_4": {
+        "Context": "Infrared spectroscopy can be used to identify functional groups in organic molecules such as polysaccharides.",
+        "Question": "What does the broad and strong absorption peak at 3,400 cm\u22121 in the FT-IR spectrum of polysaccharides indicate?",
+        "A": "Presence of amino groups",
+        "B": "Presence of carboxyl groups",
+        "C": "Stretching vibrations of O\u2013H",
+        "D": "Stretching vibrations of C\u2013H",
+        "Answer": "C",
+        "Source": "The broad and strong absorption peak at 3,400 cm\u22121 is attributed to the stretching vibrations of O\u2013H."
+    },
+    "Question_5": {
+        "Context": "The degree of acetylation in polysaccharides affects their physical and biological properties.",
+        "Question": "What is the degree of acetylation substitution of LP-1?",
+        "A": "8.21%",
+        "B": "12.5%",
+        "C": "5.3%",
+        "D": "1.4%",
+        "Answer": "A",
+        "Source": "The degree of acetylation substitution of LP-1 DA = [(1 \u00d7 100%)/3]/(0.24 + 0.17 + 2.25 + 1.40) \u2248 8.21%."
+    },
+    "Question_6": {
+        "Context": "Nuclear magnetic resonance (NMR) spectroscopy is a powerful tool for determining the structure of organic compounds, including polysaccharides.",
+        "Question": "Which NMR spectroscopy technique provides information about the connectivity between carbon and hydrogen atoms in a molecule?",
+        "A": "1H NMR",
+        "B": "13C NMR",
+        "C": "COSY",
+        "D": "HSQC",
+        "Answer": "D",
+        "Source": "The HSQC spectrum (Fig. 3a) revealed five coupling peaks in the heterocephalic region; these peaks are located at \u03b4 5.33/93.51, \u03b4 5.31/100.41, \u03b4 4.85/101.46, \u03b4 4.66/100.94 and \u03b4 4.40/103.90 and respectively correspond to H-1/C-1 of \u2192 4)-\u03b1-D-Glcp (A), Glcp- \u03b1-D-(1 \u2192 (B), \u2192 4)-2-O-acetyl-\u03b2-D-Manp-(1 \u2192 (C), \u2192 4)-\u03b2-D-Manp-(1 \u2192 (D) and \u2192 4)-\u03b2-D-Glcp-(1 \u2192 (E)."
+    },
+    "Question_7": {
+        "Context": "Polysaccharides can be modified by the addition of acetyl groups, which can be detected by specific NMR signals.",
+        "Question": "What is the characteristic NMR signal for O-acetyl groups in polysaccharides?",
+        "A": "\u03b4 5.40-5.50 ppm",
+        "B": "\u03b4 2.10 ppm",
+        "C": "\u03b4 3.40-3.50 ppm",
+        "D": "\u03b4 4.30-4.40 ppm",
+        "Answer": "B",
+        "Source": "The signals near 2.10 ppm in the 1H NMR spectrum and the signals of 21.69 and 174.77 ppm in the 13C NMR spectrum are characteristic signals of the O-acetyl group."
+    },
+    "Question_8": {
+        "Context": "The presence of specific functional groups in polysaccharides can be identified by their characteristic absorption peaks in FT-IR spectroscopy.",
+        "Question": "Which absorption peak in the FT-IR spectrum indicates the presence of acetyl groups in polysaccharides?",
+        "A": "890 cm\u22121",
+        "B": "1731 cm\u22121",
+        "C": "3400 cm\u22121",
+        "D": "2930 cm\u22121",
+        "Answer": "B",
+        "Source": "C=O covalent vibrations, C\u2013H bending vibrations and C\u2013O vibrations of the acetyl group are indicated by peaks at 1731, 1377 and 1249 cm\u22121."
+    },
+    "Question_9": {
+        "Context": "The biological activity of polysaccharides can be influenced by their structural characteristics, such as the presence of acetyl groups.",
+        "Question": "What effect do acetyl groups have on the biological properties of polysaccharides?",
+        "A": "They decrease solubility and viscosity",
+        "B": "They have no significant effect",
+        "C": "They modulate properties such as antioxidant and immune regulatory activities",
+        "D": "They increase the molecular weight significantly",
+        "Answer": "C",
+        "Source": "Acetyl groups have important effects on the solubility, viscosity, three-dimensional structure and other physical properties of GMs; they can also modulate the biological properties of these molecules, such as their antioxidant, immune regulatory, anti-radiation and bacteriostatic activity."
+    },
+    "Question_10": {
+        "Context": "The protective effects of polysaccharides against oxidative stress in cells can be evaluated by various biochemical assays.",
+        "Question": "Which of the following is NOT a direct indicator of oxidative stress in cells?",
+        "A": "Nitric oxide (NO) production",
+        "B": "Malondialdehyde (MDA) levels",
+        "C": "Superoxide dismutase (SOD) activity",
+        "D": "Cell viability",
+        "Answer": "D",
+        "Source": "The production or impaired bioavailability of NO is a common sign of endothelial dysfunction, and the production of nitrite (a stable metabolite of NO) is an indicator of NO production. MDA is a toxic substance produced by ROS acting on the cell membrane to produce chain reaction, causing lipid peroxidation. The elimination of ROS is an important way to protect organisms from oxidative stress damage, which is mainly achieved by antioxidant enzymes in the human body."
+    }
+}

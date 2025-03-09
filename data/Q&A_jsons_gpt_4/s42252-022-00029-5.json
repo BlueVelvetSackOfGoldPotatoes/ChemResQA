@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Electrospinning is a technique used to create fibers of different sizes and morphologies from a polymer solution.",
+        "Question": "What is the typical outcome of electrospinning a polymer solution?",
+        "A": "Production of continuous fibers",
+        "B": "Formation of polymer pellets",
+        "C": "Creation of a monolithic polymer block",
+        "D": "Generation of polymer foam",
+        "Answer": "A",
+        "Source": "Electrospinning is a relatively simple technique for producing continuous fibers of various sizes and morphologies."
+    },
+    "Question_2": {
+        "Context": "Poly(3-hydroxybutarate-co-3-hydroxyvalerate), or PHBV, is a biopolymer that can be electrospun into fibers.",
+        "Question": "What is an intrinsic property of PHBV when electrospun into fibers?",
+        "A": "Hydrophobicity",
+        "B": "Hydrophilicity",
+        "C": "Superhydrophobicity",
+        "D": "Oleophilicity",
+        "Answer": "B",
+        "Source": "In this study, an intrinsically hydrophilic poly(3-hydroxybutarate-co-3-hydroxyvalerate) (PHBV) biopolymer strain was electrospun from a solution under optimal processing conditions to produce bilayers of beadless micro-fibers and beaded nano-fibers."
+    },
+    "Question_3": {
+        "Context": "The incorporation of silica nanoparticles into a polymer matrix can alter the surface properties of the resulting fibers.",
+        "Question": "What effect does the incorporation of silica nanoparticles have on the surface of electrospun PHBV fibers?",
+        "A": "Decreases fiber roughness",
+        "B": "Makes the fibers hydrophilic",
+        "C": "Increases fiber roughness",
+        "D": "Reduces the porosity of the fibers",
+        "Answer": "C",
+        "Source": "Incorporation of polydimethylsiloxane (PDMS) treated silica into the electrospinning solutions resulted in a non-wetting state with increased fiber roughness and enhanced porosity."
+    },
+    "Question_4": {
+        "Context": "Stearic acid can be used to modify the surface of fibers to alter their interaction with water.",
+        "Question": "What is the effect of treating PHBV/SiO2 fibrous mats with stearic acid at an elevated temperature?",
+        "A": "Decreases the hydrophilicity of the fibers",
+        "B": "Increases the hydrophilicity of the fibers",
+        "C": "Has no effect on the fibers' properties",
+        "D": "Makes the fibers dissolve in water",
+        "Answer": "A",
+        "Source": "The SiO2\u2013incorporated fibrous mats were then treated with stearic acid at an activation temperature of 80 \u00b0C. This treatment caused fiber surface plasticization, creating a tertiary hierarchical roughness owing to the interaction of PHBV chains with the polar carboxyl groups of the stearic acid."
+    },
+    "Question_5": {
+        "Context": "Scanning electron microscopy (SEM) is a technique used to analyze the surface morphology of materials.",
+        "Question": "What information can be obtained about electrospun fibers using scanning electron microscopy (SEM)?",
+        "A": "The electrical conductivity of the fibers",
+        "B": "The influence of process parameters on surface morphology",
+        "C": "The thermal stability of the fibers",
+        "D": "The molecular weight of the polymer",
+        "Answer": "B",
+        "Source": "Scanning electron microscopy was used to assess the influence of the electrospinning process parameters and the incorporation of nanoparticles on surface morphology of the fibers."
+    },
+    "Question_6": {
+        "Context": "Energy dispersive X-ray spectroscopy (EDX) is an analytical technique used in conjunction with SEM.",
+        "Question": "What does energy dispersive X-ray spectroscopy (EDX) confirm in the context of electrospun fibers?",
+        "A": "The molecular structure of the polymer",
+        "B": "The presence of specific elemental species",
+        "C": "The crystallinity of the polymer fibers",
+        "D": "The exact chemical formula of the polymer",
+        "Answer": "B",
+        "Source": "Energy dispersive X-ray spectroscopy confirmed the presence of SiO2 nanoparticles."
+    },
+    "Question_7": {
+        "Context": "Fourier transform infrared spectroscopy (FTIR) is a technique used to identify chemical bonds in a material by producing an infrared absorption spectrum.",
+        "Question": "What can Fourier transform infrared spectroscopy (FTIR) reveal about electrospun fibers?",
+        "A": "The color of the fibers",
+        "B": "The tensile strength of the fibers",
+        "C": "The incorporation of nanoparticles and their interaction with the polymer",
+        "D": "The weight of the fibers",
+        "Answer": "C",
+        "Source": "Fourier transform infrared spectroscopy was performed to study the incorporation of SiO2 and the interaction of stearic acid with PHBV at various concentrations."
+    },
+    "Question_8": {
+        "Context": "Differential scanning calorimetry (DSC) is a thermoanalytical technique that measures the heat flow associated with material transitions as a function of temperature.",
+        "Question": "What does differential scanning calorimetry (DSC) measure in the context of PHBV fibers?",
+        "A": "The color change temperature of the fibers",
+        "B": "The electrical resistance change temperature of the fibers",
+        "C": "The melting temperature and enthalpy of the fibers",
+        "D": "The solubility temperature of the fibers in water",
+        "Answer": "C",
+        "Source": "The effect of surface modifications on thermal properties was evaluated using differential scanning calorimetry (DSC), specifically, the phase change thermodynamics of the PHBV/SiO2 composite upon modification with SA."
+    },
+    "Question_9": {
+        "Context": "The degree of crystallinity in polymers can be influenced by the addition of fillers and plasticizers.",
+        "Question": "How does the incorporation of nanoparticles and plasticization affect the thermal properties of PHBV?",
+        "A": "Increases the crystalline fraction",
+        "B": "Does not affect the crystalline fraction",
+        "C": "Decreases the crystalline fraction",
+        "D": "Only changes the color of the polymer",
+        "Answer": "C",
+        "Source": "The incorporation of nanoparticles and plasticization altered the thermal properties of PHBV and a decrease in crystalline fraction was observed."
+    },
+    "Question_10": {
+        "Context": "Contact angle measurements can indicate the wetting behavior of a surface, with certain angles suggesting hydrophobic or superhydrophobic properties.",
+        "Question": "What static water contact angle (WCA) and roll-off angle are indicative of superhydrophobic surfaces?",
+        "A": "WCA \u2265 150\u00b0 and roll-off angles \u2264 10\u00b0",
+        "B": "WCA \u2264 150\u00b0 and roll-off angles \u2265 10\u00b0",
+        "C": "WCA \u2265 100\u00b0 and roll-off angles \u2264 5\u00b0",
+        "D": "WCA \u2264 100\u00b0 and roll-off angles \u2265 5\u00b0",
+        "Answer": "A",
+        "Source": "As a rule, surfaces having a WCA \u2265 150\u00b0 and roll-off angles \u2264 10\u00b0 are considered to be superhydrophobic surfaces."
+    }
+}

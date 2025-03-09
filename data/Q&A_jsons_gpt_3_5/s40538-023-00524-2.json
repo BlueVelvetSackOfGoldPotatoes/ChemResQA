@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the antioxidant abilities of different extracts from Cinnamomum camphora chemotypes.",
+        "Question": "Which solvent exhibited the strongest antioxidant ability among the 4 extracts?",
+        "A": "Methanol",
+        "B": "Ethyl acetate",
+        "C": "n-Hexane",
+        "D": "Petroleum ether",
+        "Answer": "A",
+        "Source": "MeOH extracts exhibited the strongest antioxidant ability among the 4 extracts."
+    },
+    "Question_2": {
+        "Context": "The study analyzed the terpenoid composition in different extracts from Cinnamomum camphora chemotypes.",
+        "Question": "Which terpenoid showed the strongest scavenging activity against DPPH free radicals?",
+        "A": "Ocimene",
+        "B": "Longifolene",
+        "C": "Linalool",
+        "D": "Eucalyptol",
+        "Answer": "A",
+        "Source": "Ocimene showed the strongest scavenging activity against DPPH free radicals."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the in vivo antioxidant activities of ocimene and longifolene.",
+        "Question": "Which compound showed the strongest effect on protecting algal cells against oxidative stress?",
+        "A": "Ocimene",
+        "B": "Longifolene",
+        "C": "Linalool",
+        "D": "Eucalyptol",
+        "Answer": "B",
+        "Source": "At the same concentration, longifolene showed the strongest effect on protecting the algal cells against oxidative stress."
+    },
+    "Question_4": {
+        "Context": "The study compared the antioxidant abilities of different terpenoids in various reaction media.",
+        "Question": "Which reaction medium showed the highest scavenging activity against ABTS free radicals?",
+        "A": "Methanol",
+        "B": "Ethyl acetate",
+        "C": "n-Hexane",
+        "D": "Petroleum ether",
+        "Answer": "A",
+        "Source": "All terpenoids exhibited the optimum scavenging activity in MeOH among the 4 reaction media."
+    },
+    "Question_5": {
+        "Context": "The study identified two strong antioxidant terpenoids from Cinnamomum camphora extracts.",
+        "Question": "Which terpenoid exhibited the strongest scavenging activity against ABTS free radicals?",
+        "A": "Ocimene",
+        "B": "Longifolene",
+        "C": "Linalool",
+        "D": "Eucalyptol",
+        "Answer": "B",
+        "Source": "For ABTS free radical, longifolene showed the strongest scavenging activity."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the antioxidant abilities of the main terpenoids in different solvents.",
+        "Question": "Which terpenoid showed the strongest scavenging activity against DPPH free radicals in MeOH?",
+        "A": "Ocimene",
+        "B": "Longifolene",
+        "C": "Linalool",
+        "D": "Eucalyptol",
+        "Answer": "A",
+        "Source": "In MeOH reaction medium, ocimene showed the strongest scavenging activity against DPPH free radical."
+    },
+    "Question_7": {
+        "Context": "The study evaluated the effects of ocimene and longifolene on the growth of Chlamydomonas reinhardtii under H2O2 stress.",
+        "Question": "Which compound improved the tolerance of algal cells to H2O2 stress?",
+        "A": "Ocimene",
+        "B": "Longifolene",
+        "C": "Linalool",
+        "D": "Eucalyptol",
+        "Answer": "B",
+        "Source": "The pretreatments with ocimene and longifolene improved the tolerance to the H2O2 stress."
+    },
+    "Question_8": {
+        "Context": "The study measured the ROS levels in Chlamydomonas reinhardtii under H2O2 stress.",
+        "Question": "Which compound effectively lowered the ROS levels in algal cells?",
+        "A": "Ocimene",
+        "B": "Longifolene",
+        "C": "Linalool",
+        "D": "Eucalyptol",
+        "Answer": "B",
+        "Source": "The pretreatments with ocimene and longifolene remarkably lowered the ROS levels."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the antioxidant enzyme activities and TBARS content in the in vivo antioxidant assay.",
+        "Question": "Which compound gradually decreased the activities of antioxidant enzymes in C. reinhardtii under H2O2 stress?",
+        "A": "Ocimene",
+        "B": "Longifolene",
+        "C": "Linalool",
+        "D": "Eucalyptol",
+        "Answer": "A",
+        "Source": "The activities of the three antioxidant enzymes significantly improved after 24-h H2O2 treatment, but gradually decreased with raising the concentration of ocimene."
+    },
+    "Question_10": {
+        "Context": "The study measured the TBARS content in C. reinhardtii under H2O2 stress.",
+        "Question": "Which compound gradually decreased the TBARS content in algal cells?",
+        "A": "Ocimene",
+        "B": "Longifolene",
+        "C": "Linalool",
+        "D": "Eucalyptol",
+        "Answer": "A",
+        "Source": "The TBARS content gradually declined with raising the concentration of ocimene."
+    }
+}

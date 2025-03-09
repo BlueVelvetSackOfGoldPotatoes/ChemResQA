@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In organic chemistry, fatty acids are classified based on the presence or absence of double bonds between carbon atoms. Saturated fatty acids have no double bonds, while unsaturated fatty acids have one or more.",
+        "Question": "Which of the following fatty acids is saturated?",
+        "A": "Palmitoleic C 16:1",
+        "B": "Oleic C 18:1",
+        "C": "Stearic C 18:0",
+        "D": "Linoleic C 18:2",
+        "Answer": "C",
+        "Source": "Saturated Caprylic C8:0 ND* ND* 0.20 \u00b10.01, Palmitic C 16:0 7.11 \u00b10.01C 7.64 \u00b10.04B 10.77 \u00b10.02A, Stearic C 18:0 1.54 \u00b10.02C 1.91 \u00b10.02B 35.56 \u00b10.02A"
+    },
+    "Question_2": {
+        "Context": "The carbon chain length of fatty acids is denoted by a number following the letter 'C'. This number represents the total number of carbon atoms in the fatty acid molecule.",
+        "Question": "What is the carbon chain length of Arachidic acid?",
+        "A": "C8:0",
+        "B": "C12:0",
+        "C": "C18:0",
+        "D": "C20:0",
+        "Answer": "D",
+        "Source": "Arachidic C 20:0 0.17 \u00b10.01B 0.16 \u00b10.01B 2.09 \u00b10.01A"
+    },
+    "Question_3": {
+        "Context": "In the context of fatty acid composition, essential fatty acids are those that the human body cannot synthesize and must be obtained through diet.",
+        "Question": "Which of the following is considered an essential fatty acid?",
+        "A": "Palmitic acid",
+        "B": "Stearic acid",
+        "C": "Linoleic acid",
+        "D": "Oleic acid",
+        "Answer": "C",
+        "Source": "Essential fatty acids 27.00 \u00b10.04B 32.62 \u00b10.07A 5.72 \u00b10.01C"
+    },
+    "Question_4": {
+        "Context": "Fatty acids can be categorized based on their carbon chain length into short-chain, medium-chain, and long-chain fatty acids.",
+        "Question": "Which category does Caprylic acid belong to?",
+        "A": "Short-chain fatty acids",
+        "B": "Medium-chain fatty acids",
+        "C": "Long-chain fatty acids",
+        "D": "Very long-chain fatty acids",
+        "Answer": "B",
+        "Source": "Saturated Caprylic C8:0 ND* ND* 0.20 \u00b10.01"
+    },
+    "Question_5": {
+        "Context": "The ratio of total saturated fatty acids (TSFA) to total unsaturated fatty acids (TUSFA) can indicate the degree of saturation in a fat source.",
+        "Question": "Which of the following ratios indicates a higher degree of unsaturation?",
+        "A": "0.11",
+        "B": "0.12",
+        "C": "1.07",
+        "D": "0.10",
+        "Answer": "D",
+        "Source": "TSFA / TUSFA 0.11 \u00b10.01C 0.12 \u00b10.01B 1.07 \u00b10.01A"
+    },
+    "Question_6": {
+        "Context": "Fatty acids are also classified based on the position of the first double bond from the methyl end of the carbon chain. Omega-3 fatty acids have their first double bond at the third carbon atom from the methyl end.",
+        "Question": "Which of the following fatty acids is an omega-3 fatty acid?",
+        "A": "Palmitoleic C 16:1",
+        "B": "Linolenic C 18:3",
+        "C": "Oleic C 18:1",
+        "D": "Vaccenic C 18:1",
+        "Answer": "B",
+        "Source": "Linolenic C 18:3 0.39 \u00b10.01B 0.20 \u00b10.03C 0.47 \u00b10.02A"
+    },
+    "Question_7": {
+        "Context": "The presence of a double bond in fatty acids introduces a kink in the carbon chain, affecting the physical properties of the fatty acid, such as its melting point.",
+        "Question": "Which type of fatty acid is likely to have a lower melting point?",
+        "A": "Saturated fatty acids",
+        "B": "Unsaturated fatty acids",
+        "C": "Both have similar melting points",
+        "D": "Cannot be determined by saturation",
+        "Answer": "B",
+        "Source": "Unsaturated Palmitoleic C 16:1 0.67 \u00b10.02A 0.36 \u00b10.03B ND*, Oleic C 18:1 59.87 \u00b10.06A 54.94 \u00b10.05B 41.76 \u00b10.03C"
+    },
+    "Question_8": {
+        "Context": "The nutritional value of fats is often assessed by their content of essential fatty acids, which are crucial for human health.",
+        "Question": "Which of the following is not an essential fatty acid?",
+        "A": "Linoleic acid",
+        "B": "Alpha-linolenic acid",
+        "C": "Arachidonic acid",
+        "D": "Behenic acid",
+        "Answer": "D",
+        "Source": "Behenic C22:0 ND* ND* 0.43 \u00b10.02"
+    },
+    "Question_9": {
+        "Context": "Fatty acids can be named based on their common names or their systematic names. The systematic name includes the carbon chain length and the number of double bonds.",
+        "Question": "What is the systematic name for Palmitic acid?",
+        "A": "C15:0",
+        "B": "C16:0",
+        "C": "C17:0",
+        "D": "C18:0",
+        "Answer": "B",
+        "Source": "Palmitic C 16:0 7.11 \u00b10.01C 7.64 \u00b10.04B 10.77 \u00b10.02A"
+    },
+    "Question_10": {
+        "Context": "In the context of fatty acid analysis, 'ND' stands for 'not detected', which indicates that the fatty acid was not present in a measurable amount.",
+        "Question": "What does 'ND' stand for in the context of fatty acid composition?",
+        "A": "Non-Detectable",
+        "B": "Not Determined",
+        "C": "Not Detected",
+        "D": "Natural Density",
+        "Answer": "C",
+        "Source": "Saturated Caprylic C8:0 ND* ND* 0.20 \u00b10.01, Heptadecanoic C17:0 ND* ND* 0.15 \u00b10.02, Behenic C22:0 ND* ND* 0.43 \u00b10.02"
+    }
+}

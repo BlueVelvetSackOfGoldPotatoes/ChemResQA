@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The table below shows the fatty acid composition of different fruit seed kernels after detoxification.",
+        "Question": "Which fruit seed kernel has the highest percentage of total unsaturated fatty acids?",
+        "A": "Apricot",
+        "B": "Peach",
+        "C": "Mango",
+        "D": "Cannot be determined",
+        "Answer": "A",
+        "Source": "Total unsaturated fatty acids (TUSFA) for Apricot: 89.16 \u00b10.17A, Peach: 89.00 \u00b10.10A, Mango: 48.03 \u00b10.02B. Apricot has the highest percentage of total unsaturated fatty acids."
+    },
+    "Question_2": {
+        "Context": "The table below shows the fatty acid composition of different fruit seed kernels after detoxification.",
+        "Question": "Which fruit seed kernel has the highest percentage of linoleic acid (C18:2)?",
+        "A": "Apricot",
+        "B": "Peach",
+        "C": "Mango",
+        "D": "Cannot be determined",
+        "Answer": "B",
+        "Source": "Linoleic acid (C18:2) for Apricot: 26.61 \u00b10.01B, Peach: 32.42 \u00b10.08A, Mango: 5.25 \u00b10.03C. Peach has the highest percentage of linoleic acid."
+    },
+    "Question_3": {
+        "Context": "The table below shows the fatty acid composition of different fruit seed kernels after detoxification.",
+        "Question": "Which fruit seed kernel has the highest percentage of palmitic acid (C16:0)?",
+        "A": "Apricot",
+        "B": "Peach",
+        "C": "Mango",
+        "D": "Cannot be determined",
+        "Answer": "C",
+        "Source": "Palmitic acid (C16:0) for Apricot: 7.11 \u00b10.01C, Peach: 7.64 \u00b10.04B, Mango: 10.77 \u00b10.02A. Mango has the highest percentage of palmitic acid."
+    },
+    "Question_4": {
+        "Context": "The table below shows the fatty acid composition of different fruit seed kernels after detoxification.",
+        "Question": "Which fruit seed kernel has the highest percentage of oleic acid (C18:1)?",
+        "A": "Apricot",
+        "B": "Peach",
+        "C": "Mango",
+        "D": "Cannot be determined",
+        "Answer": "A",
+        "Source": "Oleic acid (C18:1) for Apricot: 59.87 \u00b10.06A, Peach: 54.94 \u00b10.05B, Mango: 41.76 \u00b10.03C. Apricot has the highest percentage of oleic acid."
+    },
+    "Question_5": {
+        "Context": "The table below shows the fatty acid composition of different fruit seed kernels after detoxification.",
+        "Question": "Which fruit seed kernel has the highest percentage of stearic acid (C18:0)?",
+        "A": "Apricot",
+        "B": "Peach",
+        "C": "Mango",
+        "D": "Cannot be determined",
+        "Answer": "C",
+        "Source": "Stearic acid (C18:0) for Apricot: 1.54 \u00b10.02C, Peach: 1.91 \u00b10.02B, Mango: 35.56 \u00b10.02A. Mango has the highest percentage of stearic acid."
+    },
+    "Question_6": {
+        "Context": "The table below shows the fatty acid composition of different fruit seed kernels after detoxification.",
+        "Question": "Which fruit seed kernel has the highest percentage of linolenic acid (C18:3)?",
+        "A": "Apricot",
+        "B": "Peach",
+        "C": "Mango",
+        "D": "Cannot be determined",
+        "Answer": "C",
+        "Source": "Linolenic acid (C18:3) for Apricot: 0.39 \u00b10.01B, Peach: 0.20 \u00b10.03C, Mango: 0.47 \u00b10.02A. Mango has the highest percentage of linolenic acid."
+    },
+    "Question_7": {
+        "Context": "The table below shows the fatty acid composition of different fruit seed kernels after detoxification.",
+        "Question": "Which fruit seed kernel has the highest total saturated fatty acids (TSFA)?",
+        "A": "Apricot",
+        "B": "Peach",
+        "C": "Mango",
+        "D": "Cannot be determined",
+        "Answer": "C",
+        "Source": "Total saturated fatty acids (TSFA) for Apricot: 10.63 \u00b10.05B, Peach: 10.77 \u00b10.16B, Mango: 51.86 \u00b10.01A. Mango has the highest total saturated fatty acids."
+    },
+    "Question_8": {
+        "Context": "The table below shows the fatty acid composition of different fruit seed kernels after detoxification.",
+        "Question": "Which fruit seed kernel has the highest percentage of essential fatty acids?",
+        "A": "Apricot",
+        "B": "Peach",
+        "C": "Mango",
+        "D": "Cannot be determined",
+        "Answer": "B",
+        "Source": "Essential fatty acids for Apricot: 27.00 \u00b10.04B, Peach: 32.62 \u00b10.07A, Mango: 5.72 \u00b10.01C. Peach has the highest percentage of essential fatty acids."
+    },
+    "Question_9": {
+        "Context": "The table below shows the fatty acid composition of different fruit seed kernels after detoxification.",
+        "Question": "Which fruit seed kernel has the highest TSFA / TUSFA ratio?",
+        "A": "Apricot",
+        "B": "Peach",
+        "C": "Mango",
+        "D": "Cannot be determined",
+        "Answer": "C",
+        "Source": "TSFA / TUSFA ratio for Apricot: 0.11 \u00b10.01C, Peach: 0.12 \u00b10.01B, Mango: 1.07 \u00b10.01A. Mango has the highest TSFA / TUSFA ratio."
+    },
+    "Question_10": {
+        "Context": "The table below shows the fatty acid composition of different fruit seed kernels after detoxification.",
+        "Question": "Which fruit seed kernel has the highest percentage of caprylic acid (C8:0)?",
+        "A": "Apricot",
+        "B": "Peach",
+        "C": "Mango",
+        "D": "Cannot be determined",
+        "Answer": "C",
+        "Source": "Caprylic acid (C8:0) for Apricot: ND*, Peach: ND*, Mango: 0.20 \u00b10.01. Mango has the highest percentage of caprylic acid."
+    }
+}

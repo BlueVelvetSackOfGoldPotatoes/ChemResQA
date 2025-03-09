@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the root mycorrhizal colonization process of trifoliate orange and the responsive patterns of plant growth, root peroxide hydrogen (H2O2), antioxidant enzymes, and gene expression. ",
+        "Question": "What was the root mycorrhizal colonization rate of Funneliformis mosseae at 56 days of inoculation?",
+        "A": "2.93%",
+        "B": "41.54%",
+        "C": "56.00%",
+        "D": "14.21%",
+        "Answer": "B",
+        "Source": "Fm developed appressoriums on the root surface at 7 doi, followed by abundant arbuscules in root cortical cells at 28 doi, intracellular vesicles at 42 doi, and root mycorrhizal colonization rate of 41.54% at 56 doi."
+    },
+    "Question_2": {
+        "Context": "The study focused on the changes in plant growth performance after inoculation with Funneliformis mosseae.",
+        "Question": "When did the growth performance in Fm-inoculated seedlings start to show significant improvement compared to no-Fm-inoculated seedlings?",
+        "A": "At 7 days of inoculation",
+        "B": "At 14 days of inoculation",
+        "C": "At 21 days of inoculation",
+        "D": "At 28 days of inoculation",
+        "Answer": "D",
+        "Source": "Starting from 28 doi, the growth performance in Fm-inoculated seedlings was better than that in no-Fm-inoculated seedlings."
+    },
+    "Question_3": {
+        "Context": "The study examined the changes in root H2O2 levels in response to Funneliformis mosseae inoculation.",
+        "Question": "When were root H2O2 levels significantly increased after Fm inoculation?",
+        "A": "At 21 days of inoculation",
+        "B": "At 28 days of inoculation",
+        "C": "At 7 and 14 days of inoculation",
+        "D": "At 42 days of inoculation",
+        "Answer": "C",
+        "Source": "Compared with no-Fm inoculation, H2O2 levels in roots of Fm-inoculated seedlings were significantly increased only at 7 and 14 doi."
+    },
+    "Question_4": {
+        "Context": "The study explored the changes in superoxide dismutase (SOD) activity in roots after inoculation with Funneliformis mosseae.",
+        "Question": "At which days of inoculation did Fm inoculation significantly increase root SOD activity?",
+        "A": "At 7 and 56 days of inoculation",
+        "B": "At 14 and 42 days of inoculation",
+        "C": "At 21 and 28 days of inoculation",
+        "D": "At 7 and 14 days of inoculation",
+        "Answer": "D",
+        "Source": "Compared with no-Fm inoculation, Fm inoculation significantly increased root SOD activity at 7 and 56 doi."
+    },
+    "Question_5": {
+        "Context": "The study investigated the relative expression of antioxidant enzyme genes in response to Funneliformis mosseae inoculation.",
+        "Question": "Which gene expression was distinctly increased at 7 and 14 days of inoculation after Fm colonization?",
+        "A": "PtFe-SOD",
+        "B": "PtMn-SOD",
+        "C": "PtCu/Zn-SOD",
+        "D": "PtPOD",
+        "Answer": "D",
+        "Source": "Compared with no-Fm inoculation, Fm inoculation distinctly up-regulated PtPOD expression at 7 and 14 doi."
+    },
+    "Question_6": {
+        "Context": "The study examined the changes in the expression of root sugar transporter gene (PtSWEET) in response to Funneliformis mosseae inoculation.",
+        "Question": "When was the expression of root PtSWEET significantly up-regulated after Fm inoculation?",
+        "A": "At 7 and 21 days of inoculation",
+        "B": "At 28, 42, and 56 days of inoculation",
+        "C": "At 14 and 28 days of inoculation",
+        "D": "At 42 and 56 days of inoculation",
+        "Answer": "B",
+        "Source": "PtSWEET gene was significantly up-regulated from 28 doi of Fm, which was accompanied by the formation of arbuscules."
+    },
+    "Question_7": {
+        "Context": "The study focused on the changes in the expression of fatty acid transporter protein genes (PtSTR and PtSTR2) in roots after inoculation with Funneliformis mosseae.",
+        "Question": "When was the expression of root PtSTR significantly up-regulated after Fm inoculation?",
+        "A": "At 7 days of inoculation",
+        "B": "At 14 days of inoculation",
+        "C": "At 28 days of inoculation",
+        "D": "At 42 days of inoculation",
+        "Answer": "C",
+        "Source": "PtSTR expression was up-regulated from 28 doi, while PtSTR2 was up-regulated from 42 doi."
+    },
+    "Question_8": {
+        "Context": "The study examined the changes in the expression of root phosphate transporter protein genes (PtPT3, PtPT5, and PtPT6) in response to Funneliformis mosseae inoculation.",
+        "Question": "When was the expression of root PtPT6 significantly up-regulated after Fm inoculation?",
+        "A": "At 7 days of inoculation",
+        "B": "At 21 days of inoculation",
+        "C": "At 28 days of inoculation",
+        "D": "At 42 days of inoculation",
+        "Answer": "C",
+        "Source": "Root PtPT6 expression was up-regulated in Fm-inoculated plants from 28 doi."
+    },
+    "Question_9": {
+        "Context": "The study investigated the establishment of symbiotic associations between AMF and trifoliate orange.",
+        "Question": "What was initiated at 28\u201256 days of inoculation after the formation of arbuscules?",
+        "A": "Root antioxidant defense",
+        "B": "Expression of PtSWEET and PtSTR",
+        "C": "Expression of PtPTs",
+        "D": "Nutrient exchange between AMF and the host plant",
+        "Answer": "D",
+        "Source": "At 28 doi, massive formation of arbuscule in the roots was accompanied by growth improvement, up-regulated expression of PtSWEET and PtSTR and subsequent up-regulated expression of PtPTs, suggesting the initiation of bidirectional nutrient functions."
+    },
+    "Question_10": {
+        "Context": "The study provided insights into the defense response of trifoliate orange to mycorrhizal fungal colonization.",
+        "Question": "What was the response of the host plant to mycorrhizal fungal colonization at 7\u201214 days of inoculation?",
+        "A": "Initiation of root antioxidant defense",
+        "B": "Up-regulation of PtSWEET and PtSTR expression",
+        "C": "Enhanced antioxidant potential",
+        "D": "Establishment of symbiotic association",
+        "Answer": "A",
+        "Source": "Compared with no-Fm inoculation, H2O2 levels in roots of Fm-inoculated seedlings were significantly increased only at 7 and 14 doi, indicating the initiation of root antioxidant defense."
+    }
+}

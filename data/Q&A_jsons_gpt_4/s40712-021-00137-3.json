@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the theory of nonlocal continuum mechanics, the state of stress at a point is considered to be a function of the states of strain of all points in the medium, as opposed to classical continuum mechanics where the state of stress at a certain point uniquely depends on the state of strain on that same point.",
+        "Question": "What does the nonlocal continuum mechanics theory suggest about the state of stress at a point in a medium?",
+        "A": "It is determined by the state of strain at a distant point.",
+        "B": "It is determined by the state of strain at that same point.",
+        "C": "It is a function of the states of strain of all points in the medium.",
+        "D": "It is independent of the states of strain in the medium.",
+        "Answer": "C",
+        "Source": "These theories exhibit that 'consider the state of stress at a point as a function of the states of the strain of all points in the medium. But in classical continuum mechanics, the state of stress at a certain point uniquely depends on the state of strain on that same point'."
+    },
+    "Question_2": {
+        "Context": "The fractional-order three-phase lag theory of thermoelasticity with two temperatures is applied to study the propagation of plane waves in materials. This theory incorporates the concept of phase lags for heat flux, temperature gradient, and thermal displacement, as well as considering two distinct temperatures within the material.",
+        "Question": "What does the fractional-order three-phase lag theory of thermoelasticity with two temperatures account for?",
+        "A": "Phase lags for heat flux, temperature gradient, and thermal displacement.",
+        "B": "Only the phase lag for the heat flux.",
+        "C": "Only the phase lag for the temperature gradient.",
+        "D": "Only the phase lag for the thermal displacement.",
+        "Answer": "A",
+        "Source": "The fractional-order three-phase lag theory of thermoelasticity with two temperatures has been applied."
+    },
+    "Question_3": {
+        "Context": "In the context of wave propagation in a semiconductor medium, the Hall current effect is considered when the medium is exposed to a very strong magnetic field. This effect is characterized by the presence of a Hall current term in the generalized Ohm's law.",
+        "Question": "What condition necessitates the consideration of the Hall current effect in a semiconductor medium?",
+        "A": "When the medium is exposed to a weak magnetic field.",
+        "B": "When the medium is exposed to a very strong magnetic field.",
+        "C": "When the medium is not exposed to any magnetic field.",
+        "D": "When the medium is exposed to an electric field only.",
+        "Answer": "B",
+        "Source": "Lotfy et al. (2020) discussed Hall current effect in a semiconductor medium exposed to a very strong magnetic field."
+    },
+    "Question_4": {
+        "Context": "The propagation of plane waves in a semiconducting medium can be influenced by various factors, including the non-local parameter, which is a characteristic of nonlocal continuum mechanics theory.",
+        "Question": "Which parameter is associated with the influence of nonlocal effects on the propagation of plane waves in a semiconducting medium?",
+        "A": "The local parameter.",
+        "B": "The fractional order parameter.",
+        "C": "The two-temperature parameter.",
+        "D": "The non-local parameter.",
+        "Answer": "D",
+        "Source": "The effects of two temperatures, non-local parameter, fractional order parameter, and Hall current on these wave characteristics are illustrated graphically."
+    },
+    "Question_5": {
+        "Context": "In the study of wave propagation in semiconducting media, the plasma diffusion equation is used to describe the transportation process of plasma within the medium.",
+        "Question": "What equation is utilized to describe the plasma transportation process in semiconducting media?",
+        "A": "The wave reflection equation.",
+        "B": "The plasma diffusion equation.",
+        "C": "The carrier density wave equation.",
+        "D": "The thermal wave equation.",
+        "Answer": "B",
+        "Source": "Tang and Song (2018) studied wave reflection in nonlocal semiconductor rotating media by using the plasma diffusion equation."
+    },
+    "Question_6": {
+        "Context": "In the study of wave propagation in semiconducting media, the fractional-order heat conduction equation with two temperatures is used to describe the heat conduction process, taking into account the fractional order of time derivatives which can indicate weak, normal, or strong conductivity.",
+        "Question": "What does the fractional-order heat conduction equation with two temperatures describe in semiconducting media?",
+        "A": "The electrical conductivity process.",
+        "B": "The magnetic field interaction process.",
+        "C": "The heat conduction process.",
+        "D": "The carrier recombination process.",
+        "Answer": "C",
+        "Source": "The fractional-order heat conduction equation with two temperatures (Kaur et al. 2020a, Mahdy et al. 2020) is given by..."
+    },
+    "Question_7": {
+        "Context": "In the study of wave propagation, the displacement vector is a mathematical representation of the displacement of points in the medium, which can be described in terms of potential functions for simplification.",
+        "Question": "In the context of wave propagation, what does the displacement vector represent?",
+        "A": "The magnetic field strength.",
+        "B": "The temperature gradient.",
+        "C": "The displacement of points in the medium.",
+        "D": "The electrical conductivity.",
+        "Answer": "C",
+        "Source": "For the 2-D dynamic problem in xz\u2212plane, we consider displacement vector as u \u00bc u; 0; w \u00f0 \u00de x; z; t \u00f0 \u00de: \u00f06\u00de"
+    },
+    "Question_8": {
+        "Context": "The study of wave propagation in semiconducting media often involves the application of a high-intensity magnetic field, which is represented by the magnetic field strength H0 in the equations governing the medium's behavior.",
+        "Question": "What does the symbol H0 represent in the context of wave propagation in semiconducting media?",
+        "A": "The electric field strength.",
+        "B": "The heat source.",
+        "C": "The magnetic field strength.",
+        "D": "The carrier density.",
+        "Answer": "C",
+        "Source": "Consider that a very high-intensity magnetic field H0 = (0, H0, 0) is applied in the positive y-direction..."
+    },
+    "Question_9": {
+        "Context": "In the study of wave propagation in semiconducting media, the parameter \u03c30 represents the electrical conductivity of the medium, which is a fundamental property affecting the propagation of waves.",
+        "Question": "What does the parameter \u03c30 represent in the context of wave propagation in semiconducting media?",
+        "A": "The magnetic permeability.",
+        "B": "The electrical conductivity.",
+        "C": "The thermal conductivity.",
+        "D": "The carrier recombination velocity.",
+        "Answer": "B",
+        "Source": "ne electron number density \u03c30 electrical conductivity and \u00bc \u03c30 \u00bc nee2te me"
+    },
+    "Question_10": {
+        "Context": "In the study of wave propagation in semiconducting media, the parameter \u03c1 represents the density of the medium, which can affect the wave characteristics such as phase velocities and attenuation coefficients.",
+        "Question": "What does the parameter \u03c1 represent in the context of wave propagation in semiconducting media?",
+        "A": "The electrical resistivity.",
+        "B": "The medium density.",
+        "C": "The thermal expansion coefficient.",
+        "D": "The magnetic field strength.",
+        "Answer": "B",
+        "Source": "\u03c1 medium density CE specific heat T temperature change I moment of inertia of cross-section t time"
+    }
+}

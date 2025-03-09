@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In electric discharge machining (EDM), a technique used to machine conductive materials, two metal electrodes are immersed in a dielectric fluid. When ions and electrons collide with the workpiece and tool, high temperatures are achieved, leading to material evaporation.",
+        "Question": "What is the approximate temperature range reached in the workpiece during electric discharge machining?",
+        "A": "1000 \u00b0C to 3000 \u00b0C",
+        "B": "8000 \u00b0C to 12,000 \u00b0C",
+        "C": "300 \u00b0C to 800 \u00b0C",
+        "D": "4000 \u00b0C to 7000 \u00b0C",
+        "Answer": "B",
+        "Source": "Based on the collision of ions and electrons with the workpiece and tool, the temperature reaches about 8000 \u00b0C to 12,000 \u00b0C, which results in the evaporation of super heavy metal and consequently, the removal of the material."
+    },
+    "Question_2": {
+        "Context": "In the context of electric discharge machining, the presence of alumina powder in the dielectric fluid can affect the machining process outcomes such as material removal rate, surface roughness, and tool wear ratio.",
+        "Question": "What is the effect of adding Alumina powder to the dielectric fluid on the material removal rate in EDM?",
+        "A": "It increases the material removal rate significantly",
+        "B": "It has no noticeable effect on the material removal rate",
+        "C": "It reduces the material removal rate slightly",
+        "D": "It reduces the material removal rate by a large margin",
+        "Answer": "C",
+        "Source": "The outcomes of this research indicate that the use of Alumina powder 3 g/L in kerosene dielectric averagely reduces the material removal rate by 7.8%."
+    },
+    "Question_3": {
+        "Context": "The Taguchi method is a statistical approach used in process optimization to understand the effect of various parameters on the output of a process. It involves conducting experiments and analyzing the results using tools like analysis of variance (ANOVA).",
+        "Question": "Which method was employed to conduct the electrical discharge machining experiments to investigate the effect of parameters such as current intensity, voltage, pulse on-time, and pulse off-time?",
+        "A": "The Taguchi method",
+        "B": "The ANOVA method",
+        "C": "The Chi-square method",
+        "D": "The Monte Carlo simulation",
+        "Answer": "A",
+        "Source": "In this research, the electrical discharge machining experiments were conducted using the Taguchi method."
+    },
+    "Question_4": {
+        "Context": "Surface roughness is a critical parameter in machining processes, including electric discharge machining. It is influenced by various factors such as the intensity of the current and the duration of the pulse on-time.",
+        "Question": "What is the general trend of surface roughness with respect to the current intensity in electric discharge machining?",
+        "A": "Surface roughness decreases as current intensity increases",
+        "B": "Surface roughness remains constant regardless of current intensity",
+        "C": "Surface roughness increases as current intensity increases",
+        "D": "Surface roughness first increases then decreases with increasing current intensity",
+        "Answer": "C",
+        "Source": "The results indicated that generally speaking, the material removal rate and surface roughness raise by an increase in current."
+    },
+    "Question_5": {
+        "Context": "In electric discharge machining, tool wear ratio is an important measure that indicates the rate at which the tool material is worn away during the machining process.",
+        "Question": "Which parameter has the most significant effect on tool wear ratio in electric discharge machining?",
+        "A": "Voltage",
+        "B": "Current intensity",
+        "C": "Pulse on-time",
+        "D": "Pulse off-time",
+        "Answer": "C",
+        "Source": "The pulse-on time is the most crucial parameter in the surface roughness among other effective parameters such as voltage, current and pulse off-time."
+    },
+    "Question_6": {
+        "Context": "The addition of Al2O3 powder to aluminum composites can alter the material's properties, affecting its suitability for various applications.",
+        "Question": "What is the effect of adding Al2O3 powder to aluminum composite on its toughness?",
+        "A": "It decreases toughness",
+        "B": "It has no effect on toughness",
+        "C": "It increases toughness while preventing hardening",
+        "D": "It increases toughness and promotes hardening",
+        "Answer": "C",
+        "Source": "Adding Al2O3 powder to aluminum composite by reducing the main component of aluminum alloy and replacing it with aluminum oxide, enhances the toughness while it prohibits the hardening and curbs the fracture."
+    },
+    "Question_7": {
+        "Context": "In the context of materials engineering, fatigue strength is a measure of a material's ability to withstand cyclic loading without failing.",
+        "Question": "How does the addition of Al2O3 powder to aluminum base material affect its fatigue strength?",
+        "A": "It decreases fatigue strength",
+        "B": "It increases fatigue strength",
+        "C": "It has no significant effect on fatigue strength",
+        "D": "It initially increases then decreases fatigue strength",
+        "Answer": "B",
+        "Source": "Moreover, adding Al2O3 powder to aluminum base material improves the fatigue strength and abrasion resistance."
+    },
+    "Question_8": {
+        "Context": "The Taguchi method for process optimization involves setting up a design of experiments with different levels for each factor to study their effects on the process outputs.",
+        "Question": "In the Taguchi method, how many levels were considered for the voltage parameter in the electric discharge machining experiments?",
+        "A": "One level",
+        "B": "Two levels",
+        "C": "Three levels",
+        "D": "Four levels",
+        "Answer": "B",
+        "Source": "Hence, the repeating levels method is employed for the voltage factor. The impact of input parameters of electric discharge machining on the material removal rate, the workpiece surface roughness, and the tool wear rate in the presence of kerosene with alumina powder and kerosene without alumina powder is investigated using the Taguchi method which is present in Minitab@17 software."
+    },
+    "Question_9": {
+        "Context": "In materials science, the coefficient of thermal expansion is a measure of how much a material expands or contracts with changes in temperature.",
+        "Question": "What is the coefficient of thermal expansion for aluminum 413, as mentioned in the context of electric discharge machining?",
+        "A": "11.0 \u03bcm/m\u00b7K",
+        "B": "21.6 \u03bcm/m\u00b7K",
+        "C": "50.0 \u03bcm/m\u00b7K",
+        "D": "80.0 \u03bcm/m\u00b7K",
+        "Answer": "B",
+        "Source": "Table 1 presents the percentage of elements and some of the physical and mechanical properties of this alloy."
+    },
+    "Question_10": {
+        "Context": "The electrical conductivity of a material is a measure of how well it can conduct an electric current.",
+        "Question": "What is the electrical conductivity of aluminum 413, expressed in percentage of IACS?",
+        "A": "15% IACS",
+        "B": "31% IACS",
+        "C": "45% IACS",
+        "D": "60% IACS",
+        "Answer": "B",
+        "Source": "Table 1 presents the percentage of elements and some of the physical and mechanical properties of this alloy."
+    }
+}

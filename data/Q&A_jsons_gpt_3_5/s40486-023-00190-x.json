@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Research is being conducted on photocatalyst-based organic compound treatment processes for water purification to decompose wastewater efficiently. An optofluidic reactor based on TiO2 photocatalysis and nanoelectrokinetics was presented recently to improve the efficacy of photocatalytic water purification. However, inefficient absorption of visible light by TiO2 materials hinders the effective utilization of solar energy.",
+        "Question": "What is a key challenge faced by TiO2 materials in the context of photocatalytic water purification?",
+        "A": "Inefficient absorption of UV light",
+        "B": "Ineffective utilization of solar energy",
+        "C": "Lack of photocatalytic activity",
+        "D": "Low surface-to-volume ratio",
+        "Answer": "B",
+        "Source": "However, inefficient absorption of visible light by TiO2 materials hinders the effective utilization of solar energy."
+    },
+    "Question_2": {
+        "Context": "Photocatalysis has received a lot of attention because it can not only convert CO2 into useful hydrocarbons like methane and methanol, but it can also produce oxygen and hydrogen through water-splitting reactions and purify water by decomposing toxic organic pollutants and microplastics.",
+        "Question": "What are the potential outcomes of photocatalysis mentioned in the text?",
+        "A": "Production of toxic organic pollutants",
+        "B": "Conversion of CO2 into oxygen",
+        "C": "Purification of water by decomposing microplastics",
+        "D": "Production of harmful hydrocarbons",
+        "Answer": "C",
+        "Source": "and purify water by decomposing toxic organic pollutants and microplastics."
+    },
+    "Question_3": {
+        "Context": "Compared to the traditional photocatalytic reactors, photocatalytic optofluidic microreactors are a promising technique that brings together the advantages of microfluidics with photocatalysis, providing high surface-to-volume ratio, short molecular diffusion length, and high reaction efficiency.",
+        "Question": "What advantages do photocatalytic optofluidic microreactors offer over traditional photocatalytic reactors?",
+        "A": "Higher energy consumption",
+        "B": "Lower surface-to-volume ratio",
+        "C": "Long molecular diffusion length",
+        "D": "High reaction efficiency",
+        "Answer": "D",
+        "Source": "providing high surface-to-volume ratio, short molecular diffusion length, and high reaction efficiency."
+    },
+    "Question_4": {
+        "Context": "Research has been conducted to increase the efficiency of optofluidic-based wastewater treatment technology by enhancing photocatalysis using a nonlinear electric field in a microchannel.",
+        "Question": "How is the efficiency of optofluidic-based wastewater treatment technology being improved?",
+        "A": "By reducing the surface-to-volume ratio",
+        "B": "By enhancing photocatalysis with a nonlinear electric field",
+        "C": "By increasing molecular diffusion length",
+        "D": "By decreasing reaction efficiency",
+        "Answer": "B",
+        "Source": "by enhancing photocatalysis using a nonlinear electric field in a microchannel."
+    },
+    "Question_5": {
+        "Context": "UV light can induce the heterogeneous photocatalysis of titanium dioxide (TiO2), which can then oxidize organic molecules adsorbing on the surface of the material into non-toxic compounds like CO2 and H2O.",
+        "Question": "What role does UV light play in the photocatalysis of titanium dioxide?",
+        "A": "It inhibits the photocatalytic reaction",
+        "B": "It induces heterogeneous photocatalysis",
+        "C": "It decreases the efficiency of TiO2",
+        "D": "It prevents the oxidation of organic molecules",
+        "Answer": "B",
+        "Source": "UV light can induce the heterogeneous photocatalysis of titanium dioxide (TiO2)."
+    },
+    "Question_6": {
+        "Context": "The XRD graph shows that rutile is absent and all of the TiO2-coated surfaces produced in this experiment are anatase phase, which is expected to show high photocatalytic activity.",
+        "Question": "What is the crystal phase of the TiO2-coated surfaces produced in the experiment?",
+        "A": "Rutile",
+        "B": "Anatase",
+        "C": "Brookite",
+        "D": "Perovskite",
+        "Answer": "B",
+        "Source": "all of the TiO2-coated surfaces produced in this experiment are anatase phase, which is expected to show high photocatalytic activity."
+    },
+    "Question_7": {
+        "Context": "The XPS spectra support the interaction among Au NPs, TiO2 NPs, and CF, which could enhance electron transport and charge separation on the photocatalyst surface.",
+        "Question": "What does the XPS analysis suggest about the interaction among Au NPs, TiO2 NPs, and CF?",
+        "A": "It inhibits electron transport",
+        "B": "It enhances charge separation",
+        "C": "It decreases photocatalytic activity",
+        "D": "It prevents chemical interactions",
+        "Answer": "B",
+        "Source": "which could enhance electron transport and charge separation on the photocatalyst surface."
+    },
+    "Question_8": {
+        "Context": "The photocatalytic degradation efficiency of R6G is improved at a slower flow rate. In addition, the surface coated with Au NPs has a better photocatalytic degradation effect than the surface coated with TiO2 only.",
+        "Question": "Which surface coating shows a better photocatalytic degradation effect for R6G?",
+        "A": "TiO2 only",
+        "B": "Au NPs only",
+        "C": "Both TiO2 and Au NPs",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "the surface coated with Au NPs has a better photocatalytic degradation effect than the surface coated with TiO2 only."
+    },
+    "Question_9": {
+        "Context": "Using spray and UV irradiation-based synthesis, the Au/TiO2 NPs were uniformly coated on the microporous layer of carbon fabric to leverage photocatalytic effects in the visible range.",
+        "Question": "What method was used to coat the Au/TiO2 NPs on the microporous layer of carbon fabric?",
+        "A": "Spray and UV irradiation-based synthesis",
+        "B": "Chemical vapor deposition",
+        "C": "Electroplating",
+        "D": "Physical vapor deposition",
+        "Answer": "A",
+        "Source": "Using spray and UV irradiation-based synthesis, the Au/TiO2 NPs were uniformly coated on the microporous layer of carbon fabric."
+    },
+    "Question_10": {
+        "Context": "Higher organic degradation performance of Au/TiO2 NPs was demonstrated as anticipated.",
+        "Question": "What was the outcome regarding the organic degradation performance of Au/TiO2 NPs?",
+        "A": "No improvement observed",
+        "B": "Decreased performance compared to TiO2",
+        "C": "Improved performance",
+        "D": "Inconclusive results",
+        "Answer": "C",
+        "Source": "higher organic degradation performance of Au/TiO2 NPs was demonstrated as anticipated."
+    }
+}

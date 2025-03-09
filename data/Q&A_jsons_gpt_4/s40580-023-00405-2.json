@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of thermoelectric materials, the thermopower or Seebeck coefficient is a physical quantity that measures the magnitude of an induced thermoelectric voltage in response to a temperature difference across that material.",
+        "Question": "What does the thermopower of a material fundamentally represent?",
+        "A": "The electrical conductivity per carrier",
+        "B": "The entropy per carrier",
+        "C": "The heat capacity per carrier",
+        "D": "The magnetic field strength per carrier",
+        "Answer": "B",
+        "Source": "Fundamentally, thermopower is entropy per carrier. Since it is directly related to the Fermi energy, thermopower measurement will assist in understanding the band structure."
+    },
+    "Question_2": {
+        "Context": "In materials science, the term 'nematic' refers to a phase of matter in which molecules are oriented in a similar direction but do not have positional order. In the context of iron-based superconductors, a nematic phase transition is associated with a structural change in the material.",
+        "Question": "What kind of transition occurs in FeSe at approximately 90 K?",
+        "A": "A superconducting transition",
+        "B": "A magnetic transition",
+        "C": "A nematic transition",
+        "D": "A metallic transition",
+        "Answer": "C",
+        "Source": "Intriguingly, FeSe undergoes a tetragonal-to-orthorhombic structural (nematic) transition at Ts \u2248 90 K without the formation of magnetic order."
+    },
+    "Question_3": {
+        "Context": "The term 'quantum critical point (QCP)' in condensed matter physics refers to a point at zero temperature where a continuous phase transition occurs. In the context of iron-based superconductors, the nematic quantum critical point (NCP) is a point where nematic order is completely suppressed.",
+        "Question": "At what approximate sulfur content does the nematic quantum critical point occur in FeSe1\u2212xSx?",
+        "A": "x \u2248 0.10",
+        "B": "x \u2248 0.12",
+        "C": "x \u2248 0.17",
+        "D": "x \u2248 0.20",
+        "Answer": "C",
+        "Source": "The nematicity is strongly suppressed with S substitution, and a nematic quantum critical point (NCP) appears at x \u2248 0.17."
+    },
+    "Question_4": {
+        "Context": "In the study of superconductors, the term 'Fermi surface (FS)' refers to a surface in momentum space which separates occupied from unoccupied electron energy levels at absolute zero temperature. Distortions or shifts in the Fermi surface can have significant implications for the electronic properties of a material.",
+        "Question": "What is characterized by multiband shifts driven by orbital order leading to Fermi-surface distortions in FeSe?",
+        "A": "The superconducting phase",
+        "B": "The nematic phase",
+        "C": "The magnetic phase",
+        "D": "The metallic phase",
+        "Answer": "B",
+        "Source": "This nematic phase is characterized by multiband shifts driven by orbital order that leads to Fermi-surface (FS) distortions."
+    },
+    "Question_5": {
+        "Context": "In the context of superconducting materials, the superconducting gap refers to the energy difference between the superconducting state and the normal state at the Fermi level. The behavior of the superconducting gap can provide insights into the nature of the superconducting state.",
+        "Question": "How does the superconducting gap behave across the nematic quantum critical point in FeSe1\u2212xSx?",
+        "A": "It remains constant",
+        "B": "It exhibits an abrupt change",
+        "C": "It gradually increases",
+        "D": "It gradually decreases",
+        "Answer": "B",
+        "Source": "The SC gap exhibits an abrupt change across NCP."
+    },
+    "Question_6": {
+        "Context": "In the context of electronic materials, 'non-Fermi-liquid behavior' refers to the deviation from the predictions of the traditional Fermi-liquid theory, which describes the normal state of most metals at low temperatures. This behavior can be indicative of complex electronic interactions.",
+        "Question": "What kind of temperature dependence does the normal state resistivity near the nematic quantum critical point in FeSe1\u2212xSx show?",
+        "A": "Exponential temperature dependence",
+        "B": "Quadratic temperature dependence",
+        "C": "Linear temperature dependence",
+        "D": "No temperature dependence",
+        "Answer": "C",
+        "Source": "Meanwhile, the normal state resistivity in the vicinity of NCP shows a linear temperature dependence, signifying non-Fermi-liquid behavior due to the nematic critical fluctuations."
+    },
+    "Question_7": {
+        "Context": "In superconducting materials, antiferromagnetic (AFM) fluctuations can play a significant role in the superconducting properties. These fluctuations are related to the spins of the electrons and their magnetic interactions.",
+        "Question": "What correlation has been revealed between antiferromagnetic fluctuations and the superconducting critical temperature (Tc) in FeSe1\u2212xSx?",
+        "A": "A negative correlation with Tc",
+        "B": "A positive correlation with Tc",
+        "C": "No correlation with Tc",
+        "D": "An inverse exponential correlation with Tc",
+        "Answer": "B",
+        "Source": "Recent nuclear magnetic resonance (NMR) measurements revealed that antiferromagnetic (AFM) fluctuations show a positive correlation with Tc."
+    },
+    "Question_8": {
+        "Context": "In the context of superconductors, the term 'strange metal' refers to a state of matter that does not conform to the conventional theory of metals. The Hall response is a measurement that can indicate the presence of such a state by examining the behavior of charge carriers in a magnetic field.",
+        "Question": "What component can be observed in the Hall response of FeSe1\u2212xSx across the nematic quantum critical point?",
+        "A": "Superconducting metal component",
+        "B": "Strange metal component",
+        "C": "Fermi-liquid metal component",
+        "D": "Non-metallic insulator component",
+        "Answer": "B",
+        "Source": "Strange metal component can also be observed in the Hall response of FeSe1\u2212xSx across the NCP."
+    },
+    "Question_9": {
+        "Context": "In the context of superconductors, the term 'Lifshitz transition' refers to a change in the topology of the Fermi surface, which can occur as a function of parameters like pressure, doping, or temperature. Such a transition can have significant effects on the electronic properties of a material.",
+        "Question": "What kind of transition is indicated by quantum oscillation experiments in FeSe1\u2212xSx?",
+        "A": "A topological Lifshitz transition",
+        "B": "A nematic-to-superconducting transition",
+        "C": "A metal-to-insulator transition",
+        "D": "A superconducting-to-normal state transition",
+        "Answer": "A",
+        "Source": "Recent quantum oscillation experiments indicated a topological Lifshitz transition and a reduction in electronic correlations across the NCP."
+    },
+    "Question_10": {
+        "Context": "In the study of superconductors, the residual resistivity ratio (RRR) is a measure of the purity and quality of a material, defined as the ratio of resistivity at room temperature to the resistivity at a lower reference temperature, typically just above the superconducting transition.",
+        "Question": "How does the residual resistivity ratio (RRR) behave with increasing sulfur content in FeSe1\u2212xSx?",
+        "A": "It first decreases, then increases after a critical sulfur content",
+        "B": "It continuously increases with sulfur content",
+        "C": "It continuously decreases with sulfur content",
+        "D": "It remains constant regardless of sulfur content",
+        "Answer": "A",
+        "Source": "As x is increased from 0, the value of RRR first decreases to 14.6 and 15.5 for x = 0.12 and x = 0.14, respectively, and then increases to 25.5 for x = 0.23 when Ts is completely suppressed."
+    }
+}

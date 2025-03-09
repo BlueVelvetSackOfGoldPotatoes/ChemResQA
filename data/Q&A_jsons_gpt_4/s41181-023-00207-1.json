@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In molecular imaging, certain tracers are used to bind to specific cellular components that become exposed or accessible due to cell death, providing a way to visualize and measure the extent of cell death.",
+        "Question": "Which cellular component does the tracer [99mTc]Tc-Duramycin bind to in order to recognize cell death?",
+        "A": "Mitochondrial DNA",
+        "B": "Phosphatidylethanolamine",
+        "C": "Nuclear proteins",
+        "D": "Glycoproteins",
+        "Answer": "B",
+        "Source": "Imaging of cell death can provide an early indication of treatment response in cancer. [99mTc]Tc-Duramycin is a small-peptide SPECT tracer that recognizes both apoptotic and necrotic cells by binding to phosphatidylethanolamine present in the cell membrane."
+    },
+    "Question_2": {
+        "Context": "Radiopharmaceuticals are often evaluated for their safety and biodistribution in healthy volunteers before being applied in patient studies.",
+        "Question": "What is the primary route of excretion for the tracer [99mTc]Tc-Duramycin?",
+        "A": "Hepatic",
+        "B": "Pulmonary",
+        "C": "Renal",
+        "D": "Integumentary",
+        "Answer": "C",
+        "Source": "Excretion was almost exclusively renal."
+    },
+    "Question_3": {
+        "Context": "In radiopharmaceutical studies, the safety profile of a tracer is assessed by monitoring for adverse events following administration.",
+        "Question": "What was the safety profile of [99mTc]Tc-Duramycin in the healthy volunteers?",
+        "A": "Significant adverse events were reported",
+        "B": "All subjects experienced serious adverse events",
+        "C": "No serious adverse events were reported",
+        "D": "The study did not monitor for adverse events",
+        "Answer": "C",
+        "Source": "[99mTc]Tc-Duramycin was well tolerated in all subjects, with no serious adverse events reported."
+    },
+    "Question_4": {
+        "Context": "The pharmacokinetics of a radiopharmaceutical can be influenced by its binding to plasma proteins, which affects its distribution and clearance from the blood.",
+        "Question": "What percentage of [99mTc]Tc-Duramycin remained free in the plasma 3 hours post-injection?",
+        "A": "Less than 5%",
+        "B": "Around 10%",
+        "C": "Approximately 25%",
+        "D": "More than 50%",
+        "Answer": "A",
+        "Source": "The tracer cleared slowly from the blood (effective half-life of 2.0 \u00b1 0.4 h) due to high plasma protein binding with < 5% free tracer 3 h PI."
+    },
+    "Question_5": {
+        "Context": "The effective dose of a radiopharmaceutical is an important parameter that reflects the radiation risk to the patient and is used to compare the safety of different imaging agents.",
+        "Question": "What was the mean effective dose of [99mTc]Tc-Duramycin reported?",
+        "A": "3.61 mSv",
+        "B": "7.61 \u00b5Sv/MBq",
+        "C": "43.82 \u00b5Gy/MBq",
+        "D": "19.72 \u00b5Gy/MBq",
+        "Answer": "B",
+        "Source": "The mean effective dose was 7.61 \u00b1 0.75 \u00b5Sv/MBq."
+    },
+    "Question_6": {
+        "Context": "The biodistribution of a radiopharmaceutical is the pattern of its distribution throughout the body, which can be quantified by measuring the uptake in various organs.",
+        "Question": "Which organ received the highest absorbed dose of [99mTc]Tc-Duramycin according to planar analysis?",
+        "A": "Heart",
+        "B": "Liver",
+        "C": "Spleen",
+        "D": "Kidneys",
+        "Answer": "D",
+        "Source": "The kidneys receiving the highest absorbed dose (planar analysis: 43.82 \u00b1 4.07 \u00b5Gy/MBq)."
+    },
+    "Question_7": {
+        "Context": "In the development of radiopharmaceuticals, it is crucial to understand the kinetics of tracer uptake and clearance in different organs to optimize imaging protocols.",
+        "Question": "What was the effective half-life of [99mTc]Tc-Duramycin in the liver?",
+        "A": "2.03 hours",
+        "B": "3.30 hours",
+        "C": "6.91 hours",
+        "D": "14.67 hours",
+        "Answer": "B",
+        "Source": "Uptake in the liver was faster compared to the kidneys, with peak activity at 5 min PI (16.49 \u00b1 3.69%ID), versus 25 min PI in the kidneys (10.06 \u00b1 2.96%ID). Additionally, the clearance was faster in the liver with an effective half-life of 3.30 h for the liver versus 6.91 h for the kidneys."
+    },
+    "Question_8": {
+        "Context": "The residence time of a radiopharmaceutical in an organ is the duration of time the radiotracer is present and can be used to calculate the radiation dose to that organ.",
+        "Question": "Which organ had the highest residence time for [99mTc]Tc-Duramycin?",
+        "A": "Heart",
+        "B": "Liver",
+        "C": "Spleen",
+        "D": "Kidneys",
+        "Answer": "B",
+        "Source": "The following source regions were included: WB, liver, kidneys, lungs, spleen, heart, brain, and bladder. For the SPECT reconstruction, attenuation correction, scatter correction and collimator modeling were applied in the iterative image reconstruction. The liver showing the highest RT."
+    },
+    "Question_9": {
+        "Context": "Radiopharmaceuticals can undergo metabolic changes in the body, resulting in the formation of metabolites that can be detected and quantified.",
+        "Question": "What percentage of [99mTc]Tc-Duramycin remained intact up to 360 minutes after injection?",
+        "A": "Less than 50%",
+        "B": "Around 75%",
+        "C": "Approximately 90%",
+        "D": "More than 95%",
+        "Answer": "C",
+        "Source": "The analysis of the plasma samples showed that [99mTc]Tc-Duramycin remained mostly intact up to 360 min after injection (93 \u00b1 3%)."
+    },
+    "Question_10": {
+        "Context": "The clearance rate of a radiopharmaceutical from the blood can be indicative of its pharmacokinetics and potential for imaging certain pathologies.",
+        "Question": "What was the clearance rate of [99mTc]Tc-Duramycin from the blood?",
+        "A": "0.05%/min",
+        "B": "0.14%/min",
+        "C": "0.25%/min",
+        "D": "0.50%/min",
+        "Answer": "B",
+        "Source": "In addition, high uptake was also found in the liver and spleen. Optimal target-to-background ratios are expected 5 h PI. However, the prolonged retention in the liver and spleen even after 23 h PI, could hamper tumor response assessment in these organs. We determined the mean effective dose of [99mTc]Tc-Duramycin as 7.6 \u00b5Sv/MBq, corresponding to a total effective dose of 3.60 mSv for a patient dose of 473 MBq. This value compares favorably to those for other cell death imaging tracers such as [18F]ICMT-11 (12.5 mSv), [18F]CP18 (2.8 mSv), [99mTc]HYNIC-annexin V (5.5 mSv) or [18F]ML-10 (7.7 mSv), and is comparable with the effective dose of [18F]FDG (9.0 mSv) (Challapalli et al. 2013; Doss et al. 2013; Hoglund et al. 2011; Kemerink et al. 2003; Quinn et al. 2016). Moreover, this dosimetry study showed that [99mTc]Tc- Duramycin meets the criteria for radiation exposure specified by the European guide- lines and US Food and Drug Administration. Consistent with the predominant renal excretion of [99mTc]Tc-duramycin, the kid- ney was the dose-limiting organ (23 \u00b5Sv/MBq). Therefore, good hydration and fre- quent bladder voiding are recommended in future patient studies. Another organ receiving a relatively high dose was the heart wall (20 and 44 \u00b5Gy/MBq for SPECT and planar imaging, respectively), reflecting slower blood clearance and high radi- otracer association with plasma proteins, such as lipoproteins that are known to con- tain PE (Zhao et al. 2008). Protein-bound radiotracer is less likely to partition across capillary membranes into tissues when compared with free radiotracer in plasma."
+    }
+}

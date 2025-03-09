@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the optimization of a nonlinear quarter car suspension system using genetic algorithms. The suspension system aims to improve ride comfort and health criterion by minimizing various factors.",
+        "Question": "What is the primary objective of the active suspension system in the study?",
+        "A": "To replace the passive suspension system with a controlled system",
+        "B": "To increase the maximum control force",
+        "C": "To maximize the RMS tyre deflection",
+        "D": "To achieve the highest VDV value",
+        "Answer": "A",
+        "Source": "The primary objective of the active suspension system is to replace the passive suspension system by a controlled system which can supply force to the system."
+    },
+    "Question_2": {
+        "Context": "The study discusses the use of PID controllers in the optimization of the suspension system. PID controllers are classical controllers used for various control applications.",
+        "Question": "What does PID stand for in the context of the study?",
+        "A": "Proportional, Integral, Derivative",
+        "B": "Passive, Inactive, Dynamic",
+        "C": "Pressure, Inertia, Damping",
+        "D": "Power, Intensity, Duration",
+        "Answer": "A",
+        "Source": "PID stands for proportional, integral, and derivative and is a classical controller used for several control applications."
+    },
+    "Question_3": {
+        "Context": "The study also explores the use of fuzzy logic control in the optimization process. Fuzzy logic control uses heuristic information for control applications.",
+        "Question": "What type of rule base is used in the fuzzy logic controller implemented for the 2-DOF suspension system?",
+        "A": "Linguistic-based rule base",
+        "B": "Numerical-based rule base",
+        "C": "Statistical-based rule base",
+        "D": "Graphical-based rule base",
+        "Answer": "A",
+        "Source": "FLC rule base is a linguistic-based rule base which incorporates past human experience."
+    },
+    "Question_4": {
+        "Context": "The study involves multi-objective optimization using genetic algorithms for tuning the PID and FLC controllers. The optimization problem comprises various conflicting objectives.",
+        "Question": "What are the conflicting objectives in the optimization problem?",
+        "A": "RMS control force and VDV",
+        "B": "RMS acceleration and RMS suspension space",
+        "C": "RMS tyre deflection and maximum control force",
+        "D": "RMS acceleration and VDV",
+        "Answer": "D",
+        "Source": "The optimization function is modeled as a multi-objective problem comprising of frequency weighted RMS seat acceleration, Vibration dose value (VDV), RMS suspension space, and RMS tyre deflection."
+    },
+    "Question_5": {
+        "Context": "The study presents results comparing the performance of the GA-optimized FLC and PID controllers with a passive system. The controllers aim to improve ride comfort and health criterion.",
+        "Question": "Which controller shows better performance in reducing RMS head acceleration and VDV at the head?",
+        "A": "GA-optimized FLC controller",
+        "B": "GA-optimized PID controller",
+        "C": "Passive system",
+        "D": "Both controllers perform equally",
+        "Answer": "A",
+        "Source": "It is observed that the GA-based FLC active control system minimizes the frequency-weighted RMS acceleration and VDV as compared to the PID and passive suspension system."
+    },
+    "Question_6": {
+        "Context": "The study includes simulations of the suspension system over different road types and speeds. The controllers' performance is evaluated based on various parameters.",
+        "Question": "At what speed does the RMS sprung mass acceleration fall under the fairly uncomfortable region for the FLC controller over a class C road?",
+        "A": "70 kmph",
+        "B": "80 kmph",
+        "C": "100 kmph",
+        "D": "130 kmph",
+        "Answer": "D",
+        "Source": "From Fig. 17, it is observed that for FLC controller, up to 130 kmph speed, the RMS sprung mass acceleration is in a slightly uncomfortable region as per ISO2631-1:1997."
+    },
+    "Question_7": {
+        "Context": "The study evaluates the performance of the suspension system with a human model. Various parameters related to human comfort and health are considered.",
+        "Question": "What is the ratio defined as the ratio of the RMS head acceleration to the RMS seat acceleration?",
+        "A": "CF",
+        "B": "AR_h",
+        "C": "AR_ut",
+        "D": "VDV_h",
+        "Answer": "B",
+        "Source": "The amplitude ratio of head RMS acceleration to seat RMS acceleration (AR_h) is defined as the ratio of the RMS head acceleration to the RMS seat acceleration."
+    },
+    "Question_8": {
+        "Context": "The study compares the performance of the FLC and PID controllers in reducing vibrations at the head in a human model. The controllers aim to improve ride comfort and health criterion.",
+        "Question": "Which controller shows better performance in reducing the amplitude of vibrations at the head around 100 Hz frequencies?",
+        "A": "FLC controller",
+        "B": "PID controller",
+        "C": "Passive system",
+        "D": "Both controllers perform equally",
+        "Answer": "A",
+        "Source": "In frequency analysis, it is observed that the FLC system experiences low amplitude of vibrations at a broader range of frequencies."
+    },
+    "Question_9": {
+        "Context": "The study presents results comparing the performance of the FLC and PID controllers with a passive system in a human model. Various parameters related to human comfort and health are considered.",
+        "Question": "Which controller shows better performance in reducing the amplitude ratio of upper torso RMS acceleration to seat RMS acceleration?",
+        "A": "FLC controller",
+        "B": "PID controller",
+        "C": "Passive system",
+        "D": "Both controllers perform equally",
+        "Answer": "A",
+        "Source": "FLC and PID controller improves amplitude of vibrations at head around 100 Hz regions, which is the most sensitive region related to ears and eyes."
+    },
+    "Question_10": {
+        "Context": "The study evaluates the performance of the suspension system with a human model. Various parameters related to human comfort and health are considered.",
+        "Question": "What is the amplitude ratio defined as the ratio of the RMS upper torso acceleration to the RMS seat acceleration?",
+        "A": "CF",
+        "B": "AR_h",
+        "C": "AR_ut",
+        "D": "VDV_h",
+        "Answer": "C",
+        "Source": "The amplitude ratio of upper torso RMS acceleration to seat RMS acceleration (AR_ut) is defined as the ratio of the RMS upper torso acceleration to the RMS seat acceleration."
+    }
+}

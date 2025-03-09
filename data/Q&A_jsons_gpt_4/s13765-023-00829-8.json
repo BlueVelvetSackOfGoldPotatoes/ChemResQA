@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Black ginseng is processed by repeated steaming and drying of raw or white ginseng, which induces chemical changes that enhance its pharmacological properties.",
+        "Question": "What is the main method used to process black ginseng to increase its pharmacological activity?",
+        "A": "Fermentation",
+        "B": "Steaming and drying",
+        "C": "Sun-drying",
+        "D": "Freeze-drying",
+        "Answer": "B",
+        "Source": "Black ginseng is made by steaming and drying raw or white ginseng several times; the transformation to black through the steaming process means that the white ginseng has undergone functional chemical changes."
+    },
+    "Question_2": {
+        "Context": "Ginsenosides are a class of natural product steroid glycosides and triterpene saponins found exclusively in the plant genus Panax (ginseng).",
+        "Question": "Which ginsenosides are known to be present in higher content in black ginseng compared to white and red ginseng?",
+        "A": "Rg1, Re, Rb1",
+        "B": "Rg3, Rg5, Rk1",
+        "C": "Rc, Rd, Rf",
+        "D": "Rb2, Rb3, Rc",
+        "Answer": "B",
+        "Source": "In particular, black ginseng has a higher content of the ginsenosides Rg3, Rg5, Rk1, Rh1, and Rh2, showing superior pharmacological activity compared to white ginseng and red ginseng."
+    },
+    "Question_3": {
+        "Context": "Metabolomics is the scientific study of chemical processes involving metabolites, which are the intermediates and products of metabolism.",
+        "Question": "Which technique is widely used for metabolic profiling and provides effective and reproducible results?",
+        "A": "High-performance liquid chromatography (HPLC)",
+        "B": "Gas chromatography (GC)",
+        "C": "Gas chromatography-mass spectrometry (GC-MS)",
+        "D": "Nuclear magnetic resonance (NMR)",
+        "Answer": "C",
+        "Source": "Among them, GC\u2013MS is widely used for metabolic profiling and provides effective and reproducible results."
+    },
+    "Question_4": {
+        "Context": "In the context of obesity prevention, the hypothalamus plays a crucial role in regulating energy homeostasis by coordinating food intake and energy metabolism.",
+        "Question": "What is the primary role of the hypothalamus in energy homeostasis?",
+        "A": "Regulating glucose and lipid metabolism in the liver",
+        "B": "Lipid oxidation in muscles",
+        "C": "Insulin secretion",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Its role in regulating energy homeostasis has attracted considerable attention, as it coordinates both food intake and energy metabolism in response to a wide range of nutritional and other signals. It also maintains body weight and energy homeostasis by regulating glucose and lipid metabolism in the liver, lipid oxidation in muscles, and insulin secretion."
+    },
+    "Question_5": {
+        "Context": "High-fat diets can lead to an imbalance in energy metabolism, which is associated with obesity and metabolic disorders.",
+        "Question": "What type of diet is known to cause obesity due to an imbalance in energy metabolism?",
+        "A": "Low-carbohydrate diet",
+        "B": "High-protein diet",
+        "C": "High-fat diet",
+        "D": "Low-fat diet",
+        "Answer": "C",
+        "Source": "Obesity is a metabolic disorder in which the high amount of fat accumulated in the body adversely affects health. It is associated with an imbalance of energy metabolism in various organs, such as the hypothalamus and liver, which regulate energy expenditure."
+    },
+    "Question_6": {
+        "Context": "Metabolomics can be used to study the effects of dietary changes on the body by analyzing metabolites in various biological samples.",
+        "Question": "Which biological samples are commonly analyzed in metabolomics to study the effects of dietary changes?",
+        "A": "Serum, liver, and hypothalamus",
+        "B": "Muscle tissue and bone marrow",
+        "C": "Hair and nails",
+        "D": "Urine and saliva",
+        "Answer": "A",
+        "Source": "Therefore, we aimed to evaluate the obesity-preventing effect of black ginseng in the serum, liver, and hypothalamus of mice on a high-fat diet (HFD) using metabolomic techniques."
+    },
+    "Question_7": {
+        "Context": "Saturated fatty acids are a type of fat that can be found in various foods and are known to increase cholesterol levels in the blood.",
+        "Question": "Which type of fatty acids are known to increase cholesterol levels when consumed in excess?",
+        "A": "Monounsaturated fatty acids",
+        "B": "Polyunsaturated fatty acids",
+        "C": "Saturated fatty acids",
+        "D": "Trans fatty acids",
+        "Answer": "C",
+        "Source": "Lipid metabolism, including saturated fatty acids and cholesterol, was decreased in the BGEH mice."
+    },
+    "Question_8": {
+        "Context": "The tricarboxylic acid cycle is a central metabolic pathway that plays a key role in the oxidation of carbohydrates, fats, and proteins.",
+        "Question": "What is the role of the tricarboxylic acid cycle in metabolism?",
+        "A": "Synthesizing fatty acids",
+        "B": "Oxidizing carbohydrates, fats, and proteins",
+        "C": "Breaking down nucleic acids",
+        "D": "Synthesizing amino acids",
+        "Answer": "B",
+        "Source": "Specifically, neurotransmitters and intermediates of the tricarboxylic acid cycle were increased in the hypothalamus of BGEH mice."
+    },
+    "Question_9": {
+        "Context": "Obesity can lead to the accumulation of fat in the liver, which is a condition known as fatty liver.",
+        "Question": "What condition is characterized by the accumulation of fat in the liver, often associated with obesity?",
+        "A": "Hepatitis",
+        "B": "Cirrhosis",
+        "C": "Fatty liver",
+        "D": "Liver fibrosis",
+        "Answer": "C",
+        "Source": "An HFD is known to be the main cause of fatty liver, and fatty liver is accompanied by complications of diabetes and hyperlipidemia."
+    },
+    "Question_10": {
+        "Context": "Ginsenosides are active compounds in ginseng that have been shown to have various pharmacological activities.",
+        "Question": "Which ginsenoside is known for its pharmacological activity and is present in higher amounts in black ginseng?",
+        "A": "Rg3",
+        "B": "Rb1",
+        "C": "Re",
+        "D": "Rc",
+        "Answer": "A",
+        "Source": "For example, as steaming decomposes starch and polysaccharides, secondary metabolites such as phenolic acid and ginsenosides in the ginseng increase, which are also better digested in the body than fresh ginseng. In particular, black ginseng has a higher content of the ginsenosides Rg3, Rg5, Rk1, Rh1, and Rh2, showing superior pharmacological activity compared to white ginseng and red ginseng."
+    }
+}

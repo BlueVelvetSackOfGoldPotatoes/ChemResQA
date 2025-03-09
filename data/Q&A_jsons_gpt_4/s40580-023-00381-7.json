@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Thermoelectric materials can convert temperature gradients into electricity, and their performance is quantified by a dimensionless figure of merit known as ZT.",
+        "Question": "What physical parameters comprise the dimensionless figure of merit ZT in thermoelectric materials?",
+        "A": "Seebeck coefficient, electric conductivity, temperature, and thermal conductivity",
+        "B": "Chemical potential, electric field, temperature, and thermal expansion",
+        "C": "Electric conductivity, magnetic field, temperature gradient, and pressure",
+        "D": "Thermal conductivity, electric field, chemical potential, and temperature difference",
+        "Answer": "A",
+        "Source": "The quantity of interest that determines the thermoelectric performance is a dimensionless figure of merit ZT = S2\u03c3T/\u03ba, which is influenced by the electronic and phononic properties of the thermoelectric material. Here S, \u03c3, T, and \u03ba are the Seebeck coefficient, electric conductivity, temperature, and thermal conductivity, respectively, while S2\u03c3 is called a power factor (PF)."
+    },
+    "Question_2": {
+        "Context": "Defect engineering in thermoelectric materials can be used to optimize their electrical and thermal properties by manipulating the charge carrier concentration and lattice thermal conductivity.",
+        "Question": "What is the primary effect of defect engineering on the thermoelectric properties of materials?",
+        "A": "Decreases the charge carrier concentration and increases the lattice thermal conductivity",
+        "B": "Increases both the charge carrier concentration and the lattice thermal conductivity",
+        "C": "Increases the charge carrier concentration and reduces the lattice thermal conductivity",
+        "D": "Reduces both the charge carrier concentration and the lattice thermal conductivity",
+        "Answer": "C",
+        "Source": "One effective strategy to optimize both the electrical and thermal properties is defect engineering, which can simultaneously increase the charge carrier concentration and reduce the lattice thermal conductivity in the material."
+    },
+    "Question_3": {
+        "Context": "The thermoelectric performance of materials like SnSe is influenced by the low-energy electron band structure, particularly the density of states at the valence band maximum (VBM).",
+        "Question": "What characteristic of the valence band maximum (VBM) in SnSe contributes to its high thermoelectric performance?",
+        "A": "Low density of states in a wide energy window",
+        "B": "High density of states in a narrow energy window",
+        "C": "High density of states in a wide energy window",
+        "D": "Low density of states in a narrow energy window",
+        "Answer": "B",
+        "Source": "The thermoelectric performance of SnSe strongly depends on its low\u2011energy electron band structure that provides high density of states in a narrow energy window due to the multi\u2011valley valence band maximum (VBM)."
+    },
+    "Question_4": {
+        "Context": "In the context of thermoelectric materials, the power factor (PF) is an important quantity that is directly related to the electronic contribution to thermoelectric performance.",
+        "Question": "What does the power factor (PF) in thermoelectric materials represent?",
+        "A": "The product of the Seebeck coefficient and electric conductivity",
+        "B": "The ratio of thermal conductivity to electric conductivity",
+        "C": "The product of thermal conductivity and temperature",
+        "D": "The ratio of electric conductivity to the Seebeck coefficient",
+        "Answer": "A",
+        "Source": "Here S, \u03c3, T, and \u03ba are the Seebeck coefficient, electric conductivity, temperature, and thermal conductivity, respectively, while S2\u03c3 is called a power factor (PF)."
+    },
+    "Question_5": {
+        "Context": "SnSe is a material with a layered crystal structure, and its thermoelectric properties are affected by the presence of vacancies, particularly tin (Sn) vacancies.",
+        "Question": "In the context of SnSe, what role do tin (Sn) vacancies play in its thermoelectric properties?",
+        "A": "They increase the band gap of SnSe",
+        "B": "They decrease the electrical conductivity of SnSe",
+        "C": "They lead to hole doping of SnSe",
+        "D": "They increase the thermal conductivity of SnSe",
+        "Answer": "C",
+        "Source": "The VBM shift follows precisely the behavior of the thermoelectric power factor, while the effective mass is barely modified upon changing the population of Sn vacancies. These findings indicate that the low\u2011 energy electron band structure is closely correlated with the high thermoelectric performance of hole\u2011doped SnSe."
+    },
+    "Question_6": {
+        "Context": "The band gap of a semiconductor is a critical parameter that defines its electronic properties and is the energy difference between the valence band and the conduction band.",
+        "Question": "What is the approximate band gap of SnSe as determined by previous studies?",
+        "A": "0.1\u20130.2 eV",
+        "B": "0.8\u20130.9 eV",
+        "C": "1.5\u20132.0 eV",
+        "D": "2.5\u20133.0 eV",
+        "Answer": "B",
+        "Source": "SnSe is an insulator with a band gap of 0.8\u20130.9 eV."
+    },
+    "Question_7": {
+        "Context": "The effective mass of charge carriers in a material is a parameter that influences its electrical properties and is related to the curvature of the bands in the band structure.",
+        "Question": "What is generally true about the effective mass of the charge carriers in high-performance thermoelectric materials?",
+        "A": "They have a high effective mass to increase the density of states",
+        "B": "They have a low effective mass to facilitate high mobility",
+        "C": "They have a variable effective mass to adjust the Seebeck coefficient",
+        "D": "They have an infinite effective mass to maximize thermal conductivity",
+        "Answer": "B",
+        "Source": "An alternative origin of the high PF value observed in hole-doped SnSe is the light effective mass of the multiple hole bands, i.e., \u03b1, \u03b2, and \u03b3 bands, which tends to strongly influence the electric properties of a material."
+    },
+    "Question_8": {
+        "Context": "In semiconductors, the valence band maximum (VBM) is the highest energy level of the valence band and can be influenced by various factors such as doping.",
+        "Question": "What effect does increasing the population of Sn vacancies have on the valence band maximum (VBM) of SnSe?",
+        "A": "It shifts the VBM toward higher binding energy",
+        "B": "It shifts the VBM toward lower binding energy",
+        "C": "It does not affect the position of the VBM",
+        "D": "It eliminates the VBM entirely",
+        "Answer": "B",
+        "Source": "With increasing x, the overall multi-valley VBM shifts toward lower binding energy. The non-dispersive fuzzy states that become obvious at x = 0.04 originate from impurity scattering."
+    },
+    "Question_9": {
+        "Context": "The cooling rate during the growth process of thermoelectric materials can affect the population of intrinsic defects such as vacancies.",
+        "Question": "How does the cooling rate during the growth of SnSe single crystals affect the population of Sn vacancies?",
+        "A": "A faster cooling rate increases the population of Sn vacancies",
+        "B": "A slower cooling rate increases the population of Sn vacancies",
+        "C": "The cooling rate has no effect on the population of Sn vacancies",
+        "D": "The cooling rate only affects the size of the Sn vacancies",
+        "Answer": "B",
+        "Source": "The PF value of SnSe depends on the cooling rate during its growth process that determines the population of Sn vacancy. The slower cooling rate also leads to the overall shift of the multi-valley VBM towards the lower binding energy, indicating hole doping of SnSe."
+    },
+    "Question_10": {
+        "Context": "The thermoelectric power factor (PF) of a material is an important metric for its performance and can be influenced by factors such as carrier concentration and effective mass.",
+        "Question": "What is the relationship between the thermoelectric power factor (PF) and the effective mass of charge carriers in SnSe?",
+        "A": "PF increases with increasing effective mass",
+        "B": "PF decreases with increasing effective mass",
+        "C": "PF is independent of the effective mass",
+        "D": "PF is only affected by the effective mass at high temperatures",
+        "Answer": "C",
+        "Source": "At a faster cooling rate of 5 K/h, the effective masses of the \u03b1 and \u03b2 bands along the \u0393-Y direction are estimated to be m*\u03b1 \u0393Y = 0.13 \u00b1 0.02 me and m*\u03b2 \u0393Y = 0.20 \u00b1 0.03 me, which remain almost the same within the fitting error. As a result, the effective mass does not affect PF significantly."
+    }
+}

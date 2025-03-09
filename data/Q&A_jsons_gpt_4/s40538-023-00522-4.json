@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Fennel and Micromeria fruticose are plants known for their essential oils, which contain various compounds with potential health benefits.",
+        "Question": "What is the major constituent of the essential oil derived from fennel seeds?",
+        "A": "Fenchone",
+        "B": "Sylvestrene",
+        "C": "Trans-anethole",
+        "D": "Methyl chavicol",
+        "Answer": "C",
+        "Source": "24 phytochemicals were identified in the essential oil of fennel seeds, accounting for 100% of its composition, of which trans\u2011anethole (93.69%), fenchone (3.93%), and sylvestrene (0.83%) were the major constituents."
+    },
+    "Question_2": {
+        "Context": "Micromeria fruticose is a plant whose leaves are used to extract essential oils, which are composed of various chemical compounds.",
+        "Question": "Which compound is the primary component of the essential oil from Micromeria fruticose leaves?",
+        "A": "\u03b2-caryophyllene",
+        "B": "Pulegone",
+        "C": "Isomenthone",
+        "D": "Piperitenone oxide",
+        "Answer": "B",
+        "Source": "Analysis of M. fruticose EO allowed the identification of 20 compounds, accounting for 97.73% of the EO\u2019s overall composition, with pulegone (81.77%), \u03b2\u2011caryophyllene (2.95%), isomenthone (2.17%), piperitenone oxide (1.78%), and p\u2011mentha\u20113\u2011en\u20118\u2011ol (1.38%) being the primary components."
+    },
+    "Question_3": {
+        "Context": "Essential oils are complex mixtures of chemical compounds, which can be categorized into different groups based on their chemical structure.",
+        "Question": "In the essential oil of fennel seeds, which category of compounds predominates?",
+        "A": "Monoterpene hydrocarbons",
+        "B": "Oxygenated monoterpenes",
+        "C": "Sesquiterpene hydrocarbons",
+        "D": "Oxygenated sesquiterpenes",
+        "Answer": "B",
+        "Source": "The composition of EO could be divided into two groups: oxygenated monoterpenes (98.66%) and monoterpene hydrocarbons (1.31%), with the primary constituents being trans-anet- hole (93.69%), fenchone (3.93%), sylvestrene (0.83%), and methyl chavicol (0.57%)."
+    },
+    "Question_4": {
+        "Context": "The chemical composition of essential oils can be analyzed using various chromatographic techniques.",
+        "Question": "What analytical method was used to study the essential oils from Micromeria fruticose leaves and fennel seeds?",
+        "A": "High-performance liquid chromatography (HPLC)",
+        "B": "Gas chromatography-mass spectrometry (GC-MS)",
+        "C": "Thin-layer chromatography (TLC)",
+        "D": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "Answer": "B",
+        "Source": "GC\u2013MS was used to study the essential oils (EOs) from Micromeria fruticose leaves and fennel seeds that were extracted by hydrodistillation."
+    },
+    "Question_5": {
+        "Context": "Essential oils can have various biological activities, including effects on cell proliferation.",
+        "Question": "Which biological activity was observed when essential oils from fennel seeds and Micromeria fruticose leaves were applied to melanoma cells?",
+        "A": "Increased cell proliferation",
+        "B": "No effect on cell proliferation",
+        "C": "Suppressed cell proliferation",
+        "D": "Induced cell differentiation",
+        "Answer": "C",
+        "Source": "The results of our study demonstrate that the application of both oils, either separately or in combination (referred to as Mix\u2011EO therapy), effectively suppressed the growth of melanoma cells in a manner that was dependent on the dosage."
+    },
+    "Question_6": {
+        "Context": "In the context of cancer research, apoptosis is a process of programmed cell death that can be induced by certain treatments to prevent the growth of cancer cells.",
+        "Question": "What effect did the essential oils have on the expression of pro-apoptotic and anti-apoptotic genes in melanoma cells?",
+        "A": "Upregulation of pro-apoptotic Bax and downregulation of anti-apoptotic Bcl2",
+        "B": "Downregulation of pro-apoptotic Bax and upregulation of anti-apoptotic Bcl2",
+        "C": "No change in the expression of pro-apoptotic Bax and anti-apoptotic Bcl2",
+        "D": "Upregulation of both pro-apoptotic Bax and anti-apoptotic Bcl2",
+        "Answer": "A",
+        "Source": "Furthermore, both treatments resulted in the upregulation of pro\u2011apoptotic Bax and the downregulation of apoptosis\u2011inhibiting Bcl2 expression in an in vitro setting."
+    },
+    "Question_7": {
+        "Context": "Matrix metalloproteinases (MMPs) are enzymes that can degrade components of the extracellular matrix and are involved in cancer cell migration and invasion.",
+        "Question": "What effect did the essential oils have on the levels of matrix metalloproteinase 9 (MMP9) in melanoma cells?",
+        "A": "Increased MMP9 levels",
+        "B": "Decreased MMP9 levels",
+        "C": "No change in MMP9 levels",
+        "D": "MMP9 levels were not measured",
+        "Answer": "B",
+        "Source": "Both EOs and Mix\u2011EO were found to decrease the intracellular levels of the transcription factor nuclear factor kappa B (NFkB) and one of its downstream targets, matrix metallopro- teinase9 (MMP9), in melanoma and tumor\u2011associated mesenchymal stem cells."
+    },
+    "Question_8": {
+        "Context": "Nuclear factor kappa B (NFkB) is a protein complex that controls the transcription of DNA, cytokine production, and cell survival, and is implicated in processes such as inflammation and cancer.",
+        "Question": "What was the observed effect of the essential oils on the NFkB pathway in melanoma cells?",
+        "A": "Activation of NFkB",
+        "B": "Inhibition of NFkB",
+        "C": "No effect on NFkB",
+        "D": "NFkB was not a target of the study",
+        "Answer": "B",
+        "Source": "Both EOs and Mix\u2011EO were found to decrease the intracellular levels of the transcription factor nuclear factor kappa B (NFkB) and one of its downstream targets, matrix metallopro- teinase9 (MMP9), in melanoma and tumor\u2011associated mesenchymal stem cells."
+    },
+    "Question_9": {
+        "Context": "The yield of essential oils from plant materials can vary and is an important factor in their study and application.",
+        "Question": "What was the yield of essential oil from fennel seeds as reported in the study?",
+        "A": "1.57%",
+        "B": "2.5%",
+        "C": "3.5%",
+        "D": "4.5%",
+        "Answer": "D",
+        "Source": "The EO yield of fennel seeds was 4.5%."
+    },
+    "Question_10": {
+        "Context": "Hydrodistillation is a method used to extract essential oils from plant materials by using water or steam.",
+        "Question": "What method was used to extract the essential oils from the plant materials in the study?",
+        "A": "Cold pressing",
+        "B": "Solvent extraction",
+        "C": "Hydrodistillation",
+        "D": "Supercritical fluid extraction",
+        "Answer": "C",
+        "Source": "The essential oils were extracted by hydro-distillation. The hydrodistilla- tion of shade-dried plant leaves resulted in a pale yellow oil yield of 1.57%."
+    }
+}

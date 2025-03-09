@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the phase-field simulation of dendrite growth during the solidification of an alloy.",
+        "Question": "What method is effective for improving the computational performance when the diffusion length is significantly larger than the curvature radius of a dendrite tip?",
+        "A": "Finite difference method",
+        "B": "Adaptive mesh refinement (AMR) method",
+        "C": "Finite volume method",
+        "D": "Dynamic load balancing",
+        "Answer": "B",
+        "Source": "In such cases, the adaptive mesh refinement (AMR) method is effective for improving the computational performance."
+    },
+    "Question_2": {
+        "Context": "The study discusses the use of graphics processing units (GPUs) for parallel computation.",
+        "Question": "What is a key advantage of using GPUs in phase-field simulations of dendritic solidification?",
+        "A": "Low parallel computing performance",
+        "B": "High computational cost",
+        "C": "Efficient acceleration of computations",
+        "D": "Limited scale for simulations",
+        "Answer": "C",
+        "Source": "GPU computing is quite efficient for implementing discretization methods with simple calculation algorithms, such as finite difference or finite volume methods."
+    },
+    "Question_3": {
+        "Context": "The study evaluates the efficiency of dynamic load balancing in multiple-GPU parallel computations.",
+        "Question": "What is the purpose of dynamic load balancing in domain subdivision for parallel computing?",
+        "A": "To increase the computational cost per GPU",
+        "B": "To reduce the number of grid points per GPU",
+        "C": "To equalize the computational cost per GPU",
+        "D": "To limit the efficiency of parallel computation",
+        "Answer": "C",
+        "Source": "In the parallel GPU computation, we apply dynamic load balancing to parallel computing to equalize the computational cost per GPU."
+    },
+    "Question_4": {
+        "Context": "The study describes the PF model used for simulations.",
+        "Question": "How is the morphological evolution of dendrites expressed in the PF model?",
+        "A": "Through the solute concentration",
+        "B": "Through the temperature field",
+        "C": "Through the PF variable",
+        "D": "Through the partition coefficient",
+        "Answer": "C",
+        "Source": "The morphological evolution of dendrites is expressed by solving the PF equation."
+    },
+    "Question_5": {
+        "Context": "The study discusses the use of an adaptive mesh refinement (AMR) method.",
+        "Question": "What is the purpose of AMR in resolving problems such as a wide primary arm spacing compared to the curvature radius of a dendrite tip?",
+        "A": "To increase the computational cost",
+        "B": "To reduce the efficiency of computations",
+        "C": "To accelerate PF simulations",
+        "D": "To limit the number of dendrites",
+        "Answer": "C",
+        "Source": "AMR is extremely effective in resolving problems such as a wide primary arm spacing compared to the curvature radius of a dendrite tip."
+    },
+    "Question_6": {
+        "Context": "The study evaluates the AMR refinement condition through single-GPU computations.",
+        "Question": "What is the maximum refinement level set for evaluating the AMR refinement condition?",
+        "A": "nmax = 0",
+        "B": "nmax = 3",
+        "C": "nmax = 5",
+        "D": "nmax = 7",
+        "Answer": "C",
+        "Source": "The maximum refinement level is set as nmax = 0, 1, 2, 3, 4, and 5."
+    },
+    "Question_7": {
+        "Context": "The study discusses the computational domain subdivision using the slice-grid method.",
+        "Question": "How are the subdomain boundaries determined in the dynamic load balancing using the slice-grid method?",
+        "A": "Based on random allocation",
+        "B": "Based on fixed positions",
+        "C": "Based on integral multiples of X0",
+        "D": "Based on decreasing grid points",
+        "Answer": "C",
+        "Source": "Here, the slide distances of the subdomain boundaries are set as integral multiples of X0."
+    },
+    "Question_8": {
+        "Context": "The study evaluates the performance of dynamic load balancing in multiple-GPU parallel computations.",
+        "Question": "What is the ratio of the maximum and average number of grid points assigned to 16 GPUs in Case 3?",
+        "A": "1.30",
+        "B": "1.67",
+        "C": "1.84",
+        "D": "2.00",
+        "Answer": "C",
+        "Source": "At t = 3.0 \u00d7 106\u0394t, the ratio of the maximum and average number of grid points assigned to 16 GPUs is approximately 1.84."
+    },
+    "Question_9": {
+        "Context": "The study performs weak scaling tests to evaluate the parallel computation performance.",
+        "Question": "What is the execution time per 2000 time steps with 256 GPUs compared to 16 GPUs?",
+        "A": "1.7% longer",
+        "B": "2 times longer",
+        "C": "5 times longer",
+        "D": "10 times longer",
+        "Answer": "A",
+        "Source": "As shown in the figure, the execution time with 256 GPUs is only 1.7% longer than that with 16 GPUs."
+    },
+    "Question_10": {
+        "Context": "The study concludes by discussing the efficiency of the developed simulation scheme.",
+        "Question": "What advantage does the developed scheme offer for simulating the growth of numerous dendrites?",
+        "A": "Limited computational efficiency",
+        "B": "Reduced scale for simulations",
+        "C": "Improved computational efficiency and scale",
+        "D": "Decreased parallel computation performance",
+        "Answer": "C",
+        "Source": "The developed scheme can significantly improve the efficiency of simulations under solidification conditions with a large solute diffusion length and/or large primary arm spacing."
+    }
+}

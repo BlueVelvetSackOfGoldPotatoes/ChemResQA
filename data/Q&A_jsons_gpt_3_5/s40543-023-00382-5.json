@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Pharmacokinetics of liraglutide in rats after intravenous injection.",
+        "Question": "What was the average half-life of liraglutide in rats following intravenous injection?",
+        "A": "2.00 h",
+        "B": "3.67 h",
+        "C": "4.50 h",
+        "D": "6.00 h",
+        "Answer": "B",
+        "Source": "Following IV injection, plasma concentrations of liraglutide showed a mono-exponential decline with an average half-life of 3.67 \u00b1 0.40 h."
+    },
+    "Question_2": {
+        "Context": "Pharmacokinetics of liraglutide in rats after subcutaneous injection.",
+        "Question": "What was the bioavailability of liraglutide in rats after subcutaneous injection?",
+        "A": "5.00%",
+        "B": "9.25%",
+        "C": "13.16%",
+        "D": "18.75%",
+        "Answer": "C",
+        "Source": "The absolute bioavailability of liraglutide after subcutaneous injection was 13.16% in rats."
+    },
+    "Question_3": {
+        "Context": "Brain distribution of liraglutide in rats.",
+        "Question": "Which brain region showed the highest concentration of liraglutide in rats after intravenous injection?",
+        "A": "Cerebrum",
+        "B": "Cerebellum",
+        "C": "Hypothalamus",
+        "D": "Frontal lobe",
+        "Answer": "C",
+        "Source": "Following either IV or SC injection, the brain tissue-to-plasma partition coefficient (Kp) of liraglutide was estimated as less than 0.00031, indicating the insignificant distribution of liraglutide to the brain. In the brain, liraglutide concentrations were the highest in the hypothalamus, followed by the cerebellum and cerebrum."
+    },
+    "Question_4": {
+        "Context": "Brain distribution of liraglutide in rats.",
+        "Question": "What was the tissue-to-plasma partition coefficient (Kp) of liraglutide in the cerebellum after subcutaneous injection?",
+        "A": "0.00012",
+        "B": "0.00018",
+        "C": "0.00026",
+        "D": "0.00031",
+        "Answer": "B",
+        "Source": "The tissue-to-plasma partition coefficient (Kp) of liraglutide in the cerebellum was 0.00026 \u00b1 0.00007 following IV injection and 0.00014 \u00b1 0.00003 following SC injection."
+    },
+    "Question_5": {
+        "Context": "Method validation of the LC-MS/MS assay for liraglutide.",
+        "Question": "What was the lower limit of quantification (LLOQ) for liraglutide in the brain tissue homogenates?",
+        "A": "1 ng/mL",
+        "B": "2 ng/mL",
+        "C": "5 ng/mL",
+        "D": "10 ng/mL",
+        "Answer": "B",
+        "Source": "The LLOQ of liraglutide was 1 ng/mL in the plasma and 2 ng/mL in the brain tissue homogenates."
+    },
+    "Question_6": {
+        "Context": "Method validation of the LC-MS/MS assay for liraglutide.",
+        "Question": "What was the correlation coefficient for the calibration curve of liraglutide in the plasma?",
+        "A": "> 0.999",
+        "B": "0.995 - 0.999",
+        "C": "0.990 - 0.994",
+        "D": "< 0.990",
+        "Answer": "A",
+        "Source": "The calibration curve of liraglutide was linear over the calibration standard concentration range from 1 to 1000 ng/mL in the plasma with a correlation coefficient > 0.999."
+    },
+    "Question_7": {
+        "Context": "Sample preparation for liraglutide analysis.",
+        "Question": "Which solvent was used for protein precipitation to extract liraglutide from the rat plasma samples?",
+        "A": "Acetonitrile",
+        "B": "Methanol",
+        "C": "Ethanol",
+        "D": "Water",
+        "Answer": "B",
+        "Source": "To extract liraglutide from the plasma samples, simple protein precipitation with methanol was used."
+    },
+    "Question_8": {
+        "Context": "Sample preparation for liraglutide analysis.",
+        "Question": "What was the extraction recovery of liraglutide in the brain tissue homogenates?",
+        "A": "92.17 - 104.59%",
+        "B": "80 - 90%",
+        "C": "105 - 120%",
+        "D": "70 - 80%",
+        "Answer": "A",
+        "Source": "The extraction recovery in the brain tissue was 94.09\u201399.76% for liraglutide."
+    },
+    "Question_9": {
+        "Context": "LC-MS/MS conditions for liraglutide analysis.",
+        "Question": "What was the most abundant precursor ion in the positive Q1 mass scan spectrum for liraglutide?",
+        "A": "[M + 2H]2+",
+        "B": "[M + 3H]3+",
+        "C": "[M + 4H]4+",
+        "D": "[M + 5H]5+",
+        "Answer": "C",
+        "Source": "The most abundant precursor ion in the positive Q1 mass scan spectrum was [M + 4H]4+ at m/z 938.5 for liraglutide."
+    },
+    "Question_10": {
+        "Context": "Stability evaluation of liraglutide.",
+        "Question": "Under which condition was the stability of liraglutide examined for 7 days?",
+        "A": "Short-term",
+        "B": "Long-term",
+        "C": "Autosampler",
+        "D": "Freeze/thaw cycles",
+        "Answer": "B",
+        "Source": "The stability evaluation of liraglutide was examined under long-term conditions, 7 days at -70\u00b0C."
+    }
+}

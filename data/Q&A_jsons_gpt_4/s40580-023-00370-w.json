@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of microbiology, the early detection and identification of drug-resistant bacteria on human skin is crucial for the effective treatment of infections.",
+        "Question": "What is the importance of capturing drug-resistant bacteria on human skin?",
+        "A": "To enhance the flavor of skin products",
+        "B": "For early-stage diagnosis and treatment of patients",
+        "C": "To improve the texture of the skin",
+        "D": "For cosmetic research purposes",
+        "Answer": "B",
+        "Source": "Sensitive and accurate capture, enrichment, and identification of drug-resistant bacteria on human skin are important for early-stage diagnosis and treatment of patients."
+    },
+    "Question_2": {
+        "Context": "Polyaniline nanowebs with hierarchical structures can be used to capture bacteria due to their enhanced surface interactions.",
+        "Question": "What is the role of hierarchical nanostructures in the context of bacteria capture?",
+        "A": "They reduce the efficiency of bacteria capture",
+        "B": "They have no impact on bacteria capture",
+        "C": "They enhance bacteria capture efficiency",
+        "D": "They are used for better visualization of bacteria",
+        "Answer": "C",
+        "Source": "These unique hierarchical nanostructures enhance bacteria capture efficiency and help severely deform the surface of the bacteria entrapped on them."
+    },
+    "Question_3": {
+        "Context": "Polyaniline is a conductive polymer that can be used to create nanowebs for capturing bacteria.",
+        "Question": "What is the significance of using polyaniline in the construction of nanowebs for bacteria capture?",
+        "A": "It is used for its insulating properties",
+        "B": "It contributes to the effective and reliable recovery of drug-resistant bacteria",
+        "C": "It is used for its color-changing properties",
+        "D": "It is solely for structural support",
+        "Answer": "B",
+        "Source": "Herein, we constructed a three-dimensional hierarchically structured polyaniline nanoweb (3D HPN) to capture, enrich, and detect drug-resistant bacteria on-site by rubbing infected skins."
+    },
+    "Question_4": {
+        "Context": "The detection of bacteria can be significantly improved by employing molecular analysis techniques such as real-time polymerase chain reaction (PCR).",
+        "Question": "Which molecular analysis technique is mentioned as being used for identifying bacteria after capture?",
+        "A": "Mass spectrometry",
+        "B": "Western blotting",
+        "C": "Real-time polymerase chain reaction (PCR)",
+        "D": "Flow cytometry",
+        "Answer": "C",
+        "Source": "The recovered bacteria were successfully identified by subsequent real-time polymerase chain reaction (PCR) analysis after the lysis process."
+    },
+    "Question_5": {
+        "Context": "The sensitivity of a bacterial detection assay is crucial for determining the lowest concentration of bacteria that can be reliably detected.",
+        "Question": "What is the detection sensitivity of the assay mentioned for identifying drug-resistant bacteria?",
+        "A": "102 to 107 CFU/mL",
+        "B": "10 to 50 CFU/mL",
+        "C": "1 to 5 CFU/mL",
+        "D": "200 to 500 CFU/mL",
+        "Answer": "A",
+        "Source": "The molecular analysis results based on a real-time PCR exhibit excellent sensitivity to detecting target bacteria of concentrations ranging from 102 to 107 CFU/mL without any fluorescent signal interruption."
+    },
+    "Question_6": {
+        "Context": "The use of nano-topological technologies has been recognized for their potential in recovering and diagnosing pathogenic bacteria.",
+        "Question": "Why have nano-topological technologies gained attention in the context of pathogenic bacteria recovery and diagnosis?",
+        "A": "Due to their low surface area and instability",
+        "B": "Because they are less compatible with molecular analysis",
+        "C": "Owing to their high surface area and controllable surface characteristics",
+        "D": "They are only useful for non-pathogenic bacteria",
+        "Answer": "C",
+        "Source": "Recently, nano-topological technologies have drawn significant attention for recovering and diagnosing pathogenic bacteria owing to their high surface area, controllable surface characteristics, mechanical, chemical, and thermal stability, and compatibility in molecular analysis."
+    },
+    "Question_7": {
+        "Context": "The process of polymerization can be used to grow nanostructures on a substrate.",
+        "Question": "What method is used to grow polyaniline nanostructures on a nanopillar array?",
+        "A": "Hydrothermal synthesis",
+        "B": "Dilute polymerization method",
+        "C": "Chemical vapor deposition",
+        "D": "Molecular beam epitaxy",
+        "Answer": "B",
+        "Source": "The PUN films were immersed in deionized (DI) water of 1-M perchloric acid (70%, Sigma-Aldrich), 0.1-M aniline (99.5%, Sigma-Aldrich), and 6-mM ammonium persulfate (98%, Sigma-Aldrich) molar concentrations. The polymerization was performed at 4 \u00b0C and incubated for 8 h."
+    },
+    "Question_8": {
+        "Context": "The characterization of materials is important to understand their morphology and chemical state.",
+        "Question": "Which technique is used to characterize the morphology of 3D HPN films?",
+        "A": "X-ray diffraction",
+        "B": "Nuclear magnetic resonance",
+        "C": "Field-emission scanning electron microscopy",
+        "D": "Transmission electron microscopy",
+        "Answer": "C",
+        "Source": "The morphology and chemical state of the 3D HPN films were characterized by field-emission SEM (Hitachi S-4800, Japan)."
+    },
+    "Question_9": {
+        "Context": "The interaction between bacterial cells and nanomaterials can be studied to understand how bacteria adhere to surfaces.",
+        "Question": "What technique is used to investigate the interfacial interactions between bacteria and the nanosurface of 3D HPN?",
+        "A": "Fourier transform infrared spectroscopy",
+        "B": "Ultraviolet-visible spectroscopy",
+        "C": "Atomic force microscopy",
+        "D": "Dynamic light scattering",
+        "Answer": "A",
+        "Source": "To investigate the interfacial interactions between 3D HPN and E. coli O157:H7, the cells were dropped onto the surface of 3D HPN, and then time-course FTIR spectra were collected using the JASCO FTIR-4600 in the range of 300\u20124000 cm\u20121 with the attenuated total reflectance technique."
+    },
+    "Question_10": {
+        "Context": "The efficiency of bacterial entrapment by a material can be quantified by comparing the number of bacteria before and after exposure to the material.",
+        "Question": "How is the entrapment efficiency of a material calculated in the context of bacterial capture?",
+        "A": "By measuring the weight of the material before and after entrapment",
+        "B": "By counting the number of bacteria that pass through the material",
+        "C": "By comparing the number of bacteria before and after entrapment",
+        "D": "By the change in color of the material after bacterial exposure",
+        "Answer": "C",
+        "Source": "The number of entrapped bacteria was determined following the equation: Entrapment efficiency (%) = (1 - (NR / NNC)) \u00d7 100 where NR denotes the number of colonies for the recovery solution after entrapment and NNC denotes the number of colonies for the initial bacteria solution."
+    }
+}

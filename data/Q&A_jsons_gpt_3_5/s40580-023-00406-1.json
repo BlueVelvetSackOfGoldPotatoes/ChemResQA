@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on developing HALipid-NK cells for anticancer therapy through surface engineering with HA-PEG-Lipid conjugates. The study aimed to optimize lipid anchor moieties for enhanced cancer recognition and killing efficacy.",
+        "Question": "What was the main design parameter for modulating hydrophobic interaction with dynamic NK cell membranes?",
+        "A": "HA-PEG",
+        "B": "DSPE",
+        "C": "Cholesterol",
+        "D": "Lipid anchors",
+        "Answer": "D",
+        "Source": "Optimization of lipid anchors (in terms of chemical structure and intrinsic amphiphilicity) is the most important design parameter to modulate hydrophobic interaction with dynamic NK cell membranes."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the retention of cell membrane anchoring of materials on NK cells coated with HA-PEG-Lipid conjugates over a period of 60 minutes.",
+        "Question": "Which lipid anchor exhibited the longest surface maintenance on NK cell membranes after the initial coating process?",
+        "A": "DMPE",
+        "B": "DSPE",
+        "C": "Cholesterol",
+        "D": "HA-PEG",
+        "Answer": "B",
+        "Source": "HA-PEG-DSPE exhibited longer surface maintenance after the initial coating process compared to HA-PEG-DMPE and HA-PEG-Chol."
+    },
+    "Question_3": {
+        "Context": "The study assessed the reactivity of NK cells following surface coating with HA-PEG-Lipid conjugates by quantifying IFN-\u03b3 secretion and evaluating the availability of native ligands on HALipid-NK cells.",
+        "Question": "Which type of HALipid-NK cells did not induce an unintended inflammatory response in NK cells?",
+        "A": "HA-PEG-DMPE",
+        "B": "HA-PEG-DSPE",
+        "C": "HA-PEG-Cholesterol",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "HA-PEG-DSPE exhibited a comparable level of IFN-\u03b3 secretion as regular NK cells, suggesting that it did not induce an unintended inflammatory response in NK cells."
+    },
+    "Question_4": {
+        "Context": "The study investigated the viability and proliferation capacity of HALipid-NK cells coated with HA-PEG-Lipid solutions over a 48-hour period.",
+        "Question": "Which type of HALipid-NK cells showed enhanced viability after 24 and 48 hours compared to the control group?",
+        "A": "HA-PEG-DMPE",
+        "B": "HA-PEG-DSPE",
+        "C": "HA-PEG-Cholesterol",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "HA-PEG-Chol enhanced NK cell viability after 24 and 48 hours of incubation compared to the control group."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the target cancer-specific recognition ability and cancer-killing efficacy of HALipid-NK cells using MDA-MB-231 cancer cells and hfibroblasts.",
+        "Question": "Which type of HALipid-NK cells exhibited significantly enhanced specific cancer cell lysis towards CD44-positive MDA-MB-231 cancer cells?",
+        "A": "HA-PEG-DMPE",
+        "B": "HA-PEG-DSPE",
+        "C": "HA-PEG-Cholesterol",
+        "D": "HA-PEG",
+        "Answer": "B",
+        "Source": "HADS-NK cells exhibited significantly enhanced specific cancer cell lysis (17.38%) towards CD44-positive MDA-MB-231 cancer cells."
+    },
+    "Question_6": {
+        "Context": "The study focused on the sequential anticancer mechanism of NK cells and the importance of membrane contact with target tumors.",
+        "Question": "What is the primary role of lytic granules secreted by NK cells during the anticancer process?",
+        "A": "Inducing inflammation",
+        "B": "Promoting cell proliferation",
+        "C": "Disrupting and eliminating cancer cells",
+        "D": "Enhancing cell adhesion",
+        "Answer": "C",
+        "Source": "Secreted lytic granules can induce the disruption and elimination of cancer cells, which is a crucial step in the anticancer process."
+    },
+    "Question_7": {
+        "Context": "The study investigated the interaction between HA-CD44 on HALipid-NK cells and CD44 markers on cancer cells for enhanced cancer recognition.",
+        "Question": "What specific binding capability between HA and CD44 markers contributes to the enhanced affinity between NK cells and cancer cells?",
+        "A": "Hydrogen bonding between HA and CD44",
+        "B": "Hydrophobic interaction between HA and CD44",
+        "C": "Disulfide bond formation",
+        "D": "Electrostatic interactions",
+        "Answer": "A",
+        "Source": "HA-CD44 binding occurs through various routes, including hydrogen bonding between different functional groups of HA and CD44 markers."
+    },
+    "Question_8": {
+        "Context": "The study assessed the cluster formation and cancer-killing activity of HALipid-NK cells when co-cultured with MDA-MB-231 cancer cells and hfibroblasts.",
+        "Question": "Which type of HALipid-NK cells exhibited the highest level of cluster formation when co-cultured with MDA-MB-231 cancer cells?",
+        "A": "HA-PEG-DMPE",
+        "B": "HA-PEG-DSPE",
+        "C": "HA-PEG-Cholesterol",
+        "D": "HA-PEG",
+        "Answer": "B",
+        "Source": "HADS-NK cells exhibited the highest level of cluster formation (12.25%) when co-cultured with MDA-MB-231 cancer cells."
+    },
+    "Question_9": {
+        "Context": "The study evaluated the cancer-killing efficacy of HALipid-NK cells towards CD44-positive MDA-MB-231 cancer cells.",
+        "Question": "Which type of HALipid-NK cells exhibited significantly enhanced specific cancer cell lysis towards MDA-MB-231 cancer cells?",
+        "A": "HA-PEG-DMPE",
+        "B": "HA-PEG-DSPE",
+        "C": "HA-PEG-Cholesterol",
+        "D": "HA-PEG",
+        "Answer": "B",
+        "Source": "HADS-NK cells exhibited significantly enhanced specific cancer cell lysis (17.38%) towards CD44-positive MDA-MB-231 cancer cells."
+    },
+    "Question_10": {
+        "Context": "The study concluded by emphasizing the importance of stable hydrophobic interaction between HA-PEG-Lipid conjugates and NK cell surfaces for effective anticancer therapy.",
+        "Question": "What is the key parameter identified for controlling biomaterial-mediated ex vivo NK cell surface engineering?",
+        "A": "Lipid anchor structure",
+        "B": "HA-CD44 affinity",
+        "C": "Cancer cell recognition",
+        "D": "NK cell viability",
+        "Answer": "A",
+        "Source": "A suitable modification in material design for lipid structure-dependent hydrophobic interaction is an important controlling parameter in biomaterial-mediated ex vivo NK cell surface engineering."
+    }
+}

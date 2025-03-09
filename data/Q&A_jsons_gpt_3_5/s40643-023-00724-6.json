@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the in vitro production of CTP using a six-enzyme cascade system. One of the enzymes involved in the cascade was cytidine deaminase (CDA).",
+        "Question": "What was the optimal pH for the activity of the screened cytidine deaminase (CDA) in the study?",
+        "A": "pH 4.0",
+        "B": "pH 5.0",
+        "C": "pH 7.0",
+        "D": "pH 8.5",
+        "Answer": "B",
+        "Source": "The effect of pH on the enzyme activity was analyzed under different pH values, and the remaining two enzymes had maximum activity at pH 7.0. Both enzymes maintained at least 60% of their highest activity at pH 5.0, indicating a match with the first-stage reaction conditions."
+    },
+    "Question_2": {
+        "Context": "The study involved the screening and characterization of cytidine deaminases from extremophilic sources.",
+        "Question": "Which extremophilic bacterium's cytidine deaminase was selected for further study in the research?",
+        "A": "Sulfurovum riftiae",
+        "B": "Sulfurovum sp. NBC37-1",
+        "C": "Thermovibrio guaymasensis",
+        "D": "Aquifex aeolicus",
+        "Answer": "B",
+        "Source": "To investigate the optimum pH of SsCDA, SrCDA, and TgCDA, the enzyme activity was analyzed under different pH values. Except for SsCDA, which did not exhibit deaminase activity under any of the conditions tested, the remaining two enzymes had maximum activity at pH 7.0."
+    },
+    "Question_3": {
+        "Context": "The study involved the modification of the rate-limiting enzyme CTP synthase in the pathway.",
+        "Question": "What was the specific activity of the I19T/R34G/R262H variant of CTP synthase compared to the wild type?",
+        "A": "1.55 U/mg",
+        "B": "2.68 U/mg",
+        "C": "2.32 U/mg",
+        "D": "1.73 U/mg",
+        "Answer": "B",
+        "Source": "The specific activity of the I19T/R34G/R262H variant was 2.68 U/mg, while the wild enzyme had a specific activity of 1.55 U/mg."
+    },
+    "Question_4": {
+        "Context": "The study involved the optimization of Zn2+ concentration for cytidine deaminase.",
+        "Question": "What was the effect of increasing Zn2+ concentration on the rate of uridine production by SrCDA?",
+        "A": "Rate increased",
+        "B": "Rate decreased",
+        "C": "Rate remained constant",
+        "D": "No effect on the rate",
+        "Answer": "B",
+        "Source": "Unexpectedly, increasing Zn2+ concentration slowed down the rate of uridine production by SrCDA, indicating that the enzyme did not require Zn2+ to assist catalysis."
+    },
+    "Question_5": {
+        "Context": "The study involved the directed evolution of CTP synthase to relieve feedback inhibition.",
+        "Question": "Which mutation site contributed the most to the increase in activity of the I19T/R34G/R262H variant of CTP synthase?",
+        "A": "I19T",
+        "B": "R34G",
+        "C": "R262H",
+        "D": "I19T/R34G",
+        "Answer": "A",
+        "Source": "The I19T mutation contributed the most to the increase in activity, with the specific activity of the I19T/R34G/R262H variant being 1.7 times higher than that of the wild enzyme."
+    },
+    "Question_6": {
+        "Context": "The study involved the kinetic analysis of the wild enzyme and the variant for the substrates ATP and UTP.",
+        "Question": "What was the effect of the I19T/R34G/R262H variant on the affinity for UTP compared to the wild enzyme?",
+        "A": "Affinity increased",
+        "B": "Affinity decreased",
+        "C": "Affinity remained constant",
+        "D": "No effect on affinity",
+        "Answer": "B",
+        "Source": "The I19T/R34G/R262H variant had a significantly lower affinity for UTP compared to the wild enzyme, indicating that the substitution of threonine for isoleucine disrupted the binding site for UTP."
+    },
+    "Question_7": {
+        "Context": "The study involved the in vitro six-enzyme cascade synthesis of CTP.",
+        "Question": "What was the final yield of CTP obtained after 10.0 hours of the reaction?",
+        "A": "16.5 mM",
+        "B": "19.8 mM",
+        "C": "82%",
+        "D": "1.8 mM",
+        "Answer": "A",
+        "Source": "After optimizing the reaction conditions, 16.5 mM CTP was accumulated in 10.0 h with a yield of more than 82%."
+    },
+    "Question_8": {
+        "Context": "The study involved the structural analysis of the I19T/R34G/R262H variant of CTP synthase.",
+        "Question": "What was the effect of the I19T mutation on the binding of the enzyme to ATP?",
+        "A": "Decreased binding",
+        "B": "No effect on binding",
+        "C": "Increased binding",
+        "D": "Disrupted binding",
+        "Answer": "C",
+        "Source": "The replacement of the I19 site by a threonine added a new hydrogen bonding interaction between the enzyme and the substrate ATP, significantly enhancing the binding of the enzyme to ATP."
+    },
+    "Question_9": {
+        "Context": "The study involved the kinetic analysis of the wild enzyme and the variant for the substrates ATP and UTP.",
+        "Question": "What was the effect of the I19T/R34G/R262H variant on the utilization of UTP compared to the wild enzyme?",
+        "A": "Decreased utilization",
+        "B": "No effect on utilization",
+        "C": "Increased utilization",
+        "D": "Disrupted utilization",
+        "Answer": "C",
+        "Source": "The relieving of CTP inhibition by the I19T/R34G/R262H variant meant that the utilization of UTP reached a near 1:1 equilibrium with the rate of ATP utilization, resulting in an increase in apparent activity compared to the wild enzyme."
+    },
+    "Question_10": {
+        "Context": "The study involved the in vitro six-enzyme cascade synthesis of CTP.",
+        "Question": "What was the remaining concentration of UMP detected after the CTP synthesis reaction?",
+        "A": "0.5 mM",
+        "B": "1.8 mM",
+        "C": "16.5 mM",
+        "D": "0.9 mM",
+        "Answer": "A",
+        "Source": "After 8.0 h of reaction, 16.5 mM CTP was detected, with the remaining 0.5 mM UMP, 1.8 mM UDP, and 0.9 mM UTP."
+    }
+}

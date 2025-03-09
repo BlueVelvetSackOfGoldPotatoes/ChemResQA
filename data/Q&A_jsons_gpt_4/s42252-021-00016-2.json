@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Tungsten disulfide nanotubes are known for their mechanical reinforcement properties in polymer matrices due to their high aspect ratio and superior mechanical properties.",
+        "Question": "What is the approximate Young's modulus of tungsten disulfide nanotubes?",
+        "A": "150 GPa",
+        "B": "16 GPa",
+        "C": "14 GPa",
+        "D": "100 GPa",
+        "Answer": "A",
+        "Source": "nanotubes (NTs) of tungsten disulfide (WS2) are promising nanofillers for polymer matrices: their intrinsic superior mechanical properties (~ 150 GPa Young\u2019s modulus, ~ 16 GPa strength, ~ 14% elongation [17]) can reinforce polymers."
+    },
+    "Question_2": {
+        "Context": "Polylactic acid (PLA) is a biodegradable polymer that degrades into non-toxic lactic acid under physiological conditions, which is further metabolized by the human body.",
+        "Question": "Into what substance does polylactic acid (PLA) degrade under physiological conditions?",
+        "A": "Glycolic acid",
+        "B": "Lactic acid",
+        "C": "Acetic acid",
+        "D": "Formic acid",
+        "Answer": "B",
+        "Source": "PLA biocompatibility derives from the fact that in physiological conditions, it degrades by hydrolysis into non-toxic lactic acid that is further metabolized by the human body into carbon dioxide and water as final products."
+    },
+    "Question_3": {
+        "Context": "In the field of polymer science, the crystallization rate of polymers is a critical factor that can affect the material's properties and applications.",
+        "Question": "What is one of the limitations of polylactic acid (PLA) that affects its applications?",
+        "A": "High crystallization rate",
+        "B": "High thermal stability",
+        "C": "Slow crystallization rate",
+        "D": "High biocompatibility",
+        "Answer": "C",
+        "Source": "Unfortunately, the applications of this polymer are often limited by its slow crystallization rate, low crystalline degree and low fracture toughness."
+    },
+    "Question_4": {
+        "Context": "The incorporation of fillers into a polymer matrix can enhance the material's mechanical properties and crystallization rate.",
+        "Question": "What is the effect of adding organic or inorganic fillers to the polylactic acid (PLA) matrix?",
+        "A": "Decreases the rate of crystallization",
+        "B": "Increases the rate of crystallization",
+        "C": "Reduces the mechanical properties",
+        "D": "Has no effect on the properties",
+        "Answer": "B",
+        "Source": "One approach to mitigating these issues is the incorporation of organic or inorganic fillers in the PLA matrix, which can increase the rate of crystallization of PLA and enhance its mechanical properties."
+    },
+    "Question_5": {
+        "Context": "Biocompatibility and minimal loading concentrations of fillers are essential for biomedical applications of polymer composites.",
+        "Question": "What are the essential requirements for fillers used in biomedical applications of polymer composites?",
+        "A": "High loading concentrations",
+        "B": "Biocompatibility and minimal loading concentrations",
+        "C": "Electrical conductivity",
+        "D": "Optical transparency",
+        "Answer": "B",
+        "Source": "However, the biocompatibility of the filler and minimal loading concentrations with respect to the polymer matrix are essential requirements from a toxicological point of view, particularly in biomedical applications."
+    },
+    "Question_6": {
+        "Context": "Nanotubes of tungsten disulfide (WS2) have been reported to possess lower cytotoxicity compared to other nanoparticles, making them suitable for biomedical applications.",
+        "Question": "How does the cytotoxicity of tungsten disulfide (WS2) nanotubes compare to other nanoparticles?",
+        "A": "Higher cytotoxicity",
+        "B": "Similar cytotoxicity",
+        "C": "Lower cytotoxicity",
+        "D": "Cytotoxicity has not been reported",
+        "Answer": "C",
+        "Source": "They are also reported to possess lower in-vitro and in-vivo cytotoxicity compared to other nanoparticles such as silica or carbon black."
+    },
+    "Question_7": {
+        "Context": "The mechanical properties of polymer nanocomposites can be significantly improved by the addition of nanofillers.",
+        "Question": "What was the observed effect on the mechanical properties of polylactic acid (PLA) when tungsten disulfide (WS2) nanotubes were added?",
+        "A": "Decrease in elastic modulus and yield strength",
+        "B": "Increase in elastic modulus and yield strength",
+        "C": "No change in mechanical properties",
+        "D": "Decrease in elongation at break",
+        "Answer": "B",
+        "Source": "The mechanical properties of solvent cast PLA-WS2 films measured at room temperature have been recently reported by Shalom et al. showing a large increase of elastic modulus (50% for 0.7 wt%), yield strength (about 70% for 0.7 wt%), and elongation (about 70% for 0.5 wt%) with increasing concentration of WS2 NTs."
+    },
+    "Question_8": {
+        "Context": "Strain-induced crystallization is a phenomenon where the application of mechanical stress can lead to the formation of crystalline structures in polymers.",
+        "Question": "What process was used to induce crystallization in polylactic acid (PLA) nanocomposite films containing tungsten disulfide (WS2) nanotubes?",
+        "A": "Chemical crosslinking",
+        "B": "Thermal annealing",
+        "C": "Radiation exposure",
+        "D": "Uniaxial stretching",
+        "Answer": "D",
+        "Source": "Therefore, in this work we have prepared PLA-WS2 films with different amounts of WS2 (0\u20130.6 wt%) with respect to PLA and we have studied the effect of WS2 concentration on the strain-induced crystallization of PLA as a consequence of uniaxial stretching at 90 \u00b0C and constant strain rate."
+    },
+    "Question_9": {
+        "Context": "The dispersion of nanofillers within a polymer matrix is crucial for achieving the desired enhancement in properties.",
+        "Question": "How was the dispersion of tungsten disulfide (WS2) nanotubes in the polylactic acid (PLA) matrix described?",
+        "A": "Aggregated and uneven",
+        "B": "Uniform and without aggregates",
+        "C": "Clustered at the surface",
+        "D": "Only dispersed at high concentrations",
+        "Answer": "B",
+        "Source": "The UNST PLA-WS2 nanocomposite films show a uniform dispersion of WS2 NTs in PLA both at the lowest (0.1%, Fig. 2a) and highest (0.6%, Fig. 2b) concentration of NTs. The optical micrographs in Fig. 2 do not reveal presence of aggregates demonstrating that the preliminary sonication is efficient in unraveling the nanotubes and that they readily disperse in PLA without need of further functionalization."
+    },
+    "Question_10": {
+        "Context": "The thermal properties of polymers and their composites can be characterized using Differential Scanning Calorimetry (DSC), which measures the heat flow associated with material transitions.",
+        "Question": "What thermal property of polylactic acid (PLA) nanocomposite films was investigated using Differential Scanning Calorimetry (DSC)?",
+        "A": "Thermal conductivity",
+        "B": "Heat capacity",
+        "C": "Crystallization and melting behavior",
+        "D": "Glass transition temperature",
+        "Answer": "C",
+        "Source": "The thermal properties were measured by Differential Scanning Calorimetry (DSC) carried out with a Perkin Elmer DSC7 instrument. About 10 mg of sample was placed in an aluminum pan under nitrogen flux and initially held at 30 \u00b0C for 5 min, then heated up to 220 \u00b0C with a rate of 5 \u00b0C/min, held at 225 \u00b0C for to 5 min and then cooled down to 30 \u00b0C with a rate of 5 \u00b0C/min."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the fabrication of hydrogel parts on a porous substrate using a novel approach. The substrate is designed as a hydrophobic surface with roughness-inducing features.",
+        "Question": "What is the purpose of the hydrophobic surface in the fabrication process?",
+        "A": "To enhance adhesion between hydrogel and substrate",
+        "B": "To prevent lateral movement of hydrogel parts",
+        "C": "To inhibit the swelling and shrinking behavior of hydrogel",
+        "D": "To facilitate the cleaning process of residual uncured hydrogel",
+        "Answer": "D",
+        "Source": "The net structure of the hydrophobic surface significantly facilitated the cleaning process, as the residual uncured hydrogel could efficiently exit through the voids upon rinsing with a cleaning solvent."
+    },
+    "Question_2": {
+        "Context": "The study involves the fabrication of hydrogel parts using PEGDA-based photopolymer resin of two molecular weights: Mn = 250 g/mol and Mn = 575 g/mol.",
+        "Question": "Which molecular weight of PEGDA exhibited higher shape retention during heating?",
+        "A": "Mn = 250 g/mol",
+        "B": "Mn = 575 g/mol",
+        "C": "Both exhibited similar shape retention",
+        "D": "Shape retention was not measured",
+        "Answer": "A",
+        "Source": "Following heating, the hole diameter of the parts made of PEGDA250 had higher shape retention."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the dimensional stability of hydrogel parts with respect to the design, specifically focusing on the diameter of the inner hole of the hydrogel feature.",
+        "Question": "What was observed in the diameter of the holes after 24 hours?",
+        "A": "Expansion",
+        "B": "Shrinkage",
+        "C": "No change",
+        "D": "Initial diameter was maintained",
+        "Answer": "B",
+        "Source": "Compared to the initial design, a decrease in the diameter was observed after 24 hours."
+    },
+    "Question_4": {
+        "Context": "The study evaluated the hydrophobic properties of the surface by measuring the apparent contact angle (CA) between the substrate and deposited hydrogels.",
+        "Question": "How did the contact angle change when the hydrophobic surface was applied?",
+        "A": "Decreased",
+        "B": "Remained the same",
+        "C": "Increased",
+        "D": "Contact angle was not measured",
+        "Answer": "C",
+        "Source": "The obtained CA were higher for water, PEGDA250, and PEGDA575 when the hydrophobic surface was applied, indicating increased liquid repellency."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the fabrication process of hydrogel parts using a mask-projection vat photopolymerization additive manufacturing method.",
+        "Question": "What is the critical step in the manufacturing phase?",
+        "A": "Deposition of the hydrogel resin",
+        "B": "Determination of exposure time and UV-light irradiance",
+        "C": "Cleaning with ethanol",
+        "D": "Post-curing in a UV-light unit",
+        "Answer": "B",
+        "Source": "The critical step in the manufacturing phase was determination of the exposure time and level UV-light irradiance for the hydrogel resins."
+    },
+    "Question_6": {
+        "Context": "The study evaluated the stability of hydrogel parts by measuring the dimensional change under water immersion and heating.",
+        "Question": "What was the holding time for both water immersion and heating procedures?",
+        "A": "1 minute",
+        "B": "10 seconds",
+        "C": "30 minutes",
+        "D": "1 hour",
+        "Answer": "A",
+        "Source": "A rapid change in the diameter was recorded within 10 seconds from exposure to water as well as heating."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the fabrication of hydrogel parts on a hydrophobic substrate with roughness-inducing features.",
+        "Question": "What was the purpose of the dome-shaped features on the hydrophobic substrate?",
+        "A": "To increase adhesion between hydrogel and substrate",
+        "B": "To trap air between the deposited material and the substrate",
+        "C": "To inhibit the swelling behavior of hydrogel",
+        "D": "To prevent the cleaning process of residual uncured hydrogel",
+        "Answer": "B",
+        "Source": "The surface was designed by assembling a 4 \u00d7 4 array of dome-shaped features with sharp tips, then placed on the pillar to trap the air between the deposited material and the substrate."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the hydrogel parts' dimensional stability by measuring the diameter of the inner hole of the hydrogel feature.",
+        "Question": "What was the reason for the observed expansion of the holes after 24 hours?",
+        "A": "Higher crosslinking density",
+        "B": "Lower crosslinking density",
+        "C": "Decreased water uptake",
+        "D": "No specific reason mentioned",
+        "Answer": "B",
+        "Source": "The holes experienced expansion over 24 hours likely owing to the water uptake from ethanol and gradual swelling, associated with lower crosslinking density of PEGDA hydrogels with higher molecular weight."
+    },
+    "Question_9": {
+        "Context": "The study assessed the hydrophobic properties of the surface by measuring the apparent contact angle (CA) between the substrate and deposited hydrogels.",
+        "Question": "What was the CA for water before the hydrophobic surface was applied?",
+        "A": "27\u00b0",
+        "B": "44.5\u00b0",
+        "C": "65\u00b0",
+        "D": "112.5\u00b0",
+        "Answer": "C",
+        "Source": "The data indicates the native hydrophilic properties of the material at the level of 65\u00b0 for water."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the fabrication process of hydrogel parts using a mask-projection vat photopolymerization additive manufacturing method.",
+        "Question": "What is the purpose of vat photopolymerization additive manufacturing?",
+        "A": "To create solid structures using structured ultraviolet (UV) light",
+        "B": "To deposit hydrogel resin on the substrate",
+        "C": "To clean the hydrogel parts",
+        "D": "To determine exposure time and UV-light irradiance",
+        "Answer": "A",
+        "Source": "Vat photopolymerization additive manufacturing is a process that employs structured ultraviolet (UV) light to crosslink a liquid polymer and create a solid structure."
+    }
+}

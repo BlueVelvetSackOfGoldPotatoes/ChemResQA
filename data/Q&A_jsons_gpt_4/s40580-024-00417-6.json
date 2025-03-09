@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of materials science, descriptors act as a bridge between artificial intelligence (AI) and researchers, particularly in the context of physical and chemical material descriptors.",
+        "Question": "What is a descriptor in the context of materials science and AI?",
+        "A": "A bridge between AI algorithms and the physical properties of materials",
+        "B": "A type of machine learning model",
+        "C": "A database of material properties",
+        "D": "A software used for AI applications",
+        "Answer": "A",
+        "Source": "Descriptors serve as a bridge between artificial intelligence (AI) and researchers, particularly in the context of physical and chemical material descriptors, an area that has witnessed extensive scrutiny in contemporary research."
+    },
+    "Question_2": {
+        "Context": "Machine learning models can face challenges when incorporating all the invariants of a molecular system into a single description without compromising its uniqueness or computability.",
+        "Question": "Why is it difficult to incorporate all the invariants of a molecular system into a single descriptor?",
+        "A": "Because it would require too much computational power",
+        "B": "Because it could compromise the descriptor's uniqueness or computability",
+        "C": "Because molecular systems are too simple",
+        "D": "Because invariants are not important in molecular systems",
+        "Answer": "B",
+        "Source": "It has proven very difficult to incorporate all the invariants of a molecular system into a single description without compromising its uniqueness or computability."
+    },
+    "Question_3": {
+        "Context": "Quantitative structure\u2013activity relationships (QSARs) are used to explain quantitative patterns of change between the activity or physicochemical properties of a compound and its molecular structure.",
+        "Question": "What is the main purpose of QSARs in chemometrics?",
+        "A": "To predict the molecular weight of compounds",
+        "B": "To classify compounds into different categories",
+        "C": "To explain quantitative patterns between a compound's activity and its molecular structure",
+        "D": "To visualize the molecular structure of compounds",
+        "Answer": "C",
+        "Source": "Quantitative structure\u2013activity relationships (QSARs), which employ mathematical and statistical techniques to explain quantitative patterns of change between the activity or physicochemical properties of a compound and its molecular structure, play a significant role in chemometrics."
+    },
+    "Question_4": {
+        "Context": "In QSAR studies, the calculation of molecular descriptors is crucial, and the precise definition and rational use of these descriptors are very important.",
+        "Question": "What is the significance of molecular descriptors in QSAR research?",
+        "A": "They are used to name the compounds being studied",
+        "B": "They serve as a basis for the mathematical and statistical analysis in QSAR studies",
+        "C": "They are used to determine the price of chemical compounds",
+        "D": "They are used to create new molecular structures",
+        "Answer": "B",
+        "Source": "The calculation of molecular descriptors is the basis of QSAR research, and the precise definition and rational use of molecular descriptors are very important in QSAR research."
+    },
+    "Question_5": {
+        "Context": "Molecular descriptors can be categorized based on the type of data they represent, such as Boolean, integer, real, vector, tensor, scalar field, vector field, and molecular shape descriptor.",
+        "Question": "Which of the following is NOT a type of data represented by molecular descriptors?",
+        "A": "Scalar field",
+        "B": "Boolean",
+        "C": "Molecular weight",
+        "D": "Vector field",
+        "Answer": "C",
+        "Source": "Molecular descriptors can be categorized as Boolean (chiral or not), integer (ring number), real (molecular weight), vector (dipole moment), tensor (electron polarization rate), scalar field (electrostatic pattern), vector field (electrostatic potential ladder), and molecular shape descriptor, vector fields (electrostatic potential gradients), and other types."
+    },
+    "Question_6": {
+        "Context": "Molecular descriptors are essential tools in QSAR studies for correlating molecular structures with their properties or activities.",
+        "Question": "Which characteristic is NOT suitable for a molecular descriptor used in QSAR studies?",
+        "A": "Structural interpretability",
+        "B": "Correlation with experimental results",
+        "C": "Ability to distinguish between isomers",
+        "D": "Independence from other descriptors",
+        "Answer": "B",
+        "Source": "Generally, suitable molecular descriptors have the following characteristics: (1) structural interpretability, (2) an excellent correlation with at least one property, (3) the advantage of distinguishing between isomers, (4) the ability to apply to local structures, (5) outstanding independence, (6) conciseness, (7) not grounded in experimental results, (8) not correlated with other descriptors, (9) can be built effectively, (10) use well-known structural principles, (11) possess the appropriate size dependence, and (12) change as the structure changes."
+    },
+    "Question_7": {
+        "Context": "Molecular descriptors in QSAR studies can be classified into different categories based on the dimensions of the molecular structure required for their calculation.",
+        "Question": "On what basis can molecular descriptors be classified into one-dimensional, two-dimensional, and three-dimensional?",
+        "A": "The complexity of the molecular structure",
+        "B": "The number of atoms in the molecule",
+        "C": "The dimensions of the molecular structure required for descriptor calculation",
+        "D": "The physical state of the molecule",
+        "Answer": "C",
+        "Source": "Molecular descriptors can also be classified as one-dimensional, two-dimensional, three-dimensional, etc., depending on the number of dimensions of the molecular structure required for the descriptor calculation."
+    },
+    "Question_8": {
+        "Context": "Molecular descriptors are used to describe various aspects of material properties and can vary in complexity.",
+        "Question": "Which of the following is a characteristic that all molecular descriptors must satisfy?",
+        "A": "High complexity",
+        "B": "Reproducibility",
+        "C": "Dependence on experimental results",
+        "D": "Inability to be recognized by machines",
+        "Answer": "B",
+        "Source": "Although material descriptors vary in complexity, they must all satisfy the four characteristics below. (1) Reproducibility means that where the same descriptors are used, the descriptors should be fixed for the same material at any time and place to guarantee the repeatability of machine learning results."
+    },
+    "Question_9": {
+        "Context": "In the context of molecular descriptors, different types of descriptors such as compositional, molecular property, topological, and geometric descriptors represent different chemical information.",
+        "Question": "What type of molecular descriptor would be used to describe the arrangement of atoms in a molecule?",
+        "A": "Compositional descriptor",
+        "B": "Molecular property descriptor",
+        "C": "Topological descriptor",
+        "D": "Geometric descriptor",
+        "Answer": "C",
+        "Source": "Take Dragon, a molecular descriptor calculation software, as an example, it can be divided into 20 modules including compositional descriptors, molecular property descriptors, topological descriptors, and geometric descriptors, depending on the physical meaning of the descriptors, each of which represents different chemical information."
+    },
+    "Question_10": {
+        "Context": "The electrostatic potential (ESP) of a solvent can be used as a descriptor in the screening and evaluation of solvents in electrolytes.",
+        "Question": "What does the electrostatic potential (ESP) of a solvent describe in the context of electrolyte engineering?",
+        "A": "The solvent's boiling point",
+        "B": "The interaction between Li+ and the solvent",
+        "C": "The solvent's viscosity",
+        "D": "The solvent's color",
+        "Answer": "B",
+        "Source": "He et al. [71]. studied the ESP of many solvents using density flooding theory (DFT) and qualitatively analyzed solvent molecules at their highest electrostatic potential (ESPmax) and lowest electrostatic potential (ESPmin). The electrostatic potential (ESP) of the solvent was used as a descriptor for the screening and evaluation of solvents in electrolytes, and it helped to paint a clear image of electrolyte engineering since the ESP can successfully explain how Li+ and the solvent interact in electrolytes."
+    }
+}

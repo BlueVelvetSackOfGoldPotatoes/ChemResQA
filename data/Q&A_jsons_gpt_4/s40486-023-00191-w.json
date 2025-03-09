@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of organic chemistry, braille is a system of raised dots that can be felt with the fingertips. Braille characters are standardized and consist of six small dots.",
+        "Question": "What is the diameter of each dot in a standard braille character?",
+        "A": "1.0 mm",
+        "B": "1.5 mm",
+        "C": "2.0 mm",
+        "D": "2.5 mm",
+        "Answer": "B",
+        "Source": "Braille consists of six small dots with a diameter of 1.5 mm, and each dot is separated by 1 mm."
+    },
+    "Question_2": {
+        "Context": "In organic chemistry, the perception of braille can be enhanced using technology. One approach is to use a flexible capacitive pressure sensor array designed according to braille standards.",
+        "Question": "What was the size of a single sensor manufactured for braille character recognition?",
+        "A": "1.0 mm x 1.0 mm",
+        "B": "1.5 mm x 1.5 mm",
+        "C": "2.0 mm x 2.0 mm",
+        "D": "2.5 mm x 2.5 mm",
+        "Answer": "B",
+        "Source": "The sensor size and density were designed according to braille standards, and a single sensor with a size of 1.5 mm \u00d7 1.5 mm was manufactured into a 5 \u00d7 5 sensor array by using a printing technique."
+    },
+    "Question_3": {
+        "Context": "In organic chemistry, the use of deep learning models can facilitate the recognition of braille characters. A specific architecture can be used for object detection in this context.",
+        "Question": "Which deep learning model architecture was used for braille character recognition?",
+        "A": "CNN\u2013FPN\u2013ResNet-50",
+        "B": "Faster R-CNN\u2013FPN\u2013ResNet-50",
+        "C": "R-CNN\u2013FPN\u2013ResNet-100",
+        "D": "Faster CNN\u2013FPN\u2013ResNet-30",
+        "Answer": "B",
+        "Source": "In the visual perception approach, a braille character recognition was performed using a deep learning model (Faster R\u2011CNN\u2013FPN\u2013ResNet\u201150), based on custom\u2011made braille dataset collected through data augmentation and preprocessing."
+    },
+    "Question_4": {
+        "Context": "In organic chemistry, the performance of a deep learning model for object detection can be quantified using mean average precision (mAP) at different intersection over union (IoU) thresholds.",
+        "Question": "What were the mAP50 and mAP75 values achieved for the braille character recognition model?",
+        "A": "mAP50 of 94.8 and mAP75 of 70.4",
+        "B": "mAP50 of 70.4 and mAP75 of 94.8",
+        "C": "mAP50 of 80.0 and mAP75 of 60.0",
+        "D": "mAP50 of 60.0 and mAP75 of 80.0",
+        "Answer": "A",
+        "Source": "The attained performance was indicated by an mAP50 of 94.8 and mAP75 of 70.4 on the generated dataset."
+    },
+    "Question_5": {
+        "Context": "In organic chemistry, data augmentation is a technique used to increase the diversity of data available for training models, such as those used for braille character recognition.",
+        "Question": "Which library provides various data augmentation algorithms for image processing?",
+        "A": "TensorFlow",
+        "B": "PyTorch",
+        "C": "Keras",
+        "D": "Albumentation",
+        "Answer": "D",
+        "Source": "Using data augmentation techniques, such as those provided by the Albumentation library, these images were expanded to 520 images to construct a custom-made braille dataset."
+    },
+    "Question_6": {
+        "Context": "In organic chemistry, preprocessing of images can be crucial for enhancing the features of interest, such as braille dots, before they are used for training deep learning models.",
+        "Question": "Which preprocessing step is used to emphasize the dots and weaken the background in braille images?",
+        "A": "Histogram equalization",
+        "B": "Binarization",
+        "C": "Erosion",
+        "D": "Dilation",
+        "Answer": "B",
+        "Source": "Subsequently, binarization using the adaptive threshold technique emphasizes the dots and weakens the background through dilation and erosion."
+    },
+    "Question_7": {
+        "Context": "In organic chemistry, the capacitive sensing approach can be used to detect braille characters. The sensing performance is influenced by the design of the sensor.",
+        "Question": "What primarily determines the sensing performance of capacitive pressure sensors?",
+        "A": "The color of the top electrode",
+        "B": "The gap between the top and bottom electrodes",
+        "C": "The weight of the sensor",
+        "D": "The temperature of the environment",
+        "Answer": "B",
+        "Source": "In capacitive pressure sensors, the sensing performance is primarily determined by the gap between the top and bottom electrodes and the relative permittivity of the sensing layer."
+    },
+    "Question_8": {
+        "Context": "In organic chemistry, the design of a capacitive pressure sensor array for braille recognition involves specific structural features to enhance sensitivity.",
+        "Question": "What structural feature was incorporated into the pressure-sensitive layer to improve sensitivity?",
+        "A": "A micro dome-structured array layer",
+        "B": "A flat conductive layer",
+        "C": "A spiral coil layer",
+        "D": "A piezoelectric crystal layer",
+        "Answer": "A",
+        "Source": "Additionally, the sensitivity was improved by incorporating a pressure\u2011sensitive micro dome\u2011structured array layer."
+    },
+    "Question_9": {
+        "Context": "In organic chemistry, the development of a capacitive pressure sensor array for braille recognition requires a specific printing technique for fabrication.",
+        "Question": "Which printing technique was used to manufacture the sensor array for braille character recognition?",
+        "A": "Inkjet printing",
+        "B": "3D printing",
+        "C": "Screen printing",
+        "D": "Printing using a Voltera V-One",
+        "Answer": "D",
+        "Source": "Each sensor was designed to be 1.5 mm \u00d7 1.5 mm in size with a parallel-plate capacitor structure, comprising a plane electrode at the top and interdigitated electrodes at the bottom [29, 30]. Between the electrodes, a microfabricated dome-structured array was used as a pressure-sensitive layer. The fabrication process is shown in Fig. 4b."
+    },
+    "Question_10": {
+        "Context": "In organic chemistry, the development of assistive technology for the visually impaired may involve creating a heatmap-based braille recognition system using a capacitive pressure sensor array.",
+        "Question": "What was the tested braille word visualized in the form of a video-based heatmap?",
+        "A": "Technology",
+        "B": "Innovation",
+        "C": "Wearable",
+        "D": "Education",
+        "Answer": "C",
+        "Source": "The tested braille word was \u201cwearable,\u201d and each braille character, including \u201cw,\u201d \u201ce,\u201d \u201ca,\u201d \u201cr,\u201d \u201ca,\u201d \u201cb,\u201d \u201cl,\u201d and \u201ce,\u201d was gently pressed on the sensing area."
+    }
+}

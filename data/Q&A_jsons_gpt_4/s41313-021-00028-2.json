@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of nanoparticles and cavities, surface energy and stress are important physical properties that can be influenced by external factors such as pressure.",
+        "Question": "What happens to the surface energy of nanoparticles when pressure is applied?",
+        "A": "Surface energy decreases significantly.",
+        "B": "Surface energy remains constant regardless of pressure.",
+        "C": "Surface energy increases as a function of pressure.",
+        "D": "Surface energy becomes zero at high pressure.",
+        "Answer": "C",
+        "Source": "For surface energy, we observe an increase with the applied pressure in all cases except for the smallest systems with a 2 nm diameter."
+    },
+    "Question_2": {
+        "Context": "The Young-Laplace equation is a continuum law that describes the pressure difference due to capillary forces between two phases separated by a curved interface.",
+        "Question": "According to the Young-Laplace equation, what is the relationship between the pressure difference across a curved interface and the surface tension?",
+        "A": "Pressure difference is inversely proportional to surface tension.",
+        "B": "Pressure difference is directly proportional to the radius of curvature.",
+        "C": "Pressure difference is directly proportional to surface tension and inversely proportional to the radius of curvature.",
+        "D": "Pressure difference is independent of surface tension and radius of curvature.",
+        "Answer": "C",
+        "Source": "A famous continuum law is the Young-Laplace equation (YLE), which describes the pressure difference due to capillary forces between two phases separated by a curved interface by: \u0394P = 2\u03c3/R where \u03c3 is the surface tension (or surface stress) and R is the curvature radius."
+    },
+    "Question_3": {
+        "Context": "Surface stress is a critical factor in determining the mechanical properties of materials at the nanoscale.",
+        "Question": "What is the relationship between surface stress and the surface strain tensor for a solid?",
+        "A": "Surface stress is proportional to the surface strain tensor.",
+        "B": "Surface stress is a scalar equal to the surface energy for a fluid/fluid interface.",
+        "C": "Surface stress is a two-dimensional second rank tensor related to the scalar surface energy through the Shuttleworth equation.",
+        "D": "Surface stress is independent of the surface strain tensor.",
+        "Answer": "C",
+        "Source": "For a solid, the surface stress is a two-dimensional second rank tensor, and it is related to the scalar surface energy through the so-called Shuttleworth equation: \u03c3ij = \u03b3 \u03b4ij + \u2202\u03b3/\u2202\u03b5ij where \u03b4ij is the Kronecker symbol and \u03b5 is the surface strain tensor."
+    },
+    "Question_4": {
+        "Context": "The validity of the Young-Laplace equation at the nanoscale is a subject of investigation due to the discrete character of matter at this scale.",
+        "Question": "Why might the Young-Laplace equation not be valid at the nanoscale?",
+        "A": "Because the discrete character of matter cannot be neglected at the nanoscale.",
+        "B": "Because the Young-Laplace equation only applies to macroscopic scales.",
+        "C": "Because the surface tension becomes zero at the nanoscale.",
+        "D": "Because the curvature radius is too large at the nanoscale.",
+        "Answer": "A",
+        "Source": "The question of their validity arises when one or several dimensions of materials are decreased down to the nanoscale, i.e., when the discrete character of matter cannot be neglected."
+    },
+    "Question_5": {
+        "Context": "The surface energy of a material can be influenced by the size of its nanoparticles or cavities.",
+        "Question": "How does the surface energy of nanoparticles typically behave as their diameter decreases?",
+        "A": "Surface energy remains constant regardless of the diameter.",
+        "B": "Surface energy increases as the diameter decreases.",
+        "C": "Surface energy decreases as the diameter decreases.",
+        "D": "Surface energy fluctuates unpredictably with changes in diameter.",
+        "Answer": "B",
+        "Source": "The surface energy \u03b3 becomes constant when the diameter increases, with the same value for the nanoparticle and the cavity as expected."
+    },
+    "Question_6": {
+        "Context": "The surface stress of materials can be affected by the presence of a surface, which is particularly noticeable at the nanoscale.",
+        "Question": "What is the trend in surface stress for nanoparticles as their diameter decreases?",
+        "A": "Surface stress decreases significantly.",
+        "B": "Surface stress increases significantly.",
+        "C": "Surface stress remains constant regardless of the diameter.",
+        "D": "Surface stress becomes zero at very small diameters.",
+        "Answer": "B",
+        "Source": "Focusing now on the surface stress \u03c3, one can see significant variations depending on the diameter, especially at low diameters."
+    },
+    "Question_7": {
+        "Context": "In the context of cavities under pressure, the behavior of surface energy can provide insights into the material's response to stress.",
+        "Question": "What happens to the surface energy of cavities when internal pressure is applied?",
+        "A": "Surface energy increases as the internal pressure increases.",
+        "B": "Surface energy decreases as the internal pressure increases.",
+        "C": "Surface energy remains constant regardless of internal pressure.",
+        "D": "Surface energy fluctuates unpredictably with changes in internal pressure.",
+        "Answer": "B",
+        "Source": "For cavities, we find that surface energies decrease as a function of the applied pressure in all cases."
+    },
+    "Question_8": {
+        "Context": "The surface stress of a material can be influenced by external pressures, especially in the context of cavities.",
+        "Question": "How does the surface stress of cavities typically respond to increasing internal pressure?",
+        "A": "Surface stress increases as internal pressure increases.",
+        "B": "Surface stress decreases as internal pressure increases.",
+        "C": "Surface stress remains constant regardless of internal pressure.",
+        "D": "Surface stress becomes zero at high internal pressures.",
+        "Answer": "B",
+        "Source": "For cavities, ... \ufffd is seen to largely decrease when pressure increases, with the greatest reductions for the largest cavities."
+    },
+    "Question_9": {
+        "Context": "The Young-Laplace equation is used to estimate internal pressures in various contexts, such as noble gas bubbles in materials.",
+        "Question": "What is a common assumption made when using the Young-Laplace equation to estimate internal pressures?",
+        "A": "The surface stress is assumed to be constant.",
+        "B": "The surface energy is assumed to be equal to the surface stress.",
+        "C": "The curvature radius is assumed to be infinite.",
+        "D": "The pressure difference is assumed to be zero.",
+        "Answer": "B",
+        "Source": "It is also noteworthy that \u03c3 in the YLE is very often assumed to be equal to the surface energy by default, since available information on surface stress values is scarce."
+    },
+    "Question_10": {
+        "Context": "The Shuttleworth equation relates surface stress to surface energy and surface strain for solid materials.",
+        "Question": "What does the Shuttleworth equation imply about the relationship between surface stress and surface energy for a fluid/fluid interface?",
+        "A": "Surface stress is equal to surface energy for a fluid/fluid interface.",
+        "B": "Surface stress is always greater than surface energy for a fluid/fluid interface.",
+        "C": "Surface stress is always less than surface energy for a fluid/fluid interface.",
+        "D": "Surface stress and surface energy are unrelated for a fluid/fluid interface.",
+        "Answer": "A",
+        "Source": "\u03c3 becomes a scalar equal to the surface energy \u03b3 only for a fluid/fluid interface, which is obviously not the case for nanoparticles or bubbles embedded in a solid matrix."
+    }
+}

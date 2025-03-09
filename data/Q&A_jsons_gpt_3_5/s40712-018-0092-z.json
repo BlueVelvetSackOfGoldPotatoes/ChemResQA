@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on optimizing multi-responses of the fly hobbing process using fuzzy theory combined with the Taguchi method. The optimal condition was determined based on the cutting speed, nanoparticle size, and concentration.",
+        "Question": "What were the parameters used to determine the optimal condition in the study?",
+        "A": "Cutting speed, nanoparticle size, and cutting force",
+        "B": "Cutting temperature, surface roughness, and friction",
+        "C": "Nanoparticle size, cutting temperature, and cutting force",
+        "D": "Cutting speed, nanoparticle size, and concentration",
+        "Answer": "D",
+        "Source": "The optimal condition\u2014A1B1C3 (the cutting speed 38 mpm, the nanoparticle size 20 nm, and concentration 0.5%)\u2014was determined by analyzing the performance index (FRTS) of the fuzzy model."
+    },
+    "Question_2": {
+        "Context": "The study applied a fuzzy model based on the Taguchi method to optimize multi-responses for the fly hobbing process. The fuzzy model consisted of a fuzzifier, an inference engine, membership functions, fuzzy rules, and defuzzifier.",
+        "Question": "What components were part of the fuzzy model used in the study?",
+        "A": "Fuzzifier, inference engine, membership functions, fuzzy rules, and defuzzifier",
+        "B": "Hypothesis, experimental design, data analysis, and conclusions",
+        "C": "Variables, constants, control group, and experimental group",
+        "D": "Observations, results, statistical analysis, and conclusions",
+        "Answer": "A",
+        "Source": "The fuzzy model consists of a fuzzifier, an inference engine, the membership functions, the fuzzy rules, and defuzzifier."
+    },
+    "Question_3": {
+        "Context": "The study used the Taguchi design to research the effects of factors on the total cutting force, force ratio Fz/Fy, cutting temperature, and surface roughness in the fly hobbing process.",
+        "Question": "What method was chosen to research the effects of factors on multiple responses in the fly hobbing process?",
+        "A": "Taguchi design",
+        "B": "ANOVA analysis",
+        "C": "Regression analysis",
+        "D": "Correlation analysis",
+        "Answer": "A",
+        "Source": "The Taguchi design was chosen to research the effects of some factors on the total cutting force, the force ratio Fz/Fy, the cutting temperature, and the surface roughness in the fly hobbing process."
+    },
+    "Question_4": {
+        "Context": "The study analyzed the impact of different factors on the fuzzy multi-response performance index (FRTS) using ANOVA analysis.",
+        "Question": "What statistical method was used to determine the impact of factors on the FRTS values?",
+        "A": "Regression analysis",
+        "B": "ANOVA analysis",
+        "C": "Correlation analysis",
+        "D": "Descriptive statistics",
+        "Answer": "B",
+        "Source": "The ANOVA analysis results with 96.8% confidence intervals were used to determine the impact of the coefficient on the multiple responses (FRTS)."
+    },
+    "Question_5": {
+        "Context": "The study concluded that the nanoparticle concentrations and nanoparticle size had the greatest effect on the fuzzy multi-response performance index (FRTS).",
+        "Question": "Which factors were identified as having the greatest effect on the FRTS values in the study?",
+        "A": "Cutting speed and cutting force",
+        "B": "Nanoparticle size and cutting temperature",
+        "C": "Nanoparticle size and nanoparticle concentration",
+        "D": "Cutting force and cutting temperature",
+        "Answer": "C",
+        "Source": "The ANOVA analysis results indicate that control parameters B (nanoparticle size) and C (nanoparticle concentration) are the greatest effect parameters to the FRTS values."
+    },
+    "Question_6": {
+        "Context": "The study compared the flank wear of the hob under normal conditions with a normal lubricant to the flank wear under optimal conditions using a nanolubricant.",
+        "Question": "What percentage reduction in flank wear was observed under the optimal conditions compared to the normal conditions?",
+        "A": "29.4%",
+        "B": "39.3%",
+        "C": "49.5%",
+        "D": "59.4%",
+        "Answer": "B",
+        "Source": "The width of flank wear reduces about 39.3% under the optimal condition with the nanolubricant compared to the normal conditions."
+    },
+    "Question_7": {
+        "Context": "The study investigated the crater wear of the rake surface of the hob under normal conditions with a normal lubricant and under optimal conditions using a nanolubricant.",
+        "Question": "What was the observed difference in the width of the crater wear area between the normal conditions and the optimal conditions?",
+        "A": "No difference",
+        "B": "Smaller under normal conditions",
+        "C": "Smaller under optimal conditions",
+        "D": "Equal under both conditions",
+        "Answer": "C",
+        "Source": "The width of the crater wear area under the nanolubricant is clearly smaller than that under the normal lubricant."
+    },
+    "Question_8": {
+        "Context": "The study used the fuzzy logic model based on the Taguchi method to optimize multiple responses in the fly hobbing process.",
+        "Question": "What was the primary purpose of using the fuzzy logic model in the study?",
+        "A": "To analyze experimental data",
+        "B": "To optimize multi-responses",
+        "C": "To calculate statistical significance",
+        "D": "To design the experiment",
+        "Answer": "B",
+        "Source": "The fuzzy model was set up for the normalized values for the S/N ratios of the Taguchi experiment to optimize multi-objects."
+    },
+    "Question_9": {
+        "Context": "The study applied the optimal conditions determined by the fuzzy model to the actual hobbing process in the FUTU1 Company.",
+        "Question": "What percentage reduction in flank wear was achieved by using the optimal conditions in the actual hobbing process?",
+        "A": "29.4%",
+        "B": "39.3%",
+        "C": "49.5%",
+        "D": "59.4%",
+        "Answer": "B",
+        "Source": "The width of flank wear reduces about 39.3% under the optimal condition with the nanolubricant compared to the normal conditions."
+    },
+    "Question_10": {
+        "Context": "The study used the fuzzy model to optimize multi-responses for the fly hobbing process based on the Taguchi method.",
+        "Question": "Which factors were identified as having the greatest effect on the fuzzy multi-response performance index (FRTS) according to the ANOVA analysis?",
+        "A": "Cutting speed and cutting force",
+        "B": "Nanoparticle size and nanoparticle concentration",
+        "C": "Cutting temperature and surface roughness",
+        "D": "Nanoparticle size and cutting temperature",
+        "Answer": "B",
+        "Source": "The ANOVA analysis results indicate that control parameters B (nanoparticle size) and C (nanoparticle concentration) are the greatest effect parameters to the FRTS values."
+    }
+}

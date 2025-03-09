@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In composite materials, carbon fibers are known to conduct electricity along the plane of the laminate, but their conductivity through the thickness of the material is typically poor.",
+        "Question": "What is a known limitation of conventional carbon fiber laminates in terms of electrical conductivity?",
+        "A": "High in-plane conductivity",
+        "B": "High through-thickness conductivity",
+        "C": "Poor in-plane conductivity",
+        "D": "Poor through-thickness conductivity",
+        "Answer": "D",
+        "Source": "Conventional carbon fibre laminates are known to be moderately electrically conductive in-plane, but have a poor through-thickness conductivity."
+    },
+    "Question_2": {
+        "Context": "In the context of composite materials, tufting with hybrid micro-braided metal-carbon fiber yarns is a method used to enhance through-thickness electrical conductivity.",
+        "Question": "Which method is used to improve the through-thickness electrical conductivity of composite materials?",
+        "A": "Chemical vapor deposition",
+        "B": "Tufting with hybrid micro-braided metal-carbon fiber yarns",
+        "C": "Layer-by-layer assembly",
+        "D": "Electrospinning",
+        "Answer": "B",
+        "Source": "Among various solutions to boost through-thickness electrical conductivity, tufting with hybrid micro-braided metal-carbon fibre yarns is one of the most promising."
+    },
+    "Question_3": {
+        "Context": "Tufting is a well-characterized method of through-thickness reinforcement in composite materials, which can be easily implemented in a manufacturing environment.",
+        "Question": "What is the characteristic of the tufting method in the manufacturing of composite materials?",
+        "A": "Difficult to implement",
+        "B": "Rarely used for reinforcement",
+        "C": "Easily implementable",
+        "D": "Used only for surface finishing",
+        "Answer": "C",
+        "Source": "As a well-characterised method of through thickness reinforcement, tufting is easily implementable in a manufacturing environment."
+    },
+    "Question_4": {
+        "Context": "In composite materials, the hybridization of materials in a braid can enhance the resilience and integrity of yarns.",
+        "Question": "What is the benefit of hybridizing materials in the braid of composite materials?",
+        "A": "Decreases electrical conductivity",
+        "B": "Reduces the resilience of yarns",
+        "C": "Enhances the resilience and integrity of yarns",
+        "D": "Makes the yarns non-conductive",
+        "Answer": "C",
+        "Source": "The hybridisation of materials in the braid promotes the resilience and integrity of yarns, while integrating metal wires opens up a wide range of multifunctional applications."
+    },
+    "Question_5": {
+        "Context": "In composite materials, adding metal meshes, steel fiber woven, or non-crimp plies are methods explored to enhance various properties, including electrical conductivity.",
+        "Question": "Which of the following materials have been added to composite laminates to enhance their properties?",
+        "A": "Metal meshes",
+        "B": "Plastic films",
+        "C": "Ceramic particles",
+        "D": "Rubber coatings",
+        "Answer": "A",
+        "Source": "Lightweight metal additions present an intuitive solution, with materials to date including metal meshes [8], steel fibre woven or non-crimp plies [6, 9, 10], foils [11] resin additives [6, 12, 13]."
+    },
+    "Question_6": {
+        "Context": "In the manufacturing of composites, tufting involves the insertion of a thread using a hollow needle, which can increase through-thickness strength and resistance to inter-ply delamination.",
+        "Question": "What is the purpose of tufting in the manufacturing of composites?",
+        "A": "To decrease the weight of the composite",
+        "B": "To enhance the surface smoothness",
+        "C": "To increase through-thickness strength and resistance to delamination",
+        "D": "To improve the in-plane conductivity",
+        "Answer": "C",
+        "Source": "Tufts spanning through the laminate thickness substantially increase through-thickness strength and resistance to inter-ply delamination."
+    },
+    "Question_7": {
+        "Context": "In the context of composite materials, carbon, glass, or polymer yarns are commonly used for tufting, with carbon providing the additional benefit of increasing through-thickness conductivity.",
+        "Question": "Which type of yarns used in tufting can increase through-thickness conductivity of composites?",
+        "A": "Glass yarns",
+        "B": "Carbon yarns",
+        "C": "Polymer yarns",
+        "D": "Silk yarns",
+        "Answer": "B",
+        "Source": "Carbon, glass or polymer yarns are commonly used for this application with carbon providing the additional benefit of increasing through-thickness conductivity."
+    },
+    "Question_8": {
+        "Context": "In composite materials, micro-braiding is a process that involves intermingling dissimilar materials in continuous integral threads, which can be used to create multifunctional braids.",
+        "Question": "What is the process of micro-braiding in the context of composite materials?",
+        "A": "A process to clean the fibres",
+        "B": "A process to dye the fibres",
+        "C": "A process to intermingle dissimilar materials in threads",
+        "D": "A process to coat the fibres with resin",
+        "Answer": "C",
+        "Source": "The most effective way of intermingling dissimilar materials in continuous integral threads is via micro-braiding."
+    },
+    "Question_9": {
+        "Context": "In composite materials, the electrical resistance of braided threads can be measured during tensile testing to assess their conductivity.",
+        "Question": "How can the electrical conductivity of braided threads in composites be assessed?",
+        "A": "By measuring their tensile strength",
+        "B": "By measuring their electrical resistance during tensile testing",
+        "C": "By measuring their thermal resistance",
+        "D": "By measuring their weight",
+        "Answer": "B",
+        "Source": "Braid electrical resistance was measured during tensile testing using a Keithley Model 2100 USB Digital Multimeter."
+    },
+    "Question_10": {
+        "Context": "In composite materials, the through-thickness electrical conductivity can be significantly improved by tufting with hybrid braids, which can be assessed by measuring the resistance of small blocks cut from the composite panel.",
+        "Question": "How is the improvement in through-thickness electrical conductivity of tufted composite materials assessed?",
+        "A": "By measuring the resistance of small blocks cut from the composite panel",
+        "B": "By comparing the weight of tufted and untufted panels",
+        "C": "By observing the color change in the composite",
+        "D": "By testing the composite's reaction to magnetic fields",
+        "Answer": "A",
+        "Source": "To assess the impact of tufting with hybrid braids on the through-thickness conductivity of the final composite, both tufted and untufted unidirectional panels were cut into small blocks 10 by 10 mm in the plane of the panel (sides aligned with the fibre direction)."
+    }
+}

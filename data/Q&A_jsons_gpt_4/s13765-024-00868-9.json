@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Biochar and compost are amendments that can be added to soil to improve its fertility and structure, which may affect the growth and yield of crops.",
+        "Question": "Which treatment demonstrated the highest increase in corn biomass compared to other treatments?",
+        "A": "Control with no treatment",
+        "B": "Biochar treatment",
+        "C": "Compost treatment",
+        "D": "Biochar and compost combined treatment",
+        "Answer": "D",
+        "Source": "CP treatment manifested a pronounced enhancement in corn biomass, exceeding biomass of Cn treatment by 12.6, RB treatment by 120, and WB treatment by 86%, respectively."
+    },
+    "Question_2": {
+        "Context": "Monitoring greenhouse gas emissions from agricultural soils is important for understanding the environmental impact of farming practices.",
+        "Question": "What method is used to monitor CO2 and N2O fluxes from soil?",
+        "A": "A static chamber placed between plants",
+        "B": "Remote sensing technology",
+        "C": "Soil sampling and laboratory analysis",
+        "D": "Automated sensors in the field",
+        "Answer": "A",
+        "Source": "The CO2 and N2O fluxes (mg m\u22122 h\u22121) were monitored through a static chamber with 0.07 m2 area and 0.02 m3 volume."
+    },
+    "Question_3": {
+        "Context": "Soil properties such as bulk density, pH, and organic matter content can influence plant growth and nutrient availability.",
+        "Question": "What is the soil texture of the experimental soil used in the study?",
+        "A": "Sandy loam soil",
+        "B": "Clay loam soil",
+        "C": "Silty loam soil",
+        "D": "Peaty soil",
+        "Answer": "B",
+        "Source": "Soil texture: Clay loam soil"
+    },
+    "Question_4": {
+        "Context": "The productivity of corn can be measured in terms of the total weight of the corn produced.",
+        "Question": "Which treatment resulted in the highest total weight of corn?",
+        "A": "Control with no treatment",
+        "B": "Biochar treatment",
+        "C": "Compost treatment",
+        "D": "Biochar and compost combined treatment",
+        "Answer": "D",
+        "Source": "The total weight of corn increased in the order: CP (237 g) > Cn (191 g) > WB (107 g) > RB (79 g)."
+    },
+    "Question_5": {
+        "Context": "The yield of corn can be affected by various treatments applied to the soil, which can be reflected in the grain yield.",
+        "Question": "Which treatment had the lowest grain yield?",
+        "A": "Control with no treatment",
+        "B": "Biochar treatment",
+        "C": "Compost treatment",
+        "D": "Biochar and compost combined treatment",
+        "Answer": "B",
+        "Source": "Corn yield increased in the order: CP (157 g) > Cn (119 g) > WB (71 g) > RB (53 g)."
+    },
+    "Question_6": {
+        "Context": "The exchangeable cations in soil are important for soil fertility and plant nutrition.",
+        "Question": "Which exchangeable cation had the highest concentration in the experimental soil?",
+        "A": "Potassium (K)",
+        "B": "Calcium (Ca)",
+        "C": "Magnesium (Mg)",
+        "D": "Sodium (Na)",
+        "Answer": "B",
+        "Source": "Exch. cations (cmolc kg\u22121): K 0.59, Ca 2.67, Mg 0.88"
+    },
+    "Question_7": {
+        "Context": "The cation exchange capacity (CEC) of a soil is a measure of its ability to hold and exchange cations, which is important for nutrient availability to plants.",
+        "Question": "What was the cation exchange capacity (CEC) of the experimental soil?",
+        "A": "4.22 cmolc kg\u22121",
+        "B": "5.22 cmolc kg\u22121",
+        "C": "9.22 cmolc kg\u22121",
+        "D": "12.22 cmolc kg\u22121",
+        "Answer": "C",
+        "Source": "CEC: 9.22 cmolc kg\u22121"
+    },
+    "Question_8": {
+        "Context": "Soil pH can affect the availability of nutrients to plants and the activity of soil microorganisms.",
+        "Question": "What was the pH level of the experimental soil?",
+        "A": "3.31",
+        "B": "4.31",
+        "C": "5.31",
+        "D": "6.31",
+        "Answer": "C",
+        "Source": "pH (1:5H2O): 5.31"
+    },
+    "Question_9": {
+        "Context": "Soil organic matter (OM) is a key component of soil that affects its structure, water holding capacity, and fertility.",
+        "Question": "What was the organic matter content of the experimental soil?",
+        "A": "15.8 g kg\u22121",
+        "B": "25.8 g kg\u22121",
+        "C": "35.8 g kg\u22121",
+        "D": "45.8 g kg\u22121",
+        "Answer": "B",
+        "Source": "OM: 25.8 g kg\u22121"
+    },
+    "Question_10": {
+        "Context": "Electrical conductivity (EC) of soil is an indicator of the soil's salinity, which can affect plant growth and soil microorganism activity.",
+        "Question": "What was the electrical conductivity (EC) of the experimental soil?",
+        "A": "0.19 dS m\u22121",
+        "B": "0.29 dS m\u22121",
+        "C": "0.39 dS m\u22121",
+        "D": "0.49 dS m\u22121",
+        "Answer": "B",
+        "Source": "EC (dS m\u22121): 0.29"
+    }
+}

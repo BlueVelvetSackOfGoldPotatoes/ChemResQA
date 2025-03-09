@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the importance of silica filler in rubber composites and the challenges faced in developing silica-silane rubber composites.",
+        "Question": "What is the primary reason for modifying the silica surface with a coupling agent?",
+        "A": "To increase the hardness of the rubber compound",
+        "B": "To improve the wet grip performance",
+        "C": "To enhance the abrasion resistance",
+        "D": "To link the rubber and silica for better compatibility",
+        "Answer": "D",
+        "Source": "To avoid these strong filler-filler interactions and improve rubber/silica compatibility, the silica surface needs to be modified. This can be done using a coupling agent which has functional groups capable of linking both the rubber and silica."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the mechanism of filler reinforcement in rubber compounds.",
+        "Question": "What is the primary factor that influences the reinforcement effect of silica filler in elastomers?",
+        "A": "Particle size",
+        "B": "Chemical composition",
+        "C": "Surface area",
+        "D": "Shape",
+        "Answer": "A",
+        "Source": "Schmidt observed significant silica reinforcement effects in styrene-butadiene rubber (SBR) and speculated that the filler\u2019s particle size is of utmost importance for elastomer reinforcement."
+    },
+    "Question_3": {
+        "Context": "The paper highlights the importance of wet grip performance in tires.",
+        "Question": "What property is closely related to factors such as shorter braking distances on wet surfaces and stable handling in wet conditions?",
+        "A": "Rolling resistance",
+        "B": "Abrasion resistance",
+        "C": "Tire wear behavior",
+        "D": "Wet grip",
+        "Answer": "D",
+        "Source": "Wet grip refers to a tire\u2019s ability to maintain a grip on wet surfaces. Wet grip is closely related to factors such as shorter braking distances on wet surfaces, better driving characteristics, and more stable handling in wet conditions."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the impact of different silanes on the reinforcement of silica-filled rubber composites.",
+        "Question": "Which silane coupling agent showed the best overall physio-mechanical properties in natural rubber compounds?",
+        "A": "TESPD",
+        "B": "OTES",
+        "C": "VTMS",
+        "D": "TESPT",
+        "Answer": "D",
+        "Source": "TESPT showed the best overall physio-mechanical properties in natural rubber compounds, including higher tensile strength, lower Payne Effect, lower Mooney Viscosity values, higher bound rubber content, and a better reinforcement index."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the kinetics of silanization of silica and silane coupling agents.",
+        "Question": "What factor significantly influences the primary silanization reaction rate?",
+        "A": "Water content",
+        "B": "Temperature",
+        "C": "Solution concentration",
+        "D": "Reaction time",
+        "Answer": "B",
+        "Source": "The temperature of the system dramatically influences the primary silanization reaction. As the temperature increases, the concentration of ethanol formation increases which indicates the progression of the primary silanization reaction."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the effect of compounding ingredients on silica-silane functional composite.",
+        "Question": "Which compound showed improved thermal and aging properties while retaining the mechanical properties of the SBR/Silica compound?",
+        "A": "Antioxidant functionalized silica",
+        "B": "Treated Distillate Aromatic Extract (TDAE)",
+        "C": "Epoxidized palm oil",
+        "D": "Amine-modified epoxidized palm oil",
+        "Answer": "A",
+        "Source": "Antioxidant functionalized silica dramatically improves the thermal and aging properties by retaining the mechanical properties of the SBR/Silica compound."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the optimization of silica-filled elastomer compounds and silanization.",
+        "Question": "What is the critical parameter that significantly impacts the properties of silica-silane-rubber mixing?",
+        "A": "Fill factor",
+        "B": "Temperature",
+        "C": "Dump temperature",
+        "D": "Ram pressure",
+        "Answer": "A",
+        "Source": "Mixing temperature and time together have a higher significance of more than 50%, followed by minor factors like Temperature Control Unit (TCU), feed door condition (O/C), fill factor, and ram pressure."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the impact of different amines on the silanization reaction of the silica-silane system.",
+        "Question": "Which type of amines boosted the primary silanization reaction faster than aromatic/cyclic amines?",
+        "A": "Short alkyl amines",
+        "B": "Cyclic amines",
+        "C": "Long alkyl amines",
+        "D": "Aromatic amines",
+        "Answer": "A",
+        "Source": "Linear amines boosted the primary silanization reaction faster than aromatic/cyclic amines."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the effect of alkalinity of different ionic liquids as a catalyst for the silanization reaction.",
+        "Question": "Which ionic liquid showed the highest reactivity for silanization?",
+        "A": "1-butyl-3-methylimidazolium acetate (CIL)",
+        "B": "1-butyl-3-methylimidazolium hydroxide (OIL)",
+        "C": "1-butyl-3-methylimidazolium tetrafluoroborate (BIL)",
+        "D": "1-butyl-3-methylimidazolium hexafluorophosphate (PIL)",
+        "Answer": "A",
+        "Source": "The reactivity of Ionic liquids for silanization is as follows: 1-butyl-3-methylimidazolium acetate (CIL) > 1-butyl-3-methylimidazolium hydroxide (OIL) > 1-butyl-3-methylimidazolium tetrafluoroborate (BIL) > 1-butyl-3-methylimidazolium hexafluorophosphate (PIL)."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the challenges and solutions in developing silica-silane rubber composites.",
+        "Question": "What is the primary issue with sulfur-containing silanes in rubber compounds?",
+        "A": "They lead to poor mechanical properties",
+        "B": "They enhance crosslink density",
+        "C": "They improve processability",
+        "D": "They reduce the cure rate",
+        "Answer": "A",
+        "Source": "Having sulfur-containing silane enhances a crosslink density as it provides additional sulfur for vulcanization; in contrast to the advantages, it leads to processing difficulties (Scorch effect)."
+    }
+}

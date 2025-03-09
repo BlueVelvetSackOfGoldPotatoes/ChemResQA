@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Butyric acid is a short-chain volatile fatty acid with various industrial applications. It can be produced by microbial fermentation, which is considered more environmentally friendly compared to chemical synthesis.",
+        "Question": "What is butyric acid?",
+        "A": "A volatile saturated monocarboxylic acid",
+        "B": "A long-chain unsaturated dicarboxylic acid",
+        "C": "A type of essential amino acid",
+        "D": "A simple sugar carbohydrate",
+        "Answer": "A",
+        "Source": "Butyric acid (CH3CH2CH2COOH) is a short-chain volatile fatty acid with important applications in the chemical, food, pharmaceutical, energy, and animal feed industries."
+    },
+    "Question_2": {
+        "Context": "In the context of microbial fermentation, Clostridium beijerinckii is a bacterium that can utilize a wide range of carbon sources and has been used for butyric acid production.",
+        "Question": "Which bacterium is known for its ability to produce butyric acid through fermentation?",
+        "A": "Escherichia coli",
+        "B": "Saccharomyces cerevisiae",
+        "C": "Clostridium beijerinckii",
+        "D": "Lactobacillus acidophilus",
+        "Answer": "C",
+        "Source": "Clostridium beijerinckii is a facultative anaerobe that can use a wide range of carbon sources. It is easy to cultivate and it can use glucose and xylose as representative lignocellulosic sugars."
+    },
+    "Question_3": {
+        "Context": "Simultaneous enzymatic hydrolysis semi-solid fermentation (SEHSF) is a process where enzymatic saccharification of biomass and fermentation occur in the same container, simplifying the production process of butyric acid.",
+        "Question": "What does the process of simultaneous enzymatic hydrolysis semi-solid fermentation (SEHSF) entail?",
+        "A": "Separate hydrolysis and fermentation in two reactors",
+        "B": "Enzymatic saccharification and fermentation occurring simultaneously in the same container",
+        "C": "Fermentation followed by chemical hydrolysis",
+        "D": "Aeration followed by enzymatic saccharification",
+        "Answer": "B",
+        "Source": "Simultaneous enzymatic hydrolysis semi-solid fermentation (SEHSF): the enzymatic saccharification of straw and the fermentation of straw hydrolysates both occurred simultaneously in the same container."
+    },
+    "Question_4": {
+        "Context": "During the pretreatment of lignocellulosic biomass, various inhibitors can be produced that may affect microbial growth and fermentation efficiency.",
+        "Question": "What is a potential consequence of the pretreatment process in butyric acid production from lignocellulosic biomass?",
+        "A": "Increased yield of butyric acid",
+        "B": "Decreased need for microbial inoculation",
+        "C": "Production of inhibitors that may affect microbial growth",
+        "D": "Simplification of the fermentation process",
+        "Answer": "C",
+        "Source": "Many substances that inhibit the growth of strains are produced during the preparation of straw hydrolysate."
+    },
+    "Question_5": {
+        "Context": "The genome sequencing and annotation of Clostridium beijerinckii can provide insights into its metabolic pathways and potential for butyric acid production.",
+        "Question": "What is the significance of genome sequencing and annotation of Clostridium beijerinckii in the context of butyric acid production?",
+        "A": "It helps in identifying the bacterium's ability to resist antibiotics",
+        "B": "It is used to determine the bacterium's pathogenicity",
+        "C": "It provides information for the design of microbial fermentation",
+        "D": "It is necessary for the classification of bacterial species",
+        "Answer": "C",
+        "Source": "Genome sequencing and annotation can reveal the metabolic characteristics of microorganisms, providing information for the design of microbial fermentation."
+    },
+    "Question_6": {
+        "Context": "In microbial fermentation, the choice of nitrogen source can significantly affect the yield of the desired product, such as butyric acid.",
+        "Question": "Which nitrogen source was found to be most effective for the production of butyric acid by Clostridium beijerinckii?",
+        "A": "Ammonium nitrate",
+        "B": "Ammonium acetate",
+        "C": "Ammonium chloride",
+        "D": "Ammonium sulfate",
+        "Answer": "B",
+        "Source": "Ammonium acetate ranks second, with a butyric acid yield of 5.46 \u00b1 0.23 g/L. The effect of other nitrogen sources is poor, with butyric acid yields of less than 3 g/L. Therefore, ammonium acetate is the best inorganic nitrogen source."
+    },
+    "Question_7": {
+        "Context": "The metabolic pathway analysis of Clostridium beijerinckii can identify incomplete biosynthesis pathways for essential biomass components, which may need to be supplemented in the fermentation medium.",
+        "Question": "According to metabolic pathway analysis, which biomass components may need to be supplemented in the fermentation medium for Clostridium beijerinckii?",
+        "A": "Glucose and fructose",
+        "B": "Tryptophan and biotin",
+        "C": "Lactic acid and ethanol",
+        "D": "Acetic acid and butyric acid",
+        "Answer": "B",
+        "Source": "The biosynthesis pathways of tryptophan and biotin were incomplete, while the biosynthesis pathways of other amino acids and vitamins were complete."
+    },
+    "Question_8": {
+        "Context": "The fermentation of butyric acid can be optimized by adjusting various factors, such as temperature, pH, and inoculation amount, to achieve higher yields.",
+        "Question": "Which factor was found to have the most significant effect on the fermentation of butyric acid by Clostridium beijerinckii?",
+        "A": "Inoculation amount",
+        "B": "Fermentation time",
+        "C": "Temperature",
+        "D": "Initial pH",
+        "Answer": "C",
+        "Source": "According to the variance analysis, the effect of inoculation amount and pH on the concentration of butyric acid was not significant (P > 0.05), the effect of temperature was extremely significant (P < 0.01), and the effect of fermentation time was significant (P < 0.05)."
+    },
+    "Question_9": {
+        "Context": "In the production of butyric acid, the use of non-sterile fermentation can reduce costs and simplify the process, making it more suitable for industrial applications.",
+        "Question": "What is an advantage of using non-sterile fermentation for butyric acid production?",
+        "A": "It increases the genetic stability of the microorganism",
+        "B": "It enhances the nutritional value of the fermentation product",
+        "C": "It reduces the risk of contamination with pathogenic bacteria",
+        "D": "It reduces costs and simplifies the industrial process",
+        "Answer": "D",
+        "Source": "To apply the above optimization results to actual production, taking into account the convenience of industrial application, we increased the fermentation volume to 500 mL, 1000 mL, and 2500 mL for raw material fermentation under non-sterile conditions to produce butyric acid."
+    },
+    "Question_10": {
+        "Context": "The production of butyric acid from lignocellulosic biomass involves the hydrolysis of the biomass to release fermentable sugars, which are then utilized by microorganisms in the fermentation process.",
+        "Question": "What are the main fermentable sugars found in rape straw hydrolysate used for butyric acid production?",
+        "A": "Glucose and xylose",
+        "B": "Sucrose and lactose",
+        "C": "Fructose and galactose",
+        "D": "Maltose and cellobiose",
+        "Answer": "A",
+        "Source": "Many kinds of carbon sources were detected in the hydrolysate of rape straw by HPLC\u2013MS, including glucose, xylose, fructose, mannose and other carbon sources."
+    }
+}

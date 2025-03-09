@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the synthesis of (+)-neomenthylamine using a biocatalytic route. The enzyme VfTA from Vibrio fluvialis JS17 was identified for this purpose.",
+        "Question": "What is the main advantage of using biocatalysts for the synthesis of chiral amines?",
+        "A": "High cost",
+        "B": "Harsh reaction conditions",
+        "C": "Low chemo/regio-selectivity",
+        "D": "Mild reaction conditions",
+        "Answer": "D",
+        "Source": "Over the past 2 decades, biocatalysts are increasingly being employed for the synthesis of chiral amines due to their mild reaction conditions..."
+    },
+    "Question_2": {
+        "Context": "The study involved screening a panel of enzymes for amination activity towards (\u2212)-menthone.",
+        "Question": "Which amino donor exhibited excellent catalytic efficiency for the transaminase reaction?",
+        "A": "L-Alanine",
+        "B": "Isobutylamine",
+        "C": "S-2-Heptanamine",
+        "D": "S-\u03b1-Methylbenzylamine",
+        "Answer": "D",
+        "Source": "Among them, S-MBA as an amino donor exhibited excellent catalytic efficiency for the transaminase reaction..."
+    },
+    "Question_3": {
+        "Context": "The study optimized various parameters for the VfTA-mediated transamination reaction.",
+        "Question": "What was determined to be the optimal pH for the reaction?",
+        "A": "pH 4.0",
+        "B": "pH 6.0",
+        "C": "pH 8.0",
+        "D": "pH 9.5",
+        "Answer": "B",
+        "Source": "The optimal pH and temperature for the reaction were determined to be pH 6.0..."
+    },
+    "Question_4": {
+        "Context": "The kinetic analysis of VfTA showed potential co-substrate and co-product inhibition.",
+        "Question": "Which compound exhibited substrate inhibition towards VfTA?",
+        "A": "S-\u03b1-Methylbenzylamine",
+        "B": "Acetophenone",
+        "C": "(\u2212)-Menthone",
+        "D": "(+)-Neomenthylamine",
+        "Answer": "B",
+        "Source": "VfTA exhibited substrate inhibition and product inhibition for S-MBA and acetophenone..."
+    },
+    "Question_5": {
+        "Context": "The thermostability of VfTA was explored in the study.",
+        "Question": "What was the melting temperature (Tm) of VfTA in KPB buffer (pH 6.0)?",
+        "A": "55.6 \u00b0C",
+        "B": "65.6 \u00b0C",
+        "C": "75.6 \u00b0C",
+        "D": "85.6 \u00b0C",
+        "Answer": "B",
+        "Source": "The Tm value of VfTA (0.5 mg/mL) in KPB buffer (100 mM, pH 6.0) was determined to be 65.6 \u00b0C..."
+    },
+    "Question_6": {
+        "Context": "The study involved a 300 mL preparative-scale bioreaction.",
+        "Question": "What was the yield of (+)-neomenthylamine at approximately 24 hours?",
+        "A": "2.5 mM",
+        "B": "4.7 mM",
+        "C": "6.3 mM",
+        "D": "8.1 mM",
+        "Answer": "B",
+        "Source": "the yield of (+)-neomenthylamine reached a maximum 4.7 mM at 24 h approximately..."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the discovery of an \u03c9-transaminase for amination of (\u2212)-menthone to (+)-neomenthylamine.",
+        "Question": "What is the main advantage of using VfTA for the synthesis of (+)-neomenthylamine?",
+        "A": "High catalytic efficiency for (\u2212)-menthone",
+        "B": "Low affinity for amino donors",
+        "C": "Excellent stability",
+        "D": "Substrate inhibition towards S-MBA",
+        "Answer": "C",
+        "Source": "In contrast to the previously reported chemical methods, the constructed biocatalytic approach avoided the use of expensive and poisonous catalysts, harsh operation conditions..."
+    },
+    "Question_8": {
+        "Context": "The study involved optimization of system parameters for VfTA-mediated transamination reaction.",
+        "Question": "What was the optimal temperature determined for the reaction?",
+        "A": "25 \u00b0C",
+        "B": "30 \u00b0C",
+        "C": "35 \u00b0C",
+        "D": "40 \u00b0C",
+        "Answer": "B",
+        "Source": "The optimal pH and temperature for the reaction were determined to be pH 6.0 and 30 \u2103..."
+    },
+    "Question_9": {
+        "Context": "The study discussed the inhibition constants of VfTA towards S-MBA and acetophenone.",
+        "Question": "Which compound had a lower inhibition constant (Ki) towards VfTA?",
+        "A": "S-\u03b1-Methylbenzylamine",
+        "B": "Acetophenone",
+        "C": "Isopropylamine",
+        "D": "L-Alanine",
+        "Answer": "B",
+        "Source": "VfTA exhibited substrate inhibition and product inhibition for S-MBA and acetophenone..."
+    },
+    "Question_10": {
+        "Context": "The study explored the kinetic constants of VfTA towards substrate (\u2212)-menthone and amino donor S-MBA.",
+        "Question": "Which compound had a higher catalytic efficiency (kcat/KM) for VfTA?",
+        "A": "(\u2212)-Menthone",
+        "B": "S-\u03b1-Methylbenzylamine",
+        "C": "Isobutylamine",
+        "D": "L-Alanine",
+        "Answer": "B",
+        "Source": "Among them, S-MBA as an amino donor exhibited excellent catalytic efficiency for the transaminase reaction..."
+    }
+}

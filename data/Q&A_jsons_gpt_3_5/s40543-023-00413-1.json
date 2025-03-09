@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the application of 3D surface digital microscopy to quantify bone surface textures on the long bones of the grey heron and the Canada goose using internationally verified roughness parameters. The research aimed to identify ontogenetic age classes through bone texture quantification.",
+        "Question": "What method was used to quantify bone surface textures in the study?",
+        "A": "2D surface topography",
+        "B": "3D surface topography",
+        "C": "Qualitative analysis",
+        "D": "Statistical analysis",
+        "Answer": "B",
+        "Source": "This setup allows for high resolution 2D and 3D measurements to register small variations in surface topography."
+    },
+    "Question_2": {
+        "Context": "The study involved the analysis of bone surface roughness on the long bones of the grey heron and the Canada goose. The research aimed to correlate roughness values with ontogenetic age classes.",
+        "Question": "What ISO standards were followed for quantifying surface textures in the study?",
+        "A": "ISO 9001",
+        "B": "ISO 4287",
+        "C": "ISO 14001",
+        "D": "ISO 27001",
+        "Answer": "B",
+        "Source": "We performed roughness analyses by quantifying 2D and 3D surface topography following ISO 4287 and ISO 25178 standards, respectively."
+    },
+    "Question_3": {
+        "Context": "The study compared the bone surface roughness of the grey heron and the Canada goose, focusing on ontogenetic age classes. The research aimed to understand the relationship between bone surface textures and growth stages.",
+        "Question": "Which parameter corresponds to more pronounced valleys and peaks on a bone surface?",
+        "A": "Rp",
+        "B": "Ra",
+        "C": "Rv",
+        "D": "Rz",
+        "Answer": "A",
+        "Source": "A paired t-test (p < 0.05) shows that Rv values are greater than Rp values for Ardea cinerea specimens."
+    },
+    "Question_4": {
+        "Context": "The study explored the application of digital microscopy for quantifying bone surface roughness in the grey heron and the Canada goose. The research aimed to establish a correlation between roughness values and ontogenetic age classes.",
+        "Question": "Which bird species showed a higher average Ra value for the bone surface?",
+        "A": "Grey heron (Ardea cinerea)",
+        "B": "Canada goose (Branta canadensis)",
+        "C": "Both species had similar Ra values",
+        "D": "The study did not mention Ra values",
+        "Answer": "A",
+        "Source": "Chicks have the highest average Ra (11.5 \u00b5m) and adults the lowest (3.4 \u00b5m). Hatchlings and juveniles both have intermediate Ra values (5.4 and 8.8 \u00b5m, respectively)."
+    },
+    "Question_5": {
+        "Context": "The study conducted a pilot analysis on bone surface roughness using digital microscopy on the grey heron and the Canada goose. The research aimed to identify patterns in bone texture related to ontogenetic age classes.",
+        "Question": "What was the main focus of the study regarding bone surface roughness?",
+        "A": "Identifying taphonomic processes",
+        "B": "Quantifying ontogenetic age classes",
+        "C": "Comparing bone tool wear patterns",
+        "D": "Assessing bone weathering stages",
+        "Answer": "B",
+        "Source": "Our results show that bone texture quantification is a feasible approach to identifying ontogenetic age classes."
+    },
+    "Question_6": {
+        "Context": "The study utilized digital microscopy to quantify bone surface textures on the long bones of the grey heron and the Canada goose. The research aimed to establish a relationship between bone surface roughness and growth stages.",
+        "Question": "What was the primary goal of applying internationally verified roughness parameters?",
+        "A": "To conduct qualitative analyses",
+        "B": "To identify taphonomic processes",
+        "C": "To quantify bone surface textures for age assessment",
+        "D": "To compare bone tool wear patterns",
+        "Answer": "C",
+        "Source": "Using a standardised measuring protocol, computed roughness values show a strong correlation with qualitative descriptions of textural patterns."
+    },
+    "Question_7": {
+        "Context": "The study focused on quantifying bone surface roughness using digital microscopy on the long bones of the grey heron and the Canada goose. The research aimed to understand the relationship between bone texture and ontogenetic age classes.",
+        "Question": "Which parameter represents the arithmetical mean deviation of valleys and peaks in a measured surface profile?",
+        "A": "Rp",
+        "B": "Ra",
+        "C": "Rv",
+        "D": "Rz",
+        "Answer": "B",
+        "Source": "Ra and Sa values are calculated as the arithmetical mean deviation of valleys and peaks in a measured surface profile."
+    },
+    "Question_8": {
+        "Context": "The study explored the application of 3D surface digital microscopy to quantify bone surface textures on the long bones of the grey heron and the Canada goose. The research aimed to establish a correlation between roughness values and ontogenetic age classes.",
+        "Question": "Which bird species showed a significant difference between Rp and Rv values?",
+        "A": "Grey heron (Ardea cinerea)",
+        "B": "Canada goose (Branta canadensis)",
+        "C": "Both species showed similar Rp and Rv values",
+        "D": "The study did not mention Rp and Rv values",
+        "Answer": "A",
+        "Source": "It is reasonable to assume that the blood vessels opening at the bone surface of ontogenetically younger individuals results in deeper grooves creating higher Rv values."
+    },
+    "Question_9": {
+        "Context": "The study conducted a pilot analysis on bone surface roughness using digital microscopy on the long bones of the grey heron and the Canada goose. The research aimed to identify patterns in bone texture related to ontogenetic age classes.",
+        "Question": "What was the main benefit of using digital microscopy for quantifying bone surface textures?",
+        "A": "To identify taphonomic processes",
+        "B": "To quantify ontogenetic age classes accurately",
+        "C": "To compare bone tool wear patterns",
+        "D": "To assess bone weathering stages",
+        "Answer": "B",
+        "Source": "This pilot study shows the positive correlation between quantitative bone surface roughness measurements and ontogenetic stage."
+    },
+    "Question_10": {
+        "Context": "The study utilized digital microscopy to quantify bone surface textures on the long bones of the grey heron and the Canada goose. The research aimed to establish a relationship between bone surface roughness and growth stages.",
+        "Question": "What did the study recommend regarding the application of digital microscopy for bone surface analysis?",
+        "A": "Use different magnifications for the same taxon",
+        "B": "Standardize magnifications when examining the same taxon",
+        "C": "Avoid using digital microscopy for bone analysis",
+        "D": "Use different measuring strategies for different taxa",
+        "Answer": "B",
+        "Source": "Thus, our results strongly support a recommendation to use standardised magnifications when examining the same taxon, and care should be taken when comparing multiple taxa."
+    }
+}

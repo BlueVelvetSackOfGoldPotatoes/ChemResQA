@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Ablation zone morphology can be influenced by factors such as vessel radii and saline flow rates, affecting the size of the ablated area.",
+        "Question": "How does an increase in saline flow rate affect the ablated area in vessels with a smaller radius?",
+        "A": "The ablated area increases as the flow rate increases",
+        "B": "The ablated area remains constant regardless of flow rate changes",
+        "C": "The ablated area decreases as the flow rate increases",
+        "D": "The flow rate has no impact on the ablated area",
+        "Answer": "C",
+        "Source": "With the same energy input, the ablated area decreased, as the flow rate increased, for vessels with smaller radius (0.275 mm)."
+    },
+    "Question_2": {
+        "Context": "Temperature-based feedback algorithms can adjust energy input in response to changes in flow rates and vessel radii during radiofrequency ablation (RFA).",
+        "Question": "What is the effect of a temperature-based feedback algorithm on energy input when high flow rates and larger vessel radii are detected?",
+        "A": "It decreases energy input on the RF needle",
+        "B": "It does not affect energy input on the RF needle",
+        "C": "It increases energy input on the RF needle",
+        "D": "It alternates energy input between high and low on the RF needle",
+        "Answer": "C",
+        "Source": "However, when a temperature-based feedback algorithm was implemented that responded to changes in flow rates (high) and vessel radii (0.9 and 2.3 mm), it caused a closed-loop increased energy input on the RF needle."
+    },
+    "Question_3": {
+        "Context": "The presence of a convective heat loss effect, known as the 'heat sink' effect, can influence the morphology of ablated areas during thermal ablation procedures.",
+        "Question": "What is observed about the ablated areas when there is no flow rate, hence no 'heat sink' effect?",
+        "A": "Ablated areas are smaller and asymmetrical",
+        "B": "Ablated areas are larger and symmetrical",
+        "C": "Ablated areas are irregular with varying sizes",
+        "D": "There is no ablated area formed",
+        "Answer": "B",
+        "Source": "As expected, relatively larger and symmetrical ablated areas with respect to the needle were observed for reference vessels with no flow rate, because there was no convective heat loss due to 'heat sink' effect."
+    },
+    "Question_4": {
+        "Context": "Thermochromic dye can be used in conjunction with ultrasound transducers to optimize radiofrequency ablation (RFA) procedures.",
+        "Question": "What is the role of thermochromic dye in ultrasound-guided RFA procedures?",
+        "A": "To prevent the RF needle from overheating",
+        "B": "To test the accuracy of nodule volume estimation and needle placement",
+        "C": "To enhance the ultrasound signal for better imaging",
+        "D": "To reduce the procedure time by cooling the ablated volume",
+        "Answer": "B",
+        "Source": "In this application ultrasound (US) compatible thyroid nodule phantoms containing thermochromic dye were used to test the accuracy of 3D matrix US transducer guidance in optimizing accurate RF needle placement and to estimate ablated volume."
+    },
+    "Question_5": {
+        "Context": "Thermochromic microspheres can be used to create myocardial phantoms for optimizing myocardial ablation procedures.",
+        "Question": "What was demonstrated by using myocardial phantoms made from a polyester sheet coated with thermochromic microspheres?",
+        "A": "The inability of thermochromic microspheres to withstand high temperatures",
+        "B": "The similarity between predicted lesion dimensions and actual myocardial tissue lesions",
+        "C": "The difference between predicted lesion dimensions and actual myocardial tissue lesions",
+        "D": "The reduction of energy input required for myocardial ablation",
+        "Answer": "B",
+        "Source": "This study demonstrated similarity between the predicted lesion dimensions from TMTCP with in vitro bovine myocardial tissue and in vivo bovine myocardial lesions post necropsy; thereby validating the use of 3D-thermochromic liquid crystals to characterize RF electrodes."
+    },
+    "Question_6": {
+        "Context": "Renal denervation with radiofrequency ablation (RFA) is a treatment for drug-resistant hypertension, and thermochromic liquid crystals (TLCs) can be used to assess the resulting lesion dimensions.",
+        "Question": "What is the benefit of using TLCs in a renal artery phantom model for renal denervation?",
+        "A": "To increase the flow rate of saline during the procedure",
+        "B": "To compare lesion sizes between different multielectrode systems",
+        "C": "To enhance the electrical conductivity of the RFA catheters",
+        "D": "To prevent the formation of lesions during the procedure",
+        "Answer": "B",
+        "Source": "To assess denervation thermal therapies, TLCs were utilized in a renal artery phantom model to compare lesion size (depth and width) that resulted from multielectrode renal denervation systems."
+    },
+    "Question_7": {
+        "Context": "The presence of metallic implants near an RF ablation region can affect the thermal profile of the surrounding tissue.",
+        "Question": "What effect does the presence of metallic implants have on the temperature of adjacent tissue during RF ablation?",
+        "A": "It causes cooling of the tissue below normal body temperature",
+        "B": "It has no significant effect on the temperature of the tissue",
+        "C": "It results in amplified current density and heating above 45 \u00b0C",
+        "D": "It leads to a decrease in current density and reduced heating",
+        "Answer": "C",
+        "Source": "Accordingly, they observed amplified current density around the implanted metal and the ablation catheter, which resulted in heating of phantom or tissue above 45 \u00b0C around the implanted metals."
+    },
+    "Question_8": {
+        "Context": "Insulating metallic implants during RF ablation can have an impact on the safety and efficacy of the procedure.",
+        "Question": "What is the purpose of insulating metallic implants near ablation devices?",
+        "A": "To increase the temperature of the ablation zone",
+        "B": "To prevent collateral heating of healthy tissue",
+        "C": "To amplify the current density around the implant",
+        "D": "To enhance the electrical conductivity of the ablation device",
+        "Answer": "B",
+        "Source": "In contrast, insulating the metal implant near to the ablation devices prevented collateral heating of healthy tissue (and color change on the phantom)."
+    },
+    "Question_9": {
+        "Context": "Catheter movement during RF ablation can affect the consistency of lesion dimensions and the risk of tissue perforation.",
+        "Question": "How does a gated pulsed RF catheter compare to conventional RF catheters in terms of lesion depth and ablation speed?",
+        "A": "It delivers shallower lesions and a slower ablation",
+        "B": "It delivers consistently deeper lesions and a faster ablation",
+        "C": "It has no impact on lesion depth or ablation speed",
+        "D": "It increases the risk of inconsistent lesion dimensions and perforation",
+        "Answer": "B",
+        "Source": "This study illustrates the use of thermochromic phantoms in characterizing new RF technologies prior to their use in vivo testing or in clinic."
+    },
+    "Question_10": {
+        "Context": "The development of thermochromic tissue-mimicking phantoms (TMTCPs) with adjustable electrical impedance can reflect different tissue types for radiofrequency ablation (RFA).",
+        "Question": "What is a major drawback of using low-melting agar in the formulation of TMTCPs for RFA?",
+        "A": "The phantoms are too stable and do not reflect the ablation temperature accurately",
+        "B": "The phantoms melt when reaching high temperatures greater than the melting point of the agar",
+        "C": "The high boiling agar causes premature color change to the incorporated ink",
+        "D": "The electrical impedance of the phantom cannot be adjusted",
+        "Answer": "B",
+        "Source": "If low-melting agar is used the phantoms are less stable to the ablation temperature of the needle, and potentially melt when they reach high temperatures greater than the melting point of the low-temperature agar."
+    }
+}

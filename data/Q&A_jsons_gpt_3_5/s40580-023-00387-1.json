@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the concept of lattice transparency in remote epitaxy.",
+        "Question": "What is the fundamental principle of remote epitaxy discussed in the paper?",
+        "A": "Lattice transparency",
+        "B": "Surface dangling bonds",
+        "C": "Chemical bonding",
+        "D": "Ionic bonds",
+        "Answer": "A",
+        "Source": "The underlying principles of remote epitaxy have been expanded from the simple and clear explanation of 'lattice transparency' to the incorporation of various ideas to explore opportunities for heterogeneous integration."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the role of 2D materials in nucleation of 3D materials.",
+        "Question": "What mechanism facilitates the nucleation of 3D materials on 2D materials?",
+        "A": "Surface dangling bonds",
+        "B": "Out-of-plane dipole moment",
+        "C": "Chemical bonding",
+        "D": "Ionic bonds",
+        "Answer": "B",
+        "Source": "The underlying mechanism involves the induced out-of-plane dipole moment in the graphene/h-BN stack."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the concept of polarity in the context of remote epitaxy.",
+        "Question": "What factor governs available material combinations for remote epitaxy?",
+        "A": "Surface dangling bonds",
+        "B": "Out-of-plane dipole moment",
+        "C": "Polarity",
+        "D": "Ionic bonds",
+        "Answer": "C",
+        "Source": "DFT calculations can predict the number of graphene layers or other 2D materials that can be inserted to achieve a single-crystalline epilayer."
+    },
+    "Question_4": {
+        "Context": "The paper mentions the visualization of atom structures in the context of remote epitaxy.",
+        "Question": "What technique is suggested for probing the atom arrangement of a 3D material on or beneath a 2D material?",
+        "A": "STM",
+        "B": "EBSD mapping",
+        "C": "In situ/in operando characterization",
+        "D": "Multi-scale modeling",
+        "Answer": "C",
+        "Source": "An in situ/in operando characterization technique to probe the atom arrangement of a 3D material on or beneath a 2D material will be a key method for understanding remote epitaxy in detail."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the expansion of remote epitaxy to novel devices.",
+        "Question": "What is a key application of remote epitaxy besides economical manufacturing?",
+        "A": "Materials design",
+        "B": "Device fabrication",
+        "C": "Heterogeneous integration",
+        "D": "Basic science research",
+        "Answer": "A",
+        "Source": "Materials design to realize novel and unprecedented functionalities is being entered into the realm of remote epitaxy research as the available materials grown by remote epitaxy have been expanded."
+    },
+    "Question_6": {
+        "Context": "The paper explores the role of vdW gaps in remote epitaxy.",
+        "Question": "What characteristic enables remote epitaxy to occur across vdW gaps?",
+        "A": "Strong covalent bonds",
+        "B": "Metallic bonding",
+        "C": "Lattice transparency",
+        "D": "Ionic interactions",
+        "Answer": "C",
+        "Source": "The postulation of 'lattice transparency' alone is insufficient to develop a model for remote epitaxy because an ideal 2D material has no surface dangling bonds and steps that facilitate the nucleation of a 3D material of overlayer."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the impact of out-of-plane dipole moments in remote epitaxy.",
+        "Question": "What role does the out-of-plane dipole moment play in facilitating nucleation of 3D materials on 2D layers?",
+        "A": "Enhances surface roughness",
+        "B": "Increases surface energy",
+        "C": "Reduces charge transfer",
+        "D": "Promotes ionic bonding",
+        "Answer": "B",
+        "Source": "The underlying mechanism involves the induced out-of-plane dipole moment in the graphene/h-BN stack."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the importance of multi-scale modeling in understanding remote epitaxy.",
+        "Question": "What type of modeling is deemed necessary to obtain a fundamental understanding of remote epitaxy?",
+        "A": "Quantum mechanics only",
+        "B": "Mesoscale modeling only",
+        "C": "Multi-scale modeling",
+        "D": "Classical mechanics",
+        "Answer": "C",
+        "Source": "Modeling at multi-scales encompassing atom scale and mesoscale is also necessary to obtain a fundamental understanding of remote epitaxy."
+    },
+    "Question_9": {
+        "Context": "The paper mentions the significance of materials design in remote epitaxy.",
+        "Question": "What aspect of materials design is highlighted as a key factor in realizing novel functionalities?",
+        "A": "Surface roughness",
+        "B": "Heterogeneous integration",
+        "C": "Materials compatibility",
+        "D": "Realizing unprecedented functionalities",
+        "Answer": "D",
+        "Source": "Materials design to realize novel and unprecedented functionalities is being entered into the realm of remote epitaxy research as the available materials grown by remote epitaxy have been expanded."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the challenges in visualizing the penetration of potential through 2D layers in remote epitaxy.",
+        "Question": "What technique is suggested as a key method for understanding remote epitaxy in detail?",
+        "A": "STM",
+        "B": "EBSD mapping",
+        "C": "In situ/in operando characterization",
+        "D": "Multi-scale modeling",
+        "Answer": "C",
+        "Source": "An in situ/in operando characterization technique to probe the atom arrangement of a 3D material on or beneath a 2D material will be a key method for understanding remote epitaxy in detail."
+    }
+}

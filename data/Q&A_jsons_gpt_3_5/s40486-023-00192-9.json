@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the importance of droplet mixing without a top cover plate for bio-chemical analysis. It proposes a method to improve droplet mixing by integrating an acoustically oscillating bubble to an EWOD chip. ",
+        "Question": "What is the proposed integration to improve droplet mixing in the digital microfluidic platform?",
+        "A": "Integration of a top cover plate",
+        "B": "Integration of a magnetic field",
+        "C": "Integration of an acoustically oscillating bubble",
+        "D": "Integration of a heating element",
+        "Answer": "C",
+        "Source": "we propose the integration of an acoustically oscillating bubble to an electrowetting-on-dielectric (EWOD) chip, which can generate microstreaming inside the droplet."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the need for a low-cost fabrication technique for EWOD actuators and efficient mixing capability of droplets in the DMF platform.",
+        "Question": "What is a key requirement for expanding the usefulness of the DMF platform for biological applications?",
+        "A": "High-cost fabrication technique",
+        "B": "Low-cost fabrication technique",
+        "C": "Limited mixing capability",
+        "D": "Inefficient transportation of droplets",
+        "Answer": "B",
+        "Source": "To expand the usefulness of the DMF platform for biological applications, as many samples as possible should be processed in a limited amount of cost and time."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the challenges of controlling biochemi- cal droplets due to issues such as biofouling, cross-contamination, and dielectric breakdown.",
+        "Question": "What are some challenges mentioned in controlling biochemical droplets?",
+        "A": "High cost and limited space",
+        "B": "Biofouling, cross-contamination, and dielectric breakdown",
+        "C": "Lack of electrodes and wiring",
+        "D": "Inefficient mixing capability",
+        "Answer": "B",
+        "Source": "the high cost of microfabrication acts as a major barrier limiting user access to the device in terms of research and commercialization. The cost issue becomes more pronounced when controlling biochemical droplets leads to issues such as biofouling, cross-contamination, dielectric breakdown."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the use of printed circuit boards (PCB) as a better option to reduce the fabrication cost of microscale electrode patterns.",
+        "Question": "Why are printed circuit boards considered a better option for reducing fabrication costs?",
+        "A": "To increase the fabrication cost",
+        "B": "To decrease the number of electrodes",
+        "C": "To reduce the fabrication cost of microscale electrode patterns",
+        "D": "To complicate the manufacturing process",
+        "Answer": "C",
+        "Source": "printed circuit board (PCB) can be a better option to reduce the fabrication cost of microscale electrode patterns."
+    },
+    "Question_5": {
+        "Context": "The paper highlights the importance of droplet mixing in the analysis of biochemical samples due to the slow mixing of highly viscous droplets.",
+        "Question": "Why is droplet mixing crucial in the analysis of biochemical samples?",
+        "A": "To increase the processing time",
+        "B": "To decrease the total processing time",
+        "C": "To reduce the need for mixing",
+        "D": "To speed up the transportation process",
+        "Answer": "B",
+        "Source": "the mixing step accounts for the largest portion of the total processing time. However, at the microscale, the Reynolds number is low, and viscous forces dominate."
+    },
+    "Question_6": {
+        "Context": "The paper discusses different methods used to facilitate the internal flow of droplets for improved mixing.",
+        "Question": "Which method has been experimentally proven to enhance the mixing efficiency of droplets?",
+        "A": "Sequential EWOD actuation",
+        "B": "AC-EWOD actuation",
+        "C": "Acoustic excitation",
+        "D": "Surface acoustic waves",
+        "Answer": "C",
+        "Source": "some research groups have utilized droplet transportation using sequential EWOD actuation, droplet oscillation using AC-EWOD actuation, droplet oscillation using acoustic excitation, and surface acoustic waves to facilitate the internal flow of droplets."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the development of a PCB-based DMF platform for droplet manipulation.",
+        "Question": "What is a key advantage of using through-holes in a PCB-based DMF platform?",
+        "A": "To limit the number of electrodes",
+        "B": "To reduce the efficiency of droplet mixing",
+        "C": "To provide electrical connections between electrode layers",
+        "D": "To complicate the wiring process",
+        "Answer": "C",
+        "Source": "with through-holes that provide electrical connections between the top, bottom, and inner electrode layers of the PCB, more electrodes can be densely arranged in a certain space."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the experimental verification of droplet transportation and mixing capabilities on the proposed DMF platform.",
+        "Question": "What was observed when applying acoustic excitation to the bubble in the droplet on the EWOD chip B?",
+        "A": "No particle movement inside the droplet",
+        "B": "Increased droplet velocity",
+        "C": "Improved droplet transportation",
+        "D": "Enhanced droplet mixing",
+        "Answer": "D",
+        "Source": "When an acoustic excitation of 3.529 kHz was applied to the bubble, the bubble oscillated and microstreaming occurred inside the droplet, as shown in Fig. 12b2. The red arrows indicate the movement path of the fluorescent particles due to the microstreaming."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the experimental results of droplet contact angle measurements on different dielectric layers.",
+        "Question": "What was the maximum contact angle change observed on the EWOD chip B?",
+        "A": "55\u00b0",
+        "B": "65\u00b0",
+        "C": "45\u00b0",
+        "D": "75\u00b0",
+        "Answer": "B",
+        "Source": "Within the voltage range of 0\u2013350 Vdc, we found the maximum value of contact angle change was about 55\u00b0 for the chip A and 65\u00b0 for the chip B."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the experimental results of droplet velocity measurements on different dielectric layers.",
+        "Question": "At what voltage did the droplets start to move onto the electrodes on the EWOD chip A?",
+        "A": "100 Vdc",
+        "B": "200 Vdc",
+        "C": "300 Vdc",
+        "D": "400 Vdc",
+        "Answer": "A",
+        "Source": "on the EWOD chip A, the droplets start to move onto the electrodes when a voltage higher than 100 Vdc is applied."
+    }
+}

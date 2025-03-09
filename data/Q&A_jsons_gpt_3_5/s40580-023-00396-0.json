@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the interaction between 2D-materials and substrates during epitaxial growth.",
+        "Question": "What compound should be used instead of 'h-BN' according to the correction in the text?",
+        "A": "Graphene",
+        "B": "Boron nitride",
+        "C": "Thin amorphous carbon (TAC)",
+        "D": "GaN",
+        "Answer": "Boron nitride",
+        "Source": "In Sect. 4.3, 'h-BN' should be changed to 'BN (Boron nitride).'"
+    },
+    "Question_2": {
+        "Context": "The paper mentions the growth of GaN on BN/GaN.",
+        "Question": "What type of image shows the as-grown and exfoliated GaN?",
+        "A": "Cross-sectional TEM image",
+        "B": "Plan-view SEM image",
+        "C": "EBSD map",
+        "D": "False-color image",
+        "Answer": "False-color image",
+        "Source": "False-color cross-sectional, Plan-view SEM and EBSD map of as-grown and after exfoliated GaN."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the epitaxial growth of GaAs on TAC/AlGaAs/GaAs.",
+        "Question": "Which material is used as a substrate for the epitaxial growth of GaAs?",
+        "A": "TAC",
+        "B": "AlGaAs",
+        "C": "GaN",
+        "D": "GaN on BN/GaN",
+        "Answer": "TAC",
+        "Source": "Cross-sectional STEM image of remote epitaxially grown GaAs on TAC/AlGaAs/GaAs."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the production process of membranes via in situ growth.",
+        "Question": "What does the schematic illustration show in the membrane production process?",
+        "A": "Cross-sectional view",
+        "B": "Plan-view",
+        "C": "TEM image",
+        "D": "EBSD map",
+        "Answer": "Cross-sectional view",
+        "Source": "The schematic illustration of membrane production process via in situ growth."
+    },
+    "Question_5": {
+        "Context": "The paper mentions the authors' contributions to the work.",
+        "Question": "Who contributed equally to the work according to the text?",
+        "A": "Sangwoo Park",
+        "B": "Jeong-Hwan Park",
+        "C": "Hyunsoo Kim",
+        "D": "Seokgi Kim",
+        "Answer": "Jongho Ji, Hoe-Min Kwak, and Jimyeong Yu",
+        "Source": "Jongho Ji, Hoe-Min Kwak, and Jimyeong Yu contributed equally to this work."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the Creative Commons license under which it is published.",
+        "Question": "Under what license is the article published?",
+        "A": "Creative Commons Attribution 4.0 International License",
+        "B": "GNU General Public License",
+        "C": "MIT License",
+        "D": "Apache License 2.0",
+        "Answer": "Creative Commons Attribution 4.0 International License",
+        "Source": "This article is licensed under a Creative Commons Attribution 4.0 International License."
+    },
+    "Question_7": {
+        "Context": "The paper mentions the institutions affiliated with the authors.",
+        "Question": "Which institution is affiliated with Sungkyu Kim?",
+        "A": "Yonsei University",
+        "B": "Gwangju Institute of Science and Technology",
+        "C": "Sejong University",
+        "D": "Nagoya University",
+        "Answer": "Sejong University",
+        "Source": "Department of Nanotechnology and Advanced Materials Engineering, Sejong University, Seoul, South Korea."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the correction made to the original article.",
+        "Question": "What compound name should be changed to 'thin amorphous carbon (TAC)'?",
+        "A": "Graphene",
+        "B": "Boron nitride",
+        "C": "GaN",
+        "D": "AlGaAs",
+        "Answer": "Graphene",
+        "Source": "In caption of Fig. 3, the compound name 'graphene' should be changed to 'thin amorphous carbon (TAC).'"
+    },
+    "Question_9": {
+        "Context": "The paper discusses the remote epitaxial growth of materials.",
+        "Question": "What is the process called when materials are grown remotely?",
+        "A": "In-situ growth",
+        "B": "Ex-situ growth",
+        "C": "Epitaxial growth",
+        "D": "Remote growth",
+        "Answer": "Remote growth",
+        "Source": "Understanding the 2D-material and substrate interaction during epitaxial growth towards successful remote epitaxy."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the reproduction of figures from a reference.",
+        "Question": "From where was the figure reproduced in the paper?",
+        "A": "Springer Nature Ltd",
+        "B": "Elsevier",
+        "C": "Wiley",
+        "D": "ACS Publications",
+        "Answer": "Springer Nature Ltd",
+        "Source": "Figure reproduced from ref. [173], Springer Nature Ltd."
+    }
+}

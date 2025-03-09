@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Experimental verification of a novel simplified approach for laser surface hardening modeling.",
+        "Question": "What technique was used to measure nano-hardness in the experimental verification of the simplified laser surface hardening modeling approach?",
+        "A": "Scanning electron microscopy",
+        "B": "Transmission electron microscopy",
+        "C": "Atomic force microscopy",
+        "D": "X-ray diffraction",
+        "Answer": "C",
+        "Source": "...through nano-hardness measurements on C45 carbon steel samples both laser and oven treated by means of atomic force microscopy (AFM) technique."
+    },
+    "Question_2": {
+        "Context": "Comparison between laser hardening and oven process.",
+        "Question": "What is a key difference between laser hardening and the oven process?",
+        "A": "Laser hardening requires a quenching medium, while the oven process does not.",
+        "B": "The process speed is slower in laser hardening compared to the oven process.",
+        "C": "Laser hardening involves low heating and cooling rates.",
+        "D": "Solid phase transformations occur similarly in both processes.",
+        "Answer": "A",
+        "Source": "Laser hardening is a surface process with some peculiar characteristics such as that it does not require a quenching medium..."
+    },
+    "Question_3": {
+        "Context": "Challenges in laser transformation hardening.",
+        "Question": "What are the two basic aspects determining the most important challenges in the development of laser transformation hardening?",
+        "A": "Control of the chemical composition and material density",
+        "B": "Determination of the workpiece dimensions and weight",
+        "C": "Control of the thermal field and optimization of the laser scanning strategy",
+        "D": "Selection of the laser power and beam spot size",
+        "Answer": "C",
+        "Source": "The effective applicability of laser transformation hardening depends on two basic aspects that determine the most important challenges in the development of this manufacturing technology: an accurate determination and control of the thermal field occurring onto the workpiece and the optimization of the laser scanning strategy..."
+    },
+    "Question_4": {
+        "Context": "Simulation models for laser hardening.",
+        "Question": "What is a key consideration in the simulation of laser hardening process?",
+        "A": "Predicting the carbon diffusion during the cooling phase",
+        "B": "Modeling the microstructure prediction during the heating phase",
+        "C": "Neglecting the thermal field evaluation",
+        "D": "Focusing on the quenching medium used",
+        "Answer": "B",
+        "Source": "Theoretically, the process simulation requires the prediction of the thermal field in the target part, of the austenite formation, carbon diffusion and austenite homogenization and, finally, the microstructure prediction during the cooling."
+    },
+    "Question_5": {
+        "Context": "Carbon diffusivity measurements.",
+        "Question": "What method was used to estimate the carbon diffusivity in austenite during gas carburizing?",
+        "A": "Steady-state method",
+        "B": "Dynamic light scattering",
+        "C": "X-ray crystallography",
+        "D": "Nuclear magnetic resonance spectroscopy",
+        "Answer": "A",
+        "Source": "In (Karabelchtchikova and Sisson Jr 2006), an estimation of the carbon diffusivity in austenite during gas carburizing is obtained by fitting a numerical model of the carbon diffusivity with the surface carbon content at different process parameters. The author used the steady-state method..."
+    },
+    "Question_6": {
+        "Context": "Carbon diffusivity models.",
+        "Question": "What factors influence the carbon diffusivity according to the best equation obtained from the whole dataset?",
+        "A": "Only the temperature",
+        "B": "Only the carbon content",
+        "C": "Both the carbon content and temperature",
+        "D": "The alloying elements",
+        "Answer": "C",
+        "Source": "As expected, the models that generate the best numerical-experimental agreement were those including the influence on the diffusivity of the carbon content, the temperature and the alloying elements both on the diffusivity coefficient D and on the activation energy Q."
+    },
+    "Question_7": {
+        "Context": "Carbon diffusivity measurements.",
+        "Question": "What was the range of carbon diffusivity estimated in cm2/s at 880 \u00b0C and 980 \u00b0C?",
+        "A": "0.146\u20130.036 at 880 \u00b0C and 144.3\u201315.0 at 980 \u00b0C",
+        "B": "1.68\u00b710^-7 at 880 \u00b0C and 5.06\u00b710^-8 at 980 \u00b0C",
+        "C": "0.146\u20130.036 at 880 \u00b0C and 0.37 at 980 \u00b0C",
+        "D": "1.68\u00b710^-7 at 880 \u00b0C and 144.3\u201315.0 at 980 \u00b0C",
+        "Answer": "B",
+        "Source": "With this approach, the diffusivity appears to range between 1.68\u00b710^-7 cm2/s at 880 \u00b0C and 5.06\u00b710^-8 cm2/s at 980 \u00b0C."
+    },
+    "Question_8": {
+        "Context": "Carbon diffusivity measurements.",
+        "Question": "What was the method used to measure carbon diffusivity at high temperature in ferrous alloys in (Tibbetts 1980)?",
+        "A": "Dynamic light scattering",
+        "B": "Steady-state method",
+        "C": "X-ray crystallography",
+        "D": "Nuclear magnetic resonance spectroscopy",
+        "Answer": "B",
+        "Source": "In (Tibbetts 1980), different tests of plasma carburizing were performed in order to measure carbon diffusivity at high temperature for ferrous alloys. The author used the steady-state method..."
+    },
+    "Question_9": {
+        "Context": "Carbon diffusivity measurements.",
+        "Question": "What was the method used for the first historical measurements on carbon diffusivity at high temperature in (Weels and Mehl 1940; Weels et al. 1950)?",
+        "A": "Dynamic light scattering",
+        "B": "Steady-state method",
+        "C": "X-ray crystallography",
+        "D": "Nuclear magnetic resonance spectroscopy",
+        "Answer": "B",
+        "Source": "First historical measurements on carbon diffusivity at high temperature were done in (Weels and Mehl 1940; Weels et al. 1950), in which several tests by coupling steel disks with different carbon concentration and annealing at temperature between 750 and 1305 \u00b0C were executed."
+    },
+    "Question_10": {
+        "Context": "Carbon diffusivity models.",
+        "Question": "What is the equation for the carbon diffusivity in cm2/s as applied to C45 with a carbon content of 0.45% in (Lee et al. 2011)?",
+        "A": "D(T, C) = 0.146 - 0.036C exp(-144.3 - 15.0C + 0.37C^2)",
+        "B": "D(T, C) = 0.146 - 0.036C exp(-144.3 - 15.0C)",
+        "C": "D(T, C) = 0.146 - 0.036C exp(-144.3 - 15.0C) + 0.37C^2",
+        "D": "D(T, C) = 0.146 - 0.036C exp(-144.3 - 15.0C) - 0.37C^2",
+        "Answer": "A",
+        "Source": "The best equation obtained from the whole dataset is reported in Eq. (4): D(T, C) = 0.146 - 0.036C exp(-144.3 - 15.0C + 0.37C^2)."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the synthesis and characterization of new heterometallic gold metallacages. The compounds were characterized using various techniques.",
+        "Question": "What method was used to determine the elemental composition of the synthesized compounds?",
+        "A": "1H NMR",
+        "B": "IR spectroscopy",
+        "C": "EA",
+        "D": "ESI-MS",
+        "Answer": "C",
+        "Source": "Elemental analyses of carbon, hydrogen, nitrogen, and sulfur were determined using a Heraeus vario EL elemental analyzer."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the cytotoxicity of the synthesized metallacages on different cancer cell lines.",
+        "Question": "Which compound showed the highest cytotoxicity against the PC-3 prostate cancer cell line?",
+        "A": "[Ga{Au(Ldiethyl)}2]NO3",
+        "B": "[Ga{Au(Lmorph)}2]NO3",
+        "C": "[Lu{Au(Ldiethyl)}3]",
+        "D": "[Lu{Au(Lmorph)}3]",
+        "Answer": "C",
+        "Source": "The IC50 values [\u00b5M] for the selected metallacages and their uncoordinated ligands were determined. [Lu{Au(Ldiethyl)}3] showed the lowest IC50 value of 2.3 \u00b1 1.9 \u00b5M on the PC-3 cell line."
+    },
+    "Question_3": {
+        "Context": "The paper describes the radiolabeling experiments with 68Ga for the synthesized compounds.",
+        "Question": "What was the radiochemical purity of [68Ga][Ga{Au(Ldiethyl)}2]+ after radiolabeling?",
+        "A": "65%",
+        "B": "82%",
+        "C": "86%",
+        "D": "71%",
+        "Answer": "B",
+        "Source": "The radiochemical purity of [68Ga][Ga{Au(Ldiethyl)}2]+ was 82% as measured by radio-HPLC."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the stability of the radiolabeled complexes in human serum.",
+        "Question": "What was the stability assessment outcome for [68Ga][Ga{Au(Lmorph)}2]+ with human serum albumin?",
+        "A": "Stable",
+        "B": "Unstable",
+        "C": "Partially stable",
+        "D": "No information provided",
+        "Answer": "B",
+        "Source": "The complexes [68Ga][Ga{Au(Lmorph)}2]+ and [68Ga][Ga{Au(Ldiethyl)}2]+ were not stable under the tested conditions, with approximately 80% of free 68Ga appearing in the iTLC-chromatogram with citrate buffer as the mobile phase."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the radiolabeling experiments with 198Au for the synthesized compounds.",
+        "Question": "What was the radiochemical purity of [198Au][Ga{Au(Ldiethyl)}2]+ after radiolabeling?",
+        "A": "71%",
+        "B": "86%",
+        "C": "28%",
+        "D": "150 MBq/nmol",
+        "Answer": "A",
+        "Source": "The complex [198Au][Ga{Au(Ldiethyl)}2]+ was received in a total of 71.2% radiochemical purity."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the synthesis and characterization of new heterometallic gold metallacages.",
+        "Question": "What technique was used to determine the crystal structures of the synthesized complexes?",
+        "A": "1H NMR",
+        "B": "IR spectroscopy",
+        "C": "ESI-MS",
+        "D": "X-ray diffraction",
+        "Answer": "D",
+        "Source": "The crystal structures of the complexes were determined by single-crystal X-ray diffraction."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the cytotoxicity of the synthesized metallacages on different cancer cell lines.",
+        "Question": "Which compound showed the highest cytotoxicity against the U343 human glioblastoma cell line?",
+        "A": "[Ga{Au(Ldiethyl)}2]NO3",
+        "B": "[Ga{Au(Lmorph)}2]NO3",
+        "C": "[Lu{Au(Ldiethyl)}3]",
+        "D": "[Lu{Au(Lmorph)}3]",
+        "Answer": "C",
+        "Source": "The IC50 values [\u00b5M] for the selected metallacages and their uncoordinated ligands were determined. [Lu{Au(Ldiethyl)}3] showed the lowest IC50 value of 0.8 \u00b1 0.6 \u00b5M on the U343 cell line."
+    },
+    "Question_8": {
+        "Context": "The paper describes the radiolabeling experiments with 177Lu for the synthesized compounds.",
+        "Question": "What was the radiochemical purity of [177Lu][Lu{Au(Ldiethyl)}3] after radiolabeling?",
+        "A": "17%",
+        "B": "24%",
+        "C": "71%",
+        "D": "150 MBq/nmol",
+        "Answer": "B",
+        "Source": "The radio-chromatogram of [177Lu][Lu{Au(Ldiethyl)}3] showed a peak at tR = 18.2 min, representing the complex in 17% radiochemical purity."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the stability of the radiolabeled complexes in human serum.",
+        "Question": "What was the stability assessment outcome for [177Lu][Lu{Au(Lmorph)}3] with human serum albumin?",
+        "A": "Stable",
+        "B": "Unstable",
+        "C": "Partially stable",
+        "D": "No information provided",
+        "Answer": "B",
+        "Source": "The complex [177Lu][Lu{Au(Lmorph)}3] was not stable under the tested conditions, with free 177Lu appearing in the iTLC-chromatogram."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the synthesis and characterization of new heterometallic gold metallacages.",
+        "Question": "What technique was used to determine the mass spectra of the synthesized compounds?",
+        "A": "1H NMR",
+        "B": "IR spectroscopy",
+        "C": "EA",
+        "D": "ESI-MS",
+        "Answer": "D",
+        "Source": "The mass spectra were measured with an Agilent 6210 ESI-TOF spectrometer."
+    }
+}

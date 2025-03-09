@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the process of analyzing trace elements using spectroscopic methods, the presence of certain matrix elements can cause spectral interference, which can lead to inaccurate results.",
+        "Question": "Which element is known to cause severe spectral interference during the analysis of trace elements using inductively coupled plasma optical emission spectrometer (ICP-OES)?",
+        "A": "Copper (Cu)",
+        "B": "Iron (Fe)",
+        "C": "Zinc (Zn)",
+        "D": "Lead (Pb)",
+        "Answer": "B",
+        "Source": "Iron (Fe) causes severe spectral interference during the analysis of trace elements using inductively coupled plasma optical emis- sion spectrometer (ICP-OES) and U by light-emitting diode (LED)-based fluorimeter (LEDF). The spectral interferences of Fe on trace elements are studied and documented."
+    },
+    "Question_2": {
+        "Context": "In solvent extraction processes, certain solvents are preferred for their ability to effectively remove interfering elements from solutions containing trace elements.",
+        "Question": "Which solvent is described as effective for the removal of iron from industrially processed hydrochloric acid solutions?",
+        "A": "Diethyl ether",
+        "B": "Ethanol",
+        "C": "Methyl isobutyl ketone (MIBK)",
+        "D": "Acetone",
+        "Answer": "C",
+        "Source": "Sequential solvent extractions using methyl isobutyl ketone (MIBK) effectively removed the highly interfering Fe from these processed acid solutions, thereby enabling accurate and sensitive determination of Cd, Zn, Pb, Co, Ni, Cr, V, Cu, Sr, Zr, Ti, REEs including radioactive elements like U and Th."
+    },
+    "Question_3": {
+        "Context": "The process of leaching involves the use of solvents to extract metals from ores, which can result in solutions containing various elements, including toxic and radioactive ones.",
+        "Question": "Which acid is primarily used as a solvent for the extraction of metals from ores such as ilmenite and bauxite?",
+        "A": "Sulfuric acid (H2SO4)",
+        "B": "Hydrochloric acid (HCl)",
+        "C": "Nitric acid (HNO3)",
+        "D": "Acetic acid (CH3COOH)",
+        "Answer": "B",
+        "Source": "Hydrochloric acid (HCl) is a strong inorganic acid with a large number of industrial applications. It is mainly used as a solvent for the extraction of metals from its ores like ilmenite, bauxite, etc."
+    },
+    "Question_4": {
+        "Context": "During the analysis of trace elements, the presence of high concentrations of certain elements can lead to matrix interference, which affects the transport efficiency of the nebulizer in ICP-OES.",
+        "Question": "What is the effect of high iron content on the analysis of trace elements using ICP-OES?",
+        "A": "It enhances the accuracy of the analysis",
+        "B": "It has no significant effect on the analysis",
+        "C": "It reduces the transport efficiency of the nebulizer due to high viscosity",
+        "D": "It increases the emission intensity of trace elements",
+        "Answer": "C",
+        "Source": "The matrix interference causes reduction in the transport efficiency of the nebulizer due to the high viscosity of the solution having high Fe content and also acidity."
+    },
+    "Question_5": {
+        "Context": "In the context of solvent extraction, the formation of chloridometallates in aqueous solution is a factor that influences the extraction of metal ions into organic solvents.",
+        "Question": "Which species is likely responsible for the extraction of Fe(III) into methyl isobutyl ketone (MIBK) in chloride medium?",
+        "A": "FeCl3",
+        "B": "Fe(OH)3",
+        "C": "HFeCl4",
+        "D": "Fe2(SO4)3",
+        "Answer": "C",
+        "Source": "The Fe (III) chlorido complexes form outersphere assemblies or ion pairs with cationic extractants, which are responsible for their extraction into solvent. Fe(III) in the form of HFeCl4 species may be responsible for its extraction to MIBK in the chloride medium."
+    },
+    "Question_6": {
+        "Context": "The presence of iron in samples can quench the fluorescence of certain elements, affecting the sensitivity of fluorescence-based detection methods.",
+        "Question": "Which element's fluorescence is strongly quenched by iron, necessitating its separation from iron before analysis using LED fluorimetry?",
+        "A": "Copper (Cu)",
+        "B": "Zinc (Zn)",
+        "C": "Uranium (U)",
+        "D": "Thorium (Th)",
+        "Answer": "C",
+        "Source": "The fluorescence of U gets reduced by many elements, especially Fe (Krishnakumar et al 2023), which is a strong quencher and the quenching behavior of Fe on uranium fluorescence is given in Fig. 2. U needs to be essentially separated from Fe before LED fluorimetric analysis."
+    },
+    "Question_7": {
+        "Context": "The analysis of rare-earth elements (REEs) in samples with high iron content can be challenging due to spectral overlap interferences and matrix interferences in ICP-OES.",
+        "Question": "Which rare-earth element's emission line at 401.913 nm is relatively free from major element interference and is selected for analysis?",
+        "A": "Neodymium (Nd)",
+        "B": "Samarium (Sm)",
+        "C": "Thorium (Th)",
+        "D": "Lanthanum (La)",
+        "Answer": "C",
+        "Source": "The spectral interference of Fe is very serious on Th 283.730 nm and Th 274.716 nm emission lines. Th 401.913 nm is relatively free from major element interfer- ence and is selected for analysis."
+    },
+    "Question_8": {
+        "Context": "The process of leaching with hydrochloric acid can enhance the reactivity of iron in ores when it is present in a specific oxidation state.",
+        "Question": "The reactivity of iron in ilmenite ore during leaching with hydrochloric acid is greatly enhanced when iron is present in which state?",
+        "A": "Ferric, Fe(III)",
+        "B": "Ferrous, Fe(II)",
+        "C": "Metallic, Fe(0)",
+        "D": "Iron oxide, Fe2O3",
+        "Answer": "B",
+        "Source": "The reactivity of Fe in ilmenite ore during leaching with hydrochloric acid is greatly enhanced when it is present in ferrous, Fe(II) state."
+    },
+    "Question_9": {
+        "Context": "In the context of environmental chemistry, the leaching of heavy metals from construction materials can be a concern due to their potential environmental impact.",
+        "Question": "The leaching of heavy metals from which construction material is determined by their solubility?",
+        "A": "Wood",
+        "B": "Plastic",
+        "C": "Bricks",
+        "D": "Glass",
+        "Answer": "C",
+        "Source": "The leaching of heavy metals from bricks are determined by their solubility. Toxic characteristic leaching proce- dures of bricks have been done to assess the environ- mental compactability of clays, sludges, mine wastes, etc., from construction materials like bricks and cements."
+    },
+    "Question_10": {
+        "Context": "The precision of analytical measurements is crucial for ensuring the reliability of the results, especially when dealing with trace concentrations of elements.",
+        "Question": "What is the precision obtained for elements having a concentration above 10 mg L\u22121 in replicate measurements?",
+        "A": "\u00b1 5% RSD",
+        "B": "\u00b1 10% RSD",
+        "C": "\u00b1 15% RSD",
+        "D": "\u00b1 20% RSD",
+        "Answer": "B",
+        "Source": "The precision obtained has been well within \u00b1 10% RSD for elements having concentration above 10 mg L\u22121 and \u00b1 15% for elements having concentration below 10 mg L\u22121 for replicate (n = 5) measurements."
+    }
+}

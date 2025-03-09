@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In tissue engineering, various biomaterials are used to create scaffolds that support cell attachment, proliferation, and differentiation. These scaffolds can be designed to mimic the structure and mechanical properties of native tissues.",
+        "Question": "Which of the following biomaterials is not typically used to engineer 3D acellular scaffolds for tissue engineering applications?",
+        "A": "Alginate",
+        "B": "Gelatin",
+        "C": "Collagen",
+        "D": "Hemoglobin",
+        "Answer": "D",
+        "Source": "Various biomaterials such as alginate, gelatin, and collagens have been used to engineer 3D acellular scaffolds. These materials offer unique properties that make them suitable for tissue engineering applications."
+    },
+    "Question_2": {
+        "Context": "In the field of regenerative medicine, decellularized extracellular matrix (dECM) scaffolds are used to provide a natural cell environment that closely resembles native ECM and maintains various bioactive components.",
+        "Question": "What is a significant advantage of decellularized extracellular matrix (dECM) scaffolds over natural and synthetic biomaterial-based scaffolds?",
+        "A": "Higher risk of immune response",
+        "B": "Uncontrolled degradation",
+        "C": "Superior biological properties with a lower risk of immune response",
+        "D": "Inadequate mechanical properties",
+        "Answer": "C",
+        "Source": "Decellularized extracellular matrix (dECM) scaffolds provide an attractive way to overcome the hurdles of natural and synthetic biomaterials-based scaffolds. Compared to transplanted cell-laden tissue, dECM scaffolds have superior biological properties, with a lower risk of immune response due to the removal of almost all cellular DNA."
+    },
+    "Question_3": {
+        "Context": "Stem cells are a key component in tissue regeneration due to their ability to self-renew and differentiate into various cell types. However, the use of stem cells in clinical applications is not without concerns.",
+        "Question": "What is a major biosafety concern associated with the use of stem cells in tissue engineering?",
+        "A": "Limited proliferation potential",
+        "B": "Potential for tumorigenicity",
+        "C": "Inability to differentiate into multiple cell types",
+        "D": "Rapid degradation in the body",
+        "Answer": "B",
+        "Source": "One of the key limitations and biosafety concerns associated with the use of stem cells in the clinical field is the potential for tumorigenicity. Stem cells are highly beneficial for tissue engineering and regenerative medicine because they can self-renew and differentiate into various kinds of cells."
+    },
+    "Question_4": {
+        "Context": "Nanomaterials can be incorporated into engineered tissue constructs to improve their properties. Carbon nanotubes (CNTs) are one such material known for their unique characteristics.",
+        "Question": "What property of carbon nanotubes makes them particularly useful in enhancing engineered tissue constructs for muscle regeneration?",
+        "A": "Biodegradability",
+        "B": "Electrical conductivity",
+        "C": "Magnetic properties",
+        "D": "Optical transparency",
+        "Answer": "B",
+        "Source": "Carbon nanotubes (CNTs) are cylindrical carbon tubes with high aspect ratios and nanometer-diameters that can be significantly longer than 100 nm. They possess superior mechanical properties, large surface areas, and electrical conductivity properties."
+    },
+    "Question_5": {
+        "Context": "Graphene oxide (GO) is a derivative of graphene that has been oxidized to contain various oxygen-containing functional groups, making it water-dispersible and suitable for biomedical applications.",
+        "Question": "What is the effect of graphene oxide (GO) substrates on myogenic cells?",
+        "A": "Decreases myogenic protein expression",
+        "B": "Inhibits cell adhesion",
+        "C": "Reduces cell proliferation",
+        "D": "Increases myogenic protein expression",
+        "Answer": "D",
+        "Source": "C2C12 myoblasts cultured on GO substrate significantly increased their myogenic proteins, such as myosin heavy chain and myogenin. The heightened myogenic behavior observed on GO surfaces can be attributed to the surface oxygen concentration and roughness."
+    },
+    "Question_6": {
+        "Context": "In the context of skeletal muscle regeneration, certain cytokines play a role in modulating the immune response and promoting tissue healing.",
+        "Question": "Which of the following cytokines is known for its anti-inflammatory properties and has been used in conjunction with nanoparticles to improve muscle function?",
+        "A": "Interleukin-1 (IL-1)",
+        "B": "Interleukin-4 (IL-4)",
+        "C": "Tumor necrosis factor-alpha (TNF-\u03b1)",
+        "D": "Interferon-gamma (IFN-\u03b3)",
+        "Answer": "B",
+        "Source": "AuNPs were employed to conjugate anti-inflammatory cytokines, such as IL-4, for the purpose of enhancing muscle function in mdx mouse models, through immune cell recruitment."
+    },
+    "Question_7": {
+        "Context": "The extracellular matrix (ECM) of skeletal muscle contains various components that regulate muscle development and facilitate the transmission of mechanical forces.",
+        "Question": "Which of the following is not a component of the skeletal muscle extracellular matrix (ECM)?",
+        "A": "Collagen",
+        "B": "Proteoglycans",
+        "C": "Fibronectins",
+        "D": "Hyaluronic acid",
+        "Answer": "D",
+        "Source": "ECM components, such as collagen (types I, III, and VI), proteoglycans, and fibronectins, exist between myofibers, regulating muscle development and facilitating the transmission of mechanical forces."
+    },
+    "Question_8": {
+        "Context": "The process of muscle regeneration involves several stages, starting with the clearance of necrotic cells and followed by the regeneration of myofibers.",
+        "Question": "What is the role of pro-inflammatory macrophages in the initial stage of muscle regeneration?",
+        "A": "To promote inflammation",
+        "B": "To clear necrotic cells by phagocytosis",
+        "C": "To inhibit the activation of satellite cells",
+        "D": "To induce fibrosis in the defect area",
+        "Answer": "B",
+        "Source": "When the skeletal muscle undergoes some defects, the process of muscle regeneration starts with clearance of necrotic cells by phagocytosis of pro-inflammatory macrophages. The prompt clearance of debris is crucial for the timely initiation of muscle regeneration."
+    },
+    "Question_9": {
+        "Context": "Satellite cells play a crucial role in skeletal muscle regeneration due to their ability to self-renew and differentiate into muscle cells.",
+        "Question": "Which transcription factor is essential for the proper functioning and maintenance of satellite cells in skeletal muscle regeneration?",
+        "A": "MyoD",
+        "B": "Pax7",
+        "C": "Myogenin",
+        "D": "Troponin T",
+        "Answer": "B",
+        "Source": "These satellite cells rely on the transcription factor Pax7 for their proper functioning and maintenance, essential for self-regeneration."
+    },
+    "Question_10": {
+        "Context": "In tissue engineering, the integration of stem cells into biomaterials is a strategy used to enhance the regenerative potential of engineered tissues.",
+        "Question": "What is the observed effect when bone marrow-derived mesenchymal stem cells (MSCs) are combined with skeletal muscle decellularized extracellular matrix (dECM) hydrogels?",
+        "A": "Decreased blood vessel formation",
+        "B": "Reduced tension forces in the muscle",
+        "C": "Increased blood vessel formation and recovery in muscle tension forces",
+        "D": "No significant change in muscle regeneration",
+        "Answer": "C",
+        "Source": "For instance, when bone marrow derived MSCs with skeletal muscle dECM hydrogels were implanted into the lateral gastrocnemius in a VML rat model, increased von Willebrand factor stained blood vessels and recovery in the tension forces of LGAS resulted, as compared to observations in the muscles implanted with dECM without cells."
+    }
+}

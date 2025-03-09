@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the durability of fluoropolymer hydrophobic coatings against falling droplets. They simulate raindrops to damage samples with various thicknesses of Cytop (CTX-809SP2) and then heat them to recover their hydrophobicity.",
+        "Question": "What is the purpose of simulating raindrops in the study?",
+        "A": "To evaluate the effect of temperature on hydrophobic coatings",
+        "B": "To examine the impact of repeated damage on hydrophobic coatings",
+        "C": "To assess the recovery limitations of hydrophobic coatings",
+        "D": "To measure the thickness of hydrophobic coatings",
+        "Answer": "B",
+        "Source": "Devices such as smart self-cleaning lens or droplet-based energy generators are open-air electrowetting-on-dielectric (EWOD) devices, which are applications that utilize falling droplets. Therefore, the hydrophobic coatings of these devices are exposed to environment factors such as raindrop, and it is necessary to examine the durability of hydrophobic coatings in similar environments and the effectiveness of recovery."
+    },
+    "Question_2": {
+        "Context": "The study evaluates the long-term durability of hydrophobic coatings for open-air EWOD devices. They subject Cytop (CTX-809SP2) to a continuous damage-recovery cycle and analyze the EWOD actuation performance.",
+        "Question": "What is the main focus of the study regarding hydrophobic coatings?",
+        "A": "To determine the optimal thickness for hydrophobic coatings",
+        "B": "To investigate the impact of repeated damage-recovery cycles on hydrophobic coatings",
+        "C": "To compare the performance of different types of hydrophobic coatings",
+        "D": "To analyze the chemical composition of hydrophobic coatings",
+        "Answer": "B",
+        "Source": "This study evaluates the long-term durability of hydrophobic coatings for open-air EWOD devices. Cytop (CTX-809SP2), a fluoropolymer-based hydrophobic coating, was subjected to a continuous damage-recovery cycle, and the EWOD actuation performance was analyzed as a function of hydrophobic coating thickness in each cycle."
+    },
+    "Question_3": {
+        "Context": "The study involves damaging samples with falling droplets and then heating them to recover their hydrophobicity. They repeat this damage-recovery cycle several times to evaluate the long-term durability of hydrophobic coatings.",
+        "Question": "What method is used to recover the hydrophobicity of damaged samples?",
+        "A": "Heating on a hot plate at 100\u00b0C for 12 hours",
+        "B": "Heating on a hot plate at 200\u00b0C for 24 hours",
+        "C": "Exposing to UV light for 6 hours",
+        "D": "Soaking in a chemical solution for 48 hours",
+        "Answer": "B",
+        "Source": "The samples are then heated on a hot plate at 200 \u00b0C for 24 h to recover their hydrophobicity damaged by falling droplets."
+    },
+    "Question_4": {
+        "Context": "The study compares the EWOD performance of damaged and undamaged hydrophobic coatings. They measure the change in contact angle of droplets by increasing and decreasing voltage.",
+        "Question": "How is the EWOD actuation performance measured in the study?",
+        "A": "By analyzing the color change of the hydrophobic coatings",
+        "B": "By measuring the change in contact angle of droplets with varying voltage",
+        "C": "By counting the number of droplets on the surface",
+        "D": "By observing the surface roughness under a microscope",
+        "Answer": "B",
+        "Source": "All the EWOD experiments are performed using a function generator and amplifier with a frequency of 1 kHz to measure the change in CA of the droplets by sequentially increasing the voltage from 0 Vrms to 100 Vrms and decreasing it back to 0 Vrms, in 10 Vrms increments."
+    },
+    "Question_5": {
+        "Context": "The study evaluates the performance of hydrophobic coatings over repeated damage-recovery cycles. They observe the change in contact angle and contact angle hysteresis of water droplets on the surface of the coatings.",
+        "Question": "What is the observed trend in the EWOD performance after the second damage-recovery cycle?",
+        "A": "The thickest sample shows the best performance",
+        "B": "The thinnest sample shows the best performance",
+        "C": "All samples show equal performance",
+        "D": "The performance degrades for all samples",
+        "Answer": "A",
+        "Source": "For the 0.1 \u03bcm thick sample after the second cycle, the CA of the dewetted droplet after the EWOD actuation recovered by about 87 % compared to the initial CA before the EWOD actuation, while the 0.5 \u03bcm thick sample recovered by 88 %. The 1.0 \u03bcm thick sample recovered about 95 %, performing 8 % better than the 0.1 \u03bcm thick sample and 7 % better than the 0.5 \u03bcm thick sample."
+    },
+    "Question_6": {
+        "Context": "The study examines the recovery limitations of hydrophobic coatings over multiple damage-recovery cycles. They measure the contact angle and contact angle hysteresis of water droplets on the surface of the coatings.",
+        "Question": "What is the conclusion regarding the recovery limitations of hydrophobic coatings after the third damage-recovery cycle?",
+        "A": "The recovery is fully successful for all samples",
+        "B": "The recovery is limited for all samples",
+        "C": "The recovery is most successful for the thinnest sample",
+        "D": "The recovery is most successful for the thickest sample",
+        "Answer": "B",
+        "Source": "After the third cycle, no dewetting of the droplets is observed after the EWOD actuation, which means breakdown of the hydrophobic coating, regardless of its thickness. Therefore, it concludes that the damage-recovery of the hydrophobic coating in this falling droplets experiment can not fully perform for three cycles, regardless of the thickness of the hydrophobic coating."
+    },
+    "Question_7": {
+        "Context": "The study analyzes the surface morphology of hydrophobic coatings after repeated damage-recovery cycles. They use atomic force microscopy to observe changes in the surface roughness.",
+        "Question": "What is the effect of repeated damage-recovery cycles on the surface roughness of hydrophobic coatings?",
+        "A": "The surface becomes smoother with each cycle",
+        "B": "The surface becomes rougher with each cycle",
+        "C": "The surface remains unchanged",
+        "D": "The surface becomes more reflective",
+        "Answer": "B",
+        "Source": "The roughness gradually increased with each repeated damage-recovery cycle. The high roughness of the surface makes it difficult for water droplets to slide easily. Therefore, it is likely to have had a significant impact on the increase in CAH."
+    },
+    "Question_8": {
+        "Context": "The study investigates the recovery of hydrophobic coatings after being damaged by falling droplets. They measure the contact angle and contact angle hysteresis of water droplets on the surface of the coatings.",
+        "Question": "What is the recovery rate of contact angle and contact angle hysteresis after heating the damaged samples?",
+        "A": "CA recovered about 98% and CAH about 81%",
+        "B": "CA recovered about 90% and CAH about 50%",
+        "C": "CA recovered about 75% and CAH about 90%",
+        "D": "CA recovered about 85% and CAH about 70%",
+        "Answer": "A",
+        "Source": "Regardless of the hydrophobic coating thickness, CA and CAH are measured to average 114\u00b0 and 16\u00b0 after heating. The experiment shows that CA and CAH recovered about 98% and 81%, respectively, compared to before damage."
+    },
+    "Question_9": {
+        "Context": "The study evaluates the impact of repeated damage-recovery cycles on the EWOD performance of hydrophobic coatings. They measure the change in contact angle of droplets with varying voltage before and after damage-recovery cycles.",
+        "Question": "What is the observed trend in the EWOD performance after the first damage-recovery cycle?",
+        "A": "The damaged samples show improved performance",
+        "B": "The damaged samples show degraded performance",
+        "C": "The damaged samples show no change in performance",
+        "D": "The undamaged samples show degraded performance",
+        "Answer": "C",
+        "Source": "This experiment shows that the samples after the first damage-recovery cycle showed no difference in EWOD performance compared to the undamaged samples, and the difference in the degree of damage based on the hydrophobic coating thickness was not observed in the first damage-recovery cycle."
+    },
+    "Question_10": {
+        "Context": "The study focuses on the recovery limitations of hydrophobic coatings over multiple damage-recovery cycles. They measure the contact angle and contact angle hysteresis of water droplets on the surface of the coatings.",
+        "Question": "What is the effect of the third damage-recovery cycle on the contact angle hysteresis of hydrophobic coatings?",
+        "A": "The CAH remains unchanged",
+        "B": "The CAH decreases significantly",
+        "C": "The CAH increases significantly",
+        "D": "The CAH fluctuates randomly",
+        "Answer": "C",
+        "Source": "After the third cycle, no dewetting of the droplets is observed after the EWOD actuation, which means breakdown of the hydrophobic coating, regardless of its thickness. Therefore, it concludes that the damage-recovery of the hydrophobic coating in this falling droplets experiment can not fully perform for three cycles, regardless of the thickness of the hydrophobic coating."
+    }
+}

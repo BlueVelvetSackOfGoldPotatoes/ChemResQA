@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the extension of non-Hermitian and Hermitian downfolding formulations to composite quantum systems commonly encountered in materials science and chemistry.",
+        "Question": "What is the main idea behind the non-Hermitian downfolding approach?",
+        "A": "Characterization of sub-systems in terms of active spaces",
+        "B": "Integration of external and internal cluster amplitudes",
+        "C": "Diagonalization of the effective Hamiltonian in the entire system",
+        "D": "Utilization of double unitary CC Ansatz",
+        "Answer": "A",
+        "Source": "The main idea of SR-CC non-Hermitian downfolding hinges upon the characterization of sub-systems of a quantum system of interest in terms of active spaces or commutative sub-algebras of excitations that define corresponding active space."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the development of computational algorithms for composite quantum systems.",
+        "Question": "What is the example used to illustrate multi-component CC downfolding?",
+        "A": "Quantum electrodynamics",
+        "B": "Quantum chemistry",
+        "C": "Nuclear physics",
+        "D": "Materials science",
+        "Answer": "C",
+        "Source": "As an example, we used the model system composed of two types of Fermions, which epitomizes typical situations encountered in nuclear physics and for certain types of nuclei in non-Born-Oppenheimer electronic structure theory."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the extraction of the analytical form of interactions in many-body systems.",
+        "Question": "What is the purpose of fitting the general form of one-body and two-body interactions?",
+        "A": "To minimize discrepancies with the effective Hamiltonians",
+        "B": "To optimize the computational cost",
+        "C": "To simplify the calculations",
+        "D": "To improve the accuracy of the results",
+        "Answer": "A",
+        "Source": "These effective interactions replace standard one- and two-body interactions in non-relativistic quantum chemistry and are defined to minimize the discrepancies with {\u03c7P Q, \u03c7PQ RS} for a given discrete molecular spin-orbital set."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the utilization of machine learning techniques for the extraction of effective interactions.",
+        "Question": "What can the effective interactions derived from the minimization procedure be used for?",
+        "A": "To optimize the computational cost",
+        "B": "To improve the accuracy of ab-initio dynamics",
+        "C": "To simplify the calculations",
+        "D": "To reduce the dimensionality of the system",
+        "Answer": "B",
+        "Source": "The access to the analytical form of the inter-electron interactions can also enable affordable and reliable ab-initio dynamics driven by low-order methods."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the development of computational algorithms for composite quantum systems.",
+        "Question": "What is the main advantage of the downfolding framework for multi-component quantum systems?",
+        "A": "Reduction of numerical cost",
+        "B": "Improved accuracy of results",
+        "C": "Enhanced computational efficiency",
+        "D": "Universal applicability",
+        "Answer": "D",
+        "Source": "The universal character of the discussed downfolding framework makes it applicable to a broad class of multi-component quantum systems encountered in nuclear theory, chemistry, and materials sciences."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the extension of non-Hermitian and Hermitian downfolding formulations to composite quantum systems.",
+        "Question": "What is the purpose of the double unitary CC Ansatz in the Hermitian downfolding approach?",
+        "A": "To diagonalize the effective Hamiltonian",
+        "B": "To define the active indices",
+        "C": "To introduce anti-Hermitian operators",
+        "D": "To approximate the cluster amplitudes",
+        "Answer": "A",
+        "Source": "Once TB and SAB amplitudes are know (or can be effectively approximated) the energy of the entire system can be calculated performing simulations on the sub-system A using effective Hamiltonian Heff(A)."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the development of computational algorithms for composite quantum systems.",
+        "Question": "What is the advantage of the downfolding techniques for multi-component quantum systems?",
+        "A": "Improved accuracy of results",
+        "B": "Reduction of computational cost",
+        "C": "Enhanced computational efficiency",
+        "D": "Increased complexity of calculations",
+        "Answer": "B",
+        "Source": "The outlined downfolding techniques can also be useful in the context of reducing the numerical cost of expensive CC calculations for systems with periodic boundary conditions."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the extraction of the analytical form of interactions in many-body systems.",
+        "Question": "What is the approach used to derive the effective interactions in small-size active spaces?",
+        "A": "Machine learning techniques",
+        "B": "Non-linear optimizers",
+        "C": "Fitting the general form of interactions",
+        "D": "Minimization procedure",
+        "Answer": "D",
+        "Source": "These effective interactions can be utilized in low-order methodologies, including Hartree-Fock (HF) and density functional theories (DFT). The access to the analytical form of the inter-electron interactions can also enable affordable and reliable ab-initio dynamics driven by low-order methods."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the utilization of machine learning techniques for the extraction of effective interactions.",
+        "Question": "What is the potential application of the effective interactions derived from the minimization procedure?",
+        "A": "Optimizing computational cost",
+        "B": "Improving the accuracy of ab-initio dynamics",
+        "C": "Simplifying calculations",
+        "D": "Reducing the dimensionality of the system",
+        "Answer": "B",
+        "Source": "The access to the analytical form of the inter-electron interactions can also enable affordable and reliable ab-initio dynamics driven by low-order methods."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the development of computational algorithms for composite quantum systems.",
+        "Question": "What is the main advantage of the downfolding framework for multi-component quantum systems?",
+        "A": "Reduction of numerical cost",
+        "B": "Improved accuracy of results",
+        "C": "Enhanced computational efficiency",
+        "D": "Universal applicability",
+        "Answer": "D",
+        "Source": "The universal character of the discussed downfolding framework makes it applicable to a broad class of multi-component quantum systems encountered in nuclear theory, chemistry, and materials sciences."
+    }
+}

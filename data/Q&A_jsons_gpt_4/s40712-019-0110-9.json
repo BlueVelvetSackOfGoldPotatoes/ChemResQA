@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In dimensional analysis, the Buckingham pi theorem is used to reduce the number of dimensional variables in a problem to a smaller number of dimensionless groups.",
+        "Question": "What is the name of the theorem that helps in creating dimensionless groups for dimensional analysis?",
+        "A": "Euler's theorem",
+        "B": "Bernoulli's theorem",
+        "C": "Buckingham pi theorem",
+        "D": "Newton's theorem",
+        "Answer": "C",
+        "Source": "The method provided here has been suggested by Buckingham (1914) and is now called the Buckingham pi theorem. The name pi is derived from the mathematical notation \u03c0, i.e., the product of variables. The dimensionless groups found in the theorem are denoted by \u03c01, \u03c02, \u03c03, etc."
+    },
+    "Question_2": {
+        "Context": "Dimensional homogeneity is a principle in dimensional analysis that states every term in a physical equation must have the same dimensions.",
+        "Question": "What principle states that all terms in a physical equation must have the same dimensions?",
+        "A": "Principle of dimensional consistency",
+        "B": "Principle of dimensional homogeneity",
+        "C": "Principle of dimensional equivalence",
+        "D": "Principle of dimensional singularity",
+        "Answer": "B",
+        "Source": "All the terms of a physical equation must have the same dimensions, or that every correct physical equation is dimensionally homogeneous (Buckingham 1914)."
+    },
+    "Question_3": {
+        "Context": "In the context of dimensional analysis, a complete physical equation is one where the coefficients are dimensionless and do not depend on the sizes of the fundamental units.",
+        "Question": "What is a complete physical equation in dimensional analysis?",
+        "A": "An equation where coefficients depend on the sizes of fundamental units",
+        "B": "An equation that describes a property of a material system",
+        "C": "An equation where coefficients are dimensionless and independent of the fundamental units' sizes",
+        "D": "An equation that can only be applied to gas laws",
+        "Answer": "C",
+        "Source": "The coefficients of a complete equation are dimensionless numbers, i.e., if the quantity \u201cQ\u201d is measured by an absolute system of units, the coefficients of the equation do not depend on the sizes of the fundamental units but only on the fixed interrelations of the units which characterize the system and differentiate it from any other absolute system."
+    },
+    "Question_4": {
+        "Context": "The Buckingham pi theorem explains how to reduce the number of dimensional variables in a problem to a set of dimensionless variables or pi groups.",
+        "Question": "According to the Buckingham pi theorem, how many dimensionless variables or pi groups can a problem with 'n' dimensional variables and 'm' fundamental dimensions be reduced to?",
+        "A": "n - m",
+        "B": "n + m",
+        "C": "n / m",
+        "D": "n * m",
+        "Answer": "A",
+        "Source": "The Buckingham pi theorem explains that if there are \u201cn\u201d-dimensional variables in a problem, the dimensions or quantities that are related in a homogeneous condition can be described quietly by \u201cm\u201d dimensions (Buckingham 1914; Allamraju and Srikanth 2017)."
+    },
+    "Question_5": {
+        "Context": "In dimensional analysis, the dimensional matrix is used to define the exponents for determining the dimensionless model.",
+        "Question": "What is the dimensional matrix used for in dimensional analysis?",
+        "A": "To calculate the fundamental units of measurement",
+        "B": "To define the exponents for determining the dimensionless model",
+        "C": "To measure the physical quantities directly",
+        "D": "To represent the coefficients of a physical equation",
+        "Answer": "B",
+        "Source": "A matrix of dimensional analysis is used to define the exponents for determining the dimensionless model. In this method, only length L, mass M, and time T as fundamental dimensions are considered."
+    },
+    "Question_6": {
+        "Context": "The Buckingham pi theorem involves the concept of dimensional homogeneity, which is a requirement for physical equations to be dimensionally consistent.",
+        "Question": "What does dimensional homogeneity ensure in the context of the Buckingham pi theorem?",
+        "A": "That the physical equation is only applicable to gases",
+        "B": "That the physical equation has varying coefficients",
+        "C": "That every term in the physical equation has different dimensions",
+        "D": "That every term in the physical equation has the same dimensions",
+        "Answer": "D",
+        "Source": "All the terms of a physical equation must have the same dimensions, or that every correct physical equation is dimensionally homogeneous (Buckingham 1914)."
+    },
+    "Question_7": {
+        "Context": "The Buckingham pi theorem is a fundamental principle in dimensional analysis that assists in the simplification of complex physical problems.",
+        "Question": "What is the primary benefit of using the Buckingham pi theorem in dimensional analysis?",
+        "A": "It increases the number of variables for more complexity",
+        "B": "It allows for the simplification of complex physical problems",
+        "C": "It requires a deep understanding of the fundamental process model",
+        "D": "It is only applicable to problems involving gases",
+        "Answer": "B",
+        "Source": "The most significant benefits of this method are simplicity, no need to understand the fundamental process model, general dimensional model diagnosis, and process trend prediction in different scales (Tan 2011)."
+    },
+    "Question_8": {
+        "Context": "In the field of dimensional analysis, the Buckingham pi theorem is used to form dimensionless groups from dimensional variables.",
+        "Question": "What is the purpose of forming dimensionless groups in dimensional analysis according to the Buckingham pi theorem?",
+        "A": "To increase the complexity of the problem",
+        "B": "To reduce the number of experiments needed",
+        "C": "To reduce the number of dimensional variables to dimensionless groups",
+        "D": "To calculate the exact values of physical quantities",
+        "Answer": "C",
+        "Source": "The Buckingham pi theorem is based on the dimensionless groups so that dimensionless groups can be created after determining the effective independent parameters on the response variable, considering the similarity law and the principle of dimensional homogeneity."
+    },
+    "Question_9": {
+        "Context": "The similarity law in dimensional analysis is a concept that ensures comparable results across different scales of a process or experiment.",
+        "Question": "What does the similarity law in dimensional analysis ensure?",
+        "A": "That results are not comparable across different scales",
+        "B": "That the process parameters are different across scales",
+        "C": "That comparable results are obtained across different scales",
+        "D": "That the process is only valid for a single scale",
+        "Answer": "C",
+        "Source": "According to the similarity law, the prototype and physical model for dimensional analysis should be in complete similarity which means that all relevant dimensionless parameters for the conditions of the process have the same corresponding values for the model and the prototype."
+    },
+    "Question_10": {
+        "Context": "In dimensional analysis, the concept of geometric similarity is crucial when scaling a process from a small prototype to a larger physical model.",
+        "Question": "What is required to achieve geometric similarity in the context of scaling a process in dimensional analysis?",
+        "A": "Different materials for the prototype and physical model",
+        "B": "Different mechanical properties for small and large scales",
+        "C": "The same scale for all process parameters affecting the final quality",
+        "D": "The same geometric proportions for the prototype and physical model",
+        "Answer": "D",
+        "Source": "To achieve comparable results during scale changing, all process parameters that can affect the final process quality including geometrical parameters such as blank and punch dimensions, punch and die edge radius, drawing depth, sheet thickness, and the gap between the punch and die must be in the same scale."
+    }
+}

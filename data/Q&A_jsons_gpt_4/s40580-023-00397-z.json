@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "La-doped BaSnO3 (BLSO) is a transparent conductor with a wide bandgap and is known for its chemical and mechanical robustness. The charge transfer mechanism in BLSO involves the transfer of electrons from the valence band of O 2p orbitals to the conduction band of the Sn 5s orbital.",
+        "Question": "What is the established charge transfer mechanism in La-doped BaSnO3 (BLSO)?",
+        "A": "From the conduction band of O 2p orbitals to the valence band of the Sn 5s orbital",
+        "B": "From the valence band of O 2p orbitals to the conduction band of the Sn 5s orbital",
+        "C": "From the conduction band of Sn 5s orbital to the valence band of O 2p orbitals",
+        "D": "From the valence band of Sn 5s orbital to the conduction band of O 2p orbitals",
+        "Answer": "B",
+        "Source": "The established charge transfer mechanism is from the valence band of O 2p orbitals to the conduction band of the Sn 5 s orbital."
+    },
+    "Question_2": {
+        "Context": "In the context of transparent conductors, doping with aliovalent cations can render an insulating material conductive. For example, La3+ doping in Ba2+Sn4+O3 leads to the formation of a conductive material.",
+        "Question": "What effect does aliovalent cation doping, such as with La3+, have on Ba2+Sn4+O3?",
+        "A": "It decreases the bandgap of the material",
+        "B": "It increases the resistivity of the material",
+        "C": "It renders the material conductive",
+        "D": "It has no significant effect on the material's properties",
+        "Answer": "C",
+        "Source": "Aliovalent cation (e.g., La3+) doping renders Ba2+Sn4+O3 conductive, similar to prototypical wide-bandgap Sn4+-doped In3+2O3."
+    },
+    "Question_3": {
+        "Context": "Transparent conductors with electromagnetic shielding capabilities are required to have certain properties for optimal performance, including low sheet resistance, high electromagnetic shielding capability, and high-level visible transmittance.",
+        "Question": "Which property is NOT a requirement for an ideal transparent conductor with electromagnetic shielding capabilities?",
+        "A": "Low sheet resistance",
+        "B": "High electromagnetic shielding capability",
+        "C": "High-level visible transmittance",
+        "D": "High thermal expansion coefficient",
+        "Answer": "D",
+        "Source": "To achieve the ideal TC-EMS material, a low sheet resistance (< 200 \u03a9 \u25af\u22121), high electromagnetic shielding capability (> 20 dB at 10 GHz in the X-band), and high-level visible transmittance (> 50% at a wavelength of 550 nm) are required."
+    },
+    "Question_4": {
+        "Context": "The crystallinity of a material is known to affect its conductivity, with higher crystallinity often leading to less scattering of free electrons and thus higher conductivity.",
+        "Question": "How does crystallinity typically affect the conductivity of a material?",
+        "A": "Higher crystallinity increases electron scattering",
+        "B": "Higher crystallinity decreases electron scattering",
+        "C": "Crystallinity has no effect on electron scattering",
+        "D": "Higher crystallinity increases the bandgap",
+        "Answer": "B",
+        "Source": "There is a positive correlation between crystallinity and conductivity; high crystallinity minimizes scattering of free electrons."
+    },
+    "Question_5": {
+        "Context": "In the context of electromagnetic shielding, materials can shield electromagnetic waves through different mechanisms, including absorption and reflection.",
+        "Question": "Which mechanism is NOT a typical method by which materials shield electromagnetic waves?",
+        "A": "Absorption",
+        "B": "Reflection",
+        "C": "Refraction",
+        "D": "Multiple reflections",
+        "Answer": "C",
+        "Source": "The larger SEA of ~ 21.0 dB at 10 GHz than the SER of ~ 4.9 dB indicated that absorption was the dominant mechanism of electromagnetic shielding."
+    },
+    "Question_6": {
+        "Context": "The bandgap of a material is an important factor in determining its optical properties, such as transmittance in the ultraviolet region.",
+        "Question": "What is the relationship between the bandgap of a material and its ultraviolet transmittance?",
+        "A": "A larger bandgap leads to higher ultraviolet transmittance",
+        "B": "A smaller bandgap leads to higher ultraviolet transmittance",
+        "C": "The bandgap does not affect ultraviolet transmittance",
+        "D": "Only the valence band affects ultraviolet transmittance",
+        "Answer": "A",
+        "Source": "MgAl2O4 and MgO have much larger bandgaps (7.6\u20137.8 eV) than the 3.2 eV of SrTiO3, and thus did not contribute to the ultraviolet absorption edge of 5% \u2212 BLSOMgO MgAl2O4."
+    },
+    "Question_7": {
+        "Context": "The doping concentration in a semiconductor can affect its electrical properties, such as carrier density and mobility, which in turn influence the material's conductivity.",
+        "Question": "How does increasing the doping concentration typically affect the carrier density in a semiconductor?",
+        "A": "It increases the carrier density",
+        "B": "It decreases the carrier density",
+        "C": "It has no effect on the carrier density",
+        "D": "It only affects the mobility, not the carrier density",
+        "Answer": "A",
+        "Source": "The carrier density of BLSOMgO MgAl2O4 increased from 4.2 to 14.1 \u00d7 1020 cm\u22123 as the La concentration decreased."
+    },
+    "Question_8": {
+        "Context": "The doping concentration in a semiconductor can affect its electrical properties, such as carrier density and mobility, which in turn influence the material's conductivity.",
+        "Question": "How does increasing the doping concentration typically affect the carrier mobility in a semiconductor?",
+        "A": "It increases the carrier mobility",
+        "B": "It decreases the carrier mobility",
+        "C": "It has no effect on the carrier mobility",
+        "D": "It only affects the carrier density, not the mobility",
+        "Answer": "B",
+        "Source": "A similar trend is observed as for carrier concentration, i.e., a decrease in carrier mobility with La concentration, e.g., from 36.7 cm2 V\u22121 s\u22121 (Ba0.95La0.05SnO3) to 4.3 cm2 V\u22121 s\u22121 (Ba0.8La0.2SnO3) for both BLSOMgO MgAl2O4 films (stars) and BLSOSrTiO3 films (triangles)."
+    },
+    "Question_9": {
+        "Context": "The full-width at half-maximum (FWHM) of a diffraction peak in X-ray diffraction (XRD) analysis is indicative of the crystallinity of a material, with a smaller FWHM suggesting higher crystallinity.",
+        "Question": "What does a smaller full-width at half-maximum (FWHM) of a diffraction peak suggest about a material's crystallinity?",
+        "A": "Higher crystallinity",
+        "B": "Lower crystallinity",
+        "C": "No information about crystallinity",
+        "D": "Higher thermal expansion",
+        "Answer": "A",
+        "Source": "The full-width at half-maximum (FWHM) of the (002) BLSO peaks in the \u03c9 scans was as small as 0.78\u00b0, indicating minimal mosaic spread of BLSO films by templated epitaxy."
+    },
+    "Question_10": {
+        "Context": "In the context of electromagnetic shielding, the Simon formula relates the shielding effectiveness (SE) to the electrical conductivity of a material, with higher conductivity leading to greater SE.",
+        "Question": "According to the Simon formula, how does electrical conductivity affect the shielding effectiveness (SE) of a material?",
+        "A": "Higher conductivity leads to lower SE",
+        "B": "Higher conductivity leads to greater SE",
+        "C": "Conductivity has no effect on SE",
+        "D": "Only the magnetic properties affect SE",
+        "Answer": "B",
+        "Source": "The Simon formula indicates that SE [dB] increases strongly as the electrical conductivity \u03c3 [\u03a9\u22121 cm\u22121] rises: SE = SER + SEA, where SER = 50 + 10log(\u03c3/f), SEA = 1.7t(\u03c3f), f [MHz] is the frequency, and t [cm] is the thickness of the electrically conductive material."
+    }
+}

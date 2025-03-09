@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Malignant melanoma is a type of skin cancer that arises from melanocytes. It is known for its aggressive nature and high mortality rate.",
+        "Question": "What proportion of skin cancer-related mortalities is malignant melanoma responsible for?",
+        "A": "20%",
+        "B": "50%",
+        "C": "80%",
+        "D": "10%",
+        "Answer": "C",
+        "Source": "Although melanoma constitutes a small proportion of total skin cancer cases, it is responsible for 80% of related mortalities."
+    },
+    "Question_2": {
+        "Context": "Cancer cells have certain characteristics that distinguish them from normal cells, including their ability to proliferate indefinitely.",
+        "Question": "What is a hallmark characteristic of cancer cells, including melanoma cells?",
+        "A": "Limited growth and high apoptosis",
+        "B": "Uncontrolled growth and reduced ability to undergo apoptosis",
+        "C": "Slow proliferation and high differentiation",
+        "D": "Controlled growth and normal apoptosis",
+        "Answer": "B",
+        "Source": "Cancer cells, including melanoma cells, are characterized by their ability to proliferate limitlessly and are marked by uncontrolled growth and reduced ability to undergo apoptosis."
+    },
+    "Question_3": {
+        "Context": "The MAPK and AKT pathways are known to be involved in various cellular processes, including cell proliferation and survival.",
+        "Question": "Which pathways are known to have significant relevance to the development of melanoma?",
+        "A": "MAPK and AKT pathways",
+        "B": "Wnt and Hedgehog pathways",
+        "C": "Notch and JAK/STAT pathways",
+        "D": "TGF-beta and NF-kB pathways",
+        "Answer": "A",
+        "Source": "The MAPK and AKT pathways have been known to have significant relevance to the development of melanoma."
+    },
+    "Question_4": {
+        "Context": "Cyclin D1 and CDK4 are proteins that play a crucial role in cell cycle progression, particularly in the transition from the G1 phase to the S phase.",
+        "Question": "What role do Cyclin D1 and CDK4 play in the cell cycle?",
+        "A": "They facilitate the transition from the G2 phase to the M phase",
+        "B": "They prevent the cell from entering the S phase",
+        "C": "They facilitate the transition from the G1 phase to the S phase",
+        "D": "They are involved in the exit from the cell cycle",
+        "Answer": "C",
+        "Source": "Cyclin D1 and its binding partner CDK4 (Cyclin-dependent kinase4) are crucial components of the cell cycle that facilitate the transition from the G1 phase to the S phase."
+    },
+    "Question_5": {
+        "Context": "Chemotherapeutic treatments for melanoma, such as Cisplatin and Temozolomide, work by disrupting DNA, RNA, and protein synthesis to reduce cancer cell viability and induce apoptosis.",
+        "Question": "What is the mechanism of action of chemotherapeutic treatments like Cisplatin and Temozolomide in melanoma?",
+        "A": "They stimulate the immune system to attack cancer cells",
+        "B": "They disrupt DNA, RNA, and protein synthesis",
+        "C": "They block blood supply to the tumor",
+        "D": "They enhance the differentiation of cancer cells",
+        "Answer": "B",
+        "Source": "Both drugs reduce cancer cell viability and induce apoptosis by disrupting DNA, RNA, and protein synthesis."
+    },
+    "Question_6": {
+        "Context": "In cancer research, the ability of compounds to induce apoptosis in cancer cells is a desirable trait for potential anti-cancer agents.",
+        "Question": "What effect does inducing apoptosis have on cancer cells?",
+        "A": "It promotes cancer cell proliferation",
+        "B": "It increases cancer cell migration",
+        "C": "It leads to programmed cell death of cancer cells",
+        "D": "It enhances the metastatic potential of cancer cells",
+        "Answer": "C",
+        "Source": "Previous studies have suggested that anti-cancer drugs possessing cytotoxic effects can induce programmed cell death."
+    },
+    "Question_7": {
+        "Context": "The cell cycle is a series of phases that cells go through as they grow and divide. A disruption in the cell cycle can lead to uncontrolled cell proliferation.",
+        "Question": "What is the consequence of cell cycle arrest in cancer cells?",
+        "A": "It leads to increased cell proliferation",
+        "B": "It has no impact on cell behavior",
+        "C": "It can lead to deregulation of proliferation and contribute to cancer",
+        "D": "It promotes cell differentiation",
+        "Answer": "C",
+        "Source": "Cell cycle arrest is related to proliferation, as regulation of the cell cycle directly affects proliferation ability and can lead to its deregulation, thus potentially contributing to cancer."
+    },
+    "Question_8": {
+        "Context": "The migratory ability of cancer cells is a critical factor in the process of metastasis, where cancer spreads from the original site to other parts of the body.",
+        "Question": "Why is the migratory ability of cancer cells significant?",
+        "A": "It is essential for nutrient absorption",
+        "B": "It is critical for metastasis",
+        "C": "It is necessary for cell survival",
+        "D": "It is important for cell-cell communication",
+        "Answer": "B",
+        "Source": "The migratory ability of cancer cells plays an important role in metastasis."
+    },
+    "Question_9": {
+        "Context": "Invasion is a process where cancer cells penetrate and spread through the surrounding tissues, which is a hallmark of malignant tumors.",
+        "Question": "What role does cell invasion play in cancer progression?",
+        "A": "It aids in immune evasion",
+        "B": "It supports angiogenesis",
+        "C": "It is a hallmark of malignant tumors",
+        "D": "It leads to cell cycle arrest",
+        "Answer": "C",
+        "Source": "In addition to migration, invasion is significantly associated with melanoma metastasis and is a hallmark of malignant cancers."
+    },
+    "Question_10": {
+        "Context": "The soft agar assay is a technique used to assess the invasive potential of cancer cells by demonstrating their ability to grow without attachment to a solid surface.",
+        "Question": "What does the soft agar assay demonstrate about cancer cells?",
+        "A": "Their ability to grow in hypoxic conditions",
+        "B": "Their resistance to chemotherapy",
+        "C": "Their ability to grow without attachment to a solid surface",
+        "D": "Their susceptibility to radiation",
+        "Answer": "C",
+        "Source": "Cells possessing anchorage-independent capacity can grow continuously on agar and form colonies."
+    }
+}

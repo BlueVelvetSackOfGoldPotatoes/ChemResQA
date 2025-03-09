@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In gas chromatography, a capillary column with a stationary phase is used to separate different compounds based on their volatility and interaction with the stationary phase.",
+        "Question": "What type of stationary phase was used for chromatographic separation in the capillary gas chromatographic method?",
+        "A": "Crosslinked polyethylene glycol modified with nitroterephthalic acid",
+        "B": "Silica gel",
+        "C": "Alumina",
+        "D": "Activated charcoal",
+        "Answer": "A",
+        "Source": "Chromatographic separation was performed in spilt mode using nitrogen as carrier gas on a column containing crosslinked polyethylene glycol (30 m \u00d7 0.32 mm, 0.25 \u00b5m) stationary phase modified with nitroterephthalic acid."
+    },
+    "Question_2": {
+        "Context": "In the analysis of pharmaceuticals, the quantification of trace level impurities is essential for ensuring drug safety and efficacy.",
+        "Question": "What was the linear concentration range for 2-bromoethanol (2-BE) quantification in the validated method?",
+        "A": "24\u2013300 ppm",
+        "B": "24\u20133000 ppm",
+        "C": "1\u2013100 ppm",
+        "D": "1\u20131000 ppm",
+        "Answer": "B",
+        "Source": "The developed method was linear and accurate in the concentration range of 24\u20133000 ppm for 2-BE and 24\u2013300 ppm for 2-BEM with r2 \u02c3 0.999 and percent recoveries greater than 90% for both the analytes."
+    },
+    "Question_3": {
+        "Context": "In chromatographic analysis, the precision of a method is often expressed as the relative standard deviation (RSD) of the analyte's response.",
+        "Question": "What was the maximum RSD(%) for the precision of the method for both analytes?",
+        "A": "Not more than 10%",
+        "B": "Not more than 4.5%",
+        "C": "Not more than 5%",
+        "D": "Not more than 15%",
+        "Answer": "B",
+        "Source": "The developed method was precise for both the analytes with RSD(%) of not more than 4.5%."
+    },
+    "Question_4": {
+        "Context": "In silico genotoxicity and carcinogenicity assessments are computational methods used to predict the potential genotoxic and carcinogenic risks of compounds.",
+        "Question": "Which in silico models were used for the genotoxicity and carcinogenicity potential assessment of 2-bromoethylmethanesulfonate (2-BEM)?",
+        "A": "DEREK and SARAH",
+        "B": "QSAR and TOPKAT",
+        "C": "ToxTree and LAZAR",
+        "D": "VEGA and CAESAR",
+        "Answer": "A",
+        "Source": "In silico genotoxicity and carcinogenicity potential of 2-BEM were assessed using ICH M7 principles. The developed method can be applied in the quality control laboratories of pharmaceutical industries for trace level quantification of 2-BE and 2-BEM in silodosin."
+    },
+    "Question_5": {
+        "Context": "Matrix interference in chromatographic analysis can be reduced by implementing sample preparation techniques that remove unwanted components.",
+        "Question": "Which strategy was implemented to eliminate sample overload and matrix interference problems in the method?",
+        "A": "Solid-phase extraction",
+        "B": "Liquid-liquid extraction",
+        "C": "Matrix precipitation",
+        "D": "Gel filtration",
+        "Answer": "C",
+        "Source": "A simple matrix precipitation strategy was implemented to eliminate the sample overload and the matrix interference problems."
+    },
+    "Question_6": {
+        "Context": "Carrier gases are used in gas chromatography to transport the sample vapor through the column to the detector.",
+        "Question": "Which carrier gas was used in the capillary gas chromatographic method?",
+        "A": "Helium",
+        "B": "Hydrogen",
+        "C": "Argon",
+        "D": "Nitrogen",
+        "Answer": "D",
+        "Source": "Chromatographic separation was performed in spilt mode using nitrogen as carrier gas on a column containing crosslinked polyethylene glycol (30 m \u00d7 0.32 mm, 0.25 \u00b5m) stationary phase modified with nitroterephthalic acid."
+    },
+    "Question_7": {
+        "Context": "In chromatographic methods, the limit of detection (LOD) and limit of quantification (LOQ) are parameters that describe the method's sensitivity.",
+        "Question": "What were the LOD and LOQ for 2-bromoethylmethanesulfonate (2-BEM) in the developed method?",
+        "A": "LOD: 0.2 \u00b5g/mL, LOQ: 1.2 \u00b5g/mL",
+        "B": "LOD: 0.28 \u00b5g/mL, LOQ: 1.2 \u00b5g/mL",
+        "C": "LOD: 0.42 \u00b5g/mL, LOQ: 1.2 \u00b5g/mL",
+        "D": "LOD: 2 \u00b5g/mL, LOQ: 10 \u00b5g/mL",
+        "Answer": "B",
+        "Source": "For LOD and LOQ determination, different concentrations of 2-BE and 2-BEM standard solutions were prepared in the range of 0.2\u20132.0 \u00b5g mL\u22121 (equivalent to 4.8\u201348 ppm with respect to 50 mg mL\u22121 of silodosin) from the primary stock solution and secondary stock solution."
+    },
+    "Question_8": {
+        "Context": "The International Council on Harmonization (ICH) guidelines provide a framework for assessing and controlling genotoxic impurities in drug substances.",
+        "Question": "According to the ICH M7 guidelines, what is the recommended limit for daily intake of potential genotoxic impurities (PGIs) for a duration of more than 10 years to lifetime?",
+        "A": "120 \u00b5g/day",
+        "B": "20 \u00b5g/day",
+        "C": "10 \u00b5g/day",
+        "D": "< 1.5 \u00b5g/day",
+        "Answer": "D",
+        "Source": "The ICH M7 recommended limits for daily intake of PGIs are 120, 20, 10, and < 1.5 \u00b5g/day, for < 1 month , > 1\u201312 months, > 1\u201310 years, and > 10 years to lifetime, respectively."
+    },
+    "Question_9": {
+        "Context": "In the pharmaceutical industry, the quality control laboratories often use chromatographic methods for the quantification of impurities in drug substances.",
+        "Question": "For what purpose can the developed capillary gas chromatographic method be applied in the pharmaceutical industry?",
+        "A": "For the quantification of active pharmaceutical ingredients",
+        "B": "For the trace level quantification of genotoxic impurities",
+        "C": "For the identification of new drug compounds",
+        "D": "For the analysis of biological samples",
+        "Answer": "B",
+        "Source": "The developed method can be applied in the quality control laboratories of pharmaceutical industries for trace level quantification of 2-BE and 2-BEM in silodosin."
+    },
+    "Question_10": {
+        "Context": "The flame ionization detector (FID) is a common detector used in gas chromatography due to its high sensitivity to organic compounds.",
+        "Question": "Which detector was used in the gas chromatographic method for analyzing the analytes?",
+        "A": "Mass spectrometer",
+        "B": "Thermal conductivity detector",
+        "C": "Electron capture detector",
+        "D": "Flame ionization detector",
+        "Answer": "D",
+        "Source": "In the present study, a GC coupled with flame ionization detector (GC-FID) was selected for the analysis as both the analytes (2-BE and 2-BEM) are volatile in nature."
+    }
+}

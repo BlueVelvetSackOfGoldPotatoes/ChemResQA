@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In nuclear medicine, different imaging techniques are used to visualize the distribution of radiopharmaceuticals within the body. Two common techniques are positron emission tomography (PET) and single photon emission computed tomography (SPECT).",
+        "Question": "What is the approximate percentage of examinations in nuclear medicine departments accounted for by SPECT imaging?",
+        "A": "20%",
+        "B": "50%",
+        "C": "80%",
+        "D": "100%",
+        "Answer": "C",
+        "Source": "Despite the development of positron emission tomography (PET), single photon emission computed tomography (SPECT) still accounts for around 80% of all examinations performed in nuclear medicine departments."
+    },
+    "Question_2": {
+        "Context": "Technetium-99m is a widely used radioisotope in nuclear medicine due to its optimal nuclear properties for imaging.",
+        "Question": "What is the half-life of the 99mTc radioisotope?",
+        "A": "6.02 minutes",
+        "B": "6.02 hours",
+        "C": "60.2 hours",
+        "D": "602 hours",
+        "Answer": "B",
+        "Source": "The 99mTc radioisotope has optimal nuclear properties with a half-life of 6.02 h, permitting the synthesis, administration and collection of clinically relevant quality images."
+    },
+    "Question_3": {
+        "Context": "Siderophores are molecules known for their ability to bind to certain metal ions.",
+        "Question": "Which ion is selectively bound by siderophores in their natural role?",
+        "A": "Fe2+ ion",
+        "B": "Fe3+ ion",
+        "C": "Ca2+ ion",
+        "D": "Zn2+ ion",
+        "Answer": "B",
+        "Source": "Siderophores are endogenous or exogenous molecules able to bind iron selectively in its ionic form (Fe3+ ion)."
+    },
+    "Question_4": {
+        "Context": "In the context of nuclear medicine, chelating agents are used to form stable complexes with radioisotopes for imaging purposes.",
+        "Question": "What is the chelating subunit mentioned as versatile and efficient for forming complexes with Technetium-99m?",
+        "A": "2,2'-bipyridine",
+        "B": "1,10-phenanthroline",
+        "C": "8-hydroxyquinoline",
+        "D": "Ethylenediaminetetraacetic acid (EDTA)",
+        "Answer": "C",
+        "Source": "O-TRENSOX and O-TRENOX two synthetic siderophores would be good candidates for this purpose as they are hexadentate ligands based on the very versatile and efficient 8-hydroxyquinoline chelating subunit."
+    },
+    "Question_5": {
+        "Context": "The partition coefficient is a measure used to determine the lipophilicity of a substance, which is its tendency to dissolve in fats, oils, lipids, and non-polar solvents, versus in water.",
+        "Question": "What does a negative partition coefficient (Log P) indicate about a substance's lipophilicity?",
+        "A": "It is highly lipophilic",
+        "B": "It is moderately lipophilic",
+        "C": "It is neutral in lipophilicity",
+        "D": "It is hydrophilic",
+        "Answer": "D",
+        "Source": "The complex\u2019s charge was evaluated on three different celluloses (neutral, negatively charged P81 and positively charged DE81), and finally in vivo studies with biodistribution and SPECT imaging of [99mTc]Tc-O-TRENOX and [99mTc]Tc-O-TRENSOX were performed. The [99mTc]Tc-O-TRENSOX complex was found to be hydrophilic and negatively charged."
+    },
+    "Question_6": {
+        "Context": "In the development of radiopharmaceuticals, the charge of a complex can influence its biodistribution and elimination pathways in the body.",
+        "Question": "What is the likely elimination pathway for a radiopharmaceutical complex that is negatively charged?",
+        "A": "Hepatobiliary elimination",
+        "B": "Renal elimination",
+        "C": "Pulmonary elimination",
+        "D": "Lymphatic elimination",
+        "Answer": "B",
+        "Source": "The [99mTc]Tc-O-TRENSOX complex was found to be hydrophilic and negatively charged. This was confirmed by a predominantly renal elimination in mice."
+    },
+    "Question_7": {
+        "Context": "The stability of a radiopharmaceutical complex is crucial for its effective use in imaging. The radiochemical purity (RCP) is an indicator of this stability.",
+        "Question": "What percentage of radiochemical purity was obtained for the [99mTc]Tc-O-TRENOX complex under optimal conditions?",
+        "A": "More than 90%",
+        "B": "More than 95%",
+        "C": "More than 97%",
+        "D": "More than 98%",
+        "Answer": "D",
+        "Source": "Using tin pyrophosphate as the reducing agent and a minimum of 100 nmol of ligand, we obtained the [99mTc]Tc-O-TRENOX complex with a radiochemical purity of more than 98%."
+    },
+    "Question_8": {
+        "Context": "The radiolabeling process involves the formation of a complex between a radioisotope and a chelating agent. Various factors can affect the efficiency of this process.",
+        "Question": "Which factor is NOT typically varied to optimize the radiolabeling conditions of a complex with Technetium-99m?",
+        "A": "Quantity of chelating agent",
+        "B": "Type of reducing agent",
+        "C": "Color of the reaction mixture",
+        "D": "pH of the reaction mixture",
+        "Answer": "C",
+        "Source": "Different parameters such as the quantity of chelating agent, type of reducing agent, pH and temperature of the reaction mixture were adjusted in order to find the best radiolabeling conditions."
+    },
+    "Question_9": {
+        "Context": "In the synthesis of radiopharmaceuticals, the reducing agent plays a crucial role in facilitating the radiolabeling process by altering the oxidation state of the radioisotope.",
+        "Question": "Which reducing agent was found to be more effective for obtaining high radiochemical purity when radiolabeling with Technetium-99m?",
+        "A": "Stannous chloride",
+        "B": "Stannous pyrophosphate",
+        "C": "Sodium borohydride",
+        "D": "Hydrochloric acid",
+        "Answer": "B",
+        "Source": "We therefore decided to use stannous pyrophosphate (Sn2(P2O7)) as reducing agent. As shown in Table 1, we obtained the best results with 25\u201350 \u00b5g of stannous pyrophosphate allowing to reach an excellent RCP, higher than 97% without the formation of [99mTc]TcO2."
+    },
+    "Question_10": {
+        "Context": "The radiolabeling of siderophores with Technetium-99m can be influenced by the presence of certain functional groups within the siderophore structure.",
+        "Question": "What modification in the structure of O-TRENSOX compared to O-TRENOX affects its lipophilicity?",
+        "A": "Addition of a hydroxyl group",
+        "B": "Addition of a sulphonate group",
+        "C": "Addition of a carboxyl group",
+        "D": "Addition of a methyl group",
+        "Answer": "B",
+        "Source": "These two chemical structures only differ by the addition of a sulphonate group on the three oxines of O-TRENSOX compared to O-TRENOX. This provides two chelates with different lipophilic characteristics."
+    }
+}

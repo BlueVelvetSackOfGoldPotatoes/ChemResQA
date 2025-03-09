@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on producing biochar from pigeonpea and maize stalks at different pyrolysis temperatures. The biochar yield was observed to decrease as the pyrolysis temperature increased.",
+        "Question": "What was the observed trend in biochar yield as the pyrolysis temperature increased?",
+        "A": "Increased",
+        "B": "Remained constant",
+        "C": "Decreased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "This decline is influenced by the composition of the feedstock, pyrolysis conditions, and properties of the biomass."
+    },
+    "Question_2": {
+        "Context": "The proximate analysis showed changes in volatile matter, ash content, and fixed carbon content as the pyrolysis temperature increased.",
+        "Question": "What happened to the volatile matter content as the pyrolysis temperature increased?",
+        "A": "Increased",
+        "B": "Remained constant",
+        "C": "Decreased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "Proximate analysis showed that as the pyrolysis temperature increased, volatile matter decreased."
+    },
+    "Question_3": {
+        "Context": "The study analyzed the nutrient composition of biochar derived from pigeonpea and maize stalks at different pyrolysis temperatures.",
+        "Question": "What happened to the nitrogen content in biochar as the pyrolysis temperature increased?",
+        "A": "Increased",
+        "B": "Remained constant",
+        "C": "Decreased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "Notable nitrogen concentrations were observed at 400 \u00b0C, with a decrease in nitrogen content as the pyrolysis temperature increased."
+    },
+    "Question_4": {
+        "Context": "The stability of biochar was assessed by analyzing the hydrogen-to-carbon (H/C) and oxygen-to-carbon (O/C) atomic ratios.",
+        "Question": "What does a lower H/C ratio in biochar indicate?",
+        "A": "Higher stability",
+        "B": "Lower stability",
+        "C": "Higher reactivity",
+        "D": "Higher hydrogen content",
+        "Answer": "A",
+        "Source": "A lower H/C ratio signifies improved structural stability and resistance to decomposition."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the energy-related properties of biochar, including energy retention efficiency and higher heating value.",
+        "Question": "What does the higher heating value (HHV) measure?",
+        "A": "Energy released during combustion",
+        "B": "Energy carried away by water vaporization",
+        "C": "Energy stored in the biochar",
+        "D": "Energy required for pyrolysis",
+        "Answer": "A",
+        "Source": "HHV measures the amount of energy released per unit mass or volume of fuel during complete combustion."
+    },
+    "Question_6": {
+        "Context": "The study examined the nutrient composition of biochar derived from maize and pigeonpea stalks.",
+        "Question": "What trend was observed in the nutrient content with increasing pyrolysis temperatures?",
+        "A": "Decreased",
+        "B": "Remained constant",
+        "C": "Increased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "The results showed an upward trend in nutrient content with increasing pyrolysis temperatures for both types of biochar."
+    },
+    "Question_7": {
+        "Context": "The study analyzed the elemental composition of biochar derived from maize and pigeonpea stalks.",
+        "Question": "What was the reason for the higher hydrogen content in biochar derived from pigeonpea stalks?",
+        "A": "Presence of cellulose and hemicellulose",
+        "B": "Presence of lignin",
+        "C": "Higher pyrolysis temperature",
+        "D": "Presence of oxygen-rich functional groups",
+        "Answer": "A",
+        "Source": "The higher hydrogen content in biochar derived from pigeonpea is due to the greater presence of hydrogen-rich compounds in pigeonpea stalk, including cellulose and hemicellulose."
+    },
+    "Question_8": {
+        "Context": "The study assessed the oxygen content in biochar derived from maize and pigeonpea stalks.",
+        "Question": "What contributes to the higher oxygen content in pigeonpea stalk-derived biochar?",
+        "A": "Presence of lignin",
+        "B": "Presence of cellulose and hemicellulose",
+        "C": "Higher pyrolysis temperature",
+        "D": "Presence of oxygen-rich functional groups",
+        "Answer": "D",
+        "Source": "The higher oxygen content observed in pigeonpea stalk-derived biochar can be attributed to the presence of oxygen-rich functional groups, including carboxyl and hydroxyl groups, in the feedstock."
+    },
+    "Question_9": {
+        "Context": "The study investigated the implications of hydrogen and oxygen content in biochar.",
+        "Question": "What does the decrease in the H/C atomic ratio indicate in biochar?",
+        "A": "Increased aromatization",
+        "B": "Decreased stability",
+        "C": "Increased hydrogen content",
+        "D": "Decreased reactivity",
+        "Answer": "A",
+        "Source": "The decrease in the atomic ratio of hydrogen-to-carbon (H/C) is caused by dehydration and dehydrogenation actions, along with the fragmentation and breaking of weak hydrogen bonds, suggesting increased aromatization."
+    },
+    "Question_10": {
+        "Context": "The study explored the energy-related properties of biochar derived from maize and pigeonpea stalks.",
+        "Question": "What does the energy retention efficiency measure in biochar production?",
+        "A": "Efficiency of energy release during combustion",
+        "B": "Efficiency of energy storage in biochar",
+        "C": "Efficiency of biochar production process",
+        "D": "Efficiency of energy conversion to biochar",
+        "Answer": "C",
+        "Source": "Energy retention efficiency is a significant parameter for assessing the efficiency of biochar production as a solid fuel substitute."
+    }
+}

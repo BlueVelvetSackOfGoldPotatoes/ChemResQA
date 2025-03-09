@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses antibiotic susceptibility of Staphylococcus aureus with different degrees of biofilm formation.",
+        "Question": "Which method was used to screen antibiotics effective in biofilm-developed Staphylococcus aureus?",
+        "A": "Bio-Timer method",
+        "B": "Microscopy method",
+        "C": "Culture method",
+        "D": "Spectroscopy method",
+        "Answer": "A",
+        "Source": "Reference: Hyo-Jung Shin, 'Antibiotics effective in biofilm-developed Staphylococcus aureus screened using Bio-Timer method...'"
+    },
+    "Question_2": {
+        "Context": "The study involves the synergistic effect of rifampin and erythromycin on biofilm matrix.",
+        "Question": "Which two antibiotics were studied for their synergistic effect on biofilm matrix?",
+        "A": "Penicillin and Amoxicillin",
+        "B": "Rifampin and Erythromycin",
+        "C": "Ciprofloxacin and Tetracycline",
+        "D": "Vancomycin and Gentamicin",
+        "Answer": "B",
+        "Source": "Reference: Hyo-Jung Shin, '...and synergistic effect of rifampin and erythromycin on biofilm matrix...'"
+    },
+    "Question_3": {
+        "Context": "The research focuses on Staphylococcus aureus with varying biofilm formation.",
+        "Question": "What bacterium was studied for its antibiotic susceptibility with different degrees of biofilm formation?",
+        "A": "Escherichia coli",
+        "B": "Streptococcus pneumoniae",
+        "C": "Staphylococcus aureus",
+        "D": "Salmonella enterica",
+        "Answer": "C",
+        "Source": "Reference: Shin H\u2011J, et al. 'Antibiotic susceptibility of Staphylococcus aureus with different degrees of biofilm formation.'"
+    },
+    "Question_4": {
+        "Context": "The paper mentions the use of a specific method to determine antibiotic susceptibility.",
+        "Question": "What was the method used to determine the antibiotic susceptibility of Staphylococcus aureus?",
+        "A": "Disk diffusion method",
+        "B": "PCR method",
+        "C": "Minimum inhibitory concentration method",
+        "D": "Biofilm quantification method",
+        "Answer": "C",
+        "Source": "Reference: Shin H\u2011J, et al. 'Antibiotic susceptibility of Staphylococcus aureus with different degrees of biofilm formation.'"
+    },
+    "Question_5": {
+        "Context": "The study involves the evaluation of antibiotics against biofilm-developed Staphylococcus aureus.",
+        "Question": "What was the focus of evaluating antibiotics in the study?",
+        "A": "Planktonic bacteria",
+        "B": "Biofilm-developed bacteria",
+        "C": "Gram-negative bacteria",
+        "D": "Anaerobic bacteria",
+        "Answer": "B",
+        "Source": "Reference: Hyo-Jung Shin, 'Antibiotics effective in biofilm-developed Staphylococcus aureus...'"
+    },
+    "Question_6": {
+        "Context": "The paper discusses the source of the modified paper and its development.",
+        "Question": "Where was the modified paper developed from?",
+        "A": "PhD dissertation",
+        "B": "Master's thesis",
+        "C": "Undergraduate project",
+        "D": "Research article",
+        "Answer": "B",
+        "Source": "Reference: Acknowledgements, 'This paper was modified and developed from the master\u2019s thesis of Hyo-Jung Shin.'"
+    },
+    "Question_7": {
+        "Context": "The study involves the correction of an original article.",
+        "Question": "What was corrected in the original article?",
+        "A": "Data analysis",
+        "B": "Statistical methods",
+        "C": "References",
+        "D": "Acknowledgements",
+        "Answer": "C",
+        "Source": "Reference: Following the publication of the original article, 'the authors would like to add a reference and update the acknowledgements section.'"
+    },
+    "Question_8": {
+        "Context": "The paper mentions the affiliation of the corresponding author.",
+        "Question": "Which department is Yong Lim affiliated with?",
+        "A": "Department of Immunology",
+        "B": "Department of Microbiology",
+        "C": "Department of Chemistry",
+        "D": "Department of Physics",
+        "Answer": "A",
+        "Source": "Reference: Correspondence, 'Yong Lim ylim@chosun.ac.kr Department of Immunology, Chosun University School of Medicine...'"
+    },
+    "Question_9": {
+        "Context": "The study involves the use of antibiotics against Staphylococcus aureus.",
+        "Question": "Which antibiotics were found to be effective against Staphylococcus aureus in the study?",
+        "A": "Penicillin and Ciprofloxacin",
+        "B": "Rifampin and Erythromycin",
+        "C": "Vancomycin and Gentamicin",
+        "D": "Amoxicillin and Tetracycline",
+        "Answer": "B",
+        "Source": "Reference: Hyo-Jung Shin, 'Antibiotics effective in biofilm-developed Staphylococcus aureus...'"
+    },
+    "Question_10": {
+        "Context": "The research involves the susceptibility of Staphylococcus aureus to antibiotics.",
+        "Question": "What type of Staphylococcus was studied for its susceptibility to antibiotics?",
+        "A": "Methicillin-resistant Staphylococcus aureus (MRSA)",
+        "B": "Vancomycin-resistant Staphylococcus aureus (VRSA)",
+        "C": "Penicillin-resistant Staphylococcus aureus",
+        "D": "Erythromycin-resistant Staphylococcus aureus",
+        "Answer": "A",
+        "Source": "Reference: Shin H\u2011J, et al. 'Antibiotic susceptibility of Staphylococcus aureus with different degrees of biofilm formation.'"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of a flexible penetrating microelectrode array (FPMA) for recording sensory nerve signals. The FPMA was implanted in the rabbit sciatic nerve to record spontaneous neural signals.",
+        "Question": "What type of signals were successfully recorded by the FPMA implanted in the rabbit sciatic nerve?",
+        "A": "Muscle signals",
+        "B": "Compound action potentials",
+        "C": "External noises",
+        "D": "Sensory nerve signals",
+        "Answer": "B",
+        "Source": "Unit action potentials (APs), so called \u2018spikes\u2019, were recorded by 6 out of 7 channels, while one channel (ch. 8) recorded only compound action potentials."
+    },
+    "Question_2": {
+        "Context": "The study aimed to verify the ability of the FPMA to record sensory nerve signals. The FPMA was implanted onto the sciatic nerve of a rabbit for in-vivo experiments.",
+        "Question": "What was used as reference electrodes during the in-vivo experiments with the FPMA implanted in the rabbit sciatic nerve?",
+        "A": "Flat electrode based on the parylene-C cable",
+        "B": "Pt/Ir wire",
+        "C": "Ground electrode",
+        "D": "Syringe needle",
+        "Answer": "A",
+        "Source": "A flat electrode based on the parylene-C cable and a Pt/Ir wire were used as reference electrodes."
+    },
+    "Question_3": {
+        "Context": "The FPMA was capable of recording evoked sensory neural signals synchronized with ankle movement. The signals showed different waveforms based on the angle of the ankle.",
+        "Question": "What type of neural signals were recorded in response to ankle movement?",
+        "A": "Muscle contraction signals",
+        "B": "Proprioceptive neural signals",
+        "C": "Sensory-evoked neural signals",
+        "D": "External interference signals",
+        "Answer": "C",
+        "Source": "It implies that the signals recorded by channel 8 were not artifacts caused by the ankle movement, but neural signals in response to the sensory stimulus of the ankle movement."
+    },
+    "Question_4": {
+        "Context": "The FPMA was designed to record sensory nerve signals from peripheral nerves with high resolution. The study aimed to investigate the ability of the FPMA to record peripheral neural signals in response to various stimuli.",
+        "Question": "What was the duration of the detected action potentials recorded by channel 2 of the FPMA?",
+        "A": "2 ms",
+        "B": "4 ms",
+        "C": "6 ms",
+        "D": "8 ms",
+        "Answer": "B",
+        "Source": "The duration of the detected action potentials was about 4 ms."
+    },
+    "Question_5": {
+        "Context": "The FPMA was implanted into the sciatic nerve of a rabbit for acute in-vivo recording and signal processing. The recorded neural signals were analyzed using commercial software.",
+        "Question": "What software was used to analyze the recorded neural signals?",
+        "A": "Cereplex\u2122",
+        "B": "Matlab",
+        "C": "SPIKE 2",
+        "D": "Blackrock Neurotech",
+        "Answer": "C",
+        "Source": "The recorded neural signals were analyzed with commercial software Matlab (Mathworks, Natick, MA, USA) and SPIKE 2 (CED, Cambridge, UK)."
+    },
+    "Question_6": {
+        "Context": "The study focused on the development of a peripheral nerve interface that is flexible and has soft properties to reduce immune responses. The FPMA was fabricated using PDMS-based technology.",
+        "Question": "What material was used as a conductor material for the FPMA electrodes?",
+        "A": "Gold",
+        "B": "Silicon",
+        "C": "Titanium",
+        "D": "Highly doped silicon",
+        "Answer": "D",
+        "Source": "Each of the electrodes is used as a probe to sense the changes in electrical potential around it, so highly doped silicon was used as conductor material."
+    },
+    "Question_7": {
+        "Context": "The FPMA was designed to fit the shape of the nerve and lower immune responses. The study aimed to verify the ability of the FPMA to record sensory nerve signals in response to various stimuli.",
+        "Question": "What was used to prevent toxic reactions in the in-vivo experiments with the FPMA implanted in the rabbit sciatic nerve?",
+        "A": "PDMS",
+        "B": "Parylene-C",
+        "C": "Titanium",
+        "D": "Polyethylene glycol",
+        "Answer": "A",
+        "Source": "To prevent toxic reactions in in-vivo, we encapsulated the soldered portion entirely using PDMS."
+    },
+    "Question_8": {
+        "Context": "The FPMA was implanted onto the sciatic nerve of a rabbit for in-vivo experiments. The study aimed to investigate the ability of the FPMA to record sensory nerve signals in response to various stimuli.",
+        "Question": "What was the purpose of encapsulating the soldered portion entirely using PDMS in the in-vivo experiments?",
+        "A": "To prevent infection",
+        "B": "To reduce immune responses",
+        "C": "To stabilize the electrodes",
+        "D": "To prevent toxic reactions",
+        "Answer": "D",
+        "Source": "To prevent toxic reactions in in-vivo, we encapsulated the soldered portion entirely using PDMS."
+    },
+    "Question_9": {
+        "Context": "The FPMA was implanted onto the sciatic nerve of a rabbit for in-vivo experiments. The study aimed to verify the ability of the FPMA to record sensory nerve signals in response to various stimuli.",
+        "Question": "What was used as the adapter boards in the custom interconnection cable for the in-vivo experiments?",
+        "A": "Parylene-C based cable",
+        "B": "Flexible printed circuit boards (FPCBs)",
+        "C": "Ultra-thin wires",
+        "D": "Conductive epoxy",
+        "Answer": "B",
+        "Source": "The parylene-C based cable was connected to the FPCBs that were used as the adapter boards, using conductive epoxy (Duralco 125, Cotronics, New York, NY, US)."
+    },
+    "Question_10": {
+        "Context": "The study focused on the development of a flexible penetrating microelectrode array (FPMA) for recording sensory nerve signals. The FPMA was fabricated using MESM-based technology.",
+        "Question": "What was used to reduce the impedance of the active electrode sites in the FPMA?",
+        "A": "Titanium",
+        "B": "Gold",
+        "C": "Polyethylene glycol",
+        "D": "Parylene-C",
+        "Answer": "A",
+        "Source": "The tips of electrodes were sputtered with Ti/Pt in thicknesses of 50 nm/200nm to reduce the impedance of the active electrode sites."
+    }
+}

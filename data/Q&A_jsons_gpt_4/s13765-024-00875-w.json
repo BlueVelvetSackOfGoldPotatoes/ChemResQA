@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Chrysanthemum morifolium is a perennial flowering plant that belongs to the Asteraceae family and is used in traditional medicine.",
+        "Question": "Which botanical family does Chrysanthemum morifolium belong to?",
+        "A": "Rosaceae",
+        "B": "Asteraceae",
+        "C": "Liliaceae",
+        "D": "Solanaceae",
+        "Answer": "B",
+        "Source": "Chrysanthemum morifolium, commonly known as chrysanthemum or florist\u2019s chrysanthemum, is a perennial flowering plant belonging to the Asteraceae (Compositae) family."
+    },
+    "Question_2": {
+        "Context": "Phenolic compounds are a class of chemical compounds that consist of a hydroxyl group (-OH) bonded directly to an aromatic hydrocarbon group.",
+        "Question": "What structural feature is common among phenolic compounds?",
+        "A": "One or more amino groups",
+        "B": "One or more carboxyl groups",
+        "C": "One or more hydroxyl groups",
+        "D": "One or more ketone groups",
+        "Answer": "C",
+        "Source": "Phenolic is the most encountered natural antioxidant compound in plants. They possess one or more hydroxyl groups in their structure, allowing for their structural classification into two major classes: phenolic acids and flavonoids."
+    },
+    "Question_3": {
+        "Context": "In the context of natural antioxidants, various assays are used to evaluate their efficacy, such as the DPPH and ABTS+ assays.",
+        "Question": "Which assays are commonly used to assess the antioxidant abilities of natural compounds?",
+        "A": "DPPH and ABTS+ assays",
+        "B": "PCR and ELISA assays",
+        "C": "Mass spectrometry and NMR",
+        "D": "Southern blot and Western blot",
+        "Answer": "A",
+        "Source": "Numerous methods are employed to evaluate the efficacy of natural antioxidants, encompassing assays, such as the DPPH (2,2-diphenyl-1-picrylhydrazyl) assay, etc."
+    },
+    "Question_4": {
+        "Context": "High-performance liquid chromatography (HPLC) is a technique in analytical chemistry used to separate, identify, and quantify each component in a mixture.",
+        "Question": "What analytical technique is used to quantitatively analyze phenolic compounds in plant extracts?",
+        "A": "Gas chromatography",
+        "B": "Thin-layer chromatography",
+        "C": "High-performance liquid chromatography",
+        "D": "Ion exchange chromatography",
+        "Answer": "C",
+        "Source": "The objective of this study was to quantitatively analyze twelve phenolic compounds through HPLC/ UV."
+    },
+    "Question_5": {
+        "Context": "The ABTS+ radical scavenging assay is a method used to measure the antioxidant capacity of substances, where antioxidants reduce the ABTS+ radical, causing a color change.",
+        "Question": "What does a color change in the ABTS+ radical scavenging assay indicate?",
+        "A": "Presence of enzymes",
+        "B": "Antioxidant capacity of a substance",
+        "C": "Concentration of proteins",
+        "D": "Activity of DNA polymerase",
+        "Answer": "B",
+        "Source": "The ABTS+ radical-scavenging assay was performed by diluting the ABTS+ solution with water to create the ABTS+ working solution."
+    },
+    "Question_6": {
+        "Context": "Phenolic acids and flavonoids are two major classes of phenolic compounds, which are known for their antioxidant properties.",
+        "Question": "Into which two major classes can phenolic compounds be structurally classified?",
+        "A": "Alcohols and ethers",
+        "B": "Aldehydes and ketones",
+        "C": "Phenolic acids and flavonoids",
+        "D": "Esters and amides",
+        "Answer": "C",
+        "Source": "They possess one or more hydroxyl groups in their structure, allowing for their structural classification into two major classes: phenolic acids and flavonoids."
+    },
+    "Question_7": {
+        "Context": "Reactive oxygen species (ROS) are chemically reactive chemical species containing oxygen, which can be harmful in substantial quantities.",
+        "Question": "What is a by-product of oxidation in living systems that can be harmful in substantial quantities?",
+        "A": "Reactive nitrogen species",
+        "B": "Reactive oxygen species",
+        "C": "Reactive sulfur species",
+        "D": "Reactive chlorine species",
+        "Answer": "B",
+        "Source": "Oxidation constitutes a significant process in food, chemicals, and living systems; however, a by-product is the production of free radicals, particularly reactive oxygen species (ROS)."
+    },
+    "Question_8": {
+        "Context": "The DPPH assay is a common method for assessing the antioxidant activity of compounds, where a color change from purple to yellow indicates radical scavenging activity.",
+        "Question": "In the DPPH assay, what does a color change from purple to yellow indicate?",
+        "A": "Presence of heavy metals",
+        "B": "Activation of enzymes",
+        "C": "Radical scavenging activity",
+        "D": "Protein denaturation",
+        "Answer": "C",
+        "Source": "Antioxidants reduce DPPH by donating an electron, thereby causing a color change to yellow, which can be measured using spectrophotometry."
+    },
+    "Question_9": {
+        "Context": "Chrysanthemum morifolium is known for its therapeutic properties and has been used to treat various conditions in traditional medicine.",
+        "Question": "Which plant is known for its therapeutic properties and is used in traditional medicine to treat various conditions?",
+        "A": "Aloe vera",
+        "B": "Ginkgo biloba",
+        "C": "Chrysanthemum morifolium",
+        "D": "Echinacea purpurea",
+        "Answer": "C",
+        "Source": "C. morifolium is believed to possess therapeutic properties for treating conditions, such as headache, influenza, hepatic ailments, inflammation, arteriosclerosis, hypertension, hyperuricemia, diabetes alleviation, and eye diseases."
+    },
+    "Question_10": {
+        "Context": "Phenolic compounds in plants are known to play various roles beyond their antioxidant properties, including growth regulation and antimicrobial effects.",
+        "Question": "Which roles do phenolic compounds play in plants besides their antioxidant properties?",
+        "A": "Growth regulation and antimicrobial effects",
+        "B": "Photosynthesis and respiration",
+        "C": "Nitrogen fixation and pollination",
+        "D": "Transpiration and mineral absorption",
+        "Answer": "A",
+        "Source": "Additionally, phenolic compounds are applied in growth regulation, hormonal activity, pH regulation, antimicrobial effects, metabolism, and the induction of dormant periods."
+    }
+}

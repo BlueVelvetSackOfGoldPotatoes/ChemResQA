@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "The paper discusses the development of virtual spaces and integrals for plane-wave second quantized Hamiltonians validated using FCI calculations and VQE circuits on quantum computers. ",
+            "Question": "What is the abbreviation used for correlation optimized virtual orbitals?",
+            "A": "COVOs",
+            "B": "VQE",
+            "C": "FCI",
+            "D": "Qiskit",
+            "Answer": "A",
+            "Source": "which we term as correlation optimized virtual orbitals with the abbreviation COVOs."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "The paper discusses the comparison of simulations of small molecules calculated with different basis sets.",
+            "Question": "Which molecule was used to compare periodic and aperiodic results?",
+            "A": "H2O",
+            "B": "LiH",
+            "C": "CO2",
+            "D": "CH4",
+            "Answer": "B",
+            "Source": "good agreement between periodic and aperiodic results for an LiH molecule."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "The paper mentions the use of quantum computers for calculations containing strong electron-electron correlations.",
+            "Question": "What is the abbreviation for Variational Quantum Eigensolver?",
+            "A": "NISQ",
+            "B": "VQA",
+            "C": "QSharp",
+            "D": "PSPW",
+            "Answer": "B",
+            "Source": "This has materialized into the development of Variational Quantum Algorithms (VQA)."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "The paper discusses the challenges in calculating two-electron integrals for condensed phase systems.",
+            "Question": "What is used to handle the integration of the Brillouin zone for exact exchange calculations?",
+            "A": "Filon integration strategy",
+            "B": "Qiskit",
+            "C": "QSharp",
+            "D": "NWChem",
+            "Answer": "A",
+            "Source": "using the recently developed Filon integration strategy for calculating exact exchange energies and two-electron periodic integrals."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "The paper introduces the concept of second-quantized Hamiltonians.",
+            "Question": "What operators are introduced in the second-quantization form of the Hamiltonian?",
+            "A": "Creation and annihilation operators",
+            "B": "Addition and subtraction operators",
+            "C": "Multiplication and division operators",
+            "D": "Integration and differentiation operators",
+            "Answer": "A",
+            "Source": "where single particle (electron) creation a\u2020 p|0\ufffd = |1\ufffd and annihilation ap|1\ufffd = |0\ufffd operators are introduced."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "The paper discusses the use of pseudopotentials in plane-wave calculations.",
+            "Question": "What is used to replace singular potentials in plane-wave calculations?",
+            "A": "Pseudopotentials",
+            "B": "Hartree-Fock orbitals",
+            "C": "Atomic orbitals",
+            "D": "Linear combinations of atomic orbitals",
+            "Answer": "A",
+            "Source": "By making this replacement, the Hamiltonian, H, in Eq. 1 can be written as where the first term is the kinetic energy operator, the second term contains the local and non-local pseudopotentials."
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "The paper mentions the importance of accurate basis sets in quantum chemistry methods.",
+            "Question": "What is the popular basis set optimized at the CISD level of theory?",
+            "A": "Dunning correlation consistent basis set",
+            "B": "Plane-wave basis set",
+            "C": "Atomic-like orbitals",
+            "D": "COVOs",
+            "Answer": "A",
+            "Source": "For high-level methods, a popular basis set is the Dunning correlation consistent basis set, in which the atomic orbitals are optimized at the configuration interaction singles and doubles (CISD) level of theory."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "The paper discusses the challenges in calculating two-electron integrals for condensed phase systems.",
+            "Question": "What is significantly more complicated to calculate with periodic boundary conditions?",
+            "A": "Exact exchange",
+            "B": "One-electron integrals",
+            "C": "Hartree-Fock orbitals",
+            "D": "Pseudopotentials",
+            "Answer": "A",
+            "Source": "it is significantly more complicated to calculate exact exchange and the other two-electron integrals with periodic boundary conditions."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "The paper discusses the development of optimized orbital basis sets.",
+            "Question": "What is the method called for generating optimized orbital basis sets?",
+            "A": "COVOs",
+            "B": "QSharp",
+            "C": "Qiskit",
+            "D": "PSPW",
+            "Answer": "A",
+            "Source": "we have recently developed new methods for generating optimized orbital basis sets, called COVOs."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "The paper mentions the challenges in quantum computing due to short coherence times and noise.",
+            "Question": "What class of algorithms strives to find the lowest eigenvalue of a given observable?",
+            "A": "NISQ",
+            "B": "VQA",
+            "C": "QSharp",
+            "D": "PSPW",
+            "Answer": "B",
+            "Source": "Briefly, this class of algorithms strives to find the lowest eigenvalue of a given observable by assuming the associated quantum state can be accurately represented by a trial wave function."
+        }
+    }
+]

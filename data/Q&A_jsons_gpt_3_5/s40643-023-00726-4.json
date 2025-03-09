@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on evaluating plant-based feedstocks for biorefining. They applied compatible sequential solvent extractions to N. glauca leaves to generate enriched extracts containing higher metabolite content.",
+        "Question": "What was the purpose of applying sequential solvent extractions to N. glauca leaves?",
+        "A": "To reduce the metabolite content",
+        "B": "To increase the biomass production",
+        "C": "To enable the generation of enriched extracts with higher metabolite content",
+        "D": "To study the growth conditions of N. glauca",
+        "Answer": "C",
+        "Source": "Compatible sequential solvent extractions were applied to N. glauca leaves to enable the generation of enriched extracts containing higher metabolite content comparing to direct leaf extracts."
+    },
+    "Question_2": {
+        "Context": "The study identified various metabolite components within the fractions obtained from N. glauca leaves. Gas liquid chromatography-mass spectrometry (GC-MS) was used for metabolite identification.",
+        "Question": "What analytical technique was used for metabolite identification in the study?",
+        "A": "High-performance liquid chromatography (HPLC)",
+        "B": "Gas liquid chromatography-mass spectrometry (GC-MS)",
+        "C": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "D": "Electron microscopy",
+        "Answer": "B",
+        "Source": "Metabolite identification was confirmed by comparison of physico-chemical properties displayed by available authentic standards."
+    },
+    "Question_3": {
+        "Context": "The study revealed the presence of various compounds in the enriched fractions of N. glauca, including waxes, oils, fermentable sugars, and terpenoids. The enriched fractions contained a high level of readily extractable hydrocarbons and oils.",
+        "Question": "What types of compounds were identified in the enriched fractions of N. glauca?",
+        "A": "Proteins and carbohydrates",
+        "B": "Lipids and nucleic acids",
+        "C": "Waxes, oils, fermentable sugars, and terpenoids",
+        "D": "Vitamins and minerals",
+        "Answer": "C",
+        "Source": "Collectively, co-products such waxes, oils, fermentable sugars, and terpenoids were all identified and quantified."
+    },
+    "Question_4": {
+        "Context": "The study highlighted the potential of N. glauca residue material as a promising lignocellulosic substrate for the production of fermentable sugars. Saccharification yield and cell wall composition analyses were performed on the stems of N. glauca.",
+        "Question": "What was the potential use of N. glauca residue material mentioned in the study?",
+        "A": "Production of bioethanol",
+        "B": "Production of plastics",
+        "C": "Production of pharmaceuticals",
+        "D": "Production of textiles",
+        "Answer": "A",
+        "Source": "In addition, the saccharification yield and cell wall composition analyses in the stems revealed the potential of the residue material as a promising lignocellulosic substrate for the production of fermentable sugars."
+    },
+    "Question_5": {
+        "Context": "The study quantified selected metabolites in non-polar extracts and the aqueous fraction of N. glauca leaves after a multi-fractional process. The concentrations of linoleic acid, hentriacontane, squalene, and solanesol were determined.",
+        "Question": "Which compound was found to be present in significant amounts in the non-polar extracts of N. glauca leaves?",
+        "A": "Glycerol",
+        "B": "Fructose",
+        "C": "Glucose",
+        "D": "Hentriacontane",
+        "Answer": "D",
+        "Source": "Hentriacontane was by far the most abundant compound, suggesting that the implementation of this bioprocessing allows preferential enrichment of hentriacontane."
+    },
+    "Question_6": {
+        "Context": "The study discussed the potential of N. glauca as a feedstock for biorefining due to its high sprouting capacity, low resource input, and tolerance to various stresses. The plant is easily grown on marginal lands.",
+        "Question": "What characteristic of N. glauca makes it a suitable feedstock for biorefining?",
+        "A": "High nicotine content",
+        "B": "Low sprouting capacity",
+        "C": "High resource input requirement",
+        "D": "Tolerance to abiotic and biotic stresses",
+        "Answer": "D",
+        "Source": "It shows high levels of tolerance to both abiotic and biotic stresses."
+    },
+    "Question_7": {
+        "Context": "The study mentioned the presence of solanesol and squalene in N. glauca, which are commercially valuable products. Solanesol is used in various applications such as antibiotic, antioxidant, and cardiac stimulating properties.",
+        "Question": "What are the potential applications of solanesol mentioned in the study?",
+        "A": "Antibiotic, antioxidant, and cardiac stimulating properties",
+        "B": "Pesticide, herbicide, and fungicide",
+        "C": "Food preservative, coloring agent, and flavor enhancer",
+        "D": "Plasticizer, lubricant, and surfactant",
+        "Answer": "A",
+        "Source": "Solanesol is a naturally occurring triterpene alcohol with recognised antibiotic, antioxidant, and cardiac stimulating properties."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the saccharification efficiency of N. glauca stems compared to maize and poplar. Different pre-treatments were applied to the biomass samples to enhance saccharification.",
+        "Question": "Which pre-treatment method showed the highest efficiency for saccharification of N. glauca biomass?",
+        "A": "No pre-treatment",
+        "B": "Acid pre-treatment",
+        "C": "Alkaline pre-treatment",
+        "D": "Hot water pre-treatment",
+        "Answer": "D",
+        "Source": "Upon hot water pre-treatment, the saccharification efficiency of N. glauca biomass is as high as that of poplar biomass and better than that of maize biomass."
+    },
+    "Question_9": {
+        "Context": "The study discussed the potential of N. glauca as a renewable feedstock for industry due to its ability to grow in marginal lands and its high biomass production. The plant is also amenable to genetic transformation.",
+        "Question": "What advantage of N. glauca was highlighted in the study regarding its potential as a renewable feedstock?",
+        "A": "High dependence on fertile lands",
+        "B": "Inability to grow in suboptimal conditions",
+        "C": "Readiness for genetic transformation",
+        "D": "Low biomass production",
+        "Answer": "C",
+        "Source": "Improving the output traits in a non-food crop that easily grows in marginal land is an attractive one."
+    },
+    "Question_10": {
+        "Context": "The study emphasized the importance of using modern biotechnology to improve the production of desired chemicals from plant biomass. They also discussed the challenges associated with genetic modification for industrial purposes.",
+        "Question": "What was highlighted as a key advantage of using N. glauca for biorefining purposes?",
+        "A": "High dependence on food crops",
+        "B": "Readiness for genetic transformation",
+        "C": "Low biomass production",
+        "D": "Inability to grow in marginal lands",
+        "Answer": "B",
+        "Source": "A key advantage of N. glauca is that it is not related to food crops and is readily amenable for genetic transformation."
+    }
+}

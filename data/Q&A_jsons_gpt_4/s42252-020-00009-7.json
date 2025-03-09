@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Biodegradable films can be enhanced with the addition of metal particles, which may confer antimicrobial properties to the material.",
+        "Question": "What effect do copper particles have when added to thermoplastic corn starch films?",
+        "A": "They increase the transparency of the films",
+        "B": "They have no effect on the films",
+        "C": "They give the films a brown pigmentation and decrease their transparency",
+        "D": "They make the films completely opaque",
+        "Answer": "C",
+        "Source": "The presence of both fillers gave composite films a brown pigmentation and decreased their transparency; these effects were more pronounced at higher particles concentrations."
+    },
+    "Question_2": {
+        "Context": "The mechanical properties of materials can be altered by the addition of certain types of particles, which may act as reinforcing agents.",
+        "Question": "How do copper particles at certain concentrations affect the mechanical properties of thermoplastic corn starch films?",
+        "A": "They decrease the maximum tensile strength and increase elongation at break",
+        "B": "They act as reinforcing agents increasing the maximum tensile strength but decrease elongation at break",
+        "C": "They have no effect on the mechanical properties",
+        "D": "They increase both the maximum tensile strength and elongation at break",
+        "Answer": "B",
+        "Source": "Copper particles at 1 and 5% acted as reinforcing agents increasing the maximum tensile strength but their presence lead to a decrease in elongation at break, affecting films ductility."
+    },
+    "Question_3": {
+        "Context": "In the context of food packaging, active packaging materials may possess antimicrobial properties that can inhibit the growth of bacteria.",
+        "Question": "What is the effect of copper particles incorporated into thermoplastic corn starch films on bacteria?",
+        "A": "They promote the growth of bacteria",
+        "B": "They have no effect on bacteria",
+        "C": "They inhibit the growth of Gram-positive bacteria only",
+        "D": "They inhibit the growth of both Gram-positive and Gram-negative bacteria",
+        "Answer": "D",
+        "Source": "Composites inhibited the growth of Gram+ and Gram- bacteria, demonstrating their antimicrobial capacity."
+    },
+    "Question_4": {
+        "Context": "The distribution of particles within a polymer matrix can be evaluated using certain microscopy techniques.",
+        "Question": "Which microscopy technique was used to evaluate the distribution of copper particles within the thermoplastic corn starch matrix?",
+        "A": "Transmission Electron Microscopy (TEM)",
+        "B": "Scanning Electron Microscopy (SEM)",
+        "C": "Atomic Force Microscopy (AFM)",
+        "D": "Confocal Laser Scanning Microscopy (CLSM)",
+        "Answer": "B",
+        "Source": "Particles distribution within TPS matrix and the presence of some pores and cracks, induced by Si-Cu particles, was evaluated by SEM."
+    },
+    "Question_5": {
+        "Context": "The stability of copper particles can be modified by applying a certain type of coating.",
+        "Question": "What type of coating was applied to copper microparticles to improve their stability?",
+        "A": "Polyethylene glycol",
+        "B": "Silica",
+        "C": "Polystyrene",
+        "D": "Polyvinyl alcohol",
+        "Answer": "B",
+        "Source": "Silica coated Cu particles Silica coating was performed in order to improve Cu particles stability."
+    },
+    "Question_6": {
+        "Context": "The size of particles used in composite materials can be characterized and measured using various analytical techniques.",
+        "Question": "Which technique was used to study the size distribution of copper particles in the research?",
+        "A": "Dynamic Light Scattering (DLS)",
+        "B": "Laser Diffraction Particle Size Distribution Analysis",
+        "C": "Nuclear Magnetic Resonance (NMR) Spectroscopy",
+        "D": "X-ray Diffraction (XRD)",
+        "Answer": "B",
+        "Source": "On the other hand, particles size distribution was studied using a Horiba Partica LA-950 Laser Diffraction Particle Size Distribution Analyzer (Kyoto, Japan)."
+    },
+    "Question_7": {
+        "Context": "When developing materials for food packaging, it is important to consider the potential migration of components from the packaging into the food.",
+        "Question": "How was the migration of copper from the thermoplastic corn starch films to a simulant of aqueous foods tested?",
+        "A": "Using a Buck Scientific VGP 210 Atomic Absorption Spectrophotometer",
+        "B": "Through a series of biodegradation tests",
+        "C": "By measuring the weight loss of the films over time",
+        "D": "Employing a gas chromatography-mass spectrometry analysis",
+        "Answer": "A",
+        "Source": "The released copper was determined with a Buck Scientific VGP 210 Atomic Absorption Spectrophotometer (E. Norwalk, CT, USA) by the electrothermal atomization method using pyrolytic graphite tubes."
+    },
+    "Question_8": {
+        "Context": "The presence of certain elements within a material can be confirmed and quantified using specific spectroscopic techniques.",
+        "Question": "Which spectroscopic technique was employed to confirm the presence of copper in the thermoplastic corn starch films?",
+        "A": "Ultraviolet-visible (UV-Vis) Spectroscopy",
+        "B": "Infrared (IR) Spectroscopy",
+        "C": "Atomic Absorption Spectroscopy (AAS)",
+        "D": "Raman Spectroscopy",
+        "Answer": "C",
+        "Source": "The released copper was determined with a Buck Scientific VGP 210 Atomic Absorption Spectrophotometer (E. Norwalk, CT, USA) by the electrothermal atomization method using pyrolytic graphite tubes."
+    },
+    "Question_9": {
+        "Context": "The mechanical properties of films can be determined by subjecting the material to tensile tests, which provide information about the material's strength and ductility.",
+        "Question": "According to the standard method used in the research, what does the maximum tensile strength (\u03c3m) of a film indicate?",
+        "A": "The amount of light the film can transmit",
+        "B": "The film's resistance to microbial growth",
+        "C": "The film's resistance to a stretching force until it breaks",
+        "D": "The film's ability to return to its original shape after deformation",
+        "Answer": "C",
+        "Source": "Ten test specimens (13 \u00d7 100 mm) were assayed for each film formulation and stress-strain curves were calculated from load-displacement data. Maximum tensile strength (\u03c3m) and elongation at break (\u03b5b) were calculated according to ASTM D882\u201300 standard method."
+    },
+    "Question_10": {
+        "Context": "The addition of antimicrobial agents to food packaging can be an effective strategy to extend the shelf life of perishable food products by inhibiting microbial growth.",
+        "Question": "What is the primary purpose of incorporating copper particles into thermoplastic corn starch films?",
+        "A": "To increase the nutritional value of the food",
+        "B": "To enhance the color and appearance of the packaging",
+        "C": "To extend the shelf-life of perishable food products by providing antimicrobial activity",
+        "D": "To make the packaging material more flexible",
+        "Answer": "C",
+        "Source": "The aim of this work was to obtain active films based on thermoplastic corn starch (TPS) with nude and silica-coated copper particles, which could extend the shelf-life of perishable food products."
+    }
+}

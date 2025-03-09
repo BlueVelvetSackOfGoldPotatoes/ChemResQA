@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Alkaline hydrogen peroxide (AHP) treatment is used to enhance the digestibility of lignocellulosic biomass by removing lignin and other components that limit enzyme access to cellulose.",
+        "Question": "What is the primary purpose of using alkaline hydrogen peroxide (AHP) treatment on lignocellulosic biomass?",
+        "A": "To increase its weight",
+        "B": "To enhance its digestibility",
+        "C": "To change its color",
+        "D": "To reduce its energy content",
+        "Answer": "B",
+        "Source": "The optimization of AHP treatment is a key step to minimize the cost of treatment without increasing both polyphenols content and lipid oxidation. In this regard, AHP treatment of EOP was investigated using the response surface methodology RSM in which sodium hydroxide (NaOH) varied between 1% (w/v) to 6% (w/v) and hydrogen peroxide (H2O2) varied between 1% (w/v) and 4% (w/v)."
+    },
+    "Question_2": {
+        "Context": "The presence of phenolic compounds in agricultural waste like olive pomace can inhibit the growth and germination of plants due to their phytotoxic nature.",
+        "Question": "Why is the presence of phenolic compounds in agricultural waste problematic for the environment?",
+        "A": "They enhance soil fertility",
+        "B": "They increase water retention in soil",
+        "C": "They act as a phytotoxic agent",
+        "D": "They attract beneficial insects",
+        "Answer": "C",
+        "Source": "Its richness in polyphenols generates environmental resistance. These phenolic compounds can act as a phytotoxic agent by inhibiting the growth as well as the germination of plants."
+    },
+    "Question_3": {
+        "Context": "Lipid oxidation in feedstocks can lead to the formation of toxic compounds, which may reduce feed palatability and cause oxidative stress in animals.",
+        "Question": "What is a negative effect of lipid oxidation in animal feedstocks?",
+        "A": "Improves flavor",
+        "B": "Increases nutritional value",
+        "C": "Leads to the formation of toxic compounds",
+        "D": "Enhances color",
+        "Answer": "C",
+        "Source": "As for lipid oxidation, resulting from the AHP treatment reaction, it increases the presence of toxic compounds such as free radicals, peroxides and aldehydes which can reduce feed palatability, as well as lead to oxidative stress and less feed intake."
+    },
+    "Question_4": {
+        "Context": "In the context of animal feed, crude proteins, neutral detergent fibers, and acid detergent fibers are important components that contribute to the nutritional value of the feed.",
+        "Question": "Which components are significant for the nutritional value of animal feed?",
+        "A": "Crude proteins and detergent fibers",
+        "B": "Artificial colorants and flavors",
+        "C": "Preservatives and antioxidants",
+        "D": "Water content and minerals",
+        "Answer": "A",
+        "Source": "Crude proteins, neutral detergent fibers, and acid detergent fibers yields of TOP were, respectively, 3.320 \u00b1 0.05, 75.24 \u00b1 0.23, and 54.05 \u00b1 0.35 g/100 g of DW, significantly more important than those of untreated EOP."
+    },
+    "Question_5": {
+        "Context": "Enzymatic hydrolysis is a process where enzymes break down complex molecules into simpler sugars, which can be used for fermentation or as feedstock.",
+        "Question": "What is the outcome of enzymatic hydrolysis in the context of feedstock treatment?",
+        "A": "Production of complex carbohydrates",
+        "B": "Reduction of sugar content",
+        "C": "Breakdown into simpler sugars",
+        "D": "Formation of proteins",
+        "Answer": "C",
+        "Source": "The enzymatic hydrolysis with a cellulase-based cocktail (Celluclast15 FPU/ gDW), recorded a 48% of reducing sugar yield for TOP against 33% for EOP."
+    },
+    "Question_6": {
+        "Context": "In vitro organic matter digestibility (IVOMD) is an assay used to estimate the digestibility of feed materials, which is an important factor in evaluating the quality of animal feed.",
+        "Question": "What does in vitro organic matter digestibility (IVOMD) measure in the context of animal feed?",
+        "A": "The flavor profile",
+        "B": "The color intensity",
+        "C": "The digestibility of feed materials",
+        "D": "The water content",
+        "Answer": "C",
+        "Source": "When the in vitro organic matter digestibility (IVOMD) was assayed, the potential gas production of TOP (41.371 ml/g DM) was significantly higher than EOP (25.771 ml/g DM)."
+    },
+    "Question_7": {
+        "Context": "Metabolizable energy (ME) is a measure of the energy content of feed that is available for metabolism by the animal after the losses in feces, urine, and gases have been subtracted.",
+        "Question": "What does metabolizable energy (ME) indicate in animal feed?",
+        "A": "The total energy content before digestion",
+        "B": "The energy available for metabolism after digestion",
+        "C": "The energy lost as feces and urine",
+        "D": "The caloric content of water in the feed",
+        "Answer": "B",
+        "Source": "The metabolizable energy of TOP (9.28 kcal/kg DM) was higher than that of EOP (7.78 kcal/kg DM)."
+    },
+    "Question_8": {
+        "Context": "Alkaline pretreatment methods, such as the use of sodium hydroxide (NaOH), are known to effectively remove lignin from lignocellulosic biomass, which is a critical step in enhancing its digestibility.",
+        "Question": "What is the effect of alkaline pretreatment methods like sodium hydroxide (NaOH) on lignocellulosic biomass?",
+        "A": "They increase the lignin content",
+        "B": "They have no effect on lignin",
+        "C": "They decrease the sugar content",
+        "D": "They effectively remove lignin",
+        "Answer": "D",
+        "Source": "These methods include physical ones, such as high pressure and high temperature, flocculation, adsorption, gasification, and ultrasounds chemical such as pyrolysis, sodium bicarbonate treatment, silage with alkalis, ammonia treatment, and biological treatments with enzyme or with microorganisms in liquid and solid-state fermentation."
+    },
+    "Question_9": {
+        "Context": "Hydrogen peroxide (H2O2) is used in various treatment processes due to its properties as a non-toxic solvent that does not produce harmful by-products during use or disposal.",
+        "Question": "Why is hydrogen peroxide (H2O2) considered an environmentally friendly treatment option?",
+        "A": "It is a toxic solvent that degrades quickly",
+        "B": "It produces beneficial by-products",
+        "C": "It is non-toxic and does not produce harmful by-products",
+        "D": "It is expensive and not widely available",
+        "Answer": "C",
+        "Source": "In fact, one of the key advantages of using hydrogen peroxide as a solvent in AHP treatment is that it is non-toxic and does not produce harmful by-products during use or disposal."
+    },
+    "Question_10": {
+        "Context": "The fatty acid profile of feedstocks, including the presence of saturated and unsaturated fatty acids, is an important aspect of their nutritional value for animal feed.",
+        "Question": "What is the significance of the fatty acid profile in animal feedstocks?",
+        "A": "It determines the feed's color",
+        "B": "It affects the feed's shelf life",
+        "C": "It contributes to the nutritional value",
+        "D": "It is unrelated to animal health",
+        "Answer": "C",
+        "Source": "Both EOP and TOP present a high oleic acid content of 39.8% and 39.93%, respectively. In fact, it has been demonstrated that introducing olive pomace, with a high oleic acid content, in the diet of lactating animals enhances milk fatty acid quality, by increasing monounsaturated fatty acids and decreasing saturated fatty acids."
+    }
+}

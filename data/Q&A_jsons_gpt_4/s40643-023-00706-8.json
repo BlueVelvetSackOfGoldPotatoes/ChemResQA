@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Ottonia anisum is a plant known for its medicinal properties, including the presence of alkaloids, terpenoids, and flavonoids which have various bioactivities.",
+        "Question": "Which family does Ottonia anisum belong to?",
+        "A": "Lamiaceae",
+        "B": "Piperaceae",
+        "C": "Asteraceae",
+        "D": "Fabaceae",
+        "Answer": "B",
+        "Source": "Ottonia anisum (O. anisum), belonging to the family Piperaceae, is renowned for its medicinal properties."
+    },
+    "Question_2": {
+        "Context": "Methanolic root extract of Ottonia anisum was assessed for its pharmacological activities in various animal models.",
+        "Question": "What type of extract from Ottonia anisum was used to assess its pharmacological activities?",
+        "A": "Aqueous root extract",
+        "B": "Ethanol leaf extract",
+        "C": "Methanolic root extract",
+        "D": "Hexane stem extract",
+        "Answer": "C",
+        "Source": "Methanolic root extract of O. anisum was assessed for local anesthetic, analgesic, anti-inflammatory and HCl-induced acute lung injury activities in animal models."
+    },
+    "Question_3": {
+        "Context": "Local anesthetic agents can be derived from plant sources and are known to interact with various biological targets to exert their effects.",
+        "Question": "Which of the following is NOT a target for the mechanistical activities of phytoconstituents such as alkaloids, flavonoids, and terpenoids used as anesthetic agents?",
+        "A": "Ion-channels",
+        "B": "Lipid membranes",
+        "C": "Receptors",
+        "D": "Ribosomes",
+        "Answer": "D",
+        "Source": "These molecules are reported to network with ion-channels, lipid membranes and receptors to impede the sensory nerves or to hinder the movement of nerve impulses at the site of surgery."
+    },
+    "Question_4": {
+        "Context": "Inflammation and pain are characteristic features of several diseases, and plants have been explored for their analgesic and anti-inflammatory activities.",
+        "Question": "Which class of drugs is commonly used to treat inflammation and pain but may cause severe side-effects?",
+        "A": "Antihistamines",
+        "B": "Corticosteroids",
+        "C": "Antibiotics",
+        "D": "Antivirals",
+        "Answer": "B",
+        "Source": "Although corticosteroids, opioids, and other drugs are used to treat inflammation and pain, they cause severe side-effects."
+    },
+    "Question_5": {
+        "Context": "The family Piperaceae is known for its rich variety of phytoconstituents which contribute to its wide range of biological activities.",
+        "Question": "Which of the following is NOT a phytoconstituent found in the family Piperaceae?",
+        "A": "Terpenoids",
+        "B": "Flavonoids",
+        "C": "Alkaloids",
+        "D": "Peptoids",
+        "Answer": "D",
+        "Source": "Plants belonging to this family are rich in phytoconstituents, such as terpenoids, flavonoids, alkaloids, glycosides, saponins, and steroids."
+    },
+    "Question_6": {
+        "Context": "The pharmacological activities of plants can be assessed using various animal models, including tests for local anesthetic activity.",
+        "Question": "Which method is used to assess local anesthetic activity by observing the foot withdrawal reflex in frogs?",
+        "A": "Intradermal wheal method",
+        "B": "Hot plate test",
+        "C": "Tail flick test",
+        "D": "Foot withdrawal reflex",
+        "Answer": "D",
+        "Source": "Local anesthetic activity assessed in frog and guinea pigs through foot withdrawal reflex and intradermal wheal method, respectively, revealed the dose-dependent onset time of anesthesia response."
+    },
+    "Question_7": {
+        "Context": "In pharmacological studies, the intradermal wheal method is a technique used to assess local anesthetic activity in animal models.",
+        "Question": "What animal is commonly used in the intradermal wheal method to test local anesthetic activity?",
+        "A": "Mice",
+        "B": "Rats",
+        "C": "Guinea pigs",
+        "D": "Rabbits",
+        "Answer": "C",
+        "Source": "Intradermal wheal method in guinea pigs Guinea pigs\u2019 hairs were shaved and pricked with a pin on both sides to test the response of the animal upon treatment with 0.2 mL of methanolic root bark extract of O. anisum."
+    },
+    "Question_8": {
+        "Context": "Acute lung injury (ALI) is a severe inflammatory syndrome that can be induced in animal models for research purposes.",
+        "Question": "Which substance is commonly used to induce acute lung injury (ALI) in animal models for research?",
+        "A": "Sodium chloride",
+        "B": "Hydrochloric acid (HCl)",
+        "C": "Glucose solution",
+        "D": "Ethanol",
+        "Answer": "B",
+        "Source": "Group II mice were subjected to intratracheal instillation with 0.1 N HCl (60 \u00b5L per mouse)."
+    },
+    "Question_9": {
+        "Context": "Oxidative stress is a condition characterized by an imbalance between the generation of reactive oxygen species (ROS) and the body's ability to detoxify them.",
+        "Question": "Which of the following is an important biomarker for oxidative stress?",
+        "A": "Glucose",
+        "B": "Hemoglobin",
+        "C": "Malondialdehyde (MDA)",
+        "D": "Cholesterol",
+        "Answer": "C",
+        "Source": "The malondialdehyde (MDA), an important biomarker for oxidative stress, was assayed though the method defined by Ohkawa et al. (1979)."
+    },
+    "Question_10": {
+        "Context": "In the context of inflammation, proinflammatory molecules play a significant role in the body's response to injury or infection.",
+        "Question": "Which of the following is NOT a proinflammatory molecule typically associated with inflammation?",
+        "A": "TNF-\u03b1",
+        "B": "IL-6",
+        "C": "IL-1\u03b2",
+        "D": "Insulin",
+        "Answer": "D",
+        "Source": "Nuclear factor-kappa B (NFkB), a DNA binding protein, plays a significant role in maximal transcription of proinflammatory molecules, including TNF-\u03b1, IL-6, and IL-1\u03b2."
+    }
+}

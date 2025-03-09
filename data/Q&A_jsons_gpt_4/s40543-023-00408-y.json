@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Bile acids are synthesized from cholesterol and are involved in the digestion and absorption of lipids. They are conjugated to glycine or taurine to form bile salts, which aid in the emulsification of lipids in the small intestine.",
+        "Question": "What is the primary biological function of bile acids?",
+        "A": "To serve as neurotransmitters",
+        "B": "To regulate lipid and glucose metabolism",
+        "C": "To act as structural components of cell membranes",
+        "D": "To function as hormones",
+        "Answer": "B",
+        "Source": "Bile acids (BAs) are synthesized from cholesterol and then conjugated to glycine or taurine to form bile salts. These BAs are secreted into the bile duct and stored in gall bladder. Bile is released into the small intestine based on the stimuli received from food intake or other factors."
+    },
+    "Question_2": {
+        "Context": "Farnesoid X receptor (FXR) is a nuclear receptor that plays a crucial role in the homeostasis and enterohepatic circulation of bile acids. It is also involved in the regulation of lipid and glucose metabolism.",
+        "Question": "Which receptor is known to be involved in the homeostasis of bile acids?",
+        "A": "G protein-coupled receptor",
+        "B": "Insulin receptor",
+        "C": "Farnesoid X receptor",
+        "D": "Estrogen receptor",
+        "Answer": "C",
+        "Source": "Farnesoid X receptor (FXR) is the crucial nuclear receptor expressed mainly in the liver and intestine which involves in the homeostasis and enterohepatic circulation of BAs."
+    },
+    "Question_3": {
+        "Context": "Ivermectin (IVM) is a drug that has been identified as a modulator of the farnesoid X receptor (FXR), which can have implications for bile acid homeostasis.",
+        "Question": "What is the role of ivermectin (IVM) in relation to farnesoid X receptor (FXR)?",
+        "A": "IVM is an inhibitor of FXR",
+        "B": "IVM is a modulator of FXR",
+        "C": "IVM is a substrate of FXR",
+        "D": "IVM is a cofactor of FXR",
+        "Answer": "B",
+        "Source": "Ivermectin (IVM) is a broad spectrum antiparasitic drug and had been identified as a highly selective FXR ligand."
+    },
+    "Question_4": {
+        "Context": "Cholic acid and chenodeoxycholic acid are primary bile acids synthesized in the liver from cholesterol. These primary bile acids can be converted into secondary bile acids by gut microbiota.",
+        "Question": "Which of the following are primary bile acids synthesized from cholesterol in the liver?",
+        "A": "Glycodeoxycholic acid and taurodeoxycholic acid",
+        "B": "Tauro-\u03b1-muricholic acid and tauro-\u03b2-muricholic acid",
+        "C": "Cholic acid and chenodeoxycholic acid",
+        "D": "Deoxycholic acid and lithocholic acid",
+        "Answer": "C",
+        "Source": "Bile acids (BAs) are synthesized from cholesterol and then conjugated to glycine or taurine to form bile salts. These BAs are secreted into the bile duct and stored in gall bladder."
+    },
+    "Question_5": {
+        "Context": "Secondary bile acids are formed from primary bile acids through the action of gut microbiota. Deoxycholic acid is one such secondary bile acid.",
+        "Question": "What is deoxycholic acid classified as?",
+        "A": "A primary bile acid",
+        "B": "A secondary bile acid",
+        "C": "An amino acid",
+        "D": "A nucleic acid",
+        "Answer": "B",
+        "Source": "Some BAs are converted to secondary BAs in the intestine by gut microbiota, some are excreted in the feces and some are metabolized to their respective sulfates and glucuronides and excreted in urine."
+    },
+    "Question_6": {
+        "Context": "Ultra-high performance liquid chromatography-tandem mass spectrometry (UHPLC\u2013MS/MS) is a powerful analytical technique used for the quantification of various compounds, including bile acids, in biological samples.",
+        "Question": "Which analytical technique is suitable for the simultaneous determination of major bile acids in biological samples?",
+        "A": "Gas chromatography",
+        "B": "High-performance liquid chromatography",
+        "C": "Thin-layer chromatography",
+        "D": "Ultra-high performance liquid chromatography-tandem mass spectrometry",
+        "Answer": "D",
+        "Source": "To explore the effect of IVM on plasma BA levels in rat, an ultra-high performance liquid chromatography- tandem mass spectrometry (UHPLC\u2013MS/MS) method was developed and validated for simultaneous determination of seven major BAs in rat plasma."
+    },
+    "Question_7": {
+        "Context": "In the context of bile acid research, the inclusion of murine-specific bile acids such as tauro-\u03b1-muricholic acid and tauro-\u03b2-muricholic acid is important for studies involving rodent models.",
+        "Question": "Why is it important to include murine-specific bile acids in bile acid research involving rodents?",
+        "A": "Because they are the only bile acids present in rodents",
+        "B": "Because they are unique to rodents and differ from human bile acids",
+        "C": "Because they are more potent than human bile acids",
+        "D": "Because they are easier to detect and quantify",
+        "Answer": "B",
+        "Source": "There is a need to develop a method to draw crucial conclusions by incorporation of important human and rodent specific BAs in a simultaneous method for mechanistic understanding of BA homeostasis in rats and human."
+    },
+    "Question_8": {
+        "Context": "The enterohepatic circulation of bile acids involves their secretion into the bile duct, storage in the gallbladder, release into the small intestine, and reabsorption into the systemic circulation.",
+        "Question": "What is the enterohepatic circulation of bile acids?",
+        "A": "The process by which bile acids are synthesized and excreted in the urine",
+        "B": "The circulation of bile acids from the liver to the gallbladder and then to the small intestine",
+        "C": "The cycle of bile acids being secreted into the bile duct, stored, released into the intestine, and reabsorbed into the circulation",
+        "D": "The conversion of primary bile acids into secondary bile acids by the liver",
+        "Answer": "C",
+        "Source": "All BAs that are reabsorbed into the systemic circulation enter into the liver and involve in the entero- hepatic circulation."
+    },
+    "Question_9": {
+        "Context": "Bile acid homeostasis is regulated by various nuclear receptors and signaling pathways, which maintain the balance of bile acid synthesis, conjugation, and circulation.",
+        "Question": "What maintains bile acid homeostasis?",
+        "A": "Enzymatic reactions in the stomach",
+        "B": "Nuclear receptors and signaling pathways",
+        "C": "The pH levels in the gastrointestinal tract",
+        "D": "The presence of dietary fibers",
+        "Answer": "B",
+        "Source": "BA homeostasis is maintained by various nuclear receptors and signaling pathways."
+    },
+    "Question_10": {
+        "Context": "Bile acids, at higher concentrations, can exhibit toxicity due to their surfactant-like properties, which can contribute to hepatobiliary and intestinal disorders.",
+        "Question": "Why can bile acids exhibit toxicity at higher concentrations?",
+        "A": "Due to their ability to block enzyme functions",
+        "B": "Because they can crystallize and form gallstones",
+        "C": "Due to their surfactant-like properties",
+        "D": "Because they become radioactive",
+        "Answer": "C",
+        "Source": "BAs, at higher concentrations, are reported to exhibit toxicity due to their surfactant like property and can contribute to hepatobiliary as well as intestinal disorders."
+    }
+}

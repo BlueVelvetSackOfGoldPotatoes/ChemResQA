@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In soil microbiology, certain bacteria have the capability to fix atmospheric nitrogen into forms that are available to plants. This process is crucial for supplementing soil nitrogen without the use of chemical fertilizers.",
+        "Question": "Which genus of bacteria is known for its ability to fix atmospheric nitrogen in a non-symbiotic manner?",
+        "A": "Bacillus",
+        "B": "Azotobacter",
+        "C": "Rhizobium",
+        "D": "Pseudomonas",
+        "Answer": "B",
+        "Source": "Microorganisms in the Azotobacter genus possess the ability to fix nitrogen; they are characterized by independence from plant species and the capacity for autonomous nitrogen fixation in a non-symbiotic manner."
+    },
+    "Question_2": {
+        "Context": "The addition of certain exogenous substances to soil can influence the growth and activity of soil microorganisms, including those involved in nitrogen fixation.",
+        "Question": "Which exogenous substance is often used to study the specific effects of carbon addition on soil microorganisms?",
+        "A": "Glucose",
+        "B": "Sulfate",
+        "C": "Phosphate",
+        "D": "Potassium",
+        "Answer": "A",
+        "Source": "Glucose (present in soil) and urea (extensively used in agricultural production) are substances often used to study the specific effects of carbon and nitrogen addition on microorganisms."
+    },
+    "Question_3": {
+        "Context": "In agricultural practices, the application of certain nitrogen-rich substances is common to meet the nitrogen demands of crops.",
+        "Question": "Which substance is extensively used in agricultural production as a nitrogen source?",
+        "A": "Glucose",
+        "B": "Sulfate",
+        "C": "Urea",
+        "D": "Potassium",
+        "Answer": "C",
+        "Source": "Glucose (present in soil) and urea (extensively used in agricultural production) are substances often used to study the specific effects of carbon and nitrogen addition on microorganisms."
+    },
+    "Question_4": {
+        "Context": "The application of nitrogen fertilizers can lead to environmental issues if used excessively.",
+        "Question": "What is one of the environmental problems associated with the excessive use of nitrogen fertilizer?",
+        "A": "Soil compaction",
+        "B": "Increased oxygen levels",
+        "C": "Decreased soil temperature",
+        "D": "Reduced water evaporation",
+        "Answer": "A",
+        "Source": "Unfortunately, excessive use of nitrogen fertilizer can cause serious environmental problems such as soil compaction, acidification, increased greenhouse gas emissions, and loss of soil biodiversity."
+    },
+    "Question_5": {
+        "Context": "The efficiency of nitrogen fertilizers in agricultural systems is a concern, and biological nitrogen fixation by certain bacteria offers an alternative source of nitrogen.",
+        "Question": "What is the role of Azotobacter in the nitrogen cycle within ecosystems?",
+        "A": "It converts atmospheric N2 into forms of nitrogen that are available to plants.",
+        "B": "It breaks down organic nitrogen into atmospheric N2.",
+        "C": "It converts ammonia into nitrate.",
+        "D": "It absorbs nitrate and stores it within plant tissues.",
+        "Answer": "A",
+        "Source": "Azotobacter can convert atmospheric N2 into forms of nitrogen that are available to plants."
+    },
+    "Question_6": {
+        "Context": "The addition of exogenous carbon and nitrogen sources to soil can have varying effects on the growth of nitrogen-fixing bacteria.",
+        "Question": "What is the effect of external carbon sources on the growth of Azotobacter?",
+        "A": "Inhibition",
+        "B": "No effect",
+        "C": "Promotion",
+        "D": "Variable effect depending on the carbon source",
+        "Answer": "C",
+        "Source": "External sources of carbon can promote Azotobacter growth, whereas external sources of nitrogen or high nitrogen content within soil can have an inhibitory effect."
+    },
+    "Question_7": {
+        "Context": "The presence of certain genes is indicative of the nitrogen cycle activities in soil, such as nitrogen fixation.",
+        "Question": "Which gene is commonly associated with the nitrogen fixation process in soil bacteria?",
+        "A": "nirK",
+        "B": "nifH",
+        "C": "amoA",
+        "D": "narG",
+        "Answer": "B",
+        "Source": "The relative abundances of nif genes (i.e., nifH, nifD, and nifK) and nirD were significantly increased in group C."
+    },
+    "Question_8": {
+        "Context": "Soil nitrogen content is a critical factor for plant growth and can be influenced by microbial activity.",
+        "Question": "Which form of nitrogen in soil did not significantly differ when comparing the effects of glucose addition to other treatments?",
+        "A": "Total nitrogen",
+        "B": "Alkali-hydrolyzed nitrogen",
+        "C": "Nitrate nitrogen",
+        "D": "Ammonium nitrogen",
+        "Answer": "B",
+        "Source": "The total nitrogen and alkali-hydrolyzed nitrogen contents in soil did not significantly differ in a comparison between group C and groups N and CN."
+    },
+    "Question_9": {
+        "Context": "The diversity of bacteria in soil can be quantified using various indices, which reflect the richness and evenness of species present.",
+        "Question": "Which index is used to measure the bacterial diversity in soil that accounts for both the number of species and the evenness of their distribution?",
+        "A": "Ace",
+        "B": "Chao1",
+        "C": "Shannon",
+        "D": "Simpson",
+        "Answer": "C",
+        "Source": "The bacterial Shannon indices for groups CK, C, N, and CN were 6.434, 6.320, 6.557, and 6.649, respectively."
+    },
+    "Question_10": {
+        "Context": "The application of Azotobacter to soil is known to affect nitrogen fixation and can potentially influence the nitrogen content in plants.",
+        "Question": "What was observed regarding the total nitrogen content in plants following the application of Azotobacter?",
+        "A": "Significant decrease",
+        "B": "No significant change",
+        "C": "Significant increase",
+        "D": "Variable changes depending on plant type",
+        "Answer": "C",
+        "Source": "The application of Azotobacter led to greater nitrogen fixation within soil and a corresponding increase in plant nitrogen content, indicating a positive effect on soil nitrogen fixation."
+    }
+}

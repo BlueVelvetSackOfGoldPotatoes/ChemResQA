@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the biological activity of plant polysaccharides, particularly from Lilium lancifolium bulbs.",
+        "Question": "What is the weight-average relative molecular weight of the polysaccharide LP-1?",
+        "A": "4.2 kDa",
+        "B": "5.3 kDa",
+        "C": "6.7 kDa",
+        "D": "7.9 kDa",
+        "Answer": "B",
+        "Source": "Structural characterizations show that the weight-average relative molecular weight of LP-1 is 5.3 kDa."
+    },
+    "Question_2": {
+        "Context": "The study analyzed the monosaccharide composition of LP-1.",
+        "Question": "What is the molar ratio of mannose to glucose in LP-1?",
+        "A": "1:1",
+        "B": "1.2:1",
+        "C": "1.4:1",
+        "D": "1.6:1",
+        "Answer": "C",
+        "Source": "LP-1 consists of mannose and glucose at a molar ratio of 1.4:1."
+    },
+    "Question_3": {
+        "Context": "The study conducted FT-IR spectroscopy on LP-1.",
+        "Question": "Which peak in the FT-IR spectrum indicates the stretching vibrations of O-H?",
+        "A": "2930 cm\u22121",
+        "B": "1731 cm\u22121",
+        "C": "1377 cm\u22121",
+        "D": "1249 cm\u22121",
+        "Answer": "A",
+        "Source": "The broad and strong absorption peak at 3,400 cm\u22121 is attributed to the stretching vibrations of O\u2013H."
+    },
+    "Question_4": {
+        "Context": "The study performed methylation analysis on LP-1.",
+        "Question": "What is the major mass fragment for 2,3,6-Me3-Manp?",
+        "A": "87",
+        "B": "99",
+        "C": "113",
+        "D": "161",
+        "Answer": "B",
+        "Source": "Methylated sugars: 2,3,6-Me3-Manp \u2192 4)-Manp-(1 \u2192, molar ratio 8.8, major mass fragments (m/z) 43, 87, 99, 101, 113, 117, 129, 131, 161, 173, 233."
+    },
+    "Question_5": {
+        "Context": "The study utilized NMR spectroscopy to analyze LP-1.",
+        "Question": "What is the chemical shift of the main anomeric carbon of Glcp-\u03b1-D-(1 \u2192?",
+        "A": "101.46 ppm",
+        "B": "100.41 ppm",
+        "C": "93.51 ppm",
+        "D": "72.44 ppm",
+        "Answer": "B",
+        "Source": "The chemical shifts of the main anomeric carbons of LP-1 are observed at 100.41 ppm."
+    },
+    "Question_6": {
+        "Context": "The study investigated the effect of LP-1 on oxidative stress induced by hydrogen peroxide in HUVEC cells.",
+        "Question": "What is the main role of HO-1 in cells?",
+        "A": "Catalyze the degradation of heme",
+        "B": "Produce iron",
+        "C": "Generate carbon monoxide",
+        "D": "Synthesize biliverdin",
+        "Answer": "A",
+        "Source": "HO-1 can be used as an antioxidant enzyme to catalyze the degradation of heme to produce iron, carbon monoxide (CO), biliverdin, and other metabolites."
+    },
+    "Question_7": {
+        "Context": "The study explored the antioxidant capacity of LP-1.",
+        "Question": "Which enzyme participates in the formation of the biological defense system against oxidative damage?",
+        "A": "SOD",
+        "B": "CAT",
+        "C": "GSH-Px",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "SOD, CAT, and GSH-Px belong to common antioxidant enzymes, which participate in the formation of the biological defense system against oxidative damage."
+    },
+    "Question_8": {
+        "Context": "The study investigated the protective effect of LP-1 on H2O2-induced endothelial cell damage.",
+        "Question": "What is the main function of Nrf2 in cells?",
+        "A": "Regulate the expression of antioxidants",
+        "B": "Control the production of NO",
+        "C": "Promote lipid peroxidation",
+        "D": "Increase ROS accumulation",
+        "Answer": "A",
+        "Source": "Nrf2 can regulate the expression of a variety of antioxidants and phase II detoxification enzymes through antioxidant response elements (ARE), HO-1, quinone oxidoreductase (NQO1), and SOD."
+    },
+    "Question_9": {
+        "Context": "The study examined the expression of Nrf2 and HO-1 proteins.",
+        "Question": "What effect does the HO-1 inhibitor have on the protective role of LP-1?",
+        "A": "Enhances the protective effect",
+        "B": "Has no effect",
+        "C": "Reduces the protective effect",
+        "D": "Reverses the protective effect",
+        "Answer": "C",
+        "Source": "The protective effect of LP-1 on H2O2-induced endothelial cell injury was eliminated by HO-1 inhibitor."
+    },
+    "Question_10": {
+        "Context": "The study concluded that LP-1 has potential as an antioxidant drug.",
+        "Question": "What is the main biological activity associated with Lilium polysaccharides?",
+        "A": "Antibacterial effects",
+        "B": "Anti-inflammatory effects",
+        "C": "Antioxidant effects",
+        "D": "Anti-tumor effects",
+        "Answer": "C",
+        "Source": "The results of this study indicate that LP-1 exerts antioxidant effects on HUVEC by activating the Nrf2/HO-1 signaling pathway."
+    }
+}

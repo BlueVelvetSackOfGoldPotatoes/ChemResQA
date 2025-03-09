@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the antifungal activity of Cymbopogon citratus (DC.) Stapf essential oil (EO) made into a nanoemulsion using Tween-80 and anhydrous ethanol by ultrasonication. The antifungal activity of the traditional emulsion (TEO) and C. citratus nanoemulsion (NEO) was compared.",
+        "Question": "What was the average particle size of the C. citratus nanoemulsion (NEO) prepared in the study?",
+        "A": "15.86 nm",
+        "B": "461.25 nm",
+        "C": "30 nm",
+        "D": "100 nm",
+        "Answer": "A",
+        "Source": "The prepared NEO was a clear and transparent homogeneous liquid with a particle size of 15.86 \u00b1 1.96 nm."
+    },
+    "Question_2": {
+        "Context": "The study analyzed the chemical components of the C. citratus essential oil (EO), C. citratus nanoemulsion (NEO), and traditional emulsion (TEO) using gas chromatography\u2012mass spectrometry (GC\u2012MS).",
+        "Question": "Which component was significantly higher in the C. citratus nanoemulsion (NEO) compared to the traditional emulsion (TEO)?",
+        "A": "Citronellal",
+        "B": "Geraniol",
+        "C": "Nerol",
+        "D": "Carbonic acid, allyl 3-methylphenyl ester",
+        "Answer": "A",
+        "Source": "The main components were citronellal (34.28%), geraniol (18.38%), and citronellol (13.98%) in NEO, significantly higher than those in TEO."
+    },
+    "Question_3": {
+        "Context": "The study investigated the inhibitory mechanism of the C. citratus nanoemulsion (NEO) and traditional emulsion (TEO) on Fusarium solani by combining transcriptomics and metabolomics analyses.",
+        "Question": "Which pathway was significantly coexpressed after treatment with both NEO and TEO?",
+        "A": "\u03b1-linolenic acid metabolism",
+        "B": "Drug metabolism-other enzymes",
+        "C": "Nucleotide metabolism",
+        "D": "ABC transporter",
+        "Answer": "A",
+        "Source": "In the NEO treatment group, DAMs were mainly enriched in antibiotic synthesis, pyruvate metabolism, and amino acid metabolism."
+    },
+    "Question_4": {
+        "Context": "The study explored the impact of the C. citratus nanoemulsion (NEO) and traditional emulsion (TEO) on the TCA cycle and meiosis of Fusarium solani.",
+        "Question": "Which enzyme was inhibited after treatment with the C. citratus nanoemulsion (NEO) in the TCA cycle?",
+        "A": "Succinate dehydrogenase (SDHA)",
+        "B": "Citrate synthase (CS)",
+        "C": "Dihydrothioamide dehydrogenase (DLD)",
+        "D": "Fumaric acid hydratase (FH)",
+        "Answer": "A",
+        "Source": "NEO also inhibited the expression of succinate dehydrogenase (SDHA), citrate synthase (CS), and dihydrothioamide dehydrogenase (DLD) and upregulated the activity of fumaric acid hydratase (FH)."
+    },
+    "Question_5": {
+        "Context": "The study examined the antifungal effect of the C. citratus nanoemulsion (NEO) on Fusarium solani in P. notoginseng seedlings.",
+        "Question": "What was the lesion area of the P. notoginseng root slices inoculated with NEO compared to those inoculated with Fusarium solani only?",
+        "A": "0.11 cm2",
+        "B": "0.58 cm2",
+        "C": "0.25 cm2",
+        "D": "0.40 cm2",
+        "Answer": "A",
+        "Source": "The lesion area of the P. notoginseng root slices inoculated with NEO (0.11 cm2) was significantly smaller than that of the P. notoginseng slices inoculated with F. solani (0.58 cm2) only."
+    },
+    "Question_6": {
+        "Context": "The study verified the accuracy of the transcriptome analysis by performing qRT-PCR of differentially expressed genes related to the TCA cycle and meiosis.",
+        "Question": "How many genes were selected for qRT-PCR analysis related to the TCA cycle and meiosis?",
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "11",
+        "Answer": "C",
+        "Source": "Among all candidate DEGs related to TCA cycle and meiosis, 9 genes were selected for qRT-PCR analysis."
+    },
+    "Question_7": {
+        "Context": "The study investigated the stability of the C. citratus nanoemulsion (NEO) under different conditions.",
+        "Question": "Which condition did not significantly affect the stability of the NEO?",
+        "A": "Different temperatures",
+        "B": "Salt concentrations",
+        "C": "Rotational speeds",
+        "D": "Different pH values",
+        "Answer": "A",
+        "Source": "NEO stability was not significantly different under different temperatures."
+    },
+    "Question_8": {
+        "Context": "The study compared the antifungal activity of the C. citratus nanoemulsion (NEO) and traditional emulsion (TEO) on spore germination of Fusarium solani.",
+        "Question": "What was the spore germination rate after treatment with NEO compared to TEO?",
+        "A": "8.86%",
+        "B": "34.57%",
+        "C": "15.00%",
+        "D": "25.00%",
+        "Answer": "A",
+        "Source": "It can be clearly seen that the germination rate of spores treated with NEO (8.86%) was significantly lower than that of TEO (34.57%)."
+    },
+    "Question_9": {
+        "Context": "The study investigated the differential gene expression patterns in Fusarium solani treated with NEO and TEO.",
+        "Question": "What do the green spots represent in the differential genetic volcano map of NEO?",
+        "A": "Genes with downregulated differential expression",
+        "B": "Genes with upregulated differential expression",
+        "C": "Detected genes without significant differences",
+        "D": "Genes with significant mutations",
+        "Answer": "A",
+        "Source": "The green spots denote genes with downregulated differential expression in the differential genetic volcano map of NEO."
+    },
+    "Question_10": {
+        "Context": "The study performed GO enrichment analysis of differentially expressed genes in Fusarium solani treated with NEO and TEO.",
+        "Question": "What does the bubble size represent in the GO enrichment analysis?",
+        "A": "Degree of enrichment",
+        "B": "Number of genes",
+        "C": "Functional classification",
+        "D": "Enrichment significance p value",
+        "Answer": "B",
+        "Source": "The bubble size in the GO enrichment analysis represents the number of genes involved in the functional classification."
+    }
+}

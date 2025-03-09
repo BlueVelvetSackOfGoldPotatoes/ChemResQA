@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "During the ex vivo expansion of umbilical cord-derived mesenchymal stem cells (hUCMSCs) in a bioreactor, the formation of cell\u2013microcarrier aggregates can significantly affect cell proliferation and physiological activity.",
+        "Question": "What is the consequence of the formation of cell\u2013microcarrier aggregates in a bioreactor when expanding hUCMSCs?",
+        "A": "It enhances cell differentiation",
+        "B": "It has no effect on cell proliferation",
+        "C": "It significantly affects cell proliferation and physiological activity",
+        "D": "It decreases the cost of cell expansion",
+        "Answer": "C",
+        "Source": "During the ex vivo expansion of umbilical cord\u2011derived mesenchymal stem cells (hUCMSCs) in a stirred tank biore\u2011 actor, the formation of cell\u2013microcarrier aggregates significantly affects cell proliferation and physiological activity, making it difficult to meet the quantity and quality requirements for in vitro research and clinical applications."
+    },
+    "Question_2": {
+        "Context": "In bioreactor systems, computational fluid dynamic (CFD) simulations can be used to investigate the effects of impeller structure on various aspects of cell culture, such as flow field structure, aggregate formation, and cellular physiological activity.",
+        "Question": "What aspect of cell culture in a bioreactor can be investigated using computational fluid dynamic (CFD) simulations?",
+        "A": "The genetic modification of cells",
+        "B": "The effect of impeller structure on flow field structure",
+        "C": "The nutritional content of the culture medium",
+        "D": "The type of microcarriers used",
+        "Answer": "B",
+        "Source": "In this study, computational fluid dynamic (CFD) simulations were used to investigate the effect of an impeller struc\u2011 ture in a commercial spinner flask on flow field structure, aggregate formation, and cellular physiological activity."
+    },
+    "Question_3": {
+        "Context": "Spinner flasks are commonly used as suspension cultivation systems for human mesenchymal stem cells (hMSCs), where cells are cultivated on microcarriers. However, the flow field is not homogenous in these systems, and vortices can form below the impeller.",
+        "Question": "What is a common issue with the flow field in spinner flasks used for hMSCs cultivation on microcarriers?",
+        "A": "The flow field is always homogenous",
+        "B": "Vortices cannot form in spinner flasks",
+        "C": "Vortices exist below the impeller",
+        "D": "Microcarriers cannot be used in spinner flasks",
+        "Answer": "C",
+        "Source": "Spinner flasks are commonly used as sus\u2011 pension cultivation systems for hMSCs, where hMSCs are cultivated on microcarriers. However, in spinner flasks, the overall flow field is not homogenous, and vortices exist below the impeller."
+    },
+    "Question_4": {
+        "Context": "The formation of cell\u2013microcarrier aggregates during cultivation can lead to mass transfer limitations, affecting cell viability and making it difficult to harvest the cells.",
+        "Question": "What is a significant issue caused by the formation of large cell\u2013microcarrier aggregates during cultivation?",
+        "A": "Enhanced cell mobility",
+        "B": "Increased microcarrier durability",
+        "C": "Improved cell harvesting",
+        "D": "Mass transfer limitations affecting cell viability",
+        "Answer": "D",
+        "Source": "As the culti\u2011 vation time increases, the aggregate size continuous to grow, eventually forming millimetre-sized aggregates. The mass transfer limitations within these aggregates affect cell viability and hinder cell digestion and har\u2011 vesting, resulting in heterogeneous cell populations upon harvest."
+    },
+    "Question_5": {
+        "Context": "In the context of cell culture, the impeller structure within a bioreactor can influence the suspension of cell\u2013microcarrier aggregates, affecting the ability to balance aggregate size and shear forces.",
+        "Question": "What role does the impeller structure play in a bioreactor used for cell culture?",
+        "A": "It determines the color of the microcarriers",
+        "B": "It influences the suspension of cell\u2013microcarrier aggregates",
+        "C": "It changes the genetic makeup of the cells",
+        "D": "It measures the temperature of the culture medium",
+        "Answer": "B",
+        "Source": "This radial flow pattern may be one of the reasons why the original impeller has a weak suspension ability for aggregates and cannot balance aggregate size and shear forces."
+    },
+    "Question_6": {
+        "Context": "The axial pumping rate (Qz) is an important characteristic parameter in bioreactors that describes axial flow and can be used to quantify the suspension ability of the impeller.",
+        "Question": "What does the axial pumping rate (Qz) describe in the context of bioreactors?",
+        "A": "The color intensity of the culture medium",
+        "B": "The temperature gradient within the bioreactor",
+        "C": "The nutrient distribution in the culture medium",
+        "D": "The axial flow and suspension ability of the impeller",
+        "Answer": "D",
+        "Source": "The axial pumping rate, Qz, is an important characteristic param\u2011 eter that describes axial flow. When the swept volume of the impeller accounts for approximately 50% of the total volume, the Qz can be used to quantify the suspen\u2011 sion ability of the impeller."
+    },
+    "Question_7": {
+        "Context": "In bioreactor systems, the shear strain rate (SSR) is a measure of the deformation rate of the material in the flow and can be calculated using the velocity components of the fluid.",
+        "Question": "What does the shear strain rate (SSR) measure in a bioreactor system?",
+        "A": "The electrical conductivity of the culture medium",
+        "B": "The deformation rate of the material in the flow",
+        "C": "The pH level of the culture medium",
+        "D": "The oxygen concentration in the bioreactor",
+        "Answer": "B",
+        "Source": "SSR = \uf8f1 \uf8f4 \uf8f4 \uf8f2 \uf8f4 \uf8f4 \uf8f3 2 \ufffd\ufffd \u2202Vx \u2202x \ufffd2 + \ufffd \u2202Vy \u2202y \ufffd2 + \ufffd \u2202Vz \u2202z \ufffd2\ufffd + \ufffd\ufffd \u2202Vx \u2202y + \u2202Vy \u2202x \ufffd2 + \ufffd \u2202Vx \u2202z + \u2202Vx \u2202x \ufffd2 + \ufffd \u2202Vy \u2202z + \u2202Vy \u2202z \ufffd2\ufffd \uf8fc \uf8f4 \uf8f4 \uf8fd \uf8f4 \uf8f4 \uf8fe 1/2"
+    },
+    "Question_8": {
+        "Context": "The impeller structure in a bioreactor can be optimized to transform a radial flow into an axial flow, which can enhance the suspension ability of cell\u2013microcarrier aggregates.",
+        "Question": "What is the purpose of optimizing the impeller structure in a bioreactor?",
+        "A": "To increase the viscosity of the culture medium",
+        "B": "To enhance the suspension ability of cell\u2013microcarrier aggregates",
+        "C": "To decrease the nutrient concentration in the culture medium",
+        "D": "To reduce the oxygen supply to the cells",
+        "Answer": "B",
+        "Source": "Therefore, the impeller structure requires optimi\u2011 zation to reduce the number of vortices and transform the radial flow into an axial flow, thereby achieving a strong suspension ability at the same SSR level."
+    },
+    "Question_9": {
+        "Context": "The use of computational fluid dynamics (CFD) simulations in bioreactor design can help predict the impact of impeller performance on mesenchymal cells by considering factors such as solid content in the fluid flow.",
+        "Question": "Why are single-phase CFD simulations conducted in studies involving bioreactors for mesenchymal cell culture?",
+        "A": "Because the solid content significantly alters the overall fluid flow",
+        "B": "Because the solid content has minimal influence on the overall fluid flow",
+        "C": "Because the solid content changes the genetic characteristics of the cells",
+        "D": "Because the solid content is not present in bioreactors",
+        "Answer": "B",
+        "Source": "This study primarily investi\u2011 gates the impact of impeller performance on mesenchy\u2011 mal cells, with a solid content of less than 5% that has minimal influence on the overall fluid flow."
+    },
+    "Question_10": {
+        "Context": "In cell culture processes, the rotational speed of the impeller in a bioreactor can affect the formation of cell\u2013microcarrier aggregates, with a threshold speed at which aggregate size begins to stabilize.",
+        "Question": "How does the rotational speed of the impeller in a bioreactor affect the formation of cell\u2013microcarrier aggregates?",
+        "A": "It has no impact on the size of aggregates",
+        "B": "It always reduces the size of aggregates",
+        "C": "It always increases the size of aggregates",
+        "D": "There is a threshold speed at which aggregate size begins to stabilize",
+        "Answer": "D",
+        "Source": "Histograms of diameter distribu\u2011 tions further reflected the size and distribution homo\u2011 geneity of aggregates. Aggregates ranging from 1 to 6 mm was observed at 30 rpm, while aggre\u2011 gates ranging from 1 to 4 mm were seen at 45 rpm, indicating a wider distribution range."
+    }
+}

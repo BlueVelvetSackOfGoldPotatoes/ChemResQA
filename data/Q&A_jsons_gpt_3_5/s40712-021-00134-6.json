@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the application of a new mesh handling strategy for the simulation of gearboxes. The methodology aims to reduce computational effort and enhance efficiency in analyzing complex gear configurations.",
+        "Question": "What is the main purpose of the new mesh handling strategy implemented in the study?",
+        "A": "To increase the computational complexity of gear simulations.",
+        "B": "To introduce a more time-consuming process for mesh generation.",
+        "C": "To reduce the computational effort required for simulating complex gearboxes.",
+        "D": "To limit the flexibility in analyzing different gear configurations.",
+        "Answer": "C",
+        "Source": "The algorithm was validated with spur, helical, and spiral bevel gearboxes demonstrating its feasibility for different gears\u2019 type and its accuracy in the power losses trend prediction (maximum 20% error with respect to experimental data). In this framework, this development is even more significant for real industrial multi-stage gearboxes, where the current available finite volume methods would suffer from severe computational costs."
+    },
+    "Question_2": {
+        "Context": "The study discusses the advantages of using the opensource software OpenFOAM\u00ae for implementing the new mesh handling strategy for gear simulations.",
+        "Question": "Why was OpenFOAM\u00ae chosen for implementing the new mesh handling strategy?",
+        "A": "Due to its high cost compared to other software options.",
+        "B": "For its limited flexibility and customization capabilities.",
+        "C": "Because of its open-source nature and flexibility for customization.",
+        "D": "Because it requires additional licenses for parallel computing.",
+        "Answer": "C",
+        "Source": "The approach is completely general; it can be implemented in each programming language and coupled transversally with any CFD solver. The specific choice of implementing this algorithm within OpenFOAM\u00ae is related to its simplicity: OpenFOAM\u00ae is open-source and already written in C++ which promotes a complete integration with the actual code."
+    },
+    "Question_3": {
+        "Context": "The study highlights the importance of the new mesh handling strategy in reducing computational effort for simulating gearboxes with different configurations.",
+        "Question": "What is a key advantage of the GRAMC approach for gear simulations?",
+        "A": "Increased computational complexity.",
+        "B": "Limited flexibility in analyzing different gear configurations.",
+        "C": "Drastic reduction in computational effort for complex gear simulations.",
+        "D": "Higher cost compared to traditional mesh handling methods.",
+        "Answer": "C",
+        "Source": "The algorithm was validated with spur, helical, and spiral bevel gearboxes demonstrating its feasibility for different gears\u2019 type and its accuracy in the power losses trend prediction (maximum 20% error with respect to experimental data). In this framework, this development is even more significant for real industrial multi-stage gearboxes, where the current available finite volume methods would suffer from severe computational costs."
+    },
+    "Question_4": {
+        "Context": "The study emphasizes the applicability of the new mesh handling strategy for different gear types and lubrication conditions.",
+        "Question": "What is the main benefit of using the GRAMC approach for simulating gearboxes with complex geometries?",
+        "A": "Enhanced flexibility in analyzing simple gear configurations.",
+        "B": "Reduced computational time for multi-stage gearboxes.",
+        "C": "Improved accuracy in predicting power losses for different gear types.",
+        "D": "Increased cost associated with physical prototypes.",
+        "Answer": "C",
+        "Source": "The algorithm was validated with spur, helical, and spiral bevel gearboxes demonstrating its feasibility for different gears\u2019 type and its accuracy in the power losses trend prediction (maximum 20% error with respect to experimental data). In this framework, this development is even more significant for real industrial multi-stage gearboxes, where the current available finite volume methods would suffer from severe computational costs."
+    },
+    "Question_5": {
+        "Context": "The study discusses the computational advantages of the new mesh handling strategy for analyzing different gear configurations.",
+        "Question": "How does the GRAMC approach contribute to the efficiency of gear simulations?",
+        "A": "By increasing the computational complexity.",
+        "B": "By limiting the analysis to only spur gears.",
+        "C": "By reducing the computational effort required for simulations.",
+        "D": "By introducing more time-consuming processes.",
+        "Answer": "C",
+        "Source": "The algorithm was validated with spur, helical, and spiral bevel gearboxes demonstrating its feasibility for different gears\u2019 type and its accuracy in the power losses trend prediction (maximum 20% error with respect to experimental data). In this framework, this development is even more significant for real industrial multi-stage gearboxes, where the current available finite volume methods would suffer from severe computational costs."
+    },
+    "Question_6": {
+        "Context": "The study highlights the importance of the new mesh handling strategy in reducing computational effort for simulating gearboxes with different configurations.",
+        "Question": "What is a key advantage of the GRAMC approach for gear simulations?",
+        "A": "Increased computational complexity.",
+        "B": "Limited flexibility in analyzing different gear configurations.",
+        "C": "Drastic reduction in computational effort for complex gear simulations.",
+        "D": "Higher cost compared to traditional mesh handling methods.",
+        "Answer": "C",
+        "Source": "The algorithm was validated with spur, helical, and spiral bevel gearboxes demonstrating its feasibility for different gears\u2019 type and its accuracy in the power losses trend prediction (maximum 20% error with respect to experimental data). In this framework, this development is even more significant for real industrial multi-stage gearboxes, where the current available finite volume methods would suffer from severe computational costs."
+    },
+    "Question_7": {
+        "Context": "The study emphasizes the applicability of the new mesh handling strategy for different gear types and lubrication conditions.",
+        "Question": "What is the main benefit of using the GRAMC approach for simulating gearboxes with complex geometries?",
+        "A": "Enhanced flexibility in analyzing simple gear configurations.",
+        "B": "Reduced computational time for multi-stage gearboxes.",
+        "C": "Improved accuracy in predicting power losses for different gear types.",
+        "D": "Increased cost associated with physical prototypes.",
+        "Answer": "C",
+        "Source": "The algorithm was validated with spur, helical, and spiral bevel gearboxes demonstrating its feasibility for different gears\u2019 type and its accuracy in the power losses trend prediction (maximum 20% error with respect to experimental data). In this framework, this development is even more significant for real industrial multi-stage gearboxes, where the current available finite volume methods would suffer from severe computational costs."
+    },
+    "Question_8": {
+        "Context": "The study discusses the computational advantages of the new mesh handling strategy for analyzing different gear configurations.",
+        "Question": "How does the GRAMC approach contribute to the efficiency of gear simulations?",
+        "A": "By increasing the computational complexity.",
+        "B": "By limiting the analysis to only spur gears.",
+        "C": "By reducing the computational effort required for simulations.",
+        "D": "By introducing more time-consuming processes.",
+        "Answer": "C",
+        "Source": "The algorithm was validated with spur, helical, and spiral bevel gearboxes demonstrating its feasibility for different gears\u2019 type and its accuracy in the power losses trend prediction (maximum 20% error with respect to experimental data). In this framework, this development is even more significant for real industrial multi-stage gearboxes, where the current available finite volume methods would suffer from severe computational costs."
+    },
+    "Question_9": {
+        "Context": "The study focuses on the application of a new mesh handling strategy for the simulation of gearboxes. The methodology aims to reduce computational effort and enhance efficiency in analyzing complex gear configurations.",
+        "Question": "What is the primary goal of implementing the GRAMC approach for gear simulations?",
+        "A": "To increase the complexity of gear simulations.",
+        "B": "To limit the types of gear configurations that can be analyzed.",
+        "C": "To reduce the computational effort required for simulating complex gearboxes.",
+        "D": "To introduce more time-consuming processes for mesh generation.",
+        "Answer": "C",
+        "Source": "The algorithm was validated with spur, helical, and spiral bevel gearboxes demonstrating its feasibility for different gears\u2019 type and its accuracy in the power losses trend prediction (maximum 20% error with respect to experimental data). In this framework, this development is even more significant for real industrial multi-stage gearboxes, where the current available finite volume methods would suffer from severe computational costs."
+    },
+    "Question_10": {
+        "Context": "The study discusses the advantages of using the opensource software OpenFOAM\u00ae for implementing the new mesh handling strategy for gear simulations.",
+        "Question": "Why was OpenFOAM\u00ae chosen for implementing the new mesh handling strategy?",
+        "A": "Due to its high cost compared to other software options.",
+        "B": "For its limited flexibility and customization capabilities.",
+        "C": "Because of its open-source nature and flexibility for customization.",
+        "D": "Because it requires additional licenses for parallel computing.",
+        "Answer": "C",
+        "Source": "The approach is completely general; it can be implemented in each programming language and coupled transversally with any CFD solver. The specific choice of implementing this algorithm within OpenFOAM\u00ae is related to its simplicity: OpenFOAM\u00ae is open-source and already written in C++ which promotes a complete integration with the actual code."
+    }
+}

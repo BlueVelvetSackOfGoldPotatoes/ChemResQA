@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In a study investigating the impact of Autocrine Motility Factor (AMF) on colorectal cancer (CRC) cells, what was the specific effect of D-AMF on the expression of Glucose-6-phosphate dehydrogenase (G6PD)?",
+        "Question": "What was the specific effect of D-AMF on the expression of Glucose-6-phosphate dehydrogenase (G6PD)?",
+        "A": "Increased expression of G6PD",
+        "B": "No effect on G6PD expression",
+        "C": "Downregulated expression of G6PD",
+        "D": "Induced G6PD mutation",
+        "Answer": "C",
+        "Source": "D-AMF effectively downregulated the expression of glucose-6-phosphate dehydrogenase (G6PD) at both the mRNA and protein levels, resulting in a concurrent increase in the generation of reactive oxygen species (ROS)."
+    },
+    "Question_2": {
+        "Context": "What was the observed impact of D-AMF on the growth of HT29 and SW620 CRC cells in a clonogenic assay?",
+        "Question": "What was the observed impact of D-AMF on the growth of HT29 and SW620 CRC cells in a clonogenic assay?",
+        "A": "Increased growth of both cell lines",
+        "B": "No effect on cell growth",
+        "C": "Significant reduction in cell growth",
+        "D": "Induced cell apoptosis",
+        "Answer": "C",
+        "Source": "In a clonogenic assay, the use of 4 \u00b5g/mL D-AMF resulted in a significant 68% reduction in HT29 cell growth and an even more pronounced 73% reduction in SW620 cell growth compared to untreated control cells."
+    },
+    "Question_3": {
+        "Context": "What was the effect of D-AMF and curcumin combination therapy on curcumin-resistant CRC cells?",
+        "Question": "What was the effect of D-AMF and curcumin combination therapy on curcumin-resistant CRC cells?",
+        "A": "No effect on curcumin-resistant cells",
+        "B": "Increased resistance in cells",
+        "C": "Highly effective in eliminating curcumin-resistant cells",
+        "D": "Induced cell proliferation",
+        "Answer": "C",
+        "Source": "D-AMF and curcumin proved highly effective in eliminating curcumin-resistant CRC cells."
+    },
+    "Question_4": {
+        "Context": "What was the observed impact of D-AMF on the expression levels of G6PD mRNA in CRC cells?",
+        "Question": "What was the observed impact of D-AMF on the expression levels of G6PD mRNA in CRC cells?",
+        "A": "Increased G6PD mRNA expression",
+        "B": "No effect on G6PD mRNA expression",
+        "C": "Suppressed mRNA expression of G6PD",
+        "D": "Induced G6PD mRNA mutation",
+        "Answer": "C",
+        "Source": "D-AMF significantly suppressed the mRNA expression of the target gene G6PD in CRC cells."
+    },
+    "Question_5": {
+        "Context": "What was the result of combining D-AMF and curcumin in clonogenic assays against CRC cells?",
+        "Question": "What was the result of combining D-AMF and curcumin in clonogenic assays against CRC cells?",
+        "A": "No effect on cell growth",
+        "B": "Increased cell growth",
+        "C": "Significant growth reduction",
+        "D": "Induced cell migration",
+        "Answer": "C",
+        "Source": "In clonogenic assays, the combination of D-AMF and curcumin outperformed curcumin alone against CRC cells."
+    },
+    "Question_6": {
+        "Context": "What was the observed impact of curcumin on ROS production in CRC cells?",
+        "Question": "What was the observed impact of curcumin on ROS production in CRC cells?",
+        "A": "Decreased ROS production",
+        "B": "No effect on ROS levels",
+        "C": "Increased ROS production",
+        "D": "Induced cell proliferation",
+        "Answer": "C",
+        "Source": "Curcumin was observed to increase ROS production in CRC cells."
+    },
+    "Question_7": {
+        "Context": "What was the observed impact of D-AMF and curcumin combination therapy on cell stress tolerance in CRC cells?",
+        "Question": "What was the observed impact of D-AMF and curcumin combination therapy on cell stress tolerance in CRC cells?",
+        "A": "No effect on stress tolerance",
+        "B": "Increased stress tolerance",
+        "C": "Accelerated cell death",
+        "D": "Induced cell migration",
+        "Answer": "C",
+        "Source": "In a stress tolerance assay, it was observed that the co-administration of D-AMF and curcumin resulted in an accelerated rate of cell death."
+    },
+    "Question_8": {
+        "Context": "What was the impact of D-AMF on ROS levels in CRC cells after an 8-hour treatment?",
+        "Question": "What was the impact of D-AMF on ROS levels in CRC cells after an 8-hour treatment?",
+        "A": "Decreased ROS levels",
+        "B": "No effect on ROS levels",
+        "C": "Significant increase in ROS levels",
+        "D": "Induced cell migration",
+        "Answer": "C",
+        "Source": "The results demonstrated a significant time-dependent increase in ROS levels in CRC cells after an 8-hour treatment with D-AMF."
+    },
+    "Question_9": {
+        "Context": "What was the observed effect of D-AMF on the growth of SW620 and HT29 CRC cells in a colony formation assay?",
+        "Question": "What was the observed effect of D-AMF on the growth of SW620 and HT29 CRC cells in a colony formation assay?",
+        "A": "Increased cell growth",
+        "B": "No effect on cell growth",
+        "C": "Significant growth reduction",
+        "D": "Induced cell migration",
+        "Answer": "C",
+        "Source": "Individually, 5 \u00b5M curcumin reduced growth by 33% and 45% in SW620 and HT29 cells, respectively, compared to untreated controls."
+    },
+    "Question_10": {
+        "Context": "What was the observed impact of D-AMF on the expression of GAPDH in CRC cells?",
+        "Question": "What was the observed impact of D-AMF on the expression of GAPDH in CRC cells?",
+        "A": "Increased expression of GAPDH",
+        "B": "No effect on GAPDH expression",
+        "C": "No effect on PPP",
+        "D": "Downregulated expression of GAPDH",
+        "Answer": "B",
+        "Source": "It was observed that D-AMF did not affect the expression of GAPDH, suggesting that D-AMF specifically impacts the PPP without interfering with glycolysis."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Calcium fluoride (CaF2) is a material known for its biocompatible properties and is used in various biomedical applications.",
+        "Question": "What is one of the applications of calcium fluoride (CaF2) in the biomedical field?",
+        "A": "As a catalyst in chemical reactions",
+        "B": "For biomedical imaging and cell labeling",
+        "C": "As a food preservative",
+        "D": "For enhancing flavor in pharmaceuticals",
+        "Answer": "B",
+        "Source": "Calcium fluoride (CaF2) is widely used for different bio applications ranging from biomedical imaging to cell labeling."
+    },
+    "Question_2": {
+        "Context": "Titanium alloys are often used in biomedical applications due to their superior mechanical properties.",
+        "Question": "Which titanium alloy is mentioned as a suitable material for orthopedic and dental implants?",
+        "A": "Ti6Al2Sn4Zr2Mo",
+        "B": "Ti5Al2.5Fe",
+        "C": "Ti6Al4V",
+        "D": "Ti3Al2.5V",
+        "Answer": "C",
+        "Source": "The biocompatible properties of CaF2 combined with superior mechanical properties of titanium alloy makes it a perfect choice for orthopedic and dental implants."
+    },
+    "Question_3": {
+        "Context": "In the field of coatings for biomedical applications, various methods are employed to deposit materials onto substrates.",
+        "Question": "Which coating method was used to develop a thin film of CaF2 on Ti6Al4V material?",
+        "A": "Plasma spray",
+        "B": "Sputtering",
+        "C": "Dip-coating",
+        "D": "Electrophoretic deposition",
+        "Answer": "C",
+        "Source": "A dip-coating process was employed to develop a thin film of CaF2 coating on Ti6Al4V material with an intermediate thin layer of shellac (natural resin)."
+    },
+    "Question_4": {
+        "Context": "The surface characteristics of coatings can be evaluated using various analytical techniques.",
+        "Question": "Which method is used to evaluate the surface characteristics of the CaF2 coating on Ti6Al4V material?",
+        "A": "Fourier-transform infrared spectroscopy (FTIR)",
+        "B": "X-ray powder diffraction method (XRD)",
+        "C": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "D": "Mass spectrometry (MS)",
+        "Answer": "B",
+        "Source": "The developed coating was subjected to X-ray powder diffraction method (XRD) and scanning electron microscopy (SEM) to evaluate the surface characteristics."
+    },
+    "Question_5": {
+        "Context": "The stability of coatings in a simulated body environment can be assessed by their dissolution behavior.",
+        "Question": "What is used to simulate the body fluid in which the dissolution behavior of CaF2 coated samples is studied?",
+        "A": "Hydrochloric acid solution",
+        "B": "Simulated body fluid (SBF)",
+        "C": "Distilled water",
+        "D": "Saline solution",
+        "Answer": "B",
+        "Source": "The dissolution of CaF2 in the simulated body fluid (SBF) prepared using Kokubo method with pH value maintained at 7.4 was measured."
+    },
+    "Question_6": {
+        "Context": "The biocompatibility of materials can be assessed through in vitro studies using cell lines.",
+        "Question": "Which cell line is used for the in vitro study to assess the biocompatibility of the developed implant material?",
+        "A": "HeLa cells",
+        "B": "PC12 cells",
+        "C": "MG-63 cell line",
+        "D": "CHO cells",
+        "Answer": "C",
+        "Source": "In vitro study of the developed implant material was also carried out to assess the biocompatibility. The MG-63 cell line was used for the study."
+    },
+    "Question_7": {
+        "Context": "The adhesion strength between a coating and a substrate is an important parameter in evaluating the quality of the coating.",
+        "Question": "What is the adhesion strength between the CaF2 thin film and the Ti6Al4V substrate as measured according to ASTM D7234 standard?",
+        "A": "1 MPa",
+        "B": "2 MPa",
+        "C": "3 MPa",
+        "D": "4 MPa",
+        "Answer": "C",
+        "Source": "The bonding strength (adhesion) between CaF2 thin film and the base substrate was measured according to ASTM D7234 standard, and the coating thickness was measured in accordance with standard IS - 3203 \u2013 2001."
+    },
+    "Question_8": {
+        "Context": "The surface roughness of a biomaterial can influence its interaction with biological tissues.",
+        "Question": "What is the average surface roughness (Ra) of the CaF2 coating developed on Ti6Al4V material?",
+        "A": "0.94 \u03bcm",
+        "B": "1.28 \u03bcm",
+        "C": "6.73 \u03bcm",
+        "D": "2.50 \u03bcm",
+        "Answer": "A",
+        "Source": "The average surface roughness parameters have been measured as 0.94\u03bcm (Ra), 1.28\u03bcm (Rq), and 6.73\u03bcm (Rz)."
+    },
+    "Question_9": {
+        "Context": "The corrosion behavior of biomaterials is critical for their performance in biological environments.",
+        "Question": "Which electrochemical test is used to investigate the corrosion behavior of the samples?",
+        "A": "Cyclic voltammetry",
+        "B": "Potentiodynamic polarization tests",
+        "C": "Electrochemical impedance spectroscopy",
+        "D": "Galvanostatic testing",
+        "Answer": "B",
+        "Source": "The corrosion behavior of the samples was investigated using the potentiodynamic polarization tests."
+    },
+    "Question_10": {
+        "Context": "The release of ions from a biomaterial into a simulated body fluid can be quantified using specific analytical techniques.",
+        "Question": "Which analysis technique is used to quantify the ion concentration of the simulated body fluid?",
+        "A": "Atomic absorption spectroscopy (AAS)",
+        "B": "Gas chromatography (GC)",
+        "C": "Inductively coupled plasma \u2013 mass spectrometry (ICP-MS)",
+        "D": "Liquid chromatography (LC)",
+        "Answer": "C",
+        "Source": "Inductively, the coupled plasma \u2013 mass spectrometry (ICP-MS) analysis was used to quantify the ion concentration (in ppm) of SBF."
+    }
+}

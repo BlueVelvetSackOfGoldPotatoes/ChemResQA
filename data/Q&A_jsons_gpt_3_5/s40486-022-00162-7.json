@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study, what is the primary purpose of incorporating NH2OH in the NaOH solution for Si{111} etching?",
+        "Question": "Why is NH2OH added to NaOH in the etching process?",
+        "A": "To decrease the etch rate",
+        "B": "To reduce the undercutting rate",
+        "C": "To enhance the etch rate and undercutting at mask edges",
+        "D": "To decrease the etch depth",
+        "Answer": "C",
+        "Source": "The incorporation of NH2OH in NaOH significantly enhances the etch rate and the undercutting at the mask edges that do not consist of {111} planes."
+    },
+    "Question_2": {
+        "Context": "What is the impact of etchant aging on the etch rate of Si{111} in the study?",
+        "Question": "How does the etch rate change with etchant aging?",
+        "A": "Increases",
+        "B": "Remains constant",
+        "C": "Decreases",
+        "D": "Becomes unpredictable",
+        "Answer": "C",
+        "Source": "It can easily be noticed that the etch rate is considerably reduced with etchant age during etching process."
+    },
+    "Question_3": {
+        "Context": "What effect does the addition of NH2OH have on the etched surface roughness of Si{111}?",
+        "Question": "How does the addition of NH2OH affect the surface roughness?",
+        "A": "Increases the roughness",
+        "B": "Decreases the roughness",
+        "C": "Has no effect on roughness",
+        "D": "Makes the roughness unpredictable",
+        "Answer": "B",
+        "Source": "It can be noticed from the graph that the surface roughness is decreased when NH2OH is added to NaOH."
+    },
+    "Question_4": {
+        "Context": "What is the significance of undercutting at mask edges in the study?",
+        "Question": "Why is undercutting at mask edges important in the etching process?",
+        "A": "It is undesirable for the fabrication process",
+        "B": "It helps in creating overhanging structures",
+        "C": "It reduces the etch rate",
+        "D": "It has no impact on the etching process",
+        "Answer": "B",
+        "Source": "Undercutting refers to the lateral etching that occurs under the masking layer. It is a desirable feature for the fabrication of overhanging structures made up of materials exhibiting high etch selectivity with silicon such as SiO2, Si3N4."
+    },
+    "Question_5": {
+        "Context": "What is the effect of etchant aging on the undercutting rate at mask edges?",
+        "Question": "How does the undercutting rate change with etchant aging?",
+        "A": "Increases",
+        "B": "Remains constant",
+        "C": "Decreases",
+        "D": "Becomes unpredictable",
+        "Answer": "C",
+        "Source": "It can obviously be observed that the lateral undercutting is lessened with the age of the etchant."
+    },
+    "Question_6": {
+        "Context": "Why is the etch rate an important parameter in the study?",
+        "Question": "What role does the etch rate play in the fabrication process?",
+        "A": "It influences the fabrication time",
+        "B": "It affects the surface roughness",
+        "C": "It determines the etchant aging",
+        "D": "It has no impact on the process",
+        "Answer": "A",
+        "Source": "Etch rate is one of the most important characteristics as it influences the fabrication time, which eventually affects the overall production cost."
+    },
+    "Question_7": {
+        "Context": "What is the main objective of the study regarding the etching process?",
+        "Question": "What is the primary goal of enhancing the undercutting rate at mask edges?",
+        "A": "To decrease the etch rate",
+        "B": "To reduce the fabrication time",
+        "C": "For the fast release of microstructures",
+        "D": "To increase the etch depth",
+        "Answer": "C",
+        "Source": "The main objective of the present work is to enhance the undercutting rate at the mask edges aligned along < 112 > direction for the fast release of the microstructures such as microcantilever."
+    },
+    "Question_8": {
+        "Context": "What is the impact of NH2OH addition on the etching characteristics of Si{111}?",
+        "Question": "How does the addition of NH2OH affect the etching characteristics?",
+        "A": "Decreases the etch rate",
+        "B": "Increases the etch rate and undercutting",
+        "C": "Reduces the undercutting rate",
+        "D": "Has no effect on the etching process",
+        "Answer": "B",
+        "Source": "The incorporation of NH2OH in NaOH significantly enhances the etch rate and the undercutting at the mask edges that do not consist of {111} planes."
+    },
+    "Question_9": {
+        "Context": "What is the role of the etched surface morphology in the study?",
+        "Question": "Why is the etched surface morphology important in the etching process?",
+        "A": "It affects the etch rate",
+        "B": "It influences the etchant aging",
+        "C": "It helps in creating uniform depth microstructures",
+        "D": "It has no impact on the process",
+        "Answer": "C",
+        "Source": "Etched surface morphology is a major concern specifically when the microstructures with uniform depth need to be fabricated or the surface is used for optical applications."
+    },
+    "Question_10": {
+        "Context": "What is the conclusion regarding the use of modified NaOH solution in the study?",
+        "Question": "What is the recommendation for using the modified NaOH solution?",
+        "A": "It should be used after etchant aging",
+        "B": "It should not be used immediately",
+        "C": "It has no impact on the etching process",
+        "D": "It should be used without NH2OH",
+        "Answer": "A",
+        "Source": "Based on the results presented in this paper, it can be concluded that the modified NaOH solution should be used immediately after the addition of NH2OH to achieve a higher undercutting rate at < 112 > mask edges."
+    }
+}

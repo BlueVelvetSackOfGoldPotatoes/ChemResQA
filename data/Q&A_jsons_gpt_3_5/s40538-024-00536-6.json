@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to identify bacterial contaminants in Prunus rootstock tissue cultures and determine effective nanomaterial concentrations for eliminating Curtobacterium sp. strain A7_M15 without harming explants.",
+        "Question": "What was the main objective of the study?",
+        "A": "Identifying plant tissue culture techniques",
+        "B": "Determining the impact of antibiotics on bacterial contamination",
+        "C": "Isolating and identifying bacterial contaminants in Prunus rootstock tissue cultures",
+        "D": "Testing the effect of nanomaterials on plant growth",
+        "Answer": "C",
+        "Source": "The aim of this study was to identify the isolates representing the frequent bacterial contaminants of Prunus rootstock tissue cultures..."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the effectiveness of two nanocomposites, reduced graphene oxide\u2013copper\u2013silver and silver\u2013selenium, for eliminating Curtobacterium sp. contamination in Gisela 5 rootstock tissue cultures.",
+        "Question": "Which nanocomposites showed 100% inhibition of bacterial plaque formation on culture medium?",
+        "A": "Reduced graphene oxide\u2013copper\u2013silver",
+        "B": "Silver\u2013selenium",
+        "C": "Both nanocomposites",
+        "D": "None of the nanocomposites",
+        "Answer": "C",
+        "Source": "Both nanocomposites showed 100% inhibition of bacterial plaque formation on culture medium at concentrations of 100, 200 and 400 mg L-1 Ag..."
+    },
+    "Question_3": {
+        "Context": "The study assessed the reduction in Curtobacterium sp. quantity on culture medium after treatment with nanocomposites.",
+        "Question": "By what percentage was the quantity of Curtobacterium sp. reduced after treatment with reduced graphene oxide\u2013silver\u2013copper at a concentration of 200 mg L-1 Ag?",
+        "A": "92%",
+        "B": "74%",
+        "C": "100%",
+        "D": "50%",
+        "Answer": "A",
+        "Source": "The quantity of Curtobacterium sp. on culture medium assessed using cfu enumeration was reduced by 92%..."
+    },
+    "Question_4": {
+        "Context": "The study found that Curtobacterium sp. was detected in donor Gisela 5 plants, indicating a specific characteristic of this bacterium.",
+        "Question": "What characteristic was mentioned regarding Curtobacterium sp. in the study?",
+        "A": "It is an obligately anaerobic bacterium",
+        "B": "It is a Gram-negative bacterium",
+        "C": "It is an endophytic bacterium",
+        "D": "It is a pathogenic bacterium",
+        "Answer": "C",
+        "Source": "Curtobacterium sp. was detected in donor Gisela 5 plants, indicating an endophytic character of this bacterium."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the impact of nanocomposites on the dry weight of explants.",
+        "Question": "What was the observed effect of nanocomposites at 100 or 200 mg L-1 Ag on the surface covered by plants?",
+        "A": "Decrease in dry weight",
+        "B": "Increase in dry weight",
+        "C": "No effect on dry weight",
+        "D": "Phytotoxicity",
+        "Answer": "C",
+        "Source": "The dry weight of explants was not negatively affected by the application of nanocomposites regardless of concentration..."
+    },
+    "Question_6": {
+        "Context": "The study concluded that reduced graphene oxide\u2013silver\u2013copper and silver\u2013selenium nanocomposites effectively limited the presence of Curtobacterium sp. in micropropagated Prunus rootstock.",
+        "Question": "What was the main conclusion regarding the nanocomposites tested in the study?",
+        "A": "They caused phytotoxicity",
+        "B": "They had no effect on bacterial contamination",
+        "C": "They effectively limited the presence of Curtobacterium sp.",
+        "D": "They increased bacterial contamination",
+        "Answer": "C",
+        "Source": "Reduced graphene oxide\u2013silver\u2013copper and silver\u2013selenium nanocomposites at 200 mg L-1 Ag effectively limited the Curtobacterium sp. presence..."
+    },
+    "Question_7": {
+        "Context": "The study highlighted the importance of identifying bacterial isolates before implementing measures to prevent their occurrence.",
+        "Question": "Why is it important to identify bacterial isolates in tissue cultures?",
+        "A": "To increase bacterial contamination",
+        "B": "To adjust proper measures to avoid their occurrence",
+        "C": "To introduce safety practices",
+        "D": "To use antibiotics",
+        "Answer": "B",
+        "Source": "The effective elimination of bacterial contaminants in in vitro cultures needs to be, in some cases, preceded by the identification of present isolates, which can help to adjust proper measures to avoid their occurrence..."
+    },
+    "Question_8": {
+        "Context": "The study utilized the Biolog Microstation System and the GEN III MicroPlate test panel to analyze the phenotypic fingerprint of the Curtobacterium sp. A7_M15 isolate.",
+        "Question": "What method was used to analyze the phenotypic fingerprint of the Curtobacterium sp. A7_M15 isolate?",
+        "A": "High-performance liquid chromatography",
+        "B": "Mass spectrometry",
+        "C": "Biolog Microstation System",
+        "D": "Polymerase chain reaction",
+        "Answer": "C",
+        "Source": "For the analysis of the Curtobacterium sp. A7_M15 isolate phenotypic fingerprint, the Biolog Microstation System and the GEN III MicroPlate test panel..."
+    },
+    "Question_9": {
+        "Context": "The study involved whole-genome sequencing of the Curtobacterium sp. A7_M15 isolate.",
+        "Question": "What was used for whole-genome sequencing of the Curtobacterium sp. A7_M15 isolate?",
+        "A": "Polymerase chain reaction",
+        "B": "High-performance liquid chromatography",
+        "C": "Mass spectrometry",
+        "D": "Illumina platform",
+        "Answer": "D",
+        "Source": "The quantified library was sequenced on an Illumina platform according to the effective library concentration and data amount needed..."
+    },
+    "Question_10": {
+        "Context": "The study tested six nanoparticles and nanocomposites against Curtobacterium sp. A7_M15 in in vitro assays.",
+        "Question": "Which nanomaterial was NOT used in the experiment?",
+        "A": "rGO-Cu",
+        "B": "AgSe-NPs",
+        "C": "AgNPs_1",
+        "D": "Cu",
+        "Answer": "D",
+        "Source": "Six nanoparticles and nanocomposites selected for the experiment were provided by the Department of Chemistry and Biochemistry..."
+    }
+}

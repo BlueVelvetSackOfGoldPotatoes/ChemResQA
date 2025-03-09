@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Photoacoustic imaging is a technique that enables noninvasive volumetric imaging of biological tissues by capturing the endogenous optical absorption contrast. It employs a short-pulsed laser beam to illuminate the tissues, which absorb the laser energy, leading to a transient thermo-elastic expansion and subsequently generating ultrasonic pressure waves.",
+        "Question": "What is the primary physical effect that generates ultrasonic pressure waves in photoacoustic imaging?",
+        "A": "Piezoelectric effect",
+        "B": "Thermo-elastic expansion",
+        "C": "Magnetostriction",
+        "D": "Optical rectification",
+        "Answer": "B",
+        "Source": "PA employs a short-pulsed laser beam to illuminate the biological tissues. The absorbed laser energy leads to a transient thermo-elastic expansion and subsequently generates ultrasonic pressure waves."
+    },
+    "Question_2": {
+        "Context": "In photoacoustic imaging, the amplitude of the generated ultrasonic waves is determined by the product of the optical absorption coefficient and the optical fluence. This relationship allows for the quantification of the volumetric optical absorption contrast distribution in tissue.",
+        "Question": "In photoacoustic imaging, what determines the amplitude of the generated ultrasonic waves?",
+        "A": "The product of the optical absorption coefficient and the optical fluence",
+        "B": "The difference between the optical absorption coefficient and the optical fluence",
+        "C": "The ratio of the optical absorption coefficient to the optical fluence",
+        "D": "The sum of the optical absorption coefficient and the optical fluence",
+        "Answer": "A",
+        "Source": "Secondly, since the amplitude of the generated ultrasonic waves are determined by the product of the optical absorption coefficient and the optical fluence, a PA image is better suited for quantifying volumetric optical absorption contrast distribution in tissue."
+    },
+    "Question_3": {
+        "Context": "Micro-ring resonators (MRRs) are devices used in optical-based ultrasound detection methods. They are particularly effective due to their small sensing area and high sensitivity. The noise equivalent pressure (NEP) is a measure of the minimum detectable pressure change by the MRR.",
+        "Question": "What does the noise equivalent pressure (NEP) indicate in the context of micro-ring resonators used for ultrasound detection?",
+        "A": "The maximum pressure the MRR can detect",
+        "B": "The average pressure detected by the MRR over time",
+        "C": "The minimum detectable pressure change by the MRR",
+        "D": "The pressure required to damage the MRR",
+        "Answer": "C",
+        "Source": "Polymer micro-ring resonators (MRRs) enable significant reduction for the sensing area to 80 \u03bcm in diameter, while maintaining highly sensitive ultrasound detection with noise equivalent pressure (NEP) of 0.49 Pa."
+    },
+    "Question_4": {
+        "Context": "Optical-based ultrasound detection methods, such as those using polymer micro-ring resonators (MRRs), offer advantages over conventional piezoelectric detectors. One of the key performance metrics of MRRs is the detection frequency range, which indicates the range of frequencies the MRR can effectively detect.",
+        "Question": "What is the significance of the detection frequency range in optical-based ultrasound detection using polymer micro-ring resonators?",
+        "A": "It determines the color of the detected ultrasound signal",
+        "B": "It indicates the temperature range the MRR can operate in",
+        "C": "It signifies the range of ultrasound frequencies the MRR can detect",
+        "D": "It represents the optical frequencies used for imaging",
+        "Answer": "C",
+        "Source": "Polymer micro-ring resonators (MRRs) enable significant reduction for the sensing area to 80 \u03bcm in diameter, while maintaining highly sensitive ultrasound detection with a broad detection frequency range up to 250 MHz."
+    },
+    "Question_5": {
+        "Context": "In the field of photoacoustic imaging, the quality factor (Q-factor) of a micro-ring resonator is an important parameter. It is a dimensionless parameter that describes how underdamped an oscillator or resonator is, and characterizes a resonator's bandwidth relative to its center frequency. Higher Q-factors indicate a lower rate of energy loss relative to the stored energy of the resonator.",
+        "Question": "What does a higher Q-factor in a micro-ring resonator imply?",
+        "A": "Higher energy absorption by the resonator",
+        "B": "Lower detection sensitivity of the resonator",
+        "C": "Faster energy loss in the resonator",
+        "D": "Lower rate of energy loss relative to the stored energy",
+        "Answer": "D",
+        "Source": "Being optimized over more than a decade by multiple research groups, it provides the high sensitivity with high quality factor (Q-factor) of ~ 105."
+    },
+    "Question_6": {
+        "Context": "Photoacoustic computed tomography (PACT) is a modality of photoacoustic imaging that exploits diffusive light to illuminate deep into tissues, delivering ultrasonically defined spatial resolution beyond the optical diffusion regime. This technique allows for imaging at depths that are not accessible by conventional ballistic optical imaging modalities.",
+        "Question": "What is the primary advantage of photoacoustic computed tomography (PACT) over conventional ballistic optical imaging modalities?",
+        "A": "It uses less powerful lasers",
+        "B": "It provides higher resolution at shallow depths",
+        "C": "It allows for imaging at greater depths",
+        "D": "It eliminates the need for ultrasonic detection",
+        "Answer": "C",
+        "Source": "Photoacoustic computed tomography (PACT) mitigates this issue by exploiting the diffusive light to illuminate deep into the tissues, delivering ultrasonically defined spatial resolution far deeper than the optical diffusion regime around 1 mm, which is beyond the reach of conventional ballistic optical imaging modalities."
+    },
+    "Question_7": {
+        "Context": "In photoacoustic imaging, the depth information of the imaged tissue can be back-calculated from the time-of-flight data of the recorded photoacoustic waveforms. This allows for the construction of a three-dimensional image from two-dimensional spatial samplings.",
+        "Question": "How is depth information obtained in photoacoustic imaging?",
+        "A": "By measuring the intensity of the reflected light",
+        "B": "By back-calculating from the time-of-flight data of recorded photoacoustic waveforms",
+        "C": "Through direct measurement using a depth gauge",
+        "D": "By analyzing the color spectrum of the absorbed light",
+        "Answer": "B",
+        "Source": "Finally, the depth information can be back calculated from the time-of-flight date buried in the temporal domain of the recorded PA waveforms and thus, a volumetric image in three-dimensions (3D) only requires much faster spatial samplings in two-dimensions (2D)."
+    },
+    "Question_8": {
+        "Context": "Optical absorption contrast in photoacoustic imaging refers to the differences in the optical properties of tissues that result in varying levels of light absorption. These differences can be used to generate images that highlight the anatomical and functional features of the tissues.",
+        "Question": "What is 'optical absorption contrast' in the context of photoacoustic imaging?",
+        "A": "The variation in light emission by different tissues",
+        "B": "The differences in light absorption by different tissues",
+        "C": "The contrast in temperature changes within the tissues",
+        "D": "The difference in ultrasound reflection by various tissues",
+        "Answer": "B",
+        "Source": "PA can image a wide range of optical absorption contrasts, including endogenous sources, such as hemoglobin and melanin, and exogenous sources."
+    },
+    "Question_9": {
+        "Context": "In photoacoustic imaging, endogenous and exogenous contrast sources are used to provide optical absorption contrast. Endogenous sources are naturally occurring within the biological tissues, such as hemoglobin and melanin, while exogenous sources are introduced into the tissue, such as chemical dyes and nanoparticles.",
+        "Question": "What are endogenous contrast sources in photoacoustic imaging?",
+        "A": "Artificial agents introduced into the tissue",
+        "B": "Naturally occurring substances within the tissue",
+        "C": "External light sources used for illumination",
+        "D": "Ultrasound waves generated by the imaging device",
+        "Answer": "B",
+        "Source": "PA can image a wide range of optical absorption contrasts, including endogenous sources, such as hemoglobin and melanin, and exogenous sources, such as chemical dyes, nanoparticles, and reporter gene products."
+    },
+    "Question_10": {
+        "Context": "In the context of photoacoustic imaging, the term 'optical resolution' refers to the ability of the imaging system to distinguish between two points in an image. The higher the optical resolution, the better the system can differentiate between closely spaced features in the tissue.",
+        "Question": "What does 'optical resolution' refer to in photoacoustic imaging?",
+        "A": "The intensity of the light used for imaging",
+        "B": "The depth to which the light can penetrate the tissue",
+        "C": "The ability to differentiate between closely spaced features in the tissue",
+        "D": "The duration of the laser pulse used in imaging",
+        "Answer": "C",
+        "Source": "Optical resolution photoacoustic microscope (OR-PAM) further employs a focused incident laser beam to spatially confine the PA generation in improving the lateral resolution."
+    }
+}

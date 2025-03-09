@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the synthesis of [68Ga]Ga-FAPI-46 using cyclotron-produced gallium-68. ",
+        "Question": "What is the main advantage of utilizing liquid-target cyclotron-produced gallium-68 for the synthesis of [68Ga]Ga-FAPI-46?",
+        "A": "Higher cost-effectiveness",
+        "B": "Lower radiochemical purity",
+        "C": "Reduced impurities of Ga-66 and Ga-67",
+        "D": "Shorter synthesis time",
+        "Answer": "C",
+        "Source": "The process consistently provides < 2% of Ga-66 and Ga-67 at the 4-h expiry, meeting the Ph. Eur. standards."
+    },
+    "Question_2": {
+        "Context": "The paper describes the automated radiosynthesis process for [68Ga]Ga-FAPI-46.",
+        "Question": "What is the purpose of using an anion exchange cartridge in the synthesis process?",
+        "A": "To trap Ga-66 and Ga-67 impurities",
+        "B": "To elute Ga-68 from the reactor",
+        "C": "To remove zinc and other metals",
+        "D": "To sterilize the final product",
+        "Answer": "A",
+        "Source": "The resulting [68Ga]GaCl3 was transferred to the reactor, where the precursor solution had already been transferred. The resulting reaction solution was heated to 95 \u00b0C for 10 min, cooled to room temperature and diluted with 0.9% saline. The resulting solution is passed through a CM cartridge directly to the final vial through a 0.22-micron sterilizing filter."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the stability of [68Ga]Ga-FAPI-46 product.",
+        "Question": "What was observed regarding the stability of [68Ga]Ga-FAPI-46 at room temperature for up to 4 hours?",
+        "A": "Decrease in radiochemical purity",
+        "B": "Increase in free gallium",
+        "C": "No degradation of the product",
+        "D": "Change in pH",
+        "Answer": "C",
+        "Source": "Stability studies conducted at room temperature showed no degradation of the product out to 4-h, with consistent radiochemical purities by HPLC shown."
+    },
+    "Question_4": {
+        "Context": "The paper details the automated radiosynthesis process for [68Ga]Ga-FAPI-46.",
+        "Question": "What is the purpose of the CM cartridge in the synthesis process?",
+        "A": "To trap free gallium",
+        "B": "To remove zinc and other metals",
+        "C": "To elute Ga-68 from the reactor",
+        "D": "To sterilize the final product",
+        "Answer": "A",
+        "Source": "Using the optimized conditions established, 43.7 \u00b1 2.5 (n = 3) mCi of [68Ga]FAPI-46 was produced. This is similar to the yields for [68Ga]PSMA-11 previously reported."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the synthesis of [68Ga]Ga-FAPI-46 using cyclotron-produced gallium-68.",
+        "Question": "What is the advantage of using the GE FASTlab 2 for the synthesis process?",
+        "A": "Customizable cassette layout",
+        "B": "Manual manipulations required",
+        "C": "Limited positions on the cassette skeleton",
+        "D": "Inability to perform trap and release purification",
+        "Answer": "A",
+        "Source": "In addition to commercially available cassettes and kits, the FASTlab has a basic cassette skeleton and components available for customized design and radiosynthesis implementation."
+    },
+    "Question_6": {
+        "Context": "The paper describes the automated radiosynthesis process for [68Ga]Ga-FAPI-46.",
+        "Question": "What is the purpose of the ZR resin cartridge in the synthesis process?",
+        "A": "To trap Ga-66 and Ga-67 impurities",
+        "B": "To elute Ga-68 from the reactor",
+        "C": "To remove zinc and other metals",
+        "D": "To sterilize the final product",
+        "Answer": "A",
+        "Source": "The target solution is diluted to \u2264 0.1 M nitric acid by addition of water. The 68Ga is trapped on the first column (ZR Resin) while the zinc is not trapped on the column under these conditions."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the stability of [68Ga]Ga-FAPI-46 product.",
+        "Question": "What was observed regarding the pH of the [68Ga]Ga-FAPI-46 solution during stability testing?",
+        "A": "Decrease in pH",
+        "B": "Increase in pH",
+        "C": "Consistent pH",
+        "D": "pH change was not measured",
+        "Answer": "C",
+        "Source": "The pH of the solution was also consistent demonstrating no radiolytic induced pH change."
+    },
+    "Question_8": {
+        "Context": "The paper details the automated radiosynthesis process for [68Ga]Ga-FAPI-46.",
+        "Question": "What is the purpose of the TK200 resin cartridge in the synthesis process?",
+        "A": "To trap free gallium",
+        "B": "To remove zinc and other metals",
+        "C": "To elute Ga-68 from the reactor",
+        "D": "To sterilize the final product",
+        "Answer": "B",
+        "Source": "Next, the 68Ga is eluted with ~ 1.75 M hydrochloric acid (HCl), passed through the anion exchange cartridge, and trapped in the 3rd column (TK 200 Resin)."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the synthesis of [68Ga]Ga-FAPI-46 using cyclotron-produced gallium-68.",
+        "Question": "What is the advantage of using a liquid-target cyclotron-based route for gallium-68 production?",
+        "A": "On-demand production",
+        "B": "Higher fixed costs",
+        "C": "Limited clinical usage",
+        "D": "Scattered and unpredictable research needs",
+        "Answer": "A",
+        "Source": "The cyclotron-based route via liquid targets can produce gallium-68 on-demand with workflows similar to fluoride-18 production."
+    },
+    "Question_10": {
+        "Context": "The paper describes the automated radiosynthesis process for [68Ga]Ga-FAPI-46.",
+        "Question": "What is the significance of the Ga-66 and Ga-67 impurities level in the final product?",
+        "A": "Meeting Ph. Eur. standards",
+        "B": "Decreased radiochemical purity",
+        "C": "Increased stability",
+        "D": "Reduced shelf life",
+        "Answer": "A",
+        "Source": "Furthermore, the process consistently provides < 2% of Ga-66 and Ga-67 at the 4-h expiry, meeting the Ph. Eur. standards."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In quantum simulations of materials, the Hamiltonian of a system describes the total energy of that system, including kinetic and potential energies. The Heisenberg Hamiltonian is one such model used to describe the interactions between spins in a material.",
+        "Question": "What does the Heisenberg Hamiltonian typically include?",
+        "A": "Exchange interactions between nearest-neighbor spins and an external magnetic field",
+        "B": "Gravitational potential energy between particles",
+        "C": "Electrostatic forces between charged ions",
+        "D": "Thermal energy contributions from environmental heat",
+        "Answer": "A",
+        "Source": "The Heisenberg Hamiltonian is defined as H(t) = - \u03a3\u03b1 {J\u03b1 N-1 \u03a3i=1 \u03c3\u03b1i \u03c3\u03b1i+1} - h\u03b2(t) N \u03a3i=1 \u03c3\u03b2i where \u03b1 sums over {x, y, z}, the coupling parameters J\u03b1 denote the exchange interaction between nearest-neighbor spins along the \u03b1-direction, \u03c3\u03b1i is the \u03b1-Pauli matrix acting on qubit i, and h\u03b2(t) is the time-dependent amplitude of an external magnetic field along the \u03b2-direction, where \u03b2 \u2208 {x, y, z}."
+    },
+    "Question_2": {
+        "Context": "In quantum computing, the Trotter decomposition is a method used to approximate the time-evolution operator of a quantum system by discretizing time into small steps and splitting the Hamiltonian into components that are easy to diagonalize.",
+        "Question": "What is the primary purpose of the Trotter decomposition in quantum simulations?",
+        "A": "To increase the computational complexity of simulations",
+        "B": "To approximate the time-evolution operator of a quantum system",
+        "C": "To reduce the quantum system to classical physics",
+        "D": "To simulate gravitational interactions in a quantum system",
+        "Answer": "B",
+        "Source": "Typically, the Trotter decomposition (Trotter 1959) is used to approximately construct U(t). With this method, the time-dependent Hamiltonian H(t) is first approximated as a piece-wise constant function by discretizing time into small time-steps over which H(t) is constant."
+    },
+    "Question_3": {
+        "Context": "Quantum circuits for dynamic simulations must implement the time-evolution operator, which is challenging to compute exactly due to the time-dependence of the Hamiltonian and the exponentiation of the Hamiltonian.",
+        "Question": "What is the main challenge in computing the time-evolution operator for dynamic simulations in quantum circuits?",
+        "A": "The constant value of the Hamiltonian over time",
+        "B": "The linear behavior of the Hamiltonian with time",
+        "C": "The time-dependence of the Hamiltonian and its exponentiation",
+        "D": "The static nature of quantum systems",
+        "Answer": "C",
+        "Source": "The quantum circuits for dynamic simulations of quantum materials must implement the time-evolution operator between the initial time (which we set to 0) and some final time t, given by U(0, t) \u2261 U(t) = T exp(-i \u222bt0 H(t)dt) where T indicates a time-ordered exponential and H(t) is the time-dependent Hamiltonian of the material."
+    },
+    "Question_4": {
+        "Context": "In quantum simulations, the Trotter error is an error that arises from using the Trotter decomposition to approximate the time-evolution operator of a quantum system.",
+        "Question": "What does the Trotter error scale with in quantum simulations?",
+        "A": "The size of the quantum system",
+        "B": "The depth of the quantum circuit",
+        "C": "The size of the simulation time-step",
+        "D": "The temperature of the quantum system",
+        "Answer": "C",
+        "Source": "The error generated from the Trotter decomposition, known as Trotter error, can be a significant source of error, scaling with the size of the simulation time-step \u0394t."
+    },
+    "Question_5": {
+        "Context": "In quantum simulations, matchgates are a special group of two-qubit gates that have the property of being able to be combined into another matchgate when two are multiplied together.",
+        "Question": "What is a key feature of matchgates in quantum simulations?",
+        "A": "They cannot be combined with other gates",
+        "B": "They are only used in classical simulations",
+        "C": "They require a large number of qubits to function",
+        "D": "The product of two matchgates is again a matchgate",
+        "Answer": "D",
+        "Source": "Matchgates have the important property that the product of two matchgates is again a matchgate and this will be a key feature to arrive at constant-depth circuits."
+    },
+    "Question_6": {
+        "Context": "In the context of quantum simulations, the transverse field Ising model (TFIM) and the XY model are examples of models that can be derived from the one-dimensional Heisenberg Hamiltonian by setting various parameters to zero.",
+        "Question": "Which models can be derived from the one-dimensional Heisenberg Hamiltonian by setting certain parameters to zero?",
+        "A": "The Schr\u00f6dinger model and the Dirac model",
+        "B": "The transverse field Ising model and the XY model",
+        "C": "The Bose-Einstein condensate model and the Fermi gas model",
+        "D": "The Newtonian mechanics model and the Einstein field equations model",
+        "Answer": "B",
+        "Source": "This set HCD, whose most prominent models include the transverse field Ising model (TFIM) and the (transverse field) XY model, is characterized by Hamiltonians that can be mapped to free fermionic models."
+    },
+    "Question_7": {
+        "Context": "In quantum simulations, the transverse field Ising model (TFIM) is one of the models that can be simulated using constant-depth circuits. It is characterized by a specific set of interactions and an external magnetic field.",
+        "Question": "What characterizes the transverse field Ising model (TFIM) in terms of interactions and external fields?",
+        "A": "Only z-direction coupling interactions and a time-dependent magnetic field in the x-direction",
+        "B": "Only x-direction coupling interactions and a time-dependent magnetic field in the z-direction",
+        "C": "Coupling interactions in all directions and a static magnetic field in the z-direction",
+        "D": "No coupling interactions and a time-dependent magnetic field in the y-direction",
+        "Answer": "B",
+        "Source": "The TFIM is obtained by setting Jy = Jz = 0 and \u03b2 = z in the Hamiltonian in Eq. 3."
+    },
+    "Question_8": {
+        "Context": "In quantum simulations, the XY model is another model that can be simulated using constant-depth circuits. It is characterized by a specific set of interactions without an external magnetic field.",
+        "Question": "What characterizes the XY model in terms of interactions and external fields?",
+        "A": "Only x-direction coupling interactions and a static magnetic field in the z-direction",
+        "B": "Only z-direction coupling interactions and a time-dependent magnetic field in the x-direction",
+        "C": "Coupling interactions in the x- and y-directions without an external magnetic field",
+        "D": "Coupling interactions in all directions with a time-dependent magnetic field in the y-direction",
+        "Answer": "C",
+        "Source": "The XY model, where Jz = 0 and h\u03b2 = 0, and (ii) the TFIM, where Jy = Jz = 0."
+    },
+    "Question_9": {
+        "Context": "In quantum simulations, adiabatic state preparation (ASP) is a technique used to prepare the ground state of a quantum system by slowly evolving the system under a time-dependent Hamiltonian.",
+        "Question": "What is the basis for adiabatic state preparation (ASP) in quantum simulations?",
+        "A": "Rapid evolution under a time-dependent Hamiltonian",
+        "B": "Arbitrarily fast changes in the system's environment",
+        "C": "Arbitrarily slow evolution under a time-dependent Hamiltonian",
+        "D": "Static evolution under a time-independent Hamiltonian",
+        "Answer": "C",
+        "Source": "Since our compressed circuits allow for arbitrarily many time-steps in a simulation, this allows arbitrarily slow (i.e., adiabatic) evolution under a time-dependent Hamiltonian, which is the basis for ASP (Adiabatic State Preparation)."
+    },
+    "Question_10": {
+        "Context": "In quantum simulations, the Heisenberg Hamiltonian can be modified to include various interaction terms and external fields, leading to different models that describe the behavior of quantum materials.",
+        "Question": "Which of the following is a necessary but not sufficient condition for the Heisenberg Hamiltonian to be simulated with constant-depth circuits?",
+        "A": "The product of the coupling parameters Jx, Jy, and Jz must be non-zero",
+        "B": "The sum of the coupling parameters Jx, Jy, and Jz must be zero",
+        "C": "At least one of the coupling parameters Jx, Jy, and Jz must be zero",
+        "D": "All coupling parameters Jx, Jy, and Jz must be equal",
+        "Answer": "C",
+        "Source": "Note that Jx \u00b7 Jy \u00b7 Jz = 0 is a necessary but not sufficient condition for constant-depth."
+    }
+}

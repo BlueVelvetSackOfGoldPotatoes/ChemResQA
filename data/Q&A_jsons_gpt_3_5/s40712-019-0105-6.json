@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the laminar blended convection stream in a vertical 2-D backward-facing step channel configuration under various parameters and initial conditions.",
+        "Question": "What was the primary focus of the study?",
+        "A": "Investigating the heat transfer properties of SiO2 nanofluid",
+        "B": "Analyzing the impact of different Reynolds numbers on the flow characteristics",
+        "C": "Studying the influence of various nanoparticle diameters on heat transfer",
+        "D": "Examining the behavior of skin friction coefficient with varying heat flux",
+        "Answer": "B",
+        "Source": "SiO2 nanoparticles show the most astounding Nu followed by Al2O3, CaO, and ZnO."
+    },
+    "Question_2": {
+        "Context": "The study examined the influence of the stream and its relevant opposing flow on the properties of the heat flux.",
+        "Question": "How did the Nusselt number vary with increasing Reynolds number?",
+        "A": "Decreased",
+        "B": "Remained constant",
+        "C": "Increased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "Nu increased continuously by expanding Re and by increasing the step height as well."
+    },
+    "Question_3": {
+        "Context": "The study found that the heat flux was very dependent on the conditions that correlate the preferred flux exchange rate over restricting stream condition.",
+        "Question": "What was the observed relationship between heat flux and skin friction coefficient?",
+        "A": "Directly proportional",
+        "B": "Inversely proportional",
+        "C": "No correlation",
+        "D": "Fluctuating",
+        "Answer": "A",
+        "Source": "However, at a particular heat flux of qw = 600 W/m2, the skin friction coefficient shows higher values due to the diminishing shear stress at the vortex."
+    },
+    "Question_4": {
+        "Context": "The study investigated the laminar blended convection stream in a vertical 2-D backward-facing step channel configuration under various parameters and initial conditions.",
+        "Question": "How did the Nusselt number behave with increasing heat flux?",
+        "A": "Decreased",
+        "B": "Remained constant",
+        "C": "Increased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "It was noticed that the highest value of Nu decreases due to the increasing effect of the expanding buoyancy force."
+    },
+    "Question_5": {
+        "Context": "The study focused on the impact of various nanofluids on heat transfer enhancement under specific parameters.",
+        "Question": "Which nanofluid exhibited the highest Nusselt number peak near the wall?",
+        "A": "Al2O3",
+        "B": "CaO",
+        "C": "ZnO",
+        "D": "SiO2",
+        "Answer": "SiO2",
+        "Source": "SiO2 nanofluid has the highest Nu peak followed by Al2O3, CuO, and finally ZnO."
+    },
+    "Question_6": {
+        "Context": "The study explored the impact of nanoparticle volume fraction on heat transfer characteristics.",
+        "Question": "How does the Nusselt number change with increasing nanoparticle volume fraction?",
+        "A": "Decreases",
+        "B": "Remains constant",
+        "C": "Increases",
+        "D": "Fluctuates",
+        "Answer": "C",
+        "Source": "As \u2205 increases, the Nu of SiO2 nanofluids ends up higher than that of unadulterated fluids."
+    },
+    "Question_7": {
+        "Context": "The study analyzed the effect of nanoparticle diameter on heat transfer performance.",
+        "Question": "What impact does decreasing nanoparticle diameter have on heat transfer improvement?",
+        "A": "Decreases",
+        "B": "Remains constant",
+        "C": "Increases",
+        "D": "Fluctuates",
+        "Answer": "C",
+        "Source": "The small diameter of the nanoparticles results in increasing the heat transfer improvement."
+    },
+    "Question_8": {
+        "Context": "The study investigated the behavior of skin friction coefficient with varying Reynolds numbers.",
+        "Question": "How does the skin friction coefficient change with increasing Reynolds number?",
+        "A": "Decreases",
+        "B": "Remains constant",
+        "C": "Increases",
+        "D": "Fluctuates",
+        "Answer": "A",
+        "Source": "It is shown that the skin friction coefficient decreases rapidly as Re increases."
+    },
+    "Question_9": {
+        "Context": "The study examined the impact of heat flux on the skin friction coefficient.",
+        "Question": "What effect does increasing heat flux have on the skin friction coefficient?",
+        "A": "Decreases",
+        "B": "Remains constant",
+        "C": "Increases",
+        "D": "Fluctuates",
+        "Answer": "C",
+        "Source": "The increase in the heat flow enhances the skin friction coefficient."
+    },
+    "Question_10": {
+        "Context": "The study investigated the relationship between heat flux and Nusselt number.",
+        "Question": "How does the Nusselt number change with increasing heat flux?",
+        "A": "Decreases",
+        "B": "Remains constant",
+        "C": "Increases",
+        "D": "Fluctuates",
+        "Answer": "C",
+        "Source": "Nu increases as Re increases exhibiting stronger convective current."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the development of a virus detection platform using liposome technology for innovative materials.",
+        "Question": "What is the purpose of embedding recombinant protein in liposomes in the study?",
+        "A": "To increase the stability of the protein",
+        "B": "To decrease the sensitivity of the detection method",
+        "C": "To reduce the binding affinity of the protein",
+        "D": "To prevent the detection of viruses",
+        "Answer": "A",
+        "Source": "Therefore, our study suggests developing liposomes embedded in cell-derived ACE2 receptors as a platform that improves the stability and functionality of the ACE2 receptors to detect low concentrations of COVID-19 in real time."
+    },
+    "Question_2": {
+        "Context": "The research involves the detection of SARS-CoV and SARS-CoV-2 using a sensor platform.",
+        "Question": "What is the detection limit for the S1 protein of both viruses using the sensor platform in the study?",
+        "A": "1 ng/ml",
+        "B": "100 pg/ml",
+        "C": "10 pg/ml",
+        "D": "1 pg/ml",
+        "Answer": "C",
+        "Source": "With the sensor platform S1 protein of both viruses was detected with a detection limit of 10 pg/ml."
+    },
+    "Question_3": {
+        "Context": "The study involves the detection of new emerging viruses using a sensor platform.",
+        "Question": "What was the result of the selectivity test between SARS-CoV-2 and MERS-CoV in the study?",
+        "A": "Both viruses showed a signal",
+        "B": "Neither virus showed a signal",
+        "C": "Only SARS-CoV-2 showed a signal",
+        "D": "Only MERS-CoV showed a signal",
+        "Answer": "B",
+        "Source": "In the selectivity test, MERS-CoV did not show a signal due to no binding with Au@R/Li."
+    },
+    "Question_4": {
+        "Context": "The research involves the detection of spike proteins of SARS-CoV and SARS-CoV-2 using Au@R/Li.",
+        "Question": "What was the detection limit for SARS-CoV-2 spike protein using Au@R/Li in the study?",
+        "A": "100 ng/ml",
+        "B": "10 ng/ml",
+        "C": "1 ng/ml",
+        "D": "0.01 ng/ml",
+        "Answer": "D",
+        "Source": "The detection wavelength of the SARS-CoV-1 and SARS-CoV-2 on Au@R/Li was significantly increased to 1.68 ~ 6.16-fold in 0.01 ~ 10,000 ng/ml concentration compared to Au@R. Also, the limit of detection of viruses on Au@R/Li was 0.01 ng/ml concentration."
+    },
+    "Question_5": {
+        "Context": "The study involves the detection of clinical samples from COVID-19 patients using the LSPR sensor.",
+        "Question": "What was the accuracy of sensitivity for detecting SARS-CoV-2 in clinical samples using Au@R/Li?",
+        "A": "90%",
+        "B": "95%",
+        "C": "98%",
+        "D": "100%",
+        "Answer": "C",
+        "Source": "The Au@R/Li shows a 98% accuracy of sensitivity according to the receiver operating characteristic (ROC) curve."
+    },
+    "Question_6": {
+        "Context": "The research focuses on the development of a virus detection platform using liposome technology.",
+        "Question": "What was the purpose of using AuNPs in the study?",
+        "A": "To decrease the stability of the sensor platform",
+        "B": "To increase the sensitivity of the detection method",
+        "C": "To reduce the selectivity of the sensor platform",
+        "D": "To prevent the detection of viruses",
+        "Answer": "B",
+        "Source": "Using nanomaterials has great advantages in applications targeting DNA, RNA, proteins, and other small ligands/molecules. LSPR biosensors with AuNPs have the advantage of being able to detect small analytes and have been successfully applied in clinical diagnostics."
+    },
+    "Question_7": {
+        "Context": "The study involves the detection of spike proteins of SARS-CoV and SARS-CoV-2 using Au@R/Li.",
+        "Question": "What was the result of the selectivity test between SARS-CoV-2 and MERS-CoV in the study?",
+        "A": "Both viruses showed a signal",
+        "B": "Neither virus showed a signal",
+        "C": "Only SARS-CoV-2 showed a signal",
+        "D": "Only MERS-CoV showed a signal",
+        "Answer": "B",
+        "Source": "In the selectivity test, MERS-CoV did not show a signal due to no binding with Au@R/Li."
+    },
+    "Question_8": {
+        "Context": "The research involves the detection of new emerging viruses using a sensor platform.",
+        "Question": "What was the detection limit for the S1 protein of both viruses using the sensor platform in the study?",
+        "A": "1 ng/ml",
+        "B": "100 pg/ml",
+        "C": "10 pg/ml",
+        "D": "1 pg/ml",
+        "Answer": "C",
+        "Source": "With the sensor platform S1 protein of both viruses was detected with a detection limit of 10 pg/ml."
+    },
+    "Question_9": {
+        "Context": "The study involves the detection of clinical samples from COVID-19 patients using the LSPR sensor.",
+        "Question": "What was the accuracy of sensitivity for detecting SARS-CoV-2 in clinical samples using Au@R/Li?",
+        "A": "90%",
+        "B": "95%",
+        "C": "98%",
+        "D": "100%",
+        "Answer": "C",
+        "Source": "The Au@R/Li shows a 98% accuracy of sensitivity according to the receiver operating characteristic (ROC) curve."
+    },
+    "Question_10": {
+        "Context": "The research focuses on the development of a virus detection platform using liposome technology for innovative materials.",
+        "Question": "What was the purpose of embedding recombinant protein in liposomes in the study?",
+        "A": "To increase the stability of the protein",
+        "B": "To decrease the sensitivity of the detection method",
+        "C": "To reduce the binding affinity of the protein",
+        "D": "To prevent the detection of viruses",
+        "Answer": "A",
+        "Source": "Therefore, our study suggests developing liposomes embedded in cell-derived ACE2 receptors as a platform that improves the stability and functionality of the ACE2 receptors to detect low concentrations of COVID-19 in real time."
+    }
+}

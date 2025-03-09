@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the fabrication of a DNA microarray chip using a COC substrate. The optimal conditions for the TdT reaction time were investigated.",
+        "Question": "What was determined to be the optimal TdT reaction time?",
+        "A": "0.5 hours",
+        "B": "1 hour",
+        "C": "2 hours",
+        "D": "4 hours",
+        "Answer": "C",
+        "Source": "The mean grey values of spots according to the TdT reaction time (0, 0.5, 1, 2, and 4 h) were 48.37 \u00b1 28.16, 101.49 \u00b1 26.33, 164.35 \u00b1 34.42, 183.06 \u00b1 26.88, and 177.3 \u00b1 26.32, respectively. Two hours was determined to be the optimal TdT reaction time."
+    },
+    "Question_2": {
+        "Context": "The paper describes the optimization of spotting conditions for DNA microarray chip fabrication using a COC substrate.",
+        "Question": "What was the optimal spotting buffer condition for uniform microarray spot formation?",
+        "A": "Buffer A",
+        "B": "Buffer B",
+        "C": "Mix of Buffer A and Buffer B",
+        "D": "No specific buffer mentioned",
+        "Answer": "C",
+        "Source": "We found that uniformly fixed spots formed when the two buffers were mixed at a volume ratio of 1:1."
+    },
+    "Question_3": {
+        "Context": "The study investigated the optimal conditions for the TdT reaction time, b-dUTP concentration, and s-AuNP concentration.",
+        "Question": "What was the optimal concentration of b-dUTP determined for the TdT reaction?",
+        "A": "40 \u00b5M",
+        "B": "80 \u00b5M",
+        "C": "120 \u00b5M",
+        "D": "160 \u00b5M",
+        "Answer": "C",
+        "Source": "Therefore, a concentration of 120 \u00b5M led to the highest grey value and was determined to be optimal."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the usability of the proposed method for actual pathogenic gene analysis.",
+        "Question": "What was visually apparent when analyzing the colorimetric signal of the microarray spots in the presence of each target ssDNA for all pathogens?",
+        "A": "No color change",
+        "B": "Significant color change",
+        "C": "Partial color change",
+        "D": "Inconclusive results",
+        "Answer": "B",
+        "Source": "It was visually apparent that the colorimetric signal of the microarray spots enhanced remarkably in the presence of each target ssDNA for all pathogens."
+    },
+    "Question_5": {
+        "Context": "The study focused on the optimization of experimental parameters for the TdT reaction time, b-dUTP concentration, and s-AuNP concentration.",
+        "Question": "What was determined to be the optimal concentration of s-AuNP solution for producing a colorimetric signal?",
+        "A": "0.1 OD",
+        "B": "0.2 OD",
+        "C": "0.3 OD",
+        "D": "0.4 OD",
+        "Answer": "C",
+        "Source": "And then, the optimal concentration of the s-AuNP (0.3 OD) solution necessary to produce a colorimetric signal was also investigated."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the fabrication of a DNA microarray chip using a COC substrate and the development of a detection method for visually identifying pathogenic genes.",
+        "Question": "What was the main advantage of the proposed detection method compared to the general real-time polymerase chain reaction?",
+        "A": "Higher cost",
+        "B": "Complex analysis equipment required",
+        "C": "Simultaneous detection of multiple genes",
+        "D": "Longer analysis time",
+        "Answer": "C",
+        "Source": "This microarray-based detection method saves time, cost, and labor required for multi-target or multiple samples analysis as it can analyze numerous targets simultaneously compared to the general real-time polymerase chain reaction that uses fluorescent probes."
+    },
+    "Question_7": {
+        "Context": "The study investigated the usability of the proposed method for actual pathogenic gene analysis.",
+        "Question": "What was the average grey value of spots obtained for E. coli (105 cell) in the presence of the pathogen?",
+        "A": "180.31 \u00b1 20.38",
+        "B": "60.97 \u00b1 7.66",
+        "C": "42.74 \u00b1 6.98",
+        "D": "20.91 \u00b1 1.17",
+        "Answer": "A",
+        "Source": "The average grey values of spots obtained by analyzing the images were 42.74 \u00b1 6.98 for E. coli (0 cell), and 180.31 \u00b1 20.38 for E. coli (105 cell)."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the fabrication of a DNA microarray chip using a COC substrate and the development of a detection method for visually identifying pathogenic genes.",
+        "Question": "What was the main advantage of the proposed detection method compared to a sandwich assay using simple and direct binding between target DNA and AuNP probes?",
+        "A": "Higher sensitivity",
+        "B": "Lower cost",
+        "C": "Larger amount of AuNPs binding to the target gene",
+        "D": "Faster analysis time",
+        "Answer": "C",
+        "Source": "In our method, the generation of the b-dUTP tail from one target gene by using the TdT reaction has the advantage of binding a larger amount of AuNPs to the target gene."
+    },
+    "Question_9": {
+        "Context": "The study focused on the optimization of experimental parameters for the TdT reaction time, b-dUTP concentration, and s-AuNP concentration.",
+        "Question": "What was the optimal TdT reaction time determined for the study?",
+        "A": "0.5 hours",
+        "B": "1 hour",
+        "C": "2 hours",
+        "D": "4 hours",
+        "Answer": "C",
+        "Source": "Two hours was determined to be the optimal TdT reaction time."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the usability of the proposed method for actual pathogenic gene analysis.",
+        "Question": "What was visually confirmed when analyzing the presence of each pathogenic gene from several pathogen samples?",
+        "A": "No visual confirmation",
+        "B": "Visual confirmation without complex analysis equipment",
+        "C": "Inconclusive results",
+        "D": "Visual confirmation with complex analysis equipment",
+        "Answer": "B",
+        "Source": "These results suggest that the present detection method could easily help identify the presence or absence of each pathogenic gene from several pathogen samples with the naked eye."
+    }
+}

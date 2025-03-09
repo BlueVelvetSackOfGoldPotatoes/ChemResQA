@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Understanding the impact of abiotic factors on pyridine degradation is crucial for environmental remediation. Based on the provided content, what was the optimal initial pH for pyridine degradation by strain NM1-A2?",
+        "Question": "What was the optimal initial pH for pyridine degradation by strain NM1-A2?",
+        "A": "pH 5.0",
+        "B": "pH 6.0",
+        "C": "pH 7.0",
+        "D": "pH 8.0",
+        "Answer": "C",
+        "Source": "NM1-A2 showed high pyridine biodegradation at pH 7, with complete pyridine degradation and maximum cell growth achieved within 100 h at this pH level."
+    },
+    "Question_2": {
+        "Context": "Temperature plays a significant role in the efficiency of pyridine degradation. Based on the information provided, what was the optimal temperature for pyridine degradation by strain NM1-A2?",
+        "Question": "What was the optimal temperature for pyridine degradation by strain NM1-A2?",
+        "A": "25 \u00b0C",
+        "B": "30 \u00b0C",
+        "C": "35 \u00b0C",
+        "D": "40 \u00b0C",
+        "Answer": "C",
+        "Source": "The optimal temperature for pyridine degradation by NM1-A2 was 35 \u00b0C, where the biodegradation rate was enhanced."
+    },
+    "Question_3": {
+        "Context": "Glucose concentration can impact the rate of pyridine degradation. Based on the content, what was the optimal glucose concentration for enhanced pyridine degradation by strain NM1-A2?",
+        "Question": "What was the optimal glucose concentration for enhanced pyridine degradation by strain NM1-A2?",
+        "A": "500 mg/L",
+        "B": "1000 mg/L",
+        "C": "1500 mg/L",
+        "D": "2000 mg/L",
+        "Answer": "A",
+        "Source": "The optimal glucose concentration for enhanced pyridine degradation by NM1-A2 was 500 mg/L, significantly increasing the degradation rate."
+    },
+    "Question_4": {
+        "Context": "The initial pyridine concentration can affect the efficiency of degradation. Based on the provided information, what was the optimal initial pyridine concentration for effective degradation by strain NM1-A2?",
+        "Question": "What was the optimal initial pyridine concentration for effective degradation by strain NM1-A2?",
+        "A": "100 mg/L",
+        "B": "500 mg/L",
+        "C": "1000 mg/L",
+        "D": "2000 mg/L",
+        "Answer": "B",
+        "Source": "NM1-A2 exhibited substantial effectiveness in pyridine degradation with an initial concentration of 500 mg/L."
+    },
+    "Question_5": {
+        "Context": "Understanding the kinetics of pyridine degradation is essential for assessing the efficiency of the process. Based on the content, what model was used to describe the pyridine biodegradation profile of strain NM1-A2?",
+        "Question": "What model was used to describe the pyridine biodegradation profile of strain NM1-A2?",
+        "A": "Second-order kinetics",
+        "B": "Zero-order kinetics",
+        "C": "Pseudo-first-order kinetics",
+        "D": "Michaelis-Menten kinetics",
+        "Answer": "C",
+        "Source": "The pseudo-first-order kinetics model was employed to describe the pyridine biodegradation profile of NM1-A2."
+    },
+    "Question_6": {
+        "Context": "Recycling performance of the bacterial strain is crucial for practical applications. Based on the information provided, what was the percentage decrease in pyridine degradation after three consecutive cycles by strain NM1-A2?",
+        "Question": "What was the percentage decrease in pyridine degradation after three consecutive cycles by strain NM1-A2?",
+        "A": "2%",
+        "B": "4%",
+        "C": "6%",
+        "D": "8%",
+        "Answer": "B",
+        "Source": "Pyridine degradation decreased by 4% after three consecutive cycles, demonstrating the potential for reuse of NM1-A2 for pyridine degradation."
+    },
+    "Question_7": {
+        "Context": "Nitrogen metabolism plays a key role in pyridine degradation. Based on the content, which genes associated with nitrogen metabolism were expressed in bacterial strain NM1-A2?",
+        "Question": "Which genes associated with nitrogen metabolism were expressed in bacterial strain NM1-A2?",
+        "A": "nrtA, nrtB, nrtC",
+        "B": "nirB, nirD, gltB",
+        "C": "gltD, glnA, nrtD",
+        "D": "nrtA, nirD, glnA",
+        "Answer": "A",
+        "Source": "All nitrogen metabolism-associated genes (nrtA, nrtB, nrtC) exhibited expression in bacterial strain NM1-A2."
+    },
+    "Question_8": {
+        "Context": "Gene expression analysis provides insights into the functional genes of the bacterial strain. Based on the provided information, what was used as an internal control for normalization in the RT-qPCR gene expression analysis of strain NM1-A2?",
+        "Question": "What was used as an internal control for normalization in the RT-qPCR gene expression analysis of strain NM1-A2?",
+        "A": "nrtA",
+        "B": "nirD",
+        "C": "glnA",
+        "D": "Actin",
+        "Answer": "D",
+        "Source": "The Actin gene was employed as an internal control for normalization in the RT-qPCR gene expression analysis of strain NM1-A2."
+    },
+    "Question_9": {
+        "Context": "Understanding the impact of temperature on pyridine degradation kinetics is essential. Based on the content, how did the degradation rate change with increasing temperature for strain NM1-A2?",
+        "Question": "How did the degradation rate change with increasing temperature for strain NM1-A2?",
+        "A": "Decreased",
+        "B": "Remained constant",
+        "C": "Increased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "Biodegradation activity regularly increased as the temperature was increased from 25 \u00b0C to 35 \u00b0C, enhancing pyridine degradation."
+    },
+    "Question_10": {
+        "Context": "The efficiency of pyridine degradation can be influenced by the initial pH. Based on the information provided, how did the degradation rate change with varying pH levels for strain NM1-A2?",
+        "Question": "How did the degradation rate change with varying pH levels for strain NM1-A2?",
+        "A": "Decreased",
+        "B": "Remained constant",
+        "C": "Increased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "NM1-A2 showed high pyridine biodegradation at pH 7, with complete pyridine degradation and maximum cell growth achieved within 100 h at this pH level."
+    }
+}

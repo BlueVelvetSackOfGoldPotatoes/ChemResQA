@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In epitaxy technology, the quality of the material is highly dependent on the crystallographic information of the substrates. The interaction between the substrate and the forming material is crucial for the growth of the epitaxial layer.",
+        "Question": "What induces periodic fluctuations in the surface potential and acts as a driving force for atomic nucleation in epitaxy?",
+        "A": "The dangling bond between the crystalline substrate and the atom of the epitaxially formed material",
+        "B": "The weak van der Waals forces between the substrate and the epitaxial layer",
+        "C": "The strong covalent bonding within the substrate's lattice",
+        "D": "The electrostatic potential of the growth substrate",
+        "Answer": "A",
+        "Source": "The dangling bond between the crystalline substrate and the atom of the epitaxially formed material induces periodic fluctuations in the surface potential and acts as a driving force for atomic nucleation."
+    },
+    "Question_2": {
+        "Context": "In the context of epitaxial growth, the alignment of the lattice is a critical factor. This alignment is facilitated by a specific type of bonding between the substrate and the epitaxial layer.",
+        "Question": "What type of bonding is responsible for lattice alignment in epitaxial growth?",
+        "A": "Ionic bonding",
+        "B": "Metallic bonding",
+        "C": "Covalent bonding",
+        "D": "Hydrogen bonding",
+        "Answer": "C",
+        "Source": "Strong chemical bonding is responsible for lattice alignment in epitaxial growth, allowing the epilayer to mimic the crystalline structure of the substrate."
+    },
+    "Question_3": {
+        "Context": "The epitaxial layer's ability to mimic the substrate's crystalline structure is due to a specific interaction that results in a high binding energy.",
+        "Question": "Why is it difficult to separate the epitaxial layer from the growth substrate?",
+        "A": "Due to weak van der Waals interactions",
+        "B": "Because of high binding energy due to strong bonding",
+        "C": "Owing to the gravitational pull between the layers",
+        "D": "Because of the low melting point of the epitaxial layer",
+        "Answer": "B",
+        "Source": "The epitaxial layer is thus tightly bonded to the substrate with high binding energy. Due to this strong bonding, it is difficult to separate the epitaxial layer from the growth substrate."
+    },
+    "Question_4": {
+        "Context": "The separation of the epitaxial layer from the substrate can lead to the creation of materials with new applications due to their physical properties.",
+        "Question": "What are the potential characteristics of a separated thin epitaxial layer, also known as a freestanding nanomembrane?",
+        "A": "It becomes physically heavy and rigid",
+        "B": "It can be physically light and flexible",
+        "C": "It loses its crystalline structure",
+        "D": "It becomes chemically reactive",
+        "Answer": "B",
+        "Source": "For example, the separated thin epitaxial layer, called freestanding nanomembranes, can be physically light and flexible because of substantially reduced thickness and stiffness."
+    },
+    "Question_5": {
+        "Context": "The growth of epitaxial layers on substrates coated with van der Waals materials introduces a different type of bonding compared to traditional epitaxial methods.",
+        "Question": "What type of bond is formed between the epitaxial layer and van der Waals materials during growth?",
+        "A": "Ionic bond",
+        "B": "Covalent bond",
+        "C": "Metallic bond",
+        "D": "Weak physical bond",
+        "Answer": "D",
+        "Source": "Between the epitaxial layer and vdW materials, there is only a weak physical bond because of no strong covalent bonding in out-of-plane."
+    },
+    "Question_6": {
+        "Context": "In the process of epitaxial growth, the selection of substrate materials is influenced by their inherent properties, which affect the interaction with the growing material.",
+        "Question": "Which property of substrate materials determines the magnitude of remote interaction in remote epitaxy growth?",
+        "A": "The strength of the polarity of the substrate materials",
+        "B": "The thermal conductivity of the substrate materials",
+        "C": "The electrical resistivity of the substrate materials",
+        "D": "The optical transparency of the substrate materials",
+        "Answer": "A",
+        "Source": "The magnitude of the remote interaction is determined by the strength of the polarity of the substrate materials and the vdW gap distance."
+    },
+    "Question_7": {
+        "Context": "During the growth of epitaxial layers, the interaction through 2D materials is a critical factor that influences the quality of the resulting material.",
+        "Question": "Why is it important to have thin 2D materials in successful remote epitaxy?",
+        "A": "Thick 2D materials enhance the electrostatic potential",
+        "B": "Thin 2D materials allow for better heat dissipation",
+        "C": "Thick 2D materials screen potential penetration from substrates",
+        "D": "Thin 2D materials utilize remote interaction through 2D materials",
+        "Answer": "D",
+        "Source": "It is important to have thin 2D materials to utilize remote interaction through 2D materials because thick 2D materials screen potential penetration coming from substrates."
+    },
+    "Question_8": {
+        "Context": "The growth of epitaxial layers on crystalline substrates involves interactions that can either promote or inhibit the formation of the desired crystal structure.",
+        "Question": "What is a disadvantage of van der Waals epitaxy growth that can reduce the quality of grown films?",
+        "A": "It promotes the formation of covalent bonds",
+        "B": "It inhibits the nucleus generation necessary for crystal formation",
+        "C": "It increases the electrostatic potential of the growth substrate",
+        "D": "It enhances the thermal conductivity of the epitaxial layer",
+        "Answer": "B",
+        "Source": "However, this is accompanied by disadvantages of reducing the quality of grown films by inhibiting the nucleus generation necessary for the formation of crystal on 2D surface."
+    },
+    "Question_9": {
+        "Context": "The growth of high-quality epitaxial layers is influenced by the interaction between the substrate and the 2D interlayer material.",
+        "Question": "What is required to obtain a high-quality van der Waals epitaxial layer?",
+        "A": "A 2D interlayer that partially screens the electrostatic potential of the substrate",
+        "B": "A 2D interlayer such as multi-layer graphene that fully screens the electrostatic potential of the substrate",
+        "C": "A 2D interlayer that enhances the polarity of the substrate",
+        "D": "A 2D interlayer that increases the thermal gradient during growth",
+        "Answer": "B",
+        "Source": "To obtain a high quality vdW epilayer, 2D interlayer such as multi-layer graphene should fully screen the electrostatic potential of the substrate is required and finding the optimized growth conditions that can quickly generate nucleus on the surface is also important as well."
+    },
+    "Question_10": {
+        "Context": "The process of transferring epitaxial layers from their growth substrates to other substrates can be facilitated by certain methods that take advantage of the unique properties of the layers.",
+        "Question": "Which method allows for the creation of freestanding epitaxial films by inserting a sacrificial layer that can be selectively etched?",
+        "A": "Laser lift-off",
+        "B": "Mechanical spalling",
+        "C": "Chemical lift-off",
+        "D": "2D material-assisted layer transfer",
+        "Answer": "C",
+        "Source": "Chemical lift-off is a method of creating freestanding epitaxial films by inserting a sacrificial layer that can be selectively etched in between the epitaxial layer and the substrate."
+    }
+}

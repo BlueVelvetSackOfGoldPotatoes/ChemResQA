@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of an electrochemical sensor for glyphosate (GLY) detection. The sensor includes a screen-printed carbon electrode (SPCE) functionalized with gold nanoparticles and a self-assembled polyvinyl carboxylic acid chloride (PVC-COOH) layer.",
+        "Question": "What is the main drawback of glyphosate (GLY) mentioned in the paper?",
+        "A": "High volatility",
+        "B": "Low persistence in ecosystems",
+        "C": "Low solubility in water",
+        "D": "Persistence in ecosystems",
+        "Answer": "D",
+        "Source": "The main drawback of this pesticide is its persistence in ecosystems, including aquatic environments near the application areas."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the development of an electrochemical sensor for glyphosate (GLY) detection. The sensor includes a screen-printed carbon electrode (SPCE) functionalized with gold nanoparticles and a self-assembled polyvinyl carboxylic acid chloride (PVC-COOH) layer.",
+        "Question": "What is the detection limit of glyphosate (GLY) achieved by the electrochemical sensor using differential pulse voltammetry (DPV)?",
+        "A": "0.8 pg/mL",
+        "B": "1.0 pg/mL",
+        "C": "0.001 pg/mL",
+        "D": "0.5 pg/mL",
+        "Answer": "A",
+        "Source": "The sensor boasts a low detection limit of 0.8 pg/mL (signal-to-noise ratio S/N = 3) by DPV."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the development of an electrochemical sensor for glyphosate (GLY) detection. The sensor includes a screen-printed carbon electrode (SPCE) functionalized with gold nanoparticles and a self-assembled polyvinyl carboxylic acid chloride (PVC-COOH) layer.",
+        "Question": "What material is used as a support material for the electrochemical molecularly imprinted polymer (MIP) sensors?",
+        "A": "Polyvinyl carboxylic acid chloride",
+        "B": "Gold nanoparticles",
+        "C": "Ethylene glycol dimethacrylate",
+        "D": "Polyvinyl chloride",
+        "Answer": "D",
+        "Source": "Polyvinyl chloride (PVC) is an attractive support material that offers excellent stability for electrochemical molecularly imprinted polymer (MIP) sensors over extended periods of time."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the development of an electrochemical sensor for glyphosate (GLY) detection. The sensor includes a screen-printed carbon electrode (SPCE) functionalized with gold nanoparticles and a self-assembled polyvinyl carboxylic acid chloride (PVC-COOH) layer.",
+        "Question": "What technique was used to assess the morphological characterization of the sensor?",
+        "A": "Gas chromatography (GC)",
+        "B": "High-performance liquid chromatography (HPLC)",
+        "C": "Scanning electron microscopy (SEM)",
+        "D": "Capillary electrophoresis",
+        "Answer": "C",
+        "Source": "Morphological characterization was performed using scanning electron microscopy (SEM)."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the development of an electrochemical sensor for glyphosate (GLY) detection. The sensor includes a screen-printed carbon electrode (SPCE) functionalized with gold nanoparticles and a self-assembled polyvinyl carboxylic acid chloride (PVC-COOH) layer.",
+        "Question": "What is the range of glyphosate (GLY) detection achieved by the sensor with minimal interference from other pesticides?",
+        "A": "273\u20131200 pg/mL",
+        "B": "500\u20131000 pg/mL",
+        "C": "100\u2013500 pg/mL",
+        "D": "1200\u20131500 pg/mL",
+        "Answer": "A",
+        "Source": "The sensor exhibits impressive selectivity, detecting GLY within a range of 273\u20131200 pg/mL with minimal interference from other pesticides."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the development of an electrochemical sensor for glyphosate (GLY) detection. The sensor includes a screen-printed carbon electrode (SPCE) functionalized with gold nanoparticles and a self-assembled polyvinyl carboxylic acid chloride (PVC-COOH) layer.",
+        "Question": "What is the main advantage of using screen-printed electrodes (SPEs) as a platform for molecularly imprinted polymer (MIP) sensors?",
+        "A": "High cost",
+        "B": "Complex cleaning process",
+        "C": "Rapid response",
+        "D": "Low user-friendliness",
+        "Answer": "C",
+        "Source": "SPEs are characterized by their rapid response, affordability, and user-friendliness."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the development of an electrochemical sensor for glyphosate (GLY) detection. The sensor includes a screen-printed carbon electrode (SPCE) functionalized with gold nanoparticles and a self-assembled polyvinyl carboxylic acid chloride (PVC-COOH) layer.",
+        "Question": "What is the role of gold nanoparticles in the fabrication of electrochemical sensors?",
+        "A": "Enhancing volatility",
+        "B": "Improving solubility in water",
+        "C": "Increasing conductivity",
+        "D": "Reducing electron transfer rate",
+        "Answer": "C",
+        "Source": "Of these properties, conductivity stands out as one of the most remarkable features of these nanoparticles, significantly enhancing the electron transfer rate between the analyte\u2019s active centres and the sensor surface."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the development of an electrochemical sensor for glyphosate (GLY) detection. The sensor includes a screen-printed carbon electrode (SPCE) functionalized with gold nanoparticles and a self-assembled polyvinyl carboxylic acid chloride (PVC-COOH) layer.",
+        "Question": "What is the main driving force in the development of electrochemical sensors according to the paper?",
+        "A": "High cost",
+        "B": "Low selectivity",
+        "C": "High sensitivity",
+        "D": "Complexity",
+        "Answer": "C",
+        "Source": "Recently, molecularly imprinted polymers (MIPs) have emerged as a driving force in the development of electrochemical sensors. MIPs provide high selectivity, sensitivity, low cost, ease of use, and reliability."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the development of an electrochemical sensor for glyphosate (GLY) detection. The sensor includes a screen-printed carbon electrode (SPCE) functionalized with gold nanoparticles and a self-assembled polyvinyl carboxylic acid chloride (PVC-COOH) layer.",
+        "Question": "What is the synthetic polymer known for its non-toxic nature and used as a support material for electrochemical molecularly imprinted polymer (MIP) sensors?",
+        "A": "Polyvinyl carboxylic acid chloride",
+        "B": "Gold nanoparticles",
+        "C": "Ethylene glycol dimethacrylate",
+        "D": "Polyvinyl chloride",
+        "Answer": "D",
+        "Source": "Polyvinyl chloride (PVC) is an attractive support material that offers excellent stability for electrochemical molecularly imprinted polymer (MIP) sensors over extended periods of time."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the development of an electrochemical sensor for glyphosate (GLY) detection. The sensor includes a screen-printed carbon electrode (SPCE) functionalized with gold nanoparticles and a self-assembled polyvinyl carboxylic acid chloride (PVC-COOH) layer.",
+        "Question": "What is the technique used to assess the electrochemical properties of the molecularly imprinted polymer (MIP) sensor's production process?",
+        "A": "Gas chromatography (GC)",
+        "B": "High-performance liquid chromatography (HPLC)",
+        "C": "Cyclic voltammetry (CV)",
+        "D": "Capillary electrophoresis",
+        "Answer": "C",
+        "Source": "The electrochemical properties of the MIP sensor\u2019s production process were investigated in a solution of [Fe(CN)6]3\u2212/4\u2212containing PBS (pH = 7.2) at 5 mM."
+    }
+}

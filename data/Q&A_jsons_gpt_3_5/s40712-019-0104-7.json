@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the grid independency study of staggered and collocated grids in numerical simulations.",
+        "Question": "What is one key difference between the staggered and collocated grids in the context of grid independency study?",
+        "A": "The semi-discrete equations are different.",
+        "B": "The calculation of convecting velocities is different.",
+        "C": "The application of boundary conditions is different.",
+        "D": "The grid size required for independency is different.",
+        "Answer": "B",
+        "Source": "The main difference is in the calculation of convecting velocities and applying the boundary conditions."
+    },
+    "Question_2": {
+        "Context": "The paper compares the results of first-order upwind differencing scheme (FUDS) and second-order upwind differencing scheme (SUDS) in numerical simulations.",
+        "Question": "Which scheme shows less error than the other at Reynolds number 100 in coarse grids?",
+        "A": "FUDS",
+        "B": "SUDS",
+        "C": "Both have the same error.",
+        "D": "Cannot be determined from the information provided.",
+        "Answer": "B",
+        "Source": "SUDS has significantly less error than FUDS at Reynolds number 100 in coarse grids."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the performance of different coupling algorithms in iterative solution processes.",
+        "Question": "Which coupling algorithm is the fastest for moderate Reynolds numbers of order of 10^3?",
+        "A": "SIMPLE",
+        "B": "SIMPLEC",
+        "C": "SIMPLER",
+        "D": "Cannot be determined from the information provided.",
+        "Answer": "C",
+        "Source": "SIMPLER is the fastest for moderate Reynolds numbers of order of 10^3."
+    },
+    "Question_4": {
+        "Context": "The paper presents an overall comparison of the methods used in the numerical simulations.",
+        "Question": "Which combination provides the most accurate results followed by collocated grid with SUDS?",
+        "A": "FUDS with staggered grid",
+        "B": "SUDS with staggered grid",
+        "C": "FUDS with collocated grid",
+        "D": "SUDS with collocated grid",
+        "Answer": "B",
+        "Source": "Staggered grid with SUDS gives the most accurate results followed by collocated grid with SUDS."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the grid independency study of staggered and collocated grids in numerical simulations.",
+        "Question": "What is the main difference between the staggered and collocated grids in terms of applying boundary conditions?",
+        "A": "The semi-discrete equations are different.",
+        "B": "The calculation of convecting velocities is different.",
+        "C": "The application of boundary conditions is different.",
+        "D": "The grid size required for independency is different.",
+        "Answer": "C",
+        "Source": "The main difference is in the calculation of convecting velocities and applying the boundary conditions."
+    },
+    "Question_6": {
+        "Context": "The paper compares the results of first-order upwind differencing scheme (FUDS) and second-order upwind differencing scheme (SUDS) in numerical simulations.",
+        "Question": "Which scheme shows less error than the other at Reynolds number 1000?",
+        "A": "FUDS",
+        "B": "SUDS",
+        "C": "Both have the same error.",
+        "D": "Cannot be determined from the information provided.",
+        "Answer": "B",
+        "Source": "SUDS has less error than FUDS even with a fine grid."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the performance of different coupling algorithms in iterative solution processes.",
+        "Question": "Which coupling algorithm is a proper choice for low Reynolds numbers of order of 10?",
+        "A": "SIMPLE",
+        "B": "SIMPLEC",
+        "C": "SIMPLER",
+        "D": "Cannot be determined from the information provided.",
+        "Answer": "B",
+        "Source": "SIMPLEC algorithm is a proper choice for low Reynolds numbers of order of 10."
+    },
+    "Question_8": {
+        "Context": "The paper presents an overall comparison of the methods used in the numerical simulations.",
+        "Question": "Which combination provides the most accurate results?",
+        "A": "FUDS with staggered grid",
+        "B": "SUDS with staggered grid",
+        "C": "FUDS with collocated grid",
+        "D": "SUDS with collocated grid",
+        "Answer": "B",
+        "Source": "Staggered grid with SUDS gives the most accurate results."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the grid independency study of staggered and collocated grids in numerical simulations.",
+        "Question": "What is the main difference between the staggered and collocated grids in terms of semi-discrete equations?",
+        "A": "The semi-discrete equations are different.",
+        "B": "The calculation of convecting velocities is different.",
+        "C": "The application of boundary conditions is different.",
+        "D": "The grid size required for independency is different.",
+        "Answer": "A",
+        "Source": "The main difference is in the calculation of convecting velocities and applying the boundary conditions."
+    },
+    "Question_10": {
+        "Context": "The paper compares the results of first-order upwind differencing scheme (FUDS) and second-order upwind differencing scheme (SUDS) in numerical simulations.",
+        "Question": "Which scheme shows less error than the other at Reynolds number 10 in coarse grids?",
+        "A": "FUDS",
+        "B": "SUDS",
+        "C": "Both have the same error.",
+        "D": "Cannot be determined from the information provided.",
+        "Answer": "B",
+        "Source": "SUDS has significantly less error than FUDS at Reynolds number 10 in coarse grids."
+    }
+}

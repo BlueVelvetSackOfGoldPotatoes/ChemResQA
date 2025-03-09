@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of materials science, self-assembly is a process where a disordered system of pre-existing components forms an organized structure or pattern as a consequence of specific, local interactions among the components themselves, without external direction.",
+        "Question": "What is one of the effective methods to fabricate membrane-cavity structures for applications such as thin or flexible solar cells?",
+        "A": "Chemical vapor deposition",
+        "B": "Self-assembly",
+        "C": "Physical vapor deposition",
+        "D": "Molecular beam epitaxy",
+        "Answer": "B",
+        "Source": "Self-assembly is one of the effective methods to fabricate the membrane-cavity (e.g., Silicon-on-Nothing, SON [1\u20133] or Germanium-on-Nothing, GON [4]) structures for thin [5] or flexible solar cells [6] via transferring membranes with the thickness less than 1 \u00b5 m."
+    },
+    "Question_2": {
+        "Context": "High-temperature annealing is a process in materials science where a material is exposed to a high temperature for an extended period to alter its physical and sometimes chemical properties.",
+        "Question": "During high-temperature annealing, what happens to the hole patterns on wafers?",
+        "A": "They are covered with adjacent materials and become shorter and a sphere",
+        "B": "They expand and become flatter",
+        "C": "They dissolve into the wafer",
+        "D": "They become more pronounced and deeper",
+        "Answer": "A",
+        "Source": "During high-temperature annealing where surface diffusion is accelerated, the hole patterns on wafers are covered with adjacent materials while the covered hole becomes shorter and a sphere [11]."
+    },
+    "Question_3": {
+        "Context": "The phase-field model is a mathematical model for simulating the dynamics of interfaces and shapes in a system where multiple states or phases coexist.",
+        "Question": "What mathematical model is employed to simulate the surface diffusion of silicon and the merge of silicon or cavities during high-temperature annealing?",
+        "A": "Navier-Stokes equation",
+        "B": "Schr\u00f6dinger equation",
+        "C": "Cahn\u2013Hilliard equation",
+        "D": "Maxwell's equations",
+        "Answer": "C",
+        "Source": "The phase-field model is employed to simulate the surface diffusion of silicon and the merge of silicon or cavities during high-temperature annealing. Phase-field model in COMSOL Multiphysics is in the form of the Cahn\u2013Hilliard equation as Eq. (1) [12]."
+    },
+    "Question_4": {
+        "Context": "In the context of phase-field modeling, certain parameters such as interfacial thickness and mixing energy density are crucial for accurately describing the system.",
+        "Question": "What is the relationship between mixing energy density, surface tension, and interfacial thickness?",
+        "A": "Mixing energy density is directly proportional to surface tension and inversely proportional to interfacial thickness",
+        "B": "Mixing energy density is directly proportional to both surface tension and interfacial thickness",
+        "C": "Mixing energy density is inversely proportional to both surface tension and interfacial thickness",
+        "D": "There is no direct relationship between mixing energy density, surface tension, and interfacial thickness",
+        "Answer": "A",
+        "Source": "Mixing energy density ( \ufffd = 3\u01eb\u03c3 23/2 = 6.5 \u00d7 10\u22128 N) is obtained from its relation to surface tension ( \u03c3 ) and \u01eb ."
+    },
+    "Question_5": {
+        "Context": "In materials science, the mobility of a substance is a measure of how quickly and easily the substance can move or flow.",
+        "Question": "How is mobility obtained in the context of the phase-field model?",
+        "A": "Mobility is obtained as a function of the diffusion coefficient, surface tension, atomic volume, and temperature",
+        "B": "Mobility is obtained from the viscosity and density of the material",
+        "C": "Mobility is a constant value that does not depend on any other properties",
+        "D": "Mobility is obtained from the electrical conductivity of the material",
+        "Answer": "A",
+        "Source": "Mobility ( \u03b3 ) is obtained as \u03b3 = Ds\u03c3\u03bd\ufffd2 kBT 1 \ufffd = 9.6 \u00d7 10\u221222 m 3\u00b7s/kg by comparing Eq. (1) with the Mullins\u2013Herring equation that was employed to simulate the surface diffusion process [3, 13]."
+    },
+    "Question_6": {
+        "Context": "In the process of annealing silicon wafers, the dimensions of hole patterns such as radius, height, and spacing can affect the annealing duration.",
+        "Question": "Which dimension of hole patterns has not been well examined for its effect on the annealing duration?",
+        "A": "Radius",
+        "B": "Height",
+        "C": "Spacing",
+        "D": "The annealing duration for large hole arrays",
+        "Answer": "D",
+        "Source": "Although it has been reported that the design space of post-annealing shape can be extended by increasing the dimensions of hole arrays, the annealing duration for large hole arrays has not been well examined."
+    },
+    "Question_7": {
+        "Context": "The aspect ratio in the context of hole patterns on silicon wafers is defined as the ratio of height to diameter.",
+        "Question": "What is the aspect ratio (AR) in the context of hole patterns on silicon wafers?",
+        "A": "The ratio of diameter to height",
+        "B": "The ratio of height to width",
+        "C": "The ratio of height to diameter",
+        "D": "The ratio of circumference to diameter",
+        "Answer": "C",
+        "Source": "The hole patterns are in the hexagonal array and have a diameter (D) of 1 \u00b5 m, aspect ratio (the ratio of height to diameter, AR = H/D ) of 5 (i.e., H = 5 \u00b5m), and spacing (distance to the adjacent hole, S) of 0.4 \u00b5 m."
+    },
+    "Question_8": {
+        "Context": "In the study of self-assembly of membrane-cavity structures, the normalized spacing is a dimensionless quantity used to describe the spacing between hole patterns relative to a minimum value.",
+        "Question": "How is the normalized spacing (S/Smin) defined in the context of hole patterns on silicon wafers?",
+        "A": "The ratio of the actual spacing to the maximum possible spacing",
+        "B": "The ratio of the actual spacing to the minimum possible spacing",
+        "C": "The ratio of the minimum possible spacing to the actual spacing",
+        "D": "The ratio of the maximum possible spacing to the actual spacing",
+        "Answer": "B",
+        "Source": "Hole dimensions are represented as the radius ( rhole ), AR, and normalized spacing ( S/Smin ). Especially, spacing is normalized by the minimum spacing ( Smin = rsphere \u2212 rhole ) to prevent a cavity from crossing the simulation domain."
+    },
+    "Question_9": {
+        "Context": "In the process of optimizing annealing duration for self-assembled structures, a surrogate model can be used to predict outcomes based on various input variables.",
+        "Question": "Which variable is indicated as the most dominant factor affecting annealing duration according to the established surrogate model?",
+        "A": "Aspect ratio",
+        "B": "Hole radius",
+        "C": "Normalized spacing",
+        "D": "Temperature",
+        "Answer": "B",
+        "Source": "The established surrogate model based on the neural network indicates that the hole radius dominantly affects annealing duration and the temperature elevation (i.e., acceleration of diffusion speed) is necessary to achieve the practical annealing duration when the hole radius is larger than 1 \u03bcm."
+    },
+    "Question_10": {
+        "Context": "In materials science, the process of self-assembly can be influenced by the dimensions of the structures involved, which in turn affects the time required for annealing.",
+        "Question": "What happens to the required annealing duration as the hole radius increases?",
+        "A": "It decreases exponentially",
+        "B": "It remains constant",
+        "C": "It increases dramatically",
+        "D": "It fluctuates unpredictably",
+        "Answer": "C",
+        "Source": "It is found that 30 \u00d7 tr is not enough to terminate the shape evolution process or to obtain a spherical cavity when rhole is larger than 1 \u00b5 m (i.e., D > 2 \u00b5 m) regardless of the other variables. In other words, enlargement of the rhole by only two times results in more than 30 times of ta."
+    }
+}

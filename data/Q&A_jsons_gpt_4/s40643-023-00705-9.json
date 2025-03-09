@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Anthropogenic activities have led to increased levels of carbon dioxide in the atmosphere, contributing to global climate change. Various methods have been explored to reduce atmospheric CO2, including biological processes that utilize enzymes to catalyze the conversion of CO2.",
+        "Question": "Which enzyme catalyzes the reversible reaction of CO2 with two electrons and protons to produce CO and water?",
+        "A": "Carbonic anhydrase",
+        "B": "Carbon monoxide dehydrogenase (CODH)",
+        "C": "RubisCO",
+        "D": "Carbonic hydratase",
+        "Answer": "B",
+        "Source": "In this review we focus on the enzymatic conversion of CO2 to carbon monoxide (CO) as the chemical conversion downstream of CO production render CO particularly attractive as a key intermediate. We briefly discuss the different currently known natural autotrophic CO2 fixation pathways, focusing on the reversible reaction of CO2, two electrons and protons to CO and water, catalyzed by carbon monoxide dehydrogenases (CODHs)."
+    },
+    "Question_2": {
+        "Context": "The oceans play a crucial role in mitigating climate change by absorbing a significant portion of anthropogenic CO2 emissions. However, this process has led to changes in ocean chemistry that can have detrimental effects on marine ecosystems.",
+        "Question": "What are the two major adverse effects on the oceans caused by the absorption of anthropogenic CO2 emissions?",
+        "A": "Ocean warming and eutrophication",
+        "B": "Ocean acidification and deoxygenation",
+        "C": "Coral bleaching and plastic pollution",
+        "D": "Algal blooms and marine traffic",
+        "Answer": "B",
+        "Source": "The oceans are the greatest ally against human-induced climate change as they have taken up about 26% of the total anthropogenic CO2 emissions and captured most of the excess heat. The oceanic CO2 and heat capture, however, have promoted ocean acidification and deoxygenation."
+    },
+    "Question_3": {
+        "Context": "Microorganisms have evolved various pathways to fix carbon dioxide autotrophically. These pathways are categorized based on the tolerance of their key enzymes towards oxygen.",
+        "Question": "Which of the following is NOT an aerobic CO2 fixation pathway?",
+        "A": "Calvin Benson Bassham cycle",
+        "B": "3-hydroxypropionate bicycle",
+        "C": "Reductive tricarboxylic acid cycle",
+        "D": "3-hydroxypropionate/4-hydroxybutyrate cycle",
+        "Answer": "C",
+        "Source": "The so far described autotrophic CO2 fixing pathways (Fig. 1) have been divided into two groups according to the tolerance of their key enzymes towards oxygen (O2). The aerobic pathways include the Calvin Benson Bassham cycle (CBB), the 3-hydroxypro- pionate bicycle (3HP) and the 3-hydroxypropionate/4- hydroxybutyrate cycle (3HP/4HB), while the reductive tricarboxylic acid cycle (rTCA), the Wood\u2013Ljungdahl pathway (WL), the reductive glycine pathway (rGly) and the dicarboxylate/4-hydroxybutyrate cycle (DC/HB) belong to the anaerobic pathways, since strictly anaerobic enzymes are operating."
+    },
+    "Question_4": {
+        "Context": "In the process of autotrophic CO2 fixation, the Calvin Benson Bassham cycle plays a significant role in the conversion of atmospheric CO2 into organic compounds by phototrophic microorganisms.",
+        "Question": "What is the most abundant protein in the biosphere that fixes atmospheric CO2 in the Calvin Benson Bassham cycle?",
+        "A": "Oxygenase",
+        "B": "Carbonic anhydrase",
+        "C": "Ribulose-1,5-bisphosphate-carboxylase/-oxygenase (RubisCO)",
+        "D": "Phosphoenolpyruvate carboxylase",
+        "Answer": "C",
+        "Source": "The CBB cycle is the most important mechanism of autotrophic CO2 fixation for common phototrophic microorganisms and its key enzyme ribulose-1,5-bisphosphate-carboxylase/-oxygenase (RubisCO) is the most abundant protein in the biosphere, fixing around 1011 tons of atmospheric CO2 per year."
+    },
+    "Question_5": {
+        "Context": "The reductive tricarboxylic acid cycle is a CO2 fixation pathway found in certain anaerobic bacteria and photosynthetic green sulfur bacteria, which reverses the reactions of a more commonly known metabolic cycle.",
+        "Question": "Which metabolic cycle is reversed in the reductive tricarboxylic acid cycle to fix CO2?",
+        "A": "Glyoxylate cycle",
+        "B": "Calvin cycle",
+        "C": "Krebs cycle",
+        "D": "Pentose phosphate pathway",
+        "Answer": "C",
+        "Source": "The rTCA cycle forms acetyl-CoA from two CO2 molecules by the consumption of two molecules of ATP (Fig. 1) and reverses the reactions of the oxidative citric acid cycle (TCA)."
+    },
+    "Question_6": {
+        "Context": "Microorganisms use various pathways to fix CO2, and some of these pathways are more energy-efficient than others in terms of ATP consumption.",
+        "Question": "Which CO2 fixation pathway is known for being one of the most ATP-efficient?",
+        "A": "Calvin Benson Bassham cycle",
+        "B": "Wood\u2013Ljungdahl pathway",
+        "C": "3-hydroxypropionate bicycle",
+        "D": "Dicarboxylate/4-hydroxybutyrate cycle",
+        "Answer": "B",
+        "Source": "In comparison with the main six mentioned CO2 fixation pathways above, the WL pathway is characterized to be highly energy efficient as two CO2 molecules are fixed to produce acetylCoA by consuming only one ATP (Fig. 1)."
+    },
+    "Question_7": {
+        "Context": "Carbon monoxide dehydrogenases (CODHs) are enzymes that play a crucial role in the metabolism of certain microorganisms, catalyzing the reversible oxidation of CO.",
+        "Question": "What are the two distinct phylogenetic and structurally different groups of CODHs primarily based on?",
+        "A": "Their substrate specificity",
+        "B": "Their sensitivity towards O2",
+        "C": "The type of electron acceptors they use",
+        "D": "The number of subunits in their structure",
+        "Answer": "B",
+        "Source": "CODHs are classified into two distinct phylogenetic and structurally different groups of aerobic and anaerobic CODHs, primarily based on their sensitivity towards O2."
+    },
+    "Question_8": {
+        "Context": "Aerobic carbon monoxide dehydrogenases (CODHs) contain unique metal cofactors in their structure, distinguishing them from their anaerobic counterparts.",
+        "Question": "Which metals are uniquely associated with the active site of aerobic CODHs?",
+        "A": "Iron and zinc",
+        "B": "Copper and molybdenum",
+        "C": "Nickel and iron",
+        "D": "Manganese and cobalt",
+        "Answer": "B",
+        "Source": "Aerobic CODHs basically differ from anaerobic CODHs in that they are O2 tolerant and contain a molybdenum (Mo) metal cofactor, where a copper (Cu) metal binds to a cysteine making it a unique characteristic of aerobic CODHs."
+    },
+    "Question_9": {
+        "Context": "In the context of microbial metabolism, certain microbes can utilize carbon monoxide (CO) as an energy source for their growth, and these microbes are referred to by a specific term.",
+        "Question": "What term is used to refer to microorganisms that are capable of using CO as an energy source for their growth?",
+        "A": "Carboxydotrophs",
+        "B": "Methanotrophs",
+        "C": "Lithotrophs",
+        "D": "Phototrophs",
+        "Answer": "A",
+        "Source": "Microorganisms that are capable of using CO as an energy source for their growth are mostly referred to as carboxydotrophs."
+    },
+    "Question_10": {
+        "Context": "The Wood\u2013Ljungdahl pathway is an ancient autotrophic CO2 fixation pathway found in both bacteria and archaea, characterized by its high energy efficiency.",
+        "Question": "What is the main product of the Wood\u2013Ljungdahl pathway when two molecules of CO2 are fixed?",
+        "A": "Glucose",
+        "B": "Methane",
+        "C": "Acetyl-CoA",
+        "D": "Ribulose-1,5-bisphosphate",
+        "Answer": "C",
+        "Source": "The WL pathway fixes CO2 via a carbonyl (CO) and a methyl (CH3) group using the carbon monoxide dehydrogenase/acetyl-CoA synthase (CODH/ACS) enzyme complex, respectively, to generate acetylCoA."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The authors retracted an article due to significant overlap with a previously published article. The retraction was based on text, equations, and figures similarities.",
+        "Question": "Why was the article retracted?",
+        "A": "Plagiarism",
+        "B": "Inaccurate data",
+        "C": "Lack of funding",
+        "D": "Technical errors",
+        "Answer": "A",
+        "Source": "The authors have retracted this article because it has significant overlap of text, equations and figures with a previously published article."
+    },
+    "Question_2": {
+        "Context": "The retraction note mentions that one of the authors did not respond to correspondence about the retraction.",
+        "Question": "Which author did not respond to correspondence about the retraction?",
+        "A": "Kh. Hosseinzadeh",
+        "B": "M. Alizadeh",
+        "C": "D. D. Ganji",
+        "D": "A. J. Amiri",
+        "Answer": "A",
+        "Source": "K Hosseinzadeh did not respond to correspondence about this retraction."
+    },
+    "Question_3": {
+        "Context": "The retraction note states that neither M. Alizadeh nor D. D. Ganji replied to any correspondence.",
+        "Question": "Which authors did not reply to any correspondence?",
+        "A": "Kh. Hosseinzadeh",
+        "B": "M. Alizadeh and D. D. Ganji",
+        "C": "A. J. Amiri and S. S. Ardahaie",
+        "D": "D. D. Ganji",
+        "Answer": "B",
+        "Source": "Neither M Alizadeh nor DD Ganji has replied to any correspondence."
+    },
+    "Question_4": {
+        "Context": "The article was retracted due to significant overlap with a previously published article by the same authors.",
+        "Question": "What was the main reason for the retraction of the article?",
+        "A": "Data fabrication",
+        "B": "Text overlap",
+        "C": "Inadequate peer review",
+        "D": "Misinterpretation of results",
+        "Answer": "B",
+        "Source": "The authors have retracted this article because it has significant overlap of text, equations and figures with a previously published article."
+    },
+    "Question_5": {
+        "Context": "The retraction note mentions that the retracted article had similarities in text, equations, and figures with another publication by the same authors.",
+        "Question": "What aspects of the retracted article overlapped with the previously published article?",
+        "A": "Text only",
+        "B": "Equations only",
+        "C": "Figures only",
+        "D": "Text, equations, and figures",
+        "Answer": "D",
+        "Source": "The authors have retracted this article because it has significant overlap of text, equations and figures with a previously published article."
+    },
+    "Question_6": {
+        "Context": "The retraction note mentions that the article was retracted due to similarities with a previously published article by the same authors.",
+        "Question": "Why was the article retracted according to the note?",
+        "A": "Ethical misconduct",
+        "B": "Inconclusive results",
+        "C": "Data manipulation",
+        "D": "Overlap with a prior publication",
+        "Answer": "D",
+        "Source": "The authors have retracted this article because it has significant overlap of text, equations and figures with a previously published article."
+    },
+    "Question_7": {
+        "Context": "The retraction note indicates that the retracted article shared similarities with a publication from the same authors.",
+        "Question": "What led to the retraction of the article?",
+        "A": "Data misinterpretation",
+        "B": "Similarities with a prior publication",
+        "C": "Editorial bias",
+        "D": "Lack of statistical analysis",
+        "Answer": "B",
+        "Source": "The authors have retracted this article because it has significant overlap of text, equations and figures with a previously published article."
+    },
+    "Question_8": {
+        "Context": "The retraction note mentions that the retracted article had significant overlap with a previously published work by the same authors.",
+        "Question": "What was the primary issue leading to the retraction of the article?",
+        "A": "Data errors",
+        "B": "Similarities with another publication",
+        "C": "Inadequate methodology",
+        "D": "Lack of statistical significance",
+        "Answer": "B",
+        "Source": "The authors have retracted this article because it has significant overlap of text, equations and figures with a previously published article."
+    },
+    "Question_9": {
+        "Context": "The retraction note mentions that the retracted article shared text, equations, and figures with a previously published article by the same authors.",
+        "Question": "What specific elements overlapped between the retracted article and the prior publication?",
+        "A": "Text and equations",
+        "B": "Equations and figures",
+        "C": "Text and figures",
+        "D": "Text, equations, and figures",
+        "Answer": "D",
+        "Source": "The authors have retracted this article because it has significant overlap of text, equations and figures with a previously published article."
+    },
+    "Question_10": {
+        "Context": "The retraction note mentions that the retracted article had significant similarities with a previously published work by the same authors.",
+        "Question": "What was the key reason for retracting the article as stated in the note?",
+        "A": "Data fabrication",
+        "B": "Overlap with a prior publication",
+        "C": "Inadequate peer review",
+        "D": "Misinterpretation of results",
+        "Answer": "B",
+        "Source": "The authors have retracted this article because it has significant overlap of text, equations and figures with a previously published article."
+    }
+}

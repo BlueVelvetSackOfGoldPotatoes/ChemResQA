@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on synthesizing and characterizing goethite nanoparticles intercalated in coal and modified with humic acids to enhance their bioactivity towards Sinapis alba. The nanoparticles were characterized using various techniques.",
+        "Question": "What was the primary phase identified in both GC and GC-HA complexes according to X-ray diffraction?",
+        "A": "Ferrihydrite",
+        "B": "Lepidocrocite",
+        "C": "Goethite",
+        "D": "Maghemite",
+        "Answer": "C",
+        "Source": "X-ray diffraction revealed that G was the primary phase in both GC and GC-HA complexes."
+    },
+    "Question_2": {
+        "Context": "The study analyzed the M\u00f6ssbauer spectra of GC and GC-HA10 samples to identify the iron species present.",
+        "Question": "What iron species was identified in the M\u00f6ssbauer spectra of the GC-HA10 sample?",
+        "A": "Fe3+ in octahedral sites",
+        "B": "Fe2+ in tetrahedral sites",
+        "C": "Fe3+ in non-stoichiometric magnetite",
+        "D": "Fe2+ in octahedral sites",
+        "Answer": "C",
+        "Source": "The probability distribution function profiles for the outer sextet's isomer shift and magnetic field reveal two distinct modes, corresponding to iron atoms in octahedral and tetrahedral sites of non-stoichiometric magnetite."
+    },
+    "Question_3": {
+        "Context": "The text discussed the textural characteristics of GC, GC-HA1, and GC-HA10 samples based on N2 adsorption-desorption isotherms.",
+        "Question": "What was the specific surface area of the GC-HA10 sample?",
+        "A": "328.3 m2 g\u22121",
+        "B": "289.5 m2 g\u22121",
+        "C": "210.5 m2 g\u22121",
+        "D": "150.0 m2 g\u22121",
+        "Answer": "C",
+        "Source": "The specific surface area of GC-HA10 was 210.5 m2 g\u22121."
+    },
+    "Question_4": {
+        "Context": "The study investigated the zeta potential and hydrodynamic particle diameter of HA, GC, GC-HA1, and GC-HA10 at different pH levels.",
+        "Question": "What was the isoelectric point of GC in the absence of HA?",
+        "A": "pH 5.5",
+        "B": "pH 6.0",
+        "C": "pH 4.0",
+        "D": "pH 7.0",
+        "Answer": "A",
+        "Source": "The isoelectric point of GC in the absence of HA was observed at a pH of approximately 5.5."
+    },
+    "Question_5": {
+        "Context": "The text discussed the phytoassay method used to evaluate the bioactivity of the nanoparticles towards Sinapis alba.",
+        "Question": "Which sample exhibited the highest root length stimulation compared to the control?",
+        "A": "GC",
+        "B": "HA",
+        "C": "GC-HA1",
+        "D": "GC-HA10",
+        "Answer": "D",
+        "Source": "The highest root length stimulation was observed for GC-HA1 and GC-HA10 compared to HA and GC alone."
+    },
+    "Question_6": {
+        "Context": "The study investigated the release of Fe3+ and Fe2+ ions from the samples using complexometric titrations.",
+        "Question": "Which sample exhibited a sustained, low-level release of Fe3+ and Fe2+ over 96 hours?",
+        "A": "GC",
+        "B": "GC-HA1",
+        "C": "GC-HA10",
+        "D": "HA",
+        "Answer": "C",
+        "Source": "The GC-HA1 and GC-HA10 complexes exhibited a sustained, low-level release of Fe3+ and Fe2+ over 96 hours."
+    },
+    "Question_7": {
+        "Context": "The text discussed the potential effects of iron-based nanoparticles on oxidative stress and plant growth.",
+        "Question": "What role do reactive oxygen species (ROS) play in seed germination and plant growth?",
+        "A": "Inhibit seed germination",
+        "B": "Promote oxidative damage",
+        "C": "Trigger Fenton reaction",
+        "D": "Regulate internal cellular machinery",
+        "Answer": "D",
+        "Source": "ROS play a significant positive role in dormancy release, seed germination signaling, protection against pathogens, and regulation of internal cellular machinery in response to external environmental dynamics."
+    },
+    "Question_8": {
+        "Context": "The study discussed the potential positive and negative effects of iron-based nanoparticles on plant growth.",
+        "Question": "What is the 'oxidative window' in relation to reactive oxygen species (ROS) and seed germination?",
+        "A": "A range of ROS levels that inhibit seed germination",
+        "B": "A range of ROS levels that promote oxidative damage",
+        "C": "A range of ROS levels that trigger Fenton reaction",
+        "D": "A range of ROS levels that allow cellular events for seed germination",
+        "Answer": "D",
+        "Source": "There is a specific 'oxidative window' that allows cellular events to unfold in sequential order for seed germination if ROS are maintained within a particular range."
+    },
+    "Question_9": {
+        "Context": "The text discussed the potential mechanisms of bioactivity of GC-HA1 and GC-HA10 nanoparticles.",
+        "Question": "What was identified as a leading reason for the observed biological activity of GC-HA1 and GC-HA10?",
+        "A": "Increased release of Fe ions",
+        "B": "Colloidal properties of nanoparticles",
+        "C": "Surface area of nanoparticles",
+        "D": "Presence of humic acids",
+        "Answer": "B",
+        "Source": "Higher stability of nanoparticles with HA at pH 6\u20137 can be considered as a leading reason of their more pronounced biological activity."
+    },
+    "Question_10": {
+        "Context": "The study discussed the potential implications of ROS generation and aggregation of nanoparticles on biological activity.",
+        "Question": "What further study is proposed based on the findings of the experiment?",
+        "A": "Investigate the authors' opinions on the results",
+        "B": "Analyze the effects of iron on seed germination",
+        "C": "Study the aggregation and ROS generation of nanoparticles",
+        "D": "Examine the authors' conclusions on plant growth",
+        "Answer": "C",
+        "Source": "A further study of the synthetized NPs\u2019 aggregation and ROS generation and their relationship to biological activity should be proposed."
+    }
+}

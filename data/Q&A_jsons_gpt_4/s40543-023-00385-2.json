@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Toxic gases can be emitted when sulfides react with heavy metals, necessitating pretreatments to remove unwanted elements before sulfur isotope analysis.",
+        "Question": "What is the purpose of pretreatments before analyzing sulfur isotope ratios in compounds formed from sulfides and heavy metals?",
+        "A": "To increase the yield of the desired product",
+        "B": "To remove unnecessary elements",
+        "C": "To change the physical state of the sample",
+        "D": "To add additional heavy metals",
+        "Answer": "B",
+        "Source": "Toxic gases can be emitted when sulfides form compounds with heavy metals; thus, a series of pretreatments are required prior to the analysis of sulfur isotope ratios to remove unnecessary elements."
+    },
+    "Question_2": {
+        "Context": "Sulfur isotope fractionation can occur during pretreatment processes, affecting the analysis of sulfur isotopes in mixed sulfide samples.",
+        "Question": "Why should the effect of isotope fractionation between sulfur species be considered in the pretreatment process for sulfur isotope analysis?",
+        "A": "To prevent the formation of toxic gases",
+        "B": "To enhance the reaction rate with mixed acids",
+        "C": "To ensure accurate isotope ratio measurements",
+        "D": "To increase the solubility of sulfides",
+        "Answer": "C",
+        "Source": "Therefore, in the pretreatment process for the sulfur isotope analysis of a sample composed of a sulfide mixture, the effect of isotope fractionation between sulfur species should be considered."
+    },
+    "Question_3": {
+        "Context": "Sulfur has four stable isotopes with varying natural abundances, which are used to express the stable isotope ratio for specific materials.",
+        "Question": "Which two sulfur isotopes are commonly used to express the stable isotope ratio for a material?",
+        "A": "32S and 33S",
+        "B": "33S and 34S",
+        "C": "32S and 34S",
+        "D": "34S and 36S",
+        "Answer": "C",
+        "Source": "Sulfur has four stable isotopes; 32S, 33S, 34S, and 36S, and their abundances in nature are 95.02%, 0.75%, 4.2%, and 0.017%, respectively. The stable isotope ratio for a specific material is expressed as 34S/32S."
+    },
+    "Question_4": {
+        "Context": "The standard material for sulfur isotope ratio measurements is known as Canyon Diablo Troilite (CDT).",
+        "Question": "What standard material is used as a reference for measuring sulfur isotope ratios?",
+        "A": "Canyon Diablo Troilite (CDT)",
+        "B": "Barium Sulfate (BaSO4)",
+        "C": "Cadmium Sulfide (CdS)",
+        "D": "Zinc Sulfide (ZnS)",
+        "Answer": "A",
+        "Source": "The stable isotope ratio for a specific material is expressed as 34S/32S, using two relatively abundant sulfur species, and \u03b434S (\u2030) according to Eq. (1) using the standard material (CDT: Canyon Diablo Troilite)."
+    },
+    "Question_5": {
+        "Context": "Sulfur isotope fractionation can be influenced by the type of sulfide mineral and the temperature conditions during the conversion to other sulfur species.",
+        "Question": "Which sulfide mineral tends to have a larger sulfur isotopic fractionation factor for H2S with decreasing temperature?",
+        "A": "Pyrite",
+        "B": "Galena",
+        "C": "Sphalerite",
+        "D": "Chalcopyrite",
+        "Answer": "B",
+        "Source": "For instance, galena tends to have a larger sulfur isotopic fractionation factor for H2S than other sulfide minerals, in accordance with the decrease in temperature."
+    },
+    "Question_6": {
+        "Context": "During the pretreatment process, sulfide minerals are converted into other compounds to facilitate sulfur isotope analysis.",
+        "Question": "What compound is precipitated from the reaction with H2S(gas) in a trap filled with Cd(CH3COO)2(aq)?",
+        "A": "Zinc Sulfide (ZnS)",
+        "B": "Silver Sulfide (AgS)",
+        "C": "Cadmium Sulfide (CdS)",
+        "D": "Barium Sulfate (BaSO4)",
+        "Answer": "C",
+        "Source": "Subsequently, CdS(s) was precipitated from the reaction with H2S(gas) in a trap filled with Cd(CH3COO)2(aq)."
+    },
+    "Question_7": {
+        "Context": "The process of converting cadmium sulfide (CdS) to a sulfate involves a reaction with a specific liquid reagent.",
+        "Question": "Which liquid reagent is used to react with CdS(s) to ionize it to SO4 2\u2212 (aq)?",
+        "A": "Hydrochloric Acid (HCl)",
+        "B": "Hydrogen Peroxide (H2O2)",
+        "C": "Nitric Acid (HNO3)",
+        "D": "Sulfuric Acid (H2SO4)",
+        "Answer": "B",
+        "Source": "CdS(s) was then ionized to SO4 2\u2212 (aq) after reacting with H2O2(l), followed by the addition of BaCl2(l) to precipitate BaSO4(s)."
+    },
+    "Question_8": {
+        "Context": "Barium sulfate (BaSO4) is precipitated as part of the sulfur isotope analysis pretreatment process.",
+        "Question": "What reagent is added to precipitate BaSO4 from the ionized sulfate solution?",
+        "A": "Cadmium Acetate (Cd(CH3COO)2)",
+        "B": "Hydrogen Peroxide (H2O2)",
+        "C": "Barium Chloride (BaCl2)",
+        "D": "Silver Nitrate (AgNO3)",
+        "Answer": "C",
+        "Source": "1 mol of BaCl2 was injected to precipitate BaSO4 according to reaction Eq. (3)."
+    },
+    "Question_9": {
+        "Context": "The sulfur content of a sample can be measured using specific analytical equipment.",
+        "Question": "Which analytical instrument is used to measure the sulfur content of the reaction product?",
+        "A": "X-ray Diffraction (XRD)",
+        "B": "Field Emission Scanning Electron Microscopy (FE-SEM)",
+        "C": "Elemental Analyzer (EA)",
+        "D": "Isotope Ratio Mass Spectrometer (IRMS)",
+        "Answer": "C",
+        "Source": "A Flash 2000 elemental analyzer (EA) installed at the Center for Research Facilities at Kongju National University was used to measure the sulfur content of the reaction product."
+    },
+    "Question_10": {
+        "Context": "The sulfur isotope analysis of sulfide minerals requires the removal of non-analyzed contaminants.",
+        "Question": "Why is it important to remove contaminants from sulfide minerals before sulfur isotope analysis?",
+        "A": "To prevent damage to analytical instruments",
+        "B": "To avoid toxic gas emissions during analysis",
+        "C": "To ensure the accuracy of sulfur isotope values",
+        "D": "To reduce the cost of analysis",
+        "Answer": "C",
+        "Source": "In particular, substituting sulfur into the barium sulfate form is an effective method. In this study, during the pretreatment process of sulfides composed of pyrite and galena, H2S was formed at 200 \u00b0C and reacted with an aqueous solution of Cd(CH3COO)2 to precipitate CdS."
+    }
+}

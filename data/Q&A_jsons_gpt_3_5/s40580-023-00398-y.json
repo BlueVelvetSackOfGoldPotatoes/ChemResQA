@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of nanomaterials in muscle regeneration.",
+        "Question": "What is one advantage of incorporating graphene oxide (GO) into bioinks for muscle tissue engineering?",
+        "A": "Improved thermal stability",
+        "B": "Increased molecular interactions",
+        "C": "Enhanced myogenic differentiation",
+        "D": "Better patterning process during bioprinting",
+        "Answer": "C",
+        "Source": "For examples, the incorporation of GO as a component for a myogenesis-inducing material, into phenol-rich gelatin hydrogels used for 3D printing has been shown to improve thermal stability, increase molecular interactions, and potentially influence the patterning process during bioprinting, making the printing process more efficient."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the use of in-situ bioprinting technology for muscle regeneration.",
+        "Question": "What was the main advantage of using a VEGF-releasing nanomaterials-based bioink in a murine model for muscle regeneration?",
+        "A": "Controlled release of VEGF",
+        "B": "Enhanced adhesion to muscle surface",
+        "C": "Increased rheological behavior of bioinks",
+        "D": "Improved mechanical properties",
+        "Answer": "A",
+        "Source": "The bioink incorporated laponite, an artificially manufactured nano-structure, to control the release of VEGF, enhance its adhesion to the muscle surface, increase the rheological behavior of bioinks, and increase mechanical properties due to entanglement with GelMA."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the use of bioprinting for muscle regeneration.",
+        "Question": "What was the main outcome of directly printing C2C12 myoblasts onto a VML murine model injury site using a handheld bioprinter?",
+        "A": "Formation of multinucleated myotubes",
+        "B": "Enhanced mechanical properties",
+        "C": "Improved adhesion to the muscle surface",
+        "D": "Increased VEGF release",
+        "Answer": "A",
+        "Source": "The results showed the formation of multinucleated myotubes 24 days post-printing, indicating the promising potential of in-situ bioprinting in muscle regeneration."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the use of microfluidic devices as models for studying muscle tissue interactions.",
+        "Question": "What was the main advantage of using a microfluidic chip to culture muscle bundles and motor neuron spheroids?",
+        "A": "Increased muscle contractions",
+        "B": "Enhanced muscle apoptosis",
+        "C": "Uniform exposure of nanomaterials to cells",
+        "D": "Improved muscle regeneration",
+        "Answer": "C",
+        "Source": "Microfluidic chips offer a promising platform for assessing the safety of nanomaterials in muscle regeneration. Their inherent ability to produce laminar flow ensures a uniform exposure of nanomaterials to cells."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the use of nanomaterials in muscle regeneration.",
+        "Question": "What is a unique property of AuNPs that makes them suitable for muscle function improvement in murine DMD models?",
+        "A": "High surface activity",
+        "B": "Strong antioxidant properties",
+        "C": "Good biocompatibility",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "For instance, AuNPs exhibit high surface activity, strong antioxidant properties, and good biocompatibility, while exosomes possess innate stability, low immunogenicity, and excellent cell penetration capacity."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the use of nanomaterials in muscle regeneration.",
+        "Question": "What is a unique property of exosomes that makes them suitable for promoting myogenesis in both in vitro and in vivo studies?",
+        "A": "High surface activity",
+        "B": "Low immunogenicity",
+        "C": "Excellent cell penetration capacity",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Exosomes, a natural biological nanoparticle, contain messenger RNA, microRNA, or other proteins, and act as messengers to transfer these proteins to other cells. MSC-derived exosomes have been found to promote myogenesis in both in vitro and in vivo studies, potentially mediated by the presence of miRNA molecules."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the use of nanomaterials in muscle regeneration.",
+        "Question": "What is the main advantage of using AuNPs conjugated with anti-inflammatory cytokines in murine DMD models?",
+        "A": "Improving muscle function",
+        "B": "Reducing muscle inflammation",
+        "C": "Enhancing muscle contractility",
+        "D": "Increasing muscle mass",
+        "Answer": "A",
+        "Source": "AuNPs were employed to conjugate anti-inflammatory cytokines, such as IL-4, for the purpose of enhancing muscle function in mdx mouse models, through immune cell recruitment."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the use of nanomaterials in muscle regeneration.",
+        "Question": "What is the role of PLGA-PEG in muscle regeneration?",
+        "A": "Selective delivery of inhibitors to muscle cells",
+        "B": "Enhancing muscle contractility",
+        "C": "Promoting muscle inflammation",
+        "D": "Increasing muscle mass",
+        "Answer": "A",
+        "Source": "Huang et al. used M12-conjugated poly(lactic-co-glycolic acid)-polyethylene glycol (PLGA-PEG) to selectively deliver phosphatase and tensin homolog inhibitors to muscle cells in vivo, leading to improved muscle growth."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the use of nanomaterials in muscle regeneration.",
+        "Question": "What is the main advantage of using F-127-polydopamine NPs in muscle regeneration?",
+        "A": "Regenerating muscle structure",
+        "B": "Enhancing muscle inflammation",
+        "C": "Increasing muscle mass",
+        "D": "Improving muscle contractility",
+        "Answer": "A",
+        "Source": "F-127-polydopamine NP was used in rat VML TA Bulk hydrogel for regenerating structural and functional in the VML mouse model."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the use of nanomaterials in muscle regeneration.",
+        "Question": "What is the main advantage of using polydopamine coated CNT in muscle regeneration?",
+        "A": "Promoting muscle weight",
+        "B": "Enhancing muscle fiber size",
+        "C": "Increasing muscle contractile force",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Muscle regeneration by polydopamine coated CNT was shown to promote the weight, fiber size, and contractile force of the denervated muscles."
+    }
+}

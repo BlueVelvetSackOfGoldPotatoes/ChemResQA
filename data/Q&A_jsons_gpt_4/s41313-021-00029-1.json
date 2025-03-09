@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In quantum computing, a quantum circuit is a model for quantum computation in which a computation is a sequence of quantum gates, which are reversible transformations on a quantum mechanical analog of an n-bit register. This sequence of gates is called a quantum algorithm.",
+        "Question": "What is the purpose of multi control quantum gates in a quantum classification circuit?",
+        "A": "To reverse the state of the qubits",
+        "B": "To classify data by controlling the flow of quantum information based on certain conditions",
+        "C": "To generate random qubit states for testing",
+        "D": "To measure the final state of the qubits",
+        "Answer": "B",
+        "Source": "Secondly we construct a quantum circuit for classification that contains multi control gates. The algorithm is easy to implement and efficient in predicting the labels of test data."
+    },
+    "Question_2": {
+        "Context": "In quantum machine learning, the concept of 'sublabels' is introduced to assist in classifying data with intricate distribution, where 'sublabel' represents a minor label subordinate to the main one, also called 'subclass'.",
+        "Question": "What is the role of 'sublabels' in quantum machine learning for data classification?",
+        "A": "To increase the complexity of the algorithm",
+        "B": "To assist in building boundaries between data with different main labels",
+        "C": "To replace the main labels entirely",
+        "D": "To simplify the quantum circuit",
+        "Answer": "B",
+        "Source": "Firstly, data in the same class is divided into smaller groups with sublabels assisting building boundaries between data with different labels."
+    },
+    "Question_3": {
+        "Context": "In quantum computing, the inner product of quantum states is a measure that can be used to determine the 'distance' or similarity between the states. This is useful in algorithms that involve classification or pattern recognition.",
+        "Question": "Why is the inner product used in quantum classification algorithms instead of Euclidean distance?",
+        "A": "Because it is less accurate than Euclidean distance",
+        "B": "Because it requires fewer qubits to calculate",
+        "C": "Because it is less time and resource-consuming to calculate",
+        "D": "Because it provides a measure of entanglement",
+        "Answer": "C",
+        "Source": "Here, we chose to calculate the inner product, as calculating the Euclidean distance is more time and resource-consuming."
+    },
+    "Question_4": {
+        "Context": "In quantum computing, a qubit can represent a data point in a two-dimensional space, and its state can be described by a combination of angles that map the data point to the qubit's state.",
+        "Question": "How are two-dimensional data points mapped to the state of a qubit in a quantum classification algorithm?",
+        "A": "Using a single angle representing the magnitude of the data point",
+        "B": "Using a pair of angles that correspond to the data point's coordinates",
+        "C": "Through a random assignment of angles for each data point",
+        "D": "By assigning a fixed angle for all data points",
+        "Answer": "B",
+        "Source": "An arbitrary state of a single qubit could be written as |\u03c8\u27e9 = ei\u03b1 \ufffd cos(\u03b8/2)|0\u27e9 + sin(\u03b8/2)e\u2212i\u03c6/2|1\u27e9 \ufffd where \u03b1 is the global phase and the vector xi = (x1,i, x2,i) is mapped as \u03b8i = 2\u03c0(x1,i \u2212 min{x1}) max{x1} \u2212 min{x1} \u03c6i = 2\u03c0(x2,i \u2212 min{x2}) max{x2} \u2212 min{x2}"
+    },
+    "Question_5": {
+        "Context": "Quantum algorithms can be applied to classify phases in materials, such as distinguishing between metallic and insulating states.",
+        "Question": "In the context of materials science, what is an application of quantum classification algorithms?",
+        "A": "Predicting the chemical reactivity of elements",
+        "B": "Determining the atomic mass of isotopes",
+        "C": "Classifying different phases of materials",
+        "D": "Calculating the bond angles in molecules",
+        "Answer": "C",
+        "Source": "Our preliminary result shows considerable potential for various classification problems, particularly for constructing different phases in materials."
+    },
+    "Question_6": {
+        "Context": "In quantum machine learning, the training data set is used to find patterns and make predictions about new, unseen data. The training data consists of vectors with associated labels.",
+        "Question": "What does the label 'yi' represent in a quantum machine learning training data set?",
+        "A": "The dimension of the vector 'xi'",
+        "B": "The quantum state of the vector 'xi'",
+        "C": "The classification group or category of the vector 'xi'",
+        "D": "The inner product of the vector 'xi'",
+        "Answer": "C",
+        "Source": "Consider the training data set {xi, yi}, where xi is a vector in Rd, where d is the dimension and yi represents the label with possible values {l1, l2, . . . lM}."
+    },
+    "Question_7": {
+        "Context": "In quantum machine learning, Lloyd's algorithm is used for unsupervised machine learning to assign training vectors to clusters based on the closest mean vector.",
+        "Question": "What is the purpose of Lloyd's algorithm in the context of quantum machine learning?",
+        "A": "To optimize the parameters of the quantum circuit",
+        "B": "To encrypt the training data for security",
+        "C": "To assign training vectors to clusters based on proximity to mean vectors",
+        "D": "To calculate the global phase of qubit states",
+        "Answer": "C",
+        "Source": "In the learning process, firstly we apply the Lloyd\u2019s algorithm for unsupervised machine learning, which assigns training vectors to the same class as the closest mean vector."
+    },
+    "Question_8": {
+        "Context": "In quantum machine learning, the concept of 'sublabels' is used to assist in the classification of data. Algorithms are applied to adjust and refine these sublabels to better represent the training data.",
+        "Question": "What is the goal of applying adjusting algorithms to 'sublabels' in quantum machine learning?",
+        "A": "To increase the number of sublabels for better accuracy",
+        "B": "To encrypt the sublabels for secure transmission",
+        "C": "To ensure there is no overlap between sublabels of different prior labels",
+        "D": "To convert sublabels into main labels",
+        "Answer": "C",
+        "Source": "To address this issue, in addition to the algorithm for clustering, we propose to use two adjusting algorithms: one to reduce excessive sublabel and the other to make sure that there is no overlap between sublabels."
+    },
+    "Question_9": {
+        "Context": "In quantum computing, a Hadamard gate is a one-qubit rotation, mapping the basis state |0\u27e9 to (|0\u27e9 + |1\u27e9)/\u221a2 and |1\u27e9 to (|0\u27e9 - |1\u27e9)/\u221a2. It is often used to create superposition states.",
+        "Question": "What is the purpose of applying Hadamard gates to label qubits in a quantum classification circuit?",
+        "A": "To entangle the label qubits with the data qubits",
+        "B": "To prepare the label qubits in a uniform superposition state",
+        "C": "To measure the inner product of label qubits",
+        "D": "To assign fixed labels to the training data",
+        "Answer": "B",
+        "Source": "When predicting the label for a new test vector, we assume that the probability for each possible sublabels is the same. Based on this assumption, we applied N Hadamard gates on the label qubits, preparing them as a uniform superposition state."
+    },
+    "Question_10": {
+        "Context": "In quantum machine learning, the classification of test data is performed by comparing probabilities of different outcomes after applying a quantum classification circuit.",
+        "Question": "In quantum machine learning, how is the label for a new test vector determined?",
+        "A": "By the highest probability of matching a known sublabel",
+        "B": "By the lowest probability of matching a known sublabel",
+        "C": "By the average probability of all possible sublabels",
+        "D": "By the sum of probabilities of all sublabels",
+        "Answer": "A",
+        "Source": "For a new test data, one only needs to measure the first label qubit and the data qubits. By comparing P(q1 = |y\u27e9, V = |\ufffdf y\u27e9), yi \u2208 {0, 1}, the new test vector will be assigned with label corresponding to the larger P, where P(q1 = |y\u27e9, V = |\ufffdf y\u27e9) represents probability to find the first label qubit q1 at state |y\u27e9 and meanwhile find the data qubits at state |\ufffdf y\u27e9."
+    }
+}

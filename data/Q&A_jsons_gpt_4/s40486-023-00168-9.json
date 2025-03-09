@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Perovskite structures are known for their applications in various fields including photocatalysis. They have a general formula of ABO3 and are studied for their ability to improve optical and structural properties through metal doping.",
+        "Question": "What is the general formula for conventional perovskite structures?",
+        "A": "AA'BB'O6",
+        "B": "ABO3",
+        "C": "K2Ta2O6",
+        "D": "Ba2TiMoO6",
+        "Answer": "B",
+        "Source": "Conventional perovskite structures with the chemical formula of ABO3 have been known to contain lead (Pb), and recent research is all focussed on replacing Pb with non-toxic materials for fuel cells, photovoltaics, memory devices, and photocatalysts."
+    },
+    "Question_2": {
+        "Context": "In the context of photocatalysis, the generation of electron\u2013hole pairs is crucial as they act as powerful oxidizing or reducing agents. These pairs can react with water or oxygen molecules to produce highly reactive oxygen species.",
+        "Question": "What do electron\u2013hole pairs generate when they react with water or oxygen molecules in the context of photocatalysis?",
+        "A": "Alkali metals",
+        "B": "Transition metals",
+        "C": "Reactive oxygen species",
+        "D": "Noble gases",
+        "Answer": "C",
+        "Source": "When a photocatalyst is irradiated with light, it generates electron\u2013hole pairs, which act as powerful oxidizing or reducing agents. These electron\u2013hole pairs can then react with water or oxygen molecules to produce highly reactive oxygen species (ROS), such as hydroxyl radicals (\u2022OH), superoxide radicals (\u2022O2 \u2212), and hydrogen peroxide (H2O2)."
+    },
+    "Question_3": {
+        "Context": "Double perovskites are an extension of the perovskite family with a modified lattice framework. They are known for their flexible structural, optical, and morphological properties which are attributed to their unique lattice framework.",
+        "Question": "What is the general form of the lattice framework for double perovskites?",
+        "A": "ABO3",
+        "B": "AA'BB'O4",
+        "C": "AA'BB'O6",
+        "D": "A2B2O5",
+        "Answer": "C",
+        "Source": "Double perovskites are known for their flexible structural, optical, and morphological properties due to their lattice framework having a general form AA'BB'O6."
+    },
+    "Question_4": {
+        "Context": "Lead-free perovskites are being explored as an eco-friendly alternative in various applications. Their synthesis methods are crucial for tuning their optical and structural properties.",
+        "Question": "Which of the following is NOT a method used for synthesizing lead-free perovskites?",
+        "A": "Sol\u2013gel",
+        "B": "Solid-state synthesis",
+        "C": "Hydrothermal methods",
+        "D": "Sublimation",
+        "Answer": "D",
+        "Source": "Lead-free perovskites have been synthesized by various methods, such as sol\u2013gel, solid-state synthesis, and hydrothermal methods, to increase the chances of tuning the optical and structural properties to cater to the respective needs of the society."
+    },
+    "Question_5": {
+        "Context": "Photocatalysts are materials that can convert harmful pollutants into less toxic or non-toxic substances using light-induced redox reactions. The efficiency of these materials can be influenced by their bandgap energy.",
+        "Question": "What is a drawback of semiconductors that can deter the catalytic progress in photocatalysis?",
+        "A": "Low melting point",
+        "B": "High bandgap energy",
+        "C": "High thermal conductivity",
+        "D": "Low electrical resistance",
+        "Answer": "B",
+        "Source": "But semiconductors have drawbacks: fast electron\u2013hole recombination rate, high bandgap energy, and lower adsorption rates deter the catalytic progress."
+    },
+    "Question_6": {
+        "Context": "Doping perovskite structures with metals can lead to improved photocatalytic behavior. This is often achieved by modifying the bandgap energy of the material.",
+        "Question": "What is a common approach to improve the photocatalytic behavior of perovskites?",
+        "A": "Increasing the melting point",
+        "B": "Reducing the bandgap energy",
+        "C": "Enhancing the electrical resistance",
+        "D": "Decreasing the thermal conductivity",
+        "Answer": "B",
+        "Source": "Because most tantalum oxides have band gaps unsuitable for the absorbance of visible light for any optical applications, surface modification or doping K2Ta2O6 with elements like noble and rare metals have been adopted to reduce the band gap energy."
+    },
+    "Question_7": {
+        "Context": "The photocatalytic degradation of pollutants can be influenced by the generation of active species. These species play a crucial role in the breakdown of pollutants.",
+        "Question": "Which active species are boosted by the reduction in bandgap energy, enhancing the catalytic behavior of perovskites?",
+        "A": "Hydroxyl and superoxide radicals",
+        "B": "Alkaline earth metals",
+        "C": "Noble gases",
+        "D": "Transition metal ions",
+        "Answer": "A",
+        "Source": "Such reduction in bandgap energy has helped in charge separation and generation of active species of hydroxyl and superoxide radicals, boosting the catalytic behavior."
+    },
+    "Question_8": {
+        "Context": "The photocatalytic performance of materials can be assessed by their ability to degrade pollutants. This is often measured by the percentage of pollutant degraded over a certain period.",
+        "Question": "What is an indicator of photocatalytic performance in materials?",
+        "A": "Electrical conductivity",
+        "B": "Percentage of pollutant degraded",
+        "C": "Thermal stability",
+        "D": "Optical transparency",
+        "Answer": "B",
+        "Source": "On photodegradation of methylene blue dye with all the catalysts, 53% of the dye was degraded using the undoped K2Ta2O6, while Mn-doped K2Ta2O6 degraded 93%, Co-doped K2Ta2O6 degraded 86% and Ni-doped K2Ta2O6 69%."
+    },
+    "Question_9": {
+        "Context": "In the field of photocatalysis, the stability of photocatalytic materials is crucial for their practical application. This stability can be tested through repeated experiments.",
+        "Question": "How is the stability of photocatalytic materials often tested?",
+        "A": "By conducting electrical resistance measurements",
+        "B": "Through repeated cycles of photodegradation experiments",
+        "C": "By assessing the melting point over time",
+        "D": "Through continuous exposure to ultraviolet light",
+        "Answer": "B",
+        "Source": "The prepared samples also retained their stability after 5 cycles of repeated experiments, emphasizing the degradation ability of the Gd3+ doped K2Ta2O6 nanoparticles."
+    },
+    "Question_10": {
+        "Context": "The photocatalytic activity of materials can be enhanced by creating heterostructures. These structures combine different materials to leverage their properties for improved performance.",
+        "Question": "What is a heterostructure in the context of photocatalysis?",
+        "A": "A combination of different materials to enhance photocatalytic activity",
+        "B": "A single material with uniform properties",
+        "C": "A structure with decreased surface area",
+        "D": "A material with reduced chemical stability",
+        "Answer": "A",
+        "Source": "Idris et al. have successfully synthesized a heterostructure of lead-free double-perovskites Cs2AgBiBr6/Sr2FeNbO6 for photocatalytic CO2 reduction. The heterostructure has shown photocatalytic behavior in the reaction cell saturated with pure CO2 in visible light in an ethyl acetate solution."
+    }
+}

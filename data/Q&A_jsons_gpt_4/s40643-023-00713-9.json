@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Bispecific antibodies (bsAbs) are engineered proteins with two different antigen recognition sites, which can improve therapeutic efficacy compared to traditional monoclonal antibodies.",
+        "Question": "What is the primary structural difference between bispecific antibodies (bsAbs) and traditional monoclonal antibodies?",
+        "A": "bsAbs have a longer plasma half-life.",
+        "B": "bsAbs have two different antigen recognition sites.",
+        "C": "bsAbs are smaller in size.",
+        "D": "bsAbs do not contain the Fc region.",
+        "Answer": "B",
+        "Source": "They are man-made proteins, deliberately engineered to possess two different antigen recognition sites instead of one that exists in traditional monoclonal antibodies (mAbs)."
+    },
+    "Question_2": {
+        "Context": "Ceramic hydroxyapatite (CHT) is a mixed-mode chromatography medium that can interact with proteins through metal affinity and cation exchange interactions.",
+        "Question": "What types of interactions allow proteins to bind to ceramic hydroxyapatite (CHT) in chromatography?",
+        "A": "Hydrophobic interactions and hydrogen bonding",
+        "B": "Metal affinity and cation exchange interactions",
+        "C": "Van der Waals forces and ionic interactions",
+        "D": "Covalent bonding and pi-pi stacking",
+        "Answer": "B",
+        "Source": "Ceramic hydroxyapatite (CHT), a mixed-mode medium, allows proteins to interact with its calcium sites (C-sites) through metal affinity and/or its phosphate sites (P-sites) through cation exchange interactions."
+    },
+    "Question_3": {
+        "Context": "In the context of bispecific antibodies (bsAbs), impurities such as aggregates and mispaired species can be challenging to remove due to their similarity to the desired product.",
+        "Question": "Why is the removal of product-related impurities such as aggregates and mispaired species particularly challenging in the purification of bispecific antibodies (bsAbs)?",
+        "A": "Because they are chemically inert",
+        "B": "Because they are larger than the desired product",
+        "C": "Because they have similar size and physiochemical properties to the desired product",
+        "D": "Because they are less stable than the desired product",
+        "Answer": "C",
+        "Source": "The bsAb product-related impurities, including mispaired species, half antibodies, antibody fragments, and aggregates, are difficult to remove because of their similarities in size and physiochemical properties to the desired end-product."
+    },
+    "Question_4": {
+        "Context": "Chromatography-induced aggregation is a phenomenon observed during the purification of proteins, where the process of chromatography can lead to the formation of aggregates.",
+        "Question": "What is 'chromatography-induced aggregation' in the context of protein purification?",
+        "A": "The loss of protein activity due to chromatography",
+        "B": "The denaturation of proteins during chromatography",
+        "C": "The formation of aggregates during chromatography",
+        "D": "The binding of proteins to the incorrect chromatography medium",
+        "Answer": "C",
+        "Source": "In addition, \u201cchromatography-induced aggregation\u201d has been observed during both Protein A and cation exchange chromatography (CEX) for bsAb purification as reported by Serene Chen et al. and Lucus K. Kimerer et al."
+    },
+    "Question_5": {
+        "Context": "Bispecific antibodies (bsAbs) can be categorized into different formats based on their structure and valency.",
+        "Question": "Which of the following is NOT a recognized format of bispecific antibodies (bsAbs)?",
+        "A": "Fragment-based bsAbs",
+        "B": "Asymmetric bsAbs",
+        "C": "Symmetric bsAbs",
+        "D": "Monospecific bsAbs",
+        "Answer": "D",
+        "Source": "BsAbs are broadly categorized into three main formats, including fragment-based bsAbs, asymmetric bsAbs, and symmetric bsAbs."
+    },
+    "Question_6": {
+        "Context": "The downstream processing of bispecific antibodies (bsAbs) can be complicated by the presence of various impurities, including host cell proteins (HCP) and host cell DNA (HCDNA).",
+        "Question": "In the purification of bispecific antibodies (bsAbs), which types of impurities are typically considered process-related?",
+        "A": "Mispaired species and antibody fragments",
+        "B": "Aggregates and half antibodies",
+        "C": "Host cell proteins (HCP) and host cell DNA (HCDNA)",
+        "D": "Metal ions and buffer components",
+        "Answer": "C",
+        "Source": "Poten\ufffdal of C-site coopera\ufffdon from CHT leads to e\ufb03cient removal of product-, process-related impuri\ufffdes and mi\ufffdga\ufffdon of chromatography-induced aggrega\ufffdon"
+    },
+    "Question_7": {
+        "Context": "The Fc region of an antibody is a constant region that can mediate immune responses and define the antibody's subclass.",
+        "Question": "What role does the Fc region of an antibody play?",
+        "A": "It determines the antibody's antigen specificity.",
+        "B": "It mediates the antibody's immune responses.",
+        "C": "It is the variable region that binds to antigens.",
+        "D": "It is responsible for the antibody's catalytic activity.",
+        "Answer": "B",
+        "Source": "Both asymmetric bsAbs and symmetric bsAbs are Fc-containing molecules."
+    },
+    "Question_8": {
+        "Context": "In protein purification, a mixed-mode chromatography medium like ceramic hydroxyapatite (CHT) can provide unique separation mechanisms that improve impurity removal.",
+        "Question": "What advantage does a mixed-mode chromatography medium like ceramic hydroxyapatite (CHT) offer in protein purification?",
+        "A": "It allows for faster protein elution.",
+        "B": "It provides unique separation mechanisms that improve impurity removal.",
+        "C": "It requires less stringent buffer conditions.",
+        "D": "It can purify proteins based on their molecular weight alone.",
+        "Answer": "B",
+        "Source": "With a combination of metal affinity and cation exchange interactions, CHT provides unique separation mechanisms with additional purification benefits, therefore improving the removal efficiency of both product- and process-related impurities."
+    },
+    "Question_9": {
+        "Context": "The isoelectric point (pI) of a protein is the pH at which the protein has no net charge, affecting its interaction with chromatography media.",
+        "Question": "How does the isoelectric point (pI) of a protein influence its purification process using chromatography?",
+        "A": "It determines the protein's solubility in the buffer.",
+        "B": "It affects the protein's stability and folding.",
+        "C": "It influences the protein's interaction with the chromatography media.",
+        "D": "It changes the protein's tertiary structure.",
+        "Answer": "C",
+        "Source": "Given that the bsAb molecules under investigation in this study all have basic isoelectric points (pI), CHT Type II was selected as the medium of choice."
+    },
+    "Question_10": {
+        "Context": "The stability of bispecific antibodies (bsAbs) can be affected by their propensity to aggregate, which is a concern during purification processes.",
+        "Question": "Why is the high aggregation propensity of bispecific antibodies (bsAbs) a concern during their purification process?",
+        "A": "It can lead to the loss of biological activity.",
+        "B": "It can result in the formation of toxic substances.",
+        "C": "It can cause difficulties in downstream processing.",
+        "D": "It can increase the risk of immunogenicity.",
+        "Answer": "C",
+        "Source": "Furthermore, engineered bsAbs are also reported to be highly aggregation prone, making them less stable than their parental mAbs."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Chitobiose (COS2) is a molecule that has been shown to have lipid-lowering effects in vivo. It is a degradation product of chitosan and has been studied for its potential to alleviate lipid accumulation in the liver.",
+        "Question": "What is the primary effect of Chitobiose (COS2) in relation to lipid metabolism?",
+        "A": "Increases lipid synthesis",
+        "B": "Lowers lipid levels in vivo",
+        "C": "Blocks lipid absorption in the gut",
+        "D": "Has no effect on lipid metabolism",
+        "Answer": "B",
+        "Source": "Chitobiose (COS2) efficiently lowers lipids in vivo and facilitates butyric acid enrichment during human fecal fermentation."
+    },
+    "Question_2": {
+        "Context": "Non-alcoholic fatty liver disease (NAFLD) is characterized by excessive lipid accumulation in hepatocytes without alcohol consumption. It includes various stages such as simple steatosis and can progress to more severe forms.",
+        "Question": "What percentage of lipid accumulation in hepatocytes is typically diagnostic for NAFLD?",
+        "A": "More than 1%",
+        "B": "More than 3%",
+        "C": "More than 5%",
+        "D": "More than 10%",
+        "Answer": "C",
+        "Source": "Non-alcoholic fatty liver disease (NAFLD) is defined as lipid accumulation (more than 5%) in hepatocytes without alcohol consumption."
+    },
+    "Question_3": {
+        "Context": "Butyric acid is a short-chain fatty acid that is produced during the fermentation of dietary fibers by gut microbiota. It has been shown to have protective effects against liver diseases.",
+        "Question": "What role does butyric acid play in the context of NAFLD?",
+        "A": "It worsens liver inflammation",
+        "B": "It has no significant effect on the liver",
+        "C": "It protects against hepatic inflammation and lipid steatosis",
+        "D": "It increases lipid synthesis in hepatocytes",
+        "Answer": "C",
+        "Source": "Research has shown that oral supplementation with butyric acid protects mice and rats from hepatic inflammation and lipid steatosis."
+    },
+    "Question_4": {
+        "Context": "The \u03b2-oxidation pathway is a metabolic process that involves the breakdown of fatty acids to produce energy. It is a crucial pathway for limiting lipid accumulation in cells.",
+        "Question": "What is the role of the \u03b2-oxidation pathway in lipid metabolism?",
+        "A": "It synthesizes fatty acids",
+        "B": "It stores fatty acids in adipose tissue",
+        "C": "It breaks down fatty acids to produce energy",
+        "D": "It converts amino acids to fatty acids",
+        "Answer": "C",
+        "Source": "The regulation of FFAs \u03b2-oxidation is also essential for limiting lipid accumulation."
+    },
+    "Question_5": {
+        "Context": "Carnitine palmitoyltransferase 1A (CPT1A) is an enzyme that plays a role in the transport of fatty acids into the mitochondria for \u03b2-oxidation.",
+        "Question": "What is the function of Carnitine palmitoyltransferase 1A (CPT1A) in fatty acid metabolism?",
+        "A": "It catalyzes the synthesis of fatty acids",
+        "B": "It promotes the storage of fatty acids in adipose tissue",
+        "C": "It aids in the transport of fatty acids into the mitochondria",
+        "D": "It converts carbohydrates to fatty acids",
+        "Answer": "C",
+        "Source": "Then, carnitine palmitoyl transferase 1A (CPT1A) and carnitine palmitoyl transferase 2 (CPT2), stimulated by PPAR\u03b1, promote fatty acyl-CoA to cross the mitochondrial membrane and oxidized in the mitochondrial matrix finally under the effects of oxidation enzymes including PPAR\u03b1."
+    },
+    "Question_6": {
+        "Context": "Peroxisome proliferator-activated receptor alpha (PPAR\u03b1) is a nuclear receptor that plays a key role in the regulation of lipid metabolism, particularly in the liver.",
+        "Question": "What is the role of Peroxisome proliferator-activated receptor alpha (PPAR\u03b1) in the liver?",
+        "A": "It promotes lipid storage",
+        "B": "It regulates lipid uptake and \u03b2-oxidation",
+        "C": "It inhibits protein synthesis",
+        "D": "It activates glucose production",
+        "Answer": "B",
+        "Source": "The main \u03b2-oxidation pathways are as follows: firstly, FFAs were activated and transferred to fatty acyl-CoA by ACSL1 in the outer mitochondrial membrane. Then, carnitine palmitoyl transferase 1A (CPT1A) and carnitine palmitoyl transferase 2 (CPT2), stimulated by PPAR\u03b1, promote fatty acyl-CoA to cross the mitochondrial membrane and oxidized in the mitochondrial matrix finally under the effects of oxidation enzymes including PPAR\u03b1."
+    },
+    "Question_7": {
+        "Context": "The liver\u2013gut axis refers to the bidirectional communication between the liver and the gut, which includes the impact of gut-derived metabolites on liver function.",
+        "Question": "How does the liver\u2013gut axis influence non-alcoholic fatty liver disease (NAFLD)?",
+        "A": "It has no influence on NAFLD",
+        "B": "It only affects nutrient absorption in the gut",
+        "C": "It contributes to the alteration of gut flora and their metabolic products",
+        "D": "It solely regulates liver enzyme activity",
+        "Answer": "C",
+        "Source": "The cause of NAFLD includes hepatic lipid metabolism disruption and is strongly associated with the alteration of gut flora and their metabolic products."
+    },
+    "Question_8": {
+        "Context": "Short-chain fatty acids (SCFAs) like acetic acid, propionic acid, and butyric acid are produced by the fermentation of dietary fibers by gut microbiota.",
+        "Question": "What is the primary source of short-chain fatty acids (SCFAs) in the gut?",
+        "A": "Hepatic synthesis",
+        "B": "Pancreatic secretion",
+        "C": "Fermentation of dietary fibers by gut microbiota",
+        "D": "Absorption from the diet",
+        "Answer": "C",
+        "Source": "SCFAs were determined by gas chromatography using an Agilent 7890 A gas chromatograph equipped with a flame ionization detector (FID) (California, United States) and an HP-5MS polar column (0.25 \u03bcm \u00d7 0.25 mm \u00d7 30 m)."
+    },
+    "Question_9": {
+        "Context": "Acyl-CoA synthetase long-chain family member 1 (ACSL1) is an enzyme that activates fatty acids by converting them into fatty acyl-CoA, which is a necessary step for fatty acid metabolism.",
+        "Question": "What is the function of Acyl-CoA synthetase long-chain family member 1 (ACSL1) in fatty acid metabolism?",
+        "A": "It degrades fatty acids into smaller molecules",
+        "B": "It activates fatty acids by converting them into fatty acyl-CoA",
+        "C": "It synthesizes new fatty acids from glucose",
+        "D": "It stores fatty acids in adipose tissue",
+        "Answer": "B",
+        "Source": "Acyl-CoA synthetase long-chain family member 1 (ACSL1) is an enzyme located in the outer mitochondrial membranes, responsible for transferring fatty acids to acyl-CoA."
+    },
+    "Question_10": {
+        "Context": "Farnesoid X receptor (FXR) is a nuclear receptor involved in the regulation of bile acid synthesis, lipid metabolism, and glucose homeostasis.",
+        "Question": "What is the role of Farnesoid X receptor (FXR) in lipid metabolism?",
+        "A": "It promotes lipid accumulation in the liver",
+        "B": "It has no role in lipid metabolism",
+        "C": "It regulates bile acid synthesis and protects against hepatic steatosis",
+        "D": "It increases cholesterol synthesis",
+        "Answer": "C",
+        "Source": "Farnesoid X receptor (FXR) is crucial for lipid homegenesis and protects the liver from lipid accumulation and hepatic steatosis."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In materials science, the relationship between microstructure and material properties is crucial for designing materials with desired characteristics. Machine learning methods can be used to analyze and predict these relationships.",
+        "Question": "What is the role of machine learning in the exploration of microstructure-property relationships?",
+        "A": "To manually classify microstructures",
+        "B": "To predict material properties from microstructure data",
+        "C": "To replace experimental methods entirely",
+        "D": "To physically alter microstructures",
+        "Answer": "B",
+        "Source": "Computational methods are increasingly being incorporated into the exploitation of microstructure\u2013property relationships for microstructure-sensitive design of materials."
+    },
+    "Question_2": {
+        "Context": "Interface energy is a critical parameter in phase-field modeling that affects the morphology of a growing phase during solidification processes.",
+        "Question": "Which parameter is considered highly uncertain and impacts the shape of a growing phase in phase-field modeling?",
+        "A": "Temperature",
+        "B": "Pressure",
+        "C": "Interface energy",
+        "D": "Volume",
+        "Answer": "C",
+        "Source": "We specifically study the interface energy space as one of the most uncertain inputs in phase-field modeling and its impact on the shape and contact angle of a growing phase during heterogeneous solidification."
+    },
+    "Question_3": {
+        "Context": "In the context of materials informatics, uncertainty quantification and propagation are important for understanding the reliability of computational models.",
+        "Question": "What is the purpose of studying uncertainty propagation in materials informatics?",
+        "A": "To reduce the cost of materials",
+        "B": "To improve the accuracy of computational models",
+        "C": "To speed up the manufacturing process",
+        "D": "To change the properties of materials",
+        "Answer": "B",
+        "Source": "We evaluate and discuss methods for the study of sensitivity and propagation of uncertainty in these input parameters as reflected on the shape of the intermetallic."
+    },
+    "Question_4": {
+        "Context": "The phase-field method is a computational approach used to simulate the evolution of microstructures in materials.",
+        "Question": "What does the phase-field method simulate in materials science?",
+        "A": "Chemical reactions",
+        "B": "Electrical conductivity",
+        "C": "Evolution of microstructures",
+        "D": "Magnetic properties",
+        "Answer": "C",
+        "Source": "In recent work, we have developed and demonstrated a microstructure design framework involving uncertainty quantification and propagation in phase-field models."
+    },
+    "Question_5": {
+        "Context": "In materials science, the Cahn-Hilliard equation is used to model phase separation in a binary alloy or a binary fluid mixture.",
+        "Question": "What does the Cahn-Hilliard equation model in the context of materials science?",
+        "A": "Phase separation in a binary system",
+        "B": "Thermal expansion of materials",
+        "C": "Electrical resistance changes",
+        "D": "Magnetic phase transitions",
+        "Answer": "A",
+        "Source": "Cahn and Hilliard initially used a logarithmic potential for the free energy of unstable material."
+    },
+    "Question_6": {
+        "Context": "In the study of materials, interface energies are important parameters that can be difficult to determine experimentally or computationally.",
+        "Question": "How can interface energies be experimentally obtained?",
+        "A": "By measuring electrical resistance",
+        "B": "By measuring surface tension",
+        "C": "By conducting tensile tests",
+        "D": "By observing color changes",
+        "Answer": "B",
+        "Source": "Experimentally, it can be obtained by measuring surface tension, and computationally, it can be obtained from first-principles or by semi-empirical methods."
+    },
+    "Question_7": {
+        "Context": "The Young-Laplace equation relates interfacial energies to the contact angle in a three-phase system involving a liquid, a solid, and a secondary solid phase.",
+        "Question": "What does the Young-Laplace equation relate to in a three-phase system?",
+        "A": "Viscosity and flow rate",
+        "B": "Density and buoyancy",
+        "C": "Interfacial energies and contact angle",
+        "D": "Thermal conductivity and temperature gradient",
+        "Answer": "C",
+        "Source": "In equilibrium, the relevant heterogeneous interface free energies are related to each other by the Young-Laplace equation."
+    },
+    "Question_8": {
+        "Context": "The Fourier descriptor is a mathematical tool used to describe the shape of an object in a compact and efficient way.",
+        "Question": "What is the purpose of using Fourier descriptors in the analysis of intermetallic compound shapes?",
+        "A": "To measure the electrical conductivity",
+        "B": "To determine the thermal stability",
+        "C": "To describe the shape in a compact form",
+        "D": "To calculate the melting point",
+        "Answer": "C",
+        "Source": "Since we are interested in the shape of the IMC and wetting characteristics, we use Fourier descriptor analysis to obtain a compact representation of IMC shape."
+    },
+    "Question_9": {
+        "Context": "Global sensitivity analysis is a method used to understand the influence of input parameters on the output of a model.",
+        "Question": "What is the benefit of using global sensitivity analysis in computational materials science?",
+        "A": "To identify the most influential parameters on model output",
+        "B": "To reduce the computational cost of simulations",
+        "C": "To increase the temperature range of simulations",
+        "D": "To simplify the chemical composition of materials",
+        "Answer": "A",
+        "Source": "Global sensitivity analysis can determine which reactions and processes contribute most to the overall response system."
+    },
+    "Question_10": {
+        "Context": "Semi-supervised machine learning methods can utilize both labeled and unlabeled data to improve the learning process.",
+        "Question": "Why are semi-supervised machine learning methods beneficial in materials informatics?",
+        "A": "They require large datasets for training",
+        "B": "They only use labeled data for training",
+        "C": "They can better capture the underlying data distribution",
+        "D": "They focus solely on theoretical models",
+        "Answer": "C",
+        "Source": "The semi-supervised estimators can use this additional unlabeled data to better capture the shape of the underlying data distribution and generalize better to new samples."
+    }
+}

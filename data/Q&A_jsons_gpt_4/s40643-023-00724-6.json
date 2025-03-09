@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Cytidine triphosphate (CTP) is involved in the metabolism of phospholipids, proteins, and nucleic acids, and serves as a precursor for the synthesis of various drugs.",
+        "Question": "What is the direct precursor role of Cytidine triphosphate (CTP)?",
+        "A": "Synthesis of amino acids",
+        "B": "Synthesis of citicoline and other drugs",
+        "C": "Synthesis of carbohydrates",
+        "D": "Synthesis of vitamins",
+        "Answer": "B",
+        "Source": "Cytidine triphosphate (CTP), as a substance involved in the metabolism of phospholipids, proteins and nucleic acids, has precise drug effects and is a direct precursor for the synthesis of drugs such as citicoline."
+    },
+    "Question_2": {
+        "Context": "In enzymatic reactions, the equilibrium constant (Keq) is a crucial factor that determines the direction and extent to which a reaction can proceed.",
+        "Question": "What does a Keq value less than 1 imply about a reaction?",
+        "A": "The reaction tends to generate products spontaneously",
+        "B": "The reaction is at equilibrium with no net change",
+        "C": "The reaction tends to transform reactants rather than generate products",
+        "D": "The reaction proceeds at an exceptionally fast rate",
+        "Answer": "C",
+        "Source": "Conversely, when \u0394G is positive, Keq is less than 1, implying that the reaction tends to transform reactants rather than generate products."
+    },
+    "Question_3": {
+        "Context": "Directed evolution is a method used in protein engineering to modify enzyme activity by creating diverse libraries of mutants and selecting improved variants.",
+        "Question": "What is the primary purpose of using directed evolution in protein engineering?",
+        "A": "To decrease the stability of enzymes",
+        "B": "To create a diverse set of protein structures",
+        "C": "To modify enzyme activity for improved function",
+        "D": "To study the evolutionary history of proteins",
+        "Answer": "C",
+        "Source": "Directed evolution uses natural evolutionary strategies to create diverse libraries of mutants, and then identifies improved progeny from the libraries using appropriate selection methods."
+    },
+    "Question_4": {
+        "Context": "Enzymes can catalyze reactions by reducing the activation energy, but they cannot alter the equilibrium constant (Keq) of the reaction.",
+        "Question": "What remains unchanged by enzymes or their engineered variants in a chemical reaction?",
+        "A": "The reaction rate",
+        "B": "The activation energy",
+        "C": "The equilibrium constant (Keq)",
+        "D": "The reaction spontaneity",
+        "Answer": "C",
+        "Source": "Although enzymes can reduce the activation energy of chemical reactions, neither wild enzymes nor variants obtained through complex engineering can change the equilibrium constant (Keq) of the reaction."
+    },
+    "Question_5": {
+        "Context": "Cytidine deaminase (CDA) is an enzyme that catalyzes the deamination of cytidine to uridine, which is an important step in the metabolism of nucleosides.",
+        "Question": "What is the primary function of cytidine deaminase (CDA) in nucleoside metabolism?",
+        "A": "Phosphorylation of cytidine",
+        "B": "Reduction of cytidine",
+        "C": "Deamination of cytidine",
+        "D": "Amination of uridine",
+        "Answer": "C",
+        "Source": "Several extremophilic microbial-derived deaminases were screened and characterized, and a suitable cytidine deaminase was selected to match the first-stage reaction conditions."
+    },
+    "Question_6": {
+        "Context": "The pyrimidine metabolic pathway is tightly regulated and involves the conversion of nucleotides through various enzymatic reactions.",
+        "Question": "Which enzyme in the pyrimidine metabolic pathway is inhibited by uridine triphosphate (UTP)?",
+        "A": "Cytidine deaminase (CDA)",
+        "B": "Nucleoside kinase (NK)",
+        "C": "Uridine monophosphate kinase (UMPK)",
+        "D": "CTP synthase (CTPS)",
+        "Answer": "C",
+        "Source": "For example, uridine triphosphate (UTP) inhibits uridine monophosphate kinase (UMPK) activity."
+    },
+    "Question_7": {
+        "Context": "In the context of enzymatic reactions, feedback inhibition occurs when the product of an enzyme-catalyzed reaction inhibits the enzyme's activity.",
+        "Question": "Which enzyme's activity is strongly inhibited by its product, CTP, due to similar binding sites for the substrate UTP and the product CTP?",
+        "A": "Cytidine deaminase (CDA)",
+        "B": "Nucleoside kinase (NK)",
+        "C": "Uridine monophosphate kinase (UMPK)",
+        "D": "CTP synthase (CTPS)",
+        "Answer": "D",
+        "Source": "However, for CTPS, its ability to bind the substrate UTP and the product CTP is nearly identical, and thus it is strongly inhibited by the product CTP."
+    },
+    "Question_8": {
+        "Context": "The thermodynamics of chemical reactions is a critical consideration when designing a multi-enzyme cascade system, as it can influence the yield of the target product.",
+        "Question": "What is a potential consequence of having a reversible or thermodynamically unfavorable reaction in a multi-enzyme cascade system?",
+        "A": "Increased yield of the target product",
+        "B": "Decreased activation energy for the reaction",
+        "C": "Prevention of a high yield of the target product",
+        "D": "Enhanced stability of the enzymes involved",
+        "Answer": "C",
+        "Source": "When a reversible or thermodynamically unfavorable reaction exists in the system, it generally prevents a high yield of the target product."
+    },
+    "Question_9": {
+        "Context": "Polyphosphate kinase (PPK) is an enzyme that catalyzes the transfer of a phosphate group from polyphosphate to ADP, regenerating ATP in the process.",
+        "Question": "What is the role of polyphosphate kinase (PPK) in an enzymatic reaction system?",
+        "A": "Hydrolysis of ATP to ADP",
+        "B": "Regeneration of ATP from ADP",
+        "C": "Conversion of UTP to CTP",
+        "D": "Deamination of cytidine",
+        "Answer": "B",
+        "Source": "The enzymes used include cytidine deaminase (CDA), nucleoside kinase (NK), UMPK, nucleoside diphosphate kinase (NDK), CTP synthase (CTPS), and polyphosphate kinase (PPK) for ATP regeneration."
+    },
+    "Question_10": {
+        "Context": "In the synthesis of nucleotides, nucleoside diphosphate kinase (NDK) catalyzes the conversion of nucleoside diphosphates (NDPs) to nucleoside triphosphates (NTPs) using ATP as a phosphate donor.",
+        "Question": "What is the primary function of nucleoside diphosphate kinase (NDK) in nucleotide metabolism?",
+        "A": "Conversion of nucleoside monophosphates (NMPs) to nucleoside diphosphates (NDPs)",
+        "B": "Hydrolysis of nucleoside triphosphates (NTPs) to nucleoside diphosphates (NDPs)",
+        "C": "Conversion of nucleoside diphosphates (NDPs) to nucleoside triphosphates (NTPs)",
+        "D": "Phosphorylation of nucleosides to nucleoside monophosphates (NMPs)",
+        "Answer": "C",
+        "Source": "The enzymes used include cytidine deaminase (CDA), nucleoside kinase (NK), UMPK, nucleoside diphosphate kinase (NDK), CTP synthase (CTPS), and polyphosphate kinase (PPK) for ATP regeneration."
+    }
+}

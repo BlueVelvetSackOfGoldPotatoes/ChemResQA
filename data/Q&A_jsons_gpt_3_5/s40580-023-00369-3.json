@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Epitaxy technology is discussed in the paper as a method for producing high-quality material building blocks. ",
+        "Question": "What is a fundamental limitation of conventional epitaxy mentioned in the paper?",
+        "A": "High production cost",
+        "B": "Limited availability of substrates",
+        "C": "Surface roughness of the grown material",
+        "D": "Lattice matching constraints",
+        "Answer": "D",
+        "Source": "fundamental limitations exist for conventional epitaxy, such as the lattice matching constraints that have greatly narrowed down the choices of available epitaxial material combinations."
+    },
+    "Question_2": {
+        "Context": "The paper discusses various methods for separating high-quality epitaxial layers from growth substrates.",
+        "Question": "Which method uses a sacrificial layer that is selectively etched to obtain a freestanding film?",
+        "A": "Chemical lift-off",
+        "B": "Optical lift-off",
+        "C": "Laser lift-off",
+        "D": "Mechanical lift-off",
+        "Answer": "A",
+        "Source": "Chemical lift-off uses a sacrificial layer inserted between the substrate and the epilayer. The sacrificial layer is removed selectively for obtaining a freestanding film."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the advantages of remote epitaxy for producing high-quality epitaxial films.",
+        "Question": "What is a key advantage of remote epitaxy mentioned in the paper?",
+        "A": "High critical Gibbs free energy",
+        "B": "High supersaturation",
+        "C": "Facile transferability of epitaxial layers",
+        "D": "Random orientation of grown materials",
+        "Answer": "C",
+        "Source": "remote epitaxy, remote interaction helps periodic nucleation on vdW surface, but it is still challenging."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the application of freestanding nanomembranes in flexible electronics.",
+        "Question": "What is a benefit of using freestanding epitaxial films for flexible devices?",
+        "A": "Increased mechanical stress",
+        "B": "Improved thermal conductivity",
+        "C": "Reduced optical transparency",
+        "D": "Enhanced self-heating effect",
+        "Answer": "B",
+        "Source": "For electronic applications, vdW epitaxy and subsequent transfer can be used to improve heat dissipation required by radiofrequency (RF) devices."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the growth of high-quality epitaxial films using van der Waals epitaxy.",
+        "Question": "What type of materials have been explored for remote epitaxy growth according to the paper?",
+        "A": "Non-polar materials",
+        "B": "Complex oxide materials",
+        "C": "Halide-perovskite materials",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Therefore, materials having polarity such as III-V, III-N, complex oxide, and halide-perovskite have been explored."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the advantages of using 2DLT for transferring epitaxial layers.",
+        "Question": "What is a key advantage of using 2DLT for layer transfer?",
+        "A": "Reduction in production cost",
+        "B": "Increased surface roughness",
+        "C": "Enhanced lattice matching constraints",
+        "D": "Improved mechanical durability",
+        "Answer": "A",
+        "Source": "The 2DLT transfer technology together with these growth methods can rapidly release high-quality growth materials and reuse expensive substrates, effectively reducing production costs."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the application of freestanding nanomembranes in optoelectronic devices.",
+        "Question": "What is a benefit of using freestanding epitaxial films for optoelectronic applications?",
+        "A": "Enhanced strain relaxation",
+        "B": "Reduced optical transparency",
+        "C": "Increased dislocation density",
+        "D": "Improved electrical conductivity",
+        "Answer": "A",
+        "Source": "The modulation of the dislocation density in a halide perovskite thin-film was theoretically interpreted by using density functional theory (DFT) and molecular-dynamics (MD) simulations."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the growth of high-quality epitaxial films using remote epitaxy.",
+        "Question": "What is a challenge mentioned in the paper regarding the growth of epitaxial films using remote epitaxy?",
+        "A": "Difficulty in kinetic control of 2D materials",
+        "B": "High supersaturation",
+        "C": "Low critical Gibbs free energy",
+        "D": "Random orientation of grown materials",
+        "Answer": "A",
+        "Source": "In the transfer process, process defects such as wrinkles, holes and residues are always involved. Such defects hinder from having high quality epitaxial layers."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the opportunities presented by compound materials for high-performance devices.",
+        "Question": "What is an opportunity mentioned in the paper for reducing production costs of high-performance devices?",
+        "A": "Increased material cost",
+        "B": "Use of silicon as the dominant material",
+        "C": "Integration of heterogeneous materials",
+        "D": "Limited application range of compound materials",
+        "Answer": "C",
+        "Source": "Moreover, these technologies enable stacking multiple freestanding materials on a single host substrate."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the challenges and opportunities in applying advanced epitaxy technologies.",
+        "Question": "What is a challenge mentioned in the paper regarding the application of 2DLT for transferring epitaxial layers?",
+        "A": "Optimal growth conditions for single crystalline growth",
+        "B": "High critical Gibbs free energy",
+        "C": "Difficulty in kinetic control of 2D materials",
+        "D": "Random orientation of grown materials",
+        "Answer": "A",
+        "Source": "Because of such features, finding optimal growth conditions for single crystalline growth is much more challenging."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Anaerobic digestion is a process that breaks down organic matter in the absence of oxygen, often used for treating various organic wastes including food wastes.",
+        "Question": "What is the main advantage of anaerobic digestion processes for food waste treatment?",
+        "A": "Production of harmful gases",
+        "B": "Economic and environmental advantages",
+        "C": "Increased solid waste production",
+        "D": "High energy consumption",
+        "Answer": "B",
+        "Source": "Across Asia, anaerobic digestion processes are favored for food waste treatment due to their economic and environmental advantages."
+    },
+    "Question_2": {
+        "Context": "Food waste leachate (FWL) is a liquid that is separated from food waste during transportation, treatment, and recycling processes.",
+        "Question": "What is a significant concern regarding the handling of food waste leachate?",
+        "A": "Its low organic matter content",
+        "B": "Its potential use as animal feed",
+        "C": "The generation of a bad odor and high organic matter content",
+        "D": "Its usefulness in composting",
+        "Answer": "C",
+        "Source": "FWLs emit a bad odor and have high organic matter content, which requires a separate treatment."
+    },
+    "Question_3": {
+        "Context": "In the context of food waste treatment, the terms 'Total solids' (TS) and 'Volatile solids' (VS) are used to describe the composition of waste.",
+        "Question": "What do 'Total solids' (TS) and 'Volatile solids' (VS) represent in food waste leachate?",
+        "A": "TS represents the moisture content, and VS represents the inorganic matter",
+        "B": "TS represents the inorganic matter, and VS represents the moisture content",
+        "C": "TS and VS both represent different types of inorganic matter",
+        "D": "TS represents the total amount of solids, and VS represents the amount of combustible solids",
+        "Answer": "D",
+        "Source": "Total solids (TS) and volatile solids (VS) comprise approximately 10% and 8.5% of FWL, respectively. Thus, approximately 85% of FWLs are combustible components."
+    },
+    "Question_4": {
+        "Context": "Biogas production is a method of energy recovery from organic waste, including food waste, through the process of anaerobic digestion.",
+        "Question": "What is one of the main products of the biogasification process?",
+        "A": "Carbon dioxide",
+        "B": "Methane",
+        "C": "Oxygen",
+        "D": "Nitrogen",
+        "Answer": "B",
+        "Source": "This transition not only curbs greenhouse gas emissions but also enhances biogas production, a renewable energy source."
+    },
+    "Question_5": {
+        "Context": "Food waste can have varying characteristics depending on its source and the season.",
+        "Question": "Which components are found to comprise more than half of all food waste according to the physical properties analysis?",
+        "A": "Meat and dairy",
+        "B": "Vegetables and grains",
+        "C": "Fruits and nuts",
+        "D": "Oils and sweets",
+        "Answer": "B",
+        "Source": "The physical properties are as follows, on average: 72.7% water (~ 68.6\u201377.5%), 23.4% combustible powder (~ 20.2\u201328.5%), and 3.9% ash (~ 1.2\u20137.1%). Regarding the ratios of components, vegetables, and grains comprised 32.9% and 25.0%, respectively, accounting for more than half of all food waste."
+    },
+    "Question_6": {
+        "Context": "The concentration of certain substances in food waste can affect its treatment and recycling process.",
+        "Question": "What substance is found in significantly higher concentrations in food waste compared to other organic wastes like sludge and livestock manure?",
+        "A": "Water",
+        "B": "Salt",
+        "C": "Carbon",
+        "D": "Phosphorus",
+        "Answer": "B",
+        "Source": "This corresponds to a range of approximately 0.5\u20132.0% (based on wet matter), which is more than 100 times higher than other organic wastes (e.g., sludge and livestock manure)."
+    },
+    "Question_7": {
+        "Context": "The chemical oxygen demand (COD) is a measure of the amount of oxygen required to oxidize soluble and particulate organic matter in water.",
+        "Question": "What does a high CODcr concentration in food waste leachate indicate?",
+        "A": "Low levels of organic matter",
+        "B": "High levels of inorganic matter",
+        "C": "High levels of organic matter",
+        "D": "Low levels of pollutants",
+        "Answer": "C",
+        "Source": "Furthermore, the extremely high concentration of 145,474 mg/L CODcr and 3452 mg/L T-N burdens the sewage treatment plant, which makes it difficult to comply with the water quality standards for Korea\u2019s final effluents (COD < 40 mg/L, T-N < 20 mg/L)."
+    },
+    "Question_8": {
+        "Context": "The treatment and recycling of food waste can be classified into various methods, each with different environmental impacts.",
+        "Question": "Which food waste treatment method has a lower environmental impact compared to anaerobic digestion or composting processes?",
+        "A": "Landfilling",
+        "B": "Incineration",
+        "C": "Feed production",
+        "D": "Chemical treatment",
+        "Answer": "C",
+        "Source": "Feed production has a lower effect on the environment than anaerobic digestion or composting processes because raw food wastes are recycled with minimal energy input."
+    },
+    "Question_9": {
+        "Context": "Composting is a method of recycling organic matter through controlled aerobic and biological degradation.",
+        "Question": "What is the end product of the composting process?",
+        "A": "Methane gas",
+        "B": "Biogas",
+        "C": "Compost",
+        "D": "Carbon dioxide",
+        "Answer": "C",
+        "Source": "Composting results in compost production through controlled aerobic and biologic degradation of biodegradable materials."
+    },
+    "Question_10": {
+        "Context": "The presence of volatile fatty acids (VFAs) is an important factor in the anaerobic digestion system.",
+        "Question": "What role do volatile fatty acids (VFAs) play in the anaerobic digestion system?",
+        "A": "They are a hindrance factor and observation index",
+        "B": "They increase the pH level of the system",
+        "C": "They are used as a nutrient source for aerobic bacteria",
+        "D": "They decrease the production of biogas",
+        "Answer": "A",
+        "Source": "Titration methods were used to analyze VFAs, one of the hindrance factors and observation index in the anaerobic digestion system."
+    }
+}

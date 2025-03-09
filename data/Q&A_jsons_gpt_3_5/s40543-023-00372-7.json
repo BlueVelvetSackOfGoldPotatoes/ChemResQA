@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses a novel approach for thrombin detection. The method involves allosteric probe-assisted dual signal amplification. The allosteric probe is designed with a hairpin structure and specific functional sections.",
+        "Question": "What is the function of section 'a' in the designed allosteric probe?",
+        "A": "Thrombin aptamer",
+        "B": "Complementary with a sequence",
+        "C": "Nicking site of endonuclease",
+        "D": "Hybridizing with the e and d' section in H probe",
+        "Answer": "A",
+        "Source": "Among them, the a section is thrombin aptamer that can specifically bind with thrombin in samples;"
+    },
+    "Question_2": {
+        "Context": "The paper mentions the use of DNA polymerase and endonuclease in the signal amplification process for thrombin detection.",
+        "Question": "What is the role of DNA polymerase in the signal amplification process?",
+        "A": "Unfolding the allosteric probe to a linear state",
+        "B": "Generating nicking sites on the dsDNA product",
+        "C": "Producing two signal-strand DNA (ssDNA)",
+        "D": "Forming a double-strand DNA (dsDNA) product",
+        "Answer": "C",
+        "Source": "Upon the addition of DNA polymerase, chains are extended with d and e as primers. As a result, a double-strand DNA (dsDNA) product is formed"
+    },
+    "Question_3": {
+        "Context": "The paper discusses the use of AgNCs for fluorescent signal generation in thrombin detection.",
+        "Question": "What is the optimal excitation wavelength for DNA-templated AgNCs?",
+        "A": "565 nm",
+        "B": "630 nm",
+        "C": "590 nm",
+        "D": "530 nm",
+        "Answer": "A",
+        "Source": "the excitation spectra showed a most significant fluorescence respond when DNA-templated AgNCs were excited by light at 565 nm."
+    },
+    "Question_4": {
+        "Context": "The paper describes the preparation of dark silver nanoclusters (AgNCs) for thrombin detection.",
+        "Question": "What is the reducing agent used in the preparation of dark AgNCs?",
+        "A": "AgNO3",
+        "B": "NaBH4",
+        "C": "KF polymerase",
+        "D": "Nt.AIWI endonuclease",
+        "Answer": "B",
+        "Source": "The preparation of the dark AgNCs follows the reaction of NaBH4 based on the reduction of AgNO3."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the optimization of experimental conditions for thrombin detection.",
+        "Question": "What was the optimized concentration of DNA-templated AgNCs for thrombin detection?",
+        "A": "20 pM",
+        "B": "40 pM",
+        "C": "60 pM",
+        "D": "80 pM",
+        "Answer": "B",
+        "Source": "the optimized concentration of DNA-templated AgNCs was 40 pM."
+    },
+    "Question_6": {
+        "Context": "The paper presents the analytical performance of the thrombin detection approach.",
+        "Question": "What was the limit of detection (LOD) for thrombin detection in the established approach?",
+        "A": "5 pM",
+        "B": "10 pM",
+        "C": "2.3 pM",
+        "D": "1 pM",
+        "Answer": "C",
+        "Source": "The LOD was estimated to be 2.3 pM based on the 3\u03c3 standard rule."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the selectivity of the approach for thrombin detection.",
+        "Question": "How did the approach perform when detecting interferents like IgG, CEA, CRP, and lecithin?",
+        "A": "Significant fluorescence signal increase",
+        "B": "No significant fluorescence signal increase",
+        "C": "Decreased fluorescence signal",
+        "D": "Fluorescence signal decrease",
+        "Answer": "B",
+        "Source": "no significant fluorescence signal increasements were obtained when detecting the interferents, indicating a favorable selectivity of the approach."
+    },
+    "Question_8": {
+        "Context": "The paper describes the application of the approach in detecting thrombin levels in serum samples.",
+        "Question": "What was the effect of nalbuphine treatment on the level of thrombin in serum samples?",
+        "A": "Up-regulated thrombin levels",
+        "B": "Down-regulated thrombin levels",
+        "C": "No significant change in thrombin levels",
+        "D": "Decreased sensitivity to thrombin",
+        "Answer": "C",
+        "Source": "The result showed that thrombin was not up-regulated in nalbuphine-treated group"
+    },
+    "Question_9": {
+        "Context": "The paper discusses the clinical application of the approach in studying the effect of nalbuphine on coagulation function.",
+        "Question": "What was the relative expression level of thrombin in nalbuphine-treated serum samples compared to untreated samples?",
+        "A": "Higher in nalbuphine-treated samples",
+        "B": "Lower in nalbuphine-treated samples",
+        "C": "Equal in both groups",
+        "D": "Not mentioned in the text",
+        "Answer": "C",
+        "Source": "relative expression level was calculated by comparing calculated thrombin concentration with the control."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the comparison of the established approach with other thrombin detection methods.",
+        "Question": "What advantage does the method possess compared to former established thrombin detection approaches?",
+        "A": "Higher cost",
+        "B": "Lower sensitivity",
+        "C": "Low LOD and label-free signal output",
+        "D": "Increased experimental complexity",
+        "Answer": "C",
+        "Source": "Compared with former established thrombin detection approaches, the method exhibited a low LOD and possessed the capability to output signals in a label-free manner."
+    }
+}

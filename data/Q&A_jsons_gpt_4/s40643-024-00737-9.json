@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Amyloid fibrils are protein structures that can be derived from various sources and have applications in adsorbing pollutants from wastewater.",
+        "Question": "What type of structure do amyloid fibrils exhibit?",
+        "A": "Helical",
+        "B": "Cross-\u03b2",
+        "C": "Alpha-helix",
+        "D": "Random coil",
+        "Answer": "B",
+        "Source": "Amyloid fibrils are highly ordered \u03b2-sheet-rich proteins with characteristic cross-\u03b2 conformations that could be produced by the fluttering of various types of proteins."
+    },
+    "Question_2": {
+        "Context": "Proteins contain functional groups from different amino acids, which can interact with various substances, including pollutants.",
+        "Question": "Which functional groups in proteins are effective in binding toxic heavy metal ions and organic dyes in water?",
+        "A": "Hydroxyl groups",
+        "B": "Carboxyl groups",
+        "C": "Amino acid groups",
+        "D": "Phosphate groups",
+        "Answer": "C",
+        "Source": "Amino acid groups on protein surface can effectively bind toxic heavy metal ions, organic dyes and other contaminants in water."
+    },
+    "Question_3": {
+        "Context": "The adsorption capacity of a material is an important parameter in wastewater treatment, indicating the amount of pollutant it can adsorb.",
+        "Question": "What is the adsorption capacity of wheat flour-derived amyloid fibrils towards Congo red (CR)?",
+        "A": "333 mg/g",
+        "B": "138 mg/g",
+        "C": "79.5 mg/g",
+        "D": "500 mg/g",
+        "Answer": "A",
+        "Source": "The adsorption also followed a Langmuir isothermal model with adsorption capacities of 333 mg/g and 138 mg/g towards CR and EY, respectively."
+    },
+    "Question_4": {
+        "Context": "The adsorption process can be described by kinetic models which help in understanding the rate at which adsorption occurs.",
+        "Question": "Which kinetic model best fits the adsorption process of organic dyes by wheat flour amyloid fibrils?",
+        "A": "Pseudo-first-order model",
+        "B": "Pseudo-second-order model",
+        "C": "Langmuir model",
+        "D": "Freundlich model",
+        "Answer": "B",
+        "Source": "Adsorption kinetic analysis indicated the adsorption process to EY or CR by wheat flour amyloid well fitted with a pseudo-second-order model."
+    },
+    "Question_5": {
+        "Context": "The Langmuir isotherm model is used to describe adsorption processes and assumes a monolayer adsorption on a homogeneous surface.",
+        "Question": "According to the Langmuir isothermal model, what is the adsorption capacity of wheat flour-derived amyloid fibrils towards Eosin Y (EY)?",
+        "A": "333 mg/g",
+        "B": "138 mg/g",
+        "C": "79.5 mg/g",
+        "D": "500 mg/g",
+        "Answer": "B",
+        "Source": "The adsorption also followed a Langmuir isothermal model with adsorption capacities of 333 mg/g and 138 mg/g towards CR and EY, respectively."
+    },
+    "Question_6": {
+        "Context": "The presence of metal ions in solutions can affect the adsorption efficiency of materials designed to remove dyes from wastewater.",
+        "Question": "How do co-existing metal ions affect the adsorption efficiency of amyloid fibrils for organic dyes?",
+        "A": "Significantly increase the adsorption efficiency",
+        "B": "Significantly decrease the adsorption efficiency",
+        "C": "Do not significantly affect the adsorption efficiency",
+        "D": "Only affect the adsorption efficiency at high temperatures",
+        "Answer": "C",
+        "Source": "The results showed that when 0.1 M Na+, Ca2+, Mg2+ and Cu2+ were added to CR containing 100 mg/L, there was no significant change in the adsorption capacity of CR, indicating that co-existing ions did not significantly affect the adsorption efficiency of dyes by amyloid fibrils."
+    },
+    "Question_7": {
+        "Context": "Amyloid fibrils can be stained with specific dyes to confirm their formation due to the binding affinity of the dye to the fibril structure.",
+        "Question": "Which dye is selectively bound to amyloid fibrils for confirmation of their formation?",
+        "A": "Congo red",
+        "B": "Eosin Y",
+        "C": "Thioflavin T",
+        "D": "Methylene blue",
+        "Answer": "C",
+        "Source": "As ThT dyes can selectively bind to amyloid fibrils, the amyloid products prepared from wheat flour were stained with ThT and characterized by CLSM."
+    },
+    "Question_8": {
+        "Context": "Fourier transform infrared spectroscopy (FTIR) is a technique used to obtain the infrared spectrum of absorption or emission of a solid, liquid or gas.",
+        "Question": "What change in the FTIR spectrum indicates the transition from random coiled polypeptides to \u03b2-sheet-rich amyloid fibrils?",
+        "A": "Peak shift of amide I from a higher to a lower wavenumber",
+        "B": "Peak shift of amide II from a higher to a lower wavenumber",
+        "C": "Peak shift of amide I from a lower to a higher wavenumber",
+        "D": "Peak shift of amide II from a lower to a higher wavenumber",
+        "Answer": "A",
+        "Source": "Interestingly, an obvious peak shift of amide I was observed (shifted from 1634 cm\u22121 to a lower wavenumber of 1624 cm\u22121), indicating the structural transition in solution from random coiled polypeptides to \u03b2-sheet-rich amyloid fibrils."
+    },
+    "Question_9": {
+        "Context": "The ability to regenerate and reuse adsorbent materials is crucial for sustainable wastewater treatment.",
+        "Question": "How does the removal efficiency of wheat flour-derived amyloid fibrils change after multiple reuse cycles for organic dye adsorption?",
+        "A": "Increases significantly",
+        "B": "Decreases significantly",
+        "C": "Does not change significantly",
+        "D": "Becomes inconsistent",
+        "Answer": "C",
+        "Source": "It was shown that the removal efficiency of amyloid fibrils also reached over 90% after 3 continuous reuse cycles, indicating the amyloid fibrils could be regenerated for application."
+    },
+    "Question_10": {
+        "Context": "The Freundlich isotherm model is an empirical equation used to describe heterogeneous systems and adsorption on surfaces with sites of varied affinities.",
+        "Question": "Which isotherm model did not fit well with the adsorption of organic dyes by wheat flour-derived amyloid fibrils?",
+        "A": "Langmuir model",
+        "B": "Freundlich model",
+        "C": "Pseudo-first-order model",
+        "D": "Pseudo-second-order model",
+        "Answer": "B",
+        "Source": "For CR, the R2 value of Langmuir fitting (0.999) was much higher than that of the R2 (0.671) from Freundlich fitting, indicating CR adsorption on amyloid fibrils fitted well with the Langmuir isotherm model."
+    }
+}

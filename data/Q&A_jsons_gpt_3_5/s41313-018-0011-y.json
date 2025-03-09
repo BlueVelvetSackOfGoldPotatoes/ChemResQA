@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the growth of precipitates in a supersaturated matrix. It mentions the Stefan condition and the concentration of solute at the interface as important boundary conditions.",
+        "Question": "What is the Stefan condition in the context of precipitate growth?",
+        "A": "Ensuring the velocity of the boundary is equal to the velocity imposed by the flux of atoms.",
+        "B": "Imposing the concentration of solute at the interface based on local equilibrium assumption.",
+        "C": "Setting the size of the precipitate and the matrix solute concentration gradient at the interface.",
+        "D": "Determining the number of moles of atoms condensing onto the precipitate.",
+        "Answer": "A",
+        "Source": "The first one is the Stefan condition, which ensures that the velocity of the boundary is equal to the velocity imposed by the flux of atoms coming from the matrix."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the challenges in obtaining closed analytical solutions for multicomponent growth of precipitates.",
+        "Question": "Why is it difficult to obtain a closed analytical solution for multicomponent precipitates?",
+        "A": "Due to the assumption of local equilibrium at the interface.",
+        "B": "Because of the constraints at the interface when considering multiple components.",
+        "C": "The lack of appropriate boundary conditions for multicomponent systems.",
+        "D": "The complexity introduced by the Stefan condition.",
+        "Answer": "B",
+        "Source": "The reason why it is difficult to obtain a closed analytical solution for multicomponent precipitates when one assumes local equilibrium at the interface is because there are too many constraints at the interface."
+    },
+    "Question_3": {
+        "Context": "The paper introduces a mathematical model for the growth of multicomponent ellipsoidal precipitates.",
+        "Question": "What is the driving force for boundary migration in the context of precipitate growth?",
+        "A": "The increase in surface free energy as the volume of the precipitate increases.",
+        "B": "The concentration gradient of solute at the interface.",
+        "C": "The velocity of the boundary controlled by the Stefan condition.",
+        "D": "The molar fraction of elements in the precipitate.",
+        "Answer": "A",
+        "Source": "The term containing \u03b33 accounts for the increase in surface free energy when the volume of the precipitate increases. This is known as the Gibbs-Thomson effect."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the role of the interfacial mobility in the early stage of precipitate growth.",
+        "Question": "What does the interfacial mobility depend on?",
+        "A": "The size of the precipitate.",
+        "B": "The number of moles of atoms captured by the precipitate.",
+        "C": "The temperature and activation energy for interface migration.",
+        "D": "The equilibrium concentrations of solutes in the matrix.",
+        "Answer": "C",
+        "Source": "But the interfacial mobility cannot be infinite since it is a function of temperature and can be expressed as..."
+    },
+    "Question_5": {
+        "Context": "The paper compares an exact analytical solution with a diffusion-controlled simulation software.",
+        "Question": "What is a limitation of the diffusion-controlled simulation software DICTRA?",
+        "A": "It assumes local equilibrium at the interface.",
+        "B": "It cannot simulate the growth of needle-like precipitates.",
+        "C": "It requires setting starting values for the simulation.",
+        "D": "It does not consider the interfacial mobility in the boundary conditions.",
+        "Answer": "A",
+        "Source": "The main assumption used by DICTRA is that equilibrium is achieved at the interface, which means that the concentrations on both sides of the interface are ruled by the phase diagram. This assumption is called local equilibrium."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the application of the mixed-mode growth model to simulate the growth of a needle-shaped precipitate.",
+        "Question": "What are the key variables that govern the solute concentrations at the interface in the early stages of growth?",
+        "A": "The equilibrium concentrations and the Stefan condition.",
+        "B": "The size of the precipitate and the matrix solute concentration gradient.",
+        "C": "The interfacial mobility and the full equilibrium concentrations.",
+        "D": "The coefficients of diffusion and the nominal composition.",
+        "Answer": "C",
+        "Source": "The variables having a significant effect are the full equilibrium concentrations, the nominal composition and the coefficients of diffusion."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the comparison between the mixed-mode model and the diffusion-controlled simulation software DICTRA.",
+        "Question": "What is the driving force for the quasi-stationary growth of a precipitate in an infinite system?",
+        "A": "The concentration gradient of solute at the interface.",
+        "B": "The increase in surface free energy as the volume of the precipitate increases.",
+        "C": "The interfacial mobility and the molar volume of the precipitate.",
+        "D": "The equilibrium concentrations and the nominal composition.",
+        "Answer": "B",
+        "Source": "The term containing \u03b33 accounts for the increase in surface free energy when the volume of the precipitate increases. This is known as the Gibbs-Thomson effect."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the challenges in obtaining closed analytical solutions for multicomponent growth of precipitates.",
+        "Question": "What is the main limitation of the Zener stationary approximate solution?",
+        "A": "It ignores the term \u2202c/\u2202t in the mass conservation equation.",
+        "B": "It assumes local equilibrium at the interface.",
+        "C": "It does not consider the growth of precipitates in a supersaturated matrix.",
+        "D": "It does not account for the Stefan condition in the boundary conditions.",
+        "Answer": "A",
+        "Source": "This is the same limitation which applies with the popular Zener stationary approximate solution. However, the mixed-mode growth solution takes into account the moving boundary problem under the assumption of a quasi-stationary growth, unlike the Zener stationary approximate solution, which ignores completely the term \u2202c/\u2202t in the mass conservation equation."
+    },
+    "Question_9": {
+        "Context": "The paper introduces a mathematical model for the growth of multicomponent ellipsoidal precipitates.",
+        "Question": "What is the role of the Stefan condition in the context of precipitate growth?",
+        "A": "Setting the size of the precipitate and the matrix solute concentration gradient at the interface.",
+        "B": "Ensuring the velocity of the boundary is equal to the velocity imposed by the flux of atoms.",
+        "C": "Determining the number of moles of atoms condensing onto the precipitate.",
+        "D": "Imposing the concentration of solute at the interface based on local equilibrium assumption.",
+        "Answer": "B",
+        "Source": "The first one is the Stefan condition, which ensures that the velocity of the boundary is equal to the velocity imposed by the flux of atoms coming from the matrix."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the challenges in obtaining closed analytical solutions for multicomponent growth of precipitates.",
+        "Question": "Why is it difficult to obtain a closed analytical solution for multicomponent precipitates?",
+        "A": "Due to the assumption of local equilibrium at the interface.",
+        "B": "Because of the constraints at the interface when considering multiple components.",
+        "C": "The lack of appropriate boundary conditions for multicomponent systems.",
+        "D": "The complexity introduced by the Stefan condition.",
+        "Answer": "B",
+        "Source": "The reason why it is difficult to obtain a closed analytical solution for multicomponent precipitates when one assumes local equilibrium at the interface is because there are too many constraints at the interface."
+    }
+}

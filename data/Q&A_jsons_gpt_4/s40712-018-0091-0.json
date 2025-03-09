@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of materials science, ductility is a measure of a material's ability to undergo significant plastic deformation before rupture. It is often characterized by the material's ability to be stretched into a wire.",
+        "Question": "What is ductility in the context of materials science?",
+        "A": "The ability of a material to return to its original shape after deformation",
+        "B": "The ability of a material to undergo significant plastic deformation before rupture",
+        "C": "The ability of a material to absorb energy and plastically deform without fracturing",
+        "D": "The ability of a material to crack under stress",
+        "Answer": "B",
+        "Source": "Measurement of the ductility like elongation and reduction of area of the fine metal wire is important because of the progress for the weight reduction and miniaturization of various products."
+    },
+    "Question_2": {
+        "Context": "Tensile testing is a method used to determine the behavior of materials under axial stretching loads. This test is crucial for understanding the tensile strength and ductility of materials.",
+        "Question": "What is the purpose of tensile testing in materials science?",
+        "A": "To determine the compressive strength of materials",
+        "B": "To determine the behavior of materials under axial stretching loads",
+        "C": "To determine the thermal conductivity of materials",
+        "D": "To determine the electrical resistance of materials",
+        "Answer": "B",
+        "Source": "Tensile and loading-unloading tests were performed with applying initial load to high-carbon steel wire (diameters of 0.06\u20130.296 mm) through capstan-type grippers for non-metal fiber."
+    },
+    "Question_3": {
+        "Context": "The elongation of a material is a measure of how much it can be stretched before it breaks. It is a key indicator of ductility.",
+        "Question": "What does elongation measure in the context of a material's properties?",
+        "A": "The distance it can be stretched before it breaks",
+        "B": "The change in volume under stress",
+        "C": "The change in temperature under stress",
+        "D": "The amount of light it can absorb",
+        "Answer": "A",
+        "Source": "In general, the elongation is measured from the extension of a wire."
+    },
+    "Question_4": {
+        "Context": "The reduction of area is a measure used in materials science to quantify the extent of plastic deformation a material has undergone during tensile testing.",
+        "Question": "What does the reduction of area quantify in tensile testing?",
+        "A": "The change in length of the material",
+        "B": "The change in volume of the material",
+        "C": "The extent of plastic deformation the material has undergone",
+        "D": "The change in the material's temperature",
+        "Answer": "C",
+        "Source": "The reduction of area is calculated from the diameter of a wire prior to tensile testing, and the diameter at the most constricted point after tensile testing is complete."
+    },
+    "Question_5": {
+        "Context": "In materials science, the term 'uniform elongation' refers to the consistent stretching of a material along its length, without localized necking or deformation.",
+        "Question": "What is 'uniform elongation' in the context of tensile testing?",
+        "A": "The stretching of a material at its most constricted point",
+        "B": "The consistent stretching of a material along its length",
+        "C": "The total elongation of a material until it breaks",
+        "D": "The recovery of a material to its original length after stress",
+        "Answer": "B",
+        "Source": "The wire fastened with the grippers was separated into three parts: the fastened part, the contact part, and the non-contact part."
+    },
+    "Question_6": {
+        "Context": "Scanning electron microscopy (SEM) is a type of electron microscope that produces images of a sample by scanning it with a focused beam of electrons. It is used to observe the microstructure and surface characteristics of materials.",
+        "Question": "What is the role of scanning electron microscopy (SEM) in materials science?",
+        "A": "To measure the electrical resistance of materials",
+        "B": "To observe the microstructure and surface characteristics of materials",
+        "C": "To determine the thermal conductivity of materials",
+        "D": "To measure the tensile strength of materials",
+        "Answer": "B",
+        "Source": "Scanning electron microscope (SEM) images were used to measure the wire radius under uniform deformation and agreed well with the radius calculated using the radius before tensile testing and uniform elongation."
+    },
+    "Question_7": {
+        "Context": "In materials testing, the term 'stroke' refers to the movement of the cross-head in a tensile testing machine, which is used to apply the tensile load to the specimen.",
+        "Question": "What does the term 'stroke' refer to in tensile testing?",
+        "A": "The length of the specimen",
+        "B": "The width of the specimen",
+        "C": "The movement of the cross-head in a tensile testing machine",
+        "D": "The diameter of the specimen",
+        "Answer": "C",
+        "Source": "Thus, uniform elongations were calculated as the ratio of the stroke at 0 N subtracted from the stroke at maximum tensile load to the additional initial chuck distance and the stroke at 0 N."
+    },
+    "Question_8": {
+        "Context": "The term 'nominal stress' in materials science refers to the applied load divided by the original cross-sectional area of a specimen. It is used in the analysis of tensile tests.",
+        "Question": "What is 'nominal stress' in the context of tensile testing?",
+        "A": "The stress a material can withstand without any deformation",
+        "B": "The maximum stress a material can withstand before breaking",
+        "C": "The applied load divided by the deformed cross-sectional area",
+        "D": "The applied load divided by the original cross-sectional area",
+        "Answer": "D",
+        "Source": "If the validity of using capstan-type grippers and regarding the stroke increment as the wire extension are verified, it is possible to draw the nominal stress-nominal strain curve and calculate elongation."
+    },
+    "Question_9": {
+        "Context": "In materials science, the term 'nominal strain' refers to the ratio of the change in length to the original length of a specimen under tensile testing.",
+        "Question": "What does 'nominal strain' refer to in tensile testing?",
+        "A": "The ratio of the change in volume to the original volume",
+        "B": "The ratio of the change in length to the deformed length",
+        "C": "The ratio of the change in length to the original length",
+        "D": "The ratio of the change in cross-sectional area to the original area",
+        "Answer": "C",
+        "Source": "If the validity of using capstan-type grippers and regarding the stroke increment as the wire extension are verified, it is possible to draw the nominal stress-nominal strain curve and calculate elongation."
+    },
+    "Question_10": {
+        "Context": "The term 'extensometer' refers to a device that measures the change in length of a specimen under tensile testing. It is used to determine the elongation and strain of materials.",
+        "Question": "What is an 'extensometer' used for in tensile testing?",
+        "A": "To measure the change in temperature of the specimen",
+        "B": "To measure the change in length of the specimen",
+        "C": "To measure the change in cross-sectional area of the specimen",
+        "D": "To measure the electrical resistance of the specimen",
+        "Answer": "B",
+        "Source": "The extension is measured by an extensometer, not by the stroke increment of a cross-head."
+    }
+}

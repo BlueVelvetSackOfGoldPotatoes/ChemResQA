@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of biomechanics, understanding the mechanical properties of heart tissue is crucial for developing computational models that can assist in the study of heart diseases and the creation of therapies.",
+        "Question": "What is the significance of mechanical characterisation in the study of heart tissue?",
+        "A": "It helps in achieving accurate material behaviour for computational models.",
+        "B": "It is only necessary for the development of medical devices.",
+        "C": "It is used to change the genetic composition of heart tissues.",
+        "D": "It is irrelevant to the study of heart diseases.",
+        "Answer": "A",
+        "Source": "Mechanical characterisation plays an important role in achieving accurate material behaviour. Material behaviour and constitutive modelling are essential for accurate development of computational models."
+    },
+    "Question_2": {
+        "Context": "The mechanical properties of heart tissue are often studied to understand how the heart functions under different conditions and to develop treatments for heart diseases.",
+        "Question": "Which mechanical property of heart myocardium has been commonly assumed in the development of computational models?",
+        "A": "The heart myocardium is assumed to be heterogeneous.",
+        "B": "The heart myocardium is assumed to be isotropic.",
+        "C": "The heart myocardium is assumed to be homogeneous.",
+        "D": "The heart myocardium is assumed to be elastic.",
+        "Answer": "C",
+        "Source": "In most cases previously, the mechanical properties of the heart myocardium were assumed to be homogeneous."
+    },
+    "Question_3": {
+        "Context": "Biaxial testing is a method used to characterise the mechanical behaviour of materials by applying loads in two perpendicular directions.",
+        "Question": "What type of mechanical behaviour has biaxial testing shown in pig heart myocardium?",
+        "A": "Linear and homogeneous",
+        "B": "Non-linear, heterogeneous, and anisotropic",
+        "C": "Elastic and isotropic",
+        "D": "Plastic and uniform",
+        "Answer": "B",
+        "Source": "The biaxial tests show the pig heart myocardium behaves non-linearly, heterogeneously and anisotropically."
+    },
+    "Question_4": {
+        "Context": "Constitutive models are mathematical descriptions that characterise the material behaviour of tissues under mechanical loads.",
+        "Question": "Which constitutive models were used to determine material parameters in various myocardia regions?",
+        "A": "Fung and Choi-Vito constitutive models",
+        "B": "Newtonian and Non-Newtonian fluid models",
+        "C": "Hookean and Kelvin-Voigt models",
+        "D": "Maxwell and Standard Linear Solid models",
+        "Answer": "A",
+        "Source": "The biaxial test data was utilised to generated Fung constitutive model material parameters of specific region of the pig myocardium. Also, Choi-Vito constitutive model material parameters were also determined in various myocardia regions."
+    },
+    "Question_5": {
+        "Context": "Anisotropy in materials science refers to the directional dependence of a material's properties.",
+        "Question": "What does the anisotropic behaviour of pig heart myocardium indicate?",
+        "A": "The myocardium properties are independent of direction.",
+        "B": "The myocardium properties are the same in all directions.",
+        "C": "The myocardium properties vary with direction.",
+        "D": "The myocardium cannot withstand mechanical loads.",
+        "Answer": "C",
+        "Source": "The biaxial tests show the pig heart myocardium behaves non-linearly, heterogeneously and anisotropically."
+    },
+    "Question_6": {
+        "Context": "In the study of heart mechanics, the left ventricle, mid-wall/interventricular septum, and right ventricle are regions of interest due to their distinct roles in heart function.",
+        "Question": "What was the main objective in the mechanical study of the porcine myocardium?",
+        "A": "To determine the biochemical composition of the myocardium.",
+        "B": "To determine the mechanical material properties of healthy porcine myocardium in three regions: LV, MDW, and RV.",
+        "C": "To compare the electrical conductivity of different heart regions.",
+        "D": "To understand the genetic differences between heart regions.",
+        "Answer": "B",
+        "Source": "Hence, the main objective of this paper is to determine the mechanical material properties of healthy porcine myocardium in three regions, namely left ventricle (LV), mid-wall/interventricular septum (MDW) and right ventricle (RV)."
+    },
+    "Question_7": {
+        "Context": "The mechanical properties of the heart's myocardium are important for understanding its function and for developing computational models of the heart.",
+        "Question": "Which statement is true regarding the mechanical properties of the heart's myocardium?",
+        "A": "The mechanical properties are assumed to be different between adult and neonatal porcine ventricles.",
+        "B": "The mechanical properties of the heart's myocardium are consistent across all species.",
+        "C": "The mechanical properties of the heart's myocardium are not important for computational models.",
+        "D": "The mechanical properties of the heart's myocardium are only relevant in human hearts.",
+        "Answer": "A",
+        "Source": "It has been clearly demonstrated that the mechanical properties of adult ventricles are different from neonatal porcine ventricles."
+    },
+    "Question_8": {
+        "Context": "The Fung constitutive model is a mathematical model used to describe the mechanical behaviour of biological tissues.",
+        "Question": "What does the parameter 'c' in the Fung constitutive model represent?",
+        "A": "The stiffness of the material.",
+        "B": "The anisotropy of the material.",
+        "C": "The homogeneity of the material.",
+        "D": "The elasticity of the material.",
+        "Answer": "A",
+        "Source": "In essence the main function c is to scale stresses."
+    },
+    "Question_9": {
+        "Context": "The Choi-Vito constitutive model is another mathematical model used to describe the mechanical behaviour of biological tissues, similar to the Fung model.",
+        "Question": "What is the advantage of the Choi-Vito model over the Fung model?",
+        "A": "It has fewer parameters to determine.",
+        "B": "It has three separate exponentials responsible for different fibre directions.",
+        "C": "It is only applicable to cardiac tissues.",
+        "D": "It is a simpler model with less accuracy.",
+        "Answer": "B",
+        "Source": "The advantage of the Choi-Vito model is that it has three separate exponentials responsible for different fibre directions."
+    },
+    "Question_10": {
+        "Context": "In biomechanical studies, the anisotropy of a material is a measure of how directional properties differ within the material.",
+        "Question": "How is anisotropy calculated in the context of the Fung constitutive model for heart tissue?",
+        "A": "By taking the ratio of the stiffness constants in different directions.",
+        "B": "By measuring the electrical resistance in different directions.",
+        "C": "By comparing the thermal conductivity in different directions.",
+        "D": "By observing the color change under mechanical stress.",
+        "Answer": "A",
+        "Source": "Anisotropy A \u00f0 \u00de \u00bc min b1 \u00fe b3 b2 \u00fe b3 \ufffd \ufffd ; b2 \u00fe b3 b1 \u00fe b3 \ufffd \ufffd \ufffd \ufffd \u00f012\u00de"
+    }
+}

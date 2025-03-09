@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effects of different encapsulation layers on the characteristics of LIG-based pressure sensors. The fabrication process involved using various elastomers as encapsulation layers.",
+        "Question": "What was the purpose of using Si-elastomer encapsulation layers in LIG-based pressure sensors?",
+        "A": "To increase the brittleness of fabricated LIG",
+        "B": "To decrease the resistance changes in the sensors",
+        "C": "To enhance the durability of LIG against mechanical pressure",
+        "D": "To reduce the response time of the sensors",
+        "Answer": "C",
+        "Source": "To address this durability issue, current research on LIG-based pressure sensors uses encapsulation layers. By pouring a liquid elastomer onto the LIG and subsequently applying a curing process, the elastomer can create a uniform and compact coating on the LIG, similar to a composite structure. This coating significantly enhanced the durability of LIG against mechanical pressure because the elastomer supported the LIG against mechanical pressure."
+    },
+    "Question_2": {
+        "Context": "The study focused on the electromechanical characteristics of LIG-based pressure sensors encapsulated in various Si-based elastomers.",
+        "Question": "What was the effect of encapsulation layers with a lower Young\u2019s modulus on the resistance changes and response times of the sensors?",
+        "A": "Decreased resistance changes and shorter response times",
+        "B": "Increased resistance changes and shorter response times",
+        "C": "Decreased resistance changes and extended response times",
+        "D": "Increased resistance changes and extended response times",
+        "Answer": "D",
+        "Source": "Subsequently, the electromechanical responses of the sensors were characterized using an automated pressure machine, demonstrating that sensors with encapsulation layers with a lower Young\u2019s modulus exhibited increased resistance changes and extended response times."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the environmental stability of pressure sensors with various encapsulation materials.",
+        "Question": "What was the outcome of the environmental stability tests on the pressure sensors?",
+        "A": "Significant resistance changes were observed after exposure to high temperatures.",
+        "B": "Negligible performance variations were confirmed after exposure to high temperatures.",
+        "C": "The sensors exhibited decreased sensitivity after exposure to high temperatures.",
+        "D": "The sensors showed improved durability after exposure to high temperatures.",
+        "Answer": "B",
+        "Source": "Despite being continuously exposed to the 85 \u2103 environment for 48 h, no significant resistance change was confirmed. Some minor fluctuations were observed in the data; however, these were believed to be the result of noise from the surrounding environment."
+    },
+    "Question_4": {
+        "Context": "The study conducted a comprehensive electromechanical characterization of pressure sensors with different encapsulation layers.",
+        "Question": "What was the purpose of fabricating various LIG-based pressure sensors with different elastomer encapsulation layers?",
+        "A": "To compare the weight of the sensors",
+        "B": "To evaluate the performance in terms of electrical-resistance response",
+        "C": "To measure the temperature sensitivity of the sensors",
+        "D": "To assess the color variations of the sensors",
+        "Answer": "B",
+        "Source": "Using this method, various LIG-based pressure sensors with different elastomer encapsulation layers are fabricated. Subsequently, we conduct a comprehensive electromechanical characterization of these pressure sensors using an automated pressure machine to evaluate their performance in terms of electrical-resistance response, response time, long-term reliability, and stability."
+    },
+    "Question_5": {
+        "Context": "The study investigated the response times of pressure sensors with different encapsulation materials.",
+        "Question": "How did the response time of pressure sensors encapsulated with PDMS 5:1 compare to those encapsulated with PDMS 10:1, PDMS 20:1, and Ecoflex 1:1?",
+        "A": "PDMS 5:1 exhibited the longest response time",
+        "B": "PDMS 5:1 exhibited the shortest response time",
+        "C": "PDMS 5:1 and PDMS 10:1 had similar response times",
+        "D": "PDMS 5:1 and Ecoflex 1:1 had similar response times",
+        "Answer": "B",
+        "Source": "This test confirmed that the PDMS 5:1 encapsulation material exhibited a rapid response. Specifically, at 100 kPa, the measured response times were 505 ms, 746 ms, 811 ms, and 861 ms for the devices encapsulated with PDMS 5:1, PDMS 10:1, PDMS 20:1, and Ecoflex 1:1, respectively."
+    },
+    "Question_6": {
+        "Context": "The study evaluated the mechanical stability of pressure sensors with different encapsulation layers.",
+        "Question": "What was observed in the resistance changes of devices fabricated with Ecoflex and PDMS 20:1 during the repeatability test?",
+        "A": "Resistance changes increased consistently",
+        "B": "Resistance changes decreased initially but stabilized after 1000 cycles",
+        "C": "Resistance changes remained constant throughout the test",
+        "D": "Resistance changes fluctuated significantly",
+        "Answer": "B",
+        "Source": "Initially, the devices fabricated with Ecoflex and PDMS 20:1 exhibited sensitivities that were 5.3 times higher than those of devices fabricated with PDMS 5:1 and 10:1. These results can be interpreted as the result of the high applied strain owing to the low Young\u2019s modulus. However, the resistance changes of the devices were saturated, and even after applying pressure more than 3000 times during the cyclic test, an inconspicuous degradation in the sensor performance was confirmed in all sensors."
+    },
+    "Question_7": {
+        "Context": "The study conducted accelerated-degradation tests on pressure sensors with different encapsulation materials.",
+        "Question": "What was the outcome of the accelerated-degradation tests on the resistance changes of the pressure sensors?",
+        "A": "Significant degradation in resistance changes was observed after exposure to high temperatures",
+        "B": "No significant degradation in resistance changes was observed after exposure to high temperatures",
+        "C": "Resistance changes increased consistently after exposure to high temperatures",
+        "D": "Resistance changes fluctuated randomly after exposure to high temperatures",
+        "Answer": "B",
+        "Source": "Despite being continuously exposed to the 85 \u2103 environment for 48 h, no significant resistance change was confirmed. Some minor fluctuations were observed in the data; however, these were believed to be the result of noise from the surrounding environment."
+    },
+    "Question_8": {
+        "Context": "The study focused on the effects of different encapsulation layers on the characteristics of LIG-based pressure sensors.",
+        "Question": "What was the purpose of conducting tensile tests on the dog-bone model structures of different elastomers?",
+        "A": "To measure the electrical resistance of the sensors",
+        "B": "To evaluate the mechanical properties and Young\u2019s moduli of the elastomers",
+        "C": "To assess the response time of the sensors",
+        "D": "To compare the weight of the sensors",
+        "Answer": "B",
+        "Source": "To confirm the Young\u2019s moduli of the encapsulation-layer materials, we fabricated dog-bone model structures for each elastomer and conducted tensile tests using a force gauge. Stress-strain curves were plotted for the dog-bone structures of PDMS 5:1, PDMS 10:1, PDMS 20:1, and Ecoflex 1:1 using the force gauge, and the Young\u2019s moduli were measured."
+    },
+    "Question_9": {
+        "Context": "The study evaluated the electromechanical characteristics of LIG-based pressure sensors with different encapsulation layers.",
+        "Question": "What was the observed trend in the response time of pressure sensors as the applied pressure increased?",
+        "A": "Response time decreased as the applied pressure increased",
+        "B": "Response time remained constant regardless of the applied pressure",
+        "C": "Response time increased as the applied pressure increased",
+        "D": "Response time fluctuated randomly with changes in the applied pressure",
+        "Answer": "C",
+        "Source": "This test confirmed that the PDMS 5:1 encapsulation material exhibited a rapid response. Specifically, at 100 kPa, the measured response times were 505 ms, 746 ms, 811 ms, and 861 ms for the devices encapsulated with PDMS 5:1, PDMS 10:1, PDMS 20:1, and Ecoflex 1:1, respectively. We also attribute this response-time trend to the Young\u2019s modulus of the encapsulation material."
+    },
+    "Question_10": {
+        "Context": "The study investigated the effects of different encapsulation layers on the characteristics of LIG-based pressure sensors.",
+        "Question": "What was the conclusion regarding the stabilities of LIG-based pressure sensors with different encapsulation layers?",
+        "A": "The stabilities were significantly compromised after exposure to high temperatures",
+        "B": "The stabilities were not significantly compromised even when a flexible material was used",
+        "C": "The stabilities were improved after exposure to high temperatures",
+        "D": "The stabilities fluctuated depending on the encapsulation material",
+        "Answer": "B",
+        "Source": "Through repeated cycling and accelerated-degradation tests, we confirmed that the stabilities of the LIG-based pressure sensors with the encapsulation layers were not significantly compromised, even when a flexible material was used."
+    }
+}

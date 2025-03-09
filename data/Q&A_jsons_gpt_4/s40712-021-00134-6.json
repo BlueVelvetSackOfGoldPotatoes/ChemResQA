@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In computational fluid dynamics (CFD), the simulation of gearboxes can be complex due to the need to handle dynamic domains involving multiphase conditions.",
+        "Question": "What is the primary advantage of using the Global Remeshing Approach with Mesh Clustering (GRAMC) in gearbox simulations?",
+        "A": "It increases the accuracy of the simulation",
+        "B": "It reduces the complexity of the remeshing process",
+        "C": "It eliminates the need for virtual prototyping",
+        "D": "It allows for the simulation of single-phase conditions only",
+        "Answer": "B",
+        "Source": "For this reason, the authors have implemented an efficient remeshing process, named GRAMC, for the simulation of complex geometries. The algorithm was validated with spur, helical, and spiral bevel gearboxes demonstrating its feasibility for different gears\u2019 type and its accuracy in the power losses trend prediction (maximum 20% error with respect to experimental data)."
+    },
+    "Question_2": {
+        "Context": "In gearboxes, the presence of multiple fluids and the occurrence of phenomena like cavitation and aeration necessitate the use of additional equations beyond the standard mass and momentum conservation equations in CFD simulations.",
+        "Question": "Which model is commonly used in CFD to account for the presence of multiple fluid phases in gearboxes?",
+        "A": "Volume of Fluid (VOF) model",
+        "B": "Finite Element Analysis (FEA) model",
+        "C": "Laminar Flow model",
+        "D": "Turbulent Flow model",
+        "Answer": "A",
+        "Source": "In fact, phenomena like cavitation and aeration, which imply continuous phases\u2019 transitions, are not included in the previous equations. Therefore, it is necessary to introduce a balance equation that considers the presence of two or more phases. This quantity is represented by the volumetric fraction, which represents the percentage of one fluid in every discretized cell. The VOF (Volume of Fluid) model (Hirt and Nichols 1981) is used."
+    },
+    "Question_3": {
+        "Context": "In the context of gearbox simulations, the quality of the computational mesh is crucial for the success of the simulation.",
+        "Question": "Which two parameters are fundamental indicators of mesh quality in gearbox simulations?",
+        "A": "Pressure and temperature",
+        "B": "Density and viscosity",
+        "C": "Non-orthogonality and skewness",
+        "D": "Velocity and acceleration",
+        "Answer": "C",
+        "Source": "The non-orthogonality (angle between the line connecting two cell centers and the normal of their common face) and the skewness (distance between the intersection of the line connecting two cell centers with their common face and the center of that face) are fundamental parameters that indicate the quality of a mesh."
+    },
+    "Question_4": {
+        "Context": "In gearbox simulations, the calculation of power losses is an important aspect that provides insight into the efficiency of the transmission.",
+        "Question": "What contributions are considered in the calculation of power losses in gearbox simulations?",
+        "A": "Inertial and gravitational",
+        "B": "Inertial and viscous",
+        "C": "Viscous and thermal",
+        "D": "Thermal and gravitational",
+        "Answer": "B",
+        "Source": "The mathematical formulation that enables the calculation of the power losses was implemented as a utility that reads the fields at each timestep and calculate inertial ( Fpi ) and viscous ( F\u03c4i ) contribution of the losses."
+    },
+    "Question_5": {
+        "Context": "In gearbox simulations involving complete oil immersion, the pressurization of the gearbox is a factor that can affect the simulation results.",
+        "Question": "What is the purpose of pressurizing the gearbox in simulations of complete oil immersion?",
+        "A": "To increase the temperature of the oil",
+        "B": "To ensure complete wetting of the wheels during operation",
+        "C": "To reduce the viscosity of the oil",
+        "D": "To simulate the effect of external loads on the gearbox",
+        "Answer": "B",
+        "Source": "The pressurization of the gearbox has been applied to ensure the complete wetting of the wheels also during operation."
+    },
+    "Question_6": {
+        "Context": "In gearbox simulations, cavitation is a phenomenon that can occur and affect the results of the simulation.",
+        "Question": "What effect does cavitation have on the pressure within a gearbox during simulation?",
+        "A": "It increases the pressure to above atmospheric levels",
+        "B": "It has no effect on the pressure",
+        "C": "It limits the pressure to the vaporization pressure",
+        "D": "It causes the pressure to become negative",
+        "Answer": "C",
+        "Source": "However, being the lubricant considered as incompressible, the only way the gears can result non-completely wet by the oil is by admitting a phase change from liquid to vapor (cavitation). Indeed, without cavitation, the pressurization should not affect the resistant torque (being the pressure hydrostatic), as instead it was observed experimentally."
+    },
+    "Question_7": {
+        "Context": "In gearbox simulations, the volumetric fraction is a term used to describe the percentage of one fluid in a discretized cell.",
+        "Question": "Which equation is used to model the volumetric fraction in multiphase CFD simulations?",
+        "A": "Bernoulli's equation",
+        "B": "Navier-Stokes equation",
+        "C": "Continuity equation",
+        "D": "VOF equation",
+        "Answer": "D",
+        "Source": "The equation of the volumetric fraction can be expressed as follows: \u2202\u03b1 \u2202t \u00fe \u2207 \u03b1u \u00f0 \u00de \u00bc 0 \u00f014\u00de The MULES (Multidimensional Universal Limiter with Explicit Solution) (Rusche 2002) correction was added in the solver algorithm in order to obtain a more stable and bounded solution of the volumetric fraction."
+    },
+    "Question_8": {
+        "Context": "In the simulation of gearboxes, the PIMPLE algorithm is a numerical method used to control the solution process.",
+        "Question": "What is the primary purpose of using the PIMPLE algorithm in transient simulations of gearboxes?",
+        "A": "To increase the viscosity of the fluid",
+        "B": "To reduce the computational cost of the simulation",
+        "C": "To allow for better control and stability of the simulation",
+        "D": "To simulate steady-state conditions only",
+        "Answer": "C",
+        "Source": "The PIMPLE (merged PISO-SIMPLE) algorithm was used in all simulations. This algorithm allows a better control in transient simulations. In fact, it is possible to tune the correctors of the conservation equations within one timestep in order to reach the best compromise between computational effort and stability of the simulation."
+    },
+    "Question_9": {
+        "Context": "In gearbox simulations, the Courant number is a dimensionless number that is important for the stability of the simulation.",
+        "Question": "What is the significance of limiting the Courant number to 1 in gearbox simulations?",
+        "A": "To ensure the simulation runs faster",
+        "B": "To increase the accuracy of the simulation",
+        "C": "To prevent the simulation from crashing",
+        "D": "To ensure the stability of the simulations",
+        "Answer": "D",
+        "Source": "The Courant number was limited to 1 to ensure the stability of the simulations."
+    },
+    "Question_10": {
+        "Context": "In gearbox simulations, the solver used can vary depending on the specific operating conditions being modeled.",
+        "Question": "Which solver is appropriate for modeling multiphase conditions with phase change in gearboxes?",
+        "A": "interDyMFoam",
+        "B": "pimpleDyMFoam",
+        "C": "interPhaseChangeDyMFoam",
+        "D": "simpleFoam",
+        "Answer": "C",
+        "Source": "Three solvers were used: interDyMFoam for the multiphase condition; pimpleDyMFoam for the completely filled pressurized condition; interPhaseChangeDyMFoam for the completely filled non-pressurized conditions (in order to account for the phase change)."
+    }
+}

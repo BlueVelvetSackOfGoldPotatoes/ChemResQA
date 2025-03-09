@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effect of alkaline hydrogen peroxide pretreatment on exhausted olive pomace to enhance its in vitro rumen digestibility for animal feedstock. It optimized conditions using a central composite experimental design.",
+        "Question": "What was the measured phenolic content for treated olive pomace (TOP) under optimized conditions?",
+        "A": "1.51 \u00b1 0.03 mg/100 g DW",
+        "B": "4.91 \u00b1 0.06 mg/100 g DW",
+        "C": "2.59 \u00b1 0.05 mg/100 g DW",
+        "D": "3.58 \u00b1 0.05 mg/100 g DW",
+        "Answer": "A",
+        "Source": "Under the optimized conditions, the measured phenolic content was 1.51 \u00b1 0.03 mg/100 g dry weight (DW) for treated olive pomace (TOP) (source: Results section)"
+    },
+    "Question_2": {
+        "Context": "The study examined the yields of crude proteins, neutral detergent fibers, and acid detergent fibers for treated olive pomace (TOP) compared to untreated exhausted olive pomace (EOP).",
+        "Question": "Which component had a significantly higher yield in TOP compared to EOP?",
+        "A": "Crude proteins",
+        "B": "Neutral detergent fibers",
+        "C": "Acid detergent fibers",
+        "D": "Total lipids",
+        "Answer": "A",
+        "Source": "The crude proteins yield of TOP was 3.320 \u00b1 0.05 g/100 g of DW, significantly more important than that of untreated EOP (source: Results section)"
+    },
+    "Question_3": {
+        "Context": "The study evaluated the reducing sugar yield for treated olive pomace (TOP) compared to exhausted olive pomace (EOP) using enzymatic hydrolysis.",
+        "Question": "What was the reducing sugar yield for TOP after enzymatic hydrolysis?",
+        "A": "48.0%",
+        "B": "33.0%",
+        "C": "27.4%",
+        "D": "44.3%",
+        "Answer": "A",
+        "Source": "The reducing sugar yield from hydrolysis of TOP after 48 h was 48.0% (source: Results section)"
+    },
+    "Question_4": {
+        "Context": "The study investigated the potential gas production and in vitro organic matter digestibility of treated olive pomace (TOP) compared to exhausted olive pomace (EOP) using rumen fluid.",
+        "Question": "What was the potential gas production value for TOP compared to EOP?",
+        "A": "41.371 ml/g DM",
+        "B": "25.771 ml/g DM",
+        "C": "11.007 ml/g DM",
+        "D": "7.917 ml/g DM",
+        "Answer": "A",
+        "Source": "The potential gas production value of TOP was significantly higher at 41.371 ml/g DM compared to EOP at 25.771 ml/g DM (source: Table 5)"
+    },
+    "Question_5": {
+        "Context": "The study focused on the effects of alkaline hydrogen peroxide treatment on the chemical composition of exhausted olive pomace (EOP) and treated olive pomace (TOP).",
+        "Question": "Which component showed a decrease in content for TOP compared to EOP?",
+        "A": "Acid detergent lignin",
+        "B": "Crude protein",
+        "C": "Total sugar",
+        "D": "Total lipids",
+        "Answer": "A",
+        "Source": "The acid detergent lignin content in TOP was significantly lower compared to EOP (source: Table 3)"
+    },
+    "Question_6": {
+        "Context": "The study analyzed the fatty acid composition of exhausted olive pomace (EOP) and treated olive pomace (TOP) to evaluate the impact of alkaline hydrogen peroxide treatment.",
+        "Question": "Which fatty acid showed an increase in content for TOP compared to EOP?",
+        "A": "C16:0",
+        "B": "C18:0",
+        "C": "C18:1",
+        "D": "C18:2",
+        "Answer": "A",
+        "Source": "The fatty acid C16:0 (palmitic acid) content increased in TOP compared to EOP (source: Table 4)"
+    },
+    "Question_7": {
+        "Context": "The study assessed the in vitro organic matter digestibility and metabolizable energy of treated olive pomace (TOP) and exhausted olive pomace (EOP) to determine their suitability as animal feedstock.",
+        "Question": "What was the in vitro organic matter digestibility value for TOP compared to EOP?",
+        "A": "26.73%",
+        "B": "24.76%",
+        "C": "7.78 kcal/kg DM",
+        "D": "9.28 kcal/kg DM",
+        "Answer": "A",
+        "Source": "The in vitro organic matter digestibility value of TOP was higher at 26.73% compared to EOP at 24.76% (source: Table 5)"
+    },
+    "Question_8": {
+        "Context": "The study investigated the kinetics of gas production from rumen fermentation of treated olive pomace (TOP) and exhausted olive pomace (EOP) to evaluate their digestibility.",
+        "Question": "Which sample showed a higher gas production value after 96 hours of fermentation?",
+        "A": "Treated olive pomace (TOP)",
+        "B": "Exhausted olive pomace (EOP)",
+        "C": "Both had the same gas production",
+        "D": "Gas production was not measured",
+        "Answer": "A",
+        "Source": "The gas production for TOP was higher at 31.67 ml/300 mg of DM compared to EOP at 21.66 ml/300 mg of DM after 96 hours of fermentation (source: Table 5)"
+    },
+    "Question_9": {
+        "Context": "The study focused on the optimization of alkaline hydrogen peroxide treatment using a central composite design to enhance the quality of olive pomace for animal feedstock.",
+        "Question": "What were the designated low and high levels of NaOH concentration in the central composite design?",
+        "A": "1% and 6%",
+        "B": "2% and 5%",
+        "C": "3% and 4%",
+        "D": "4% and 3%",
+        "Answer": "A",
+        "Source": "The designated low and high levels of NaOH concentration were set between 1% (w/v) and 6% (w/v) (source: Optimization of alkaline hydrogen peroxide treatment using central composite design section)"
+    },
+    "Question_10": {
+        "Context": "The study investigated the effects of alkaline hydrogen peroxide treatment on the phenolic content and lipid oxidation of exhausted olive pomace to optimize the treatment efficiency.",
+        "Question": "What was the lipid oxidation value for treated olive pomace (TOP) under optimized conditions?",
+        "A": "3.28 \u00b1 0.05 mM MDA eq/kg of DW",
+        "B": "6.203 \u00b1 0.07 mM MDA eq/kg of DW",
+        "C": "4.91 \u00b1 0.06 mg/100 g DW",
+        "D": "1.51 \u00b1 0.03 mg/100 g DW",
+        "Answer": "A",
+        "Source": "The lipid oxidation value for TOP under optimized conditions was 3.28 \u00b1 0.05 mM MDA eq/kg of DW (source: Results section)"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "EHD jet printing technology has been utilized for the fabrication of flexible electronic devices. One of the materials used for printing electrodes is mentioned in the text.",
+        "Question": "Which material was used for printing electrodes in p-type OTFTs?",
+        "A": "Multiwalled carbon nanotubes/polystyrene sulfonate (MWCNT/PSS)",
+        "B": "Polyacrylic acid (PAA)",
+        "C": "Poly (3,4-ethylenedioxythiophene): polystyrene sulfonate (PEDOT: PSS)",
+        "D": "Nickel oxide",
+        "Answer": "A",
+        "Source": "EHD printing has been utilized to pattern high-resolution zinc\u2013tin oxide (ZTO) semiconductors for TFT applications. EHD jet printing was applied to print electrodes in p-type OTFTs, where the printed lines of multiwalled carbon nanotubes/polystyrene sulfonate (MWCNT/PSS) showed remarkable electrical properties."
+    },
+    "Question_2": {
+        "Context": "The text discusses the fabrication of composite films using EHD printing. One of the composite films mentioned is used for energy storage applications.",
+        "Question": "Which composite film was used for the fabrication of flexible zinc ion batteries (ZIB) connected to a touch-controlled LED?",
+        "A": "Manganese selenide (MnSe)/reduced graphene oxide (rGO)",
+        "B": "Cesium Lead Bromide (CsPbBr3) quantum dots (QDs) and PCL",
+        "C": "Polyurethane (PU) and poly (methylsilsesquioxane) (PMSQ)",
+        "D": "Polyethylene oxide-zinc nitrate (PEO)-Zn (NO3)2",
+        "Answer": "A",
+        "Source": "A flexible zinc ion battery (ZIB) system of manganese selenide (MnSe)/reduced graphene oxide (rGO) was developed by EHD, which was connected to a touch-controlled light-emitting diode (LED)."
+    },
+    "Question_3": {
+        "Context": "The text mentions the fabrication of microscale living tissue patterns using EHD printing. A combination of materials is used to create an electro-conductive hydrogel.",
+        "Question": "Which materials were combined to create an electro-conductive hydrogel for microscale living tissue patterns?",
+        "A": "RGD (GGG GRG DSP)-functionalized alginate and fibrin system (RAF) and PEDOT: PSS",
+        "B": "Polyurethane (PU) and poly (methylsilsesquioxane) (PMSQ)",
+        "C": "Cesium Lead Bromide (CsPbBr3) quantum dots (QDs) and PCL",
+        "D": "Manganese selenide (MnSe)/reduced graphene oxide (rGO)",
+        "Answer": "A",
+        "Source": "To generate microscale living tissue patterns, a combination of RGD (GGG GRG DSP)-functionalized alginate and fibrin system (RAF) was employed alongside PEDOT: PSS to create an electro-conductive hydrogel."
+    },
+    "Question_4": {
+        "Context": "The text discusses the fabrication of composite membranes using EHD printing. One of the composite membranes mentioned is used for drug combination therapy.",
+        "Question": "Which composite membrane was fabricated for drug combination therapy and personalized medicine applications?",
+        "A": "Cellulose acetate-ibuprofen and cellulose acetate-paracetamol with an intermediate folding component composed of PCL",
+        "B": "Methyl-red/graphene composite sheets with a thickness of 300 nm",
+        "C": "Polyurethane (PU) and poly (methylsilsesquioxane) (PMSQ)",
+        "D": "Manganese selenide (MnSe)/reduced graphene oxide (rGO)",
+        "Answer": "A",
+        "Source": "The composite membrane consisted of two distinct sections, namely cellulose acetate-ibuprofen and cellulose acetate-paracetamol, with an intermediate folding component composed of PCL. The composite membrane exhibited biocompatibility and flexibility, enabling its utilization in diverse applications such as drug combination therapy and personalized medicine."
+    },
+    "Question_5": {
+        "Context": "The text mentions the fabrication of soft magnetic composites using EHD printing. One of the composites mentioned is used for actuators.",
+        "Question": "Which composite material was used for the fabrication of soft magnetic composites for potential use in actuators?",
+        "A": "Graphene quantum dots (GQDs) and poly 4-vinylphenol (PVP)",
+        "B": "Polyaniline (PANI) nanoparticles, silver flake, and thermoplastic polyurethane (TPU)",
+        "C": "Cesium Lead Bromide (CsPbBr3) quantum dots (QDs) and PCL",
+        "D": "Manganese selenide (MnSe)/reduced graphene oxide (rGO)",
+        "Answer": "B",
+        "Source": "A hybrid conductive ink with excellent printability and stability was synthesized through the incorporation of polyaniline (PANI) nanoparticles into a composite of silver flake and thermoplastic polyurethane (TPU) using an EHD jet printing technique. The flexible heaters printed by EHD demonstrated exceptional flexibility and endurance, boasting a remarkable resolution of 45 \u03bcm."
+    },
+    "Question_6": {
+        "Context": "The text discusses the fabrication of composite scaffolds using EHD printing. One of the composite scaffolds mentioned is used for tissue regeneration.",
+        "Question": "Which composite scaffold was fabricated for tissue regeneration and exhibited favorable cytocompatibility?",
+        "A": "PCL and MWCNTs",
+        "B": "Polyurethane (PU) and poly (methylsilsesquioxane) (PMSQ)",
+        "C": "Cesium Lead Bromide (CsPbBr3) quantum dots (QDs) and PCL",
+        "D": "Manganese selenide (MnSe)/reduced graphene oxide (rGO)",
+        "Answer": "A",
+        "Source": "A melt-based EHD printing method was developed to fabricate microfibrous scaffolds composed of PCL and MWCNTs. The mechanical characteristics of microfiber PCL/MWCNTs composite scaffolds printed by EHD printing were found to be similar to those of pure PCL scaffolds and exhibited favorable cytocompatibility."
+    },
+    "Question_7": {
+        "Context": "The text mentions the fabrication of an adjustable lens using EHD printing. The lens is powered by dielectric elastomer actuators.",
+        "Question": "What material was used to form the encapsulating layer of the lens loaded with copper phthalocyanine (CuPc)?",
+        "A": "Highly dielectric silicone rubber (SR)",
+        "B": "Graphene quantum dots (GQDs)",
+        "C": "Polyaniline (PANI) nanoparticles",
+        "D": "Cesium Lead Bromide (CsPbBr3) quantum dots (QDs)",
+        "Answer": "A",
+        "Source": "In order to fabricate the dielectric elastomers (DEs) driven component, a highly dielectric silicone rubber (SR) based ink was employed to form the encapsulating layer of the lens, which was loaded with copper phthalocyanine (CuPc)."
+    },
+    "Question_8": {
+        "Context": "The text discusses the fabrication of anisotropic conductive films (ACFs) using EHD printing. The characteristics of the ink formulation are mentioned.",
+        "Question": "What was incorporated into the polymer inks suitable for EHD ink jet printing to achieve a satisfactory level of electrical conductivity?",
+        "A": "Conductive particles",
+        "B": "Graphene quantum dots (GQDs)",
+        "C": "Polyaniline (PANI) nanoparticles",
+        "D": "Cesium Lead Bromide (CsPbBr3) quantum dots (QDs)",
+        "Answer": "A",
+        "Source": "To assess the viability of utilizing EHD printing technology for the production of ACFs, polymer inks suitable for EHD ink jet printing were formulated by incorporating conductive particles as the primary constituent. The findings showed a satisfactory level of electrical conductivity in the ink formulation having conductive particles."
+    },
+    "Question_9": {
+        "Context": "The text mentions the fabrication of microscale living tissue patterns using EHD printing. The combination of materials used to create an electro-conductive hydrogel is discussed.",
+        "Question": "What was combined with RGD (GGG GRG DSP)-functionalized alginate and fibrin system (RAF) to create an electro-conductive hydrogel?",
+        "A": "PEDOT: PSS",
+        "B": "Polyurethane (PU)",
+        "C": "Cesium Lead Bromide (CsPbBr3) quantum dots (QDs)",
+        "D": "Manganese selenide (MnSe)/reduced graphene oxide (rGO)",
+        "Answer": "A",
+        "Source": "To generate microscale living tissue patterns, a combination of RGD (GGG GRG DSP)-functionalized alginate and fibrin system (RAF) was employed alongside PEDOT: PSS to create an electro-conductive hydrogel."
+    },
+    "Question_10": {
+        "Context": "The text discusses the fabrication of composite scaffolds using EHD printing. The composite scaffolds are used for tissue regeneration.",
+        "Question": "Which composite scaffold was fabricated for tissue regeneration and exhibited favorable cytocompatibility?",
+        "A": "PCL and MWCNTs",
+        "B": "Polyurethane (PU)",
+        "C": "Cesium Lead Bromide (CsPbBr3) quantum dots (QDs)",
+        "D": "Manganese selenide (MnSe)/reduced graphene oxide (rGO)",
+        "Answer": "A",
+        "Source": "A melt-based EHD printing method was developed to fabricate microfibrous scaffolds composed of PCL and MWCNTs. The mechanical characteristics of microfiber PCL/MWCNTs composite scaffolds printed by EHD printing were found to be similar to those of pure PCL scaffolds and exhibited favorable cytocompatibility."
+    }
+}

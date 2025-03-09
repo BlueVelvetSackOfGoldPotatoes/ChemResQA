@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the influence of zirconium phosphate nanoparticles on reducing the diameter of nanofibres during electrospinning.",
+        "Question": "What is the main purpose of adding zirconium phosphate nanoparticles to the PAN nanofibres?",
+        "A": "To increase the diameter of the nanofibres",
+        "B": "To decrease the diameter of the nanofibres",
+        "C": "To add color to the nanofibres",
+        "D": "To improve the thermal stability of the nanofibres",
+        "Answer": "B",
+        "Source": "Addition of metal oxide such as zirconium phosphate decreases the diameter and smooths on the polyacrylonitrile (PAN) nanofibres as observed by the SEM techniques."
+    },
+    "Question_2": {
+        "Context": "The paper explores the effect of zirconium phosphate on the morphology and conductivity of modified PAN nanofibres.",
+        "Question": "What range of diameters were observed for the PAN/zirconium phosphate nanofibres?",
+        "A": "50-100 nm",
+        "B": "100-200 nm",
+        "C": "200-300 nm",
+        "D": "300-400 nm",
+        "Answer": "B",
+        "Source": "The PAN/zirconium phosphate nanofibres were obtained with the diameter ranges between 100 and 200 nm."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the conductivity improvement of PAN and PAN-Nafion zirconium phosphate nanofibres.",
+        "Question": "How was the conductivity of PAN and PAN-Nafion zirconium phosphate nanofibres compared to plain PAN nanofibres?",
+        "A": "It was lower",
+        "B": "It was similar",
+        "C": "It was higher",
+        "D": "It was not mentioned",
+        "Answer": "C",
+        "Source": "The conductivity of PAN and PAN-Nafion zirconium phosphate nanofibres was more improved when compared to that of the plain PAN nanofibres."
+    },
+    "Question_4": {
+        "Context": "The paper mentions the thermal properties of PAN and PAN-Nafion zirconium phosphate nanofibres.",
+        "Question": "How did the thermal gravimetric analysis results of plain PAN nanofibres compare to the modified PAN with zirconium phosphate nanoparticles?",
+        "A": "Plain PAN showed higher thermal stability",
+        "B": "Modified PAN showed higher thermal stability",
+        "C": "Both showed similar thermal stability",
+        "D": "It was not mentioned",
+        "Answer": "A",
+        "Source": "The plain PAN nanofibres show the total degradation on thermal gravimetric analysis results when compared to the modified PAN with zirconium phosphate nanoparticles."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the potential applications of PAN/ZrP nanofibres.",
+        "Question": "What is mentioned as a potential application of PAN/ZrP nanofibres?",
+        "A": "Fuel cell electrolytes",
+        "B": "Solar panels",
+        "C": "Water purification filters",
+        "D": "Building materials",
+        "Answer": "A",
+        "Source": "The thermal properties and proton conductivity make the PAN/ZrP nanofibres as promising nanofillers for fuel cell electrolytes."
+    },
+    "Question_6": {
+        "Context": "The paper mentions the properties of zirconium oxide (ZrO2) and its applications.",
+        "Question": "What is one of the properties of zirconium oxide mentioned in the text?",
+        "A": "Low density",
+        "B": "Low hardness",
+        "C": "Low electrical conductivity",
+        "D": "Low fracture toughness",
+        "Answer": "D",
+        "Source": "Zirconium oxide (ZrO2) has several properties that make it a useful material. These properties include high density, hardness, electrical conductivity, wear resistance, high fracture toughness..."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the properties of zirconium phosphates (ZrPs) and their applications.",
+        "Question": "What feature of zirconium phosphate contributes to increasing conductivity?",
+        "A": "High thermal stability",
+        "B": "High water retention",
+        "C": "Low proton mobility",
+        "D": "Low power density",
+        "Answer": "B",
+        "Source": "Zirconium phosphate has the features of increasing conductivity due to high proton mobility on the surface of its particles and good water retention."
+    },
+    "Question_8": {
+        "Context": "The paper mentions the preparation of electrospinning solutions for PAN nanofibres.",
+        "Question": "What was added to the PAN solution to prepare PAN/ZrP nanofibres?",
+        "A": "Nafion solution",
+        "B": "Zirconium phosphate nanoparticles",
+        "C": "Sodium hydroxide",
+        "D": "Potassium chloride",
+        "Answer": "B",
+        "Source": "In order to prepare the PAN/ZrP nanofibres, 0.1 wt% ZrP nanoparticles were added to the obtained solution..."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the characterisation techniques used for the nanofibres.",
+        "Question": "Which technique was used to analyse the thermal properties of the samples?",
+        "A": "Atomic force microscopy",
+        "B": "Scanning electron microscopy",
+        "C": "Fourier transform infrared spectroscopy",
+        "D": "Thermal gravimetric analysis",
+        "Answer": "D",
+        "Source": "The thermal properties of the samples and their characteristics were studied by thermal gravimetric analysis (TGA) under nitrogen flow."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the electrochemical studies conducted on the nanofibres.",
+        "Question": "What was used as the reference electrode in the electrochemical measurements?",
+        "A": "Zirconium nanoparticles",
+        "B": "Platinum wire",
+        "C": "Silver-silver chloride electrode",
+        "D": "Glassy carbon electrode",
+        "Answer": "C",
+        "Source": "Electrochemical measurements were observed under three electrodes. While a silver-silver chloride (Ag/AgCl) electrode was used as the reference electrode..."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Preclinical evaluation of a potential chelator for 223Ra-complexation",
+        "Question": "Which chelator exhibited the highest affinity for Ra2+ in liquid-liquid extraction experiments?",
+        "A": "DOTA",
+        "B": "Kryptofix 2.2.2",
+        "C": "Calix-TA",
+        "D": "Lin-crown-5-2A",
+        "Answer": "C",
+        "Source": "Calix-TA showed the highest affinity for Ra2+, its extraction constant in water/chloroform being 2.2- and 3.5-fold higher than DOTA and Kryptofix 2.2.2, respectively."
+    },
+    "Question_2": {
+        "Context": "Evaluation of a potential chelator for 223Ra-based radiopharmaceuticals",
+        "Question": "Which chelator exhibited a stability constant of logK0 = 7.82 for the [223Ra][Ra(DOTA)]2\u2212 complex?",
+        "A": "DOTA",
+        "B": "Kryptofix 2.2.2",
+        "C": "Calix-TA",
+        "D": "Lin-crown-5-2A",
+        "Answer": "A",
+        "Source": "The logK0 value of 7.82 was measured for the [223Ra][Ra(DOTA)]2\u2212 complex."
+    },
+    "Question_3": {
+        "Context": "Evaluation of a potential chelator for 223Ra-based radiopharmaceuticals",
+        "Question": "Which chelator showed limited ability to extract [223Ra]Ra2+ from water to chloroform and no selectivity over other alkaline earth cations?",
+        "A": "DOTA",
+        "B": "Kryptofix 2.2.2",
+        "C": "Calix-TA",
+        "D": "Lin-crown-5-2A",
+        "Answer": "D",
+        "Source": "Lin-crown-5-2A exhibited high extraction efficiency of [223Ra]Ra2+ from water to chloroform but showed no selectivity for Ra2+ over the other alkaline earth metal cations."
+    },
+    "Question_4": {
+        "Context": "Evaluation of a potential chelator for 223Ra-based radiopharmaceuticals",
+        "Question": "Which chelator formed a [223Ra][Ra-Calix-TA] complex with an extraction constant 5.7-fold lower than DOTA?",
+        "A": "DOTA",
+        "B": "Kryptofix 2.2.2",
+        "C": "Calix-TA",
+        "D": "Lin-crown-5-2A",
+        "Answer": "C",
+        "Source": "Calix-TA exhibited an extraction constant 5.7-fold lower than DOTA for the [223Ra][Ra-Calix-TA] complex."
+    },
+    "Question_5": {
+        "Context": "Preclinical evaluation of a potential chelator for 223Ra-complexation",
+        "Question": "Which chelator underwent competition experiments against serum-abundant metals and showed rapid dissociation and transmetallation phenomena?",
+        "A": "DOTA",
+        "B": "Kryptofix 2.2.2",
+        "C": "Calix-TA",
+        "D": "Lin-crown-5-2A",
+        "Answer": "C",
+        "Source": "Calix-TA underwent rapid dissociation and transmetallation phenomena in competition experiments against serum-abundant metals."
+    },
+    "Question_6": {
+        "Context": "Evaluation of a potential chelator for 223Ra-based radiopharmaceuticals",
+        "Question": "Which chelator formed a [223Ra][Ra(DTPA)]3\u2212 complex with a stability constant of logK0 = 10.74?",
+        "A": "DOTA",
+        "B": "Kryptofix 2.2.2",
+        "C": "Calix-TA",
+        "D": "Lin-crown-5-2A",
+        "Answer": "D",
+        "Source": "DTPA formed a [223Ra][Ra(DTPA)]3\u2212 complex with a stability constant of logK0 = 10.74."
+    },
+    "Question_7": {
+        "Context": "Evaluation of a potential chelator for 223Ra-based radiopharmaceuticals",
+        "Question": "Which chelator showed high extraction efficiency of [223Ra]Ra2+ from water to chloroform but no selectivity for Ra2+ over other alkaline earth metal cations?",
+        "A": "DOTA",
+        "B": "Kryptofix 2.2.2",
+        "C": "Calix-TA",
+        "D": "Lin-crown-5-2A",
+        "Answer": "D",
+        "Source": "Lin-crown-5-2A exhibited high extraction efficiency of [223Ra]Ra2+ from water to chloroform but showed no selectivity for Ra2+ over the other alkaline earth metal cations."
+    },
+    "Question_8": {
+        "Context": "Evaluation of a potential chelator for 223Ra-based radiopharmaceuticals",
+        "Question": "Which chelator formed a [223Ra][Ra-Calix-TA] complex with an extraction constant 5.7-fold lower than DOTA?",
+        "A": "DOTA",
+        "B": "Kryptofix 2.2.2",
+        "C": "Calix-TA",
+        "D": "Lin-crown-5-2A",
+        "Answer": "C",
+        "Source": "Calix-TA exhibited an extraction constant 5.7-fold lower than DOTA for the [223Ra][Ra-Calix-TA] complex."
+    },
+    "Question_9": {
+        "Context": "Evaluation of a potential chelator for 223Ra-based radiopharmaceuticals",
+        "Question": "Which chelator underwent competition experiments against serum-abundant metals and showed rapid dissociation and transmetallation phenomena?",
+        "A": "DOTA",
+        "B": "Kryptofix 2.2.2",
+        "C": "Calix-TA",
+        "D": "Lin-crown-5-2A",
+        "Answer": "C",
+        "Source": "Calix-TA underwent rapid dissociation and transmetallation phenomena in competition experiments against serum-abundant metals."
+    },
+    "Question_10": {
+        "Context": "Evaluation of a potential chelator for 223Ra-based radiopharmaceuticals",
+        "Question": "Which chelator formed a [223Ra][Ra(DTPA)]3\u2212 complex with a stability constant of logK0 = 10.74?",
+        "A": "DOTA",
+        "B": "Kryptofix 2.2.2",
+        "C": "Calix-TA",
+        "D": "Lin-crown-5-2A",
+        "Answer": "D",
+        "Source": "DTPA formed a [223Ra][Ra(DTPA)]3\u2212 complex with a stability constant of logK0 = 10.74."
+    }
+}

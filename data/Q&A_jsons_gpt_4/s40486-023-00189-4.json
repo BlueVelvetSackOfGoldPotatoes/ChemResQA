@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "Metallic aerogels are known for their unique properties such as low density and high electrical conductivity.",
+            "Question": "What is a characteristic property of metallic aerogels?",
+            "A": "High density",
+            "B": "Low electrical conductivity",
+            "C": "Low density",
+            "D": "Poor elasticity",
+            "Answer": "C",
+            "Source": "Metallic aerogels have attracted tremendous interest because of their superior properties, such as low density, high electrical conductivity, and large specific surface area."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "In the context of materials science, robustness refers to the strength and durability of a material.",
+            "Question": "What does the term 'robustness' imply when referring to materials?",
+            "A": "Flexibility",
+            "B": "Transparency",
+            "C": "Strength and durability",
+            "D": "Electrical insulation",
+            "Answer": "C",
+            "Source": "To improve the robustness, elasticity, and deformability of the aerogel, freeze-dried microfiber-structured CNFs assembled with AgNWs were used."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "Electrical resistivity is a fundamental property that quantifies how strongly a material opposes the flow of electric current.",
+            "Question": "What does electrical resistivity measure in a material?",
+            "A": "Heat resistance",
+            "B": "Opposition to electric current flow",
+            "C": "Magnetic permeability",
+            "D": "Optical transparency",
+            "Answer": "B",
+            "Source": "The fabricated aerogels also showed a low electrical resis- tivity (< 8.65 m\u03a9\u00b7m) in addition to robust and compressible mechanical properties."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "Freeze casting is a technique used to create porous structures by controlled solidification of a solution or suspension.",
+            "Question": "What is the primary process involved in freeze casting to create porous structures?",
+            "A": "Evaporation",
+            "B": "Controlled solidification",
+            "C": "Chemical reaction",
+            "D": "Thermal decomposition",
+            "Answer": "B",
+            "Source": "The freeze casting process involves con- trolled solidification of the solution or suspension, followed by sublimation of the solvent."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "Silver nanowires (AgNWs) are known for forming percolative networks due to their high aspect ratio, which contributes to their electrical properties.",
+            "Question": "Why are silver nanowires (AgNWs) significant in the formation of percolative networks?",
+            "A": "Their low aspect ratio",
+            "B": "Their high aspect ratio",
+            "C": "Their color",
+            "D": "Their thermal conductivity",
+            "Answer": "B",
+            "Source": "Especially, AgNWs are promising candidates for metallic aerogels owing to their excel- lent characteristics, such as low electrical resistivity, high flexibility, and percolative network formation due to their high aspect ratio."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "Cellulose nanofibers (CNFs) are biopolymers with a high aspect ratio and specific surface area, which can be dispersed in water due to their hydrophilic functional groups.",
+            "Question": "What property of cellulose nanofibers (CNFs) allows them to be easily dispersed in water?",
+            "A": "Hydrophobicity",
+            "B": "Hydrophilicity",
+            "C": "Lipophilicity",
+            "D": "Neutrality",
+            "Answer": "B",
+            "Source": "Furthermore, CNFs, which are earth-abundant biopolymers, possess a high aspect ratio, a large specific surface area, and various surface functional groups. The overall hydro- philicity of the abundant functional groups facilitates adequate chemical interactions, making it easy to disperse within deionized (DI) water and form stable assemblies of AgNWs and CNFs in aerogels."
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "The mechanical properties of materials, such as compressive strength, elastic modulus, and yield strength, are important for evaluating their performance under stress.",
+            "Question": "Which mechanical property indicates the maximum stress a material can withstand before deforming permanently?",
+            "A": "Compressive strength",
+            "B": "Elastic modulus",
+            "C": "Yield strength",
+            "D": "Tensile strength",
+            "Answer": "C",
+            "Source": "Furthermore, these aerogels demonstrated impressive mechani- cal properties with high compressive strength (up to 4.85 kPa at 70% strain), elastic modulus (up to 16.3 kPa), and yield strength (up to 2 kPa)."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "Porosity is a measure of the void spaces in a material and is a key factor in determining the density of aerogels.",
+            "Question": "What does porosity refer to in the context of aerogels?",
+            "A": "Hardness",
+            "B": "Thermal conductivity",
+            "C": "Void spaces",
+            "D": "Electrical conductivity",
+            "Answer": "C",
+            "Source": "The freeze-dried CNF/AgNW-based aerogels exhibited a low density (8.51\u201313.5 mg/cm3) and high porosity (up to 98.2%)."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "In materials science, the term 'deformability' refers to the ability of a material to undergo deformation without breaking.",
+            "Question": "What does deformability indicate about a material?",
+            "A": "Ability to conduct electricity",
+            "B": "Ability to resist temperature changes",
+            "C": "Ability to undergo deformation without breaking",
+            "D": "Ability to return to its original shape after deformation",
+            "Answer": "C",
+            "Source": "To improve the robustness, elasticity, and deformability of the aerogel, freeze-dried microfiber-structured CNFs assembled with AgNWs were used."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "The synthesis of silver nanowires (AgNWs) can be achieved through various chemical methods, including a modified polyol synthesis.",
+            "Question": "Which method is mentioned for the synthesis of silver nanowires (AgNWs)?",
+            "A": "Hydrothermal synthesis",
+            "B": "Sol-gel process",
+            "C": "Vapor deposition",
+            "D": "Modified polyol synthesis",
+            "Answer": "D",
+            "Source": "Additionally, either 14 mg (0.14% con- centration) or 28 mg (0.28% concentration) of AgNWs, synthesized using a modified polyol synthesis method, was added to the mixture."
+        }
+    }
+]

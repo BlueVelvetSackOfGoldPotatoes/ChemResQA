@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on producing butyric acid from pre-treated rape straw using simultaneous enzymatic hydrolysis semi-solid fermentation (SEHSF).",
+        "Question": "What was the optimized butyric acid yield under optimal conditions?",
+        "A": "10.69 \u00b1 0.17 g/L",
+        "B": "13.86 \u00b1 0.77 g/L",
+        "C": "13.42 \u00b1 0.83 g/L",
+        "D": "12.75 \u00b1 0.46 g/L",
+        "Answer": "C",
+        "Source": "The optimized butyric acid yield was as high as 13.86 \u00b1 0.77 g/L, which was 2.1 times higher than that of the initial screening. Furthermore, under optimal conditions, the yield of butyric acid was 13.42 \u00b1 0.83 g/L in a 2.5-L fermentor."
+    },
+    "Question_2": {
+        "Context": "The study aimed to develop a high-yield, green, and economical process for the production of butyric acid by lignocellulose fermentation.",
+        "Question": "What was the main carbon source used in the fermentation medium for butyric acid production?",
+        "A": "Glucose",
+        "B": "Xylose",
+        "C": "Fructose",
+        "D": "Mannose",
+        "Answer": "B",
+        "Source": "The biosynthesis pathway of butyric acid from glucose and xylose in C. beijerinckii BRM001 was constructed by combining the related metabolic reactions together."
+    },
+    "Question_3": {
+        "Context": "The study optimized the fermentation medium composition based on genome annotation.",
+        "Question": "Which nitrogen source was selected as the best inorganic nitrogen source for fermentation to produce butyric acid?",
+        "A": "Ammonium nitrate",
+        "B": "Ammonium acetate",
+        "C": "Ammonium chloride",
+        "D": "Ammonium sulfate",
+        "Answer": "B",
+        "Source": "Therefore, ammonium acetate is the best inorganic nitrogen source."
+    },
+    "Question_4": {
+        "Context": "The study conducted a single factor experiment to optimize the fermentation medium components.",
+        "Question": "What was the optimal amount of yeast powder determined for butyric acid production?",
+        "A": "0.5 g/L",
+        "B": "1 g/L",
+        "C": "2 g/L",
+        "D": "3 g/L",
+        "Answer": "B",
+        "Source": "After 9 days of static fermentation at 35 \u00b0C, the content of butyric acid was measured. From the results, it can be concluded that the optimum amount was 1 g/L yeast powder."
+    },
+    "Question_5": {
+        "Context": "The study utilized response surface methodology to optimize the fermentation conditions.",
+        "Question": "Which factor had an extremely significant effect on the concentration of butyric acid?",
+        "A": "Temperature",
+        "B": "Inoculation amount",
+        "C": "Time",
+        "D": "pH",
+        "Answer": "A",
+        "Source": "The first terms X1 and X2 of the model are extremely significant, X3 and X4 are significant, the interaction term X1X2 is significant, and the rest are not significant."
+    },
+    "Question_6": {
+        "Context": "The study conducted non-sterile fermentation of butyric acid to evaluate industrial application potential.",
+        "Question": "What was the yield of butyric acid produced under non-sterile fermentation conditions in a 2.5-L fermentor?",
+        "A": "13.16 \u00b1 0.46 g/L",
+        "B": "13.42 \u00b1 0.83 g/L",
+        "C": "13.89 \u00b1 0.72 g/L",
+        "D": "14.9 g/L",
+        "Answer": "C",
+        "Source": "The yield of butyric acid increased from 13.16 \u00b1 0.46 g/L to 13.89 \u00b1 0.72 g/L, which was 1.06 times higher than that before optimization."
+    },
+    "Question_7": {
+        "Context": "The study focused on the biosynthesis pathways of amino acids and vitamins in C. beijerinckii BRM001.",
+        "Question": "What effect does the amount of tryptophan have on protein synthesis?",
+        "A": "No effect",
+        "B": "Decreases protein synthesis",
+        "C": "Increases protein synthesis",
+        "D": "Directly affects protein synthesis",
+        "Answer": "D",
+        "Source": "The amount of tryptophan will directly affect the rate of protein synthesis."
+    },
+    "Question_8": {
+        "Context": "The study investigated the essential growth factors for microorganisms.",
+        "Question": "Which growth factor is essential for microorganisms?",
+        "A": "Biotin",
+        "B": "Thiamine",
+        "C": "Riboflavin",
+        "D": "Niacin",
+        "Answer": "A",
+        "Source": "Biotin is an essential growth factor for microorganisms."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the metabolic characteristics of C. beijerinckii BRM001 by genome sequencing and annotation.",
+        "Question": "What was the main carbon source explored for the production of butyric acid?",
+        "A": "Glucose",
+        "B": "Xylose",
+        "C": "Maltose",
+        "D": "Sucrose",
+        "Answer": "B",
+        "Source": "The glucose and xylose were the main two carbohydrates in rape straw hydrolysate."
+    },
+    "Question_10": {
+        "Context": "The study aimed to optimize the fermentation conditions for butyric acid production.",
+        "Question": "What was the optimal fermentation time determined for butyric acid production?",
+        "A": "5 days",
+        "B": "7 days",
+        "C": "9 days",
+        "D": "11 days",
+        "Answer": "C",
+        "Source": "The optimal fermentation time of C. beijerinckii BRM001 was determined to be 9 days, and the highest butyric acid yield was 13.02 \u00b1 0.71 g/L."
+    }
+}

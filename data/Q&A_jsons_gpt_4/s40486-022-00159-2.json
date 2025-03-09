@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In cardiovascular diseases, the presence of multiple lesions in the same vessel can complicate both the assessment of their severity and their treatment.",
+        "Question": "What is the term used to describe the blockage of blood supply due to blood clots in the arteries?",
+        "A": "Thrombosis",
+        "B": "Hemorrhage",
+        "C": "Aneurysm",
+        "D": "Vasculitis",
+        "Answer": "A",
+        "Source": "Cardiovascular diseases (CVDs) are the leading cause of death worldwide. These are mainly caused by blood clots in the arteries blocking the normal supply of blood which is known as thrombosis."
+    },
+    "Question_2": {
+        "Context": "The development of a thrombus involves the interaction of certain blood components with atherosclerotic plaque.",
+        "Question": "Which components are primarily involved in the growth of a thrombus?",
+        "A": "White blood cells, platelets, and fibrin",
+        "B": "Red blood cells, white blood cells, and fibrin",
+        "C": "Red blood cells, platelets, and fibrin",
+        "D": "Platelets, cholesterol, and white blood cells",
+        "Answer": "C",
+        "Source": "Thrombosis develops when an atherosclerotic plaque within the artery suffers an injury allowing the interaction between fats and cholesterol inside the plaque with blood. Thus, leading to the growth of a thrombus composed of red blood cells, platelets, and fibrin."
+    },
+    "Question_3": {
+        "Context": "Fluid dynamics in vessels with serial stenoses is complex, affecting the diagnosis and treatment of cardiovascular conditions.",
+        "Question": "What is the term for the narrowing of blood vessels?",
+        "A": "Vasodilation",
+        "B": "Stenosis",
+        "C": "Embolism",
+        "D": "Ischemia",
+        "Answer": "B",
+        "Source": "Plaques in arteries can be different in their geometry, size, and length. They can also, be present as single and multiple (or serial) lesions. Compared to single stenosis, fluid dynamics in serial stenoses is complex."
+    },
+    "Question_4": {
+        "Context": "In cardiovascular research, the severity of a lesion in a blood vessel can be evaluated using certain diagnostic techniques.",
+        "Question": "Which diagnostic index is used to evaluate lesion severity in blood vessels?",
+        "A": "Blood pressure index",
+        "B": "Cholesterol level index",
+        "C": "Fractional flow reserve (FFR)",
+        "D": "Ejection fraction rate",
+        "Answer": "C",
+        "Source": "While assessing multiple stenoses, one of the most important parameters is pressure drop. The pressure gradient is used mainly when diagnostic techniques such as fractional flow reserve (FFR) are measured."
+    },
+    "Question_5": {
+        "Context": "In the context of thrombosis, high wall shear rates are significant in the development of coronary thrombosis.",
+        "Question": "What is the role of high wall shear rates in thrombosis?",
+        "A": "They prevent the aggregation of platelets",
+        "B": "They are responsible for starting the mechanism for platelets' aggregation",
+        "C": "They decrease the viscosity of blood",
+        "D": "They increase blood pressure",
+        "Answer": "B",
+        "Source": "High wall shear rates play an important role in coronary thrombosis development. They are responsible for starting the mechanism for platelets' aggregation."
+    },
+    "Question_6": {
+        "Context": "The geometry of atherosclerotic plaques can vary, and they can be present as single or multiple lesions within the arteries.",
+        "Question": "How does the presence of multiple stenoses compare to single stenoses in terms of impact on blood flow?",
+        "A": "Multiple stenoses have less impact on flow impairment",
+        "B": "Multiple stenoses have the same impact on flow impairment as single stenoses",
+        "C": "The impact of multiple stenoses on flow impairment cannot be determined",
+        "D": "Multiple stenoses have more impact on flow impairment than single stenoses with the same degree",
+        "Answer": "D",
+        "Source": "However, the presence of multiple stenoses has more impact on flow impairment than single stenoses with the same degree."
+    },
+    "Question_7": {
+        "Context": "Pressure drop across lesions in blood vessels is an important parameter when assessing multiple stenoses.",
+        "Question": "What factor has been found to affect the pressure drop across stenoses?",
+        "A": "The viscosity of the blood",
+        "B": "The distance between proximal and distal stenoses",
+        "C": "The diameter of the blood vessel",
+        "D": "The heart rate of the patient",
+        "Answer": "B",
+        "Source": "Also, a larger pressure gradient is produced when the distance between proximal and distal stenoses increases."
+    },
+    "Question_8": {
+        "Context": "Post-stenotic sections of blood vessels are prone to certain developments due to the dynamics of blood flow.",
+        "Question": "What is likely to develop in post-stenotic sections due to recirculation zones and flow separation?",
+        "A": "Aneurysms",
+        "B": "Vasodilation",
+        "C": "Particle aggregations",
+        "D": "Vasoconstriction",
+        "Answer": "C",
+        "Source": "It has been found that post-stenotic sections are prone to develop particle aggregations due to recirculation zones and flow separation, which could lead to thrombosis development."
+    },
+    "Question_9": {
+        "Context": "In the study of thrombosis, the use of in vitro models can provide insights into the development of thrombus in blood vessels.",
+        "Question": "What type of model is used to mimic the shape of human arteries in thrombosis research?",
+        "A": "Animal model",
+        "B": "Computer simulation model",
+        "C": "Microfluidic in vitro model",
+        "D": "Cell culture model",
+        "Answer": "C",
+        "Source": "A microfluidic chip with channels having one, two, and three stenoses was designed. This method allows the fabrication of self-aligned elliptical channels, as the intention is to mimic the shape of human arteries."
+    },
+    "Question_10": {
+        "Context": "The study of thrombosis involves monitoring the formation and growth of thrombus under various conditions.",
+        "Question": "What is a common observation when monitoring thrombus formation in blood vessels?",
+        "A": "Constant decrease in blood pressure",
+        "B": "Stable flow of blood without interruptions",
+        "C": "Formation of clots with light color due to platelet aggregation",
+        "D": "Decrease in blood viscosity",
+        "Answer": "C",
+        "Source": "One of the causes of the color difference is the formation of aggregations, they appear like clots with light color, as they are mainly composed of platelets."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "MicroRNAs (miRNAs) are small, non-coding RNAs that play a crucial role in regulating gene expression post-transcriptionally. They are involved in various cellular processes including cell proliferation, invasion, metastasis, and angiogenesis, particularly in the context of cancer development.",
+        "Question": "What is the typical length range of microRNAs (miRNAs)?",
+        "A": "10-15 nucleotides",
+        "B": "18-25 nucleotides",
+        "C": "30-35 nucleotides",
+        "D": "50-60 nucleotides",
+        "Answer": "B",
+        "Source": "microRNAs (miRNAs) are short, non-coding RNAs of 18\u201325 nucleotides that play a significant role in posttranscriptional gene suppression."
+    },
+    "Question_2": {
+        "Context": "The detection and quantification of miRNAs are important for the diagnosis and treatment of various cancers, including gastric carcinoma. Various methods have been developed for miRNA detection, each with its own set of advantages and limitations.",
+        "Question": "Which method is considered the gold standard for miRNA detection in clinical practice?",
+        "A": "Fluorescent assay",
+        "B": "Raman scattering spectroscopy",
+        "C": "qRT-PCR",
+        "D": "Colorimetry",
+        "Answer": "C",
+        "Source": "Currently, qRT-PCR, which is based on the thermal-cycle based chain reaction, remains the one of the most classical methods for miRNA detection and is the gold standard in clinical practice."
+    },
+    "Question_3": {
+        "Context": "In the field of miRNA detection, various signal amplification strategies have been employed to improve sensitivity. These strategies are crucial for detecting low-abundance targets.",
+        "Question": "Which of the following is not a signal amplification strategy mentioned for miRNA detection?",
+        "A": "Rolling circle amplification (RCA)",
+        "B": "CRISPR-Cas12a system",
+        "C": "Primer exchange reaction (PER)",
+        "D": "Polymerase chain reaction (PCR)",
+        "Answer": "D",
+        "Source": "On the basis of multiple signal transduce modes, including fluorescence, colorimetry, Raman scattering spectroscopy, and electrochemistry, numerous techniques have recently been developed for miRNA detection with higher sensitivity."
+    },
+    "Question_4": {
+        "Context": "Fluorescent assays are widely used in the detection of miRNAs due to their ease of operation and stable signal output. These assays can be integrated with different signal amplification strategies to enhance their performance.",
+        "Question": "What is a key advantage of using fluorescent assays for miRNA detection?",
+        "A": "They do not require any signal amplification.",
+        "B": "They can be performed without any specialized equipment.",
+        "C": "They provide a stable signal output and are easy to operate.",
+        "D": "They are the most cost-effective method available.",
+        "Answer": "C",
+        "Source": "Among them, the fluorescent assay integrating with different signal amplification strategies has gained abundant attention due to its features of easy-to-operate and stable signal output."
+    },
+    "Question_5": {
+        "Context": "The primer exchange reaction (PER) is a technique used in the field of nucleic acid research for signal amplification. It involves the synthesis of single-stranded DNA sequences and has been applied in constructing miRNA detection approaches.",
+        "Question": "What is the primary product of the primer exchange reaction (PER) in miRNA detection approaches?",
+        "A": "Double-stranded DNA",
+        "B": "Single-stranded RNA",
+        "C": "Single-stranded DNA",
+        "D": "Protein complexes",
+        "Answer": "C",
+        "Source": "As a promising technique for isothermal signal amplification, PER has been widely applied in constructing miRNA detection approaches in recent years due to its unique capability to product single-strand DNA (ssDNA) sequences."
+    },
+    "Question_6": {
+        "Context": "Catalytic hairpin assembly (CHA) is an enzyme-free, high-efficiency, and isothermal amplification method used in nucleic acid detection. It involves the interaction of hairpin structure probes to recognize targets and activate signal amplification.",
+        "Question": "What is the role of the hairpin structure probes in catalytic hairpin assembly (CHA)?",
+        "A": "To act as a primer for DNA polymerase",
+        "B": "To recognize target miRNA and activate signal amplification",
+        "C": "To quench fluorescent signals",
+        "D": "To stabilize the double-stranded DNA",
+        "Answer": "B",
+        "Source": "In this method, a detection scaffold is constructed by the hybridization between H1 probe and H2 probe. The detection scaffold is capable of specifically recognizing target miRNA and activating signal amplification."
+    },
+    "Question_7": {
+        "Context": "Thioflavin T (ThT) is a commercial fluorescent dye used in various biological assays. Its interaction with specific nucleic acid structures can be exploited for signal generation in miRNA detection methods.",
+        "Question": "What specific nucleic acid structure does Thioflavin T (ThT) recognize to generate a fluorescent signal?",
+        "A": "Double helix",
+        "B": "Single-stranded DNA",
+        "C": "G-quadruplex",
+        "D": "Hairpin loop",
+        "Answer": "C",
+        "Source": "The G-quadruplex, a unique secondary structure that is fold by G-rich sequence, may be recognized by the fluorescent dye Thioflavin T (ThT). Following G-quadruplex recognition, ThT generates fluorescence signals with much reduced background and an enhanced signal-to-noise ratio."
+    },
+    "Question_8": {
+        "Context": "In the context of miRNA detection, specificity is critical due to the high sequence homology among different miRNAs. Approaches must be able to distinguish between miRNAs that may differ by only a single nucleotide.",
+        "Question": "Why is specificity particularly challenging in miRNA detection?",
+        "A": "miRNAs are too large to differentiate effectively.",
+        "B": "miRNAs are identical in sequence across different types.",
+        "C": "miRNAs have high sequence homology and may differ by a single nucleotide.",
+        "D": "miRNAs cannot be amplified.",
+        "Answer": "C",
+        "Source": "The high sequence homology between miRNAs made it difficult to be identified. The main difficulty in detecting miRNAs is their sequence homology, even down to single nucleotide differences."
+    },
+    "Question_9": {
+        "Context": "The stability of a miRNA detection approach is important for its application in various sample types, including complex biological matrices such as serum.",
+        "Question": "What does the stability of a miRNA detection approach refer to?",
+        "A": "Its ability to detect miRNA over a wide range of temperatures.",
+        "B": "Its ability to provide consistent results across different sample types.",
+        "C": "Its capacity to detect miRNA without any amplification.",
+        "D": "Its ability to function without any fluorescent dyes.",
+        "Answer": "B",
+        "Source": "To investigate the stability of the approach, miRNA-21 was diluted to 10 pM by different solutions, including the commercial serum, PBS buffer, DEPC water ((diethylpyrocarbonate-treated water) and BSA solution. As shown in Fig. 5A, no significant differences could be observed among the recorded ThT signals in the four samples, indicating a high stability of the approach."
+    },
+    "Question_10": {
+        "Context": "The repeatability of a detection method is a measure of its reliability and is assessed by performing multiple detections of the same sample.",
+        "Question": "What does a low coefficient of variation (CV) in the context of miRNA detection indicate?",
+        "A": "High sensitivity",
+        "B": "High specificity",
+        "C": "High stability",
+        "D": "High repeatability",
+        "Answer": "D",
+        "Source": "To test the repeatability of the approach, 10 sample duplicates were prepared, and the approach was utilized to detect miRNA-21 in the sample duplicates. The calculated CV (coefficient of variation) value from the result in Fig. 5C was 2.76%, implying a high repeatability of the approach."
+    }
+}

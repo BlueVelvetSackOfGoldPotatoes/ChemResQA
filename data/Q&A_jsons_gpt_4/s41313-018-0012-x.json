@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In systems of conservation laws, defects can arise and affect the system's behavior. These defects can be non-smooth and are a challenge to both theory and practical applications.",
+        "Question": "What is a common feature of systems of conservation laws?",
+        "A": "They tend to produce smooth and predictable outcomes.",
+        "B": "They tend to give way to non-smooth defects after only finite time.",
+        "C": "They are only applicable to hydrodynamic systems.",
+        "D": "They always result in unique solutions without additional conditions.",
+        "Answer": "B",
+        "Source": "A remarkable feature of systems of conservation laws is the tendency of smooth initial data to give way to non-smooth defects after only finite time."
+    },
+    "Question_2": {
+        "Context": "In the context of conservation laws, when non-smooth features such as discontinuities appear in solutions to partial differential equations, the concept of a weak solution is introduced to make sense of the equations at later times.",
+        "Question": "What is a weak solution in the context of conservation laws?",
+        "A": "A solution that only applies to weak gravitational fields.",
+        "B": "A solution that does not conserve mass.",
+        "C": "A generalization to make sense of the conservation law when discontinuities are present.",
+        "D": "A solution that is applicable only to integral equations.",
+        "Answer": "C",
+        "Source": "In the presence of discontinuities in u, the derivatives appearing in Eqs. (1-2) are no longer well defined, and so we must generalize our notion of 'solution' to a PDE in order to make sense of the conservation law at later times. Such a generalization is referred to as a weak solution."
+    },
+    "Question_3": {
+        "Context": "In the study of conservation laws, entropy conditions are used as a way to impose additional conditions on the solution to obtain uniqueness.",
+        "Question": "What is the purpose of entropy conditions in the context of conservation laws?",
+        "A": "To ensure that the entropy of the system always decreases.",
+        "B": "To impose inequalities in analogy with the thermodynamical principle that entropy must always increase.",
+        "C": "To modify the conservation laws with additional terms.",
+        "D": "To guarantee that the solution remains smooth at all times.",
+        "Answer": "B",
+        "Source": "Common conditions of this sort include entropy conditions and any of various types of regularization. In the former case, inequalities are imposed in analogy with the thermodynamical principle that entropy must always increase."
+    },
+    "Question_4": {
+        "Context": "Delta shocks are a type of defect that can arise in systems of conservation laws, characterized by having a finite amount of mass concentrated at a point.",
+        "Question": "What defines a delta shock in systems of conservation laws?",
+        "A": "A defect with an infinite amount of mass spread over a region.",
+        "B": "A defect that is smooth and continuous.",
+        "C": "A defect with a finite amount of mass concentrated at a point.",
+        "D": "A defect that moves at the speed of light.",
+        "Answer": "C",
+        "Source": "For our purposes, a delta shock (also written '\u03b4-shock') may be defined informally as any defect which has a finite amount of mass concentrated at a point."
+    },
+    "Question_5": {
+        "Context": "The Rankine-Hugoniot relation is a principle used to describe the conservation of mass across a shock in systems of conservation laws.",
+        "Question": "What does the Rankine-Hugoniot relation describe in the context of conservation laws?",
+        "A": "The conservation of energy across a defect.",
+        "B": "The conservation of mass across a shock.",
+        "C": "The increase of entropy across a shock.",
+        "D": "The velocity of a defect in a stationary system.",
+        "Answer": "B",
+        "Source": "The Rankine-Hugoniot relation is a statement of conservation of mass across a shock. For the case of a regular shock in one spatial dimension which moves with speed \u03c3, mass conservation requires that the net flux into the shock balance the mass of the 'hole' left as the shock moves away."
+    },
+    "Question_6": {
+        "Context": "In systems of conservation laws, the modified Rankine-Hugoniot relation takes into account the mass of the delta shock when describing mass conservation across a shock.",
+        "Question": "What modification is made to the Rankine-Hugoniot relation to account for delta shocks?",
+        "A": "The relation is inverted to account for negative mass.",
+        "B": "The speed of the shock is set to zero.",
+        "C": "The mass of the delta shock is added to the conservation equation.",
+        "D": "The flux function is removed from the equation.",
+        "Answer": "C",
+        "Source": "If we allow the possibility of delta shocks storing mass on the defect, it is now the combination of the hole behind the shock and the mass m of the delta which must balance the incoming flux. The modified Rankine-Hugoniot relation is thus F(ul) \u2212 F(ur) = \u03c3 (ul \u2212 ur) + dm/dt."
+    },
+    "Question_7": {
+        "Context": "In the context of conservation laws, a stationarity condition can be imposed on a defect, demanding that it remains stationary, which is not compatible with the flow of the scalar conserved quantity.",
+        "Question": "What is the effect of imposing a stationarity condition on a defect in a conservation law?",
+        "A": "It causes the defect to move at the speed of light.",
+        "B": "It demands that the defect remains stationary, leading to the formation of delta shocks.",
+        "C": "It ensures that the defect will dissipate over time.",
+        "D": "It has no effect on the behavior of the defect.",
+        "Answer": "B",
+        "Source": "We can also produce a similar effect even in scalar conservation laws by insisting that a defect move according to specified kinematics which are not compatible with the flow of the scalar conserved quantity. The simplest such example is to demand that a defect be stationary."
+    },
+    "Question_8": {
+        "Context": "An irregularization of the Hopf equation is an approach to produce delta-like defects by modifying the flux function in the equation.",
+        "Question": "What is the purpose of an irregularization of the Hopf equation?",
+        "A": "To prevent any defects from forming in the solution.",
+        "B": "To ensure that the solution remains smooth and continuous.",
+        "C": "To produce delta-like defects by modifying the flux function.",
+        "D": "To increase the speed at which defects move in the system.",
+        "Answer": "C",
+        "Source": "We thus find it advantageous to try to construct a 'irregularization' of the Hopf equation which yields such a solution. Our attempted irregularization looks like: ut + (1/2u^2f(\u03f5, ux))x = 0."
+    },
+    "Question_9": {
+        "Context": "In the context of conservation laws, the integral solution is an alternative kind of weak solution that involves integrating the original partial differential equation to remove problematic derivatives.",
+        "Question": "What is an integral solution in the context of conservation laws?",
+        "A": "A solution that involves integrating the original PDE to remove problematic derivatives.",
+        "B": "A solution that only applies to integral equations.",
+        "C": "A solution that is derived from the integration of the conservation laws over time.",
+        "D": "A solution that is used to calculate the integral of the conserved quantity.",
+        "Answer": "A",
+        "Source": "The main alternative kind of weak solution, the integral solution, proceeds instead by integrating the original PDE to remove the problematic derivatives."
+    },
+    "Question_10": {
+        "Context": "In the context of conservation laws, the entropy condition is a type of additional condition that can be imposed on a weak solution to select a proper solution.",
+        "Question": "What is the role of an entropy condition in selecting a weak solution for a conservation law?",
+        "A": "To ensure that the solution maximizes the entropy of the system.",
+        "B": "To select the solution that best conserves mass.",
+        "C": "To provide additional microphysical information to select a proper weak solution.",
+        "D": "To make the weak solution applicable to all types of PDEs.",
+        "Answer": "C",
+        "Source": "Integral solutions are generally not unique, and to select a proper weak solution requires additional microphysical information. This information is usually specified as a relationship between the values of the solution u on either side of a defect; when the relationship takes the form of an inequality it is called an entropy condition."
+    }
+}

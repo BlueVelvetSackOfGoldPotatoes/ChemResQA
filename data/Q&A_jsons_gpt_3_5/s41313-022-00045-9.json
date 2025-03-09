@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "Dislocations in crystals under mechanical loads play a dominant role due to their loop topology and capacity for multiplication. ",
+            "Question": "What is the primary hypothesis regarding the behavior of dislocations when they were first proposed in the twentieth century?",
+            "A": "They behave similarly to point particles.",
+            "B": "They form a liquid at larger scales.",
+            "C": "They exhibit long-range interactions.",
+            "D": "They obey the physics of point-like particles.",
+            "Answer": "A",
+            "Source": "the primary hypothesis was that they behave similarly to point particles"
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "Dislocations in materials require more specific tools and measures for complete characterization.",
+            "Question": "What has been recently understood about the characterization of dislocations in a material?",
+            "A": "It requires classical density metrics.",
+            "B": "It requires more specific tools and measures.",
+            "C": "It is solely based on dislocation density tensor.",
+            "D": "It does not require any specific tools.",
+            "Answer": "B",
+            "Source": "it has been recently understood that the complete characterization of dislocations in a material requires more specific tools and measures"
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "Dislocation networks exhibit a patterned, cellular morphology at higher length scales.",
+            "Question": "What is known to strongly influence mechanical properties in dislocation networks?",
+            "A": "Dislocation density.",
+            "B": "Dislocation junctions.",
+            "C": "Cellular morphology.",
+            "D": "Dislocation loops.",
+            "Answer": "C",
+            "Source": "dislocation networks often exhibit a patterned, cellular morphology which is known to strongly influence mechanical properties"
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "Dislocation networks display immense defect configurational complexity.",
+            "Question": "What leads to immense defect configurational complexity in dislocation networks?",
+            "A": "Dislocation density.",
+            "B": "Loop topology.",
+            "C": "Capacity for multiplication.",
+            "D": "Long-range interactions.",
+            "Answer": "C",
+            "Source": "Their loop topology and capacity for multiplication lead to immense defect configurational complexity"
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "Dislocations exhibit complex and jerky line shapes at the scale of individual dislocations.",
+            "Question": "What type of line shapes do single dislocations exhibit?",
+            "A": "Smooth and straight.",
+            "B": "Complex and jerky.",
+            "C": "Curved and circular.",
+            "D": "Linear and symmetrical.",
+            "Answer": "B",
+            "Source": "single dislocations may develop complex and jerky line shapes"
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "Dislocation correlations require notions and show characteristics unprecedented in systems of point particles.",
+            "Question": "What is unique about dislocation correlations compared to systems of point particles?",
+            "A": "They are predictable.",
+            "B": "They are random.",
+            "C": "They are unprecedented.",
+            "D": "They are negligible.",
+            "Answer": "C",
+            "Source": "dislocation correlations require notions and show characteristics which are unprecedented in systems of point particles"
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "Topological changes in binary junctions drive significant dislocation multiplication on inactive slip systems.",
+            "Question": "What drives significant dislocation multiplication on inactive slip systems?",
+            "A": "Dislocation density.",
+            "B": "Topological changes in binary junctions.",
+            "C": "Dislocation loops.",
+            "D": "Long-range interactions.",
+            "Answer": "B",
+            "Source": "topological changes in binary junctions drive significant dislocation multiplication on inactive slip systems"
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "Dislocation networks require machine-based tools for classification and understanding.",
+            "Question": "What is necessary for the classification and understanding of the complexity in dislocation networks?",
+            "A": "Manual analysis.",
+            "B": "Machine-based tools.",
+            "C": "Visual inspection.",
+            "D": "Statistical analysis.",
+            "Answer": "B",
+            "Source": "the complexity encoded in dislocation networks can be captured through machine learning"
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "Machine learning can capture the complexity encoded in dislocation networks.",
+            "Question": "What can capture the complexity encoded in dislocation networks?",
+            "A": "Manual analysis.",
+            "B": "Visual inspection.",
+            "C": "Machine learning.",
+            "D": "Statistical analysis.",
+            "Answer": "C",
+            "Source": "the complexity encoded in dislocation networks can be captured through machine learning"
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "Proper classification measures are a fundamental prerequisite for the design of microstructures that achieve superior mechanical responses.",
+            "Question": "What is a fundamental prerequisite for the design of microstructures that achieve superior mechanical responses?",
+            "A": "Machine learning.",
+            "B": "Proper classification measures.",
+            "C": "Visual inspection.",
+            "D": "Statistical analysis.",
+            "Answer": "B",
+            "Source": "a fundamental prerequisite for the design of microstructures that achieve superior mechanical responses"
+        }
+    }
+]

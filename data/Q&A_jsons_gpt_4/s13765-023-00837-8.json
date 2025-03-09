@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Obesity is a condition that can lead to various life-threatening comorbidities. Anti-obesity agents can help prevent or treat obesity by inhibiting fat synthesis or promoting fat breakdown.",
+        "Question": "Which fruit extract has been suggested to have potential anti-obesity effects by inhibiting fat synthesis?",
+        "A": "Citrus limon (lemon)",
+        "B": "Malus domestica (apple)",
+        "C": "Asimina triloba (pawpaw)",
+        "D": "Prunus persica (peach)",
+        "Answer": "C",
+        "Source": "The anti-cancer effects of the leaves of Asimina triloba (pawpaw) has been reported. However, limited research has been conducted on the potential anti-obesity effects of A. triloba fruit."
+    },
+    "Question_2": {
+        "Context": "Adipogenesis is the process of cell differentiation where preadipocytes develop into mature adipocytes, which are capable of storing fats. Certain proteins are known to play a crucial role in this process.",
+        "Question": "Which protein is primarily expressed during the advanced stages of adipocyte differentiation and regulates the activation of adipocyte-specific target genes?",
+        "A": "Insulin",
+        "B": "Fatty acid synthase (FAS)",
+        "C": "Peroxisome proliferator-activated receptor \u03b3 (PPAR\u03b3)",
+        "D": "Glyceraldehyde 3-phosphate dehydrogenase (GAPDH)",
+        "Answer": "C",
+        "Source": "Adipose tissues prominently express transcription factors such as peroxisome proliferator-activated receptors (PPARs), CCTTA/enhancer-binding proteins (C/EBPs), and sterol regulatory element-binding protein 1 (SREBP1), which play crucial roles in driving adipocyte differentiation. Notably, PPAR\u03b3 and C/EBP\u03b1 are key regulators of adipogenesis and are primarily expressed during the advanced stages of cellular differentiation."
+    },
+    "Question_3": {
+        "Context": "In the context of obesity, certain transcription factors are involved in the regulation of genes that control the synthesis and storage of fats in adipose tissues.",
+        "Question": "Which transcription factor is known to influence insulin resistance and glucose metabolism in addition to its role in adipogenesis?",
+        "A": "CCTTA/enhancer-binding protein (C/EBP)",
+        "B": "Fatty acid synthase (FAS)",
+        "C": "Sterol regulatory element-binding protein 1 (SREBP1)",
+        "D": "Peroxisome proliferator-activated receptor \u03b3 (PPAR\u03b3)",
+        "Answer": "D",
+        "Source": "Moreover, PPAR\u03b3 influences insulin resistance and glucose metabolism, with its expression being facilitated by C/EBP\u03b1."
+    },
+    "Question_4": {
+        "Context": "The formation of lipid droplets in cells is a marker of adipocyte differentiation and fat accumulation. A specific staining method is used to visualize these lipid droplets.",
+        "Question": "Which staining solution is used to examine lipid droplet formation in cells?",
+        "A": "Hematoxylin and eosin",
+        "B": "Oil Red O",
+        "C": "Coomassie Brilliant Blue",
+        "D": "Alcian Blue",
+        "Answer": "B",
+        "Source": "We specifically examined lipid drop- let formation in these cells using Oil Red O solution and intracellular pro-adipogenic protein levels were examined using western blot analysis."
+    },
+    "Question_5": {
+        "Context": "The differentiation of preadipocytes into adipocytes involves the expression of specific proteins that govern the process of adipogenesis.",
+        "Question": "Which protein is involved in the synthesis of fatty acids within adipocytes?",
+        "A": "Insulin receptor",
+        "B": "Leptin",
+        "C": "Fatty acid synthase (FAS)",
+        "D": "Glucagon",
+        "Answer": "C",
+        "Source": "The differentiation of preadipocytes and the accumulation of lipids in mature adipocytes are intricately regulated processes that involve complex interactions among signal transduction pathways, adipogenic transcription factors, and adipocyte-specific genes. Adipose tissues prominently express transcription factors such as peroxisome proliferator-activated receptors (PPARs), CCTTA/enhancer-binding proteins (C/EBPs), and sterol regulatory element-binding protein 1 (SREBP1), which play crucial roles in driving adipocyte differentiation."
+    },
+    "Question_6": {
+        "Context": "Certain proteins are known to be essential for the process of adipogenesis, and their expression levels can be indicative of the progression of adipocyte differentiation.",
+        "Question": "Which protein's expression is facilitated by CCTTA/enhancer-binding protein \u03b1 (C/EBP\u03b1) and is a key regulator of adipogenesis?",
+        "A": "Glyceraldehyde 3-phosphate dehydrogenase (GAPDH)",
+        "B": "Peroxisome proliferator-activated receptor \u03b3 (PPAR\u03b3)",
+        "C": "Fatty acid synthase (FAS)",
+        "D": "Sterol regulatory element-binding protein 1 (SREBP1)",
+        "Answer": "B",
+        "Source": "Moreover, PPAR\u03b3 influences insulin resistance and glucose metabolism, with its expression being facilitated by C/EBP\u03b1."
+    },
+    "Question_7": {
+        "Context": "The accumulation of lipids in mature adipocytes is a regulated process that involves the expression of specific genes and proteins.",
+        "Question": "Which of the following proteins is not directly involved in the regulation of lipid accumulation in adipocytes?",
+        "A": "Sterol regulatory element-binding protein 1 (SREBP1)",
+        "B": "Peroxisome proliferator-activated receptor \u03b3 (PPAR\u03b3)",
+        "C": "Fatty acid synthase (FAS)",
+        "D": "Glyceraldehyde 3-phosphate dehydrogenase (GAPDH)",
+        "Answer": "D",
+        "Source": "The differentiation of preadipocytes and the accumulation of lipids in mature adipocytes are intricately regulated processes that involve complex interactions among signal transduction pathways, adipogenic transcription factors, and adipocyte-specific genes."
+    },
+    "Question_8": {
+        "Context": "Adipogenesis involves the expression of proteins that regulate the development of preadipocytes into mature fat-storing cells.",
+        "Question": "Which protein is a critical regulator of early adipocyte differentiation and influences the expression of adipogenic genes?",
+        "A": "CCTTA/enhancer-binding protein \u03b1 (C/EBP\u03b1)",
+        "B": "Insulin-like growth factor",
+        "C": "Growth hormone",
+        "D": "C-reactive protein",
+        "Answer": "A",
+        "Source": "Notably, PPAR\u03b3 and C/EBP\u03b1 are key regulators of adipogenesis and are primarily expressed during the advanced stages of cellular differentiation."
+    },
+    "Question_9": {
+        "Context": "In the study of adipogenesis, the expression of certain proteins can be indicative of the suppression or promotion of fat cell differentiation.",
+        "Question": "Which protein's expression is known to increase during the differentiation of preadipocytes into adipocytes?",
+        "A": "Insulin receptor substrate",
+        "B": "Fatty acid synthase (FAS)",
+        "C": "Glucose transporter type 4",
+        "D": "Carnitine palmitoyltransferase I",
+        "Answer": "B",
+        "Source": "As a result of inducing 3T3-L1 differentiation into adipocytes, FAS, SREBP1, PPAR\u03b3, C/EBP\u03b1, and adiponectin were all increased in the control group compared with those in the normal group."
+    },
+    "Question_10": {
+        "Context": "The regulation of energy metabolism in cells involves various enzymes that can influence processes such as glucose and fatty acid oxidation.",
+        "Question": "Which enzyme is crucial for cellular energy homeostasis and is known to play a role in enhancing glucose and fatty acid oxidation?",
+        "A": "Hexokinase",
+        "B": "Phosphofructokinase",
+        "C": "Phospho-AMP-activated protein kinase (p-AMPK)",
+        "D": "Citrate synthase",
+        "Answer": "C",
+        "Source": "Additionally, p-AMPK protein expression, a representative factor of energy metabolism regulation, increased after AT treatment."
+    }
+}

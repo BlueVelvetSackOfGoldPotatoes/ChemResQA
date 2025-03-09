@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Lipases are enzymes that catalyze the hydrolysis of fats and oils, and they can be immobilized to enhance their stability and reusability for industrial applications.",
+        "Question": "What is the primary advantage of immobilizing enzymes such as lipases?",
+        "A": "To increase their reaction speed",
+        "B": "To enhance their stability and reusability",
+        "C": "To change the pH optimum of the reaction",
+        "D": "To reduce the specificity of the enzyme",
+        "Answer": "B",
+        "Source": "In recent years, there has been a significant increase in the research and development of immobilized lipase, with a primary focus on optimizing the supports. As a host material, the supports for enzyme immobilization should possess not only high enzyme capacity but also excellent stability and mechanical strength to match different applications."
+    },
+    "Question_2": {
+        "Context": "Crosslinking is a process where two or more molecules are linked together, which can be used in enzyme immobilization to enhance enzyme stability.",
+        "Question": "What is the role of crosslinking in enzyme immobilization?",
+        "A": "To decrease the activity of the enzyme",
+        "B": "To increase the solubility of the enzyme in water",
+        "C": "To enhance the stability of the immobilized enzyme",
+        "D": "To purify the enzyme from impurities",
+        "Answer": "C",
+        "Source": "During the formation of hydrogels, polysaccharide chains are commonly crosslinked through non-covalent interactions, such as hydrogen bonds and electrostatic forces. The weak interactions that exist between the chains are inadequate to ensure the structural stability of hydrogel."
+    },
+    "Question_3": {
+        "Context": "Schiff base reactions involve the formation of an imine bond between an amine and an aldehyde, which can be utilized in the crosslinking of enzymes.",
+        "Question": "What type of bond is formed in a Schiff base reaction commonly used in enzyme crosslinking?",
+        "A": "Ester bond",
+        "B": "Disulfide bond",
+        "C": "Imines bond",
+        "D": "Hydrogen bond",
+        "Answer": "C",
+        "Source": "First, OCMC with high aldehyde content was used to establish a chemical link through Schiff base\u2019s reaction between the free TLLs; the OCMC@TLLs complex was subsequently crosslinked with CMCHS to yield the TLLs-containing hydrogel (OCMC/CMCHS@TLLs)."
+    },
+    "Question_4": {
+        "Context": "The secondary structure of proteins, including enzymes, is important for their function and can be analyzed using techniques such as Circular Dichroism (CD) and Fourier Transform infrared spectroscopy (FT-IR).",
+        "Question": "Which techniques are commonly used to analyze the secondary structure of enzymes?",
+        "A": "Mass spectrometry and UV-Vis spectroscopy",
+        "B": "Nuclear magnetic resonance and X-ray crystallography",
+        "C": "Circular Dichroism (CD) and Fourier Transform infrared spectroscopy (FT-IR)",
+        "D": "High-performance liquid chromatography and gas chromatography",
+        "Answer": "C",
+        "Source": "To clarify the impact of OCMC and GA on the activity of TLLs, the secondary structure of free TLLs, OCMC@TLLs, and GA@TLLs was analyzed by CD and FT-IR spectra."
+    },
+    "Question_5": {
+        "Context": "Enzymes can be immobilized in hydrogels, which are three-dimensional networks capable of holding large amounts of water, providing an optimal microenvironment for enzyme activity.",
+        "Question": "What is the main characteristic of hydrogels that makes them suitable for enzyme immobilization?",
+        "A": "Hydrophobicity",
+        "B": "Opacity",
+        "C": "Water-rich structure",
+        "D": "Rigidity",
+        "Answer": "C",
+        "Source": "Moreover, due to their highly hydrophilic nature and water-rich structure, hydrogels provide an optimal microenvironment for enzymes, thereby promoting the preservation of their conformation."
+    },
+    "Question_6": {
+        "Context": "The Michaelis constant (Km) is a parameter that reflects the affinity of an enzyme for its substrate, with a lower Km indicating a higher affinity.",
+        "Question": "What does a lower Michaelis constant (Km) indicate about an enzyme's affinity for its substrate?",
+        "A": "Lower affinity",
+        "B": "Higher affinity",
+        "C": "No change in affinity",
+        "D": "The enzyme is denatured",
+        "Answer": "B",
+        "Source": "By performing linear regression on 1 rs and 1 Cs , the Km values of TLLs in three forms were calculated and are listed in Table 2. The Km value of OCMC@TLLs complex was 2.917 mmol/L, whereas that of free TLLs was 1.396 mmol/L, indicating a slight alteration in the conformation of TLLs."
+    },
+    "Question_7": {
+        "Context": "Enzymes can exhibit different optimal pH values, which is the pH at which the enzyme shows maximum activity.",
+        "Question": "What is the optimal pH of an enzyme?",
+        "A": "The pH at which the enzyme is most stable",
+        "B": "The pH at which the enzyme shows maximum activity",
+        "C": "The pH at which the enzyme is least active",
+        "D": "The pH at which the enzyme denatures",
+        "Answer": "B",
+        "Source": "In the experimental condition, the optimum pH of free TLLs and OCMC/CMCHS@TLLs was found to be approximately 8.0."
+    },
+    "Question_8": {
+        "Context": "The oil\u2013water partition coefficient (Log P) is a measure of a compound's hydrophobicity or lipophilicity, with higher values indicating greater lipophilicity.",
+        "Question": "What does a higher oil\u2013water partition coefficient (Log P) indicate about a compound?",
+        "A": "Greater hydrophilicity",
+        "B": "Greater lipophilicity",
+        "C": "Lower solubility in water",
+        "D": "Higher boiling point",
+        "Answer": "B",
+        "Source": "The Log P values of arbutin and 6\u2019-O-lauroyl arbutin were determined in an octanol/water solution with a phase ratio of 1:1. As illustrated in Fig. 9A, the Log P value of \u03b1-arbutin was -1.51, indicating its potent hydrophilicity; however, the Log P value of 6\u2019-O-lauroylarbutin was as high as 3.18, demonstrating that the lipophilicity of arbutin was greatly enhanced by introducing a long-chain fatty acyl group."
+    },
+    "Question_9": {
+        "Context": "Tyrosinase is an enzyme that catalyzes the production of melanin and other pigments from tyrosine by oxidation, and its inhibitors are used in cosmetic products to reduce skin pigmentation.",
+        "Question": "What is the function of tyrosinase inhibitors in cosmetic products?",
+        "A": "To increase skin pigmentation",
+        "B": "To reduce skin pigmentation",
+        "C": "To enhance skin hydration",
+        "D": "To protect skin from UV radiation",
+        "Answer": "B",
+        "Source": "Thus, it is now widely used in the production of whitening cosmetics. From a structural perspective, arbutin consists of two components, namely, a glucoside and a phenolic group."
+    },
+    "Question_10": {
+        "Context": "DPPH (2,2-diphenyl-1-picrylhydrazyl) is a stable free radical used in assays to measure the antioxidant activity of compounds, where a lower IC50 value indicates stronger antioxidant activity.",
+        "Question": "In DPPH assays used to measure antioxidant activity, what does a lower IC50 value indicate?",
+        "A": "Stronger acidity",
+        "B": "Weaker antioxidant activity",
+        "C": "Stronger antioxidant activity",
+        "D": "Higher toxicity",
+        "Answer": "C",
+        "Source": "The activity of \u03b1-arbutin and 6\u2032-O-lauroylarbutin as anti-oxidants was assessed by the DPPH method. Figure 9C demonstrates that the scavenging rate of all three samples against DPPH radical gradually increases as their concentrations rise, indicating a distinct dose\u2013response relationship."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the fabrication of a 3D hierarchically structured polyaniline nanoweb (3D HPN) for capturing drug-resistant bacteria from the skin surface. ",
+        "Question": "What is the main purpose of constructing the 3D HPN?",
+        "A": "To detect viruses in the skin",
+        "B": "To capture and identify drug-resistant bacteria on the skin",
+        "C": "To analyze DNA samples",
+        "D": "To study the effects of antibiotics on bacteria",
+        "Answer": "B",
+        "Source": "we constructed a three-dimensional hierarchically structured polyaniline nanoweb (3D HPN) to capture, enrich, and detect drug-resistant bacteria on-site by rubbing infected skins."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the use of a real-time PCR-based molecular analysis to confirm single bacterial cell capturability and mechanical reliability against shear stress.",
+        "Question": "What method was used to confirm single bacterial cell capturability?",
+        "A": "Culturing",
+        "B": "Real-time PCR analysis",
+        "C": "Fluorescent signal interruption",
+        "D": "Antibiotic susceptibility testing",
+        "Answer": "B",
+        "Source": "The real-time PCR results show the effective capturability of 3D HPN over a broad range of cell concentrations."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the entrapment and anti-release efficiency of 3D HPN when entrapping KPC-CRE bacteria.",
+        "Question": "What was the entrapment efficiency of 3D HPN with KPC-CRE concentrations ranging from 100 to 104 CFU/mL?",
+        "A": "Approximately 85%",
+        "B": "100%",
+        "C": "75%",
+        "D": "50%",
+        "Answer": "A",
+        "Source": "3D HPN exhibits approximately 85% entrapment efficiency, which is determined in terms of Scheme 1."
+    },
+    "Question_4": {
+        "Context": "The paper mentions the live/dead assay performed to confirm the state of the bacteria entrapped on 3D HPN.",
+        "Question": "What was observed in the live/dead assay after 1-hour entrapment of KPC-CRE?",
+        "A": "All bacteria were alive",
+        "B": "All bacteria were dead",
+        "C": "Some dead bacteria",
+        "D": "No bacteria were captured",
+        "Answer": "C",
+        "Source": "Figure 2c shows several dead bacteria on 3D HPN after 1 h entrapment."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the practical applicability of 3D HPN for pathogenic bacterial entrapment and detection.",
+        "Question": "What was used as a realistic model of human skin in the study?",
+        "A": "Human skin",
+        "B": "Mouse skin",
+        "C": "Micropig skin",
+        "D": "Rat skin",
+        "Answer": "C",
+        "Source": "Micropig skin was selected as a realistic model of human skin."
+    },
+    "Question_6": {
+        "Context": "The paper mentions the fabrication of 3D HPN films for capturing MDR KPC-CRE from the skin surface.",
+        "Question": "What was the detection sensitivity of the real-time PCR assay using 3D HPN?",
+        "A": "104 CFU/mL",
+        "B": "105 CFU/mL",
+        "C": "102 CFU/mL",
+        "D": "107 CFU/mL",
+        "Answer": "C",
+        "Source": "The detection sensitivity of this assay is 102 CFU/mL."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the entrapment and analysis of bacteria on 3D HPN.",
+        "Question": "What was the entrapment coverage when 107 cells were loaded on 3D HPN?",
+        "A": "50 counts per 100 \u03bcm2",
+        "B": "75 counts per 100 \u03bcm2",
+        "C": "100 counts per 100 \u03bcm2",
+        "D": "25 counts per 100 \u03bcm2",
+        "Answer": "B",
+        "Source": "Entrapment coverage displays a maximum of 75 counts per 100 \u03bcm2 when 107 cells are loaded."
+    },
+    "Question_8": {
+        "Context": "The paper mentions the anti-release efficiency evaluation of 3D HPN when entrapping KPC-CRE bacteria.",
+        "Question": "What was the anti-release efficiency of 3D HPN with KPC-CRE concentrations ranging from 100 to 104 CFU/mL?",
+        "A": "100%",
+        "B": "85%",
+        "C": "75%",
+        "D": "50%",
+        "Answer": "A",
+        "Source": "3D HPN exhibits 100% anti-release efficiency for the given KPC-CRE concentrations."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the synthesis of 3D HPN and its characterization.",
+        "Question": "What were the layers deposited on the surface of PUN films during the fabrication of 3D HPN?",
+        "A": "Titanium and Silver",
+        "B": "Gold and Silver",
+        "C": "Titanium and Gold",
+        "D": "Platinum and Gold",
+        "Answer": "C",
+        "Source": "In addition, 20 nm thick titanium (Ti) and 200 nm thick gold (Au) were deposited on the surface of PUN films."
+    },
+    "Question_10": {
+        "Context": "The paper mentions the use of a real-time PCR-based molecular analysis to confirm single bacterial cell capturability and mechanical reliability against shear stress.",
+        "Question": "What was the sensitivity of the real-time PCR assay using 3D HPN?",
+        "A": "105 CFU/mL",
+        "B": "102 CFU/mL",
+        "C": "104 CFU/mL",
+        "D": "107 CFU/mL",
+        "Answer": "B",
+        "Source": "The detection sensitivity of this assay is 102 CFU/mL."
+    }
+}

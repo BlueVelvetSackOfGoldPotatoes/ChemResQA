@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the incorporation of nanomaterials into composites for enhancing electrical properties.",
+        "Question": "What is the major challenge in successfully integrating nanomaterials into composites during the manufacturing process?",
+        "A": "Ensuring smooth surface finish",
+        "B": "Achieving high thermal conductivity",
+        "C": "Preventing voids and dry spots",
+        "D": "Enhancing mechanical properties",
+        "Answer": "C",
+        "Source": "Enhancement of the matrix phase can lead to significant increases in viscosity causing restricted rein flow, uneven nanomaterial distribution, voids and dry spots, which can severely limit the possible composite manufacturing techniques that can be employed."
+    },
+    "Question_2": {
+        "Context": "The study explores the spray deposition of exfoliated graphene in liquid suspensions for enhancing electrical properties.",
+        "Question": "What is the purpose of incorporating nanomaterials such as graphene into composites?",
+        "A": "To reduce electrical conductivity",
+        "B": "To decrease mechanical properties",
+        "C": "To enhance electrical, thermal, and mechanical properties",
+        "D": "To increase voids in the composite",
+        "Answer": "C",
+        "Source": "The incorporation of nanomaterials such as graphene into composites has great potential for enhancing electrical, thermal, and mechanical properties."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the use of graphene in enhancing the electrical conductivity of carbon-fibre reinforced composites.",
+        "Question": "What is the effect of adding 1.3 wt% graphene into the interlayers of CF-PEEK composites?",
+        "A": "1100% enhancement in thermal conductivity",
+        "B": "67.5% enhancement in mechanical properties",
+        "C": "1100% enhancement in in-plane electrical conductivity",
+        "D": "67.5% enhancement in thermal conductivity",
+        "Answer": "C",
+        "Source": "The addition of 1.3 wt% graphene into the interlayers of CF-PEEK composites resulted in bulk electrical conductivity enhancement both in plane and through thickness of ~ 1100% and 67.5% respectively."
+    },
+    "Question_4": {
+        "Context": "The study involves the spray deposition of graphene in liquid suspensions for enhancing electrical properties.",
+        "Question": "What is the significance of liquid phase exfoliation (LPE) in producing graphene compared to other methods?",
+        "A": "Higher cost and lower quality",
+        "B": "Scalable method with high quality and low cost",
+        "C": "Limited scalability and high purity",
+        "D": "Inefficient compared to mechanical exfoliation",
+        "Answer": "B",
+        "Source": "Liquid phase exfoliation (LPE) is a scalable method that can produce high quality, high purity graphene at relatively low cost compared to mechanical exfoliation, chemical vapour deposition, synthesis on SiC, bottom up synthesis, and the reduction of graphene oxide (GO) methods."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the enhancement of electrical and thermal conductivity in carbon fibre reinforced polymer composites.",
+        "Question": "What properties classify polyether ether ketone (PEEK) as a high-performance polymer matrix material?",
+        "A": "Low strength and poor chemical resistance",
+        "B": "High strength, chemically-resistant, and temperature-tolerant",
+        "C": "Low temperature tolerance and poor chemical resistance",
+        "D": "Low strength and high thermal conductivity",
+        "Answer": "B",
+        "Source": "The high strength, chemically-resistant, and temperature-tolerant properties of polyether ether ketone (PEEK) classify it as a high-performance polymer matrix material suited to aerospace and automotive industries."
+    },
+    "Question_6": {
+        "Context": "The study involves the incorporation of nanomaterials into fibre reinforced polymer composites.",
+        "Question": "Which nanomaterial has been effective in enhancing the insulating nature of polymer matrix systems?",
+        "A": "Carbon black",
+        "B": "Graphene oxide",
+        "C": "Silver nanowires",
+        "D": "Carbon nanotubes (CNTs)",
+        "Answer": "B",
+        "Source": "Several nanomaterials have been investigated as inclusions into fibre reinforced composite systems to electrically enhance the insulating nature of polymer matrix systems including carbon black, carbon nanotubes (CNTs), graphene nanoplatelets (GNPs), graphene oxide, silver nanowires and combinations of nanomaterial additions."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the enhancement of composite properties through the addition of nanomaterials.",
+        "Question": "What is the advantage of carbonaceous nanomaterials over metallic nanoadditions in composites?",
+        "A": "Higher cost",
+        "B": "Galvanically compatible with carbon fibres",
+        "C": "Lower electrical conductivity",
+        "D": "Reduced mechanical properties",
+        "Answer": "B",
+        "Source": "Carbonaceous nanomaterials are also galvanically compatible with carbon fibres, unlike metallic nanoadditions."
+    },
+    "Question_8": {
+        "Context": "The study explores the spray deposition of nanomaterials onto composite substrates.",
+        "Question": "What is the purpose of spray-deposition methods onto plies in functionalizing composites?",
+        "A": "To decrease electrical conductivity",
+        "B": "To enhance fracture toughness",
+        "C": "To reduce thermal conductivity",
+        "D": "To enable functionalization while using LPE nanomaterials",
+        "Answer": "D",
+        "Source": "Spray-deposition methods onto plies have been used to functionalise composites while also enabling the use of LPE nanomaterials."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the enhancement of composite properties through interlayer additions of nanomaterials.",
+        "Question": "What is the effect of adding multi-walled CNT buckypaper interleaves into epoxy CFRP?",
+        "A": "Decreased through-thickness conductivity",
+        "B": "Increased in-plane conductivity",
+        "C": "Enhanced mechanical properties",
+        "D": "Improved thermal conductivity",
+        "Answer": "B",
+        "Source": "Multi-walled CNT buckypaper interleaves 0.15 mm thick have been added into epoxy CFRP resulting in through-thickness conductivity values of 0.52 Scm\u2212 1."
+    },
+    "Question_10": {
+        "Context": "The study involves the investigation of electrical property enhancement in carbon fibre PEEK prepreg tape through interlayer additions.",
+        "Question": "What is the benefit of the aqueous graphene nanosuspension synthesized using LPE methods?",
+        "A": "Low graphene concentration",
+        "B": "High graphene concentration",
+        "C": "Low quality graphene",
+        "D": "High cost of production",
+        "Answer": "B",
+        "Source": "The aqueous graphene suspension was synthesised in an ultrasonic flow cell via the liquid-phase exfoliation of graphite using a pluronic non-ionic surfactant to achieve high graphene concentrations of ~ 1.5 wt%."
+    }
+}

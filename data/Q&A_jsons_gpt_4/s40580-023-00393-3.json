@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of molecular biology, reverse transcription-quantitative polymerase chain reaction (RT-qPCR) is a laboratory technique combining reverse transcription of RNA into DNA and amplification of specific DNA targets using polymerase chain reaction. It is primarily used to measure the amount of a specific RNA.",
+        "Question": "What is the primary use of reverse transcription-quantitative polymerase chain reaction (RT-qPCR)?",
+        "A": "To measure the pH level of a solution",
+        "B": "To measure the amount of a specific RNA",
+        "C": "To visualize cell structures",
+        "D": "To create DNA mutations",
+        "Answer": "B",
+        "Source": "This was confirmed by both reverse transcription-quantitative polymerase chain reaction (RT-qPCR) and lateral flow assays (LFA) in virus-spiked nasal samples and clinical samples."
+    },
+    "Question_2": {
+        "Context": "In biochemistry, a lateral flow assay (LFA) is a simple diagnostic device used to confirm the presence or absence of a target analyte, such as pathogens or biomarkers in humans or animals, or contaminants in water supplies, foodstuffs, or animal feeds.",
+        "Question": "What is the purpose of a lateral flow assay (LFA)?",
+        "A": "To confirm the presence of a target analyte",
+        "B": "To measure the concentration of glucose in blood",
+        "C": "To determine the molecular weight of proteins",
+        "D": "To calculate the rate of enzymatic reactions",
+        "Answer": "A",
+        "Source": "This was confirmed by both reverse transcription-quantitative polymerase chain reaction (RT-qPCR) and lateral flow assays (LFA) in virus-spiked nasal samples and clinical samples."
+    },
+    "Question_3": {
+        "Context": "The viscosity of a fluid is a measure of its resistance to deformation at a given rate. For liquids, it corresponds to the informal concept of 'thickness'. For example, honey has a higher viscosity than water.",
+        "Question": "What does the viscosity of a fluid describe?",
+        "A": "Its resistance to flow",
+        "B": "Its boiling point",
+        "C": "Its ability to conduct electricity",
+        "D": "Its color",
+        "Answer": "A",
+        "Source": "Conversely, NF samples with high viscosity were prepared using 100% glycerol, chosen for its viscosity similarity to that found in patients with symptomatic conditions."
+    },
+    "Question_4": {
+        "Context": "Glycerol, also known as glycerine, is a simple polyol compound. It is a colorless, odorless, viscous liquid that is sweet-tasting and non-toxic. It is widely used in pharmaceutical formulations.",
+        "Question": "What is glycerol commonly used for in pharmaceutical formulations?",
+        "A": "As a sweetener",
+        "B": "As a preservative",
+        "C": "As a viscosity agent",
+        "D": "As a coloring agent",
+        "Answer": "C",
+        "Source": "Conversely, NF samples with high viscosity were prepared using 100% glycerol, chosen for its viscosity similarity to that found in patients with symptomatic conditions."
+    },
+    "Question_5": {
+        "Context": "Phosphate buffered saline (PBS) is a buffer solution commonly used in biological research. It is a water-based salt solution containing sodium chloride, sodium phosphate, and, in some formulations, potassium chloride and potassium phosphate.",
+        "Question": "What is the composition of phosphate buffered saline (PBS)?",
+        "A": "Sodium chloride and sodium phosphate",
+        "B": "Glucose and fructose",
+        "C": "Calcium carbonate and magnesium sulfate",
+        "D": "Ethanol and water",
+        "Answer": "A",
+        "Source": "Phosphate buffered saline (PBS, pH 7.4) was purchased from Gibco (Grand Island, NY, USA)."
+    },
+    "Question_6": {
+        "Context": "Computational fluid dynamics (CFD) is a branch of fluid mechanics that uses numerical analysis and data structures to solve and analyze problems that involve fluid flows.",
+        "Question": "What is the purpose of computational fluid dynamics (CFD)?",
+        "A": "To solve and analyze problems involving fluid flows",
+        "B": "To calculate the nutritional value of food",
+        "C": "To determine the electrical conductivity of materials",
+        "D": "To predict weather patterns",
+        "Answer": "A",
+        "Source": "The pressure, the velocity of the fluid, and the motion of NF were calculated by Multiphysics version 5.4 (COMSOL Inc., Burlington, MA, USA)."
+    },
+    "Question_7": {
+        "Context": "The Navier\u2013Stokes equations are differential equations that describe the motion of viscous fluid substances. These equations establish the relationship between the velocity of a fluid and the forces acting upon it.",
+        "Question": "What do the Navier\u2013Stokes equations describe in fluid dynamics?",
+        "A": "The color change in a fluid",
+        "B": "The temperature distribution within a fluid",
+        "C": "The motion of viscous fluid substances",
+        "D": "The electrical properties of a fluid",
+        "Answer": "C",
+        "Source": "The Navier\u2013Stokes equation was used for the calculation of the fluid velocity and pressure."
+    },
+    "Question_8": {
+        "Context": "In the context of fluid dynamics, the Reynolds number is a dimensionless quantity that is used to predict flow patterns in different fluid flow situations. It is defined as the ratio of inertial forces to viscous forces and is used to predict the transition from laminar to turbulent flow.",
+        "Question": "What does the Reynolds number predict in fluid dynamics?",
+        "A": "The transition from solid to liquid state",
+        "B": "The transition from laminar to turbulent flow",
+        "C": "The viscosity of a fluid",
+        "D": "The boiling point of a fluid",
+        "Answer": "B",
+        "Source": "The NF has a low Reynolds number from 4.68 \u00d7 10\u20133 at \u03bc0 to 191.09 at \u03bc in the flow channel so that the flow of the NF followed the continuity equation and the momentum equation of Navier\u2013Stokes equation for laminar flow."
+    },
+    "Question_9": {
+        "Context": "Polymerase chain reaction (PCR) is a method widely used in molecular biology to rapidly make millions to billions of copies of a specific DNA sample, allowing scientists to take a very small sample of DNA and amplify it to a large enough amount to study in detail.",
+        "Question": "What is the primary purpose of polymerase chain reaction (PCR)?",
+        "A": "To amplify a specific DNA sample",
+        "B": "To change the pH of a solution",
+        "C": "To visualize DNA under a microscope",
+        "D": "To extract proteins from a cell",
+        "Answer": "A",
+        "Source": "The viral load of the collected NF was estimated using both RT-qPCR and LFA."
+    },
+    "Question_10": {
+        "Context": "In biochemistry, tris(2-carboxyethyl)phosphine hydrochloride (TCEP) is a reducing agent frequently used to break disulfide bonds within and between proteins as a preparatory step for gel electrophoresis.",
+        "Question": "What is the function of tris(2-carboxyethyl)phosphine hydrochloride (TCEP) in biochemistry?",
+        "A": "To increase the pH of solutions",
+        "B": "To act as a preservative",
+        "C": "To break disulfide bonds within and between proteins",
+        "D": "To serve as a viscosity agent",
+        "Answer": "C",
+        "Source": "The virus sample was processed at the Biosafety Level 3 (BL-3) facility of the Korea Research Institute of Bioscience and Biotechnology (KRIBB), which is approved by the Korea Centers for Disease Control and Prevention (KCDC). In detail, 90 \u03bcL of virus samples were combined with 10 \u03bcL of TCEP/EDTA (final concentrations of 100 and 1 mM, respectively)."
+    }
+}

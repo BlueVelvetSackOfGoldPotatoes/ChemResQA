@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study of material deformation, the Portevin\u2013Le Chatelier effect is a phenomenon observed in ductile materials, particularly metals, where plastic deformation occurs through localized bands.",
+        "Question": "What does the Portevin\u2013Le Chatelier effect imply in the context of material deformation?",
+        "A": "Elastic deformation throughout the material",
+        "B": "Creation of deformation bands in a sample when loaded beyond the yield point",
+        "C": "Uniform plastic deformation across the material",
+        "D": "Immediate failure of the material upon loading",
+        "Answer": "B",
+        "Source": "The PLC effect implies the creation of deformation bands in a sample (Fig. 1) when loaded beyond the yield point."
+    },
+    "Question_2": {
+        "Context": "In materials science, different types of Portevin\u2013Le Chatelier bands are classified based on their propagation characteristics.",
+        "Question": "Which type of Portevin\u2013Le Chatelier band is characterized by propagating in an intermittent, 'hopping' fashion?",
+        "A": "Type A",
+        "B": "Type B",
+        "C": "Type C",
+        "D": "Type D",
+        "Answer": "B",
+        "Source": "Recall that such bands nucleate, and may or may not propagate depending on the class of PLC instability present (type A denotes propagating bands, type B bands that propagate in an intermittent, 'hopping' fashion, and type C non-propagating bands)."
+    },
+    "Question_3": {
+        "Context": "Dynamic Strain Aging is a process that contributes to the Portevin\u2013Le Chatelier effect and involves the interaction between dislocations and solute atoms in metal alloys.",
+        "Question": "What is the fundamental source of plastic deformation in metals that interacts with solute atoms during Dynamic Strain Aging?",
+        "A": "Grain boundaries",
+        "B": "Interstitial defects",
+        "C": "Dislocations",
+        "D": "Vacancies",
+        "Answer": "C",
+        "Source": "The PLC effect is attributed to Dynamic Strain Aging (DSA), and the crucial physics is in the interaction of the dislocations as the fundamental source of plastic deformation with the solute atoms in the metal alloy."
+    },
+    "Question_4": {
+        "Context": "Strain-Rate Sensitivity (SRS) is a material property that describes how the flow stress of a material changes with the rate of strain.",
+        "Question": "What kind of Strain-Rate Sensitivity is related to the Portevin\u2013Le Chatelier effect?",
+        "A": "Positive Strain-Rate Sensitivity",
+        "B": "Zero Strain-Rate Sensitivity",
+        "C": "Negative Strain-Rate Sensitivity",
+        "D": "Infinite Strain-Rate Sensitivity",
+        "Answer": "C",
+        "Source": "This kind of phenomena \u2013 related to negative Strain-Rate Sensitivity (SRS) \u2013 arises as a strain rate dependent phenomenon; moreover its character and presence are dependent on the temperature."
+    },
+    "Question_5": {
+        "Context": "The Portevin\u2013Le Chatelier effect is influenced by the strain rate applied to the material during deformation.",
+        "Question": "How does the band velocity in the Portevin\u2013Le Chatelier effect typically change with applied strain?",
+        "A": "Increases exponentially",
+        "B": "Decreases exponentially",
+        "C": "Remains constant",
+        "D": "Fluctuates unpredictably",
+        "Answer": "B",
+        "Source": "One common observation has been the decrease of the band velocity vb with applied strain \u03f5ext."
+    },
+    "Question_6": {
+        "Context": "The Portevin\u2013Le Chatelier effect can be modeled to understand its behavior under different conditions.",
+        "Question": "In the context of modeling the Portevin\u2013Le Chatelier effect, what is the relationship between band velocity and applied strain rate?",
+        "A": "Directly proportional",
+        "B": "Inversely proportional",
+        "C": "No relationship",
+        "D": "Proportional to the square of the strain rate",
+        "Answer": "A",
+        "Source": "Another relation is a power-law relation of the band velocity to the applied strain rate vb \u221d \u03f5s ext,t."
+    },
+    "Question_7": {
+        "Context": "In the context of the Portevin\u2013Le Chatelier effect, the aging behavior of dislocation assemblies is an important factor to consider in modeling.",
+        "Question": "What does the aging behavior of dislocation assemblies refer to in the context of material deformation?",
+        "A": "The increase in material brittleness over time",
+        "B": "The accumulation of solute atoms around dislocations",
+        "C": "The loss of dislocation mobility due to temperature changes",
+        "D": "The recovery of material properties after deformation",
+        "Answer": "B",
+        "Source": "The main question is how one can reproduce such experiments with a model that accounts for the aging behavior of dislocation assemblies."
+    },
+    "Question_8": {
+        "Context": "The Voce hardening model is used to describe the hardening behavior of materials during plastic deformation.",
+        "Question": "What does the Voce hardening model account for in the context of material deformation?",
+        "A": "Elastic recovery after unloading",
+        "B": "Creep deformation over time",
+        "C": "Strain hardening during plastic deformation",
+        "D": "Thermal softening at high temperatures",
+        "Answer": "C",
+        "Source": "To account for the hardening and to match with the experimental behavior (stress-strain curve) the equation for the internal stress uses the Voce hardening model (Voce 1948) with hardening parameters h0 and hexp as the first modification of the HR model."
+    },
+    "Question_9": {
+        "Context": "In material deformation studies, the strain rate can influence the behavior of deformation bands.",
+        "Question": "What modification is introduced in the modeling of the Portevin\u2013Le Chatelier effect to account for the influence of strain rate on band velocity?",
+        "A": "A constant diffusion coefficient",
+        "B": "A strain rate dependent diffusion coefficient",
+        "C": "A temperature dependent diffusion coefficient",
+        "D": "A stress dependent diffusion coefficient",
+        "Answer": "B",
+        "Source": "To reproduce the band velocity variation and its dependence on the applied strain rate we introduced a random initial condition, by a Gaussian distribution of the plastic strain rate around a mean \u03f50 p,t and with a standard deviation \ufffd\u03f50 p,t, together with fully aged dislocations Gag 0 = Gag \u221e and an initial external stress \u03c3 0 ext."
+    },
+    "Question_10": {
+        "Context": "The distribution of band propagation distances or avalanche sizes is a characteristic of interest in the study of the Portevin\u2013Le Chatelier effect.",
+        "Question": "Which model is known to reproduce the statistics of band propagation distances or avalanche sizes well in the context of the Portevin\u2013Le Chatelier effect?",
+        "A": "The Voce hardening model",
+        "B": "The H\u00e4hner-Rizzi model",
+        "C": "The Alessandro\u2013Beatrice\u2013Bertotti\u2013Montorsi (ABBM) model",
+        "D": "The Kubin\u2013Estrin model",
+        "Answer": "C",
+        "Source": "The ABBM approach has a formal expression for P(S) which nicely reproduces the experiment while the H\u00e4hner-Rizzi model variant nevertheless produces a wide distribution which is also surprisingly close to the experimental one."
+    }
+}

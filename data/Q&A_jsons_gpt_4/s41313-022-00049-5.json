@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In quantum chemistry, the electronic structure of a molecule can be described by a Hamiltonian under the Born-Oppenheimer approximation.",
+        "Question": "What does the Born-Oppenheimer approximation in quantum chemistry imply?",
+        "A": "It considers the motion of electrons and nuclei separately.",
+        "B": "It assumes that the nuclei are stationary.",
+        "C": "It only accounts for electron-electron interactions.",
+        "D": "It is a method to calculate the spin of electrons.",
+        "Answer": "B",
+        "Source": "The non-relativistic electronic Schr\u00f6dinger eigenvalue equation of quantum chemistry can be written as where H is the electronic structure Hamiltonian under the Born-Oppenheimer approximation."
+    },
+    "Question_2": {
+        "Context": "In quantum chemistry, pseudopotentials are used to simplify the interaction between electrons and nuclei in plane-wave calculations.",
+        "Question": "Why are pseudopotentials used in plane-wave calculations?",
+        "A": "To increase the accuracy of the electron-electron repulsion term.",
+        "B": "To represent the electron-ion interactions without singular potentials.",
+        "C": "To calculate the exact exchange energies more easily.",
+        "D": "To enforce the Pauli exclusion principle.",
+        "Answer": "B",
+        "Source": "A standard way to remove this issue in plane-wave calculations is to replace these singular potentials by pseudopotentials."
+    },
+    "Question_3": {
+        "Context": "The second-quantization form of the Hamiltonian uses creation and annihilation operators to enforce the antisymmetry of the wavefunction.",
+        "Question": "What is automatically enforced by the standard Fermionic anti-commutation relations in the second-quantized Hamiltonian?",
+        "A": "The Pauli exclusion principle.",
+        "B": "The Born-Oppenheimer approximation.",
+        "C": "The electron-ion interaction.",
+        "D": "The kinetic energy operator.",
+        "Answer": "A",
+        "Source": "A nice feature about this form of the Hamiltonian is that the antisymmetry of wavefunction requirement as given in Eq. 2 is automatically enforced through the standard Fermionic anti-commutation relations."
+    },
+    "Question_4": {
+        "Context": "In quantum chemistry, the use of plane-wave basis sets can lead to a large number of orbitals describing the first Brillouin zone.",
+        "Question": "What is a consequence of using plane-wave basis sets in quantum chemistry calculations?",
+        "A": "Decreased computational cost.",
+        "B": "Simplified electron-electron repulsion calculations.",
+        "C": "A large number of orbitals describing the first Brillouin zone.",
+        "D": "Automatic inclusion of pseudopotentials.",
+        "Answer": "C",
+        "Source": "At first glance, periodic many-body calculations would appear to be intractable because the expansion of one-electron orbitals in terms of Bloch states leads to a large number of orbitals describing the first Brillouin zone."
+    },
+    "Question_5": {
+        "Context": "The integration of the first Brillouin zone is a critical step in calculating two-electron integrals with periodic boundary conditions.",
+        "Question": "Why is the integration of the first Brillouin zone important in calculations with periodic boundary conditions?",
+        "A": "It determines the total energy of the system.",
+        "B": "It is necessary for calculating exact exchange energies.",
+        "C": "It simplifies the Hamiltonian to a single particle problem.",
+        "D": "It allows for the use of the Rayleigh-Ritz method.",
+        "Answer": "B",
+        "Source": "While this is natural for plane-wave DFT methods with low levels of theory, it is significantly more complicated to calculate exact exchange and the other two-electron integrals with periodic boundary conditions, as it requires special integration strategies to handle the integration of the Brillouin zone."
+    },
+    "Question_6": {
+        "Context": "The Pauli exclusion principle is a fundamental principle in quantum mechanics that affects the behavior of electrons in atoms and molecules.",
+        "Question": "According to the Pauli exclusion principle, what happens to the wavefunction when the coordinates of two electrons are interchanged?",
+        "A": "The wavefunction remains unchanged.",
+        "B": "The wavefunction increases in magnitude.",
+        "C": "The wavefunction changes sign.",
+        "D": "The wavefunction becomes zero.",
+        "Answer": "C",
+        "Source": "For the Born-Oppenheimer Hamiltonian, the interaction between the electrons and nuclei are described by the proper potentials Ze |ri\u2212RA|, which for plane-wave solvers can cause trouble with convergence because of the singular behavior at |r \u2212 RA|. A standard way to remove this issue in plane-wave calculations is to replace these singular potentials by pseudopotentials."
+    },
+    "Question_7": {
+        "Context": "The kinetic energy operator is a component of the Hamiltonian used in quantum chemistry to describe the motion of particles.",
+        "Question": "What does the kinetic energy operator in the Hamiltonian represent?",
+        "A": "The potential energy of the electrons.",
+        "B": "The motion of the electrons.",
+        "C": "The electron-electron repulsion.",
+        "D": "The electron-ion interaction.",
+        "Answer": "B",
+        "Source": "where the first term is the kinetic energy operator, the second term contains the local and non-local pseudopotentials, V (A) local and \u02c6V (A),lm NL , that represent the electron-ion interactions, and the last term is the electron-electron repulsion."
+    },
+    "Question_8": {
+        "Context": "The electron-electron repulsion term is a part of the Hamiltonian that describes the interactions between electrons in a quantum system.",
+        "Question": "In the Hamiltonian of a quantum system, what does the electron-electron repulsion term account for?",
+        "A": "The attraction between electrons and nuclei.",
+        "B": "The repulsion between different electrons.",
+        "C": "The kinetic energy of the electrons.",
+        "D": "The exchange of electrons between orbitals.",
+        "Answer": "B",
+        "Source": "and the last term is the electron-electron repulsion."
+    },
+    "Question_9": {
+        "Context": "In quantum chemistry, the variational principle is used to find the lowest eigenvalue of a given observable by optimizing a trial wave function.",
+        "Question": "What is the purpose of the variational principle in quantum chemistry?",
+        "A": "To validate the Pauli exclusion principle.",
+        "B": "To calculate the exact exchange energies.",
+        "C": "To find the lowest eigenvalue of an observable.",
+        "D": "To determine the number of electrons in a system.",
+        "Answer": "C",
+        "Source": "This class of algorithms strives to find the lowest eigenvalue of a given observable by assuming the associated quantum state can be accurately represented by a trial wave function and whose parameters are varied according to the Rayleigh-Ritz method (variational principle), with these parameters being updated by the classical computer."
+    },
+    "Question_10": {
+        "Context": "Quantum phase estimation is an algorithm in quantum computing that can calculate molecular energies with high precision.",
+        "Question": "What is the goal of quantum phase estimation in the context of molecular energy calculations?",
+        "A": "To estimate the phase of a quantum state.",
+        "B": "To calculate molecular energies with proved exactness.",
+        "C": "To enforce the Pauli exclusion principle in quantum systems.",
+        "D": "To optimize the pseudopotentials in plane-wave calculations.",
+        "Answer": "B",
+        "Source": "Although quantum algorithms such as quantum phase estimation can calculate molecular energies with proved exactness, these are not yet viable to run on near-term intermediate scale (NISQ) devices."
+    }
+}

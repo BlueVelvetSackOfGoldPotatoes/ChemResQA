@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Hedera nepalensis is a plant known for its medicinal properties and contains various phytochemicals, including triterpene saponins.",
+        "Question": "What is the primary method used for the characterization of chemical constituents in Hedera nepalensis?",
+        "A": "Gas chromatography-mass spectrometry (GC-MS)",
+        "B": "Ultra-high-performance liquid chromatography-quadrupole time-of-flight tandem mass spectrometry (UHPLC-Q-TOF-MS/MS)",
+        "C": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "D": "Infrared (IR) spectroscopy",
+        "Answer": "B",
+        "Source": "In this research, the efficient characterization of chemical constituents, especially triterpenoid saponins, contained in H. nepalensis extract was established by applying ultra\u2010high\u2010performance liquid chromatography\u2010quadrupole time\u2010of\u2010flight tandem mass spectrometry method (UHPLC\u2010Q\u2010TOF\u2010MS/MS)."
+    },
+    "Question_2": {
+        "Context": "Triterpene saponins are a class of compounds that are characterized by a triterpene skeleton (aglycone) and one or more sugar chains.",
+        "Question": "What is a common feature of triterpene saponins?",
+        "A": "They all have the same sugar chain length",
+        "B": "They are all non-polar molecules",
+        "C": "They have the same aglycone but varied sugar chains",
+        "D": "They are all water-soluble",
+        "Answer": "C",
+        "Source": "A triterpene saponin structure is composed of a triterpene skeleton (aglycone) and sugar chain(s). Frequently, a series of triterpene saponins presented in a plant with the same aglycone but varied sugar chains."
+    },
+    "Question_3": {
+        "Context": "The Hedera genus, to which Hedera nepalensis belongs, is part of the Araliaceae family, which is known for its diverse range of flowering plants.",
+        "Question": "Approximately how many species are there in the Araliaceae family?",
+        "A": "About 15 species",
+        "B": "About 70 species",
+        "C": "About 70 genera",
+        "D": "About 700 species",
+        "Answer": "D",
+        "Source": "Hedera nepalensis belongs to Hedera, a 15 species genus of the Araliaceae family which includes about 70 genera and 700 species of flowering plants."
+    },
+    "Question_4": {
+        "Context": "The structural complexity and high polarity of saponins make their isolation and identification challenging.",
+        "Question": "What makes the isolation and identification of saponin compounds particularly difficult?",
+        "A": "Their low polarity and structural similarity",
+        "B": "Their high polarity and structural similarity",
+        "C": "Their small molecular size",
+        "D": "Their lack of structural diversity",
+        "Answer": "B",
+        "Source": "It is often difficult to isolate and identify a saponin compound due to its high polarity and structural similarity, especially when the sugar chain contains more than three sugar residues."
+    },
+    "Question_5": {
+        "Context": "In mass spectrometry, the loss of specific mass units from the parent ion can indicate the presence of certain functional groups or substructures within a molecule.",
+        "Question": "In the mass spectrometry of triterpene saponins, what does the loss of 162 Da typically indicate?",
+        "A": "The loss of a glucopyranosyl (Glc) unit",
+        "B": "The loss of a rhamnopyranosyl (Rha) unit",
+        "C": "The loss of an arabinopyranosyl (Ara) unit",
+        "D": "The loss of a glucuronopyranosyl (Glu) unit",
+        "Answer": "A",
+        "Source": "In the positive ESI mode, based on the characteristic fragment ions, the composition of sugar chains can be deduced as follows: the loss of glucopyranosyl (Glc) is 162 Da."
+    },
+    "Question_6": {
+        "Context": "The use of UHPLC-Q-TOF-MS/MS has been applied to various medicinal plants to characterize their phytochemicals.",
+        "Question": "Which of the following plants has NOT been mentioned as having its phytochemicals characterized by UHPLC-Q-TOF-MS/MS?",
+        "A": "Eurycoma longifolia",
+        "B": "Physalis alkekengi",
+        "C": "Nigella glandulifera Freyn et Sint",
+        "D": "Panax quinquefolius",
+        "Answer": "D",
+        "Source": "In 2011, UHPLC\u2010Q\u2010TOF\u2010MS/MS techniques were performed to detect the targeted metabolites from the aqueous extracts of Eurycoma longifolia. In 2014, from the crude extracts of Physalis alkekengi calyx, 46 physalins were systematically analyzed by an integrated approach using UHPLC-QTOF-MS/MS. In addition, to distinguish between the chemical components of Nigella glandulifera Freyn et Sint and Nigella sativa L. seeds for quality control, UHPLC-Q-TOF-MS/MS was applied."
+    },
+    "Question_7": {
+        "Context": "The Hedera nepalensis plant has been investigated for various bioactivities, and its extracts have shown multiple biological effects.",
+        "Question": "Which of the following activities has NOT been associated with Hedera nepalensis extracts?",
+        "A": "Brine shrimp cytotoxicity",
+        "B": "Antibacterial",
+        "C": "Antiviral",
+        "D": "Phytotoxic",
+        "Answer": "C",
+        "Source": "The methanolic extracts of H. nepalensis (leaves and stems) were screened for different bioactivities such as brine shrimp cytotoxicity, antibacterial, potato disk antitumor, and phytotoxic activities."
+    },
+    "Question_8": {
+        "Context": "The identification of triterpene saponins in plants can be achieved through the analysis of mass spectrometry data, which provides insights into the molecular structure of these compounds.",
+        "Question": "What information can be deduced from the characteristic fragment ions in the mass spectrometry of triterpene saponins?",
+        "A": "The exact three-dimensional structure of the saponin",
+        "B": "The total number of carbon atoms in the saponin",
+        "C": "The composition of sugar chains in the saponin",
+        "D": "The biological activity of the saponin",
+        "Answer": "C",
+        "Source": "In the positive ESI mode, based on the characteristic fragment ions, the composition of sugar chains can be deduced."
+    },
+    "Question_9": {
+        "Context": "The Hedera genus is known for its economic importance and includes several species that are native to various regions.",
+        "Question": "To which regions is Hedera nepalensis native?",
+        "A": "Vietnam, China, and India",
+        "B": "Brazil, Argentina, and Peru",
+        "C": "Canada, United States, and Mexico",
+        "D": "Australia, New Zealand, and Papua New Guinea",
+        "Answer": "A",
+        "Source": "H. nepalensis is native to Vietnam, as well as China, India, Nepal, Bhutan, Afghanistan, Laos, Thailand, and Myanmar, at altitudes of approximately 1000\u20133000 (m)."
+    },
+    "Question_10": {
+        "Context": "In the study of phytochemicals, the use of UHPLC-Q-TOF-MS/MS allows for the rapid determination of chemical constituents in plant extracts.",
+        "Question": "What is one of the main advantages of using UHPLC-Q-TOF-MS/MS in the analysis of plant extracts?",
+        "A": "It allows for the cultivation of plants in vitro",
+        "B": "It provides a rapid determination of chemical constituents",
+        "C": "It enhances the growth rate of plants",
+        "D": "It reduces the need for plant harvesting",
+        "Answer": "B",
+        "Source": "This study provided an efficient analysis strategy to rapidly determine the chemical constituents and laid a foundation for future study of H. nepalensis planted in Northern Vietnam and other Hedera species."
+    }
+}

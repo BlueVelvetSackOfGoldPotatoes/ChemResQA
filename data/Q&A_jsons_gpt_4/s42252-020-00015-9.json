@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Carbon-fibre reinforced composites are used in various industries due to their high strength and lightweight properties. The addition of nanomaterials like graphene can enhance these composites' electrical, thermal, and mechanical properties.",
+        "Question": "What property of graphene makes it a strong candidate for enhancing carbon-fibre reinforced polymer composites?",
+        "A": "Low tensile strength",
+        "B": "High specific strength",
+        "C": "High electrical conductivity",
+        "D": "Low thermal conductivity",
+        "Answer": "C",
+        "Source": "The outstanding theoretical properties of graphene such as impressive tensile strength (~ 1 TPa), high specific surface area (2630 m2g\u2212 1), excellent thermal conductivity (5300 Wm\u2212 1 K\u2212 1), and extremely high electrical conductivity (2000 Scm\u2212 1) make it a strong nanomaterial candidate for enhancing CFRPs."
+    },
+    "Question_2": {
+        "Context": "Polyether ether ketone (PEEK) is a high-performance polymer matrix material with high strength, chemical resistance, and temperature tolerance, but it has insulative properties that limit its use without modification.",
+        "Question": "Which property of PEEK limits its use in applications requiring electrical conductivity?",
+        "A": "Chemical resistance",
+        "B": "Insulative properties",
+        "C": "Temperature tolerance",
+        "D": "High strength",
+        "Answer": "B",
+        "Source": "Due to the insulative properties of PEEK lightning-strike protection, electrostatic dissipation and thermal management functions remain out of reach without further modification."
+    },
+    "Question_3": {
+        "Context": "Nanomaterials such as graphene, carbon black, and carbon nanotubes can be added to polymer matrix systems to enhance their electrical properties.",
+        "Question": "Which of the following nanomaterials is NOT typically used to enhance the electrical properties of polymer matrix systems?",
+        "A": "Graphene nanoplatelets",
+        "B": "Graphene oxide",
+        "C": "Silver nanowires",
+        "D": "Titanium dioxide",
+        "Answer": "D",
+        "Source": "Several nanomaterials have been investigated as inclusions into fibre reinforced composite systems to electrically enhance the insulating nature of polymer matrix systems including carbon black, carbon nanotubes (CNTs), graphene nanoplatelets (GNPs), graphene oxide, silver nanowires and combinations of nanomaterial additions."
+    },
+    "Question_4": {
+        "Context": "Graphene's impressive properties are attributed to its structure and characteristics, which include high tensile strength and thermal conductivity.",
+        "Question": "What is the approximate tensile strength of graphene?",
+        "A": "100 MPa",
+        "B": "500 MPa",
+        "C": "1 TPa",
+        "D": "5 TPa",
+        "Answer": "C",
+        "Source": "The outstanding theoretical properties of graphene such as impressive tensile strength (~ 1 TPa), high specific surface area (2630 m2g\u2212 1), excellent thermal conductivity (5300 Wm\u2212 1 K\u2212 1), and extremely high electrical conductivity (2000 Scm\u2212 1) make it a strong nanomaterial candidate for enhancing CFRPs."
+    },
+    "Question_5": {
+        "Context": "The thermal conductivity of a material is a measure of its ability to conduct heat. Graphene is known for its excellent thermal properties.",
+        "Question": "What is the thermal conductivity of graphene?",
+        "A": "100 Wm\u22121 K\u22121",
+        "B": "5300 Wm\u22121 K\u22121",
+        "C": "1500 Wm\u22121 K\u22121",
+        "D": "425 Wm\u22121 K\u22121",
+        "Answer": "B",
+        "Source": "The outstanding theoretical properties of graphene such as impressive tensile strength (~ 1 TPa), high specific surface area (2630 m2g\u2212 1), excellent thermal conductivity (5300 Wm\u2212 1 K\u2212 1), and extremely high electrical conductivity (2000 Scm\u2212 1) make it a strong nanomaterial candidate for enhancing CFRPs."
+    },
+    "Question_6": {
+        "Context": "Graphene can be produced through various methods, each with its own advantages in terms of quality, purity, and cost.",
+        "Question": "Which method is known for producing high quality and high purity graphene at relatively low cost?",
+        "A": "Mechanical exfoliation",
+        "B": "Chemical vapour deposition",
+        "C": "Liquid phase exfoliation",
+        "D": "Reduction of graphene oxide",
+        "Answer": "C",
+        "Source": "Liquid phase exfoliation (LPE) is a scalable method that can produce high quality, high purity graphene at relatively low cost compared to mechanical exfoliation, chemical vapour deposition, synthesis on SiC, bottom up synthesis, and the reduction of graphene oxide (GO) methods."
+    },
+    "Question_7": {
+        "Context": "The electrical conductivity of materials is often measured in Siemens per centimeter (Scm\u22121). This property is crucial for applications requiring the transfer of electrical current.",
+        "Question": "What is the electrical conductivity of graphene as mentioned in the context?",
+        "A": "200 Scm\u22121",
+        "B": "2000 Scm\u22121",
+        "C": "20 Scm\u22121",
+        "D": "20000 Scm\u22121",
+        "Answer": "B",
+        "Source": "The outstanding theoretical properties of graphene such as impressive tensile strength (~ 1 TPa), high specific surface area (2630 m2g\u2212 1), excellent thermal conductivity (5300 Wm\u2212 1 K\u2212 1), and extremely high electrical conductivity (2000 Scm\u2212 1) make it a strong nanomaterial candidate for enhancing CFRPs."
+    },
+    "Question_8": {
+        "Context": "In composite materials, the interlaminar region is the space between layers of reinforcing fibres. The modification of this region can affect the composite's overall properties.",
+        "Question": "What is a potential consequence of direct addition of nanomaterials onto reinforcing fibres in the interlaminar region?",
+        "A": "Increased mechanical properties",
+        "B": "Decreased flexural properties",
+        "C": "Enhanced electrical conductivity",
+        "D": "Improved thermal management",
+        "Answer": "B",
+        "Source": "Direct addition of nanomaterials onto reinforcing fibres can reduce mechanical properties by altering the fracture behaviour in the interphase region. Enhancements to interlaminar shear strength properties have also been observed through interlayer additions, however decreased flexural properties and delamination due to poor adhesion between the nanomaterials and the fibre reinforced composite have also been reported after interlayer nanoadditions."
+    },
+    "Question_9": {
+        "Context": "Spray-deposition is a method used to apply materials in thin film form onto various substrates. This technique can be used to functionalise composites with nanomaterials.",
+        "Question": "What is a characteristic of a graphene thin film deposited onto a substrate using spray-deposition?",
+        "A": "High surface roughness",
+        "B": "Uniform and smooth surface",
+        "C": "High electrical resistance",
+        "D": "Poor adhesion to the substrate",
+        "Answer": "B",
+        "Source": "The graphene thin films deposited on the silicon wafer are uniform and smooth with pinhole defects (up to \u00d860 \u03bcm) and ridge-like drying patterns (approximately 15 \u03bcm deep) from the spray process resulting in a peak-to-trough average of 8.4 \u00b1 0.14 \u03bcm and RMS roughness of 1.06 \u00b1 0.19 \u03bcm."
+    },
+    "Question_10": {
+        "Context": "The contact angle of a liquid on a solid surface is a measure of the wetting behavior, which can influence the distribution of a material during processes like spray-deposition.",
+        "Question": "What does a low contact angle of a liquid on a solid surface indicate?",
+        "A": "Hydrophobic behavior",
+        "B": "Poor wetting behavior",
+        "C": "Hydrophilic behavior",
+        "D": "High viscosity",
+        "Answer": "C",
+        "Source": "The highly wetting behaviour of the aqueous graphene suspension on the composite substrates combined with aerosolisation techniques instils confidence in the development of equally distributed nanomaterial thin films."
+    }
+}

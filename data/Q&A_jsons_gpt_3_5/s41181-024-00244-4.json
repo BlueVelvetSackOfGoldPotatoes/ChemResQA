@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study, what was the main focus regarding the development of radiohalogen-labeled amino acid derivatives?",
+        "Question": "What is the main focus of developing radiohalogen-labeled amino acid derivatives in the study?",
+        "A": "Targeting LAT1 in cancer cells",
+        "B": "Improving stability against dehalogenation in vivo",
+        "C": "Enhancing cellular uptake in tumor-bearing mice",
+        "D": "Increasing the biodistribution in various organs",
+        "Answer": "B",
+        "Source": "However, 211At-labeled amino acid derivatives exhibit instability against deastatination in vivo, making it challenging to use 211At for radiotherapy."
+    },
+    "Question_2": {
+        "Context": "What was the significance of introducing the neopentyl glycol (NpG) structure into the phenolic hydroxyl group of L-tyrosine?",
+        "Question": "Why was it significant to introduce the neopentyl glycol (NpG) structure into the phenolic hydroxyl group of L-tyrosine?",
+        "A": "To enhance stability against dehalogenation in vivo",
+        "B": "To increase cellular uptake in tumor cells",
+        "C": "To improve biodistribution in various organs",
+        "D": "To target a specific amino acid transporter",
+        "Answer": "A",
+        "Source": "These results indicate that NpG can effectively retain radiohalogens such as 211At, even when labeling low-molecular-weight compounds such as L-tyrosine."
+    },
+    "Question_3": {
+        "Context": "What was the rationale behind designing radiohalogen-labeled amino acid derivatives with the NpG structure?",
+        "Question": "Why were radiohalogen-labeled amino acid derivatives designed with the NpG structure?",
+        "A": "To enhance cellular uptake in tumor-bearing mice",
+        "B": "To improve stability against dehalogenation in vivo",
+        "C": "To increase the biodistribution in various organs",
+        "D": "To target a specific amino acid transporter",
+        "Answer": "B",
+        "Source": "Based on these findings, we designed an NpG-conjugated L-tyrosine by introducing the NpG structure into the hydroxyl group of the phenol in L-tyrosine."
+    },
+    "Question_4": {
+        "Context": "What was the main similarity observed between [211At]At-NpGT and [18F]F-NpGT in the study?",
+        "Question": "What was the main similarity observed between [211At]At-NpGT and [18F]F-NpGT?",
+        "A": "Similar cellular uptake in tumor cells",
+        "B": "High stability against dehalogenation in vivo",
+        "C": "Similar biodistribution in tumor-bearing mice",
+        "D": "Effective inhibition of tumor growth in mice",
+        "Answer": "C",
+        "Source": "In particular, the similarity in the biodistribution of [211At]At-NpGT and [18F]F-NpGT indicates that this pair of radiolabeled compounds would be useful for radiotheranostics."
+    },
+    "Question_5": {
+        "Context": "What was the effect of [211At]At-NpGT on the growth of glioma-bearing mice?",
+        "Question": "What effect did [211At]At-NpGT have on the growth of glioma-bearing mice?",
+        "A": "No effect on tumor growth",
+        "B": "Moderate inhibition of tumor growth",
+        "C": "Dose-dependent inhibitory effect on tumor growth",
+        "D": "Stimulation of tumor growth",
+        "Answer": "C",
+        "Source": "[211At]At-NpGT exhibited a dose-dependent inhibitory effect on the growth of glioma-bearing mice."
+    },
+    "Question_6": {
+        "Context": "What was the main reason for the high accumulation of [211At]At-NpGT, [125I]I-NpGT, and [18F]F-NpGT in the kidney and pancreas?",
+        "Question": "Why did [211At]At-NpGT, [125I]I-NpGT, and [18F]F-NpGT show high accumulation in the kidney and pancreas?",
+        "A": "Rapid excretion from these organs",
+        "B": "Specific targeting of these organs",
+        "C": "Low stability against dehalogenation in vivo",
+        "D": "High affinity for LAT1 in these tissues",
+        "Answer": "D",
+        "Source": "These results suggest that, although the calculated molecular weights of these compounds were significantly different, these radiolabeled compounds were similarly recognized by LAT1."
+    },
+    "Question_7": {
+        "Context": "What was the significance of the rapid blood clearance observed for [211At]At-NpGT, [125I]I-NpGT, and [18F]F-NpGT?",
+        "Question": "Why was the rapid blood clearance observed for [211At]At-NpGT, [125I]I-NpGT, and [18F]F-NpGT significant?",
+        "A": "Enhanced stability against dehalogenation in vivo",
+        "B": "Increased accumulation in tumor cells",
+        "C": "High tumor-to-blood ratios",
+        "D": "Prolonged residence time in the bloodstream",
+        "Answer": "C",
+        "Source": "Nonetheless, the rapid clearance of these radiolabeled compounds from the bloodstream has enabled the attainment of high tumor-to-blood ratios."
+    },
+    "Question_8": {
+        "Context": "What was the main observation regarding the excretion of radioactivity from tumor cells incorporating [125I]I-NpGT?",
+        "Question": "What was the main observation regarding the excretion of radioactivity from tumor cells incorporating [125I]I-NpGT?",
+        "A": "Gradual retention in tumor cells",
+        "B": "Rapid excretion from tumor cells",
+        "C": "Accumulation in tumor cells over time",
+        "D": "No excretion from tumor cells",
+        "Answer": "B",
+        "Source": "The main radioactivity was derived from intact [125I]I-NpGT, supporting high stability against dehalogenation in vivo."
+    },
+    "Question_9": {
+        "Context": "What was the rationale behind the design of [211At]At-NpGT for therapeutic applications?",
+        "Question": "Why was [211At]At-NpGT designed for therapeutic applications?",
+        "A": "To enhance cellular uptake in tumor cells",
+        "B": "To improve stability against dehalogenation in vivo",
+        "C": "To increase the biodistribution in various organs",
+        "D": "To target a specific amino acid transporter",
+        "Answer": "B",
+        "Source": "Since accumulation in the liver has also been observed for [18F]-FMT, this observation in our compounds was thought to be due to the introduction of substituents to the hydroxyl group of phenol in L-tyrosine."
+    },
+    "Question_10": {
+        "Context": "What was the main finding regarding the therapeutic effect of [211At]At-NpGT on tumor growth?",
+        "Question": "What was the main finding regarding the therapeutic effect of [211At]At-NpGT on tumor growth?",
+        "A": "No effect on tumor growth",
+        "B": "Moderate inhibition of tumor growth",
+        "C": "Dose-dependent inhibitory effect on tumor growth",
+        "D": "Stimulation of tumor growth",
+        "Answer": "C",
+        "Source": "[211At]At-NpGT significantly inhibited tumor growth in a dose-dependent manner compared to control mice."
+    }
+}

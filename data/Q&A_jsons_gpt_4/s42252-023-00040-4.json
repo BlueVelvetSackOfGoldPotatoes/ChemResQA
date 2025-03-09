@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Life Cycle Assessment (LCA) is a method used to evaluate the environmental impacts associated with all the stages of a product's life from raw material extraction through materials processing, manufacture, distribution, use, repair and maintenance, and disposal or recycling.",
+        "Question": "What does LCA stand for in the context of environmental impact assessment?",
+        "A": "Life Cycle Assessment",
+        "B": "Lasting Composite Analysis",
+        "C": "Lifecycle Cost Analysis",
+        "D": "Longitudinal Cohort Assessment",
+        "Answer": "A",
+        "Source": "Life Cycle Assessment (LCA) is an analytical tool to measure and compare the environmental impacts of a product, process, system, or service."
+    },
+    "Question_2": {
+        "Context": "In the context of LCA, the functional unit is a measure of the performance of the product system for use as a reference unit in a study. It ensures that the study is measured appropriately and allows for suitable comparisons between systems.",
+        "Question": "In Life Cycle Assessment, what is the purpose of defining a functional unit?",
+        "A": "To determine the system's profitability",
+        "B": "To define how the study is measured and allow for appropriate comparisons",
+        "C": "To calculate the energy consumption per unit time",
+        "D": "To assess the technical efficiency of the production process",
+        "Answer": "B",
+        "Source": "The functional unit (FU) is a key element of an LCA as it defines how the study is measured, is aligned with the goal and scope, and allows for appropriate comparisons between systems."
+    },
+    "Question_3": {
+        "Context": "Life Cycle Inventory (LCI) is a phase in LCA that involves compiling and quantifying inputs and outputs for a product throughout its life cycle.",
+        "Question": "What is the main approach for compiling a Life Cycle Inventory (LCI)?",
+        "A": "Market analysis",
+        "B": "Process analysis",
+        "C": "Product differentiation",
+        "D": "Competitive benchmarking",
+        "Answer": "B",
+        "Source": "The main approach for compiling an LCI is a process analysis that uses data specific to the product under study."
+    },
+    "Question_4": {
+        "Context": "End-of-life (EoL) treatment of products is a critical consideration in LCA, especially for products like drones that may contain composite materials and batteries.",
+        "Question": "Why is the end-of-life treatment of composite materials and batteries a significant consideration in the LCA of drones?",
+        "A": "Because they are often not economically viable to recycle",
+        "B": "Because they can be easily reused in other products",
+        "C": "Because they have a negligible impact on the environment",
+        "D": "Because they increase the drone's operational efficiency",
+        "Answer": "A",
+        "Source": "The composite materials often end up in landfills, which has led to batteries being a major focus of drone LCAs to date. However, carbon fibre production represents an important aspect of LCA impact categories."
+    },
+    "Question_5": {
+        "Context": "Circular economy (CE) is a model that aims to design out waste and pollution, keep products and materials in use, and regenerate natural systems.",
+        "Question": "What is the primary goal of a circular economy?",
+        "A": "To maximize product profitability",
+        "B": "To reduce production time",
+        "C": "To improve the sustainability of products by designing out waste",
+        "D": "To increase the consumption of natural resources",
+        "Answer": "C",
+        "Source": "CE offers a framework to improve the sustainability of drones by designing out waste and pollution in all phases, making more durable products to extend the use phase."
+    },
+    "Question_6": {
+        "Context": "In LCA, the system boundary defines which processes should be included in the assessment of a product.",
+        "Question": "What does the system boundary in an LCA determine?",
+        "A": "The geographical location of the study",
+        "B": "The time frame for product development",
+        "C": "The limits in the process flow diagram to be assessed",
+        "D": "The financial budget for the LCA study",
+        "Answer": "C",
+        "Source": "The boundaries set at the goal and scope phase draw the limits in the process flow diagram."
+    },
+    "Question_7": {
+        "Context": "Attributional and consequential are two approaches to modeling data in LCA studies, each with a different focus on the assessment.",
+        "Question": "What is the difference between attributional and consequential LCA models?",
+        "A": "Attributional models focus on the product's existing life cycle, while consequential models include potential future consequences",
+        "B": "Attributional models are used for financial assessment, while consequential models are used for environmental assessment",
+        "C": "Attributional models are qualitative, while consequential models are quantitative",
+        "D": "Attributional models consider only the use phase, while consequential models consider all life cycle phases",
+        "Answer": "A",
+        "Source": "Consequential LCAs function to include consequences across the different scenarios being modelled."
+    },
+    "Question_8": {
+        "Context": "The term 'cradle-to-grave' is used in LCA to describe the assessment of a product's entire life cycle from raw material extraction to disposal.",
+        "Question": "What does 'cradle-to-grave' mean in the context of Life Cycle Assessment?",
+        "A": "Assessment from the product's development to its peak usage",
+        "B": "Assessment from the product's inception to its market release",
+        "C": "Assessment from the product's creation to its final disposal",
+        "D": "Assessment from the product's design to its retirement from use",
+        "Answer": "C",
+        "Source": "LCA studies can be carried out on the entire life cycle such as a cradle-to-grave or a cradle-to-cradle study."
+    },
+    "Question_9": {
+        "Context": "The use phase in LCA refers to the stage where the product is being utilized for its intended purpose, which can have significant environmental impacts.",
+        "Question": "Why is the use phase important in the LCA of a product?",
+        "A": "Because it is the only phase where the product is actively contributing to economic growth",
+        "B": "Because it often represents a significant portion of the overall emissions related to the environmental impact",
+        "C": "Because it is the phase where the product requires the least amount of energy consumption",
+        "D": "Because it determines the product's market value",
+        "Answer": "B",
+        "Source": "Despite this, there is a consensus among authors that the use phase represents a more significant portion of the overall emissions concerning the environmental impact of UAV delivery systems."
+    },
+    "Question_10": {
+        "Context": "In the context of LCA, ex-ante and ex-post are two temporal approaches used to assess the environmental impacts of products.",
+        "Question": "What is the difference between ex-ante and ex-post LCA?",
+        "A": "Ex-ante LCA is used for assessing future technologies, while ex-post LCA assesses technologies that are already in existence",
+        "B": "Ex-ante LCA is used for preliminary assessments, while ex-post LCA is used for final assessments",
+        "C": "Ex-ante LCA is a theoretical approach, while ex-post LCA is a practical approach",
+        "D": "Ex-ante LCA is used for assessing past technologies, while ex-post LCA assesses current technologies",
+        "Answer": "A",
+        "Source": "Many LCAs are conducted on something that is already in existence, and results are often used to support decision-makers. Retrospective LCAs on existing products or services are the most common."
+    }
+}

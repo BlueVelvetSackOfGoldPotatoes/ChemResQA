@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Heavy metal ion pollution is a significant environmental concern due to its toxicity and persistence in the environment. Mercury, in particular, is a heavy metal of concern because it can exist in various inorganic forms and has a high potential for bioaccumulation in the food chain.",
+        "Question": "Which of the following inorganic forms of mercury can enter the human body through the food chain?",
+        "A": "Elemental Hg (Hg0)",
+        "B": "Oxidized Hg (Hg2+)",
+        "C": "Particle-bound Hg (Hgp)",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Mercury exists in three inorganic forms; elemental Hg (Hg0), oxidized Hg (Hg2+), and particle-bound Hg (Hgp), and enters human bodies through the food chain."
+    },
+    "Question_2": {
+        "Context": "The detection and quantification of mercury ions in environmental samples are crucial for monitoring pollution and protecting public health. Various analytical techniques have been developed for this purpose, each with its own set of advantages and limitations.",
+        "Question": "Which of the following techniques has been used for detecting mercury levels in various samples?",
+        "A": "Spectrophotometric method using dithizone",
+        "B": "Cold vapor atomic absorption spectroscopy",
+        "C": "Inductively coupled plasma mass spectrometry (ICP-MS)",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "To Date, miscellaneous techniques have been used for detecting Hg2+ levels in numerous samples, including spectrophotometric method using dithizone, cold vapor atomic absorption spectroscopy, inductively coupled plasma mass spectrometry (ICP-MS) and electrochemical methods."
+    },
+    "Question_3": {
+        "Context": "Nanostructured graphitic carbon nitride (g-C3N4) is a metal-free material with unique properties that make it suitable for sensing applications. Its fluorescence quenching capabilities are particularly useful for the detection of various species.",
+        "Question": "What property of nanostructured graphitic carbon nitride (g-C3N4) makes it a suitable material for fluorescence probes in quantification and detection?",
+        "A": "Good fluorescence stability over time",
+        "B": "Excellent fluorescence quenching phenomenon",
+        "C": "High electron transfer characteristics",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Nowadays, nanostructured graphitic carbon nitride (g-C3N4), which is a unique carbon based and chemically metal-free stable nanoarchitectured material, has been widely used as a new fluorophore because; it owns several properties essential for sensing applications [e.g. good fluorescence stability over time, excellent fluorescence quenching phenomenon, high electron transfers characteristics]."
+    },
+    "Question_4": {
+        "Context": "The functionalization of materials can introduce new chemical groups that enhance their interaction with specific analytes. In the case of graphitic carbon nitride, functionalization can be achieved through various chemical treatments.",
+        "Question": "Which chemical groups are introduced on the surface of graphitic carbon nitride nanosheets as a result of KOH treatment?",
+        "A": "Cyano groups (CN)",
+        "B": "Hydroxyl groups (OH)",
+        "C": "Amine groups (NH2)",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "These results clearly confirmed that the surface of graphitic carbon nitride was modified by new functional groups (cyano, OH and NHX groups) by KOH treatment at 730 \u00b0C."
+    },
+    "Question_5": {
+        "Context": "The pH of a solution can significantly affect the performance of a fluorescent probe. It is important for a probe to maintain its functionality across a range of pH values for practical applications.",
+        "Question": "Over which pH range does the T/G-C3N4 probe maintain its fluorescence intensity for potential use in biological and environmental applications?",
+        "A": "pH 2\u20135",
+        "B": "pH 6\u201310",
+        "C": "pH 7\u201314",
+        "D": "pH 0\u20137",
+        "Answer": "B",
+        "Source": "The results revealed that T/ G-C3N4 can be utilized as a probe across a wide pH range from pH 6 to pH 10 because these pH values have a little effect on the emission intensity of the probe, whereas this intensity decreases sharply in the pH range of 2\u20135."
+    },
+    "Question_6": {
+        "Context": "Fluorescent probes are used to detect the presence of specific ions in a solution. The interaction between the probe and the ion of interest can result in a change in the fluorescence intensity, which can be measured to determine the ion concentration.",
+        "Question": "What is the effect of introducing Hg2+ ions to the T/G-C3N4 fluorescence probe?",
+        "A": "Increases the fluorescence intensity",
+        "B": "No change in fluorescence intensity",
+        "C": "Reduces the fluorescence intensity",
+        "D": "Shifts the fluorescence wavelength",
+        "Answer": "C",
+        "Source": "Figure 5A demonstrates how the introduction of the Hg2+ ion at pH 6 (phosphate buffer) significantly reduced the T/G-C3N4 fluorescence emission intensity, confirming that Hg2+ can efficiently quench the fluorescence of T/G-C3N4 nanosheets."
+    },
+    "Question_7": {
+        "Context": "Selectivity is an important characteristic of a fluorescent probe, as it determines the probe's ability to specifically detect the target ion in the presence of other potentially interfering ions.",
+        "Question": "Which of the following metal ions does the T/G-C3N4 probe selectively quench the fluorescence for?",
+        "A": "Na+",
+        "B": "Ag+",
+        "C": "Hg2+",
+        "D": "Ca2+",
+        "Answer": "C",
+        "Source": "The fluorescence emission of T/G-C3N4 quenched by the addition of Hg2+ only (about 100% quenching happened after the addition of 3.0 ppm Hg2+ in phosphate buffer pH 6); no significant quenching effect was seen after the addition of other metal ions (Na+, Ag+, Ca2+, K+, Mg2+, Fe2+, Fe3+, Ni2+, Pb2+, Co2+, Cd2+, Zn2+, and Cu2+)."
+    },
+    "Question_8": {
+        "Context": "The detection limit of a fluorescent probe is the lowest concentration of an analyte that can be reliably measured. It is a critical parameter that determines the sensitivity of the probe.",
+        "Question": "What is the detection limit of the T/G-C3N4 probe for Hg2+ ions?",
+        "A": "0\u20131.25 \u00d7 103 nM",
+        "B": "27 nM",
+        "C": "3 ppm",
+        "D": "100 ppm",
+        "Answer": "B",
+        "Source": "The T/G-C3N4 showed a linear response with Hg2+ over concentration range 0\u20131.25 \u00d7 103 nM; the detection limit was 27 nM."
+    },
+    "Question_9": {
+        "Context": "The stability of a fluorescent probe over time is essential for its practical application. A probe that maintains its fluorescence intensity over an extended period is considered to have good stability.",
+        "Question": "For how many days does the T/G-C3N4 probe maintain its fluorescence stability in water?",
+        "A": "Less than 10 days",
+        "B": "Up to 15 days",
+        "C": "More than 30 days",
+        "D": "Exactly 20 days",
+        "Answer": "C",
+        "Source": "The T/G-C3N4 dispersion was kept in a brown flask and stored in dark at room temperature. The intensity of T/G-C3N4 has slightly changed, but not by more than 4.0%, despite being stored for more than 30 days."
+    },
+    "Question_10": {
+        "Context": "The functional groups present on a material can influence its interaction with specific analytes. In the case of T/G-C3N4, certain functional groups are responsible for its interaction with mercury ions.",
+        "Question": "Which functional groups on T/G-C3N4 are responsible for its interaction with Hg2+ ions?",
+        "A": "NH2 and CN",
+        "B": "C=N and OH",
+        "C": "C=C and C\u2013C",
+        "D": "A and B",
+        "Answer": "D",
+        "Source": "The remarkable sensitivity of T/G-C3N4 towards the Hg2+ ions was explained by the intense coordination and fast chelation kinetics of Hg2+ with the NH2, CN, C=N, and OH groups of T/G-C3N4 nanoprobe."
+    }
+}

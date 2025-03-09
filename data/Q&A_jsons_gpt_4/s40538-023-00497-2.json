@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Plasma-activated water (PAW) is created by exposing water to a plasma discharge, which infuses the water with reactive oxygen and nitrogen species (RONS). These species give PAW unique biochemical properties that can be used in agriculture.",
+        "Question": "What is the primary agent in plasma-activated water (PAW) that contributes to its biocidal properties?",
+        "A": "Chlorine",
+        "B": "Reactive oxygen and nitrogen species (RONS)",
+        "C": "Alcohol",
+        "D": "Carbon dioxide",
+        "Answer": "B",
+        "Source": "Plasma\u2011activated water (PAW) is a solution created by exposing water to cold atmospheric plasma discharge, resulting in a biocidal agent with unique biochemical properties attributed to highly reactive oxygen and nitrogen species (RONS)."
+    },
+    "Question_2": {
+        "Context": "The pH value of a solution is a measure of its acidity or alkalinity. Plasma activation of water can result in changes to the water's pH value, which can have various effects on its properties and uses.",
+        "Question": "What happens to the pH value of water upon plasma activation?",
+        "A": "It increases significantly",
+        "B": "It remains unchanged",
+        "C": "It decreases significantly",
+        "D": "It fluctuates unpredictably",
+        "Answer": "C",
+        "Source": "The pH value of activated water after plasma excitation drops significantly, and the temperature also rises from room temperature to 42 \u2103."
+    },
+    "Question_3": {
+        "Context": "During the plasma activation of water, various reactive species are generated. These species can include hydroxyl radicals, nitrogen ions, and oxygen ions, which are detected using optical emission spectroscopy (OES).",
+        "Question": "Which reactive species are commonly found in plasma-activated water?",
+        "A": "Hydroxyl radicals and nitrogen ions",
+        "B": "Sodium and potassium ions",
+        "C": "Chlorine and fluorine gases",
+        "D": "Helium and argon gases",
+        "Answer": "A",
+        "Source": "Plasma includes short-life reactive oxygen/nitrogen species (RONS) and long-life RONS, where OES is used to observe short-life ions in PAW. The emission spectra of APAW and NPAW (shown in Fig. 2) are notably similar because air com- prises approximately 78% nitrogen. The spectral data can be used to determine the composition of PAW, which comprises N2 (337.2, 358.1, 380.5, 392.8, 405.9, and 427.8 nm), \u2022OH (309 nm), and O (616 and 780 nm) as the main species."
+    },
+    "Question_4": {
+        "Context": "The oxidation-reduction potential (ORP) of a solution is an indicator of its ability to either release or accept electrons during a chemical reaction. This property is important in determining the reactivity of plasma-activated water.",
+        "Question": "What is the effect of plasma activation on the oxidation-reduction potential (ORP) of water?",
+        "A": "ORP decreases",
+        "B": "ORP increases",
+        "C": "ORP becomes zero",
+        "D": "ORP is not affected",
+        "Answer": "B",
+        "Source": "The oxidation\u2013reduction potential in the PAW significantly increases. The total dissolved solids (TDS) generate many active ions due to plasma addition, with a notable increase from 3.03 \u00b1 0.00 to 33.80 \u00b1 4.97 in APAW."
+    },
+    "Question_5": {
+        "Context": "Germination rate is a measure of the percentage of seeds that begin to grow under certain conditions. It is an important indicator of seed viability and vigor.",
+        "Question": "What is the typical effect of plasma-activated water on the germination rate of seeds?",
+        "A": "It prevents germination completely",
+        "B": "It has no effect on germination rate",
+        "C": "It decreases the germination rate",
+        "D": "It can improve the germination rate",
+        "Answer": "D",
+        "Source": "After 72 h, the control and PAW treat- ment groups reached a 100% germination rate, indicating that the viability of the sample seeds was good."
+    },
+    "Question_6": {
+        "Context": "\u03b3-Aminobutyric acid (GABA) is a molecule that plays a role in plant stress responses. Its content in plants can change under various growth conditions and treatments.",
+        "Question": "How does plasma-activated water treatment affect the \u03b3-Aminobutyric acid (GABA) content in plants?",
+        "A": "It does not affect GABA content",
+        "B": "It decreases GABA content",
+        "C": "It significantly increases GABA content",
+        "D": "It converts GABA into another compound",
+        "Answer": "C",
+        "Source": "After 8 h of germination, the GABA contents of the NPAW and APAW groups are 85.6 \u00b1 8.7 and 105.6 \u00b1 31.0 mg/ kg (dry basis), respectively, while that of the control group is 31.3 \u00b1 25.6 mg/kg (dry basis) in Table 1."
+    },
+    "Question_7": {
+        "Context": "Gene expression analysis can reveal the involvement of genes in various biological processes, including stress signaling and metabolic processes, which can be influenced by external treatments such as plasma-activated water.",
+        "Question": "What is a common result of plasma-activated water treatment on gene expression in plants?",
+        "A": "It silences all gene expression",
+        "B": "It causes random mutations in genes",
+        "C": "It leads to differential expression of genes",
+        "D": "It duplicates the plant's genome",
+        "Answer": "C",
+        "Source": "Gene expression analysis revealed involve\u2011 ment in stress signaling and metabolic processes."
+    },
+    "Question_8": {
+        "Context": "The Kyoto Encyclopedia of Genes and Genomes (KEGG) is a database resource for understanding high-level functions and utilities of biological systems, such as the cell, the organism, and the ecosystem, from molecular-level information.",
+        "Question": "What type of biological information can be obtained from KEGG pathway analysis?",
+        "A": "Physical characteristics of organisms",
+        "B": "Behavioral patterns of organisms",
+        "C": "Molecular interaction and reaction networks",
+        "D": "Geographical distribution of species",
+        "Answer": "C",
+        "Source": "As a useful resource for genome sequencing, the KEGG database incorporates data on genomes, bio- chemistry, biological systems, and other topics and may be used to predict the pathways in which a particular gene is enriched."
+    },
+    "Question_9": {
+        "Context": "Quantitative PCR (qPCR) is a laboratory technique used to amplify and simultaneously quantify a targeted DNA molecule, allowing for the precise measurement of the increase in DNA as PCR progresses.",
+        "Question": "What is the purpose of using quantitative PCR (qPCR) in gene expression studies?",
+        "A": "To clone DNA fragments",
+        "B": "To quantify the expression of specific genes",
+        "C": "To visualize DNA molecules under a microscope",
+        "D": "To induce mutations in DNA sequences",
+        "Answer": "B",
+        "Source": "Quantitative PCR analysis was then conducted to amplify the promoter region of the DNA fragment. Specific prim- ers were utilized to detect the probable WRKY transcrip- tion factor 30 and probable bifunctional TENA-E protein."
+    },
+    "Question_10": {
+        "Context": "The germination ratio is a quantitative measure of seed germination, calculated as the number of germinated seeds divided by the total number of seeds, expressed as a percentage.",
+        "Question": "How is the germination ratio of seeds calculated?",
+        "A": "Average length of seedlings divided by the number of seeds",
+        "B": "Number of seeds that absorbed water divided by total seeds",
+        "C": "Number of germinated seeds divided by total seeds, times 100%",
+        "D": "Total mass of germinated seeds divided by the number of seeds",
+        "Answer": "C",
+        "Source": "The rate of mung bean germination was cal- culated according to Eq. 1: where X is the number of germinated mung beans, and A is the total mung bean count. (1) Germination ratio = (X/A) \u00d7 100%,"
+    }
+}

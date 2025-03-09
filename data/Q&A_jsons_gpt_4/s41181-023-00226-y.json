@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Affibody molecules are engineered proteins that can bind to specific target proteins with high affinity. They are used in medical imaging to visualize the presence and distribution of certain proteins in the body.",
+        "Question": "What is the primary use of Affibody molecules such as ABY-025 in medical imaging?",
+        "A": "To increase the contrast in MRI scans",
+        "B": "To detect specific proteins in vivo",
+        "C": "To enhance the resolution of X-ray images",
+        "D": "To reduce the radiation dose in CT scans",
+        "Answer": "B",
+        "Source": "The Affibody molecule, ABY-025, has demonstrated utility to detect human epidermal growth factor receptor 2 (HER2) in vivo, either radiolabelled with indium-111 (111In) or gallium-68 (68Ga)."
+    },
+    "Question_2": {
+        "Context": "Radiopharmaceuticals are compounds that are labeled with radioisotopes and used in the field of nuclear medicine, including positron emission tomography (PET), for imaging and therapy.",
+        "Question": "Which radioisotope is preferred for labeling ABY-025 for PET imaging due to its superior resolution and quantifying capabilities?",
+        "A": "Indium-111 (111In)",
+        "B": "Copper-64 (64Cu)",
+        "C": "Gallium-68 (68Ga)",
+        "D": "Fluoride-18 (18F)",
+        "Answer": "C",
+        "Source": "Using the latter, 68Ga, is preferred due to its use in positron emission tomography with superior resolution and quantifying capabilities in the clinical setting compared to 111In."
+    },
+    "Question_3": {
+        "Context": "In the production of radiopharmaceuticals, it is important to have a method that is compliant with current Good Manufacturing Practice (cGMP) to ensure the quality and safety of the product.",
+        "Question": "What was the aim in optimizing the radiosynthesis of [68Ga]Ga-ABY-025?",
+        "A": "To increase the half-life of the radiotracer",
+        "B": "To optimize an automated and cGMP-compliant radiosynthesis",
+        "C": "To enhance the visual clarity of the radiotracer",
+        "D": "To reduce the cost of the raw materials",
+        "Answer": "B",
+        "Source": "For an ongoing phase II study evaluating ABY-025 for detecting HER2-low lesions and selection of patients for HER2-targeted treatment, the aim was to optimize an automated and cGMP-compliant radiosynthesis of [68Ga]Ga-ABY-025."
+    },
+    "Question_4": {
+        "Context": "Automated synthesis modules are used in the production of radiopharmaceuticals to streamline the process and minimize manual interactions, which can introduce variability and potential for error.",
+        "Question": "What was a key aspect of the optimized production method for [68Ga]Ga-ABY-025?",
+        "A": "Increasing the number of manual interactions",
+        "B": "Decreasing the temperature required for synthesis",
+        "C": "Minimizing steps requiring manual interactions",
+        "D": "Eliminating the need for a synthesis module",
+        "Answer": "C",
+        "Source": "Every part of the radiopharmaceutical production was carefully developed to gain robustness and to avoid any operator bound variations to the manufacturing. The optimized production method was successfully applied for 68Ga-labeling of another radiotracer, verifying its versatility as a universal and robust method for radiosynthesis of Affibody-based peptides."
+    },
+    "Question_5": {
+        "Context": "The radiochemical yield is an important parameter in the production of radiopharmaceuticals, indicating the efficiency of the radiolabeling process.",
+        "Question": "What was the decay corrected radiochemical yield of [68Ga]Ga-ABY-025 in the optimized method?",
+        "A": "Approximately 30%",
+        "B": "Approximately 44%",
+        "C": "Approximately 60%",
+        "D": "Approximately 75%",
+        "Answer": "B",
+        "Source": "With a decay corrected radiochemical yield of 44 \u00b1 2%, a radiochemical purity (RCP) of 98 \u00b1 1%, and with an RCP stability of 98 \u00b1 1% at 2 h after production, the method was found highly reproducible."
+    },
+    "Question_6": {
+        "Context": "Radiochemical purity is a measure of the fraction of the radioactivity in a radiopharmaceutical that is associated with the desired chemical form.",
+        "Question": "What was the radiochemical purity of [68Ga]Ga-ABY-025 at the end of synthesis in the optimized method?",
+        "A": "88 \u00b1 1%",
+        "B": "90 \u00b1 2%",
+        "C": "98 \u00b1 1%",
+        "D": "100%",
+        "Answer": "C",
+        "Source": "With a decay corrected radiochemical yield of 44 \u00b1 2%, a radiochemical purity (RCP) of 98 \u00b1 1%, and with an RCP stability of 98 \u00b1 1% at 2 h after production, the method was found highly reproducible."
+    },
+    "Question_7": {
+        "Context": "In the context of radiopharmaceuticals, the stability of radiochemical purity over time is crucial to ensure that the compound remains effective for imaging or therapeutic purposes after production.",
+        "Question": "What was the radiochemical purity stability of [68Ga]Ga-ABY-025 at 2 hours after production?",
+        "A": "88 \u00b1 1%",
+        "B": "90 \u00b1 2%",
+        "C": "95 \u00b1 2%",
+        "D": "98 \u00b1 1%",
+        "Answer": "D",
+        "Source": "With a decay corrected radiochemical yield of 44 \u00b1 2%, a radiochemical purity (RCP) of 98 \u00b1 1%, and with an RCP stability of 98 \u00b1 1% at 2 h after production, the method was found highly reproducible."
+    },
+    "Question_8": {
+        "Context": "The half-life of a radioisotope is the time required for half of the radioactive atoms in a sample to decay. It is a critical parameter in the design and use of radiopharmaceuticals.",
+        "Question": "What is the half-life range of Gallium-68 (68Ga) as used in the production of [68Ga]Ga-ABY-025?",
+        "A": "30\u201340 minutes",
+        "B": "45\u201355 minutes",
+        "C": "62\u201374 minutes",
+        "D": "80\u201390 minutes",
+        "Answer": "C",
+        "Source": "Radionuclidic identity Radionuclidic identity is confirmed by comparing the half-life of the product with that of 68Ga (62\u201374 min)."
+    },
+    "Question_9": {
+        "Context": "In radiopharmaceutical production, the concentration of the peptide is an important quality attribute, as it determines the dosage of the targeting molecule that will be administered to the patient.",
+        "Question": "What was the target concentration range for ABY-025 in the final product of [68Ga]Ga-ABY-025?",
+        "A": "20\u201340 \u00b5g/mL",
+        "B": "40\u201360 \u00b5g/mL",
+        "C": "60\u201380 \u00b5g/mL",
+        "D": "80\u2013100 \u00b5g/mL",
+        "Answer": "B",
+        "Source": "Concentration of ABY-025 (principal peak on UV) 40\u201360 \u00b5g/mL"
+    },
+    "Question_10": {
+        "Context": "Sterility is a critical quality attribute for radiopharmaceuticals, ensuring that the product is free from microbial contamination and safe for patient administration.",
+        "Question": "What is the sterility requirement for the final product of [68Ga]Ga-ABY-025?",
+        "A": "Sterile, 0 CFU (colony-forming units)",
+        "B": "Sterile, less than 10 CFU",
+        "C": "Sterile, less than 50 CFU",
+        "D": "Sterile, less than 100 CFU",
+        "Answer": "A",
+        "Source": "Sterility Sterility is determined by direct inoculation according to the Ph.Eur. This quality control is performed post-release on validation batches and on every 10th clinical batch or every 3rd month, whichever occurs first."
+    }
+}

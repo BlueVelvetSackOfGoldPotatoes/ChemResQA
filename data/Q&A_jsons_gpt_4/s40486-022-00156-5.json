@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Extracellular vesicles (EVs) are nano-sized vesicles that play a role in transporting biomaterials between cells. They are composed of various biological components such as phospholipids, cholesterol, fatty acids, and membrane proteins, and contain genetic information.",
+        "Question": "What components are typically found in the composition of extracellular vesicles (EVs)?",
+        "A": "Nucleic acids and glucose",
+        "B": "Phospholipids, cholesterol, fatty acids, and membrane proteins",
+        "C": "Hemoglobin and antibodies",
+        "D": "Enzymes and hormones",
+        "Answer": "B",
+        "Source": "EVs are composed of a phospholipids, cholesterol, fatty acids, and membrane proteins. They contain genetic informa- tion such as RNAs and DNAs inside, acting as biological carriers related to cell division and productivity."
+    },
+    "Question_2": {
+        "Context": "Extracellular vesicles (EVs) are classified based on their size and cellular origin. This classification includes exosomes, microvesicles, and apoptotic bodies.",
+        "Question": "Which of the following correctly lists the types of extracellular vesicles in order of increasing size?",
+        "A": "Microvesicles, exosomes, apoptotic bodies",
+        "B": "Exosomes, apoptotic bodies, microvesicles",
+        "C": "Exosomes, microvesicles, apoptotic bodies",
+        "D": "Apoptotic bodies, microvesicles, exosomes",
+        "Answer": "C",
+        "Source": "EVs are classified into exosomes (50\u2013200 nm), microvesicles (200\u20131000 nm), and apop- totic bodies (1\u20135 \u03bcm according to their size and cellular origin."
+    },
+    "Question_3": {
+        "Context": "Nanoparticle tracking analysis (NTA) is a technique used to estimate the size of extracellular vesicles (EVs) through their Brownian motion in a medium.",
+        "Question": "What principle does nanoparticle tracking analysis (NTA) use to estimate the size of extracellular vesicles?",
+        "A": "Fluorescence intensity",
+        "B": "Magnetic resonance",
+        "C": "Brownian motion",
+        "D": "Electrical conductivity",
+        "Answer": "C",
+        "Source": "NTA is a versatile technique capable of analyzing the concentration, size, and subpopulations of biomark- ers through selective fluorescence labeling. Similarly to DLS, NTA estimates the size of EVs through their Brownian motion while floating in the medium."
+    },
+    "Question_4": {
+        "Context": "In the context of analyzing extracellular vesicles, the Stokes-Einstein equation is used to relate the diffusion coefficient of a particle to its size.",
+        "Question": "According to the Stokes-Einstein equation, what physical property of a particle is used to estimate its diameter in a fluid?",
+        "A": "Velocity",
+        "B": "Density",
+        "C": "Diffusion coefficient",
+        "D": "Mass",
+        "Answer": "C",
+        "Source": "The Brownian motion of particles is calculated by mean squared dis- placement (MSD), and the diameter of single EVs is estimated from the Stokes\u2013Einstein equation."
+    },
+    "Question_5": {
+        "Context": "Nano-flow cytometry (nFCM) is an advanced technique that allows for the analysis of nano-sized extracellular vesicles by measuring light scattering signals.",
+        "Question": "What does nano-flow cytometry (nFCM) measure to analyze nano-sized extracellular vesicles?",
+        "A": "Fluorescence lifetime",
+        "B": "Light scattering signals",
+        "C": "Electrical impedance",
+        "D": "Magnetic susceptibility",
+        "Answer": "B",
+        "Source": "nFCM solved the limitations of nanoscale analysis of conventional FCM through techni- cal optimization. Quantitative and qualitative analysis of nano-sized EVs is possible using high-resolution flow cytometry by a high-performance PMT, low pressure, and optimized sheath flow."
+    },
+    "Question_6": {
+        "Context": "Total internal reflection fluorescence (TIRF) microscopy is a technique that utilizes an evanescent field to selectively excite fluorescently labeled specimens near the surface of a substrate.",
+        "Question": "What feature of total internal reflection fluorescence (TIRF) microscopy allows it to selectively excite fluorescently labeled specimens?",
+        "A": "High-intensity laser beams",
+        "B": "Evanescent field",
+        "C": "Magnetic field manipulation",
+        "D": "Electron beam scanning",
+        "Answer": "B",
+        "Source": "TIRF microscopy is an optical technology that enables high resolution and intuitive analysis of the biological complexity of single EVs without additional data analy- sis. The thin evanescent field region penetrated dur- ing total internal reflection enables EV analysis near the surface."
+    },
+    "Question_7": {
+        "Context": "Atomic force microscopy (AFM) is a technique that can measure the mechanical properties of extracellular vesicles by scanning their surface with a sharp tip.",
+        "Question": "What property of extracellular vesicles can atomic force microscopy (AFM) measure by scanning their surface?",
+        "A": "Electrical charge",
+        "B": "Optical absorbance",
+        "C": "Mechanical properties",
+        "D": "Thermal conductivity",
+        "Answer": "C",
+        "Source": "AFM is a type of scanning probe microscopy. Among non-optical analysis methods, AFM is preferred for the analysis of non-conductive bioparticles, along with TEM. EVs immobilized by electrostatic interactions on the mica substrate disc are placed on a metal jig, and their external shape is scanned by a tip."
+    },
+    "Question_8": {
+        "Context": "Resistive pulse sensing (RPS) is a technique that detects changes in electrical resistance as particles pass through a pore, allowing for the analysis of their size and concentration.",
+        "Question": "What does resistive pulse sensing (RPS) detect to analyze particles such as extracellular vesicles?",
+        "A": "Changes in electrical resistance",
+        "B": "Variations in light absorption",
+        "C": "Differences in thermal emission",
+        "D": "Fluctuations in magnetic fields",
+        "Answer": "A",
+        "Source": "RPS detects electrical changes caused by non-conducting biomolecules in aqueous solutions passing through elec- trodes. It has been widely applied to the char- acteristic study of single particles with a high precision and accuracy."
+    },
+    "Question_9": {
+        "Context": "Transmission electron microscopy (TEM) is a technique that allows for the observation of the interior structure of extracellular vesicles using a broad electron beam.",
+        "Question": "What allows transmission electron microscopy (TEM) to observe the interior structure of extracellular vesicles?",
+        "A": "X-ray diffraction",
+        "B": "Broad electron beam",
+        "C": "Ultraviolet light exposure",
+        "D": "Infrared spectroscopy",
+        "Answer": "B",
+        "Source": "TEM can observe the interior of EV at high resolution using a broad electron beam. To observe EVs by TEM, the exosomes fixed to the grid supporting the sample are negatively stained with a heavy metal."
+    },
+    "Question_10": {
+        "Context": "Cryo-transmission electron microscopy (cryo-TEM) is a technique that rapidly freezes extracellular vesicles to observe their natural spherical shape without deformation.",
+        "Question": "What is the main advantage of using cryo-transmission electron microscopy (cryo-TEM) to observe extracellular vesicles?",
+        "A": "High-temperature stability",
+        "B": "Rapid freezing to maintain natural shape",
+        "C": "Long-term sample preservation",
+        "D": "Enhanced electrical conductivity",
+        "Answer": "B",
+        "Source": "Cryo-TEM is advanta- geous for the analysis of EVs in pure body fluid with- out dehydration, staining, or chemical fixation and is an excellent technique for observing the spherical shape of EVs in their natural state."
+    }
+}

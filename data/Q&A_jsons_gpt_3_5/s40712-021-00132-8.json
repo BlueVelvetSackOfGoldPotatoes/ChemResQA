@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study, what material was used for the tests?",
+        "Question": "What material was used for the tests in the study?",
+        "A": "Hot rolled steel",
+        "B": "Cold-drawn low-carbon steel",
+        "C": "Mild steel",
+        "D": "Structural steel",
+        "Answer": "B",
+        "Source": "The model showed smaller deviation for the larger diameter (d) specimen. The smallest R/d-ratio gave the largest deviations between the model and the experiments. Specific knowledge about specimen geometry and the maximum planned compression force is necessary to avoid buckling during compression in axial low-cycle fatigue tests."
+    },
+    "Question_2": {
+        "Context": "What was the ratio of the radius of curvature to the diameter tested in the study?",
+        "Question": "What was the ratio of the radius of curvature to the diameter tested in the study?",
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "10",
+        "Answer": "A",
+        "Source": "The model showed smaller deviation for the larger diameter (d) specimen. The smallest R/d-ratio gave the largest deviations between the model and the experiments. Specific knowledge about specimen geometry and the maximum planned compression force is necessary to avoid buckling during compression in axial low-cycle fatigue tests."
+    },
+    "Question_3": {
+        "Context": "What type of machine was used for the compression tests in the study?",
+        "Question": "What type of machine was used for the compression tests in the study?",
+        "A": "Instron 8800",
+        "B": "Servo-hydraulic machine",
+        "C": "Abaqus",
+        "D": "CNC lathe",
+        "Answer": "A",
+        "Source": "The model showed smaller deviation for the larger diameter (d) specimen. The smallest R/d-ratio gave the largest deviations between the model and the experiments. Specific knowledge about specimen geometry and the maximum planned compression force is necessary to avoid buckling during compression in axial low-cycle fatigue tests."
+    },
+    "Question_4": {
+        "Context": "What was the distance between the grips set to for the compression tests in the study?",
+        "Question": "What was the distance between the grips set to for the compression tests in the study?",
+        "A": "50 mm",
+        "B": "100 mm",
+        "C": "200 mm",
+        "D": "500 mm",
+        "Answer": "B",
+        "Source": "The model showed smaller deviation for the larger diameter (d) specimen. The smallest R/d-ratio gave the largest deviations between the model and the experiments. Specific knowledge about specimen geometry and the maximum planned compression force is necessary to avoid buckling during compression in axial low-cycle fatigue tests."
+    },
+    "Question_5": {
+        "Context": "What type of extensometer was used in the compression tests in the study?",
+        "Question": "What type of extensometer was used in the compression tests in the study?",
+        "A": "Transversal extensometer",
+        "B": "Longitudinal extensometer",
+        "C": "Optical extensometer",
+        "D": "Mechanical extensometer",
+        "Answer": "B",
+        "Source": "The model showed smaller deviation for the larger diameter (d) specimen. The smallest R/d-ratio gave the largest deviations between the model and the experiments. Specific knowledge about specimen geometry and the maximum planned compression force is necessary to avoid buckling during compression in axial low-cycle fatigue tests."
+    },
+    "Question_6": {
+        "Context": "What was the method used to predict the critical buckling force in the study?",
+        "Question": "What was the method used to predict the critical buckling force in the study?",
+        "A": "Finite element modeling",
+        "B": "Optical measurement methods",
+        "C": "Laser measurement",
+        "D": "Tensile testing",
+        "Answer": "A",
+        "Source": "The model showed smaller deviation for the larger diameter (d) specimen. The smallest R/d-ratio gave the largest deviations between the model and the experiments. Specific knowledge about specimen geometry and the maximum planned compression force is necessary to avoid buckling during compression in axial low-cycle fatigue tests."
+    },
+    "Question_7": {
+        "Context": "What was the material model based on in the study?",
+        "Question": "What was the material model based on in the study?",
+        "A": "Voce yield criterion",
+        "B": "von Mises yield criterion",
+        "C": "Hooke's Law",
+        "D": "Newton's Law",
+        "Answer": "B",
+        "Source": "The model showed smaller deviation for the larger diameter (d) specimen. The smallest R/d-ratio gave the largest deviations between the model and the experiments. Specific knowledge about specimen geometry and the maximum planned compression force is necessary to avoid buckling during compression in axial low-cycle fatigue tests."
+    },
+    "Question_8": {
+        "Context": "What was the calibration based on for the material model in the study?",
+        "Question": "What was the calibration based on for the material model in the study?",
+        "A": "Compression tests",
+        "B": "Tensile tests",
+        "C": "Flexibility tests",
+        "D": "Buckling tests",
+        "Answer": "B",
+        "Source": "The model showed smaller deviation for the larger diameter (d) specimen. The smallest R/d-ratio gave the largest deviations between the model and the experiments. Specific knowledge about specimen geometry and the maximum planned compression force is necessary to avoid buckling during compression in axial low-cycle fatigue tests."
+    },
+    "Question_9": {
+        "Context": "What software was used to build the finite element model in the study?",
+        "Question": "What software was used to build the finite element model in the study?",
+        "A": "Abaqus",
+        "B": "ANSYS",
+        "C": "SolidWorks",
+        "D": "COMSOL",
+        "Answer": "A",
+        "Source": "The model showed smaller deviation for the larger diameter (d) specimen. The smallest R/d-ratio gave the largest deviations between the model and the experiments. Specific knowledge about specimen geometry and the maximum planned compression force is necessary to avoid buckling during compression in axial low-cycle fatigue tests."
+    },
+    "Question_10": {
+        "Context": "What was the purpose of the compression tests in the study?",
+        "Question": "What was the purpose of the compression tests in the study?",
+        "A": "To determine the tensile strength",
+        "B": "To predict the critical buckling force",
+        "C": "To measure the strain energy",
+        "D": "To analyze the plastic deformation",
+        "Answer": "B",
+        "Source": "The model showed smaller deviation for the larger diameter (d) specimen. The smallest R/d-ratio gave the largest deviations between the model and the experiments. Specific knowledge about specimen geometry and the maximum planned compression force is necessary to avoid buckling during compression in axial low-cycle fatigue tests."
+    }
+}

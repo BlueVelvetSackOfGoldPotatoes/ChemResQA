@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Information about the development of a method for quantifying AZD5305 in plasma of mice using liquid chromatography with tandem mass spectroscopy (LC-MS/MS).",
+        "Question": "What was the retention time of AZD5305 in the LC-MS/MS method developed for quantifying AZD5305 in plasma of mice?",
+        "A": "1.82 min",
+        "B": "1.99 min",
+        "C": "2.05 min",
+        "D": "2.20 min",
+        "Answer": "A",
+        "Source": "The retention times of AZD5305 and internal standard (IS; olaparib) were 1.82 min and 1.99 min, respectively."
+    },
+    "Question_2": {
+        "Context": "Details about the LC-MS/MS method validation for AZD5305 analysis in mouse plasma.",
+        "Question": "What was considered acceptable for the correlation coefficient (r) in the calibration curve of AZD5305 in plasma?",
+        "A": "r \u2265 0.980",
+        "B": "r \u2265 0.995",
+        "C": "r \u2265 0.990",
+        "D": "r \u2265 0.985",
+        "Answer": "C",
+        "Source": "Linearity was assessed on the basis of correlation coefficient (r) of the calibration curve of AZD5305 in plasma over a standard range of 1\u20131000 ng/mL. An r \u2265 0.990 was considered acceptable."
+    },
+    "Question_3": {
+        "Context": "Information about the stability evaluation of AZD5305 in mouse plasma under different conditions.",
+        "Question": "Under which condition was AZD5305 stable for up to 4 weeks?",
+        "A": "2 weeks at -20\u00b0C",
+        "B": "4 weeks at -20\u00b0C",
+        "C": "Three freeze-thaw cycles",
+        "D": "6 hours at room temperature (25\u00b0C)",
+        "Answer": "B",
+        "Source": "AZD5305 was stable at -20\u00b0C for up to 4 weeks."
+    },
+    "Question_4": {
+        "Context": "Details about the matrix effect, recovery, and process efficiency assessment of AZD5305 in mouse plasma.",
+        "Question": "What was the matrix effect percentage for AZD5305 in mouse plasma?",
+        "A": "86.5%",
+        "B": "90.0%",
+        "C": "95.0%",
+        "D": "80.0%",
+        "Answer": "A",
+        "Source": "The matrix effect, recovery, and process efficiency of AZD5305 were confirmed at all QC levels, where the matrix effect percentage was 86.5%."
+    },
+    "Question_5": {
+        "Context": "Results from the in vitro pharmacokinetic study of AZD5305 using microsomes of different species.",
+        "Question": "Which species showed the highest stability of AZD5305 in the microsomal stability test?",
+        "A": "Mice",
+        "B": "Rats",
+        "C": "Dogs",
+        "D": "Humans",
+        "Answer": "D",
+        "Source": "The amounts of AZD5305 remaining in the microsomes of mice, rats, dogs, and humans were 97.6 \u00b1 14.8, 97.5 \u00b1 2.52, 98.0 \u00b1 6.94, and 102 \u00b1 6.14%, respectively."
+    },
+    "Question_6": {
+        "Context": "Results from the in vivo pharmacokinetic study of AZD5305 in mice after intravenous bolus injection.",
+        "Question": "What was the total systemic clearance (CL) value for AZD5305 at a dose of 0.1 mg/kg?",
+        "A": "17.9 \u00b1 1.94 mL/h/kg",
+        "B": "15.5 \u00b1 1.65 mL/h/kg",
+        "C": "20.0 \u00b1 2.00 mL/h/kg",
+        "D": "10.0 \u00b1 1.00 mL/h/kg",
+        "Answer": "A",
+        "Source": "The total systemic clearance (CL) values were 17.9 \u00b1 1.94, 15.5 \u00b1 1.65, and 15.2 \u00b1 0.724 mL/h/kg for doses of 0.1, 0.3, and 1 mg/kg, respectively."
+    },
+    "Question_7": {
+        "Context": "Results from the in vivo pharmacokinetic study of AZD5305 in mice after oral gavage administration.",
+        "Question": "What was the bioavailability (F%) value for AZD5305 at a dose of 0.3 mg/kg?",
+        "A": "105 \u00b1 18.0%",
+        "B": "94.8 \u00b1 9.96%",
+        "C": "109 \u00b1 14.8%",
+        "D": "97.4 \u00b1 8.48%",
+        "Answer": "A",
+        "Source": "The bioavailability (F%) values were 105 \u00b1 18.0, 94.8 \u00b1 9.96, and 109 \u00b1 14.8% for the PO groups at 0.1\u20131.0 mg/kg, respectively."
+    },
+    "Question_8": {
+        "Context": "Details about the pharmacokinetic parameters of AZD5305 after intravenous bolus injection in mice.",
+        "Question": "What was the steady state volume of distribution (Vss) value for AZD5305 at a dose of 0.3 mg/kg?",
+        "A": "117 \u00b1 10.3 mL/kg",
+        "B": "135 \u00b1 6.89 mL/kg",
+        "C": "100 \u00b1 5.0 mL/kg",
+        "D": "150 \u00b1 8.0 mL/kg",
+        "Answer": "A",
+        "Source": "The steady state volume of distribution (Vss) values were 117 \u00b1 10.3, 116 \u00b1 11.1 mL/kg for doses of 0.3, and 1 mg/kg, respectively."
+    },
+    "Question_9": {
+        "Context": "Results from the LC-MS/MS method development for quantifying AZD5305 in plasma of mice.",
+        "Question": "What was the selected product ion transition for AZD5305 in the LC-MS/MS method?",
+        "A": "m/z 407.0 \u2192 187.0",
+        "B": "m/z 435.0 \u2192 281.2",
+        "C": "m/z 407.0 \u2192 376.0",
+        "D": "m/z 376.0 \u2192 407.0",
+        "Answer": "C",
+        "Source": "Detection was carried out using triple quadrupole mass spectrometry with MRM transitions at m/z 407.0 \u2192 376.0 for AZD5305."
+    },
+    "Question_10": {
+        "Context": "Details about the LC-MS/MS method validation for AZD5305 analysis in mouse plasma.",
+        "Question": "What was the lower limit of quantification (LLOQ) set for AZD5305 in the LC-MS/MS method validation?",
+        "A": "5 ng/mL",
+        "B": "1 ng/mL",
+        "C": "10 ng/mL",
+        "D": "3 ng/mL",
+        "Answer": "B",
+        "Source": "When mouse plasma was pretreated with acetonitrile for protein precipitation, no interference of endogenous substances was observed during analysis, and the LLOQ was set at 1 ng/mL."
+    }
+}

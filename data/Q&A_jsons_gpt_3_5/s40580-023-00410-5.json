@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the importance of nanobiosensors in detecting SARS-CoV-2 antigens. What is a key advantage of nanobiosensors over rapid antigen tests?",
+        "Question": "What advantage do nanobiosensors offer over rapid antigen tests?",
+        "A": "Higher cost-effectiveness",
+        "B": "Lower sensitivity",
+        "C": "Enhanced sensitivity",
+        "D": "Slower detection time",
+        "Answer": "C",
+        "Source": "Nanobiosensors surpass the potential of antigen tests because of their enhanced sensitivity..."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the target antigens of nanobiosensors for detecting SARS-CoV-2. What is one of the main target antigens used in these sensors?",
+        "Question": "Which protein is a common target antigen for nanobiosensors detecting SARS-CoV-2?",
+        "A": "Hemoglobin",
+        "B": "Insulin",
+        "C": "Spike protein (S protein)",
+        "D": "Albumin",
+        "Answer": "C",
+        "Source": "The target antigens of nanobiosensors are mainly divided into two major forms (S protein and N protein)..."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the biorecognition elements used in nanobiosensors for detecting SARS-CoV-2. What is a common biorecognition element mentioned in the text?",
+        "Question": "Which biorecognition element is commonly used in nanobiosensors for detecting SARS-CoV-2?",
+        "A": "Antibodies",
+        "B": "Lipids",
+        "C": "Carbohydrates",
+        "D": "Nucleic acids",
+        "Answer": "A",
+        "Source": "The biorecognition element is a critical component of the nanobiosensor that recognizes the target analytes. There have been several bioreceptors, including antibodies..."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the materials and nanomaterials used in nanobiosensors for detecting SARS-CoV-2. What is a commonly used nanomaterial for enhancing signal amplification?",
+        "Question": "Which nanomaterial is commonly used in nanobiosensors for signal amplification?",
+        "A": "Graphene",
+        "B": "Wood",
+        "C": "Plastic",
+        "D": "Glass",
+        "Answer": "A",
+        "Source": "The graphene family has also been preferred due to their extraordinary surface-to-volume ratio and conductivity..."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the transduction mechanisms in nanobiosensors for detecting SARS-CoV-2. What is a common transduction mechanism mentioned in the text?",
+        "Question": "Which transduction mechanism is commonly used in nanobiosensors for detecting SARS-CoV-2?",
+        "A": "Electrochemical",
+        "B": "Mechanical",
+        "C": "Optical",
+        "D": "Thermal",
+        "Answer": "A",
+        "Source": "The nanobiosensors are usually categorized under a transduction mechanism that converts the biorecognition event into a measurable signal..."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the experimental conditions for testing nanobiosensors for detecting SARS-CoV-2. What is a common sample matrix used in these experiments?",
+        "Question": "What is a common sample matrix used in experiments testing nanobiosensors for detecting SARS-CoV-2?",
+        "A": "Water",
+        "B": "Blood",
+        "C": "Viral transport medium (VTM)",
+        "D": "Oil",
+        "Answer": "C",
+        "Source": "The basic experimental condition includes tests using target antigens diluted in a buffer at a certain concentration level..."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the challenges faced by nanobiosensors in detecting SARS-CoV-2. What is one of the criteria mentioned for developing practical diagnostics?",
+        "Question": "Which criteria is mentioned for developing practical diagnostics in the context of nanobiosensors for SARS-CoV-2?",
+        "A": "Sensitive tests",
+        "B": "Specific tests",
+        "C": "Affordable tests",
+        "D": "Complex tests",
+        "Answer": "C",
+        "Source": "The ASSURED criteria suggested by the WHO is a set of requirements for developing practical diagnostics, especially in POC testing..."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the importance of sensitivity in detecting SARS-CoV-2. What is a common guideline used to determine the sensitivity required for nanobiosensors?",
+        "Question": "What guideline is commonly used to determine the required sensitivity for nanobiosensors detecting SARS-CoV-2?",
+        "A": "Commercial ELISA kits",
+        "B": "Mathematical modeling",
+        "C": "Expert opinion",
+        "D": "Trial and error",
+        "Answer": "B",
+        "Source": "Another guideline for setting a reference point uses the sensitivity of commercial ELISA kits..."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the importance of affordability in diagnostic tests. What is a common cost-saving strategy mentioned in the text?",
+        "Question": "What cost-saving strategy is commonly mentioned in the text for developing affordable diagnostic tests?",
+        "A": "Using expensive antibodies",
+        "B": "Customizing lab-scale equipment",
+        "C": "Utilizing commercial chips",
+        "D": "Increasing the cost per test",
+        "Answer": "C",
+        "Source": "Using commercial chips may be an advantage of cost reduction..."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the sensitivity of nanobiosensors for detecting SARS-CoV-2. What is a common reference point used to determine the required sensitivity of these sensors?",
+        "Question": "What is a common reference point used to determine the required sensitivity of nanobiosensors for detecting SARS-CoV-2?",
+        "A": "Physiological relevant levels of SARS-CoV-2",
+        "B": "Historical data from previous pandemics",
+        "C": "Expert opinions",
+        "D": "Commercial antibody prices",
+        "Answer": "A",
+        "Source": "Because this level is equivalent to approximately 10 fM, Stanborough et al. estimated ~ 0.25 pM of S protein as a physiologically relevant level..."
+    }
+}

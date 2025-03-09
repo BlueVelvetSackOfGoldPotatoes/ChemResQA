@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effects of microplastics (MP), food waste (FW), and biochar on soil properties and lettuce growth. The application of FW negatively affected lettuce growth.",
+        "Question": "How did the application of food waste (FW) impact lettuce growth in the study?",
+        "A": "Increased the number of leaves",
+        "B": "Decreased shoot dry weight",
+        "C": "Increased root dry weight",
+        "D": "Decreased plant height",
+        "Answer": "B",
+        "Source": "FW-5 showed significant reductions (p < 0.05) in the number of leaves (36.9%), shoot dry weight (56.7%), root fresh weight (51.8%), and root dry weight (64.5%) compared with the control."
+    },
+    "Question_2": {
+        "Context": "The study examined the effects of microplastics (MP), food waste (FW), and biochar on soil properties and lettuce growth. The application of FW and its coexistence with MPs significantly reduced bacterial richness and diversity.",
+        "Question": "How did the application of food waste (FW) and its coexistence with microplastics (MPs) affect soil bacterial richness and diversity?",
+        "A": "Increased bacterial richness",
+        "B": "Decreased bacterial diversity",
+        "C": "Increased bacterial diversity",
+        "D": "Decreased bacterial richness",
+        "Answer": "D",
+        "Source": "The application of FW and its coexistence with MPs significantly decreased (p < 0.05) the Chao 1 index by 47.5% (FW-5) and 49.5% (MP + FW), as well as the Shannon index by 10.8% (FW-5) and 10.8% (MP + FW)."
+    },
+    "Question_3": {
+        "Context": "The study focused on the effects of microplastics (MP), food waste (FW), and biochar on soil properties and lettuce growth. The application of biochar did not significantly impact soil enzyme activity.",
+        "Question": "What was the impact of biochar application on soil enzyme activity in the study?",
+        "A": "Increased FDAase activity",
+        "B": "Decreased urease activity",
+        "C": "Increased acid phosphatase activity",
+        "D": "No significant impact on enzyme activity",
+        "Answer": "D",
+        "Source": "Although the application of biochar did not show a significant impact on the FDAase activity, the coexistence of MP and biochar (MP + BC) significantly decreased (p < 0.05) FDAase activity by 46.2%."
+    },
+    "Question_4": {
+        "Context": "The study investigated the individual and combined effects of microplastics (MP), food waste (FW), and biochar on soil properties and lettuce growth. The application of MPs did not significantly affect soil pH.",
+        "Question": "What was the impact of microplastics (MP) application on soil pH in the study?",
+        "A": "Increased soil pH",
+        "B": "Decreased soil pH",
+        "C": "No significant impact on soil pH",
+        "D": "Increased soil electrical conductivity",
+        "Answer": "C",
+        "Source": "The application of MPs did not affect the soil pH in either the incubated or cultivated soils."
+    },
+    "Question_5": {
+        "Context": "The study focused on the effects of microplastics (MP), food waste (FW), and biochar on soil properties and lettuce growth. The application of FW increased soil electrical conductivity.",
+        "Question": "How did the application of food waste (FW) impact soil electrical conductivity in the study?",
+        "A": "Decreased soil electrical conductivity",
+        "B": "Increased soil electrical conductivity",
+        "C": "No significant impact on soil electrical conductivity",
+        "D": "Increased soil pH",
+        "Answer": "B",
+        "Source": "The application of FW increased soil EC from 0.18 dS m\u22121 (control) to 1.74 dS m\u22121 (FW-5) and 2.04 dS m\u22121 (MP + FW) in the incubated soils."
+    },
+    "Question_6": {
+        "Context": "The study examined the effects of microplastics (MP), food waste (FW), and biochar on soil properties and lettuce growth. The application of biochar increased soil pH.",
+        "Question": "What was the impact of biochar application on soil pH in the study?",
+        "A": "Decreased soil pH",
+        "B": "Increased soil pH",
+        "C": "No significant impact on soil pH",
+        "D": "Decreased soil electrical conductivity",
+        "Answer": "B",
+        "Source": "The soil pH significantly increased (p < 0.05) in the BC-5 and MP + BC treatments in both incubated and lettuce-cultivated soils compared to the control and MP-1 treatments."
+    },
+    "Question_7": {
+        "Context": "The study focused on the effects of microplastics (MP), food waste (FW), and biochar on soil properties and lettuce growth. The application of MPs did not significantly affect soil nitrate and ammonium content.",
+        "Question": "What was the impact of microplastics (MP) application on soil nitrate and ammonium content in the study?",
+        "A": "Increased nitrate and ammonium content",
+        "B": "Decreased nitrate and ammonium content",
+        "C": "No significant impact on nitrate and ammonium content",
+        "D": "Increased total exchangeable cations",
+        "Answer": "C",
+        "Source": "The application of MP did not have significant impacts on soil NO3 \u2212-N, NH4 +-N, available P, and TEC contents compared to the controls in both incubated and cultivated soils."
+    },
+    "Question_8": {
+        "Context": "The study investigated the individual and combined effects of microplastics (MP), food waste (FW), and biochar on soil properties and lettuce growth. The application of FW and its coexistence with MPs significantly increased available phosphorus content.",
+        "Question": "How did the application of food waste (FW) and its coexistence with microplastics (MPs) impact available phosphorus content in the study?",
+        "A": "Decreased available phosphorus content",
+        "B": "Increased available phosphorus content",
+        "C": "No significant impact on available phosphorus content",
+        "D": "Increased total carbon content",
+        "Answer": "B",
+        "Source": "The highest available P contents were observed in the FW-5 (88.4 mg kg\u22121) and MP + FW (67.9 mg kg\u22121) treatments in incubated soils."
+    },
+    "Question_9": {
+        "Context": "The study examined the effects of microplastics (MP), food waste (FW), and biochar on soil properties and lettuce growth. The application of biochar and its coexistence with MPs did not significantly impact soil total carbon and total nitrogen content.",
+        "Question": "What was the impact of biochar application on soil total carbon and total nitrogen content in the study?",
+        "A": "Decreased total carbon and total nitrogen content",
+        "B": "Increased total carbon and total nitrogen content",
+        "C": "No significant impact on total carbon and total nitrogen content",
+        "D": "Increased available phosphorus content",
+        "Answer": "C",
+        "Source": "The application of biochar did not have a significant impact on the TN content in soils. However, the application of FW, biochar, and their co-application with MPs significantly increased TN in the incubated soil."
+    },
+    "Question_10": {
+        "Context": "The study focused on the effects of microplastics (MP), food waste (FW), and biochar on soil properties and lettuce growth. The coexistence of MPs with food waste (FW) or biochar had limited effects on soil properties and lettuce growth.",
+        "Question": "What was the overall impact of the coexistence of microplastics (MPs) with food waste (FW) or biochar on soil properties and lettuce growth in the study?",
+        "A": "Significantly improved soil properties and lettuce growth",
+        "B": "Negatively affected soil properties and lettuce growth",
+        "C": "Had limited effects on soil properties and lettuce growth",
+        "D": "Increased soil electrical conductivity",
+        "Answer": "C",
+        "Source": "Overall, the coexistence of MPs with FW or biochar had limited effects on soil properties and lettuce growth, with FW and biochar serving as the primary factors in modifying soil\u2013plant systems."
+    }
+}

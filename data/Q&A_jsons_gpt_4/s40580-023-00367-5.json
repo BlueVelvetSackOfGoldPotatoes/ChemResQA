@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Two-dimensional CsPbBr3 nanoplatelets exhibit a quantum well electronic structure where the band gap can be tuned by altering the thickness of the sample.",
+        "Question": "What property of two-dimensional CsPbBr3 nanoplatelets can be adjusted by changing the number of monolayers?",
+        "A": "Color",
+        "B": "Band gap",
+        "C": "Conductivity",
+        "D": "Magnetic properties",
+        "Answer": "B",
+        "Source": "The two-dimensional CsPbBr3 nanoplatelets have a quantum well electronic structure with a band gap tunable with sample thicknesses in discreet steps based upon the number of monolayers."
+    },
+    "Question_2": {
+        "Context": "The optical properties of CsPbBr3 nanoplatelets are characterized by polarized absorption and emission transitions.",
+        "Question": "How are the absorption and emission transitions of CsPbBr3 nanoplatelets described in terms of polarization?",
+        "A": "Weakly plane-polarized",
+        "B": "Isotropically polarized",
+        "C": "Strongly plane-polarized",
+        "D": "Non-polarized",
+        "Answer": "C",
+        "Source": "Polarized spectroscopy shows that they have absorption and emission transitions which are strongly plane-polarized."
+    },
+    "Question_3": {
+        "Context": "In the context of two-dimensional materials, the degree of optical anisotropy can be influenced by the thickness of the material.",
+        "Question": "What trend is observed in the optical anisotropy of CsPbBr3 nanoplatelets as their thickness increases?",
+        "A": "Optical anisotropy increases",
+        "B": "Optical anisotropy remains constant",
+        "C": "Optical anisotropy decreases",
+        "D": "Optical anisotropy fluctuates unpredictably",
+        "Answer": "C",
+        "Source": "The degree of anisotropy is found to depend on the thickness of the nanoplatelets: multiple measurements show a progressive decrease in optical anisotropy from 2 to 5 monolayer thick nanoplatelets."
+    },
+    "Question_4": {
+        "Context": "The synthesis of CsPbBr3 nanoplatelets involves precursor solutions of cesium and lead bromide.",
+        "Question": "What are the two precursor solutions used in the synthesis of CsPbBr3 nanoplatelets?",
+        "A": "Cesium carbonate and lead iodide",
+        "B": "Cesium carbonate and lead bromide",
+        "C": "Cesium chloride and lead bromide",
+        "D": "Cesium iodide and lead chloride",
+        "Answer": "B",
+        "Source": "Precursor solutions were prepared by dissolving 32.6 mg Cs2CO3 in 10 mL oleic acid and separately, 36.7 mg PbBr2 in 10 mL toluene with 0.1 mL oleic acid and 0.1 mL oleylamine."
+    },
+    "Question_5": {
+        "Context": "The synthesis of CsPbBr3 nanoplatelets can be performed at room temperature, which affects the monodispersity of the samples.",
+        "Question": "How does the room temperature synthesis method affect the monodispersity of CsPbBr3 nanoplatelets?",
+        "A": "It improves monodispersity for thicker samples",
+        "B": "It has no effect on monodispersity",
+        "C": "It worsens monodispersity for all samples",
+        "D": "It improves monodispersity for thinner samples",
+        "Answer": "D",
+        "Source": "It was found that the monodispersity in thickness for the samples was better for thinner samples with this method."
+    },
+    "Question_6": {
+        "Context": "The optical properties of CsPbBr3 nanoplatelets can be studied using steady-state spectroscopy techniques.",
+        "Question": "Which spectroscopy technique is used to collect absorption spectra of CsPbBr3 nanoplatelets?",
+        "A": "Nuclear magnetic resonance spectroscopy",
+        "B": "Infrared spectroscopy",
+        "C": "Cary-50 spectrometer",
+        "D": "Mass spectrometry",
+        "Answer": "C",
+        "Source": "Absorption spectra were collected using a Cary-50 spectrometer."
+    },
+    "Question_7": {
+        "Context": "The photoluminescence lifetime of CsPbBr3 nanoplatelets provides insights into the emission characteristics of the material.",
+        "Question": "What is the range of photoluminescence lifetimes observed for CsPbBr3 nanoplatelets?",
+        "A": "Less than 10 ns",
+        "B": "10 to 20 ns",
+        "C": "20 to 50 ns",
+        "D": "Less than 20 ns",
+        "Answer": "D",
+        "Source": "The photoluminescence lifetime of the samples shown in Fig. 1b increased to longer lifetimes for the thicker NPLs and NC samples, but in all cases the lifetime remains less than 20 ns."
+    },
+    "Question_8": {
+        "Context": "The crystal structure of CsPbBr3 nanoplatelets can be determined using X-ray diffraction techniques.",
+        "Question": "What crystal structure is typically understood to be observed in CsPbBr3 nanoplatelets?",
+        "A": "Cubic",
+        "B": "Tetragonal",
+        "C": "Orthorhombic",
+        "D": "Hexagonal",
+        "Answer": "C",
+        "Source": "The orthorhombic crystal structure is apparent from both small peaks from the reduced symmetry of the crystal as well as shoulders or asymmetric reflection features."
+    },
+    "Question_9": {
+        "Context": "Fluorescence anisotropy experiments can be used to evaluate the polarized optical properties of nanomaterials.",
+        "Question": "What does a positive anisotropy value indicate in fluorescence anisotropy experiments?",
+        "A": "The emission is more intense for cross-polarized light",
+        "B": "The emission is more intense for co-polarized light",
+        "C": "The emission is unpolarized",
+        "D": "The emission is isotropically polarized",
+        "Answer": "B",
+        "Source": "The intensity of the co-polarized emission ( I\u2225 ) is more intense than the cross-polarized emission ( I\u22a5 ) indicating a positive anisotropy for the sample."
+    },
+    "Question_10": {
+        "Context": "Polarized transient absorption spectroscopy is another technique to measure anisotropy of colloidal nanoparticles.",
+        "Question": "In polarized transient absorption spectroscopy, what does the probe pulse measure?",
+        "A": "Change in the light reflection from the sample",
+        "B": "Change in the light transmission through the sample",
+        "C": "Change in the sample's temperature",
+        "D": "Change in the sample's electrical conductivity",
+        "Answer": "B",
+        "Source": "In these measurements, a polarized pump excitation also photo-selects the randomly-oriented ensemble in solution and a second probe pulse measures change in the light transmission through the sample under co- or cross-polarized conditions."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Details about the chemical composition of essential oils extracted from fennel seeds and Micromeria fruticose leaves.",
+        "Question": "Which compound accounted for the highest percentage in the essential oil of fennel seeds?",
+        "A": "trans\u2011anethole",
+        "B": "fenchone",
+        "C": "sylvestrene",
+        "D": "methyl chavicol",
+        "Answer": "A",
+        "Source": "Trans\u2011anethole accounted for the highest percentage (93.69%) in the essential oil of fennel seeds."
+    },
+    "Question_2": {
+        "Context": "Details about the chemical components of the essential oil extracted from fennel seeds.",
+        "Question": "Which compound accounted for the highest percentage in the essential oil of fennel seeds?",
+        "A": "trans\u2011anethole",
+        "B": "fenchone",
+        "C": "sylvestrene",
+        "D": "methyl chavicol",
+        "Answer": "A",
+        "Source": "Trans\u2011anethole accounted for the highest percentage (93.69%) in the essential oil of fennel seeds."
+    },
+    "Question_3": {
+        "Context": "Information about the impact of Fe-EO and Thy-EO on melanoma cell growth.",
+        "Question": "At what concentration did Mix-EO suppress B16F10 or A431 cell growth by approximately 75% compared to carrier treatment?",
+        "A": "5 \u03bcg/ml",
+        "B": "25 \u03bcg/ml",
+        "C": "30 \u03bcg/ml",
+        "D": "50 \u03bcg/ml",
+        "Answer": "B",
+        "Source": "Mix-EO at a concentration of 25 \u03bcg/ml suppressed B16F10 or A431 cell growth by approximately 75% compared to carrier treatment."
+    },
+    "Question_4": {
+        "Context": "Details about the effects of Fe-EO, Thy-EO, and Mix-EO on MMP9 expression.",
+        "Question": "Which treatment resulted in the best suppression of MMP9 expression in tumors compared to control?",
+        "A": "Fe-EO",
+        "B": "Thy-EO",
+        "C": "Mix-EO",
+        "D": "Control",
+        "Answer": "C",
+        "Source": "MMP9 expression was best suppressed after Mix-EO treatment compared to control by qPCR."
+    },
+    "Question_5": {
+        "Context": "Information about the impact of Mix-EO on tumor-associated mesenchymal stem cells.",
+        "Question": "How did all tested EOs affect MMP9 expression in tumor-associated mesenchymal stem cells?",
+        "A": "Enhanced expression",
+        "B": "No effect",
+        "C": "Inhibited expression",
+        "D": "Variable effect",
+        "Answer": "C",
+        "Source": "All tested EOs completely suppressed MMP9 expression in tumor-associated mesenchymal stem cells."
+    },
+    "Question_6": {
+        "Context": "Details about the impact of Mix-EO on tumor growth and MMP9 expression.",
+        "Question": "What was the effect of Mix-EO treatment on tumor growth compared to control?",
+        "A": "Reduced tumor growth",
+        "B": "Increased tumor growth",
+        "C": "No effect on tumor growth",
+        "D": "Variable effect on tumor growth",
+        "Answer": "A",
+        "Source": "Mix-EO treatment reduced tumor growth compared to control in the B16F10 subcutaneous melanoma model."
+    },
+    "Question_7": {
+        "Context": "Information about the impact of Fe-EO and Thy-EO on NFkB signaling.",
+        "Question": "Which signaling pathway was suppressed by Fe-EO and Thy-EO in melanoma cells?",
+        "A": "MAPK signaling",
+        "B": "NFkB signaling",
+        "C": "PI3K/Akt signaling",
+        "D": "JAK/STAT signaling",
+        "Answer": "B",
+        "Source": "Fe-EO and Thy-EO inhibited NFkB signaling in melanoma cells."
+    },
+    "Question_8": {
+        "Context": "Details about the proposed mode of action of Fe-EO and Thy-EO.",
+        "Question": "What was the proposed mechanism of action of Fe-EO and Thy-EO in inhibiting tumor growth and migration?",
+        "A": "Inhibition of MMP2 expression",
+        "B": "Activation of NFkB signaling",
+        "C": "Suppression of MMP9 expression",
+        "D": "Induction of angiogenesis",
+        "Answer": "C",
+        "Source": "Fe-EO and Thy-EO suppressed tumor growth and migration by inhibiting NFkB and MMP9 expression."
+    },
+    "Question_9": {
+        "Context": "Information about the effects of Mix-EO on stromal cell-derived factors.",
+        "Question": "What was the effect of Mix-EO treatment on MMP9 expression in tumor-associated mesenchymal stem cells compared to bone marrow-derived MSCs?",
+        "A": "Enhanced expression",
+        "B": "No effect",
+        "C": "Inhibited expression",
+        "D": "Variable effect",
+        "Answer": "C",
+        "Source": "Mix-EO treatment inhibited MMP9 expression in tumor-associated mesenchymal stem cells compared to bone marrow-derived MSCs."
+    },
+    "Question_10": {
+        "Context": "Details about the impact of Mix-EO on tumor growth and MMP9 expression.",
+        "Question": "What was the effect of Mix-EO treatment on MMP9 expression in tumors compared to control?",
+        "A": "Enhanced expression",
+        "B": "No effect",
+        "C": "Inhibited expression",
+        "D": "Variable effect",
+        "Answer": "C",
+        "Source": "Mix-EO treatment suppressed MMP9 expression in tumors compared to control."
+    }
+}

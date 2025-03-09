@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effects of UVB irradiation on skin cells and the potential anti-aging effects of ginsenoside Rg2. It focused on the inhibition of MMP-1 gene and protein expression.",
+        "Question": "What is the major cause of photoaging induced by UVB irradiation?",
+        "A": "Increased expression of cytokines",
+        "B": "Activation of keratinocytes",
+        "C": "Stimulation of dermal fibroblasts",
+        "D": "Increased expression of MMPs",
+        "Answer": "D",
+        "Source": "UV radiation can increase the expression of MMPs, especially collagenase MMP-1, which is the major cause of skin aging, characterized by sagging skin or rough skin surfaces as the wrinkles deepen and skin elasticity decreases due to collagen degradation."
+    },
+    "Question_2": {
+        "Context": "The study examined the inhibitory effect of ginsenoside Rg2 on MMP-1 mRNA expression and protein secretion in human dermal fibroblasts.",
+        "Question": "Which signaling pathway was suppressed by Rg2 to inhibit MMP-1 expression?",
+        "A": "ERK and JNK",
+        "B": "ERK and p38",
+        "C": "JNK and p38",
+        "D": "ERK, JNK, and p38",
+        "Answer": "A",
+        "Source": "Rg2 suppressed the ERK and JNK pathways, but not the p38 pathway, to inhibit MMP-1 expression."
+    },
+    "Question_3": {
+        "Context": "The study investigated the effects of Rg2 on the MAPK signaling pathway in human dermal fibroblasts.",
+        "Question": "Which upstream signal molecules of the MAPK pathway were affected by Rg2?",
+        "A": "Src, MEK, and SEK",
+        "B": "MEK, SEK, and NF-\u03baB",
+        "C": "Src, MEK, and NF-\u03baB",
+        "D": "Src, SEK, and NF-\u03baB",
+        "Answer": "C",
+        "Source": "Rg2 suppressed Src, MEK, and NF-\u03baB, which are upstream regulators of the MAPK pathway."
+    },
+    "Question_4": {
+        "Context": "The study examined the inhibitory effect of Rg2 on inflammatory cytokine mRNA expression in human dermal fibroblasts.",
+        "Question": "Which inflammatory cytokine mRNA expression was inhibited by Rg2?",
+        "A": "IL-1\u03b2",
+        "B": "IL-6",
+        "C": "TNF-\u03b1",
+        "D": "IL-1\u03b2 and IL-6",
+        "Answer": "A",
+        "Source": "Rg2 inhibited the expression of IL-1\u03b2 mRNA but had no effect on IL-6 and TNF-\u03b1 mRNA expression."
+    },
+    "Question_5": {
+        "Context": "The study investigated the effects of Rg2 on the phosphorylation of NF-\u03baB and Akt in human dermal fibroblasts.",
+        "Question": "Which signaling pathway was suppressed by Rg2 to inhibit NF-\u03baB phosphorylation?",
+        "A": "Akt/PI3K",
+        "B": "NF-\u03baB/AP-1",
+        "C": "NF-\u03baB/Akt",
+        "D": "Akt/PI3K and NF-\u03baB/AP-1",
+        "Answer": "C",
+        "Source": "Rg2 suppressed Akt phosphorylation, which is involved in the NF-\u03baB signaling pathway."
+    },
+    "Question_6": {
+        "Context": "The study examined the inhibitory effect of Rg2 on MMP-1 mRNA expression and protein secretion in human dermal fibroblasts.",
+        "Question": "At what concentration did Rg2 significantly inhibit MMP-1 protein expression?",
+        "A": "12.5 \u00b5M",
+        "B": "25 \u00b5M",
+        "C": "50 \u00b5M",
+        "D": "100 \u00b5M",
+        "Answer": "C",
+        "Source": "MMP-1 ELISA results showed that Rg2 significantly inhibited MMP-1 protein expression at 50 \u00b5M."
+    },
+    "Question_7": {
+        "Context": "The study investigated the effects of UVB irradiation on the viability of skin cells.",
+        "Question": "At what UVB irradiation dose did HaCaT cells show 50% cell viability?",
+        "A": "5 mJ/cm2",
+        "B": "10 mJ/cm2",
+        "C": "15 mJ/cm2",
+        "D": "20 mJ/cm2",
+        "Answer": "B",
+        "Source": "HaCaT cells showed 50% cell viability at 10 mJ/cm2 UVB."
+    },
+    "Question_8": {
+        "Context": "The study examined the inhibitory effect of Rg2 on MMP-1 mRNA expression and protein secretion in human dermal fibroblasts.",
+        "Question": "Which cytokine gene expression was increased by UV CM treatment?",
+        "A": "IL-1\u03b2",
+        "B": "IL-6",
+        "C": "TNF-\u03b1",
+        "D": "IL-1\u03b2 and IL-6",
+        "Answer": "D",
+        "Source": "The levels of IL-1\u03b2 and IL-6 mRNA were significantly increased in the UV CM treated group."
+    },
+    "Question_9": {
+        "Context": "The study investigated the effects of Rg2 on the MAPK signaling pathway in human dermal fibroblasts.",
+        "Question": "Which MAPK pathway was not suppressed by Rg2?",
+        "A": "ERK",
+        "B": "JNK",
+        "C": "p38",
+        "D": "ERK and JNK",
+        "Answer": "C",
+        "Source": "Rg2 suppressed the ERK and JNK pathways, but not the p38 pathway, in the MAPK signaling pathway."
+    },
+    "Question_10": {
+        "Context": "The study examined the inhibitory effect of Rg2 on MMP-1 mRNA expression and protein secretion in human dermal fibroblasts.",
+        "Question": "Which protein was used as a positive control in the experiment?",
+        "A": "NF-\u03baB",
+        "B": "Akt",
+        "C": "Src",
+        "D": "Forskolin",
+        "Answer": "D",
+        "Source": "In this experiment, Forskolin, a cAMP activator, was used as a positive control."
+    }
+}

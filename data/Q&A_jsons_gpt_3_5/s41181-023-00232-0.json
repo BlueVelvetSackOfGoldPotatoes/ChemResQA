@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to develop a method for separating silver-111 from palladium targets. The separation process involved using LN resin for extraction chromatography.",
+        "Question": "What was the primary purpose of the study described in the text?",
+        "A": "To investigate the decay properties of silver-111",
+        "B": "To assess the effectiveness of ICP-OES in radiochemical separations",
+        "C": "To develop a method for the separation of silver-111 from palladium targets",
+        "D": "To study the production of palladium-109",
+        "Answer": "C",
+        "Source": "This study presents the development of an innovative chemical separation method aimed at efficiently extracting silver-111 from bulk palladium targets."
+    },
+    "Question_2": {
+        "Context": "The study involved conducting batch equilibrium experiments to explore the chemical behavior of Ag(I) and Pd(II) on LN resin.",
+        "Question": "What was the main finding regarding the weight distribution ratios of Ag(I) and Pd(II) on LN resin?",
+        "A": "Ag(I) and Pd(II) had similar weight distribution ratios across all HCl concentrations.",
+        "B": "Ag(I) showed higher weight distribution ratios at low HCl concentrations, while Pd(II) had minimal uptake on the resin.",
+        "C": "Pd(II) exhibited higher weight distribution ratios compared to Ag(I) at all HCl concentrations.",
+        "D": "Ag(I) had negligible retention on the resin at all HCl concentrations.",
+        "Answer": "B",
+        "Source": "LN resin exhibited a marked Ag(I) selectivity over Pd(II). Specifically, at low HCl concentrations (from 0.01 to 0.05 M), Ag(I) was strongly adsorbed, leading to weight distribution ratios (Dw) exceeding 1000. Conversely, under increased HCl molarity (> 0.2 M), Ag(I) showed undetectable retention."
+    },
+    "Question_3": {
+        "Context": "The study validated the chemical separation process using stable elements before applying it to irradiated palladium targets.",
+        "Question": "What was the recovery yield of Ag(I) and Pd(II) during the chemical separation process using stable elements?",
+        "A": "Ag(I) recovery was > 95%, and Pd(II) recovery was < 50%.",
+        "B": "Ag(I) recovery was < 50%, and Pd(II) recovery was > 95%.",
+        "C": "Ag(I) recovery was > 95%, and Pd(II) recovery was > 99%.",
+        "D": "Ag(I) recovery was < 50%, and Pd(II) recovery was < 50%.",
+        "Answer": "C",
+        "Source": "Pd(II) was efficiently removed (> 99%) using 0.005 M HCl in the loading and the first washing steps, while the successive additions of 1 M HCl allowed to efficaciously recover Ag(I) (> 95%)."
+    },
+    "Question_4": {
+        "Context": "The study included a radiochemical separation process after the chemical separation using irradiated palladium targets.",
+        "Question": "What was the radionuclidic purity of silver-111 obtained after the radiochemical separation?",
+        "A": "Radionuclidic purity was < 50%.",
+        "B": "Radionuclidic purity was > 99%.",
+        "C": "Radionuclidic purity was between 70-80%.",
+        "D": "Radionuclidic purity was not mentioned in the study.",
+        "Answer": "B",
+        "Source": "Negligible presence of palladium-109 is noticeable in the recovered silver-111 fractions after purification, attesting a radionuclidic purity exceeding 99%."
+    },
+    "Question_5": {
+        "Context": "The study involved using TK200 resin for further purification of silver-111 after the initial separation.",
+        "Question": "What was the approximate molar activity of the obtained silver-111?",
+        "A": "Molar activity was estimated to be less than 10 KBq/nmol.",
+        "B": "Molar activity was estimated to be around 20 KBq/nmol.",
+        "C": "Molar activity was estimated to be over 50 KBq/nmol.",
+        "D": "Molar activity was not mentioned in the study.",
+        "Answer": "B",
+        "Source": "The molar activity of the obtained silver-111 was estimated not less than 20 KBq/nmol."
+    },
+    "Question_6": {
+        "Context": "The study aimed to provide a formulation suitable for direct radiolabeling of bioconjugates using the separated silver-111.",
+        "Question": "What was the average yield of silver-111 obtained after concentration using TK200 resin?",
+        "A": "Average yield was around 50%.",
+        "B": "Average yield was over 95%.",
+        "C": "Average yield was below 20%.",
+        "D": "Average yield was not mentioned in the study.",
+        "Answer": "B",
+        "Source": "The harvesting of the first 6 mL provided a formulation suitable for direct radiolabeling of bioconjugates still ensuring an average yield of 80 \u00b1 5%."
+    },
+    "Question_7": {
+        "Context": "The study conducted irradiation of natural palladium targets to produce silver-111.",
+        "Question": "What was the neutron flux used for the irradiation of the natural palladium targets?",
+        "A": "6.7\u00b710^12 cm\u20132 s\u20131",
+        "B": "1.7\u00b710^13 cm\u20132 s\u20131",
+        "C": "2.3\u00b710^12 cm\u20132 s\u20131",
+        "D": "5.8\u00b710^13 cm\u20132 s\u20131",
+        "Answer": "A",
+        "Source": "Natural palladium targets were irradiated in the central thimble (CT) for 2 h with thermal neutron flux of 6.7\u00b710^12 cm\u20132 s\u20131."
+    },
+    "Question_8": {
+        "Context": "The study validated the chemical separation process using stable elements before applying it to irradiated palladium targets.",
+        "Question": "What was the main difference observed in the elution profiles of silver-111 and palladium-109 between the stable elements and the irradiated targets?",
+        "A": "The elution volume needed for silver-111 was lower in the stable elements experiment.",
+        "B": "The elution volume needed for silver-111 was higher in the stable elements experiment.",
+        "C": "The elution volume needed for palladium-109 was lower in the stable elements experiment.",
+        "D": "The elution volume needed for palladium-109 was higher in the stable elements experiment.",
+        "Answer": "B",
+        "Source": "The elution profiles obtained using the irradiated material were very similar to those obtained using the stable elements. The only notable difference observed was the larger volume needed for the elution of silver-111."
+    },
+    "Question_9": {
+        "Context": "The study aimed to develop a method for separating silver-111 from palladium targets.",
+        "Question": "What was the ultimate goal of achieving a ready-to-use formulation for the direct radiolabeling of tumour-seeking biomolecules?",
+        "A": "To enhance the production of palladium-109",
+        "B": "To improve the efficiency of the separation process",
+        "C": "To facilitate the use of silver-111 in therapeutic applications",
+        "D": "To increase the molar activity of silver-111",
+        "Answer": "C",
+        "Source": "The ultimate goal is to achieve a ready-to-use formulation for the direct radiolabeling of tumour-seeking biomolecules."
+    },
+    "Question_10": {
+        "Context": "The study involved conducting batch equilibrium experiments to explore the chemical behavior of Ag(I) and Pd(II) on LN resin.",
+        "Question": "What was the primary reason for the higher weight distribution ratios of Ag(I) compared to Pd(II) on LN resin?",
+        "A": "Ag(I) formed stable complexes with the resin at low HCl concentrations.",
+        "B": "Pd(II) had a higher affinity for the resin at all HCl concentrations.",
+        "C": "Ag(I) had a lower concentration in the solution compared to Pd(II).",
+        "D": "Pd(II) exhibited negligible interaction with the resin.",
+        "Answer": "A",
+        "Source": "LN resin exhibited a marked Ag(I) selectivity over Pd(II). Specifically, at low HCl concentrations (from 0.01 to 0.05 M), Ag(I) was strongly adsorbed, leading to weight distribution ratios (Dw) exceeding 1000."
+    }
+}

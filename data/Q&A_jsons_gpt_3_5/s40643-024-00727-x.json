@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Enzyme activity was measured under different pH conditions to determine the optimal pH for MBP-DrADL.",
+        "Question": "What was the optimal pH for MBP-DrADL activity?",
+        "A": "pH 6.5",
+        "B": "pH 7.5",
+        "C": "pH 8.0",
+        "D": "pH 9.0",
+        "Answer": "C",
+        "Source": "MBP-DrADL showed maximum activity at pH 8.0 in EPPS buffer."
+    },
+    "Question_2": {
+        "Context": "The effect of temperature on enzyme activity was investigated to determine the optimal temperature for MBP-DrADL.",
+        "Question": "What was the optimal temperature for MBP-DrADL activity?",
+        "A": "20\u00b0C",
+        "B": "30\u00b0C",
+        "C": "40\u00b0C",
+        "D": "50\u00b0C",
+        "Answer": "D",
+        "Source": "MBP-DrADL showed maximum activity at 50\u00b0C."
+    },
+    "Question_3": {
+        "Context": "Thermostability of MBP-DrADL was assessed by incubating the enzyme at different temperatures.",
+        "Question": "After 4 days of incubation, what percentage of enzyme activity was maintained at 50\u00b0C?",
+        "A": "Below 50%",
+        "B": "50%",
+        "C": "60%",
+        "D": "Above 70%",
+        "Answer": "D",
+        "Source": "MBP-DrADL maintained a high enzyme activity of > 70% after 4 days at 50\u00b0C."
+    },
+    "Question_4": {
+        "Context": "The effect of different metal ions on enzyme activity was studied to determine the optimal metal ion for MBP-DrADL.",
+        "Question": "Which metal ion yielded the highest activity for MBP-DrADL?",
+        "A": "Mg2+",
+        "B": "Mn2+",
+        "C": "Ni2+",
+        "D": "Co2+",
+        "Answer": "A",
+        "Source": "Among the tested ions, Mg2+ yielded the highest MBP-DrADL activity."
+    },
+    "Question_5": {
+        "Context": "The effect of Mg2+ concentration on enzyme activity was examined to determine the optimal Mg2+ concentration for MBP-DrADL.",
+        "Question": "What was the optimal concentration of Mg2+ for MBP-DrADL activity?",
+        "A": "1 mM",
+        "B": "3 mM",
+        "C": "5 mM",
+        "D": "7 mM",
+        "Answer": "C",
+        "Source": "The optimal concentration of Mg2+ for MBP-DrADL activity was 5 mM."
+    },
+    "Question_6": {
+        "Context": "Comparison of specific activities of different pyruvate aldolases was conducted to determine the most efficient enzyme for 2-KHB production.",
+        "Question": "Which pyruvate aldolase showed the highest specific activity for 2-KHB production?",
+        "A": "MBP-EcYfaU",
+        "B": "MBP-PaADLWT",
+        "C": "MBP-PaADLV121A/L241A",
+        "D": "MBP-DrADL",
+        "Answer": "D",
+        "Source": "MBP-DrADL showed 4.63-fold, 7.9-fold, and 6.1-fold higher aldol specific activity than that of MBP-EcYfaU, MBP-PaADLWT, and MBP-PaADLV121A/L241A, respectively."
+    },
+    "Question_7": {
+        "Context": "Kinetic parameters of MBP-DrADL were determined to understand its catalytic efficiency.",
+        "Question": "What was the catalytic efficiency of MBP-DrADL for formaldehyde?",
+        "A": "1347 min\u22121 mM\u22121",
+        "B": "398 min\u22121 mM\u22121",
+        "C": "7670 min\u22121 mM\u22121",
+        "D": "453 min\u22121 mM\u22121",
+        "Answer": "A",
+        "Source": "MBP-DrADL showed the highest catalytic efficiency for formaldehyde, with a value of 1347 min\u22121 mM\u22121."
+    },
+    "Question_8": {
+        "Context": "Optimal enzyme concentration and substrate concentrations were determined for 2-KHB production using MBP-DrADL.",
+        "Question": "What was the optimal enzyme concentration for 2-KHB production?",
+        "A": "0.005 mg mL\u22121",
+        "B": "0.025 mg mL\u22121",
+        "C": "0.05 mg mL\u22121",
+        "D": "0.1 mg mL\u22121",
+        "Answer": "B",
+        "Source": "The maximal production of 2-KHB occurred at an enzyme concentration of 0.025 mg mL\u22121."
+    },
+    "Question_9": {
+        "Context": "Optimal enzyme concentration and substrate concentrations were determined for 2-KHB production using MBP-DrADL.",
+        "Question": "What was the optimal substrate concentration for 2-KHB production?",
+        "A": "100 mM formaldehyde and 100 mM pyruvate",
+        "B": "200 mM formaldehyde and 200 mM pyruvate",
+        "C": "100 mM formaldehyde and 200 mM pyruvate",
+        "D": "200 mM formaldehyde and 100 mM pyruvate",
+        "Answer": "C",
+        "Source": "The maximal production of 2-KHB occurred at a concentration of 100 mM formaldehyde and 200 mM pyruvate."
+    },
+    "Question_10": {
+        "Context": "Biotransformation of 2-KHB using MBP-DrADL was performed under optimized conditions.",
+        "Question": "What were the reaction conditions for 2-KHB production using MBP-DrADL?",
+        "A": "pH 7.0, 40\u00b0C, 0.05 mg mL\u22121 enzyme, 150 mM formaldehyde, 250 mM pyruvate",
+        "B": "pH 8.0, 50\u00b0C, 0.025 mg mL\u22121 enzyme, 100 mM formaldehyde, 200 mM pyruvate",
+        "C": "pH 9.0, 60\u00b0C, 0.1 mg mL\u22121 enzyme, 200 mM formaldehyde, 100 mM pyruvate",
+        "D": "pH 8.5, 55\u00b0C, 0.075 mg mL\u22121 enzyme, 125 mM formaldehyde, 225 mM pyruvate",
+        "Answer": "B",
+        "Source": "2-KHB production from formaldehyde and pyruvate using MBP-DrADL was performed at pH 8.0, 50\u00b0C, 0.025 mg mL\u22121 enzyme, 100 mM formaldehyde, and 200 mM pyruvate."
+    }
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "The paper discusses a method to improve the thermoelectric conversion efficiency and figure of merit by introducing interfacial doping. ",
+            "Question": "What is the maximum figure of merit achieved using the method described in the paper?",
+            "A": "ZT = 1.0",
+            "B": "ZT = 1.2",
+            "C": "ZT = 1.3",
+            "D": "ZT = 1.4",
+            "Answer": "C",
+            "Source": "Employing this method in p-type (Bi1-xSbx)2Te3 compounds results in a maximum figure of merit zT = 1.3, an over 10% improvement compared to the host material alone."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "The paper mentions the use of composite materials with micro-scale inclusions. ",
+            "Question": "What type of inclusions were used in the composite materials?",
+            "A": "Metallic inclusions",
+            "B": "Insulating inclusions",
+            "C": "Polymer inclusions",
+            "D": "Ceramic inclusions",
+            "Answer": "B",
+            "Source": "The model in Fig. 1c predicts an increase in the figure of merit. The result in Fig. 1c shows how the power factor is expected to decrease slightly, but that effect is accompanied by an even larger loss in thermal conductivity."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "The paper discusses the experimental results of using different coatings on the beads in the composite materials. ",
+            "Question": "Which coating diffused uniformly throughout the host matrix material?",
+            "A": "Pb coating",
+            "B": "Ag coating",
+            "C": "Cu coating",
+            "D": "Ni coating",
+            "Answer": "B",
+            "Source": "There was a large decrease in thermopower and resistivity when silver-coated beads were present, even for small volume fractions. This is consistent with the model in which the increase in power factor in the case of the Pb-coated beads is due to composite effective medium effects, and not to accidental doping of the host material."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "The paper mentions the use of a specific material as the composite host material. ",
+            "Question": "What material was selected as the composite host material?",
+            "A": "(Bi0.25Sb0.75)2Te3",
+            "B": "(Bi1-xSbx)2Te3",
+            "C": "(Bi2Se3)2Te3",
+            "D": "(Bi0.5Sb0.5)2Te3",
+            "Answer": "A",
+            "Source": "P-type (Bi0.25Sb0.75)2Te3 was selected as the composite host material."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "The paper discusses the preparation of composite samples using a specific method. ",
+            "Question": "How were the composite samples prepared?",
+            "A": "By chemical vapor deposition",
+            "B": "By spark plasma sintering",
+            "C": "By sol-gel method",
+            "D": "By electrospinning",
+            "Answer": "B",
+            "Source": "Each batch of samples was prepared by spark plasma sintering (Dr. Sinter, Fuji SPS)."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "The paper mentions the measurement of specific properties in the composite samples. ",
+            "Question": "How was the thermal conductivity measured in the composite samples?",
+            "A": "By the 2-probe method",
+            "B": "By the 3-probe method",
+            "C": "By the 4-probe method",
+            "D": "By the 5-probe method",
+            "Answer": "C",
+            "Source": "Longitudinal and Hall resistivity were measured by the 4-probe method, and thermopower was measured by the static heater-and-sink method."
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "The paper discusses the effects of different coatings on the composite samples. ",
+            "Question": "What was the effect of the Ag-coated beads on the composite samples?",
+            "A": "Decrease in thermopower and resistivity",
+            "B": "Increase in thermopower and resistivity",
+            "C": "No change in thermopower and resistivity",
+            "D": "Increase in thermopower and decrease in resistivity",
+            "Answer": "A",
+            "Source": "There was a large decrease in thermopower and resistivity when silver-coated beads were present, even for small volume fractions."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "The paper mentions the funding source for the work described. ",
+            "Question": "What program funded the work described in the paper?",
+            "A": "NSF Grant",
+            "B": "NIH Grant",
+            "C": "Ford-OSU alliance program",
+            "D": "DOE Grant",
+            "Answer": "C",
+            "Source": "This work is funded by the Ford-OSU alliance program 2017."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "The paper discusses the implications of the composite materials for specific applications. ",
+            "Question": "In which application is the composite material unlikely to perform well?",
+            "A": "Power generation",
+            "B": "Cryogenic refrigeration",
+            "C": "Thermoelectric power plants",
+            "D": "Automotive waste heat recovery",
+            "Answer": "A",
+            "Source": "Due to diffusion at high temperatures, this type of composite is unlikely to perform well in power generation."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "The paper mentions the measurement errors associated with the experimental data. ",
+            "Question": "What is the primary source of measurement errors in the reported data?",
+            "A": "Sample-to-sample reproducibility errors",
+            "B": "Actual measurement errors",
+            "C": "Noise in the thermometry and voltage measurements",
+            "D": "Geometrical errors in sample dimensions",
+            "Answer": "C",
+            "Source": "The measurement errors are mostly induced by noise in the thermometry and voltage measurements."
+        }
+    }
+]

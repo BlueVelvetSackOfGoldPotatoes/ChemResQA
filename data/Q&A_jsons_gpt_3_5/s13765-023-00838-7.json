@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Research has shown that GLKs play a significant role in chlorophyll biosynthesis. Based on this information, what is a major characteristic considered during reverse genetic studies of GLKs?",
+        "Question": "What is a major characteristic considered during reverse genetic studies of GLKs?",
+        "A": "Stem length",
+        "B": "Leaf color",
+        "C": "Root structure",
+        "D": "Flower size",
+        "Answer": "B",
+        "Source": "In general, chlorophyll levels are the strongest indicator of plant greening traits. Therefore, chlorophyll content has been considered as a major characteristic during reverse genetic studies of GLKs."
+    },
+    "Question_2": {
+        "Context": "GLKs have been studied in various plants using different techniques. What technique was used in the study involving the moss species to decrease the chlorophyll content of the target organs?",
+        "Question": "What technique was used in the study involving the moss species to decrease the chlorophyll content of the target organs?",
+        "A": "RNA interference",
+        "B": "Homologous recombination",
+        "C": "Virus-induced gene silencing",
+        "D": "CRISPR/Cas9",
+        "Answer": "B",
+        "Source": "Furthermore, single knock-down (KD) and KO mutations have been used to decrease the chlorophyll content of the target organs of several plants, including the hairy roots of peanut, the leaves of hybrid birch and hybrid poplar, the gemmae of liverwort, and the leaves and unripe fruits of peach and tomato."
+    },
+    "Question_3": {
+        "Context": "GLKs have been found to positively coordinate the expression of photosynthesis-associated nuclear genes in many plants. Which family does GLK belong to?",
+        "Question": "Which family does GLK belong to?",
+        "A": "GARP superfamily",
+        "B": "MYB superfamily",
+        "C": "AP2/ERF superfamily",
+        "D": "WRKY superfamily",
+        "Answer": "A",
+        "Source": "GLKs, which belong to a subgroup of the GARP (GOLDEN2 in Zea mays; ARR-B, in Arabidopsis thaliana; Psr1 in Chlamydomonas reinhardtii) superfamily, show strong structural conservation."
+    },
+    "Question_4": {
+        "Context": "GLKs have been reported to interact with various protein partners in different plants. In which plant was the interaction with protein partners related to senescence and fruit development reported?",
+        "Question": "In which plant was the interaction with protein partners related to senescence and fruit development reported?",
+        "A": "Peach",
+        "B": "Tomato",
+        "C": "Apple",
+        "D": "Radish",
+        "Answer": "B",
+        "Source": "Meanwhile, miscellaneous protein partners that are known to interact with GLKs have been reported for a wide range of traits in various plants: tomato for senescence and fruit development..."
+    },
+    "Question_5": {
+        "Context": "GLKs have been shown to have a pleiotropic impact on plant traits. What is one of the traits that GLKs have been found to influence individually, apart from chlorophyll biosynthesis and photosynthetic rate?",
+        "Question": "Apart from chlorophyll biosynthesis and photosynthetic rate, what is one of the traits that GLKs have been found to influence individually?",
+        "A": "Root growth",
+        "B": "Flower color",
+        "C": "Seed size",
+        "D": "Yield",
+        "Answer": "D",
+        "Source": "They individually influence other traits including yield, phytochemical accumulation, and biotic and abiotic stress resistance."
+    },
+    "Question_6": {
+        "Context": "GLKs have been identified as master regulators of chloroplast biogenesis. What specific motif confers characteristics to GLKs that distinguish them from other GARP members?",
+        "Question": "What specific motif confers characteristics to GLKs that distinguish them from other GARP members?",
+        "A": "AREAEAA hexapeptide",
+        "B": "MYB-related B domain",
+        "C": "Proline-rich domain",
+        "D": "GCT box",
+        "Answer": "A",
+        "Source": "The consensus sequence of the AREAEAA hexapeptide motif, which immediately follows the third helix of the B domain confers specific characteristics to GLKs that distinguish them from other GAPR members."
+    },
+    "Question_7": {
+        "Context": "GLKs have been found to function redundantly in mesophyll cells for common C3 photosynthesis. In which type of cell does G2 act specifically for C4 photosynthesis?",
+        "Question": "In which type of cell does G2 act specifically for C4 photosynthesis?",
+        "A": "Bundle sheath cell",
+        "B": "Guard cell",
+        "C": "Mesophyll cell",
+        "D": "Xylem cell",
+        "Answer": "A",
+        "Source": "This finding supported the notion that GLKs function redundantly in mesophyll cells for common C3 photosynthesis but G2 acts in a bundle sheath cell-specific manner for C4 photosynthesis."
+    },
+    "Question_8": {
+        "Context": "GLKs have been shown to coordinate internal transcriptional networks by reacting to signals from various sources. What is one of the signals mentioned in the text that GLKs react to?",
+        "Question": "What is one of the signals mentioned in the text that GLKs react to?",
+        "A": "Nutrient availability",
+        "B": "Temperature changes",
+        "C": "Senescence signals",
+        "D": "Gravity",
+        "Answer": "C",
+        "Source": "To date, evidence supports the notion that GLKs coordinate internal transcriptional networks to ultimately incite chloroplast development by sensing and reacting to signals from diverse sources, including light, plastid retrograde signals, phytohormones, senescence, and biotic and abiotic stresses."
+    },
+    "Question_9": {
+        "Context": "GLKs have been confirmed to directly regulate gene expression by interacting with the promoters of target genes. Which plant species were mentioned in the text where this direct promoter binding by GLKs was reported?",
+        "Question": "Which plant species were mentioned in the text where this direct promoter binding by GLKs was reported?",
+        "A": "Camellia sinensis and Arabidopsis",
+        "B": "Peanut and hybrid birch",
+        "C": "Tomato and peach",
+        "D": "Apple and radish",
+        "Answer": "A",
+        "Source": "Furthermore, other cases of direct promoter binding by GLKs has been reported for Camellia sinensis with respect to two catechin biosynthetic genes and in Arabidopsis for three B-BOX domain proteins related to flowering time..."
+    },
+    "Question_10": {
+        "Context": "GLKs have been suggested to have great potential for crop improvement projects. What is one of the traits mentioned in the text that GLKs may improve overall besides photosynthetic performance?",
+        "Question": "What is one of the traits mentioned in the text that GLKs may improve overall besides photosynthetic performance?",
+        "A": "Fruit ripening",
+        "B": "Seed germination",
+        "C": "Disease resistance",
+        "D": "Root development",
+        "Answer": "C",
+        "Source": "The fact that GLKs are involved in diverse molecular mechanisms supports the idea that they may improve overall photosynthetic performance and other important traits such as development, growth, and environmental response."
+    }
+}

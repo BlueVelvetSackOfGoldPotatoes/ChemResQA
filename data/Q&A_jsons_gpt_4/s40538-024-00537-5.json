@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Plant-promoting bacteria can facilitate plant growth and development through various mechanisms, including the production of phytohormones such as auxins, cytokinins, and gibberellins.",
+        "Question": "Which of the following phytohormones are commonly produced by plant-promoting bacteria to facilitate plant growth?",
+        "A": "Ethylene and abscisic acid",
+        "B": "Auxins, cytokinins, and gibberellins",
+        "C": "Salicylic acid and jasmonic acid",
+        "D": "Brassinosteroids and strigolactones",
+        "Answer": "B",
+        "Source": "Plant growth-promoting bacterial species are common in nature, and numerous species have been isolated and evaluated for their plant growth promoting properties. They can facilitate plant growth and development in different ways, comprising nitrogen fixation within the rhizosphere and phytohormones production such as auxins, cytokinins, and gibberellins."
+    },
+    "Question_2": {
+        "Context": "Polyamines are organic compounds involved in various cellular processes, and some bacteria can produce polyamines like putrescine and spermidine.",
+        "Question": "Which polyamines are known to be produced by some bacteria and are involved in plant growth promotion?",
+        "A": "Lysine and methionine",
+        "B": "Putrescine and spermidine",
+        "C": "Glutamine and asparagine",
+        "D": "Cysteine and threonine",
+        "Answer": "B",
+        "Source": "Polyamine production is another strategy that some bacteria use to promote plant growth. Studies have demonstrated that Bacillus subtilis OKB105 can produce and secrete spermidine, which induces growth and reduces ethylene levels in tobacco seedlings."
+    },
+    "Question_3": {
+        "Context": "Polyamines like putrescine and spermidine are involved in various biological processes, including gene expression, nucleic acid replication, and protein synthesis.",
+        "Question": "What roles do polyamines such as putrescine and spermidine play in cellular biology?",
+        "A": "They act as neurotransmitters and hormones",
+        "B": "They are involved in gene expression and nucleic acid replication",
+        "C": "They function as primary energy sources",
+        "D": "They serve as structural components of cell walls",
+        "Answer": "B",
+        "Source": "Polyamines are involved in various processes such as gene expression, nucleic acid replication, protein synthesis, membrane stability, cell division, and differentiation."
+    },
+    "Question_4": {
+        "Context": "The application of exogenous polyamines can help plants protect against damage induced by abiotic stresses.",
+        "Question": "How do exogenous polyamines affect plants under abiotic stress conditions?",
+        "A": "They inhibit photosynthesis",
+        "B": "They reduce water uptake",
+        "C": "They help protect against damage",
+        "D": "They promote ethylene production",
+        "Answer": "C",
+        "Source": "The exogenous application of polyamines helps to protect against damage induced by abiotic stresses."
+    },
+    "Question_5": {
+        "Context": "Putrescine is a polyamine that has been reported to influence plant growth in response to environmental stresses.",
+        "Question": "What is the role of putrescine in plants under environmental stress?",
+        "A": "It decreases chlorophyll content",
+        "B": "It regulates plant growth in response to stress",
+        "C": "It inhibits root elongation",
+        "D": "It promotes leaf senescence",
+        "Answer": "B",
+        "Source": "Putrescine (Put) is an important small molecule and help to regulate plant growth in response to various environmental stresses."
+    },
+    "Question_6": {
+        "Context": "Bacterial chemotaxis is a process where bacteria move towards or away from chemical stimuli.",
+        "Question": "What is the primary function of bacterial chemotaxis?",
+        "A": "To replicate bacterial DNA",
+        "B": "To produce bacterial spores",
+        "C": "To move in response to chemical stimuli",
+        "D": "To metabolize antibiotics",
+        "Answer": "C",
+        "Source": "The top one upregulated pathway of KEGG enrichment was bacterial chemotaxis, DJ bacteria adapted to salinity-alkalinity environments by upregulating the genes associated with bacterial chemotaxis."
+    },
+    "Question_7": {
+        "Context": "The enzyme activities of POD, SOD, and CAT are indicators of a plant's antioxidant defense system.",
+        "Question": "What is the significance of increased activities of POD, SOD, and CAT enzymes in plants?",
+        "A": "They indicate reduced photosynthetic activity",
+        "B": "They suggest decreased nutrient uptake",
+        "C": "They reflect a stronger antioxidant defense",
+        "D": "They show a higher rate of transpiration",
+        "Answer": "C",
+        "Source": "The enzyme activities of POD, SOD, and CAT in cucumber seedlings were higher compared to those in the control groups."
+    },
+    "Question_8": {
+        "Context": "Polyamine transporter proteins are involved in the recognition and transport of polyamines across cellular membranes.",
+        "Question": "What is the role of polyamine transporter proteins in cellular biology?",
+        "A": "They transport nucleic acids across membranes",
+        "B": "They synthesize polyamines within the cell",
+        "C": "They mediate the transport of polyamines across membranes",
+        "D": "They degrade polyamines into simpler compounds",
+        "Answer": "C",
+        "Source": "The expression of Pt gene encoding polyamine transporter protein was sharply up-regulated in cucumber roots after treatment with DJ bacteria under salinity-alkalinity stress."
+    },
+    "Question_9": {
+        "Context": "The resistance of plants to abiotic stresses can be enhanced by certain bacteria through the production of polyamines.",
+        "Question": "How can certain bacteria enhance plant resistance to abiotic stresses?",
+        "A": "By degrading plant hormones",
+        "B": "By producing polyamines",
+        "C": "By inhibiting photosynthesis",
+        "D": "By reducing nutrient availability",
+        "Answer": "B",
+        "Source": "The resistance of cucumber seedlings under salinity-alkalinity conditions through the antioxidant pathway was increased by polyamines produced by DJ bacteria."
+    },
+    "Question_10": {
+        "Context": "The adaptation of bacteria to salinity-alkalinity conditions involves the upregulation of genes associated with chemotaxis.",
+        "Question": "What mechanism do bacteria use to adapt to salinity-alkalinity conditions?",
+        "A": "By downregulating metabolic pathways",
+        "B": "By upregulating genes associated with chemotaxis",
+        "C": "By producing antibiotics",
+        "D": "By forming endospores",
+        "Answer": "B",
+        "Source": "DJ bacteria can live in salinity-alkalinity conditions by upregulating the expression of genes associated with chemotaxis."
+    }
+}

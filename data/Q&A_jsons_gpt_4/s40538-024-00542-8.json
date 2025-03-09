@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Endophytic microbiomes are microbial communities that reside within plant tissues for all or part of their lifetimes. These communities are nonpathogenic and can contribute to the host plant's health by enhancing fitness and providing protection against pathogen infection.",
+        "Question": "What is the role of endophytic microbiomes in plants?",
+        "A": "Causing diseases in plant tissues",
+        "B": "Enhancing plant fitness and providing protection against pathogens",
+        "C": "Competing with plants for nutrients",
+        "D": "Facilitating the spread of pathogens within the plant",
+        "Answer": "B",
+        "Source": "Microbes residing within plant tissues for all or part of their lifetime are considered as endophytes. Similar to the gut microbiota in humans, endophytes are nonpathogenic and presumably commensal with their hosts thus exhibiting contributions to host health, such as enhancing plant fitness and protecting the plant from pathogen infection."
+    },
+    "Question_2": {
+        "Context": "Beneficial microbes can suppress plant diseases through direct interactions with pathogens, which includes the secretion of secondary metabolites with antimicrobial properties.",
+        "Question": "How can beneficial microbes directly suppress plant pathogens?",
+        "A": "By increasing the nutrient absorption of the plant",
+        "B": "By enhancing the photosynthesis rate",
+        "C": "By secreting secondary metabolites with antimicrobial properties",
+        "D": "By inducing physical barriers in plant tissues",
+        "Answer": "C",
+        "Source": "On the one hand, beneficial microbes can kill the pathogens directly by secreting diverse secondary metabolites. The common example of bacterial endophytes resist to pathogen is the genus Bacillus, which directly inhibited the proliferation of plant pathogens by producing lipopeptides and polyketides with antimicrobial properties."
+    },
+    "Question_3": {
+        "Context": "Induced systemic resistance (ISR) is a plant defense mechanism that can be stimulated by beneficial microbes. This resistance is mainly controlled by jasmonic acid (JA) and ethylene (ET) signaling pathways.",
+        "Question": "Which signaling pathways mainly control the plant's induced systemic resistance (ISR)?",
+        "A": "Gibberellic acid and abscisic acid pathways",
+        "B": "Cytokinin and auxin pathways",
+        "C": "Jasmonic acid and ethylene pathways",
+        "D": "Salicylic acid and gibberellic acid pathways",
+        "Answer": "C",
+        "Source": "The plant ISR is mainly controlled by jasmonic acid (JA) and ethylene (ET) signaling pathways."
+    },
+    "Question_4": {
+        "Context": "In the context of plant defense, the activity of defense-related enzymes can be induced in response to pathogen infection. These enzymes include reactive oxygen species (ROS)-scavenging enzymes, \u03b2-1,3-glucanase (\u03b2-1,3-GA), and chitinase.",
+        "Question": "Which type of defense-related enzymes are induced in plants in response to pathogen infection?",
+        "A": "Chlorophyll synthesis enzymes",
+        "B": "ROS-scavenging enzymes",
+        "C": "Nitrogen fixation enzymes",
+        "D": "Starch synthesis enzymes",
+        "Answer": "B",
+        "Source": "Furthermore, when plants face complex environmental stresses, they can strengthen defense responses by inducing activities of a range of defense enzymes including reactive oxygen species (ROS)-scavenging enzymes, \u03b2-1,3-glucanase (\u03b2-1,3-GA) and chitinase."
+    },
+    "Question_5": {
+        "Context": "Beneficial microbes can also suppress and prevent plant diseases indirectly by stimulating induced systemic resistance (ISR) in plants, which is dependent on the elicitation of certain plant hormonal pathways.",
+        "Question": "How can beneficial microbes indirectly suppress and prevent plant diseases?",
+        "A": "By directly competing with pathogens for space",
+        "B": "By stimulating induced systemic resistance (ISR) in plants",
+        "C": "By reducing the photosynthetic efficiency of plants",
+        "D": "By increasing the rate of transpiration",
+        "Answer": "B",
+        "Source": "On the other hand, beneficial microbes can suppress and prevent plant diseases indirectly via stimulating induced systemic resistance (ISR)."
+    },
+    "Question_6": {
+        "Context": "Salicylic acid (SA)-dependent elicitation of ISR is a mechanism by which certain beneficial bacteria can stimulate plant defense responses.",
+        "Question": "Which compound-dependent elicitation is involved in the stimulation of plant defense responses by certain beneficial bacteria?",
+        "A": "Ethylene",
+        "B": "Jasmonic acid",
+        "C": "Salicylic acid",
+        "D": "Abscisic acid",
+        "Answer": "C",
+        "Source": "Several beneficial bacteria can also stimulate salicylic acid (SA)-dependent elicitation of ISR in plants."
+    },
+    "Question_7": {
+        "Context": "The genus Bacillus, known for its beneficial properties to plants, can inhibit the proliferation of plant pathogens by producing specific types of antibiotics.",
+        "Question": "What type of antibiotic is produced by Bacillus that has a strong antagonistic effect against a variety of phytopathogens?",
+        "A": "Bacilysin",
+        "B": "Penicillin",
+        "C": "Tetracycline",
+        "D": "Streptomycin",
+        "Answer": "A",
+        "Source": "For example, bacilysin, which is a dipeptide antibiotic produced by Bacillus, had a strong antagonistic effect against a variety of phytopathogens, such as R. solanacearum, Xanthomonas oryzae, and Phytophthora sojae."
+    },
+    "Question_8": {
+        "Context": "The genus Burkholderia, which includes some beneficial bacterial species, has been shown to enhance the defense system of host plants and can be used to control plant diseases.",
+        "Question": "Which genus of beneficial bacteria has been shown to enhance the defense system of host plants?",
+        "A": "Pseudomonas",
+        "B": "Streptomyces",
+        "C": "Burkholderia",
+        "D": "Bacillus",
+        "Answer": "C",
+        "Source": "Inoculation of beneficial endophyte Burkholderia ASV_550 in soils could greatly enhance the tobacco defense system in the presence of pathogen and decrease the disease incidence."
+    },
+    "Question_9": {
+        "Context": "The rhizosphere microbiome plays a crucial role in suppressing pathogen growth and improving plant disease resistance.",
+        "Question": "What is the role of the rhizosphere microbiome in relation to plant pathogens?",
+        "A": "Promoting pathogen growth",
+        "B": "Suppressing pathogen growth",
+        "C": "Facilitating pathogen mutation",
+        "D": "Neutral interaction with pathogens",
+        "Answer": "B",
+        "Source": "Plant microbiomes, particularly the rhizosphere microbiome, have been reported as a vital part in suppressing pathogen growth and improving plant disease resistance."
+    },
+    "Question_10": {
+        "Context": "Certain microbial genera have been identified as members that inhibit bacterial wilt disease in plants.",
+        "Question": "Which of the following microbial genera is considered as a bacterial wilt disease-inhibiting member?",
+        "A": "Escherichia",
+        "B": "Pseudomonas",
+        "C": "Saccharomyces",
+        "D": "Lactobacillus",
+        "Answer": "B",
+        "Source": "A variety of beneficial rhizobacterial bacteria have been considered as bacterial wilt disease-inhibiting members including the genera of Pseudomonas."
+    }
+}

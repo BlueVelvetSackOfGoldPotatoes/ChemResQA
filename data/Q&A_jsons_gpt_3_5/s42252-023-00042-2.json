@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Membrane-based architectures for water remediation are discussed in the paper. ",
+        "Question": "Which 2D nanomaterial is highlighted for its advantages in water remediation over graphene, graphene oxide, molybdenum sulphide, and MXenes?",
+        "A": "Graphene",
+        "B": "Molybdenum sulphide",
+        "C": "MXenes",
+        "D": "Hexagonal Boron Nitride (BN)",
+        "Answer": "D",
+        "Source": "BN has an interlayer spacing of 3.3A0 which is similar to that of graphene, but smaller than that of the other 2D nanomaterials. BN is bioinert, and stable under harsh chemical and thermal conditions."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the properties of graphene and graphene oxide in water filtration applications.",
+        "Question": "What is a major shortcoming of graphene oxide membranes?",
+        "A": "Low desalination capacity",
+        "B": "High mechanical stability",
+        "C": "Controllable swelling",
+        "D": "High stability on hydration",
+        "Answer": "A",
+        "Source": "Shortcomings of GO membranes include low mechanical stability and low desalination capacity."
+    },
+    "Question_3": {
+        "Context": "The paper mentions the advantages of hexagonal Boron Nitride (BN) in water remediation.",
+        "Question": "What property of BN allows for easy separation of the adsorbent from contaminated water?",
+        "A": "Hydrophilic nature",
+        "B": "Uncontrollable swelling",
+        "C": "Large specific surface area",
+        "D": "Low thermal and chemical inertness",
+        "Answer": "C",
+        "Source": "BN nanomaterials have a large specific surface area which implies more adsorption sites, and are inherently hydrophobic in nature, which means the adsorbent in its powder form can be easily separated from contaminated water."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the challenges faced by current polyamide desalination membranes.",
+        "Question": "What makes current polyamide desalination membranes chlorine intolerant?",
+        "A": "Low rejection rates of salts",
+        "B": "High selectivity",
+        "C": "Ease of processing",
+        "D": "Chlorine intolerance",
+        "Answer": "D",
+        "Source": "These membranes are still chlorine intolerant, which makes disinfection cumbersome and increases membrane fouling and thus reduces its filtration capacity."
+    },
+    "Question_5": {
+        "Context": "The paper highlights the importance of innovation in facing the global water challenge.",
+        "Question": "What is the most prevalent method of water remediation discussed in the paper?",
+        "A": "Reverse osmosis",
+        "B": "Nanofiltration",
+        "C": "Ultrafiltration",
+        "D": "Membrane-based filtration",
+        "Answer": "D",
+        "Source": "Amongst the most prevalent ways of water remediation, membrane-based filtration methods hold the reins compared to their counterparts due to their high separation efficiency, low thermal energy input, and high-quality output."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the transport mechanisms in different types of membranes.",
+        "Question": "How does transport occur in 2D nanomaterials membranes according to the paper?",
+        "A": "Solution-diffusion",
+        "B": "Convection",
+        "C": "Molecular sieving and electrostatic interactions",
+        "D": "Diffusion",
+        "Answer": "C",
+        "Source": "While the transport of solutes, water and other solvents occurs through solution-diffusion in RO membranes, and through convection in the UF and MF membranes and a combination of convection and diffusion in NF membranes, the transport in 2D NMs occurs through molecular sieving through nanochannels and nanopores, and electrostatic interactions."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the potential of 2D nanomaterials in membrane technology.",
+        "Question": "What property of graphene makes it impermeable to water in its pristine form?",
+        "A": "High mechanical strength",
+        "B": "Thinness",
+        "C": "Low density",
+        "D": "Antimicrobial activity",
+        "Answer": "B",
+        "Source": "In pristine graphene, carbon atoms that are sp2 hybridized are arranged in a hexagonal pattern in a single layer, about 0.34 nm thick."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the advantages of incorporating BN into membrane-based architectures.",
+        "Question": "What is a key advantage of BN in achieving high permeance according to the paper?",
+        "A": "Uncontrollable swelling",
+        "B": "Low specific surface area",
+        "C": "High thermal and chemical inertness",
+        "D": "Large specific surface area",
+        "Answer": "D",
+        "Source": "When combined with thin film composite and mixed matrix membrane architectures, BN can help achieve high permeance, dye rejection, and desalination."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the need for breakthrough membrane technology.",
+        "Question": "What type of nanomaterials are considered ideal candidates for breakthrough membrane technology?",
+        "A": "1D nanomaterials",
+        "B": "3D nanomaterials",
+        "C": "2D nanomaterials",
+        "D": "Polymer-based nanomaterials",
+        "Answer": "C",
+        "Source": "Considering that there is a need for a breakthrough membrane technology with high water-to-solute selectivity if the needs of future generations are to be met, 2D nanomaterials seem to be the ideal candidates for this purpose."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the research on water filtration membranes based on nanomaterials.",
+        "Question": "What is a notable property of graphene oxide membranes that contributes to their high permeability to water?",
+        "A": "Low mechanical stability",
+        "B": "High desalination capacity",
+        "C": "Presence of hydrophilic groups",
+        "D": "High stability on hydration",
+        "Answer": "C",
+        "Source": "Multilayer GO membranes are highly permeable to water because of the porous microstructure which includes the space between the edges of adjacent sheets, wide channels at wrinkles, and nanopores in the sheets."
+    }
+}

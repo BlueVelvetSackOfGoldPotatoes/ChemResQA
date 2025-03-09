@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study of material defects, disclinations are considered to be natural defects at interface junctions, accommodating discontinuities in rotation fields.",
+        "Question": "What is the primary purpose of disclinations at material interface junctions?",
+        "A": "To enhance the electrical conductivity",
+        "B": "To accommodate discontinuities in rotation fields",
+        "C": "To increase the thermal resistance",
+        "D": "To reduce the material's density",
+        "Answer": "B",
+        "Source": "Disclinations are expected to be natural defects at interface junctions; their presence serving the purpose of accommodating discontinuities in rotation fields at material interface junctions."
+    },
+    "Question_2": {
+        "Context": "In mesoscale modeling of material defects, a framework is proposed that couples the dynamics of discrete dislocation and disclination lines.",
+        "Question": "What types of material defect dynamics are coupled in the proposed mesoscale model framework?",
+        "A": "Dislocation and diffusion lines",
+        "B": "Disclination and vacancy lines",
+        "C": "Dislocation and disclination lines",
+        "D": "Vacancy and interstitial lines",
+        "Answer": "C",
+        "Source": "The proposed framework couples the dynamics of discrete dislocation and disclination lines."
+    },
+    "Question_3": {
+        "Context": "Crystallography-based rules are utilized to describe the kinematics of disclination motion in materials.",
+        "Question": "What is used to describe the kinematics of disclination motion in the study of material defects?",
+        "A": "Thermodynamic principles",
+        "B": "Quantum mechanical rules",
+        "C": "Crystallography-based rules",
+        "D": "Empirical observations",
+        "Answer": "C",
+        "Source": "Crystallography-based rules are proposed to describe the kinematics of disclination motion."
+    },
+    "Question_4": {
+        "Context": "In the context of material defects, a discrete-continuous couple-stress framework is proposed to track the dynamics of interfacial defects.",
+        "Question": "What type of framework is proposed to explicitly follow the dynamics of interfacial defects?",
+        "A": "A continuous-discrete tensile-stress framework",
+        "B": "A discrete-continuous couple-stress framework",
+        "C": "A continuous-only shear-stress framework",
+        "D": "A discrete-only compressive-stress framework",
+        "Answer": "B",
+        "Source": "A discrete-continuous couple-stress framework, in which discrete defect lines are introduced as plastic eigenstrains and eigencurvatures, is proposed to explicitly follow the dynamics of interfacial defects."
+    },
+    "Question_5": {
+        "Context": "The stability of defects at twin interfaces is studied by describing a 3D crater as a dipole of disclination loops.",
+        "Question": "How is the stability of defects at twin interfaces studied?",
+        "A": "By using a single disclination loop",
+        "B": "By describing a 3D crater as a dipole of disclination loops",
+        "C": "Through the application of external pressure",
+        "D": "By observing the rate of diffusion",
+        "Answer": "B",
+        "Source": "In what concerns twin thickening, the stability of defects at twin interfaces is further studied. To this end, a 3D crater lying on a twin interface is described as a dipole of disclination loops."
+    },
+    "Question_6": {
+        "Context": "The motion of disclinations can lead to the nucleation of twinning dislocations, a process that has been postulated to be thermodynamically favorable.",
+        "Question": "What process involving disclinations has been postulated to be thermodynamically favorable?",
+        "A": "The nucleation of twinning dislocations",
+        "B": "The generation of vacancy defects",
+        "C": "The formation of interstitial loops",
+        "D": "The creation of grain boundaries",
+        "Answer": "A",
+        "Source": "Upon self-relaxation, it is found that out of plane motion of disclinations followed by the nucleation of twinning dislocations can be activated; thereby showing that conservative non-planar motion of disclinations can be thermodynamically favorable."
+    },
+    "Question_7": {
+        "Context": "The dynamics of dislocations are informed by atomistic simulations, which contribute to the understanding of their collective effects on material properties such as hardening and slip.",
+        "Question": "What informs the dynamics of dislocations and contributes to the understanding of their collective effects on material properties?",
+        "A": "Macroscopic stress tests",
+        "B": "Thermal cycling experiments",
+        "C": "Atomistic simulations",
+        "D": "Optical microscopy analysis",
+        "Answer": "C",
+        "Source": "In the context of multi-scale modeling, the current performance of discrete dislocation dynamics (DDD) codes allows for a linkage between unit processes associated with dislocation motion -as informed by atomistic simulations- and their collective effects on both hardening and slip."
+    },
+    "Question_8": {
+        "Context": "The treatment of material interfaces in crystal plasticity constitutive models is enhanced by considering the relationship between interface descriptions and the resulting energy.",
+        "Question": "In crystal plasticity constitutive models, how is the treatment of material interfaces enhanced?",
+        "A": "By considering the relationship between interface descriptions and the resulting energy",
+        "B": "Through the application of external magnetic fields",
+        "C": "By ignoring the interface energy considerations",
+        "D": "Using only macroscopic mechanical testing",
+        "Answer": "A",
+        "Source": "These viewpoints have largely been enhanced by further considering the relationship between the proposed description of the interface and the resulting energy."
+    },
+    "Question_9": {
+        "Context": "Disconnections, which consist of a dislocation and a step, have been shown to play a key role in mediating the motion of interfaces such as twin boundaries.",
+        "Question": "What is the composition of disconnections that play a key role in mediating the motion of interfaces?",
+        "A": "A dislocation and a grain boundary",
+        "B": "A dislocation and a step",
+        "C": "A vacancy and an interstitial",
+        "D": "A step and a grain boundary",
+        "Answer": "B",
+        "Source": "Disconnections, consisting of a dislocation and a step, were experimentally reported in several serrated interfaces. They were shown to play a key role in mediating the motion of interfaces."
+    },
+    "Question_10": {
+        "Context": "The kinematic admissibility for a disclination to act as a source or sink of dislocation was shown using a continuous description of incompatibilities in elastic strain and curvature fields.",
+        "Question": "Using a continuous description of incompatibilities in which fields was it shown that it can be kinematically admissible for a disclination to act as a source or sink of dislocation?",
+        "A": "Magnetic and electric fields",
+        "B": "Thermal and pressure fields",
+        "C": "Elastic strain and curvature fields",
+        "D": "Gravitational and electromagnetic fields",
+        "Answer": "C",
+        "Source": "Remarkably, using a continuous description of incompatibilies in the elastic strain and curvature fields associated with disclinations, it was shown that it can be kinematically admissible for a disclination to act as a source/sink of dislocation."
+    }
+}

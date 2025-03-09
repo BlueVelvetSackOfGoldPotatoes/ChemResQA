@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of linear elasticity, the Green function is a tensor-valued function of rank two, known as the Green tensor. It represents the fundamental solution of linear inhomogeneous partial differential equations and is used to describe the displacement field in an infinite elastic medium when contracted with a concentrated force acting at the origin.",
+        "Question": "What is the primary role of the Green tensor in the context of linear elasticity?",
+        "A": "To provide a numerical method for boundary value problems",
+        "B": "To represent the fundamental solution of linear inhomogeneous partial differential equations",
+        "C": "To calculate the potential energy of a body force",
+        "D": "To measure the intrinsic length scales in classical theory of elasticity",
+        "Answer": "B",
+        "Source": "Green functions are objects of fundamental importance in field theories, since they represent the fundamental solution of linear inhomogeneous partial differential equations (PDEs) from which any particular solution can be obtained via convolution with the source term."
+    },
+    "Question_2": {
+        "Context": "The classical Green tensor for isotropic materials was first derived by Kelvin, and it is known to be singular at the origin. This singularity is a consequence of the lack of intrinsic length scales in the classical theory of elasticity.",
+        "Question": "Why is the classical Green tensor for isotropic materials singular at the origin?",
+        "A": "Due to the presence of multiple forces acting at the origin",
+        "B": "Because of the high number of elastic constants involved",
+        "C": "As a result of the lack of intrinsic length scales in the classical theory of elasticity",
+        "D": "Because it only applies to anisotropic materials",
+        "Answer": "C",
+        "Source": "The Green tensor and its derivatives are singular at the origin, ultimately as a consequence of the lack of intrinsic length scales in the classical theory of elasticity."
+    },
+    "Question_3": {
+        "Context": "In the context of Mindlin's anisotropic strain gradient elasticity, the strain energy density of a homogeneous and centrosymmetric material is given by a specific function involving the infinitesimal elastic strain tensor and its gradient.",
+        "Question": "What does the strain energy density function in Mindlin's anisotropic strain gradient elasticity depend on?",
+        "A": "The gradient of the displacement field only",
+        "B": "The infinitesimal elastic strain tensor and its gradient",
+        "C": "The Cauchy stress tensor exclusively",
+        "D": "The body forces density and potential energy",
+        "Answer": "B",
+        "Source": "The strain energy density (2) is a function of the infinitesimal elastic strain tensor eij = 1/2 (\u03b2ij + \u03b2ji), and of its gradient eij,m."
+    },
+    "Question_4": {
+        "Context": "In the general case of triclinic materials, the tensor of strain gradient elastic constants is a rank-six tensor with a specific number of independent constants.",
+        "Question": "How many independent constants are there in the tensor of strain gradient elastic constants for triclinic materials?",
+        "A": "5",
+        "B": "21",
+        "C": "171",
+        "D": "42",
+        "Answer": "C",
+        "Source": "In the general case of triclinic materials the number of independent constants in the tensor D is equal to 171."
+    },
+    "Question_5": {
+        "Context": "The Cauchy stress tensor and the double stress tensor are quantities conjugate to the elastic strain tensor and its gradient, respectively.",
+        "Question": "What are the Cauchy stress tensor and the double stress tensor conjugate to in the context of strain gradient elasticity?",
+        "A": "The body forces density and potential energy",
+        "B": "The displacement field and its gradient",
+        "C": "The elastic strain tensor and its gradient",
+        "D": "The inelastic eigen-distortion tensor",
+        "Answer": "C",
+        "Source": "The quantities conjugate to the elastic strain tensor and its gradient are the Cauchy stress tensor \u03c3 and the double stress tensor \u03c4, respectively."
+    },
+    "Question_6": {
+        "Context": "The static Lagrangian density of a system in the presence of body forces density is given by a specific expression in the context of Mindlin's anisotropic strain gradient elasticity.",
+        "Question": "What is the expression for the static Lagrangian density of a system in the presence of body forces density?",
+        "A": "L = W + V",
+        "B": "L = -W - V",
+        "C": "L = \u03c3ij - \u03c4ijm",
+        "D": "L = Cijkl\u03b2ij\u03b2kl + Dijmkln\u03b2ij,m\u03b2kl,n",
+        "Answer": "B",
+        "Source": "The static Lagrangian density of the system becomes: L = -W - V = -1/2 (Cijkl\u03b2ij\u03b2kl + Dijmkln\u03b2ij,m\u03b2kl,n) + uibi, where V = -uibi is the potential of the body force."
+    },
+    "Question_7": {
+        "Context": "The condition of static equilibrium in the context of Mindlin's anisotropic strain gradient elasticity is expressed by a specific form of the Euler-Lagrange equation.",
+        "Question": "How is the condition of static equilibrium expressed in Mindlin's anisotropic strain gradient elasticity?",
+        "A": "\u03b4L/\u03b4ui = 0",
+        "B": "\u03c3ij = Cijklekl",
+        "C": "\u03c4ijm = Dijmklnekl,n",
+        "D": "\u2202j (\u03c3ij - \u2202m\u03c4ijm) + bi = 0",
+        "Answer": "D",
+        "Source": "The condition of static equilibrium is expressed by the Euler-Lagrange equation \u03b4L/\u03b4ui = \u2202L/\u2202ui - \u2202j\u2202L/\u2202(\u2202jui) + \u2202k\u2202j\u2202L/\u2202(\u2202k\u2202jui) = 0. In terms of the Cauchy and double stress tensors, Eq. (10) takes the following form (Mindlin 1964): \u2202j (\u03c3ij - \u2202m\u03c4ijm) + bi = 0."
+    },
+    "Question_8": {
+        "Context": "In the derivation of the Green tensor of Mindlin's first strain gradient elasticity, a specific inhomogeneous partial differential equation (PDE) is satisfied by the Green tensor.",
+        "Question": "What is the inhomogeneous PDE that the Green tensor satisfies in the derivation of Mindlin's first strain gradient elasticity?",
+        "A": "Cijkl\u2202j\u2202lGkm + \u03b4im\u03b4 = 0",
+        "B": "LMikuk + fi = 0",
+        "C": "\u2202j\u03c3ij - \u2202m\u03c4ijm + bi = 0",
+        "D": "Cijkl\u2202j\u2202l - Dijmkln\u2202j\u2202l\u2202m\u2202n = 0",
+        "Answer": "A",
+        "Source": "Substituting Eq. (15) into Eq. (12), one finds that G satisfies the following inhomogeneous PDE: (Cijkl\u2202j\u2202l - Dijmkln\u2202j\u2202l\u2202m\u2202n) Gkm + \u03b4im\u03b4 = 0."
+    },
+    "Question_9": {
+        "Context": "The non-singular nature of the Green tensor at the origin is revealed by obtaining an alternative expression of the matrix inverse involved in the integral kernel.",
+        "Question": "What is the significance of obtaining an alternative expression of the matrix inverse in the integral kernel for the Green tensor?",
+        "A": "It simplifies the numerical implementation",
+        "B": "It reveals the non-singular nature of the Green tensor at the origin",
+        "C": "It allows for the calculation of the Cauchy stress tensor",
+        "D": "It determines the characteristic length scales of the material",
+        "Answer": "B",
+        "Source": "Our objective now is to obtain an alternative expression of the matrix inverse [C(\u03ba) + k2D(\u03ba)]\u22121 which allows us to carry out the k-integral analytically. By doing so, the non-singular nature of the Green tensor at the origin is revealed."
+    },
+    "Question_10": {
+        "Context": "The Green tensor of Mindlin's anisotropic strain gradient elasticity converges to the classical Green tensor when the field point is sufficiently far from the origin compared to the characteristic length scales.",
+        "Question": "Under what condition does the Green tensor of Mindlin's anisotropic strain gradient elasticity converge to the classical Green tensor?",
+        "A": "When the material is isotropic",
+        "B": "When the tensor of strain gradient coefficients D vanishes",
+        "C": "When the field point is sufficiently far from the origin compared to the characteristic length scales",
+        "D": "When the Cauchy stress tensor equals the double stress tensor",
+        "Answer": "C",
+        "Source": "It is now shown that Green tensor (32) converges to the classical Green tensor G0 when the field point x is sufficiently far from the origin compared to the characteristic length scales, that is when |\u03ba \u00b7 x|/\u03bbi \u226b 1, where \u03bbi is an eigenvalue of \u039b, and i = 1, 2, 3."
+    }
+}

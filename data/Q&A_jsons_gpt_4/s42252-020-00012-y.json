@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In bone tissue engineering, the process of forming new blood vessels from pre-existing vasculature is known as angiogenesis. This process is crucial for providing nourishment and pathways for excretion, as well as enabling progenitor cells to reach the site of injury.",
+        "Question": "What is the term used to describe the formation of new blood vessels from pre-existing vasculature, which is essential for bone healing?",
+        "A": "Osteogenesis",
+        "B": "Angiogenesis",
+        "C": "Vasculogenesis",
+        "D": "Chondrogenesis",
+        "Answer": "B",
+        "Source": "Angiogenesis is the generation of blood vessels from pre-existing vasculature. Therefore, for bone tissue engineering, a wide range of options have been investigated to approach the limitation of enhancing angiogenesis during bone repair."
+    },
+    "Question_2": {
+        "Context": "Heparin is a sulphated glycosaminoglycan known for its anticoagulant properties, but it also has the ability to interact with various proteins due to its anionic nature, including angiogenic growth factors.",
+        "Question": "What is the primary known function of heparin, aside from its ability to interact with angiogenic growth factors?",
+        "A": "Anticoagulant",
+        "B": "Antibiotic",
+        "C": "Analgesic",
+        "D": "Antiseptic",
+        "Answer": "A",
+        "Source": "Heparin is a sulphated glycosaminoglycan better known for its anticoagulant properties, but it has also the ability to interact with different proteins due to its anionic nature."
+    },
+    "Question_3": {
+        "Context": "Chitosan is a polysaccharide utilized in biomaterials due to its biocompatibility, biodegradability, non-toxicity, and cell adhesion properties, which are optimal for cell proliferation.",
+        "Question": "Which polysaccharide is known for its biocompatibility and is used in biomaterials for its favorable properties including cell adhesion?",
+        "A": "Cellulose",
+        "B": "Starch",
+        "C": "Chitosan",
+        "D": "Glycogen",
+        "Answer": "C",
+        "Source": "Chitosan is a polysaccharide that has been very much exploited as a biomaterial due to its remarkable behaviour within the body, which includes excellent biocompatibility, tuneable biodegradability, no toxicity and good cell adhesion (optimal for cell proliferation)."
+    },
+    "Question_4": {
+        "Context": "Hydroxyapatite is a bioceramic that is extensively used in bone repair and regeneration due to its biocompatibility, bioresorption, and bioactivity, which contribute to its ability to support bone tissue growth.",
+        "Question": "What is the role of hydroxyapatite in bone repair and regeneration?",
+        "A": "Muscle contraction",
+        "B": "Nerve transmission",
+        "C": "Supporting bone tissue growth",
+        "D": "Blood clotting",
+        "Answer": "C",
+        "Source": "Likewise, hydroxyapatite is a bioceramic that has been used in bone repair and regeneration due to its excellent biocompatibility, bioresorption and bioactivity."
+    },
+    "Question_5": {
+        "Context": "The interaction between heparin and angiogenic growth factors is influenced by the molecular weight of heparin, with different effects observed for low molecular weight heparin (LMWH) compared to high molecular weight heparin (HMWH) in angiogenesis assays.",
+        "Question": "How does the molecular weight of heparin influence its interaction with angiogenic growth factors?",
+        "A": "Only LMWH can bind to angiogenic growth factors",
+        "B": "Only HMWH can bind to angiogenic growth factors",
+        "C": "Molecular weight does not affect heparin's binding ability",
+        "D": "Different molecular weights of heparin show different effects in angiogenesis assays",
+        "Answer": "D",
+        "Source": "Bhakuni et al. (2016) and Rema et al. (2003) reported that molecular weight of heparin plays an important role on its angiogenic activity. According to Rema et al. (2003) and Collen et al. (2000), low molecular weight heparin (LMWH) has shown to inhibit angiogenesis compared to high molecular weight heparin (HMWH) on a chorioallantoic membrane assay (CAM assay)."
+    },
+    "Question_6": {
+        "Context": "The group 6SO3 of heparin is specifically responsible for the interaction with vascular endothelial growth factor (VEGF), which is a key molecule involved in the process of angiogenesis.",
+        "Question": "Which specific group in heparin is responsible for its interaction with vascular endothelial growth factor (VEGF)?",
+        "A": "2SO3",
+        "B": "4SO3",
+        "C": "6SO3",
+        "D": "8SO3",
+        "Answer": "C",
+        "Source": "In addition, it has been stated that the group 6SO3 of heparin is responsible for the interaction with VEGF."
+    },
+    "Question_7": {
+        "Context": "In the context of bone tissue engineering, the addition of growth factors such as VEGF and FGF is commonly used to influence the processes of angiogenesis and osteogenesis, despite some associated drawbacks.",
+        "Question": "Which growth factor families are commonly used in bone tissue engineering to influence angiogenesis and osteogenesis?",
+        "A": "Insulin-like growth factors and Transforming growth factors",
+        "B": "Vascular endothelial growth factor and Fibroblast growth factor",
+        "C": "Platelet-derived growth factors and Epidermal growth factors",
+        "D": "Nerve growth factors and Colony-stimulating factors",
+        "Answer": "B",
+        "Source": "Currently, delivery of growth factors has been favoured, as they highly influence the course of both processes: angiogenesis and osteogenesis. Vascular endothelial growth factor (VEGF) and fibroblast growth factor (FGF) families have been preferred for these purposes."
+    },
+    "Question_8": {
+        "Context": "The chorioallantoic membrane (CAM) assay is an experimental method used to evaluate the angiogenic effect of substances by observing their influence on the blood vessel formation in a chicken embryo.",
+        "Question": "What is the purpose of the chorioallantoic membrane (CAM) assay in experimental studies?",
+        "A": "To evaluate the cytotoxicity of substances",
+        "B": "To observe the influence on blood vessel formation",
+        "C": "To measure the molecular weight of substances",
+        "D": "To determine the solubility of substances in water",
+        "Answer": "B",
+        "Source": "Different concentrations of heparin were successfully loaded onto the scaffolds, its release from the scaffold was analysed by toluidine blue assay and their angiogenic effect was evaluated by chorioallantoic membrane (CAM) assay to determine the optimal concentration of heparin to induce a proangiogenic effect."
+    },
+    "Question_9": {
+        "Context": "The freeze-gelation method is a technique used to prepare scaffolds with a porous structure, which is beneficial for tissue engineering applications as it allows for cell infiltration and tissue growth.",
+        "Question": "What is the significance of the porous structure in scaffolds prepared by the freeze-gelation method for tissue engineering?",
+        "A": "It increases the weight of the scaffolds",
+        "B": "It enhances electrical conductivity",
+        "C": "It allows for cell infiltration and tissue growth",
+        "D": "It decreases the biocompatibility of the scaffolds",
+        "Answer": "C",
+        "Source": "In this study, porous scaffolds from chitosan and hydroxyapatite were prepared using freeze-gelation method and loaded with variable concentrations of heparin."
+    },
+    "Question_10": {
+        "Context": "Toluidine blue assay is a colorimetric method used to detect and quantify the presence of heparin in solutions or materials, based on the color change from blue to purple when toluidine blue interacts with heparin.",
+        "Question": "What is the principle behind the toluidine blue assay used to detect heparin?",
+        "A": "Fluorescence emission upon heparin binding",
+        "B": "Color change from blue to purple upon heparin interaction",
+        "C": "Precipitation of heparin in the presence of toluidine blue",
+        "D": "pH change of the solution upon heparin addition",
+        "Answer": "B",
+        "Source": "Toluidine Blue assay was developed by Smith P. K. et al. (1980). The assay is based on the colour change from blue to purple, which occurs when toluidine blue interacts with heparin containing solution."
+    }
+}

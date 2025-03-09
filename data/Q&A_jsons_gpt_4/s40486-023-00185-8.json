@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Thrombosis can be a protective mechanism to prevent bleeding or a pathological event leading to diseases such as stroke or myocardial infarction. Thrombus formation is influenced by hemodynamic changes within the vessel lumen.",
+        "Question": "What is considered a major contributor to thrombus formation related to hemodynamic factors?",
+        "A": "Blood pH level",
+        "B": "Shear rate",
+        "C": "Plasma viscosity",
+        "D": "Blood temperature",
+        "Answer": "B",
+        "Source": "Among these hemodynamic factors, shear rate is considered as a major contributor to thrombus formation. The magnitude of the shear rate varies greatly with the diameter of the blood vessel, leading to variations in the mechanisms of thrombus formation."
+    },
+    "Question_2": {
+        "Context": "Virchow's triad is a classic mechanism for thrombus formation that includes three key components which are critical in the development of thrombi.",
+        "Question": "Which of the following is NOT a component of Virchow's triad?",
+        "A": "Endothelial injury",
+        "B": "Hypercoagulability",
+        "C": "Blood flow stasis",
+        "D": "Elevated white blood cell count",
+        "Answer": "D",
+        "Source": "Thrombus formation at low shear rates is described by Virchow\u2019s triad. Virchow\u2019s triad is classic thrombus formation mechanism comprising three key components: endothelial injury, hypercoagulability, and blood flow stasis."
+    },
+    "Question_3": {
+        "Context": "In thrombus formation, different types of thrombi can form depending on the conditions within the blood vessel, such as the shear rate and the presence of certain proteins.",
+        "Question": "What is a 'red thrombus' primarily composed of?",
+        "A": "Activated platelets",
+        "B": "White blood cells",
+        "C": "Red blood cells and fibrinogen",
+        "D": "Endothelial cells",
+        "Answer": "C",
+        "Source": "With the reduced shear rates, red blood cells and platelets form aggregations through the FasL/FasR pathway and fibrinogen protein. It forms \u2018red thrombus\u2019 due to the presence of a high concentration of red blood cells."
+    },
+    "Question_4": {
+        "Context": "Thrombus formation in arteries is often characterized by the presence of a 'white thrombus'. The composition of such a thrombus is distinct from that of a 'red thrombus'.",
+        "Question": "What primarily constitutes a 'white thrombus' in arteries?",
+        "A": "Red blood cells",
+        "B": "Activated platelets",
+        "C": "Fibrinogen",
+        "D": "Plasma proteins",
+        "Answer": "B",
+        "Source": "Unlike the red thrombus, \u2018white thrombus\u2019 is common in thrombus in artery which is characterized by relatively fast and complex flow patterns. It primarily consists of activated platelets that bind to von Willebrand factor (vWF) rather than fibrinogen."
+    },
+    "Question_5": {
+        "Context": "Microfluidic systems have been utilized to analyze thrombus formation due to their advantages over traditional methods, including the requirement of minimal sample volumes.",
+        "Question": "What is one of the inherent advantages of microfluidic systems for thrombosis analysis?",
+        "A": "They require large blood volumes",
+        "B": "They have slow analysis capabilities",
+        "C": "They require minimal sample requirements",
+        "D": "They are less accurate than traditional methods",
+        "Answer": "C",
+        "Source": "Microfluidic systems have emerged as a valuable tool owing to their inherent advantages including minimal sample requirements and rapid analysis capabilities."
+    },
+    "Question_6": {
+        "Context": "Soft lithography is a conventional method used in the fabrication of microfluidic chips, which involves creating a master mold and using a flexible material to replicate the desired pattern.",
+        "Question": "Which material is commonly used in soft lithography to create microfluidic chips?",
+        "A": "Polyethylene",
+        "B": "Polydimethylsiloxane (PDMS)",
+        "C": "Polycarbonate",
+        "D": "Polyvinyl chloride",
+        "Answer": "B",
+        "Source": "Subsequently, a flexible material, like polydimethylsiloxane (PDMS), is poured into the master mold and allowed to cure."
+    },
+    "Question_7": {
+        "Context": "In the context of thrombus analysis using microfluidic chips, the surface preparation of the microchannel is crucial as it directly contacts blood and can influence experimental outcomes.",
+        "Question": "What is often used to coat the surface of microchannels to prevent unintentional thrombus formation?",
+        "A": "Collagen",
+        "B": "Tissue factor",
+        "C": "Heparin",
+        "D": "Fibrinogen",
+        "Answer": "C",
+        "Source": "To mitigate the unintentional formation of thrombi and ensure the reliability of experiments, researchers often explore surface modifications such as coating of anticoagulant including heparin."
+    },
+    "Question_8": {
+        "Context": "Microfluidic chips are designed to create specific flow patterns that can affect thrombus formation. One such pattern is laminar flow, which is characterized by low Reynolds numbers.",
+        "Question": "What is a key feature of laminar flow within microfluidic chips?",
+        "A": "High turbulence",
+        "B": "Irregular flow patterns",
+        "C": "Low Reynolds numbers",
+        "D": "Rapid changes in flow direction",
+        "Answer": "C",
+        "Source": "The channels in microfluidic chips form laminar flows characterized by low Reynolds numbers."
+    },
+    "Question_9": {
+        "Context": "The analysis of thrombus formation under dynamic conditions often involves the use of image processing techniques and observation of specific cell behaviors.",
+        "Question": "Which technique is commonly used to observe thrombus formation in real-time?",
+        "A": "Fluorescence microscopy",
+        "B": "X-ray crystallography",
+        "C": "Nuclear magnetic resonance",
+        "D": "Electron paramagnetic resonance",
+        "Answer": "A",
+        "Source": "The analysis of thrombus formation under dynamic conditions relies on image processing techniques, particularly the observation of specific cell behaviors using fluorescent materials."
+    },
+    "Question_10": {
+        "Context": "Scanning electron microscopy (SEM) is a technique used to analyze the structure of thrombi under static conditions after blood experiments.",
+        "Question": "What aspect of thrombi can be examined using scanning electron microscopy?",
+        "A": "Molecular composition",
+        "B": "Genetic information",
+        "C": "Morphology",
+        "D": "Temperature stability",
+        "Answer": "C",
+        "Source": "After the blood experiments, thrombi within the microchannel can be examined under static conditions. Typically, scanning electron microscopy (SEM) has been employed to visually study the thrombus structure."
+    }
+}

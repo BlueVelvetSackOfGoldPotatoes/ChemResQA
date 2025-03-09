@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the 14C-labeling of antibodies using formaldehyde and explored the stability of the labeled antibodies under different storage conditions.",
+        "Question": "What was the direct correlation observed between the labeling efficiency of 14C-labeled antibodies and the quantity of 14C-formaldehyde applied?",
+        "A": "No correlation",
+        "B": "Inverse correlation",
+        "C": "Indirect correlation",
+        "D": "Direct correlation",
+        "Answer": "D",
+        "Source": "revealed a direct correlation between labeling efficiency and the quantity of 14C-formaldehyde applied"
+    },
+    "Question_2": {
+        "Context": "The study focused on the stability of 14C-labeled antibodies under different storage conditions.",
+        "Question": "How long did the stability tests show that the 14C-labeled antibodies remained stable at -75 \u00b1 10 \u00b0C and 5 \u00b1 3 \u00b0C?",
+        "A": "2 weeks",
+        "B": "3 weeks",
+        "C": "4 weeks",
+        "D": "5 weeks",
+        "Answer": "C",
+        "Source": "Results revealed that all groups maintained their purities over a 4-week period at both \u2212 75 \u00b1 10 \u00b0C and 5 \u00b1 3 \u00b0C"
+    },
+    "Question_3": {
+        "Context": "The study discussed the determination of 14C-labeling efficiency for anti-mouse rabbit IgG under different reaction conditions.",
+        "Question": "What was the labeling efficiency of 14C-anti-mouse rabbit IgG when 30 equivalents of 14C-formaldehyde were used?",
+        "A": "1.5 mol/mol",
+        "B": "3.8 mol/mol",
+        "C": "11 mol/mol",
+        "D": "Not mentioned",
+        "Answer": "B",
+        "Source": "labeling efficiencies of 14C-anti-mouse rabbit IgG of each reaction condition were calculated as 1.5, 3.8 and 11 mol/mol for 10, 30 and 60 equiv of 14C-formaldehyde were used, respectively"
+    },
+    "Question_4": {
+        "Context": "The study evaluated the chemical and radiochemical purity of samples containing 14C-IgG under various reaction conditions.",
+        "Question": "How was the purity of 14C-IgG confirmed in the study?",
+        "A": "By comparing retention times in UV chromatogram",
+        "B": "By measuring absorbance at 580 nm",
+        "C": "By analyzing the stability over 4 weeks",
+        "D": "By conducting HPLC analysis",
+        "Answer": "A",
+        "Source": "The comparison of retention times between IgG and 14C-IgG in both the UV chromatogram and radioactive chromatogram verified the alignment of peaks at the same retention time"
+    },
+    "Question_5": {
+        "Context": "The study discussed the determination of specific radioactivity for 14C-anti-mouse rabbit IgG.",
+        "Question": "How was the specific radioactivity of 14C-anti-mouse rabbit IgG calculated?",
+        "A": "By measuring protein concentration using Bradford assay",
+        "B": "By measuring radioactivity concentration using LSC",
+        "C": "By measuring absorbance at 580 nm",
+        "D": "By conducting HPLC analysis",
+        "Answer": "B",
+        "Source": "The radioactivity was measured by mixing 0.1 mL of 14C-anti-mouse rabbit IgG solution with 10 mL of LSC cocktail in a liquid scintillation counter (LSC)"
+    },
+    "Question_6": {
+        "Context": "The study evaluated the stability of 14C-antibody over a 4-week period at different temperatures.",
+        "Question": "Where was the 14C-IgG antibody observed to be more stable during the stability test?",
+        "A": "At -75 \u00b1 10 \u00b0C",
+        "B": "At 5 \u00b1 3 \u00b0C",
+        "C": "Both temperatures equally",
+        "D": "Not mentioned",
+        "Answer": "B",
+        "Source": "Results suggest that 14C-IgG remains more stable for up to 4 weeks at 5 \u00b1 3 \u00b0C compared to \u2212 75 \u00b1 10 \u00b0C"
+    },
+    "Question_7": {
+        "Context": "The study discussed the determination of antibody concentration using the Bradford assay.",
+        "Question": "How was the protein concentration of 14C-anti-mouse rabbit IgG determined in the study?",
+        "A": "By measuring absorbance at 580 nm",
+        "B": "By measuring radioactivity concentration using LSC",
+        "C": "By conducting HPLC analysis",
+        "D": "By using a standard curve relating protein concentration to absorbance",
+        "Answer": "D",
+        "Source": "Protein concentration was determined by Bradford method based on the Coomassie Brilliant Blue dye. A standard curve relating protein concentration to absorbance (A595 nm) was established"
+    },
+    "Question_8": {
+        "Context": "The study discussed the antibody activity test using the dot blotting method.",
+        "Question": "What was used as the second antibody in the antibody activity test?",
+        "A": "Mouse IgG",
+        "B": "Anti-mouse rabbit IgG",
+        "C": "Alkaline Phosphatase",
+        "D": "BCIP/NBT solution",
+        "Answer": "C",
+        "Source": "Subsequently, 5 mL of anti-rabbit goat IgG (Alkaline Phosphatase conjugate) was added to the membrane and allowed to react at room temperature for 1 h"
+    },
+    "Question_9": {
+        "Context": "The study discussed the HPLC analysis for the identification and quantitation of impurities in 14C-labeled antibody.",
+        "Question": "What was used to detect protein peaks in the HPLC analysis?",
+        "A": "Radio detector",
+        "B": "UV\u2013Vis spectrophotometer",
+        "C": "Liquid scintillation counter",
+        "D": "Chromotropic acid indicator",
+        "Answer": "A",
+        "Source": "Protein peaks were detected at 220 nm coupled with a radio detector"
+    },
+    "Question_10": {
+        "Context": "The study described the reductive alkylation method for protein labeling using 14C.",
+        "Question": "What was used to eliminate the excess amount of unreacted 14C-formaldehyde and reagents in the purification process?",
+        "A": "Desalting column",
+        "B": "Chromotropic acid indicator",
+        "C": "Liquid scintillation counter",
+        "D": "HPLC system",
+        "Answer": "A",
+        "Source": "A desalting column was used to eliminate the excess amount of unreacted 14C-formaldehyde and reagents"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Information about the model silanization reaction of TESPT with silica in the presence of amine.",
+        "Question": "What effect does the presence of an amine functional group have on the silanization reaction?",
+        "A": "Decreases the hydrolysis of TESPT",
+        "B": "Accelerates the silanization reaction",
+        "C": "Reduces the release of EtOH from TESPT",
+        "D": "Has no impact on the reaction",
+        "Answer": "B",
+        "Source": "The model silanization reaction of TESPT with silica in the presence of amine shows that a higher amount of EtOH is released from TESPT compared to the amine free system. This result indicates that the amine could enhance the hydrolysis of TESPT and could accelerate the silanization reaction."
+    },
+    "Question_2": {
+        "Context": "Details about the Payne effect in filled rubber compounds.",
+        "Question": "What does a higher Payne effect value indicate in filled rubber compounds?",
+        "A": "Decreased filler-polymer interaction",
+        "B": "Increased filler-filler interaction",
+        "C": "Enhanced filler dispersion",
+        "D": "Improved mechanical properties",
+        "Answer": "B",
+        "Source": "The amine functionalized SBR and the alkoxy silane functionalized SBR show less Payne effect of the compounds which indicates that both functional groups can decrease the filler-filler interaction."
+    },
+    "Question_3": {
+        "Context": "Information about the bound rubber content in different types of SBR compounds.",
+        "Question": "What is the reason for the increase in physical bound rubber content in compounds with SBR 3 and SBR 4?",
+        "A": "Higher filler dispersion",
+        "B": "Increased filler-filler interaction",
+        "C": "Enhanced polymer crosslinking",
+        "D": "Presence of amine functional group",
+        "Answer": "B",
+        "Source": "The physical bound rubber content increases in the compounds with SBR 3 and 4. This is due to the fact that the alkoxysilane functional group in SBR 3 and 4 includes amine, and the hydrogen bonding between amine and silica can be broken in ammonia atmosphere."
+    },
+    "Question_4": {
+        "Context": "Details about the tensile properties of different SBR compounds.",
+        "Question": "What is the impact of the presence of functional group B on the tensile strength at 200% elongation in branched SBR compounds?",
+        "A": "Decreased tensile strength",
+        "B": "Increased tensile strength",
+        "C": "No effect on tensile strength",
+        "D": "Improved elongation at break",
+        "Answer": "B",
+        "Source": "S200 of each SBR compound is comparable in the linear types whereas a significant increase of S200 is observed in SBR with an amine functional group for the branched type SBR compounds."
+    },
+    "Question_5": {
+        "Context": "Information about the tan \u03b4 values of different SBR compounds.",
+        "Question": "What effect does the alkoxy-silane functional group have on tan \u03b4 at 70 \u00b0C?",
+        "A": "Increases tan \u03b4",
+        "B": "Decreases tan \u03b4",
+        "C": "No impact on tan \u03b4",
+        "D": "Stabilizes tan \u03b4",
+        "Answer": "B",
+        "Source": "The compound of the SBR with the alkoxy-silane functional group shows lower tan \u03b4 compared to the non-functionalized SBR and the amine functionalized SBR compounds."
+    },
+    "Question_6": {
+        "Context": "Information about the storage modulus at varying strains of silica-reinforced SBR compounds.",
+        "Question": "What does the gap between the storage modulus at 0.56% strain and that at 100% strain indicate?",
+        "A": "Degree of filler-polymer interactions",
+        "B": "Crosslink density",
+        "C": "Filler dispersion quality",
+        "D": "Mechanical strength",
+        "Answer": "B",
+        "Source": "The gap between the maximum torque (MH) and the minimum tongue (ML) which is an indicator of the crosslink density was smaller in the compound with the functionalized SBRs compared to the non-functionalized SBRs, respectively."
+    },
+    "Question_7": {
+        "Context": "Details about the strain sweep data of compounds containing linear polymers.",
+        "Question": "What does the plateau part at the lower strain region of functionalized SBR 3 and 4 indicate?",
+        "A": "Easy breaking of filler clusters",
+        "B": "Strong filler-polymer interaction",
+        "C": "Enhanced filler dispersion",
+        "D": "Improved mechanical properties",
+        "Answer": "B",
+        "Source": "This also indicates that the filler clusters cannot be easily broken by the deformation due to the strong filler-polymer interaction."
+    },
+    "Question_8": {
+        "Context": "Information about the average silica particle size from SAXS measurements.",
+        "Question": "What is the trend observed in the average silica particle size of the compound with non-functionalized SBR compared to amine-functionalized SBR?",
+        "A": "Decrease in particle size",
+        "B": "Increase in particle size",
+        "C": "No change in particle size",
+        "D": "Variability in particle size",
+        "Answer": "A",
+        "Source": "The average silica particle size of the compound with the non-functionalized SBR is the same as that of the compound with amine-functionalized SBR in both linear and branched types."
+    },
+    "Question_9": {
+        "Context": "Details about the cure properties of different SBR compounds.",
+        "Question": "What does the gap between the maximum torque (MH) and the minimum tongue (ML) indicate?",
+        "A": "Polymer-polymer interactions",
+        "B": "Crosslink density",
+        "C": "Filler-polymer interactions",
+        "D": "Mechanical strength",
+        "Answer": "B",
+        "Source": "The torque is the indication of the crosslinking density but is consists of contributions from the polymer-polymer, polymer-filler, and filler-filler interactions."
+    },
+    "Question_10": {
+        "Context": "Information about the influence of the type of functionalization of the SBR on tan \u03b4 at 70 \u00b0C.",
+        "Question": "Why do all branched SBRs lead to a lower tan \u03b4 compared to linear SBRs?",
+        "A": "Higher filler dispersion",
+        "B": "More bound rubber formation",
+        "C": "Enhanced polymer crosslinking",
+        "D": "Increased filler-filler interaction",
+        "Answer": "B",
+        "Source": "This can be explained by the fact that more bound rubber is formed in branched SBRs."
+    }
+}

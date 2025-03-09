@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on developing self-healing sensor composite strips with the embedding of a thermoplastic styrene-based co-polymer (TPS) sensor in a self-healing matrix.",
+        "Question": "What was used to detect the presence of damage and monitor the efficiency of healing in the composite strips?",
+        "A": "Initial resistance",
+        "B": "Ultimate strength",
+        "C": "Elongation at fracture",
+        "D": "Tensile strength",
+        "Answer": "A",
+        "Source": "In both cases, the value of the initial resistance was used to detect the presence of damage and monitor the efficiency of healing."
+    },
+    "Question_2": {
+        "Context": "The study discussed the development of self-healing materials crucial for reaching sustainability goals.",
+        "Question": "What is essential to ensure successful self-healing in self-healing polymers?",
+        "A": "High tensile strength",
+        "B": "Early detection of damage",
+        "C": "Low elongation at fracture",
+        "D": "Increased drift of the sensor signal",
+        "Answer": "B",
+        "Source": "In order to ensure that the self-healing is successful, detecting the damage early is essential."
+    },
+    "Question_3": {
+        "Context": "The study mentioned the importance of nociception in natural organisms and its role in triggering defensive and healing processes.",
+        "Question": "What is nociception associated with in natural organisms?",
+        "A": "Defensive and healing processes",
+        "B": "Growth and development",
+        "C": "Reproduction",
+        "D": "Metabolic processes",
+        "Answer": "A",
+        "Source": "Additionally, the process of nociception can trigger a series of events for natural organisms, associated with the defensive and healing process."
+    },
+    "Question_4": {
+        "Context": "The study highlighted the use of piezoresistive sensors in self-healing polymer structures like artificial soft robotic systems.",
+        "Question": "What can piezoresistive sensors be used for in artificial soft robotic systems?",
+        "A": "Detecting temperature changes",
+        "B": "Monitoring damage and healing",
+        "C": "Measuring humidity levels",
+        "D": "Controlling light intensity",
+        "Answer": "B",
+        "Source": "Piezoresistive sensors can be used to detect damage and monitor when the healing process has been successfully achieved."
+    },
+    "Question_5": {
+        "Context": "The study discussed the development of composite strips for self-healing materials.",
+        "Question": "What is the purpose of using a composite approach for developing composite strips?",
+        "A": "To increase stiffness",
+        "B": "To decrease elongation at fracture",
+        "C": "To combine self-healing properties with functionality",
+        "D": "To reduce sensitivity",
+        "Answer": "C",
+        "Source": "For self-healing materials, a similar concept can be used to combine self-healing properties with the functionality derived from the sensor thread."
+    },
+    "Question_6": {
+        "Context": "The study mentioned the development of piezoresistive elastomer-based sensors with self-healing properties.",
+        "Question": "What is a limitation of composite elastomers with self-healing capability?",
+        "A": "Low sensitivity",
+        "B": "High elongation at fracture",
+        "C": "Increased drift of the sensor signal",
+        "D": "Inferior self-healing efficiency",
+        "Answer": "C",
+        "Source": "However, there are some limitations for composite elastomers with self-healing capability."
+    },
+    "Question_7": {
+        "Context": "The study discussed the behavior of sensor fibers and 3D printed sensor elements in self-healing matrix materials.",
+        "Question": "What was used to detect the presence of damage in the self-healing matrix of the composite strip?",
+        "A": "Gauge Factor",
+        "B": "Relative resistance",
+        "C": "Ultimate strength",
+        "D": "Young's Modulus",
+        "Answer": "B",
+        "Source": "In order to investigate the reproducibility of the sensor response, dynamic cyclic tensile tests were performed for the four different SFCs. The dynamic cycling tests were repeated after the introduction of manual cuts from both edges (e.g. damage stage) and after healing."
+    },
+    "Question_8": {
+        "Context": "The study discussed the mechanical and electrical behavior of sensor fibers and 3D printed sensor elements in self-healing matrix materials.",
+        "Question": "What was used to monitor damage and healing steps directly in the self-healing composite strips?",
+        "A": "Gauge Factor",
+        "B": "Initial resistance",
+        "C": "Young's Modulus",
+        "D": "Tensile strength",
+        "Answer": "B",
+        "Source": "For all SFCs, the R0 can be used to monitor damage and healing steps directly."
+    },
+    "Question_9": {
+        "Context": "The study discussed the use of composite strips for monitoring a soft robotic actuator module.",
+        "Question": "What was the drift of the electrical signal for both self-healing composites during bending experiments?",
+        "A": "Below 1%",
+        "B": "Above 5%",
+        "C": "Around 10%",
+        "D": "Not mentioned",
+        "Answer": "A",
+        "Source": "Remarkably for bending experiments, the drift of the electrical signal for both self-healing composites was significantly below 1% (e.g. 0.1%)."
+    },
+    "Question_10": {
+        "Context": "The study discussed the performance of self-healing composite strips under bending conditions on a 3D printed TPU hinge.",
+        "Question": "What is necessary after the healing step for real applications like closed-loop control systems for soft robots?",
+        "A": "Recalibration",
+        "B": "Increased drift",
+        "C": "Higher sensitivity",
+        "D": "Additional heating",
+        "Answer": "A",
+        "Source": "Since the value of the \u0394Rrel does not recover after the healing (in all strips, but the UPy1 50A SFC), it is evident that recalibration after the healing step has to be performed for real applications, like closed-loop control systems for soft robots."
+    }
+}

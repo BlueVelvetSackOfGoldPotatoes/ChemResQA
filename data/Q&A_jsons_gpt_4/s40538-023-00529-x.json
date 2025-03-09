@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Steam explosion pretreatment is a method used to break down the complex structure of lignocellulosic biomass, facilitating the extraction of valuable components such as lignin-derived products.",
+        "Question": "What is the primary effect of steam explosion pretreatment on lignocellulosic biomass?",
+        "A": "It increases the moisture content of the biomass.",
+        "B": "It breaks down the lignin-carbohydrate complexes.",
+        "C": "It enhances the biomass energy content.",
+        "D": "It reduces the biomass to its monomeric sugars.",
+        "Answer": "B",
+        "Source": "Steam explosion pretreatment has been proven to be an effective treatment for breaking down the recalcitrant character of lignin\u2013carbohydrate complexes (LCC) in lignocellulosic biomass."
+    },
+    "Question_2": {
+        "Context": "Lignin depolymerization during steam explosion pretreatment leads to the formation of various polyphenols with potential applications.",
+        "Question": "What is a direct result of lignin depolymerization during steam explosion pretreatment?",
+        "A": "Formation of high-molecular-weight cellulose",
+        "B": "Reduction in biomass antioxidant activity",
+        "C": "Formation of various polyphenols",
+        "D": "Decrease in biomass thermal resistance",
+        "Answer": "C",
+        "Source": "Steam explosions cause lignin depolymerization, which forms various polyphenols."
+    },
+    "Question_3": {
+        "Context": "The antioxidant activity of lignin-derived products can be evaluated using the DPPH free radical scavenging assay, which measures the ability to donate hydrogen/electrons to free radicals.",
+        "Question": "Which assay is used to evaluate the antioxidant activity of lignin-derived products?",
+        "A": "Mass spectrometry",
+        "B": "DPPH free radical scavenging assay",
+        "C": "Fourier-transform infrared spectroscopy",
+        "D": "Gel permeation chromatography",
+        "Answer": "B",
+        "Source": "Antioxidant activity was evaluated using 0.5 mM 2,2-diphenyl-1-picrylhydrazyl (DPPH) free radical scavenging assay."
+    },
+    "Question_4": {
+        "Context": "The Folin\u2013Ciocalteu method is a colorimetric assay that measures the total phenolic content in a sample by reacting with phenolic compounds to produce a blue complex.",
+        "Question": "What is the purpose of the Folin\u2013Ciocalteu method in the context of lignin-derived products?",
+        "A": "To measure the molecular weight of lignin",
+        "B": "To determine the thermal properties of lignin",
+        "C": "To evaluate the polyphenol content",
+        "D": "To assess the moisture content of lignin",
+        "Answer": "C",
+        "Source": "Polyphenol content was evaluated using the Folin\u2013Ciocalteu method."
+    },
+    "Question_5": {
+        "Context": "The severity factor (R0) in steam explosion pretreatment is a measure that combines the effects of temperature and residence time to quantify the treatment's intensity.",
+        "Question": "What does the severity factor (R0) in steam explosion pretreatment take into account?",
+        "A": "The pressure and moisture content",
+        "B": "The temperature and residence time",
+        "C": "The biomass type and weight",
+        "D": "The enzyme activity and pH level",
+        "Answer": "B",
+        "Source": "The severity factor (R0) from the steam explosion pretreatment was calculated using the following formula: R0 = t.exp[(T r\u2212100)/14.75]."
+    },
+    "Question_6": {
+        "Context": "Low-molecular-weight lignin (LML) and water-soluble lignin (WSL) are products of lignin depolymerization that have different solubility and potential applications.",
+        "Question": "What are the two types of lignin-derived products obtained from steam explosion pretreatment?",
+        "A": "High-molecular-weight lignin and cellulose",
+        "B": "Hemicellulose and Klason lignin",
+        "C": "Low-molecular-weight lignin and water-soluble lignin",
+        "D": "Cellulose fibers and lignin monomers",
+        "Answer": "C",
+        "Source": "Steam-exploded POMLBW produces lignin-derived products such as low-molecular-weight lignin (LML) and water-soluble lignin (WSL)."
+    },
+    "Question_7": {
+        "Context": "Differential scanning calorimetry (DSC) is a thermal analysis technique that measures the temperatures and heat flows associated with transitions in materials as a function of time and temperature.",
+        "Question": "What thermal property of lignin-derived products can be measured using differential scanning calorimetry (DSC)?",
+        "A": "Boiling point",
+        "B": "Melting temperature",
+        "C": "Flash point",
+        "D": "Solubility",
+        "Answer": "B",
+        "Source": "The thermal properties investigations revealed that the glass transition temperature was 80\u201390 \u00b0C (Tg), the melting temperature (Tm) was 338\u2013362 \u00b0C."
+    },
+    "Question_8": {
+        "Context": "Thermogravimetric analysis (TGA) is a method of thermal analysis in which changes in physical and chemical properties of materials are measured as a function of increasing temperature.",
+        "Question": "What does thermogravimetric analysis (TGA) measure in the context of lignin-derived products?",
+        "A": "The rate of enzymatic reactions",
+        "B": "The change in electrical conductivity",
+        "C": "The change in weight as a function of temperature",
+        "D": "The change in solubility with temperature",
+        "Answer": "C",
+        "Source": "The thermal characteristics were evaluated using differential scanning calorimetry and thermogravimetric analysis."
+    },
+    "Question_9": {
+        "Context": "The glass transition temperature (Tg) is the temperature at which a polymer changes from a hard, glassy state to a soft, rubbery state.",
+        "Question": "What does the glass transition temperature (Tg) indicate about a lignin-derived product?",
+        "A": "The temperature at which it decomposes",
+        "B": "The temperature at which it becomes insoluble",
+        "C": "The temperature at which it transitions from hard to soft",
+        "D": "The temperature at which it reaches its boiling point",
+        "Answer": "C",
+        "Source": "The thermal properties investigations revealed that the glass transition temperature was 80\u201390 \u00b0C (Tg)."
+    },
+    "Question_10": {
+        "Context": "The antimicrobial activity of lignin-derived products can be evaluated using an agar diffusion assay, which measures the ability of a substance to inhibit the growth of microorganisms on an agar plate.",
+        "Question": "Which method is used to evaluate the antimicrobial activity of lignin-derived products?",
+        "A": "Agar diffusion assay",
+        "B": "Polymerase chain reaction",
+        "C": "Gas chromatography",
+        "D": "Liquid chromatography-mass spectrometry",
+        "Answer": "A",
+        "Source": "The antimicrobial activity was evaluated using an agar diffusion assay with Gram-positive and Gram-negative bacteria."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Ultra pure metals are used in various applications such as electrical conductors. The purification of metals involves solidification processes where impurities are segregated at the solidification front.",
+        "Question": "What is a necessary requirement for purification in a solidification process?",
+        "A": "High temperature of the melt",
+        "B": "Morphologically stable solidification front",
+        "C": "Rapid cooling of the melt",
+        "D": "High impurity content in the melt",
+        "Answer": "B",
+        "Source": "The necessary requirement for purification in a solidification process is a morphologically stable solidification front. This is the only way to enable macroscopic separation of the impurities, e. g. by convection."
+    },
+    "Question_2": {
+        "Context": "In the context of metal purification, the solidification front's morphology can affect the segregation of impurities. Cellular or dendritic solidification can trap impurities, preventing their separation from the metal.",
+        "Question": "What happens to segregated impurities during cellular or dendritic solidification morphologies?",
+        "A": "They are expelled to the melt's surface",
+        "B": "They are evenly distributed in the solidified metal",
+        "C": "They are trapped into the interdendritic melt",
+        "D": "They form a separate layer on the solidified metal",
+        "Answer": "C",
+        "Source": "For cellular or dendritic solidification morphologies, the segregated impurities are trapped into the interdendritic melt and remain as microsegregations in the solidified metal."
+    },
+    "Question_3": {
+        "Context": "Morphological stability during the solidification of metals is influenced by various factors including the temperature gradient at the solidification front and the velocity of the solidification front.",
+        "Question": "Which factors influence the morphological stability of a solidification front?",
+        "A": "Temperature gradient and solidification front velocity",
+        "B": "Melting point of the metal and ambient temperature",
+        "C": "Impurity content and melting point of the metal",
+        "D": "Size of the crucible and ambient temperature",
+        "Answer": "A",
+        "Source": "Morphological stability depends on the temperature gradient G at the solidification front, the solidification front velocity Vfront and thermodynamic alloy properties like the segregation coefficients of the impurity elements."
+    },
+    "Question_4": {
+        "Context": "The purification efficiency of a solidification process can be theoretically determined by the segregation coefficient, which is a thermodynamic property of the alloy system.",
+        "Question": "What theoretical limit determines the purification efficiency of a solidification-based method?",
+        "A": "Melting point of the metal",
+        "B": "Size of the crucible used",
+        "C": "Segregation coefficient of impurities",
+        "D": "Rate of heat extraction from the melt",
+        "Answer": "C",
+        "Source": "Only in this case, the theoretical limit of a solidification based purification method as given by the segregation coefficient can be achieved."
+    },
+    "Question_5": {
+        "Context": "During the solidification of alloys, the diffusion boundary layer plays a role in the segregation of impurities. The thickness of this layer can affect the stability of the solidification front.",
+        "Question": "What is the effect of a high temperature gradient on the morphological stability of the solidification front?",
+        "A": "It has no effect on the stability",
+        "B": "It decreases the stability",
+        "C": "It increases the stability",
+        "D": "It eliminates the diffusion boundary layer",
+        "Answer": "C",
+        "Source": "It can be seen that a high temperature gradient and a low velocity of the solidification front have a stabilizing effect on the interface."
+    },
+    "Question_6": {
+        "Context": "In solidification processes, the concentration profile at the solidification front can be influenced by the temperature gradient in the liquid at the interface and the gradient of the concentration-dependent liquidus temperature.",
+        "Question": "Under which condition is the melt in the diffusion boundary layer in an undercooled state?",
+        "A": "When the temperature gradient in the liquid at the interface is greater than the gradient of the concentration-dependent liquidus temperature",
+        "B": "When the temperature gradient in the liquid at the interface is equal to the gradient of the concentration-dependent liquidus temperature",
+        "C": "When the temperature gradient in the liquid at the interface is smaller than the gradient of the concentration-dependent liquidus temperature",
+        "D": "When the temperature gradient in the liquid at the interface is independent of the gradient of the concentration-dependent liquidus temperature",
+        "Answer": "C",
+        "Source": "The melt in this zone is in an undercooled state if the temperature gradient G in the liquid at the interface is smaller than the gradient of the concentration dependent liquidus temperature in the solutal pile up which is the concentration gradient (Gc) multiplied by the liquidus slope m."
+    },
+    "Question_7": {
+        "Context": "The solidification of metals can be modeled using phase field simulations, which are coupled to thermodynamic databases to account for the dynamics of the solidification front and impurity segregation.",
+        "Question": "What is the purpose of coupling phase field simulations to a thermodynamic database in the context of metal solidification?",
+        "A": "To determine the melting point of the metal",
+        "B": "To calculate the size of the crucible needed",
+        "C": "To quantify the impact of parameters on morphological evolution",
+        "D": "To measure the ambient temperature during solidification",
+        "Answer": "C",
+        "Source": "To quantify the impact of these parameters on the morphological evolution, especially on the planar/cellular transition and thus on microsegregation profiles, phase field simulations coupled to a thermodynamic database are performed."
+    },
+    "Question_8": {
+        "Context": "In the solidification of alloys, the solid/liquid interface can be described by phase field models, which are capable of treating the problem of morphological stability and describing segregation.",
+        "Question": "Why are dynamical phase field simulations used in studying the solidification of alloys?",
+        "A": "To observe the melting process in real-time",
+        "B": "To treat the problem of morphological stability and describe segregation",
+        "C": "To reduce the energy consumption of the solidification process",
+        "D": "To increase the melting point of the alloy",
+        "Answer": "B",
+        "Source": "We have used a 2D phase field model, because dynamical phase field simulations can treat the problem of morphological stability and describe the segregation also for a cellular solidification front."
+    },
+    "Question_9": {
+        "Context": "The diffusion coefficients of impurities in the liquid phase of an alloy during solidification are important parameters that influence the segregation and distribution of these impurities.",
+        "Question": "What is the relationship between the diffusion coefficient of an impurity in the liquid phase and the solidification front velocity for a given temperature?",
+        "A": "The diffusion coefficient is directly proportional to the solidification front velocity",
+        "B": "The diffusion coefficient is inversely proportional to the solidification front velocity",
+        "C": "The diffusion coefficient is independent of the solidification front velocity",
+        "D": "The diffusion coefficient decreases exponentially with increasing solidification front velocity",
+        "Answer": "B",
+        "Source": "The diffusion length lD = D/V with V = 2 \u03bcms\u22121 and T = 932.5 K"
+    },
+    "Question_10": {
+        "Context": "The segregation coefficients of impurity elements in an alloy are determined by thermodynamic equilibrium calculations and are crucial for predicting the distribution of these elements during solidification.",
+        "Question": "How are the segregation coefficients of impurity elements in an alloy determined?",
+        "A": "By measuring the ambient temperature during solidification",
+        "B": "Through thermodynamic equilibrium calculations at a given temperature",
+        "C": "By calculating the size of the crucible used in the process",
+        "D": "Through the rate of heat extraction from the melt",
+        "Answer": "B",
+        "Source": "The segregation coefficients k in Table 1a have been derived from a thermodynamic equilibrium calculation at 933 K."
+    }
+}

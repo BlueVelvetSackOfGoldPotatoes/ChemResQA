@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Natural killer (NK) cells are a type of immune cell with the inherent ability to combat cancer cells. They can recognize and eliminate malignant cells, but their performance can be hindered by a lack of specific cancer-targeting ligands on their surface, especially in the immunosuppressive environment of tumors.",
+        "Question": "What is the primary clinical advantage of using NK cells in adoptive cell therapy for cancer treatment?",
+        "A": "They require genetic modification to recognize cancer cells",
+        "B": "They have inherent anticancer efficacy and can identify and eliminate malignant tumors",
+        "C": "They function better in immunosuppressive environments without modifications",
+        "D": "They are less effective than T cells in targeting cancer cells",
+        "Answer": "B",
+        "Source": "Natural killer (NK) cells have clinical advantages in adoptive cell therapy owing to their inherent anticancer efficacy and their ability to identify and eliminate malignant tumors."
+    },
+    "Question_2": {
+        "Context": "In the development of cell therapies, the optimization of lipid anchors is crucial for the modulation of hydrophobic interactions with cell membranes. This optimization is essential for the stable immobilization of therapeutic agents on the cell surface, which is necessary for enhanced targeting of cancer cells.",
+        "Question": "Which design parameter is most important to modulate hydrophobic interaction with dynamic NK cell membranes for cancer targeting?",
+        "A": "Size of the NK cells",
+        "B": "Optimization of lipid anchors",
+        "C": "Amount of PEG in the conjugates",
+        "D": "Concentration of hyaluronic acid",
+        "Answer": "B",
+        "Source": "optimization of lipid anchors (in terms of chemical structure and intrinsic amphiphilicity) is the most important design parameter to modulate hydrophobic interaction with dynamic NK cell membranes."
+    },
+    "Question_3": {
+        "Context": "Lipid-based modifications of NK cell surfaces can be achieved through hydrophobic interactions, which allow for the presentation of specific signaling modulators without the need for genetic modification. This approach can yield high quantities of surface-modified immune cells.",
+        "Question": "What is the advantage of lipid-mediated polymer conjugates in NK cell surface engineering?",
+        "A": "They require covalent modification between proteins and chemical residues",
+        "B": "They lead to cation-mediated cytotoxicity",
+        "C": "They can homogeneously decorate NK cell surfaces through hydrophobic interactions",
+        "D": "They are less efficient than genetic modifications",
+        "Answer": "C",
+        "Source": "lipid-mediated polymer conjugates could homogeneously decorate NK cell surfaces through hydrophobic interactions between lipids and NK cell membranes."
+    },
+    "Question_4": {
+        "Context": "For the ex vivo engineering of NK cell surfaces, it is crucial to ensure that the materials used for surface modification do not penetrate the cytoplasm. This is to maintain the stability of the materials on the cell surface and to ensure specific targeting abilities towards cancer cells.",
+        "Question": "What is a design criterion for optimized lipid conjugates in NK cell surface engineering?",
+        "A": "Maximized endocytosis of surface-presentable materials",
+        "B": "Intervention of intrinsic signaling receptors/ligands of NK cells after coating",
+        "C": "Minimized endocytosis of surface-presentable materials",
+        "D": "Reduced durability of decoration on NK cell surface",
+        "Answer": "C",
+        "Source": "Design criteria for optimized lipid conjugates are: (1) minimized endocytosis of surface-presentable materials, (2) non-intervention of intrinsic signaling receptors/ligands of NK cells after coating processes, and (3) durable decoration on NK cell surface against mechanical stress during in vivo infusion and following blood circulation."
+    },
+    "Question_5": {
+        "Context": "The anticancer efficacy of engineered NK cells can be influenced by the size, type, and properties of the materials used for surface modification. These factors play a role in how the materials interact with the dynamic and intricate structures of cellular membranes.",
+        "Question": "What factors can influence the anticancer efficacy of engineered NK cells mediated by materials presented on cell surfaces?",
+        "A": "Temperature and pH of the solution",
+        "B": "Size, type, and properties of materials",
+        "C": "The concentration of NK cells in the blood",
+        "D": "The rate of NK cell division",
+        "Answer": "B",
+        "Source": "anticancer efficacy of engineered NK cells mediated by materials presented on cell surfaces (target recognition and killing) could vary depending on the size, type, and properties of materials within dynamic and intricate cellular membrane structures."
+    },
+    "Question_6": {
+        "Context": "In the context of NK cell surface engineering, the hydrophobicity and hydrophilicity balance between lipid conjugates and NK cell membranes is a critical factor. This balance affects the stability and interaction of lipid structures with the cell membrane.",
+        "Question": "Why is it important to optimize lipid type by considering hydrophobic/hydrophilic balances in NK cell surface engineering?",
+        "A": "To increase the water solubility of NK cells",
+        "B": "To enhance the electrical charge of the NK cell membrane",
+        "C": "To modulate lipid structures according to the number of carbons",
+        "D": "To facilitate the interaction with water-soluble drugs",
+        "Answer": "C",
+        "Source": "it is important to optimize lipid type by considering hydrophobic/hydrophilic balances between lipid conjugates and NK cell membranes, and by modulating lipid structures according to the number of carbons."
+    },
+    "Question_7": {
+        "Context": "Hyaluronic acid (HA) is used in the engineering of NK cell surfaces to target CD44, which is overexpressed on aggressive cancer cells. HA is conjugated with lipids to anchor onto NK cell membranes, facilitating tumor recognition.",
+        "Question": "What is the role of hyaluronic acid (HA) in the context of NK cell surface engineering for cancer targeting?",
+        "A": "To block cytoplasmic penetration",
+        "B": "To serve as a molecular anchor for NK cell membrane decoration",
+        "C": "To target CD44 overexpressed on cancer cells",
+        "D": "To enhance the intrinsic signaling of NK cells",
+        "Answer": "C",
+        "Source": "To facilitate tumor recognition and subsequent anticancer function of NK cells, we developed hyaluronic acid (HA, ligands to target CD44 overexpressed onto cancer cells)"
+    },
+    "Question_8": {
+        "Context": "In the engineering of NK cell surfaces, poly(ethylene glycol) (PEG) is used as a component of the conjugate structure. PEG acts as a blocker to prevent the penetration of other conjugate components into the cytoplasm of the cells.",
+        "Question": "What is the function of poly(ethylene glycol) (PEG) in NK cell surface engineering?",
+        "A": "To enhance the hydrophobic interaction with the NK cell membrane",
+        "B": "To act as a cytoplasmic penetration blocker",
+        "C": "To target CD44 overexpressed on cancer cells",
+        "D": "To serve as a molecular anchor for NK cell membrane decoration",
+        "Answer": "B",
+        "Source": "we developed hyaluronic acid (HA, ligands to target CD44 overexpressed onto cancer cells)\u2011poly(ethylene glycol) (PEG, cytoplasmic penetration blocker)"
+    },
+    "Question_9": {
+        "Context": "The use of cholesterol as a lipid anchor in NK cell surface engineering has been evaluated. Cholesterol is one of the lipid types tested for its ability to maximize membrane coating efficacy and associated anticancer performance.",
+        "Question": "Which lipid type was evaluated for its ability to maximize membrane coating efficacy and associated anticancer performance of surface-engineered NK cells?",
+        "A": "1,2-dimyristoyl-sn-glycero-3-phosphatidylethanolamine (C14:0)",
+        "B": "1,2-distearoyl-sn-glycero-3-phosphatidylethanolamine (DSPE, C18:0)",
+        "C": "Cholesterol",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "three different lipid types including 1,2\u2011dimyristoyl\u2011sn\u2011glycero\u20113\u2011phosphatidylethanolamine (C14:0), 1,2\u2011distearoyl\u2011sn\u2011 glycero\u20113\u2011phosphatidylethanolamine (DSPE, C18:0), and cholesterol were evaluated to maximize membrane coating efficacy and associated anticancer performance of surface\u2011engineered NK cells (HALipid\u2011NK cells)."
+    },
+    "Question_10": {
+        "Context": "The partition coefficient (log P) is a measure used to determine the hydrophobicity or hydrophilicity of a substance. It is calculated based on the distribution of a substance between two immiscible phases, typically octanol and water.",
+        "Question": "What is the partition coefficient (log P) used to measure in the context of NK cell surface engineering?",
+        "A": "The electrical charge of the NK cell membrane",
+        "B": "The distribution of NK cells between two immiscible phases",
+        "C": "The hydrophobic/hydrophilic balance of lipid conjugates",
+        "D": "The temperature stability of the lipid conjugates",
+        "Answer": "C",
+        "Source": "The partition coefficient (log P) of each synthesized HA-PEG-Lipid was measured in a 1:1 (v/v) mixture of octanol and aqueous 4-(2-Hydroxyethyl)piperazine-1-ethanesulfonic acid (HEPES) buffer (10 mM, pH 7.4)."
+    }
+}

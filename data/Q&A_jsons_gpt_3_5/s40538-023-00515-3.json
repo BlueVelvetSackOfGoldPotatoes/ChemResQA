@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The text discusses the structural features of EPS. ",
+        "Question": "Which type of EPS is characterized by having straight chains of monosaccharides?",
+        "A": "Heteropolysaccharides",
+        "B": "Branched polysaccharides",
+        "C": "Linear polysaccharides",
+        "D": "Slime polysaccharides",
+        "Answer": "C",
+        "Source": "EPS with straight chains of monosaccharides, such as pullulan, are called linear polysaccharides."
+    },
+    "Question_2": {
+        "Context": "The text discusses the antitumor activity of EPS.",
+        "Question": "Which type of glycosidic bonds are required for the antitumor activity of EPS?",
+        "A": "\u03b1-1,2 and 1,6 glycosidic bonds",
+        "B": "\u03b2-1,3 and 1,4 glycosidic bonds",
+        "C": "\u03b2-1,3 glycosidic bonds",
+        "D": "\u03b2-1,6 glycosidic bonds",
+        "Answer": "B",
+        "Source": "Antitumor EPS structural studies have shown that \u03b2-1,3 glycosidic bonds on glucose chains and \u03b2-1,6 glycosidic bonds on branched chains are required for their activities."
+    },
+    "Question_3": {
+        "Context": "The text discusses the hypoglycemic activity of EPS.",
+        "Question": "Which type of EPS is more likely to have hypoglycemic activity?",
+        "A": "Sulfated EPS",
+        "B": "Neutral EPS",
+        "C": "Acetylated EPS",
+        "D": "Phosphorylated EPS",
+        "Answer": "A",
+        "Source": "Furthermore, sulfated EPS exhibited better hypoglycemic ability than that of natural EPS."
+    },
+    "Question_4": {
+        "Context": "The text discusses the antibacterial activity of EPS.",
+        "Question": "Which functional groups in EPS interact with bacterial cell membranes to exert antimicrobial activity?",
+        "A": "Carbonyl groups",
+        "B": "Phosphate groups",
+        "C": "Hydroxyl groups",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "EPS contain various functional groups, such as carbonyl, phosphate, and hydroxyl groups. To some extent, these functional groups interact with bacterial cell membranes to exert antimicrobial activity."
+    },
+    "Question_5": {
+        "Context": "The text discusses the regulation of gut microbiota by EPS.",
+        "Question": "Which type of EPS can increase the abundance of probiotics and decrease that of pathogenic bacteria in the gut microbiota?",
+        "A": "Neutral EPS",
+        "B": "Acidic EPS",
+        "C": "Sulfonated EPS",
+        "D": "Phosphorylated EPS",
+        "Answer": "B",
+        "Source": "Cordyceps sinensis polysaccharides (CSPs) are composed mainly of glucose, galactose, mannose, galacturonic acid, arabinose, trace proteins, and phenolic compounds. The backbone of CSPs consists of 1,4-glucose and 1,4-galactose, with a molecular weight of approximately 28 kDa. CSPs increase the abundance of probiotics (Lactobacillus, Bifidobacterium, Bacteroides) and decrease that of pathogenic bacteria (Clostridium and Flexispira)."
+    },
+    "Question_6": {
+        "Context": "The text discusses the modification of EPS.",
+        "Question": "Which modification method involves the introduction of carboxymethyl groups to polysaccharide chains?",
+        "A": "Acetylation",
+        "B": "Phosphorylation",
+        "C": "Sulfonation",
+        "D": "Carboxymethylation",
+        "Answer": "D",
+        "Source": "Carboxymethylation involves the introduction of carboxymethyl groups to polysaccharide chains via etherification reactions of polysaccharides with acids or carboxylic acid derivatives."
+    },
+    "Question_7": {
+        "Context": "The text discusses the modification of EPS.",
+        "Question": "Which modification method alters the spatial structure of polysaccharides by introducing acetyl groups?",
+        "A": "Carboxymethylation",
+        "B": "Acetylation",
+        "C": "Phosphorylation",
+        "D": "Sulfonation",
+        "Answer": "B",
+        "Source": "Acetylation alters the spatial structure of polysaccharides, thereby affecting their biological activities."
+    },
+    "Question_8": {
+        "Context": "The text discusses the modification of EPS.",
+        "Question": "Which modification method enhances the bioactivity of EPS by introducing phosphoryl groups?",
+        "A": "Acetylation",
+        "B": "Phosphorylation",
+        "C": "Sulfonation",
+        "D": "Carboxymethylation",
+        "Answer": "B",
+        "Source": "Phosphorylation is a reliable method for enhancing the bioactivity of EPS."
+    },
+    "Question_9": {
+        "Context": "The text discusses the modification of EPS.",
+        "Question": "Which modification method involves the introduction of sulfate groups to alter the chain length and water solubility of EPS?",
+        "A": "Acetylation",
+        "B": "Phosphorylation",
+        "C": "Sulfonation",
+        "D": "Carboxymethylation",
+        "Answer": "C",
+        "Source": "The sulfonation EPS extracted from Enterobacter cloacae Z0206 protected RAW264.7 mouse macrophages from H2O2-induced oxidative damage and inhibited DNA breakage."
+    },
+    "Question_10": {
+        "Context": "The text discusses the future perspectives on EPS research.",
+        "Question": "What is suggested as a key factor to broaden the applications of EPS?",
+        "A": "Analyzing the structure of EPS",
+        "B": "Changing the composition of EPS",
+        "C": "Studying the mechanism of action of EPS",
+        "D": "Influencing external factors on EPS",
+        "Answer": "A",
+        "Source": "We believe that more advanced technology should be used to analyze the structure of EPS."
+    }
+}

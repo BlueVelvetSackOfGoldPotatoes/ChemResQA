@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on engineering Yarrowia lipolytica for efficient lycopene production. They evaluated the impact of overexpressing key genes in the MVA pathway.",
+        "Question": "What is the primary rate-limiting enzyme in the MVA pathway?",
+        "A": "ERG12",
+        "B": "ACC1",
+        "C": "HMG1",
+        "D": "IDI",
+        "Answer": "C",
+        "Source": "HMG1 is the primary rate-limiting enzyme in the MVA pathway; as such, it can increase the supply of FPP, a common compound that synthesizes numerous terpenoids."
+    },
+    "Question_2": {
+        "Context": "The study investigated the impact of overexpressing key genes in the MVA pathway on lycopene production.",
+        "Question": "Which gene overexpression resulted in a 21.0% increase in lycopene production?",
+        "A": "ERG12",
+        "B": "ERG13",
+        "C": "HMG1",
+        "D": "IDI",
+        "Answer": "A",
+        "Source": "Overexpression of ERG12 increased lycopene production by 21.0%."
+    },
+    "Question_3": {
+        "Context": "The study explored the influence of lipid accumulation on lycopene production.",
+        "Question": "Which enzyme overexpression led to a 26.2% increase in lycopene production?",
+        "A": "ACC1",
+        "B": "DGA1",
+        "C": "GPD1",
+        "D": "OLE1",
+        "Answer": "B",
+        "Source": "DGA1 expression increased the lycopene titer by 26.2%."
+    },
+    "Question_4": {
+        "Context": "The study combined the MVA and lipid synthesis pathways to enhance lycopene production.",
+        "Question": "What was the lycopene yield after overexpressing HMG1 and ERG12?",
+        "A": "391.3 mg/L",
+        "B": "408.1 mg/L",
+        "C": "430.5 mg/L",
+        "D": "411.6 mg/L",
+        "Answer": "C",
+        "Source": "After HMG1 and ERG12 were overexpressed in strain A38, the lycopene yield increased by 17.9%, to 430.5 mg/L."
+    },
+    "Question_5": {
+        "Context": "The study optimized fed-batch fermentation to increase lycopene production.",
+        "Question": "What was the lycopene yield after 108 hours in the 5-L fed-batch fermentation?",
+        "A": "4.2 g/L",
+        "B": "5.1 g/L",
+        "C": "3.6 g/L",
+        "D": "6.8 g/L",
+        "Answer": "B",
+        "Source": "Strain A38-3 produced 121 mg/g DCW of lycopene in a 5-L fed-batch fermentation system, reaching a yield of 5.1 g/L by 108 hours."
+    },
+    "Question_6": {
+        "Context": "The study investigated the impact of overexpressing key genes in the MVA pathway on lycopene production.",
+        "Question": "Which gene overexpression did not significantly impact lipid accumulation?",
+        "A": "ACC1",
+        "B": "DGA1",
+        "C": "GPD1",
+        "D": "OLE1",
+        "Answer": "C",
+        "Source": "Overexpression of ACC1, DGA1, and GPD1 did not significantly impact lipid accumulation."
+    },
+    "Question_7": {
+        "Context": "The study explored the influence of lipid accumulation on lycopene production.",
+        "Question": "Which organic acid supplementation was most effective for increasing lycopene production?",
+        "A": "Citrate",
+        "B": "Pyruvate",
+        "C": "Acetate",
+        "D": "Malate",
+        "Answer": "D",
+        "Source": "The culture by malate supplementation was the most effective for increasing lycopene production."
+    },
+    "Question_8": {
+        "Context": "The study combined the MVA and lipid synthesis pathways to enhance lycopene production.",
+        "Question": "Which combination of gene overexpression led to the highest lycopene yield in the study?",
+        "A": "HMG1 and ERG12",
+        "B": "ACC1 and DGA1",
+        "C": "GGS1 and ERG20",
+        "D": "ACC1 and GPD1",
+        "Answer": "A",
+        "Source": "After HMG1 and ERG12 were overexpressed in strain A38, the lycopene yield increased to the highest level in the study."
+    },
+    "Question_9": {
+        "Context": "The study optimized fed-batch fermentation to increase lycopene production.",
+        "Question": "What was the initial glucose concentration in the fed-batch fermentation?",
+        "A": "20 g/L",
+        "B": "30 g/L",
+        "C": "40 g/L",
+        "D": "50 g/L",
+        "Answer": "C",
+        "Source": "The fermentation medium was a 2 \u00d7 YPD medium with an initial glucose concentration of 40 g/L."
+    },
+    "Question_10": {
+        "Context": "The study investigated the impact of overexpressing key genes in the MVA pathway on lycopene production.",
+        "Question": "Which gene overexpression did not lead to a significant increase in lycopene production?",
+        "A": "IDI",
+        "B": "ERG19",
+        "C": "ACC1",
+        "D": "HMG1",
+        "Answer": "A",
+        "Source": "Overexpression of IDI and ERG19 reduced lycopene production."
+    }
+}

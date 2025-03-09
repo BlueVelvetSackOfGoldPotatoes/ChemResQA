@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Experimental setup for IR irradiation of posAuNP@UCNPs and UCNP-coated posAuNP@UCNPs.",
+        "Question": "What was the purpose of irradiating posAuNP@UCNPs with 980 nm light?",
+        "A": "To measure the temperature changes in the nanoparticles.",
+        "B": "To observe the morphological changes in the nanoparticles.",
+        "C": "To confirm the formation of vapor nanobubbles.",
+        "D": "To facilitate intracellular delivery through photoporation.",
+        "Answer": "D",
+        "Source": "The occurrence of exotherm is a critical factor for AuNP photoporation because it leads to the formation of vapor nanobubbles (VNBs), which burst and perforate the cell membrane. Therefore, this result confirms that UCNP coating of AuNPs increases the formation of VNBs by increasing the resistive heating losses (RHL) of the AuNPs, ultimately leading to higher UCPPin efficiency."
+    },
+    "Question_2": {
+        "Context": "Characterization of UCNP and posAuNP@UCNPs for photoporation.",
+        "Question": "What is the significance of the upconversion process in UCNPs?",
+        "A": "It allows UCNPs to absorb visible light.",
+        "B": "It converts high-energy visible light to low-energy NIR light.",
+        "C": "It converts low-energy NIR light to high-energy visible light.",
+        "D": "It enhances the stability of UCNPs in aqueous solutions.",
+        "Answer": "C",
+        "Source": "The Yb3+ ions in the UCNP absorb light at 980 nm, which triggers an anti-Stokes reaction and results in the emission of light at 545 nm (green light). This phenomenon is known as upconversion, and it allows the UCNP to convert low-energy near-infrared light (NIR) to high-energy visible light."
+    },
+    "Question_3": {
+        "Context": "Confirmation of resistive heating losses (RHL) and morphological changes in posAuNP@UCNPs under IR irradiation.",
+        "Question": "What was the purpose of calculating the resistive heating losses (RHL) in the nanoparticles?",
+        "A": "To measure the temperature changes in the nanoparticles.",
+        "B": "To determine the effect of UCNP coating on the electric field.",
+        "C": "To analyze the distribution of the electric field in the nanoparticles.",
+        "D": "To evaluate the efficiency of photoporation in the nanoparticles.",
+        "Answer": "D",
+        "Source": "The occurrence of exotherm is a critical factor for AuNP photoporation because it leads to the formation of vapor nanobubbles (VNBs), which burst and perforate the cell membrane. Therefore, this result confirms that UCNP coating of AuNPs increases the formation of VNBs by increasing the resistive heating losses (RHL) of the AuNPs, ultimately leading to higher UCPPin efficiency."
+    },
+    "Question_4": {
+        "Context": "Observation of posAuNP@UCNPs localization and confirmation of transient perforation and re-sealing of the plasma membrane in C28/I2 cells under IR irradiation.",
+        "Question": "What is the main purpose of the time-lapse imaging under IR irradiation?",
+        "A": "To observe the attachment of nanoparticles to the cell membrane.",
+        "B": "To confirm the formation of vapor nanobubbles.",
+        "C": "To measure the intracellular calcium level during PM re-sealing.",
+        "D": "To visualize the transient perforation and re-sealing of the plasma membrane.",
+        "Answer": "D",
+        "Source": "Images were taken for up to 180 cycles every 6.5 s. It was observed that posAuNP@UCNPs were attached to PM and pores were formed, and then PM was re-sealed again. These results confirmed that posAuNP@UCNPs attach to the cell membrane surface and form pores on the membrane surface under NIR irradiation."
+    },
+    "Question_5": {
+        "Context": "Comparison of UCPPin efficiency of posAuNP@UCNPs under different IR conditions in C28/I2 cell suspensions and spheroids.",
+        "Question": "What was the purpose of analyzing UCPPin efficiency under pulsed IR at different pulse intervals?",
+        "A": "To determine the optimal dose of posAuNP for UCPPin.",
+        "B": "To evaluate the effect of different pulse intervals on UCPPin efficiency.",
+        "C": "To compare the efficiency of UCPPin under continuous and pulsed IR.",
+        "D": "To measure the intracellular calcium level during PM re-sealing.",
+        "Answer": "B",
+        "Source": "The 2 min PI group showed high UCPPin efficiency similar to that of continuous irradiation time of 20 min, but the UCPPin efficiency decreased as the PI increased. At AuNP to UCNP ratios of 1:5 and 1:10, the UCPPin efficiency was high with no significant difference in efficiency between these two ratios; however, since processing a small amount is more appropriate than that of a large amount, the 1:5 ratio was used."
+    },
+    "Question_6": {
+        "Context": "Comparison of therapeutic efficacy between UCPPin and PassT for intracellular delivery of baricitinib in an in vitro model of osteoarthritis.",
+        "Question": "What was the main finding regarding the delivery of baricitinib into cells using UCPPin compared to PassT?",
+        "A": "UCPPin resulted in higher cell viability.",
+        "B": "UCPPin delivered more baricitinib into cells.",
+        "C": "UCPPin had a lower efficiency in inhibiting STAT phosphorylation.",
+        "D": "UCPPin caused a higher expression of IL-6 in cells.",
+        "Answer": "B",
+        "Source": "Thus, UCPPin would appear to deliver BRN into cells more efficiently than PassT, as evidenced by the level of inhibition of IL-6 expression."
+    },
+    "Question_7": {
+        "Context": "Characterization of posAuNP@UCNPs before and after IR irradiation.",
+        "Question": "What was the observed change in the size of nanoparticles after IR irradiation?",
+        "A": "The nanoparticles aggregated into larger clusters.",
+        "B": "The nanoparticles dissociated and remained dispersed.",
+        "C": "The nanoparticles decreased in size due to heat generation.",
+        "D": "The nanoparticles increased in size due to photoporation effect.",
+        "Answer": "B",
+        "Source": "In the IR 20 min group, the UCNPs had dissociated from the posAuNP@UCNPs and were present in a free state. The change in size was measured by DLS, which showed that the nanoparticles were separate from each other and remained dispersed in a free form until IR 60 min."
+    },
+    "Question_8": {
+        "Context": "Evaluation of UCPPin efficiency under different IR conditions.",
+        "Question": "What effect did increasing the UCNP ratio have on UCPPin efficiency?",
+        "A": "Increased UCNP ratio led to decreased UCPPin efficiency.",
+        "B": "Higher UCNP ratio had no impact on UCPPin efficiency.",
+        "C": "Higher UCNP ratio resulted in higher UCPPin efficiency.",
+        "D": "UCNP ratio had no correlation with UCPPin efficiency.",
+        "Answer": "C",
+        "Source": "Higher UCPPin efficiencies were observed at posAuNP to UCNP ratios of 1:1, 1:2, 1:5, and 1:10 than at 1:0. The efficiency was particularly high at ratios of 1:5 or greater, indicating that a higher UCNP ratio led to higher UCPPin efficiency."
+    },
+    "Question_9": {
+        "Context": "Comparison of UCPPin efficiency under different IR conditions.",
+        "Question": "What was the impact of increasing the irradiation time on UCPPin efficiency?",
+        "A": "Increasing irradiation time decreased UCPPin efficiency.",
+        "B": "Higher irradiation time had no effect on UCPPin efficiency.",
+        "C": "Increasing irradiation time improved UCPPin efficiency.",
+        "D": "Irradiation time was not related to UCPPin efficiency.",
+        "Answer": "C",
+        "Source": "As the irradiation time increased, the electromagnetic energy applied to cells accumulated, resulting in increased membrane disruption, dead cells, and higher UCPPin efficiency. The longer the irradiation time, the greater the accumulation of electromagnetic energy applied to the cells, resulting in increased membrane disruption, dead cell, and UCPPin efficiency."
+    },
+    "Question_10": {
+        "Context": "Evaluation of UCPPin efficiency under different IR conditions.",
+        "Question": "What was the purpose of analyzing UCPPin efficiency in cell spheroids?",
+        "A": "To compare UCPPin efficiency between suspended cells and spheroids.",
+        "B": "To determine the impact of spheroid size on UCPPin efficiency.",
+        "C": "To evaluate the effectiveness of UCPPin in a 3D cell model.",
+        "D": "To measure the intracellular calcium level in spheroids.",
+        "Answer": "C",
+        "Source": "An experiment was conducted to verify whether the pulsed wave could be applied to cell spheroids. The 1:5 group showed an efficiency of about 30%, indicating high UCPPin efficiency. It is generally known that as osteoarthritis progresses, the expression level of proinflammatory cytokines such as IL-6 increases. Additionally, IL-6 signaling has been reported to be actively involved in osteoarthritis pathology and to be a factor in cartilage degradation. Therefore, in this study, baricitinib (BRN), an inhibitor of STAT1 and 3 phosphorylation, was used as a therapeutic agent to specifically target STAT-IL-6 signaling."
+    }
+}

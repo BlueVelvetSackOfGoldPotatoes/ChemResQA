@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In phase-field simulations of dendritic solidification, the computational cost can be high when the diffusion length is much larger than the dendrite tip radius.",
+        "Question": "What method is effective for improving computational performance in phase-field simulations of dendrite growth when the diffusion length is significantly larger than the curvature radius of a dendrite tip?",
+        "A": "Finite element method",
+        "B": "Adaptive mesh refinement (AMR) method",
+        "C": "Monte Carlo simulations",
+        "D": "Molecular dynamics simulations",
+        "Answer": "B",
+        "Source": "In such cases, the adaptive mesh refinement (AMR) method is effective for improving the computational performance."
+    },
+    "Question_2": {
+        "Context": "In phase-field simulations, the solid and liquid phases are expressed by a phase-field variable, which varies smoothly at the solid-liquid interface.",
+        "Question": "In a phase-field simulation, what value does the phase-field variable, \u03c6, take in the solid phase?",
+        "A": "\u03c6 = 0",
+        "B": "\u03c6 = -1",
+        "C": "\u03c6 = 1",
+        "D": "\u03c6 = 2",
+        "Answer": "C",
+        "Source": "The solid and liquid phases are expressed by the PF variable, \u03c6, where \u03c6 = +1 and \u03c6 = -1 in the solid and liquid phases, respectively, and \u03c6 varies smoothly at the solid-liquid interface."
+    },
+    "Question_3": {
+        "Context": "In the phase-field model for directional solidification of binary alloys, the temperature field is often assumed based on the frozen temperature approximation.",
+        "Question": "What is the assumed form of the temperature field in the phase-field model for directional solidification of binary alloys?",
+        "A": "T = Tr + Gz + Rt",
+        "B": "T = Tr - Gz - Rt",
+        "C": "T = Tr + Gz - Rt",
+        "D": "T = Tr - Gz + Rt",
+        "Answer": "C",
+        "Source": "In this model, the temperature field is assumed to be T = Tr + Gz - Rt on the basis of the frozen temperature approximation."
+    },
+    "Question_4": {
+        "Context": "In phase-field simulations, the solute concentration is often treated as dimensionless supersaturation.",
+        "Question": "How is dimensionless supersaturation, u, defined in the context of phase-field simulations for binary alloy solidification?",
+        "A": "u = (Cl - Cs)/(Cs - Cl e)",
+        "B": "u = (Cl e - Cs e)/(Cl - Cs)",
+        "C": "u = (Cl - Cl e)/(Cs e - Cl)",
+        "D": "u = (Cl - Cl e)/(Cl e - Cs e)",
+        "Answer": "D",
+        "Source": "The solute concentration is treated as dimensionless supersaturation, i.e., u = (Cl - Cl e)/(Cl e - Cs e), where Cl and Cs denote the solute concentrations and Cl e and Cs e denote the equilibrium solute concentrations in the liquid and solid phases, respectively."
+    },
+    "Question_5": {
+        "Context": "In phase-field simulations, the partition coefficient is an important parameter that relates the equilibrium solute concentrations in the solid and liquid phases.",
+        "Question": "What is the relationship between the partition coefficient, k, and the equilibrium solute concentrations in the solid and liquid phases?",
+        "A": "k = Cl/Cl e",
+        "B": "k = Cl e/Cs",
+        "C": "k = Cs e/Cl e",
+        "D": "k = Cs/Cl",
+        "Answer": "C",
+        "Source": "It is assumed that the relation for the partition coefficient, k = Cs e/Cl e = Cs/Cl, is satisfied on the basis of the dilute solution approximation."
+    },
+    "Question_6": {
+        "Context": "In phase-field simulations, the time evolution equations for the phase-field variable and solute concentration involve various terms including diffusion coefficients.",
+        "Question": "What are the diffusion coefficients of the solute in the liquid and solid phases represented by in the phase-field model equations?",
+        "A": "Dl and Ds",
+        "B": "Cl and Cs",
+        "C": "k and m",
+        "D": "G and R",
+        "Answer": "A",
+        "Source": "Dl and Ds are the diffusion coefficients of the solute in the liquid and solid phases, respectively."
+    },
+    "Question_7": {
+        "Context": "In phase-field simulations, an interpolation function is used to express the diffusion coefficient as a function of the phase-field variable.",
+        "Question": "What is the form of the interpolation function, q(\u03c8), for the diffusion coefficient in the phase-field model?",
+        "A": "q(\u03c8) = (kDs + Dl)/(kDs - Dl)",
+        "B": "q(\u03c8) = (kDs + Dl - (kDs - Dl) tanh(\u03c8/\u221a2))/(2Dl)",
+        "C": "q(\u03c8) = (kDs - Dl)/(kDs + Dl)",
+        "D": "q(\u03c8) = (kDs - Dl + (kDs + Dl) tanh(\u03c8/\u221a2))/(2Dl)",
+        "Answer": "B",
+        "Source": "q(\u03c8) is the interpolation function, q(\u03c8) = [kDs + Dl + (kDs - Dl) tanh(\u03c8/\u221a2)]/(2Dl)."
+    },
+    "Question_8": {
+        "Context": "In phase-field simulations, the antitrapping current term is introduced to correct the solute flux at the interface.",
+        "Question": "Which term in the phase-field model equations represents the antitrapping current for correcting the solute flux at the interface?",
+        "A": "JAT = (1 - kDs/Dl)W0[1 + (1 - k)u](1 - tanh^2(\u03c8/\u221a2))\u2202\u03c8/\u2202t \u2207\u03c8",
+        "B": "JAT = (1 - kDs/Dl)W0[1 + (1 + k)u](1 - tanh(\u03c8/\u221a2))\u2202\u03c8/\u2202t \u2207\u03c8",
+        "C": "JAT = -(1/4)(1 - kDs/Dl)W0[1 + (1 - k)u](1 - tanh^2(\u03c8/\u221a2))\u2202\u03c8/\u2202t \u2207\u03c8",
+        "D": "JAT = -(1/4)(1 + kDs/Dl)W0[1 + (1 + k)u](1 - tanh(\u03c8/\u221a2))\u2202\u03c8/\u2202t \u2207\u03c8",
+        "Answer": "C",
+        "Source": "JAT is an antitrapping current term for correcting the solute flux at the interface: JAT = -(1/4)(1 - kDs/Dl)W0[1 + (1 - k)u](1 - tanh^2(\u03c8/\u221a2))\u2202\u03c8/\u2202t \u2207\u03c8."
+    },
+    "Question_9": {
+        "Context": "In phase-field simulations, the crystal anisotropy function is used to express the anisotropy of the crystal growth.",
+        "Question": "What is the crystal anisotropy function, as(n), in the phase-field model?",
+        "A": "as(n) = (1 - 3\u03b54)[1 + (4\u03b54/(1 - 3\u03b54))(\u2202\u03c8/\u2202r)^4/|\u2207\u03c8|^4]",
+        "B": "as(n) = (1 + 3\u03b54)[1 - (4\u03b54/(1 + 3\u03b54))(\u2202\u03c8/\u2202r)^4/|\u2207\u03c8|^4]",
+        "C": "as(n) = (1 - \u03b54)[1 + (4\u03b54/(1 - \u03b54))(\u2202\u03c8/\u2202r)^4/|\u2207\u03c8|^4]",
+        "D": "as(n) = (1 + \u03b54)[1 - (4\u03b54/(1 + \u03b54))(\u2202\u03c8/\u2202r)^4/|\u2207\u03c8|^4]",
+        "Answer": "A",
+        "Source": "as(n) is a crystal anisotropy function: as(n) = (1 - 3\u03b54)[1 + (4\u03b54/(1 - 3\u03b54))(\u2202\u03c8/\u2202r)^4/|\u2207\u03c8|^4], where \u03b54 is the anisotropic strength."
+    },
+    "Question_10": {
+        "Context": "In phase-field simulations, the isotropic difference scheme and second-order central difference scheme are used for spatial derivative terms.",
+        "Question": "Which spatial derivative terms in the phase-field model equations are calculated using the isotropic difference scheme?",
+        "A": "Spatial second-order derivative terms in the phase-field equation",
+        "B": "Spatial first-order derivative terms in the solute concentration equation",
+        "C": "Time derivative terms in the phase-field equation",
+        "D": "Time derivative terms in the solute concentration equation",
+        "Answer": "A",
+        "Source": "The isotropic difference scheme (Shimokawabe et al. 2011) and second-order central difference scheme are used for the spatial second-order derivative terms in Eqs. (1) and (2), respectively."
+    }
+}

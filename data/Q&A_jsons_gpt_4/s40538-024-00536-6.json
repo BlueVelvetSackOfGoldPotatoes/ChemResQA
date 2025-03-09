@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In plant tissue cultures, bacterial contamination can be a significant problem, often requiring the use of antimicrobial substances to maintain aseptic conditions.",
+        "Question": "Which of the following substances is commonly used for disinfection of initial plant material in tissue culture?",
+        "A": "Mercuric chloride",
+        "B": "Sodium bicarbonate",
+        "C": "Acetic acid",
+        "D": "Potassium permanganate",
+        "Answer": "A",
+        "Source": "Establishment of tissue culture requires disinfection of initial plant material, and for this purpose, mercuric chloride, sodium and calcium hypochlorite, ethanol or antibiotics are routinely used."
+    },
+    "Question_2": {
+        "Context": "Nanomaterials have been explored as antimicrobial agents in various applications, including plant tissue cultures.",
+        "Question": "Which nanomaterial is most widely used for its antimicrobial activity in plant tissue cultures?",
+        "A": "Zinc oxide nanoparticles",
+        "B": "Silver nanoparticles",
+        "C": "Iron oxide nanoparticles",
+        "D": "Titanium dioxide nanoparticles",
+        "Answer": "B",
+        "Source": "The most widely used nanomaterials with antimicrobial activity are silver nanoparticles, but zinc and copper at the nanoscale can also show high efficiency against microorganisms."
+    },
+    "Question_3": {
+        "Context": "Graphene materials have been studied for their potential antibacterial effects, which can be enhanced by combining them with metals.",
+        "Question": "What can be used to reinforce the antimicrobial activity of reduced graphene oxide (rGO)?",
+        "A": "Combining with sulfur",
+        "B": "Combining with metal and metal oxide structures",
+        "C": "Exposure to ultraviolet light",
+        "D": "Coating with a polymer",
+        "Answer": "B",
+        "Source": "Reinforcement of the antimicrobial activity of rGO can be achieved by its rearrangement, which includes metal and metal oxide structures."
+    },
+    "Question_4": {
+        "Context": "Bacteria in plant tissue cultures can originate from various sources, including endophytes that are present within the plant.",
+        "Question": "What term is used to describe bacteria that live inside plant tissues without causing apparent disease?",
+        "A": "Epiphytes",
+        "B": "Pathogens",
+        "C": "Endophytes",
+        "D": "Saprophytes",
+        "Answer": "C",
+        "Source": "Bacteria contaminating different types of tissue cultures often originate from insufficient precautions during initiation and maintenance of explants or are present in the plant parts as endophytes and persist even after applied sterilization."
+    },
+    "Question_5": {
+        "Context": "The genus Curtobacterium includes a variety of bacterial species with different characteristics and impacts on their environments.",
+        "Question": "Which of the following is a characteristic of the genus Curtobacterium?",
+        "A": "Gram-negative",
+        "B": "Anaerobic",
+        "C": "Chemoorganotrophs",
+        "D": "Lithotrophs",
+        "Answer": "C",
+        "Source": "Species belonging to the Curtobacterium genus are Gram-positive, obligately aerobic chemoorganotrophs in the family Microbacteriaceae, phylum Actinobacteria."
+    },
+    "Question_6": {
+        "Context": "Certain bacterial species are known for their role in the degradation of organic matter, which may be undesirable in controlled environments like tissue cultures.",
+        "Question": "What is one of the roles of Curtobacterium species in natural environments?",
+        "A": "Nitrogen fixation",
+        "B": "Degradation of plant polysaccharides",
+        "C": "Photosynthesis",
+        "D": "Methane production",
+        "Answer": "B",
+        "Source": "Members of the genus Curtobacterium were also determined to be the most abundant bacteria participating in the degradation of organic matter within leaf litter communities."
+    },
+    "Question_7": {
+        "Context": "In the context of bacterial contamination in plant tissue cultures, the identification of bacterial isolates can be crucial for effective management.",
+        "Question": "Which molecular technique is commonly used for the identification of bacterial isolates based on genetic material?",
+        "A": "Polymerase chain reaction (PCR)",
+        "B": "Enzyme-linked immunosorbent assay (ELISA)",
+        "C": "Western blotting",
+        "D": "Flow cytometry",
+        "Answer": "A",
+        "Source": "For identification of the obtained bacterial isolates, PCR was performed using the universal 16S rRNA primer pair."
+    },
+    "Question_8": {
+        "Context": "Nanoparticles and nanocomposites are engineered materials with particles in the nanometer scale, which can be used for their antimicrobial properties.",
+        "Question": "Which metal is not mentioned as a component of the nanocomposites used for antibacterial activity in the text?",
+        "A": "Zinc",
+        "B": "Silver",
+        "C": "Copper",
+        "D": "Gold",
+        "Answer": "D",
+        "Source": "Three nanocomposites were based on reduced graphene oxide combined with zinc (rGO-Zn), copper and copper with silver (rGO-Cu and rGO-Cu-Ag), one nanocomposite was based on silver and selenium (AgSe-NPs) and two nanoparticles were based on silver (AgNPs_1, AgNPs_2)."
+    },
+    "Question_9": {
+        "Context": "The effectiveness of antimicrobial agents can be quantified by their ability to inhibit bacterial growth, which can be measured in various ways.",
+        "Question": "What is the term for the lowest concentration of an antimicrobial substance that prevents visible growth of a bacterium after overnight incubation?",
+        "A": "Minimum inhibitory concentration (MIC)",
+        "B": "Maximum efficacy concentration (MEC)",
+        "C": "Minimum bactericidal concentration (MBC)",
+        "D": "Minimum effective dose (MED)",
+        "Answer": "A",
+        "Source": "Both nanocomposites showed 100% inhibition of bacterial plaque formation on culture medium at concentrations of 100, 200 and 400 mg L-1 Ag (2 \u00d7\u20138 \u00d7 MBC)."
+    },
+    "Question_10": {
+        "Context": "In the field of microbiology, the enumeration of colony-forming units (cfu) is a common method for estimating the number of viable bacteria in a sample.",
+        "Question": "What does the abbreviation 'cfu' stand for in microbiological assays?",
+        "A": "Colony-forming units",
+        "B": "Cellular formation units",
+        "C": "Culture filtration units",
+        "D": "Colony filtration units",
+        "Answer": "A",
+        "Source": "The quantity of Curtobacterium sp. on culture medium assessed using cfu enumeration was reduced by 92% and 74% in comparison to the positive control after treatment with reduced graphene oxide\u2013silver\u2013copper and silver\u2013selenium at a concentration of 200 mg L-1 Ag, respectively."
+    }
+}

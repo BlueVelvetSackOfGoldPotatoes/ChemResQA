@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the degradation of amorphous silicon solar cells and analyzed structural defects and mechanical stress at the nanoscale level.",
+        "Question": "What is the purpose of performing roughness analysis in thin film solar cells production processes?",
+        "A": "To quantify the relationship between roughness parameters and electrical efficiencies",
+        "B": "To measure the optical band gap of the solar cells",
+        "C": "To analyze the chemical composition of the solar cells",
+        "D": "To determine the mechanical strength of the solar cells",
+        "Answer": "A",
+        "Source": "Roughness parametric test is necessary in thin film solar cells production process because it is used to quantify the relationship that exists between roughness parameters and electrical efficiencies of solar cells."
+    },
+    "Question_2": {
+        "Context": "The study aimed to determine the region of the module more prone to mechanical degradation and compare mechanical properties between defective and non-defective regions.",
+        "Question": "What is considered to be significantly influenced by changes in optical and electrical properties of amorphous silicon solar cells?",
+        "A": "Mechanical properties",
+        "B": "Chemical composition",
+        "C": "Thermal conductivity",
+        "D": "Electrical resistance",
+        "Answer": "A",
+        "Source": "These structural properties are significantly influenced by changes in optical and electrical properties of a-Si:H solar cells as a result of degradation."
+    },
+    "Question_3": {
+        "Context": "The study analyzed roughness indicators such as root means square (RMS) roughness and average roughness acquired from line profiles.",
+        "Question": "What is the benefit of using the scanning probe microscope (SPM) in the analysis of solar cell samples?",
+        "A": "To measure the temperature of the samples",
+        "B": "To quantify roughness parameters",
+        "C": "To determine the chemical composition of the samples",
+        "D": "To assess the electrical conductivity of the samples",
+        "Answer": "B",
+        "Source": "Measurements were taken with scanning probe microscope (SPM) and PeakForce Quantitative Nanomechanical (QNM) technique was used through the cross-sectional area of the analyzed samples."
+    },
+    "Question_4": {
+        "Context": "The study aimed to establish a direct relationship between interface roughness and mechanical degradation.",
+        "Question": "What is considered to be a function of the performance of amorphous silicon solar cells?",
+        "A": "Material properties",
+        "B": "Production designs",
+        "C": "Fabrication processes",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "It is generally accepted that the performance of amorphous silicon (a-Si:H) solar cells is a function of their material properties, production designs and fabrication processes."
+    },
+    "Question_5": {
+        "Context": "The study validated the scanning probe microscope (SPM) for in situ measurements without destroying the active layers of the a-Si:H module.",
+        "Question": "What is the purpose of cleaving the samples after placing them in a nitrogen refrigerator?",
+        "A": "To measure the electrical resistance of the samples",
+        "B": "To aid the final cutting process",
+        "C": "To increase the temperature of the samples",
+        "D": "To analyze the chemical composition of the samples",
+        "Answer": "B",
+        "Source": "The cleaving of the samples was done after they were placed in a nitrogen refrigerator to aid the final cutting process."
+    },
+    "Question_6": {
+        "Context": "The study focused on the micro-structural, defects, and mechanical properties of amorphous silicon solar cells.",
+        "Question": "What is the benefit of using PeakForce Quantitative Nanomechanical (QNM) technique in the analysis of solar cell samples?",
+        "A": "To measure the optical properties of the samples",
+        "B": "To quantify mechanical degradation",
+        "C": "To assess the thermal conductivity of the samples",
+        "D": "To determine the chemical composition of the samples",
+        "Answer": "B",
+        "Source": "The method was validated with adhesive force and deformation analyses; it was established that high roughness values result from mechanical degradation."
+    },
+    "Question_7": {
+        "Context": "The study aimed to quantify mechanical degradation by the degree of decrease of adhesive force and interlayer delamination.",
+        "Question": "What is the main focus of the study regarding the mechanical properties of amorphous silicon solar cells?",
+        "A": "To increase the electrical efficiency of the cells",
+        "B": "To determine the region more prone to mechanical degradation",
+        "C": "To analyze the chemical composition of the cells",
+        "D": "To measure the optical band gap of the cells",
+        "Answer": "B",
+        "Source": "Firstly, it aims to determine which region of the module is more prone to mechanical degradation and compare the mechanical properties of the defective with the non-defective regions of the module."
+    },
+    "Question_8": {
+        "Context": "The study analyzed statistical parameters such as root mean square (RMS) roughness and average roughness for both defective and non-defective samples.",
+        "Question": "What is a useful statistical tool for describing the roughness of the surface of a material?",
+        "A": "Root means square (RMS) roughness",
+        "B": "Average height roughness",
+        "C": "Maximum profile height",
+        "D": "Valley depth",
+        "Answer": "A",
+        "Source": "Root mean square (RMS) roughness is a useful statistical tool for describing the roughness of the surface of a material."
+    },
+    "Question_9": {
+        "Context": "The study compared the roughness parameters of defective and non-defective regions of the solar cell samples.",
+        "Question": "What is the main purpose of using PeakForce Quantitative Nanomechanical (QNM) technique in the analysis of solar cell samples?",
+        "A": "To measure the optical properties of the samples",
+        "B": "To quantify mechanical degradation",
+        "C": "To assess the thermal conductivity of the samples",
+        "D": "To determine the chemical composition of the samples",
+        "Answer": "B",
+        "Source": "The results presented hereunder provides a deeper understanding of the mechanical properties of the a-Si:H modules."
+    },
+    "Question_10": {
+        "Context": "The study focused on the micro-structural, defects, and mechanical properties of amorphous silicon solar cells.",
+        "Question": "What is the importance of using the scanning probe microscope (SPM) in the analysis of solar cell samples?",
+        "A": "To measure the temperature of the samples",
+        "B": "To quantify roughness parameters",
+        "C": "To determine the chemical composition of the samples",
+        "D": "To assess the electrical conductivity of the samples",
+        "Answer": "B",
+        "Source": "The results presented in this work reveal that SPM and PQNM are useful tools for accessing micro-defects and their profiles in a-Si:H modules."
+    }
+}

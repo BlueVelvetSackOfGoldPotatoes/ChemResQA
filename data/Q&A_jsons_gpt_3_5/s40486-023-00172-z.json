@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "A temperature sensor array was developed using multi-layer ceramic capacitors. The sensors demonstrated a consistent decrease in capacitance with increasing temperature. What is the sensitivity range of the capacitance change with temperature?",
+        "Question": "What is the sensitivity range of the capacitance change with temperature?",
+        "A": "1.42 to 1.54 pF/\u00b0C",
+        "B": "1.54 to 1.62 pF/\u00b0C",
+        "C": "1.62 to 1.70 pF/\u00b0C",
+        "D": "1.70 to 1.80 pF/\u00b0C",
+        "Answer": "B",
+        "Source": "Our sensor array demonstrates a consistent decrease in capacitance with increasing temperature, with a sensitivity ranging from 1.42 to 1.62 pF/\u00b0C."
+    },
+    "Question_2": {
+        "Context": "The temperature sensor array was fabricated on a flexible PDMS substrate using ceramic capacitors. What is the dielectric constant sensitive to in the ceramic material used in the capacitors?",
+        "Question": "What is the dielectric constant sensitive to in the ceramic material used in the capacitors?",
+        "A": "Pressure",
+        "B": "Temperature",
+        "C": "Humidity",
+        "D": "Light intensity",
+        "Answer": "B",
+        "Source": "The core mechanism relies on the property of the ceramic material used in capacitors, whose dielectric constant (or relative permittivity) is susceptible to temperature variations."
+    },
+    "Question_3": {
+        "Context": "The sensor array was externally wired using aluminum wires to measure the capacitive changes. What is the purpose of wiring the ceramic capacitors externally?",
+        "Question": "What is the purpose of wiring the ceramic capacitors externally?",
+        "A": "To increase flexibility",
+        "B": "To measure temperature",
+        "C": "To improve stability",
+        "D": "To extract electrical signals",
+        "Answer": "D",
+        "Source": "To facilitate the electrical measurement of the capacitive changes in each pixel, the ceramic capacitors are externally wired using aluminum wires."
+    },
+    "Question_4": {
+        "Context": "The sensor's hysteresis characteristics were investigated, revealing a maximum error of 12.7%. What does hysteresis error refer to in this context?",
+        "Question": "What does hysteresis error refer to in this context?",
+        "A": "Measurement inconsistency",
+        "B": "Temperature fluctuation",
+        "C": "Capacitance variation",
+        "D": "Wiring malfunction",
+        "Answer": "A",
+        "Source": "The sensitivity of the sensor was found to range between 1.54 and 1.62 pF/\u00b0C within this temperature range, illustrating a good response rate to temperature change."
+    },
+    "Question_5": {
+        "Context": "The fabricated sensor array exhibited consistent sensitivity across multiple trials. What was the sensitivity range observed in the sensor cells?",
+        "Question": "What was the sensitivity range observed in the sensor cells?",
+        "A": "1.42 to 1.54 pF/\u00b0C",
+        "B": "1.54 to 1.58 pF/\u00b0C",
+        "C": "1.58 to 1.62 pF/\u00b0C",
+        "D": "1.62 to 1.66 pF/\u00b0C",
+        "Answer": "B",
+        "Source": "While testing, the temperature was increased from 30 \u00b0C to 80 \u00b0C. The capacitors we used in our sensor cells exhibited tolerance errors, leading to slight variations in capacitance values between different cells. Nevertheless, the sensitivity was quite consistent across all cells, ranging between 1.42 and 1.58 pF/\u00b0C."
+    },
+    "Question_6": {
+        "Context": "The sensor array was tested using a capacitance-to-voltage conversion circuit. What was the sensitivity range observed in a single sensor cell across three measurements using this circuit?",
+        "Question": "What was the sensitivity range observed in a single sensor cell across three measurements using this circuit?",
+        "A": "1.0 to 1.2 mV/\u00b0C",
+        "B": "1.1 to 1.3 mV/\u00b0C",
+        "C": "1.3 to 1.5 mV/\u00b0C",
+        "D": "1.5 to 1.7 mV/\u00b0C",
+        "Answer": "C",
+        "Source": "The sensitivity, in this case, was slightly varied, ranging from 1.1 to 1.5 mV/\u00b0C."
+    },
+    "Question_7": {
+        "Context": "The study utilized commercial multilayer ceramic chip capacitors. What was the temperature dependency of the capacitors used in the study?",
+        "Question": "What was the temperature dependency of the capacitors used in the study?",
+        "A": "-750 \u00b1 120 ppm/\u00b0C",
+        "B": "-500 \u00b1 80 ppm/\u00b0C",
+        "C": "-1000 \u00b1 150 ppm/\u00b0C",
+        "D": "-1200 \u00b1 200 ppm/\u00b0C",
+        "Answer": "A",
+        "Source": "In this work, we used commercial multilayer ceramic chip capacitors (MLCCs) having a temperature dependency of \u2212750 \u00b1 120 ppm/\u00b0C."
+    },
+    "Question_8": {
+        "Context": "The fabrication process involved the preparation of a thin substrate layer using a blend of PDMS and EcoFlex. What was the ratio of PDMS to EcoFlex used in the preparation?",
+        "Question": "What was the ratio of PDMS to EcoFlex used in the preparation?",
+        "A": "1:2",
+        "B": "1:1",
+        "C": "2:1",
+        "D": "3:1",
+        "Answer": "B",
+        "Source": "The process begins with the preparation of a thin substrate layer using a blend of polydimethylsiloxane (PDMS) and EcoFlex in a 1:1 ratio."
+    },
+    "Question_9": {
+        "Context": "The fabricated sensor array was approximately how thick with the additional PDMS film layer applied on both sides of the substrate?",
+        "Question": "The fabricated sensor array was approximately how thick with the additional PDMS film layer applied on both sides of the substrate?",
+        "A": "0.5 mm",
+        "B": "0.1 mm",
+        "C": "1.0 mm",
+        "D": "2.0 mm",
+        "Answer": "B",
+        "Source": "The final stage of the fabrication process entailed the application of a thin PDMS film layer on both sides of the substrate. This additional layer, which was approximately 0.1 mm thick..."
+    },
+    "Question_10": {
+        "Context": "The measurement setup employed an LCR meter and a capacitance-to-voltage conversion circuit. What was the purpose of using the capacitance-to-voltage conversion circuit?",
+        "Question": "What was the purpose of using the capacitance-to-voltage conversion circuit?",
+        "A": "To measure temperature",
+        "B": "To determine capacitance variations",
+        "C": "To control humidity",
+        "D": "To adjust pressure",
+        "Answer": "B",
+        "Source": "For potential real-time applications, a capacitance-to-voltage conversion circuit was also utilized. This circuit yielded an output signal with an amplitude corresponding to the sensor\u2019s capacitance, enabling straightforward real-time monitoring of temperature changes as voltage fluctuations."
+    }
+}

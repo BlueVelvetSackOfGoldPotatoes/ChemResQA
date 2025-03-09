@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigates the heat and mass transfer of MHD nanofluid flow between two parallel plates. Various parameters affecting the flow and heat transfer are considered.",
+        "Question": "What method was used to solve the governing equations of the problem analytically?",
+        "A": "Finite Element Method (FEM)",
+        "B": "Homotopy Perturbation Method (HPM)",
+        "C": "Collocation Method (CM)",
+        "D": "Variational Iteration Method (VIM)",
+        "Answer": "B",
+        "Source": "Methods: By applying the proper similarity parameters, the governing equations of the problem are converted to nondimensional forms and are solved analytically using the Homotopy Perturbation Method (HPM)..."
+    },
+    "Question_2": {
+        "Context": "The study focuses on the investigation of heat and mass transfer of viscous flow between two parallel plates using nano-scale particles in the base fluid.",
+        "Question": "What is the significance of utilizing nano-scale particles in the base fluid?",
+        "A": "Decrease the heat transfer rate",
+        "B": "Increase the heat transfer rate",
+        "C": "No effect on the heat transfer rate",
+        "D": "Increase the viscosity of the fluid",
+        "Answer": "B",
+        "Source": "Utilizing nano-scale particles in the base fluid seems to be a creative technique to improve the heat transfer rate."
+    },
+    "Question_3": {
+        "Context": "The study compares the analytical solution with the numerical Finite Element Method (FEM) to validate the results.",
+        "Question": "What is the purpose of comparing the analytical solution with the numerical FEM?",
+        "A": "To determine the limitations of the analytical method",
+        "B": "To demonstrate the superiority of the analytical method",
+        "C": "To validate the results obtained from the analytical method",
+        "D": "To prove the accuracy of the numerical FEM",
+        "Answer": "C",
+        "Source": "Moreover, the analytical solution is compared with numerical Finite Element Method (FEM) and a good agreement is obtained."
+    },
+    "Question_4": {
+        "Context": "The study discusses the effects of active parameters on flow, heat, and mass transfer in the MHD nanofluid flow between parallel plates.",
+        "Question": "What parameter causes an increase in the temperature profile?",
+        "A": "Brownian motion parameter",
+        "B": "Thermophoresis parameter",
+        "C": "Squeezing parameter",
+        "D": "Magnetic field",
+        "Answer": "A",
+        "Source": "Results indicated that increasing the Brownian motion parameter causes an increase in the temperature profile..."
+    },
+    "Question_5": {
+        "Context": "The study analyzes the effect of nanoparticles in various fluid flow scenarios.",
+        "Question": "What did the authors find regarding the temperature profile with an increase in thermal radiation and thermophoresis parameters?",
+        "A": "Temperature profile decreases",
+        "B": "Temperature profile increases",
+        "C": "No effect on the temperature profile",
+        "D": "Temperature profile becomes constant",
+        "Answer": "B",
+        "Source": "The authors showed that the temperature profile is an increasing function of thermal radiation and thermophoresis parameters."
+    },
+    "Question_6": {
+        "Context": "The study investigates the effect of Lorentz forces on forced-convection nanofluid flow over a stretched surface.",
+        "Question": "What happens to the skin friction coefficient with an increase in the magnetic field?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Becomes zero",
+        "Answer": "A",
+        "Source": "Their results indicated that the skin friction coefficient increases by amplifying the magnetic field..."
+    },
+    "Question_7": {
+        "Context": "The study reviews the micropolar nanofluid flow over a porous stretching sheet.",
+        "Question": "What effect does raising the radiation parameter have on the boundary layer thickness?",
+        "A": "Decreases the boundary layer thickness",
+        "B": "Increases the boundary layer thickness",
+        "C": "No effect on the boundary layer thickness",
+        "D": "Causes turbulence in the flow",
+        "Answer": "B",
+        "Source": "It was found that raising the radiation parameter enhances the boundary layer thickness."
+    },
+    "Question_8": {
+        "Context": "The study discusses the influence of size, shape, and type of nanoparticles on natural convection MHD nanofluid flow.",
+        "Question": "What effect does decreasing the size of nanoparticles have on the natural convection heat transfer rate?",
+        "A": "Decreases the heat transfer rate",
+        "B": "Increases the heat transfer rate",
+        "C": "No effect on the heat transfer rate",
+        "D": "Causes instability in the flow",
+        "Answer": "B",
+        "Source": "Their results revealed that decreasing the size of the nanoparticles leads to a significant natural convection heat transfer rate."
+    },
+    "Question_9": {
+        "Context": "The study investigates the effect of nanoparticles in various fluid flow scenarios.",
+        "Question": "What did the authors find regarding the Nusselt numbers when using hybrid nanofluid instead of conventional nanofluid?",
+        "A": "Nusselt numbers decrease",
+        "B": "Nusselt numbers increase",
+        "C": "No effect on Nusselt numbers",
+        "D": "Nusselt numbers become negative",
+        "Answer": "B",
+        "Source": "They concluded that using hybrid nanofluid instead of conventional nanofluid results in higher Nusselt numbers."
+    },
+    "Question_10": {
+        "Context": "The study investigates the influence of thermal radiation on MHD nanofluid flow in a porous channel.",
+        "Question": "What relationship is observed between the Nusselt number and nanofluid volume fraction?",
+        "A": "Direct relationship",
+        "B": "Inverse relationship",
+        "C": "No relationship",
+        "D": "Non-linear relationship",
+        "Answer": "A",
+        "Source": "Results illustrated that there is a direct relationship between the Nusselt number and nanofluid volume fraction."
+    }
+}

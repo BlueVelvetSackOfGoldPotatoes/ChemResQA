@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Amorphous metallic glasses can undergo a phase change to crystalline solids when subjected to high temperatures. However, when local melting is induced by ion irradiation, the resulting thermal spikes can reach temperatures greater than 1000 K without causing this phase change.",
+        "Question": "What prevents the phase change from amorphous to crystalline in metallic glasses when local melting is induced by ion irradiation?",
+        "A": "The presence of impurities in the metallic glass",
+        "B": "The quenching rate of the local melting zone is too slow",
+        "C": "The quenching rate of the local melting zone is several orders of magnitude higher than the critical cooling rate for metallic glass formation",
+        "D": "The ion irradiation damages the metallic glass structure irreversibly",
+        "Answer": "C",
+        "Source": "Such a phase change, however, does not occur with the local melting caused by damage cascades introduced by ion irradiation, although the resulting thermal spikes can reach temperatures > 1000 K. This is because the quenching rate of the local melting zone is several orders of magnitude higher than the critical cooling rate for MG formation."
+    },
+    "Question_2": {
+        "Context": "The critical cooling rate is an important factor in the formation of amorphous metallic glasses. It is the rate at which a molten alloy must be cooled to avoid crystallization and maintain an amorphous structure.",
+        "Question": "What is the typical order of magnitude for the critical cooling rate required to form amorphous metallic glasses in Ti-Cu based systems?",
+        "A": "1 x 10^2 K/s",
+        "B": "1 x 10^5 K/s",
+        "C": "1 x 10^8 K/s",
+        "D": "1 x 10^12 K/s",
+        "Answer": "B",
+        "Source": "The average cooling rate at 713 K is 3.5 \u00d7 10^12 K/s, which is 7 orders of magnitude higher than the critical cooling rate Rc for MG formation. The critical Rc of Ti-Cu based MGs is on the order of 1 \u00d7 10^5 K/s."
+    },
+    "Question_3": {
+        "Context": "Metallic glasses exhibit a range of mechanical properties, including strength and elasticity. However, they can have limited plasticity due to shear localization, which is a phenomenon where deformation becomes confined to narrow bands within the material.",
+        "Question": "What is one method to improve the ductility of metallic glasses?",
+        "A": "Reducing the elasticity of the material",
+        "B": "Introducing ductile crystalline dendritic particles",
+        "C": "Decreasing the strength of the material",
+        "D": "Applying a high-temperature annealing process",
+        "Answer": "B",
+        "Source": "One way to improve ductility is by introducing ductile crystalline dendritic particles to promote shear band initiation and to arrest shear bands to avoid catastrophic failure."
+    },
+    "Question_4": {
+        "Context": "The process of thermal annealing is used to introduce nanocrystals into metallic glasses. However, the effects on ductility due to this process have been observed to be controversial.",
+        "Question": "What are the observed effects of thermal annealing on the ductility of metallic glasses?",
+        "A": "Consistently increases ductility",
+        "B": "Consistently decreases ductility",
+        "C": "Has no effect on ductility",
+        "D": "Both embrittlement and toughening have been observed",
+        "Answer": "D",
+        "Source": "Nanocrystals can be easily introduced into MGs through thermal annealing at temperatures above the glass transition temperature (Tg). The effects on ductility, however, are controversial, with both embrittlement and toughening observed."
+    },
+    "Question_5": {
+        "Context": "In metallic glasses, the activation energies for crystal nucleation and crystal growth are critical factors that influence the microstructure during thermal processes.",
+        "Question": "In many metallic glass systems, how do the activation energies for crystal nucleation compare to those for crystal growth?",
+        "A": "Activation energies for nucleation are higher than for growth",
+        "B": "Activation energies for nucleation are lower than for growth",
+        "C": "Activation energies for nucleation and growth are the same",
+        "D": "Activation energies for nucleation are irrelevant to crystal growth",
+        "Answer": "A",
+        "Source": "Furthermore, in many MG systems, the activation energies of crystal nucleation are higher than that of crystal growth."
+    },
+    "Question_6": {
+        "Context": "The atomic mobility in materials is a critical factor in processes such as crystal nucleation during ion irradiation. It is influenced by temperature and the presence of defects.",
+        "Question": "How is atomic mobility, D, calculated in the context of ion irradiation?",
+        "A": "D = D0exp(\u2212E/kT)",
+        "B": "D = D0exp(\u2212E/kT)exp(\u2206VFV /\u2206V0)",
+        "C": "D = D0exp(E/kT)",
+        "D": "D = D0exp(E/kT)exp(\u2206VFV /\u2206V0)",
+        "Answer": "B",
+        "Source": "The atomic mobility,D is calculated by D = D0exp(\u2212E/kT)exp(\u2206VFV /\u2206V0), where D0 is a constant, E is migration energy, k is Boltzmann constant, T is temperature, \u2206VFV is the excess free volume and \u2206V0 is an activation volume."
+    },
+    "Question_7": {
+        "Context": "Ion irradiation can be used to induce crystallization in metallic glasses, but the results can vary depending on the conditions of the irradiation.",
+        "Question": "What is one possible outcome when metallic glasses are subjected to ion irradiation?",
+        "A": "Guaranteed crystallization throughout the specimen",
+        "B": "Guaranteed amorphization throughout the specimen",
+        "C": "Nanocrystallization in some cases",
+        "D": "Complete melting of the specimen",
+        "Answer": "C",
+        "Source": "Ion irradiation or electron irradiation has also been used to induce crystallization, but results vary, with nanocrystallization observed in some cases and not in others."
+    },
+    "Question_8": {
+        "Context": "The size of crystalline grains relative to the volume of damage cascades is an important factor in the ion irradiation process of metallic glasses.",
+        "Question": "What happens if the grain size of an annealed metallic glass is comparable to the damage cascade volume size during ion irradiation?",
+        "A": "The crystalline phase is sustained",
+        "B": "The crystalline phase is converted to an amorphous phase",
+        "C": "The material becomes a pure crystal",
+        "D": "The material loses all its mechanical properties",
+        "Answer": "B",
+        "Source": "Ion irradiation can locally convert this crystalline phase to an amorphous phase if the grains are nanometers in size and comparable to the damage cascade volume size."
+    },
+    "Question_9": {
+        "Context": "The glass transition temperature (Tg) is a significant thermal threshold for metallic glasses, influencing their response to processes like ion irradiation.",
+        "Question": "Up to approximately what temperature can ion irradiation sustain the amorphous phase in metallic glasses?",
+        "A": "The melting point of the system",
+        "B": "The glass transition temperature (Tg)",
+        "C": "The critical cooling rate temperature",
+        "D": "Room temperature",
+        "Answer": "B",
+        "Source": "Since the damage cascades can melt and sustain the amorphous phase at an irradiation temperature up to Tg, the temperature window to form heterogeneous structures is significantly wider."
+    },
+    "Question_10": {
+        "Context": "The mechanical properties of metallic glasses can be tuned by controlling the microstructural features such as the size, volume fraction, and ductility of nanoparticles introduced into the material.",
+        "Question": "What are critical factors for tuning the global ductility of metallic glasses?",
+        "A": "The size, volume fraction, and ductility of the nanoparticles",
+        "B": "The melting temperature of the metallic glass",
+        "C": "The rate of ion irradiation",
+        "D": "The ambient temperature during the quenching process",
+        "Answer": "A",
+        "Source": "The size, volume fraction, and ductility of the nanoparticles are critical for tuning the global ductility."
+    }
+}

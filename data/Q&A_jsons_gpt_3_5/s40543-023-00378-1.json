@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Gas chromatographic method development for trace quantification of 2-bromoethanol and 2-bromoethylmethanesulfonate in silodosin",
+        "Question": "What was the stationary phase used in the gas chromatographic separation method?",
+        "A": "Crosslinked polyethylene glycol",
+        "B": "Nitroterephthalic acid",
+        "C": "Methane sulfonyl chloride",
+        "D": "Ethanol",
+        "Answer": "A",
+        "Source": "Chromatographic separation was performed in spilt mode using nitrogen as carrier gas on a column containing crosslinked polyethylene glycol (30 m \u00d7 0.32 mm, 0.25 \u00b5m) stationary phase modified with nitroterephthalic acid."
+    },
+    "Question_2": {
+        "Context": "Gas chromatographic method development for trace quantification of 2-bromoethanol and 2-bromoethylmethanesulfonate in silodosin",
+        "Question": "What was the concentration range for accurate quantification of 2-bromoethanol?",
+        "A": "24-300 ppm",
+        "B": "24-3000 ppm",
+        "C": "1.2-150 \u00b5g mL\u22121",
+        "D": "1.2-15 \u00b5g mL\u22121",
+        "Answer": "B",
+        "Source": "The developed method was linear and accurate in the concentration range of 24\u20133000 ppm for 2-BE."
+    },
+    "Question_3": {
+        "Context": "Gas chromatographic method development for trace quantification of 2-bromoethanol and 2-bromoethylmethanesulfonate in silodosin",
+        "Question": "What was used to modify the stationary phase in the gas chromatographic separation method?",
+        "A": "Nitroterephthalic acid",
+        "B": "Methane sulfonyl chloride",
+        "C": "Ethanol",
+        "D": "Polyethylene glycol",
+        "Answer": "A",
+        "Source": "Chromatographic separation was performed in spilt mode using nitrogen as carrier gas on a column containing crosslinked polyethylene glycol (30 m \u00d7 0.32 mm, 0.25 \u00b5m) stationary phase modified with nitroterephthalic acid."
+    },
+    "Question_4": {
+        "Context": "Gas chromatographic method development for trace quantification of 2-bromoethanol and 2-bromoethylmethanesulfonate in silodosin",
+        "Question": "What was the concentration range for accurate quantification of 2-bromoethylmethanesulfonate?",
+        "A": "24-300 ppm",
+        "B": "24-3000 ppm",
+        "C": "1.2-150 \u00b5g mL\u22121",
+        "D": "1.2-15 \u00b5g mL\u22121",
+        "Answer": "A",
+        "Source": "The developed method was linear and accurate in the concentration range of 24\u2013300 ppm for 2-BEM."
+    },
+    "Question_5": {
+        "Context": "Gas chromatographic method development for trace quantification of 2-bromoethanol and 2-bromoethylmethanesulfonate in silodosin",
+        "Question": "What was the method used to eliminate sample overload and matrix interference problems?",
+        "A": "Liquid-liquid extraction",
+        "B": "Solid-phase extraction",
+        "C": "Matrix precipitation strategy",
+        "D": "Sonication followed by filtration",
+        "Answer": "C",
+        "Source": "A simple matrix precipitation strategy was implemented to eliminate the sample overload and the matrix interference problems."
+    },
+    "Question_6": {
+        "Context": "Gas chromatographic method development for trace quantification of 2-bromoethanol and 2-bromoethylmethanesulfonate in silodosin",
+        "Question": "What was the purpose of assessing the genotoxicity and carcinogenicity potential of 2-bromoethylmethanesulfonate?",
+        "A": "To determine its therapeutic benefits",
+        "B": "To assess its potential risks to patients",
+        "C": "To establish its chemical structure",
+        "D": "To evaluate its solubility",
+        "Answer": "B",
+        "Source": "Impurities originating from drug substances yield no therapeutic benefit to the patient but have the potential to cause risk to the patient."
+    },
+    "Question_7": {
+        "Context": "Gas chromatographic method development for trace quantification of 2-bromoethanol and 2-bromoethylmethanesulfonate in silodosin",
+        "Question": "What was used as the carrier gas in the gas chromatographic separation method?",
+        "A": "Nitrogen",
+        "B": "Hydrogen",
+        "C": "Helium",
+        "D": "Oxygen",
+        "Answer": "A",
+        "Source": "Chromatographic separation was performed in spilt mode using nitrogen as carrier gas."
+    },
+    "Question_8": {
+        "Context": "Gas chromatographic method development for trace quantification of 2-bromoethanol and 2-bromoethylmethanesulfonate in silodosin",
+        "Question": "What was the method used to extract the impurities of interest present in the drug substance?",
+        "A": "Sonication followed by filtration",
+        "B": "Liquid-liquid extraction",
+        "C": "Solid-phase extraction",
+        "D": "Matrix precipitation strategy",
+        "Answer": "D",
+        "Source": "One method that is used to extract the impurities of interest present in the drug substance involves sonication followed by filtration of the undissolved drug substance. However, this method has a risk of not extracting the impurities of interest completely due to their entrapment in the crystal lattice leading to false-negative results."
+    },
+    "Question_9": {
+        "Context": "Gas chromatographic method development for trace quantification of 2-bromoethanol and 2-bromoethylmethanesulfonate in silodosin",
+        "Question": "What was the purpose of the matrix precipitation strategy in the method development?",
+        "A": "To increase the sample overload",
+        "B": "To reduce the matrix interference problem",
+        "C": "To enhance the peak resolution",
+        "D": "To improve the sensitivity of the method",
+        "Answer": "B",
+        "Source": "The matrix precipitation strategy was followed to substantially reduce the matrix interference problem by dissolving the silodosin in ethanol and diluting it with di-isopropyl ether (DIPE)."
+    },
+    "Question_10": {
+        "Context": "Gas chromatographic method development for trace quantification of 2-bromoethanol and 2-bromoethylmethanesulfonate in silodosin",
+        "Question": "What was the detector used in the gas chromatographic method?",
+        "A": "Flame ionization detector",
+        "B": "Mass spectrometer",
+        "C": "UV detector",
+        "D": "Conductivity detector",
+        "Answer": "A",
+        "Source": "In the present study, a GC coupled with flame ionization detector (GC-FID) was selected for the analysis as both the analytes (2-BE and 2-BEM) are volatile in nature."
+    }
+}

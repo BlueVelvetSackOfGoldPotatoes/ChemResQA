@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effects of different cropping patterns on soil physicochemical properties, enzyme activities, microbial quantity, and rhizosphere metabolism of continuous potato cropping. Results showed that pea-potato rotation and faba bean-potato rotation significantly improved soil physicochemical properties and microbial quantity, enhanced enzyme activity, and increased yield compared with continuous potato crop.",
+        "Question": "Which cropping pattern significantly improved soil physicochemical properties and microbial quantity?",
+        "A": "Potato-potato-potato-potato-potato (CK)",
+        "B": "Potato-potato-potato-pea-potato (T1)",
+        "C": "Potato-potato-potato-faba bean-potato (T2)",
+        "D": "Potato-potato-potato-potato-potato (CK) and Potato-potato-potato-pea-potato (T1)",
+        "Answer": "C",
+        "Source": "Results showed that pea-potato rotation (T1) and faba bean-potato rotation (T2) significantly improved soil physicochemical properties and microbial quantity."
+    },
+    "Question_2": {
+        "Context": "The study focused on the effects of different crop rotation patterns on soil enzyme activities. It was found that legume-potato rotation significantly increased Urease (URE) activity and Sucrase (SUC) activity compared to the continuous potato crop.",
+        "Question": "Which enzyme activity was significantly increased by legume-potato rotation?",
+        "A": "Catalase (CAT)",
+        "B": "Alkaline phosphatase (ALP)",
+        "C": "Urease (URE)",
+        "D": "Sucrase (SUC)",
+        "Answer": "D",
+        "Source": "Legume-potato crop rotation (T1, T2) could alter soil enzyme activity in potato continuous crop soil. Compared with CK, URE activity was significantly increased by 20.53% and 25.74% in T1 and T2 treatments, respectively. SUC activity was significantly enhanced by 16.33% in T2 treatment."
+    },
+    "Question_3": {
+        "Context": "The study explored the impact of different cropping patterns on microbial quantity. It was observed that legume-potato rotation significantly increased the quantities of bacteria and actinomycetes and decreased the quantity of fungi.",
+        "Question": "Which treatment significantly increased the quantity of bacteria and actinomycetes?",
+        "A": "Potato-potato-potato-potato-potato (CK)",
+        "B": "Potato-potato-potato-pea-potato (T1)",
+        "C": "Potato-potato-potato-faba bean-potato (T2)",
+        "D": "Potato-potato-potato-potato-potato (CK) and Potato-potato-potato-pea-potato (T1)",
+        "Answer": "C",
+        "Source": "Compared to CK, the T1 treatment significantly increased the quantities of bacteria and actinomyces by 23.72% and 28.39%, respectively, and fungi were decreased by 12.72% in the T2 treatment."
+    },
+    "Question_4": {
+        "Context": "The study analyzed the differential metabolites in the rhizosphere under different crop rotation patterns. It was found that the differential metabolites in the legume-potato rotation treatments were mainly nucleotides, lipids, and organic acids.",
+        "Question": "Which types of metabolites were mainly found in the differential metabolites of the legume-potato rotation treatments?",
+        "A": "Amino acids and proteins",
+        "B": "Carbohydrates and sugars",
+        "C": "Nucleotides, lipids, and organic acids",
+        "D": "Vitamins and cofactors",
+        "Answer": "C",
+        "Source": "We found that differential metabolites in the legume-potato rotation treatments (T1 and T2) were mainly nucleotides, lipids, and organic acids."
+    },
+    "Question_5": {
+        "Context": "The study investigated the impact of different crop rotation patterns on metabolic pathways. It was observed that legume-potato rotation significantly affected the metabolic pathways such as ABC transporters, Purine metabolism, and Phenylalanine metabolism.",
+        "Question": "Which metabolic pathways were significantly affected by legume-potato rotation?",
+        "A": "Carbohydrate metabolism",
+        "B": "Lipid metabolism",
+        "C": "ABC transporters, Purine metabolism, and Phenylalanine metabolism",
+        "D": "Amino acid metabolism",
+        "Answer": "C",
+        "Source": "Legume-potato rotation optimized the composition and abundance of rhizosphere metabolites, altered the content of organic acids and derivatives, flavonoids, and lipids in the soil, and improved nucleotide, amino acid, and energy metabolism."
+    },
+    "Question_6": {
+        "Context": "The study conducted cluster analysis and correlation analysis for soil physicochemical properties, enzyme activities, microbial quantity, and tuber yield. The results showed that legume-potato rotation could improve the soil physicochemical properties, microbial quantity, and enzyme activity of continuous potato cropping, ultimately increasing the yield.",
+        "Question": "What was positively correlated with bacteria and actinomycetes?",
+        "A": "Soil pH",
+        "B": "Soil bulk density (BD)",
+        "C": "Soil electrical conductivity (EC)",
+        "D": "Soil total nitrogen (TN)",
+        "Answer": "D",
+        "Source": "SW, TN, TP, TK, and SOM were positively correlated with bacteria and actinomycetes."
+    },
+    "Question_7": {
+        "Context": "The study analyzed the differential metabolites enriched in important pathways. It was found that most differential metabolites in the purine and phenylalanine metabolism pathways were negatively correlated with soil physicochemical properties, enzyme activity, and tuber yield.",
+        "Question": "Which metabolite showed a highly significant negative correlation with bulk density (BD)?",
+        "A": "Trans-Cinnamic acid",
+        "B": "Guanine",
+        "C": "Inosine",
+        "D": "Deoxyinosine",
+        "Answer": "A",
+        "Source": "Among them, Trans-Cinnamic acid showed a highly significant negative correlation with BD."
+    },
+    "Question_8": {
+        "Context": "The study conducted redundancy analysis to explore the relationship between soil physicochemical properties and soil microorganisms. The results showed that SW, TN, TP, TK, and SOM were positively correlated with bacteria and actinomycetes.",
+        "Question": "Which soil physicochemical properties were negatively correlated with fungi?",
+        "A": "Soil pH",
+        "B": "Soil bulk density (BD)",
+        "C": "Soil electrical conductivity (EC)",
+        "D": "Soil total nitrogen (TN)",
+        "Answer": "A",
+        "Source": "BD, pH, and EC were negatively correlated with fungi."
+    },
+    "Question_9": {
+        "Context": "The study correlated the differential metabolites in the purine and phenylalanine metabolism pathways with soil physicochemical properties, enzyme activity, microbial quantity, and tuber yield. The results showed that most differential metabolites were negatively correlated with pH, BD, EC, and fungi.",
+        "Question": "Which metabolite showed a highly significant positive correlation with Sucrase (SUC)?",
+        "A": "Trans-Cinnamic acid",
+        "B": "Deoxyinosine",
+        "C": "Phenylpyruvic acid",
+        "D": "Guanine",
+        "Answer": "C",
+        "Source": "Phenylpyruvic acid showed a highly significant positive correlation with SWC."
+    },
+    "Question_10": {
+        "Context": "The study investigated the differential metabolites enriched in important pathways. It was observed that Guanine, Adenosine, and Xanthosine metabolites were significantly up-regulated in the Purine metabolism pathway.",
+        "Question": "Which metabolic pathway was significantly enriched in Guanine, Adenosine, and Xanthosine metabolites?",
+        "A": "ABC transporters",
+        "B": "Pyrimidine metabolism",
+        "C": "Purine metabolism",
+        "D": "Flavonoid biosynthesis",
+        "Answer": "C",
+        "Source": "Differential metabolites were significantly enriched in ABC transporters, nucleotide metabolism (Purine metabolism, Pyrimidine metabolism), secondary metabolite synthesis (Flavonoid biosynthesis, Flavone and flavonol biosynthesis), and other metabolic pathways in T2."
+    }
+}

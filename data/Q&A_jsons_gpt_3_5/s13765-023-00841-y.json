@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on investigating the metabolic variations in tea leaf metabolome of two tea cultivars over a period of five successive years.",
+        "Question": "What is the main purpose of the study?",
+        "A": "To determine the effects of shading on tea leaf metabolites",
+        "B": "To explore the impact of pruning on tea leaf metabolism",
+        "C": "To identify vintage tea products based on climatic conditions",
+        "D": "To analyze the impact of soil composition on tea leaf composition",
+        "Answer": "C",
+        "Source": "We explored the year-to-year variations in leaf metabolome of two tea (C. sinensis) cultivars over a period of five successive years from 2015 to 2019 to determine vintage tea products, such as in grapes or wines, and showed a clear metabolic differentiations of fresh tea leaves."
+    },
+    "Question_2": {
+        "Context": "The study discussed the relationship between climatic conditions and tea leaf metabolism over five successive years.",
+        "Question": "What is the significance of high rainfall under short sun exposure time for Jangwon 2 tea cultivar?",
+        "A": "It leads to inhibition of theanine metabolism",
+        "B": "It enhances the levels of EGCG3\"Me",
+        "C": "It increases the levels of catechin derivatives",
+        "D": "It boosts the levels of sugars in tea leaves",
+        "Answer": "A",
+        "Source": "High rainfall under short sun exposure time may be the best conditions for Jangwon 2 cultivar with the highest theanine amounts, and long sun exposure time for Jangwon 3 cultivar with the highest EGCG3\"Me amounts."
+    },
+    "Question_3": {
+        "Context": "The study highlighted the metabolic differences between Jangwon 2 and Jangwon 3 tea cultivars in response to climatic conditions.",
+        "Question": "Which metabolite was consistently more abundant in Jangwon 3 tea cultivar across the five successive years?",
+        "A": "Theanine",
+        "B": "Caffeine",
+        "C": "EGCG3\"Me",
+        "D": "Gallate",
+        "Answer": "C",
+        "Source": "Notably, high amounts of EGCG3\"Me in the leaves of Jangwon 3 tea cultivar were observed across five successive years, compared to those of Jangwon 2 cultivar."
+    },
+    "Question_4": {
+        "Context": "The study discussed the metabolic variations in tea leaf metabolome of two tea cultivars over a period of five successive years.",
+        "Question": "What was the main finding regarding the levels of theanine in Jangwon 2 tea cultivar in 2018?",
+        "A": "The levels were positively associated with high rainfall",
+        "B": "The levels were negatively associated with long sun exposure time",
+        "C": "The levels were the lowest compared to other years",
+        "D": "The levels were the highest compared to other years",
+        "Answer": "C",
+        "Source": "The lowest amounts of theanine were found in tea leaves of Jangwon 2 cultivar plucked in 2018."
+    },
+    "Question_5": {
+        "Context": "The study focused on the metabolic differences between Jangwon 2 and Jangwon 3 tea cultivars in response to climatic conditions.",
+        "Question": "What was the main impact of drought conditions in 2019 on Jangwon 3 tea cultivar?",
+        "A": "It led to increased levels of theanine",
+        "B": "It caused growth retardation",
+        "C": "It enhanced the levels of EGCG3\"Me",
+        "D": "It boosted the levels of sugars in tea leaves",
+        "Answer": "C",
+        "Source": "Increased accumulation of EGCG3\"Me, as well as catechins, EC and GC, were observed in the leaves of Jangwon 3 tea cultivar harvested in July, 2019."
+    },
+    "Question_6": {
+        "Context": "The study discussed the metabolic variations in tea leaf metabolome of two tea cultivars over a period of five successive years.",
+        "Question": "What was the main difference in metabolic response between Jangwon 2 and Jangwon 3 tea cultivars towards climatic conditions?",
+        "A": "Jangwon 2 had higher levels of EGCG3\"Me",
+        "B": "Jangwon 3 had higher levels of theanine",
+        "C": "Jangwon 2 was more affected by drought conditions",
+        "D": "Jangwon 3 was more affected by high rainfall",
+        "Answer": "B",
+        "Source": "Across the five successive years, the levels of theanine, glutamine, GABA, acetate, and succinate in Jangwon 2 tea cultivar were comparatively higher than in the Jangwon 3 tea cultivar."
+    },
+    "Question_7": {
+        "Context": "The study highlighted the metabolic differences between Jangwon 2 and Jangwon 3 tea cultivars in response to climatic conditions.",
+        "Question": "What was the main impact of long sun exposure time during harvesting on Jangwon 3 tea cultivar between 2015 and 2019?",
+        "A": "It led to inhibition of theanine metabolism",
+        "B": "It enhanced the levels of EGCG3\"Me",
+        "C": "It increased the levels of catechin derivatives",
+        "D": "It boosted the levels of sugars in tea leaves",
+        "Answer": "B",
+        "Source": "Long sun exposure time during harvesting was positively associated with accumulations of EGCG3\"Me in Jangwon 3 tea cultivar between 2015 and 2019."
+    },
+    "Question_8": {
+        "Context": "The study discussed the relationship between climatic conditions and tea leaf metabolism over five successive years.",
+        "Question": "What was the main finding regarding the levels of EGCG3\"Me in Jangwon 3 tea cultivar in 2019?",
+        "A": "The levels were positively associated with high rainfall",
+        "B": "The levels were negatively associated with long sun exposure time",
+        "C": "The levels were the lowest compared to other years",
+        "D": "The levels were the highest compared to other years",
+        "Answer": "D",
+        "Source": "Increased accumulation of EGCG3\"Me, as well as catechins, EC and GC, were observed in the leaves of Jangwon 3 tea cultivar harvested in July, 2019."
+    },
+    "Question_9": {
+        "Context": "The study focused on investigating the metabolic variations in tea leaf metabolome of two tea cultivars over a period of five successive years.",
+        "Question": "What was the main impact of drought conditions in 2019 on Jangwon 2 tea cultivar?",
+        "A": "It led to increased levels of theanine",
+        "B": "It caused growth retardation",
+        "C": "It enhanced the levels of EGCG3\"Me",
+        "D": "It boosted the levels of sugars in tea leaves",
+        "Answer": "A",
+        "Source": "Positive correlations between theanine levels and extreme low rainfall, close to drought, during spring of plucking season in 2019 were also observed in Jangwon 2 tea cultivar."
+    },
+    "Question_10": {
+        "Context": "The study discussed the metabolic differences between Jangwon 2 and Jangwon 3 tea cultivars in response to climatic conditions.",
+        "Question": "What was the main difference in metabolic response between Jangwon 2 and Jangwon 3 tea cultivars towards climatic conditions?",
+        "A": "Jangwon 2 had higher levels of EGCG3\"Me",
+        "B": "Jangwon 3 had higher levels of theanine",
+        "C": "Jangwon 2 was more affected by drought conditions",
+        "D": "Jangwon 3 was more affected by high rainfall",
+        "Answer": "B",
+        "Source": "The lowest amounts of theanine were found in tea leaves of Jangwon 2 cultivar plucked in 2018."
+    }
+}

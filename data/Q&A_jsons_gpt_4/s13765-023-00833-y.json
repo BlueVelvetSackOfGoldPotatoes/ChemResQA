@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The main protease of SARS-CoV-2, Mpro, is essential for viral replication and is a conserved enzyme across coronaviruses, making it a prime target for antiviral drugs.",
+        "Question": "What is the significance of targeting the main protease (Mpro) of SARS-CoV-2 in drug development?",
+        "A": "It is unique to SARS-CoV-2 and not found in other viruses",
+        "B": "It has a non-essential role in the viral replication cycle",
+        "C": "It is a conserved and essential enzyme in the viral replication cycle",
+        "D": "It only plays a minor role in the inflammatory process",
+        "Answer": "C",
+        "Source": "The main viral protease (Mpro) of SARS\u2011CoV\u20112 provides an excellent target for antivirals, due to its essential and con\u2011 served function in the viral replication cycle."
+    },
+    "Question_2": {
+        "Context": "Inhibitory effects of compounds on enzymes can be quantified using IC50 values, which represent the concentration required to inhibit 50% of the enzyme activity.",
+        "Question": "What does a lower IC50 value indicate about a compound's inhibitory effect on an enzyme?",
+        "A": "Lower specificity to the enzyme",
+        "B": "Higher inhibitory potency",
+        "C": "Lower solubility in testing conditions",
+        "D": "Higher toxicity to human cells",
+        "Answer": "B",
+        "Source": "Among the effectively tested samples, two derivatized compounds displayed significant improvement on the activity from the starting material, friedelin (1) through the acetoreduced (2) to the acetoxy product (3) with respective IC50 values of 42.89, 29.69 and 19.39 \u00b5g/mL."
+    },
+    "Question_3": {
+        "Context": "Molecular docking studies are used to predict the interaction between a drug candidate and its target protein, which can provide insights into the binding affinity and potential inhibitory effects.",
+        "Question": "What is likely to increase the inhibitory effect of a compound against an enzyme according to molecular docking studies?",
+        "A": "Decrease in the number of hydrogen bonds with the active site",
+        "B": "Increase in the number of hydrogen bonds with the active site",
+        "C": "Decrease in the molecular weight of the compound",
+        "D": "Increase in the hydrophobic interactions with the active site",
+        "Answer": "B",
+        "Source": "The molecular docking study showed that an increase in the number of hydrogen bonds between compounds and active site of Mpro resulted in increased inhibition."
+    },
+    "Question_4": {
+        "Context": "Enzyme inhibitors can be characterized by their mode of inhibition, which describes how they interact with the enzyme and the enzyme-substrate complex.",
+        "Question": "What does a non-competitive inhibitor do in the context of enzyme inhibition?",
+        "A": "Binds only to the substrate, not the enzyme",
+        "B": "Binds only to the enzyme when the substrate is not present",
+        "C": "Binds to the enzyme-substrate complex, reducing the enzyme's activity",
+        "D": "Increases the rate of product formation",
+        "Answer": "C",
+        "Source": "The mechanism of inhibition can be characterized by the parameter \u03b1. If \u03b1 tends towards 1, the inhibitor can be classified as non-competitive."
+    },
+    "Question_5": {
+        "Context": "The enzyme Mpro from SARS-CoV-2 can be expressed and purified for use in inhibition assays to screen potential antiviral compounds.",
+        "Question": "What is the purpose of using a FRET-based Mpro activity assay in the context of SARS-CoV-2 Mpro?",
+        "A": "To measure the fluorescence of Mpro directly",
+        "B": "To identify compounds that can inhibit Mpro activity",
+        "C": "To determine the protein concentration of Mpro",
+        "D": "To assess the stability of Mpro in various conditions",
+        "Answer": "B",
+        "Source": "To identify inhibitors of Mpro, the FRET-based Mpro activity assay was used to screen isolated and hemi-synthetic compounds."
+    },
+    "Question_6": {
+        "Context": "Compounds isolated from natural sources can be modified through chemical reactions to enhance their biological activity.",
+        "Question": "What is the purpose of performing hemisynthetic reactions on natural compounds in the context of drug discovery?",
+        "A": "To reduce the purity of the compounds",
+        "B": "To identify the natural source of the compounds",
+        "C": "To enhance the biological activity of the compounds",
+        "D": "To increase the size of the compounds",
+        "Answer": "C",
+        "Source": "Compound 1 was reduced and acetylated to furnish respectively racemic mixtures of friedelan-3-ol (2) and friedelan-3-acetoxy (3)."
+    },
+    "Question_7": {
+        "Context": "The reduction of a ketone to an alcohol can be achieved using reducing agents in organic chemistry.",
+        "Question": "Which reducing agent is commonly used for the reduction of ketones to alcohols?",
+        "A": "Sodium chloride",
+        "B": "Sodium tetrahydridoborate",
+        "C": "Sodium bicarbonate",
+        "D": "Sodium hydroxide",
+        "Answer": "B",
+        "Source": "The reduction of the ketone to alcohol was carried out in the presence of sodium borohydride (NaBH4) in ethanol under reflux."
+    },
+    "Question_8": {
+        "Context": "Acetylation is a chemical reaction where an acetyl group is introduced into a compound, often to modify its properties.",
+        "Question": "What is the result of acetylating an alcohol group in a compound?",
+        "A": "Conversion into a carboxylic acid",
+        "B": "Conversion into an amine",
+        "C": "Conversion into an acetoxy group",
+        "D": "Conversion into a ketone",
+        "Answer": "C",
+        "Source": "The acetylation of compound 2 was carried out overnight with acetic anhydride and pyridine... The acetylated product 3 was obtained as amorphous solid or powder."
+    },
+    "Question_9": {
+        "Context": "Methylation is a process where a methyl group is added to a molecule, which can alter the molecule's chemical properties and biological activity.",
+        "Question": "What reagents are typically used in the methylation of hydroxyl groups in organic chemistry?",
+        "A": "Methyl chloride and sodium hydroxide",
+        "B": "Methyl iodide and potassium carbonate",
+        "C": "Methyl bromide and potassium hydroxide",
+        "D": "Methyl sulfate and sodium carbonate",
+        "Answer": "B",
+        "Source": "A mixture of potassium carbonate (1750 mg) and dry methyliodide (1 mL) were added to an acetone solution (15 mL) of compound 14 (20 mg)."
+    },
+    "Question_10": {
+        "Context": "In the context of enzyme kinetics, the Michaelis constant (Km) and the maximum velocity (Vmax) are parameters that describe the enzyme's affinity for a substrate and the maximum rate of reaction, respectively.",
+        "Question": "What does it indicate if the Km value increases while Vmax remains constant in the presence of an inhibitor?",
+        "A": "The inhibitor is a competitive inhibitor",
+        "B": "The inhibitor is an uncompetitive inhibitor",
+        "C": "The inhibitor is a non-competitive inhibitor",
+        "D": "The inhibitor has no effect on the enzyme",
+        "Answer": "C",
+        "Source": "double-reciprocal plots illustrated that Km for all three compounds was dependent on the inhibitor concentration [I], while Vmax remained consistent."
+    }
+}

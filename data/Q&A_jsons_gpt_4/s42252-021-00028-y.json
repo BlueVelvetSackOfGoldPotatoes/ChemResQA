@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Functional composite materials can have their properties enhanced by introducing additional material phases with specific added properties.",
+        "Question": "Which property can be enhanced in composite materials by introducing additional material phases?",
+        "A": "Thermal insulation",
+        "B": "Electrical conductivity",
+        "C": "Optical clarity",
+        "D": "Acoustic dampening",
+        "Answer": "B",
+        "Source": "The intrinsically heterogeneous nature of composite materials allows additional material phases to be introduced, with specific added properties such as electrical conductivity, magnetic properties, or integrated surface functions."
+    },
+    "Question_2": {
+        "Context": "In the field of composites, hybridizing materials with complementary functional properties is a method used to achieve functional composite materials.",
+        "Question": "What is one approach to reach functional composite materials?",
+        "A": "Hybridizing materials with complementary functional properties",
+        "B": "Reducing the weight of the composite materials",
+        "C": "Increasing the homogeneity of the composite materials",
+        "D": "Decreasing the cost of production of the composite materials",
+        "Answer": "A",
+        "Source": "One approach to reach functional composite materials consists of hybridizing materials featuring complementary functional properties."
+    },
+    "Question_3": {
+        "Context": "The addition of nanomaterials like graphene can significantly improve certain properties of composites, such as electrical conductivity.",
+        "Question": "What effect does the addition of graphene have on the properties of Carbon-Fiber-PEEK composites?",
+        "A": "Decreases thermal resistance",
+        "B": "Improves electrical conductivity",
+        "C": "Reduces structural integrity",
+        "D": "Increases opacity",
+        "Answer": "B",
+        "Source": "In [1], the in-plane and transverse electrical conductivities of Carbon-Fiber-PEEK composites are significantly improved by nanomaterial functionalization via spray deposition of exfoliated graphene nanosuspensions."
+    },
+    "Question_4": {
+        "Context": "Braiding carbon and metallic fibers can be used to improve the electrical conductivity of structural composites.",
+        "Question": "Which technique can be used to improve the longitudinal electrical conductivity of structural composites?",
+        "A": "Layering",
+        "B": "Foaming",
+        "C": "Braiding",
+        "D": "Cross-linking",
+        "Answer": "C",
+        "Source": "In [2], a more macroscopic approach was followed to improve the longitudinal electrical conductivity of structural composites, by braiding carbon and metallic fibers."
+    },
+    "Question_5": {
+        "Context": "The mechanical strength of composites can be improved through the use of tufting technology, which involves the insertion of conductive fibers.",
+        "Question": "What technology is used to improve the through-thickness mechanical strength of flax fibre reinforced green bio composites?",
+        "A": "Lamination",
+        "B": "Tufting",
+        "C": "Vulcanization",
+        "D": "Sintering",
+        "Answer": "B",
+        "Source": "The tufting technology was also used in [3] to improve the through-thickness mechanical strength of flax fibre reinforced green bio composites, using glass fibers."
+    },
+    "Question_6": {
+        "Context": "In the development of sensors, the functionalization of materials can lead to sensors that are adapted to various applications without compromising structural properties.",
+        "Question": "What is a benefit of functionalizing materials in the context of sensor development?",
+        "A": "Decreases sensor sensitivity",
+        "B": "Increases production costs",
+        "C": "Adapts sensors to various applications",
+        "D": "Compromises structural properties",
+        "Answer": "C",
+        "Source": "The functionalization of materials allows the development of sensors adapted to numerous applications."
+    },
+    "Question_7": {
+        "Context": "The use of natural materials in composite structures is driven by environmental considerations.",
+        "Question": "What is one reason for the growing interest in the use of natural materials in composite structures?",
+        "A": "To increase the weight of the composites",
+        "B": "To enhance the electrical properties",
+        "C": "To respond to environmental issues",
+        "D": "To improve the thermal conductivity",
+        "Answer": "C",
+        "Source": "In parallel, there is a growing interest in the use of natural materials in composite structures, in response to environmental issues."
+    },
+    "Question_8": {
+        "Context": "The mechanical and hygroscopic properties of materials are important for applications such as packaging.",
+        "Question": "For packaging applications, which properties of thermoformed Chemi-Thermo-Mechanical Pulp were analyzed?",
+        "A": "Color and texture",
+        "B": "Mechanical and hygroscopic",
+        "C": "Electrical and thermal",
+        "D": "Density and malleability",
+        "Answer": "B",
+        "Source": "In [7], the mechanical and hygroscopic properties of thermoformed Chemi-Thermo-Mechanical Pulp were analysed as a function of manufacturing parameters."
+    },
+    "Question_9": {
+        "Context": "Cellulose-based materials can exhibit passive, moisture-induced shape changes which can be utilized in construction-related applications.",
+        "Question": "What type of shape changes can cellulose-based humidity-sensing materials exhibit?",
+        "A": "Active, heat-induced",
+        "B": "Passive, moisture-induced",
+        "C": "Permanent, chemical-induced",
+        "D": "Reversible, light-induced",
+        "Answer": "B",
+        "Source": "Scholz et al [8] investigated application-oriented adaptive elements based on cellulose Cottonid capable of complex, passive, moisture-induced shape changes with adjustable amplitude."
+    },
+    "Question_10": {
+        "Context": "The curing of cold mix asphalts is influenced by environmental conditions, which can affect their mechanical performance over time.",
+        "Question": "What environmental conditions tend to increase the material stiffness and ageing of the binder material in cold mix asphalts?",
+        "A": "Cold and humid",
+        "B": "Warm and dry",
+        "C": "Hot and wet",
+        "D": "Cool and arid",
+        "Answer": "B",
+        "Source": "However, their mechanical performance over time is still not fully understood, and results of the presented study showed that warm and dry temperatures tend to increase the material stiffness as well as the ageing of the binder material."
+    }
+}

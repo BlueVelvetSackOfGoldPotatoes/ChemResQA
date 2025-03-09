@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In composite materials, the orientation of fibers can significantly influence the mechanical properties of the material.",
+        "Question": "What is a common disadvantage of traditional laminated composites due to the orientation of fibers?",
+        "A": "High resistance to transverse cracking",
+        "B": "Susceptibility to transverse cracking and delamination",
+        "C": "Increased load bearing capacity",
+        "D": "Improved out-of-plane actions",
+        "Answer": "B",
+        "Source": "Traditional laminated composites have fibres oriented only in the in-plane of the laminate due to their manufacturing process, and are therefore very susceptible to transverse cracking and delamination from out-of-plane actions."
+    },
+    "Question_2": {
+        "Context": "Reinforcement techniques in composite materials aim to enhance certain mechanical properties.",
+        "Question": "What is the primary purpose of adding out-of-plane reinforcement to a 2D fabric in composite materials?",
+        "A": "To increase the in-plane mechanical properties",
+        "B": "To enhance the delamination resistance",
+        "C": "To reduce the weight of the composite",
+        "D": "To simplify the manufacturing process",
+        "Answer": "B",
+        "Source": "Delamination can considerably reduce the load bearing capacity of a structure hence several reinforcement solutions, based on the principle to add out-of-plane reinforcement to the 2D fabric, have been explored to enhance the delamination resistance."
+    },
+    "Question_3": {
+        "Context": "Various textile technologies are used for Z-reinforcement in composite materials, each with its own impact on the material's properties.",
+        "Question": "Which of the following textile technologies for Z-reinforcement may alter the in-plane mechanical properties of a composite?",
+        "A": "Weaving",
+        "B": "Knitting",
+        "C": "Stitching",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "However, the usual textile technologies for Z-reinforcement such as weaving, knitting, stitching, z-pinning, and tufting generates perturbations that may alter the in-plane mechanical properties."
+    },
+    "Question_4": {
+        "Context": "Tufting is a technique used in the reinforcement of composite materials.",
+        "Question": "What is a characteristic of tufting in the context of reinforcing composite materials?",
+        "A": "It is a dual needle and dual thread based technique",
+        "B": "It always increases the in-plane tensile mechanical properties",
+        "C": "It is a single needle and single thread based one side stitching technique",
+        "D": "It cannot incorporate through the thickness reinforcement",
+        "Answer": "C",
+        "Source": "Although tufting is a single needle and single thread based one side stitching (OSS) technique which can incorporate almost tension free through the thickness reinforcement in a material."
+    },
+    "Question_5": {
+        "Context": "The development of eco-friendly materials is becoming increasingly important in various industries.",
+        "Question": "What is the primary reason for the increasing development and use of eco-friendly biocomposites?",
+        "A": "To enhance the aesthetic appeal of products",
+        "B": "To increase the durability of products",
+        "C": "To replace synthetic composites due to environmental concerns",
+        "D": "To simplify the manufacturing process",
+        "Answer": "C",
+        "Source": "Moreover, due to awareness in environmental concerns, the development and use of eco-friendly biocomposites to replace synthetic ones has been increasing."
+    },
+    "Question_6": {
+        "Context": "Composite laminates are used in various industries due to their advantageous mechanical properties.",
+        "Question": "Which property of conventional composite laminates makes them efficient in distributing in-plane normal and shear loads?",
+        "A": "The alignment of fibers along the load-bearing path",
+        "B": "The use of biobased thermoset resin",
+        "C": "The application of vacuum bag resin transfer moulding",
+        "D": "The addition of out-of-plane reinforcement",
+        "Answer": "A",
+        "Source": "Conventional composite laminates (2D) are very efficient in distributing in-plane normal and shear loads since the alignment of fibres is along the load-bearing path."
+    },
+    "Question_7": {
+        "Context": "In composite materials, the lack of certain features can lead to disadvantages in mechanical performance.",
+        "Question": "What disadvantage does the lack of through the thickness reinforcing fibers present in conventional composite laminates?",
+        "A": "Increased susceptibility to high temperatures",
+        "B": "Decreased efficiency in load distribution",
+        "C": "Decreased delamination toughness and impact damage resistance",
+        "D": "Increased weight of the composite material",
+        "Answer": "C",
+        "Source": "However, the lack of through the thickness reinforcing fibres is a disadvantage in terms of delamination toughness and impact damage resistance."
+    },
+    "Question_8": {
+        "Context": "The mechanical properties of composite materials can be characterized by various testing methods.",
+        "Question": "Which testing method is used to determine the in-plane compressive strength of composite materials?",
+        "A": "Boeing compression test",
+        "B": "Tensile strength test",
+        "C": "Shear strength test",
+        "D": "Flexural test",
+        "Answer": "A",
+        "Source": "Boeing compression test (BCT) are performed to evaluate the effect of tufting on the in-plane compressive strength of composites while preventing buckling."
+    },
+    "Question_9": {
+        "Context": "The in-plane mechanical properties of composites are crucial for their performance in structural applications.",
+        "Question": "What effect does tufting have on the in-plane tensile mechanical properties of a composite?",
+        "A": "It significantly increases the tensile strength",
+        "B": "It has no effect on the tensile properties",
+        "C": "It reduces the in-plane tensile mechanical properties",
+        "D": "It increases the flexibility of the composite",
+        "Answer": "C",
+        "Source": "The quantification of the in-plane mechanical properties established a reduction of the in plane tensile mechanical properties, due to tufting."
+    },
+    "Question_10": {
+        "Context": "Short beam shear tests are used to evaluate certain properties of composite materials.",
+        "Question": "What does the short beam shear test primarily measure in composite materials?",
+        "A": "Tensile strength",
+        "B": "Compressive strength",
+        "C": "Interlaminar shear strength",
+        "D": "Flexural modulus",
+        "Answer": "C",
+        "Source": "Short beam shear test is widely employed for screening and quality control of materials due to ease of sample preparation and testing. The interlaminar shear properties of matrix obtained by short beam test provide important information on long-term degradation of the matrix."
+    }
+}

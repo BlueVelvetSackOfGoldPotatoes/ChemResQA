@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Conductive hydrogels are materials that combine the properties of hydrogels with electrical conductivity. They are used in various biomedical applications due to their tissue-like mechanical properties and ability to conduct electricity.",
+        "Question": "What is the primary reason for using metals as additives in the fabrication of conductive hydrogels?",
+        "A": "To increase the hydrophilicity of the hydrogel",
+        "B": "To enhance the electrical conductivity of the hydrogel",
+        "C": "To improve the thermal stability of the hydrogel",
+        "D": "To change the color of the hydrogel",
+        "Answer": "B",
+        "Source": "Metals are widely used because of their high conductivity and can be embedded into the polymeric network to fabricate conductive hydrogels. Gold is the most commonly used metal owing to its high biocompatibility and electrochemical stability under physiological conditions."
+    },
+    "Question_2": {
+        "Context": "In the field of neural engineering, conductive hydrogels are being explored for their potential in tissue engineering and bioelectronics. These materials must possess certain physicochemical properties to be effective in such applications.",
+        "Question": "Which property is crucial for conductive hydrogels to be used as scaffolds in neural engineering?",
+        "A": "Opacity",
+        "B": "Fragrance",
+        "C": "Tissue-like mechanical properties",
+        "D": "High thermal conductivity",
+        "Answer": "C",
+        "Source": "Such conductive hydrogels have been continuously developed for electroactive tissue engineering, tissue repair, stimuli-responsive drug delivery platforms, tissue interfacing, soft bioelectronics/robotics, and wearable/implantable sensors, owing to their tunable electrical conductivity and tissue-like mechanical properties."
+    },
+    "Question_3": {
+        "Context": "The addition of conductive materials to hydrogels is a common method to enhance their electrical properties. Different types of conductive materials can be used for this purpose.",
+        "Question": "Which of the following conductive materials is known for its high biocompatibility and electrochemical stability, making it a common choice for use in conductive hydrogels?",
+        "A": "Copper",
+        "B": "Gold",
+        "C": "Aluminum",
+        "D": "Zinc",
+        "Answer": "B",
+        "Source": "Gold is the most commonly used metal owing to its high biocompatibility and electrochemical stability under physiological conditions, and other metals that are used are silver, iron, eutectic gallium indium (EGaIn), and 2D transition metals (e.g., MXene and MoS2)."
+    },
+    "Question_4": {
+        "Context": "Hydrogels can be modified to become conductive by incorporating certain additives. These additives create pathways that allow electrical signals to be transferred through the hydrogel matrix.",
+        "Question": "What is the main role of conductive filler additives when incorporated into a hydrogel matrix?",
+        "A": "To decrease the viscosity of the hydrogel",
+        "B": "To generate efficient conductive pathways for electrical signal transfer",
+        "C": "To increase the opacity of the hydrogel",
+        "D": "To enhance the flavor of the hydrogel",
+        "Answer": "B",
+        "Source": "The addition of conductive materials to the hydrogel matrix generates additional and efficient conductive pathways to transfer electrical signals through the hydrogel matrix and consequently enhance the conductivity of the hydrogel matrix."
+    },
+    "Question_5": {
+        "Context": "Conductive hydrogels are being developed for applications such as tissue engineering and bioelectronics. The incorporation of conductive materials into hydrogels is a key strategy to enhance their functionality.",
+        "Question": "Which of the following is a benefit of incorporating carbon-based materials like carbon nanotubes (CNTs) and graphene into hydrogels?",
+        "A": "They improve the flavor of the hydrogel",
+        "B": "They increase the hydrogel's water absorption capacity",
+        "C": "They enhance the hydrogel's electrical conductivity",
+        "D": "They make the hydrogel glow in the dark",
+        "Answer": "C",
+        "Source": "Carbon-based materials such as carbon nanotubes (CNTs) and graphene are synthetic materials from natural graphite. They are of interest for fabricating conductive hydrogels because of their high conductivity and stability in wet environments."
+    },
+    "Question_6": {
+        "Context": "The addition of conductive polymers to hydrogels is a method used to impart electrical conductivity to the material. Conductive polymers can be added to hydrogels in different ways to form a conductive network.",
+        "Question": "What is the primary function of conductive polymers like polypyrrole (PPy), polyaniline (PANI), and poly(3,4-ethlyenedioxythiophene) (PEDOT) when used in the fabrication of conductive hydrogels?",
+        "A": "To change the color of the hydrogel",
+        "B": "To increase the thermal resistance of the hydrogel",
+        "C": "To enhance the electrical conductivity of the hydrogel",
+        "D": "To improve the taste of the hydrogel",
+        "Answer": "C",
+        "Source": "Conductive polymers are \u03c0-bond-rich polymers, including polypyrrole (PPy), polyaniline (PANI), and poly(3,4-ethlyenedioxythiophene) (PEDOT), that exhibit electrochemical stability in physiological environments."
+    },
+    "Question_7": {
+        "Context": "3D printing of conductive hydrogels is a technique that allows for the creation of structures with complex geometries. Different 3D printing methods can be applied depending on the desired outcome.",
+        "Question": "Which 3D printing technique involves using a light source to cure a photoreactive hydrogel material layer by layer?",
+        "A": "Extrusion-based printing",
+        "B": "Inkjet printing",
+        "C": "Stereolithography",
+        "D": "Freeze-drying",
+        "Answer": "C",
+        "Source": "Static-state 3D printing technologies are used to create 3D objects by curing materials through vat polymerization (visible light and laser or UV)."
+    },
+    "Question_8": {
+        "Context": "In the context of 3D printing conductive hydrogels, the ink must possess certain properties to ensure successful printing and functionality of the final structure.",
+        "Question": "Why is biocompatibility an important property for 3D printable conductive hydrogel inks intended for neural engineering applications?",
+        "A": "To ensure the ink is waterproof",
+        "B": "To prevent adverse effects such as inflammation or toxicity when interacting with biological tissues",
+        "C": "To make the ink more colorful",
+        "D": "To increase the viscosity of the ink",
+        "Answer": "B",
+        "Source": "Biocompatibility refers to the ability of a material to interact with biological tissues and systems without causing adverse effects such as inflammation, toxicity, or immune rejection."
+    },
+    "Question_9": {
+        "Context": "The mechanical properties of conductive hydrogels are crucial for their performance in biomedical applications. The stiffness of the hydrogel can affect how cells interact with the material.",
+        "Question": "What is the significance of matching the mechanical stiffness of conductive hydrogels to that of the surrounding tissue in neural engineering?",
+        "A": "To ensure the hydrogel can withstand high temperatures",
+        "B": "To improve the taste of the hydrogel",
+        "C": "To enhance the electrical insulation of the hydrogel",
+        "D": "To support cell growth and differentiation by providing a tissue-mimetic environment",
+        "Answer": "D",
+        "Source": "The mechanical properties of the hydrogels with similar modulus matching to the tissues are key features for supporting the cells to be encapsulated or surrounded."
+    },
+    "Question_10": {
+        "Context": "Adhesion between conductive hydrogels and biological tissues is a key factor for the successful integration of these materials in bioelectronic applications.",
+        "Question": "What role do chemical bonds play in the adhesion of conductive hydrogels to biological tissues?",
+        "A": "They provide a pleasant aroma to the hydrogel",
+        "B": "They change the color of the hydrogel upon contact with tissue",
+        "C": "They form strong and stable connections that enhance the transfer of electrical stimulation and recording at the tissue\u2013scaffold interface",
+        "D": "They increase the thermal conductivity of the hydrogel when in contact with tissue",
+        "Answer": "C",
+        "Source": "For stable electrical flow between a conductive hydrogel and biological tissue, strong and stable adhesion is essential for the accurate transfer of electrical stimulation and recording at the tissue\u2013scaffold interface."
+    }
+}

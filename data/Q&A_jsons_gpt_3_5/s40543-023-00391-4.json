@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Fluorescence spectroscopy was used to determine Ribavirin (RIB) quenching to phosphorus and nitrogen co-doped carbon quantum dots (PNQDs).",
+        "Question": "What is the linear range for the determination of RIB using fluorescence spectroscopy?",
+        "A": "0.06\u201310.00 \u00b5g/mL",
+        "B": "0.06\u201314.00 \u00b5g/mL",
+        "C": "0.06\u201340.00 ng/mL",
+        "D": "0.06\u2013100.00 ng/mL",
+        "Answer": "A",
+        "Source": "The RIB molecules have shown excellent sensitivity by quenching of the emission band at 401 nm upon excitation at 245 nm throughout a linear range of 0.06\u201310.00 \u00b5g/mL."
+    },
+    "Question_2": {
+        "Context": "The proposed method was validated according to the ICH guidelines.",
+        "Question": "What is the limit of detection (LOD) for RIB in authentic material?",
+        "A": "0.04 \u00b5g/mL",
+        "B": "0.06 \u00b5g/mL",
+        "C": "0.014 \u00b5g/mL",
+        "D": "0.016 \u00b5g/mL",
+        "Answer": "C",
+        "Source": "The limits of detection and quantitation were calculated to be 0.014 and 0.04 \u00b5g/mL for authentic material."
+    },
+    "Question_3": {
+        "Context": "The interaction between RIB and PNQDs was tested under various conditions.",
+        "Question": "What was the selected pH value for the interaction study between RIB and PNQDs?",
+        "A": "pH 2.00",
+        "B": "pH 4.00",
+        "C": "pH 6.00",
+        "D": "pH 8.00",
+        "Answer": "B",
+        "Source": "A slight further decline from pH 6.00 to pH 10.00 has been observed and this could be attributed to development of negatively charged carboxylate moieties that impart further repulsion to the PNQDs and consequently more inner filter effects."
+    },
+    "Question_4": {
+        "Context": "The proposed method was applied to pharmaceutical formulations.",
+        "Question": "What was the percentage recovery for RIB in Ribavirin\u00ae capsules?",
+        "A": "99.45%",
+        "B": "102.81%",
+        "C": "97.65%",
+        "D": "98.86%",
+        "Answer": "B",
+        "Source": "Ribavirin has shown good recovery of 102.81% upon application of the proposed method to the commercially available Ribavirin\u00ae capsules."
+    },
+    "Question_5": {
+        "Context": "The sensitivity of the proposed method was assessed through obtaining limits of detection (LOD) and quantitation (LOQ).",
+        "Question": "What is the limit of quantitation (LOQ) for RIB in spiked human plasma?",
+        "A": "0.04 \u00b5g/mL",
+        "B": "0.05 \u00b5g/mL",
+        "C": "0.06 \u00b5g/mL",
+        "D": "0.016 \u00b5g/mL",
+        "Answer": "B",
+        "Source": "The limits of detection and quantitation were calculated to be 0.016 and 0.05 \u00b5g/mL for spiked human plasma."
+    },
+    "Question_6": {
+        "Context": "The accuracy of the method was investigated at different concentration levels.",
+        "Question": "What was the percentage recovery for RIB at the mid concentration level?",
+        "A": "97.65%",
+        "B": "99.45%",
+        "C": "98.86%",
+        "D": "98.04%",
+        "Answer": "A",
+        "Source": "The monitored three concentrations for the accuracy study at low and mid and high levels of the linearity range have shown excellent recovery percentages ranged from 97.65 to 99.45%."
+    },
+    "Question_7": {
+        "Context": "The precision of the method was studied for intra-day and inter-day variations.",
+        "Question": "What was the % RSD for the determination of RIB at the high concentration level in the inter-day precision study?",
+        "A": "0.42%",
+        "B": "1.10%",
+        "C": "0.51%",
+        "D": "1.44%",
+        "Answer": "D",
+        "Source": "The monitored three concentrations for the accuracy study at low and mid and high levels of the linearity range have shown excellent recovery percentages ranged from 97.65 to 99.45%."
+    },
+    "Question_8": {
+        "Context": "The robustness of the method was determined by inspecting the effect of faint variation in the optimization parameters.",
+        "Question": "What was the investigated parameter for robustness with a % RSD of 0.91?",
+        "A": "Reaction time (3 min \u00b1 30 sec)",
+        "B": "pH (4.00 \u00b1 0.20)",
+        "C": "Concentration of quantum dot (6.00 \u00b1 0.20 \u00b5g/mL)",
+        "D": "pH (3.80)",
+        "Answer": "C",
+        "Source": "Concentration of quantum dot (6.00 \u00b1 0.20 \u00b5g/mL) - 6.20 \u00b5g/mL - 0.91"
+    },
+    "Question_9": {
+        "Context": "The method was compared with a previously reported HPLC method.",
+        "Question": "What was the percentage recovery for RIB by the reported HPLC method?",
+        "A": "103.69%",
+        "B": "102.81%",
+        "C": "97.65%",
+        "D": "98.86%",
+        "Answer": "A",
+        "Source": "Claimed amount (mg) % Recovery by the reported methods \u00b1 SD 103.69 \u00b1 1.09"
+    },
+    "Question_10": {
+        "Context": "The method was applied to spiked human plasma samples.",
+        "Question": "What was the percentage recovery for RIB at a concentration of 6.00 \u00b5g/mL?",
+        "A": "103.47%",
+        "B": "103.44%",
+        "C": "104.35%",
+        "D": "103.30%",
+        "Answer": "C",
+        "Source": "6.00 6.26 104.35"
+    }
+}

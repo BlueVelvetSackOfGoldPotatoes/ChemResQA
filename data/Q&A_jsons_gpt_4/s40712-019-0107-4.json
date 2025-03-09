@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In thermoelasticity, different types of plates can be classified based on their aspect ratio, which is the ratio of the diameter of a plate to its thickness.",
+        "Question": "What is the aspect ratio range for a plate to be classified as a thin plate?",
+        "A": "a/h \u2265 80...100",
+        "B": "a/h \u2264 8...10",
+        "C": "8\u202610 \u2264 a/h \u2264 80\u2026.100",
+        "D": "a/h is not a determining factor for classifying plates",
+        "Answer": "C",
+        "Source": "According to Ventsel and Krauthammer (2001) and Zhao (2008), plates can be classified into three categories: membranes, thin plates, and thick plates depending upon the aspect ratio. The aspect ratio is defined as a/h, where a is the diameter of a plate and h is the thickness of a plate. It is termed as thin plate with aspect ratio as 8\u202610 \u2264 a/h \u2264 80\u2026.100."
+    },
+    "Question_2": {
+        "Context": "In the field of thermoelasticity, the deformation and heat flow in materials are studied using various theories and equations.",
+        "Question": "Which transform techniques are commonly used to find the solution to thermoelastic problems in circular plates?",
+        "A": "Fourier and Z-transform",
+        "B": "Laplace and Hankel transform",
+        "C": "Wavelet and Radon transform",
+        "D": "Maxwell and Heaviside transform",
+        "Answer": "B",
+        "Source": "The Laplace and Hankel transform techniques have been used to find the solution to the problem. The displacement components, conductive temperature distribution, and stress components with the radial distance are computed in the transformed domain and further calculated in the physical domain using numerical inversion techniques."
+    },
+    "Question_3": {
+        "Context": "In thermoelasticity, the constitutive relations and field equations describe the behavior of an anisotropic thermoelastic medium in the absence of body forces and heat sources.",
+        "Question": "What does the constitutive relation tij = Cijklekl - \u03b2ijT represent in the context of anisotropic thermoelasticity?",
+        "A": "The relationship between stress and strain tensors",
+        "B": "The equation of motion for a uniformly rotating medium",
+        "C": "The components of Lorentz force",
+        "D": "The thermal conductivity parameter",
+        "Answer": "A",
+        "Source": "Following Lata (2017a, 2017b), the constitutive relations and field equations for an anisotropic thermoelastic medium in the absence of body forces and heat sources are: tij = Cijklekl - \u03b2ijT; where tij are the components of stress tensor, eij are the components of strain tensor, T is the thermodynamic temperature, and \u03b2ij is the thermal tensor."
+    },
+    "Question_4": {
+        "Context": "In the study of thermoelasticity, the equation of motion for a rotating medium takes into account the effects of angular velocity.",
+        "Question": "What additional acceleration term is introduced in the equation of motion for a thermoelastic medium due to its rotation?",
+        "A": "Gravitational acceleration",
+        "B": "Centripetal acceleration",
+        "C": "Coriolis acceleration",
+        "D": "Electromagnetic acceleration",
+        "Answer": "C",
+        "Source": "The equation of motion for a uniformly rotating medium with an angular velocity \u03a9 is: tij;j = \u03c1 \u20acui + \u03a9 \u00d7 (\u03a9 \u00d7 u) + (2\u03a9 \u00d7 \u02d9u)i; where the term 2\u03a9 \u00d7 \u02d9u is the Coriolis acceleration."
+    },
+    "Question_5": {
+        "Context": "In thermoelasticity, the behavior of materials under thermal and mechanical loads is described by various parameters and equations.",
+        "Question": "What is the role of the coefficient of linear thermal expansion in thermoelasticity?",
+        "A": "It determines the change in volume due to temperature changes",
+        "B": "It defines the relationship between thermal and electrical conductivity",
+        "C": "It measures the change in dimensions or area due to temperature changes",
+        "D": "It calculates the heat transfer rate through a material",
+        "Answer": "C",
+        "Source": "\u03b2ij = Cijkl\u03b1ij; where \u03b2ij is the thermal tensor, \u03b1ij is the coefficient of linear thermal expansion, and Cijkl are the elastic parameters."
+    },
+    "Question_6": {
+        "Context": "In thermoelasticity, the constitutive relations for an axisymmetric problem involve stress and strain components in cylindrical coordinates.",
+        "Question": "Which constitutive relation correctly represents the radial stress trr in terms of strain components for an axisymmetric problem?",
+        "A": "trr = c11err + c12e\u03b8\u03b8 + c13ezz - \u03b21T",
+        "B": "trr = 2c44erz",
+        "C": "trr = c13err + c13e\u03b8\u03b8 + c33ezz - \u03b23T",
+        "D": "trr = c12err + c11e\u03b8\u03b8 + c13ezz - \u03b21T",
+        "Answer": "A",
+        "Source": "For axisymmetric problem following Lata and Kaur (2019b), the constitutive relations are: trr = c11err + c12e\u03b8\u03b8 + c13ezz - \u03b21T; where trr is the radial stress, err, e\u03b8\u03b8, and ezz are the strain components, and T is the temperature."
+    },
+    "Question_7": {
+        "Context": "In the analysis of thermoelastic materials, dimensionless quantities are often introduced to simplify the equations and facilitate the solution.",
+        "Question": "Which of the following is a dimensionless quantity used in the analysis of thermoelastic materials?",
+        "A": "The radial stress trr",
+        "B": "The angular velocity \u03a9",
+        "C": "The displacement component u",
+        "D": "The conductive temperature \u03c6",
+        "Answer": "D",
+        "Source": "To facilitate the solution, the following dimensionless quantities are introduced: r' = r/L; z' = z/L; t' = c1/Lt; u' = \u03c1c2_1/L\u03b21T_0u; w' = \u03c1c2_1/L\u03b21T_0w; T' = T/T_0; tzr' = tzr/\u03b21T_0; tzz' = tzz/\u03b21T_0; \u03a9' = L/C1\u03a9; \u03c6' = \u03c6/T0; where \u03c6 is the conductive temperature."
+    },
+    "Question_8": {
+        "Context": "In thermoelasticity, boundary conditions play a crucial role in determining the behavior of materials under thermal and mechanical loads.",
+        "Question": "What type of boundary condition corresponds to h2 \u2192 0 in the context of thermoelasticity?",
+        "A": "Thermally insulated boundaries",
+        "B": "Isothermal boundaries",
+        "C": "Adiabatic boundaries",
+        "D": "Conductive boundaries",
+        "Answer": "A",
+        "Source": "We consider a cubical thermal source and normal force along with vanishing of tangential stress components at the stress-free surface at z = \u00b1 h. Mathematically, these can be written as: h1 \u2202\u03c6/\u2202z + h2\u03c6 = -go F(r, z); where h2 \u2192 0 corresponds to thermally insulated boundaries."
+    },
+    "Question_9": {
+        "Context": "In thermoelasticity, the analysis of a thin circular plate subjected to thermal loads involves the use of various heat sources.",
+        "Question": "What type of heat source decays moving away from the center of the thin circular plate in both the radial and axial directions?",
+        "A": "Uniform heat source",
+        "B": "Linearly varying heat source",
+        "C": "Exponentially decaying heat source",
+        "D": "Cubical thermal source",
+        "Answer": "D",
+        "Source": "We consider a cubical thermal source and normal force along with vanishing of tangential stress components at the stress-free surface at z = \u00b1 h. Mathematically, these can be written as: h1 \u2202\u03c6/\u2202z + h2\u03c6 = -go F(r, z); where F(r, z) is the heat source."
+    },
+    "Question_10": {
+        "Context": "In the study of thermoelasticity, the Laplace and Hankel transforms are used to solve problems in the transformed domain, which are then inverted to obtain solutions in the physical domain.",
+        "Question": "What numerical technique is used to calculate the integral when inverting the Hankel transform in thermoelasticity problems?",
+        "A": "Romberg's integration",
+        "B": "Simpson's rule",
+        "C": "Trapezoidal rule",
+        "D": "Gaussian quadrature",
+        "Answer": "A",
+        "Source": "To find the solution of the problem in physical domain, we must invert the transforms in Eqs. (34)\u2013(39). These equations are functions of \u03be and z and hence are of the form ~f(\u03be, z, \u03c9). To get the function f(r, z, \u03c9) in the physical domain, first, we invert the Hankel transform using: f(r, z, \u03c9) = \u222b_0^\u221e \u03be~f(\u03be, z, \u03c9)Jn(\u03ber)d\u03be; where Jn is the Bessel function of the first kind. The method for evaluating this integral is described in Press, Teukolshy, Vellerling, & Flannery (1986), which uses Romberg's integration with adaptive step size."
+    }
+}

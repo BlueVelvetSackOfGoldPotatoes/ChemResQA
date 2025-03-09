@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Automated dispensing systems (ADS) are used to dispense radiopharmaceuticals while reducing radiation exposure, improving dose accuracy, and limiting microbiological contamination.",
+        "Question": "What is the maximum acceptable bias for the accuracy of an automated dispensing system when dispensing radiopharmaceuticals?",
+        "A": "10%",
+        "B": "5%",
+        "C": "2.35%",
+        "D": "3.03%",
+        "Answer": "B",
+        "Source": "The maximum bias is 2.35% and the maximum coefficient of variation is 3.03% which meets the acceptance criteria of < 5%."
+    },
+    "Question_2": {
+        "Context": "In the context of radiopharmaceuticals, different isotopes have specific operational ranges within which an automated dispensing system must accurately dispense doses.",
+        "Question": "What is the validated linear range for dispensing lutetium-177 according to the specified criteria?",
+        "A": "100\u201310,000 MBq",
+        "B": "20\u201374 MBq",
+        "C": "100\u20131000 MBq",
+        "D": "100\u20132000 MBq",
+        "Answer": "A",
+        "Source": "The ADS can dispense accurate doses in the following linear range: 1000\u201310,000 MBq for lutetium\u2011177."
+    },
+    "Question_3": {
+        "Context": "The validation of an automated dispensing system includes testing for linearity to ensure the system can accurately dispense doses within different dose ranges.",
+        "Question": "What is the minimum correlation coefficient (r2) required for the linearity acceptance criteria when validating an automated dispensing system?",
+        "A": "0.95",
+        "B": "0.99",
+        "C": "0.90",
+        "D": "1.00",
+        "Answer": "B",
+        "Source": "The acceptance criteria for the linearity are a correlation with a r2 > 0.99."
+    },
+    "Question_4": {
+        "Context": "Automated dispensing systems must maintain aseptic conditions to prevent microbiological contamination during the dispensing process.",
+        "Question": "What is the maximum number of colony forming units (CFU) allowed on settle plates in a GMP class A environment during dispensing activities?",
+        "A": "0 CFU",
+        "B": "1 CFU",
+        "C": "5 CFU",
+        "D": "10 CFU",
+        "Answer": "B",
+        "Source": "For the environmental validation, sedimentation and contact plates were used to determine the colony forming units (CFU) at high-risk spots during dispensing activities (in operation status)."
+    },
+    "Question_5": {
+        "Context": "In the context of radiopharmaceuticals, the sterility of the product is crucial and is validated by simulating the production process.",
+        "Question": "During aseptic production validation, what medium is used to simulate the production of radiopharmaceuticals?",
+        "A": "Tryptic soy agar",
+        "B": "Tryptic soy broth",
+        "C": "Nutrient broth",
+        "D": "Sabouraud dextrose broth",
+        "Answer": "B",
+        "Source": "For the production validation, the sterility was investigated by simulating the production using tryptic soy broth."
+    },
+    "Question_6": {
+        "Context": "Radiation protection is an important aspect of working with radiopharmaceuticals, and the dose rates during dispensing must be measured and compared to theoretical calculations.",
+        "Question": "What is used to calculate the theoretical dose rates for radiation protection during the validation of an automated dispensing system?",
+        "A": "A dose rate meter",
+        "B": "An online calculator",
+        "C": "A Geiger-M\u00fcller counter",
+        "D": "A scintillation counter",
+        "Answer": "B",
+        "Source": "The theoretical dose rates during dose dispensing using the ADS have been determined prior to the purchase. During validation, the theoretical dose rates are compared to measurements in practice."
+    },
+    "Question_7": {
+        "Context": "Data integrity is essential in the validation of automated systems, ensuring that the transfer of information between software systems is correct.",
+        "Question": "What guideline provides recommendations for the implementation and validation of automated systems to ensure data integrity?",
+        "A": "GAMP5",
+        "B": "ISO 15189",
+        "C": "GMP Annex 1",
+        "D": "Euratom Treaty",
+        "Answer": "A",
+        "Source": "The GAMP5 provides a guideline for implementation and validation of automated systems and recommends that correctness of the transfer between two software systems is validated."
+    },
+    "Question_8": {
+        "Context": "The performance qualification of an automated dispensing system includes the validation of accuracy and precision for dispensing specific radiopharmaceuticals.",
+        "Question": "What is the coefficient of variation (CV) for the intra-run accuracy of dispensed doses for lutetium-177 in a 3 mL syringe?",
+        "A": "1.70%",
+        "B": "0.74%",
+        "C": "3.03%",
+        "D": "0.43%",
+        "Answer": "C",
+        "Source": "The intra-run accuracy of dispensed doses for all nuclides ranged between \u2212 2.0 and 2.35% whereas the coefficient of variation ranged between \u2212 0.59 and 1.70%."
+    },
+    "Question_9": {
+        "Context": "In the context of radiopharmaceuticals, the operational range for dispensing different isotopes is determined based on the activity used in the clinic.",
+        "Question": "What is the validated linear range for dispensing zirconium-89?",
+        "A": "0.2\u201350 MBq",
+        "B": "10\u201374 MBq",
+        "C": "10\u20132000 MBq",
+        "D": "100\u20132000 MBq",
+        "Answer": "B",
+        "Source": "The validated linearity range for routine dose dispensing of Zr-89 products was set to 20\u201374 MBq, which is sufficient for a regular dose of 89-Zr products (usually 37 MBq)."
+    },
+    "Question_10": {
+        "Context": "The performance qualification of an automated dispensing system for radiopharmaceuticals includes the validation of aseptic production to ensure the sterility of the dispensed product.",
+        "Question": "What is the outcome of a successful production validation for aseptic production?",
+        "A": "No growth of CFU in the bouillon",
+        "B": "A maximum of 5 CFU in the bouillon",
+        "C": "A maximum of 1 CFU in the bouillon",
+        "D": "Presence of gram-positive cocci in the bouillon",
+        "Answer": "A",
+        "Source": "All the bouillons were clear and showed no growth of CFU\u2019s."
+    }
+}

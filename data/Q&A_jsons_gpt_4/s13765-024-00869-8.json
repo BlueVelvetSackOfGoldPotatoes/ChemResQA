@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Microplastics are small plastic particles that can be categorized based on their size. These categories range from very small particles to larger fragments.",
+        "Question": "Which size category does a microplastic particle of 700 \u00b5m fall into?",
+        "A": "Nanoplastic",
+        "B": "Small microplastic",
+        "C": "Large microplastic",
+        "D": "Mesoplastic",
+        "Answer": "C",
+        "Source": "Microplastic can be categorized into nanoplastic (< 1 \u00b5m), small microplastic (1 \u00b5m\u20131 mm), large microplastic (1\u20135 mm), meso-plastic (5 mm ~ 2.5 cm), and macroplastic (> 2.5 cm)."
+    },
+    "Question_2": {
+        "Context": "Microplastics can enter soil environments through various routes and can have negative effects on soil organisms and eventually humans.",
+        "Question": "What is the main source of microplastics in urban soil environments?",
+        "A": "Agricultural machinery",
+        "B": "Industrial activities",
+        "C": "River floods",
+        "D": "Natural biodegradation",
+        "Answer": "B",
+        "Source": "Microplastic contamination in soil mainly occurs through agricultural and industrial activities, with industrial activities being the main contributor in urban areas."
+    },
+    "Question_3": {
+        "Context": "Microplastics in the environment can undergo physical and chemical decomposition processes, but these processes can take a considerable amount of time.",
+        "Question": "Which processes are involved in the decomposition of plastic waste in the environment?",
+        "A": "Combustion and sedimentation",
+        "B": "Biodegradation and photodegradation",
+        "C": "Hydrolysis and sublimation",
+        "D": "Oxidation and vaporization",
+        "Answer": "B",
+        "Source": "Plastic waste usually decomposes physically and chemically through biodegradation or photodegradation."
+    },
+    "Question_4": {
+        "Context": "The time it takes for various plastic materials to decompose can vary widely.",
+        "Question": "How long can it take for some types of plastics to fully decompose?",
+        "A": "A few months to a year",
+        "B": "One to five years",
+        "C": "Tens to hundreds of years",
+        "D": "Thousands of years",
+        "Answer": "C",
+        "Source": "Various plastic materials take tens to hundreds of years to fully decompose depending on the type of plastic."
+    },
+    "Question_5": {
+        "Context": "Microplastics can be ingested by soil organisms during the decomposition process and can be transported to different environmental compartments.",
+        "Question": "How can microplastics be transported from soil to rivers or oceans?",
+        "A": "Through wind or water",
+        "B": "By animal migration",
+        "C": "Via plant uptake",
+        "D": "Through soil aeration",
+        "Answer": "A",
+        "Source": "Microplastic on the surface of the soil can be transported to rivers or oceans through wind or water."
+    },
+    "Question_6": {
+        "Context": "Microplastics can be categorized by shape, which can include various forms.",
+        "Question": "Which of the following is NOT a common shape category for microplastics?",
+        "A": "Fragment",
+        "B": "Fiber",
+        "C": "Film",
+        "D": "Cube",
+        "Answer": "D",
+        "Source": "Various colors and shapes of microplastics were found in soils. The combination of black x fragment plastics showed the highest frequency."
+    },
+    "Question_7": {
+        "Context": "Soil can interact with pollutants in various ways, which can lead to secondary environmental damage.",
+        "Question": "Which of the following is NOT a function of soil in relation to pollutants?",
+        "A": "Store",
+        "B": "Transfer",
+        "C": "Decompose",
+        "D": "Synthesize",
+        "Answer": "D",
+        "Source": "Although soil can store, transfer, decompose, and interact with other pollutants and cause secondary damage, research on micro-plastics in soil is still in its early stages."
+    },
+    "Question_8": {
+        "Context": "Microplastics can originate from various sources in agricultural areas.",
+        "Question": "Which of the following is NOT a source of microplastics in agricultural areas?",
+        "A": "Discarded fishing nets",
+        "B": "Sewage sludge containing microplastics",
+        "C": "Natural rock erosion",
+        "D": "Plastic film waste from mulching",
+        "Answer": "C",
+        "Source": "In agricultural areas, microplastics can originate from agricultural machinery, plastic film waste from mulching, greenhouses, discarded pesticide bottles, discarded fishing nets, insulated covers, sewage sludge containing micro-plastics, fertilizers, organic fertilizers, and slow-release fertilizers, which can be transferred to the soil."
+    },
+    "Question_9": {
+        "Context": "The presence of microplastics in soil can have various negative effects on the environment.",
+        "Question": "What can happen to microplastics ingested by soil organisms like earthworms?",
+        "A": "They can be digested into even smaller particles",
+        "B": "They are immediately expelled from the organism",
+        "C": "They are transformed into organic compounds",
+        "D": "They cause the organism to grow larger",
+        "Answer": "A",
+        "Source": "Physical friction, ultraviolet rays, and temperature changes can weather microplastic in soil, and soil organisms like earthworms can digest it, resulting in even smaller microplastic particles that can travel through soil pores and contaminate groundwater."
+    },
+    "Question_10": {
+        "Context": "Fourier transform infrared spectrometer (FT\u2011IR) is a technique used to analyze the composition of microplastics in environmental samples.",
+        "Question": "Which of the following polymers can be identified in soil samples using FT\u2011IR analysis?",
+        "A": "Polyethylene (PE)",
+        "B": "Polyvinyl alcohol (PVA)",
+        "C": "Polybutylene terephthalate (PBT)",
+        "D": "Polyisoprene (PI)",
+        "Answer": "A",
+        "Source": "The number of microplastics detected in the soil with sizes ranging between 20 \u00b5m and 500 \u00b5m was in the order of roadside > residential areas > agricultural land, which was different from the results by stereomicroscopy. Polyethylene (PE), polypropylene (PP), and polymethyl methacrylate (PMMA) were detected in soils from roadsides."
+    }
+}

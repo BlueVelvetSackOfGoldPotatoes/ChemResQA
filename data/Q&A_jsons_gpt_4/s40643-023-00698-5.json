@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Lignocellulosic biomass is composed of three primary components which are essential for various industrial applications, including the production of chemicals.",
+        "Question": "What are the three primary components of lignocellulosic biomass?",
+        "A": "Lignin, glucose, and fructose",
+        "B": "Lignin, cellulose, and hemicellulose",
+        "C": "Cellulose, starch, and pectin",
+        "D": "Hemicellulose, glucose, and pectin",
+        "Answer": "B",
+        "Source": "Three primary components of lignocellulose are lignin, cellulose, and hemicellulose."
+    },
+    "Question_2": {
+        "Context": "Microwave-assisted technology is used to oxidize lignocellulosic biomass to extract lignin for the production of valuable chemicals.",
+        "Question": "What technology is used to oxidize lignocellulosic biomass for the extraction of lignin?",
+        "A": "Ultraviolet light irradiation",
+        "B": "Infrared heating",
+        "C": "Microwave-assisted technology",
+        "D": "Conventional thermal heating",
+        "Answer": "C",
+        "Source": "This paper uses microwave-assisted technology to oxidize the kenaf stalk (lignocellulosic biomass) and extract lignin to produce vanillin."
+    },
+    "Question_3": {
+        "Context": "Catalysts with specific properties are crucial for the conversion of lignocellulosic biomass into valuable chemicals.",
+        "Question": "What properties are essential for catalysts used in the effective conversion of lignocellulosic biomass?",
+        "A": "Acid\u2013base and redox properties",
+        "B": "Thermal and electrical conductivity",
+        "C": "Magnetic and optical properties",
+        "D": "Solubility and density",
+        "Answer": "A",
+        "Source": "Catalysts with variable acid\u2013base and redox properties are essential for the mentioned effective conversion."
+    },
+    "Question_4": {
+        "Context": "The citrate complexation method is a synthesis technique used for preparing catalysts with specific physicochemical characteristics.",
+        "Question": "Which method was used for the synthesis of catalysts in the oxidation of lignocellulosic biomass?",
+        "A": "Sol-gel method",
+        "B": "Hydrothermal synthesis",
+        "C": "Citrate complexation method",
+        "D": "Precipitation method",
+        "Answer": "C",
+        "Source": "The citrate complexation method was used for the catalyst synthesis and the physicochemical characteristics were analyzed by XRD, FTIR, FE\u2013SEM, TEM, BET, and TPO."
+    },
+    "Question_5": {
+        "Context": "In the context of lignocellulosic biomass conversion, the yield of a specific chemical can be influenced by various operational parameters during the reaction.",
+        "Question": "Which operational parameters were studied for their effect on vanillin production from lignocellulosic biomass?",
+        "A": "Reaction temperature, reaction time, and catalyst loading",
+        "B": "Pressure, solvent type, and stirring speed",
+        "C": "Substrate concentration, enzyme activity, and pH",
+        "D": "Ambient humidity, light intensity, and vessel material",
+        "Answer": "A",
+        "Source": "For vanillin production, the effect of reaction temperature, reaction time, and catalyst loading was studied."
+    },
+    "Question_6": {
+        "Context": "Lignin is a significant biopolymer in lignocellulosic biomass and a potential feedstock for producing aromatic chemicals.",
+        "Question": "What is the most abundant structural unit in lignin?",
+        "A": "\u03b2-o-4 linkage",
+        "B": "\u03b1-o-4 linkage",
+        "C": "\u03b2-1 linkage",
+        "D": "\u03b3-o-4 linkage",
+        "Answer": "A",
+        "Source": "Lignin possesses a heterogeneous structure containing aryl ether (i.e., composed of \u03b2-o-4 linkage) as the most abundant structural unit (up to 60% of all linkages)."
+    },
+    "Question_7": {
+        "Context": "The addition of certain elements to ceria (CeO2) can enhance its properties for use in catalytic processes.",
+        "Question": "Which element, when added to CeO2, can increase its oxygen storage and reducibility?",
+        "A": "Magnesium (Mg)",
+        "B": "Zirconium (Zr)",
+        "C": "Sodium (Na)",
+        "D": "Iron (Fe)",
+        "Answer": "B",
+        "Source": "It has been widely reported that adding Zr, La, or W with CeO2 can increase its ability to store oxygen and its reducibility."
+    },
+    "Question_8": {
+        "Context": "The surface area of a catalyst is a critical factor that can influence its catalytic activity.",
+        "Question": "Which catalyst showed the smallest sized crystallites with a large specific surface area among the synthesized catalysts?",
+        "A": "CeO2\u2013CA",
+        "B": "ZrO2\u2013CA",
+        "C": "CeZrO2\u2013CA",
+        "D": "LaZrO2\u2013CA",
+        "Answer": "C",
+        "Source": "The characterization results demonstrated that CeZrO2\u2013CA shows the smallest sized crystallites with a large specific surface area among the other chosen catalysts."
+    },
+    "Question_9": {
+        "Context": "Vanillin is a valuable chemical that can be produced from lignocellulosic biomass through catalytic oxidation.",
+        "Question": "What was the highest vanillin yield achieved using CeZrO2\u2013CA as a catalyst for kenaf stalk?",
+        "A": "7.50%",
+        "B": "9.90%",
+        "C": "12.30%",
+        "D": "14.30%",
+        "Answer": "B",
+        "Source": "Compared to other catalysts, CeZrO2\u2013CA produced the highest vanillin yield of 9.90% for kenaf stalk for 5 wt% of CeZrO2\u2013CA at 160 \u00b0C for 30 min."
+    },
+    "Question_10": {
+        "Context": "The stability and recyclability of a catalyst are important for its application in industrial processes.",
+        "Question": "What did the study reveal about the recyclability of the CeZrO2\u2013CA catalyst?",
+        "A": "It could not be recycled",
+        "B": "It showed decreased activity after one use",
+        "C": "It maintained activity after multiple uses",
+        "D": "It was only stable for non-industrial applications",
+        "Answer": "C",
+        "Source": "Finally, the recyclability of catalyst is also studied, which showed that it has a strong metal support and greater stability which may give industrial applications a significant boost."
+    }
+}

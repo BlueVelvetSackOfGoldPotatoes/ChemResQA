@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In plants, certain transcription factors are known to play a role in the development of chloroplasts and the enhancement of photosynthesis.",
+        "Question": "Which transcription factors are known to positively influence chloroplast biogenesis and photosynthesis?",
+        "A": "GOLDEN2-LIKE (GLK) transcription factors",
+        "B": "PHYTOCHROME INTERACTING FACTORS (PIFs)",
+        "C": "ELONGATED HYPOCOTYL5 (HY5) transcription factors",
+        "D": "PSEUDO RESPONSE REGULATOR2 proteins",
+        "Answer": "A",
+        "Source": "GLKs are also known as master regulators of chloroplast biogenesis by positively coordinating the expression of photosynthesis-associated nuclear genes (PhANGs) in many plants."
+    },
+    "Question_2": {
+        "Context": "Chlorophyll biosynthesis is a critical process in plants that contributes to their green color and photosynthetic capacity.",
+        "Question": "What are the two main types of chlorophyll found in plants?",
+        "A": "Chlorophyll a and carotenoids",
+        "B": "Chlorophyll b and flavonoids",
+        "C": "Chlorophyll a and chlorophyll b",
+        "D": "Chlorophyll c and chlorophyll d",
+        "Answer": "C",
+        "Source": "Chlorophylls, which include both chlorophyll a and chlorophyll b, are photosynthetic pigments that cause plants to appear green."
+    },
+    "Question_3": {
+        "Context": "In the context of plant biology, certain mutations can lead to changes in the coloration of plant tissues due to alterations in pigment biosynthesis.",
+        "Question": "What color phenotype was observed in the maize g2 mutant, which is associated with a defect in chlorophyll biosynthesis?",
+        "A": "Dark green",
+        "B": "Paler yellow-green",
+        "C": "Bright red",
+        "D": "Deep blue",
+        "Answer": "B",
+        "Source": "Since a paler yellow\u2013green ('golden') color was observed in a maize g2 mutant plant, loss-of-functional studies involving diverse plant GLKs have been performed."
+    },
+    "Question_4": {
+        "Context": "Functional redundancy is a phenomenon where multiple genes can perform the same function in an organism.",
+        "Question": "What does the functional redundancy of GLK genes in Arabidopsis suggest about their role in chlorophyll biosynthesis?",
+        "A": "Only one GLK gene is necessary for chlorophyll biosynthesis.",
+        "B": "Both GLK genes must be knocked out to see a significant decrease in chlorophyll content.",
+        "C": "GLK genes are not involved in chlorophyll biosynthesis.",
+        "D": "Knocking out GLK genes increases chlorophyll content.",
+        "Answer": "B",
+        "Source": "Correlated with these color traits, chlorophyll content was significantly decreased in the leaves, siliques, and seedlings in the double mutant but not in either single mutant, thereby suggesting the functional redundancy of two GLKs in most photosynthetic tissues."
+    },
+    "Question_5": {
+        "Context": "The GARP superfamily of proteins includes transcription factors that are involved in various plant processes, including chloroplast development.",
+        "Question": "Which domain is conserved in the GARP superfamily and is involved in DNA-binding?",
+        "A": "Nuclear localization signal",
+        "B": "AREAEAA hexapeptide",
+        "C": "Proline-rich domain",
+        "D": "MYB-related B domain",
+        "Answer": "D",
+        "Source": "The DBD is a MYB-related B domain (~ 60 amino acids in length) that conserved in GARP superfamily with three \u03b1-helices."
+    },
+    "Question_6": {
+        "Context": "Transcription factors can bind to specific DNA sequences to regulate gene expression, which can include genes involved in chlorophyll biosynthesis and photosynthetic apparatus.",
+        "Question": "Which motif in GLK transcription factors is known to confer specific characteristics that distinguish them from other GARP family members?",
+        "A": "Nuclear localization signal",
+        "B": "AREAEAA hexapeptide",
+        "C": "GCT box",
+        "D": "Proline-rich domain",
+        "Answer": "B",
+        "Source": "The consensus sequence of the AREAEAA hexapeptide motif, which immediately follows the third helix of the B domain confers specific characteristics to GLKs that distinguish them from other GAPR members."
+    },
+    "Question_7": {
+        "Context": "The evolution of certain gene families can be traced back to ancestral organisms, providing insights into the development of specific traits in plants.",
+        "Question": "In which group of organisms did ancestral GLK orthologs first emerge?",
+        "A": "Green algae",
+        "B": "Bryophytes",
+        "C": "Angiosperms",
+        "D": "Gymnosperms",
+        "Answer": "A",
+        "Source": "Interestingly, ancestral GLK orthologs emerged in some green algae species in which the GCT box was absent."
+    },
+    "Question_8": {
+        "Context": "Photosynthesis in plants involves the conversion of light energy into chemical energy, which is facilitated by various pigments and organelles.",
+        "Question": "What is the primary pigment required for photosynthesis that gives plants their green color?",
+        "A": "Carotenoids",
+        "B": "Flavonoids",
+        "C": "Chlorophyll",
+        "D": "Anthocyanins",
+        "Answer": "C",
+        "Source": "Photosynthesis requires a chlorophyll pigment and a chloroplast organelle to perform photosynthesis at scale when exposed to light."
+    },
+    "Question_9": {
+        "Context": "In plant biology, the development of chloroplasts is crucial for the process of photosynthesis.",
+        "Question": "Which plant structure is primarily involved in the process of photosynthesis?",
+        "A": "Mitochondrion",
+        "B": "Chloroplast",
+        "C": "Nucleus",
+        "D": "Endoplasmic reticulum",
+        "Answer": "B",
+        "Source": "Photosynthesis requires a chlorophyll pigment and a chloroplast organelle to perform photosynthesis at scale when exposed to light."
+    },
+    "Question_10": {
+        "Context": "Plants have developed various mechanisms to cope with environmental stress, which can include the regulation of genes associated with stress responses.",
+        "Question": "What type of stress resistance might be influenced by GLK transcription factors?",
+        "A": "Biotic stress resistance",
+        "B": "Abiotic stress resistance",
+        "C": "Both biotic and abiotic stress resistance",
+        "D": "Neither biotic nor abiotic stress resistance",
+        "Answer": "C",
+        "Source": "They individually influence other traits including yield, phytochemical accumulation, and biotic and abiotic stress resistance."
+    }
+}

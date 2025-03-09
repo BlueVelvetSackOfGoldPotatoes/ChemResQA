@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Understanding the endocytosis process of internalized nanomedicines through membrane biomarker is crucial for the development of molecular-specific nanomedicines.",
+        "Question": "What is the significance of metalloproteases in the context of cancer cell metastasis?",
+        "A": "They are not involved in cancer cell metastasis.",
+        "B": "They are important markers during the metastasis of cancer cells.",
+        "C": "They have no impact on cancer cell metastasis.",
+        "D": "They are only relevant in non-cancerous cells.",
+        "Answer": "B",
+        "Source": "In various recent reports, the metalloproteases have been identified as important markers during the metastasis of cancer cells."
+    },
+    "Question_2": {
+        "Context": "The study applied fluorescent Au nanoclusters resistant to chemical quenching to investigate MT1-MMP-mediated endocytosis.",
+        "Question": "What was the purpose of synthesizing protein-based Au nanoclusters in the study?",
+        "A": "To investigate the effect of chemical quenching on nanoparticles.",
+        "B": "To monitor protease-mediated endocytosis.",
+        "C": "To study the impact of lipophilic network transformation.",
+        "D": "To analyze the fluorescence capacity of nanoparticles.",
+        "Answer": "B",
+        "Source": "We synthesized protein-based Au nanocluster (PAuNC) and MT1-MMP-specific peptide was conjugated with PAuNC (pPAuNC) for monitoring protease-mediated endocytosis."
+    },
+    "Question_3": {
+        "Context": "The study confirmed a change in the intracellular lipophilic network after an endocytosis event of pPAuNC.",
+        "Question": "What was the specific change observed in the intracellular lipophilic network after endocytosis of pPAuNC?",
+        "A": "No change was observed.",
+        "B": "Increased aggregation of lipophilic structures.",
+        "C": "Decreased lipophilic network complexity.",
+        "D": "Formation of a dense network.",
+        "Answer": "D",
+        "Source": "The image and counts of branch, junction, and slab voxels indicated the formation of a dense network after pPAuNC internalization."
+    },
+    "Question_4": {
+        "Context": "The study evaluated the cytotoxicity of albumin, bPAuNC, and pPAuNC using crystal violet staining.",
+        "Question": "What was the impact of pPAuNC treatment on cell viability compared to albumin and bPAuNC?",
+        "A": "Decreased cell viability.",
+        "B": "No change in cell viability.",
+        "C": "Increased cell viability.",
+        "D": "Variable impact on different cell lines.",
+        "Answer": "C",
+        "Source": "In particular, MDA-MB-231 cells had higher cell viability after pPAuNC treatment than any other conditions."
+    },
+    "Question_5": {
+        "Context": "The study investigated the correlation of MT1-MMP expression levels with the intracellular uptake of pPAuNC.",
+        "Question": "What was the observed correlation between MT1-MMP expression levels and the intracellular uptake of pPAuNC?",
+        "A": "No correlation observed.",
+        "B": "Negative correlation.",
+        "C": "Positive correlation.",
+        "D": "Inconsistent correlation.",
+        "Answer": "C",
+        "Source": "The functionalized pPAuNC for MT1-MMP-specific targeting was more internalized into MDA-MB-231 cells and resulted in a three-fold increase of fluorescence intensity compared to MCF7 cells."
+    },
+    "Question_6": {
+        "Context": "The study conducted a competitive binding assay to inhibit the intracellular uptake of pPAuNC.",
+        "Question": "What was the effect of increasing extracellular albumin concentration on the intracellular uptake of pPAuNC?",
+        "A": "Enhanced uptake of pPAuNC.",
+        "B": "No impact on pPAuNC uptake.",
+        "C": "Decreased uptake of pPAuNC.",
+        "D": "Variable impact depending on cell type.",
+        "Answer": "B",
+        "Source": "Uptake of pPAuNC was not attributed to albumin-mediated endocytosis, as the inclusion of free albumin CLLD did not show an inhibitory effect on the amount of uptake."
+    },
+    "Question_7": {
+        "Context": "The study analyzed the lipophilic network induced by MT1-MMP-dependent endocytosis of pPAuNC at the single-cell level.",
+        "Question": "What was the purpose of the single-cell branched lipophilic network analysis in the study?",
+        "A": "To determine the impact of nanoparticles on cell proliferation.",
+        "B": "To assess the lipophilic network remodeling after nanoparticle internalization.",
+        "C": "To study the effect of nanoparticles on cell migration.",
+        "D": "To evaluate the impact of nanoparticles on cell differentiation.",
+        "Answer": "B",
+        "Source": "The endocytosis process of engulfing nanoparticles is related to the complex behavior of intracellular organelle networks."
+    },
+    "Question_8": {
+        "Context": "The study presented albumin-based photoluminescent nanoparticles as promising agents for expanding into functional imaging and therapeutics for cancer treatment.",
+        "Question": "What potential application was highlighted for albumin-based photoluminescent nanoparticles in the study?",
+        "A": "Enhancing cell proliferation.",
+        "B": "Expanding into functional imaging and therapeutics for cancer treatment.",
+        "C": "Inducing cell apoptosis.",
+        "D": "Modulating cell metabolism.",
+        "Answer": "B",
+        "Source": "We present the albumin-based photoluminescent nanoparticles as promising photo-stable agents for expanding into functional imaging and therapeutics for cancer treatment."
+    },
+    "Question_9": {
+        "Context": "The study emphasized the importance of understanding the structural transformation of intracellular organelle networks induced by nanoparticles.",
+        "Question": "What did the study emphasize regarding the understanding of intracellular organelle networks?",
+        "A": "It is irrelevant for nanoparticle research.",
+        "B": "It is crucial for understanding the physiological changes induced by nanoparticles.",
+        "C": "It has no impact on nanoparticle behavior.",
+        "D": "It is only important for non-cancerous cells.",
+        "Answer": "B",
+        "Source": "As presented results, disparate connectivity or branching patterns between organelle networks was identified according to the endocytic pathway of the nanoparticles."
+    },
+    "Question_10": {
+        "Context": "The study concluded that the lipophilic network analysis for profiling single cells provides a novel methodology for evaluating the intracellular behavior of nanoparticles.",
+        "Question": "What conclusion did the study draw regarding the lipophilic network analysis for single-cell profiling?",
+        "A": "It is not useful for evaluating nanoparticle behavior.",
+        "B": "It provides a novel methodology for evaluating the intracellular behavior of nanoparticles.",
+        "C": "It is only relevant for non-cancerous cells.",
+        "D": "It has no impact on understanding nanoparticle uptake.",
+        "Answer": "B",
+        "Source": "The endocytosis process of engulfing nanoparticles is related to the complex behavior of intracellular organelle networks."
+    }
+}

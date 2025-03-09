@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of grain boundary (GB) migration in crystalline materials, the Langevin Dynamics (LD) formalism is used to simulate the atomic motion. The LD approach is advantageous over Molecular Dynamics (MD) because it requires fewer time steps to simulate the same overall evolution, leading to reduced computational time.",
+        "Question": "Why is the Langevin Dynamics formalism considered computationally advantageous over Molecular Dynamics for simulating grain boundary migration?",
+        "A": "It allows for the visualization of larger systems.",
+        "B": "It requires fewer time steps for the same overall evolution.",
+        "C": "It incorporates quantum mechanical effects.",
+        "D": "It can simulate at higher temperatures.",
+        "Answer": "B",
+        "Source": "In the course of the previous comparison, we observe that the number of time steps required to simulate the same overall evolution is 2 to 4 times smaller in LD that in MD, which leads to a computational time 2 to 4 times smaller in LD than in MD."
+    },
+    "Question_2": {
+        "Context": "In the study of grain boundary migration, the time interval for the integration of the coarse-grained Langevin equations should be chosen such that the atomic position kinetics displays the characteristics of a Markov process. This time interval is significantly larger than a typical Molecular Dynamics time step.",
+        "Question": "What characteristic should the time interval for the integration of the coarse-grained Langevin equations display in grain boundary migration studies?",
+        "A": "It should be equivalent to a typical MD time step.",
+        "B": "It should display the characteristics of a Markov process.",
+        "C": "It should be as small as possible for precision.",
+        "D": "It should be determined by the crystal's melting point.",
+        "Answer": "B",
+        "Source": "More precisely, this time interval should be chosen such that, at scale \ufffdt, the atomic position kinetics displays the characteristics of a Markov process."
+    },
+    "Question_3": {
+        "Context": "During the study of grain boundary migration for low angle boundaries, the structure is composed of well-spaced single 5-7 pairs, which can be interpreted as dislocation cores. These dislocations have specific Burgers vectors that are integral to understanding the GB structure and migration.",
+        "Question": "What are the dislocation cores in low angle grain boundaries composed of?",
+        "A": "Well-spaced single 5-7 pairs",
+        "B": "Densely packed double 5-7 pairs",
+        "C": "Randomly distributed 5-7 pairs",
+        "D": "Uniformly structured 5-7 pairs",
+        "Answer": "A",
+        "Source": "For low initial misorientations (i.e., \u03b8 \u2264 15\u25e6), the GB structure is composed of several well-spaced single 5-7 pairs. These defects can be interpreted as dislocation cores."
+    },
+    "Question_4": {
+        "Context": "In simulations of grain boundary migration, the Burgers vectors of dislocations play a crucial role. These vectors are denoted in specific notations that indicate the direction and magnitude of the dislocation in the crystal lattice.",
+        "Question": "Which notation correctly represents the Burgers vectors observed in the simulation of grain boundary migration?",
+        "A": "\u00b1[ 1, 0, 0] a0",
+        "B": "\u00b1[ 2, 0, 0] a0",
+        "C": "\u00b1[ 0, 1, 1] a0",
+        "D": "\u00b1[ 0, 0, 2] a0",
+        "Answer": "A",
+        "Source": "In our simulations, six different edge dislocations were observed whose Burgers vectors are \u00b1[ 1, 0, 0] a0, \u00b11/2[ 1, \u221a 3, 0] a0, \u00b11/2[ 1, \u2212 \u221a 3, 0] a0 where a0 denotes the equilibrium lattice constant."
+    },
+    "Question_5": {
+        "Context": "The migration of grain boundaries involves the movement of dislocations, which can be characterized by their Burgers vectors. The arrangement of these dislocations along the boundary depends on the local orientation of the grain boundary plane.",
+        "Question": "How does the local orientation of the grain boundary plane affect the arrangement of dislocations?",
+        "A": "It determines the color of the dislocations.",
+        "B": "It influences the electrical conductivity of the boundary.",
+        "C": "It affects the arrangement of dislocations along the boundary.",
+        "D": "It changes the temperature at which dislocations move.",
+        "Answer": "C",
+        "Source": "The arrangement of these dislocations along the boundary depends on the local orientation of the GB plane."
+    },
+    "Question_6": {
+        "Context": "During grain boundary migration, the formation of facets containing homogeneous dislocation arrays is frequently observed. These facets have dislocations with Burgers vectors that are parallel to the facet normal.",
+        "Question": "What is a characteristic feature of the facets formed during grain boundary migration?",
+        "A": "They contain dislocations with Burgers vectors perpendicular to the facet normal.",
+        "B": "They contain homogeneous dislocation arrays with Burgers vectors parallel to the facet normal.",
+        "C": "They are composed of randomly oriented dislocation arrays.",
+        "D": "They only form at high temperatures.",
+        "Answer": "B",
+        "Source": "These facets contain homogeneous dislocation arrays with Burgers vectors parallel to the facet normal."
+    },
+    "Question_7": {
+        "Context": "The misorientation angle \u03b8 and dislocation density \u03c1D at a grain boundary are important parameters that change during GB migration. The ratio between the number of dislocation cores along the boundary and the boundary perimeter defines the dislocation density.",
+        "Question": "How is the dislocation density \u03c1D at a grain boundary defined?",
+        "A": "The ratio between the boundary perimeter and the number of dislocation cores along the boundary",
+        "B": "The total number of dislocation cores within the grain",
+        "C": "The ratio between the number of dislocation cores along the boundary and the boundary perimeter",
+        "D": "The average distance between dislocation cores along the boundary",
+        "Answer": "C",
+        "Source": "During the GB migration, there is an increase in the misorientation \u03b8 and a corresponding increase in the dislocation density \u03c1D at the boundary, defined as the ratio between the number of dislocation cores along the boundary and the boundary perimeter."
+    },
+    "Question_8": {
+        "Context": "In the process of grain boundary migration, dislocations can undergo reactions such as partial or total annihilation. These reactions are characterized by changes in the Burgers vectors of the dislocations involved.",
+        "Question": "What is an example of a reaction between dislocations during grain boundary migration?",
+        "A": "A : 1/2[ 1 \u221a 30] + B :[ 100] + C : 1/2[ 1 \u221a 30] \u2192 B :[ 100] + B :[ 100]",
+        "B": "A : 1/2[ 1 \u221a 30] + B :[ 100] \u2192 C :[ 100] + C :[ 100]",
+        "C": "A :[ 100] + B :[ 100] \u2192 C : 1/2[ 1 \u221a 30] + C : 1/2[ 1 \u221a 30]",
+        "D": "A :[ 100] + B :[ 100] \u2192 C :[ 100]",
+        "Answer": "A",
+        "Source": "An example of this reaction is shown in Fig. 5, where we observe the following reaction regarding Burgers vectors: A : 1/2[ 1 \u221a 30] +B :[ 100] +C : 1/2[ 1 \u221a 30] \u2192 B :[ 100] +B :[ 100]."
+    },
+    "Question_9": {
+        "Context": "The interaction between dislocations during grain boundary migration can lead to the exchange of Burgers vectors when the dislocations are brought close to each other. This interaction is a key mechanism in the migration process.",
+        "Question": "What happens when two dislocations are brought close to each other during grain boundary migration?",
+        "A": "They repel each other, preventing any interaction.",
+        "B": "They combine to form a single, larger dislocation.",
+        "C": "A rapid movement of atoms leads to an effective exchange of the Burgers vectors.",
+        "D": "They remain static without any change in their Burgers vectors.",
+        "Answer": "C",
+        "Source": "When the distance between the dislocations is of the order of two interatomic distances, a rapid movement of a few atoms inside the overlapping dislocation cores leads to an effective exchange of the Burgers vectors of the two dislocations."
+    },
+    "Question_10": {
+        "Context": "In the context of high angle grain boundaries, the structure can no longer be described by identifiable dislocations due to the small spacing between defects. Instead, the migration of these boundaries is explained by considering the local atomic position readjustments.",
+        "Question": "How is the migration of high angle grain boundaries described?",
+        "A": "By the motion of identifiable dislocations",
+        "B": "By the transformation from one lattice orientation to the other through local atomic position readjustments",
+        "C": "By the melting and recrystallization of the boundary",
+        "D": "By the application of external magnetic fields",
+        "Answer": "B",
+        "Source": "Their migration is no longer describable in terms of dislocation dynamics but can be explained by considering the local atomic position readjustments, which lead to the transformation from one lattice orientation to the other."
+    }
+}

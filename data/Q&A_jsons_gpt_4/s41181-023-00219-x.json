@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Tropomyosin receptor kinases (Trk receptors) in the central nervous system are involved in various aspects of neuronal development and function.",
+        "Question": "Which neurotrophin is NOT known to activate TrkA receptors?",
+        "A": "Nerve growth factor (NGF)",
+        "B": "Brain-derived neurotrophic factor (BDNF)",
+        "C": "Neurotrophin-4 (NT4)",
+        "D": "Neurotrophin 3 (NT-3)",
+        "Answer": "B",
+        "Source": "Trk receptors in the central nervous system (CNS) regulate many aspects of neuronal development and function, such as cell differentiation, dendritic outgrowth, and synaptic plasticity. TrkA is activated through nerve growth factor (NGF), TrkB interacts with brain-derived neurotrophic factor (BDNF) and neurotrophin-4 (NT4) while neurotrophin 3 (NT-3) binds to TrkC."
+    },
+    "Question_2": {
+        "Context": "In positron emission tomography (PET), radioligands are used to visualize and quantify the density of specific receptors in the brain.",
+        "Question": "What is the primary function of [18F]TRACK when used in PET imaging?",
+        "A": "To measure glucose metabolism",
+        "B": "To visualize TrkB/C receptors",
+        "C": "To assess blood flow",
+        "D": "To detect bone density",
+        "Answer": "B",
+        "Source": "We developed [18F]TRACK, an 18F-derivative of [11C]-(R)-IPMICF16, displaying significantly reduced P-gp-liability, brain off-target selectivity, and favorably adjusted binding affinity in TrkB/C rich regions."
+    },
+    "Question_3": {
+        "Context": "Radiotracers used in PET scans must have certain pharmacokinetic properties to be effective for in vivo imaging.",
+        "Question": "Which characteristic is desirable for a PET radiotracer to effectively penetrate the blood-brain barrier?",
+        "A": "High molecular weight",
+        "B": "Low specific signal",
+        "C": "Fast reversible binding kinetics",
+        "D": "Poor in vivo pharmacokinetic properties",
+        "Answer": "C",
+        "Source": "[18F]TRACK showed excellent in vivo pharmacokinetic properties in all species including humans, permeates the blood\u2013brain-barrier rapidly with fast reversible binding kinetics and a high specific signal as demonstrated by competition studies."
+    },
+    "Question_4": {
+        "Context": "The dosimetry of radiotracers is important to determine the radiation dose absorbed by organs in the body.",
+        "Question": "Which organ typically receives the highest absorbed dose from [18F]TRACK based on its elimination pathway?",
+        "A": "Heart",
+        "B": "Brain",
+        "C": "Liver",
+        "D": "Kidneys",
+        "Answer": "C",
+        "Source": "Organ\u2011specific TACs indicated predominantly hepatic tracer elimination. Average organ absorbed dose was highest for liver and gall bladder."
+    },
+    "Question_5": {
+        "Context": "The synthesis of radiotracers involves achieving a certain level of molar activity for effective imaging.",
+        "Question": "What is the significance of high molar activities in the synthesis of PET radiotracers like [18F]TRACK?",
+        "A": "It indicates the level of radioactivity per unit mass",
+        "B": "It determines the color of the radiotracer",
+        "C": "It is inversely proportional to the radiotracer's half-life",
+        "D": "It measures the radiotracer's solubility in water",
+        "Answer": "A",
+        "Source": "[18F]TRACK was synthesized with high molar activities (Am = 250 \u00b1 75 GBq/\u00b5mol), and a dynamic series of 12 whole\u2011body scans were acquired after injection of 129 to 147 MBq of the tracer."
+    },
+    "Question_6": {
+        "Context": "The biodistribution of radiotracers is studied to understand how they are distributed and eliminated in the body.",
+        "Question": "What does a delayed second activity peak in organs of the digestive tract suggest about the biodistribution of a radiotracer?",
+        "A": "Rapid renal elimination",
+        "B": "Immediate uptake by the brain",
+        "C": "Hepato-biliary elimination",
+        "D": "Direct excretion through the respiratory system",
+        "Answer": "C",
+        "Source": "Organs of the digestive tract (gall bladder, small bowel, and colon) also showed a delayed second activity peak and larger inter-individual variability consistent with hepato-biliary elimination and variations in intestinal motility."
+    },
+    "Question_7": {
+        "Context": "The dosimetry profile of a radiotracer is compared with others to assess its safety and efficacy.",
+        "Question": "How does the dosimetry profile of [18F]TRACK compare to other 18F-labelled radiotracers used in clinical settings?",
+        "A": "It has a significantly higher effective dose",
+        "B": "It is similar to other 18F-labelled radiotracers",
+        "C": "It shows no organ-specific effective doses",
+        "D": "It has a predominantly renal elimination profile",
+        "Answer": "B",
+        "Source": "Total and organ\u2011specific effective doses for [18F]TRACK are low and the dosimetry profile is similar to other 18F\u2011labelled radio tracers currently used in clinical settings."
+    },
+    "Question_8": {
+        "Context": "The synthesis of PET radiotracers includes the evaluation of their radiochemical purity.",
+        "Question": "Why is radiochemical purity important in the synthesis of PET radiotracers?",
+        "A": "To ensure the tracer emits visible light",
+        "B": "To guarantee the tracer has a pleasant smell",
+        "C": "To confirm the tracer's resistance to high temperatures",
+        "D": "To ensure the tracer consists predominantly of the desired chemical entity",
+        "Answer": "D",
+        "Source": "Radiochemical yield was 4.4 \u00b1 0.8% not corrected for decay (activity range 3.5\u20135.7 GBq) with > 99% radiochemical purity and molar activities of 250 \u00b1 82 GBq/\u00b5mol at the end of synthesis."
+    },
+    "Question_9": {
+        "Context": "In the context of PET imaging, the Ordered Subset Expectation Maximization (OSEM) algorithm is used for image reconstruction.",
+        "Question": "What is the purpose of using the OSEM algorithm in the reconstruction of PET images?",
+        "A": "To decrease the resolution of the images",
+        "B": "To increase the time required for image processing",
+        "C": "To improve the quality of the reconstructed images",
+        "D": "To reduce the radiochemical purity of the images",
+        "Answer": "C",
+        "Source": "PET images were reconstructed with all standard corrections using the proprietary Ordered Subset Expectation Maximization (OSEM) algorithm provided by the camera\u2019s manufacturer, resulting in a dynamic series of 12-time frames sampled on a 256 \u00d7 256 \u00d7 299 matrix."
+    },
+    "Question_10": {
+        "Context": "The Medical Internal Radiation Dose (MIRD) method is utilized to calculate the radiation dose absorbed by organs from radiotracers.",
+        "Question": "What does the MIRD method calculate in the context of PET imaging?",
+        "A": "The color contrast of PET images",
+        "B": "The absorbed radiation dose by organs",
+        "C": "The time it takes for the radiotracer to decay",
+        "D": "The speed of radiotracer injection",
+        "Answer": "B",
+        "Source": "The radiation doses absorbed by the target organs from surrounding source organs were calculated using the MIRD method (Cherry et al. 2012). The absorbed target organ dose per unit activity is the sum of the cumulated activity in each of the source organs multiplied by a dose factor (S-value) in units of Gy/Bq*s."
+    }
+}

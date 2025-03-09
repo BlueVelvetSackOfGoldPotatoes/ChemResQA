@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study of structures, understanding the vibration behavior is crucial for identifying and analyzing the response of the structure.",
+        "Question": "What is the significance of studying free vibration behavior in structural analysis?",
+        "A": "To determine the color of the structure",
+        "B": "To identify and analyze the response of the structure",
+        "C": "To enhance the electrical conductivity of the structure",
+        "D": "To understand the thermal properties of the structure",
+        "Answer": "B",
+        "Source": "One of the most important characteristics of a structure is its free vibration behavior, which is especially important for identification and further response analysis of the structure."
+    },
+    "Question_2": {
+        "Context": "The human spine is an organ that supports loads arising from daily and specialized activities, which are dynamic and periodic in nature.",
+        "Question": "Why is the study of both free and forced vibration of the human spine important?",
+        "A": "To understand the static loads on the spine",
+        "B": "To improve the aesthetic appearance of the spine",
+        "C": "To better understand the behavior of the spine under dynamic and periodic loads",
+        "D": "To study the spine's resistance to chemical reactions",
+        "Answer": "C",
+        "Source": "The human spine, as one of the most important organs in the body, plays a fundamental role in supporting the loads arising from both daily and specialized activities. These loads are mainly dynamic and periodic; therefore, a precise study on both the free and forced vibration of this structure may lead to a better understanding of the behavior of the system."
+    },
+    "Question_3": {
+        "Context": "The Euler\u2013Bernoulli and Timoshenko beam theories are utilized to study the transverse vibration of beams, which can be thin or thick respectively.",
+        "Question": "Which beam theory is more appropriate for studying the transverse vibration of thick beams?",
+        "A": "Euler\u2013Bernoulli beam theory",
+        "B": "Timoshenko beam theory",
+        "C": "Newton's law of motion",
+        "D": "Kepler's laws of planetary motion",
+        "Answer": "B",
+        "Source": "Euler\u2013Bernoulli and Timoshenko beam theories have been used in many researches to study transverse vibration of thin and thick beams, respectively."
+    },
+    "Question_4": {
+        "Context": "In the study of beam vibrations, continuity conditions at the junction of segments are important for accurate modeling.",
+        "Question": "What are the continuity conditions considered at the junction of segments in beam vibration studies?",
+        "A": "Temperature and pressure",
+        "B": "Displacement, slope, shear force, and bending moments",
+        "C": "Electrical charge and resistance",
+        "D": "Mass and velocity",
+        "Answer": "B",
+        "Source": "They used Euler\u2013Bernoulli theory and applied continuity as boundary conditions at the junction of the segments. The continuity conditions were in terms of displacement, slope, shear force, and bending moments."
+    },
+    "Question_5": {
+        "Context": "The human spine is composed of multiple vertebrae, which are separated by intervertebral discs and endplates.",
+        "Question": "What separates two adjacent vertebrae in the human spine?",
+        "A": "Muscles and tendons",
+        "B": "Ligaments and cartilage",
+        "C": "Superior endplate, intervertebral disc, and inferior endplate",
+        "D": "Blood vessels and nerves",
+        "Answer": "C",
+        "Source": "Two adjacent vertebrae are separated from each other by superior endplate, intervertebral disc, and inferior endplate."
+    },
+    "Question_6": {
+        "Context": "The material properties of the human spine components can vary, which affects the modeling of the spine as a beam-like structure.",
+        "Question": "Why is it essential to consider different material properties for the vertebral bodies, endplates, and intervertebral discs when modeling the spine?",
+        "A": "To accurately represent the electrical conductivity of the spine",
+        "B": "To accurately represent the thermal insulation of the spine",
+        "C": "To accurately represent the optical properties of the spine",
+        "D": "To accurately represent the mechanical behavior of the spine",
+        "Answer": "D",
+        "Source": "If the cross section of the lumber spine is assumed to be almost uniform while the material properties are different for the vertebral bodies, endplates, and intervertebral discs, it can be considered as a beam-like structure whose natural frequencies can be evaluated using prescribed methods."
+    },
+    "Question_7": {
+        "Context": "The Timoshenko beam theory accounts for rotary inertia and shear deformation, which are expressed in differential form in the governing equations.",
+        "Question": "What additional factors does the Timoshenko beam theory consider compared to the Euler\u2013Bernoulli beam theory?",
+        "A": "Rotary inertia and shear deformation",
+        "B": "Electrical resistance and capacitance",
+        "C": "Thermal expansion and contraction",
+        "D": "Magnetic flux and field strength",
+        "Answer": "A",
+        "Source": "The bending moment and vertical force equilibrium equations including rotary inertia and shear deformation can be expressed in a differential form as..."
+    },
+    "Question_8": {
+        "Context": "The Timoshenko beam theory defines the displacement fields in terms of rotation of cross section and vertical displacement of mid-plane.",
+        "Question": "According to the Timoshenko beam theory, what are the displacement fields defined as?",
+        "A": "Temperature gradient and heat flux",
+        "B": "Electrical potential and current density",
+        "C": "Rotation of cross section and vertical displacement of mid-plane",
+        "D": "Concentration gradient and diffusion rate",
+        "Answer": "C",
+        "Source": "The displacement fields based on Timoshenko beam theory is defined as: ux = z\u03d5(x,t), uz = w(x,t) where \u03d5(x,t) and w(x,t) are the rotation of cross section and vertical displacement of mid-plane at time t, respectively."
+    },
+    "Question_9": {
+        "Context": "In the study of beam vibrations, the natural frequencies and mode shapes are important outcomes that describe the dynamic behavior of the structure.",
+        "Question": "What are the key outcomes of a free transverse vibration analysis of beams?",
+        "A": "Color spectrum and refractive index",
+        "B": "Natural frequencies and mode shapes",
+        "C": "Chemical composition and molecular weight",
+        "D": "Electrical conductivity and resistance",
+        "Answer": "B",
+        "Source": "Three first natural frequencies and mode shapes of system were computed and then validated with a finite element analyzer."
+    },
+    "Question_10": {
+        "Context": "The Euler\u2013Bernoulli beam theory simplifies the rotational displacement of the cross section to the slope of the vertical deflection and ignores shear deformation.",
+        "Question": "What simplification does the Euler\u2013Bernoulli beam theory make regarding the rotational displacement of the cross section?",
+        "A": "It is equated to the volume of the beam",
+        "B": "It is ignored entirely",
+        "C": "It is considered as a constant value",
+        "D": "It is corresponded to the slope of the vertical deflection",
+        "Answer": "D",
+        "Source": "In Euler\u2013Bernoulli beam theory, the rotational displacement of the cross section is corresponded to the slope of the vertical deflection while the shear deformation term is ignored."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Laser surface hardening is a process that involves the use of a laser to heat the surface of a steel part, which leads to changes in its microstructure and an increase in surface hardness.",
+        "Question": "What is the primary phase transformation targeted during laser surface hardening of carbon steels?",
+        "A": "Ferrite to cementite",
+        "B": "Austenite to martensite",
+        "C": "Pearlite to bainite",
+        "D": "Cementite to austenite",
+        "Answer": "B",
+        "Source": "during laser surface hardening of thick, bulk parts with high thermal inertial almost all the austenized material become martensite after cooling and attention can be focused in obtaining austenite during the heating stage."
+    },
+    "Question_2": {
+        "Context": "In the context of laser surface hardening, the heating and cooling rates are significantly higher than those in conventional oven treatments.",
+        "Question": "What is the consequence of the fast heating and cooling rates during laser surface hardening?",
+        "A": "Decreased hardness of the material",
+        "B": "Increased risk of warping the material",
+        "C": "Solid phase transformations with significant over and under heating",
+        "D": "Longer processing times",
+        "Answer": "C",
+        "Source": "Solid phase transformations happen with significant over and under heating due to the process hysteresis."
+    },
+    "Question_3": {
+        "Context": "The process of austenitization in steels involves the transformation of ferrite and pearlite into austenite upon heating.",
+        "Question": "What is the primary microstructural change that occurs in hypo-eutectoid steels during austenitization?",
+        "A": "Transformation of pearlite and ferrite into austenite",
+        "B": "Transformation of austenite into pearlite",
+        "C": "Decomposition of cementite into iron and carbon",
+        "D": "Formation of bainite from martensite",
+        "Answer": "A",
+        "Source": "The canonical model for the austenization of hypo-eutectoid steels in quasi-static conditions considers two distinct processes: the perlitic colony and ferritic grains transformations, due to the change from BCC to FCC of the iron lattice, and the homogenization of the obtained austenitic grains."
+    },
+    "Question_4": {
+        "Context": "Carbon diffusion is a critical factor in determining the microstructure and properties of steel during heat treatments.",
+        "Question": "Why is carbon diffusion considered negligible during the laser surface hardening process?",
+        "A": "Because the laser does not generate enough heat",
+        "B": "Due to the short interaction time and insufficient carbon diffusion",
+        "C": "Because carbon is not present in hypo-eutectoid steels",
+        "D": "Because the laser removes carbon from the surface",
+        "Answer": "B",
+        "Source": "carbon diffusion can be neglected during the austenization in the modelling of laser surface hardening process of hypo-eutectoid steels due the short time and the insufficient carbon diffusion during the heating phase of the process"
+    },
+    "Question_5": {
+        "Context": "The process of laser hardening involves rapid heating and cooling, which affects the microstructure of the steel.",
+        "Question": "What is the primary cooling mechanism in laser surface hardening?",
+        "A": "Convection cooling with a quenching medium",
+        "B": "Radiation cooling to the surrounding environment",
+        "C": "Conduction cooling in the bulk volume",
+        "D": "Evaporative cooling due to the laser",
+        "Answer": "C",
+        "Source": "The quenching (cooling) is performed by conduction in the bulk volume."
+    },
+    "Question_6": {
+        "Context": "The microstructure of steel is significantly influenced by the presence and distribution of carbon within the austenite phase.",
+        "Question": "What is the characteristic size of the perlite colony in steel microstructure?",
+        "A": "Several nanometers",
+        "B": "Several micrometers",
+        "C": "Several millimeters",
+        "D": "Several centimeters",
+        "Answer": "B",
+        "Source": "where L is the characteristic size of the perlite colony, having order of several \u03bcm, and \u03bb is the thickness of the lamina that is normally a fraction of \u03bcm."
+    },
+    "Question_7": {
+        "Context": "The transformation of pearlite to austenite in steel involves the diffusion of carbon from the cementite lamellae.",
+        "Question": "During the austenitization of steel, where does the carbide diffusion in the austenite mainly occur?",
+        "A": "In the central region of the carbide plates",
+        "B": "In the lateral side of the carbide plates",
+        "C": "At the grain boundaries of the austenite",
+        "D": "Throughout the entire volume of the steel uniformly",
+        "Answer": "B",
+        "Source": "the carbide diffusion in the austenite mainly happens in the lateral side of the carbide plates"
+    },
+    "Question_8": {
+        "Context": "The process of laser hardening can be modeled to predict the outcome of the hardening process.",
+        "Question": "What integral transformation parameter is introduced in the modeling of laser surface hardening?",
+        "A": "Ip\u2192a",
+        "B": "Qp\u2192a",
+        "C": "TAc1",
+        "D": "Ar1",
+        "Answer": "A",
+        "Source": "An integral transformation parameter Ip \u2192 a has been introduced and expressed in Eq. (2)"
+    },
+    "Question_9": {
+        "Context": "The activation energy is an important factor in the calculation of carbon diffusivity in steel.",
+        "Question": "In the context of carbon diffusivity, what does the symbol 'Q' represent?",
+        "A": "Heat transfer rate",
+        "B": "Thermal conductivity",
+        "C": "Activation energy",
+        "D": "Carbon content",
+        "Answer": "C",
+        "Source": "in which t is the time in s, Q is the activation energy in J, R the gas constant in J K , T the temperature of the material in K"
+    },
+    "Question_10": {
+        "Context": "The chemical composition of steel influences its properties and behavior during heat treatments.",
+        "Question": "What is the typical carbon content range for C45 carbon steel?",
+        "A": "0.42\u20130.50%",
+        "B": "0.30\u20130.40%",
+        "C": "0.50\u20130.60%",
+        "D": "0.60\u20130.70%",
+        "Answer": "A",
+        "Source": "specimens made of C45 EN 10277-2 steel whose chemical composition is reported in Table 1. The novel approach... C % Si % Mn % P % S % Cr % Ni % Mo % 0.42\u20130.50"
+    }
+}

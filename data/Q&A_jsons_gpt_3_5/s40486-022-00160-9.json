@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of strain sensors using a hybrid film of 1D multi-walled carbon nanotube (MWCNT) and 2D graphene. They found that a stable percolation network is formed by 0.18 mg of MWCNTs with a maximum gauge factor (GF) of 1,935.6 and stretchability of 814.2%.",
+        "Question": "What is the maximum gauge factor (GF) achieved with 0.18 mg of MWCNTs?",
+        "A": "433.3",
+        "B": "772.6",
+        "C": "1,935.6",
+        "D": "12,144.7",
+        "Answer": "C",
+        "Source": "a stable percolation network is formed by 0.18 mg of MWCNTs with a maximum gauge factor (GF) of 1,935.6"
+    },
+    "Question_2": {
+        "Context": "The study experimented with incorporating 0.36 mg of graphene into the MWCNT film, resulting in a mass ratio of 1:2 between MWCNT and graphene. This improved the GF to 12,144.7 in a strain range of 650\u2013700%.",
+        "Question": "What was the mass ratio between MWCNT and graphene to achieve a GF of 12,144.7?",
+        "A": "1:1",
+        "B": "1:1.5",
+        "C": "1:2",
+        "D": "1:3",
+        "Answer": "C",
+        "Source": "By incorporating the 0.36 mg of graphene into the MWCNT film (i.e., a mass ratio of 1:2 between MWCNT and graphene), the GF is further improved to 12,144.7 in a strain range of 650\u2013700%"
+    },
+    "Question_3": {
+        "Context": "The paper discusses the strain sensing characteristics of MWCNT-, graphene-, and MWCNT/graphene hybrid-based sensors. The MWCNT/graphene hybrid sensor exhibited a high GF of 12,144.7 in a strain range of 650\u2013700%.",
+        "Question": "Which sensor exhibited the highest gauge factor (GF) in the mentioned strain range?",
+        "A": "MWCNT-based sensor",
+        "B": "Graphene-based sensor",
+        "C": "MWCNT/graphene hybrid sensor",
+        "D": "Data insufficient to determine",
+        "Answer": "C",
+        "Source": "The strain sensor prepared by spray coating 0.36 mg graphene has the largest GF (~ 34,101.5), but the sensing range is limited to 330%. In contrast, the strain sensor composed of a hybrid of 1D MWCNT and 2D graphene with a mass ratio of 1:2 exhibits both a high GF of 12,144.7 (at a strain range of 650% ~ 700%) and a high sensing range of 710.5%"
+    },
+    "Question_4": {
+        "Context": "The study evaluated the stability of the strain sensor by subjecting it to 600 cyclic loading\u2013unloading cycles of 500% strain. The signal drift observed during the cycles was approximately 5%.",
+        "Question": "What was the observed signal drift percentage during the 600 cyclic loading\u2013unloading cycles?",
+        "A": "2%",
+        "B": "5%",
+        "C": "8%",
+        "D": "10%",
+        "Answer": "B",
+        "Source": "The signal drift was ~ 5% during 600 cycles."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the photoresponses of MWCNT-, graphene-, and MWCNT/graphene hybrid-based sensors to UV light under different strains. The MWCNT/graphene hybrid sensor exhibited a larger response to UV light under all strains tested.",
+        "Question": "Which sensor exhibited the largest response to UV light under different strains?",
+        "A": "MWCNT-based sensor",
+        "B": "Graphene-based sensor",
+        "C": "MWCNT/graphene hybrid sensor",
+        "D": "Data insufficient to determine",
+        "Answer": "C",
+        "Source": "Compared with MWCNT- and graphene-based sensors, the MWCNT/graphene hybrid sensors exhibit a larger response to UV light under all strains tested"
+    },
+    "Question_6": {
+        "Context": "The study investigated the temperature change of the sensors during UV sensing experiments. The temperature of the sensor surface increased from 24.7 to 36.57 \u00b0C under UV exposure.",
+        "Question": "By how much did the temperature of the sensor surface increase under UV exposure?",
+        "A": "10.87 \u00b0C",
+        "B": "11.57 \u00b0C",
+        "C": "12.87 \u00b0C",
+        "D": "13.57 \u00b0C",
+        "Answer": "B",
+        "Source": "The temperature of the sensor surface increased from 24.7\u00b0C to 36.57\u00b0C owing to heat transfer from the UV lamp"
+    },
+    "Question_7": {
+        "Context": "The paper discusses the relative current change of the MWCNT-, graphene-, and MWCNT/graphene hybrid-based sensors during temperature changes. The temperature response of the sensor was characterized and compensated according to the measured temperature and temperature responses.",
+        "Question": "What was done to compensate for the temperature changes during the UV sensing experiments?",
+        "A": "The sensors were recalibrated",
+        "B": "The sensors were replaced",
+        "C": "The temperature responses were characterized and compensated",
+        "D": "The sensors were cooled down",
+        "Answer": "C",
+        "Source": "The temperature response of the sensor was characterized and it was compensated according to the measured temperature and temperature responses"
+    },
+    "Question_8": {
+        "Context": "The study demonstrated a stretchable photodetector by investigating the photoresponses of MWCNT-, graphene-, and MWCNT/graphene hybrid-based sensors to UV light. The MWCNT/graphene hybrid sensor exhibited a high photoresponse of 250% under 0% strain.",
+        "Question": "What was the photoresponse percentage exhibited by the MWCNT/graphene hybrid sensor under 0% strain?",
+        "A": "150%",
+        "B": "200%",
+        "C": "250%",
+        "D": "300%",
+        "Answer": "C",
+        "Source": "The MWCNT/graphene hybrid sensor can respond to UV light under 300% strain"
+    },
+    "Question_9": {
+        "Context": "The paper discusses the strain responses of the MWCNT/graphene hybrid sensor under cyclic strain in a range of 50\u2013600%. The responses of the sensor remained almost unchanged during the 10 cycles of the loading\u2013unloading process, indicating adequate repeatability.",
+        "Question": "How many cycles of loading\u2013unloading were performed to evaluate the repeatability of the sensor?",
+        "A": "5 cycles",
+        "B": "10 cycles",
+        "C": "15 cycles",
+        "D": "20 cycles",
+        "Answer": "B",
+        "Source": "The responses of the sensor under different strains remained almost unchanged during the 10 cycles of the loading\u2013unloading process"
+    },
+    "Question_10": {
+        "Context": "The study investigated the durability of the strain sensor by subjecting it to periodic stretch-release cycling under 500% strain. The signal drift observed during the cycles was approximately 5%.",
+        "Question": "What was the strain level used for the periodic stretch-release cycling to evaluate the durability of the sensor?",
+        "A": "300%",
+        "B": "400%",
+        "C": "500%",
+        "D": "600%",
+        "Answer": "C",
+        "Source": "The durability of the sensor was evaluated by periodic stretch-release cycling (500% strain)"
+    }
+}

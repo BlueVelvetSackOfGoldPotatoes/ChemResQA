@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Microplastics were detected in various types of land use. The study used stereo microscopy to analyze the microplastics in the soil samples.",
+        "Question": "What was the most frequently detected color of microplastics in the soil samples?",
+        "A": "Black",
+        "B": "Red",
+        "C": "Green",
+        "D": "Blue",
+        "Answer": "A",
+        "Source": "Regardless of land use, detected microplastics had a significantly higher proportion of fragments and black color."
+    },
+    "Question_2": {
+        "Context": "The study focused on the distribution of microplastics in different land use types. Fourier transform infrared spectrometer (FT-IR) was used for qualitative analysis of microplastics.",
+        "Question": "Which material was most frequently detected in soils from roadsides?",
+        "A": "Polyethylene (PE)",
+        "B": "Polypropylene (PP)",
+        "C": "Polystyrene (PS)",
+        "D": "Polyethylene terephthalate (PET)",
+        "Answer": "B",
+        "Source": "In roadside soil, PE and PP were detected."
+    },
+    "Question_3": {
+        "Context": "The study analyzed the distribution characteristics of microplastics by size in different types of land use.",
+        "Question": "In which type of land use were microplastics larger than 1 mm most prevalent?",
+        "A": "Roadside",
+        "B": "Agricultural land",
+        "C": "Forest",
+        "D": "Residential area",
+        "Answer": "A",
+        "Source": "The proportion of microplastics larger than 1 mm was the highest in roadside and agricultural land soils."
+    },
+    "Question_4": {
+        "Context": "The study conducted FT-IR analysis to identify microplastics in soils from different land use types.",
+        "Question": "Which material was not detected in agricultural land soils during the FT-IR analysis?",
+        "A": "Polyethylene (PE)",
+        "B": "Polypropylene (PP)",
+        "C": "Polystyrene (PS)",
+        "D": "Polyurethane (PU)",
+        "Answer": "A",
+        "Source": "In agricultural land soils, only small amounts of PET and PU particles were detected."
+    },
+    "Question_5": {
+        "Context": "The study compared the distribution of microplastics in different land use types.",
+        "Question": "Which color of microplastics was the second most prevalent in agricultural land soils?",
+        "A": "Red",
+        "B": "Green",
+        "C": "White",
+        "D": "Blue",
+        "Answer": "B",
+        "Source": "White fragments were the second highest after black in roadside, forest, and residential areas, while in parks and agricultural lands, green was the second highest after black."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the distribution of microplastics by shape and color in various types of land use.",
+        "Question": "Which shape of microplastics was most frequently detected in forest soils?",
+        "A": "Fragment",
+        "B": "Film",
+        "C": "Fiber",
+        "D": "Sphere",
+        "Answer": "A",
+        "Source": "The distribution by color was 90.2% black, 6.1% white, 2.9% green, 0.4% red, 0.2% blue, 0.1% yellow, and 0.1% transparent."
+    },
+    "Question_7": {
+        "Context": "The study utilized FT-IR analysis to identify microplastics in soils from different land use types.",
+        "Question": "Which material was most frequently detected in residential area soils?",
+        "A": "Polypropylene (PP)",
+        "B": "Polystyrene (PS)",
+        "C": "Polyethylene terephthalate (PET)",
+        "D": "Polymethyl methacrylate (PMMA)",
+        "Answer": "PP",
+        "Source": "In residential area soils, PP accounted for the majority of microplastics found."
+    },
+    "Question_8": {
+        "Context": "The study examined the distribution characteristics of microplastics by size in different types of land use.",
+        "Question": "In which type of land use were microplastics under 300 \u00b5m most prevalent?",
+        "A": "Roadside",
+        "B": "Agricultural land",
+        "C": "Forest",
+        "D": "Residential area",
+        "Answer": "D",
+        "Source": "It is estimated that the size of microplastics decreases and the number of individual pieces increases in forests and parks because there are relatively fewer human activities compared to roadside, residential areas, and agricultural land."
+    },
+    "Question_9": {
+        "Context": "The study focused on the distribution of microplastics in different land use types. Stereo microscopy was used to analyze the microplastics in the soil samples.",
+        "Question": "Which type of land use had the highest average number of microplastics detected in the soil samples?",
+        "A": "Roadside",
+        "B": "Agricultural land",
+        "C": "Forest",
+        "D": "Residential area",
+        "Answer": "B",
+        "Source": "Microplastics in the soils from agricultural land and roadside were significantly higher than those in residential areas and parks."
+    },
+    "Question_10": {
+        "Context": "The study compared the distribution of microplastics in different land use types.",
+        "Question": "Which color of microplastics was the least prevalent in roadside soils?",
+        "A": "Red",
+        "B": "Green",
+        "C": "Yellow",
+        "D": "Transparent",
+        "Answer": "D",
+        "Source": "The distribution by color was 90.2% black, 6.1% white, 2.9% green, 0.4% red, 0.2% blue, 0.1% yellow, and 0.1% transparent."
+    }
+}

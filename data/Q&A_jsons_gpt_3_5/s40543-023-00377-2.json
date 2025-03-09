@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to determine the effect of LNX on exercise performance in aged mice.",
+        "Question": "What was the main lignan compound in the lignan-enriched nutmeg extract (LNX) used in the study?",
+        "A": "Nectandrin B",
+        "B": "Fragransin A",
+        "C": "Verrucosin",
+        "D": "Myristicin",
+        "Answer": "A",
+        "Source": "The study mentions that LNX comprised the major lignan, nectandrin B, which was used to evaluate the effect on exercise performance in aged mice."
+    },
+    "Question_2": {
+        "Context": "The study involved feeding aged mice with LNX for three weeks.",
+        "Question": "What anatomical change was observed in the soleus muscle of aged mice fed LNX?",
+        "A": "Decreased muscle mass",
+        "B": "Increased muscle length",
+        "C": "Increased muscle width",
+        "D": "Reduced muscle fiber number",
+        "Answer": "C",
+        "Source": "The study reports that in aged mice fed LNX, the widths of the gastrocnemius and soleus muscles were increased in a dose-dependent manner."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the exercise performance of aged mice fed with LNX.",
+        "Question": "Which test showed a significant increase in endurance time in LNX-treated aged mice?",
+        "A": "Wire-hanging test",
+        "B": "Swimming test",
+        "C": "Grip strength test",
+        "D": "Rotarod test",
+        "Answer": "D",
+        "Source": "The study indicates that in the rotarod test, endurance time in the accelerating mode was increased in both LNX-treated aged groups, with a significant increase specifically in aged mice fed LNX."
+    },
+    "Question_4": {
+        "Context": "The study involved proteomic analysis of the soleus muscle of aged mice.",
+        "Question": "Which protein was found to interact with actin and act as a hub protein in the protein-protein interaction network?",
+        "A": "Myh1",
+        "B": "Myh4",
+        "C": "Acta1",
+        "D": "Hspa1b",
+        "Answer": "C",
+        "Source": "The protein-protein interaction network analysis revealed that actin, ACTA1, functions as a hub protein interacting with several myosin heavy chain isoforms."
+    },
+    "Question_5": {
+        "Context": "The study involved analyzing the expression of specific proteins in the soleus muscle of aged mice fed with different concentrations of LNX.",
+        "Question": "Which protein showed a significant dose-dependent increase in expression in LNX-fed aged mice?",
+        "A": "Ttn",
+        "B": "Myh1",
+        "C": "Myh4",
+        "D": "Acta1",
+        "Answer": "C",
+        "Source": "Immunoblot analysis confirmed the dose-dependent increase in the expression of Myh4 in the soleus muscles of aged mice fed with different concentrations of LNX."
+    },
+    "Question_6": {
+        "Context": "The study aimed to identify core proteins induced by LNX feeding in the soleus muscle of aged mice.",
+        "Question": "Which protein was significantly decreased in expression by LNX feeding in aged mice?",
+        "A": "Ldb3",
+        "B": "Zfp882",
+        "C": "Hspa1b",
+        "D": "Mybpc1",
+        "Answer": "A",
+        "Source": "The study indicates that the expression of LIM-binding protein 3 (Ldb3) was increased in aged mice but decreased by LNX administration, resulting in a young-like phenotype."
+    },
+    "Question_7": {
+        "Context": "The study involved analyzing the proteome of the soleus muscle of aged mice fed with LNX.",
+        "Question": "What was the main GO group identified in the GO analysis of proteins commonly found in aged versus LNX-fed aged mice muscle?",
+        "A": "Biological process",
+        "B": "Molecular function",
+        "C": "Cellular component",
+        "D": "Protein complex",
+        "Answer": "A",
+        "Source": "The study mentions that the main GO groups identified in the GO analysis were related to components related to skeletal muscle, which falls under the biological process category."
+    },
+    "Question_8": {
+        "Context": "The study involved constructing a protein-protein interaction network using the STRING database.",
+        "Question": "Which protein was found to interact with myosin isoforms and act as a hub protein in the network?",
+        "A": "Zfp882",
+        "B": "Hspa1b",
+        "C": "Acta1",
+        "D": "Ldb3",
+        "Answer": "C",
+        "Source": "The protein-protein interaction network analysis revealed that actin, ACTA1, interacts with several myosin heavy chain isoforms and functions as a hub protein."
+    },
+    "Question_9": {
+        "Context": "The study involved immunoblot analysis of specific proteins in the soleus muscle of aged mice fed with LNX.",
+        "Question": "Which protein showed a slight decrease in expression but was significantly increased in the expression of Myh1, Myh4, and Acta1 in a dose-dependent manner?",
+        "A": "Ttn",
+        "B": "Myh1",
+        "C": "Myh4",
+        "D": "Acta1",
+        "Answer": "A",
+        "Source": "The study reports that Ttn showed a slight decrease in expression, while Myh1, Myh4, and Acta1 showed significant dose-dependent increases in expression in the soleus muscles of aged mice fed with different concentrations of LNX."
+    },
+    "Question_10": {
+        "Context": "The study aimed to evaluate the effect of LNX on aging-related sarcopenia.",
+        "Question": "What was the conclusion regarding the potential of bioactive lignans of LNX as therapeutic agents?",
+        "A": "LNX could not be effective for aging-related sarcopenia.",
+        "B": "Bioactive lignans of LNX have no potential as therapeutic agents.",
+        "C": "LNX could be developed as potential therapeutic agents for aging-related sarcopenia.",
+        "D": "Bioactive lignans of LNX are harmful for muscle health.",
+        "Answer": "C",
+        "Source": "The study concludes that LNX could be effective for aging-related sarcopenia, and the bioactive lignans of LNX could be developed as potential therapeutic agents."
+    }
+}

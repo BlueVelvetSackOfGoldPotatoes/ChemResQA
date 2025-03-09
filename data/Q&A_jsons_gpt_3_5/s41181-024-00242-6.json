@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study, three new GRPR-antagonist radioligands were designed and evaluated for their potential in prostate cancer treatment. The stability and uptake of these radioligands were assessed in various experiments.",
+        "Question": "What was the purpose of designing three new GRPR-antagonist radioligands in the study?",
+        "A": "To assess the metabolic stability of radioligands",
+        "B": "To evaluate the GRPR-specific uptake in PC-3 cells",
+        "C": "To investigate the biodistribution profiles of the radioligands",
+        "D": "To determine the therapeutic efficacy of the radioligands",
+        "Answer": "C",
+        "Source": "The three new GRPR-antagonist radioligands were designed to accommodate trivalent radiometals for theranostic use, aiming to assess their biodistribution profiles."
+    },
+    "Question_2": {
+        "Context": "The radioligands displayed high and GRPR-specific uptake in PC-3 cells during the in vitro assays. The GRPR-specificity was confirmed through blocking experiments.",
+        "Question": "How was the GRPR-specificity of the radioligands confirmed in the study?",
+        "A": "By evaluating the receptor affinity and binding kinetics",
+        "B": "By assessing the metabolic stability in peripheral blood",
+        "C": "By measuring the cell-associated activity in the presence of a GRPR blocker",
+        "D": "By analyzing the biodistribution profiles in PC-3 xenograft-bearing mice",
+        "Answer": "C",
+        "Source": "The radiotracers displayed high cellular association, which was clearly GRPR-driven. The GRPR-specificity was confirmed through blocking experiments using an excess of a GRPR antagonist."
+    },
+    "Question_3": {
+        "Context": "The equilibrium dissociation constants (KD) of the radioligands were determined by fitting the data to a 1:2 binding site model. Different dissociation constants were observed for the radioligands.",
+        "Question": "How were the equilibrium dissociation constants (KD) determined for the radioligands in the study?",
+        "A": "By measuring the metabolic stability in peripheral blood",
+        "B": "By evaluating the receptor affinity and binding kinetics",
+        "C": "By analyzing the biodistribution profiles in PC-3 xenograft-bearing mice",
+        "D": "By assessing the cell-associated activity in PC-3 cells",
+        "Answer": "B",
+        "Source": "The equilibrium dissociation constants (KD) were determined by fitting the data to a 1:2 binding site model, providing insights into the receptor affinity and binding kinetics of the radioligands."
+    },
+    "Question_4": {
+        "Context": "The radioligands were tested for their metabolic stability in mice peripheral blood. The stability of the radioligands was compared between control groups and groups treated with NEP-inhibitors.",
+        "Question": "How was the metabolic stability of the radioligands assessed in the study?",
+        "A": "By measuring the cell-associated activity in PC-3 cells",
+        "B": "By evaluating the receptor affinity and binding kinetics",
+        "C": "By analyzing the biodistribution profiles in PC-3 xenograft-bearing mice",
+        "D": "By analyzing the radioligands in mice blood collected post-injection",
+        "Answer": "D",
+        "Source": "The metabolic stability of the radioligands was tested by HPLC analysis of mice blood collected post-injection, comparing stability between control groups and groups treated with NEP-inhibitors."
+    },
+    "Question_5": {
+        "Context": "The biodistribution profiles of the radioligands were compared at 4 hours post-injection in PC-3 xenograft-bearing mice. Differences in tumor uptake and organ distribution were observed among the radioligands.",
+        "Question": "What was the main difference observed in the biodistribution profiles of the radioligands at 4 hours post-injection?",
+        "A": "Higher kidney uptake in one of the radioligands",
+        "B": "Lower tumor uptake in one of the radioligands",
+        "C": "Higher pancreas uptake in one of the radioligands",
+        "D": "Lower liver uptake in one of the radioligands",
+        "Answer": "C",
+        "Source": "Among the three radioligands, [111In]In-AU-SAR-M2 showed the highest uptake in small intestines and pancreas, both GRPR-rich organs, most probably as a result of its higher GRPR-affinity."
+    },
+    "Question_6": {
+        "Context": "The radioligands were further assessed for their biodistribution at 24 hours post-injection to evaluate the retention and clearance patterns. Changes in uptake and ratios were observed over time.",
+        "Question": "What change was observed in the tumor-to-kidney ratio of [111In]In-AU-SAR-M1 between 4 and 24 hours post-injection?",
+        "A": "Decreased ratio",
+        "B": "Increased ratio",
+        "C": "Constant ratio",
+        "D": "Fluctuating ratio",
+        "Answer": "B",
+        "Source": "The tumor-to-kidney ratios for [111In]In-AU-SAR-M1 were 3.6 at 4 hours post-injection and 2.7 at 24 hours post-injection, indicating an increased ratio over time."
+    },
+    "Question_7": {
+        "Context": "The study highlighted the potential of [111In]In-AU-SAR-M1 as a promising diagnostic tool for prostate cancer treatment. The radioligand demonstrated high tumor uptake and clear background in imaging experiments.",
+        "Question": "What was the key finding regarding the potential of [111In]In-AU-SAR-M1 in the study?",
+        "A": "High kidney uptake and retention",
+        "B": "Low tumor uptake and retention",
+        "C": "Clear background and tumor uptake in imaging",
+        "D": "High liver uptake and retention",
+        "Answer": "C",
+        "Source": "The study indicated that [111In]In-AU-SAR-M1 showed high tumor uptake and clear background in imaging experiments, suggesting its potential as a diagnostic tool for prostate cancer."
+    },
+    "Question_8": {
+        "Context": "The study emphasized the importance of NEP-inhibition in enhancing the stability and therapeutic potential of the radioligands. NEP-inhibition was achieved using a well-characterized drug.",
+        "Question": "How was NEP-inhibition induced in the study to enhance the stability of the radioligands?",
+        "A": "By modifying the structure of the radioligands",
+        "B": "By adjusting the injected peptide dose",
+        "C": "By infusing lysine/arginine or gelofusine",
+        "D": "By treating animals with a NEP-inhibitor drug like Entresto\u00ae",
+        "Answer": "D",
+        "Source": "The in situ stabilization of the radioligand in the blood-stream using Entresto\u00ae was expected to further upgrade the biodistribution profile of [111In]In-AU-SAR-M1 and possibly its theranostic partner [177Lu]Lu-AU-SAR-M1 as well."
+    },
+    "Question_9": {
+        "Context": "The study discussed the potential of [111In]In-AU-SAR-M1 as a diagnostic tool for prostate cancer. The radioligand demonstrated high tumor uptake and clear background in imaging experiments.",
+        "Question": "What was the main advantage of [111In]In-AU-SAR-M1 as highlighted in the study?",
+        "A": "High kidney uptake and retention",
+        "B": "Low tumor uptake and retention",
+        "C": "Clear background and tumor uptake in imaging",
+        "D": "High liver uptake and retention",
+        "Answer": "C",
+        "Source": "The study indicated that [111In]In-AU-SAR-M1 showed high tumor uptake and clear background in imaging experiments, suggesting its potential as a diagnostic tool for prostate cancer."
+    },
+    "Question_10": {
+        "Context": "The study emphasized the importance of NEP-inhibition in enhancing the stability and therapeutic potential of the radioligands. NEP-inhibition was achieved using a well-characterized drug.",
+        "Question": "What potential benefits were associated with NEP-inhibition in the study?",
+        "A": "Enhanced stability and tumor uptake of the radioligands",
+        "B": "Increased liver uptake and retention of the radioligands",
+        "C": "Reduced tumor uptake and retention of the radioligands",
+        "D": "Improved kidney uptake and retention of the radioligands",
+        "Answer": "A",
+        "Source": "The study indicated that NEP-inhibition using a well-characterized drug like Entresto\u00ae was expected to enhance the stability and tumor-targeting capabilities of the radioligands, potentially improving their therapeutic potential."
+    }
+}

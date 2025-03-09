@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In structural health monitoring (SHM) of composites, detecting damage during operation is crucial for maintaining the integrity of the structure. Capacitance measurements can be used to monitor the health of non-conductive materials by detecting changes in the dielectric properties of the material.",
+        "Question": "What is the primary reason for using capacitance measurements in structural health monitoring of glass fibre reinforced polymers?",
+        "A": "To measure the thermal conductivity of the material",
+        "B": "To detect changes in the dielectric properties indicating damage",
+        "C": "To assess the moisture content of the composite",
+        "D": "To determine the tensile strength of the material",
+        "Answer": "B",
+        "Source": "The detection capability of capacitance-based methods relies on a change of dielectric properties of the material. In concrete structures capacitance measurements are applied for the detection of cracks or voids, rebar reinforcement corrosion and localisation as well as detection of moisture."
+    },
+    "Question_2": {
+        "Context": "When monitoring the health of glass fibre reinforced polymers, replacing individual glass fibre rovings with conductive carbon fibre rovings can form the walls of interleaved capacitors. These capacitors can then be used to measure changes in electrical properties, such as capacitance, which correlate with damage like crack formation.",
+        "Question": "What role do carbon fibre rovings play when integrated into glass fibre reinforced polymers for health monitoring?",
+        "A": "They increase the thermal resistance of the composite",
+        "B": "They act as a replacement for glass fibre to improve tensile strength",
+        "C": "They form the walls of interleaved capacitors to monitor electrical property changes",
+        "D": "They are used to enhance the flexibility of the composite",
+        "Answer": "C",
+        "Source": "For this purpose, individual glass fibre rovings in a non-crimp fabric were replaced by carbon fibre rovings at regular intervals. To monitor the progressive damage, conductive rovings were contacted, forming the capacitor walls of interleaved capacitors."
+    },
+    "Question_3": {
+        "Context": "In the context of structural health monitoring using electrical capacitance measurements, the sensitivity of the capacitance to damage such as crack formation can vary depending on the type of conductive material used within the composite.",
+        "Question": "Which type of conductive material has shown higher sensitivity of the capacitance to crack formation in glass fibre reinforced polymers?",
+        "A": "Solid copper conductors",
+        "B": "Stranded copper conductors",
+        "C": "Carbon fibre conductors",
+        "D": "Aluminium foil conductors",
+        "Answer": "C",
+        "Source": "Carbon fibre conductors show higher sensitivity of the capacitance to crack formation than solid or stranded copper conductors."
+    },
+    "Question_4": {
+        "Context": "The permittivity of a material is a measure of how much electric charge is stored in a material within an electric field. In the context of SHM using capacitance measurements, the permittivity of the composite material is a critical factor as it influences the capacitance values obtained during monitoring.",
+        "Question": "What is the relative permittivity of the glass fibre reinforced polymer material as determined in the context of structural health monitoring?",
+        "A": "Approximately 6",
+        "B": "Approximately 46",
+        "C": "Approximately 100",
+        "D": "Approximately 10",
+        "Answer": "B",
+        "Source": "The calculated relative permittivity of the material \u03f5r is 46. This value is relatively high compared to different values of GFRP in literature."
+    },
+    "Question_5": {
+        "Context": "The concept of an ideal plate capacitor is used in analytical models to describe the correlation between capacitance change and crack formation in composites during structural health monitoring. This model assumes a uniform electric field and distance between the capacitor plates.",
+        "Question": "In the analytical model of a plate capacitor used for structural health monitoring, what does the appearance of cracks introduce between the conductive plates?",
+        "A": "A second dielectric medium with a different permittivity",
+        "B": "An increase in the uniform electric field",
+        "C": "A decrease in the distance between the plates",
+        "D": "A constant permittivity throughout the material",
+        "Answer": "A",
+        "Source": "The appearance of cracks introduces air as a second dielectric medium between the conductors. Thus after crack initiation, Eq. 2 changes to Eq. 4, which takes into account the different permittivities of GFRP \u03f5r,GFRP and air \u03f5r,air."
+    },
+    "Question_6": {
+        "Context": "In the field of composite materials, the term 'rovings' refers to bundles of continuous filaments used in the construction of composite materials, which can be made of glass or carbon fibres. These rovings can be modified to include conductive materials for health monitoring purposes.",
+        "Question": "What is the purpose of replacing individual glass fibre rovings with conductive materials in the context of structural health monitoring?",
+        "A": "To improve the electrical conductivity of the entire composite",
+        "B": "To decrease the weight of the composite material",
+        "C": "To enhance the aesthetic appearance of the composite",
+        "D": "To enable damage monitoring through changes in electrical properties",
+        "Answer": "D",
+        "Source": "Within this work, a structural health monitoring method based on in-situ electrical capacitance measurements is presented, which enables damage monitoring in glass fibre reinforced polymers."
+    },
+    "Question_7": {
+        "Context": "In the study of composite materials, the term 'matrix' refers to the material in which the reinforcement (such as fibres or rovings) is embedded. This matrix can be a polymer, metal, or ceramic, and it holds the reinforcement together, providing shape and protecting the fibres.",
+        "Question": "What happens to the matrix of a composite material when it undergoes damage such as crack formation?",
+        "A": "The matrix increases its electrical conductivity",
+        "B": "The matrix changes its thermal properties",
+        "C": "The matrix introduces air as a second dielectric medium",
+        "D": "The matrix enhances its tensile strength",
+        "Answer": "C",
+        "Source": "The appearance of cracks introduces air as a second dielectric medium between the conductors. Thus after crack initiation, Eq. 2 changes to Eq. 4, which takes into account the different permittivities of GFRP \u03f5r,GFRP and air \u03f5r,air."
+    },
+    "Question_8": {
+        "Context": "In the context of composite materials, the term 'permittivity' refers to the ability of a material to permit the passage of electric field lines. It is a measure of how an electric field affects, and is affected by, a dielectric medium.",
+        "Question": "Why is the permittivity of a composite material important in the context of capacitance-based structural health monitoring?",
+        "A": "It determines the mechanical strength of the composite",
+        "B": "It affects the capacitance values measured during monitoring",
+        "C": "It indicates the moisture resistance of the composite",
+        "D": "It measures the thermal expansion of the composite",
+        "Answer": "B",
+        "Source": "The permittivity is calculated following Eq. 1 [22] from the slope of the linear regression fit, which depicts the measured values well. The calculated relative permittivity of the material \u03f5r is 46."
+    },
+    "Question_9": {
+        "Context": "In the context of composite materials, the term 'dielectric' refers to a material that does not conduct electricity but can support an electrostatic field. The dielectric properties of a material are important for applications such as capacitors and insulators.",
+        "Question": "What is the effect of introducing air as a second dielectric medium in a composite material on its capacitance?",
+        "A": "It increases the capacitance due to air's higher permittivity",
+        "B": "It decreases the capacitance due to air's lower permittivity",
+        "C": "It has no effect on the capacitance as air is a neutral medium",
+        "D": "It increases the electrical conductivity of the composite",
+        "Answer": "B",
+        "Source": "The appearance of cracks introduces air as a second dielectric medium between the conductors. Thus after crack initiation, Eq. 2 changes to Eq. 4, which takes into account the different permittivities of GFRP \u03f5r,GFRP and air \u03f5r,air."
+    },
+    "Question_10": {
+        "Context": "In composite materials, the term 'resin-rich regions' refers to areas within the composite where the concentration of resin is higher than in other areas. These regions can affect the overall properties of the composite, including its electrical and mechanical characteristics.",
+        "Question": "How do resin-rich regions around conductive materials in a composite affect its properties for structural health monitoring?",
+        "A": "They increase the overall permittivity of the composite",
+        "B": "They decrease the sensitivity of capacitance to damage",
+        "C": "They improve the mechanical strength of the composite",
+        "D": "They enhance the electrical conductivity uniformly",
+        "Answer": "B",
+        "Source": "For stranded copper conductors the resin-rich area between the single strands and around the conductors is bigger. An even bigger resin-rich area is present around the solid copper conductors."
+    }
+}

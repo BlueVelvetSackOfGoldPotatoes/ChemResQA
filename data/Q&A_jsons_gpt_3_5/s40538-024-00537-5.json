@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study isolated an Enterobacter cloacae strain DJ with plant-promoting effects and investigated its adaptation to salinity-alkalinity environments. What was the average diameter of the colonies on the salinity-alkalinity medium after 24 hours of incubation compared to the ADF medium?",
+        "Question": "What was the average diameter of the colonies on the salinity-alkalinity medium after 24 hours of incubation?",
+        "A": "1.9 cm",
+        "B": "3.3 cm",
+        "C": "4.0 cm",
+        "D": "2.5 cm",
+        "Answer": "B",
+        "Source": "The average diameter of the colonies on the salinity-alkalinity medium after incubation for 24 h was 3.3 cm, and this was significantly higher than the 1.9 cm diameter in ADF medium (p < 0.01)."
+    },
+    "Question_2": {
+        "Context": "Comparative proteomic analysis revealed differentially expressed proteins in salinity-alkalinity groups compared to control groups. Which pathway was the top one upregulated in the KEGG enrichment analysis?",
+        "Question": "What was the top one upregulated pathway in the KEGG enrichment analysis?",
+        "A": "Butanoate metabolism",
+        "B": "Quorum sensing",
+        "C": "Flagellar assembly",
+        "D": "Bacterial chemotaxis",
+        "Answer": "D",
+        "Source": "The top one upregulated pathway of KEGG enrichment was bacterial chemotaxis, DJ bacteria adapted to salinity-alkalinity environments by upregulating the genes associated with bacterial chemotaxis."
+    },
+    "Question_3": {
+        "Context": "Polyamines putrescine and spermidine were analyzed in the supernatant of DJ bacteria under different conditions. What were the contents of putrescine in the salinity-alkalinity and control groups?",
+        "Question": "What were the contents of putrescine in the salinity-alkalinity and control groups?",
+        "A": "4.73 \u03bcg/mL and 3.02 \u03bcg/mL",
+        "B": "3.0 \u03bcg/mL and 4.5 \u03bcg/mL",
+        "C": "2.0 \u03bcg/mL and 1.5 \u03bcg/mL",
+        "D": "5.0 \u03bcg/mL and 2.5 \u03bcg/mL",
+        "Answer": "A",
+        "Source": "The contents of putrescine in salinity-alkalinity and control groups were 4.73 \u03bcg/mL and 3.02 \u03bcg/mL, respectively."
+    },
+    "Question_4": {
+        "Context": "The study examined the stem height, number of lateral roots, and fresh weight of cucumber seedlings in different treatment groups. What was the stem height of cucumber seedlings in the DJ treatment groups compared to the control groups?",
+        "Question": "What was the stem height of cucumber seedlings in the DJ treatment groups?",
+        "A": "3.8 cm",
+        "B": "6.0 cm",
+        "C": "4.5 cm",
+        "D": "5.2 cm",
+        "Answer": "B",
+        "Source": "The stem height, number of lateral roots, and fresh weight of cucumber seedlings in the DJ treatment groups were 6.0 cm, 17 roots, and 0.42 g, respectively, whereas those of the control groups were 3.8 cm, 14 roots, and 0.28 g, respectively."
+    },
+    "Question_5": {
+        "Context": "The Pt gene encoding the polyamine transporter protein was examined in cucumber roots after treatment with DJ bacteria under salinity-alkalinity stress. How was the expression of the Pt gene affected?",
+        "Question": "How was the expression of the Pt gene affected?",
+        "A": "Down-regulated",
+        "B": "No change",
+        "C": "Up-regulated",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "The expression of Pt gene encoding polyamine transporter protein was sharply up-regulated in cucumber roots after treatment with DJ bacteria under salinity-alkalinity stress; the expression was more than tenfold higher than that in the control groups."
+    },
+    "Question_6": {
+        "Context": "Antioxidant enzyme activities were measured in cucumber seedlings under salinity-alkalinity conditions. How were the enzyme activities of POD, SOD, and CAT affected in the cucumber seedlings?",
+        "Question": "How were the enzyme activities of POD, SOD, and CAT affected in the cucumber seedlings?",
+        "A": "Decreased",
+        "B": "No change",
+        "C": "Fluctuated",
+        "D": "Increased",
+        "Answer": "D",
+        "Source": "The enzyme activities of POD, SOD, and CAT in cucumber seedlings were higher compared to those in the control groups (p < 0.01)."
+    },
+    "Question_7": {
+        "Context": "The study investigated the growth promotion effects of DJ bacteria on cucumber seedlings under salinity-alkalinity stress. How did the lateral root number in the DJ treatment groups compare to the control groups?",
+        "Question": "How did the lateral root number in the DJ treatment groups compare to the control groups?",
+        "A": "Higher",
+        "B": "Lower",
+        "C": "No change",
+        "D": "Fluctuated",
+        "Answer": "A",
+        "Source": "The stem height, number of lateral roots, and fresh weight of cucumber seedlings in the DJ treatment groups were 6.0 cm, 17 roots, and 0.42 g, respectively, whereas those of the control groups were 3.8 cm, 14 roots, and 0.28 g, respectively, with a notable difference between two cohorts (p < 0.01)."
+    },
+    "Question_8": {
+        "Context": "The study examined the adaptation of DJ bacteria to alkaline conditions. How did the biomass growth trend of DJ bacteria differ under different pH conditions?",
+        "Question": "How did the biomass growth trend of DJ bacteria differ under different pH conditions?",
+        "A": "Higher under acidic conditions",
+        "B": "Higher under neutral and alkaline conditions",
+        "C": "Higher under neutral conditions",
+        "D": "Higher under alkaline conditions",
+        "Answer": "B",
+        "Source": "Results showed that the biomass growth trend of DJ bacteria was basically the same under neutral and alkaline culture conditions and was significantly higher than that under acidic culture conditions."
+    },
+    "Question_9": {
+        "Context": "The study investigated the swimming motility of DJ bacteria in salinity-alkalinity conditions. How did the diameter of the colonies on the salinity-alkalinity medium compare to the ADF medium?",
+        "Question": "How did the diameter of the colonies on the salinity-alkalinity medium compare to the ADF medium?",
+        "A": "Smaller",
+        "B": "Larger",
+        "C": "Equal",
+        "D": "Fluctuated",
+        "Answer": "B",
+        "Source": "The average diameter of the colonies on the salinity-alkalinity medium was 3.3 cm, and this was significantly different (p < 0.01) from that (1.9 cm) of the control group."
+    },
+    "Question_10": {
+        "Context": "The study conducted a swim plate assay to analyze the chemotactic response of DJ bacteria. How did the swimming motility of DJ bacteria in salinity-alkalinity medium compare to the ADF medium?",
+        "Question": "How did the swimming motility of DJ bacteria in salinity-alkalinity medium compare to the ADF medium?",
+        "A": "Lower in salinity-alkalinity medium",
+        "B": "Higher in salinity-alkalinity medium",
+        "C": "Equal in both media",
+        "D": "Fluctuated",
+        "Answer": "B",
+        "Source": "The swimming motility of DJ bacteria in salinity-alkalinity medium was greater than that in ADF medium, indicating that DJ bacteria adapted to grow in salinity-alkalinity conditions."
+    }
+}

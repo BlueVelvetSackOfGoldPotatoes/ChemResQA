@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Radiopharmaceuticals containing [177mLu]lutetium can pose challenges due to its physical half-life and concentration. What is the radionuclidic purity required for [177Lu]lutetium according to the European Pharmacopoeia?",
+        "Question": "What is the radionuclidic purity required for [177Lu]lutetium according to the European Pharmacopoeia?",
+        "A": "Greater than 99%",
+        "B": "Less than 0.1%",
+        "C": "Less than 0.07%",
+        "D": "Less than 0.01%",
+        "Answer": "A",
+        "Source": "According to the European Pharmacopoeia, [177Lu] lutetium for radiolabeling must have a radionuclidic purity of greater than 99%."
+    },
+    "Question_2": {
+        "Context": "What is the exemption limit for [177mLu]lutetium to be considered safe for unrestricted release of solid and liquid substances?",
+        "Question": "What is the exemption limit for [177mLu]lutetium to be considered safe for unrestricted release of solid and liquid substances?",
+        "A": "1 \u00d7 10^6 Bq",
+        "B": "0.1 Bq/g",
+        "C": "5 \u00d7 10^5 Bq/m3",
+        "D": "0.015%",
+        "Answer": "A",
+        "Source": "For [177mLu]lutetium, the exemption limit is 1 \u00d7 10^6 Bq and 0.1 Bq/g for the unrestricted release of solid and liquid substances."
+    },
+    "Question_3": {
+        "Context": "What is the physical half-life of [177mLu]lutetium?",
+        "Question": "What is the physical half-life of [177mLu]lutetium?",
+        "A": "160.4 days",
+        "B": "6.64 days",
+        "C": "22.7%",
+        "D": "5 years",
+        "Answer": "A",
+        "Source": "The physical half-life of [177mLu]lutetium is 160.4 days."
+    },
+    "Question_4": {
+        "Context": "What is the main gamma emission energy in the case where [177mLu]lutetium decays to [177Lu]lutetium?",
+        "Question": "What is the main gamma emission energy in the case where [177mLu]lutetium decays to [177Lu]lutetium?",
+        "A": "497 keV",
+        "B": "228 keV",
+        "C": "208 keV",
+        "D": "113 keV",
+        "Answer": "A",
+        "Source": "In the first case where [177mLu]lutetium decays to [177Lu]lutetium, the main gamma emission is 497 keV."
+    },
+    "Question_5": {
+        "Context": "What is the physical half-life of [177Lu]lutetium?",
+        "Question": "What is the physical half-life of [177Lu]lutetium?",
+        "A": "160.4 days",
+        "B": "6.64 days",
+        "C": "22.7%",
+        "D": "5 years",
+        "Answer": "B",
+        "Source": "The physical half-life of [177Lu]lutetium is 6.64 days."
+    },
+    "Question_6": {
+        "Context": "What is the main gamma emission energy in the case where [177mLu]lutetium decays to [177Hf]hafnium?",
+        "Question": "What is the main gamma emission energy in the case where [177mLu]lutetium decays to [177Hf]hafnium?",
+        "A": "414 keV",
+        "B": "419 keV",
+        "C": "379 keV",
+        "D": "228 keV",
+        "Answer": "B",
+        "Source": "In the second case where [177mLu]lutetium decays to [177Hf]hafnium, the main gamma emissions are 419 keV."
+    },
+    "Question_7": {
+        "Context": "What is the exemption limit for [177mLu]lutetium in waste water to avoid waste management problems?",
+        "Question": "What is the exemption limit for [177mLu]lutetium in waste water to avoid waste management problems?",
+        "A": "1 \u00d7 10^6 Bq",
+        "B": "0.1 Bq/g",
+        "C": "5 \u00d7 10^5 Bq/m3",
+        "D": "0.015%",
+        "Answer": "C",
+        "Source": "The problem that might arise in some nuclear medicine facilities is related to the exemption limit of 5 \u00d7 10^5 Bq/m3 in the waste water."
+    },
+    "Question_8": {
+        "Context": "What is the radionuclidic impurity of [177mLu]lutetium found in LuMark\u00ae?",
+        "Question": "What is the radionuclidic impurity of [177mLu]lutetium found in LuMark\u00ae?",
+        "A": "0.0000453%",
+        "B": "0.0000002%",
+        "C": "0.008248%",
+        "D": "0.0096%",
+        "Answer": "C",
+        "Source": "For the test synthesis with approved LuMark\u00ae (IDB Holland), the radionuclidic impurity of [177mLu]lutetium was 0.008248%."
+    },
+    "Question_9": {
+        "Context": "What is the average concentration of [177mLu]lutetium found in Lutathera\u00ae?",
+        "Question": "What is the average concentration of [177mLu]lutetium found in Lutathera\u00ae?",
+        "A": "0.0024 ppm",
+        "B": "0.8 ppm",
+        "C": "0.00037%",
+        "D": "0.96%",
+        "Answer": "D",
+        "Source": "For Lutathera\u00ae, we found an average concentration of 29,512 Bq/g [177mLu]lutetium, resulting in a radionuclidic impurity of 0.0096%."
+    },
+    "Question_10": {
+        "Context": "What is the correction factor used for the 27 mL Lutathera\u00ae vials in the gamma spectroscopy measurements?",
+        "Question": "What is the correction factor used for the 27 mL Lutathera\u00ae vials in the gamma spectroscopy measurements?",
+        "A": "0.55",
+        "B": "0.48",
+        "C": "0.66",
+        "D": "0.0087%",
+        "Answer": "C",
+        "Source": "For the 27 mL Lutathera\u00ae vial, a correction factor of 0.66 was used in the gamma spectroscopy measurements."
+    }
+}

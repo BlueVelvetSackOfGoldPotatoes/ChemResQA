@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "MicroRNAs (miRNAs) play crucial roles in various physiological and pathological processes. Accurate identification of miRNAs is important for understanding these processes.",
+        "Question": "What is the main challenge in quantifying microRNAs (miRNAs)?",
+        "A": "Their long lengths",
+        "B": "Their stability in the presence of enzymes",
+        "C": "Their high sequence homology among family members",
+        "D": "Their insensitivity to degradation",
+        "Answer": "C",
+        "Source": "However, the characteristics of miRNAs, such as their short lengths, sensitivity to degradation, low quantity, and high sequence homology among family members, make it difficult to quantify miRNAs."
+    },
+    "Question_2": {
+        "Context": "Rolling circle amplification (RCA) is a method used to amplify DNA or RNA sequences. It has been applied in various approaches for miRNA detection.",
+        "Question": "What is a key advantage of the rolling circle amplification (RCA) method?",
+        "A": "High cost of operation",
+        "B": "Complex experimental components",
+        "C": "High amplifying efficiency",
+        "D": "Low sensitivity",
+        "Answer": "C",
+        "Source": "Among them, the RCA method has attracted abundant attention due to its simple experimental components, easy to operate characteristic, and high amplifying efficiency."
+    },
+    "Question_3": {
+        "Context": "Gold nanoparticles (AuNPs) can be used in colorimetric approaches for miRNA detection, which allow for direct observation of results.",
+        "Question": "What mediates the gold nanoparticle (AuNPs)-based color reaction in the described colorimetric method for miRNA detection?",
+        "A": "Cyclization of the padlock sequence",
+        "B": "Catalyzing cysteine to cystine",
+        "C": "Amplification of G-rich sequences",
+        "D": "Binding of miRNA to the probe",
+        "Answer": "B",
+        "Source": "The generated G-rich sequences fold to G-quadruplex DNAzyme that is capable of catalyzing cysteine to cystine which could mediate the gold nanoparticle-based color reaction, outputting results that can be observed directly by naked eyes."
+    },
+    "Question_4": {
+        "Context": "In the context of miRNA detection, specificity is crucial to distinguish the target miRNA from other similar sequences.",
+        "Question": "How is the specificity of RCA improved in the described colorimetric method for miRNA detection?",
+        "A": "By the cyclization of padlock and exonuclease-based digestion of target sequence",
+        "B": "By increasing the concentration of miRNA",
+        "C": "By using a higher temperature during the reaction",
+        "D": "By employing a larger number of padlock probes",
+        "Answer": "A",
+        "Source": "By the elaborate design, the specificity of RCA is greatly improved due the dual recognition, including the cyclization of padlock and exonuclease-I (Exo-I)/exonuclease-III (Exo-III)-based digestion of target sequence."
+    },
+    "Question_5": {
+        "Context": "Exonucleases are enzymes that can digest nucleic acids and are used in various molecular biology techniques.",
+        "Question": "What is the role of exonuclease III (Exo-III) in the RCA-based colorimetric method for miRNA detection?",
+        "A": "To amplify the miRNA sequences",
+        "B": "To prevent self-ligation amplification",
+        "C": "To destroy miRNA for the second target recognition",
+        "D": "To initiate the RCA reaction",
+        "Answer": "C",
+        "Source": "Secondly, exonuclease III (it has characteristics similar to RNaseH) is employed to destroy miRNA, which is the second target recognition."
+    },
+    "Question_6": {
+        "Context": "The formation of G-quadruplex structures is a key step in certain nucleic acid-based detection methods.",
+        "Question": "What role do G-quadruplex sequences play in the described colorimetric method for miRNA detection?",
+        "A": "They stabilize the formation of triplex DNA",
+        "B": "They act as a G-quadruplex-DNAzyme to accelerate oxidation reactions",
+        "C": "They bind to miRNA-21 directly",
+        "D": "They aggregate gold nanoparticles",
+        "Answer": "B",
+        "Source": "In the presence of hemin and K+, these G-quadruplex sequences in ssDNA products act as a G-quadruplex-DNAzyme, accelerating the aerobic oxidation of cysteine to cystine and preventing Ag+ from binding to the C\u2022G\u25e6C triad, a crucial component of triplex DNA."
+    },
+    "Question_7": {
+        "Context": "The detection of miRNAs can be influenced by various experimental conditions, which need to be optimized for the best performance.",
+        "Question": "Which of the following is NOT a factor that needs to be optimized in the RCA-based colorimetric method for miRNA detection?",
+        "A": "Enzyme concentrations",
+        "B": "Temperature of the reaction",
+        "C": "Concentration of hemin",
+        "D": "Concentration of Ag+",
+        "Answer": "B",
+        "Source": "Therefore, it was necessary to optimize the relevant factors that could impact the assay\u2019s sensitivity, including the enzyme concentrations (T4 ligase, phi29 polymerase, Exo-I and Exo-III), K+, hemin, cysteine, and Ag+."
+    },
+    "Question_8": {
+        "Context": "The detection of miRNAs using colorimetric methods can be quantified by measuring specific absorbance ratios.",
+        "Question": "In the described colorimetric method, what does the ratio of absorbance at 600 and 525 nm (A600/A525) indicate?",
+        "A": "The concentration of miRNA in the sample",
+        "B": "The efficiency of the RCA reaction",
+        "C": "The aggregation of gold nanoparticles",
+        "D": "The purity of the synthesized miRNA",
+        "Answer": "C",
+        "Source": "The ratio of absorbance at 600 and 525 nm (A600/A525) was used to indicate the aggregation of AuNPs because the absorbance of 525 nm steadily shifted and decreased along with the increase at 600 nm in the presence of target dsDNA."
+    },
+    "Question_9": {
+        "Context": "The detection limit of an assay is the lowest quantity of a substance that can be distinguished from the absence of that substance.",
+        "Question": "What is the limit of detection (LOD) for miRNA-21 using the described RCA-based colorimetric method?",
+        "A": "4 pM",
+        "B": "4 nM",
+        "C": "4 fM",
+        "D": "4 mM",
+        "Answer": "C",
+        "Source": "The limit of detection was calculated to be 4 fM using the linear correlation equation Y = 0.1108*lgC + 0.1101."
+    },
+    "Question_10": {
+        "Context": "The specificity of a miRNA detection method is its ability to distinguish the target miRNA from other similar sequences.",
+        "Question": "How does the described colorimetric method for miRNA detection demonstrate its specificity?",
+        "A": "By showing different color changes for each miRNA variant",
+        "B": "By producing the same A600/A525 value for all miRNA variants",
+        "C": "By yielding significantly different A600/A525 values for miRNA-21 and its mismatched variants",
+        "D": "By requiring a longer reaction time for mismatched miRNA variants",
+        "Answer": "C",
+        "Source": "The miRNA-21 and its one-base (m1), two-base (m2), and three-base (m3) variants of the same concentration (100 pM) resulted in significantly different A600/A525 values."
+    }
+}

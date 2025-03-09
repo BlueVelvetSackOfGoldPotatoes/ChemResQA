@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on developing a whole-cell biocatalyst for the degradation of PET microplastics using C. testosteroni CNB-1. The enzyme DuraPETase was secreted from this strain to facilitate the degradation process.",
+        "Question": "What was the primary enzyme used in the study for the hydrolysis of PET microplastics?",
+        "A": "IsPETase",
+        "B": "LCC",
+        "C": "MHETase",
+        "D": "DuraPETase",
+        "Answer": "DuraPETase",
+        "Source": "DuraPETase was successfully secreted into the extracellular milieu from C. testosteroni CNB-1. The secretion of DuraPETase led to an efficient hydrolytic activity towards PET nanoplastics and microplastics."
+    },
+    "Question_2": {
+        "Context": "The study aimed to develop a novel approach for PET microplastic degradation using a whole-cell biocatalyst derived from C. testosteroni CNB-1.",
+        "Question": "What was the primary carbon source utilized by the CNB-1 derived whole-cell biocatalyst for growth?",
+        "A": "Terephthalic acid (TPA)",
+        "B": "Ethylene glycol (EG)",
+        "C": "Bis(2-hydroxyethyl)-TPA (BHET)",
+        "D": "All of the above",
+        "Answer": "All of the above",
+        "Source": "The growth curve of CNB-1B showed that it could utilize TPA, EG, and BHET as the sole carbon sources. For BHET, the colony-forming units (CFU) were counted, indicating its utilization by CNB-1B."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the hydrolytic activity of the secreted DuraPETase enzyme on model substrates to assess its effectiveness in PET degradation.",
+        "Question": "Which strain exhibited significant kinetic hydrolytic activity against p-NPB?",
+        "A": "CNB-1A",
+        "B": "CNB-1B",
+        "C": "CNB-1C",
+        "D": "CNB-1D",
+        "Answer": "CNB-1C",
+        "Source": "CNB-1C exhibited significant kinetic hydrolytic activity against p-NPB compared to the blank control CNB-1A and CNB-1D."
+    },
+    "Question_4": {
+        "Context": "The study investigated the degradation of PET nanoplastics by the CNB-1 derived whole-cell biocatalyst.",
+        "Question": "What was the distinct stage observed in the thermogravimetric analysis of PET nanoplastics treated with DuraPETase?",
+        "A": "Water evaporation",
+        "B": "Organic matter removal",
+        "C": "Polymerization of BHET",
+        "D": "PET decomposition",
+        "Answer": "Polymerization of BHET",
+        "Source": "The thermogram showed a distinct BHET polymerization stage, indicating the formation of BHET as an intermediate compound during the degradation of PET nanoplastics by DuraPETase."
+    },
+    "Question_5": {
+        "Context": "The study assessed the degradation efficiency of PET microplastics by the CNB-1 derived whole-cell biocatalyst.",
+        "Question": "What was the degradation efficiency achieved by the whole-cell biocatalyst within 7 days?",
+        "A": "5%",
+        "B": "9%",
+        "C": "12%",
+        "D": "15%",
+        "Answer": "9%",
+        "Source": "The whole-cell biocatalysts degraded 9.2 mg of the microplastics, corresponding to a degradation efficiency of 9% within 7 days."
+    },
+    "Question_6": {
+        "Context": "The study highlighted the utilization of PET degradation intermediates by the CNB-1 derived whole-cell biocatalyst.",
+        "Question": "Which compound was NOT mentioned as a main intermediate of enzymatic PET degradation utilized by CNB-1B?",
+        "A": "Terephthalic acid (TPA)",
+        "B": "Ethylene glycol (EG)",
+        "C": "Bis(2-hydroxyethyl)-TPA (BHET)",
+        "D": "Monomers",
+        "Answer": "Monomers",
+        "Source": "The study mentioned the utilization of TPA, EG, and BHET as main intermediates of enzymatic PET degradation by CNB-1B, but did not mention the direct utilization of monomers."
+    },
+    "Question_7": {
+        "Context": "The study investigated the hydrolytic activity of the secreted DuraPETase enzyme on PET nanoplastics.",
+        "Question": "What was the primary reason for the observed weight loss in the thermogravimetric analysis of PET nanoplastics treated with DuraPETase?",
+        "A": "Water evaporation",
+        "B": "Organic matter removal",
+        "C": "Polymerization of BHET",
+        "D": "PET decomposition",
+        "Answer": "Organic matter removal",
+        "Source": "The second stage of weight loss in the thermogravimetric analysis was attributed to the removal of organic matter from bacterial cells and most of the PET nanoplastics."
+    },
+    "Question_8": {
+        "Context": "The study examined the growth curve of CNB-1B using different carbon sources.",
+        "Question": "Which compound was utilized by CNB-1B as the sole carbon source for growth, but its colony-forming units (CFU) were counted instead of measuring cell density?",
+        "A": "Terephthalic acid (TPA)",
+        "B": "Ethylene glycol (EG)",
+        "C": "Bis(2-hydroxyethyl)-TPA (BHET)",
+        "D": "All of the above",
+        "Answer": "Bis(2-hydroxyethyl)-TPA (BHET)",
+        "Source": "For BHET, the colony-forming units (CFU) were counted, indicating its utilization by CNB-1B."
+    },
+    "Question_9": {
+        "Context": "The study evaluated the hydrolytic activity of the secreted DuraPETase enzyme on model substrates to assess its effectiveness in PET degradation.",
+        "Question": "Which strain showed a little higher hydrolytic activity against p-NPB compared to another strain, but the difference was not significant?",
+        "A": "CNB-1A",
+        "B": "CNB-1B",
+        "C": "CNB-1C",
+        "D": "CNB-1D",
+        "Answer": "CNB-1B",
+        "Source": "CNB-1C showed a little higher hydrolytic activity than CNB-1B, but the difference was not significant."
+    },
+    "Question_10": {
+        "Context": "The study assessed the degradation efficiency of PET microplastics by the CNB-1 derived whole-cell biocatalyst.",
+        "Question": "What was the total weight loss observed after incubating the whole-cell biocatalyst with PET microplastics for 7 days?",
+        "A": "2.2 mg",
+        "B": "4.5 mg",
+        "C": "6.8 mg",
+        "D": "9.2 mg",
+        "Answer": "2.2 mg",
+        "Source": "After 72 hours of enzymatic treatment, DuraPETase resulted in a weight loss of 2.2 mg, whereas IsPETase and LCC only showed weight losses of 0.4 mg and 1.4 mg, respectively."
+    }
+}

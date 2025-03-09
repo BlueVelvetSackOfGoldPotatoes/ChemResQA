@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the toxic effects of TiO2 NRs and TiO2 NRs loaded with Ag or Au NPs on boar spermatozoa.",
+        "Question": "What was the observed effect on sperm motility after incubation with Ag-TiO2 NRs compared to controls?",
+        "A": "Increased motility",
+        "B": "No significant difference",
+        "C": "Decreased motility",
+        "D": "Complete immobility",
+        "Answer": "C",
+        "Source": "After incubation for 2 h, motility was significantly greater for non-treated controls than in the other groups, and the motility of sperm incubated with 20 \u03bcg/ml of Ag-TiO2 NRs was significantly less than in the other groups."
+    },
+    "Question_2": {
+        "Context": "The study assessed sperm viability and acrosomal integrity after incubation with TiO2 NRs, Ag-TiO2 NRs, or Au-TiO2 NRs.",
+        "Question": "What was the effect on sperm viability after treatment with 20 \u03bcg/ml Ag-TiO2 NRs compared to controls?",
+        "A": "Increased viability",
+        "B": "No significant difference",
+        "C": "Decreased viability",
+        "D": "Complete loss of viability",
+        "Answer": "C",
+        "Source": "Percentages of viable sperm were higher after treatment with 10 \u03bcg/ml Au-TiO2 NRs and for controls than after treatment with 20 \u03bcg/ml Ag-TiO2 NRs."
+    },
+    "Question_3": {
+        "Context": "The study examined the intracellular ROS levels in spermatozoa exposed to TiO2 NRs, Ag-TiO2 NRs, or Au-TiO2 NRs.",
+        "Question": "Which treatment resulted in significantly higher intracellular ROS levels in spermatozoa?",
+        "A": "TiO2 NRs",
+        "B": "Au-TiO2 NRs",
+        "C": "Ag-TiO2 NRs",
+        "D": "No treatment",
+        "Answer": "C",
+        "Source": "Interestingly, ROS levels were found to be significantly higher after treatment with Ag-TiO2 NRs than for the other treatments."
+    },
+    "Question_4": {
+        "Context": "The study investigated the fertilization rates and embryo developments of oocytes inseminated with sperm incubated with TiO2 NRs, Ag-TiO2 NRs, or Au-TiO2 NRs.",
+        "Question": "Which treatment resulted in the lowest blastocyst formation rate?",
+        "A": "Control (without NRs)",
+        "B": "Au-TiO2 NRs",
+        "C": "Ag-TiO2 NRs",
+        "D": "No treatment",
+        "Answer": "C",
+        "Source": "When oocytes were fertilized with spermatozoa incubated with 20 \u03bcg/ml Ag-loaded TiO2 NRs, the lowest blastocyst rates were observed."
+    },
+    "Question_5": {
+        "Context": "The study examined the electron transfer mechanism in spermatozoa exposed to Ag-loaded TiO2 NRs.",
+        "Question": "What is the role of NADPH in the electron transfer mechanism?",
+        "A": "Electron acceptor",
+        "B": "Electron donor",
+        "C": "Catalyst",
+        "D": "Inhibitor",
+        "Answer": "B",
+        "Source": "We observed higher ROS levels when NADPH (0.2 mM) and Ag-loaded TiO2 NRs were treated in combination; ROS production was low when only NADPH was administered."
+    },
+    "Question_6": {
+        "Context": "The study assessed the effect of Ag or Au NPs incorporated on TiO2 NRs on boar spermatozoa.",
+        "Question": "What was the observed effect on sperm viability after treatment with 10 \u03bcg/ml Au-TiO2 NRs compared to controls?",
+        "A": "Increased viability",
+        "B": "No significant difference",
+        "C": "Decreased viability",
+        "D": "Complete loss of viability",
+        "Answer": "A",
+        "Source": "Percentages of viable sperm were higher after treatment with 10 \u03bcg/ml Au-TiO2 NRs and for controls than after treatment with 20 \u03bcg/ml Au-TiO2 NRs."
+    },
+    "Question_7": {
+        "Context": "The study examined the charge transfer mechanism and ROS generation in spermatozoa exposed to Ag-loaded TiO2 NRs.",
+        "Question": "What is the proposed charge transfer mechanism between living cells and Ag-TiO2 NRs?",
+        "A": "Electron transfer from Ag-TiO2 NRs to living cells",
+        "B": "Electron transfer from living cells to Ag-TiO2 NRs",
+        "C": "Proton transfer from Ag-TiO2 NRs to living cells",
+        "D": "Proton transfer from living cells to Ag-TiO2 NRs",
+        "Answer": "B",
+        "Source": "The electron donor ligand of Ag NP might accept the transmembrane electrons of sperm enzymatic NADPH after mitochondrial electron transport chain reactions have been disrupted."
+    },
+    "Question_8": {
+        "Context": "The study investigated the effects of Ag or Au NPs incorporated on TiO2 NRs on boar spermatozoa.",
+        "Question": "What was the observed effect on sperm motility after incubation with 10 \u03bcg/ml Au-TiO2 NRs compared to controls?",
+        "A": "Increased motility",
+        "B": "No significant difference",
+        "C": "Decreased motility",
+        "D": "Complete immobility",
+        "Answer": "A",
+        "Source": "The percentage of total motile sperm after 10 min of incubation was higher for sperm treated with 10 \u03bcg/ml Au-TiO2 NRs than for sperm treated with 20 \u03bcg/ml Ag-TiO2 NRs."
+    },
+    "Question_9": {
+        "Context": "The study assessed the intracellular ROS levels in spermatozoa exposed to TiO2 NRs, Ag-TiO2 NRs, or Au-TiO2 NRs.",
+        "Question": "Which treatment resulted in significantly lower intracellular ROS levels in spermatozoa?",
+        "A": "TiO2 NRs",
+        "B": "Au-TiO2 NRs",
+        "C": "Ag-TiO2 NRs",
+        "D": "No treatment",
+        "Answer": "A",
+        "Source": "ROS levels were found to be significantly higher after treatment with Ag-TiO2 NRs than for the other treatments."
+    },
+    "Question_10": {
+        "Context": "The study examined the fertilization rates and embryo developments of oocytes inseminated with sperm incubated with TiO2 NRs, Ag-TiO2 NRs, or Au-TiO2 NRs.",
+        "Question": "Which treatment resulted in the highest cleavage rate after in vitro fertilization?",
+        "A": "Control (without NRs)",
+        "B": "Au-TiO2 NRs",
+        "C": "Ag-TiO2 NRs",
+        "D": "No treatment",
+        "Answer": "A",
+        "Source": "We observed more cleaved oocytes from IVF performed using control sperm than in the other groups."
+    }
+}

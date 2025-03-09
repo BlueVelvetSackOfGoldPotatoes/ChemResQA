@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Aluminium matrix composites (AMC) are materials that combine a lightweight metal matrix with ceramic particles to enhance mechanical and thermal properties.",
+        "Question": "What is the maximum volume percentage of reinforcement particles typically processed in AMC manufacturing strategies?",
+        "A": "20 vol. %",
+        "B": "30 vol. %",
+        "C": "40 vol. %",
+        "D": "50 vol. %",
+        "Answer": "B",
+        "Source": "Currently, the three main production technologies for manufacturing such AMC are powder metallurgy, semi-solid processes and casting. Here, the AMC\u00b4s reinforcement proportion that can be processed depends on the chosen manufacturing strategy and is therefore often limited to a maximum value of 30 vol. %, due to agglomeration and porosity problems."
+    },
+    "Question_2": {
+        "Context": "In the context of AMC, the homogeneity of particle distribution is crucial as it significantly influences the properties of the composite material.",
+        "Question": "Which parameter is insensitive to particle size, shape and particle loading, but shows high sensitivity to particle clustering in AMC?",
+        "A": "Coefficient of Variance (COV)",
+        "B": "Coefficient of Variance of the mean near-neighbour distance (COVd)",
+        "C": "Froude number (Fr)",
+        "D": "Particle loading (PL)",
+        "Answer": "B",
+        "Source": "Another common approach is based on using the coefficient-of-variance of the mean near-neighbour distance of particles (COVd) to characterize the homogeneity of AMC. Yang et. al have thereby shown that the COVd is insensitive to particle size, shape and particle loading, while showing high sensitivity to particle clustering."
+    },
+    "Question_3": {
+        "Context": "Mixing of powder mixtures for AMC production is a critical step that affects the homogeneity of the particle distribution.",
+        "Question": "What effect does a slower mixing speed have on the homogenisation of powder mixtures for AMC production?",
+        "A": "It has no effect on homogenisation",
+        "B": "It results in slower homogenisation",
+        "C": "It results in faster homogenisation",
+        "D": "It leads to immediate segregation",
+        "Answer": "C",
+        "Source": "The results showed that a slower mixing speed resulted in faster homogenisation as well as a larger particle size can be faster mixed."
+    },
+    "Question_4": {
+        "Context": "The process of mixing powder mixtures for AMC involves various parameters that can influence the quality of the mix.",
+        "Question": "Which mixing parameter is often varied in publications to achieve homogeneity in AMC powder mixtures?",
+        "A": "Mixing container size",
+        "B": "Mixing duration",
+        "C": "Type of mixer",
+        "D": "Particle morphology",
+        "Answer": "B",
+        "Source": "Here, mixing times vary in most publications between 4 min [6] and 30 min [16] and a wide range of mixing speeds is used."
+    },
+    "Question_5": {
+        "Context": "The Froude number is a dimensionless number that describes the flow behaviour in a rotary drum, which is important in the mixing process of AMC powders.",
+        "Question": "What flow regime is associated with a Froude number less than 1 in the context of powder mixing?",
+        "A": "Cataracting",
+        "B": "Cascading",
+        "C": "Rolling",
+        "D": "Slumping",
+        "Answer": "B",
+        "Source": "For a filling degree of 0.1, as used in this work, those flow regimes range from slumping, rolling, cascading up to a cataracting flow behaviour of the powder."
+    },
+    "Question_6": {
+        "Context": "The homogeneity of powder mixtures in AMC production can be influenced by the particle size of the powders being mixed.",
+        "Question": "How does a larger particle size affect the mixing process of AMC powder mixtures?",
+        "A": "It requires a longer mixing time for homogenisation",
+        "B": "It has no significant effect on the mixing process",
+        "C": "It can be mixed faster for homogenisation",
+        "D": "It increases the risk of agglomeration",
+        "Answer": "C",
+        "Source": "The results showed that a slower mixing speed resulted in faster homogenisation as well as a larger particle size can be faster mixed."
+    },
+    "Question_7": {
+        "Context": "In the production of AMC, the distribution of reinforcement particles is a critical factor that can lead to component failure if not properly managed.",
+        "Question": "What is the consequence of inhomogeneous particle distributions in AMC components?",
+        "A": "Improved wear resistance",
+        "B": "Enhanced thermal conductivity",
+        "C": "Component failure",
+        "D": "Increased material density",
+        "Answer": "C",
+        "Source": "These distributions tremendously influence the properties of such components, but, in the worst case, can lead to component failure due to inhomogeneous material characteristics."
+    },
+    "Question_8": {
+        "Context": "The coefficient of variance (COV) is a statistical measure used to assess the homogeneity of particle distribution in AMC.",
+        "Question": "What does the COV of the mean near-neighbour distance (COVd) indicate in the context of AMC?",
+        "A": "The density of the aluminium alloy",
+        "B": "The thermal expansion of the composite",
+        "C": "The homogeneity of the particle distribution",
+        "D": "The mechanical strength of the composite",
+        "Answer": "C",
+        "Source": "The resulting COVd value (Eq. 1), which equals the standard deviation \u03c3d of the mean near neighbour distance divided by the average mean neighbour distance d, thereby indicates the homogeneity of the AMC."
+    },
+    "Question_9": {
+        "Context": "The process of mixing AMC powders can be influenced by the behaviour of the powder during the mixing process.",
+        "Question": "What type of segregation can occur in a cascading flow regime during the mixing of AMC powders?",
+        "A": "Density segregation",
+        "B": "Free surface segregation",
+        "C": "Trajectory segregation",
+        "D": "Moisture segregation",
+        "Answer": "B",
+        "Source": "For cascading flow regimes at first mixing by convection occurs, due to the motion of particle clumps. Subsequently, the diffusion mixing, resulting from rearrangement of particles, as well as the shear mixing, due to velocity gradients between particle clumps, is dominant. In contrast to observed mixing mechanisms, free surface segregation appears in cascading flow regimes, powder flows in avalanches over the free surface and heavier or coarser particles will move further resulting in segregation."
+    },
+    "Question_10": {
+        "Context": "AMC powders with different particle sizes exhibit different mixing behaviours due to their physical properties.",
+        "Question": "How does the behaviour of finer AMC powders differ from coarser powders during the mixing process?",
+        "A": "Finer powders mix more quickly due to lower cohesion",
+        "B": "Finer powders exhibit a more cohesive behaviour limiting free surface flow",
+        "C": "Finer powders require less mixing time due to higher density",
+        "D": "Finer powders are less affected by mixing speed changes",
+        "Answer": "B",
+        "Source": "While for the coarser powder (F60) a free surface flow was observed as dominant, the finer powder (F220) exhibits a more restricted motion of individual particles on the free surface due to the cohesive behaviour."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Wearable electronic devices require a flexible and wearable electricity supply source. Triboelectric nanogenerators (TENGs) can convert mechanical energy into electrical energy through contact and separation of different materials.",
+        "Question": "What is the main function of a triboelectric nanogenerator (TENG)?",
+        "A": "To store electrical energy",
+        "B": "To convert mechanical energy into electrical energy",
+        "C": "To measure the amount of electrical energy",
+        "D": "To amplify electrical signals",
+        "Answer": "B",
+        "Source": "Among them, triboelectric nanogenerator (TENG) and piezoelectric nanogenerator (PENG), which produce electrical energy from external mechanical stimulation, are receiving considerable attention."
+    },
+    "Question_2": {
+        "Context": "In the context of wearable electronics, the flexibility and durability of energy harvesting devices are crucial for their integration into clothing and other wearable items.",
+        "Question": "Why is flexibility important for energy harvesters used in wearable electronics?",
+        "A": "To increase the storage capacity of the device",
+        "B": "To improve the aesthetic appeal of the device",
+        "C": "To allow the device to withstand bending and twisting motions",
+        "D": "To enhance the electrical conductivity of the device",
+        "Answer": "C",
+        "Source": "The fabricated TENG is flexible and bendable; therefore, it is suitable for wearables; it is easy to connect the copper electrode inside the fiber to electronic devices."
+    },
+    "Question_3": {
+        "Context": "Textile-type triboelectric nanogenerators (T-TENGs) can be made using various methods, including knitting and weaving, to incorporate them into wearable textiles.",
+        "Question": "Which manufacturing methods are suitable for creating textile-type triboelectric nanogenerators (T-TENGs)?",
+        "A": "Knitting and weaving",
+        "B": "Injection molding and extrusion",
+        "C": "Lithography and etching",
+        "D": "Sintering and forging",
+        "Answer": "A",
+        "Source": "A large area T-TENG can be woven or knit using this fiber."
+    },
+    "Question_4": {
+        "Context": "The performance of triboelectric nanogenerators can be affected by the force applied during the contact and separation of triboelectric materials.",
+        "Question": "What happens to the voltage output of a triboelectric nanogenerator when the force applied to it is increased?",
+        "A": "The voltage output decreases",
+        "B": "The voltage output remains constant",
+        "C": "The voltage output increases",
+        "D": "The voltage output becomes erratic",
+        "Answer": "C",
+        "Source": "As the force increased from 5 to 40 N, the voltage output of the T-TENG increased from ~ 100 V to ~ 250 V."
+    },
+    "Question_5": {
+        "Context": "The output power density of an energy harvesting device is a critical parameter that determines its efficiency and suitability for powering electronic devices.",
+        "Question": "What was the output power density of the fabricated textile-type triboelectric nanogenerator (T-TENG)?",
+        "A": "Approximately 0.08 W/m2",
+        "B": "Approximately 0.36 W/m2",
+        "C": "Approximately 0.01 W/m2",
+        "D": "Approximately 0.03 W/m2",
+        "Answer": "B",
+        "Source": "The T-TENG has an energy harvesting capability that not only has an output power density of ~ 0.36 W/m2."
+    },
+    "Question_6": {
+        "Context": "The durability of triboelectric nanogenerators in various environmental conditions is essential for their practical application in wearable devices.",
+        "Question": "What property of Teflon contributes to the durability of T-TENGs in harsh environments?",
+        "A": "Electrical conductivity",
+        "B": "Magnetic susceptibility",
+        "C": "Water repellency and chemical resistance",
+        "D": "Thermal stability",
+        "Answer": "C",
+        "Source": "Owing to the water repellency and chemical resistance of Teflon, there was little change in the surface after immersion compared to that before immersion."
+    },
+    "Question_7": {
+        "Context": "The output of a triboelectric nanogenerator can be affected by the frequency of the mechanical stimulation applied to it.",
+        "Question": "How does the output voltage of a T-TENG change with an increase in frequency of mechanical stimulation?",
+        "A": "It decreases steadily",
+        "B": "It increases up to a certain frequency and then stabilizes",
+        "C": "It remains constant regardless of frequency",
+        "D": "It increases indefinitely with frequency",
+        "Answer": "B",
+        "Source": "It was established that the output voltage increased to 3 Hz and then stabilized."
+    },
+    "Question_8": {
+        "Context": "The electrical output of a triboelectric nanogenerator can be characterized by measuring the output voltage and current under different external resistances.",
+        "Question": "What happens to the output voltage and current of a T-TENG when the external resistance is increased?",
+        "A": "Both output voltage and current increase",
+        "B": "Output voltage increases and output current decreases",
+        "C": "Output voltage decreases and output current increases",
+        "D": "Both output voltage and current decrease",
+        "Answer": "B",
+        "Source": "As the external resistance increased, the output voltage of the T-TENG increased and the output current decreased."
+    },
+    "Question_9": {
+        "Context": "The ability of a triboelectric nanogenerator to maintain its performance over repeated mechanical stimuli is an indicator of its durability and reliability.",
+        "Question": "What was observed about the performance of the T-TENG after repeated contact-separation cycles?",
+        "A": "Performance improved significantly",
+        "B": "Performance degraded significantly",
+        "C": "No significant change in performance",
+        "D": "Performance was erratic and unpredictable",
+        "Answer": "C",
+        "Source": "The relative output voltage (V/VF) did not change significantly when the contact-separation was cycled 2500 times."
+    },
+    "Question_10": {
+        "Context": "The practical application of a triboelectric nanogenerator includes its ability to charge capacitors, which can then power electronic devices.",
+        "Question": "What was demonstrated by charging a capacitor with the T-TENG?",
+        "A": "The T-TENG can power a calculator for a short duration",
+        "B": "The T-TENG can only charge capacitors with very low capacitance",
+        "C": "The T-TENG can only generate alternating current (AC)",
+        "D": "The T-TENG is not suitable for powering electronic devices",
+        "Answer": "A",
+        "Source": "By connecting a 4.7 \u03bcF capacitor charged over 2 V with the T-TENG to the calculator, the calculator was able to perform simple additions and multiplications for ~ 8 s."
+    }
+}

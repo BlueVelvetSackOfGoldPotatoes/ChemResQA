@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Enzymatic hydrolysis of chitosan by chitosanase is considered an advantageous route for COS production. In this investigation, what yeast strain was used for heterologous chitosanase expression?",
+        "Question": "Which yeast strain was used for heterologous chitosanase expression in the study?",
+        "A": "Escherichia coli",
+        "B": "Pichia pastoris",
+        "C": "Saccharomyces cerevisiae",
+        "D": "Aspergillus fumigatus",
+        "Answer": "C",
+        "Source": "we opted for using the safe yeast strain Saccharomyces cerevisiae (GRAS), obviating the need for methanol induction, resulting in successful expression."
+    },
+    "Question_2": {
+        "Context": "What was the optimal chitosanase activity achieved at in terms of temperature and pH?",
+        "Question": "At what temperature and pH was the optimal chitosanase activity achieved?",
+        "A": "40\u00b0C and pH 7",
+        "B": "55\u00b0C and pH 5",
+        "C": "30\u00b0C and pH 6",
+        "D": "70\u00b0C and pH 8",
+        "Answer": "B",
+        "Source": "The optimal chitosanase activity was achieved at 55\u2103 and pH 5."
+    },
+    "Question_3": {
+        "Context": "What were the primary products obtained after a 2-hour catalytic reaction of chitosan by chitosanase?",
+        "Question": "What were the primary products obtained after a 2-hour catalytic reaction of chitosan by chitosanase?",
+        "A": "Chitotriose",
+        "B": "Chitobiose",
+        "C": "Chitotetraose",
+        "D": "Chitopentaose",
+        "Answer": "C",
+        "Source": "the product primarily consisted of chitobiose to chitotetraose, predominantly at the chitotriose position."
+    },
+    "Question_4": {
+        "Context": "What editing system was utilized to modify the genomic content of Saccharomyces cerevisiae in the study?",
+        "Question": "What editing system was utilized to modify the genomic content of Saccharomyces cerevisiae?",
+        "A": "GTR-CRISPR",
+        "B": "ZFN",
+        "C": "TALEN",
+        "D": "CRISPR-Cas9",
+        "Answer": "A",
+        "Source": "we employed the gRNA-tRNA array for the CRISPR-Cas9 genome editing tool (GTR-CRISPR) to modify the genomic content of Saccharomyces cerevisiae."
+    },
+    "Question_5": {
+        "Context": "What is the enzyme activity level reached in the shake flask using the GTR-CRISPR editing system?",
+        "Question": "What enzyme activity level was reached in the shake flask using the GTR-CRISPR editing system?",
+        "A": "1 U/ml",
+        "B": "2 U/ml",
+        "C": "3 U/ml",
+        "D": "4 U/ml",
+        "Answer": "B",
+        "Source": "shake flask enzyme activity reached 2 U/ml."
+    },
+    "Question_6": {
+        "Context": "What is the classification of the yeast strain Saccharomyces cerevisiae used in the study?",
+        "Question": "How is the yeast strain Saccharomyces cerevisiae classified in the study?",
+        "A": "Hazardous",
+        "B": "Toxic",
+        "C": "GRAS",
+        "D": "Non-GRAS",
+        "Answer": "C",
+        "Source": "The selected strain of Saccharomyces cerevisiae is classified as a GRAS (Generally Recognized as Safe) strain."
+    },
+    "Question_7": {
+        "Context": "What is the source of chitosanase used for heterologous expression in the study?",
+        "Question": "What is the source of chitosanase used for heterologous expression in the study?",
+        "A": "Escherichia coli",
+        "B": "Pichia pastoris",
+        "C": "Saccharomyces cerevisiae",
+        "D": "Aspergillus fumigatus",
+        "Answer": "D",
+        "Source": "we selected the yeast strain Saccharomyces cerevisiae as the host organism for expressing the endogenous chitosanase from Aspergillus fumigatus."
+    },
+    "Question_8": {
+        "Context": "What is the enzyme activity unit defined as in the study?",
+        "Question": "How is the enzyme activity unit defined in the study?",
+        "A": "Amount of reducing sugar released per minute",
+        "B": "Amount of chitosan degraded per minute",
+        "C": "Amount of COS produced per minute",
+        "D": "Amount of protein synthesized per minute",
+        "Answer": "A",
+        "Source": "One unit (U) of chitosanase is defined as the amount of chitosanase that releases 1 \u03bcmol of reducing sugar per minute."
+    },
+    "Question_9": {
+        "Context": "What was the concentration of the chitosan solution used for enzyme activity measurement?",
+        "Question": "What was the concentration of the chitosan solution used for enzyme activity measurement?",
+        "A": "5%",
+        "B": "2%",
+        "C": "1%",
+        "D": "0.5%",
+        "Answer": "C",
+        "Source": "A 1% chitosan solution was initially prepared using a sodium acetate buffer (50 mM, pH 5)."
+    },
+    "Question_10": {
+        "Context": "What was the metal ion concentration used to investigate the impact on the activity of recombinant chitosanase?",
+        "Question": "What was the metal ion concentration used to investigate the impact on the activity of recombinant chitosanase?",
+        "A": "5.0 mM",
+        "B": "10.0 mM",
+        "C": "15.0 mM",
+        "D": "20.0 mM",
+        "Answer": "B",
+        "Source": "Various metal ions, including Zn2 + , Cu2 + , Mg2 + , Fe3 + , Ca2 + , K + , and Mn2 + , were introduced to attain a final concentration of 10.0 mM."
+    }
+}

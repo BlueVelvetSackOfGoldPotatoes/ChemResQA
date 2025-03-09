@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the effect of combining nanofillers with different geometry and surface chemistry on the structure and properties of biopolymers.",
+        "Question": "How did the inclusion of 2D graphene oxide (GO) or reduced GO (rGO) combined with 1D sepiolite (SPT) or cellulose nanocrystals (CNCs) affect the structure and properties of chitosan and chitosan/carboxymethyl cellulose (CMC) materials?",
+        "A": "Enhanced thermal stability and surface hydrophobicity",
+        "B": "Increased tensile strength and Young's modulus",
+        "C": "Reduced chain mobility and ductility",
+        "D": "Decreased surface hydrophilicity and thermal stability",
+        "Answer": "B",
+        "Source": "The chitosan/CMC/GO/SPT composite had the highest tensile strength (77.5 \u00b1 1.2 MPa) and Young\u2019s modulus (1925.9 \u00b1 120.7 MPa)."
+    },
+    "Question_2": {
+        "Context": "The study investigated the interaction between different nanofillers and chitosan matrices.",
+        "Question": "What was the effect of combining 2D graphene oxide (GO) or reduced GO (rGO) with 1D sepiolite (SPT) or cellulose nanocrystals (CNCs) on the thermal stability of chitosan-based nanocomposites?",
+        "A": "Decreased thermal stability due to weaker interactions",
+        "B": "Enhanced thermal stability due to synergistic effects",
+        "C": "No significant impact on thermal stability",
+        "D": "Increased thermal stability due to decreased chain mobility",
+        "Answer": "B",
+        "Source": "The advantages of including hybrid fillers, rGO + CNCs or rGO + SPT, were also obtained, resulting in higher thermal stability."
+    },
+    "Question_3": {
+        "Context": "The study explored the mechanical properties of chitosan and chitosan/CMC materials with different nanofillers.",
+        "Question": "How did the inclusion of 2D graphene oxide (GO) or reduced GO (rGO) combined with 1D sepiolite (SPT) or cellulose nanocrystals (CNCs) affect the tensile strength of the chitosan-based nanocomposites?",
+        "A": "Decreased tensile strength",
+        "B": "Increased tensile strength",
+        "C": "No significant impact on tensile strength",
+        "D": "Increased ductility",
+        "Answer": "B",
+        "Source": "The chitosan/CMC/GO/SPT composite had the highest tensile strength (77.5 \u00b1 1.2 MPa)."
+    },
+    "Question_4": {
+        "Context": "The study examined the surface properties of chitosan-based nanocomposites with different nanofillers.",
+        "Question": "What effect did the combination of 2D graphene oxide (GO) or reduced GO (rGO) with 1D sepiolite (SPT) or cellulose nanocrystals (CNCs) have on the surface hydrophilicity of the chitosan-based materials?",
+        "A": "Increased surface hydrophilicity",
+        "B": "Decreased surface hydrophilicity",
+        "C": "No significant impact on surface hydrophilicity",
+        "D": "Increased surface hydrophobicity",
+        "Answer": "B",
+        "Source": "The inclusion of GO + SPT disrupted chitosan chain interactions exposing more polar groups (hydroxyl and amine) on the film surface."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the impact of different nanofillers on the mechanical properties of chitosan and chitosan/CMC materials.",
+        "Question": "How did the combination of 2D graphene oxide (GO) or reduced GO (rGO) with 1D sepiolite (SPT) or cellulose nanocrystals (CNCs) affect the Young's modulus of the chitosan-based nanocomposites?",
+        "A": "Decreased Young's modulus",
+        "B": "Increased Young's modulus",
+        "C": "No significant impact on Young's modulus",
+        "D": "Increased ductility",
+        "Answer": "B",
+        "Source": "The chitosan/CMC/GO/SPT composite had the highest Young\u2019s modulus (1925.9 \u00b1 120.7 MPa)."
+    },
+    "Question_6": {
+        "Context": "The study investigated the interaction between different nanofillers and chitosan matrices.",
+        "Question": "What was the effect of combining 2D graphene oxide (GO) or reduced GO (rGO) with 1D sepiolite (SPT) or cellulose nanocrystals (CNCs) on the ductility of the chitosan-based nanocomposites?",
+        "A": "Decreased ductility",
+        "B": "Increased ductility",
+        "C": "No significant impact on ductility",
+        "D": "Increased tensile strength",
+        "Answer": "B",
+        "Source": "For the chitosan matrix plasticised by [C2mim][OAc], rGO + CNCs or rGO + SPT disrupted polymer chain interactions more effectively than the nanofillers when added alone and resulted in the chitosan being more plasticised, as shown by increased chain mobility, ductility."
+    },
+    "Question_7": {
+        "Context": "The study focused on the thermal properties of chitosan-based nanocomposites with different nanofillers.",
+        "Question": "How did the inclusion of 2D graphene oxide (GO) or reduced GO (rGO) combined with 1D sepiolite (SPT) or cellulose nanocrystals (CNCs) affect the thermal decomposition temperature of the chitosan-based materials?",
+        "A": "Decreased thermal decomposition temperature",
+        "B": "Increased thermal decomposition temperature",
+        "C": "No significant impact on thermal decomposition temperature",
+        "D": "Increased chain mobility",
+        "Answer": "B",
+        "Source": "The chitosan/CMC/GO/SPT composite had the highest thermal stability."
+    },
+    "Question_8": {
+        "Context": "The study examined the surface properties of chitosan-based nanocomposites with different nanofillers.",
+        "Question": "What was the effect of combining 2D graphene oxide (GO) or reduced GO (rGO) with 1D sepiolite (SPT) or cellulose nanocrystals (CNCs) on the surface hydrophobicity of the chitosan-based materials?",
+        "A": "Increased surface hydrophobicity",
+        "B": "Decreased surface hydrophobicity",
+        "C": "No significant impact on surface hydrophobicity",
+        "D": "Increased surface hydrophilicity",
+        "Answer": "A",
+        "Source": "The advantages of including hybrid fillers, rGO + CNCs or rGO + SPT, were also obtained, resulting in higher thermal stability and surface hydrophobicity."
+    },
+    "Question_9": {
+        "Context": "The study evaluated the impact of different nanofillers on the mechanical properties of chitosan and chitosan/CMC materials.",
+        "Question": "How did the combination of 2D graphene oxide (GO) or reduced GO (rGO) with 1D sepiolite (SPT) or cellulose nanocrystals (CNCs) affect the Shore D hardness of the chitosan-based nanocomposites?",
+        "A": "Decreased Shore D hardness",
+        "B": "Increased Shore D hardness",
+        "C": "No significant impact on Shore D hardness",
+        "D": "Increased ductility",
+        "Answer": "B",
+        "Source": "rGO was more effective than GO at increasing Shore D hardness."
+    },
+    "Question_10": {
+        "Context": "The study investigated the surface properties of chitosan-based nanocomposites with different nanofillers.",
+        "Question": "What was the effect of combining 2D graphene oxide (GO) or reduced GO (rGO) with 1D sepiolite (SPT) or cellulose nanocrystals (CNCs) on the surface hydrophilicity of the chitosan-based materials?",
+        "A": "Increased surface hydrophilicity",
+        "B": "Decreased surface hydrophilicity",
+        "C": "No significant impact on surface hydrophilicity",
+        "D": "Increased surface hydrophobicity",
+        "Answer": "B",
+        "Source": "The inclusion of GO + SPT disrupted chitosan chain interactions exposing more polar groups (hydroxyl and amine) on the film surface."
+    }
+}

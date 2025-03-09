@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on identifying and analyzing the StCAD gene family in response to Cd stress in potatoes.",
+        "Question": "What is the subcellular localization of all the identified StCAD genes?",
+        "A": "Nucleus",
+        "B": "Mitochondria",
+        "C": "Endoplasmic reticulum",
+        "D": "Cytoplasm",
+        "Answer": "D",
+        "Source": "Subcellular localization prediction found that all genes were located in the cytoplasm."
+    },
+    "Question_2": {
+        "Context": "The study involved analyzing the physical and chemical properties of the identified StCAD genes.",
+        "Question": "What is the range of isoelectric points (pI) observed in the StCAD proteins?",
+        "A": "4.5 to 6.8",
+        "B": "6.5 to 8.2",
+        "C": "7.2 to 9.5",
+        "D": "5.3 to 9.2",
+        "Answer": "D",
+        "Source": "The study mentioned that the isoelectric points ranged from 5.31 to 9.18."
+    },
+    "Question_3": {
+        "Context": "The study conducted evolutionary analysis of the StCAD gene family.",
+        "Question": "How many subfamilies were the 50 StCAD genes divided into?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "Answer": "D",
+        "Source": "The 50 genes were divided into 6 subfamilies."
+    },
+    "Question_4": {
+        "Context": "The study analyzed the gene structure and motif analysis of the StCAD family.",
+        "Question": "What is the maximum number of exons observed in the StCAD family genes?",
+        "A": "5",
+        "B": "7",
+        "C": "10",
+        "D": "12",
+        "Answer": "C",
+        "Source": "StCAD40, StCAD43, StCAD45, StCAD49, and StCAD50 have the largest number of exons, 10."
+    },
+    "Question_5": {
+        "Context": "The study focused on the chromosomal localization of the StCAD gene family.",
+        "Question": "On how many chromosomes were the StCAD family genes irregularly distributed?",
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "15",
+        "Answer": "C",
+        "Source": "Chromosome localization analysis showed that all genes were irregularly distributed on 12 chromosomes."
+    },
+    "Question_6": {
+        "Context": "The study conducted cis-element analysis of the StCAD gene promoter related to stress.",
+        "Question": "Which stress response element was found in 28 genes of the StCAD family?",
+        "A": "Metal response element",
+        "B": "Antioxidant response element",
+        "C": "Hypoxia response element",
+        "D": "Stress response element",
+        "Answer": "D",
+        "Source": "The cis-element analysis found that the 50 CAD genes contained multiple phytohormone response elements, including stress response element (STRE) in 28 genes."
+    },
+    "Question_7": {
+        "Context": "The study analyzed the expression patterns of the StCAD gene family in response to Cd stress.",
+        "Question": "After Cd stress, how many StCAD genes were found to be upregulated?",
+        "A": "All",
+        "B": "Most",
+        "C": "Half",
+        "D": "None",
+        "Answer": "B",
+        "Source": "Most CAD genes were upregulated after Cd stress."
+    },
+    "Question_8": {
+        "Context": "The study investigated the physiological characteristics related to the StCAD gene family.",
+        "Question": "Which enzyme activity increased significantly after Cd stress?",
+        "A": "CAD activity",
+        "B": "POD activity",
+        "C": "Lignin content",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "CAD activity increased significantly after Cd stress, and the POD activity increased with the increase of Cd stress time, and the lignin content showed a gradually increasing trend."
+    },
+    "Question_9": {
+        "Context": "The study discussed the correlation between StCAD gene expressions and physiological indexes.",
+        "Question": "Which gene was not positively correlated with physiological indicators?",
+        "A": "StCAD9",
+        "B": "StCAD10",
+        "C": "StCAD27",
+        "D": "StCAD15",
+        "Answer": "D",
+        "Source": "Except for StCAD9, StCAD10 and StCAD27, other genes were positively correlated with physiological indicators."
+    },
+    "Question_10": {
+        "Context": "The study concluded the role of the StCAD family in potato response to Cd stress.",
+        "Question": "What is the main role of the StCAD family in potato response to Cd stress?",
+        "A": "Enhancing photosynthesis",
+        "B": "Promoting root growth",
+        "C": "Improving Cd stress tolerance",
+        "D": "Increasing fruit yield",
+        "Answer": "C",
+        "Source": "The StCAD family plays an important role in potato response to Cd stress, which is conducive to the improvement of potato Cd stress tolerance."
+    }
+}

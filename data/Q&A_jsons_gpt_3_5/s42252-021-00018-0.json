@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of hybrid multi-material braids to increase through-thickness electrical conductivity in carbon fiber/epoxy composites.",
+        "Question": "What is one of the main benefits of using hybrid braids in composite materials?",
+        "A": "Increased in-plane conductivity",
+        "B": "Improved resistance to inter-ply delamination",
+        "C": "Enhanced transverse strength",
+        "D": "Reduced structural integrity",
+        "Answer": "B",
+        "Source": "Tufts spanning through the laminate thickness substantially increase through-thickness strength and resistance to inter-ply delamination."
+    },
+    "Question_2": {
+        "Context": "The study involves the manufacturing of tufted composites using dry carbon preforms.",
+        "Question": "What material is used to hold the carbon fiber plies together in the quasi-isotropic preform?",
+        "A": "Binder",
+        "B": "Stitching",
+        "C": "Cork strips",
+        "D": "PTFE",
+        "Answer": "B",
+        "Source": "The QI preform consisted of 3 layers of unidirectional carbon fibre in [0,45,90] configuration held together by stitching and binder."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the electrical conductivity of hybrid braided threads.",
+        "Question": "What is the electrical conductivity of copper wire used in the braids?",
+        "A": "1.50 \u00d7 10^7 S/m",
+        "B": "0.60 \u00d7 10^7 S/m",
+        "C": "5.96 \u00d7 10^7 S/m",
+        "D": "1.03 \u00d7 10^7 S/m",
+        "Answer": "C",
+        "Source": "Conductivity of copper wire: 5.96 \u00d7 10^7 S/m."
+    },
+    "Question_4": {
+        "Context": "The study involves the experimental characterization of multifunctional braided threads.",
+        "Question": "What is the measured electrical conductivity of the hybrid threads averaged over time?",
+        "A": "1.50 \u00d7 10^7 S/m",
+        "B": "0.60 \u00d7 10^7 S/m",
+        "C": "1.03 \u00d7 10^7 S/m",
+        "D": "5.96 \u00d7 10^7 S/m",
+        "Answer": "A",
+        "Source": "Measured on straightened threads: (1.50 \u00b1 0.15) \u00d7 10^7 S/m."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the impact of tufting with hybrid braids on through-thickness conductivity.",
+        "Question": "What is the baseline through-thickness conductivity of the untufted carbon-epoxy composite?",
+        "A": "0.74 S/m",
+        "B": "0.93 S/m",
+        "C": "98.89 S/m",
+        "D": "1.03 S/m",
+        "Answer": "A",
+        "Source": "Through-thickness of non-tufted carbon-epoxy: 0.74 \u00b1 0.07 S/m."
+    },
+    "Question_6": {
+        "Context": "The study involves the manufacturing of tufted composites using hybrid braids.",
+        "Question": "What is the electrical conductivity of the tufted composite with the maximum measured value?",
+        "A": "0.74 S/m",
+        "B": "0.93 S/m",
+        "C": "98.89 S/m",
+        "D": "1.03 S/m",
+        "Answer": "C",
+        "Source": "Through-thickness of tufted, maximum: 98.89 S/m."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the modelling of the braid micro-structure.",
+        "Question": "What software is used to generate the model of the fabric based on the input pattern, characteristic yarn dimensions, and braiding angle?",
+        "A": "Abaqus",
+        "B": "WiseTex",
+        "C": "National Instruments",
+        "D": "LabVIEW",
+        "Answer": "B",
+        "Source": "The software generates a model of the fabric based on the input pattern, characteristic yarn dimensions, yarn spacing, and braiding angle."
+    },
+    "Question_8": {
+        "Context": "The study involves the calculation of effective electrical conductivity of the braid.",
+        "Question": "What is the effective electrical conductivity of the braid model with the given input values for copper wire and carbon tows?",
+        "A": "1.13 \u00d7 10^7 S/m",
+        "B": "1.50 \u00d7 10^7 S/m",
+        "C": "1.03 \u00d7 10^7 S/m",
+        "D": "0.60 \u00d7 10^7 S/m",
+        "Answer": "C",
+        "Source": "The effective electrical conductivity is calculated as 1.0282 \u00d7 10^7 S/m."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the experimental measurements of conductivity in tufted composite blocks.",
+        "Question": "What is the maximum measured conductivity in the tufted composite blocks?",
+        "A": "0.74 S/m",
+        "B": "0.93 S/m",
+        "C": "98.89 S/m",
+        "D": "100 S/m",
+        "Answer": "C",
+        "Source": "The results over 11 samples range in measured values from 0.93 S/m to 98.89 S/m."
+    },
+    "Question_10": {
+        "Context": "The study involves the comparison of model and experimental results for conductivity.",
+        "Question": "What is the conductivity of the tufted composite blocks compared to the untufted panel?",
+        "A": "Lower",
+        "B": "Higher",
+        "C": "Equal",
+        "D": "Dependent on the location",
+        "Answer": "B",
+        "Source": "The max conductivity in the blocks did not exceed 100 S/m, two orders of magnitude higher than the untufted panel."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to evaluate the obesity-preventing effect of black ginseng extract (BGE) in the serum, liver, and hypothalamus of mice on a high-fat diet using metabolomic techniques.",
+        "Question": "What was the main finding regarding lipid metabolism in the serum of mice fed an HFD with a high concentration of BGE (BGEH)?",
+        "A": "Increased saturated fatty acids",
+        "B": "Decreased cholesterol",
+        "C": "Increased glycerol",
+        "D": "Decreased unsaturated fatty acids",
+        "Answer": "B",
+        "Source": "Lipid metabolism, including saturated fatty acids and cholesterol, was decreased in the BGEH mice."
+    },
+    "Question_2": {
+        "Context": "The study investigated the metabolic differences induced by black ginseng in conditions of obesity by conducting metabolic profiling of samples from the serum, liver, and hypothalamus using GC-MS.",
+        "Question": "Which metabolites were identified as important contributors in the liver of mice fed an HFD with BGEH?",
+        "A": "Valine, isoleucine, and threonine",
+        "B": "Decanoic acid, myristic acid, and palmitic acid",
+        "C": "Glycerol, cholesterol, and O-phosphoethanolamine",
+        "D": "Fumaric acid and citric acid",
+        "Answer": "D",
+        "Source": "Fumaric acid and citric acid, as intermediates of the tricarboxylic acid (TCA) cycle, were increased in the HFD + BGEH group."
+    },
+    "Question_3": {
+        "Context": "The study aimed to evaluate the obesity-preventing effect of black ginseng in the serum, liver, and hypothalamus of mice on a high-fat diet using metabolomic techniques.",
+        "Question": "What was the main finding regarding amino acids in the serum of mice fed an HFD?",
+        "A": "Decreased alanine and leucine",
+        "B": "Increased proline and glycine",
+        "C": "Increased glutamine and isoleucine",
+        "D": "Decreased threonine and glutamic acid",
+        "Answer": "C",
+        "Source": "Among major amino acids, alanine, leucine, isoleucine, and proline increased in the serum of HFD mice."
+    },
+    "Question_4": {
+        "Context": "The study investigated the metabolic differences induced by black ginseng in conditions of obesity by conducting metabolic profiling of samples from the serum, liver, and hypothalamus using GC-MS.",
+        "Question": "Which metabolites were decreased in the hypothalamus of mice fed an HFD with BGEH?",
+        "A": "Decanoic acid, myristic acid, and palmitic acid",
+        "B": "Glycerol, cholesterol, and O-phosphoethanolamine",
+        "C": "Glutamine, glycine, and glutamic acid",
+        "D": "Uracil and thymine",
+        "Answer": "A",
+        "Source": "Compared to the HFD group, the HFD + BGEH group showed a decrease in eight lipids, namely decanoic acid, myristic acid, palmitic acid, stearic acid, palmitoleic acid, linoleic acid, glycerol, and cholesterol."
+    },
+    "Question_5": {
+        "Context": "The study aimed to evaluate the obesity-preventing effect of black ginseng in the serum, liver, and hypothalamus of mice on a high-fat diet using metabolomic techniques.",
+        "Question": "What was the main finding regarding neurotransmission-related metabolites in the hypothalamus of mice fed an HFD with BGEH?",
+        "A": "Decreased glutamine and glycine",
+        "B": "Increased glutamic acid and fumaric acid",
+        "C": "Decreased GABA and citric acid",
+        "D": "Increased uracil and thymine",
+        "Answer": "B",
+        "Source": "The levels of glycine, glutamine, glutamic acid, fumaric acid, and citric acid were increased in the hypothalamus of HFD + BGEH mice."
+    },
+    "Question_6": {
+        "Context": "The study investigated the metabolic differences induced by black ginseng in conditions of obesity by conducting metabolic profiling of samples from the serum, liver, and hypothalamus using GC-MS.",
+        "Question": "Which metabolites were increased in the hypothalamus of mice fed an HFD with BGEH?",
+        "A": "Saturated fatty acids",
+        "B": "Glycerol and cholesterol",
+        "C": "Glutamine and isoleucine",
+        "D": "Fumaric acid and citric acid",
+        "Answer": "C",
+        "Source": "Among them, all except GABA were detected at higher concentrations in the HFD + BGEH group than in the HFD group."
+    },
+    "Question_7": {
+        "Context": "The study aimed to evaluate the obesity-preventing effect of black ginseng in the serum, liver, and hypothalamus of mice on a high-fat diet using metabolomic techniques.",
+        "Question": "What was the main finding regarding oxidative stress-related metabolites in the liver of mice fed an HFD with BGEH?",
+        "A": "Increased valine and threonine",
+        "B": "Decreased isoleucine and proline",
+        "C": "Increased 5-oxoproline",
+        "D": "Decreased decanoic acid and myristic acid",
+        "Answer": "C",
+        "Source": "In the liver of the HFD + BGEH mice, the level of 5-oxoproline\u2014known as an oxidative stress-relief biomarker\u2014was elevated."
+    },
+    "Question_8": {
+        "Context": "The study investigated the metabolic differences induced by black ginseng in conditions of obesity by conducting metabolic profiling of samples from the serum, liver, and hypothalamus using GC-MS.",
+        "Question": "Which metabolites were decreased in the liver of mice fed an HFD with BGEH?",
+        "A": "Valine, isoleucine, and threonine",
+        "B": "Decanoic acid, myristic acid, and palmitic acid",
+        "C": "Glycerol, cholesterol, and O-phosphoethanolamine",
+        "D": "Fumaric acid and citric acid",
+        "Answer": "B",
+        "Source": "A total of 26 metabolites were statistically significant in the liver of the HFD + BGEH mice, comprising 13 lipids, including decanoic acid, myristic acid, and palmitic acid."
+    },
+    "Question_9": {
+        "Context": "The study aimed to evaluate the obesity-preventing effect of black ginseng in the serum, liver, and hypothalamus of mice on a high-fat diet using metabolomic techniques.",
+        "Question": "What was the main finding regarding neurotransmission-related metabolites in the hypothalamus of mice fed an HFD?",
+        "A": "Decreased glutamine and glycine",
+        "B": "Increased glutamic acid and fumaric acid",
+        "C": "Decreased GABA and citric acid",
+        "D": "Increased uracil and thymine",
+        "Answer": "A",
+        "Source": "In the hypothalamus of mice fed an HFD, glutamine, glycine, glutamic acid, and 4-aminobutyric acid (GABA) involved in neurotransmission were markedly changed."
+    },
+    "Question_10": {
+        "Context": "The study investigated the metabolic differences induced by black ginseng in conditions of obesity by conducting metabolic profiling of samples from the serum, liver, and hypothalamus using GC-MS.",
+        "Question": "Which metabolites were identified as important contributors in the serum of mice fed an HFD with BGEH?",
+        "A": "Valine, isoleucine, and threonine",
+        "B": "Decanoic acid, myristic acid, and palmitic acid",
+        "C": "Glycerol, cholesterol, and O-phosphoethanolamine",
+        "D": "Fumaric acid and citric acid",
+        "Answer": "D",
+        "Source": "Specific changes in serum metabolites resulting from obesity-preventing effects of BGE were observed in lipid and amino acids metabolism."
+    }
+}

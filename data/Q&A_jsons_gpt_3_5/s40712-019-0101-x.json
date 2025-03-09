@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Stress concentration in high-pressure vessels is affected by various geometric parameters. One of the factors that influence stress concentration is the size of the cross bore.",
+        "Question": "How does the stress concentration factor (SCF) change with the ratio of the cross bore to the main cylinder bore size according to Gerdeen's study?",
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains constant",
+        "D": "Varies unpredictably",
+        "Answer": "B",
+        "Source": "The results showed an increase in SCFs as the ratio of cross bore to main cylinder bore increases."
+    },
+    "Question_2": {
+        "Context": "Geometric design configurations such as cross bore shape can impact stress concentration in high-pressure vessels.",
+        "Question": "Which type of cross bore shape was found to have the lowest peak stresses according to Makulsawatudom et al. (2004)?",
+        "A": "Circular",
+        "B": "Elliptical",
+        "C": "Rectangular",
+        "D": "Triangular",
+        "Answer": "B",
+        "Source": "The study reported that the introduction of chamfers generates high-peak stresses for both circular and elliptical cross bores, with plain cross bores having the lowest peak stresses."
+    },
+    "Question_3": {
+        "Context": "The location of the cross bore in a high-pressure vessel can influence stress concentration.",
+        "Question": "Where did Hyder and Asif (2008) find the optimum stress concentration factor (SCF) in a cross-bored cylinder?",
+        "A": "At the top of the cylinder",
+        "B": "At the center of the cylinder",
+        "C": "At 1.16 of the cylinder height",
+        "D": "At 4.8 of the cylinder height",
+        "Answer": "B",
+        "Source": "The optimum and maximum SCF occurred at 1.8 and 4.8, respectively."
+    },
+    "Question_4": {
+        "Context": "The angle of obliquity of a cross bore can impact stress concentration in high-pressure vessels.",
+        "Question": "How does the stress concentration factor (SCF) change with decreasing oblique angle according to Nihous, Kinoshita, and Masutani (2008)?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Varies unpredictably",
+        "Answer": "A",
+        "Source": "As the oblique angle reduced from 90\u00b0 to 30\u00b0, the SCF magnitude increased significantly."
+    },
+    "Question_5": {
+        "Context": "The thickness ratio of a cylinder can affect stress concentration in high-pressure vessels.",
+        "Question": "How does the stress concentration factor (SCF) change with decreasing thickness ratio according to Kihiu (2007)?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Varies unpredictably",
+        "Answer": "A",
+        "Source": "The study reported that SCFs increased with decrease of thickness ratio."
+    },
+    "Question_6": {
+        "Context": "Chamfers and blends on cross bores can impact stress distribution in high-pressure vessels.",
+        "Question": "What effect did Kihiu and Masu (1995) observe on stress redistribution due to the introduction of chamfers on circular cross bores?",
+        "A": "Increased SCF",
+        "B": "Decreased SCF",
+        "C": "No effect on SCF",
+        "D": "Varied with chamfer length",
+        "Answer": "B",
+        "Source": "They reported that incorporating chamfers, blend, or radius entry on circular cross bore, cause stress redistribution that leads to a reduction in SCF."
+    },
+    "Question_7": {
+        "Context": "Notches in pressure vessels can have an impact on stress distribution.",
+        "Question": "What recommendation did Carvalho (2005) make regarding the introduction of notches in pressure vessels?",
+        "A": "Use notches of any size",
+        "B": "Avoid introducing notches",
+        "C": "Use notches only in thin-walled cylinders",
+        "D": "Use notches only in thick-walled cylinders",
+        "Answer": "B",
+        "Source": "The study concluded that, regardless of the size, notches alter the stress distribution curves in the whole cross section, creating high regions of stress concentration."
+    },
+    "Question_8": {
+        "Context": "Various studies have investigated the effects of offsetting cross bores in high-pressure vessels.",
+        "Question": "What was the maximum reduction in stress concentration factor (SCF) reported by Masu (1998) when a cross bore was positioned at an offset ratio of 0.9 in a thick cylinder with a thickness ratio of 2?",
+        "A": "17%",
+        "B": "25%",
+        "C": "42%",
+        "D": "50%",
+        "Answer": "C",
+        "Source": "A maximum reduction of SCF by 42% occurred when the cross bore was positioned at an offset ratio of 0.9 in a thick cylinder with a thickness ratio of 2."
+    },
+    "Question_9": {
+        "Context": "The introduction of cross bores in high-pressure vessels can lead to reduced pressure carrying capacity.",
+        "Question": "What was the percentage reduction in stress concentration factor (SCF) due to the introduction of chamfers on cross bores according to Kihiu and Masu (1995)?",
+        "A": "10%",
+        "B": "25%",
+        "C": "34.2%",
+        "D": "50%",
+        "Answer": "C",
+        "Source": "The study concluded that the percentage reduction in SCF due to the introduction of chamfers depended on cylinder thickness, cross bore radius, chamfer length, and angle."
+    },
+    "Question_10": {
+        "Context": "Optimizing stress concentration factors in high-pressure vessels is essential for safe operation.",
+        "Question": "What is the main conclusion drawn from the review regarding the optimization of stress concentration factors in high-pressure vessels with cross bores?",
+        "A": "Optimal conditions have been established based on combined geometric parameters.",
+        "B": "Further research is needed to determine the optimal conditions under various operating conditions.",
+        "C": "The existing solutions have successfully optimized stress concentration factors.",
+        "D": "The optimization of stress concentration factors is not necessary.",
+        "Answer": "B",
+        "Source": "Therefore, since high-pressure vessels are designed to operate either under elastic, elastoplastic, or fully plastic conditions, there is a need for further research on optimal geometric configuration of a cross bore with regards to, the cross bore size, location, shape, obliquity, and thickness ratio under these operating conditions."
+    }
+}

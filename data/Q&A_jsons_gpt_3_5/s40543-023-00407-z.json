@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of deep convolutional neural networks for porosity measurement in cathode materials for lithium-ion batteries.",
+        "Question": "What is the main purpose of optimizing pore distribution in high-capacity Ni-based cathode materials?",
+        "A": "To reduce the cyclic performance of lithium-ion batteries",
+        "B": "To increase the number of ion diffusion pathways",
+        "C": "To enhance the capacity of lithium-ion batteries",
+        "D": "To improve lithium-ion mobility",
+        "Answer": "D",
+        "Source": "Enhanced porosity improves lithium-ion mobility by increasing the electrode\u2013electrolyte contact area and reducing the number of ion diffusion pathways."
+    },
+    "Question_2": {
+        "Context": "The study introduces a CNN-based model for accurate feature segmentation and statistical interpretation of geometrical factors in cathode materials.",
+        "Question": "What technique is proposed to mitigate the labor-intensive and human bias issues in SEM image-based porosity measurement?",
+        "A": "Random forest classifiers",
+        "B": "Deep convolutional neural networks",
+        "C": "Expectation-maximization/maximization of posterior marginals",
+        "D": "Canny edge detection technique",
+        "Answer": "B",
+        "Source": "To mitigate these difficulties, we propose an automated image segmentation method for the reliable porosity measurement of cathode materials using deep convolutional neural networks specifically trained for the analysis of porous cathode materials."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the use of X-ray computed tomography (XCT) to characterize the porosity of electrode materials.",
+        "Question": "What is suggested as an effective strategy to further improve the performance of high-capacity Ni-based cathode materials?",
+        "A": "Optimizing pore distribution",
+        "B": "Increasing the manufacturing cost",
+        "C": "Reducing the energy density",
+        "D": "Decreasing the cycling stability",
+        "Answer": "A",
+        "Source": "The optimization of geometrical parameters, i.e., the porosity of the secondary particles of the cathode materials, was suggested as an effective strategy to further improve performance."
+    },
+    "Question_4": {
+        "Context": "The study discusses the use of scanning electron microscopy (SEM) image-based porosity measurement for electrode materials.",
+        "Question": "What is a drawback of conventional SEM image-based porosity measurement?",
+        "A": "High accuracy",
+        "B": "Low contrast pore images",
+        "C": "Automated measurement",
+        "D": "Reduced human bias",
+        "Answer": "B",
+        "Source": "However, it is labor-intensive and subjected to human bias for low-contrast pore images, thereby potentially lowering measurement accuracy."
+    },
+    "Question_5": {
+        "Context": "The paper mentions the use of cross-sectional image analysis combined with scanning electron microscopy (SEM) for precise porosity quantification.",
+        "Question": "What is suggested for edge detection in digital segmentation methods used for estimating pore content in a material based on SEM imaging?",
+        "A": "Random threshold to each pixel",
+        "B": "Marker-based watershed",
+        "C": "Otsu method",
+        "D": "Canny edge detection technique",
+        "Answer": "D",
+        "Source": "Alternatively, the expectation\u2013maximization/maximization of posterior marginals can be considered for edge detection. However, multiple parameters for this digital processing must be optimized. Digital segmentation using the aforementioned approaches is generally time-consuming and requires human intervention for each digital processing step."
+    },
+    "Question_6": {
+        "Context": "The study introduces a CNN-based model for accurate feature segmentation and statistical interpretation of geometrical factors in cathode materials.",
+        "Question": "What is the advantage of using convolutional neural networks (CNNs) for feature segmentation?",
+        "A": "Efficient in training images",
+        "B": "Require heavy human intervention",
+        "C": "Ineffective in reducing contrast artifacts",
+        "D": "Slow in extracting features",
+        "Answer": "A",
+        "Source": "Considering the advantages of the CNN-based approach, the geometrical characterization of high-capacity Ni-based cathode materials can be rapidly and reliably performed."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the use of deep learning algorithms for feature segmentation in SEM images.",
+        "Question": "What is the proposed solution to reduce contrast artifacts in traditional SEM images and improve efficiency in FIB-SEM tomography for pore structure characterizations?",
+        "A": "Random forest classifiers",
+        "B": "Deep convolutional neural networks",
+        "C": "Expectation-maximization/maximization of posterior marginals",
+        "D": "Canny edge detection technique",
+        "Answer": "B",
+        "Source": "Recently, machine learning/deep learning algorithms such as random forest classifiers and CNNs for feature segmentation were actively adapted to reduce contrast artifacts in traditional SEM images and to improve efficiency and reliability in FIB-SEM tomography for pore structure characterizations."
+    },
+    "Question_8": {
+        "Context": "The study discusses the use of a convolutional encoder-decoder model for pore segmentation in SEM images.",
+        "Question": "What is the purpose of the encoder in the SegNet model architecture?",
+        "A": "Extract key elements by reducing dimensions",
+        "B": "Generate high-dimensional data",
+        "C": "Perform upsampling",
+        "D": "Reconstruct a higher-dimensional output",
+        "Answer": "A",
+        "Source": "The encoder extracts key elements by reducing the dimensions of the input data."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the use of SegNet model for binary feature segmentation.",
+        "Question": "What is the function of the decoder in the SegNet model architecture?",
+        "A": "Perform downsampling",
+        "B": "Generate low-dimensional data",
+        "C": "Reconstruct a higher-dimensional output",
+        "D": "Classify the output features",
+        "Answer": "C",
+        "Source": "The decoder enables the convolution and upsampling of the 2D layers to reconstruct a higher-dimensional output from the previous feature map at each step."
+    },
+    "Question_10": {
+        "Context": "The study evaluates the performance of the CNN model for pore segmentation in cathode materials.",
+        "Question": "What is the main advantage of using histogram equalization for preprocessing the input image dataset?",
+        "A": "Improves the brightness and contrast of the image",
+        "B": "Reduces the learning efficiency of the model",
+        "C": "Increases the overfitting of the model",
+        "D": "Decreases the accuracy of the model",
+        "Answer": "A",
+        "Source": "Histogram equalization can further improve the image contrast, which effectively reduces the difference in magnitude among all pixels in the pore region with dark contrast."
+    }
+}

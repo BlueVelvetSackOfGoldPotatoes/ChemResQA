@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study evaluated the effectiveness of Ceramic hydroxyapatite (CHT) as a polishing step for bsAb purification. The results showed superior aggregate removal by CHT compared to Cation exchange chromatography (CEX).",
+        "Question": "What was the main advantage of using Ceramic hydroxyapatite (CHT) over Cation exchange chromatography (CEX) for bsAb purification?",
+        "A": "Higher process-related impurity removal",
+        "B": "Lower product purity",
+        "C": "Reduced chromatography-induced aggregation",
+        "D": "Increased HMW impurities",
+        "Answer": "C",
+        "Source": "CHT chromatography proved to offer better aggregate removal than CEX for all three tested bsAbs (Molecules A, B, and C), and CHT-NaCl showed the best performance. 'Chromatography-induced aggregation' was rarely detected in post-CHT products, especially in CHT-NaCl runs."
+    },
+    "Question_2": {
+        "Context": "The study investigated the effectiveness of different elution mechanisms of Ceramic hydroxyapatite (CHT) for bsAb purification.",
+        "Question": "Which elution mechanism of CHT showed the best performance in removing high molecular weight (HMW) impurities for all tested bsAbs?",
+        "A": "CHT-NaCl",
+        "B": "CHT-P",
+        "C": "CEX",
+        "D": "Both CHT-NaCl and CHT-P",
+        "Answer": "A",
+        "Source": "For Molecules A and B, CHT-NaCl significantly outperformed CHT-P, as evidenced by approximately threefold less HMWs detected in post CHT-NaCl product. However, CHT-P showed almost equivalent HMW removal efficiency to CHT-NaCl for Molecule C."
+    },
+    "Question_3": {
+        "Context": "The study explored the binding preferences of different protein domains to the Ceramic hydroxyapatite (CHT) binding sites.",
+        "Question": "Which domain composition of bispecific antibodies (bsAbs) showed a higher binding preference to the C-sites on CHT?",
+        "A": "scFv",
+        "B": "Fab",
+        "C": "Fc (knob)",
+        "D": "Fc (hole)",
+        "Answer": "C",
+        "Source": "Fc domains (Fc (knob), Fc (hole), and Fc (wild type)) owned higher C-site binding ratios than both scFv and Fab domains. Hence, Fc domains would favourably bind to C-sites, while binding of both scFv and Fab had higher tendency towards P-sites."
+    },
+    "Question_4": {
+        "Context": "The study investigated the removal efficiency of low molecular weight (LMW) impurities by different elution mechanisms of Ceramic hydroxyapatite (CHT) for bispecific antibodies (bsAbs).",
+        "Question": "Which elution mechanism of CHT showed the best performance in removing large LMW impurities for all tested bsAbs?",
+        "A": "CHT-NaCl",
+        "B": "CHT-P",
+        "C": "CEX",
+        "D": "Both CHT-NaCl and CHT-P",
+        "Answer": "B",
+        "Source": "For Molecules A and B, better large LMW removal by CHT-P could be simply explained by the different C-site cooperation during CHT-NaCl and CHT-P elution. Better separation resolution by CHT-P suggested that monomers and large LMW impurities expressed divergent binding preference to CHT binding sites, where ones could be more favoured to C-sites than the others."
+    },
+    "Question_5": {
+        "Context": "The study focused on the effectiveness of Ceramic hydroxyapatite (CHT) in removing host cell proteins (HCPs) during bsAb purification.",
+        "Question": "Which elution mechanism of CHT consistently expressed minimal HCP contents for all tested bsAbs?",
+        "A": "CHT-NaCl",
+        "B": "CHT-P",
+        "C": "CEX",
+        "D": "Protein A",
+        "Answer": "A",
+        "Source": "Consistently low HCP contents were observed in post CHT-NaCl products for all three bsAbs, indicating that the sodium chloride elution mechanism can efficiently remove HCPs from the product pools."
+    },
+    "Question_6": {
+        "Context": "The study investigated the impact of different elution strategies on large LMW impurity removal for bispecific antibodies (bsAbs).",
+        "Question": "Which elution mechanism of CHT provided better large LMW removal efficiency for larger bsAbs like Molecule C?",
+        "A": "CHT-NaCl",
+        "B": "CHT-P",
+        "C": "CEX",
+        "D": "Protein A",
+        "Answer": "B",
+        "Source": "CHT-P elution is suitable to potentially remove both HMW and large LMW impurities. For larger bsAbs (e.g., Molecule C), CHT-P elution is suitable to potentially remove both HMW and large LMW impurities."
+    },
+    "Question_7": {
+        "Context": "The study delved into the binding preferences of different protein domains to the Ceramic hydroxyapatite (CHT) binding sites.",
+        "Question": "Which domain composition of bispecific antibodies (bsAbs) had a higher C-site binding ratio, indicating a stronger preference for C-sites on CHT?",
+        "A": "scFv",
+        "B": "Fab",
+        "C": "Fc (knob)",
+        "D": "Fc (hole)",
+        "Answer": "C",
+        "Source": "Fc domains (Fc (knob), Fc (hole), and Fc (wild type)) owned higher C-site binding ratios than both scFv and Fab domains. Hence, Fc domains would favourably bind to C-sites, while binding of both scFv and Fab had higher tendency towards P-sites."
+    },
+    "Question_8": {
+        "Context": "The study examined the effectiveness of different elution mechanisms of Ceramic hydroxyapatite (CHT) in removing large LMW impurities for bispecific antibodies (bsAbs).",
+        "Question": "Which elution mechanism of CHT showed the best performance in removing large LMW impurities for all tested bsAbs?",
+        "A": "CHT-NaCl",
+        "B": "CHT-P",
+        "C": "CEX",
+        "D": "Both CHT-NaCl and CHT-P",
+        "Answer": "B",
+        "Source": "For Molecules A and B, better large LMW removal by CHT-P could be simply explained by the different C-site cooperation during CHT-NaCl and CHT-P elution. Better separation resolution by CHT-P suggested that monomers and large LMW impurities expressed divergent binding preference to CHT binding sites, where ones could be more favoured to C-sites than the others."
+    },
+    "Question_9": {
+        "Context": "The study focused on the removal efficiency of host cell proteins (HCPs) by different elution mechanisms of Ceramic hydroxyapatite (CHT) for bispecific antibodies (bsAbs).",
+        "Question": "Which elution mechanism of CHT consistently expressed minimal HCP contents for all tested bsAbs?",
+        "A": "CHT-NaCl",
+        "B": "CHT-P",
+        "C": "CEX",
+        "D": "Protein A",
+        "Answer": "A",
+        "Source": "Consistently low HCP contents were observed in post CHT-NaCl products for all three bsAbs, indicating that the sodium chloride elution mechanism can efficiently remove HCPs from the product pools."
+    },
+    "Question_10": {
+        "Context": "The study investigated the impact of different elution strategies on large LMW impurity removal for bispecific antibodies (bsAbs).",
+        "Question": "Which elution mechanism of CHT provided better large LMW removal efficiency for larger bsAbs like Molecule C?",
+        "A": "CHT-NaCl",
+        "B": "CHT-P",
+        "C": "CEX",
+        "D": "Protein A",
+        "Answer": "B",
+        "Source": "CHT-P elution is suitable to potentially remove both HMW and large LMW impurities. For larger bsAbs (e.g., Molecule C), CHT-P elution is suitable to potentially remove both HMW and large LMW impurities."
+    }
+}

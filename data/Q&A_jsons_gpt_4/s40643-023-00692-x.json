@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Spirulina platensis is a microalgae known for its bioactive pigments which have applications in various industries due to their nutritional and antioxidant properties.",
+        "Question": "Which bioactive pigment from Spirulina platensis is used in pH-sensitive packaging to indicate food freshness?",
+        "A": "Chlorophyll",
+        "B": "Phycocyanin",
+        "C": "Carotenoids",
+        "D": "Anthocyanins",
+        "Answer": "B",
+        "Source": "Pigments such as anthocyanins and phycocyanin have been used in the development of pH-sensitive packaging, where the changes of color with pH serves as an indicator of food freshness."
+    },
+    "Question_2": {
+        "Context": "In the extraction of bioactive compounds from biomass, the solvent-to-biomass ratio is an important parameter that can influence the yield and efficiency of the process.",
+        "Question": "What effect does increasing the solvent-to-biomass ratio have on the extraction of bioactive pigments from Spirulina platensis?",
+        "A": "Decreases the total pigment yield",
+        "B": "Has no significant effect on the total pigment yield",
+        "C": "Increases the total pigment yield",
+        "D": "Only increases the yield of water-soluble pigments",
+        "Answer": "C",
+        "Source": "Results revealed that ultrasound-assisted temperature, time, and solvent-to-biomass ratio had a significant (p < 0.05) influence on the total pigment yield."
+    },
+    "Question_3": {
+        "Context": "Ultrasound-assisted extraction (UAE) is a technique used to enhance the extraction of compounds from various biological materials, including microalgae.",
+        "Question": "What is the primary mechanism by which ultrasound waves enhance the extraction process in UAE?",
+        "A": "By increasing the temperature of the solvent",
+        "B": "Through the formation and implosion of bubbles that create a sponge effect",
+        "C": "By reducing the viscosity of the solvent",
+        "D": "By breaking down the cell walls with direct mechanical force",
+        "Answer": "B",
+        "Source": "In a UAE, ultrasonic waves induce a process known as cavitation, which results in a rapid series of compression and expansion waves near the surface of a solid matrix."
+    },
+    "Question_4": {
+        "Context": "The use of green chemistry principles in the extraction of bioactive compounds is aimed at reducing the environmental impact of the process.",
+        "Question": "Which type of solvents are being introduced as green alternatives for the extraction of bioactive compounds?",
+        "A": "Ionic liquids (ILs)",
+        "B": "Deep eutectic solvents (DES)",
+        "C": "Natural deep eutectic solvents (NADES)",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Given these drawbacks and considering the principles of green chemistry, new alternative solvents have been introduced for the extraction of bioactive compounds, such as ionic liquids (ILs), deep eutectic sol- vents (DES), and natural deep eutectic solvents (NADES)."
+    },
+    "Question_5": {
+        "Context": "Total phenolic content (TPC) is a measure of the phenolic compounds in a sample, which are known for their antioxidant properties.",
+        "Question": "Which method is commonly used to determine the total phenolic content (TPC) in extracts?",
+        "A": "ABTS assay",
+        "B": "Folin\u2013Ciocalteu method",
+        "C": "DPPH assay",
+        "D": "FRAP assay",
+        "Answer": "B",
+        "Source": "To determine the TPC of Spirulina platensis extracts the Folin\u2013Ciocalteau method was used."
+    },
+    "Question_6": {
+        "Context": "Antioxidant activity in extracts can be quantified by various assays that measure the ability to scavenge free radicals.",
+        "Question": "Which assay was used in the study to determine the antioxidant activity of Spirulina platensis extracts?",
+        "A": "DPPH assay",
+        "B": "FRAP assay",
+        "C": "ABTS assay",
+        "D": "CUPRAC assay",
+        "Answer": "C",
+        "Source": "Then, the gel-like extracts were submitted to three assays: pigment determination through spectrophotometry, antioxidant activity determination through the ABTS assay."
+    },
+    "Question_7": {
+        "Context": "In the context of optimizing extraction processes, response surface methodology (RSM) is a statistical tool used to evaluate the effects of multiple variables and their interactions.",
+        "Question": "What is the purpose of using response surface methodology (RSM) in the optimization of extraction processes?",
+        "A": "To identify the single most important variable",
+        "B": "To minimize the number of experiments needed",
+        "C": "To maximize the yield of a single compound",
+        "D": "To evaluate the effects of variables and their interactions",
+        "Answer": "D",
+        "Source": "RSM is less time consuming and less labor intensive than others, since it requires, due to the fewer experimental trials needed to analyze the effects of multiple extraction parameters and their interactions."
+    },
+    "Question_8": {
+        "Context": "The Box\u2013Behnken design is a statistical method used in response surface methodology for experimental design.",
+        "Question": "What is a characteristic feature of the Box\u2013Behnken design in response surface methodology?",
+        "A": "It requires five levels for each factor",
+        "B": "It is developed to fit a first-order model",
+        "C": "It only requires three levels of each factor to fit a second-order regression model",
+        "D": "It is primarily used for single-variable optimization",
+        "Answer": "C",
+        "Source": "Besides, the BBD only requires three levels of each factor to fit a second-order regression model, whereas CCD requires five levels for each factor."
+    },
+    "Question_9": {
+        "Context": "In the extraction of bioactive compounds, the yield and efficiency can be influenced by the ratio of solvent to biomass used.",
+        "Question": "What is the likely outcome of using a higher solvent-to-biomass ratio in the extraction of bioactive compounds from Spirulina platensis?",
+        "A": "Decreased extraction efficiency",
+        "B": "Increased extraction of water-soluble pigments only",
+        "C": "Increased total pigment yield",
+        "D": "No change in the yield of bioactive compounds",
+        "Answer": "C",
+        "Source": "Results revealed that ultrasound-assisted temperature, time, and solvent-to-biomass ratio had a significant (p < 0.05) influence on the total pigment yield."
+    },
+    "Question_10": {
+        "Context": "The antioxidant capacity of an extract can be expressed in terms of equivalent standards, which allows for the comparison of antioxidant activity across different samples.",
+        "Question": "In the study, how was the antioxidant activity of Spirulina platensis extracts expressed?",
+        "A": "Ascorbic acid equivalent",
+        "B": "Gallic acid equivalent",
+        "C": "Trolox equivalent",
+        "D": "Catechin equivalent",
+        "Answer": "C",
+        "Source": "The result was expressed as \u00b5g Trolox equivalent (TRE)/g DM (Dry Matter) according to the following equation."
+    }
+}

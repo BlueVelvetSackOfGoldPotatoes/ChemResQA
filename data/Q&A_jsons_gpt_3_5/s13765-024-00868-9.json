@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study monitored CO2 and N2O fluxes under specific conditions. ",
+        "Question": "How were CO2 and N2O fluxes monitored in the study?",
+        "A": "Through a dynamic chamber",
+        "B": "Using a gas chromatograph",
+        "C": "By visual observation",
+        "D": "With a spectrophotometer",
+        "Answer": "B",
+        "Source": "Gas sampling was performed between 9 and 10 a.m. every 7 days and samples were collected at 0, 20, and 40 min after chamber closure, using a 10 mL gas tight syringe. The measurements of CO2 and N2O were simultaneously analyzed on a gas chromatograph (8892 GC System, Agilent, USA) with a flame ionization detector (FID) and an electron capture detector (ECD), respectively."
+    },
+    "Question_2": {
+        "Context": "The study analyzed the growth characteristics of corn under different treatments.",
+        "Question": "Which treatment exhibited the highest corn productivity according to the study?",
+        "A": "Cn treatment",
+        "B": "RB treatment",
+        "C": "WB treatment",
+        "D": "CP treatment",
+        "Answer": "D",
+        "Source": "Corn productivity was highest at CP treatment (25.2 t 10 a\u22121), followed by Cn (22.4 t 10 a\u22121), and the RB (11.5 t 10 a\u22121) and WB treatments (13.6 t 10 a\u22121), respectively."
+    },
+    "Question_3": {
+        "Context": "The study compared the biomass of corn under different treatments.",
+        "Question": "Which treatment showed the highest increase in corn biomass compared to the Cn treatment?",
+        "A": "RB treatment",
+        "B": "WB treatment",
+        "C": "CP treatment",
+        "D": "No significant difference observed",
+        "Answer": "C",
+        "Source": "CP treatment manifested a pronounced enhancement in corn biomass, exceeding biomass of Cn treatment by 12.6, RB treatment by 120, and WB treatment by 86%, respectively."
+    },
+    "Question_4": {
+        "Context": "The study evaluated the total weight of corn under different treatments.",
+        "Question": "Which treatment had the highest total weight of corn?",
+        "A": "Cn treatment",
+        "B": "WB treatment",
+        "C": "RB treatment",
+        "D": "CP treatment",
+        "Answer": "D",
+        "Source": "The total weight of corn increased in the order: CP (237 g) > Cn (191 g) > WB (107 g) > RB (79 g)."
+    },
+    "Question_5": {
+        "Context": "The study assessed corn yield under different treatments.",
+        "Question": "Which treatment had the highest corn yield?",
+        "A": "Cn treatment",
+        "B": "WB treatment",
+        "C": "RB treatment",
+        "D": "CP treatment",
+        "Answer": "D",
+        "Source": "Similarly, corn yield increased in the order: CP (157 g) > Cn (119 g) > WB (71 g) > RB (53 g)."
+    },
+    "Question_6": {
+        "Context": "The study compared straw yield between two specific treatments.",
+        "Question": "How did the straw yield of RB treatment compare to WB treatment?",
+        "A": "RB treatment had higher straw yield",
+        "B": "WB treatment had higher straw yield",
+        "C": "Both had equal straw yield",
+        "D": "Straw yield was not measured",
+        "Answer": "C",
+        "Source": "Notably, there was a negligible disparity between the RB and WB treatments in straw yield, grain yield, grain index and corn productivity but both were distinctively lower than CP treatment."
+    },
+    "Question_7": {
+        "Context": "The study focused on the growth metrics of corn under different treatments.",
+        "Question": "Which treatment exhibited the highest plant height?",
+        "A": "Cn treatment",
+        "B": "RB treatment",
+        "C": "WB treatment",
+        "D": "CP treatment",
+        "Answer": "A",
+        "Source": "Cn registered an average plant height of 184 cm, CP 176 cm, RB 142 cm, and WB 154 cm."
+    },
+    "Question_8": {
+        "Context": "The study compared the corn productivity of different treatments.",
+        "Question": "Which treatment had the lowest corn productivity?",
+        "A": "Cn treatment",
+        "B": "RB treatment",
+        "C": "WB treatment",
+        "D": "CP treatment",
+        "Answer": "B",
+        "Source": "CP treatment emerged as the most efficacious, consistently exhibiting superior corn growth metrics. Cn registered an average plant height of 184 cm, CP 176 cm, RB 142 cm, and WB 154 cm."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the growth characteristics of corn under different treatments.",
+        "Question": "Which treatment showed enhanced stem and leaf weights?",
+        "A": "Cn treatment",
+        "B": "RB treatment",
+        "C": "WB treatment",
+        "D": "CP treatment",
+        "Answer": "D",
+        "Source": "CP treatment demonstrated enhanced stem and leaf weights, and corn productivity relative to other treatments."
+    },
+    "Question_10": {
+        "Context": "The study compared the grain index of different treatments.",
+        "Question": "Which treatment had the highest grain index?",
+        "A": "Cn treatment",
+        "B": "RB treatment",
+        "C": "WB treatment",
+        "D": "CP treatment",
+        "Answer": "D",
+        "Source": "Notably, there was a negligible disparity between the RB and WB treatments in straw yield, grain yield, grain index and corn productivity but both were distinctively lower than CP treatment."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Centella asiatica is a medicinal plant known for its therapeutic effects on various conditions. It contains compounds with anti-oxidant, anti-inflammatory, anti-microbial, neuroprotective, memory improvement, and anti-depressant properties.",
+        "Question": "Which family does the medicinal herb Centella asiatica belong to?",
+        "A": "Lamiaceae",
+        "B": "Apiaceae",
+        "C": "Asteraceae",
+        "D": "Fabaceae",
+        "Answer": "B",
+        "Source": "A perennial herbaceous plant belonging to the family Apiaceae, CA is a valuable medicinal herb mainly grown in swampy areas of India, China, Malaysia, Sri Lanka, Indonesia, Madagascar, and Korea."
+    },
+    "Question_2": {
+        "Context": "In the context of lipid metabolism, the process of lipolysis involves the breakdown of triglycerides into free fatty acids and glycerol, which can be induced by enzymes such as lipases.",
+        "Question": "Which receptor is a direct transcriptional target of lipase that is involved in the process of lipolysis?",
+        "A": "PPAR\u03b1",
+        "B": "PPAR\u03b2",
+        "C": "PPAR\u03b3",
+        "D": "PPAR\u03b4",
+        "Answer": "C",
+        "Source": "Lipolysis refers to the degradation of triglyceride to yield FFA and glycerol. It can be induced by lipase, which are the direct transcriptional target of peroxisome proliferator activated receptor gamma (PPAR\u03b3)."
+    },
+    "Question_3": {
+        "Context": "Cholesterol homeostasis and lipid metabolism are regulated by various genes. One of the key enzymes involved in cholesterol synthesis is 3-hydroxyl-3-methylglutaryl CoA reductase.",
+        "Question": "What is the abbreviation for 3-hydroxyl-3-methylglutaryl CoA reductase, an enzyme involved in cholesterol synthesis?",
+        "A": "HDLR",
+        "B": "LDLR",
+        "C": "HMGCR",
+        "D": "SREBP",
+        "Answer": "C",
+        "Source": "The mRNA expression levels of peroxisome proliferator-activated receptor gamma (PPAR\u03b3), fatty acid synthase (FAS), cluster of differentiation 36 (CD36), 3- hydroxyl-3-methylglutaryl CoA reductase (HMGCR), and stearoyl CoA desaturase 1 (SCD 1) were significantly downregulated in the CA-H compared to the HFHSD."
+    },
+    "Question_4": {
+        "Context": "Sterol regulatory element-binding proteins (SREBPs) are transcription factors that regulate lipid homeostasis by controlling the expression of various genes involved in the synthesis and uptake of cholesterol, fatty acids, and triglycerides.",
+        "Question": "Which of the following is NOT a function of sterol regulatory element-binding proteins (SREBPs)?",
+        "A": "Regulating cholesterol synthesis",
+        "B": "Controlling fatty acid synthesis",
+        "C": "Inhibiting protein synthesis",
+        "D": "Influencing triglyceride synthesis",
+        "Answer": "C",
+        "Source": "Excess FFA produced by lipolysis can migrate in the circulation and accumulate in the blood or the liver, resulting in upregulation of proteins involved in de novo lipogenesis, such as sterol regulatory element-binding protein (SREBP) and fatty acid synthase (FAS)."
+    },
+    "Question_5": {
+        "Context": "Fatty acid synthase (FAS) is an enzyme that catalyzes the synthesis of fatty acids from acetyl-CoA and malonyl-CoA, in the presence of NADPH.",
+        "Question": "What is the primary role of the enzyme fatty acid synthase (FAS)?",
+        "A": "Breakdown of fatty acids",
+        "B": "Synthesis of fatty acids",
+        "C": "Conversion of fatty acids into cholesterol",
+        "D": "Oxidation of fatty acids",
+        "Answer": "B",
+        "Source": "Excess FFA produced by lipolysis can migrate in the circulation and accumulate in the blood or the liver, resulting in upregulation of proteins involved in de novo lipogenesis, such as sterol regulatory element-binding protein (SREBP) and fatty acid synthase (FAS)."
+    },
+    "Question_6": {
+        "Context": "Peroxisome proliferator-activated receptor gamma (PPAR\u03b3) is a nuclear receptor that plays a crucial role in the regulation of adipocyte differentiation and metabolism.",
+        "Question": "Which receptor is known to play a significant role in adipocyte differentiation and metabolism?",
+        "A": "Glucagon receptor",
+        "B": "Insulin receptor",
+        "C": "PPAR\u03b3",
+        "D": "Thyroid hormone receptor",
+        "Answer": "C",
+        "Source": "Some principal mechanisms of lipid metabolism are modulated by insulin signaling, adipogenesis, adipocyte differentiation, lipolysis, and \u03b2-oxidation of free fatty acid (FFA) in the obese state. Lipolysis refers to the degradation of triglyceride to yield FFA and glycerol. It can be induced by lipase, which are the direct transcriptional target of peroxisome proliferator activated receptor gamma (PPAR\u03b3)."
+    },
+    "Question_7": {
+        "Context": "Stearoyl-CoA desaturase 1 (SCD1) is an enzyme that catalyzes the synthesis of monounsaturated fats from saturated fatty acyl-CoAs. It is important in the metabolism of lipids.",
+        "Question": "What is the function of the enzyme stearoyl-CoA desaturase 1 (SCD1)?",
+        "A": "Catalyzes the synthesis of monounsaturated fats",
+        "B": "Converts cholesterol into bile acids",
+        "C": "Synthesizes saturated fatty acids",
+        "D": "Breaks down triglycerides into fatty acids and glycerol",
+        "Answer": "A",
+        "Source": "The mRNA expression levels of peroxisome proliferator-activated receptor gamma (PPAR\u03b3), fatty acid synthase (FAS), cluster of differentiation 36 (CD36), 3- hydroxyl-3-methylglutaryl CoA reductase (HMGCR), and stearoyl CoA desaturase 1 (SCD 1) were significantly downregulated in the CA-H compared to the HFHSD."
+    },
+    "Question_8": {
+        "Context": "Cluster of differentiation 36 (CD36) is a multifunctional protein that plays a role in fatty acid metabolism, acting as a receptor for the uptake of fatty acids in various tissues.",
+        "Question": "What role does the protein cluster of differentiation 36 (CD36) primarily play in fatty acid metabolism?",
+        "A": "It acts as an enzyme that synthesizes fatty acids",
+        "B": "It serves as a receptor for the uptake of fatty acids",
+        "C": "It functions as a transporter for cholesterol",
+        "D": "It is involved in the breakdown of glucose",
+        "Answer": "B",
+        "Source": "The mRNA expression levels of peroxisome proliferator-activated receptor gamma (PPAR\u03b3), fatty acid synthase (FAS), cluster of differentiation 36 (CD36), 3- hydroxyl-3-methylglutaryl CoA reductase (HMGCR), and stearoyl CoA desaturase 1 (SCD 1) were significantly downregulated in the CA-H compared to the HFHSD."
+    },
+    "Question_9": {
+        "Context": "5' Adenosine monophosphate-activated protein kinase (AMPK) is an enzyme that plays a key role in cellular energy homeostasis, and it is activated in response to low cellular energy levels.",
+        "Question": "What is the primary function of 5' adenosine monophosphate-activated protein kinase (AMPK) in cellular energy homeostasis?",
+        "A": "Promotes fatty acid synthesis",
+        "B": "Triggers reductions in fat deposition",
+        "C": "Increases glucose production",
+        "D": "Stimulates protein synthesis",
+        "Answer": "B",
+        "Source": "Activated 5\u2019adenosine monophosphate activated protein kinase (AMPK) triggers beneficial physiological effects, including reductions in fat deposition. AMPK knockdown upregulated FAS, and SREBP which is another key enzyme of fat synthesis."
+    },
+    "Question_10": {
+        "Context": "Low-density lipoprotein receptor (LDLR) is a cell surface receptor that plays a critical role in the metabolism of cholesterol by mediating the endocytosis of cholesterol-rich low-density lipoproteins.",
+        "Question": "What is the primary role of the low-density lipoprotein receptor (LDLR)?",
+        "A": "Synthesizes low-density lipoproteins",
+        "B": "Breaks down high-density lipoproteins",
+        "C": "Mediates the endocytosis of cholesterol-rich low-density lipoproteins",
+        "D": "Acts as an enzyme in fatty acid oxidation",
+        "Answer": "C",
+        "Source": "The mRNA expression levels of PPAR\u03b3, FAS, CD36, SREBP-2, HMGCR, SREBP-1 C, LDLR, and SCD1 were significantly higher in mice with HFHSD-induced obesity than in mice fed a normal diet."
+    }
+}

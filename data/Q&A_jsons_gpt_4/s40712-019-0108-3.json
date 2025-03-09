@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of materials science, particularly when studying wave propagation in mediums, the Rayleigh wave is a type of surface acoustic wave that travels along the surface of solids. Rayleigh waves include both longitudinal and transverse motion, which decrease exponentially in amplitude as distance from the surface increases.",
+        "Question": "What type of motion do Rayleigh waves include?",
+        "A": "Only longitudinal motion",
+        "B": "Only transverse motion",
+        "C": "Both longitudinal and transverse motion",
+        "D": "Neither longitudinal nor transverse motion",
+        "Answer": "C",
+        "Source": "Rayleigh wave exists in a homogeneous, elastic half-space whereas Love wave requires a surficial layer of lowers wave velocity than the underlying half-space."
+    },
+    "Question_2": {
+        "Context": "In the study of wave propagation in materials, the phase velocity of a wave is the rate at which the phase of the wave propagates in space. It is an important parameter in understanding how waves travel through different mediums.",
+        "Question": "What does the phase velocity of a wave represent?",
+        "A": "The rate at which the amplitude of the wave propagates in space",
+        "B": "The rate at which the phase of the wave propagates in space",
+        "C": "The rate at which the wave dissipates energy",
+        "D": "The rate at which the wave frequency changes",
+        "Answer": "B",
+        "Source": "The wave characteristics such as phase velocity, attenuation coefficients, specific loss, and penetration depths are computed numerically and depicted graphically."
+    },
+    "Question_3": {
+        "Context": "In materials science, attenuation coefficients are used to describe the gradual loss of wave intensity through a medium. It is a measure of how much the amplitude of the wave decreases as it propagates.",
+        "Question": "What do attenuation coefficients measure in the context of wave propagation?",
+        "A": "The increase in wave intensity",
+        "B": "The speed of wave propagation",
+        "C": "The gradual loss of wave intensity",
+        "D": "The directional change of the wave",
+        "Answer": "C",
+        "Source": "The wave characteristics such as phase velocity, attenuation coefficients, specific loss, and penetration depths are computed numerically and depicted graphically."
+    },
+    "Question_4": {
+        "Context": "In the context of thermoelastic materials, the propagation of waves is influenced by various factors including the material's ability to conduct heat. Theories of thermoelasticity aim to describe the behavior of materials under the influence of thermal effects.",
+        "Question": "What aspect of materials does thermoelasticity theory aim to describe?",
+        "A": "Electrical conductivity",
+        "B": "Behavior under thermal effects",
+        "C": "Magnetic permeability",
+        "D": "Optical transparency",
+        "Answer": "B",
+        "Source": "The propagation of waves in thermoelastic materials has numerous applications in various fields of science and technology, earthquake engineering, seismology, nuclear reactors, aerospace, submarine structures, and in the non-destructive evaluation in material process control and fabrication."
+    },
+    "Question_5": {
+        "Context": "In the study of wave propagation, the penetration depth is a measure that describes how deep a wave can penetrate into a material. It is related to the decay of waves inside of a material and is influenced by the material's properties.",
+        "Question": "What does the penetration depth describe in the study of wave propagation?",
+        "A": "The distance a wave travels before it stops",
+        "B": "The depth at which a wave reflects off a surface",
+        "C": "The depth a wave can penetrate into a material",
+        "D": "The height of a wave above the surface",
+        "Answer": "C",
+        "Source": "Penetration depth describes how deep a wave can penetrate into a material and describes the decay of waves inside of a material."
+    },
+    "Question_6": {
+        "Context": "In the context of magneto-thermoelastic materials, the presence of a magnetic field can influence the propagation of waves. The study of how magnetic fields affect wave characteristics in such materials is important for applications in various technological fields.",
+        "Question": "How does the presence of a magnetic field influence materials in the context of magneto-thermoelastic wave propagation?",
+        "A": "It changes the color of the material",
+        "B": "It affects the propagation of waves",
+        "C": "It alters the chemical composition of the material",
+        "D": "It increases the material's temperature",
+        "Answer": "B",
+        "Source": "Othman and Song (2006, 2008) presented different hypotheses about magneto-thermoelastic waves in a homogeneous and isotropic medium."
+    },
+    "Question_7": {
+        "Context": "In the study of transversely isotropic materials, the symmetry of the material's properties in different directions is considered. This anisotropy can affect the propagation of waves and is a key factor in the analysis of material behavior.",
+        "Question": "What does the term 'transversely isotropic' refer to in the context of material properties?",
+        "A": "Material properties that are identical in all directions",
+        "B": "Material properties that vary with temperature",
+        "C": "Material properties that are symmetric in one direction",
+        "D": "Material properties that are the same in two dimensions",
+        "Answer": "C",
+        "Source": "The basic governing equations for homogeneous, anisotropic, generalized thermodiffusive elastic solids in the absence of body forces, heat and mass diffusion sources following Kumar and Kansal (2008b) are tij \u00bc cijklekl \u00fe aijT \u00fe bijC."
+    },
+    "Question_8": {
+        "Context": "In materials science, the study of wave propagation often involves the concept of phase lags, which are delays between the response of a material to thermal or mechanical disturbances and the disturbances themselves.",
+        "Question": "What are phase lags in the context of wave propagation in materials?",
+        "A": "Delays between the response of a material to disturbances",
+        "B": "The frequency at which a material vibrates",
+        "C": "The amplitude of the waves within the material",
+        "D": "The speed at which waves travel through the material",
+        "Answer": "A",
+        "Source": "The heat conduction equation following Othman and Said (2018), we have Kij 1 \u00fe \u03c4t \u2202 \u2202t \ufffd \ufffd \u02d9T;ji \u00fe K\ufffd ij 1 \u00fe \u03c4v \u2202 \u2202t \ufffd \ufffd T;ji \u00bc 1 \u00fe \u03c4q \u2202 \u2202t \u00fe \u03c4q \ufffd \ufffd2 \u22022 \u2202t2 \ufffd \ufffd \u03c1CE \u20acT \u00fe aijT0\u0451ij \u00fe aT 0 \u20acC."
+    },
+    "Question_9": {
+        "Context": "In the study of wave propagation in thermoelastic materials, the specific loss is a measure of the internal resistance of a material to wave propagation. It is an indicator of how much energy is lost as the wave travels through the material.",
+        "Question": "What does the specific loss indicate in the context of wave propagation in thermoelastic materials?",
+        "A": "The energy gained by the material",
+        "B": "The energy lost as the wave travels through the material",
+        "C": "The speed at which the wave travels",
+        "D": "The frequency of the wave",
+        "Answer": "B",
+        "Source": "The specific loss is the most direct way of defining internal resistance for a material. The specific loss W is given by W \u00bc \u0394W W \ufffd \ufffd \u00bc 4\u03c0 Img \u03be \u00f0 \u00de Re \u03be \u00f0 \u00de."
+    },
+    "Question_10": {
+        "Context": "In the context of magneto-thermoelastic materials, the study of wave propagation includes the analysis of how temperature changes affect the propagation of waves. This is crucial for understanding the behavior of materials under thermal stresses.",
+        "Question": "In magneto-thermoelastic materials, what effect does temperature change have on wave propagation?",
+        "A": "It changes the magnetic properties of the material",
+        "B": "It affects the color of the material",
+        "C": "It has no effect on wave propagation",
+        "D": "It affects the propagation of waves",
+        "Answer": "D",
+        "Source": "The normal stress, tangential stress components, temperature change, and mass concentration are computed and drawn graphically."
+    }
+}

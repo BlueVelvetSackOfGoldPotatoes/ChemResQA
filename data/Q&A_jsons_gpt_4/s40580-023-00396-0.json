@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of materials science, epitaxial growth refers to the process where a crystalline film grows on a crystalline substrate.",
+        "Question": "What does the term 'epitaxial growth' refer to?",
+        "A": "A process where a crystalline film grows on a non-crystalline substrate",
+        "B": "A process where a non-crystalline film grows on a crystalline substrate",
+        "C": "A process where a crystalline film grows on a crystalline substrate",
+        "D": "A process where a crystalline film grows without any substrate",
+        "Answer": "C",
+        "Source": "Understanding the 2D-material and substrate interaction during epitaxial growth towards successful remote epitaxy: a review."
+    },
+    "Question_2": {
+        "Context": "Boron nitride (BN) is a compound that can be used as a substrate in the epitaxial growth of other materials.",
+        "Question": "What is the correct chemical formula for boron nitride?",
+        "A": "B2N",
+        "B": "BN",
+        "C": "B3N2",
+        "D": "B4N4",
+        "Answer": "B",
+        "Source": "In Sect. 4.3, 'In-situ 2D growth', and in caption of Fig. 3, the compound name 'h-BN' should be changed to 'BN (Boron nitride)'."
+    },
+    "Question_3": {
+        "Context": "Graphene is a single layer of carbon atoms arranged in a two-dimensional honeycomb lattice and is known for its exceptional properties.",
+        "Question": "What is graphene typically characterized by?",
+        "A": "A three-dimensional cubic lattice of carbon atoms",
+        "B": "A single layer of carbon atoms in a two-dimensional honeycomb lattice",
+        "C": "A double layer of silicon atoms in a hexagonal lattice",
+        "D": "A random amorphous structure of carbon atoms",
+        "Answer": "B",
+        "Source": "In caption of Fig. 3, 'graphene' to be changed to 'thin amorphous carbon (TAC)'."
+    },
+    "Question_4": {
+        "Context": "Thin amorphous carbon (TAC) is a form of carbon that does not have a crystalline structure.",
+        "Question": "What distinguishes thin amorphous carbon (TAC) from graphene?",
+        "A": "TAC has a two-dimensional honeycomb lattice",
+        "B": "TAC has a crystalline structure",
+        "C": "TAC does not have a crystalline structure",
+        "D": "TAC is a single layer of silicon atoms",
+        "Answer": "C",
+        "Source": "In caption of Fig. 3, 'graphene' to be changed to 'thin amorphous carbon (TAC)'."
+    },
+    "Question_5": {
+        "Context": "Gallium nitride (GaN) is a semiconductor material that is commonly used in light-emitting diodes (LEDs).",
+        "Question": "What is a common application of Gallium nitride (GaN)?",
+        "A": "Insulation in electrical cables",
+        "B": "Catalysis in chemical reactions",
+        "C": "Light-emitting diodes (LEDs)",
+        "D": "Food preservation",
+        "Answer": "C",
+        "Source": "b Cross-sectional TEM image of remote epitaxially grown GaN on BN/GaN."
+    },
+    "Question_6": {
+        "Context": "Gallium arsenide (GaAs) is a compound semiconductor used in devices that require high-speed electronic and optoelectronic applications.",
+        "Question": "What is Gallium arsenide (GaAs) commonly used for?",
+        "A": "High-speed electronic and optoelectronic applications",
+        "B": "Agricultural fertilizers",
+        "C": "Cosmetic products",
+        "D": "Food flavoring",
+        "Answer": "A",
+        "Source": "d Cross-sectional STEM image of remote epitaxially grown GaAs on TAC/AlGaAs/GaAs."
+    },
+    "Question_7": {
+        "Context": "Electron backscatter diffraction (EBSD) is a microstructural-crystallographic technique used to examine the crystallographic orientation of materials.",
+        "Question": "What is the purpose of Electron backscatter diffraction (EBSD)?",
+        "A": "To determine the chemical composition of materials",
+        "B": "To examine the crystallographic orientation of materials",
+        "C": "To measure the electrical conductivity of materials",
+        "D": "To observe the magnetic properties of materials",
+        "Answer": "B",
+        "Source": "c False-color cross-sectional, Plan-view SEM and EBSD map of as-grown and after exfoliated GaN."
+    },
+    "Question_8": {
+        "Context": "Scanning electron microscopy (SEM) is a type of electron microscopy that produces images of a sample by scanning it with a focused beam of electrons.",
+        "Question": "What does scanning electron microscopy (SEM) utilize to produce images of a sample?",
+        "A": "X-rays",
+        "B": "Ultraviolet light",
+        "C": "Visible light",
+        "D": "A focused beam of electrons",
+        "Answer": "D",
+        "Source": "c False-color cross-sectional, Plan-view SEM and EBSD map of as-grown and after exfoliated GaN."
+    },
+    "Question_9": {
+        "Context": "Transmission electron microscopy (TEM) is a microscopy technique in which a beam of electrons is transmitted through a specimen to form an image.",
+        "Question": "What is the principle behind transmission electron microscopy (TEM)?",
+        "A": "Reflecting electrons off the surface of a specimen",
+        "B": "Transmitting electrons through a specimen",
+        "C": "Absorbing electrons within a specimen",
+        "D": "Deflecting electrons around a specimen",
+        "Answer": "B",
+        "Source": "b Cross-sectional TEM image of remote epitaxially grown GaN on BN/GaN."
+    },
+    "Question_10": {
+        "Context": "Scanning transmission electron microscopy (STEM) is a technique combining both scanning and transmission electron microscopy to provide high-resolution images of samples.",
+        "Question": "What does scanning transmission electron microscopy (STEM) combine to provide high-resolution images?",
+        "A": "Scanning electron microscopy and X-ray microscopy",
+        "B": "Transmission electron microscopy and ultraviolet microscopy",
+        "C": "Scanning electron microscopy and transmission electron microscopy",
+        "D": "X-ray microscopy and ultraviolet microscopy",
+        "Answer": "C",
+        "Source": "d Cross-sectional STEM image of remote epitaxially grown GaAs on TAC/AlGaAs/GaAs."
+    }
+}

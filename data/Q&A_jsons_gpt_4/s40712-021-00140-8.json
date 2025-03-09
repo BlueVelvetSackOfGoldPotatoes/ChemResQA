@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the process of high energy ball milling (HEBM), various parameters can affect the size of the crystallites produced.",
+        "Question": "Which parameter has the most significant effect on the crystallite size during HEBM?",
+        "A": "Milling speed (MS)",
+        "B": "Milling time (MT)",
+        "C": "Ball to powder weight ratio (BPWR)",
+        "D": "Size of balls",
+        "Answer": "B",
+        "Source": "It was established that the MT is the most effective parameter followed by MS and BPWR."
+    },
+    "Question_2": {
+        "Context": "The Taguchi method is a systematic approach to optimize process parameters in various manufacturing and material processing techniques.",
+        "Question": "What is the primary advantage of using the Taguchi method over the factorial method?",
+        "A": "It requires testing all possible combinations of parameters.",
+        "B": "It provides a simplified way to set up the combination of experimental parameters.",
+        "C": "It is more time-consuming and complex.",
+        "D": "It does not provide a systematic approach.",
+        "Answer": "B",
+        "Source": "Compared to the factorial method, instead of testing all possible combinations of parameters available, the Taguchi method provides a more simplified way to set up the combination of experimental parameters."
+    },
+    "Question_3": {
+        "Context": "Calcium carbonate (CaCO3) is a widely studied material due to its various applications and properties.",
+        "Question": "For what industrial applications is calcium carbonate (CaCO3) commonly used?",
+        "A": "Batteries and fuel cells",
+        "B": "Paints, inks, coatings, paper products, plastics, and films",
+        "C": "Pharmaceuticals and drug delivery",
+        "D": "Food preservation and packaging",
+        "Answer": "B",
+        "Source": "Calcium carbonate (CaCO3) has innumerable industrial applications: it is used in paints, inks, coatings, paper products, plastics, and films."
+    },
+    "Question_4": {
+        "Context": "The crystallite size of materials is an important factor that can influence their properties.",
+        "Question": "What is the typical range of crystallite sizes for CaCO3 when subjected to high energy ball milling (HEBM)?",
+        "A": "10 to 100 nm",
+        "B": "100 to 300 nm",
+        "C": "140 to 540 nm",
+        "D": "550 to 1000 nm",
+        "Answer": "C",
+        "Source": "The crystallite size of CaCO3 varied between 140 and 540 nm depending on the HEBM conditions."
+    },
+    "Question_5": {
+        "Context": "The Taguchi method uses an orthogonal array (OA) to design experiments for process optimization.",
+        "Question": "What is the purpose of using an orthogonal array (OA) in the Taguchi method?",
+        "A": "To increase the number of experiments required",
+        "B": "To ensure that experiments can be conducted at random",
+        "C": "To provide a structured way to study multiple parameters simultaneously",
+        "D": "To focus on a single parameter at a time",
+        "Answer": "C",
+        "Source": "The settings of HEBM parameters were determined by using the L9 (33) orthogonal experiments array (OA)."
+    },
+    "Question_6": {
+        "Context": "The Taguchi method is used to optimize parameters by analyzing the signal-to-noise (S/N) ratio.",
+        "Question": "What does a higher signal-to-noise (S/N) ratio indicate in the context of the Taguchi method?",
+        "A": "A less desirable outcome",
+        "B": "A more variable process",
+        "C": "A more desirable outcome",
+        "D": "A less significant parameter",
+        "Answer": "C",
+        "Source": "The optimum milling parameter combination was determined by using the analysis of signal-to-noise (S/N) ratio."
+    },
+    "Question_7": {
+        "Context": "Analysis of variance (ANOVA) is a statistical method used to analyze differences among group means in a sample.",
+        "Question": "In the context of HEBM, what does ANOVA help to determine?",
+        "A": "The chemical composition of the milled powders",
+        "B": "The significance and percentage of contribution of each milling parameter",
+        "C": "The optimal combination of milling parameters",
+        "D": "The physical properties of the milled powders",
+        "Answer": "B",
+        "Source": "The analysis of variance (ANOVA) was used to find the significance and percentage of contribution of each milling parameter."
+    },
+    "Question_8": {
+        "Context": "The Williamson-Hall (WH) method is a technique used to analyze X-ray diffraction data.",
+        "Question": "What does the Williamson-Hall (WH) method determine from the broadening of XRD peaks?",
+        "A": "The chemical stability of the material",
+        "B": "The phase composition of the material",
+        "C": "The crystallite sizes of the milled powders",
+        "D": "The molecular weight of the material",
+        "Answer": "C",
+        "Source": "The crystallite sizes of the milled powders were determined from a broadening of XRD peaks by the Williamson-Hall (WH) method."
+    },
+    "Question_9": {
+        "Context": "Fourier transform infrared (FTIR) spectroscopy is a technique used to obtain an infrared spectrum of absorption or emission of a solid, liquid, or gas.",
+        "Question": "What information can be confirmed by the absorption peaks observed in FTIR spectroscopy of CaCO3 powders?",
+        "A": "The presence of impurities in the powders",
+        "B": "The crystallite size of the powders",
+        "C": "The presence of CaCO3 in the form of calcite or aragonite",
+        "D": "The exact size of the CaCO3 particles",
+        "Answer": "C",
+        "Source": "The presence of these bands confirmed that each milled powder was in the form of CaCO3."
+    },
+    "Question_10": {
+        "Context": "In the context of material processing, the ball to powder weight ratio (BPWR) is an important parameter in ball milling processes.",
+        "Question": "What effect does the ball to powder weight ratio (BPWR) have in the high energy ball milling process?",
+        "A": "It determines the color of the final product",
+        "B": "It affects the crystallite size of the milled powder",
+        "C": "It changes the chemical composition of the material",
+        "D": "It has no significant effect on the milling process",
+        "Answer": "B",
+        "Source": "The influences of MS (200, 400, and 600 rpm), MT (5, 10, and 30 h) and BPWR (10:1, 20:1, and 50:1 on the crystallite size of CaCO3 powder were investigated."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of continuum dynamics, the study of deformation in a thermoelastic medium is crucial for various engineering applications.",
+        "Question": "Which field benefits from the analysis of deformation in a thermoelastic medium?",
+        "A": "Geothermal engineering",
+        "B": "Astronomy",
+        "C": "Marine biology",
+        "D": "Agriculture",
+        "Answer": "A",
+        "Source": "The study of thermoelasticity is beneficial to analyze the deformation field such as geothermal engineering, advanced aircraft structure design, thermal power plants, composite engineering, geology, high-energy particle accelerators, and many developing technologies."
+    },
+    "Question_2": {
+        "Context": "Theories of thermoelasticity are important for predicting the behavior of materials under thermal and elastic influences.",
+        "Question": "What does the linearization of type II and type III theories of thermoelasticity predict?",
+        "A": "Infinite speed of thermal wave",
+        "B": "Finite speed of thermal wave",
+        "C": "Constant speed of sound",
+        "D": "Zero speed of thermal wave",
+        "Answer": "B",
+        "Source": "On linearization, type I becomes the classical heat equation, whereas on linearization, type II as well as type III theories predicts the finite speed of thermal wave."
+    },
+    "Question_3": {
+        "Context": "In the study of magneto-thermoelastic materials, the influence of magnetic fields on the thermoelastic properties is considered.",
+        "Question": "What is an important aspect to consider when studying thermoelastic interactions in a rotating medium?",
+        "A": "Gravitational force",
+        "B": "Magnetic field",
+        "C": "Electrostatic force",
+        "D": "Buoyancy",
+        "Answer": "B",
+        "Source": "It is well known that all the rotating large bodies have angular velocity, as well as magnetism; therefore, the thermoelastic interactions in a rotating medium under magnetic field are of importance."
+    },
+    "Question_4": {
+        "Context": "In the context of transversely isotropic magneto-thermoelastic (TIMT) materials, the study of axisymmetric problems is relevant for understanding material behavior under specific conditions.",
+        "Question": "What type of problem has been studied in TIMT solids with respect to the distribution of temperature, displacement, and stress components?",
+        "A": "Asymmetric",
+        "B": "Axisymmetric",
+        "C": "Symmetric",
+        "D": "Non-symmetric",
+        "Answer": "B",
+        "Source": "The axisymmetric problem in two-dimensional transversely isotropic magneto-thermoelastic (TIMT) solid due to inclined load with Green\u2013Naghdi (GN)-III theory and two temperature (2T) has been studied."
+    },
+    "Question_5": {
+        "Context": "The Green\u2013Naghdi theories of thermoelasticity propose different types of thermoelastic models.",
+        "Question": "Which Green\u2013Naghdi theory of thermoelasticity is identical with the classical theory of thermoelasticity upon linearization?",
+        "A": "GN-I",
+        "B": "GN-II",
+        "C": "GN-III",
+        "D": "GN-IV",
+        "Answer": "A",
+        "Source": "On linearization, type I becomes the classical heat equation, whereas on linearization, type II as well as type III theories predicts the finite speed of thermal wave."
+    },
+    "Question_6": {
+        "Context": "In the study of thermoelastic materials, the equations of motion are essential for describing the behavior of the material under various forces.",
+        "Question": "What additional force needs to be considered in the equation of motion for a medium rotating uniformly?",
+        "A": "Centrifugal force",
+        "B": "Coriolis force",
+        "C": "Lorentz force",
+        "D": "Elastic force",
+        "Answer": "B",
+        "Source": "The equation of motion for a medium rotating uniformly and Lorentz force is tij;j + Fi = \u03c1f\u20acui + (\u03a9 \u00d7 (\u03a9 \u00d7 u))i + (2\u03a9 \u00d7 u.)ig;"
+    },
+    "Question_7": {
+        "Context": "In the study of thermoelasticity, the constitutive relations define the relationship between stress and strain in the presence of thermal effects.",
+        "Question": "What does the constitutive relation for the radial stress trr include?",
+        "A": "Only the radial strain err",
+        "B": "Only the circumferential strain e\u03b8\u03b8",
+        "C": "Only the axial strain ezz",
+        "D": "The radial strain err, circumferential strain e\u03b8\u03b8, and axial strain ezz",
+        "Answer": "D",
+        "Source": "Constitutive relations are trr = c11err + c12e\u03b8\u03b8 + c13ezz\u2212\u03b21T;"
+    },
+    "Question_8": {
+        "Context": "In the study of thermoelastic materials, the initial conditions of the medium are important for solving the field equations.",
+        "Question": "What are the initial conditions assumed for the primary medium at rest in the study of thermoelasticity?",
+        "A": "Non-zero initial displacement and temperature",
+        "B": "Zero initial displacement and non-zero initial temperature",
+        "C": "Non-zero initial displacement and zero initial temperature",
+        "D": "Zero initial displacement and temperature",
+        "Answer": "D",
+        "Source": "We consider that a primary medium is at rest. Therefore, the preliminary and symmetry conditions are assumed as u(r, z, 0) = 0 = u.(r, z, 0); w(r, z, 0) = 0 = w.(r, z, 0); \u03c6(r, z, 0) = 0 = \u03c6.(r, z, 0) for z\u22650; \u2212\u221e < r < \u221e;"
+    },
+    "Question_9": {
+        "Context": "In thermoelasticity, the Laplace and Hankel transforms are mathematical tools used to solve field equations.",
+        "Question": "What is the purpose of using the Laplace and Hankel transforms in the study of thermoelastic fields?",
+        "A": "To linearize the field equations",
+        "B": "To obtain the expressions of temperature distribution, displacement, and stress components",
+        "C": "To define the initial conditions of the medium",
+        "D": "To measure the thermal expansion coefficient",
+        "Answer": "B",
+        "Source": "The Laplace and Hankel transform has been used to get the expressions of temperature distribution, displacement, and stress components with the horizontal distance in the physical domain."
+    },
+    "Question_10": {
+        "Context": "In thermoelasticity, boundary conditions are applied to determine the response of the material under external forces.",
+        "Question": "What type of load is applied to the half-space in the boundary conditions for the study of thermoelasticity?",
+        "A": "Normal force and tangential load",
+        "B": "Gravitational force",
+        "C": "Electrostatic force",
+        "D": "Centripetal force",
+        "Answer": "A",
+        "Source": "The boundary conditions when normal force and tangential load are applied to the half-space (z = 0) are tzz(r, z, t) = \u2212F1\u03c81(r)H(t); trz(r, z, t) = \u2212F2\u03c82(r)H(t);"
+    }
+}

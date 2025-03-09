@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In bone, the mineral phase is primarily composed of bioapatite, which is a biological form of hydroxyapatite. Bioapatite is aligned with collagen fibers, contributing to the bone's structure.",
+        "Question": "What is the primary mineral phase of bone composed of?",
+        "A": "Calcite",
+        "B": "Bioapatite",
+        "C": "Quartz",
+        "D": "Aragonite",
+        "Answer": "B",
+        "Source": "The mineral phase of bone is mainly composed of bioapatite, a biological derivative of hydroxyapatite (Ca5(PO4)3(OH)), which is aligned along with collagen fibers."
+    },
+    "Question_2": {
+        "Context": "Bioapatite in bone can have substitutions in its crystal structure, where the CO3 group can replace either the PO4 or OH sites, making the compositional analysis of bone challenging due to the presence of organic constituents.",
+        "Question": "In the bioapatite crystal structure, what can the CO3 group substitute for?",
+        "A": "Ca2+ ions",
+        "B": "Collagen fibers",
+        "C": "PO4 or OH sites",
+        "D": "Hydroxyproline",
+        "Answer": "C",
+        "Source": "Although previous studies have reported that the CO3 group can substitute either the PO4 or OH sites within the apatite crystal structure, it is difficult to precisely measure the amount of C and O composing bioapatite due to the organic constituents of bone such as the aforementioned collagen fibers, bone-forming proteins, lipids, and other biomacromolecules."
+    },
+    "Question_3": {
+        "Context": "Correlative light and electron microscopy (CLEM) is a technique that allows for the observation of samples from micro- to nanometer scales, which is essential for studying the complex hierarchical structures of bone.",
+        "Question": "What does CLEM allow researchers to observe in bone studies?",
+        "A": "Molecular interactions",
+        "B": "Genetic material",
+        "C": "Hierarchical structures from micro- to nanometer scales",
+        "D": "Cellular metabolism",
+        "Answer": "C",
+        "Source": "Additionally, as the arrangement of bioapatite and collagen produces complex hierarchical structures leading to specific tissues such as woven or lamellar bone, comprehensive studies on bone including composition analysis usually require gradual observation from micro- to nanometer scales via correlative light and electron microscopy (CLEM)."
+    },
+    "Question_4": {
+        "Context": "Scanning electron microscopy (SEM) can be enhanced with a scanning transmission electron microscopy (STEM) detector, known as STEM-in-SEM, to produce high contrast images for materials composed of light elements.",
+        "Question": "What advantage does STEM-in-SEM provide in electron microscopy?",
+        "A": "Increased magnification for heavy elements",
+        "B": "High contrast images for materials composed of light elements",
+        "C": "Reduced need for sample preparation",
+        "D": "Elimination of electron beam damage",
+        "Answer": "B",
+        "Source": "As a SEM instrument equipped with a STEM detector (referred to as STEM-in-SEM) uses lower accelerating voltages; usually below 30 kV, it has the advantage of producing high contrast images for materials composed of light elements compared to TEM."
+    },
+    "Question_5": {
+        "Context": "Energy-dispersive spectroscopy (EDS) is a technique used in conjunction with electron microscopy to analyze the chemical composition of samples by detecting X-rays emitted from the sample surface.",
+        "Question": "What is the purpose of using energy-dispersive spectroscopy (EDS) in electron microscopy?",
+        "A": "To measure the sample's electrical conductivity",
+        "B": "To detect X-rays emitted from the sample surface for chemical analysis",
+        "C": "To visualize the sample's topography",
+        "D": "To determine the crystalline structure of the sample",
+        "Answer": "B",
+        "Source": "In addition, since flexible changes in accelerating voltages are easily performed in STEM-in-SEM, it is suitable to find optimal analytical conditions for chemical analysis utilizing the energy-dispersive spectroscopy (EDS) system, based on the properties of the specific samples that are being investigated."
+    },
+    "Question_6": {
+        "Context": "In the study of bone chemistry, the use of reference materials such as synthetic apatite and precipitated calcium carbonate is crucial for comparative chemical analysis.",
+        "Question": "Why are reference materials like synthetic apatite and precipitated calcium carbonate used in bone chemistry analysis?",
+        "A": "To provide a standard for comparison in chemical analysis",
+        "B": "To increase the pH level during the analysis",
+        "C": "To act as a catalyst in chemical reactions",
+        "D": "To stabilize the electron beam in the microscope",
+        "Answer": "A",
+        "Source": "By utilizing STEM-in-SEM EDS analysis, we have carried out comparative chemical analysis on seven UTS specimens of SD rats with two reference materials, synthetic apatite ((Ca5(PO4)3(OH)) and precipitated calcium carbonate (CaCO3), all within the same analytical conditions."
+    },
+    "Question_7": {
+        "Context": "Ultra-thin-sections (UTS) are used in microscopy to allow for the observation of fine details within a sample, such as the transverse cross section of bone.",
+        "Question": "What is the purpose of preparing ultra-thin-sections (UTS) in microscopy?",
+        "A": "To enhance the color contrast of the sample",
+        "B": "To observe the transverse cross section of the sample",
+        "C": "To increase the sample's resistance to electron beam damage",
+        "D": "To prevent the sample from drying out during observation",
+        "Answer": "B",
+        "Source": "For performing CLEM, ultra-thin-sections (UTS) prepared from the femoral bones of 1- to 16-week old of Sprague-Dawley (SD) rats provided light and electron micrographs that can be correlated based on the regions of interest (ROIs)."
+    },
+    "Question_8": {
+        "Context": "Reflective light microscopy (RLM) is a technique that can be used to enhance the contrast of ultra-thin-sections by exploiting the interference colors generated by the sample.",
+        "Question": "How does reflective light microscopy (RLM) enhance the contrast of ultra-thin-sections?",
+        "A": "By using polarized light",
+        "B": "By exploiting interference colors",
+        "C": "By staining the sample with dyes",
+        "D": "By increasing the light intensity",
+        "Answer": "B",
+        "Source": "In the case of UTS specimens as shown in Fig. 2A, RLM effectively expressed the interference color by path differences occurring from the thin specimen, which resulted in micrographs with higher contrasts compared to other LM imaging techniques such as phase-contrast microscopy."
+    },
+    "Question_9": {
+        "Context": "The Monte Carlo simulation is a computational technique used to predict the interaction volume of electrons within a sample during electron microscopy, which is important for determining the optimal conditions for EDS analysis.",
+        "Question": "What is the purpose of using the Monte Carlo simulation in the context of electron microscopy?",
+        "A": "To predict the interaction volume of electrons within the sample",
+        "B": "To simulate the crystallographic structure of the sample",
+        "C": "To calculate the sample's magnetic properties",
+        "D": "To determine the thermal stability of the sample under the electron beam",
+        "Answer": "A",
+        "Source": "Considering the interaction volumes inside collagen and apatite in 100 nm thickness at 5 kV, 15 kV, and 30 kV by the Monte Carlo simulations, a previous study mentioned that X-ray generation inside the thin specimens may not be consistent by the degree of mineralization and/or bone development because the interaction volumes of collagen and apatite in 5 kV-simulation has the largest difference."
+    },
+    "Question_10": {
+        "Context": "In bone analysis, the detection of carbon using energy-dispersive spectroscopy (EDS) can be influenced by background signals, which must be identified to ensure accurate measurement of carbon in the specimen.",
+        "Question": "Why is it important to identify background carbon signals when using EDS for carbon analysis in bone?",
+        "A": "To calibrate the EDS detector",
+        "B": "To enhance the resolution of carbon peaks",
+        "C": "To correct for potential contamination in the sample",
+        "D": "To ensure accurate measurement of carbon in the specimen",
+        "Answer": "D",
+        "Source": "When analyzing the amount of carbon using EDS analysis, it is crucial to identify the source of background carbon signals. In our study, we identified the sources of carbon as hydrocarbons accumulated on the surface due to electron beam irradiation and the carbon film supporting the sample section."
+    }
+}

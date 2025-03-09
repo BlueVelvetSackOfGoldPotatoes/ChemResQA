@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of diffusion-controlled growth of precipitates, Fick's second law can be applied to describe the diffusion process.",
+        "Question": "What law is used to describe the quasi-stationary regime of a multicomponent ellipsoidal precipitate growth with constant eccentricities?",
+        "A": "Fick's first law",
+        "B": "Fick's second law",
+        "C": "Gibbs-Thomson effect",
+        "D": "Stefan condition",
+        "Answer": "B",
+        "Source": "An exact analytical solution of the Fick\u2019s second law was developed and applied to the mixed-mode growth of a multicomponent ellipsoidal precipitate growing with constant eccentricities in the quasi-stationary regime."
+    },
+    "Question_2": {
+        "Context": "The growth of precipitates in a supersaturated matrix is a fundamental problem in metallurgy, where the diffusional growth is often described by analytical solutions.",
+        "Question": "Which condition is typically assumed to obtain an analytical solution for the growth of multicomponent precipitates?",
+        "A": "Local equilibrium at the interface",
+        "B": "Constant temperature and pressure",
+        "C": "Infinite interfacial mobility",
+        "D": "Constant coefficients of diffusion",
+        "Answer": "A",
+        "Source": "The reason why it is difficult to obtain a closed analytical solution for multicomponent precipitates when one assumes local equilibrium at the interface is because there are too many constraints at the interface."
+    },
+    "Question_3": {
+        "Context": "In the study of multicomponent diffusion, the concept of tie-lines is used to describe the relationship between components in a phase diagram.",
+        "Question": "What is the role of tie-lines in the computational scheme used to solve the set of equations for multicomponent growth of precipitates?",
+        "A": "To determine the independent solute concentration at the interface",
+        "B": "To calculate the operative solute partitioning",
+        "C": "To establish the equilibrium matrix molar fraction",
+        "D": "To set the coefficients of diffusion for the solutes",
+        "Answer": "B",
+        "Source": "Their determination depends on the operative tie-line in the phase diagram, which evolves according to the solute diffusivity and the degree of advancement of the reaction."
+    },
+    "Question_4": {
+        "Context": "The mobility of an interface during the growth of a precipitate is an important factor that influences the growth velocity.",
+        "Question": "According to the text, what is the relationship between the interfacial mobility and the growth velocity of a precipitate?",
+        "A": "Directly proportional",
+        "B": "Inversely proportional",
+        "C": "Exponentially related",
+        "D": "Not related",
+        "Answer": "A",
+        "Source": "Choosing the longest dimension a1 (m) to characterize the growth velocity of the precipitate, one can write: da1/dt = M Vm (dF/dN), where M (m4 J\u22121 s\u22121) is the mobility of the interface and Vm (m3 mol\u22121) is the molar volume of the precipitate."
+    },
+    "Question_5": {
+        "Context": "The Gibbs-Thomson effect is a phenomenon that accounts for the influence of surface energy on the equilibrium of small particles.",
+        "Question": "What does the Gibbs-Thomson effect describe in the context of precipitate growth?",
+        "A": "The increase in surface free energy with the volume of the precipitate",
+        "B": "The decrease in chemical potential with the size of the precipitate",
+        "C": "The relationship between diffusion coefficients and precipitate size",
+        "D": "The impact of temperature on the interfacial mobility",
+        "Answer": "A",
+        "Source": "The term containing \u03b33 accounts for the increase in surface free energy when the volume of the precipitate increases. This is known as the Gibbs-Thomson effect."
+    },
+    "Question_6": {
+        "Context": "In the context of precipitate growth, the Stefan condition is a boundary condition related to mass conservation across the interface.",
+        "Question": "What does the Stefan condition ensure in the growth of precipitates?",
+        "A": "The velocity of the boundary is equal to the velocity imposed by the flux of atoms",
+        "B": "The concentration of solute at the interface is constant",
+        "C": "The temperature at the interface remains stable",
+        "D": "The precipitate maintains a spherical shape",
+        "Answer": "A",
+        "Source": "The first one is the Stefan condition, which ensures that the velocity of the boundary is equal to the velocity imposed by the flux of atoms coming from the matrix."
+    },
+    "Question_7": {
+        "Context": "The driving force for boundary migration is an important concept in the study of precipitate growth.",
+        "Question": "What is the driving force for boundary migration proportional to?",
+        "A": "The molar volume of the precipitate",
+        "B": "The difference in chemical potential across the interface",
+        "C": "The surface energy of the precipitate",
+        "D": "The coefficient of diffusion",
+        "Answer": "B",
+        "Source": "dF*/dN = \u03a3 (ci \u03b2 (\u03bc\u03b1 i - \u03bc\u03b2 i)), where ci \u03b2 is the molar fraction of element i in the precipitate and \u03bc\u03c6 i is the chemical potential of element i in phase \u03c6 at the interface."
+    },
+    "Question_8": {
+        "Context": "The activation energy for the migration of an interface is a thermodynamic quantity that influences the interfacial mobility.",
+        "Question": "What does the activation energy for the migration of an interface represent?",
+        "A": "The energy required to initiate precipitate growth",
+        "B": "The energy barrier for solute atoms to diffuse through the matrix",
+        "C": "The energy needed to move the interface",
+        "D": "The total free energy change during precipitate growth",
+        "Answer": "C",
+        "Source": "where Ea (J mol\u22121) is the activation energy for the migration of the interface and \u03a9 (m4 mol\u22121 s\u22121) is a pre-exponential factor."
+    },
+    "Question_9": {
+        "Context": "In a multicomponent system, the solute concentration at the interface during precipitate growth can deviate from equilibrium values.",
+        "Question": "What does the solute concentration at the interface of a growing precipitate indicate in a multicomponent system?",
+        "A": "The rate of nucleation",
+        "B": "The degree of supersaturation",
+        "C": "The deviation from equilibrium values",
+        "D": "The activation energy for diffusion",
+        "Answer": "C",
+        "Source": "In a multicomponent system, this condition means that the sum of each driving force will be zero, though the interfacial concentration of each species will not be equal to the full equilibrium concentration."
+    },
+    "Question_10": {
+        "Context": "The coefficient of diffusion is a material property that describes how fast a solute element diffuses through a matrix.",
+        "Question": "What role does the coefficient of diffusion play in the growth of a multicomponent precipitate?",
+        "A": "It determines the shape of the precipitate",
+        "B": "It influences the rate at which the precipitate grows",
+        "C": "It sets the equilibrium concentrations of solutes",
+        "D": "It defines the interfacial mobility",
+        "Answer": "B",
+        "Source": "The offset obtained between the stabilized concentration and the equilibrium concentration comes from the fact that the quasi stationary growth regime is not equivalent to the full equilibrium situation."
+    }
+}

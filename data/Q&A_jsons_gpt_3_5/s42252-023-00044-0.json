@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effect of heat treatment on graphene thin films and CF/PEEK substrates for reducing voids in consolidated composites. The research focused on the characterization of graphene thin films before and after heat treatment.",
+        "Question": "What was the impact of heat treatment on the roughness of graphene thin films?",
+        "A": "Roughness decreased",
+        "B": "Roughness remained the same",
+        "C": "Roughness increased",
+        "D": "Roughness varied unpredictably",
+        "Answer": "C",
+        "Source": "After heat treatment, the roughness of the graphene thin films increased from 1.99 \u03bcm to 2.52 \u03bcm, indicating an increase in roughness."
+    },
+    "Question_2": {
+        "Context": "The study examined the wettability properties of graphene thin films before and after heat treatment.",
+        "Question": "How did the wettability of graphene thin films change after heat treatment?",
+        "A": "Wettability decreased",
+        "B": "Wettability remained the same",
+        "C": "Wettability increased",
+        "D": "Wettability varied unpredictably",
+        "Answer": "C",
+        "Source": "The wettability of the graphene thin films increased from approximately 11\u00b0 to 82\u00b0 after heat treatment, indicating a substantial increase in wettability."
+    },
+    "Question_3": {
+        "Context": "The study utilized Raman spectroscopy to characterize the graphene quality of the consolidated interlayer.",
+        "Question": "What was the number of graphene layers identified in the consolidated interlayer?",
+        "A": "1-2 layers",
+        "B": "3-4 layers",
+        "C": "5-6 layers",
+        "D": "7-8 layers",
+        "Answer": "B",
+        "Source": "The Raman spectroscopy results indicated that the graphene interlayer was characterized as 3\u20134 layered graphene after consolidation."
+    },
+    "Question_4": {
+        "Context": "The study conducted C-AFM measurements to analyze the conductive networks in the interlaminar region.",
+        "Question": "What was the observed trend in conductive networks after heat treatment?",
+        "A": "Decreased concentration",
+        "B": "No change in concentration",
+        "C": "Increased concentration",
+        "D": "Unpredictable variation",
+        "Answer": "C",
+        "Source": "The C-AFM measurements showed a higher concentration of conductive networks in the interlaminar region after heat treatment, indicating an increase in concentration."
+    },
+    "Question_5": {
+        "Context": "The study investigated the impact of heat treatment on the interlaminar shear strength and void content of the composites.",
+        "Question": "How did the void content change after heat treatment in the graphene enhanced samples?",
+        "A": "Increased",
+        "B": "Remained the same",
+        "C": "Decreased",
+        "D": "Varied unpredictably",
+        "Answer": "C",
+        "Source": "The void content in the graphene enhanced samples reduced from 5.1 vol% to 2.8 vol% after heat treatment, indicating a decrease in void content."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the shear strength of the composites with and without graphene enhancements.",
+        "Question": "What was the percentage increase in shear strength observed in the Control sample after heat treatment?",
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "100%",
+        "Answer": "A",
+        "Source": "After heat treatment, the Control sample exhibited a 149% increase in shear strength, indicating a 25% increase."
+    },
+    "Question_7": {
+        "Context": "The study utilized micro-computed tomography to visualize the microstructure and void distribution in the samples.",
+        "Question": "What was the fiber volume fraction (fvf) measured in the GL sample?",
+        "A": "0.56",
+        "B": "0.59",
+        "C": "0.62",
+        "D": "0.65",
+        "Answer": "B",
+        "Source": "The segmented image of the GL sample showed a fiber volume fraction of approximately 0.59."
+    },
+    "Question_8": {
+        "Context": "The study examined the impact of heat treatment on the void distribution within the interlaminar regions.",
+        "Question": "What was the trend observed in void distribution in the Control (HT) sample?",
+        "A": "Voids concentrated within the plies",
+        "B": "Voids concentrated within the interlaminar regions",
+        "C": "Uniform distribution of voids",
+        "D": "No voids observed",
+        "Answer": "B",
+        "Source": "The Control (HT) sample had the lowest number of voids in the volume compared to other samples, with voids concentrated within the interlaminar regions."
+    },
+    "Question_9": {
+        "Context": "The study investigated the impact of heat treatment on the removal of excess surfactant and moisture in the thin film.",
+        "Question": "What was the observed impact of heat treatment on the removal of excess surfactant?",
+        "A": "Complete removal",
+        "B": "Partial removal",
+        "C": "No removal",
+        "D": "Increased surfactant presence",
+        "Answer": "B",
+        "Source": "The significant weight reduction in the GTF (HT) sample compared to the marginal weight reduction of the CF/PEEK substrate suggests partial removal of excess surfactant with heat treatment."
+    },
+    "Question_10": {
+        "Context": "The study focused on the characterization of graphene thin films before and after heat treatment.",
+        "Question": "What was the observed impact of heat treatment on the chemical quality of the graphene thin films?",
+        "A": "No change in quality",
+        "B": "Decreased quality",
+        "C": "Increased quality",
+        "D": "Quality varied unpredictably",
+        "Answer": "C",
+        "Source": "The Raman spectroscopy results indicated that the graphene quality remained suitable for electrical enhancement after heat treatment, suggesting an increase in quality."
+    }
+}

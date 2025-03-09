@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Understanding the browning process in cigar tobacco leaves (CTLs) after harvest.",
+        "Question": "Which enzyme is responsible for the oxidation of polyphenols to quinones in CTLs?",
+        "A": "Polyphenol oxidase (PPO)",
+        "B": "Peroxidase (POD)",
+        "C": "Lipoxygenase (LOX)",
+        "D": "Phenylalanine ammonia lyase (PAL)",
+        "Answer": "A",
+        "Source": "Enzymatic browning is the oxidation of polyphenols to quinones by the action of polyphenol oxidase (PPO) and peroxidase (POD), followed by the formation of brown pigments by polymerization of these quinones and their derivatives."
+    },
+    "Question_2": {
+        "Context": "Investigating the metabolic pathways involved in CTL browning.",
+        "Question": "Which metabolic pathway has an important effect on enzymatic browning in CTLs?",
+        "A": "Glycolysis pathway",
+        "B": "Krebs cycle",
+        "C": "Phenylpropanoid biosynthesis",
+        "D": "Gluconeogenesis",
+        "Answer": "C",
+        "Source": "The metabolic pathways with important effects on enzymatic browning were phenylpropanoid biosynthesis, flavonoid biosynthesis, isoquinoline alkaloid biosynthesis, phenylalanine metabolism, and linoleic acid metabolism."
+    },
+    "Question_3": {
+        "Context": "Analyzing the changes in chemical composition during the air-curing process of CTLs.",
+        "Question": "Which compound content decreased rapidly during the yellowing phase of CTLs?",
+        "A": "Polyphenols",
+        "B": "Polyacids",
+        "C": "Carbohydrates",
+        "D": "Chlorophyll",
+        "Answer": "D",
+        "Source": "All compounds except polyacids and ions were rapidly degraded during the yellowing phase, especially the chlorophyll content."
+    },
+    "Question_4": {
+        "Context": "Identifying the major amino acids involved in the browning reaction of CTLs.",
+        "Question": "Which amino acid was identified as one of the major amino acids involved in the browning reaction of CTLs?",
+        "A": "Glutamate",
+        "B": "Aspartic acid",
+        "C": "Methionine",
+        "D": "Lysine",
+        "Answer": "A",
+        "Source": "Hierarchical cluster analysis discovered glutamate, serine, threonine, ornithine, and arginine as the major amino acids involved in the browning reaction."
+    },
+    "Question_5": {
+        "Context": "Exploring the physiological changes in CTLs during the air-curing process.",
+        "Question": "At approximately which day did the browning reaction reach its peak intensity in CTLs?",
+        "A": "6 d",
+        "B": "12 d",
+        "C": "16 d",
+        "D": "20 d",
+        "Answer": "B",
+        "Source": "The browning reaction was most intense at approximately 12 d when polyphenol oxidase and peroxidase activities reached their maximum."
+    },
+    "Question_6": {
+        "Context": "Investigating the chemical composition changes in CTLs during air-curing.",
+        "Question": "Which compound content was relatively stable during the air-curing process of CTLs?",
+        "A": "Polyphenols",
+        "B": "Carbohydrates",
+        "C": "Polyacids",
+        "D": "Chlorophyll",
+        "Answer": "C",
+        "Source": "The polyacids were relatively stable, with low contents of malonic acid and succinic acid."
+    },
+    "Question_7": {
+        "Context": "Analyzing the metabolites discovered in CTLs during the air-curing process.",
+        "Question": "Which metabolite was mainly enriched in fresh tobacco leaves and the yellowing stage?",
+        "A": "Cyanidin",
+        "B": "Rutin",
+        "C": "Caffeoylquinic acid",
+        "D": "Kaempferol",
+        "Answer": "A",
+        "Source": "Cyanidin were mainly enriched in fresh tobacco leaves and the yellowing stage."
+    },
+    "Question_8": {
+        "Context": "Understanding the impact of amino acids on the browning reaction of CTLs.",
+        "Question": "Which amino acid was mainly enriched in fresh tobacco leaves and then degraded through amino acid metabolic pathways during air-curing?",
+        "A": "Proline",
+        "B": "Glutamic acid",
+        "C": "Serine",
+        "D": "Arginine",
+        "Answer": "B",
+        "Source": "Ornithine, citrulline, serine, and glutamic acid were mainly enriched in fresh tobacco leaves and then degraded through amino acid metabolic pathways."
+    },
+    "Question_9": {
+        "Context": "Investigating the role of organic acids in regulating browning in CTLs.",
+        "Question": "Which organic acid mainly regulated the browning reaction in the middle and late air-curing periods of CTLs?",
+        "A": "Citric acid",
+        "B": "Isocitric acid",
+        "C": "Fumaric acid",
+        "D": "Malic acid",
+        "Answer": "A",
+        "Source": "Lycopene, citric acid, fumaric acid, and 2-oxoglutaric acid mainly regulated the browning reaction in the middle and late air-curing periods."
+    },
+    "Question_10": {
+        "Context": "Exploring the impact of metabolic pathways on CTL browning.",
+        "Question": "Which metabolic pathway was mainly enriched in the browning process of CTLs?",
+        "A": "Glycolysis pathway",
+        "B": "Krebs cycle",
+        "C": "Phenylpropanoid biosynthesis",
+        "D": "Gluconeogenesis",
+        "Answer": "C",
+        "Source": "The important pathways affecting DAMs in the air-curing process were mainly phenylpropanoid biosynthesis, alanine, aspartate, and glutamate metabolism, tryptophan metabolism, flavonoid biosynthesis, isoquinoline alkaloid biosynthesis, phenylalanine metabolism, and linoleic acid metabolism."
+    }
+}

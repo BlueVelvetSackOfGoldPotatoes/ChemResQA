@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Silicon bulk micromachining is a process used in the creation of microelectromechanical systems, involving the formation of microstructures such as cantilevers and cavities.",
+        "Question": "What is the role of wet anisotropic etching in silicon bulk micromachining?",
+        "A": "To increase the electrical conductivity of silicon",
+        "B": "To create freestanding and fixed microstructures",
+        "C": "To decrease the melting point of silicon",
+        "D": "To enhance the optical properties of silicon",
+        "Answer": "B",
+        "Source": "Silicon bulk micromachining is extensively employed method in microelectromechanical systems (MEMS) for the formation of freestanding (e.g., cantilevers) and fixed (e.g., cavities) microstructures."
+    },
+    "Question_2": {
+        "Context": "In the context of silicon micromachining, etchants can be modified to alter the etching characteristics such as etch rate and undercutting.",
+        "Question": "What effect does the addition of hydroxylamine (NH2OH) have on the etching process of silicon?",
+        "A": "It decreases the etch rate",
+        "B": "It has no effect on the etch rate",
+        "C": "It significantly enhances the etch rate",
+        "D": "It changes the color of the silicon wafer",
+        "Answer": "C",
+        "Source": "The incorporation of NH2OH in NaOH significantly enhances the etch rate and the undercutting at the mask edges that do not consist of {111} planes."
+    },
+    "Question_3": {
+        "Context": "In silicon micromachining, the orientation of the silicon wafer is an important factor that influences the etching process.",
+        "Question": "Which crystallographic orientation of silicon is known to exhibit the slowest etch rate in alkaline solutions?",
+        "A": "Si{100}",
+        "B": "Si{110}",
+        "C": "Si{111}",
+        "D": "Si{101}",
+        "Answer": "C",
+        "Source": "In all kinds of alkaline solutions, Si{111} planes are the slowest etch rate planes."
+    },
+    "Question_4": {
+        "Context": "The etching characteristics of silicon can be influenced by the age of the etchant solution used in the process.",
+        "Question": "How does the age of a modified NaOH etchant solution affect the etch rate of silicon?",
+        "A": "The etch rate increases with the age of the etchant",
+        "B": "The etch rate remains constant regardless of the etchant's age",
+        "C": "The etch rate fluctuates unpredictably with the etchant's age",
+        "D": "The etch rate reduces significantly with the age of the etchant",
+        "Answer": "D",
+        "Source": "The etch rate and undercutting reduce significantly with the age of the modified NaOH."
+    },
+    "Question_5": {
+        "Context": "Surface roughness is a critical parameter in the etching of silicon, as it can affect the quality and functionality of the microstructures produced.",
+        "Question": "What is the impact of adding NH2OH to NaOH on the etched surface roughness of silicon?",
+        "A": "It increases the surface roughness",
+        "B": "It decreases the surface roughness",
+        "C": "It turns the surface black",
+        "D": "It has no impact on the surface roughness",
+        "Answer": "B",
+        "Source": "The surface roughness is decreased when NH2OH is added to NaOH."
+    },
+    "Question_6": {
+        "Context": "Undercutting in silicon etching is the lateral etching beneath the masking layer, which can be desirable or undesirable depending on the application.",
+        "Question": "What is the desired effect of undercutting in the fabrication of freestanding microstructures on silicon wafers?",
+        "A": "To increase the bonding strength between layers",
+        "B": "To reduce the release time of the microstructures",
+        "C": "To enhance the thermal stability of the microstructures",
+        "D": "To change the color of the microstructures",
+        "Answer": "B",
+        "Source": "To fabricate freestanding structure (e.g., microcantilever) on Si{111} wafer, high undercutting at < 112 > mask edges is desirable to reduce the release time."
+    },
+    "Question_7": {
+        "Context": "The etching characteristics of silicon can be altered by the addition of certain compounds to the etchant solution.",
+        "Question": "Which compound, when added to NaOH, increases the undercutting rate at the mask edges aligned along < 112 > direction on Si{111}?",
+        "A": "Hydrochloric acid (HCl)",
+        "B": "Hydroxylamine (NH2OH)",
+        "C": "Acetic acid (CH3COOH)",
+        "D": "Sulfuric acid (H2SO4)",
+        "Answer": "B",
+        "Source": "The incorporation of NH2OH in NaOH significantly enhances the etch rate and the undercutting at the mask edges that do not consist of {111} planes."
+    },
+    "Question_8": {
+        "Context": "The etching characteristics of silicon are crucial for the precise fabrication of microstructures and can be influenced by various factors.",
+        "Question": "What is the effect of etchant aging on the undercutting rate during silicon etching?",
+        "A": "It increases the undercutting rate",
+        "B": "It decreases the undercutting rate",
+        "C": "It has no effect on the undercutting rate",
+        "D": "It causes the undercutting rate to oscillate",
+        "Answer": "B",
+        "Source": "The etch rate and undercutting reduce significantly with the age of the modified NaOH."
+    },
+    "Question_9": {
+        "Context": "In the process of silicon etching, the addition of certain additives to the etchant can modify the etching characteristics, such as etch rate and surface roughness.",
+        "Question": "What is the speculated reason for the increase in etch rate when NH2OH is added to NaOH solution?",
+        "A": "Decrease in the concentration of NaOH",
+        "B": "Increase in the concentration of reactive species",
+        "C": "Reduction in the temperature of the solution",
+        "D": "Change in the color of the etchant solution",
+        "Answer": "B",
+        "Source": "These extra species might be produced from the decomposition of NH2OH as intermediate and final products in the presence of alkaline solutions."
+    },
+    "Question_10": {
+        "Context": "The morphology of the etched surface in silicon etching processes can be an indicator of the quality and uniformity of the etching.",
+        "Question": "What primarily causes non-uniform removal of silicon atoms from the surface during the etching process, leading to surface roughness?",
+        "A": "The micro-masking effect",
+        "B": "The color of the etchant solution",
+        "C": "The age of the silicon wafer",
+        "D": "The brand of the etching equipment",
+        "Answer": "A",
+        "Source": "Surface contaminations and hydrogen bubbles predominantly inhibit surface reactions and therefore act as micro-mask during etching process."
+    }
+}

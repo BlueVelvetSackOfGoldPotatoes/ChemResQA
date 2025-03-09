@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In nuclear medicine, theranostic matched pairs refer to radionuclides that can be used for both diagnostic and therapeutic purposes. These pairs usually consist of isotopes that can be used for imaging (diagnosis) and treatment (therapy) of diseases such as cancer.",
+        "Question": "Which of the following is a true theranostic matched pair of radionuclides?",
+        "A": "18F/19F",
+        "B": "61Cu/67Cu",
+        "C": "12C/14C",
+        "D": "3H/4He",
+        "Answer": "B",
+        "Source": "Only a couple of these \u03b2+-emitters have a therapeutic counterpart radionuclide forming a true theranostic matched pair. Such is the case of 86Y/90Y, 43/44Sc/47Sc, 152Tb/149/161Tb and 61/64Cu/67Cu matched radionuclides."
+    },
+    "Question_2": {
+        "Context": "Positron Emission Tomography (PET) is a nuclear medicine functional imaging technique that is used to observe metabolic processes in the body. The technique uses radionuclides that emit positrons, which interact with electrons in the body to produce gamma rays that can be detected by the PET scanner.",
+        "Question": "What is the primary advantage of using radionuclides with different half-lives in PET imaging?",
+        "A": "To increase the resolution of the PET scan",
+        "B": "To reduce the cost of the imaging process",
+        "C": "To better match the tracer biological and radionuclide physical half-lives",
+        "D": "To allow for simultaneous imaging of multiple organs",
+        "Answer": "C",
+        "Source": "In fact, the alternative of two imaging radionuclides with different half-lives is a clear advantage over other theranostic pairs, since it offers a better matching for the tracer biological and radionuclide physical half-lives."
+    },
+    "Question_3": {
+        "Context": "In the context of PET imaging, radionuclides can be produced through various nuclear reactions. One such reaction is the proton irradiation of a target material, which can lead to the production of a desired radionuclide.",
+        "Question": "Which nuclear reaction is used to produce the radionuclide 61Cu for PET imaging?",
+        "A": "62Ni(d,n)61Cu",
+        "B": "62Ni(p,n)61Cu",
+        "C": "62Ni(p,2n)61Cu",
+        "D": "64Zn(p,\u03b1)61Cu",
+        "Answer": "C",
+        "Source": "Proton irradiation of enriched 62Ni electrodeposited targets with a compact cyclotron produced the desired radionuclide via the 62Ni(p,2n)61Cu nuclear reaction."
+    },
+    "Question_4": {
+        "Context": "Radionuclides used in PET imaging can have different emissions, which affect the quality of the PET scan. High \u03b2+ energy emission can negatively impact the quality of the PET scan.",
+        "Question": "Which radionuclides are known to have high \u03b2+ energy emission that impacts negatively the quality of the PET scan?",
+        "A": "60Cu and 62Cu",
+        "B": "64Cu and 67Cu",
+        "C": "43Sc and 44Sc",
+        "D": "55Co and 66Ga",
+        "Answer": "A",
+        "Source": "On the one hand, 60Cu and 62Cu have a high \u03b2+ energy emission that impacts negatively the quality of the PET scan."
+    },
+    "Question_5": {
+        "Context": "The half-life of a radionuclide is the time required for half of the radioactive atoms in a sample to decay. Radionuclides with shorter half-lives are often used for imaging small molecules and low-molecular weight molecules with fast pharmacokinetics.",
+        "Question": "What is the half-life of the radionuclide 61Cu?",
+        "A": "3.34 hours",
+        "B": "12.7 hours",
+        "C": "3.08 hours",
+        "D": "17.53 hours",
+        "Answer": "A",
+        "Source": "Some radionuclides from this group are 43/44Sc (half-lives 3.89 h and 3.97 h), 45Ti (3.08 h), 61Cu (3.34 h)."
+    },
+    "Question_6": {
+        "Context": "Radionuclides can be produced using cyclotrons through various nuclear reactions. The choice of target material and the type of irradiation can influence the production of the desired radionuclide.",
+        "Question": "Why might deuteron beams not be featured in most compact cyclotrons for radionuclide production?",
+        "A": "Deuteron beams are too expensive to produce",
+        "B": "Deuteron beams cannot produce high-quality radionuclides",
+        "C": "Deuteron beams are not as efficient as proton beams",
+        "D": "Deuteron beams are not available in most compact cyclotrons",
+        "Answer": "D",
+        "Source": "However, deuteron beams are not featured in most compact cyclotrons, which may be seen as a drawback."
+    },
+    "Question_7": {
+        "Context": "The production of radionuclides for PET imaging often involves the irradiation of enriched target materials. The cost and abundance of the target material can affect the feasibility of the production process.",
+        "Question": "Why is the 62Ni target material considered more affordable for the production of 61Cu compared to 61Ni?",
+        "A": "62Ni has a higher natural abundance than 61Ni",
+        "B": "62Ni has a lower natural abundance but is easier to enrich",
+        "C": "62Ni targets can be reused more times than 61Ni targets",
+        "D": "62Ni has a higher cross section for the desired nuclear reaction",
+        "Answer": "A",
+        "Source": "In this case the target material results cheaper due to the higher 62Ni abundance over 61Ni."
+    },
+    "Question_8": {
+        "Context": "The quality of a PET scan can be influenced by the physical properties of the radionuclide used, including its half-life and the energy of its emissions.",
+        "Question": "What is the main advantage of using 61Cu over 64Cu for tracking small proteins in PET imaging?",
+        "A": "61Cu has a longer half-life",
+        "B": "61Cu has a lower \u03b2+ particle emission yield",
+        "C": "61Cu has a higher \u03b2+ particle emission yield and higher \u03b2+ energy",
+        "D": "61Cu has a lower \u03b2+ energy",
+        "Answer": "C",
+        "Source": "In fact, 61Cu is an interesting alternative to 64Cu, with a shorter half-life and higher \u03b2+ particle emission yield, but also a higher \u03b2+ energy."
+    },
+    "Question_9": {
+        "Context": "The radionuclidic purity (RNP) of a radiopharmaceutical is a measure of the proportion of the desired radionuclide present in a sample, compared to other radionuclide impurities.",
+        "Question": "What was the radionuclidic purity (RNP) of the produced 61Cu after the purification process?",
+        "A": "Over 95%",
+        "B": "Over 99.6%",
+        "C": "Over 90%",
+        "D": "Over 85%",
+        "Answer": "B",
+        "Source": "Following the radiochemical separation, quality assessment of this product [61Cu]CuCl2 solution proved radionuclidic purities (RNP) over 99.6%."
+    },
+    "Question_10": {
+        "Context": "The apparent molar activity (AMA) of a radiopharmaceutical is a measure of the radioactivity per amount of substance and is important for determining the dosage and quality of the radiopharmaceutical for clinical use.",
+        "Question": "What was the apparent molar activity (AMA) of the produced [61Cu]CuCl2 solution at the end of purification?",
+        "A": "260 GBq/\u00b5mol",
+        "B": "130 GBq/\u00b5mol",
+        "C": "550 GBq/\u00b5mol",
+        "D": "886 GBq/\u00b5mol",
+        "Answer": "A",
+        "Source": "Following the radiochemical separation, quality assessment of this product [61Cu]CuCl2 solution proved apparent molar activities (AMA) of 260 GBq/\u00b5mol with the 1,4,8,11-tetraazacyclotetradecane-1,4,8,11-tetraacetic acid (TETA) chelator, end of purification corrected."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Heavy metals can accumulate in soil, posing risks to agricultural product quality and human health. Cadmium (Cd) is one such heavy metal that can be harmful. The application of passivators can mitigate this problem by reducing the bioavailability of Cd in the soil.",
+        "Question": "What is the primary role of passivators in soils contaminated with heavy metals such as cadmium?",
+        "A": "To increase the bioavailability of cadmium",
+        "B": "To reduce the bioavailability of cadmium",
+        "C": "To enhance the uptake of cadmium by plants",
+        "D": "To have no effect on cadmium content",
+        "Answer": "B",
+        "Source": "At present, the application of passivators is a relatively efficient, quick, and economical means of mitigating the problem. Common passivation materials, such as phosphorite powder, humic acid, seafoam, biochar, red mud, and lime, reduce the effectiveness of Cd in inducing toxicity by chelating with the heavy metal Cd and forming biologically inactive precipitates."
+    },
+    "Question_2": {
+        "Context": "In the presence of heavy metals like cadmium, plants can experience oxidative stress, which can damage cellular components. Antioxidant enzymes such as superoxide dismutase (SOD), peroxidase (POD), and catalase (CAT) play a role in mitigating this stress by scavenging reactive oxygen species.",
+        "Question": "Which enzyme is responsible for catalyzing the disproportionation of superoxide anion radicals into hydrogen peroxide and oxygen?",
+        "A": "Peroxidase (POD)",
+        "B": "Catalase (CAT)",
+        "C": "Superoxide dismutase (SOD)",
+        "D": "Glutathione peroxidase",
+        "Answer": "C",
+        "Source": "The combined action of superoxide dismutase (SOD), peroxidase (POD), catalase (CAT), and the ascorbic acid\u2013glutathione (AsA\u2013GSH) cycle can scavenge excess reactive oxygen species and reduce the products of membrane peroxidation, thus decreasing the contents of malondialdehyde (MDA), hydrogen peroxide (H2O2), and superoxide anions."
+    },
+    "Question_3": {
+        "Context": "Cadmium contamination in soil can be assessed by measuring different forms of cadmium, such as the reducible, oxidizable, and residual states. These forms indicate the bioavailability and potential mobility of cadmium in the soil.",
+        "Question": "Which form of cadmium in the soil is most likely to be biologically inactive and least available for plant uptake?",
+        "A": "Weak acid extractable Cd",
+        "B": "Reducible Cd",
+        "C": "Oxidizable Cd",
+        "D": "Residual Cd",
+        "Answer": "D",
+        "Source": "After passivator application, the Cd content in the weak acid extraction state, i.e., the reducible Cd content, showed a tendency to decrease. The oxidizable Cd content and residual Cd content showed an increasing trend; however, the difference in oxidizable Cd content did not reach significance (P > 0.05) under any of the treatments compared to the CK treatment, but the T5 treatment significantly increased the residual Cd content by 82.61% (P < 0.05)."
+    },
+    "Question_4": {
+        "Context": "Plants have natural defense mechanisms to combat the stress caused by heavy metals. One such mechanism involves the production of osmotic substances like proline, which can help in osmotic adjustment and stress resistance.",
+        "Question": "What role does proline play in plants under heavy metal stress?",
+        "A": "It facilitates the uptake of heavy metals",
+        "B": "It acts as a signaling molecule for stress response",
+        "C": "It contributes to osmotic adjustment and stress resistance",
+        "D": "It inhibits the activity of antioxidant enzymes",
+        "Answer": "C",
+        "Source": "Increases in the levels of the osmoregulatory substances proline, soluble sugar, and soluble proteins can reduce the osmotic potential of cells and enhance their water retention ability, thereby protecting cells from damage and maintaining their normal metabolism."
+    },
+    "Question_5": {
+        "Context": "Cadmium stress in plants can lead to the production of malondialdehyde (MDA), a marker of lipid peroxidation and oxidative stress. The level of MDA can indicate the extent of damage to cell membranes.",
+        "Question": "What does an increased level of malondialdehyde (MDA) in plant tissues indicate?",
+        "A": "Enhanced nutrient absorption",
+        "B": "Increased photosynthetic activity",
+        "C": "Decreased oxidative stress",
+        "D": "Increased oxidative stress and membrane damage",
+        "Answer": "D",
+        "Source": "It has been shown that under Cd stress, excessive levels of oxygen radicals are formed in plants, causing oxidative stress reactions, damaging the plasma membrane system and biological macromolecules, and thus inhibiting plant growth."
+    },
+    "Question_6": {
+        "Context": "The ascorbic acid\u2013glutathione (AsA\u2013GSH) cycle is an important part of the plant's antioxidant defense system, which helps in detoxifying reactive oxygen species produced under stress conditions such as heavy metal exposure.",
+        "Question": "In the AsA\u2013GSH cycle, which substance acts as an electron donor to reduce reactive oxygen species?",
+        "A": "Malondialdehyde (MDA)",
+        "B": "Glutathione (GSH)",
+        "C": "Superoxide anion",
+        "D": "Hydrogen peroxide (H2O2)",
+        "Answer": "B",
+        "Source": "The AsA-GSH cycle is an important pathway for clearing ROS and an important defense mechanism against oxidative stress caused by heavy metals in plants."
+    },
+    "Question_7": {
+        "Context": "Biochar is a carbon-rich product obtained from the thermal decomposition of organic materials in an oxygen-limited environment. It is used as a soil amendment for various purposes, including the mitigation of heavy metal toxicity.",
+        "Question": "What is one of the primary benefits of applying biochar to soil contaminated with heavy metals?",
+        "A": "It increases the mobility of heavy metals",
+        "B": "It enhances the bioavailability of heavy metals for plant uptake",
+        "C": "It adsorbs heavy metals, reducing their bioavailability",
+        "D": "It acts as a fertilizer to boost plant growth",
+        "Answer": "C",
+        "Source": "Seafoam and biochar in the T5 treatment have high porosity and high specific surface area, which helps to adsorb heavy metals, and phosphorite powder can form insoluble phosphorite powder precipitates with heavy metals in the soil."
+    },
+    "Question_8": {
+        "Context": "Catalase (CAT) is an enzyme found in nearly all living organisms exposed to oxygen. It catalyzes the decomposition of hydrogen peroxide to water and oxygen, playing a critical role in protecting the cell from oxidative damage.",
+        "Question": "What is the primary function of catalase (CAT) in plants?",
+        "A": "To convert carbon dioxide into oxygen",
+        "B": "To decompose hydrogen peroxide into water and oxygen",
+        "C": "To synthesize chlorophyll",
+        "D": "To fix nitrogen from the atmosphere",
+        "Answer": "B",
+        "Source": "The resulting H2O2 is broken down into H2O and O2 by CAT, inhibiting the formation of highly reactive hydroxyl radicals, among toxic reactive substances."
+    },
+    "Question_9": {
+        "Context": "Phosphorite powder is a mineral-based substance that can be used as a passivator in soils contaminated with heavy metals. It interacts with heavy metals to reduce their bioavailability.",
+        "Question": "How does phosphorite powder function as a passivator in heavy metal-contaminated soils?",
+        "A": "By increasing the pH of the soil to precipitate heavy metals",
+        "B": "By providing essential nutrients to plants",
+        "C": "By forming insoluble precipitates with heavy metals",
+        "D": "By acting as a biofertilizer to enhance plant growth",
+        "Answer": "C",
+        "Source": "Seafoam and biochar in the T5 treatment have high porosity and high specific surface area, which helps to adsorb heavy metals, and phosphorite powder can form insoluble phosphorite powder precipitates with heavy metals in the soil."
+    },
+    "Question_10": {
+        "Context": "Humic acid is an organic compound that can be used as a soil conditioner. It has various benefits for soil health and can also influence the bioavailability of heavy metals.",
+        "Question": "What is one of the roles of humic acid when used in soils contaminated with heavy metals?",
+        "A": "It acts as a chelating agent, reducing the bioavailability of heavy metals",
+        "B": "It increases the leaching of heavy metals into groundwater",
+        "C": "It serves as a primary nutrient source for plants",
+        "D": "It directly removes heavy metals from the soil",
+        "Answer": "A",
+        "Source": "Common passivation materials, such as phosphorite powder, humic acid, seafoam, biochar, red mud, and lime, reduce the effectiveness of Cd in inducing toxicity by chelating with the heavy metal Cd and forming biologically inactive precipitates."
+    }
+}

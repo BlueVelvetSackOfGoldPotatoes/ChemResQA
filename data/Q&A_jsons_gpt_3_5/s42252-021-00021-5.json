@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the paper, a surface preparation method involving the atmospheric plasma process was discussed. ",
+        "Question": "What is the main advantage of using plasma treatment on high-performance polymers like PEEK?",
+        "A": "Increased surface roughness",
+        "B": "Decreased surface energy",
+        "C": "Enhanced surface wettability",
+        "D": "Improved adhesion properties",
+        "Answer": "D",
+        "Source": "Surface chemistry analysis has shown an increase in the oxygen content of the surface region, and increases the surface energy, O:C ratio and surface roughness."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the use of polyetherimide (PEI) as an interface material for hybrid welding.",
+        "Question": "Why is PEI generally preferred as an interfacial layer for thermoset composites?",
+        "A": "High resistance to aeronautical fluids",
+        "B": "Low cost compared to other materials",
+        "C": "Intrinsic miscibility with epoxy resin",
+        "D": "High thermal conductivity",
+        "Answer": "C",
+        "Source": "PEI is generally preferred due to its intrinsic miscibility with epoxy resin, which leads to high resulting adhesion properties."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the potential of polyetheretherketone (PEEK) and its different states as interlayer materials.",
+        "Question": "Which state of PEEK demonstrated favorable adhesion properties as an interlayer material?",
+        "A": "PEEK with increased crystallinity",
+        "B": "PEEK with decreased crystallinity",
+        "C": "PEEK A (amorphous state)",
+        "D": "PEEK SC (semicrystalline state)",
+        "Answer": "D",
+        "Source": "Both PEEK state materials can be used as interlayer with favorable adhesion properties."
+    },
+    "Question_4": {
+        "Context": "The paper mentions the challenges of thermal degradation during welding.",
+        "Question": "What is recommended to avoid thermal degradation during welding of high-performance materials like PEEK?",
+        "A": "Long heating times",
+        "B": "Ultrafast heat cycles",
+        "C": "High exposure temperatures",
+        "D": "Increased melting temperature",
+        "Answer": "B",
+        "Source": "To avoid thermal degradation, very short heating times are required. A heating time well under 1 s is recommended."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the use of different fusion-based joining technologies for welding hybrid composites.",
+        "Question": "Which method uses the Joule effect to heat up the interface up to the point of fusion?",
+        "A": "Resistance welding",
+        "B": "Induction welding",
+        "C": "Ultrasonic welding",
+        "D": "Infrared welding",
+        "Answer": "A",
+        "Source": "Resistance welding consists of placing an electrical resistance layer, made of metal or carbon fibers at the interface. The Joule effect is used to heat up the interface up to the point of fusion."
+    },
+    "Question_6": {
+        "Context": "The paper mentions the advantages of infrared welding for joining composites.",
+        "Question": "What is a key advantage of using infrared welding for joining composites?",
+        "A": "High ductility of the welded joint",
+        "B": "Low productivity rates",
+        "C": "Quick heating capability",
+        "D": "Limited automation",
+        "Answer": "C",
+        "Source": "Regarding the different solutions proposed to join materials by infrared (IR) welding processes, numerous advantages, such as an ability to quickly heat (typically approximately 20\u201325 s)."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the challenges of joining hybrid high-performance composites.",
+        "Question": "Which welding technology has barely been discussed and investigated for joining hybrid high-performance composites?",
+        "A": "Resistance welding",
+        "B": "Induction welding",
+        "C": "Ultrasonic welding",
+        "D": "Infrared welding",
+        "Answer": "D",
+        "Source": "To the best of our knowledge, IR welding has barely been discussed and investigated for joining hybrid high-performance composites."
+    },
+    "Question_8": {
+        "Context": "The paper mentions the use of different thermoplastic tougheners for increasing the toughness of thermoset composites.",
+        "Question": "Which toughener is typically a high glass temperature amorphous thermoplastic?",
+        "A": "Polysulfone (PSF)",
+        "B": "Polyethersulfone (PES)",
+        "C": "Polyetherimide (PEI)",
+        "D": "Polyetheretherketone (PEEK)",
+        "Answer": "C",
+        "Source": "The most popular tougheners are polysulfone (PSF), polyethersulfone (PES) and PEI, which are typically high glass temperature amorphous thermoplastics."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the surface preparation methods for PEEK.",
+        "Question": "Which method induces chemical structure changes in PEEK, leading to higher absorption values?",
+        "A": "Atmospheric plasma treatment",
+        "B": "Low pressure plasma treatment",
+        "C": "Laser treatment",
+        "D": "UV irradiation",
+        "Answer": "D",
+        "Source": "UV irradiation of PEEK induces chemical structure changes, corresponding to higher absorption values by Fourier transform infrared (FTIR) analysis."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the use of different fusion-based joining technologies for welding hybrid composites.",
+        "Question": "Which method generates heat through high-frequency and low-amplitude vibrations?",
+        "A": "Resistance welding",
+        "B": "Induction welding",
+        "C": "Ultrasonic welding",
+        "D": "Infrared welding",
+        "Answer": "C",
+        "Source": "Ultrasonic (US) welding is well-known for polymer joining applications, but it is still emerging for structural composite material joining. Heat is generated through high-frequency and low-amplitude vibrations."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on analyzing the behavior of hoop stress and stress concentration factors in thick-walled cylinders with radial cross bores under internal pressure. The aim was to determine the impact of cross bore size and thickness ratio on stress levels.",
+        "Question": "What was the aim of the study mentioned in the text?",
+        "A": "To determine the behavior of the hoop stress in thin-walled cylinders.",
+        "B": "To analyze the impact of temperature on stress concentration factors.",
+        "C": "To establish the optimal Stress Concentration Factors (SCF) in thick-walled cylinders with radial cross bores.",
+        "D": "To investigate the effect of external pressure on stress distribution in cylinders.",
+        "Answer": "C",
+        "Source": "The aim of this study was to determine the behaviour of the hoop stress as well as to establish the optimal Stress Concentration Factors (SCF)."
+    },
+    "Question_2": {
+        "Context": "The study involved cylinders with thickness ratios ranging from 3.0 down to 1.4 and cross bore size ratios ranging from 0.1 to 1.0.",
+        "Question": "What were the ranges of thickness ratios and cross bore size ratios studied in the experiment?",
+        "A": "Thickness ratios from 2.0 to 3.5 and cross bore size ratios from 0.5 to 1.5.",
+        "B": "Thickness ratios from 1.0 to 2.5 and cross bore size ratios from 0.1 to 0.5.",
+        "C": "Thickness ratios from 3.0 to 1.4 and cross bore size ratios from 0.1 to 1.0.",
+        "D": "Thickness ratios from 2.5 to 4.0 and cross bore size ratios from 0.3 to 0.8.",
+        "Answer": "C",
+        "Source": "Cylinders of thickness ratios of 3.0 down to 1.4 with cross bore size ratios (cross bore to main bore ratio) ranging from 0.1 to 1.0 were studied."
+    },
+    "Question_3": {
+        "Context": "The study found that the maximum hoop stress increased with the increase in the cross bore size.",
+        "Question": "How did the maximum hoop stress behave in relation to the cross bore size?",
+        "A": "Decreased with increasing cross bore size.",
+        "B": "Remained constant regardless of the cross bore size.",
+        "C": "Increased with increasing cross bore size.",
+        "D": "Was not affected by the cross bore size.",
+        "Answer": "C",
+        "Source": "The maximum hoop stress was found to increase with the increase in the cross bore size."
+    },
+    "Question_4": {
+        "Context": "The study mentioned that the lowest Stress Concentration Factor (SCF) occurred with a cross bore size ratio of 0.1 at a specific thickness ratio.",
+        "Question": "At what thickness ratio did the lowest SCF occur with a cross bore size ratio of 0.1?",
+        "A": "K = 1.5",
+        "B": "K = 2.0",
+        "C": "K = 2.25",
+        "D": "K = 3.0",
+        "Answer": "C",
+        "Source": "Moreover, the lowest SCF occurred in the smallest cross bore size ratio of 0.1 at a thickness ratio of 2.25 with a SCF magnitude of 2.836."
+    },
+    "Question_5": {
+        "Context": "The study highlighted that the SCF magnitude indicated a reduction of pressure-carrying capacity of 64.7% in comparison to a similar plain cylinder without a cross bore.",
+        "Question": "By how much percentage was the pressure-carrying capacity reduced with the optimal cross bore size?",
+        "A": "50%",
+        "B": "64.7%",
+        "C": "75%",
+        "D": "80%",
+        "Answer": "B",
+        "Source": "This SCF magnitude indicated a reduction of pressure-carrying capacity of 64.7% in comparison to a similar plain cylinder without a cross bore."
+    },
+    "Question_6": {
+        "Context": "The study observed that the SCF increased with the increase in the cross bore size.",
+        "Question": "How did the Stress Concentration Factor (SCF) behave in relation to the cross bore size?",
+        "A": "Decreased with increasing cross bore size.",
+        "B": "Remained constant regardless of the cross bore size.",
+        "C": "Increased with increasing cross bore size.",
+        "D": "Was not affected by the cross bore size.",
+        "Answer": "C",
+        "Source": "It was observed that the magnitude of SCF increased with increase in the cross bore size."
+    },
+    "Question_7": {
+        "Context": "The study mentioned that the optimal SCF was found at the smallest cross bore size ratio of 0.1.",
+        "Question": "Where was the optimal SCF found in relation to the cross bore size?",
+        "A": "At the largest cross bore size ratio of 1.0.",
+        "B": "At the smallest cross bore size ratio of 0.1.",
+        "C": "At a cross bore size ratio of 0.5.",
+        "D": "At a cross bore size ratio of 0.7.",
+        "Answer": "B",
+        "Source": "Amongst the five cross bore sizes studied, the smallest cross bore size ratio of 0.1 gave the lowest magnitude of SCF of 2.836 at K = 2.25."
+    },
+    "Question_8": {
+        "Context": "The study concluded that the rise in hoop stress due to the size of the cross bore reduced with an increase in the thickness ratio.",
+        "Question": "How did the rise in hoop stress behave in relation to the thickness ratio?",
+        "A": "Increased with increasing thickness ratio.",
+        "B": "Decreased with increasing thickness ratio.",
+        "C": "Remained constant regardless of the thickness ratio.",
+        "D": "Was not affected by the thickness ratio.",
+        "Answer": "B",
+        "Source": "The rise in hoop stress due to the size of the cross bore reduces with increase in thickness ratio."
+    },
+    "Question_9": {
+        "Context": "The study found that the location of the maximum hoop stress generally occurred along the radial cross bore.",
+        "Question": "Where did the location of the maximum hoop stress generally occur?",
+        "A": "Along the main bore.",
+        "B": "At the center of the cylinder.",
+        "C": "Along the radial cross bore.",
+        "D": "At the end of the cylinder.",
+        "Answer": "C",
+        "Source": "The location of the maximum hoop stress on the cylinder generally occurred along the radial cross bore."
+    },
+    "Question_10": {
+        "Context": "The study highlighted that the SCF was lowest at the smallest cross bore size ratio of 0.1 and highest at the largest cross bore size of 1.0.",
+        "Question": "Where was the highest SCF reported in relation to the cross bore size?",
+        "A": "At the smallest cross bore size ratio of 0.1.",
+        "B": "At a cross bore size ratio of 0.5.",
+        "C": "At a cross bore size ratio of 0.7.",
+        "D": "At the largest cross bore size ratio of 1.0.",
+        "Answer": "D",
+        "Source": "In contrast, the highest SCF in the cylinder was reported in the largest cross bore size of 1.0."
+    }
+}

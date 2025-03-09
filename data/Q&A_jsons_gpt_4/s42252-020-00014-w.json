@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In fused filament fabrication, a digital model is used to create a bilayer structure consisting of an active layer and a passive layer.",
+        "Question": "What is the composition of the active layer in a bilayer structure created by fused filament fabrication?",
+        "A": "Polylactic acid matrix filled with hygroscopic cellulosic materials",
+        "B": "Acrylonitrile Butadiene Styrene",
+        "C": "Vinylacetate-vinylversatate-ethylene",
+        "D": "Pure polylactic acid",
+        "Answer": "A",
+        "Source": "Fused Filament Fabrication (FFF) is employed to print bilayered structures consisting of swellable active layers and rigid passive layers. The active layer is composed of a polylactic acid (PLA) matrix filled with different hygroscopic cellulosic materials (native and modified) up to a filler content of 50 m%."
+    },
+    "Question_2": {
+        "Context": "The passive layer in a bilayer structure is designed to be rigid to provide structural support.",
+        "Question": "Which material is used for the passive layer in the bilayer structures discussed?",
+        "A": "Polylactic acid",
+        "B": "Acrylonitrile Butadiene Styrene",
+        "C": "Microcrystalline cellulose",
+        "D": "Vinylacetate-vinylversatate-ethylene",
+        "Answer": "B",
+        "Source": "Acrylonitrile Butadiene Styrene (ABS) is used for the passive layer."
+    },
+    "Question_3": {
+        "Context": "Hygromorphs are materials that can change their dimensions in response to environmental humidity.",
+        "Question": "What natural example is known for its hygromorphic behavior due to its bilayered structure?",
+        "A": "Animal muscle tissue",
+        "B": "Human skin",
+        "C": "Pine cones",
+        "D": "Cactus skin",
+        "Answer": "C",
+        "Source": "Pine cones are among the best known and well-described natural hygromorphs. The opening and closing of the ovuliferous scales is a result of the bilayered structure."
+    },
+    "Question_4": {
+        "Context": "The actuation strain of hygromorphs can be determined by observing their bending behavior in response to moisture.",
+        "Question": "How was the actuation strain of the printed bilayers determined?",
+        "A": "Using a hygrometer",
+        "B": "By measuring the weight increase",
+        "C": "Through chemical analysis",
+        "D": "By video analyses",
+        "Answer": "D",
+        "Source": "The moisture dependent actuation strain of the printed bilayers was determined by video analyses."
+    },
+    "Question_5": {
+        "Context": "The orientation of cellulose microfibrils in a composite material can influence its mechanical properties.",
+        "Question": "What was suggested about the mean cellulose microfibril orientation on the surface of the active layer?",
+        "A": "It was random with no preferential orientation",
+        "B": "It was oriented parallel to the printing direction",
+        "C": "It was oriented perpendicular to the printing direction",
+        "D": "It was aligned diagonally to the printing direction",
+        "Answer": "C",
+        "Source": "The investigation of the mean cellulose microfibril orientation on the surface of the active layer suggested a preferential orientation with respect to printing direction."
+    },
+    "Question_6": {
+        "Context": "The mechanical behavior of hygromorphs can be predicted using computational models.",
+        "Question": "Which model is used to predict the moisture dependent actuation of hygromorphs?",
+        "A": "Newton's law of motion",
+        "B": "Timoshenko's thermomechanical model",
+        "C": "Einstein's theory of relativity",
+        "D": "Maxwell's equations",
+        "Answer": "B",
+        "Source": "Comparison with the thermomechanical model derived from Timoshenko (1925) shows that the computational prediction of the moisture dependent actuation is considerably accurate for most selected cellulosic materials and filler contents."
+    },
+    "Question_7": {
+        "Context": "The hygroexpansive strain in hygromorphs is defined as a ratio that relates dimensional changes to moisture content.",
+        "Question": "How is the hygroexpansive strain defined?",
+        "A": "The ratio between the changes in length to initial length as a function of temperature change",
+        "B": "The ratio between the changes in volume to initial volume as a function of moisture content",
+        "C": "The ratio between the changes in length to initial length as a function of moisture content",
+        "D": "The ratio between the changes in weight to initial weight as a function of moisture content",
+        "Answer": "C",
+        "Source": "Herein the hygroexpansive strain is defined as the ratio between the changes in length to initial length as a function of moisture content."
+    },
+    "Question_8": {
+        "Context": "In the context of hygromorphs, the curvature change of a bilayer upon moisture absorption can be calculated.",
+        "Question": "What does the curvature change of the bilayer represent in the context of hygromorphs?",
+        "A": "The electrical resistance change",
+        "B": "The thermal expansion coefficient",
+        "C": "The theoretical displacement due to moisture activation",
+        "D": "The change in chemical composition",
+        "Answer": "C",
+        "Source": "The curvature change of the bilayer \u0394\u03ba to calculate the theoretical displacement of moisture activated bilayers according to [14] is given by."
+    },
+    "Question_9": {
+        "Context": "The moisture-dependent actuation behavior of hygromorphs can be influenced by the composition of the active layer.",
+        "Question": "Which materials were used to impart different humidity-dependent dimensional changes to the hygromorphs?",
+        "A": "Natural or modified cellulosic materials such as vulcanized cellulose and microcrystalline cellulose",
+        "B": "Synthetic polymers like polystyrene and polyethylene",
+        "C": "Metal alloys such as brass and bronze",
+        "D": "Ceramic materials like porcelain and clay",
+        "Answer": "A",
+        "Source": "Additionally, the custom filament production allows for further experimentation on material composition as the use of different natural or modified cellulosic materials such as vulcanized cellulose and microcrystalline cellulose would impart different humidity-dependent dimensional changes."
+    },
+    "Question_10": {
+        "Context": "The orientation of fibers within a printed material can be analyzed using specific techniques.",
+        "Question": "Which technique was used to investigate the orientation of individual fibers throughout the entire active layer of the hygromorphs?",
+        "A": "Scanning electron microscopy (SEM)",
+        "B": "Fourier-transform infrared spectroscopy (FTIR)",
+        "C": "Micro computed tomography (\u03bc-CT)",
+        "D": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "Answer": "C",
+        "Source": "In order to investigate the orientation of individual fibers throughout the entire active layer, the samples were subsequently analyzed by micro computed tomography (\u03bc-CT)."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In deterministic lateral displacement (DLD) systems, the separation of particles is based on their size as they move through a microchannel with a specific geometry.",
+        "Question": "What is the critical factor determining the separation of small and large particles in a DLD system?",
+        "A": "The viscosity of the liquid",
+        "B": "The critical particle diameter",
+        "C": "The temperature of the system",
+        "D": "The color of the particles",
+        "Answer": "B",
+        "Source": "The separation into small and large particles is determined by the critical diameter, which depends only on the micropost array geometry."
+    },
+    "Question_2": {
+        "Context": "The flow of liquid in a DLD microchannel is influenced by the geometry of the microfabricated post arrays, which can cause particles to follow different paths.",
+        "Question": "What movement pattern do small particles follow in a DLD microchannel?",
+        "A": "Spiral",
+        "B": "Zigzag",
+        "C": "Circular",
+        "D": "Random",
+        "Answer": "B",
+        "Source": "Small particles are involved in this zigzag mode and move straight down on average."
+    },
+    "Question_3": {
+        "Context": "In DLD systems, the flow between microfabricated posts can be compared to flow in certain geometrical configurations.",
+        "Question": "Which geometrical configuration is the flow between two posts in a DLD system better described by?",
+        "A": "Flow in a circular tube",
+        "B": "Flow between parallel plates",
+        "C": "Flow in a rectangular tube",
+        "D": "Flow in a triangular duct",
+        "Answer": "C",
+        "Source": "The flow between two posts is better described by flow in a rectangular tube than between parallel plates."
+    },
+    "Question_4": {
+        "Context": "The behavior of fluid flow in microfluidic devices can be described by certain fluid dynamics equations.",
+        "Question": "Which equation is used to describe the parabolic velocity profile in a DLD system?",
+        "A": "Bernoulli's equation",
+        "B": "Navier-Stokes equation",
+        "C": "Hagen-Poiseuille equation",
+        "D": "Continuity equation",
+        "Answer": "C",
+        "Source": "According to the theory of fluid mechanics, a parabolic velocity profile arises between two infinite parallel plates, which is described by the Hagen-Poiseuille equation."
+    },
+    "Question_5": {
+        "Context": "In the context of DLD systems, the critical diameter of particles is an important parameter for the separation process.",
+        "Question": "What happens to the critical diameter as the channel height increases?",
+        "A": "It decreases",
+        "B": "It remains constant",
+        "C": "It increases",
+        "D": "It fluctuates unpredictably",
+        "Answer": "C",
+        "Source": "Their results for the median plane between the top and bottom of the channel show that the critical diameter increases with increasing channel height."
+    },
+    "Question_6": {
+        "Context": "The separation efficiency of a DLD system can be affected by various factors.",
+        "Question": "Which factor is mentioned as potentially reducing the separation efficiency in DLD systems?",
+        "A": "The alignment of the posts",
+        "B": "The concentration of particles",
+        "C": "The color of the microchannel",
+        "D": "The shape of the microchannel",
+        "Answer": "B",
+        "Source": "In practical devices, the separation efficiency is greatly reduced, so that small particles can enter the right outlet to large particles and vice versa."
+    },
+    "Question_7": {
+        "Context": "The separation of particles in DLD systems can be influenced by the physical properties of the particles and the device geometry.",
+        "Question": "What is the effect of high bead concentration on the efficiency of a DLD device?",
+        "A": "Increases efficiency",
+        "B": "Decreases efficiency",
+        "C": "Has no effect",
+        "D": "Causes the device to overheat",
+        "Answer": "B",
+        "Source": "Published studies mention several reasons for the decrease in efficiency: clogging of the device with comparable sizes between the gap and beads, a high bead concentration, and the influence of boundaries where the periodicity of the post array is violated."
+    },
+    "Question_8": {
+        "Context": "The separation of particles by size in a DLD system can be modeled and predicted using various equations.",
+        "Question": "Which empirical formula is used to predict the critical diameter in a DLD system?",
+        "A": "Inglis equation",
+        "B": "Davis equation",
+        "C": "Hagen-Poiseuille equation",
+        "D": "Bernoulli's equation",
+        "Answer": "B",
+        "Source": "Davis tested the particle separation in many devices with different row shift fractions and gap sizes and devised the following empirical formula for critical diameter (Davis diameter)."
+    },
+    "Question_9": {
+        "Context": "In DLD systems, the separation of particles can be affected by the channel's physical dimensions.",
+        "Question": "What is the relationship between the critical diameter and the channel height in a DLD system?",
+        "A": "Inversely proportional",
+        "B": "Directly proportional",
+        "C": "Exponentially related",
+        "D": "No relationship",
+        "Answer": "B",
+        "Source": "Their results for the median plane between the top and bottom of the channel show that the critical diameter increases with increasing channel height."
+    },
+    "Question_10": {
+        "Context": "The separation of particles in a DLD system can be affected by the aspect ratio of the channel.",
+        "Question": "How does the aspect ratio of height to width (a/b) of the channel affect the velocity profile in a DLD system?",
+        "A": "No effect on the velocity profile",
+        "B": "Makes the velocity profile more uniform",
+        "C": "Creates a sharper separation boundary for deeper channels",
+        "D": "Decreases the maximum velocity",
+        "Answer": "C",
+        "Source": "Comparison of Fig. 3B and D shows that the separation boundary between small and large particles is sharper for a deeper channel."
+    }
+}

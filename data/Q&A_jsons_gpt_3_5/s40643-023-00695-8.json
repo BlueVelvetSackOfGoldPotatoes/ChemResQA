@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Enzyme cascades play a crucial role in metabolic pathways within cells. What is the main reason for the significantly improved catalytic efficiency of multi-enzyme complexes?",
+        "Question": "What is the main reason for the significantly improved catalytic efficiency of multi-enzyme complexes?",
+        "A": "Enhanced enzyme stability",
+        "B": "Reduced enzyme concentration",
+        "C": "Increased enzyme diffusion",
+        "D": "Substrate channeling effect",
+        "Answer": "D",
+        "Source": "The substrate channel effect is a process in which the product of an enzyme is directly transferred to the adjacent cascade enzyme. It is not restricted by equilibrium, and the catalytic efficiency of the cascade enzyme is significantly high."
+    },
+    "Question_2": {
+        "Context": "How are multi-enzyme reactions manipulated in organisms through compartmentalization? ",
+        "Question": "How are multi-enzyme reactions manipulated in organisms through compartmentalization?",
+        "A": "By increasing enzyme concentration",
+        "B": "By isolating enzymes in a compartment through a semi-permeable membrane",
+        "C": "By reducing enzyme stability",
+        "D": "By enhancing enzyme diffusion",
+        "Answer": "B",
+        "Source": "Compartmentalization involves isolating multi-enzymes or enzyme systems with tandem reaction features in a compartment through a semi-permeable membrane. The semi-permeable membrane evolved for compartmentalization to inhibit protease and toxic chemical external attack."
+    },
+    "Question_3": {
+        "Context": "What is a key advantage of using protein scaffolds for enzyme immobilization strategies?",
+        "Question": "What is a key advantage of using protein scaffolds for enzyme immobilization strategies?",
+        "A": "Limited control over component assembly",
+        "B": "High amplification cost",
+        "C": "Control and optimization of spatial organization",
+        "D": "Inability to target specific locations",
+        "Answer": "C",
+        "Source": "Protein scaffolds allow for control and optimization of spatial organization, stoichiometry, and enzyme proximity, which is particularly important when flux balance correction is required."
+    },
+    "Question_4": {
+        "Context": "What is the main purpose of the SpyTag/SpyCatcher system in multi-enzyme systems?",
+        "Question": "What is the main purpose of the SpyTag/SpyCatcher system in multi-enzyme systems?",
+        "A": "To reduce enzyme activity",
+        "B": "To amplify luminescence signals",
+        "C": "To assemble biomolecules for biological probe modules",
+        "D": "To decrease enzyme efficiency",
+        "Answer": "C",
+        "Source": "The system's usefulness in assembling biomolecules to construct biological probe modules is due to protein clustering reactions amplifying luminescence signals."
+    },
+    "Question_5": {
+        "Context": "What is the role of the fusion protein in biochemistry and biotechnology?",
+        "Question": "What is the role of the fusion protein in biochemistry and biotechnology?",
+        "A": "To decrease protein stability",
+        "B": "To increase protein misfolding",
+        "C": "To obtain different functions from different components",
+        "D": "To reduce protein interactions",
+        "Answer": "C",
+        "Source": "Fusion protein products can obtain different functions from different components by fusing two or more protein domains."
+    },
+    "Question_6": {
+        "Context": "What is the main advantage of using the SpyTag/SpyCatcher system for protein assemblies?",
+        "Question": "What is the main advantage of using the SpyTag/SpyCatcher system for protein assemblies?",
+        "A": "Versatility and more possibilities for protein bioconjugation",
+        "B": "Decreased enzyme activity",
+        "C": "Reduced protein stability",
+        "D": "Limited potential for protein clustering",
+        "Answer": "A",
+        "Source": "The SpyTag/SpyCatcher system is versatile and offers more possibilities for protein bioconjugation."
+    },
+    "Question_7": {
+        "Context": "What is the purpose of the cohesin\u2013dockerin specificity in assembling enzyme complexes?",
+        "Question": "What is the purpose of the cohesin\u2013dockerin specificity in assembling enzyme complexes?",
+        "A": "To decrease enzyme efficiency",
+        "B": "To amplify luminescence signals",
+        "C": "To control the assembly of specific enzymes",
+        "D": "To reduce enzyme stability",
+        "Answer": "C",
+        "Source": "The high-affinity interaction between the scaffold modules and the modules fused with the enzyme allows for the controlled assembly of specific enzymes."
+    },
+    "Question_8": {
+        "Context": "What is the advantage of using protein scaffolds for enzyme immobilization strategies over other techniques?",
+        "Question": "What is the advantage of using protein scaffolds for enzyme immobilization strategies over other techniques?",
+        "A": "Limited spatial organization control",
+        "B": "Inability to target specific locations",
+        "C": "Effective substrate channels due to minimum distance between active sites",
+        "D": "Reduced enzyme stability",
+        "Answer": "C",
+        "Source": "First, the minimum distance between the active site on the protein scaffold allows for effective substrate channels, because metabolic intermediates are more likely to undergo sequential reaction steps rather than diffusion."
+    },
+    "Question_9": {
+        "Context": "What is the main challenge associated with the construction of insertion fusion proteins?",
+        "Question": "What is the main challenge associated with the construction of insertion fusion proteins?",
+        "A": "Selecting appropriate proteins",
+        "B": "Choosing the insertion site",
+        "C": "Reducing interference and steric hindrance",
+        "D": "Balancing the domain structure",
+        "Answer": "B",
+        "Source": "However, some critical issues remain, such as how to select two proteins and how to choose the insertion site, so that they can have regulatory effects after fusion."
+    },
+    "Question_10": {
+        "Context": "What is the key advantage of using the SpyTag/SpyCatcher system for protein assemblies?",
+        "Question": "What is the key advantage of using the SpyTag/SpyCatcher system for protein assemblies?",
+        "A": "Versatility and more possibilities for protein bioconjugation",
+        "B": "Reduced enzyme activity",
+        "C": "Decreased protein stability",
+        "D": "Limited potential for protein clustering",
+        "Answer": "A",
+        "Source": "The SpyTag/SpyCatcher system is versatile and offers more possibilities for protein bioconjugation."
+    }
+}

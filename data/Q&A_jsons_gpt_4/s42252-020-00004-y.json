@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In thermoelectric materials, the figure of merit ZT is a dimensionless value that quantifies the efficiency of a material's thermoelectric conversion. It is defined by the formula ZT = \u03b12\u03c3T/\u03ba, where \u03b1 is the thermopower, \u03c3 is the electrical conductivity, and \u03ba is the thermal conductivity.",
+        "Question": "What does the figure of merit ZT in thermoelectric materials represent?",
+        "A": "The electrical resistance of the material",
+        "B": "The efficiency of a material's thermoelectric conversion",
+        "C": "The thermal resistance of the material",
+        "D": "The mechanical strength of the material",
+        "Answer": "B",
+        "Source": "The quality of the thermoelectric materials used to make them. This quality is quantified by a dimensionless figure of merit ZT = \u03b12\u03c3T/\u03ba, with thermal conductivity \u03ba, electrical conductivity \u03c3, and thermopower \u03b1."
+    },
+    "Question_2": {
+        "Context": "Thermoelectric materials can be enhanced by reducing lattice contributions to thermal conductivity, which can be achieved by introducing nanostructures that scatter phonons.",
+        "Question": "How can the thermoelectric performance of materials be improved according to recent research?",
+        "A": "By increasing the lattice contributions to thermal conductivity",
+        "B": "By decreasing the electrical conductivity",
+        "C": "By introducing nanostructures to scatter phonons",
+        "D": "By increasing the size of the material's crystals",
+        "Answer": "C",
+        "Source": "Research in tetradymites has focused on reducing the lattice contributions to thermal conductivity by introducing nanostructures. Nanocomposites based on tetradymite alloys result in large ZT improvements, which is credited to phonon scattering."
+    },
+    "Question_3": {
+        "Context": "Effective medium theory suggests that in a composite material, the thermoelectric figure of merit cannot exceed the greatest value of any single constituent unless the constituents interact with each other.",
+        "Question": "What does the effective medium theory state about the thermoelectric figure of merit in composite materials?",
+        "A": "It can exceed the value of any single constituent if the constituents are metallic",
+        "B": "It is always lower than the value of any single constituent",
+        "C": "It cannot exceed the value of any single constituent unless the constituents interact",
+        "D": "It is independent of the constituents' properties",
+        "Answer": "C",
+        "Source": "The effective medium theory, which states that the ZT in a composite material cannot exceed the greatest value of any single constituent, if the constituents do not interact."
+    },
+    "Question_4": {
+        "Context": "In thermoelectric materials, doping refers to the introduction of impurities into a semiconductor to change its electrical properties. Local doping around an insulating inclusion can reduce thermal conductivity without equivalently increasing electrical resistivity.",
+        "Question": "What is the effect of local doping around an insulating inclusion in thermoelectric materials?",
+        "A": "It increases both thermal and electrical conductivity",
+        "B": "It reduces thermal conductivity without an equivalent increase in electrical resistivity",
+        "C": "It decreases the thermopower of the material",
+        "D": "It has no effect on the material's properties",
+        "Answer": "B",
+        "Source": "The reduction in thermal conductivity absent an equivalent reduction in electrical conductivity results from local doping of the matrix around an inserted phase (here, beads)."
+    },
+    "Question_5": {
+        "Context": "In a study of thermoelectric materials, p-type (Bi1-xSbx)2Te3 compounds were used as a host material for thermoelectric composites.",
+        "Question": "Which compound was used as a host material in the creation of thermoelectric composites?",
+        "A": "n-type Bi2Te3",
+        "B": "p-type (Bi1-xSbx)2Te3",
+        "C": "p-type SiGe",
+        "D": "n-type PbTe",
+        "Answer": "B",
+        "Source": "Employing this method in p-type (Bi1-xSbx)2Te3 compounds results in a maximum figure of merit zT = 1.3, an over 10% improvement compared to the host material alone."
+    },
+    "Question_6": {
+        "Context": "Thermoelectric coolers operate on the Peltier effect and have several advantages, such as no regular maintenance and no vibration, but their efficiency is competitive only in low-power applications.",
+        "Question": "What is a limitation of thermoelectric coolers that operate on the Peltier effect?",
+        "A": "They require frequent maintenance",
+        "B": "They produce significant vibrations",
+        "C": "Their efficiency is competitive only in low-power applications",
+        "D": "They emit large amounts of greenhouse gases",
+        "Answer": "C",
+        "Source": "However, their efficiency is competitive only in low-power applications [1], which prevents their large-scale adoption."
+    },
+    "Question_7": {
+        "Context": "Thermoelectric materials are often made of tetradymite materials, which are alloys that crystallize in the 3m crystallographic point group and have been used to create conventional Peltier modules.",
+        "Question": "What type of materials are conventional Peltier modules typically made of?",
+        "A": "Cubic crystalline alloys",
+        "B": "Tetradymite materials",
+        "C": "Diamond-like carbon materials",
+        "D": "Metal-organic frameworks",
+        "Answer": "B",
+        "Source": "Conventional Peltier modules are made of tetradymite [2] materials (alloys of general formula (Bi,Sb)2(Te,Se)3 that crystallize in the 3m crystallographic point group)"
+    },
+    "Question_8": {
+        "Context": "In the context of thermoelectric materials, the term 'aliovalent' refers to an impurity that has a different valence than the host material, which can be used to dope the material and alter its electrical properties.",
+        "Question": "What does the term 'aliovalent' signify in the context of doping thermoelectric materials?",
+        "A": "An impurity with the same valence as the host material",
+        "B": "An impurity that does not change the electrical properties",
+        "C": "An impurity with a different valence than the host material",
+        "D": "A pure element that enhances thermal conductivity",
+        "Answer": "C",
+        "Source": "An electrically and thermally insulating medium is distributed into a conventional thermoelectric host material but is coated with an aliovalent acceptor that is allowed to diffuse locally into the host matrix, thereby doping it locally."
+    },
+    "Question_9": {
+        "Context": "The thermal conductivity of a thermoelectric material can be decreased by adding insulating inclusions, which can lead to an improvement in the figure of merit ZT.",
+        "Question": "What is the effect of adding insulating inclusions to a thermoelectric material?",
+        "A": "It increases the electrical conductivity",
+        "B": "It decreases the thermopower",
+        "C": "It increases the thermal conductivity",
+        "D": "It decreases the thermal conductivity",
+        "Answer": "D",
+        "Source": "The thermal conductivity decreases when the insulating material is added, but the more electrically conducting region around the insulator prevents an equally large increase in electrical resistivity."
+    },
+    "Question_10": {
+        "Context": "In thermoelectric materials, the power factor is defined as the product of the square of the thermopower (\u03b1) and the electrical conductivity (\u03c3).",
+        "Question": "What is the power factor in the context of thermoelectric materials?",
+        "A": "The ratio of thermal conductivity to electrical conductivity",
+        "B": "The product of the square of the thermopower and the electrical conductivity",
+        "C": "The difference between thermal conductivity and electrical resistivity",
+        "D": "The sum of the thermopower and the electrical resistivity",
+        "Answer": "B",
+        "Source": "The power factor \u03b12\u03c3 can be enhanced, an accompanying increase in thermal conductivity will always limit the figure of merit."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the influence of hub geometry on the performance of a centrifugal fan. The researchers explored different hub configurations to determine the impact on overall efficiency and head coefficient.",
+        "Question": "What was the average improvement in overall efficiency observed for various ellipsoidal hub configurations over the hub-less base configuration?",
+        "A": "2.6%",
+        "B": "7.3%",
+        "C": "11%",
+        "D": "3.7%",
+        "Answer": "C",
+        "Source": "It is found from Fig. 12 that there is an improvement in overall efficiency for the ellipsoidal hub configurations over that of the hub-less base configuration at all volume coefficients considered in the experimental work. An average improvement of about 7.3% is observed for various ellipsoidal hub configurations over the hub-less configuration at design point operation of the fan."
+    },
+    "Question_2": {
+        "Context": "The study compared the performance of optimized hemi-spherical and ellipsoidal hub configurations in terms of overall efficiency and relative theoretical efficiency.",
+        "Question": "Which hub configuration showed a consistent improvement of about 11% in overall efficiency over the optimum hemi-spherical hub model?",
+        "A": "E1",
+        "B": "E2",
+        "C": "E3",
+        "D": "E5",
+        "Answer": "D",
+        "Source": "It is found that optimum ellipsoidal configuration (E5) shows a consistent improvement of about 11% in overall efficiency over that of the optimum hemi-spherical hub model (S3) for the range of volume coefficients considered."
+    },
+    "Question_3": {
+        "Context": "The study developed correlations for the optimized hub-shape configuration to predict head coefficient and relative theoretical efficiency.",
+        "Question": "What is the regression coefficient for the correlation obtained for head coefficient in Eq. (11)?",
+        "A": "0.93",
+        "B": "0.89",
+        "C": "0.8%",
+        "D": "4.9%",
+        "Answer": "A",
+        "Source": "The regression data of head coefficient for the correlation obtained in Eq. (11) has regression coefficient of 0.93 and average absolute deviation of 0.8%."
+    },
+    "Question_4": {
+        "Context": "The study investigated the influence of hub geometry on the performance of a centrifugal fan.",
+        "Question": "What was the average improvement in head coefficient observed for various ellipsoidal hub configurations over the hub-less base configuration?",
+        "A": "3.6%",
+        "B": "7.5%",
+        "C": "1.4%",
+        "D": "2.4%",
+        "Answer": "A",
+        "Source": "It is discernable that hub configurations are found to yield relatively higher head coefficient values when compared with the hub-less base configuration at all volume coefficients. An average improvement of about 3.6% is observed for hub configurations over the hub-less base configuration at design point."
+    },
+    "Question_5": {
+        "Context": "The study developed correlations for the optimized hub-shape configuration to predict head coefficient and relative theoretical efficiency.",
+        "Question": "What is the average absolute deviation for the regression data of relative theoretical efficiency in the correlation obtained in Eq. (12)?",
+        "A": "0.93",
+        "B": "0.89",
+        "C": "0.8%",
+        "D": "4.9%",
+        "Answer": "D",
+        "Source": "The regression data of relative theoretical efficiency for the correlation obtained in Eq. (12) has regression coefficient of 0.89 and average absolute deviation of 4.9%."
+    },
+    "Question_6": {
+        "Context": "The study compared the performance of optimized hemi-spherical and ellipsoidal hub configurations in terms of relative theoretical efficiency.",
+        "Question": "Which hub configuration showed a significant improvement of about 3.5% in relative theoretical efficiency over the optimum hemi-spherical hub model?",
+        "A": "E1",
+        "B": "E2",
+        "C": "E3",
+        "D": "E5",
+        "Answer": "D",
+        "Source": "The optimum ellipsoidal configuration E5 shows a significant improvement of about 3.5% in relative theoretical efficiency over that of the optimum hemi-spherical hub model (S3) for various volume coefficients used."
+    },
+    "Question_7": {
+        "Context": "The study developed correlations for the optimized hub-shape configuration to predict head coefficient and relative theoretical efficiency.",
+        "Question": "What is the regression coefficient for the correlation obtained for relative theoretical efficiency in Eq. (12)?",
+        "A": "0.93",
+        "B": "0.89",
+        "C": "0.8%",
+        "D": "4.9%",
+        "Answer": "B",
+        "Source": "The regression data of relative theoretical efficiency for the correlation obtained in Eq. (12) has regression coefficient of 0.89 and average absolute deviation of 4.9%."
+    },
+    "Question_8": {
+        "Context": "The study investigated the influence of hub geometry on the performance of a centrifugal fan.",
+        "Question": "What was the improvement in head coefficient observed for the ellipsoidal hub configuration E5 over the hub-less base configuration?",
+        "A": "7.5%",
+        "B": "3.6%",
+        "C": "1.4%",
+        "D": "2.4%",
+        "Answer": "A",
+        "Source": "Configuration E5 provides adequate convergence over the hub surface and enters the impeller with minimum incidence and friction losses. This helps in bettering the head coefficient by about 7.5% for configuration E5 over the hub-less base configuration."
+    },
+    "Question_9": {
+        "Context": "The study compared the performance of optimized hemi-spherical and ellipsoidal hub configurations in terms of overall efficiency.",
+        "Question": "Which hub configuration showed a consistent improvement of about 11% in relative theoretical efficiency over the optimum hemi-spherical hub model?",
+        "A": "E1",
+        "B": "E2",
+        "C": "E3",
+        "D": "E5",
+        "Answer": "D",
+        "Source": "The optimum ellipsoidal configuration (E5) shows a significant improvement of about 3.5% in relative theoretical efficiency over that of the optimum hemi-spherical hub model (S3) for various volume coefficients used."
+    },
+    "Question_10": {
+        "Context": "The study developed correlations for the optimized hub-shape configuration to predict head coefficient and relative theoretical efficiency.",
+        "Question": "What is the average absolute deviation for the regression data of head coefficient in the correlation obtained in Eq. (11)?",
+        "A": "0.93",
+        "B": "0.89",
+        "C": "0.8%",
+        "D": "4.9%",
+        "Answer": "C",
+        "Source": "The regression data of head coefficient for the correlation obtained in Eq. (11) has regression coefficient of 0.93 and average absolute deviation of 0.8%."
+    }
+}

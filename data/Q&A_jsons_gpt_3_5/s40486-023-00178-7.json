@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Capacitive pressure sensors are essential for various applications and their sensitivity can be enhanced by incorporating porous microstructures into the dielectric layer. The research focuses on designing a capacitive pressure sensor with a porous micro-pyramidal dielectric layer featuring diagonally arranged pyramids.",
+        "Question": "What is one of the key factors examined to enhance sensitivity in capacitive pressure sensors according to the research?",
+        "A": "Material color",
+        "B": "Base length of the pyramids",
+        "C": "Distance between the pyramidal microstructures",
+        "D": "Height of the pyramids",
+        "Answer": "B",
+        "Source": "The effects of geometric parameters and material properties such as dielectric constant, porosity, base length, tip width, height, and the distance between the pyramidal microstructures were examined using the three-dimensional finite element simulations."
+    },
+    "Question_2": {
+        "Context": "The study involved a comparative analysis to evaluate the accuracy of the numerical solution. The simulation results were compared to experimental measurements, and a high level of agreement was revealed.",
+        "Question": "What method was used to evaluate the accuracy of the numerical solution in the research?",
+        "A": "Comparative analysis",
+        "B": "Statistical analysis",
+        "C": "Qualitative analysis",
+        "D": "Quantitative analysis",
+        "Answer": "A",
+        "Source": "A comparative analysis was conducted to evaluate the accuracy of the numerical solution. The simulation results were compared to experimental measurements, and the findings revealed a high level of agreement."
+    },
+    "Question_3": {
+        "Context": "The study derived mathematical equations from collected data to estimate the initial capacitance and sensitivity of the sensor. The model predictions were compared to simulation results, and the models were found to perform effectively.",
+        "Question": "What were mathematical equations derived for in the research?",
+        "A": "To estimate the weight of the sensor",
+        "B": "To estimate the initial capacitance and sensitivity of the sensor",
+        "C": "To estimate the temperature of the sensor",
+        "D": "To estimate the size of the sensor",
+        "Answer": "B",
+        "Source": "This study derived mathematical equations from the collected data to estimate the initial capacitance and sensitivity of the sensor. The model predictions were compared to simulation results, and it was found that the models performed effectively."
+    },
+    "Question_4": {
+        "Context": "The research focused on designing a capacitive pressure sensor with a porous micro-pyramidal dielectric layer featuring diagonally arranged pyramids.",
+        "Question": "What arrangement of microstructures was found to enhance sensor sensitivity by up to 1.65 times?",
+        "A": "Random arrangement",
+        "B": "Diagonal arrangement",
+        "C": "Lateral arrangement",
+        "D": "Circular arrangement",
+        "Answer": "B",
+        "Source": "The results show that arranging microstructures diagonally or laterally can impact sensitivity and initial capacitance. Specifically, employing a diagonal arrangement enhanced sensor sensitivity by up to 1.65 times while maintaining the initial capacitance relatively unaffected."
+    },
+    "Question_5": {
+        "Context": "The study involved analyzing data to develop mathematical equations that could estimate the initial capacitance and sensitivity of the sensor.",
+        "Question": "What methodology was used to determine the optimal quantity of data for analysis in the research?",
+        "A": "Statistical analysis",
+        "B": "Design of Experiment method",
+        "C": "Qualitative analysis",
+        "D": "Quantitative analysis",
+        "Answer": "B",
+        "Source": "The optimal quantity of data for this analysis was determined using the design of the experiment method, specifically the response surface model."
+    },
+    "Question_6": {
+        "Context": "The research aimed to optimize the geometrical parameters and material properties of the capacitive pressure sensor with diagonally arranged microstructures.",
+        "Question": "What methodology was utilized to simplify the design of the capacitive pressure sensor with effective performance?",
+        "A": "Statistical analysis",
+        "B": "Design of Experiment",
+        "C": "Comparative analysis",
+        "D": "Qualitative analysis",
+        "Answer": "B",
+        "Source": "Hence, a central composite rotational design (CCRD) model of RSM has been utilized to simplify the design of the capacitive pressure sensor with effective performance."
+    },
+    "Question_7": {
+        "Context": "The study involved a comprehensive three-dimensional computational model to analyze the performance of a capacitive pressure sensor with diagonally arranged pyramidal microstructures.",
+        "Question": "What software was used to solve the governing equations for the capacitive pressure sensor in the research?",
+        "A": "Microsoft Excel",
+        "B": "MATLAB",
+        "C": "COMSOL Multiphysics",
+        "D": "Python",
+        "Answer": "C",
+        "Source": "The governing equations, including equilibrium, compatibility, and constitutive equations and the conservation of electric charge, were solved through COMSOL Multiphysics software."
+    },
+    "Question_8": {
+        "Context": "The dielectric layer of the capacitive pressure sensor incorporated diagonally arranged porous microstructures to increase flexibility and reduce stiffness.",
+        "Question": "What type of model was employed to accurately capture the behavior of the dielectric layer in the research?",
+        "A": "Hyperelastic model",
+        "B": "Linear model",
+        "C": "Rigid model",
+        "D": "Elastic model",
+        "Answer": "A",
+        "Source": "To accurately capture the behavior of the dielectric layer, which exhibits large deformations and a nonlinear stress-strain relationship, the Neo-Hookean model, a hyperelastic constitutive equation, has been employed."
+    },
+    "Question_9": {
+        "Context": "The study aimed to optimize the geometrical parameters and material properties of the capacitive pressure sensor with diagonally arranged microstructures.",
+        "Question": "What method was used to determine the best set of parameters for simulations in the research?",
+        "A": "Statistical analysis",
+        "B": "Design of Experiment method",
+        "C": "Comparative analysis",
+        "D": "Qualitative analysis",
+        "Answer": "B",
+        "Source": "The response surface methodology was used to determine the best set of parameters for simulations."
+    },
+    "Question_10": {
+        "Context": "The research aimed to optimize the geometrical parameters and material properties of the capacitive pressure sensor with diagonally arranged microstructures.",
+        "Question": "What type of design model was utilized to efficiently navigate the design space in the research?",
+        "A": "Central composite rotational design",
+        "B": "Randomized design",
+        "C": "Sequential design",
+        "D": "Factorial design",
+        "Answer": "A",
+        "Source": "In this article, we aimed to optimize the geometrical parameters and material properties of the capacitive pressure sensor with diagonally arranged microstructures. Hence, a central composite rotational design (CCRD) model of RSM has been utilized to simplify the design of the capacitive pressure sensor with effective performance."
+    }
+}

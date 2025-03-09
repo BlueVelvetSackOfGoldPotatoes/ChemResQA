@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Magnetic sensors are crucial in various applications and require a constant magnetic flux to function correctly. The brittleness of rare earth permanent magnets poses challenges in their handling and mounting.",
+        "Question": "What is a key property of the magnetic setup in devices that use magnetic sensors?",
+        "A": "Variable magnetic flux",
+        "B": "Constant magnetic flux",
+        "C": "Intermittent magnetic flux",
+        "D": "Decreasing magnetic flux",
+        "Answer": "B",
+        "Source": "A constant magnetic flux is a key property of the magnetic setup in many devices."
+    },
+    "Question_2": {
+        "Context": "Adhesive bonding of magnets in devices can lead to problems over time due to the low durability and viscous behavior of adhesive polymers.",
+        "Question": "What issue can arise from the adhesive bonding of magnets in devices?",
+        "A": "Increased magnetic flux",
+        "B": "Permanent magnet positioning",
+        "C": "Change in magnetic flux distribution",
+        "D": "Enhanced durability of the magnet",
+        "Answer": "C",
+        "Source": "State-of-the-art adhesive bonding of magnets in devices can cause problems due to the low durability and viscous behaviour of adhesive polymers, as the magnet may change its position and hence, the magnetic flux distribution in the magnetic setup changes."
+    },
+    "Question_3": {
+        "Context": "Ultrasonic welding is a technique used to join materials and is being investigated for its application with rare earth permanent magnets.",
+        "Question": "Which technique is being explored to join rare earth permanent magnets due to their brittleness?",
+        "A": "Soldering",
+        "B": "Adhesive bonding",
+        "C": "Mechanical interlocking",
+        "D": "Ultrasonic welding",
+        "Answer": "D",
+        "Source": "Ultrasonic welding is a powerful technique to join hybrid material systems quickly and reliably, providing high joint strength, even for brittle materials such as glasses, ceramics and rare earth permanent magnets."
+    },
+    "Question_4": {
+        "Context": "The performance of permanent magnets is determined by their magnetization and resistance against opposing magnetic fields.",
+        "Question": "What two main factors determine the performance of permanent magnets?",
+        "A": "Magnetization and coercive field",
+        "B": "Magnetization and electrical resistance",
+        "C": "Coercive field and thermal stability",
+        "D": "Electrical resistance and thermal stability",
+        "Answer": "A",
+        "Source": "The strength of the magnetic field the magnets can create, the magnetization M, and the resistance against opposing magnetic fields, the coercive field Hc determine the performance of permanent magnets."
+    },
+    "Question_5": {
+        "Context": "NdFeB type magnets are known for their high magnetization, while SmCo type magnets are suitable for high temperature applications.",
+        "Question": "Which type of rare earth permanent magnet is known for its high magnetization?",
+        "A": "SmCo",
+        "B": "AlNiCo",
+        "C": "NdFeB",
+        "D": "Ferrite",
+        "Answer": "C",
+        "Source": "NdFeB type magnets provide the highest magnetization and SmCo type magnets can tolerate high temperature applications up to 350 \u00b0C."
+    },
+    "Question_6": {
+        "Context": "The ultrasonic welding process depends on various parameters, including the amplitude, force, and energy.",
+        "Question": "Which parameters are important for the ultrasonic welding process?",
+        "A": "Temperature, pressure, and time",
+        "B": "Amplitude, force, and energy",
+        "C": "Voltage, current, and resistance",
+        "D": "Frequency, amplitude, and temperature",
+        "Answer": "B",
+        "Source": "Welding amplitude, force and energy, or time are important process parameters."
+    },
+    "Question_7": {
+        "Context": "In ultrasonic welding, the sonotrode oscillates to induce deformation in the joining partners.",
+        "Question": "What is the role of the sonotrode in ultrasonic welding?",
+        "A": "To apply heat to the joining partners",
+        "B": "To induce an electric current in the joining partners",
+        "C": "To induce elastic and plastic deformation in the joining partners",
+        "D": "To apply adhesive to the joining partners",
+        "Answer": "C",
+        "Source": "The sonotrode oscillates with a certain amplitude, inducing an equivalent elastic and plastic deformation amplitude in the joining partners, that are closely pressed together by the welding force."
+    },
+    "Question_8": {
+        "Context": "The ultrasonic welding of metals involves the flattening of surface topography and breaking up of oxide layers to form a joint.",
+        "Question": "What happens to the surface structures of the joining partners in metal/metal ultrasonic welding?",
+        "A": "They are coated with a protective layer",
+        "B": "They are flattened and plastically deformed",
+        "C": "They are chemically treated for corrosion resistance",
+        "D": "They are heated to a melting point",
+        "Answer": "B",
+        "Source": "In the case of metal/metal joints, as investigated in this work, the peaks of the topography are flattened and plastically deformed and the surface structures of the joining partners assimilate in the first step."
+    },
+    "Question_9": {
+        "Context": "The ultrasonic welding process was adapted to join stainless steel to Ni/Cu/Ni-coated Nd2Fe14B magnets.",
+        "Question": "What materials were joined using the adapted ultrasonic welding process?",
+        "A": "Stainless steel to Ni/Cu/Ni-coated Nd2Fe14B",
+        "B": "Aluminium to SmCo",
+        "C": "Copper to ferrite",
+        "D": "Titanium to AlNiCo",
+        "Answer": "A",
+        "Source": "The ultrasonic welding process was adapted to join 316L stainless steel, representing potential components of magnetic devices, to Ni/Cu/Ni-coated Nd2Fe14B."
+    },
+    "Question_10": {
+        "Context": "The joint strength and magnetic flux density were evaluated to quantify the performance of the welded hybrid material systems.",
+        "Question": "What were the two main performance metrics evaluated for the welded hybrid material systems?",
+        "A": "Electrical conductivity and thermal stability",
+        "B": "Corrosion resistance and magnetic flux density",
+        "C": "Joint strength and magnetic flux density",
+        "D": "Coercive field and magnetization",
+        "Answer": "C",
+        "Source": "To quantify the performance of the hybrid material systems, the joint strength and the magnetic flux density were determined and evaluated in relation to the flux of a single Nd2Fe14B, magnet in its initial state."
+    }
+}

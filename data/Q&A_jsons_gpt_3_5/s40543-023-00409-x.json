@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of a new aptamer-based detection and separation technique for Staphylococcus aureus. ",
+        "Question": "What is the main advantage of the developed technique for detecting and isolating Staphylococcus aureus?",
+        "A": "High cost",
+        "B": "Low specificity",
+        "C": "High sensitivity",
+        "D": "Long detection time",
+        "Answer": "C",
+        "Source": "In addition to high sensitivity, the method also demonstrates high selectivity for the identification and isolation of S. aureus, making it a useful instrument for reporting S. aureus infections."
+    },
+    "Question_2": {
+        "Context": "The paper introduces a novel fluorescent sensing platform for ultra-sensitive detection and low-speed centrifugation-based isolation of S. aureus.",
+        "Question": "What is the limit of detection (LOD) achieved by the developed method?",
+        "A": "100 cfu/mL",
+        "B": "50 cfu/mL",
+        "C": "21 cfu/mL",
+        "D": "10 cfu/mL",
+        "Answer": "C",
+        "Source": "The limit of detection (LOD) is calculated to be 21 cfu/mL using the 3SD/slope rule, making it competitive with or superior to other well-established methods for detecting S. aureus while retaining the advantages of low-speed centrifugation-based isolation."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the construction of the detection scaffold using rolling circle amplification.",
+        "Question": "What is the purpose of the primer sequences and padlock sequences mixed in the tube during the construction of the detection scaffold?",
+        "A": "To detect fluorescence signals",
+        "B": "To amplify DNA",
+        "C": "To build the detection scaffold",
+        "D": "To isolate bacteria",
+        "Answer": "C",
+        "Source": "In a tube containing 10 \u03bcL PBS buffer, 5 \u03bcL primer sequences and 5 \u03bcL padlock sequences were mixed. After 15 min of incubation at room temperature, 1 \u03bcL of T4 DNA ligase was added."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the analytical performance of the developed method for detecting Staphylococcus aureus.",
+        "Question": "What was used to evaluate the selectivity of the developed platform?",
+        "A": "Different incubation times",
+        "B": "Different centrifugal speeds",
+        "C": "Different bacterial strains",
+        "D": "Different fluorescent dyes",
+        "Answer": "C",
+        "Source": "Possible interfering microorganisms, such as P. aeruginosa, E. coli, and S. enterica, were evaluated to determine the selectivity of the created platform."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the construction of the detection scaffold using rolling circle amplification.",
+        "Question": "What is the purpose of the SYBR Green I dye used in the fluorescent assay?",
+        "A": "To bind to dsDNA",
+        "B": "To amplify DNA",
+        "C": "To detect bacteria",
+        "D": "To isolate bacteria",
+        "Answer": "A",
+        "Source": "A fluorescent assay was carried out, capitalizing on SYBR Green I\u2019s specific characterization of the stem section in hairpin structure, to verify the RCA process and to test for the creation of the repeating hairpin structure in the detection scaffold."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the construction of the detection scaffold using rolling circle amplification.",
+        "Question": "What enzyme was added after the incubation at 70\u00b0C for 5 minutes during the construction of the detection scaffold?",
+        "A": "Phi29 enzyme",
+        "B": "DNA ligase T4",
+        "C": "DNA polymerase",
+        "D": "T4 DNA ligase",
+        "Answer": "A",
+        "Source": "After heating to 90 \u00b0C for 10 min, the mixture was allowed to cool to room temperature to construct the detection scaffold. After that, 1 \u03bcL of phi29 enzyme was added, and the mixture was incubated at 30 \u00b0C for 2 h."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the analytical performance of the developed method for detecting Staphylococcus aureus.",
+        "Question": "What was the correlation coefficient between the recorded fluorescence intensity and the concentrations of Staphylococcus aureus?",
+        "A": "0.5",
+        "B": "0.8",
+        "C": "0.9",
+        "D": "0.9943",
+        "Answer": "D",
+        "Source": "With a correlation coefficient of 0.9943, the corresponding equation is as follows: Y = Y = 476.9 * lgC \u2212 342.5."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the construction of the detection scaffold using rolling circle amplification.",
+        "Question": "What is the purpose of the H3 probe in the developed method?",
+        "A": "To bind to dsDNA",
+        "B": "To release fluorescent signals",
+        "C": "To amplify DNA",
+        "D": "To detect bacteria",
+        "Answer": "B",
+        "Source": "The H3 probe was labeled with Cy3 and quenching moiety BHQ on 3\u2019 terminal and 5\u2019 terminal, respectively. In addition, the DNAzyme recognizing site and cleavage site (rA) was in the loop section of H3 probe. The H3 hairpin signal probe is recognized and cleaved by the active DNAzyme, allowing Cy3 fluorescent signals to be released."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the construction of the detection scaffold using rolling circle amplification.",
+        "Question": "What is the purpose of the aptamer sequence in the ssDNA product?",
+        "A": "To amplify DNA",
+        "B": "To detect bacteria",
+        "C": "To prevent signal amplification",
+        "D": "To trigger signal amplification",
+        "Answer": "C",
+        "Source": "The aptamer sequence prevents the \u201c2\u2019\u201d motif from activating signal amplification in the hairpin structure."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the construction of the detection scaffold using rolling circle amplification.",
+        "Question": "What is the main advantage of the developed method over previously published approaches for detecting Staphylococcus aureus?",
+        "A": "Long detection time",
+        "B": "Low sensitivity",
+        "C": "High sensitivity",
+        "D": "High cost",
+        "Answer": "C",
+        "Source": "Our method\u2019s developed detection scaffold maintains precise target recognition and aggregation, high sensitivity, and greatly simplified detection procedures when compared to previously published approaches for detecting S. aureus."
+    }
+}

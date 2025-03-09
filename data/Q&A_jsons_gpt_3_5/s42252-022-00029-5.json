@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on producing superhydrophobic electrospun fibrous mats from PHBV/SiO2 composites. The incorporation of SiO2-NPs and surface modification with SA were key aspects of the experiment.",
+        "Question": "What was the purpose of incorporating SiO2-NPs into the electrospinning solutions?",
+        "A": "To increase fiber thickness",
+        "B": "To induce a non-wetting state",
+        "C": "To decrease fiber roughness",
+        "D": "To enhance fiber flexibility",
+        "Answer": "B",
+        "Source": "Incorporation of SiO2-NPs changes the wetting state to a Wenzel non-wetting state caused by the partial encapsulation of the NPs within the fiber morphology, which creates the required fiber surface roughness."
+    },
+    "Question_2": {
+        "Context": "The study involved modifying the static wetting behavior of fibrous mats by incorporating SiO2-NPs into the electrospinning solutions.",
+        "Question": "How did the incorporation of SiO2-NPs affect the initial water contact angles of the fibrous mats?",
+        "A": "Decreased the water contact angles",
+        "B": "Increased the water contact angles",
+        "C": "Maintained the water contact angles",
+        "D": "Changed the water contact angles to 90\u00b0",
+        "Answer": "B",
+        "Source": "The obtained initial WCAs for different SiO2 concentration were in the range of 125\u00b0 to 141\u00b0."
+    },
+    "Question_3": {
+        "Context": "The study explored the effects of surface modification with SA on the PHBV/SiO2 composite fibers.",
+        "Question": "What was the main purpose of surface modification with SA?",
+        "A": "To decrease fiber flexibility",
+        "B": "To increase fiber roughness",
+        "C": "To induce a dynamic roll-off",
+        "D": "To enhance fiber thickness",
+        "Answer": "C",
+        "Source": "The composite fiber mats were surface modified via interaction with SA to facilitate a dynamic roll-off by inducing a tertiary roughness upon the plasticization of PHBV/SiO2 composites."
+    },
+    "Question_4": {
+        "Context": "The study involved analyzing the thermal properties of PHBV fibers following the incorporation of SiO2-NPs and surface modification with SA.",
+        "Question": "How did the incorporation of SiO2-NPs and SA modification affect the melting temperature of PHBV fibers?",
+        "A": "Increased the melting temperature",
+        "B": "Decreased the melting temperature",
+        "C": "Maintained the melting temperature",
+        "D": "Changed the melting temperature to 100\u00b0C",
+        "Answer": "B",
+        "Source": "The thermal analysis demonstrated that the incorporation of SiO2-NPs and plasticization by SA decreased the crystallinity and altered the melting temperature of PHBV."
+    },
+    "Question_5": {
+        "Context": "The study included FTIR analysis to characterize the chemical interactions in the PHBV/SiO2 composite fibers.",
+        "Question": "What was the main finding regarding the interaction between SiO2-NPs and PHBV in the composite fibers?",
+        "A": "Chemical bonding between SiO2-NPs and PHBV",
+        "B": "Physical incorporation of SiO2-NPs into the composite",
+        "C": "Decrease in SiO2-NPs concentration",
+        "D": "Increase in SiO2-NPs concentration",
+        "Answer": "B",
+        "Source": "The SiO2-NPs were incorporated into the PHBV fiber matrix and apparently did not influence the chemical structure of the PHBV matrix."
+    },
+    "Question_6": {
+        "Context": "The study investigated the wettability behavior of the fibrous surfaces before and after surface modification with SA.",
+        "Question": "What was the primary outcome of the surface modification with SA in terms of wettability?",
+        "A": "Decreased water contact angles",
+        "B": "Increased water contact angles",
+        "C": "Maintained water contact angles",
+        "D": "Changed water contact angles to 180\u00b0",
+        "Answer": "B",
+        "Source": "Surface modified beadless microfiber composites showed improved static WCAs in the range of 145.8\u00b0 \u00b1 2.7\u00b0, relative to WCAs observed during the droplet collapse measurements."
+    },
+    "Question_7": {
+        "Context": "The study aimed to create superhydrophobic fibrous surfaces using a combination of SiO2-NPs incorporation and SA surface modification.",
+        "Question": "What was the primary advantage of the surface modified MNS bilayer composite?",
+        "A": "High droplet adhesion",
+        "B": "Low sliding angles",
+        "C": "Low water contact angles",
+        "D": "High surface roughness",
+        "Answer": "B",
+        "Source": "SA modified MNS bilayer of the PHBV/SiO2 composite is an ideal design for superhydrophobic fibrous surfaces, characterized by the highest contact angle of approximately 155.3\u00b0 and roll-off angle of less than 4\u00b0."
+    },
+    "Question_8": {
+        "Context": "The study explored the effects of SiO2-NPs incorporation on the fiber morphology and wetting behavior of the PHBV fibrous mats.",
+        "Question": "What change was observed in the fiber morphology with the addition of SiO2-NPs?",
+        "A": "Decreased fiber roughness",
+        "B": "Increased fiber porosity",
+        "C": "Maintained fiber thickness",
+        "D": "Changed fiber color",
+        "Answer": "B",
+        "Source": "The incorporation of NPs created surface roughness in each case. This roughness was, however, more pronounced in the beaded nanofibers than the beadless microfibers."
+    },
+    "Question_9": {
+        "Context": "The study focused on the thermal properties of PHBV fibers following surface modification with SA.",
+        "Question": "How did the surface modification with SA affect the melting enthalpy of the PHBV fibers?",
+        "A": "Increased the melting enthalpy",
+        "B": "Decreased the melting enthalpy",
+        "C": "Maintained the melting enthalpy",
+        "D": "Changed the melting enthalpy to 50 J/g",
+        "Answer": "B",
+        "Source": "The interaction of the polar groups of SA molecules with the PHBV fibrous mats presumably affects the intramolecular structures of the PHBV chains. This altering of the PHBV structure decreases the degree of crystallinity which can be predicted from the lowering of melting enthalpy after surface modification of PHBV fibers."
+    },
+    "Question_10": {
+        "Context": "The study included FTIR analysis to characterize the chemical interactions in the PHBV/SiO2 composite fibers.",
+        "Question": "What was the main finding regarding the interaction between SA and PHBV in the composite fibers?",
+        "A": "Physical incorporation of SA into the composite",
+        "B": "Chemical bonding between SA and PHBV",
+        "C": "Decrease in SA concentration",
+        "D": "Increase in SA concentration",
+        "Answer": "A",
+        "Source": "FTIR analysis confirmed the interaction of the polar carboxyl groups of SA with the PHBV chains; however, the successful plasticization of PHBV/SiO2 composites is limited to low SA concentrations."
+    }
+}

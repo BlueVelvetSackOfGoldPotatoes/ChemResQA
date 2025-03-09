@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In fluid dynamics, the flow of nanofluids through channels can be influenced by various factors including the geometry of the channel, the presence of an external heating source, and the initial conditions of the flow.",
+        "Question": "Which type of flow is characterized by a laminar regime and can be modified by changing the channel geometry, adding an external heating source, or altering the initial flow conditions?",
+        "A": "Turbulent flow",
+        "B": "Laminar flow",
+        "C": "Transitional flow",
+        "D": "Compressible flow",
+        "Answer": "B",
+        "Source": "The laminar 2-D blended convection of the nanofluids at different volume fractions has gained interest in the last decade due to an enormous application in technology. The laminar-flow stream system can be further modified by changing the geometry of the channel, adding an external heating source, and changing the initial conditions at which the stream is being influenced."
+    },
+    "Question_2": {
+        "Context": "In the study of fluid dynamics, the Reynolds number is a dimensionless quantity that is used to predict flow patterns in different fluid flow situations. It is one of the parameters that can be varied to investigate the behavior of fluid systems.",
+        "Question": "What parameter, often used in fluid dynamics to characterize different types of fluid flow, can be varied from 100 to 500 to investigate the behavior of nanofluids in a channel?",
+        "A": "Nusselt number",
+        "B": "Prandtl number",
+        "C": "Reynolds number",
+        "D": "Grashof number",
+        "Answer": "C",
+        "Source": "The investigation of this system includes the variation of the geometrical parameters of the channel, Reynolds number, Nusselt number, and type of the nanoparticles used in preparing the nanofluid with water as the base fluid."
+    },
+    "Question_3": {
+        "Context": "In heat transfer analysis, the Nusselt number is a dimensionless number that represents the ratio of convective to conductive heat transfer across a boundary. It is used to characterize the efficiency of heat transfer in fluid systems.",
+        "Question": "Which dimensionless number, indicative of the efficiency of heat transfer in fluid systems, was found to have the highest value when using SiO2 nanofluids?",
+        "A": "Reynolds number",
+        "B": "Prandtl number",
+        "C": "Grashof number",
+        "D": "Nusselt number",
+        "Answer": "D",
+        "Source": "The numerical study has shown that the nanofluid with SiO2 has the highest value of the Nusselt number (Nu)."
+    },
+    "Question_4": {
+        "Context": "In the study of nanofluids, the type of nanoparticles used can significantly affect the properties of the fluid. Common nanoparticles include metal oxides such as aluminum oxide and silicon dioxide.",
+        "Question": "Which of the following nanoparticles, when added to water as a base fluid, can form a nanofluid?",
+        "A": "Silicon carbide (SiC)",
+        "B": "Aluminum oxide (Al2O3)",
+        "C": "Iron sulfide (FeS)",
+        "D": "Calcium carbonate (CaCO3)",
+        "Answer": "B",
+        "Source": "The nanofluids were made by adding aluminum oxide (Al2O3), copper oxide (CuO), silicon dioxide (SiO2), or zinc oxide (ZnO) nanoparticles to various volume fractions in the scope of 1 to 4% and diverse nanoparticle diameters of 25 to 80 nm."
+    },
+    "Question_5": {
+        "Context": "The thermal conductivity of nanofluids can be enhanced by the addition of nanoparticles. This enhancement can be attributed to the increased surface area and interactions at the nanoscale.",
+        "Question": "What property of nanofluids is enhanced by the addition of nanoparticles such as aluminum oxide or silicon dioxide?",
+        "A": "Viscosity",
+        "B": "Density",
+        "C": "Thermal conductivity",
+        "D": "Specific heat capacity",
+        "Answer": "C",
+        "Source": "It is found that more testing demonstrates that NFs enhance the properties of the heat flux by increasing the flux conductivity and the convective heat transfer coefficients."
+    },
+    "Question_6": {
+        "Context": "The volume fraction of nanoparticles within a nanofluid is a critical parameter that can influence the fluid's thermal properties and behavior.",
+        "Question": "What term is used to describe the percentage of nanoparticles dispersed within a base fluid in a nanofluid?",
+        "A": "Mass fraction",
+        "B": "Molar fraction",
+        "C": "Volume fraction",
+        "D": "Weight fraction",
+        "Answer": "C",
+        "Source": "The nanofluids were made by adding aluminum oxide (Al2O3), copper oxide (CuO), silicon dioxide (SiO2), or zinc oxide (ZnO) nanoparticles to various volume fractions in the scope of 1 to 4% and diverse nanoparticle diameters of 25 to 80 nm."
+    },
+    "Question_7": {
+        "Context": "The step height in a channel flow can be a variable parameter in the study of fluid dynamics, affecting the flow behavior and heat transfer characteristics.",
+        "Question": "In the context of channel flow, what term refers to the height of an obstruction or change in channel geometry that can influence fluid flow and heat transfer?",
+        "A": "Channel depth",
+        "B": "Step height",
+        "C": "Flow elevation",
+        "D": "Boundary rise",
+        "Answer": "B",
+        "Source": "The calculations were performed with heat flux, Reynolds numbers (Re), and step height (S) at a range of 100 < < 600 W/m2, 100 < Re < 500, and 3 \u2264 S \u2264 5.8, respectively."
+    },
+    "Question_8": {
+        "Context": "The diameter of nanoparticles used in the preparation of nanofluids can vary, affecting the fluid's thermal properties and the efficiency of heat transfer.",
+        "Question": "In the preparation of nanofluids, what range of nanoparticle diameters was considered in the study?",
+        "A": "5 to 20 nm",
+        "B": "25 to 80 nm",
+        "C": "100 to 150 nm",
+        "D": "200 to 250 nm",
+        "Answer": "B",
+        "Source": "The nanofluids were made by adding aluminum oxide (Al2O3), copper oxide (CuO), silicon dioxide (SiO2), or zinc oxide (ZnO) nanoparticles to various volume fractions in the scope of 1 to 4% and diverse nanoparticle diameters of 25 to 80 nm."
+    },
+    "Question_9": {
+        "Context": "In fluid dynamics, the term 'adiabatic' refers to a condition where no heat is transferred to or from the fluid, often used to describe surfaces or processes.",
+        "Question": "What does the term 'adiabatic' refer to when describing the conditions of a surface in fluid dynamics?",
+        "A": "A surface that radiates heat",
+        "B": "A surface that absorbs heat",
+        "C": "A surface that conducts heat",
+        "D": "A surface that does not exchange heat",
+        "Answer": "D",
+        "Source": "The upstream walls of the regressive confronting step were considered as adiabatic surfaces."
+    },
+    "Question_10": {
+        "Context": "In the study of heat transfer in fluid systems, the term 'heat flux' refers to the rate of heat energy transfer through a given surface per unit time.",
+        "Question": "What is the term 'heat flux' used to describe in the context of heat transfer in fluid systems?",
+        "A": "The temperature difference across a surface",
+        "B": "The rate of heat energy transfer through a surface",
+        "C": "The specific heat capacity of a fluid",
+        "D": "The thermal resistance of a material",
+        "Answer": "B",
+        "Source": "The calculations were performed with heat flux, Reynolds numbers (Re), and step height (S) at a range of 100 < < 600 W/m2, 100 < Re < 500, and 3 \u2264 S \u2264 5.8, respectively."
+    }
+}

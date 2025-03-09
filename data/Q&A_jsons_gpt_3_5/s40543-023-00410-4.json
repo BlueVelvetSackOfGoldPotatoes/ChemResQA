@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the detection of miRNA-21 using a novel method. The method involves target sequence recycling and G-quadruplex-based signal production. What is the detection limit of miRNA-21 using this method?",
+        "Question": "What is the detection limit of miRNA-21 using the novel method described in the study?",
+        "A": "10 fM",
+        "B": "4.4 fM",
+        "C": "25 pM",
+        "D": "90 fM",
+        "Answer": "B",
+        "Source": "The calculation of the detection limit is determined to be 4.4 fM using the 3 s standard."
+    },
+    "Question_2": {
+        "Context": "The study discusses the optimization of various experimental parameters. What was the determined ideal concentration of ThT for the best fluorescence emission intensity?",
+        "Question": "What was the determined ideal concentration of ThT for the best fluorescence emission intensity in the study?",
+        "A": "5 mM",
+        "B": "10 mM",
+        "C": "15 mM",
+        "D": "20 mM",
+        "Answer": "B",
+        "Source": "The fluorescence intensity exhibits an upward trend within the examined range of concentrations. This trend culminates in a peak value at 10 mM, signifying the ideal concentration of ThT to be 10 mM."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the selectivity of the proposed detection approach for miRNA-21. How did the fluorescence intensities of control molecules compare to that of miRNA-21?",
+        "Question": "How did the fluorescence intensities of control molecules compare to that of miRNA-21 in the selectivity study?",
+        "A": "Control molecules had higher fluorescence intensities.",
+        "B": "Control molecules had lower fluorescence intensities.",
+        "C": "Control molecules had similar fluorescence intensities.",
+        "D": "Control molecules had no fluorescence intensities.",
+        "Answer": "B",
+        "Source": "Although the concentration of the control molecules (10 nM) is ten times higher than that of miRNA-21 (1 nM), the matching fluorescence intensities show only slight differences when tested against a blank."
+    },
+    "Question_4": {
+        "Context": "The study conducted recovery tests in diluted serum samples. What was the range of miRNA-21 recovery rates observed in the diluted serum samples?",
+        "Question": "What was the range of miRNA-21 recovery rates observed in the diluted serum samples in the study?",
+        "A": "95-97%",
+        "B": "99-101%",
+        "C": "102-105%",
+        "D": "107-110%",
+        "Answer": "B",
+        "Source": "Table 2 shows that the miRNA-21 recovery rate was between 99.2 and 102.1%, indicating that the suggested approach is able to quantify miRNA-21 in complicated matrix samples."
+    },
+    "Question_5": {
+        "Context": "The study discusses the construction of the detection scaffold and the feasibility of the method. What was the fluorescence response when the catalytic chain was present in the sensing system?",
+        "Question": "What was the fluorescence response when the catalytic chain was present in the sensing system during the construction of the detection scaffold?",
+        "A": "No change in fluorescence intensity",
+        "B": "Decrease in fluorescence intensity",
+        "C": "Slight increase in fluorescence intensity",
+        "D": "Significant increase in fluorescence intensity",
+        "Answer": "D",
+        "Source": "The coexistence of DNA polymerase and endonuclease in the sensing system resulted in a significant increase in the Cy3 signal."
+    },
+    "Question_6": {
+        "Context": "The study investigated the impact of various concentrations of ThT on the fluorescence emission intensity. What was the observed trend in fluorescence intensity with increasing ThT concentration?",
+        "Question": "What was the observed trend in fluorescence intensity with increasing ThT concentration in the study?",
+        "A": "Decrease in fluorescence intensity",
+        "B": "No change in fluorescence intensity",
+        "C": "Fluorescence intensity peaked and then decreased",
+        "D": "Increase in fluorescence intensity",
+        "Answer": "D",
+        "Source": "In a similar vein, it can be shown that the fluorescence intensity exhibits an upward trend within the examined range of concentrations."
+    },
+    "Question_7": {
+        "Context": "The study evaluated the sensitivity of the sensing probes towards the target sequence. What was the calculated regression equation for the relationship between fluorescence emission intensity and miRNA-21 concentration?",
+        "Question": "What was the calculated regression equation for the relationship between fluorescence emission intensity and miRNA-21 concentration in the study?",
+        "A": "F = 45.96*lgC + 120.2 (R2 = 0.9936)",
+        "B": "F = 30.5*lgC + 150.7 (R2 = 0.9874)",
+        "C": "F = 55.2*lgC + 110.8 (R2 = 0.9982)",
+        "D": "F = 40.1*lgC + 130.4 (R2 = 0.9953)",
+        "Answer": "A",
+        "Source": "The obtained regression equation is F = 45.96*lgC + 120.2 (R2 = 0.9936)."
+    },
+    "Question_8": {
+        "Context": "The study discussed the application of the proposed method for diluted serum samples. How did the miRNA-21 recovery rates in the diluted serum samples compare to the added concentrations?",
+        "Question": "How did the miRNA-21 recovery rates in the diluted serum samples compare to the added concentrations in the study?",
+        "A": "Recovery rates were lower than the added concentrations.",
+        "B": "Recovery rates were higher than the added concentrations.",
+        "C": "Recovery rates were equal to the added concentrations.",
+        "D": "Recovery rates were not reported.",
+        "Answer": "C",
+        "Source": "Table 2 shows that the miRNA-21 recovery rate was between 99.2 and 102.1%, indicating that the suggested approach is able to quantify miRNA-21 in complicated matrix samples."
+    },
+    "Question_9": {
+        "Context": "The study discussed the feasibility of the proposed approach. What was the impact of the reaction time on the fluorescence response?",
+        "Question": "What was the impact of the reaction time on the fluorescence response in the study?",
+        "A": "Fluorescence intensity decreased with longer reaction times.",
+        "B": "Fluorescence intensity increased with longer reaction times.",
+        "C": "Fluorescence intensity remained constant with longer reaction times.",
+        "D": "Fluorescence intensity peaked at a specific reaction time.",
+        "Answer": "B",
+        "Source": "The acquired fluorescence response increases quickly as reaction time is extended in the region of 30\u2013120 min."
+    },
+    "Question_10": {
+        "Context": "The study evaluated the impact of different concentrations of the catalytic chain on the fluorescence response. What was the determined ideal concentration of the catalytic chain for the most favorable results?",
+        "Question": "What was the determined ideal concentration of the catalytic chain for the most favorable results in the study?",
+        "A": "50 nM",
+        "B": "100 nM",
+        "C": "150 nM",
+        "D": "200 nM",
+        "Answer": "B",
+        "Source": "The fluorescence response exhibited a steady increase with the rise in the concentration of the catalytic chain, eventually reaching a plateau at 100 nM."
+    }
+}

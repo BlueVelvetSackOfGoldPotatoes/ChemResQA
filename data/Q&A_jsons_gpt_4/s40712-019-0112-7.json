@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of materials science, functionally graded materials (FGMs) are used to create components with varying properties across their volume, which can be beneficial for certain applications.",
+        "Question": "What is the primary application of functionally graded material shafts?",
+        "A": "Structural support in buildings",
+        "B": "Main parts of many modern rotary machines",
+        "C": "Electrical insulation",
+        "D": "Thermal insulation",
+        "Answer": "B",
+        "Source": "Functionally graded material shafts are the main part of many modern rotary machines such as turbines and electric motors."
+    },
+    "Question_2": {
+        "Context": "In materials science, the study of elastic-plastic deformation is crucial for understanding how materials behave under stress, especially in rotating machinery where centrifugal effects are significant.",
+        "Question": "What is the significance of determining the maximum allowed angular velocity of a hollow functionally graded material rotating shaft?",
+        "A": "To ensure the shaft can withstand high temperatures",
+        "B": "To prevent electrical overloading",
+        "C": "To ensure the shaft can withstand high centrifugal effects",
+        "D": "To maximize the magnetic properties",
+        "Answer": "C",
+        "Source": "The purpose of this study is to present an analytical solution of the elastic-plastic deformation of functionally graded material hollow rotor under a high centrifugal effect and finally determine the maximum allowed angular velocity of a hollow functionally graded material rotating shaft."
+    },
+    "Question_3": {
+        "Context": "In the study of materials, Young's modulus is a measure of the stiffness of a material, while density and yield stress are related to its mass per unit volume and the stress at which it begins to deform plastically.",
+        "Question": "What variable property is often considered alone in earlier researches of functionally graded material shafts?",
+        "A": "Density",
+        "B": "Yield stress",
+        "C": "Young's modulus",
+        "D": "Thermal conductivity",
+        "Answer": "C",
+        "Source": "Considering variable density and yield stress causes yielding onset from inner, outer, or simultaneously from both inner and outer rotor shaft radius in contrast to earlier researches that modulus of elasticity was the only variable."
+    },
+    "Question_4": {
+        "Context": "In materials science, Tresca's yield criterion is a method used to predict yielding of materials under complex loading conditions.",
+        "Question": "What yield criterion is used in the study to determine the onset of yielding in a functionally graded material elastic fully plastic hollow rotating shaft?",
+        "A": "Von Mises yield criterion",
+        "B": "Mohr-Coulomb yield criterion",
+        "C": "Tresca's yield criterion",
+        "D": "Rankine yield criterion",
+        "Answer": "C",
+        "Source": "The effects of the density on the failure of a functionally graded material elastic fully plastic in a hollow rotating shaft are investigated for the first time in this study with regard to Tresca\u2019s yield criterial."
+    },
+    "Question_5": {
+        "Context": "In the context of rotating machinery, the equilibrium equation is used to describe the balance of forces within a rotating object.",
+        "Question": "What is the equilibrium equation for a hollow rotor with variable properties?",
+        "A": "d/dr (r\u03c3r) - \u03c3\u03b8 = -\u03c1r^2\u03c9^2",
+        "B": "d/dr (r\u03c3\u03b8) - \u03c3r = -\u03c1r^2\u03c9^2",
+        "C": "d/dr (r\u03c3z) - \u03c3\u03b8 = -\u03c1r^2\u03c9^2",
+        "D": "d/dr (r\u03c3r) + \u03c3\u03b8 = \u03c1r^2\u03c9^2",
+        "Answer": "A",
+        "Source": "By formulating in the cylindrical coordinate system (r, \u03b8, z) for an infinitely long tube which rotates about longitude axis: d/dr (r\u03c3r) - \u03c3\u03b8 = -\u03c1r^2\u03c9^2"
+    },
+    "Question_6": {
+        "Context": "In the study of materials, the relationship between strain and radial displacement is important for understanding how materials deform under stress.",
+        "Question": "What is the relationship between strain (\u03b5) and radial displacement (u) in the context of a rotating hollow rotor?",
+        "A": "\u03b5r = du(r)/dr; \u03b5\u03b8 = u(r)/r",
+        "B": "\u03b5r = dr/u(r); \u03b5\u03b8 = r/u(r)",
+        "C": "\u03b5r = u(r)/dr; \u03b5\u03b8 = dr/u(r)",
+        "D": "\u03b5r = r/du(r); \u03b5\u03b8 = dr/u(r)",
+        "Answer": "A",
+        "Source": "The strain and radial displacement relation is: \u03b5r = du(r)/dr; \u03b5\u03b8 = u(r)/r"
+    },
+    "Question_7": {
+        "Context": "In materials science, the modulus of elasticity, density, and yield stress are fundamental properties that can vary with the radial dimension in functionally graded materials.",
+        "Question": "How are the modulus of elasticity (E), density (\u03c1), and yield stress (\u03c3Y) expressed as functions of the radial dimension (r) in the context of functionally graded materials?",
+        "A": "E(r) = E0(r/b)^nE; \u03c1(r) = \u03c10(r/b)^n\u03c1; \u03c3Y(r) = \u03c30(r/b)^n\u03c3",
+        "B": "E(r) = E0(b/r)^nE; \u03c1(r) = \u03c10(b/r)^n\u03c1; \u03c3Y(r) = \u03c30(b/r)^n\u03c3",
+        "C": "E(r) = E0ln(r/b); \u03c1(r) = \u03c10ln(r/b); \u03c3Y(r) = \u03c30ln(r/b)",
+        "D": "E(r) = E0e^(r/b); \u03c1(r) = \u03c10e^(r/b); \u03c3Y(r) = \u03c30e^(r/b)",
+        "Answer": "A",
+        "Source": "Here, modulus of elasticity, density, and yield stress are functions of radial dimension: E(r) = E0(r/b)^nE; \u03c1(r) = \u03c10(r/b)^n\u03c1; \u03c3Y(r) = \u03c30(r/b)^n\u03c3"
+    },
+    "Question_8": {
+        "Context": "In the study of rotating machinery, the concept of plane strain condition is applied to long tubes to simplify the analysis of material behavior.",
+        "Question": "What does the plane strain condition imply for a long tube in the context of material behavior analysis?",
+        "A": "The longitude strain is zero",
+        "B": "The radial strain is zero",
+        "C": "The hoop strain is zero",
+        "D": "All strains are zero",
+        "Answer": "A",
+        "Source": "Plane strain condition is due to a long tube which causes the zero value for the longitude strain."
+    },
+    "Question_9": {
+        "Context": "In materials science, the generalized Hook's law is used to relate stress and strain for isotropic materials.",
+        "Question": "What is the generalized Hook's law formula for the radial stress (\u03c3r) in terms of radial displacement (u) and Poisson's ratio (v)?",
+        "A": "\u03c3r = E((1 + v)/(1-2v))((1-v)du(r)/dr + v(u(r)/r))",
+        "B": "\u03c3r = E((1 - v)/(1+2v))((1+v)du(r)/dr - v(u(r)/r))",
+        "C": "\u03c3r = E((1 - v)/(1-2v))((1+v)du(r)/dr + v(u(r)/r))",
+        "D": "\u03c3r = E((1 + v)/(1+2v))((1-v)du(r)/dr - v(u(r)/r))",
+        "Answer": "A",
+        "Source": "Manipulating stress-strain and radial displacement: \u03c3r = E((1 + v)/(1-2v))((1-v)du(r)/dr + v(u(r)/r))"
+    },
+    "Question_10": {
+        "Context": "In the context of rotating machinery, the non-dimensional parameters are introduced to simplify the analysis and make the results independent of material properties.",
+        "Question": "Which of the following is a correct expression for a non-dimensional quantity in the analysis of a rotating hollow rotor?",
+        "A": "r = r/b; h = a/b; u = u/b; \u03c9^2 = \u03c10\u03c9^2b^2/E0",
+        "B": "r = b/r; h = b/a; u = b/u; \u03c9^2 = E0\u03c9^2b^2/\u03c10",
+        "C": "r = r*a; h = b*a; u = u*a; \u03c9^2 = \u03c10\u03c9^2a^2/E0",
+        "D": "r = a/r; h = a/b; u = b/u; \u03c9^2 = E0\u03c9^2a^2/\u03c10",
+        "Answer": "A",
+        "Source": "Non-dimensional quantities are presented: r = r/b; h = a/b; u = u/b; \u03c9^2 = \u03c10\u03c9^2b^2/E0"
+    }
+}

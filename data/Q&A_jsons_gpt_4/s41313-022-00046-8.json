@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In coupled cluster (CC) theory, the exponential parametrization of the ground-state wave function and the linked cluster theorem are fundamental concepts.",
+        "Question": "What is the significance of the linked cluster theorem in coupled cluster theory?",
+        "A": "It assures the additive separability of calculated energies in the non-interacting sub-system limit.",
+        "B": "It defines the shape of the molecular orbitals.",
+        "C": "It predicts the exact number of electrons in a system.",
+        "D": "It is used to calculate the spin multiplicity of molecules.",
+        "Answer": "A",
+        "Source": "The linked cluster theorem also plays a crucial role in designing formalisms that can provide the chemical accuracy needed for predicting spectroscopic data, reaction rates, and thermochemistry data. The last feature assures the so-called additive separability of the calculated energies in the non-interacting sub-system limit, which plays a critical role in the proper description of various chemical transformations such as chemical reactions that include bond breaking and bond-forming processes."
+    },
+    "Question_2": {
+        "Context": "The CCSD(T) formalism in coupled cluster theory is a well-known method that combines different levels of electron correlation.",
+        "Question": "What does the CCSD(T) formalism in coupled cluster theory combine?",
+        "A": "Single and double excitations with perturbative triples.",
+        "B": "Only double excitations and perturbative quadruples.",
+        "C": "Only single excitations with perturbative doubles.",
+        "D": "Triple and quadruple excitations with perturbative doubles.",
+        "Answer": "A",
+        "Source": "The best-known example of such class of methods is the CCSD(T) formalism (CC with singles, doubles, and perturbative triples), which combines the iterative character of the CCSD formalism (CC with single and double excitations) with perturbative techniques for determining CC energy corrections due to connected triple excitations."
+    },
+    "Question_3": {
+        "Context": "In coupled cluster theory, the cluster operator T is an essential component that defines the correlated wave function.",
+        "Question": "What does the cluster operator T in coupled cluster theory represent?",
+        "A": "The total number of electrons in the system.",
+        "B": "The potential energy surface of the molecule.",
+        "C": "The kinetic energy of the electrons.",
+        "D": "The many-body components of the wave function.",
+        "Answer": "D",
+        "Source": "The cluster operator can be represented through its many-body components Tk where individual component Tk takes the form where indices i1,i2,\u2026 (a1,a2,\u2026) refer to occupied (unoccupied) spin orbitals in the reference function |\u03a6\u232a."
+    },
+    "Question_4": {
+        "Context": "The anti-commutation rules of creation and annihilation operators are fundamental in the formulation of quantum many-body problems.",
+        "Question": "What is the anti-commutation rule for a pair of creation operators in quantum many-body theory?",
+        "A": "[a\u2020_p, a\u2020_q]+ = 0",
+        "B": "[a\u2020_p, a\u2020_q]+ = 1",
+        "C": "[a\u2020_p, a\u2020_q]+ = p+q",
+        "D": "[a\u2020_p, a\u2020_q]+ = pq",
+        "Answer": "A",
+        "Source": "The excitation operators Ea1...ak i1...ik are defined through strings of standard creation ( a\u2020_p ) and annihilation (ap) operators where creation and annihilation operators satisfy the following anti-commutation rules: [ap, aq]+ = [a\u2020_p, a\u2020_q]+ = 0."
+    },
+    "Question_5": {
+        "Context": "In quantum chemistry, the concept of active space is used to define a subset of the Hilbert space that is of particular interest for certain calculations.",
+        "Question": "What is the role of the active space in quantum chemistry?",
+        "A": "It determines the total energy of the system.",
+        "B": "It defines a subset of the Hilbert space relevant for calculations.",
+        "C": "It represents all possible quantum states of a system.",
+        "D": "It is used to calculate the spin of the system.",
+        "Answer": "B",
+        "Source": "The resulting downfolded Hamiltonians integrate out the external (out-of-active-space) Fermionic degrees of freedom from the internal (in-the-active-space) parameters of the wave function, which can be determined as components of the eigenvectors of the downfolded Hamiltonians in the active space."
+    },
+    "Question_6": {
+        "Context": "The coupled cluster (CC) downfolding techniques are used to reduce the dimensionality of quantum many-body problems.",
+        "Question": "What is the main idea behind coupled cluster downfolding techniques?",
+        "A": "To increase the computational complexity of the problem.",
+        "B": "To integrate out external degrees of freedom from internal parameters.",
+        "C": "To calculate the exact wave function for the entire Hilbert space.",
+        "D": "To determine the spin multiplicity of the ground state.",
+        "Answer": "B",
+        "Source": "The resulting downfolded Hamiltonians integrate out the external (out-of-active-space) Fermionic degrees of freedom from the internal (in-the-active-space) parameters of the wave function, which can be determined as components of the eigenvectors of the downfolded Hamiltonians in the active space."
+    },
+    "Question_7": {
+        "Context": "In the context of quantum computing, the construction of Hermitian effective Hamiltonians is crucial for the development of quantum simulations.",
+        "Question": "Why is the construction of Hermitian effective Hamiltonians important in quantum computing?",
+        "A": "They allow for the use of classical computers to solve quantum problems.",
+        "B": "They enable the use of quantum algorithms that require Hermitian operators.",
+        "C": "They simplify the quantum system to a single particle problem.",
+        "D": "They eliminate the need for quantum error correction.",
+        "Answer": "B",
+        "Source": "The Hermitian downfolding formulations were recently tested in the context of quantum simulations involving plane-wave-based molecular orbitals, demonstrating their usefulness in simulating systems with periodic boundary conditions."
+    },
+    "Question_8": {
+        "Context": "The double unitary coupled cluster (DUCC) Ansatz is a method used to derive active-space many-body forms of Hermitian downfolded Hamiltonians.",
+        "Question": "What is the role of the double unitary coupled cluster (DUCC) Ansatz?",
+        "A": "To derive active-space many-body forms of Hermitian downfolded Hamiltonians.",
+        "B": "To calculate the total number of particles in a quantum system.",
+        "C": "To determine the non-Hermitian components of a wave function.",
+        "D": "To define the exact form of the electronic Hamiltonian.",
+        "Answer": "A",
+        "Source": "Instead, using double unitary CC (DUCC) Ansatz, one can derive the active-space many-body form of Hermitian downfolded Hamiltonians."
+    },
+    "Question_9": {
+        "Context": "In quantum chemistry, the concept of renormalization is used in the context of coupled cluster downfolding to integrate out certain degrees of freedom.",
+        "Question": "What is the purpose of renormalization in the context of coupled cluster downfolding?",
+        "A": "To determine the spin orientation of electrons.",
+        "B": "To calculate the exact non-relativistic energy of the system.",
+        "C": "To integrate out external parameters defining the wave function.",
+        "D": "To increase the size of the active space.",
+        "Answer": "C",
+        "Source": "As discussed in Ref. (Kowalski 2018), configurations generated by elements of g(N)(xR, yS), along with the reference function, span the complete active space (CAS) ref- erenced to as the CAS(R,S) (or equivalently CAS(g(N)(xR, yS)))."
+    },
+    "Question_10": {
+        "Context": "The extraction of semi-analytical forms of inter-electron interactions in active spaces is a process that can be used to derive effective one- and two-body interactions.",
+        "Question": "What is the goal of extracting semi-analytical forms of inter-electron interactions in active spaces?",
+        "A": "To provide a basis for machine learning algorithms.",
+        "B": "To minimize the discrepancies with effective one- and two-body interactions.",
+        "C": "To calculate the exact electronic configuration of molecules.",
+        "D": "To determine the vibrational frequencies of molecular bonds.",
+        "Answer": "B",
+        "Source": "The access to the analytical form of the inter-electron interactions can also enable affordable and reliable ab-initio dynamics driven by low-order methods."
+    }
+}

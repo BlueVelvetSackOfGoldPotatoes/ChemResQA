@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study involves irradiation of metallic glass specimens at different temperatures.",
+        "Question": "What is the critical cooling rate (Rc) for Ti-Cu based metallic glasses?",
+        "A": "1 \u00d7 10^5 K/s",
+        "B": "3.5 \u00d7 10^12 K/s",
+        "C": "7 orders of magnitude higher than 1 \u00d7 10^5 K/s",
+        "D": "1 \u00d7 10^12 K/s",
+        "Answer": "A",
+        "Source": "The critical Rc of Ti-Cu based MGs is on the order of 1 \u00d7 10^5 K/s."
+    },
+    "Question_2": {
+        "Context": "The study involves ion irradiation of metallic glasses at different temperatures.",
+        "Question": "What is the temperature at which irradiation of a Ti40Cu29Zr10Pd14Sn2Si5 MG does not induce crystallization?",
+        "A": "440 \u00b0C",
+        "B": "450 \u00b0C",
+        "C": "460 \u00b0C",
+        "D": "480 \u00b0C",
+        "Answer": "A",
+        "Source": "Irradiation at 440 \u00b0C does not induce crystallization."
+    },
+    "Question_3": {
+        "Context": "The study involves the effects of ion irradiation on metallic glasses.",
+        "Question": "What happens to the amorphous regions with increasing ion fluence at room temperature?",
+        "A": "They become narrower.",
+        "B": "They become wider.",
+        "C": "They remain unchanged.",
+        "D": "They disappear.",
+        "Answer": "A",
+        "Source": "No noticeable ion fluence effect is observed for room temperature ion irradiation. However, when ion irradiation is carried out at a higher temperature of 250 \u00b0C, the amorphous regions become narrower with increasing fluence."
+    },
+    "Question_4": {
+        "Context": "The study involves the fabrication of patterned heterogeneous structures.",
+        "Question": "What is the proposed procedure for phase patterning of metallic glasses?",
+        "A": "Thermal annealing at 800 \u00b0C for 4 hours.",
+        "B": "Ion irradiation at room temperature.",
+        "C": "Combining ion irradiation and masking.",
+        "D": "Using physical deposition.",
+        "Answer": "C",
+        "Source": "It is feasible to combine ion irradiation and masking to modify the volume fractions in both crystalline and amorphous regions to optimize the overall mechanical behavior of the heterogeneous structure."
+    },
+    "Question_5": {
+        "Context": "The study involves the mechanical properties of patterned structures.",
+        "Question": "What effect does indentation on the crystalline region induce?",
+        "A": "Crack propagation.",
+        "B": "Nanocrystal formation.",
+        "C": "Amorphization.",
+        "D": "Dislocation creation.",
+        "Answer": "A",
+        "Source": "Indentation on the crystalline region induces crack propagation from the indenter corner."
+    },
+    "Question_6": {
+        "Context": "The study involves the formation of nanocrystals in metallic glasses.",
+        "Question": "What is the effect of hard nanocrystals on metallic glasses?",
+        "A": "Toughening.",
+        "B": "Embrittlement.",
+        "C": "Softening.",
+        "D": "No effect.",
+        "Answer": "B",
+        "Source": "Hard nanocrystals can embrittle a MG while soft nanocrystals toughen a MG."
+    },
+    "Question_7": {
+        "Context": "The study involves the fabrication of ordered nanocrystals in metallic glasses.",
+        "Question": "What is a possible application of ordered nanocrystals in a Fe-based metallic glass?",
+        "A": "Data storage device.",
+        "B": "Radiation detection.",
+        "C": "Magnetic resonance imaging.",
+        "D": "Thermal conductivity enhancement.",
+        "Answer": "B",
+        "Source": "For a Fe-based MG, it is possible to fabricate ordered nanocrystals with a given ferromagnetic property in an amorphous matrix, as a data storage device."
+    },
+    "Question_8": {
+        "Context": "The study involves the effects of ion irradiation on metallic glasses.",
+        "Question": "What is the temperature window for forming patterned heterogeneous structures using ion irradiation on an annealed metallic glass?",
+        "A": "T < ~ Tg",
+        "B": "T > ~ Tg",
+        "C": "T < Tg + ~ 20 \u00b0C",
+        "D": "T > Tg + ~ 20 \u00b0C",
+        "Answer": "A",
+        "Source": "Ion irradiation of an annealed MG can create patterned heterogeneous structures over a much larger temperature window (T < ~ Tg)."
+    },
+    "Question_9": {
+        "Context": "The study involves the effects of ion irradiation on metallic glasses.",
+        "Question": "What is the expected volume change of the amorphous phase upon irradiation?",
+        "A": "Non-linear.",
+        "B": "Linear.",
+        "C": "Exponential.",
+        "D": "No change.",
+        "Answer": "B",
+        "Source": "Upon irradiation, there is no recovery or reverse reaction in crystalline-to-amorphous phase changes. Hence, a linear volume change of the amorphous phase is expected as a function of ion fluence."
+    },
+    "Question_10": {
+        "Context": "The study involves the fabrication of patterned heterogeneous structures.",
+        "Question": "What is the preferred choice of temperature for achieving specific phase patterning using ion irradiation?",
+        "A": "Room temperature.",
+        "B": "250 \u00b0C.",
+        "C": "440 \u00b0C.",
+        "D": "800 \u00b0C.",
+        "Answer": "A",
+        "Source": "This complex behavior suggests that room temperature irradiation is the preferred choice when aiming to achieve specific phase patterning."
+    }
+}

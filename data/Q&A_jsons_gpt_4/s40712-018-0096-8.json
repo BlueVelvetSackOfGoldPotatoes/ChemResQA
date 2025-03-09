@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In vehicle dynamics, the suspension system plays a crucial role in isolating the vehicle body from road irregularities to provide ride comfort and stability. The system must balance conflicting requirements of soft suspension for comfort and stiff suspension for handling and weight support.",
+        "Question": "What is the primary function of a vehicle's suspension system?",
+        "A": "To increase fuel efficiency",
+        "B": "To isolate the vehicle body from road irregularities and provide stability",
+        "C": "To enhance the vehicle's speed",
+        "D": "To support the vehicle's braking system",
+        "Answer": "B",
+        "Source": "The primary function of a suspension system is to isolate the vehicle body from road irregularities thus providing the ride comfort and to support the vehicle and provide stability."
+    },
+    "Question_2": {
+        "Context": "An active suspension system can dynamically supply energy to respond to changing road conditions, improving performance over passive systems which cannot supply force.",
+        "Question": "How does an active suspension system improve the performance of a vehicle compared to a passive suspension system?",
+        "A": "By reducing the vehicle's weight",
+        "B": "By increasing the vehicle's speed",
+        "C": "By supplying energy to dynamically respond to road conditions",
+        "D": "By permanently fixing the vehicle's ride height",
+        "Answer": "C",
+        "Source": "Active suspension supplies energy to respond dynamically and achieve relative motion between the body and the wheel and thus improves the performance of suspension system."
+    },
+    "Question_3": {
+        "Context": "In control systems for vehicle suspension, the use of optimization algorithms can tune controller parameters more effectively than manual tuning methods.",
+        "Question": "Why are optimization algorithms used to tune controller parameters in vehicle suspension systems?",
+        "A": "To manually adjust the suspension height",
+        "B": "To reduce the need for human intervention",
+        "C": "To simplify the design of the suspension system",
+        "D": "To find the optimum parameters for improved performance",
+        "Answer": "D",
+        "Source": "Instead of guessing and or trial and error method, genetic algorithm (GA)-based optimization algorithm is implemented to tune PID parameters and FLC membership functions\u2019 range and scaling factors."
+    },
+    "Question_4": {
+        "Context": "In the context of vehicle dynamics, the term 'ride comfort' often relates to the minimization of accelerations experienced by the occupants due to road irregularities.",
+        "Question": "What aspect of vehicle performance is primarily associated with the minimization of occupant accelerations?",
+        "A": "Fuel efficiency",
+        "B": "Engine performance",
+        "C": "Ride comfort",
+        "D": "Maximum speed",
+        "Answer": "C",
+        "Source": "One of the main objectives was to minimize body acceleration to improve ride comfort."
+    },
+    "Question_5": {
+        "Context": "The Vibration Dose Value (VDV) is a measure used to assess the cumulative effect of vehicle vibrations on the occupants over time.",
+        "Question": "What does the Vibration Dose Value (VDV) measure in the context of vehicle suspension systems?",
+        "A": "The total distance traveled by the vehicle",
+        "B": "The cumulative effect of vibrations on occupants",
+        "C": "The frequency of the suspension's oscillations",
+        "D": "The maximum speed of the vehicle",
+        "Answer": "B",
+        "Source": "The optimization function is modeled as a multi-objective problem comprising of frequency weighted RMS seat acceleration, Vibration dose value (VDV), RMS suspension space, and RMS tyre deflection."
+    },
+    "Question_6": {
+        "Context": "In vehicle suspension systems, the term 'suspension travel' refers to the relative movement between the vehicle's body and its wheels.",
+        "Question": "What does 'suspension travel' refer to in vehicle suspension systems?",
+        "A": "The distance the vehicle travels",
+        "B": "The amount of fuel consumed during travel",
+        "C": "The relative movement between the body and wheels",
+        "D": "The speed at which the suspension system responds",
+        "Answer": "C",
+        "Source": "Suspension travel is characterized by the relative travel between the sprung mass and unsprung mass."
+    },
+    "Question_7": {
+        "Context": "In vehicle dynamics, tyre deflection is related to the dynamic forces experienced by the tyre, which are influenced by road surface irregularities.",
+        "Question": "What is tyre deflection related to in the context of vehicle dynamics?",
+        "A": "The aesthetic design of the tyre",
+        "B": "The air pressure within the tyre",
+        "C": "The dynamic forces experienced by the tyre",
+        "D": "The temperature of the tyre",
+        "Answer": "C",
+        "Source": "Dynamic tyre force is related to tyre deflection."
+    },
+    "Question_8": {
+        "Context": "In vehicle suspension systems, the control force is an important parameter that influences the system's response to road conditions.",
+        "Question": "What role does the control force play in vehicle suspension systems?",
+        "A": "It determines the color of the suspension system",
+        "B": "It influences the system's response to road conditions",
+        "C": "It controls the vehicle's speed",
+        "D": "It changes the vehicle's direction",
+        "Answer": "B",
+        "Source": "Control force is introduced as one of the objective functions, to find optimum control force to achieve ride comfort."
+    },
+    "Question_9": {
+        "Context": "In the optimization of vehicle suspension systems, constraints are set to ensure that certain performance criteria do not exceed specified limits.",
+        "Question": "Why are constraints set during the optimization of vehicle suspension systems?",
+        "A": "To limit the color options for the suspension system",
+        "B": "To ensure performance criteria do not exceed specified limits",
+        "C": "To increase the cost of the suspension system",
+        "D": "To reduce the efficiency of the suspension system",
+        "Answer": "B",
+        "Source": "The constraints on optimization are maximum control force, maximum sprung mass acceleration, maximum suspension space requirement, and maximum tyre deflection."
+    },
+    "Question_10": {
+        "Context": "In the field of vehicle dynamics, multi-objective optimization involves finding solutions that satisfy multiple performance objectives simultaneously.",
+        "Question": "What is the purpose of multi-objective optimization in vehicle dynamics?",
+        "A": "To focus on a single performance objective",
+        "B": "To reduce the number of objectives to one",
+        "C": "To satisfy multiple performance objectives simultaneously",
+        "D": "To ignore all performance objectives",
+        "Answer": "C",
+        "Source": "Due to multi-objective natures of optimal control and conflicting control objectives, the key issue is to select the PID gain values and range of fuzzy input and output membership functions and scaling factors to fulfill the conflicting requirements."
+    }
+}

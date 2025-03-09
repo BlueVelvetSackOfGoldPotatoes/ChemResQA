@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Natural products such as turmeric have been investigated for their potential anticancer properties. Turmeric contains compounds like curcumin and demethoxycurcumin, which have been studied for their effects on cancer cells.",
+        "Question": "Which compound is known to be demethylated from curcumin, resulting in a more stable structure?",
+        "A": "Bisdemethoxycurcumin",
+        "B": "Demethoxycurcumin",
+        "C": "Cyclocurcumin",
+        "D": "Diacetylcurcumin",
+        "Answer": "B",
+        "Source": "Curcumin is easily converted to demethoxycurcumin by demethoxylation from its benzene ring, resulting in a more stable structure."
+    },
+    "Question_2": {
+        "Context": "In the context of cancer cell metabolism, certain metabolites can be indicative of changes in cellular processes such as energy production and oxidative stress.",
+        "Question": "Which metabolite is commonly associated with increased glycolysis and can indicate a shift in energy metabolism in cancer cells?",
+        "A": "Glucose",
+        "B": "Lactate",
+        "C": "Pyruvate",
+        "D": "Acetate",
+        "Answer": "B",
+        "Source": "This can increase lactate by increasing energy production using glycolysis. Pyruvate is converted to lactate by lactate dehydrogenase, with oxidation of NADH to NAD+."
+    },
+    "Question_3": {
+        "Context": "The CDP-choline pathway is involved in the synthesis of components essential for cell membrane formation and is known to be active in cancer cells.",
+        "Question": "Which metabolite is a part of the CDP-choline pathway and is characteristically high in cancer cells?",
+        "A": "Choline",
+        "B": "Glycerophosphocholine",
+        "C": "Phosphocholine",
+        "D": "Sphingomyelin",
+        "Answer": "B",
+        "Source": "Phosphocholine, which is also part of the CDP-choline pathway, was decreased after treatment with demethoxycurcumin. It is considered that the CDP-choline pathway, which is activated for the survival of cancer cells, is blocked by treatment with demethoxycurcumin."
+    },
+    "Question_4": {
+        "Context": "Apoptosis is a programmed cell death process that is essential for removing cancerous cells. Certain proteins are involved in the regulation and execution of apoptosis.",
+        "Question": "Which protein is a pro-apoptotic member of the Bcl-2 family that moves to the mitochondrial outer membrane to initiate apoptosis?",
+        "A": "Bcl-2",
+        "B": "Bax",
+        "C": "Caspase-3",
+        "D": "PARP",
+        "Answer": "B",
+        "Source": "Bax is a pro-apoptotic protein belonging to the Bcl-2 family that moves to the mitochondrial outer membrane and oligomerizes to release cytochrome c into the cytoplasm."
+    },
+    "Question_5": {
+        "Context": "The analysis of cell viability is a common method to assess the effect of compounds on the growth and survival of cancer cells.",
+        "Question": "Which assay is commonly used to detect cell viability by measuring the metabolic activity of cells?",
+        "A": "Western blot",
+        "B": "ELISA",
+        "C": "MTT",
+        "D": "PCR",
+        "Answer": "C",
+        "Source": "Cell viability was detected using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT)."
+    },
+    "Question_6": {
+        "Context": "Nuclear magnetic resonance (NMR) spectroscopy is a technique used to identify and quantify metabolites in biological samples.",
+        "Question": "What is the purpose of using a deuterated solvent in NMR spectroscopy for metabolite analysis?",
+        "A": "To increase the reactivity of metabolites",
+        "B": "To decrease the temperature of the sample",
+        "C": "To provide a lock signal for the spectrometer",
+        "D": "To prevent the exchange of protons in the sample",
+        "Answer": "C",
+        "Source": "Samples were re-dissolved using 560 \u03bcL of deuterated 0.2 M sodium phosphate buffer containing 0.2 mM of 3-(trimethylsilyl) propionic-2,2,3,3-d4 acid sodium salt (TSP-d4) and transferred to 5 mm NMR tubes."
+    },
+    "Question_7": {
+        "Context": "In the study of cancer cell metabolism, the analysis of metabolites can reveal insights into the biochemical pathways affected by treatments.",
+        "Question": "Which analytical technique is used to obtain one-dimensional proton NMR spectra for the identification and quantification of metabolites?",
+        "A": "Mass spectrometry",
+        "B": "Chromatography",
+        "C": "UV-Vis spectroscopy",
+        "D": "NMR spectroscopy",
+        "Answer": "D",
+        "Source": "To obtain the 1D 1H-NMR spectra, a 700 MHz NMR spectrometer was used."
+    },
+    "Question_8": {
+        "Context": "The analysis of cellular proteins can provide information on the mechanisms of action of anticancer compounds.",
+        "Question": "Which protein is a marker for DNA damage and is involved in the repair process?",
+        "A": "Caspase-9",
+        "B": "Bcl-2",
+        "C": "PARP",
+        "D": "p53",
+        "Answer": "C",
+        "Source": "The increase in cleaved PARP was associated with a decrease in pro-PARP."
+    },
+    "Question_9": {
+        "Context": "The study of metabolomics involves the comprehensive analysis of metabolites, which are the end products of cellular processes.",
+        "Question": "What is the purpose of using receiver operator characteristic (ROC) curves in metabolomics?",
+        "A": "To determine the pH of the sample",
+        "B": "To identify the presence of enzymes",
+        "C": "To predict the outcome of chemical reactions",
+        "D": "To evaluate the predictive accuracy of biomarkers",
+        "Answer": "D",
+        "Source": "Quantified metabolites were analyzed by biomarker discovery analysis using receiver operator characteristic (ROC) curves with sensitivity and specificity."
+    },
+    "Question_10": {
+        "Context": "In the context of cancer research, certain compounds can induce oxidative stress in cancer cells, leading to changes in their metabolism.",
+        "Question": "Which compound is known to cause oxidative stress due to its \u03b1, \u03b2-unsaturated carbonyl group?",
+        "A": "Curcumin",
+        "B": "Glucose",
+        "C": "Lactate",
+        "D": "Alanine",
+        "Answer": "A",
+        "Source": "It was reported that the \u03b1, \u03b2-unsaturated carbonyl group, which is contained in curcumin and curcumin derivatives, causes oxidative stress."
+    }
+}

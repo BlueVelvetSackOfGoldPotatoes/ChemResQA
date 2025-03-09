@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on determining the surface energy and stress of nanoparticles and cavities in the presence of pressure. They investigated the accuracy of the Young-Laplace equation for these systems.",
+        "Question": "What is the critical size below which the discrete character of surfaces cannot be neglected?",
+        "A": "4 nm for nanoparticles and 2 nm for cavities",
+        "B": "5 nm for nanoparticles and 3 nm for cavities",
+        "C": "3 nm for nanoparticles and 4 nm for cavities",
+        "D": "2 nm for nanoparticles and 5 nm for cavities",
+        "Answer": "A",
+        "Source": "This size is estimated to be a few nanometers for nanoparticles, and slightly smaller for cavities. This is in agreement with previous works (Hawa and Zachariah 2004; Cui et al. 2015). Below this threshold the discrete character of surfaces cannot be neglected."
+    },
+    "Question_2": {
+        "Context": "The study investigated the accuracy of the Young-Laplace equation for nanoparticles and cavities under different conditions.",
+        "Question": "What is the recommended approach to compute the Laplace pressure in the Young-Laplace equation?",
+        "A": "Using a constant surface energy value",
+        "B": "Using a diameter-dependent surface stress value",
+        "C": "Using a constant surface stress value",
+        "D": "Using a diameter-dependent surface energy value",
+        "Answer": "B",
+        "Source": "The accuracy can be systematically improved by using surface stress instead. However, its value is also shown to depend on the size and the pressure, in agreement with a recent work (Jelea 2018)."
+    },
+    "Question_3": {
+        "Context": "The study explored the surface energy and stress of nanoparticles and cavities under varying conditions.",
+        "Question": "What is the main conclusion regarding the use of the Young-Laplace equation for highly pressurized bubbles in a nuclear context?",
+        "A": "The YLE is accurate for all sizes and pressures.",
+        "B": "The YLE should not be used due to inaccuracies in pressure predictions.",
+        "C": "The YLE is accurate only for nanoparticles, not cavities.",
+        "D": "The YLE is accurate only for cavities, not nanoparticles.",
+        "Answer": "B",
+        "Source": "Our investigations then show that the YLE should not be used to obtain accurate pressure values for nanoparticles or cavities, especially when the Laplace pressure is computed with a constant surface energy as it is customarily done in the literature."
+    },
+    "Question_4": {
+        "Context": "The study analyzed the surface energy and stress of nanoparticles and cavities under different conditions.",
+        "Question": "What is the critical factor that determines the accuracy of the Young-Laplace equation for nanoparticles and cavities?",
+        "A": "The material composition",
+        "B": "The applied pressure",
+        "C": "The size and pressure-dependent surface stress values",
+        "D": "The temperature of the system",
+        "Answer": "C",
+        "Source": "The lowest errors are obtained when diameter and pressure dependent surface stress values are used. The error is typically lower than 50% for pressures up to 5 GPa in nanoparticles, with the best accuracy for aluminum."
+    },
+    "Question_5": {
+        "Context": "The study investigated the accuracy of the Young-Laplace equation for nanoparticles and cavities under varying conditions.",
+        "Question": "What is the main limitation of using a constant surface energy value in the Young-Laplace equation?",
+        "A": "It leads to overestimation of pressure values.",
+        "B": "It leads to underestimation of pressure values.",
+        "C": "It does not affect the accuracy of pressure predictions.",
+        "D": "It is only suitable for nanoparticles, not cavities.",
+        "Answer": "A",
+        "Source": "If surface energy, even with size dependent values, is used instead, the accuracy considerably worsens, with errors up to 100%."
+    },
+    "Question_6": {
+        "Context": "The study focused on determining the surface energy and stress of nanoparticles and cavities in the presence of pressure.",
+        "Question": "What is the critical size below which the discrete character of surfaces cannot be neglected?",
+        "A": "4 nm for nanoparticles and 2 nm for cavities",
+        "B": "5 nm for nanoparticles and 3 nm for cavities",
+        "C": "3 nm for nanoparticles and 4 nm for cavities",
+        "D": "2 nm for nanoparticles and 5 nm for cavities",
+        "Answer": "A",
+        "Source": "This size is estimated to be a few nanometers for nanoparticles, and slightly smaller for cavities. This is in agreement with previous works (Hawa and Zachariah 2004; Cui et al. 2015). Below this threshold the discrete character of surfaces cannot be neglected."
+    },
+    "Question_7": {
+        "Context": "The study investigated the accuracy of the Young-Laplace equation for nanoparticles and cavities under different conditions.",
+        "Question": "What is the recommended approach to compute the Laplace pressure in the Young-Laplace equation?",
+        "A": "Using a constant surface energy value",
+        "B": "Using a diameter-dependent surface stress value",
+        "C": "Using a constant surface stress value",
+        "D": "Using a diameter-dependent surface energy value",
+        "Answer": "B",
+        "Source": "The accuracy can be systematically improved by using surface stress instead. However, its value is also shown to depend on the size and the pressure, in agreement with a recent work (Jelea 2018)."
+    },
+    "Question_8": {
+        "Context": "The study explored the surface energy and stress of nanoparticles and cavities under varying conditions.",
+        "Question": "What is the main conclusion regarding the use of the Young-Laplace equation for highly pressurized bubbles in a nuclear context?",
+        "A": "The YLE is accurate for all sizes and pressures.",
+        "B": "The YLE should not be used due to inaccuracies in pressure predictions.",
+        "C": "The YLE is accurate only for nanoparticles, not cavities.",
+        "D": "The YLE is accurate only for cavities, not nanoparticles.",
+        "Answer": "B",
+        "Source": "Our investigations then show that the YLE should not be used to obtain accurate pressure values for nanoparticles or cavities, especially when the Laplace pressure is computed with a constant surface energy as it is customarily done in the literature."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the surface energy and stress of nanoparticles and cavities under different conditions.",
+        "Question": "What is the critical factor that determines the accuracy of the Young-Laplace equation for nanoparticles and cavities?",
+        "A": "The material composition",
+        "B": "The applied pressure",
+        "C": "The size and pressure-dependent surface stress values",
+        "D": "The temperature of the system",
+        "Answer": "C",
+        "Source": "The lowest errors are obtained when diameter and pressure dependent surface stress values are used. The error is typically lower than 50% for pressures up to 5 GPa in nanoparticles, with the best accuracy for aluminum."
+    },
+    "Question_10": {
+        "Context": "The study investigated the accuracy of the Young-Laplace equation for nanoparticles and cavities under varying conditions.",
+        "Question": "What is the main limitation of using a constant surface energy value in the Young-Laplace equation?",
+        "A": "It leads to overestimation of pressure values.",
+        "B": "It leads to underestimation of pressure values.",
+        "C": "It does not affect the accuracy of pressure predictions.",
+        "D": "It is only suitable for nanoparticles, not cavities.",
+        "Answer": "A",
+        "Source": "If surface energy, even with size dependent values, is used instead, the accuracy considerably worsens, with errors up to 100%."
+    }
+}

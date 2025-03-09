@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the development of a method to screen and confirm sulfonamides in livestock samples. ",
+        "Question": "What is the common structure of sulfonamides mentioned in the text?",
+        "A": "Substituted amine on the benzene ring and a sulfonamide group parallel to the amine",
+        "B": "Substituted amine on the benzene ring and a sulfonamide group perpendicular to the amine",
+        "C": "Substituted amine on the benzene ring and a sulfonamide group perpendicular to the ring",
+        "D": "Substituted amine on the benzene ring and a sulfonamide group parallel to the ring",
+        "Answer": "A",
+        "Source": "They have a common structure of an unsubstituted amine on the benzene ring and a sulfonamide group parallel to the amine."
+    },
+    "Question_2": {
+        "Context": "The study validated the performance of the method according to Codex guidelines.",
+        "Question": "What was used to evaluate the linearity of the method?",
+        "A": "Regression line",
+        "B": "Coefficient of determination",
+        "C": "Regression line and coefficient of determination",
+        "D": "Coefficient of correlation",
+        "Answer": "C",
+        "Source": "The linearity of the method was evaluated by calculating the regression line and expressed as the coefficient of correlation (r2)."
+    },
+    "Question_3": {
+        "Context": "The study aimed to determine the applicability of the screening method using real livestock samples.",
+        "Question": "What was the average range of recoveries (%) for three laboratories?",
+        "A": "70-110%",
+        "B": "60-90%",
+        "C": "80-120%",
+        "D": "50-100%",
+        "Answer": "A",
+        "Source": "The validated results indicated positive recoveries of sulfonamides ranging from 70 to 110% for all matrices."
+    },
+    "Question_4": {
+        "Context": "The study discussed the matrix effects observed in livestock product samples.",
+        "Question": "What was the range of matrix effects (%) observed in the six livestock products?",
+        "A": "-71 to 69%",
+        "B": "-50 to 50%",
+        "C": "-30 to 30%",
+        "D": "-10 to 10%",
+        "Answer": "A",
+        "Source": "The overall ME (%) was observed in a range of -71 to 69% in six livestock products."
+    },
+    "Question_5": {
+        "Context": "The study applied the developed method to real samples from different regions in South Korea.",
+        "Question": "How many livestock product samples were analyzed in the study?",
+        "A": "129",
+        "B": "100",
+        "C": "150",
+        "D": "200",
+        "Answer": "A",
+        "Source": "The developed method was applied for the determination of sulfonamides in 129 livestock product samples."
+    },
+    "Question_6": {
+        "Context": "The study mentioned the use of a modified QuEChERS method for sample preparation.",
+        "Question": "What was added to the extraction solvent to efficiently target the analytes?",
+        "A": "Methanol",
+        "B": "Acetic acid",
+        "C": "Chloroform",
+        "D": "Ethyl acetate",
+        "Answer": "B",
+        "Source": "The addition of acetic acid to ACN was examined to efficiently target the analytes."
+    },
+    "Question_7": {
+        "Context": "The study discussed the validation of the method according to Codex guidelines.",
+        "Question": "What was used to evaluate the accuracy of the method?",
+        "A": "Coefficient of variation",
+        "B": "Recovery",
+        "C": "Limit of detection",
+        "D": "Limit of quantification",
+        "Answer": "B",
+        "Source": "The recovery was used to evaluate the accuracy of the method."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the precision of the method by calculating the coefficient of variation.",
+        "Question": "What was the maximum acceptable coefficient of variation (%) for the method?",
+        "A": "Below 15%",
+        "B": "Below 20%",
+        "C": "Below 10%",
+        "D": "Below 25%",
+        "Answer": "A",
+        "Source": "The CV range of all sulfonamides was below 15%, indicating the favorable repeatability of the recovery test."
+    },
+    "Question_9": {
+        "Context": "The study applied the method to determine sulfonamides in livestock product samples.",
+        "Question": "How many compounds showed moderate signal enhancement in beef samples?",
+        "A": "7",
+        "B": "5",
+        "C": "9",
+        "D": "3",
+        "Answer": "A",
+        "Source": "In beef, 7 compounds (23%) were observed for moderate signal enhancement."
+    },
+    "Question_10": {
+        "Context": "The study discussed the application of the method to real samples from South Korea.",
+        "Question": "How many compounds showed high signal suppression in pork fat samples?",
+        "A": "2",
+        "B": "1",
+        "C": "3",
+        "D": "4",
+        "Answer": "A",
+        "Source": "2 compounds (6%) exhibited high signal suppression."
+    }
+}

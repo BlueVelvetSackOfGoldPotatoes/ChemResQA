@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study discusses the formation of void superlattices under radiation conditions. ",
+        "Question": "What drives the ordering of voids during defect accumulation under continuous irradiation?",
+        "A": "Vacancy concentration fields",
+        "B": "Modulated waves",
+        "C": "Defect dynamics",
+        "D": "Thermodynamic instability",
+        "Answer": "B",
+        "Source": "Such a dynamic instability breaks the translational symmetry, thereby giving a characteristic length which is related to the superlattice parameter."
+    },
+    "Question_2": {
+        "Context": "The paper presents a theory that predicts the superlattice symmetry based on anisotropic SIA diffusion.",
+        "Question": "What is the significance of SIA diffusion anisotropy in affecting superlattice formation under irradiation?",
+        "A": "It affects the vacancy concentration fields.",
+        "B": "It drives the ordering of voids.",
+        "C": "It is thermodynamically driven.",
+        "D": "It is kinetically driven.",
+        "Answer": "B",
+        "Source": "The recombination rate becomes dependent on the directions of perturbation waves. Minimums in the recombination rate are obtained for waves that are along certain crystal directions."
+    },
+    "Question_3": {
+        "Context": "The study discusses the physical connection between anisotropic defect diffusion and symmetry breaking.",
+        "Question": "What determines the selection of superlattice structure according to the study?",
+        "A": "Vacancy concentration supersaturation",
+        "B": "Defect production rate",
+        "C": "SIA diffusion anisotropy",
+        "D": "Sink absorption",
+        "Answer": "C",
+        "Source": "The symmetry of these waves defines the superlattice structure, which depends on the kinetics of SIA diffusion."
+    },
+    "Question_4": {
+        "Context": "The paper highlights the predictions made by the theoretical framework and their validation through atomistic simulations.",
+        "Question": "What is the role of SIA diffusion mode in determining superlattice structure?",
+        "A": "It is dependent on the host matrix structure.",
+        "B": "It is influenced by the defect production rate.",
+        "C": "It dictates the symmetry of superlattices.",
+        "D": "It is controlled by the temperature.",
+        "Answer": "C",
+        "Source": "The symmetry of these waves defines the superlattice structure, which depends on the kinetics of SIA diffusion but not necessarily the host matrices."
+    },
+    "Question_5": {
+        "Context": "The study discusses the formation process of void superlattices and the stages involved.",
+        "Question": "What is the 3-stage process involved in superlattice formation according to the study?",
+        "A": "Random voids, 1D alignment, 3D lattice",
+        "B": "Planar ordering, 2D alignment, 3D lattice",
+        "C": "Random voids, planar ordering, 3D lattice",
+        "D": "Random voids, 3D lattice, 1D alignment",
+        "Answer": "C",
+        "Source": "The 3-stage formation process, from random voids to planar ordering and then 3D lattice, is implied."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the effect of dose rate on superlattice formation.",
+        "Question": "How does lowering the dose rate affect superlattice formation?",
+        "A": "Increases the superlattice constant",
+        "B": "Decreases the superlattice constant",
+        "C": "Has no effect on superlattice formation",
+        "D": "Changes the superlattice symmetry",
+        "Answer": "A",
+        "Source": "In general, at the same temperature, lowering the dose rate leads to an increase in the superlattice constant."
+    },
+    "Question_7": {
+        "Context": "The study explores the impact of heterogeneity of sinks on void ordering.",
+        "Question": "What effect does the introduction of a planar sink have on void ordering?",
+        "A": "Induces a random void distribution",
+        "B": "Accelerates vacancy accumulation",
+        "C": "Causes a denuded zone",
+        "D": "Prevents superlattice formation",
+        "Answer": "C",
+        "Source": "The introduction of a planar sink induces a denuded zone in the middle along the Z direction."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the role of SIA clusters in superlattice formation.",
+        "Question": "How do SIA clusters affect superlattice symmetry selection?",
+        "A": "They have no impact on superlattice formation",
+        "B": "Accelerate vacancy accumulation",
+        "C": "Contribute to anisotropic recombination",
+        "D": "Prevent void ordering",
+        "Answer": "C",
+        "Source": "The anisotropic effect induced by anisotropic SIA diffusion will become less significant."
+    },
+    "Question_9": {
+        "Context": "The study presents the theoretical predictions of void ordering based on anisotropic defect diffusion.",
+        "Question": "What is the significance of the SIA mean free life in superlattice formation?",
+        "A": "It determines the host matrix structure",
+        "B": "It affects the symmetry of superlattices",
+        "C": "It scales the effect of anisotropic SIA diffusion",
+        "D": "It has no impact on void ordering",
+        "Answer": "C",
+        "Source": "The effect of anisotropic SIA diffusion is scaled by the SIA mean free life."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the formation process of superlattices and the role of SIA diffusion.",
+        "Question": "What is the role of SIA diffusion anisotropy in superlattice formation according to the study?",
+        "A": "It is not significant",
+        "B": "It drives the ordering of voids",
+        "C": "It affects the defect production rate",
+        "D": "It is thermodynamically driven",
+        "Answer": "B",
+        "Source": "The recombination rate becomes dependent on the directions of perturbation waves. Minimums in the recombination rate are obtained for waves that are along certain crystal directions."
+    }
+}

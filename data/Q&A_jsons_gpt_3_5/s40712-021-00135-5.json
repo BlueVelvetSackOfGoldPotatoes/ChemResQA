@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on optimizing the continuous extrusion process parameters for aluminum alloy (AA 1100) feedstock materials using response surface methodology.",
+        "Question": "What was the optimized value of wheel speed for achieving a yield strength of 70.939 MPa?",
+        "A": "6.5 rpm",
+        "B": "8.63 rpm",
+        "C": "10 rpm",
+        "D": "12 rpm",
+        "Answer": "B",
+        "Source": "The optimized value of yield strength is found to be 70.939 MPa at wheel velocity of 8.63 rpm."
+    },
+    "Question_2": {
+        "Context": "The study involved the analysis of % elongation based on different wheel speeds and product diameters.",
+        "Question": "What was the maximum percentage elongation recorded in the study?",
+        "A": "25.5%",
+        "B": "36.0%",
+        "C": "43.0%",
+        "D": "46.457%",
+        "Answer": "D",
+        "Source": "The maximum percentage elongation recorded is 46.457% at wheel velocity of 7.06 rpm and product diameter of 7.18 mm."
+    },
+    "Question_3": {
+        "Context": "The study analyzed the effect of wheel speed and product diameter on yield strength.",
+        "Question": "How does the yield strength vary with changes in wheel speed and product diameter?",
+        "A": "Yield strength decreases with increasing wheel speed and product diameter.",
+        "B": "Yield strength remains constant with changes in wheel speed and product diameter.",
+        "C": "Yield strength increases with increasing wheel speed and product diameter.",
+        "D": "Yield strength initially decreases, becomes minimum, and then increases with further increase in wheel speed and product diameter.",
+        "Answer": "D",
+        "Source": "The surface plot signifies that the value of yield strength initially decreases, becomes minimum, and then increases with further increase in the values of input process variables."
+    },
+    "Question_4": {
+        "Context": "The study investigated the effect of wheel speed and product diameter on % elongation.",
+        "Question": "How does % elongation change with variations in wheel speed and product diameter?",
+        "A": "% elongation decreases with increasing wheel speed and product diameter.",
+        "B": "% elongation remains constant with changes in wheel speed and product diameter.",
+        "C": "% elongation increases with increasing wheel speed and product diameter.",
+        "D": "% elongation initially increases, becomes maximum, and then decreases with further increase in wheel speed and product diameter.",
+        "Answer": "D",
+        "Source": "The surface plot of % elongation signifies that % elongation of the extruded material increases with the increase in the values of wheel speed and diameter of product and is maximum at a given value of wheel speed and diameter of product and decreases thereafter."
+    },
+    "Question_5": {
+        "Context": "The study conducted microstructural analysis of aluminum alloy under different wheel speeds and extrusion ratios.",
+        "Question": "What was observed about the grain size of the extruded product under different wheel speeds?",
+        "A": "Grain size decreased with increasing wheel speed.",
+        "B": "Grain size remained constant with changes in wheel speed.",
+        "C": "Grain size increased with increasing wheel speed.",
+        "D": "Grain size was larger and non-homogeneous at lower wheel speeds.",
+        "Answer": "D",
+        "Source": "The average grain size of the extruded product was found to be 80 to 200 \u03bcm under wheel speed of 6 to 10 revolutions per minute. Therefore, the grains were larger and non-homogeneous."
+    },
+    "Question_6": {
+        "Context": "The study aimed to optimize the continuous extrusion process parameters for aluminum alloy feedstock materials.",
+        "Question": "What was the optimized value of product diameter for achieving a yield strength of 70.939 MPa?",
+        "A": "6 mm",
+        "B": "7.18 mm",
+        "C": "8 mm",
+        "D": "9 mm",
+        "Answer": "D",
+        "Source": "The optimized value of yield strength is found to be 70.939 MPa at ... product diameter of 9 mm."
+    },
+    "Question_7": {
+        "Context": "The study focused on the mathematical modeling of yield strength based on different process parameters.",
+        "Question": "Which factor had a statistically significant effect on the yield strength of the material?",
+        "A": "Linear effect of input process variables",
+        "B": "Quadratic effect of wheel speed",
+        "C": "Linear effect of product diameter",
+        "D": "Quadratic effect of product diameter",
+        "Answer": "B",
+        "Source": "It can be observed that the quadratic effect of wheel speed as well as diameter of product are very much significant on yield strength of the material."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the significance of input process variables on % elongation.",
+        "Question": "Which effect of the input process variables was found to be statistically significant for % elongation?",
+        "A": "Linear effect of wheel speed",
+        "B": "Quadratic effect of product diameter",
+        "C": "Interaction effect of wheel speed and product diameter",
+        "D": "Quadratic effect of wheel speed",
+        "Answer": "D",
+        "Source": "The quadratic effect of wheel speed as well as diameter of product is very much significant on yield strength of the material."
+    },
+    "Question_9": {
+        "Context": "The study conducted experiments to analyze the yield strength of the material.",
+        "Question": "What was the yield strength recorded at a wheel velocity of 6 rpm and product diameter of 8 mm?",
+        "A": "42.75 MPa",
+        "B": "33 MPa",
+        "C": "65 MPa",
+        "D": "36.2 MPa",
+        "Answer": "A",
+        "Source": "The yield strength recorded at a wheel velocity of 6 rpm and product diameter of 8 mm was 42.75 MPa."
+    },
+    "Question_10": {
+        "Context": "The study analyzed the effect of wheel speed and product diameter on % elongation.",
+        "Question": "At what wheel velocity and product diameter was a % elongation of 34.0% recorded?",
+        "A": "Wheel velocity: 10 rpm, Product diameter: 6 mm",
+        "B": "Wheel velocity: 7 rpm, Product diameter: 7 mm",
+        "C": "Wheel velocity: 10 rpm, Product diameter: 8 mm",
+        "D": "Wheel velocity: 7 rpm, Product diameter: 8 mm",
+        "Answer": "C",
+        "Source": "At a wheel velocity of 10 rpm and product diameter of 8 mm, a % elongation of 34.0% was recorded."
+    }
+}

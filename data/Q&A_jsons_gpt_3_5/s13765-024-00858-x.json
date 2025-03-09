@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effects of Sulforaphane (Sul) on fibrosis markers and inflammatory proteins in the kidney of NRK52E cell line and rats. Histopathological investigations showed that Sul administration retained renal tissue structure and decreased kidney tissue fibrosis in rats subjected to unilateral ureteral blockage (UUO).",
+        "Question": "What is the primary focus of the study regarding Sulforaphane (Sul) in the kidney?",
+        "A": "Reducing oxidative damage",
+        "B": "Enhancing mitochondrial dynamics",
+        "C": "Decreasing kidney tissue fibrosis",
+        "D": "Promoting lipid metabolism",
+        "Answer": "C",
+        "Source": "Histopathological investigations showed that Sul administration retained renal tissue structure and decreased kidney tissue fibrosis in rats subjected to unilateral ureteral blockage (UUO)."
+    },
+    "Question_2": {
+        "Context": "The study aimed to evaluate the impact of Sul on fibrotic markers in NRK52E cells and rat kidneys. Protein expression levels of COL1A1, \u03b1-SMA, and TGF-\u03b2 were considerably greater in rats\u2019 renal tissues after UUO than in the untreated group and the sham.",
+        "Question": "Which proteins' expression levels were significantly higher in rats' renal tissues after UUO?",
+        "A": "COL3A1",
+        "B": "IL-6",
+        "C": "COL1A1",
+        "D": "TNF-\u03b1",
+        "Answer": "C",
+        "Source": "Protein expression levels of COL1A1, \u03b1-SMA, and TGF-\u03b2 were considerably greater in rats\u2019 renal tissues after UUO than in the untreated group and the sham."
+    },
+    "Question_3": {
+        "Context": "The study examined the effects of Sul on the TGF-\u03b2/Smad signaling pathway. TGF-\u03b2 is commonly used to stimulate cell growth in vitro to induce fibrosis.",
+        "Question": "Which protein is an inhibitory Smad that can reduce the expression of Smad4, Smad3, and Smad2?",
+        "A": "Smad2",
+        "B": "Smad3",
+        "C": "Smad4",
+        "D": "Smad7",
+        "Answer": "D",
+        "Source": "Smad7, on the other hand, is an inhibitory Smad that inhibits Smad phosphorylation in response to receptor activation."
+    },
+    "Question_4": {
+        "Context": "The study aimed to determine if Sul could prevent TGF-\u03b2-induced cell fibrosis. In the NRK52E cell line and UUO kidney treated with TGF-\u03b2, Sul decreased the phosphorylation of Smad4 and Smad2/3 expressions while enhancing the expressions of Smad7.",
+        "Question": "How did Sul affect the phosphorylation of Smad4 and Smad2/3 in the TGF-\u03b2-treated cells and kidneys?",
+        "A": "Increased",
+        "B": "Remained unchanged",
+        "C": "Decreased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "In the NRK52E cell line and UUO kidney treated with TGF-\u03b2, Sul decreased the phosphorylation of Smad4 and Smad2/3 expressions."
+    },
+    "Question_5": {
+        "Context": "The study investigated the expressions of inflammatory proteins in the renal tissues of TGF-\u03b2 and UUO treatment with NRK52E cell line after treatment with Sul.",
+        "Question": "Which proteins' expressions were considerably decreased in the renal tissues after treatment with Sul?",
+        "A": "COX-2, NF-\u03baB, AP-1, and HMGB1",
+        "B": "COL3A1, COL1A1, and \u03b1-SMA",
+        "C": "IL-6, IL-1\u03b2, and TNF-\u03b1",
+        "D": "Smad4, Smad2/3, and TGF-\u03b2",
+        "Answer": "A",
+        "Source": "The inflammatory cytokines expression of the IL-6, IL-1\u03b2, and TNF-\u03b1 was considerably decreased in the renal tissues of TGF-\u03b2 and UUO treatment with NRK52E cell line after treatment with Sul."
+    },
+    "Question_6": {
+        "Context": "The study aimed to evaluate the impact of Sul on fibrotic markers in NRK52E cells and rat kidneys. Connective tissue in the skin relies heavily on COL3A1 and COL1A1, whereas \u03b1-SMA expressions are a significant fibroblast marker.",
+        "Question": "Which markers' expressions were significantly suppressed by Sul in the kidneys of UUO rats?",
+        "A": "COL3A1 and COL1A1",
+        "B": "IL-6 and IL-1\u03b2",
+        "C": "Smad4 and Smad2/3",
+        "D": "COX-2 and NF-\u03baB",
+        "Answer": "A",
+        "Source": "We found that Sul significantly suppressed the expressions of the kidneys\u2019 fibrotic markers of UUO rats, indicating that Sul has the potential to protect kidneys and prevent and function RIF in rat models."
+    },
+    "Question_7": {
+        "Context": "The study aimed to determine if Sul could prevent TGF-\u03b2-induced cell fibrosis. In the NRK52E cell line and UUO kidney treated with TGF-\u03b2, Sul decreased the phosphorylation of Smad4 and Smad2/3 expressions while enhancing the expressions of Smad7.",
+        "Question": "Which signaling pathway was specifically mentioned as being mediated by Smad proteins in the study?",
+        "A": "Wnt signaling pathway",
+        "B": "MAPK signaling pathway",
+        "C": "CTGF signaling pathway",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Thus, these three routes may account for the antifibrotic properties of Sul."
+    },
+    "Question_8": {
+        "Context": "The study investigated the expressions of inflammatory proteins in the renal tissues of TGF-\u03b2 and UUO treatment with NRK52E cell line after treatment with Sul.",
+        "Question": "Which proteins' expressions were considerably increased in the renal tissues of TGF-\u03b2 and UUO treatment?",
+        "A": "COL1A1, \u03b1-SMA, and TGF-\u03b2",
+        "B": "COX-2, NF-\u03baB, AP-1, and HMGB1",
+        "C": "IL-6, IL-1\u03b2, and TNF-\u03b1",
+        "D": "Smad4, Smad2/3, and Smad7",
+        "Answer": "B",
+        "Source": "Additionally, the TGF-\u03b2-treatment NRK52E cells and rat renal tissues model UUO exhibited considerably increased COX-2, NF-\u03baB, AP-1, and HMGB1 proteins compared to the sham and untreated groups."
+    },
+    "Question_9": {
+        "Context": "The study aimed to evaluate the impact of Sul on fibrotic markers in NRK52E cells and rat kidneys. Protein expression levels of COL1A1, \u03b1-SMA, and TGF-\u03b2 were considerably greater in rats\u2019 renal tissues after UUO than in the untreated group and the sham.",
+        "Question": "Which protein's expression levels were significantly greater in rats' renal tissues after UUO?",
+        "A": "COL3A1",
+        "B": "IL-6",
+        "C": "COL1A1",
+        "D": "TNF-\u03b1",
+        "Answer": "C",
+        "Source": "Protein expression levels of COL1A1, \u03b1-SMA, and TGF-\u03b2 were considerably greater in rats\u2019 renal tissues after UUO than in the untreated group and the sham."
+    },
+    "Question_10": {
+        "Context": "The study aimed to evaluate the impact of Sul on fibrotic markers in NRK52E cells and rat kidneys. Connective tissue in the skin relies heavily on COL3A1 and COL1A1, whereas \u03b1-SMA expressions are a significant fibroblast marker.",
+        "Question": "Which markers' expressions were significantly suppressed by Sul in the kidneys of UUO rats?",
+        "A": "COL3A1 and COL1A1",
+        "B": "IL-6 and IL-1\u03b2",
+        "C": "Smad4 and Smad2/3",
+        "D": "COX-2 and NF-\u03baB",
+        "Answer": "A",
+        "Source": "We found that Sul significantly suppressed the expressions of the kidneys\u2019 fibrotic markers of UUO rats, indicating that Sul has the potential to protect kidneys and prevent and function RIF in rat models."
+    }
+}

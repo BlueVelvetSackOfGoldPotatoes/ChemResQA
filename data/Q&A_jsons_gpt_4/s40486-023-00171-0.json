@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Heterojunctions are structures formed at the interface between two different materials, which can influence the movement of charge carriers and affect the properties of a device.",
+        "Question": "What is the effect of forming a heterojunction between two-dimensional transition metal dichalcogenide nanosheets and zero-dimensional ZnO nanoparticles?",
+        "A": "Decreases the recovery rate of a NO2 sensor",
+        "B": "Increases the recovery rate of a NO2 sensor",
+        "C": "Has no effect on the recovery rate of a NO2 sensor",
+        "D": "Eliminates the sensitivity of a NO2 sensor",
+        "Answer": "B",
+        "Source": "Herein, heterojunctions were formed between the two-dimensional transition metal dichalcogenide nanosheets and zero-dimensional ZnO nanoparticles to improve the recovery rate of a NO2 sensor."
+    },
+    "Question_2": {
+        "Context": "The recovery rate of gas sensors is a critical performance indicator, reflecting how quickly a sensor can return to baseline levels after detecting a gas.",
+        "Question": "By what percentage did the heterojunction formed by ZnO and MoS2 improve the recovery rate of the NO2 sensor?",
+        "A": "5.72%",
+        "B": "8.10%",
+        "C": "11.87%",
+        "D": "19.44%",
+        "Answer": "C",
+        "Source": "The sensing response to 10 ppm NO2 gas at 100 \u00b0C indicated that the heterojunction formed by ZnO and MoS2 successfully improved the recovery rate of the sensor by 11.87%."
+    },
+    "Question_3": {
+        "Context": "Transition metal dichalcogenides (TMDCs) have unique properties that make them suitable for gas sensing applications.",
+        "Question": "What are the advantages of using metal oxide-based NO2 gas sensors like ZnO?",
+        "A": "Rapid response and high sensitivity",
+        "B": "High operating temperatures above 200 \u00b0C",
+        "C": "Prolonged recovery times",
+        "D": "Complex synthesis process",
+        "Answer": "A",
+        "Source": "Metal oxide-based NO2 gas sensors, such as ZnO, TiO2, WO3, In2O3, and SnO2, offer several advantages, including rapid response, high sensitivity, simplicity, and easy synthesis."
+    },
+    "Question_4": {
+        "Context": "Nanomaterials have been employed in various applications due to their unique properties, including their use in gas sensors.",
+        "Question": "Which of the following nanomaterials have been used as sensing layers in chemiresistors to detect NO2 gas?",
+        "A": "Metal oxides",
+        "B": "Transition metal dichalcogenides",
+        "C": "Carbon-based materials",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "In the past few decades, nanomaterials, such as metal oxides, transition metal dichalcogenides (TMDC), and carbon-based materials, have been used as sensing layers of the chemiresistors to detect NO2 gas."
+    },
+    "Question_5": {
+        "Context": "The sensitivity of gas sensors can be enhanced through various methods, including the use of heterojunctions.",
+        "Question": "Which method has been reported to improve the recovery rate of gas sensors?",
+        "A": "Chemical doping",
+        "B": "Heterojunctions",
+        "C": "High operating temperatures",
+        "D": "All of the above",
+        "Answer": "B",
+        "Source": "Heterojunctions, external light assistance, and high operating temperatures have been reported to improve sensor recovery rate."
+    },
+    "Question_6": {
+        "Context": "The exfoliation process is used to transform bulk materials into few-layered structures, which can increase the surface area and improve the performance of nanomaterials.",
+        "Question": "What technique was employed to exfoliate bulk transition metal dichalcogenides (TMDC) into a few-layered structure?",
+        "A": "Chemical vapor deposition",
+        "B": "Mechanical peeling",
+        "C": "Tip sonication",
+        "D": "Electrospinning",
+        "Answer": "C",
+        "Source": "We employed tip sonication to exfoliate bulk TMDC, transforming it into a few-layered structure to increase the surface area."
+    },
+    "Question_7": {
+        "Context": "Raman spectroscopy is a technique used to characterize materials by observing vibrational, rotational, and other low-frequency modes.",
+        "Question": "What does the presence of a peak at 407.41 and 383.4 cm\u22121 in the Raman spectrum of a TMDC-based gas sensor indicate?",
+        "A": "Presence of a single-layered structure of MoS2",
+        "B": "Presence of a few-layered structure of MoS2",
+        "C": "Presence of a bulk structure of MoS2",
+        "D": "Presence of impurities in MoS2",
+        "Answer": "B",
+        "Source": "The Raman spectrum of the TMDC-based gas sensor excited by a 532 nm laser exhibits prominent peaks of MoS2 located at 407.41 and 383.4 cm\u22121... indicating the presence of a few-layered structure of the MoS2."
+    },
+    "Question_8": {
+        "Context": "The performance of a gas sensor can be evaluated by its response to the presence of gas molecules, which is often measured in terms of resistance change.",
+        "Question": "What effect does the addition of ZnO nanoparticles have on the signal drift of a TMDC-based sensor?",
+        "A": "Increases signal drift",
+        "B": "Decreases signal drift",
+        "C": "Has no effect on signal drift",
+        "D": "Eliminates signal drift completely",
+        "Answer": "B",
+        "Source": "Furthermore, the addition of ZnO nanoparticles significantly reduces the signal drift of the TMDC-based sensor."
+    },
+    "Question_9": {
+        "Context": "The recovery rate of gas sensors is an important parameter that indicates how quickly a sensor can return to its initial state after exposure to a gas.",
+        "Question": "How is the recovery rate of gas sensors defined?",
+        "A": "Recovery Rate = (I - I0) / (I - I10min) \u00d7 100%",
+        "B": "Recovery Rate = (I10min - I0) / (I - I0) \u00d7 100%",
+        "C": "Recovery Rate = (I - I10min) / (I - I0) \u00d7 100%",
+        "D": "Recovery Rate = (I0 - I10min) / (I - I0) \u00d7 100%",
+        "Answer": "C",
+        "Source": "Recovery Rate = (I - I10min) (I - I0) \u00d7 100% while I0 is the initial current of the sensor, I is the current generated by the sensor exposed to NO2 gas, and I10min is the current of the sensor after shutting off the NO2 gas for 10 min."
+    },
+    "Question_10": {
+        "Context": "The presence of an internal electric field at the interface of a heterojunction can influence the behavior of charge carriers and the performance of a sensor.",
+        "Question": "What is the role of the internal electric field in a ZnO/TMDC heterojunction-based gas sensor?",
+        "A": "It increases the diffusion of carriers across the interface",
+        "B": "It hinders further diffusion of carriers across the interface",
+        "C": "It has no effect on the diffusion of carriers",
+        "D": "It eliminates the need for an external power source",
+        "Answer": "B",
+        "Source": "The internal electric field hinders further diffusion of carriers."
+    }
+}

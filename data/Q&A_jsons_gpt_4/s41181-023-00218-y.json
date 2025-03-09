@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of radiopharmaceutical development, the synthesis of polysaccharides can be challenging due to the need for regio- and stereo-selectivity, often requiring complex protection/deprotection strategies. This is particularly difficult when synthesizing glycan-based PET tracers with short-lived isotopes.",
+        "Question": "Why is the chemoenzymatic synthesis approach advantageous for creating disaccharide-based PET tracers?",
+        "A": "It allows for the use of longer-lived isotopes.",
+        "B": "It simplifies the regio- and stereo-selectivity process.",
+        "C": "It eliminates the need for radiochemical yields.",
+        "D": "It enables the use of non-radioactive isotopes.",
+        "Answer": "B",
+        "Source": "The synthesis of polysaccharides is notoriously difficult, due to the challenges related to regio- and stereo-selectivity, which often require laborious protection/deprotection strategies. This is especially troublesome in the synthesis of glycan-based positron emission tomography (PET) tracers bearing short-lived isotopes, where the radiolabelling should be performed ideally as the final step, and any subsequent conversion should be avoided. Realizing the efficiency and selectivity of chemoenzymatic approaches, the group of Wilson employed a series of disaccharide phosphorylases for the conversion of [18F] fluoro-deoxyglucose ([18F]FDG), the most commonly used clinical PET tracer, into disaccharides."
+    },
+    "Question_2": {
+        "Context": "In radiopharmaceutical sciences, the use of alpha and beta emitters is characterized by their distinct physical and radiobiological features. Alpha emitters, such as 225Ac, have been considered for use in radioconjugates to potentially offer an alternative approach in certain therapies where beta emitters like 177Lu might fail.",
+        "Question": "What is a potential advantage of using alpha emitters like 225Ac over beta emitters in peptide receptor radionuclide therapies (PRRTs)?",
+        "A": "Alpha emitters have a lower uptake in kidneys and bone marrow.",
+        "B": "Alpha emitters can offer an alternative approach for resistant or recurrent diseases.",
+        "C": "Alpha emitters are more stable in mouse serum and PBS.",
+        "D": "Alpha emitters eliminate the need for subsequent optimization.",
+        "Answer": "B",
+        "Source": "Alpha- and beta emitters are characterized by their well-known physical- and radiobiological features. 177Lu-mediated peptide receptor radionuclide therapies (PRRTs) of neuroendocrine tumors (NETs) fail sometimes due to resistances or disease recurrence. Alpha emitters such as 225Ac could offer an alternative approach, as highlighted in several studies."
+    },
+    "Question_3": {
+        "Context": "Artificial intelligence (AI) has been increasingly applied in various fields, including nuclear medicine. AI can be utilized to optimize and automate the production of radiopharmaceuticals, enhancing efficiency and reducing human error.",
+        "Question": "Which of the following is a potential use of AI in the production of radiopharmaceuticals?",
+        "A": "To decrease the radioactivity of radiopharmaceuticals.",
+        "B": "To increase the need for manual intervention in production processes.",
+        "C": "To automate radiopharmaceutical production and streamline production processes.",
+        "D": "To replace the need for quality control in radiopharmaceutical production.",
+        "Answer": "C",
+        "Source": "In this new era, the use of AI can be used for: (i) automated radiopharmaceutical production optimizing and automating the production of radiopharmaceuticals, turning the production processes streamlined, leading to increased efficiency and reduced human error."
+    },
+    "Question_4": {
+        "Context": "In radiopharmaceutical development, the use of nanodiamonds (NDs) as multi-modal targeting probes has been explored. NDs can be modified with various ligands or imaging probes to assess their biodistribution and tumor accumulation in preclinical models.",
+        "Question": "What is a significant challenge in the use of nanodiamonds (NDs) for imaging agents that needs to be addressed?",
+        "A": "Increasing the size of NDs to enhance blood circulation time.",
+        "B": "Optimizing the surface charge and coating chemistry to affect biodistribution.",
+        "C": "Reducing the stability of NDs to prevent aggregation.",
+        "D": "Enhancing the radioactivity concentration in the tumor.",
+        "Answer": "B",
+        "Source": "The study clearly addressed most of the limitations affecting the NDs biodistribution studies, starting with the effect of tumor size and its role, the ND size (needs to be optimized), preferably below 100 nm to prolong the blood circulation time, the high-influences of both the surface charge and coating chemistry on the uptake of NPs in cells and biodistribution."
+    },
+    "Question_5": {
+        "Context": "The development of radiometallated radiopharmaceuticals often involves complex synthesis or purification steps. However, advancements in photochemistry and solid-phase synthesis have led to innovative approaches that can simplify and improve the preparation of these compounds.",
+        "Question": "What is the advantage of using a photocleavable moiety in the solid-phase synthesis of radiometallated radiopharmaceuticals?",
+        "A": "It allows for the use of higher energy radiometals.",
+        "B": "It enables the radiolabelled peptides to be cleaved by photoirradiation, simplifying the synthesis process.",
+        "C": "It increases the stability of the radiopharmaceuticals in solid phase.",
+        "D": "It eliminates the need for a chelator in the radiolabelling process.",
+        "Answer": "B",
+        "Source": "The investigators loaded different peptides with a terminal chelator via a 3-amino-3-(2-nitrophenyl)propionic acid (Anp) photocleavable moiety onto water-compatible amine functionalized resins. After addition of 67/68Ga or 64Cu in appropriate buffers to the solid phase and washing off unbound radiometal, the radiolabelled peptides were cleaved by photoirradiation at 365 nm for a few minutes, resulting in high yields, high molar radioactivity and high purity."
+    },
+    "Question_6": {
+        "Context": "The application of artificial intelligence (AI) in the field of radiopharmacy includes various aspects such as optimizing production processes, quality control, and dose personalization. AI can process large datasets to identify patterns, correlations, and trends, which can accelerate the development of new radiopharmaceuticals.",
+        "Question": "How can AI contribute to the development of new radiopharmaceuticals?",
+        "A": "By reducing the radiation exposure in the radiopharmaceutical cycle.",
+        "B": "By analyzing molecular structures and simulating interactions between compounds and biological targets.",
+        "C": "By increasing the need for manual quality control.",
+        "D": "By decreasing the efficiency of radiopharmaceutical production.",
+        "Answer": "B",
+        "Source": "In this new era, the use of AI can be used for: (iv) radiochemistry synthesis can be performed more precisely, with the use of machine learning that will analyze big data generated during complex radiochemistry experiments in several different places, identifying patterns, correlations and trends, accelerating the development of new radiopharmaceuticals; (v) drug discovery and design by analyzing molecular structures, predicting binding affinities, and simulating interactions between potential compounds and biological targets."
+    },
+    "Question_7": {
+        "Context": "Radiopharmaceuticals labeled with 225Ac, an alpha emitter, have been gaining clinical attention due to their potential to improve clinical outcomes. However, the assessment of radiochemical purity in these compounds poses significant challenges.",
+        "Question": "What is one of the major concerns in the clinical establishment of 225Ac-labeled radioconjugates?",
+        "A": "The high uptake in kidneys and bone marrow.",
+        "B": "The resistance to disease recurrence.",
+        "C": "The assessment of radiochemical purity.",
+        "D": "The stability of the compound in mouse serum.",
+        "Answer": "C",
+        "Source": "The use of 225Ac-labelled radioconjugates like [225Ac]Ac-DOTA-TOC/TATE or [225Ac]Ac-PSMA is becoming clinically established, although big question marks regarding the assessment of radiochemical purity arise."
+    },
+    "Question_8": {
+        "Context": "In the context of radiopharmaceutical sciences, the synthesis of radiometallated radiopharmaceuticals is typically a straightforward process involving the reaction of a radiometal with a buffered bifunctional ligand. However, some products may require additional synthesis or purification steps, which can be addressed through innovative approaches such as solid-phase synthesis and photochemistry.",
+        "Question": "What is the purpose of employing solid-phase synthesis and photochemistry in the preparation of radiometallated radiopharmaceuticals?",
+        "A": "To increase the reaction time for radiometal-based radiopharmaceuticals.",
+        "B": "To reduce the need for aqueous systems in the immobilization process.",
+        "C": "To simplify and improve the preparation process by immobilization on a solid phase compatible with aqueous systems.",
+        "D": "To eliminate the use of radiometals in the synthesis of radiopharmaceuticals.",
+        "Answer": "C",
+        "Source": "They developed an approach to combine these technologies to reach a modular radiosynthesis approach of radiometal-based radiopharmaceuticals called \u201cSolid Phase Radiometallation and Photo release (SPRP)\u201d, a simple one-pot procedure based on workflows established for other food or drug applications, leading to high translatable potential."
+    },
+    "Question_9": {
+        "Context": "In radiopharmaceutical development, the concept of solid-phase radiometallation and photo-triggered release (SPRP) represents a novel strategy that combines the advantages of solid-phase synthesis and photocatalyzed release. This approach can lead to higher non-decay corrected radiochemical yields compared to conventional liquid phase radiolabeling.",
+        "Question": "What is a key advantage of the SPRP method over conventional liquid phase radiolabeling?",
+        "A": "It requires the use of higher temperatures for radiolabeling.",
+        "B": "It leads to lower non-decay corrected radiochemical yields.",
+        "C": "It can tolerate impurities better than the conventional method.",
+        "D": "It gives higher non-decay corrected radiochemical yield due to the short processing time.",
+        "Answer": "D",
+        "Source": "In comparison to the conventional liquid phase radiolabeling, this approach gives higher non-decay corrected radiochemical yield due to the short processing time."
+    },
+    "Question_10": {
+        "Context": "The use of radiolabeled nanodiamonds (NDs) for imaging applications in nuclear medicine has been explored, with the aim of evaluating their biodistribution and tumor accumulation. However, the in vivo experiments have identified several limitations that need to be addressed to improve the potential of NDs as imaging agents.",
+        "Question": "Which factor has been identified as a limitation affecting the biodistribution of nanodiamonds (NDs) in imaging applications?",
+        "A": "The need for higher radioactivity concentration in the tumor.",
+        "B": "The requirement for larger ND sizes to enhance blood circulation time.",
+        "C": "The influence of surface charge and coating chemistry on biodistribution.",
+        "D": "The stability of NDs in the presence of tumor cells.",
+        "Answer": "C",
+        "Source": "The study clearly addressed most of the limitations affecting the NDs biodistribution studies, starting with the effect of tumor size and its role, the ND size (needs to be optimized), preferably below 100 nm to prolong the blood circulation time, the high-influences of both the surface charge and coating chemistry on the uptake of NPs in cells and biodistribution."
+    }
+}

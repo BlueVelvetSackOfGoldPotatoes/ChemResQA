@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Metal anode batteries have gained research interest due to their high specific capacity and low electrochemical potentials. Dendrite growth during charging deteriorates battery performance. How can 2D materials be beneficial in mitigating dendrite growth in metal batteries?",
+        "Question": "What role do 2D materials play in modifying the anode design to suppress dendrite growth in metal batteries?",
+        "A": "Enhancing lithium nucleation and deposition",
+        "B": "Improving mechanical strength of the anode",
+        "C": "Regulating metal ion flux for uniform deposition",
+        "D": "Increasing the specific capacity of the anode",
+        "Answer": "C",
+        "Source": "First principles calculations and experimental study verify the lithiophilicity of carbon frameworks with various heteroatom-doping, promoting a uniform Li nucleation for safe metal anode."
+    },
+    "Question_2": {
+        "Context": "Separator engineering using 2D materials aims to enhance mechanical strength and thermal stability. How does boron nitride coating on the separator contribute to safe metal anodes?",
+        "Question": "What is the primary function of boron nitride coating on the separator to enhance the safety of metal anodes?",
+        "A": "Improving ionic conductivity",
+        "B": "Enhancing mechanical strength",
+        "C": "Regulating metal ion flux",
+        "D": "Reducing thermal stability",
+        "Answer": "B",
+        "Source": "The unique features of boron nitride, including high thermal conductivity and mechanical strength, make it attractive for enhancing the safety of metal anodes."
+    },
+    "Question_3": {
+        "Context": "Electrolyte modifications using 2D materials aim to optimize plating morphology and suppress dendrite formation. How do MXenes contribute to improving the performance of metal batteries?",
+        "Question": "What is the key advantage of using MXenes as additives in the electrolyte of metal batteries?",
+        "A": "Enhancing thermal stability",
+        "B": "Improving mechanical strength",
+        "C": "Increasing ionic conductivity",
+        "D": "Regulating metal nucleation",
+        "Answer": "C",
+        "Source": "MXenes have high electrical conductivity and mechanical properties, making them attractive for improving the ionic conductivity of metal battery electrolytes."
+    },
+    "Question_4": {
+        "Context": "Graphene-based materials are used to modify separators for safe metal anodes. How does nitrogen and sulfur codoped graphene contribute to dendrite suppression?",
+        "Question": "What is the primary function of nitrogen and sulfur codoped graphene on separators to suppress dendrite growth?",
+        "A": "Enhancing thermal stability",
+        "B": "Improving mechanical strength",
+        "C": "Homogenizing electric field distribution",
+        "D": "Increasing ionic conductivity",
+        "Answer": "C",
+        "Source": "Nitrogen and sulfur codoped graphene on separators homogenize the electric field distribution to suppress dendrite growth."
+    },
+    "Question_5": {
+        "Context": "Metal anode batteries face challenges due to uneven electric field distribution. How does Ti3C2Tx contribute to safe metal anodes?",
+        "Question": "What is the role of Ti3C2Tx in improving the cycling reversibility for metal anodes?",
+        "A": "Enhancing mechanical strength",
+        "B": "Promoting lithium nucleation",
+        "C": "Facilitating ionic conductivity",
+        "D": "Regulating metal nucleation",
+        "Answer": "D",
+        "Source": "Ti3C2Tx acts as a non-aqueous electrolyte to promote cycling reversibility by regulating metal nucleation."
+    },
+    "Question_6": {
+        "Context": "Separator coating with functional materials aims to guide metal nucleation. How does defective graphene contribute to dendrite suppression?",
+        "Question": "What is the effect of defects in graphene on dendrite suppression in metal batteries?",
+        "A": "Reducing nucleation overpotentials",
+        "B": "Enhancing lithium deposition",
+        "C": "Improving mechanical strength",
+        "D": "Increasing ionic conductivity",
+        "Answer": "A",
+        "Source": "Defects in graphene reduce nucleation overpotentials, promoting uniform Li deposition for safe metal anodes."
+    },
+    "Question_7": {
+        "Context": "Separator engineering using 2D materials aims to enhance mechanical strength and thermal stability. How does graphitic carbon nitride coating contribute to safe metal anodes?",
+        "Question": "What is the primary function of graphitic carbon nitride coating on separators to enhance the safety of metal anodes?",
+        "A": "Improving ionic conductivity",
+        "B": "Enhancing mechanical strength",
+        "C": "Regulating metal ion flux",
+        "D": "Reducing thermal stability",
+        "Answer": "C",
+        "Source": "Graphitic carbon nitride coating on separators homogenizes the ionic flux to enhance the safety of metal anodes."
+    },
+    "Question_8": {
+        "Context": "Electrolyte modifications using 2D materials aim to optimize plating morphology and suppress dendrite formation. How does 1T phase MoS2 contribute to improving the performance of metal batteries?",
+        "Question": "What advantage does 1T phase MoS2 offer as an electrolyte component in metal batteries?",
+        "A": "Enhancing thermal stability",
+        "B": "Improving mechanical strength",
+        "C": "Increasing ionic conductivity",
+        "D": "Regulating metal nucleation",
+        "Answer": "C",
+        "Source": "1T phase MoS2 with high electrical conductivity is beneficial as an electrolyte component for metal batteries."
+    },
+    "Question_9": {
+        "Context": "Metal anode batteries face challenges due to uneven electric field distribution. How does g-BN contribute to safe metal anodes?",
+        "Question": "What is the primary function of g-BN in enhancing the safety of metal anodes?",
+        "A": "Improving ionic conductivity",
+        "B": "Enhancing mechanical strength",
+        "C": "Regulating metal ion flux",
+        "D": "Reducing thermal stability",
+        "Answer": "A",
+        "Source": "g-BN in the electrolyte enhances ionic conductivity, contributing to the safety of metal anodes."
+    },
+    "Question_10": {
+        "Context": "Separator coating with functional materials aims to guide metal nucleation. How does BN coating contribute to dendrite suppression?",
+        "Question": "What is the primary function of boron nitride coating on separators to suppress dendrite growth?",
+        "A": "Improving ionic conductivity",
+        "B": "Enhancing mechanical strength",
+        "C": "Regulating metal ion flux",
+        "D": "Reducing thermal stability",
+        "Answer": "B",
+        "Source": "Boron nitride coating on separators enhances mechanical strength to suppress dendrite growth."
+    }
+}

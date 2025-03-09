@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the thermoelectric performance of SnSe and its dependence on the low-energy electron band structure.",
+        "Question": "What determines the thermoelectric performance of a material according to the paper?",
+        "A": "Seebeck coefficient",
+        "B": "Electric conductivity",
+        "C": "Thermal conductivity",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Here S, \u03c3, T, and \u03ba are the Seebeck coefficient, electric conductivity, temperature, and thermal conductivity, respectively, while S2\u03c3 is called a power factor (PF). One of the ultimate goals in the research of thermoelectric materials is to achieve a high ZT value, which is generally considered a challenging task because the physical parameters comprising ZT are correlated and often act adversely on each other."
+    },
+    "Question_2": {
+        "Context": "The paper mentions a specific method to optimize the electrical and thermal properties of thermoelectric materials.",
+        "Question": "What is mentioned as an effective strategy to optimize the electrical and thermal properties of thermoelectric materials?",
+        "A": "Defect engineering",
+        "B": "Crystal growth rate",
+        "C": "Temperature control",
+        "D": "Chemical doping",
+        "Answer": "A",
+        "Source": "One effective strategy to optimize both the electrical and thermal properties is defect engineering, which can simultaneously increase the charge carrier concentration and reduce the lattice thermal conductivity in the material."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the band structure of SnSe and its relation to thermoelectric performance.",
+        "Question": "What is the band structure of SnSe characterized by?",
+        "A": "Valence band minimum",
+        "B": "Conduction band minimum",
+        "C": "Valence band maximum",
+        "D": "Conduction band maximum",
+        "Answer": "C",
+        "Source": "It has attracted recent research interest owing to its high ZT value, due to the ultrahigh PF, which is attributed to a multi-valley valence band maximum (VBM) and band renormalization."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the effect of cooling rate during crystal growth on the electron band structure of SnSe.",
+        "Question": "How does the cooling rate during crystal growth affect the charge carrier density of SnSe?",
+        "A": "Increases it",
+        "B": "Decreases it",
+        "C": "Has no effect",
+        "D": "Depends on the material",
+        "Answer": "B",
+        "Source": "With increasing cooling rate to 5 K/h, the overall multi-valley band shifts toward higher binding energy, indicating that the cooling rate tunes the charge carrier density of SnSe."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the role of Sn vacancies in tuning the electron band structure of SnSe.",
+        "Question": "What effect do Sn vacancies have on the electron band structure of SnSe?",
+        "A": "Shift the valence band maximum to higher energy",
+        "B": "Shift the valence band maximum to lower energy",
+        "C": "Increase the band gap",
+        "D": "Decrease the power factor",
+        "Answer": "B",
+        "Source": "With increasing x, the overall multi-valley VBM shifts toward lower binding energy."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the correlation between the electron band structure and the thermoelectric performance of SnSe.",
+        "Question": "What is the correlation between the electron band structure and the thermoelectric performance of SnSe?",
+        "A": "Directly proportional",
+        "B": "Inversely proportional",
+        "C": "No correlation",
+        "D": "Non-linear relationship",
+        "Answer": "A",
+        "Source": "This finding suggests that the high PF, observed in hole-doped SnSe, is closely correlated with the charge carrier density (hole concentrations), i.e., the population of Sn vacancies."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the effect of cooling rate on the thermoelectric power factor of SnSe.",
+        "Question": "How does the thermoelectric power factor of SnSe change with increasing cooling rate?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Fluctuates",
+        "Answer": "B",
+        "Source": "EVBM does not show a notable change up to a cooling rate of 3K/h. When the cooling rate further increases, EVBM decreases, indicating that SnSe gradually has less hole doping due to Sn vacancies."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the effective mass of multiple hole bands in SnSe.",
+        "Question": "What is the effective mass of the \u03b1 band along the \u0393-Y direction for a crystal growth cooling rate of 0.5 K/h?",
+        "A": "0.19 \u00b1 0.02 me",
+        "B": "0.11 \u00b1 0.01 me",
+        "C": "0.15 \u00b1 0.01 me",
+        "D": "0.21 \u00b1 0.02 me",
+        "Answer": "A",
+        "Source": "Parabolic fitting to the top of the \u03b1, \u03b2, and \u03b3 bands shown in Fig. 2 corresponding to a cooling rate of 0.5 K/h confirms the light effective mass of m*\u03b1 \u0393X = 0.19 \u00b1 0.02 me."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the fabrication of an intrinsic defect-induced high-efficiency thermoelectric phase of SnSe.",
+        "Question": "What is suggested as a viable route towards engineering the thermoelectric performance of SnSe?",
+        "A": "Chemical doping",
+        "B": "Temperature control",
+        "C": "Defect engineering",
+        "D": "Material substitution",
+        "Answer": "C",
+        "Source": "These findings suggest a simple but efficient way to fabricate an intrinsic defect-induced high-efficiency thermoelectric phase of SnSe and provide a viable route toward the engineering of thermoelectric performance via the sample growth condition without an additional ex-situ process."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the research conducted on the electron band structure of SnSe.",
+        "Question": "What method was utilized to calculate the electron band structure of SnSe in the study?",
+        "A": "Density functional theory",
+        "B": "Molecular dynamics simulation",
+        "C": "Monte Carlo method",
+        "D": "Finite element analysis",
+        "Answer": "A",
+        "Source": "The electron band structure of SnSe was calculated utilizing the DFT implemented in full-potential linearized augmented plane wave package."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Fermentation is a biological process that involves the transformation of substrates by microorganisms. In the context of cigar tobacco leaves, fermentation can lead to changes in chemical composition, including the reduction of certain components and the increase of others.",
+        "Question": "What is the general trend in the content of insoluble protein in cigar tobacco leaves during fermentation?",
+        "A": "Insoluble protein content decreases significantly.",
+        "B": "Insoluble protein content remains unchanged.",
+        "C": "Insoluble protein content increases notably.",
+        "D": "Insoluble protein content first increases then decreases sharply.",
+        "Answer": "C",
+        "Source": "Fermentation resulted in a reduction of conventional chemical components in tobacco leaves, with the exception of a noteworthy increase in insoluble protein content."
+    },
+    "Question_2": {
+        "Context": "During the fermentation of plant materials, such as cigar tobacco leaves, organic acids are important flavor components that can undergo significant changes in concentration.",
+        "Question": "Which organic acid is typically the most abundant in cigar tobacco leaves before fermentation?",
+        "A": "Oleic acid",
+        "B": "Malic acid",
+        "C": "Citric acid",
+        "D": "Linoleic acid",
+        "Answer": "B",
+        "Source": "Ten non-volatile organic acids, namely, malic acid, oxalic acid, citric acid, malonic acid, succinic acid, fumaric acid, oleic acid, linoleic acid, palmitic acid, and stearic acid, were detected in this work. Malic acid was the predominant organic acid in tobacco leaves, accounting for 41.23% and 68.33% of the total organic acids content in H1 and S1, respectively, followed by oxalic acid and citric acid."
+    },
+    "Question_3": {
+        "Context": "Amino acids in tobacco leaves can serve as precursors to flavor compounds or directly contribute to the flavor profile. Their levels can change during the fermentation process.",
+        "Question": "Which amino acid showed a significant increase in concentration during the fermentation of cigar tobacco leaves?",
+        "A": "Alanine",
+        "B": "Glutamic acid",
+        "C": "Leucine",
+        "D": "Aspartic acid",
+        "Answer": "C",
+        "Source": "In contrast, the levels of Leu and Iso significantly increased in both Hainan and Sichuan samples after 28 days of fermentation (p < 0.05)."
+    },
+    "Question_4": {
+        "Context": "Microbial activity during the fermentation of cigar tobacco leaves can lead to the transformation of nicotine, a key alkaloid found in tobacco.",
+        "Question": "What happens to the nicotine content in cigar tobacco leaves as a result of fermentation?",
+        "A": "Nicotine content increases gradually.",
+        "B": "Nicotine content remains constant.",
+        "C": "Nicotine content fluctuates without a clear trend.",
+        "D": "Nicotine content gradually decreases.",
+        "Answer": "D",
+        "Source": "As fermentation preceded, the nicotine content gradually decreased from 4.24% \u00b1 0.12% in H1 to 2.74% \u00b1 0.21% in H5 and from 2.64 \u00b1 0.30 in S1 to 1.70% \u00b1 0.10% in S5 (p < 0.05), representing a reduction of 35.38% and 35.61%, respectively."
+    },
+    "Question_5": {
+        "Context": "The fermentation of cigar tobacco leaves involves the action of bacteria on various substrates, leading to the production of aromatic substances that contribute to the sensory characteristics of the product.",
+        "Question": "Which aromatic substance known for its distinct almond and cherry aromas is identified as a primary differentiating metabolite in cigar tobacco leaves during fermentation?",
+        "A": "Benzaldehyde",
+        "B": "Phenethyl acetate",
+        "C": "Isophorone",
+        "D": "\u03b2-damascenone",
+        "Answer": "A",
+        "Source": "Fan et al. (2023) identified and characterized 613 volatile metabolites in cigar tobacco leaves during the fermentation process, highlighting benzaldehyde as the primary differentiating metabolite, known for its distinct almond and cherry aromas."
+    },
+    "Question_6": {
+        "Context": "In the fermentation of cigar tobacco leaves, the bacterial community structure can change significantly, with certain bacteria becoming dominant.",
+        "Question": "Which of the following bacteria became dominant in cigar tobacco leaves from both Hainan and Sichuan provinces in China after fermentation?",
+        "A": "Lactobacillus",
+        "B": "Pseudomonas",
+        "C": "Stenotrophomonas",
+        "D": "Sphingomonas",
+        "Answer": "C",
+        "Source": "As fermentation progressed, the community structures in the two regions became relatively similar, with Delftia, Ochrobactrum, Rhodococcus, and Stenotrophomonas being dominant."
+    },
+    "Question_7": {
+        "Context": "The fermentation process can lead to the reduction of certain undesirable amino acids in cigar tobacco leaves, which is beneficial for improving the sensory quality of the product.",
+        "Question": "Which undesirable amino acid showed a significant negative correlation with certain bacteria during the fermentation of cigar tobacco leaves?",
+        "A": "Leucine",
+        "B": "Alanine",
+        "C": "Isoleucine",
+        "D": "Valine",
+        "Answer": "B",
+        "Source": "Stenotrophomonas and Delftia showed a significant negative correlation with undesirable amino acids, such as Ala and Glu."
+    },
+    "Question_8": {
+        "Context": "The fermentation of cigar tobacco leaves can result in the decrease of certain organic acids that are initially present in high concentrations.",
+        "Question": "Which organic acid, considered undesirable due to its contribution to astringency in tobacco leaves, showed a significant decrease in concentration after fermentation?",
+        "A": "Malic acid",
+        "B": "Oleic acid",
+        "C": "Linoleic acid",
+        "D": "Citric acid",
+        "Answer": "C",
+        "Source": "The concentrations of the remaining seven organic acids were below 10 mg/g, with linoleic acid and stearic acid particularly below 1 mg/g. Despite their relatively low abundance, these acids exert noticeable effects on the quality of tobacco leaves."
+    },
+    "Question_9": {
+        "Context": "Microbial fermentation of cigar tobacco leaves can lead to the formation of various aromatic substances, which are categorized based on their biosynthetic pathways.",
+        "Question": "Which aromatic substance, categorized as a degradation product of chlorophyll, is the most abundant in cigar tobacco leaves and contributes to reduced smoke irritation?",
+        "A": "Neophytadiene",
+        "B": "Isophorone",
+        "C": "Benzaldehyde",
+        "D": "\u03b2-damascenone",
+        "Answer": "A",
+        "Source": "Among these compounds, neophytadiene, a degradation product of chlorophyll, emerged as the most abundant aromatic substance in cigars, accounting for over 60% of the total aromatic substances."
+    },
+    "Question_10": {
+        "Context": "The fermentation of cigar tobacco leaves involves complex interactions among microorganisms, which can be analyzed through co-occurrence network analysis to reveal potential relationships within the microbial community.",
+        "Question": "In the context of microbial co-occurrence networks, what does a prevalence of positive correlations within the bacterial network suggest about the microbial community in cigar tobacco leaves during fermentation?",
+        "A": "Microorganisms are in a competitive relationship.",
+        "B": "Microorganisms are in a parasitic relationship.",
+        "C": "Microorganisms cooperate to adapt to the environment.",
+        "D": "Microorganisms are isolated and function independently.",
+        "Answer": "C",
+        "Source": "The co-occurrence network analysis of microorganisms revealed a prevalence of positive correlations within the bacterial network, with non-abundant bacteria potentially contributing to the stabilization of the bacterial community."
+    }
+}

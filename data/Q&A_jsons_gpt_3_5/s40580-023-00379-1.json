@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study discusses the use of a Fabry-Perot resonator and a distributed Bragg reflector in PbS colloidal quantum dot solar cells.",
+        "Question": "What is the main purpose of combining a Fabry-Perot resonator and a distributed Bragg reflector in PbS CQD solar cells?",
+        "A": "Increase light absorption",
+        "B": "Enhance charge transport",
+        "C": "Reduce the thickness of the CQD film",
+        "D": "Improve transparency for visible light",
+        "Answer": "A",
+        "Source": "The FP resonance enhances light absorption near the resonant wavelength of the DBR without changing the CQD film thickness."
+    },
+    "Question_2": {
+        "Context": "The study mentions the importance of the device structure in designing CQD solar cells.",
+        "Question": "Why is the optimization of the thicknesses of the dielectric and metal layers crucial in the device structure?",
+        "A": "To control the optical transparency only",
+        "B": "To control the electric conductivity only",
+        "C": "To control the FP resonance wavelength",
+        "D": "To control the charge carrier diffusion length",
+        "Answer": "C",
+        "Source": "They control not only the optical transparency and electric conductivity of the transparent electrode but also the FP resonance wavelength."
+    },
+    "Question_3": {
+        "Context": "The study discusses the impact of the FP resonance and DBRs on the photovoltaic performance of PbS CQD solar cells.",
+        "Question": "What effect does the DBR have on the reflectance of the bottom Ag layer in the FP device?",
+        "A": "Decreases reflectance",
+        "B": "Increases reflectance",
+        "C": "No effect on reflectance",
+        "D": "Shifts the reflectance to a different wavelength",
+        "Answer": "B",
+        "Source": "The DBR-A exhibits the most enhancement. The DBR-A increases the reflectivity of the bottom Ag layer at the wavelength of the second FP resonance peak."
+    },
+    "Question_4": {
+        "Context": "The study explores the development of semi-transparent PbS CQD solar cells.",
+        "Question": "What is the main advantage of the FP-STC device compared to the STC device?",
+        "A": "Higher average visible transmittance",
+        "B": "Lower power conversion efficiency",
+        "C": "Higher transmittance in the NIR region",
+        "D": "Lower IPCE in the NIR region",
+        "Answer": "C",
+        "Source": "When the FP resonance is formed by adding the NIR reflecting DBR, IPCE at the resonant wavelength increases by 440%."
+    },
+    "Question_5": {
+        "Context": "The study discusses the impact of the incident light angle on the device structure.",
+        "Question": "How does the FP resonance wavelength in the FP-STC device change with an increase in the incident light angle?",
+        "A": "Shifts to a longer wavelength",
+        "B": "Shifts to a shorter wavelength",
+        "C": "Remains constant",
+        "D": "Disappears",
+        "Answer": "A",
+        "Source": "This is because the optical path length through the FP resonance structure changes. An increase in the incident angle leads to a longer effective optical path length, resulting in the blue shift of resonance wavelength."
+    },
+    "Question_6": {
+        "Context": "The study discusses the photovoltaic performance of different device structures.",
+        "Question": "What effect does the DBR have on the photovoltaic performance of the DBR-FP device compared to the FP device?",
+        "A": "Decreases JSC",
+        "B": "Increases VOC",
+        "C": "Reduces FF",
+        "D": "Boosts PCE",
+        "Answer": "D",
+        "Source": "The DBR-FP CQD solar cells show a significant PCE boost by increasing both JSC and FF."
+    },
+    "Question_7": {
+        "Context": "The study discusses the importance of the FP resonance and DBRs in enhancing light absorption.",
+        "Question": "What is the primary reason for adding DBRs to the FP device?",
+        "A": "To decrease light absorption",
+        "B": "To increase transparency",
+        "C": "To enhance light absorption further",
+        "D": "To reduce the thickness of the PbS layer",
+        "Answer": "C",
+        "Source": "Owing to the tunable reflection spectrum of the DBRs, the FP resonance can be strongly coupled to a high reflectance region of the DBRs."
+    },
+    "Question_8": {
+        "Context": "The study discusses the impact of the DBR on the reflectance of the bottom Ag layer.",
+        "Question": "What is the effect of the DBR-A design on the reflectance of the bottom Ag layer?",
+        "A": "Decreases reflectance",
+        "B": "Increases reflectance",
+        "C": "No effect on reflectance",
+        "D": "Shifts the reflectance to a different wavelength",
+        "Answer": "B",
+        "Source": "The DBR-A exhibits the most enhancement. The DBR-A increases the reflectivity of the bottom Ag layer at the wavelength of the second FP resonance peak."
+    },
+    "Question_9": {
+        "Context": "The study explores the development of semi-transparent PbS CQD solar cells.",
+        "Question": "What is the main advantage of the FP-STC device compared to the STC device?",
+        "A": "Higher average visible transmittance",
+        "B": "Lower power conversion efficiency",
+        "C": "Higher transmittance in the NIR region",
+        "D": "Lower IPCE in the NIR region",
+        "Answer": "C",
+        "Source": "When the FP resonance is formed by adding the NIR reflecting DBR, IPCE at the resonant wavelength increases by 440%."
+    },
+    "Question_10": {
+        "Context": "The study discusses the impact of the incident light angle on the device structure.",
+        "Question": "How does the FP resonance wavelength in the FP-STC device change with an increase in the incident light angle?",
+        "A": "Shifts to a longer wavelength",
+        "B": "Shifts to a shorter wavelength",
+        "C": "Remains constant",
+        "D": "Disappears",
+        "Answer": "A",
+        "Source": "This is because the optical path length through the FP resonance structure changes. An increase in the incident angle leads to a longer effective optical path length, resulting in the blue shift of resonance wavelength."
+    }
+}

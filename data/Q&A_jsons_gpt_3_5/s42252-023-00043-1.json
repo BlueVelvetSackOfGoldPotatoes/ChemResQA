@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of Si-BaTiO3 nanoparticles to modify the electro-mechanical properties of a high-performance aerospace-grade epoxy. Real-time measurements were conducted using Raman spectroscopy while applying electric fields to the nanocomposite specimens.",
+        "Question": "What technique was employed to investigate the polarisation behavior of the nanocomposite material in the presence of an external electric field?",
+        "A": "SEM imaging",
+        "B": "FTIR analysis",
+        "C": "Differential scanning calorimetry",
+        "D": "In-situ Raman spectroscopy",
+        "Answer": "D",
+        "Source": "Raman spectroscopy is a non-destructive technique that enables the probing of the vibrational modes of a material. In this study, in-situ Raman spectroscopy equipped with an electric connection was employed to investigate the polarisation behavior of the nanocomposite material in the presence of an external electric field."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the dispersion and distribution of nanoparticles in the epoxy resin using scanning electron microscopy (SEM) at different weight percentages.",
+        "Question": "What was the purpose of using the silane coupling agent 3-GPS in the study?",
+        "A": "To enhance conductivity",
+        "B": "To improve the wetting of the filler",
+        "C": "To increase the weight percentage of nanoparticles",
+        "D": "To reduce the aggregation of nanoparticles",
+        "Answer": "B",
+        "Source": "The hydroxylated BaTiO3 powder particles were added to the silane solution and mixed under ultrasonic bath for 10 min to improve the wetting of the filler."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the fabrication process of epoxy nanocomposites with Si-BaTiO3 nanoparticles.",
+        "Question": "What was the purpose of cryo-fracturing the cured nanocomposites?",
+        "A": "To enhance conductivity",
+        "B": "To expose the cross-sectional morphology of the specimens",
+        "C": "To improve the wetting of the filler",
+        "D": "To increase the weight percentage of nanoparticles",
+        "Answer": "B",
+        "Source": "Cryo-fracturing using liquid nitrogen was performed to expose the cross-sectional morphology of the specimens."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the use of Raman spectroscopy to investigate the vibrational modes of the material.",
+        "Question": "What does the shift in the Raman peak of BaTiO3 towards higher wave number indicate?",
+        "A": "Decrease in the inter-atomic distance",
+        "B": "Increase in the inter-atomic distance",
+        "C": "Presence of tensile residual strains",
+        "D": "Presence of compressive residual strains",
+        "Answer": "A",
+        "Source": "The Raman peak of BaTiO3 at 515 cm\u2212 1 shifts towards higher wave number with the increase in the applied voltage, indicating a decrease in the inter-atomic distance."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the dispersion of nanoparticles in the epoxy resin using SEM imaging.",
+        "Question": "What effect did the silane coupling agent have on the dispersion of nanoparticles in the epoxy matrix?",
+        "A": "Increased aggregation",
+        "B": "Reduced dispersion",
+        "C": "Improved dispersion",
+        "D": "No effect",
+        "Answer": "C",
+        "Source": "The microstructure suggests that the functionalization of the BaTiO3 particles with the 3-GPS silane coupling agent resulted in improved dispersion and reduced aggregation in the epoxy matrix."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the use of Raman spectroscopy to study the polarisation behavior of the nanocomposite material.",
+        "Question": "What does the increase in intensity of Raman peaks indicate?",
+        "A": "Decrease in polarizability",
+        "B": "Increase in polarizability",
+        "C": "Decrease in active molecular groups",
+        "D": "Increase in active molecular groups",
+        "Answer": "D",
+        "Source": "The intensity of Raman peaks represents the polarizability of the molecule and the concentration of the active molecular groups, therefore the slight increase in intensity indicates a slight increase in polarizability of Si-BaTiO3-epoxy nanocomposites and increasing active species with the increasing content of Si-BaTiO3."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the fabrication process of epoxy nanocomposites with Si-BaTiO3 nanoparticles.",
+        "Question": "What technique was used to ensure an ultimate cure degree of the nanocomposites was achieved?",
+        "A": "SEM imaging",
+        "B": "FTIR analysis",
+        "C": "Differential scanning calorimetry",
+        "D": "Precision cut-off machine",
+        "Answer": "C",
+        "Source": "Differential scanning calorimetry has been carried out to ensure an ultimate cure degree has been achieved using the process parameters identified above."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the use of Raman spectroscopy to investigate the polarisation behavior of the nanocomposite material.",
+        "Question": "What does the broadening of Raman peaks indicate?",
+        "A": "Decrease in polarizability",
+        "B": "Increase in polarizability",
+        "C": "Decrease in active molecular groups",
+        "D": "Increase in active molecular groups",
+        "Answer": "B",
+        "Source": "The broadening of peak and increasing the intensity of peak indicate the stretching of bond and structural change via field induced dipolar displacement at intrinsic level and polarisation under such electric field."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the dispersion and distribution of nanoparticles in the epoxy resin using SEM imaging.",
+        "Question": "What was the effect of using the silane coupling agent on the dispersion of nanoparticles in the epoxy matrix?",
+        "A": "Increased aggregation",
+        "B": "Reduced dispersion",
+        "C": "Improved dispersion",
+        "D": "No effect",
+        "Answer": "C",
+        "Source": "The SEM images revealed that the use of a silane coupling agent can be an effective strategy to achieve better dispersion of nanoparticles in polymer composites and enhance their performance."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the use of Raman spectroscopy to study the polarisation behavior of the nanocomposite material.",
+        "Question": "What does the shift in the Raman peak of Si-BaTiO3 towards higher wave number indicate?",
+        "A": "Decrease in the inter-atomic distance",
+        "B": "Increase in the inter-atomic distance",
+        "C": "Presence of tensile residual strains",
+        "D": "Presence of compressive residual strains",
+        "Answer": "D",
+        "Source": "Under the application of an electric field, the Raman peaks exhibit a shift in wave number, indicating the existence of residual strains induced by the applied voltage."
+    }
+}

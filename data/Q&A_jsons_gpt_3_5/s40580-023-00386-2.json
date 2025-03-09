@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Low-temperature plasma has been applied to biomass pretreatment. ",
+        "Question": "What is a common method of physical pretreatment for biomass?",
+        "A": "Acidic solutions",
+        "B": "Alkaline solutions",
+        "C": "Mechanical milling",
+        "D": "Enzymatic degradation",
+        "Answer": "C",
+        "Source": "The physical pretreatment commonly includes the mechanical milling, extrusion, microwave, ultrasound and so on."
+    },
+    "Question_2": {
+        "Context": "Low-temperature plasma has been used for biomass gasification.",
+        "Question": "Which carrier gas showed the maximum conversion efficiency in plasma-induced gasification?",
+        "A": "CO",
+        "B": "CO2",
+        "C": "H2",
+        "D": "N2",
+        "Answer": "D",
+        "Source": "N2 has been shown to give the maximum conversion among all carrier gases."
+    },
+    "Question_3": {
+        "Context": "Low-temperature plasma has been applied to biomass liquefaction.",
+        "Question": "What is a significant factor in acidic liquefaction?",
+        "A": "Temperature",
+        "B": "Solvent type",
+        "C": "Pressure",
+        "D": "Water content",
+        "Answer": "D",
+        "Source": "The water content is one of the significant factors to the acidic liquefaction because the ionized hydrogen plays an important part in this process."
+    },
+    "Question_4": {
+        "Context": "Low-temperature plasma has been utilized for the modification and synthesis of catalysts.",
+        "Question": "What is a benefit of using low-temperature plasma for synthesizing heterogeneous catalysts?",
+        "A": "High transformation efficiency",
+        "B": "Low recyclability",
+        "C": "Harsh reaction conditions",
+        "D": "Limited distribution of active species",
+        "Answer": "A",
+        "Source": "Homogeneous catalysts, in which the active sites are in the same phase as the reactants, typically result in high transformation efficiency, and heterogeneous catalysts have a significant advantage in terms of recyclability over homogeneous catalysts."
+    },
+    "Question_5": {
+        "Context": "Low-temperature plasma has been applied to biomass gasification.",
+        "Question": "What is the advantage of using a hybrid plasma-catalytic system for biomass gasification?",
+        "A": "Higher operating costs",
+        "B": "Lower gasification performance",
+        "C": "Lower activation energy",
+        "D": "Decreased gas purity",
+        "Answer": "C",
+        "Source": "The synergistic effect of catalyst and plasma not only lowers the activation energy but also improves the gasification performance via activated chemical species and electrons."
+    },
+    "Question_6": {
+        "Context": "Low-temperature plasma has been used for biomass liquefaction.",
+        "Question": "What is a drawback of conventional liquefaction processes?",
+        "A": "Low reaction temperature",
+        "B": "Short reaction time",
+        "C": "Use of hazardous chemicals",
+        "D": "Easy purification process",
+        "Answer": "C",
+        "Source": "The conventional liquefaction process required intensive reaction conditions with hazardous chemicals and long reaction time."
+    },
+    "Question_7": {
+        "Context": "Low-temperature plasma has been applied to biomass pretreatment.",
+        "Question": "What is a characteristic of the physical pretreatment of biomass?",
+        "A": "Use of enzymes",
+        "B": "High reaction temperature",
+        "C": "Less pollution",
+        "D": "Mechanical milling",
+        "Answer": "D",
+        "Source": "The physical pretreatment commonly includes the mechanical milling, extrusion, microwave, ultrasound and so on."
+    },
+    "Question_8": {
+        "Context": "Low-temperature plasma has been utilized for the modification and synthesis of catalysts.",
+        "Question": "What is a benefit of using low-temperature plasma for synthesizing solid acid catalysts?",
+        "A": "High energy consumption",
+        "B": "Limited damages during surface functionalization",
+        "C": "Use of hazardous chemicals",
+        "D": "Low catalytic stability",
+        "Answer": "B",
+        "Source": "Low-temperature plasma engineering shows limited damages during the surface functionalization of heterogeneous catalyst, which ensures high recyclable utilization."
+    },
+    "Question_9": {
+        "Context": "Low-temperature plasma has been applied to biomass gasification.",
+        "Question": "What is a challenge in traditional biomass gasification processes?",
+        "A": "Low selectivity of products",
+        "B": "High conversion efficiency",
+        "C": "Easy post-processing",
+        "D": "Low production of tars",
+        "Answer": "A",
+        "Source": "Commercial-scale applications are still inaccessible due to the production of tars with a great amount in these processes, causing the problem of post-processing and the catalyst deactivation."
+    },
+    "Question_10": {
+        "Context": "Low-temperature plasma has been used for biomass liquefaction.",
+        "Question": "What is a benefit of using low-temperature plasma for biomass liquefaction?",
+        "A": "High reaction temperature",
+        "B": "Long reaction time",
+        "C": "Intensive reaction conditions",
+        "D": "Easy purification process",
+        "Answer": "D",
+        "Source": "The conventional liquefaction process required intensive reaction conditions with hazardous chemicals and long reaction time."
+    }
+}

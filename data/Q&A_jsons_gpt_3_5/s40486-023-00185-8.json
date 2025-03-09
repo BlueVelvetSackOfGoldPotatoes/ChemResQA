@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Thrombus formation is a natural response to external stimuli or injury and also a pathophysiological phenomenon causing critical thromboembolic diseases. Extensive research has been conducted to identify the underlying causes of abnormal thrombus formation.",
+        "Question": "What is considered a major contributor to thrombus formation?",
+        "A": "Endothelial injury",
+        "B": "Hypercoagulability",
+        "C": "Blood flow stasis",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Thrombus formation at low shear rates is described by Virchow\u2019s triad. Virchow\u2019s triad is a classic thrombus formation mechanism comprising three key components: endothelial injury, hypercoagulability, and blood flow stasis."
+    },
+    "Question_2": {
+        "Context": "Microchannels in microfluidic chips form laminar flows characterized by low Reynolds numbers. Shear rates play a pivotal role in platelet activation.",
+        "Question": "What role do shear rates play in microchannels?",
+        "A": "They determine the color of the thrombus",
+        "B": "They influence platelet activation",
+        "C": "They affect the size of the microchannel",
+        "D": "They control the flow direction",
+        "Answer": "B",
+        "Source": "Shear rates play a pivotal role in platelet activation."
+    },
+    "Question_3": {
+        "Context": "Microchannels exhibit low Reynolds number flow due to their small caliber. Achieving high Reynolds numbers within microchannels demands fast flow rates.",
+        "Question": "Why is achieving high Reynolds numbers challenging in microchannels?",
+        "A": "Due to the small caliber of the channels",
+        "B": "Due to the presence of laminar flow",
+        "C": "Due to the use of anticoagulants",
+        "D": "Due to the presence of recirculation zones",
+        "Answer": "A",
+        "Source": "Microchannels exhibit low Reynolds number flow due to their small caliber."
+    },
+    "Question_4": {
+        "Context": "Thrombus formation under dynamic conditions relies on image processing techniques, particularly the observation of specific cell behaviors using fluorescent materials.",
+        "Question": "What is used to observe specific cell behaviors during thrombus formation under dynamic conditions?",
+        "A": "Scanning electron microscopy",
+        "B": "Staining methods",
+        "C": "Fluorescent materials",
+        "D": "Histological analysis",
+        "Answer": "C",
+        "Source": "Fluorescent agents bind to biomarkers such as platelets and fibrin, providing visual insights into the thrombus formation process."
+    },
+    "Question_5": {
+        "Context": "After the blood experiments, thrombi within the microchannel can be examined under static conditions using scanning electron microscopy and staining methods.",
+        "Question": "Which method is typically employed to visually study the thrombus structure under static conditions?",
+        "A": "Optical microscopy",
+        "B": "Fluorescence microscopy",
+        "C": "Scanning electron microscopy",
+        "D": "Confocal microscopy",
+        "Answer": "C",
+        "Source": "Typically, scanning electron microscopy (SEM) and staining methods have been employed to visually study the thrombus structure."
+    },
+    "Question_6": {
+        "Context": "Microchannels in microfluidic chips form laminar flows characterized by low Reynolds numbers. Achieving high Reynolds numbers within microchannels demands fast flow rates.",
+        "Question": "What is a characteristic of the flow in microchannels?",
+        "A": "High Reynolds numbers",
+        "B": "Turbulent flow",
+        "C": "Low Reynolds numbers",
+        "D": "Recirculation zones",
+        "Answer": "C",
+        "Source": "Microchannels exhibit low Reynolds number flow due to their small caliber."
+    },
+    "Question_7": {
+        "Context": "Thrombus formation is a complex process driven by biochemical interactions and hemodynamic changes among blood cells, plasma proteins, and vessel walls.",
+        "Question": "What are the key components of Virchow's triad for thrombus formation?",
+        "A": "Endothelial injury, hypercoagulability, and blood flow stasis",
+        "B": "Platelet activation, fibrinogen conversion, and thrombin action",
+        "C": "Red blood cells aggregation, platelet activation, and fibrinogen polymerization",
+        "D": "Von Willebrand factor binding, fibrinogen conversion, and platelet aggregation",
+        "Answer": "A",
+        "Source": "Virchow\u2019s triad is a classic thrombus formation mechanism comprising three key components: endothelial injury, hypercoagulability, and blood flow stasis."
+    },
+    "Question_8": {
+        "Context": "Microfluidic analysis systems offer numerous advantages, with a key feature being their ability to provide rapid and precise diagnoses with minimal sample volumes and offer real-time observation.",
+        "Question": "What is a key advantage of microfluidic analysis systems?",
+        "A": "High sample volume requirements",
+        "B": "Slow analysis capabilities",
+        "C": "Minimal sample requirements",
+        "D": "Limited design options",
+        "Answer": "C",
+        "Source": "Microfluidic systems offer advantages including minimal sample requirements and rapid analysis capabilities."
+    },
+    "Question_9": {
+        "Context": "Thrombus formation is a natural response to external stimuli or injury and also a pathophysiological phenomenon causing critical thromboembolic diseases.",
+        "Question": "What is a characteristic of 'white thrombus'?",
+        "A": "Primarily consists of red blood cells",
+        "B": "Characterized by fast and complex flow patterns",
+        "C": "Forms due to the presence of a high concentration of red blood cells",
+        "D": "Consists of activated platelets that bind to von Willebrand factor",
+        "Answer": "D",
+        "Source": "'White thrombus' is common in thrombus in artery which is characterized by relatively fast and complex flow patterns. It primarily consists of activated platelets that bind to von Willebrand factor (vWF) rather than fibrinogen."
+    },
+    "Question_10": {
+        "Context": "Microchannels in microfluidic chips form laminar flows characterized by low Reynolds numbers. Shear rates play a pivotal role in platelet activation.",
+        "Question": "What is a major contributor to thrombus formation according to the text?",
+        "A": "Shear rate",
+        "B": "Blood flow direction",
+        "C": "Vessel diameter",
+        "D": "Vascular geometry",
+        "Answer": "A",
+        "Source": "Among these hemodynamic factors, shear rate is considered as a major contributor to thrombus formation."
+    }
+}

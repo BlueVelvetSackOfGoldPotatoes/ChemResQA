@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Bioactive peptides are sequences of amino acids that can be released from proteins through various methods such as enzymatic hydrolysis. These peptides can exhibit a range of biological activities beneficial to health.",
+        "Question": "What is the typical length range for bioactive peptides?",
+        "A": "2\u201320 amino acids",
+        "B": "50\u2013100 amino acids",
+        "C": "100\u2013200 amino acids",
+        "D": "200\u2013300 amino acids",
+        "Answer": "A",
+        "Source": "bioactive peptides have encouraged researchers in the food and pharmaceutical industries to pay special attention to these compounds, which are sequences containing 2\u201320 amino acids (AAs) buried in the primary protein structure."
+    },
+    "Question_2": {
+        "Context": "Enzymatic hydrolysis is a process used to break down proteins into peptides. Different enzymes can be used for this purpose, each with optimal functional conditions that include specific temperature and pH levels.",
+        "Question": "Which enzyme operates optimally at a temperature of 50\u00b0C and pH 8.5?",
+        "A": "Pepsin",
+        "B": "Alcalase",
+        "C": "Trypsin",
+        "D": "Papain",
+        "Answer": "B",
+        "Source": "Temperature and pH were adjusted for alcalase (50 \u00b0C, pH = 8.5) and pepsin (30 \u00b0C, pH = 2) in their optimal functional conditions."
+    },
+    "Question_3": {
+        "Context": "The degree of hydrolysis (DH) is a measure of the extent to which protein has been broken down into peptides and amino acids during enzymatic hydrolysis. It is influenced by factors such as the type of enzyme used and the duration of hydrolysis.",
+        "Question": "What factor can affect the degree of hydrolysis in enzymatic hydrolysis of proteins?",
+        "A": "Type of solvent used",
+        "B": "Type of enzyme used",
+        "C": "Protein concentration in the solution",
+        "D": "Ambient light conditions",
+        "Answer": "B",
+        "Source": "The degree of hydrol- ysis and biological activities (scavenging of DPPH, OH, and ABTS free radicals, reducing power, and chelating metal ions) of navy-bean protein were affected by the type of enzyme and hydrolysis time."
+    },
+    "Question_4": {
+        "Context": "In the context of bioactive peptides, the term 'hydrophobic amino acids' refers to those amino acids that tend to avoid water and are more soluble in nonpolar solvents.",
+        "Question": "Which of the following amino acids is considered hydrophobic?",
+        "A": "Glutamic acid",
+        "B": "Aspartic acid",
+        "C": "Leucine",
+        "D": "Lysine",
+        "Answer": "C",
+        "Source": "Moreover, glutamic, aspartic, arginine, glycine, cystine, proline, alanine, valine, and leucine AAs comprised the most AA com- position of protein or hydrolysates."
+    },
+    "Question_5": {
+        "Context": "Antioxidant activity in peptides can be measured by their ability to scavenge free radicals. Different assays such as DPPH, ABTS, and OH radical scavenging are used to evaluate this property.",
+        "Question": "Which assay is NOT mentioned as a method for evaluating the antioxidant activity of peptides?",
+        "A": "DPPH free radical scavenging",
+        "B": "ABTS free radical scavenging",
+        "C": "OH radical scavenging",
+        "D": "NMR spectroscopy",
+        "Answer": "D",
+        "Source": "effects of the enzyme type and hydrolysis time on the degree of hydrol- ysis (DH), AA composition (essential, hydrophobic, antioxidant),antioxidant indices (including scavenging of DPPH, ABTS, OH free radicals, reducing power, chelat- ing Fe2+ and Cu2+ ions)"
+    },
+    "Question_6": {
+        "Context": "Nanoliposomes are vesicular structures that can be used to encapsulate bioactive compounds, enhancing their stability and bioavailability. They are characterized by parameters such as particle size, polydispersity index (PDI), and zeta potential.",
+        "Question": "What parameter is used to describe the uniformity of particle size distribution in a nanoliposome formulation?",
+        "A": "Encapsulation efficiency",
+        "B": "Zeta potential",
+        "C": "Polydispersity index (PDI)",
+        "D": "Viscosity",
+        "Answer": "C",
+        "Source": "The average particle size (83\u2013116 nm), PDI (0.23\u20130.39), zeta potential (\u2212 13 to \u2212 20 mV), and encapsulation efficiency (80\u201391%) of nanoliposomes were influenced by the type and charge of peptides."
+    },
+    "Question_7": {
+        "Context": "The zeta potential of a nanoliposome is an indicator of its surface charge, which can influence the stability of the vesicles in suspension by affecting the electrostatic repulsion between particles.",
+        "Question": "What does a negative zeta potential value indicate about the surface charge of a nanoliposome?",
+        "A": "It is positively charged",
+        "B": "It is negatively charged",
+        "C": "It is neutral",
+        "D": "It is oscillating between positive and negative",
+        "Answer": "B",
+        "Source": "The average particle size (83\u2013116 nm), PDI (0.23\u20130.39), zeta potential (\u2212 13 to \u2212 20 mV), and encapsulation efficiency (80\u201391%) of nanoliposomes were influenced by the type and charge of peptides."
+    },
+    "Question_8": {
+        "Context": "Encapsulation efficiency (EE) is a measure of how effectively a nanocarrier can encapsulate a target compound. It is expressed as a percentage of the total amount of the compound that is successfully loaded into the carrier.",
+        "Question": "What does encapsulation efficiency (EE) represent in the context of nanoliposomes?",
+        "A": "The percentage of nanoparticles that are the correct size",
+        "B": "The percentage of the total compound that is encapsulated",
+        "C": "The stability of the nanoliposome in solution",
+        "D": "The charge distribution on the nanoliposome surface",
+        "Answer": "B",
+        "Source": "Evaluation of encapsulation efficiency (EE) EE was calculated using the ultrafiltration method, with molecular weight (Mw) cut off = 30 kDa (Millipore, UK), and determining the amount of unloaded peptides com- pared to the total amount."
+    },
+    "Question_9": {
+        "Context": "Fourier-transform infrared (FTIR) spectroscopy is a technique used to obtain an infrared spectrum of absorption or emission of a solid, liquid, or gas. It is often used to analyze the chemical structure of materials by identifying the functional groups present.",
+        "Question": "In FTIR spectroscopy, what does the amide I region typically represent?",
+        "A": "Lipid chains",
+        "B": "Carbohydrate rings",
+        "C": "C = O stretching of proteins",
+        "D": "Metal ion coordination",
+        "Answer": "C",
+        "Source": "The main spectra for the primary proteins and peptides produced with alcalase and pep- sin were 3419\u20133415 cm\u22121 (N\u2013H stretching), 2928\u20132926 cm\u22121 (O\u2013H stretching), 1647\u20131639 cm\u22121 (C = O stretch- ing) related to amide I region"
+    },
+    "Question_10": {
+        "Context": "Scanning electron microscopy (SEM) is a type of electron microscope that produces images of a sample by scanning the surface with a focused beam of electrons. It is used to observe the morphology and surface characteristics of nanoscale materials.",
+        "Question": "What information can scanning electron microscopy (SEM) provide about nanoliposomes?",
+        "A": "The electrical conductivity of the nanoliposomes",
+        "B": "The molecular weight of the encapsulated peptides",
+        "C": "The surface morphology and structure of the nanoliposomes",
+        "D": "The temperature stability of the nanoliposomes",
+        "Answer": "C",
+        "Source": "SEM images showed relatively uniform-sized particles with irregular structures, which confirmed the results of DLS."
+    }
+}

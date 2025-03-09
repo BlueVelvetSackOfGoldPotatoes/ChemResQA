@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Photocatalysis is a process where light energy is used to accelerate a photoreaction. In the context of water purification, photocatalysts can decompose organic pollutants into non-toxic compounds.",
+        "Question": "What is the primary role of photocatalysts in water purification?",
+        "A": "To absorb and store solar energy",
+        "B": "To decompose organic pollutants into non-toxic compounds",
+        "C": "To increase the pH level of water",
+        "D": "To filter out large particulate matter",
+        "Answer": "B",
+        "Source": "UV light can induce the heterogeneous photocatalysis of titanium dioxide (TiO2), which can then oxidize organic molecules adsorbing on the surface of the material into non-toxic compounds like CO2 and H2O."
+    },
+    "Question_2": {
+        "Context": "Titanium dioxide (TiO2) is a common photocatalyst used for water purification, but its absorption of visible light is often inefficient, limiting its use with solar energy.",
+        "Question": "What is a limitation of using pure TiO2 materials in photocatalytic water purification?",
+        "A": "High cost of production",
+        "B": "Rapid degradation over time",
+        "C": "Inefficient absorption of visible light",
+        "D": "Toxic byproducts formation",
+        "Answer": "C",
+        "Source": "However, the ineffective absorption of visible light by pure TiO2 materials restricts the effective use of solar energy."
+    },
+    "Question_3": {
+        "Context": "Plasmonic materials, such as gold nanoparticles (Au NPs), can be used to enhance the photocatalytic activity of TiO2 by improving its responsiveness to visible light.",
+        "Question": "Which material is studied for its ability to enhance the photocatalytic reactivity of TiO2 in visible light?",
+        "A": "Silver nanoparticles",
+        "B": "Gold nanoparticles",
+        "C": "Copper nanoparticles",
+        "D": "Platinum nanoparticles",
+        "Answer": "B",
+        "Source": "Au/TiO2 NPs serve as plasmonic materials and enhance photocatalytic activity in visible light."
+    },
+    "Question_4": {
+        "Context": "The photocatalytic activity of a material can be assessed by its ability to degrade organic compounds under light exposure.",
+        "Question": "What was the observed effect of coating TiO2 with Au nanoparticles on its photocatalytic activity?",
+        "A": "Decreased photocatalytic activity",
+        "B": "No change in photocatalytic activity",
+        "C": "Increased photocatalytic activity",
+        "D": "Photocatalytic activity became dependent on pH",
+        "Answer": "C",
+        "Source": "After comparing the photocatalytic activity of TiO2 and Au/TiO2-coated samples under solar-simulated light and a voltage of 3 V, it was found that the surface coated with Au NPs had a superior photocatalytic effect than the surface coated with only TiO2."
+    },
+    "Question_5": {
+        "Context": "The anatase phase of TiO2 is known for its high photocatalytic activity due to its favorable properties.",
+        "Question": "Which crystal structure of TiO2 is associated with high photocatalytic activity?",
+        "A": "Rutile",
+        "B": "Brookite",
+        "C": "Anatase",
+        "D": "Bixbyite",
+        "Answer": "C",
+        "Source": "TEM and XRD analyses revealed that all TiO2 components in the Au/TiO2 coating layer consisted of anatase having high photocatalytic activity."
+    },
+    "Question_6": {
+        "Context": "In photocatalysis, the separation and transport of charge carriers are crucial for improving the efficiency of the photocatalytic reaction.",
+        "Question": "What effect do gold nanoparticles have on the electron transport and charge separation in TiO2-based photocatalysts?",
+        "A": "They decrease electron transport and charge separation",
+        "B": "They have no effect on electron transport and charge separation",
+        "C": "They increase electron transport and charge separation",
+        "D": "They completely inhibit electron transport and charge separation",
+        "Answer": "C",
+        "Source": "The interaction of Au NPs, TiO2 NPs, and carbon fabric (CF) to improve electron transport and charge separation on the photocatalyst surface is supported by XPS spectra."
+    },
+    "Question_7": {
+        "Context": "The photocatalytic degradation efficiency of organic compounds can be influenced by the flow rate of the solution through the reactor.",
+        "Question": "How does the flow rate affect the photocatalytic degradation efficiency in the context of an optofluidic reactor?",
+        "A": "Higher flow rates always increase degradation efficiency",
+        "B": "Flow rate has no impact on degradation efficiency",
+        "C": "Lower flow rates tend to improve degradation efficiency",
+        "D": "Only intermediate flow rates are effective for degradation",
+        "Answer": "C",
+        "Source": "Comparing the photocatalytic activity of CF/TiO2 and CF/Au/TiO2 samples under solar simulated light, the photocatalytic degradation efficiency of R6G is improved at a slower flow rate."
+    },
+    "Question_8": {
+        "Context": "The photocatalytic degradation of organic pollutants can be quantified by monitoring the change in absorbance of a solution at a specific wavelength.",
+        "Question": "Which parameter is used to calculate the degradation percentage of organic pollutants in a photocatalytic reaction?",
+        "A": "pH level of the solution",
+        "B": "Conductivity of the solution",
+        "C": "Change in temperature of the solution",
+        "D": "Change in absorbance of the solution at a specific wavelength",
+        "Answer": "D",
+        "Source": "The degradation percentage was evaluated by monitoring the absorbance change of the R6G solution at a wavelength of 492 nm."
+    },
+    "Question_9": {
+        "Context": "The photocatalytic degradation of dyes can be enhanced by applying an external voltage across the photocatalyst in an optofluidic reactor.",
+        "Question": "What was the effect of applying a voltage of 3 V in the optofluidic reactor during the photocatalytic degradation of rhodamine 6G?",
+        "A": "Decreased degradation efficiency",
+        "B": "No change in degradation efficiency",
+        "C": "Increased degradation efficiency",
+        "D": "Complete inhibition of degradation",
+        "Answer": "C",
+        "Source": "As a result, when 3 V was applied, the degradation efficiency was the best."
+    },
+    "Question_10": {
+        "Context": "Energy dispersive X-ray analysis (EDX) is a technique used to determine the elemental composition of materials, which is crucial for confirming the successful synthesis of composites.",
+        "Question": "What information does energy dispersive X-ray analysis (EDX) provide about the Au/TiO2 nanoparticles?",
+        "A": "The molecular weight of the nanoparticles",
+        "B": "The elemental composition of the nanoparticles",
+        "C": "The electrical conductivity of the nanoparticles",
+        "D": "The magnetic properties of the nanoparticles",
+        "Answer": "B",
+        "Source": "The elemental analyses of the Au/TiO2 samples were conducted using an energy dispersive X-ray spectroscope (EDX) equipped in the HR-TEM."
+    }
+}

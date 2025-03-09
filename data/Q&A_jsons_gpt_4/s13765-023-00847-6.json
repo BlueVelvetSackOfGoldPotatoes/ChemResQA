@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the process of nitrification, certain microorganisms can convert ammonia into other nitrogen compounds.",
+        "Question": "Which microorganism is known to oxidize ammonium to nitrite during nitrification?",
+        "A": "Pseudomonas fluorescens",
+        "B": "Brevibacillus sp.",
+        "C": "Acinetobacter junii",
+        "D": "Rhodococcus sp.",
+        "Answer": "B",
+        "Source": "Brevibacillus sp. is an ammonia oxidizing microorganism that oxidizes ammonium to nitrite during nitrification. Therefore, Brevibacillus sp. oxidizes the decomposed NH4+ ions from urea and converts them to NO2\u2212, which reduces the amount of ammonia gas discharged from NPK-containing soil."
+    },
+    "Question_2": {
+        "Context": "Ammonia volatilization in soil is influenced by the soil pH, where a lower pH can reduce the volatilization.",
+        "Question": "Which group of microorganisms is typically associated with pH regulation in soil by producing acids?",
+        "A": "Nitrifying microorganisms",
+        "B": "Denitrifying microorganisms",
+        "C": "Acid-producing microorganisms",
+        "D": "Ammonia-oxidizing microorganisms",
+        "Answer": "C",
+        "Source": "In general, ammonia volatilization in soil is directly related to soil pH. Therefore, the application of acid-producing microorganisms maintained a low soil pH, which reduced the amount of ammonia volatilization."
+    },
+    "Question_3": {
+        "Context": "Microorganisms can play a role in the nitrogen cycle, including the conversion of ammonia to other nitrogenous compounds in the soil.",
+        "Question": "What is the primary role of Alcaligenes faecalis subsp. faecalis in the nitrogen cycle?",
+        "A": "Fixing atmospheric nitrogen",
+        "B": "Decomposing organic matter",
+        "C": "Performing nitrification and denitrification",
+        "D": "Producing ammonia from organic compounds",
+        "Answer": "C",
+        "Source": "Alcaligenes faecalis subsp. faecalis can simultaneously perform nitrification and denitrification under aerobic conditions. Its growth is not inhibited even in high-concentration ammonia environments and substantially affects ammonia emission reduction."
+    },
+    "Question_4": {
+        "Context": "The application of certain microorganisms to soil can influence the emission of gases such as ammonia.",
+        "Question": "What was the observed effect on ammonia emissions when Brevibacillus sp. was added to NPK-containing soil?",
+        "A": "Increased ammonia emissions",
+        "B": "No change in ammonia emissions",
+        "C": "Decreased ammonia emissions",
+        "D": "Variable effects on ammonia emissions",
+        "Answer": "C",
+        "Source": "When Alcaligenes faecalis subsp. faecalis (SM1) and Brevibacillus sp. (SM2) were added to the NPK-containing soil, the ammonia gas production was 548.8 and 585.7 g/ha/day, respectively, on the 2nd day, which was significantly lower than that treated with only NPK."
+    },
+    "Question_5": {
+        "Context": "Microbial activity in soil can be influenced by the application of fertilizers and the resulting soil environment.",
+        "Question": "Which factor is reported to have a decisive effect on the volatilization of ammonia from soil after urea treatment?",
+        "A": "Soil temperature",
+        "B": "Soil pH",
+        "C": "Soil organic matter content",
+        "D": "Soil microbial diversity",
+        "Answer": "B",
+        "Source": "Cantarella et al. [17] reported that the hydrolysis reaction of urea locally increases the soil pH by consuming H+, which has a decisive effect on the volatilization of NH3 from the soil surface immediately after urea treatment."
+    },
+    "Question_6": {
+        "Context": "The application of microorganisms to agricultural soil can have an impact on the efficiency of ammonia emission reduction.",
+        "Question": "What was the ammonia emission reduction efficiency when acid-producing microorganisms were applied to NPK-containing soil?",
+        "A": "21%",
+        "B": "31%",
+        "C": "45%",
+        "D": "55%",
+        "Answer": "D",
+        "Source": "The cumulative ammonia emission for 20 days in the NPK-containing soil treated with acid-producing microorganisms was 2.5 kg/ha, which was 55% lower than that in the soil containing only NPK."
+    },
+    "Question_7": {
+        "Context": "The microbial community in soil can be analyzed to understand the impact of agricultural practices on soil health.",
+        "Question": "Which phylum of soil microorganisms contains many acid-producing microorganisms that can regulate soil pH?",
+        "A": "Proteobacteria",
+        "B": "Acidobacteria",
+        "C": "Bacteroidetes",
+        "D": "Firmicutes",
+        "Answer": "B",
+        "Source": "The phylum Acidobacteria contains many acid-producing microorganisms that regulate pH in the soil."
+    },
+    "Question_8": {
+        "Context": "The application of microorganisms to soil can influence the soil's microbial community and its functions.",
+        "Question": "Which phylum of microorganisms increased in distribution ratio in soil after treatment with a microbial agent that included lactic acid bacteria?",
+        "A": "Proteobacteria",
+        "B": "Acidobacteria",
+        "C": "Bacteroidetes",
+        "D": "Firmicutes",
+        "Answer": "D",
+        "Source": "Firmicutes are a phylum to which lactic acid bacteria belong, and they play an important role in regulating soil pH. These phyla were included in the microbial agents used in this experiment, and their distribution ratio in the soil increased after the treatment."
+    },
+    "Question_9": {
+        "Context": "The application of microorganisms to soil can have an impact on the emission of gases such as ammonia.",
+        "Question": "What was the effect of applying Brevibacillus sp. and Alcaligenes faecalis subsp. faecalis to NPK-containing soil on ammonia emissions?",
+        "A": "Increased ammonia emissions",
+        "B": "Decreased ammonia emissions",
+        "C": "No change in ammonia emissions",
+        "D": "Variable effects on ammonia emissions",
+        "Answer": "B",
+        "Source": "The cumulative ammonia emissions from soils containing only NPK were 5.6 kg/ha, whereas those from Brevibacillus sp. and Alcaligenes faecalis subsp. faecalis-treated soils containing NPK were 4.4 and 3.8 kg/ha, respectively. This indicated that Brevibacillus sp. and Alcaligenes faecalis subsp. faecalis reduced the cumulative ammonia gas by 21% and 31%, respectively, compared to the control."
+    },
+    "Question_10": {
+        "Context": "Soil treatment with microbial agents can affect the amount of ammonia volatilization from the soil.",
+        "Question": "What is the recommended treatment amount of microbial agent for reducing ammonia emissions in the cultivation of Chinese cabbage?",
+        "A": "100 L/ha",
+        "B": "200 L/ha",
+        "C": "500 L/ha",
+        "D": "1000 L/ha",
+        "Answer": "C",
+        "Source": "The optimum treatment amount was 500 L/ha, and the optimum number of microbial agents was basal fertilization (also known as pre\u2011planting fertilization) once and additional fertilization three times, for a total of four times."
+    }
+}

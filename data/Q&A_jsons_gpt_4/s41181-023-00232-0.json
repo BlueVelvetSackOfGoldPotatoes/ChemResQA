@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Silver-111 is a \u03b2\u2212-emitting radioisotope with properties suitable for targeted radionuclide therapy and SPECT imaging. It has a counterpart, silver-103, which is a positron-emitting radioisotope, making silver a candidate for theranostic applications.",
+        "Question": "What is the primary medical application of Silver-111 due to its \u03b2\u2212-emission properties?",
+        "A": "Targeted radionuclide therapy",
+        "B": "Magnetic resonance imaging",
+        "C": "X-ray imaging",
+        "D": "Ultrasound imaging",
+        "Answer": "A",
+        "Source": "Silver-111 is a promising \u03b2\u2212-emitting radioisotope with ideal characteristics for targeted radionuclide therapy and associated single photon emission tomography imaging."
+    },
+    "Question_2": {
+        "Context": "In the context of radionuclide therapy, the use of chemically similar isotopes for both therapeutic and diagnostic purposes is preferred to avoid discrepancies in biodistribution.",
+        "Question": "Why is Silver-111 considered an attractive candidate for theranostic applications?",
+        "A": "Because it emits \u03b1 particles",
+        "B": "Because it has a chemically similar diagnostic counterpart",
+        "C": "Because it has a long half-life",
+        "D": "Because it is easily available",
+        "Answer": "B",
+        "Source": "Its decay properties closely resemble the clinically established lutetium-177, making it an attractive candidate for therapeutic applications. In addition, the clinical value of silver-111 is further enhanced by the existence of the positron-emitting counterpart silver-103, thus imparting a truly theranostic potential to this element."
+    },
+    "Question_3": {
+        "Context": "The decay properties of radioisotopes are crucial for their application in medicine. Silver-111 has decay characteristics similar to lutetium-177, which is clinically established.",
+        "Question": "Which of the following radioisotopes is known to have decay properties similar to Silver-111?",
+        "A": "Gallium-68",
+        "B": "Fluorine-18",
+        "C": "Lutetium-177",
+        "D": "Carbon-14",
+        "Answer": "C",
+        "Source": "Its decay properties closely resemble the clinically established lutetium-177, making it an attractive candidate for therapeutic applications."
+    },
+    "Question_4": {
+        "Context": "The production of Silver-111 involves neutron irradiation of a palladium target followed by a decay process.",
+        "Question": "What is the nuclear reaction involved in the production of Silver-111?",
+        "A": "110Pd(d,n)111Ag",
+        "B": "110Pd(n,\u03b3)111Pd",
+        "C": "108Pd(\u03b1,p)111Ag",
+        "D": "108Pd(n,\u03b3)109Pd",
+        "Answer": "B",
+        "Source": "Silver-111 was produced via the 110Pd(n,\u03b3)111Pd nuclear reaction on a natural palladium target and the subsequent \u03b2\u2212-decay of palladium-111."
+    },
+    "Question_5": {
+        "Context": "For the efficient production of Silver-111 for medical applications, the use of a specific isotope of palladium is required due to the presence of several palladium isotopes in natural palladium.",
+        "Question": "Which isotope of palladium is mandatory to obtain Silver-111 in high molar activity for medical applications?",
+        "A": "Palladium-108",
+        "B": "Palladium-109",
+        "C": "Palladium-110",
+        "D": "Palladium-111",
+        "Answer": "C",
+        "Source": "In this case, the use of highly enriched palladium-110 substrate is mandatory to obtain the desired radionuclide in high molar activity for medical applications as, in natural palladium, several additional silver species would be concurrently produced due to side reactions occurring on the other palladium isotopes."
+    },
+    "Question_6": {
+        "Context": "The separation of Silver-111 from the target material is a crucial step in its production process. Various methods have been explored for this purpose.",
+        "Question": "Which method has been validated for the separation of Silver-111 from palladium in the context of radionuclide production?",
+        "A": "Precipitation",
+        "B": "Ion exchange chromatography",
+        "C": "Co-crystallization",
+        "D": "Electrodeposition",
+        "Answer": "B",
+        "Source": "A two-step sequence chromatographic process was validated for cold Ag-Pd separation and then translated to the radioactive counterpart."
+    },
+    "Question_7": {
+        "Context": "The recovery of Silver-111 in a pure form is essential for its use in medical applications. The purity of the separated Silver-111 can be assessed using specific analytical techniques.",
+        "Question": "Which analytical technique is used to assess the purity of separated Silver-111?",
+        "A": "Mass spectrometry",
+        "B": "Nuclear magnetic resonance",
+        "C": "Inductively coupled plasma optical emission spectroscopy",
+        "D": "X-ray fluorescence",
+        "Answer": "C",
+        "Source": "The effectiveness of the separations was assessed by inductively coupled plasma optical emission spectroscopy and \u03b3-spectrometry, respectively, and the Ag+ retrieval was afforded in pure water."
+    },
+    "Question_8": {
+        "Context": "The production of Silver-111 involves neutron irradiation of palladium targets. The presence of certain palladium isotopes can lead to the concurrent production of other silver species.",
+        "Question": "Which palladium isotope's presence in natural palladium can lead to the production of additional silver species when producing Silver-111?",
+        "A": "Palladium-107",
+        "B": "Palladium-108",
+        "C": "Palladium-109",
+        "D": "Palladium-110",
+        "Answer": "A",
+        "Source": "In natural palladium, several additional silver species (e.g., silver-107, silver-109) would be concurrently produced due to side reactions occurring on the other palladium isotopes."
+    },
+    "Question_9": {
+        "Context": "The separation of Silver-111 from palladium using chromatographic methods can result in the recovery of Silver-111 in solutions that are not suitable for direct labeling due to their high acidity.",
+        "Question": "Why is the formulation of Silver-111 in highly concentrated acidic solutions unsuitable for direct labeling of biological tumor-seeking vectors?",
+        "A": "It causes rapid decay of Silver-111",
+        "B": "It leads to the denaturation of the biological vectors",
+        "C": "It results in low molar activity",
+        "D": "It requires additional evaporation steps",
+        "Answer": "D",
+        "Source": "This formulation forces evaporation steps and reconstruction in weakly acidic solutions, with the drawback of reducing the yields and possibly introducing stable contaminants into the final solution."
+    },
+    "Question_10": {
+        "Context": "The molar activity of a radionuclide is an important parameter in medical applications, indicating the amount of radioactivity per mole of substance.",
+        "Question": "What factor can significantly affect the molar activity of Silver-111 produced from palladium targets?",
+        "A": "The presence of stable silver as an impurity in the palladium target",
+        "B": "The temperature at which the palladium target is irradiated",
+        "C": "The color of the palladium target",
+        "D": "The shape of the palladium target",
+        "Answer": "A",
+        "Source": "The molar activity of the obtained silver-111 was estimated not less than 20 KBq/nmol and was reckoned considering the amount of silver contained as an impurity in the palladium target (50 ppm based on the palladium data sheets) and the silver possibly introduced during the separation as the only source of stable silver in the whole process."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In agricultural environments, various chemicals such as pesticides and heavy metals can contaminate the soil and potentially be absorbed by crops.",
+        "Question": "Which of the following chemicals is a fungicide commonly used to control gray mold rot and stem rot?",
+        "A": "Cadmium",
+        "B": "Procymidone",
+        "C": "Polyvinyl chloride",
+        "D": "Low-density polyethylene",
+        "Answer": "B",
+        "Source": "Procymidone (PCM) is one of the dicarboximide fungicides that has been widely used to control gray mold rot and stem rot."
+    },
+    "Question_2": {
+        "Context": "Certain heavy metals can be introduced to agricultural soil through various activities, including the use of fertilizers and industrial activities.",
+        "Question": "Which heavy metal mentioned can be introduced to agricultural soil and is known to be toxic to crops?",
+        "A": "Iron",
+        "B": "Copper",
+        "C": "Cadmium",
+        "D": "Zinc",
+        "Answer": "C",
+        "Source": "Cadmium (Cd) can be introduced to the agricultural soil through various activities such as fertilizer uses and nearby industrial activities (e.g., mining, metal processing)."
+    },
+    "Question_3": {
+        "Context": "Microplastics in the environment can vary in characteristics such as size, shape, and type, which can influence their interaction with other substances.",
+        "Question": "Which of the following is NOT a characteristic by which microplastics are varied?",
+        "A": "Size",
+        "B": "Color",
+        "C": "Shape",
+        "D": "Type",
+        "Answer": "B",
+        "Source": "Microplastics of various characteristics (e.g., sizes, shapes, types) can impose threats to organisms in different environmental media."
+    },
+    "Question_4": {
+        "Context": "Microplastics can act as carriers for various chemical contaminants, potentially affecting their bioavailability and interaction with organisms.",
+        "Question": "Which role have microplastics been suggested to play in relation to chemical contaminants?",
+        "A": "Neutralizer",
+        "B": "Catalyst",
+        "C": "Carrier",
+        "D": "Inhibitor",
+        "Answer": "C",
+        "Source": "Many studies have explored the sorption characteristics of microplastics suggesting the role of microplastics as a carrier of various chemical contaminants including heavy metals and antibiotics."
+    },
+    "Question_5": {
+        "Context": "The interaction between microplastics and chemical contaminants can vary depending on the characteristics of the microplastics involved.",
+        "Question": "Which type of microplastic is mentioned as being widely used in the agricultural environment?",
+        "A": "Polystyrene",
+        "B": "Polyethylene",
+        "C": "Polyvinyl chloride",
+        "D": "Polypropylene",
+        "Answer": "B",
+        "Source": "Low-density polyethylene (LDPE) and PVC plastic products such as mulching films and pesticide containers are widely used in the agricultural environment."
+    },
+    "Question_6": {
+        "Context": "The sorption potential of microplastics can influence the environmental fate of chemical contaminants.",
+        "Question": "Which microplastic is suggested to have a greater sorption potential for procymidone?",
+        "A": "Polyvinyl chloride",
+        "B": "Low-density polyethylene",
+        "C": "Polystyrene",
+        "D": "Polyethylene terephthalate",
+        "Answer": "A",
+        "Source": "Previous study showed that PVC films have a greater PCM sorption potential than LDPE films."
+    },
+    "Question_7": {
+        "Context": "The presence of microplastics in soil can affect the growth of terrestrial plants, with potential implications for agriculture.",
+        "Question": "What effect did the presence of microplastics in soil have on lettuce growth in terms of leaf number and length?",
+        "A": "Significant increase",
+        "B": "Significant decrease",
+        "C": "No significant impact",
+        "D": "Variable impact depending on microplastic concentration",
+        "Answer": "C",
+        "Source": "The soil contamination with microplastics at the concentrations used in this study did not have significant impacts on the lettuce growth."
+    },
+    "Question_8": {
+        "Context": "The bioavailability of chemical contaminants in soil can be affected by the presence of microplastics, potentially altering the uptake by plants.",
+        "Question": "What was the observed effect on the absorption of cadmium by lettuce in the presence of microplastics?",
+        "A": "Decreased absorption",
+        "B": "Increased absorption",
+        "C": "No change in absorption",
+        "D": "Variable absorption depending on the type of microplastic",
+        "Answer": "B",
+        "Source": "The co-presence of Cd or PCM and microplastics increased the average absorbed amount of Cd or PCM; however, they were not statistically different."
+    },
+    "Question_9": {
+        "Context": "The interaction between different types of microplastics and chemical contaminants can lead to varied effects on plant growth.",
+        "Question": "Which combination was suggested to potentially promote the adverse effects of cadmium on lettuce growth?",
+        "A": "Cadmium and polyvinyl chloride",
+        "B": "Cadmium and low-density polyethylene",
+        "C": "Cadmium and polystyrene",
+        "D": "Cadmium and polyethylene terephthalate",
+        "Answer": "B",
+        "Source": "The negligible increases in the lettuce length and number of leaves with time in the co-presence of Cd and LDPE suggest that the adverse effects of Cd were promoted in the presence of LDPE."
+    },
+    "Question_10": {
+        "Context": "The sorption of chemical contaminants on microplastics can influence the duration and extent of their effects in the soil environment.",
+        "Question": "Which microplastic was suggested to sorb more cadmium, potentially increasing its contact time with lettuce in soil?",
+        "A": "Polyvinyl chloride",
+        "B": "Low-density polyethylene",
+        "C": "Polystyrene",
+        "D": "Polyethylene terephthalate",
+        "Answer": "B",
+        "Source": "Since LDPE films can sorb more Cd, a greater amount of Cd is likely to last in soil environment and exhibit greater adverse effects on the lettuce growth."
+    }
+}

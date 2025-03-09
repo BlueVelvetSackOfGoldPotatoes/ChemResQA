@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Zirconium phosphate (ZrP) nanoparticles are known to influence the properties of nanofibres when added during the electrospinning process.",
+        "Question": "What effect does the addition of zirconium phosphate (ZrP) nanoparticles have on the diameter of polyacrylonitrile (PAN) nanofibres during electrospinning?",
+        "A": "Increases the diameter",
+        "B": "Decreases the diameter",
+        "C": "Does not affect the diameter",
+        "D": "Makes the diameter inconsistent",
+        "Answer": "B",
+        "Source": "Addition of metal oxide such as zirconium phosphate decreases the diameter and smooths on the polyacrylonitrile (PAN) nanofibres as observed by the SEM techniques."
+    },
+    "Question_2": {
+        "Context": "The morphology and conductivity of nanofibres can be influenced by the addition of certain nanoparticles.",
+        "Question": "What is the effect of zirconium phosphate on the morphology of modified PAN nanofibres?",
+        "A": "It makes them rougher",
+        "B": "It does not change their morphology",
+        "C": "It makes them smoother",
+        "D": "It makes them irregular",
+        "Answer": "C",
+        "Source": "The modified PAN nanofibres with zirconium phosphate nanoparticles showed the surface smoothness with the reduced diameters of 100\u2013150 nm."
+    },
+    "Question_3": {
+        "Context": "Conductivity is a critical property of nanofibres, especially when used in applications such as fuel cells.",
+        "Question": "How does zirconium phosphate affect the conductivity of PAN and PAN-Nafion zirconium phosphate nanofibres?",
+        "A": "Decreases conductivity",
+        "B": "Increases conductivity",
+        "C": "Has no effect on conductivity",
+        "D": "Increases conductivity only in the presence of Nafion",
+        "Answer": "B",
+        "Source": "The conductivity of PAN and PAN-Nafion zirconium phosphate nanofibres was more improved when compared to that of the plain PAN nanofibres as observed under electrochemical measurements."
+    },
+    "Question_4": {
+        "Context": "Thermal gravimetric analysis is used to study the thermal properties of materials, including their stability and decomposition temperatures.",
+        "Question": "What does thermal gravimetric analysis reveal about the thermal degradation properties of PAN-Nafion/ZrP nanofibres compared to plain PAN nanofibres?",
+        "A": "PAN-Nafion/ZrP nanofibres degrade at a lower temperature",
+        "B": "PAN-Nafion/ZrP nanofibres have similar thermal properties",
+        "C": "PAN-Nafion/ZrP nanofibres are thermally less stable",
+        "D": "PAN-Nafion/ZrP nanofibres are thermally more stable",
+        "Answer": "D",
+        "Source": "The TGA results show that the initial weight loss occurred at 150 \u00b0C in PAN-Nafion/ZrP nanofibres, with a little weight loss... PAN-Nafion/ZrP nanofibres are thermally more stable than PAN and PAN/ZrP nanofibres as they have a higher decomposition temperature."
+    },
+    "Question_5": {
+        "Context": "Electrospinning is a technique used to create nanofibres, and the process can be influenced by various parameters.",
+        "Question": "Which parameter is not typically varied to produce nanofibres with different fineness and surface morphology during electrospinning?",
+        "A": "Viscosity of the solution",
+        "B": "Molecular weight of the polymer",
+        "C": "Color of the polymer solution",
+        "D": "Nozzle-collector distance",
+        "Answer": "C",
+        "Source": "Moreover, by varying viscosity, surface tension, molecular structure, molecular weight, solution concentration, solvent structure, additive and operational conditions such as rotating speed, spinning head diameter, nozzle diameter and nozzle-collector distance of the same solution may produce a nanofibre web with the various fineness, orientation and surface morphology."
+    },
+    "Question_6": {
+        "Context": "Nafion\u00ae membrane is known for its high proton conductivity and chemical resistance, which can be altered by blending with other polymers.",
+        "Question": "What is the effect of blending Nafion\u00ae with other polymers like PAN on its proton conductivity?",
+        "A": "Decreases proton conductivity",
+        "B": "Increases proton conductivity",
+        "C": "Has no effect on proton conductivity",
+        "D": "Makes the membrane less resistant to chemicals",
+        "Answer": "B",
+        "Source": "Electrospinning Nafion\u00ae solution increases the proton conductivity of nanofibres with the reduced nanometre scale."
+    },
+    "Question_7": {
+        "Context": "Polyacrylonitrile (PAN) is a polymer that can be electrospun into nanofibres and has certain desirable properties for specific applications.",
+        "Question": "Which property is not associated with polyacrylonitrile (PAN) nanofibres?",
+        "A": "Good resistance to many organic solvents",
+        "B": "Poor thermal stability at higher temperatures",
+        "C": "Superior mechanical properties",
+        "D": "Excellent weatherability",
+        "Answer": "B",
+        "Source": "Moreover, PAN also maintains a good thermal stability at a higher temperature of 130 \u00b0C and has a good resistance to many organic solvents."
+    },
+    "Question_8": {
+        "Context": "Zirconium oxide (ZrO2) has several properties that make it a useful material in various applications.",
+        "Question": "Which property is not characteristic of zirconium oxide (ZrO2)?",
+        "A": "High density",
+        "B": "High thermal conductivity",
+        "C": "Electrical conductivity",
+        "D": "Wear resistance",
+        "Answer": "B",
+        "Source": "Zirconium oxide (ZrO2) has several properties that make it a useful material. These properties include high density, hardness, electrical conductivity, wear resistance, high fracture toughness, low thermal conductivity and relatively high dielectric constant."
+    },
+    "Question_9": {
+        "Context": "Zirconium phosphates (ZrPs) are inorganic cation-exchange materials with high thermal stability and other features beneficial for certain applications.",
+        "Question": "What feature of zirconium phosphate contributes to increasing conductivity in polymer membranes?",
+        "A": "High proton mobility on the surface of its particles",
+        "B": "Low proton mobility on the surface of its particles",
+        "C": "High electron mobility on the surface of its particles",
+        "D": "Low electron mobility on the surface of its particles",
+        "Answer": "A",
+        "Source": "Zirconium phosphate has the features of increasing conductivity due to high proton mobility on the surface of its particles and good water retention."
+    },
+    "Question_10": {
+        "Context": "The addition of nanoparticles to a polymer matrix can influence the thermal and electrochemical properties of the resulting composite material.",
+        "Question": "What is the impact of impregnating a polymer membrane with zirconium phosphate nanoparticles?",
+        "A": "Decreases the power density of the membrane",
+        "B": "Increases the methanol permeability of the membrane",
+        "C": "Reduces the methanol permeability of the membrane while maintaining high power density",
+        "D": "Has no effect on the methanol permeability or power density",
+        "Answer": "C",
+        "Source": "The reduced methanol permeability of the polymer membrane, while maintaining a high power density, is obtained by impregnating it with zirconium phosphate."
+    }
+}

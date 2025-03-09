@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of nuclear fuels, the growth and interconnection of fission gas bubbles can be influenced by the microstructure of the fuel and the phases present within it.",
+        "Question": "Which phase in U-10Zr (wt %) fuel is responsible for determining the local morphology of fission gas bubbles and resulting swelling behavior above 890 K?",
+        "A": "\u03b1 phase (orthorhomic crystal structure)",
+        "B": "\u03b4 phase (ordered UZr2)",
+        "C": "\u03b3 phase (body-centered cubic)",
+        "D": "\u03b2 phase (tetragonal)",
+        "Answer": "C",
+        "Source": "In U-10Zr (wt %), below 890 K, the microstructure is composed of the \u03b1 phase (orthorhomic crystal structure) and the \u03b4 phase (ordered UZr2). Above 890 K, the microstructure is a mixture of \u03b3 phase (body-centered cubic) and either the \u03b1 or \u03b2 (tetragonal) phase."
+    },
+    "Question_2": {
+        "Context": "The morphology of fission gas bubbles in nuclear fuels can vary significantly depending on the temperature and phases present within the fuel.",
+        "Question": "What is the typical morphology of fission gas bubbles in U-(Pu)-Zr fuel within the hotter regions where the \u03b3 phase is present?",
+        "A": "Irregularly-shaped voids",
+        "B": "Spherical and coalescing with adjacent bubbles",
+        "C": "Elongated voids",
+        "D": "Contacting or overlapping spheres",
+        "Answer": "B",
+        "Source": "In the hotter regions where the \u03b3 phase is present, the fission gas bubbles are quite large compared to those observed in UO2 fuel, with diameters on the order of tens of microns. The morphology of individual bubbles is initially spherical and individual bubbles coalesce with adjacent bubbles as they grow."
+    },
+    "Question_3": {
+        "Context": "During the operation of nuclear reactors, the swelling of nuclear fuel is a phenomenon that can impact the performance and lifetime of the fuel.",
+        "Question": "What is one of the consequences of swelling in U-(Pu)-Zr fuel due to the growth of fission gas bubbles?",
+        "A": "Increase in thermal conductivity",
+        "B": "Decrease in fuel cladding integrity",
+        "C": "Reduction in fission gas release",
+        "D": "Enhancement of neutron moderation",
+        "Answer": "B",
+        "Source": "Swelling in metallic fuel is a complex phenomenon that strongly impacts fuel performance and lifetime. For example, reduction in thermal conductivity, fission gas release, and loss of fuel cladding integrity can all be linked to fuel swelling."
+    },
+    "Question_4": {
+        "Context": "The microstructure of nuclear fuels can change with temperature, influencing the behavior of fission gas bubbles and fuel swelling.",
+        "Question": "At temperatures below 890 K, what microstructural phases are present in U-10Zr (wt %) fuel?",
+        "A": "\u03b3 phase and \u03b2 phase",
+        "B": "\u03b1 phase and \u03b4 phase",
+        "C": "\u03b1 phase and \u03b3 phase",
+        "D": "\u03b4 phase and \u03b2 phase",
+        "Answer": "B",
+        "Source": "In U-10Zr (wt %), below 890 K, the microstructure is composed of the \u03b1 phase (orthorhomic crystal structure) and the \u03b4 phase (ordered UZr2)."
+    },
+    "Question_5": {
+        "Context": "The behavior of fission gas bubbles in nuclear fuels can be influenced by the phases present within the fuel, which change with temperature.",
+        "Question": "What phase transition occurs in U-10Zr (wt %) fuel as the temperature rises above 890 K?",
+        "A": "From \u03b1 phase to \u03b4 phase",
+        "B": "From \u03b4 phase to \u03b3 phase",
+        "C": "From \u03b1 phase to \u03b3 phase",
+        "D": "From \u03b3 phase to \u03b2 phase",
+        "Answer": "C",
+        "Source": "Above 890 K, the microstructure is a mixture of \u03b3 phase (body-centered cubic) and either the \u03b1 or \u03b2 (tetragonal) phase."
+    },
+    "Question_6": {
+        "Context": "In nuclear fuels, the morphology of fission gas bubbles can vary depending on the phases present and the temperature.",
+        "Question": "What is the morphology of fission gas bubbles in U-(Pu)-Zr fuel at lower temperatures where the \u03b3 phase is not present?",
+        "A": "Spherical and isolated",
+        "B": "Elongated and interconnected",
+        "C": "Irregularly-shaped voids",
+        "D": "Uniform and evenly distributed",
+        "Answer": "C",
+        "Source": "At lower temperatures, where the \u03b3 phase is not present, it appears that swelling in the \u03b1 phase is a result of grain boundary and interphase tearing or cracking, forming irregularly-shaped void space that subsequently collects gaseous and solid fission products with increasing burnup."
+    },
+    "Question_7": {
+        "Context": "The growth of fission gas bubbles in nuclear fuels can lead to the formation of interconnected structures that influence the release of fission gases.",
+        "Question": "What happens when the interconnected structure of fission gas bubbles connects to a free surface of the fuel?",
+        "A": "The gas within the bubbles is released from the fuel",
+        "B": "The bubbles decrease in size",
+        "C": "The bubbles become isolated again",
+        "D": "The interconnection process reverses",
+        "Answer": "A",
+        "Source": "When this interconnected structure connects to a free surface of the fuel slug, the gas within the bubbles is released from the fuel, and any further fission gas produced that reaches the bubbles will travel out of the fuel through this network rather than causing the existing bubbles to grow further."
+    },
+    "Question_8": {
+        "Context": "In the study of nuclear fuels, the porosity values at which certain processes begin and end are important for understanding fuel behavior.",
+        "Question": "In the context of U-(Pu)-Zr fuel, what does the porosity value at which bubble interconnection begins determine?",
+        "A": "When fission gas release begins",
+        "B": "When swelling terminates",
+        "C": "When the fuel reaches its maximum temperature",
+        "D": "When the fuel achieves maximum reactivity",
+        "Answer": "B",
+        "Source": "The porosity values at which this interconnection process begins and ends therefore determine when swelling terminates and when fission gas release begins."
+    },
+    "Question_9": {
+        "Context": "The microstructural evolution of nuclear fuels can be studied using simulation methods that account for the effects of bulk and surface energy.",
+        "Question": "What type of modeling intrinsically accounts for the effects of bulk and surface energy on microstructural evolution in U-(Pu)-Zr fuel?",
+        "A": "Continuum percolation models",
+        "B": "Geometric percolation models",
+        "C": "Phase-field modeling",
+        "D": "Classical nucleation theory",
+        "Answer": "C",
+        "Source": "An alternative approach to experimental data or geometric percolation models to study interconnectivity in U-(Pu)-Zr fuel is the use of mesoscale simulation methods such as phase-field modeling. Such models intrinsically account for the effects of bulk and surface energy on microstructural evolution."
+    },
+    "Question_10": {
+        "Context": "The phase-field model is used to simulate the evolution of microstructures in materials, including the growth of fission gas bubbles in nuclear fuels.",
+        "Question": "What equation is employed in the phase-field model to simulate the growth and interconnection of fission gas bubbles?",
+        "A": "The Gibbs-Thomson equation",
+        "B": "The Cahn-Hilliard equation",
+        "C": "The van der Waals equation",
+        "D": "The Fick's laws of diffusion",
+        "Answer": "B",
+        "Source": "To simulate the growth and interconnection of a large number of bubbles, we employ the Cahn-Hilliard equation with a source term, with a single defect species representing insoluble fission gas atoms such as Xe and accompanying vacancies."
+    }
+}

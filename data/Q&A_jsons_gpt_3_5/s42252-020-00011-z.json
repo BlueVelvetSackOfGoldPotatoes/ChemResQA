@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the influence of cellulose nanocrystal (CN) particles on the morphological, thermal, and thermo-mechanical properties of polylactide (PLA)/poly [(butylene succinate)-co-adipate] (PBSA) blend foams.",
+        "Question": "What was the porosity percentage of the prepared foams?",
+        "A": "Above 70%",
+        "B": "Around 50%",
+        "C": "Below 30%",
+        "D": "Exactly 80%",
+        "Answer": "A",
+        "Source": "The morphological analysis showed an interconnected open-cell structure, with porosity above 80%."
+    },
+    "Question_2": {
+        "Context": "The study discussed the thermal degradation behavior of the prepared foams.",
+        "Question": "What was the effect of cellulose nanocrystal (CN) particles on the thermal stability of the PLA/PBSA foams?",
+        "A": "Decreased the thermal stability",
+        "B": "Increased the thermal stability",
+        "C": "Had no effect on the thermal stability",
+        "D": "Caused rapid degradation",
+        "Answer": "B",
+        "Source": "Overall, CN was effective in delaying the thermal degradation process and enhancing the thermal stability of PLA/PBSA foams at an early degradation stage."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the crystalline structures of the prepared foams.",
+        "Question": "Which polymer showed a single degradation step with maximum degradation at 370 \u00b0C?",
+        "A": "PLA",
+        "B": "PBSA",
+        "C": "CN",
+        "D": "Fructose",
+        "Answer": "A",
+        "Source": "Generally, PLA shows a single degradation step with maximum degradation at 370 \u00b0C."
+    },
+    "Question_4": {
+        "Context": "The study discussed the thermomechanical properties of the prepared foams.",
+        "Question": "What effect did the addition of ductile PBSA have on the storage modulus of the foams?",
+        "A": "Increased the storage modulus",
+        "B": "Decreased the storage modulus",
+        "C": "Had no effect on the storage modulus",
+        "D": "Caused rapid degradation",
+        "Answer": "B",
+        "Source": "Despite its rigidity, the induced crystallinity by solvent-processing has also contributed to high storage modulus, as compared to other foam systems at low temperatures. A rapid decrease in storage modulus was noticed at a temperature range of \u2212 52 to \u2212 32 \u00b0C. A broad feature observed in this temperature region can be attributed to the \u03b2-relaxation of PLA, which occurs below glass transition temperature (Tg), where free volume is minimal."
+    },
+    "Question_5": {
+        "Context": "The study examined the influence of PBSA on the thermal stability of PLA.",
+        "Question": "What outstanding properties does PBSA possess compared to PLA?",
+        "A": "High thermal stability and high impact strength",
+        "B": "Low thermal stability and low impact strength",
+        "C": "High thermal stability and low impact strength",
+        "D": "Low thermal stability and high impact strength",
+        "Answer": "A",
+        "Source": "Moreover, PBSA is susceptible to biodegradation in various environments such as in soil, sludge, and others. Due to its short biodegradation time, it can also enhance the biodegradation rate of PLA, which is very slow."
+    },
+    "Question_6": {
+        "Context": "The study discussed the foaming process of the PLA/PBSA blend.",
+        "Question": "What method was employed to generate the foams?",
+        "A": "Extrusion foaming",
+        "B": "Casting and particulate leaching",
+        "C": "Injection molding",
+        "D": "Compression molding",
+        "Answer": "B",
+        "Source": "CPL method was employed to generate foams."
+    },
+    "Question_7": {
+        "Context": "The study highlighted the role of cellulose nanocrystals (CN) in the prepared foams.",
+        "Question": "What is the advantage of using CN particles in polymer foams?",
+        "A": "Decrease in thermal stability",
+        "B": "Increase in biodegradability",
+        "C": "Enhancement of crystallinity",
+        "D": "Reduction in porosity",
+        "Answer": "C",
+        "Source": "CN is rigid nanofiller material that is environmentally friendly and abundant as it can be obtained from various sources. The effect of both CN and PBSA on the properties of PLA foam was investigated."
+    },
+    "Question_8": {
+        "Context": "The study discussed the morphological properties of the foams.",
+        "Question": "What was the void fraction of the materials determined according to Eq. 1?",
+        "A": "Approximately 0",
+        "B": "Around 50%",
+        "C": "Above 80%",
+        "D": "Below 30%",
+        "Answer": "A",
+        "Source": "\u03c6 = \u03c1unfoamed - \u03c1foamed / \u03c1unfoamed - \u03c1p, where \u03c1p is the density of pore space, which is approximately 0."
+    },
+    "Question_9": {
+        "Context": "The study evaluated the chemical structures of the prepared foams.",
+        "Question": "Which chemical group associated with fructose particles was not observed on the surfaces of the foams?",
+        "A": "Hydroxyl groups (\u2212OH) groups",
+        "B": "Carbonyl (\u2212C=O) groups",
+        "C": "Methyl groups",
+        "D": "Acetic acid",
+        "Answer": "A",
+        "Source": "The chemical groups associated with fructose particles were not observed, suggesting successful leaching of porogen particles."
+    },
+    "Question_10": {
+        "Context": "The study discussed the leaching test conducted on the samples.",
+        "Question": "What was the qualitative test used to determine the presence of monosaccharides in solutions?",
+        "A": "Barfoed test",
+        "B": "FTIR spectroscopy",
+        "C": "SEM analysis",
+        "D": "TGA analysis",
+        "Answer": "A",
+        "Source": "This is a qualitative test used to determine the presence of monosaccharides in solutions. In this test, a Barfoed reagent (a mixture of copper (II) acetate and acetic acid) is mixed with a solution containing monosaccharides (e.g. fructose), which forms a reddish/brownish copper (I) oxide (Cu2O) precipitate."
+    }
+}

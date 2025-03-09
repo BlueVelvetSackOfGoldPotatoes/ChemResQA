@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "Fruit by-products contain valuable bioactive substances. Phenolic compounds are one of the bioactive substances found in fruit by-products.",
+            "Question": "What are phenolic compounds chemically characterized by?",
+            "A": "Aromatic and benzene ring with one or more hydroxide groups",
+            "B": "Aliphatic structure with multiple hydroxide groups",
+            "C": "Saturated hydrocarbons with ester groups",
+            "D": "Cyclic structure with nitrogen groups",
+            "Answer": "A",
+            "Source": "Chemically, molecular structures with an aromatic and benzene ring, as well as one or more hydroxide groups are called phenolic compounds; these compounds have derivatives with useful properties (glycosides, esters, methyl esters, etc.) (Barba et al. 2014)."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "Phenolic compounds are abundant in fruit and vegetable wastes. Different extraction methods can influence the total phenolic content in fruit by-products.",
+            "Question": "Which extraction method was found to be more efficient for extracting phenolic compounds from fruit by-products?",
+            "A": "Organic solvent extraction",
+            "B": "Enzyme-assisted extraction",
+            "C": "Pressurized hot-water extraction",
+            "D": "Steam distillation",
+            "Answer": "C",
+            "Source": "The pressurized hot-water extraction approach seemed to be more efficient than the organic solvent and enzyme-assisted extraction approach (Islam et al. 2021)."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "Phenolic compounds have antioxidant and antibacterial properties. Some specific phenolic compounds are frequently identified in different fruit by-products.",
+            "Question": "Which of the following is NOT a frequently identified phenolic compound in fruit by-products?",
+            "A": "Ferulic acid",
+            "B": "Quercetin",
+            "C": "Gallic acid",
+            "D": "Ascorbic acid",
+            "Answer": "D",
+            "Source": "Among thousands of phenolic compounds, gallic acid, catechin, epicatechin, hydroxycinnamic acids, ferulic acid, quercetin, caffeic, procatechinic, syringic, vanillic acid, dopamine, hydroxy-tyrosol, tyrosol, cyanidin glycosides, L-dopa, p-coumaric acid, syringic acid, mangiferin, rutin, etc. are frequently identified in different FBPs."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "Fruit by-products are rich in bioactive compounds. Phenolic compounds are found in significant amounts in various fruit by-products.",
+            "Question": "Which fruit by-product demonstrated the highest concentration of soluble phenolic compounds?",
+            "A": "Mango seed",
+            "B": "Rambutan peel",
+            "C": "Passion fruit rind",
+            "D": "Apple pomace",
+            "Answer": "B",
+            "Source": "They found that rambutan peel had the highest concentration of soluble phenolic compounds (12.68 \u00b1 0.76 g/100 g DM) compared to mango seed (8.95 \u00b1 0.36 g/100 g DM)."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "Phenolic compounds in fruit by-products have antioxidant properties. These compounds can be used as food preservatives.",
+            "Question": "Which phenolic compound has potential antioxidant, antibacterial, anti-inflammatory, and anticancer properties, and functions as a preservative and a skin protection agent?",
+            "A": "Quercetin",
+            "B": "Gallic acid",
+            "C": "Ferulic acid",
+            "D": "Catechin",
+            "Answer": "C",
+            "Source": "For example, ferulic acid has potential antioxidant, antibacterial, anti-inflammatory, and anticancer properties, it functions as a skin protection agent, a preservative, and a cross-linking agent."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "Fruit by-products are a source of valuable bioactive substances. Phenolic compounds are considered nutraceuticals.",
+            "Question": "What is the characteristic of nutraceuticals?",
+            "A": "They are essential compounds in the human diet",
+            "B": "They are secondary metabolites found in plants",
+            "C": "They are synthetic compounds",
+            "D": "They are exclusively found in animal products",
+            "Answer": "B",
+            "Source": "Bioactive compounds are also signified as nutraceuticals which reflect their presence with biological significance in the human diet."
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "Fruit by-products contain bioactive substances with health benefits. Phenolic compounds are part of the bioactive substances found in fruit by-products.",
+            "Question": "What functions do phenolic compounds exhibit in plants?",
+            "A": "Attract insects and birds",
+            "B": "Protect against UV radiation",
+            "C": "Enhance photosynthesis",
+            "D": "Regulate temperature",
+            "Answer": "A",
+            "Source": "For instance, due to their bitterness and astringency they safeguard fruits and vegetables from early eating, attract insects and birds due to their attractive color formation."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "Fruit by-products are rich in bioactive compounds. Phenolic compounds are abundant in fruit and vegetable wastes.",
+            "Question": "What is the chemical characteristic of phenolic compounds?",
+            "A": "Contain aliphatic structures",
+            "B": "Have a cyclic structure with nitrogen groups",
+            "C": "Include aromatic and benzene rings with hydroxide groups",
+            "D": "Are saturated hydrocarbons",
+            "Answer": "C",
+            "Source": "Chemically, molecular structures with an aromatic and benzene ring, as well as one or more hydroxide groups are called phenolic compounds."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "Phenolic compounds in fruit by-products have antioxidant properties. These compounds can be used as food preservatives.",
+            "Question": "Which phenolic compound is known for its potential antioxidant, antibacterial, anti-inflammatory, and anticancer properties?",
+            "A": "Quercetin",
+            "B": "Gallic acid",
+            "C": "Ferulic acid",
+            "D": "Catechin",
+            "Answer": "B",
+            "Source": "There have been claims that quercetin offers positive health."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "Fruit by-products contain bioactive substances with health benefits. Phenolic compounds are part of the bioactive substances found in fruit by-products.",
+            "Question": "Which extraction method was found to be more efficient for extracting phenolic compounds from fruit by-products?",
+            "A": "Organic solvent extraction",
+            "B": "Enzyme-assisted extraction",
+            "C": "Pressurized hot-water extraction",
+            "D": "Steam distillation",
+            "Answer": "C",
+            "Source": "The pressurized hot-water extraction approach seemed to be more efficient than the organic solvent and enzyme-assisted extraction approach."
+        }
+    }
+]

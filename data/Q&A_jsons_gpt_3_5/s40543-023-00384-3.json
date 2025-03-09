@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the ripening process of tomatoes with and without sound-wave treatment. Metabolomics analysis was performed using liquid chromatography-mass spectrometry (LC-MS) and gas chromatography-mass spectrometry (GC-MS).",
+        "Question": "Which major metabolite showed decreasing levels upon sound-wave treatment based on LC-MS analysis?",
+        "A": "Phosphoric acid",
+        "B": "Glutamic acid",
+        "C": "Malic acid",
+        "D": "Tryptophan",
+        "Answer": "D",
+        "Source": "The quantities of several metabolites, including adenosine, tryptophan, and phytosphingosine, decreased upon sound-wave treatment, as shown in the LC-MS analysis."
+    },
+    "Question_2": {
+        "Context": "The study analyzed metabolites using liquid chromatography-mass spectrometry (LC-MS) and gas chromatography-mass spectrometry (GC-MS) to identify and quantify major metabolites.",
+        "Question": "Which amino acid level was lower in the sound-wave treated tomatoes based on GC-MS analysis?",
+        "A": "Serine",
+        "B": "Threonine",
+        "C": "Glutamic acid",
+        "D": "Tyrosine",
+        "Answer": "C",
+        "Source": "The GC-MS quantitative analysis showed that glutamic acid levels were lower in the treated samples than in the controls, indicating a decrease in glutamic acid levels with sound-wave treatment."
+    },
+    "Question_3": {
+        "Context": "The study compared the metabolite profiles of tomatoes with and without sound-wave treatment using LC-MS and GC-MS analyses.",
+        "Question": "Which major metabolite showed increased levels with sound-wave treatment based on GC-MS analysis?",
+        "A": "Phosphoric acid",
+        "B": "Glucose",
+        "C": "Malic acid",
+        "D": "Aspartic acid",
+        "Answer": "C",
+        "Source": "The GC-MS analysis indicated that malic acid levels increased in the treated tomatoes, suggesting an increase in malic acid content with sound-wave treatment."
+    },
+    "Question_4": {
+        "Context": "The study conducted metabolomics analysis on ripening tomatoes with and without sound-wave treatment to investigate the effect of sound waves on tomato ripening.",
+        "Question": "Which metabolite was identified as a major metabolite from GC-MS analysis?",
+        "A": "Rutin",
+        "B": "Esculeoside A",
+        "C": "4-Aminobutanoic acid",
+        "D": "Phosphoric acid",
+        "Answer": "C",
+        "Source": "4-Aminobutanoic acid was identified as a major metabolite from GC-MS analysis, indicating its significance in the metabolite profile of tomatoes."
+    },
+    "Question_5": {
+        "Context": "The study utilized liquid chromatography-mass spectrometry (LC-MS) and gas chromatography-mass spectrometry (GC-MS) for metabolite profiling of tomatoes with and without sound-wave treatment.",
+        "Question": "Which metabolite was identified as a major amino acid from LC-MS analysis?",
+        "A": "Phytosphingosine",
+        "B": "Tryptophan",
+        "C": "Myristic diethanolamide",
+        "D": "Beta 1 hydroxytomatine",
+        "Answer": "B",
+        "Source": "Tryptophan was identified as a major amino acid from LC-MS analysis, indicating its importance in the metabolite profile of tomatoes."
+    },
+    "Question_6": {
+        "Context": "The study focused on the metabolomics analysis of ripening tomatoes with and without sound-wave treatment using LC-MS and GC-MS techniques.",
+        "Question": "Which metabolite showed decreasing levels upon sound-wave treatment based on GC-MS analysis?",
+        "A": "Palmitic acid",
+        "B": "Stearic acid",
+        "C": "Asparagine",
+        "D": "Glutamic acid",
+        "Answer": "D",
+        "Source": "The GC-MS analysis indicated that glutamic acid levels were lower in the treated samples than in the controls, suggesting a decrease in glutamic acid levels with sound-wave treatment."
+    },
+    "Question_7": {
+        "Context": "The study compared the metabolite profiles of tomatoes with and without sound-wave treatment using LC-MS and GC-MS analyses.",
+        "Question": "Which major metabolite showed increased levels with sound-wave treatment based on LC-MS analysis?",
+        "A": "Rutin",
+        "B": "Adenosine",
+        "C": "Phytosphingosine",
+        "D": "Esculeoside A",
+        "Answer": "B",
+        "Source": "The LC-MS analysis indicated that the levels of adenosine decreased upon sound-wave treatment, suggesting a decrease in adenosine levels with the treatment."
+    },
+    "Question_8": {
+        "Context": "The study conducted metabolomics analysis on ripening tomatoes with and without sound-wave treatment to investigate the effect of sound waves on tomato ripening.",
+        "Question": "Which organic acid level was lower in the sound-wave treated tomatoes based on GC-MS analysis?",
+        "A": "Phosphoric acid",
+        "B": "Malic acid",
+        "C": "Citric acid",
+        "D": "Oxoproline",
+        "Answer": "A",
+        "Source": "The GC-MS analysis showed that phosphoric acid levels decreased in the sound-wave treated tomatoes, indicating a decrease in phosphoric acid content with sound-wave treatment."
+    },
+    "Question_9": {
+        "Context": "The study utilized liquid chromatography-mass spectrometry (LC-MS) and gas chromatography-mass spectrometry (GC-MS) for metabolite profiling of tomatoes with and without sound-wave treatment.",
+        "Question": "Which major metabolite was assigned from LC-MS analysis?",
+        "A": "Naringenin",
+        "B": "Myristic diethanolamide",
+        "C": "Cholesteryl acetate",
+        "D": "Lysophosphatidylcholine LPC(16:0)",
+        "Answer": "A",
+        "Source": "Naringenin was identified as a major metabolite from LC-MS analysis, indicating its significance in the metabolite profile of tomatoes."
+    },
+    "Question_10": {
+        "Context": "The study focused on the ripening process of tomatoes with and without sound-wave treatment. Metabolomics analysis was performed using liquid chromatography-mass spectrometry (LC-MS) and gas chromatography-mass spectrometry (GC-MS).",
+        "Question": "Which metabolite level was higher in the control samples compared to the sound-wave treated samples based on GC-MS analysis?",
+        "A": "Glutamic acid",
+        "B": "Aspartic acid",
+        "C": "Fructose",
+        "D": "Myo-inositol",
+        "Answer": "C",
+        "Source": "The GC-MS analysis showed that fructose and glucose levels were higher in the control samples than in the treated samples, indicating higher levels of fructose and glucose in the control samples."
+    }
+}

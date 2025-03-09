@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In materials science, the modeling of cellular structures is important for understanding their mechanical properties. These structures can range from regular patterns like honeycombs to more random, stochastic patterns.",
+        "Question": "What is a common method used to represent the cellular microstructure in two-dimensional models?",
+        "A": "Hexagonal close-packing",
+        "B": "Voronoi tessellation",
+        "C": "Cubic lattice arrangement",
+        "D": "Simple cubic packing",
+        "Answer": "B",
+        "Source": "To represent the cellular microstructure as a two-dimensional network of Timoshenko beams for which the network structure is generated via Voronoi tessellation of the system plane."
+    },
+    "Question_2": {
+        "Context": "The generation of cellular microstructures for modeling purposes often involves the use of stochastic processes to introduce irregularity.",
+        "Question": "How is the degree of irregularity introduced into the model of a cellular microstructure?",
+        "A": "By adjusting the temperature during simulation",
+        "B": "By altering the chemical composition",
+        "C": "By perturbing the position of each seed with a stochastic vector",
+        "D": "By changing the pressure conditions",
+        "Answer": "C",
+        "Source": "Irregular systems are created by perturbing the position p of each seed by a stochastic vector \u03b4p."
+    },
+    "Question_3": {
+        "Context": "In the study of cellular solids, it is important to maintain certain parameters constant across different system sizes for accurate comparison.",
+        "Question": "Which parameter is kept constant at a value of 0.1 to ensure comparability across different system sizes in the study of cellular solids?",
+        "A": "Absolute density",
+        "B": "Relative density",
+        "C": "Poisson's ratio",
+        "D": "Young's modulus",
+        "Answer": "B",
+        "Source": "The relative density of a system is \u03c1rel = VB/tWH = w/WH NB \u2211 li, which is kept constant at \u03c1rel = 0.1 by proportional scaling of W and H."
+    },
+    "Question_4": {
+        "Context": "When modeling cellular structures, the mechanical properties of the beams in the network are crucial for the overall behavior of the system.",
+        "Question": "What mechanical property is described by a value of 0.1 GPa in the context of Timoshenko beams in a cellular microstructure model?",
+        "A": "Tensile strength",
+        "B": "Compressive strength",
+        "C": "Young's modulus",
+        "D": "Shear modulus",
+        "Answer": "C",
+        "Source": "Each Timoshenko beam is assumed to be linear elastic with Young\u2019s modulus EB = 0.1 GPa and Poisson\u2019s ratio \u03bdB = 0.3."
+    },
+    "Question_5": {
+        "Context": "The behavior of cellular structures under different loading conditions can reveal important information about their mechanical properties.",
+        "Question": "Which types of loading conditions are typically studied to understand the mechanical behavior of cellular structures?",
+        "A": "Tensile and torsional",
+        "B": "Compressive and shear",
+        "C": "Buckling and bending",
+        "D": "Fatigue and impact",
+        "Answer": "B",
+        "Source": "In the present work we study two loading cases: displacement driven compression and shear."
+    },
+    "Question_6": {
+        "Context": "The response of cellular structures to external loads can be influenced by the positioning of their boundaries.",
+        "Question": "How can the surface response of nearly regular honeycombs be affected?",
+        "A": "By the chemical composition of the material",
+        "B": "By the temperature during the test",
+        "C": "By small perturbations in the structure's position",
+        "D": "By the speed of load application",
+        "Answer": "C",
+        "Source": "Small perturbations of this configuration, i.e. a shift of the structure to the left or right, may open up or close honeycombs at the surfaces."
+    },
+    "Question_7": {
+        "Context": "In the study of disordered cellular structures, the concept of random cut-outs is used to account for statistical uncertainties.",
+        "Question": "What is the purpose of using random cut-outs in the modeling of cellular structures?",
+        "A": "To increase the strength of the model",
+        "B": "To account for variations in material properties",
+        "C": "To simulate different environmental conditions",
+        "D": "To represent the randomness in the location of system boundaries",
+        "Answer": "D",
+        "Source": "We therefore speak of random cut-outs when referring to the randomly chosen location of system boundaries with respect to the lattice underlying our beam network construction."
+    },
+    "Question_8": {
+        "Context": "In the modeling of cellular structures, ensemble averaging is a technique used to obtain reliable results.",
+        "Question": "What is the criterion for the 'sufficient' number of realizations needed when ensemble averaging the response of cellular structures?",
+        "A": "The number must be a prime number",
+        "B": "The number must correspond to the Fibonacci sequence",
+        "C": "The statistical scatter of the ensemble-averaged response ought to be below 1% of the mean value",
+        "D": "The number must be divisible by the system's aspect ratio",
+        "Answer": "C",
+        "Source": "To mitigate this problem, we estimate the scatter of the system response between different realizations and average over a sufficiently large ensemble, with 'sufficiently' defined by the condition that the statistical scatter of the ensemble-averaged response ought to be below 1% of the mean value of the response."
+    },
+    "Question_9": {
+        "Context": "The mechanical properties of beams in a cellular structure are influenced by their cross-sectional shape and the material's properties.",
+        "Question": "What is the shape of the cross-section of the Timoshenko beams used in the cellular microstructure model?",
+        "A": "Circular",
+        "B": "Triangular",
+        "C": "Quadratic",
+        "D": "Hexagonal",
+        "Answer": "C",
+        "Source": "The cross-section is quadratic: t = w = 0.05\ufffdp with a shear coefficient proposed by Cowper (1966) of \u03ba = 10 + 10\u03bdB/(12 + 11\u03bdB) \u2248 0.85."
+    },
+    "Question_10": {
+        "Context": "The generation of cellular microstructures for modeling involves controlling various parameters to simulate the growth process.",
+        "Question": "Which assumption is NOT made about the nuclei during the generation of cellular microstructures for modeling?",
+        "A": "All nuclei appear simultaneously",
+        "B": "The nuclei remain fixed in position throughout the growth process",
+        "C": "Each nucleus grows at different rates in different directions",
+        "D": "The growth stops for each cell when it contacts a neighboring cell",
+        "Answer": "C",
+        "Source": "Under the assumptions that 1. all nuclei appear simultaneously, 2. the nuclei remain fixed in position throughout the growth process, 3. each nucleus grows isotropically, i.e., at the same rate in all directions."
+    }
+}

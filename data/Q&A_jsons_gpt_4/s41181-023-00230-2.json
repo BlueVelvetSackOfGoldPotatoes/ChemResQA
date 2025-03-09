@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Radiopharmaceuticals are a special class of medicinal products that combine a radioactive isotope with a carrier molecule to target specific organs, tissues, or lesions.",
+        "Question": "What is the primary function of the radioactive isotope in diagnostic radiopharmaceuticals?",
+        "A": "To enhance the growth of targeted cells",
+        "B": "To emit radiation detectable by equipment",
+        "C": "To prevent the spread of disease",
+        "D": "To serve as a nutritional supplement",
+        "Answer": "B",
+        "Source": "One is a radioactive isotope (radionuclide), which is responsible for the desired 'action' of the RPs\u2014i.e. emitting radiation that can be detected by suitable equipment in the case of diagnostic RPs."
+    },
+    "Question_2": {
+        "Context": "Radiopharmaceuticals can be used for therapeutic purposes, where they are designed to deliver radiation to pathological cells.",
+        "Question": "What is the intended effect of radiopharmaceuticals on pathological cells in therapeutic applications?",
+        "A": "To promote cell regeneration",
+        "B": "To enhance cell metabolism",
+        "C": "To cause damage and loss of viability",
+        "D": "To mark cells for surgical removal",
+        "Answer": "C",
+        "Source": "intended damage and loss of viability to the cells in a pathological environment in the case of therapeutic RPs."
+    },
+    "Question_3": {
+        "Context": "Radiopharmaceuticals are composed of a radioactive isotope and a vector or carrier molecule that delivers the isotope to the targeted area.",
+        "Question": "What can the vector or carrier molecule in a radiopharmaceutical be?",
+        "A": "A simple radionuclide",
+        "B": "A complex chemical entity",
+        "C": "A small organic molecule",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The vector may be as simple as the radionuclide itself or a complex chemical entity ranging from a small organic molecule to a large peptide, antibody or nanoparticle."
+    },
+    "Question_4": {
+        "Context": "The radioactive component of a radiopharmaceutical is chosen based on the type of radiation it emits, which is relevant to its diagnostic or therapeutic function.",
+        "Question": "Which type of radiation do therapeutic radiopharmaceuticals typically emit?",
+        "A": "Gamma rays",
+        "B": "Beta particles",
+        "C": "Alpha particles",
+        "D": "B and C",
+        "Answer": "D",
+        "Source": "therapeutic radiopharmaceuticals contain beta or alpha emitting radionuclides (charged particles)."
+    },
+    "Question_5": {
+        "Context": "In the context of radiopharmaceuticals, the term 'shelf life' refers to the period during which the product remains effective and safe to use.",
+        "Question": "What primarily limits the shelf life of radiopharmaceuticals?",
+        "A": "Chemical stability of the carrier molecule",
+        "B": "Physical half-life of the radionuclide",
+        "C": "Sterility of the product",
+        "D": "Temperature during storage",
+        "Answer": "B",
+        "Source": "The shelf life of radiopharmaceuticals is naturally limited by the physical half-life of the radionuclide."
+    },
+    "Question_6": {
+        "Context": "The amount of active pharmaceutical substance in a radiopharmaceutical dose is typically very low, often in the nanomolar range.",
+        "Question": "Why is the chemical toxicity of radiopharmaceuticals usually considered less critical compared to conventional pharmaceutical substances?",
+        "A": "Because they are administered in very high doses",
+        "B": "Because they are administered in very low doses",
+        "C": "Because they are not absorbed by the body",
+        "D": "Because they are naturally occurring substances",
+        "Answer": "B",
+        "Source": "From a pharmaceutical risk-based point of view, the administration of a radiopharmaceutical is often far below the dosage required to produce any pharmacological effect (tracer principle)."
+    },
+    "Question_7": {
+        "Context": "Radiopharmaceuticals are often prepared on-site due to the short half-life of the radionuclides used.",
+        "Question": "What is a benefit of extemporaneous on-site preparation of radiopharmaceuticals?",
+        "A": "It allows for long-term storage of the product",
+        "B": "It reduces the risk of microbial contamination",
+        "C": "It increases the physical half-life of the radionuclide",
+        "D": "It enhances the pharmacological effect of the product",
+        "Answer": "B",
+        "Source": "the extemporaneous on-site preparation of an RP that is necessary owing to the short-shelf life of most diagnostic radiopharmaceuticals also results in a reduction of the potential risk of microbial contamination."
+    },
+    "Question_8": {
+        "Context": "The production of radiopharmaceuticals often involves small-scale processes due to various factors, including the short half-life of the radionuclides.",
+        "Question": "Which factor does NOT typically prescribe maximum batch sizes and volumes for radiopharmaceutical production?",
+        "A": "The need for rapid administration after preparation",
+        "B": "The shielding requirements for handling radioactive materials",
+        "C": "The preference for large injection volumes",
+        "D": "The use of radiopharmaceuticals for life-threatening rare diseases",
+        "Answer": "C",
+        "Source": "The injection of a radiopharmaceutical (with the exception of some therapeutic applications) is usually performed as a short bolus for which the preferred injection volume is below 10 ml."
+    },
+    "Question_9": {
+        "Context": "Radiopharmaceuticals require a unique approach to manufacturing due to the nature of the active pharmaceutical ingredient.",
+        "Question": "Why is the classical pharmaceutical approach of separate manufacturing of a drug substance and a drug product hardly possible for radiopharmaceuticals?",
+        "A": "Because the radioactive molecule cannot be isolated",
+        "B": "Because radiopharmaceuticals do not require a drug substance",
+        "C": "Because the drug product is not a critical component",
+        "D": "Because radiopharmaceuticals are not used for human applications",
+        "Answer": "A",
+        "Source": "the real drug substance, the radioactive molecule or ion, cannot be isolated, characterised and tested prior to formulation of the drug product."
+    },
+    "Question_10": {
+        "Context": "Quality control of radiopharmaceuticals is challenging due to the properties of the radioactive substances involved.",
+        "Question": "What is a common reason for substituting standard compendial methods with alternative rapid methods in the quality control of radiopharmaceuticals?",
+        "A": "The lack of available technology",
+        "B": "The high cost of standard methods",
+        "C": "The short half-life of the radionuclides",
+        "D": "The preference for less accurate methods",
+        "Answer": "C",
+        "Source": "Some standard compendial methods are difficult, or even impossible, to carry out on finished radiopharmaceutical products because the radionuclide half-life often limits the time available to complete all quality control tests before product release."
+    }
+}

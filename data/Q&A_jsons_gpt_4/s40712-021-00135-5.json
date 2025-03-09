@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the continuous forming process of metals, certain variables can affect the mechanical properties of the resulting product.",
+        "Question": "Which process variable is NOT typically associated with variations in the mechanical strength of a continuously formed metal product?",
+        "A": "Extrusion wheel speed",
+        "B": "Diameter of product",
+        "C": "Ambient temperature",
+        "D": "Extrusion ratio",
+        "Answer": "C",
+        "Source": "The challenge encountered in continuous forming process is the variation in mechanical strength of product formed with respect to process variables like extrusion wheel speed and diameter of product."
+    },
+    "Question_2": {
+        "Context": "In the study of mechanical properties of metals, yield strength is an important factor that can be optimized using various design methods.",
+        "Question": "Which design method is used to optimize yield strength as a function of process variables in metal forming?",
+        "A": "Central composite rotatable design",
+        "B": "Factorial design",
+        "C": "Taguchi method",
+        "D": "Response surface methodology",
+        "Answer": "A",
+        "Source": "The mechanical properties like yield strength as well as percentage elongation have been estimated and optimized using two variables with 3 levels through central composite rotatable design (CCRD) method."
+    },
+    "Question_3": {
+        "Context": "Statistical tools are often used to verify the significance of mathematical models developed for predicting mechanical properties of materials.",
+        "Question": "Which statistical method is commonly used to verify the significance of a mathematical model in predicting material properties?",
+        "A": "Linear regression",
+        "B": "Pearson correlation",
+        "C": "Analysis of variance",
+        "D": "Chi-square test",
+        "Answer": "C",
+        "Source": "The statistical significance of mathematical model is verified through analysis of variance (ANOVA)."
+    },
+    "Question_4": {
+        "Context": "In metal forming processes, the optimization of mechanical properties is crucial for product quality.",
+        "Question": "What is the optimized value of yield strength for aluminum (AA1100) when using specific process parameters?",
+        "A": "65 MPa",
+        "B": "70.939 MPa",
+        "C": "75 MPa",
+        "D": "80 MPa",
+        "Answer": "B",
+        "Source": "The optimum value of yield strength is found to be 70.939 MPa at wheel velocity of 8.63 rpm and product diameter of 9 mm respectively."
+    },
+    "Question_5": {
+        "Context": "The elongation percentage of a material is a measure of its ductility, which can be optimized under certain processing conditions.",
+        "Question": "What is the maximum percentage elongation recorded for aluminum (AA1100) under certain optimized process conditions?",
+        "A": "36.457%",
+        "B": "40.457%",
+        "C": "46.457%",
+        "D": "50.457%",
+        "Answer": "C",
+        "Source": "The maximum percentage elongation recorded is 46.457 at wheel velocity of 7.06 rpm and product diameter of 7.18 mm."
+    },
+    "Question_6": {
+        "Context": "The continuous forming process known as CONFORM is a method for producing infinite lengths of product with specific properties.",
+        "Question": "Which organization initiated the continuous forming process known as CONFORM?",
+        "A": "British Atomic Energy Department",
+        "B": "American Society for Metals",
+        "C": "International Organization for Standardization",
+        "D": "European Committee for Standardization",
+        "Answer": "A",
+        "Source": "The continuous forming process known as CONFORM process was started by British Atomic Energy Department."
+    },
+    "Question_7": {
+        "Context": "In the analysis of mechanical properties of materials, the relationship between process variables and material behavior is critical.",
+        "Question": "What is the effect of wheel speed on the yield strength of a continuously extruded metal product?",
+        "A": "Yield strength decreases with increasing wheel speed",
+        "B": "Yield strength increases with increasing wheel speed, up to a point, and then decreases",
+        "C": "Yield strength remains constant regardless of wheel speed",
+        "D": "Yield strength increases indefinitely with increasing wheel speed",
+        "Answer": "B",
+        "Source": "It can be observed that if the wheel speed increases, the yield strength of product increases and it is maximum at a given value of wheel speed and decreases thereafter if wheel speed is increased further."
+    },
+    "Question_8": {
+        "Context": "The microstructural properties of metals can be influenced by the conditions under which they are processed.",
+        "Question": "What microstructural change is observed in aluminum (AA1100) after deformation under various wheel speeds and extrusion ratios?",
+        "A": "Decrease in grain size",
+        "B": "No change in grain size",
+        "C": "Elongation in grains",
+        "D": "Transformation to amorphous structure",
+        "Answer": "C",
+        "Source": "It has been observed that before deformation there is no change in grain size but after deformation, the elongations in grains are observed."
+    },
+    "Question_9": {
+        "Context": "The grain size of a metal can be indicative of its mechanical properties and is affected by the processing conditions.",
+        "Question": "Under which wheel speed condition is very fine and uniform grain size observed in aluminum (AA1100) after continuous extrusion?",
+        "A": "4 revolutions per minute",
+        "B": "6 revolutions per minute",
+        "C": "8 revolutions per minute",
+        "D": "10 revolutions per minute",
+        "Answer": "C",
+        "Source": "But under the wheel speed of 8 revolutions per minute, very fine and uniform grains were observed."
+    },
+    "Question_10": {
+        "Context": "In the optimization of metal forming processes, the relationship between extrusion ratio and mechanical properties is investigated.",
+        "Question": "How does the extrusion ratio affect the yield strength of an extruded metal product?",
+        "A": "Yield strength increases with increasing extrusion ratio",
+        "B": "Yield strength decreases with increasing extrusion ratio",
+        "C": "Yield strength decreases initially, then increases beyond a certain extrusion ratio",
+        "D": "Yield strength remains unaffected by changes in extrusion ratio",
+        "Answer": "C",
+        "Source": "As the extrusion ratio increases, the yield strength value of the extruded product samples decreases initially, becomes minimum at a given extrusion ratio at a given speed, and increases thereafter."
+    }
+}

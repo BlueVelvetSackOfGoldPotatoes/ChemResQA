@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Microelectronic retinal implants are devices that can restore vision by electrically stimulating retinal neurons. These devices can be powered and operated wirelessly, eliminating the need for transocular connection lines, which can cause side effects such as infections.",
+        "Question": "What is the primary advantage of using wireless microelectronic retinal implants over those that require transocular connection lines?",
+        "A": "They are less expensive",
+        "B": "They can display colors",
+        "C": "They reduce the risk of infections",
+        "D": "They require less power",
+        "Answer": "C",
+        "Source": "Microelectronic retinal implants can restore a useful level of artificial vision in photoreceptor-damaged retina. Previously commercialized retinal prostheses require transocular connection lines to an external power supply and/or for data transmission, which are unwieldy and may cause unwanted side effects, such as infections."
+    },
+    "Question_2": {
+        "Context": "In the context of retinal prostheses, the use of rigid silicon substrates has been reported. However, these rigid substrates may not be compatible with the soft and flexible nature of retinal tissue over the long term.",
+        "Question": "What is a potential issue with using rigid silicon substrates in retinal prostheses?",
+        "A": "They are too expensive",
+        "B": "They can cause a mechanical mismatch with retinal tissue",
+        "C": "They are not transparent",
+        "D": "They cannot conduct electricity",
+        "Answer": "B",
+        "Source": "A recently reported wireless device used a rigid silicon substrate. However, it had the potential for a long-term mechanical mismatch with soft retinal tissue."
+    },
+    "Question_3": {
+        "Context": "Organic photovoltaic materials can be fabricated on flexible substrates and operated without physical connections to the external world, making them suitable for applications such as retinal prostheses.",
+        "Question": "Why are organic photovoltaic materials suitable for retinal prostheses?",
+        "A": "They are naturally found in the human eye",
+        "B": "They can be easily shaped into complex forms",
+        "C": "They can be fabricated on flexible substrates",
+        "D": "They are more colorful than inorganic materials",
+        "Answer": "C",
+        "Source": "In this work, we used organic photovoltaic materials which can be fabricated on flexible substrates as well as be operated without any physical connection to the external world."
+    },
+    "Question_4": {
+        "Context": "PCE10 is an organic photovoltaic material that has been employed as an active layer in retinal prosthetic applications. It has shown higher efficiency compared to previously studied materials like P3HT.",
+        "Question": "Which organic photovoltaic material has shown higher efficiency in retinal prosthetic applications?",
+        "A": "P3HT",
+        "B": "PCBM",
+        "C": "PCE10",
+        "D": "ITIC",
+        "Answer": "C",
+        "Source": "The present study employed PCE10 as an active layer for retinal prosthetic application for the first time. Compared to previously studied organic photovoltaic materials used in retinal prosthesis research (such as P3HT), our PCE10 devices showed higher efficiency, providing a huge advantage in this field."
+    },
+    "Question_5": {
+        "Context": "Ternary organic photovoltaic materials, such as a blend of PCE10, ITIC, and Y6, can be used to create layers that respond to light by generating current, which is useful for powering retinal prostheses.",
+        "Question": "What is the advantage of using a ternary blend of organic photovoltaic materials like PCE10, ITIC, and Y6 in retinal prostheses?",
+        "A": "It generates sound instead of current",
+        "B": "It shows lower reduction of photocurrent under the same irradiation frequency condition",
+        "C": "It is only active in complete darkness",
+        "D": "It increases the need for an external power supply",
+        "Answer": "B",
+        "Source": "When the PCE10 was blended with other non-fullerene acceptors achieving a ternary organic photovoltaic layer (PCE10:ITIC:Y6 blend), it showed lower reduction of photocurrent under same irradiation frequency condition."
+    },
+    "Question_6": {
+        "Context": "The process of fabricating organic photovoltaic devices involves creating layers on substrates, which can be controlled for thickness to ensure proper functioning.",
+        "Question": "What aspect of the fabrication method for organic photovoltaic devices is crucial for their performance?",
+        "A": "The color of the substrate",
+        "B": "The brand of the equipment used",
+        "C": "The control of the thickness of the layers",
+        "D": "The temperature of the room",
+        "Answer": "C",
+        "Source": "The fabrication method for our organic photovoltaic device was simple and easy to control its thickness."
+    },
+    "Question_7": {
+        "Context": "In the development of retinal prostheses, the performance of organic photovoltaic materials is often compared by measuring the photocurrent they generate in response to light stimuli.",
+        "Question": "What is a common method for comparing the performance of organic photovoltaic materials in retinal prostheses?",
+        "A": "By their color intensity",
+        "B": "By the photocurrent they generate in response to light",
+        "C": "By their resistance to water",
+        "D": "By their electrical conductivity in the dark",
+        "Answer": "B",
+        "Source": "Both devices exhibited an monontonic trend in photocurrent as the intensity of light increased. Specifically, as the light intensity increased from 20 to 100% (36.19 \u00b5W/mm2), the peak photocurrent amplitude of PCE10 increased linearly from 10.6 to 194.5 pA/cm2, while P3HT showed an increase from 6.0 to 69.5 pA/cm2."
+    },
+    "Question_8": {
+        "Context": "The stability of a photovoltaic device is important for applications such as retinal prostheses, where the device must maintain performance over repeated stimuli.",
+        "Question": "How is the stability of a photovoltaic device for retinal prostheses typically assessed?",
+        "A": "By its weight",
+        "B": "By its color change over time",
+        "C": "By the reduction in generated photocurrent during repeating stimuli",
+        "D": "By the increase in temperature during operation",
+        "Answer": "C",
+        "Source": "The fabricated devices showed adequate photocurrent to stimulate the retinal neurons with a smaller reduction in generated photocurrent during repeating stimuli compared to P3HT or PCE10 alone."
+    },
+    "Question_9": {
+        "Context": "The performance of organic photovoltaic materials can be enhanced by using non-fullerene acceptors, which facilitate efficient charge diffusion when excitons are generated.",
+        "Question": "What role do non-fullerene acceptors play in enhancing the performance of organic photovoltaic materials?",
+        "A": "They increase the weight of the device",
+        "B": "They improve the color quality of the device",
+        "C": "They facilitate efficient charge diffusion",
+        "D": "They decrease the flexibility of the device",
+        "Answer": "C",
+        "Source": "With these acceptors, electrons can be efficiently diffused when an exciton is generated."
+    },
+    "Question_10": {
+        "Context": "The highest occupied molecular orbital (HOMO) level of donor materials is a critical factor in determining the open-circuit voltage and power conversion efficiency of organic photovoltaic devices.",
+        "Question": "Why is the HOMO level of donor materials important in organic photovoltaic devices?",
+        "A": "It determines the color of the device",
+        "B": "It affects the device's weight",
+        "C": "It influences the open-circuit voltage and power conversion efficiency",
+        "D": "It changes the device's flexibility",
+        "Answer": "C",
+        "Source": "For a high open-circuit voltage and power conversion efficiency, it is important to identify donor materials with moderate band gaps and deep highest occupied molecular orbital (HOMO) levels."
+    }
+}

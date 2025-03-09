@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Sustainable polymers can be sourced from nature or synthesized from renewable monomers. Biopolymers are a major class of sustainable polymers that are directly extracted from nature.",
+        "Question": "Which of the following is NOT a biopolymer directly extracted from nature?",
+        "A": "Cellulose",
+        "B": "Chitin",
+        "C": "Polyethylene",
+        "D": "Starch",
+        "Answer": "C",
+        "Source": "One major class of these sustainable polymers are biopolymers that are directly extracted from nature (including polysaccharides such as cellulose, chitin/chitosan, starch, and alginate and proteins such as collagen/gelatin, silk fibroin, keratin, and soy protein)."
+    },
+    "Question_2": {
+        "Context": "Polymers synthesized from renewable sources of monomers are also considered sustainable. Polyhydroxyalkanoates (PHAs) and polylactide (PLA) are examples of such polymers.",
+        "Question": "Which of the following polymers is synthesized from renewable monomer sources?",
+        "A": "Polyvinyl chloride",
+        "B": "Polyhydroxyalkanoates",
+        "C": "Polystyrene",
+        "D": "Polyacrylonitrile",
+        "Answer": "B",
+        "Source": "Sustainable polymers also include polymers that are biologically or chemically synthesised from renewable sources of monomers, such as polyhydroxyalkanoates (PHAs) and polylactide (PLA)."
+    },
+    "Question_3": {
+        "Context": "Some sustainable polymers are biodegradable under specific conditions, which is a desirable property for reducing environmental impact.",
+        "Question": "Which sustainable polymer is known to be biodegradable under composting conditions?",
+        "A": "Polyethylene terephthalate",
+        "B": "Polyethylene",
+        "C": "Polylactide",
+        "D": "Polyamides",
+        "Answer": "C",
+        "Source": "Materials based on some sustainable polymers are biodegradable under composting conditions (e.g. PLA and PBS), in the natural environment (e.g. PHA and almost all biopolymers), or in the living body (e.g. chitosan, starch, PLA, PGA, and PBS)."
+    },
+    "Question_4": {
+        "Context": "The biodegradability of sustainable polymers in different environments is a key factor in their environmental impact.",
+        "Question": "Which of the following sustainable polymers is biodegradable in the natural environment?",
+        "A": "Polyhydroxyalkanoates",
+        "B": "Polyethylene furanoate",
+        "C": "Polyurethanes",
+        "D": "Polycarbonates",
+        "Answer": "A",
+        "Source": "Materials based on some sustainable polymers are biodegradable under composting conditions (e.g. PLA and PBS), in the natural environment (e.g. PHA and almost all biopolymers), or in the living body (e.g. chitosan, starch, PLA, PGA, and PBS)."
+    },
+    "Question_5": {
+        "Context": "Sustainable polymers can be tailored for specific applications by manipulating their degradability, properties, and functionality.",
+        "Question": "Which application area is NOT typically associated with the use of sustainable polymers?",
+        "A": "Packaging",
+        "B": "Health",
+        "C": "Environmental",
+        "D": "Aerospace",
+        "Answer": "D",
+        "Source": "Based on their degradability, along with varied properties and functionality, sustainable polymers can be developed into materials tailored for certain applications. Furthermore, the smart design of sustainable polymer composites through materials chemistry and engineering can endow such materials with appealing functionality, making them have enormous potential for important applications such as in packaging, health, and environmental areas."
+    },
+    "Question_6": {
+        "Context": "The design of sustainable polymer composites can involve the inclusion of nanofillers to enhance functionality.",
+        "Question": "What is the role of nanofillers in the design of sustainable polymer composites?",
+        "A": "To decrease the thermal stability",
+        "B": "To reduce the mechanical properties",
+        "C": "To enhance the functionality",
+        "D": "To increase the biodegradability",
+        "Answer": "C",
+        "Source": "This special collection focuses on how new and enhanced functions can be realised by sustainable polymer composites, which are formed by mainly polymer blending, inclusion of small amounts of nanofillers, or loading with active ingredients, coupled with chemical functionalisation or specialised materials fabrication procedures."
+    },
+    "Question_7": {
+        "Context": "Starch, a biopolymer from biomass, can be modified to create materials suitable for specific applications such as food packaging.",
+        "Question": "What is the modified form of starch called when used for materials applications?",
+        "A": "Bioplastic starch",
+        "B": "Thermoplastic starch",
+        "C": "Hydrophobic starch",
+        "D": "Cross-linked starch",
+        "Answer": "B",
+        "Source": "As an important biopolymer from biomass, starch can be converted into so-called 'thermoplastic starch' and has been extensively studied for materials applications."
+    },
+    "Question_8": {
+        "Context": "Chitosan is a biopolymer with inherent antimicrobial activity and is used in biomedical applications.",
+        "Question": "Which property of chitosan makes it suitable for use in biomedical areas?",
+        "A": "Electrical conductivity",
+        "B": "Inherent antimicrobial activity",
+        "C": "Opacity",
+        "D": "Thermal resistance",
+        "Answer": "B",
+        "Source": "Biopolymers such as chitosan have been extensively used in biomedical areas due to their biodegradability, biocompatibility and inherent antimicrobial activity."
+    },
+    "Question_9": {
+        "Context": "The structure and properties of polymer composites can be influenced by various factors including the geometry and surface chemistry of fillers.",
+        "Question": "Which factor does NOT influence the structure and properties of polymer composites?",
+        "A": "Filler geometry",
+        "B": "Filler surface chemistry",
+        "C": "Polymer\u2013filler interactions",
+        "D": "Color of the fillers",
+        "Answer": "D",
+        "Source": "The results highlight that multiple factors (e.g. filler geometry, filler surface chemistry, and polymer\u2013filler interactions) determine material structure and properties."
+    },
+    "Question_10": {
+        "Context": "Carbon-based adsorbents are used for environmental remediation due to their exceptional adsorption capability for contaminants.",
+        "Question": "What is the primary use of carbon-based adsorbents in environmental applications?",
+        "A": "To enhance soil fertility",
+        "B": "To improve air quality",
+        "C": "To remove contaminants",
+        "D": "To increase water pH",
+        "Answer": "C",
+        "Source": "Carbon-based adsorbents possess exceptional adsorption capability, thus highly useful for removing contaminants from the environment; and in this area, sustainable biomass-derived carbon materials are especially interesting."
+    }
+}

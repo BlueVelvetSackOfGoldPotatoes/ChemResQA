@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "LNPs have been investigated as drug delivery systems for encapsulating small molecules, nucleic acids, small interfering RNA (siRNA), and mRNA. What is the composition of recent developed LNPs for mRNA delivery?",
+        "Question": "What are the components of LNPs for mRNA delivery?",
+        "A": "Ionizable lipids, helper lipids, cholesterol, and polyethylene glycol (PEG)-lipids",
+        "B": "Proteins, carbohydrates, nucleic acids, and lipids",
+        "C": "Vitamins, minerals, amino acids, and water",
+        "D": "Enzymes, antibodies, antigens, and cytokines",
+        "Answer": "A",
+        "Source": "Recent developed LNPs for mRNA delivery are composed of ionizable lipids, helper lipids, cholesterol, polyethylene glycol (PEG)-lipids, and mRNA."
+    },
+    "Question_2": {
+        "Context": "LNPs have been optimized as vehicles for mRNA delivery and have entered clinical trials for infectious diseases. What is the role of PEG-lipid in LNPs?",
+        "Question": "What is the role of PEG-lipid in LNPs for mRNA delivery?",
+        "A": "Enhancing stability and preventing opsonization",
+        "B": "Promoting mRNA degradation",
+        "C": "Increasing immune response",
+        "D": "Facilitating endosomal escape",
+        "Answer": "A",
+        "Source": "PEG-lipid ensures prolonged systemic circulation and enhanced stability by averting opsonization and phagocytosis by macrophages."
+    },
+    "Question_3": {
+        "Context": "LNPs have been suggested as a means to address CAR-engineered immune cell delivery. How do LNPs facilitate the delivery of mRNA encoding CD19 CAR to T cells?",
+        "Question": "How do LNPs facilitate the delivery of mRNA encoding CD19 CAR to T cells?",
+        "A": "By enhancing mRNA stability",
+        "B": "By promoting gene editing",
+        "C": "By encapsulating the mRNA encoding CD19 CAR",
+        "D": "By directly integrating the mRNA into T cells",
+        "Answer": "C",
+        "Source": "LNPs with the highest transfection efficacy encapsulated the mRNA encoding CD19 CAR and were administered to T cells, expressing CD19 CAR at levels equivalent to or higher than those achieved with electroporation."
+    },
+    "Question_4": {
+        "Context": "LNPs have been successfully optimized as vehicles for mRNA delivery and have entered clinical trials for infectious diseases. What is the role of ionizable lipids in LNPs?",
+        "Question": "What is the role of ionizable lipids in LNPs for mRNA delivery?",
+        "A": "Ensuring prolonged systemic circulation",
+        "B": "Promoting mRNA translation",
+        "C": "Stabilizing and safeguarding mRNA in a pH-dependent manner",
+        "D": "Enhancing cellular uptake",
+        "Answer": "C",
+        "Source": "Ionizable lipids form 'mRNA-ionized cationic lipid' complexes that stabilize and safeguard mRNA in a pH-dependent manner."
+    },
+    "Question_5": {
+        "Context": "LNPs have been investigated as drug delivery systems for encapsulating small molecules, nucleic acids, small interfering RNA (siRNA), and mRNA. What is the significance of cholesterol in LNPs?",
+        "Question": "What is the significance of cholesterol in LNPs for mRNA delivery?",
+        "A": "Affects the delivery effectiveness and distribution of lipid nanoparticles",
+        "B": "Promotes mRNA degradation",
+        "C": "Enhances immune response",
+        "D": "Facilitates endosomal escape",
+        "Answer": "A",
+        "Source": "Cholesterol affects the delivery effectiveness and distribution of lipid nanoparticles, with specific modifications amplifying efficacy and selectivity for certain cell types."
+    },
+    "Question_6": {
+        "Context": "LNPs have been suggested as a means to address CAR-engineered immune cell delivery. What is the potential limitation of mRNA-based CAR engineering?",
+        "Question": "What is a potential limitation of mRNA-based CAR engineering?",
+        "A": "Short duration of gene expression",
+        "B": "High cost of production",
+        "C": "Low transfection efficiency",
+        "D": "Limited cellular uptake",
+        "Answer": "A",
+        "Source": "One notable limitation of mRNA-based CAR engineering is the relatively short duration of gene expression."
+    },
+    "Question_7": {
+        "Context": "LNPs have been successfully optimized as vehicles for mRNA delivery and have entered clinical trials for infectious diseases. What is the role of helper lipids in LNPs?",
+        "Question": "What is the role of helper lipids in LNPs for mRNA delivery?",
+        "A": "Govern the fluidity or rigidity of LNPs",
+        "B": "Enhance mRNA stability",
+        "C": "Promote endosomal escape",
+        "D": "Increase cellular uptake",
+        "Answer": "A",
+        "Source": "Helper lipids are instrumental in LNP formation, governing their fluidity or rigidity."
+    },
+    "Question_8": {
+        "Context": "LNPs have been suggested as a means to address CAR-engineered immune cell delivery. How do LNPs facilitate the delivery of mRNA encoding CD19 CAR to T cells compared to electroporation?",
+        "Question": "How do LNPs facilitate the delivery of mRNA encoding CD19 CAR to T cells compared to electroporation?",
+        "A": "By increasing mRNA stability",
+        "B": "By reducing gene expression levels",
+        "C": "By encapsulating the mRNA encoding CD19 CAR",
+        "D": "By promoting gene editing",
+        "Answer": "C",
+        "Source": "LNPs with the highest transfection efficacy encapsulated the mRNA encoding CD19 CAR and were administered to T cells, expressing CD19 CAR at levels equivalent to or higher than those achieved with electroporation."
+    },
+    "Question_9": {
+        "Context": "LNPs have been investigated as drug delivery systems for encapsulating small molecules, nucleic acids, small interfering RNA (siRNA), and mRNA. What is the significance of ionizable cationic lipids in LNPs?",
+        "Question": "What is the significance of ionizable cationic lipids in LNPs for mRNA delivery?",
+        "A": "Ensure prolonged systemic circulation",
+        "B": "Promote mRNA translation",
+        "C": "Stabilize and safeguard mRNA in a pH-dependent manner",
+        "D": "Enhance cellular uptake",
+        "Answer": "C",
+        "Source": "Ionizable cationic lipids form 'mRNA-ionized cationic lipid' complexes that stabilize and safeguard mRNA in a pH-dependent manner."
+    },
+    "Question_10": {
+        "Context": "LNPs have been suggested as a means to address CAR-engineered immune cell delivery. What is a potential strategy to overcome the limitation of the transient nature of mRNA-based CARs?",
+        "Question": "What is a potential strategy to overcome the limitation of the transient nature of mRNA-based CARs?",
+        "A": "Modifying the mRNA sequence or structure",
+        "B": "Increasing the mRNA dosage",
+        "C": "Changing the cell type for delivery",
+        "D": "Reducing the frequency of administration",
+        "Answer": "A",
+        "Source": "Researchers are exploring strategies to improve mRNA stability and extend the duration of CAR expression, which may include modifying the mRNA sequence or structure."
+    }
+}

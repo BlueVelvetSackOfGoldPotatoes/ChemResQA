@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Aminoacyl-tRNA synthetase (aaRS) is an enzyme that plays a crucial role in the translation process by attaching the appropriate amino acid to its corresponding tRNA molecule. Genetic code expansion (GCE) is a technique that allows the incorporation of noncanonical amino acids (ncAAs) into proteins, which can be used to probe enzyme mechanisms or expand protein function.",
+        "Question": "What is the role of aminoacyl-tRNA synthetase in genetic code expansion?",
+        "A": "It suppresses the amber stop codon.",
+        "B": "It attaches noncanonical amino acids to tRNA.",
+        "C": "It breaks down the protein structure.",
+        "D": "It synthesizes new strands of DNA.",
+        "Answer": "B",
+        "Source": "Aminoacyl-tRNA synthetase (aaRS) is a core component for genetic code expansion (GCE), a powerful technique that enables the incorporation of noncanonical amino acids (ncAAs) into a protein."
+    },
+    "Question_2": {
+        "Context": "In the context of genetic code expansion, polyspecificity of an aminoacyl-tRNA synthetase refers to its ability to recognize and process multiple noncanonical amino acids without the need to evolve new orthogonal pairs of the enzyme and tRNA.",
+        "Question": "What does polyspecificity of an aminoacyl-tRNA synthetase refer to in genetic code expansion?",
+        "A": "Its ability to attach only one specific noncanonical amino acid to tRNA.",
+        "B": "Its ability to suppress all stop codons.",
+        "C": "Its ability to recognize and process multiple noncanonical amino acids.",
+        "D": "Its ability to detach amino acids from tRNA.",
+        "Answer": "C",
+        "Source": "The aaRS with polyspecificity can be exploited in incorporating additional ncAAs into a protein without the evolution of new, orthogonal aaRS/tRNA pair."
+    },
+    "Question_3": {
+        "Context": "Pyrrolysyl-tRNA synthetase (PylRS) from Methanosarcina species is known for its ability to incorporate noncanonical amino acids into proteins. Variants of this enzyme can be engineered to improve its efficiency and substrate scope for the incorporation of noncanonical amino acids.",
+        "Question": "Which enzyme from Methanosarcina species is engineered to improve the incorporation of noncanonical amino acids into proteins?",
+        "A": "Methanocaldococcus jannaschii tyrosyl-tRNA synthetase",
+        "B": "Methanosarcina barkeri pyrolysyl-tRNA synthetase",
+        "C": "Methanosarcina mazei pyrolysyl-tRNA synthetase",
+        "D": "Methanosarcina mazei tyrosyl-tRNA synthetase",
+        "Answer": "C",
+        "Source": "A variant (N346A/C348A) of pyrrolysyl-tRNA synthetase from Methanosarcina mazei (MmPylRS) exhibited a wide substrate scope of accepting over 40 phenylalanine derivatives."
+    },
+    "Question_4": {
+        "Context": "The efficiency of incorporating noncanonical amino acids into proteins can be affected by mutations in the aminoacyl-tRNA synthetase. Hot spots for directed evolution are regions in the enzyme where mutations can significantly expand the enzyme's substrate scope.",
+        "Question": "What are hot spots in the context of directed evolution of aminoacyl-tRNA synthetase?",
+        "A": "Regions where mutations prevent the enzyme from functioning",
+        "B": "Regions where mutations do not affect the enzyme's activity",
+        "C": "Regions where mutations can significantly expand the enzyme's substrate scope",
+        "D": "Regions that are highly conserved and cannot be mutated",
+        "Answer": "C",
+        "Source": "In the MmPylRS, N346 and C348 are hot spots for directed evolution of the enzyme to expand substrate scope."
+    },
+    "Question_5": {
+        "Context": "The incorporation efficiency of noncanonical amino acids by pyrrolysyl-tRNA synthetase variants can be influenced by mutations in the enzyme's N-terminal domain (NTD), which is involved in tRNA binding.",
+        "Question": "Which domain of pyrrolysyl-tRNA synthetase is involved in tRNA binding and can influence the incorporation efficiency of noncanonical amino acids when mutated?",
+        "A": "C-terminal domain (CTD)",
+        "B": "N-terminal domain (NTD)",
+        "C": "Central domain (CD)",
+        "D": "Linker domain (LD)",
+        "Answer": "B",
+        "Source": "Mutations in the NTD have also been demonstrated to affect the ncAA incorporation efficiency of MmPylRS, MbPylRS variants, and their chimera."
+    },
+    "Question_6": {
+        "Context": "The genetic incorporation of noncanonical amino acids into proteins can be achieved using an orthogonal tRNA/synthetase pair. This process can be optimized through directed evolution, which involves creating variants of the synthetase with mutations that enhance activity and specificity.",
+        "Question": "What is the purpose of directed evolution in the context of genetic incorporation of noncanonical amino acids?",
+        "A": "To decrease the activity of the synthetase",
+        "B": "To prevent the synthetase from binding to tRNA",
+        "C": "To create synthetase variants with reduced specificity",
+        "D": "To enhance the activity and specificity of the synthetase",
+        "Answer": "D",
+        "Source": "A powerful method has been developed for the directed evolution of aaRS involving both positive and negative selections based on the ability to suppress a nonsense mutation in the presence of the desired ncAA."
+    },
+    "Question_7": {
+        "Context": "Noncanonical amino acids (ncAAs) can be incorporated into proteins to study enzyme mechanisms or to engineer enzymes with improved properties. The incorporation of ncAAs is facilitated by engineered aminoacyl-tRNA synthetases that recognize these non-natural substrates.",
+        "Question": "What is the significance of incorporating noncanonical amino acids into proteins?",
+        "A": "To decrease the stability of proteins",
+        "B": "To study enzyme mechanisms or engineer enzymes with improved properties",
+        "C": "To prevent proteins from functioning properly",
+        "D": "To simplify the protein synthesis process",
+        "Answer": "B",
+        "Source": "This polyspecificity has been applied to facilitate rapid and widespread use of the genetic ncAA incorporation technique in exploring the enzyme catalysis mechanism and engineering enzymes with improved properties."
+    },
+    "Question_8": {
+        "Context": "Pyrrolysyl-tRNA synthetase (PylRS) variants can be engineered to have a wide substrate scope, allowing them to incorporate a diverse range of phenylalanine derivatives into proteins. These derivatives can have different sizes, polarities, and hydrophobicities, which can be useful for expanding enzyme functions.",
+        "Question": "What characteristic of phenylalanine derivatives is considered when using PylRS variants to incorporate them into proteins?",
+        "A": "Their ability to form peptide bonds",
+        "B": "Their size, polarity, and hydrophobicity",
+        "C": "Their ability to fluoresce under UV light",
+        "D": "Their resistance to proteolytic enzymes",
+        "Answer": "B",
+        "Source": "Phe derivatives with functional groups different in size, polarity, and hydrophobicity could be potentially useful to expand the enzyme functions."
+    },
+    "Question_9": {
+        "Context": "In protein engineering, the incorporation of noncanonical amino acids can lead to changes in enzyme activity and selectivity. This is achieved by modifying the interactions between the substrate and protein, which can be studied using enzymatic characterization and molecular dynamics simulations.",
+        "Question": "How can the incorporation of noncanonical amino acids affect an enzyme in protein engineering?",
+        "A": "By changing the enzyme's primary structure",
+        "B": "By altering the enzyme's nucleotide sequence",
+        "C": "By modifying the interactions between substrate and protein",
+        "D": "By removing all catalytic activity of the enzyme",
+        "Answer": "C",
+        "Source": "Incorporation of O-tert-Butyl-L-tyrosine modified the enantioselectivity of PedH by influencing the interactions between substrate and protein."
+    },
+    "Question_10": {
+        "Context": "The incorporation of noncanonical amino acids into enzymes can be used to probe the role of specific amino acid residues in enzyme catalysis. By replacing a conserved residue with a noncanonical amino acid, researchers can study how changes to the residue affect the enzyme's activity and selectivity.",
+        "Question": "What is the purpose of incorporating noncanonical amino acids at specific sites in enzymes?",
+        "A": "To deactivate the enzyme permanently",
+        "B": "To prevent the enzyme from binding to any substrates",
+        "C": "To probe the role of specific residues in enzyme catalysis",
+        "D": "To increase the overall size of the enzyme",
+        "Answer": "C",
+        "Source": "With the utility of this variant, eight various ncAAs were then incorporated into a lanthanide-dependent alcohol dehydrogenase PedH. Incorporation of phenyllactic acid improved the catalytic efficiency of PedH toward methanol by 1.8-fold, indicating the role of modifying protein main chain in enzyme engineering."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Venadaparib (VEN) is a poly (ADP-ribose) polymerases inhibitor that is being developed for oral use in patients with cancers that have defects in DNA repair mechanisms.",
+        "Question": "What is the primary therapeutic target of Venadaparib (VEN)?",
+        "A": "G protein-coupled receptors",
+        "B": "Poly (ADP-ribose) polymerases",
+        "C": "Tyrosine kinases",
+        "D": "Ion channels",
+        "Answer": "B",
+        "Source": "Venadaparib (VEN), a next\u2011generation inhibitor of poly (ADP\u2011ribose) polymerases, is under development for oral use in patients having cancers with deoxyribonucleic acid repair defects."
+    },
+    "Question_2": {
+        "Context": "In the context of pharmacokinetics, the lower and upper limits of an assay determine the range of concentrations at which a compound can be accurately quantified.",
+        "Question": "What were the lower and upper limits of the assay developed for quantifying Venadaparib (VEN) in plasma samples?",
+        "A": "0.1 and 500 ng/mL",
+        "B": "0.5 and 750 ng/mL",
+        "C": "1 and 1000 ng/mL",
+        "D": "2 and 1500 ng/mL",
+        "Answer": "C",
+        "Source": "The lower and upper limits of the assay were determined to be 1 and 1000 ng/mL, respectively, with acceptable linearity (r2 > 0.995)."
+    },
+    "Question_3": {
+        "Context": "In bioanalytical chemistry, the process of deproteination is often used to prepare plasma samples for analysis by removing proteins that may interfere with the measurement of small molecules.",
+        "Question": "What process was used to prepare plasma samples for the quantification of Venadaparib (VEN)?",
+        "A": "Deproteination",
+        "B": "Dialysis",
+        "C": "Filtration",
+        "D": "Precipitation",
+        "Answer": "A",
+        "Source": "Plasma samples were subjected to deproteination, and an aliquot was injected into an LC\u2013MS/MS system."
+    },
+    "Question_4": {
+        "Context": "In mass spectrometry, the transition from a parent ion to a product ion is monitored to quantify a specific compound, which is crucial for the specificity of the assay.",
+        "Question": "What transition was monitored to quantify Venadaparib (VEN) using mass spectrometry?",
+        "A": "m/z 407.2 \u2192 70.0",
+        "B": "m/z 281.2 \u2192 86.1",
+        "C": "m/z 350.0 \u2192 75.0",
+        "D": "m/z 300.2 \u2192 90.1",
+        "Answer": "A",
+        "Source": "VEN and imipra\u2011 mine were analyzed in the positive ion mode and quantified by monitoring the transition at m/z 407.2 \u2192 70.0 for VEN and 281.2 \u2192 86.1 for imipramine."
+    },
+    "Question_5": {
+        "Context": "The coefficient of determination (r2) in a calibration curve is a measure of how well the equation of the curve describes the relationship between the concentration of an analyte and the response of the assay.",
+        "Question": "What was the coefficient of determination (r2) for the calibration curve in the assay developed for Venadaparib (VEN)?",
+        "A": "r2 > 0.900",
+        "B": "r2 > 0.950",
+        "C": "r2 > 0.995",
+        "D": "r2 > 0.999",
+        "Answer": "C",
+        "Source": "The lower and upper limits of the assay were determined to be 1 and 1000 ng/mL, respectively, with acceptable linearity (r2 > 0.995)."
+    },
+    "Question_6": {
+        "Context": "In the development of pharmacological agents, it is important to assess the pharmacokinetics of the agent in animal models before proceeding to human trials.",
+        "Question": "At what oral doses were Venadaparib (VEN) administered to rats and dogs in the pharmacokinetic characterization?",
+        "A": "30 mg/kg for rats and 0.5 mg/kg for dogs",
+        "B": "0.5 mg/kg for rats and 30 mg/kg for dogs",
+        "C": "10 mg/kg for rats and 1 mg/kg for dogs",
+        "D": "1 mg/kg for rats and 10 mg/kg for dogs",
+        "Answer": "A",
+        "Source": "This method was adequately applied to the characteriza\u2011 tion of pharmacokinetics of VEN in rats and dogs at the oral dose of 30 and 0.5 mg/kg, respectively."
+    },
+    "Question_7": {
+        "Context": "In bioanalysis, the internal standard (IS) is a compound structurally similar to the analyte that is added to the sample in a known amount and used to correct for variations in the analysis.",
+        "Question": "Which compound was used as the internal standard (IS) for the quantification of Venadaparib (VEN)?",
+        "A": "Olaparib",
+        "B": "Rucaparib",
+        "C": "Imipramine",
+        "D": "Talazoparib",
+        "Answer": "C",
+        "Source": "VEN and imipra\u2011 mine were analyzed in the positive ion mode and quantified by monitoring the transition at m/z 407.2 \u2192 70.0 for VEN and 281.2 \u2192 86.1 for imipramine."
+    },
+    "Question_8": {
+        "Context": "The lower limit of quantification (LLOQ) is the lowest concentration of an analyte in a sample that can be quantitatively determined with suitable precision and accuracy.",
+        "Question": "What was the lower limit of quantification (LLOQ) for Venadaparib (VEN) in the validated assay?",
+        "A": "0.5 ng/mL",
+        "B": "1 ng/mL",
+        "C": "2 ng/mL",
+        "D": "5 ng/mL",
+        "Answer": "B",
+        "Source": "The lower and upper limits of the assay were determined to be 1 and 1000 ng/mL, respectively, with acceptable linearity (r2 > 0.995)."
+    },
+    "Question_9": {
+        "Context": "In liquid chromatography\u2013mass spectrometry (LC\u2013MS/MS), the mobile phase composition and gradient are crucial for achieving adequate separation of compounds.",
+        "Question": "What was the composition of the mobile phase used in the LC\u2013MS/MS system for analyzing Venadaparib (VEN)?",
+        "A": "0.1% formic acid in water and 0.1% formic acid in methanol",
+        "B": "0.1% acetic acid in water and 0.1% acetic acid in acetonitrile",
+        "C": "0.1% trifluoroacetic acid in water and 0.1% trifluoroacetic acid in methanol",
+        "D": "0.1% formic acid in water and 0.1% formic acid in acetonitrile",
+        "Answer": "A",
+        "Source": "The mobile phase was composed of solvent A (0.1% formic acid in water) and solvent B (0.1% formic acid in methanol) and was delivered at a flow rate of 0.6 mL/min."
+    },
+    "Question_10": {
+        "Context": "In pharmacokinetic studies, the area under the curve (AUC) is a measure of the total exposure of the organism to the drug after administration.",
+        "Question": "What pharmacokinetic parameter is directly read from the concentration\u2013time profile of a drug in plasma?",
+        "A": "Elimination rate constant",
+        "B": "Volume of distribution",
+        "C": "Maximum concentration (Cmax)",
+        "D": "Bioavailability",
+        "Answer": "C",
+        "Source": "The maximum concentration (Cmax) and the time point at a maximum concentration (Tmax) were read directly from the concentration\u2013time profile of VEN in the plasma."
+    }
+}

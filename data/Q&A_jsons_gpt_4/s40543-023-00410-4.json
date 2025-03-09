@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "MicroRNAs (miRNAs) are small non-coding RNA molecules that have a role in regulating gene expression and are implicated in various diseases.",
+        "Question": "What is the length range of microRNAs (miRNAs)?",
+        "A": "10 to 15 nucleotides",
+        "B": "18 to 24 nucleotides",
+        "C": "25 to 30 nucleotides",
+        "D": "31 to 36 nucleotides",
+        "Answer": "B",
+        "Source": "MicroRNAs (miRNAs) are a class of short non-coding RNA molecules ranging from 18 to 24 nucleotides in length."
+    },
+    "Question_2": {
+        "Context": "The detection of specific miRNAs can be crucial for diagnosing and treating various diseases, including liver disorders.",
+        "Question": "Which miRNA is a biomarker for drug-induced liver injury?",
+        "A": "miRNA-155",
+        "B": "miRNA-141",
+        "C": "miRNA-21",
+        "D": "miRNA-211",
+        "Answer": "C",
+        "Source": "In this study, a novel method is developed to detect miRNA-21, a biomarker for drug-induced liver injury, by combining target sequence recycling with G-quadruplex-based signal production."
+    },
+    "Question_3": {
+        "Context": "G-quadruplex structures can be formed by certain nucleic acid sequences and can interact with specific molecules to produce a detectable signal.",
+        "Question": "Which molecule is known to interact with G-quadruplex structures to produce a significant increase in fluorescence intensity?",
+        "A": "Riboflavin",
+        "B": "Folic acid",
+        "C": "Thioflavin T (ThT)",
+        "D": "Biotin",
+        "Answer": "C",
+        "Source": "The G-quadruplex sequences that have been produced subsequently interact with thioflavin T (ThT), resulting in a significant increase in its fluorescence intensity."
+    },
+    "Question_4": {
+        "Context": "Strand displacement reactions are a method used in nucleic acid amplification and can be initiated by specific DNA or RNA sequences.",
+        "Question": "What initiates the strand displacement reaction in the context of miRNA detection?",
+        "A": "Toehold region of a messenger RNA",
+        "B": "Toehold region of a detection probe",
+        "C": "Toehold region of a catalytic chain",
+        "D": "Toehold region at the 3'-terminus of the target miRNA",
+        "Answer": "B",
+        "Source": "Target miRNA-21 binds to the toehold region at the 3'-terminus of the '1' section to generate a novel complex (miRNA-21/H probe), which can then activate the strand displacement reaction integrating with G-quadruplex-based signal production."
+    },
+    "Question_5": {
+        "Context": "Nonalcoholic fatty liver disease (NAFLD) is a condition that affects a significant portion of the population and can progress to more severe liver diseases.",
+        "Question": "What percentage of the population is affected by nonalcoholic fatty liver disease (NAFLD)?",
+        "A": "More than 20%",
+        "B": "More than 25%",
+        "C": "More than 33%",
+        "D": "More than 40%",
+        "Answer": "C",
+        "Source": "Nonalcoholic fatty liver disease (NAFLD) affects a significant proportion, specifically more than 33%, of the population and exhibits associations with several metabolic disorders."
+    },
+    "Question_6": {
+        "Context": "The detection of miRNAs can be hindered by several factors, making the development of sensitive and specific detection methods a challenge.",
+        "Question": "Which factor does NOT typically challenge the detection of miRNAs?",
+        "A": "Great similarity of sequences",
+        "B": "High concentration of miRNAs",
+        "C": "Low concentration of miRNAs",
+        "D": "Susceptibility to degradation",
+        "Answer": "B",
+        "Source": "Nevertheless, the challenge of achieving high-performance monitoring of miRNA arises from several factors, including the great similarity of sequences, low concentration, and susceptibility to degradation."
+    },
+    "Question_7": {
+        "Context": "Various traditional methods exist for miRNA detection, each with its own set of advantages and limitations.",
+        "Question": "Which traditional method for miRNA detection is known for its low sensitivity and the need for potentially dangerous radioactive isotopes?",
+        "A": "Reverse transcription polymerase chain reaction (RT-PCR)",
+        "B": "Northern blotting",
+        "C": "Microarrays",
+        "D": "Isothermal amplification",
+        "Answer": "B",
+        "Source": "Northern blotting is a common method for detecting microRNA, but it has drawbacks, including low sensitivity and the need for potentially dangerous radioactive isotopes."
+    },
+    "Question_8": {
+        "Context": "Isothermal amplification methods are employed for the detection of nucleic acids and can be combined with various signal transduction technologies.",
+        "Question": "Which of the following is NOT a signal transducer technology that has been integrated with isothermal amplification for miRNA identification?",
+        "A": "Electrochemiluminescence (ECL)",
+        "B": "Surface-enhanced Raman scattering (SERS)",
+        "C": "Fluorescence (FL)",
+        "D": "Mass spectrometry (MS)",
+        "Answer": "D",
+        "Source": "Integration of isothermal amplification with other signal transducer technologies has allowed for highly accurate and precise miRNA identification in recent years. Instances include electrochemiluminescence (ECL), surface-enhanced Raman scattering (SERS), and fluorescence (FL)."
+    },
+    "Question_9": {
+        "Context": "Strand displacement reaction (SDR) is an isothermal amplification method that can be used for nucleic acid detection.",
+        "Question": "What is a characteristic feature of strand displacement reaction (SDR)?",
+        "A": "It requires high temperatures to initiate",
+        "B": "It is enzyme-free",
+        "C": "It relies on protein synthesis",
+        "D": "It is a multi-step process requiring RNA intermediates",
+        "Answer": "B",
+        "Source": "Because of its isothermal and enzyme-free properties, SDR is a prototypical example of isothermal amplification."
+    },
+    "Question_10": {
+        "Context": "The detection of miRNA-21 can be enhanced by a specific type of signal amplification method.",
+        "Question": "What is the detection limit of miRNA-21 using the signal amplification method described?",
+        "A": "44 fM",
+        "B": "4.4 pM",
+        "C": "4.4 nM",
+        "D": "4.4 fM",
+        "Answer": "D",
+        "Source": "This enhanced fluorescence is utilized for the purpose of detecting miRNA-21, with a remarkably low detection limit of 4.4 fM."
+    }
+}

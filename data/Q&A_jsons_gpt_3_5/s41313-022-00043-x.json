@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of constant-depth circuits for dynamic simulations of quantum materials. The circuits are designed to enable simulations out to arbitrarily long times.",
+        "Question": "What is the primary advantage of using constant-depth circuits for dynamic simulations of quantum materials?",
+        "A": "Enabling simulations for short-time dynamics only",
+        "B": "Limiting the number of time-steps that can be feasibly simulated",
+        "C": "Allowing simulations to be broken into arbitrarily many time-steps",
+        "D": "Increasing the depth of circuits with increasing simulation time",
+        "Answer": "C",
+        "Source": "By allowing simulations to be broken into arbitrarily many time-steps, the constant-depth circuits enable Trotter error to be made negligibly small."
+    },
+    "Question_2": {
+        "Context": "The paper mentions that the constant-depth circuits contain only O(N^2) CNOT gates for an N-spin system.",
+        "Question": "How does the number of CNOT gates in the constant-depth circuits scale with the system size N?",
+        "A": "Linearly",
+        "B": "Quadratically",
+        "C": "Exponentially",
+        "D": "Logarithmically",
+        "Answer": "B",
+        "Source": "For an N-spin system, the constant-depth circuit contains only O(N^2) CNOT gates."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the Trotter error in dynamic simulations based on Trotter decomposition.",
+        "Question": "What is the main source of error in dynamic simulations based on Trotter decomposition?",
+        "A": "Gate errors",
+        "B": "Qubit decoherence",
+        "C": "Trotter error",
+        "D": "System initialization",
+        "Answer": "C",
+        "Source": "The error generated from the Trotter decomposition, known as Trotter error, can be a significant source of error."
+    },
+    "Question_4": {
+        "Context": "The paper introduces a method for generating quantum circuits that are constant in depth with increasing time-step count for simulations of materials governed by a specific set of models.",
+        "Question": "What is the key feature of matchgates used in the constant-depth circuits?",
+        "A": "They require three CNOT gates for decomposition",
+        "B": "They can be decomposed into native-gate circuits with only two CNOT gates",
+        "C": "They grow in size with increasing time-step count",
+        "D": "They are approximate circuits",
+        "Answer": "B",
+        "Source": "The matchgates in our constant-depth circuits only require two CNOT gates in their decomposition."
+    },
+    "Question_5": {
+        "Context": "The paper demonstrates the power of constant-depth circuits by simulating quantum quenches of 3-, 4-, and 5-spin systems defined by the TFIM and XY model on the IBM quantum processor.",
+        "Question": "What is the observable of interest for the XY model simulations?",
+        "A": "Average magnetization along the x-axis",
+        "B": "Staggered magnetization of the system",
+        "C": "Average magnetization along the y-axis",
+        "D": "Antiferromagnetic order parameter",
+        "Answer": "B",
+        "Source": "Our observable of interest is the staggered magnetization of the system, which is related to the antiferromagnetic order parameter."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the construction of constant-depth circuits for dynamic simulations of quantum materials.",
+        "Question": "What is the main advantage of using constant-depth circuits for dynamic simulations on quantum computers?",
+        "A": "They grow in size with increasing time-step count",
+        "B": "They enable simulations out to arbitrarily long times",
+        "C": "They require complex error mitigation techniques",
+        "D": "They limit the feasibility of simulations to short-time dynamics",
+        "Answer": "B",
+        "Source": "The constant-depth circuits enable Trotter error to be made negligibly small by allowing simulations to be broken into arbitrarily many time-steps."
+    },
+    "Question_7": {
+        "Context": "The paper mentions the use of matchgates in the constant-depth circuits for simulating specific Hamiltonians.",
+        "Question": "What is the special property of matchgates that allows for the reduction of circuit depth in the constant-depth circuits?",
+        "A": "They require additional qubits for implementation",
+        "B": "They can be executed on classical computers",
+        "C": "They belong to a special group of two-qubit gates",
+        "D": "They are approximate circuits",
+        "Answer": "C",
+        "Source": "The matchgates belong to a special group of two-qubit gates known as matchgates."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the ability to reduce growing depth circuits to constant-depth circuits for dynamic simulations of quantum materials.",
+        "Question": "What is the key feature of the matchgate mirroring identities used in downfolding circuits?",
+        "A": "They change the system size N",
+        "B": "They reduce the number of columns of matchgates in the circuit",
+        "C": "They increase the depth of the circuits",
+        "D": "They introduce additional gates",
+        "Answer": "B",
+        "Source": "Application of this identity will change the parameters defining each matchgate within the mirroring group, reducing the number of columns of matchgates in the circuit."
+    },
+    "Question_9": {
+        "Context": "The paper demonstrates the simulation results for quenches of the TFIM and XY model for various system sizes.",
+        "Question": "How does the number of CNOT gates in the constant-depth circuits compare to the growing depth circuits for the TFIM and XY model simulations?",
+        "A": "The number of CNOT gates is higher in constant-depth circuits",
+        "B": "The number of CNOT gates is lower in constant-depth circuits",
+        "C": "The number of CNOT gates is the same in both types of circuits",
+        "D": "The number of CNOT gates varies randomly",
+        "Answer": "C",
+        "Source": "Clearly the number of CNOT gates remains the same for all time-steps for our constant-depth circuits."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the potential applications of constant-depth circuits for dynamic simulations on quantum computers.",
+        "Question": "How can constant-depth circuits indirectly contribute to progressing dynamic simulations on near-term quantum computers?",
+        "A": "By requiring complex error mitigation techniques",
+        "B": "By limiting the number of time-steps that can be feasibly simulated",
+        "C": "By enabling preparation of non-trivial ground states through adiabatic state preparation",
+        "D": "By increasing the depth of circuits with increasing simulation time",
+        "Answer": "C",
+        "Source": "Our constant-depth circuits can enable preparation of non-trivial ground states of HCD models through adiabatic state preparation."
+    }
+}

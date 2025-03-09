@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of materials science, phase boundaries are critical in determining the properties of multi-phase materials.",
+        "Question": "What is the correct expression for the cosine of the angle theta in the context of phase boundaries?",
+        "A": "cos 2\u03b8 = \u03c3\u03b1\u03b3 / 2\u03c3\u03b1\u03b2",
+        "B": "cos \u03b8 = \u03c3\u03b1\u03b3 / 2\u03c3\u03b1\u03b2",
+        "C": "cos \u03b8 = 2\u03c3\u03b1\u03b3 / \u03c3\u03b1\u03b2",
+        "D": "cos 2\u03b8 = 2\u03c3\u03b1\u03b3 / \u03c3\u03b1\u03b2",
+        "Answer": "B",
+        "Source": "The equation in the original manuscript erroneously included a factor of 2 on theta and read: cos 2\u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 / 2\u03c3\u03b1\u03b2 \u00f01\u00de This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 / 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    },
+    "Question_2": {
+        "Context": "In materials science, the interfacial energy between phases is a critical parameter that influences the stability and morphology of phases.",
+        "Question": "Which term in the corrected equation represents the interfacial energy between the alpha and gamma phases?",
+        "A": "cos \u03b8",
+        "B": "\u03c3\u03b1\u03b3",
+        "C": "2\u03c3\u03b1\u03b2",
+        "D": "\u03b8",
+        "Answer": "B",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 / 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    },
+    "Question_3": {
+        "Context": "In the study of phase boundaries, the angle theta can be related to the balance of interfacial energies.",
+        "Question": "What does the corrected equation imply about the relationship between the angle theta and the interfacial energies?",
+        "A": "Theta is directly proportional to the interfacial energy between alpha and gamma phases.",
+        "B": "Theta is inversely proportional to the interfacial energy between alpha and gamma phases.",
+        "C": "Theta is directly proportional to the sum of interfacial energies between alpha and beta phases.",
+        "D": "Theta is determined by the ratio of interfacial energies between alpha and gamma phases and twice the interfacial energy between alpha and beta phases.",
+        "Answer": "D",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 / 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    },
+    "Question_4": {
+        "Context": "The interfacial energy plays a significant role in the formation of phases and their boundaries in materials.",
+        "Question": "What is the role of the factor '2' in the corrected equation for cos \u03b8?",
+        "A": "It doubles the angle theta.",
+        "B": "It represents the energy required to create two phase boundaries.",
+        "C": "It halves the interfacial energy between alpha and gamma phases.",
+        "D": "It is associated with the interfacial energy between alpha and beta phases.",
+        "Answer": "D",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 / 2\u03c3\u03b1\u03b2 \u00f01\u00de"
+    },
+    "Question_5": {
+        "Context": "The stability of multi-phase materials can be influenced by the relative values of interfacial energies.",
+        "Question": "If the interfacial energy \u03c3\u03b1\u03b3 is greater than 2\u03c3\u03b1\u03b2, what can be inferred about the angle theta?",
+        "A": "Theta will be an obtuse angle.",
+        "B": "Theta will be an acute angle.",
+        "C": "Theta will be a right angle.",
+        "D": "Theta will be zero degrees.",
+        "Answer": "A",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 / 2\u03c3\u03b1\u03b2 \u00f01\u00de. Since the cosine of an obtuse angle is negative, if \u03c3\u03b1\u03b3 is greater than 2\u03c3\u03b1\u03b2, the cosine of theta would be negative, indicating an obtuse angle."
+    },
+    "Question_6": {
+        "Context": "The corrected equation for cos \u03b8 involves the interfacial energies between different phases in a material.",
+        "Question": "What does a negative value of cos \u03b8 indicate in terms of the interfacial energies \u03c3\u03b1\u03b3 and 2\u03c3\u03b1\u03b2?",
+        "A": "\u03c3\u03b1\u03b3 is less than 2\u03c3\u03b1\u03b2",
+        "B": "\u03c3\u03b1\u03b3 is equal to 2\u03c3\u03b1\u03b2",
+        "C": "\u03c3\u03b1\u03b3 is greater than 2\u03c3\u03b1\u03b2",
+        "D": "\u03c3\u03b1\u03b3 is twice as large as 2\u03c3\u03b1\u03b2",
+        "Answer": "C",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 / 2\u03c3\u03b1\u03b2 \u00f01\u00de. A negative value of cos \u03b8 would result when \u03c3\u03b1\u03b3 is greater than 2\u03c3\u03b1\u03b2."
+    },
+    "Question_7": {
+        "Context": "The balance of interfacial energies is important for the stability and structure of phases within a material.",
+        "Question": "In the context of phase boundaries, what does the term 'third phase inclusions' refer to?",
+        "A": "A phase that is included at the boundary between two other distinct phases.",
+        "B": "The phase that has the highest interfacial energy.",
+        "C": "The phase that forms after the first two phases have reacted.",
+        "D": "A phase that is not present at the boundary but influences its properties.",
+        "Answer": "A",
+        "Source": "A novel model of third phase inclusions on two phase boundaries. The term 'third phase inclusions' refers to a phase that is included at the boundary between two other distinct phases."
+    },
+    "Question_8": {
+        "Context": "The interfacial energies between phases are denoted by specific symbols in equations that describe the relationships between these energies.",
+        "Question": "What does the symbol \u03c3\u03b1\u03b2 represent in the context of interfacial energies?",
+        "A": "The interfacial energy between alpha and beta phases.",
+        "B": "The interfacial energy between beta and gamma phases.",
+        "C": "The total interfacial energy of the material.",
+        "D": "The interfacial energy between alpha and gamma phases.",
+        "Answer": "A",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 / 2\u03c3\u03b1\u03b2 \u00f01\u00de. Here, \u03c3\u03b1\u03b2 represents the interfacial energy between alpha and beta phases."
+    },
+    "Question_9": {
+        "Context": "The cosine of an angle can provide information about the angle itself, such as whether it is acute, right, or obtuse.",
+        "Question": "What can be inferred about the angle theta if cos \u03b8 is equal to zero?",
+        "A": "Theta is an acute angle.",
+        "B": "Theta is a right angle.",
+        "C": "Theta is an obtuse angle.",
+        "D": "Theta is zero degrees.",
+        "Answer": "B",
+        "Source": "The cosine of a right angle is zero. Therefore, if cos \u03b8 is equal to zero, theta is a right angle."
+    },
+    "Question_10": {
+        "Context": "The interfacial energy between phases can influence the shape and distribution of phases within a material.",
+        "Question": "What is the significance of the ratio of \u03c3\u03b1\u03b3 to 2\u03c3\u03b1\u03b2 in determining the angle theta?",
+        "A": "It determines the exact value of theta.",
+        "B": "It indicates whether theta is an angle of symmetry.",
+        "C": "It influences the curvature of the phase boundary.",
+        "D": "It has no significance in determining theta.",
+        "Answer": "A",
+        "Source": "This equation should read as below: cos \u03b8 \u00f0 \u00de \u00bc \u03c3\u03b1\u03b3 / 2\u03c3\u03b1\u03b2 \u00f01\u00de. The ratio of \u03c3\u03b1\u03b3 to 2\u03c3\u03b1\u03b2 determines the exact value of theta."
+    }
+}

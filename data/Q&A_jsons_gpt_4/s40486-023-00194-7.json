@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Electrohydrodynamic (EHD) jet printing technology is a method that enables high-resolution printing of various materials for electronic applications. This technology uses an electric field to facilitate the generation of a Taylor cone of ink, which leads to the formation of high-resolution continuous jet lines or droplets on a substrate.",
+        "Question": "What is the role of the electric field in EHD jet printing technology?",
+        "A": "It heats the ink to facilitate printing.",
+        "B": "It generates a Taylor cone of ink for high-resolution printing.",
+        "C": "It reduces the viscosity of the ink.",
+        "D": "It magnetizes the substrate for ink adherence.",
+        "Answer": "B",
+        "Source": "The utilization of EHD jet printing technology facilitates high-resolution printing of flexible electronic devices. This is accomplished through the generation of a Taylor cone of ink, which is facilitated by the usage of an electric field between the nozzle\u2019s tip and the substrate."
+    },
+    "Question_2": {
+        "Context": "In the context of EHD jet printing, various functional materials such as metal materials, conducting polymers, and carbon-based materials are used to fabricate high-resolution flexible electronic devices.",
+        "Question": "Which of the following is NOT a functional material commonly used in EHD jet printing for electronic devices?",
+        "A": "Conducting polymers",
+        "B": "Carbon-based materials",
+        "C": "Metal materials",
+        "D": "Glass fibers",
+        "Answer": "D",
+        "Source": "Various functional materials (i.e. metal materials, conducting polymers, and carbon-based materials) have been used to fabricate high-resolution flexible electronic devices through the utilization of EHD jet printing technology."
+    },
+    "Question_3": {
+        "Context": "Nanomaterial composites have been frequently used for various engineering applications due to their superior properties. These composites significantly impact the print quality of functional inks on substrates and the overall operation of printed electronic devices.",
+        "Question": "What properties of nanomaterial composites impact the print quality and operation of printed electronic devices?",
+        "A": "Color and texture",
+        "B": "Smell and density",
+        "C": "Electrical and mechanical",
+        "D": "Physical and chemical",
+        "Answer": "D",
+        "Source": "The physical and chemical characteristics of nanomaterial composites have a significant impact on both the print quality of functional inks on substrates and the overall operation of printed electronic devices."
+    },
+    "Question_4": {
+        "Context": "EHD jet printing technology differs from conventional inkjet printers by enabling direct deposition of materials through specific modes of droplet generation, such as micro dripping, dripping, and cone jet.",
+        "Question": "Which mode of droplet generation is NOT associated with EHD jet printing technology?",
+        "A": "Micro dripping",
+        "B": "Dripping",
+        "C": "Cone jet",
+        "D": "Thermal jet",
+        "Answer": "D",
+        "Source": "The operation of EHD jet printing differs from conventional inkjet printers in that it enables direct deposition of materials through specific modes of droplet generation, such as micro dripping, dripping, and cone jet."
+    },
+    "Question_5": {
+        "Context": "The EHD jet printing process primarily relies on the formation of a Taylor-cone under the electric field effect. This approach enables the production of intricate nano/micrometer-sized designs that surpass the capabilities of regular inkjet printers.",
+        "Question": "What is the primary reliance of the EHD jet printing process for producing intricate designs?",
+        "A": "Formation of a Taylor-cone under the electric field effect",
+        "B": "Use of low-viscosity inks",
+        "C": "High-temperature substrate heating",
+        "D": "Magnetic alignment of particles",
+        "Answer": "A",
+        "Source": "The EHD jet printing process primarily relies on the formation of a Taylor-cone under the electric field effect, as depicted in Fig. 1c."
+    },
+    "Question_6": {
+        "Context": "In the context of EHD jet printing, insulating materials have received limited attention due to challenges in achieving uniform patterning and smooth surfaces. However, they have been used to create electronic devices like gate electrodes and thin film transistors (TFTs).",
+        "Question": "What is a challenge associated with EHD jet printing of insulating materials?",
+        "A": "Achieving uniform patterning and smooth surfaces",
+        "B": "Generating sufficient heat for material deposition",
+        "C": "Maintaining high ink viscosity",
+        "D": "Preventing electric discharge",
+        "Answer": "A",
+        "Source": "The investigation of EHD jet printing of insulating materials has received limited attention because of the inherent difficulties associated with achieving uniform patterning and smooth surfaces."
+    },
+    "Question_7": {
+        "Context": "EHD jet printing has been utilized to pattern high-resolution zinc\u2013tin oxide (ZTO) semiconductors for thin-film transistor (TFT) applications, demonstrating improved performance over other techniques.",
+        "Question": "Which semiconductor patterned by EHD jet printing has shown improved performance for TFT applications?",
+        "A": "Silicon",
+        "B": "Gallium arsenide",
+        "C": "Zinc\u2013tin oxide",
+        "D": "Indium phosphide",
+        "Answer": "C",
+        "Source": "EHD printing has been utilized to pattern high-resolution zinc\u2013tin oxide (ZTO) semiconductors for TFT applications."
+    },
+    "Question_8": {
+        "Context": "Conductive materials such as various metals, carbon-based materials, and conductive polymers have been explored for the printing process due to their conductive properties.",
+        "Question": "Which of the following is a conductive material used in the EHD jet printing process?",
+        "A": "Polyethylene",
+        "B": "Poly (3,4-ethylenedioxythiophene): polystyrene sulfonate (PEDOT: PSS)",
+        "C": "Polyvinyl chloride",
+        "D": "Polypropylene",
+        "Answer": "B",
+        "Source": "Furthermore, conductive polymers such as polyacrylic acid (PAA), polycaprolactone (PCL), and poly (3,4-ethylenedioxythiophene): polystyrene sulfonate (PEDOT: PSS) have also been investigated."
+    },
+    "Question_9": {
+        "Context": "EHD jet printing has been applied to print indium oxide (In2O3) structures to fabricate thin-film transistors (TFTs) on plastic substrates, showcasing excellent mobility and good electrical characteristics.",
+        "Question": "What is one of the outcomes of EHD jet printing indium oxide (In2O3) structures for TFT applications?",
+        "A": "Decreased electron mobility",
+        "B": "Poor electrical characteristics",
+        "C": "Excellent mobility",
+        "D": "High material brittleness",
+        "Answer": "C",
+        "Source": "In another study, EHD jet printing was applied to print indium oxide (In2O3) structures to fabricate TFTs with the improvement in device stability having good electrical characteristics."
+    },
+    "Question_10": {
+        "Context": "EHD jet printing technology has been used to deposit living cell suspensions onto surfaces, maintaining the integrity and functionality of the cells, which is crucial for biomedical applications.",
+        "Question": "What is a significant achievement of EHD jet printing technology in biomedical applications?",
+        "A": "Printing high-temperature resistant materials",
+        "B": "Depositing living cell suspensions without affecting cell structure and functions",
+        "C": "Creating waterproof coatings for medical devices",
+        "D": "Generating electrically insulating biofilms",
+        "Answer": "B",
+        "Source": "Kim et al. also studied the EHD jet printing technology to deposit living cell suspensions on surfaces without affecting the structure and functions of cells."
+    }
+}

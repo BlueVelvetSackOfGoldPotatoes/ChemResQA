@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Epoxy matrix composites can be filled with various particulates to enhance their mechanical properties. Graphite is one such filler that can be added to epoxy to improve its tribological properties.",
+        "Question": "What is the effect of adding graphite particulates to epoxy matrix composites on their tensile strength?",
+        "A": "Increases tensile strength",
+        "B": "Decreases tensile strength",
+        "C": "No effect on tensile strength",
+        "D": "Initially decreases then increases tensile strength",
+        "Answer": "B",
+        "Source": "The results revealed a significant decrease in the tensile strength of the composite, with a reduction of more than 50% observed at 1wt% graphite loading."
+    },
+    "Question_2": {
+        "Context": "In composite materials, the addition of fillers can affect the flexural strength. Graphite is a common filler used in epoxy matrix composites.",
+        "Question": "How does the addition of graphite filler at 0.1wt% loading affect the flexural strength of epoxy matrix composites?",
+        "A": "Causes a sharp decrease",
+        "B": "Causes a gradual decrease",
+        "C": "Causes a sharp increase",
+        "D": "Has no significant effect",
+        "Answer": "C",
+        "Source": "However, the flexural strength exhibited an initial sharp increase at 0.1wt% graphite loading, followed by a decline at higher graphite contents."
+    },
+    "Question_3": {
+        "Context": "The hardness of a composite material can be influenced by the addition of certain fillers. Graphite particles are known to be used as fillers in epoxy matrix composites.",
+        "Question": "What is the general trend in hardness when graphite content is increased in epoxy matrix composites?",
+        "A": "Hardness decreases",
+        "B": "Hardness increases",
+        "C": "Hardness remains unchanged",
+        "D": "Hardness initially increases then decreases",
+        "Answer": "B",
+        "Source": "Moreover, both impact and hardness values demonstrated improvement as the graphite content increased."
+    },
+    "Question_4": {
+        "Context": "The friction coefficient of a material is a measure of the resistance to sliding motion between two surfaces. The addition of graphite to epoxy matrix composites can modify this property.",
+        "Question": "What happens to the friction coefficient of epoxy matrix composites when graphite particles are added?",
+        "A": "It increases",
+        "B": "It decreases",
+        "C": "It remains the same",
+        "D": "It first increases then decreases",
+        "Answer": "B",
+        "Source": "The addition of graphite particles led to a reduction in the friction coefficient, attributed to the solid lubrication capabilities of graphite."
+    },
+    "Question_5": {
+        "Context": "Wear rate is an important factor in determining the durability of a material under frictional forces. Epoxy matrix composites can be modified with fillers like graphite to enhance their wear resistance.",
+        "Question": "How does the wear rate of epoxy matrix composites change with the addition of graphite particles?",
+        "A": "Increases sharply",
+        "B": "Decreases sharply",
+        "C": "Remains constant",
+        "D": "First decreases then increases",
+        "Answer": "B",
+        "Source": "Furthermore, the wear rate exhibited a sharp decrease with an increase in graphite content due to the formation of a lubrication layer at the contact surface, effectively reducing the break-off of the specimen."
+    },
+    "Question_6": {
+        "Context": "The mechanical properties of epoxy composites can be tailored by the addition of various fillers. Graphite particulates are one such filler that can be added to epoxy to modify its properties.",
+        "Question": "What is the impact of adding graphite particulates on the impact strength of epoxy matrix composites?",
+        "A": "Reduces impact strength",
+        "B": "Increases impact strength",
+        "C": "No change in impact strength",
+        "D": "First increases then decreases impact strength",
+        "Answer": "B",
+        "Source": "Moreover, both impact and hardness values demonstrated improvement as the graphite content increased."
+    },
+    "Question_7": {
+        "Context": "The tensile modulus of a composite material is a measure of its stiffness in response to tensile stress. Fillers like graphite can affect this property when added to epoxy matrix composites.",
+        "Question": "What effect does the addition of graphite have on the tensile modulus of epoxy matrix composites?",
+        "A": "Decreases the tensile modulus",
+        "B": "Increases the tensile modulus",
+        "C": "No effect on the tensile modulus",
+        "D": "First increases then decreases the tensile modulus",
+        "Answer": "B",
+        "Source": "The derived tensile properties are presented in Table 2. The results indicate that the addition of 0.1wt% graphite reduced the tensile properties of the neat epoxy by 32.7% (from 52.11 MPa to 35.05 MPa). This reduction is expected since graphite is a brittle material, and its incorporation into the epoxy matrix renders the epoxy more brittle."
+    },
+    "Question_8": {
+        "Context": "In composite materials, the strain at break is an indicator of the material's ductility and the ability to withstand deformation under tensile stress. The addition of fillers like graphite can influence this property.",
+        "Question": "How does the addition of graphite particles affect the strain at break in epoxy matrix composites?",
+        "A": "Increases the strain at break",
+        "B": "Decreases the strain at break",
+        "C": "No significant change",
+        "D": "First decreases then increases",
+        "Answer": "B",
+        "Source": "The strain at break for each specimen, as indicated in Table 2, demonstrates a significant decrease in elongation with the addition of graphite particles."
+    },
+    "Question_9": {
+        "Context": "The tribological performance of composites can be assessed by adhesive wear tests. The addition of fillers like graphite to epoxy matrix composites can influence their wear behavior.",
+        "Question": "What is the optimal graphite content range for minimal wear and friction in epoxy matrix composites?",
+        "A": "0-1wt%",
+        "B": "1-2wt%",
+        "C": "3-4wt%",
+        "D": "5-6wt%",
+        "Answer": "C",
+        "Source": "Alajmi et al. [17] explored the tribological characteristics of graphite epoxy composites in adhesive wear experiments. Composites with graphite content ranging from 0 to 7wt% were prepared and tested, and it was determined that the optimal graphite content for minimal wear and friction was between 3-4wt%."
+    },
+    "Question_10": {
+        "Context": "The mechanical properties of epoxy composites can be improved by the addition of fillers. The type of filler and its content significantly influence the composite's properties.",
+        "Question": "Which of the following fillers has been reported to significantly reduce processing costs when added to epoxy matrix composites?",
+        "A": "Silica",
+        "B": "TiO2",
+        "C": "Glass beads",
+        "D": "Fly ash",
+        "Answer": "D",
+        "Source": "Previous literature demonstrates that fillers such as nanoclay [2], silica [3], TiO2 [4], glass beads [5], and fly ash [6] have been utilized as fillers for epoxy matrix composites, resulting in improved stiffness, toughness, hardness, mould shrinkage, heat distortion temperature, wear rate, and fracture mechanisms. Some studies have also reported a significant reduction in processing costs [7]."
+    }
+}

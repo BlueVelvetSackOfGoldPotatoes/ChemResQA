@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of material science, understanding the behavior of materials under stress is crucial. When a material with cavities is subjected to external loads, stress concentration occurs around these cavities, which can significantly alter the stress-strain state of the material.",
+        "Question": "What is the term used to describe the accumulation of stress around cavities within a material when external loads are applied?",
+        "A": "Stress distribution",
+        "B": "Stress concentration",
+        "C": "Stress relaxation",
+        "D": "Stress uniformity",
+        "Answer": "B",
+        "Source": "When such bodies are exposed to loads, stresses are concentrated around cavities and distinct change in parameters of stress-strain state is observed."
+    },
+    "Question_2": {
+        "Context": "In the study of materials, the stress-strain state can be analyzed using various methods. One such method involves the use of fictitious forces to simulate the influence of cavities on the redistribution of internal forces.",
+        "Question": "Which method involves simulating the influence of cavities on the redistribution of internal forces by including fictitious forces in the solution?",
+        "A": "Finite element method",
+        "B": "Experimental analysis",
+        "C": "Analytical method",
+        "D": "Numerical analysis",
+        "Answer": "C",
+        "Source": "The method is based on the assumption that it is possible to simulate the influence of cavity on the redistribution of internal forces by including fictitious forces in the solution."
+    },
+    "Question_3": {
+        "Context": "The stress-strain state of a material can be determined by considering additional forces acting on the surface of cavities within the material. These forces are chosen based on certain stress-related values.",
+        "Question": "On what basis are the magnitudes of additional forces acting on cavity surfaces chosen?",
+        "A": "Magnitude of the external load",
+        "B": "Value of stress tensor flow through the examined surfaces limiting cavity volume",
+        "C": "Size of the cavities",
+        "D": "Material's elasticity coefficient",
+        "Answer": "B",
+        "Source": "To determine the stress-strain state, additional forces acting on cavity surface are used. The magnitude of these forces is chosen on the basis of the value of stress tensor flow through the examined surfaces limiting cavity volume."
+    },
+    "Question_4": {
+        "Context": "In the study of stress concentration, the analytical functions of the Kolosova-Muskhelishvili complex variable are utilized to solve problems related to plane elasticity theory.",
+        "Question": "What is the application of the Kolosova-Muskhelishvili complex variable functions in the context of stress concentration?",
+        "A": "To solve problems of spatial elasticity",
+        "B": "To calculate the Poisson ratio",
+        "C": "To solve problems of plane elasticity theory",
+        "D": "To determine the elasticity coefficient",
+        "Answer": "C",
+        "Source": "The analytical functions of the Kolosova-Muskhelishvili complex variable are used to solve problems of plane elasticity theory;"
+    },
+    "Question_5": {
+        "Context": "In the context of stress concentration around cavities, certain methods such as the method of integral equations are employed to solve spatial elasticity problems.",
+        "Question": "Which method is used to solve spatial elasticity problems and study the stress state of piecewise-connected and multiply connected bodies?",
+        "A": "Method of integral equations",
+        "B": "Finite element method",
+        "C": "Experimental method",
+        "D": "Numerical method",
+        "Answer": "A",
+        "Source": "Method of integral equations is also used to solve spatial elasticity problems; the study of stress state of piecewise-connected and multiply connected bodies and bodies with cuts is performed on the basis of this method."
+    },
+    "Question_6": {
+        "Context": "In the analysis of stress concentration, the Love function is sometimes used to solve axisymmetric problems. However, the use of the Love function in boundary conditions can lead to certain complexities.",
+        "Question": "What complexity arises when using the Love function in boundary conditions for given displacements?",
+        "A": "First derivatives of the Love function appear",
+        "B": "Second derivatives of the Love function appear",
+        "C": "Third derivatives of the Love function appear",
+        "D": "Fourth derivatives of the Love function appear",
+        "Answer": "B",
+        "Source": "Thus, when using the Love function in boundary conditions for the given displacements, second derivatives appear and with stresses given the third derivatives of the Love function."
+    },
+    "Question_7": {
+        "Context": "The equilibrium equation in the study of stress concentration around cavities in an elastic isotropic medium is a fundamental relationship that describes the balance of forces within the material.",
+        "Question": "What is the equilibrium equation for an elastic isotropic medium as described in the context of stress concentration?",
+        "A": "grad div u + (1-2\u03bd)\u0394u = 0",
+        "B": "\u0394\u0394u = 0",
+        "C": "\u03c3ij = E/(1+\u03bd)(\u03b5ij - (1/3)\u03b4ij\u03b5ll)",
+        "D": "\u03b5ij = (1/2)(\u2202ui/\u2202xj + \u2202uj/\u2202xi)",
+        "Answer": "A",
+        "Source": "According to (Landau and Lifshitz 1986), the equation of equilibrium is the following: grad div u + (1-2\u03bd)\u0394u = 0"
+    },
+    "Question_8": {
+        "Context": "In the study of stress concentration, the displacement vector in an elastic isotropic medium under equilibrium is described by a specific equation that satisfies a well-known mathematical condition.",
+        "Question": "What mathematical condition does the displacement vector satisfy in an elastic isotropic medium under equilibrium?",
+        "A": "The displacement vector satisfies the harmonic equation",
+        "B": "The displacement vector satisfies the biharmonic equation",
+        "C": "The displacement vector satisfies the trigonometric equation",
+        "D": "The displacement vector satisfies the polynomial equation",
+        "Answer": "B",
+        "Source": "Applying the Laplace operator \u0394 to the equation, we obtain \u0394\u0394u = 0 that means in equilibrium the displacement vector satisfies the biharmonic equation."
+    },
+    "Question_9": {
+        "Context": "In the context of stress concentration, the components of the stress tensor are crucial for understanding the stress distribution in the vicinity of cavities within a material.",
+        "Question": "Which components of the stress tensor are constructed to compare with the finite element method in the study of stress concentration around cavities?",
+        "A": "Components of the strain tensor",
+        "B": "Components of the displacement vector",
+        "C": "Components of the stress tensor",
+        "D": "Components of the force vector",
+        "Answer": "C",
+        "Source": "The obtained results are comprehensively compared with the solution of a similar problem by the finite element method. Distributions of the stress tensor components in the vicinity of these cavities are constructed."
+    },
+    "Question_10": {
+        "Context": "In the study of stress concentration, the use of Green's tensor is important for expressing the displacement vector in terms of forces applied to an elastic isotropic half-space.",
+        "Question": "What role does Green's tensor play in the expression of the displacement vector in an elastic isotropic half-space?",
+        "A": "It represents the elasticity coefficient",
+        "B": "It represents the Poisson ratio",
+        "C": "It is used to express the displacement vector in terms of applied forces",
+        "D": "It is used to calculate the strain tensor components",
+        "Answer": "C",
+        "Source": "It can also be written in a compact form and using Green\u2019s tensor: ui = Gik(x1, x2, x3)Fk where Gik is Green\u2019s tensor for equilibrium equations of an infinite elastic half-space."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on improving in vivo stability and tumor uptake of a GRPR-targeted agonist tracer through unnatural amino acid substitutions.",
+        "Question": "What was identified as a preferable modification for improving in vivo stability and tumor uptake of the GRPR-targeted agonist tracer?",
+        "A": "Tle10 substitution",
+        "B": "NMe-Gly11 substitution",
+        "C": "2-Me-Trp8 substitution",
+        "D": "\u03b1Me-Trp8 substitution",
+        "Answer": "A",
+        "Source": "Out of 25 unnatural amino acid substitutions, tert-Leu10 (Tle10) and NMe-His12 substitutions were identified to be preferable modifications especially in combination."
+    },
+    "Question_2": {
+        "Context": "The study involved conducting in vitro competition binding assays to measure the inhibition constants (Ki) of GRPR-targeted ligands to GRPR.",
+        "Question": "Which substitution led to a derivative with enhanced binding affinity in the in vitro competition binding assays?",
+        "A": "NMe-Gly11 substitution",
+        "B": "\u03b1Me-Trp8 substitution",
+        "C": "Tle10 substitution",
+        "D": "His7 substitution",
+        "Answer": "C",
+        "Source": "Tle10 substitution improves binding affinity (LW01080: 3.56 \u00b1 0.72 nM) while NMe-His12 (LW01088: 9.00 \u00b1 1.99 nM), 2-Me-Trp8 (LW02009: 11.5 \u00b1 1.71 nM), 7-F-Trp8 (LW01177: 9.38 \u00b1 1.68 nM) and 5-Me-Trp8 (LW01182: 10.5 \u00b1 1.86 nM) substitutions lead to analogs with comparable binding affinities."
+    },
+    "Question_3": {
+        "Context": "The study confirmed the agonist characteristics of GRPR-targeted ligands through calcium release assays.",
+        "Question": "Which substitution led to a derivative that induced Ca2+ efflux comparable to the positive control ATP?",
+        "A": "Ga-LW01107",
+        "B": "Ga-LW01108",
+        "C": "Ga-LW01110",
+        "D": "Ga-LW01142",
+        "Answer": "A",
+        "Source": "Ga-LW01107 induced Ca2+ efflux corresponding to 1,004 \u00b1 32.0 relative fluorescence units (RFUs), which is comparable to the positive control ATP."
+    },
+    "Question_4": {
+        "Context": "The study evaluated the capability of 68Ga-labeled TacBOMB2 derivatives to target GRPR in vivo through PET imaging and biodistribution studies.",
+        "Question": "Which tracer showed the highest tumor uptake in the PET imaging and biodistribution studies?",
+        "A": "[68Ga]Ga-LW01110",
+        "B": "[68Ga]Ga-LW01142",
+        "C": "[68Ga]Ga-LW01108",
+        "D": "[68Ga]Ga-LW02021",
+        "Answer": "A",
+        "Source": "[68Ga]Ga-LW01110 showed the highest tumor uptake (16.6 \u00b1 1.60 %ID/g) among the evaluated tracers."
+    },
+    "Question_5": {
+        "Context": "The study included LogD7.4 measurements to assess the hydrophilicity of the 68Ga-labeled tracers.",
+        "Question": "Which tracer had the most hydrophilic nature based on the LogD7.4 values?",
+        "A": "[68Ga]Ga-LW01142",
+        "B": "[68Ga]Ga-LW01108",
+        "C": "[68Ga]Ga-LW01110",
+        "D": "[68Ga]Ga-LW02021",
+        "Answer": "A",
+        "Source": "[68Ga]Ga-LW01142 had a LogD7.4 value of -1.81, indicating a relatively higher hydrophilicity compared to the other tracers."
+    },
+    "Question_6": {
+        "Context": "The study conducted in vivo stability studies to evaluate the intact fraction of the tracers in mouse plasma.",
+        "Question": "Which substitution led to a tracer with the highest intact fraction in mouse plasma at 15 minutes post-injection?",
+        "A": "[68Ga]Ga-LW01108",
+        "B": "[68Ga]Ga-LW01107",
+        "C": "[68Ga]Ga-LW01110",
+        "D": "[68Ga]Ga-LW01142",
+        "Answer": "C",
+        "Source": "Combination of both Tle10 and NMe-His12 substitutions led to [68Ga]Ga-LW01110 with an intact fraction of \u2265 89% in mouse plasma at 15 minutes post-injection."
+    },
+    "Question_7": {
+        "Context": "The study compared the tumor uptake of the tracers in ex vivo biodistribution studies.",
+        "Question": "Which tracer had the lowest uptake in the pancreas at 1 hour post-injection?",
+        "A": "[68Ga]Ga-LW01107",
+        "B": "[68Ga]Ga-LW01108",
+        "C": "[68Ga]Ga-LW01110",
+        "D": "[68Ga]Ga-LW01142",
+        "Answer": "A",
+        "Source": "[68Ga]Ga-LW01107 showed the lowest uptake in the pancreas (0.39 \u00b1 0.03 %ID/g) among the evaluated tracers at 1 hour post-injection."
+    },
+    "Question_8": {
+        "Context": "The study compared the tumor-to-organ uptake ratios of the tracers in ex vivo biodistribution studies.",
+        "Question": "Which tracer had the highest tumor-to-pancreas uptake ratio?",
+        "A": "[68Ga]Ga-LW01108",
+        "B": "[68Ga]Ga-LW01107",
+        "C": "[68Ga]Ga-LW01110",
+        "D": "[68Ga]Ga-LW01142",
+        "Answer": "B",
+        "Source": "[68Ga]Ga-LW01107 showed the highest tumor-to-pancreas uptake ratio (17.9 \u00b1 1.10) among the evaluated tracers."
+    },
+    "Question_9": {
+        "Context": "The study evaluated the potential of the stabilized tracers for prostate cancer imaging.",
+        "Question": "Which tracer had the best tumor-to-organ uptake ratios for tumor-to-bone, tumor-to-muscle, tumor-to-blood, tumor-to-kidney, and tumor-to-pancreas at 1 hour post-injection?",
+        "A": "[68Ga]Ga-LW01110",
+        "B": "[68Ga]Ga-LW01142",
+        "C": "[68Ga]Ga-LW01108",
+        "D": "[68Ga]Ga-LW02040",
+        "Answer": "A",
+        "Source": "[68Ga]Ga-LW01110 had the best tumor-to-organ uptake ratios (134 \u00b1 16.7, 119 \u00b1 22.6, 24.7 \u00b1 4.17, 5.10 \u00b1 0.39, and 7.36 \u00b1 1.17 for tumor-to-bone, tumor-to-muscle, tumor-to-blood, tumor-to-kidney, and tumor-to-pancreas, respectively) at 1 hour post-injection."
+    },
+    "Question_10": {
+        "Context": "The study conducted blocking studies to assess the impact of co-injection with a blocking agent on tumor uptake.",
+        "Question": "Which tracer had its tumor uptake reduced by 44% upon co-injection with a blocking agent?",
+        "A": "[68Ga]Ga-LW01110",
+        "B": "[68Ga]Ga-LW01142",
+        "C": "[68Ga]Ga-LW01108",
+        "D": "[68Ga]Ga-LW02021",
+        "Answer": "A",
+        "Source": "Co-injection of [D-Phe6,Leu-NHEt13,des-Met14]Bombesin(6\u201314) reduced the average tumor uptake of [68Ga]Ga-LW01110 by 44%."
+    }
+}

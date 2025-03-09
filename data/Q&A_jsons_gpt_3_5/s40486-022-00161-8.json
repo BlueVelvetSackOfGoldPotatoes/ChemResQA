@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on investigating the effects of the design of microfluidic channels inside a microfluidic flexible interconnection cable on fluid velocity at the outlet.",
+        "Question": "What was the most basic structure of the microfluidic channels proposed in the study?",
+        "A": "Narrow and long passage",
+        "B": "Wide and short passage",
+        "C": "Curved and circular passage",
+        "D": "Square-shaped passage",
+        "Answer": "A",
+        "Source": "The most basic structure of microfluidic channels is a narrow and long passage for a fluid to flow."
+    },
+    "Question_2": {
+        "Context": "The study simulated fluid flow in microfluidic channels with different designs. The simulation results indicated that the smaller outlet and larger inner structures tended to reduce the flow rate.",
+        "Question": "What effect did larger inner structures have on the flow rate in the microfluidic channels?",
+        "A": "Increased flow rate",
+        "B": "Decreased flow rate",
+        "C": "No effect on flow rate",
+        "D": "Increased volume of fluid",
+        "Answer": "B",
+        "Source": "The smaller outlet and larger inner structures tended to reduce the flow rate."
+    },
+    "Question_3": {
+        "Context": "The study mentioned that the fabricated microfluidic flexible interconnection cable had a zigzag channel design and an outlet radius of 0.1 mm.",
+        "Question": "What was the radius of the crater-shaped structures in the fabricated microfluidic flexible interconnection cable?",
+        "A": "0.02 mm",
+        "B": "0.1 mm",
+        "C": "0.15 mm",
+        "D": "0.18 mm",
+        "Answer": "B",
+        "Source": "The fabricated \u03bcFIC is shown with the outlet and crater of 0.1 mm radius and the crater-shaped structures with a radius of 0.1 mm."
+    },
+    "Question_4": {
+        "Context": "The study discussed the fabrication process of the microfluidic flexible interconnection cable based on parylene-C material.",
+        "Question": "Which material was used as a sacrificial layer in the fabrication of the microfluidic flexible interconnection cable?",
+        "A": "Gold (Au)",
+        "B": "Titanium (Ti)",
+        "C": "Chromium (Cr)",
+        "D": "Parylene-C",
+        "Answer": "B",
+        "Source": "Ti as a sacrificial layer in a thickness of 200 nm and the first parylene-C layer in a thickness of 3 \u00b5m were sequentially deposited on the substrate."
+    },
+    "Question_5": {
+        "Context": "The study mentioned that the microfluidic channels were fabricated using a specific technique involving sputtering, photolithography, deposition, and dry etching.",
+        "Question": "Which technique was used for the fabrication of the microfluidic channels?",
+        "A": "Electroplating",
+        "B": "Laser cutting",
+        "C": "3D printing",
+        "D": "MEMS techniques",
+        "Answer": "D",
+        "Source": "MEMS techniques including sputtering, photolithography, deposition, and dry etching were used for fabrication."
+    },
+    "Question_6": {
+        "Context": "The study discussed the simulation of the microfluidic flexible interconnection cable with different channel designs using COMSOL Multiphysics\u00ae.",
+        "Question": "What was the working fluid assumed to be in the simulations?",
+        "A": "Air",
+        "B": "Water",
+        "C": "Oil",
+        "D": "Mercury",
+        "Answer": "B",
+        "Source": "The working fluid was assumed to be water for simplified simulations."
+    },
+    "Question_7": {
+        "Context": "The study mentioned that the microfluidic channels were fabricated based on parylene-C, a biocompatible and highly flexible material.",
+        "Question": "What was the thickness of the first parylene-C layer deposited on the substrate during fabrication?",
+        "A": "200 nm",
+        "B": "3 \u00b5m",
+        "C": "25 nm",
+        "D": "6 \u00b5m",
+        "Answer": "B",
+        "Source": "The first parylene-C layer in a thickness of 3 \u00b5m was deposited on the substrate."
+    },
+    "Question_8": {
+        "Context": "The study discussed the fabrication of the microfluidic flexible interconnection cable and the formation of crater-shaped structures.",
+        "Question": "What was used to open the electrode pads, the inlet, and the outlet of the microfluidic channel during fabrication?",
+        "A": "Oxygen plasma etching",
+        "B": "Chemical etching",
+        "C": "Ultrasonic drilling",
+        "D": "Laser ablation",
+        "Answer": "A",
+        "Source": "The electrode pads, the inlet, and the outlet of the microfluidic channel were opened by oxygen plasma etching."
+    },
+    "Question_9": {
+        "Context": "The study discussed the simulation results of flow rate at the outlet in different microfluidic channel designs.",
+        "Question": "What was the average flow rate in the plain channel design according to the simulation results?",
+        "A": "8.40 \u00b5L/min",
+        "B": "0.54 \u00b5L/min",
+        "C": "0.74 \u00b5L/min",
+        "D": "111.44 mm/s",
+        "Answer": "A",
+        "Source": "The average flow rates in the plain channel, the inline channel, and the zigzag channel were 8.40 \u00b5L/min, 0.54 \u00b5L/min, and 0.74 \u00b5L/min, respectively."
+    },
+    "Question_10": {
+        "Context": "The study concluded by discussing the final design of the microfluidic channel and the fabrication of the microfluidic flexible interconnection cable.",
+        "Question": "What was the primary purpose of drug delivery through the microfluidic flexible interconnection cable according to the study?",
+        "A": "To enhance electrical conductivity",
+        "B": "To improve mechanical strength",
+        "C": "To reduce immune responses",
+        "D": "To increase fluid volume",
+        "Answer": "C",
+        "Source": "Based on the result of this study, anti-inflammatory drugs are expected to be delivered effectively, and as a result, drug delivery by microfluidic flexible interconnection cable would contribute to extending the lifespan of implantable neural interfaces."
+    }
+}

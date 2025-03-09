@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Hydrogels are polymeric materials that can absorb significant amounts of water. They are used in various applications including agriculture to retain moisture in soil.",
+        "Question": "What is the primary function of hydrogels in agricultural applications?",
+        "A": "To increase soil erosion",
+        "B": "To retain moisture in the soil",
+        "C": "To decrease soil fertility",
+        "D": "To act as a soil pesticide",
+        "Answer": "B",
+        "Source": "Hydrogels are used in agriculture to increase the porosity of the soil by holding large amounts of water for a prolonged period of time, which reduces the need of irrigation, lower the erosion of soil and thus increase the fertility of soil."
+    },
+    "Question_2": {
+        "Context": "In polymer chemistry, cross-linking refers to the process of joining two or more polymer chains together. This can affect the solubility and other properties of the resulting material.",
+        "Question": "What is the effect of cross-linking on the solubility of polymers?",
+        "A": "It makes the polymer completely soluble in water",
+        "B": "It has no effect on the polymer's solubility",
+        "C": "It makes the polymer less soluble or insoluble in solvents",
+        "D": "It turns the polymer into a liquid",
+        "Answer": "C",
+        "Source": "The cross-linkage makes the grafting insoluble in a solvent owing to electrostatic interaction and the hydrogen bonding strengthens the polymer."
+    },
+    "Question_3": {
+        "Context": "Biodegradation is a process where materials are broken down by microorganisms into simpler substances. This process is important for the environmental disposal of materials.",
+        "Question": "What is the significance of biodegradation for hydrogels used in agriculture?",
+        "A": "It increases the toxicity of the hydrogel",
+        "B": "It prevents the hydrogel from absorbing water",
+        "C": "It ensures the hydrogel does not harm the environment after use",
+        "D": "It transforms the hydrogel into a potent fertilizer",
+        "Answer": "C",
+        "Source": "Biodegradation behavior of synthesized hydrogel [Av-cl-poly(AA)] was studied by soil burial, composting and vermicomposting methods. Maximum biodegradation was found to be 90%, 94% and 93% in case of soil burial, composting and vermicomposting methods, respectively."
+    },
+    "Question_4": {
+        "Context": "The swelling capacity of a hydrogel is a measure of how much water it can absorb and retain. This property is crucial for applications such as soil moisture retention.",
+        "Question": "What does a higher percentage of swelling indicate about a hydrogel's properties?",
+        "A": "It is less effective at retaining water",
+        "B": "It is more brittle and likely to break",
+        "C": "It can absorb and retain more water",
+        "D": "It has a lower capacity for water absorption",
+        "Answer": "C",
+        "Source": "Maximum percentage swelling of synthesized hydrogel was found to be 756%."
+    },
+    "Question_5": {
+        "Context": "Controlled release of agrochemicals is a method to deliver pesticides and fertilizers over time, which can reduce the environmental impact and improve efficiency.",
+        "Question": "Why is controlled release of agrochemicals beneficial in agriculture?",
+        "A": "It increases the immediate effectiveness of pesticides",
+        "B": "It reduces the frequency of agrochemical application",
+        "C": "It leads to a higher concentration of chemicals in the soil",
+        "D": "It promotes the rapid degradation of agrochemicals",
+        "Answer": "B",
+        "Source": "Hydrogel helps in controlled release of agrochemicals, which is very necessary for achieving their impactive usage and also reduces the pollution."
+    },
+    "Question_6": {
+        "Context": "The process of grafting involves attaching a polymer or monomer onto the backbone of another polymer, which can modify the properties of the original polymer.",
+        "Question": "What is the purpose of grafting in polymer chemistry?",
+        "A": "To weaken the structural integrity of the polymer",
+        "B": "To reduce the molecular weight of the polymer",
+        "C": "To enhance the original properties or add new properties to the polymer",
+        "D": "To make the polymer soluble in all solvents",
+        "Answer": "C",
+        "Source": "In this synthesis, ammonium persulfate\u2013glutaraldehyde was used as initiator-cross-linker system, acrylic acid as monomer and aloe vera as backbone. Grafting was confirmed by different techniques like SEM, FT-IR, XRD and EDS."
+    },
+    "Question_7": {
+        "Context": "Soil porosity refers to the fraction of the volume of voids over the total volume of the soil. This property is important for water retention and root penetration.",
+        "Question": "How does the use of hydrogels in soil affect its porosity?",
+        "A": "It decreases the porosity making the soil more compact",
+        "B": "It has no impact on the soil's porosity",
+        "C": "It increases the porosity by holding large amounts of water",
+        "D": "It makes the soil impermeable to water and air",
+        "Answer": "C",
+        "Source": "Hydrogels are used in agriculture to increase the porosity of the soil by holding large amounts of water for a prolonged period of time, which reduces the need of irrigation, lower the erosion of soil and thus increase the fertility of soil."
+    },
+    "Question_8": {
+        "Context": "The botanical name of a plant is a formal scientific name conforming to the International Code of Nomenclature for algae, fungi, and plants (ICN).",
+        "Question": "What is the botanical name of aloe vera?",
+        "A": "Aloe barbadensis",
+        "B": "Aloe indica",
+        "C": "Aloe cactus",
+        "D": "Aloe succulent",
+        "Answer": "A",
+        "Source": "The botanical name of aloe vera is Aloe barbadensis. It is a perennial succulent plant belonging to the liliaceae family."
+    },
+    "Question_9": {
+        "Context": "Dichlorvos is an organophosphate pesticide known for its use in agriculture. However, its toxicity is a concern due to its potential health effects.",
+        "Question": "What is the reason for the toxicity of dichlorvos?",
+        "A": "It causes over-fertilization of crops",
+        "B": "It leads to soil acidification",
+        "C": "It inhibits acetylcholinesterase at the cholinergic junction of the nervous system",
+        "D": "It increases the pH level of the soil",
+        "Answer": "C",
+        "Source": "Dichlorvos is predominantly used as a pesticide. It is an organophosphate type and long-term exposure of this pesticide causes lots of health issues such as genotoxic, neurological, renal, respiratory, immunological, hepatic, dermal, systemic effects and even leads to death. This is carcinogenic. The reason for its toxicity is due to its capability to hinder acetylcholinesterase at the cholinergic junction of the nervous system."
+    },
+    "Question_10": {
+        "Context": "The water retention capacity of soil is a critical factor for plant growth. It determines how long soil can retain moisture after irrigation or rainfall.",
+        "Question": "What effect does the addition of hydrogel have on the water retention capacity of soil?",
+        "A": "It significantly decreases the water retention capacity",
+        "B": "It has a negligible effect on water retention",
+        "C": "It prolongs the water retention capacity",
+        "D": "It immediately dries out the soil",
+        "Answer": "C",
+        "Source": "Water retention capacity was prolonged from 11 to 20 days using synthesized Av-cl-poly(AA). Water content of clay soil and sandy loam soil was increased to an extent of 6.1% and 5.79%, respectively."
+    }
+}

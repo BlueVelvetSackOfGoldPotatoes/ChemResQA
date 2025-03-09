@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Extracellular vesicles (EVs) are nano-sized vesicles derived from cells that transport biomaterials between cells through biofluids. Due to their biological role and components, they are considered as potential drug carriers and for diagnostic applications.",
+        "Question": "Which technique is suitable for analyzing the mechanical properties and shape of membranes of extracellular vesicles?",
+        "A": "Atomic force microscopy",
+        "B": "Transmission electron microscopy",
+        "C": "Resistive pulse sensing",
+        "D": "Scanning electron microscopy",
+        "Answer": "A",
+        "Source": "AFM is a type of scanning probe microscopy. Among non-optical analysis methods, AFM is preferred for the analysis of non-conductive bioparticles, along with TEM."
+    },
+    "Question_2": {
+        "Context": "EVs are classified into exosomes, microvesicles, and apoptotic bodies according to their size and cellular origin.",
+        "Question": "Which technique is most suitable for observing the interior of extracellular vesicles at high resolution?",
+        "A": "Scanning electron microscopy",
+        "B": "Resistive pulse sensing",
+        "C": "Transmission electron microscopy",
+        "D": "Atomic force microscopy",
+        "Answer": "C",
+        "Source": "TEM can observe the interior of EV at high resolution using a broad electron beam."
+    },
+    "Question_3": {
+        "Context": "Various methods are employed to isolate EVs from culture media to study their relevance to biological roles.",
+        "Question": "Which technique is capable of analyzing the concentration, size, and subpopulations of biomarkers through selective fluorescence labeling?",
+        "A": "Nano-flow cytometry",
+        "B": "Atomic force microscopy",
+        "C": "Resistive pulse sensing",
+        "D": "Scanning electron microscopy",
+        "Answer": "A",
+        "Source": "NTA is a versatile technique capable of analyzing the concentration, size, and subpopulations of biomarkers through selective fluorescence labeling."
+    },
+    "Question_4": {
+        "Context": "Understanding the characteristics of single EVs enables more advanced pathological and biological researches.",
+        "Question": "Which technique is used to detect electrical changes caused by non-conducting biomolecules in aqueous solutions passing through electrodes?",
+        "A": "Atomic force microscopy",
+        "B": "Resistive pulse sensing",
+        "C": "Transmission electron microscopy",
+        "D": "Scanning electron microscopy",
+        "Answer": "B",
+        "Source": "RPS detects electrical changes caused by non-conducting biomolecules in aqueous solutions passing through electrodes."
+    },
+    "Question_5": {
+        "Context": "Single EV analysis reveals the heterogeneity of EVs, which could not be discovered by various ensemble analysis methods.",
+        "Question": "Which technique is suitable for analyzing the physical and biochemical properties of EVs at the single particle level using light signals?",
+        "A": "Transmission electron microscopy",
+        "B": "Dark-field microscopy",
+        "C": "Nano-flow cytometry",
+        "D": "Total internal reflection fluorescence microscopy",
+        "Answer": "D",
+        "Source": "Optical analysis represents the technique of acquiring information using light. Using fluorescence, information such as the size and location of EVs can be obtained through the selective signal of single EVs with sizes below the diffraction limit."
+    },
+    "Question_6": {
+        "Context": "EVs are composed of phospholipids, cholesterol, fatty acids, and membrane proteins.",
+        "Question": "Which technique is used to measure the zeta potential of single EVs by detecting the scattered light signals of single EVs and the migration of particles?",
+        "A": "Atomic force microscopy",
+        "B": "Resistive pulse sensing",
+        "C": "Transmission electron microscopy",
+        "D": "Dark-field microscopy",
+        "Answer": "B",
+        "Source": "RPS detects electrical changes caused by non-conducting biomolecules in aqueous solutions passing through electrodes."
+    },
+    "Question_7": {
+        "Context": "Due to their biological properties, EVs have been considered as potential drug carriers and for diagnostic applications.",
+        "Question": "Which technique is suitable for observing EVs without labeling them and can acquire scattered signals with a resolution of 30 to 40 nm?",
+        "A": "Scanning electron microscopy",
+        "B": "Atomic force microscopy",
+        "C": "Transmission electron microscopy",
+        "D": "Dark-field microscopy",
+        "Answer": "D",
+        "Source": "DF microscopy is combined with TIRF to acquire the scattered signal with a resolution of 30 to 40 nm."
+    },
+    "Question_8": {
+        "Context": "Various methods are employed to isolate EVs from culture media to study their relevance to biological roles.",
+        "Question": "Which technique is capable of analyzing the concentration, size, and subpopulations of biomarkers through selective fluorescence labeling?",
+        "A": "Nano-flow cytometry",
+        "B": "Atomic force microscopy",
+        "C": "Resistive pulse sensing",
+        "D": "Scanning electron microscopy",
+        "Answer": "A",
+        "Source": "NTA is a versatile technique capable of analyzing the concentration, size, and subpopulations of biomarkers through selective fluorescence labeling."
+    },
+    "Question_9": {
+        "Context": "EVs are nano-sized vesicles derived from cells that transport biomaterials between cells through biofluids.",
+        "Question": "Which technique is used to analyze the concentration, size, and subpopulations of biomarkers through selective fluorescence labeling?",
+        "A": "Nano-flow cytometry",
+        "B": "Atomic force microscopy",
+        "C": "Resistive pulse sensing",
+        "D": "Scanning electron microscopy",
+        "Answer": "A",
+        "Source": "NTA is a versatile technique capable of analyzing the concentration, size, and subpopulations of biomarkers through selective fluorescence labeling."
+    },
+    "Question_10": {
+        "Context": "Understanding the characteristics of single EVs enables more advanced pathological and biological researches.",
+        "Question": "Which technique is used to detect electrical changes caused by non-conducting biomolecules in aqueous solutions passing through electrodes?",
+        "A": "Atomic force microscopy",
+        "B": "Resistive pulse sensing",
+        "C": "Transmission electron microscopy",
+        "D": "Scanning electron microscopy",
+        "Answer": "B",
+        "Source": "RPS detects electrical changes caused by non-conducting biomolecules in aqueous solutions passing through electrodes."
+    }
+}

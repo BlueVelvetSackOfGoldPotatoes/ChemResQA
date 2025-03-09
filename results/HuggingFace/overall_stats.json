@@ -1,0 +1,74 @@
+{
+    "question-answering": [
+        {
+            "model_name": "valhalla/bart-large-finetuned-squadv1",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 4590
+        },
+        {
+            "model_name": "distilbert/distilbert-base-uncased-distilled-squad",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 4590
+        },
+        {
+            "model_name": "deepset/minilm-uncased-squad2",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 4590
+        },
+        {
+            "model_name": "deepset/tinyroberta-squad2",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 4590
+        }
+    ],
+    "zero-shot-classification": [
+        {
+            "model_name": "facebook/bart-large-mnli",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 4590
+        },
+        {
+            "model_name": "cross-encoder/nli-roberta-base",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 4590
+        },
+        {
+            "model_name": "cointegrated/rubert-base-cased-nli-threeway",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 4590
+        },
+        {
+            "model_name": "cross-encoder/nli-deberta-base",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 4590
+        },
+        {
+            "model_name": "cross-encoder/nli-distilroberta-base",
+            "correct": 0,
+            "wrong": 0,
+            "unparsable": 4590
+        }
+    ],
+    "text-generation": [
+        {
+            "model_name": "openai-community/gpt2",
+            "correct": 85,
+            "wrong": 349,
+            "unparsable": 4156
+        },
+        {
+            "model_name": "distilbert/distilgpt2",
+            "correct": 70,
+            "wrong": 336,
+            "unparsable": 4184
+        }
+    ]
+}

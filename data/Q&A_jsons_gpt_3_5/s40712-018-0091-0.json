@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on measuring the ductility of high-carbon steel wires less than 0.296 mm in diameter using capstan-type grippers and tensile testing. The validity of using capstan-type grippers was discussed.",
+        "Question": "What method was used to fasten the high-carbon steel wires for tensile testing?",
+        "A": "Extensometer",
+        "B": "Capstan-type grippers",
+        "C": "Non-contact extensometer",
+        "D": "Load cell",
+        "Answer": "B",
+        "Source": "Capstan-type grippers are conventionally recommended for gripping non-metal fibers but can be applied to a fine metal wire even though the tensile strength of these fine wires is 6.3\u20137.0 GPa and is much greater than the strength of non-metal fibers."
+    },
+    "Question_2": {
+        "Context": "The study aimed to establish a reliable method for measuring the ductility of fine metal wires. It discussed the conditions verified during the experiment.",
+        "Question": "What was the maximum error observed in the calculation of uniform elongation?",
+        "A": "0.21%",
+        "B": "1.9%",
+        "C": "0.37%",
+        "D": "0.14%",
+        "Answer": "A",
+        "Source": "The maximum error of uniform elongation was 0.21%."
+    },
+    "Question_3": {
+        "Context": "The study investigated the accuracy of calculating elongation using stroke increment and the stroke at 0 N.",
+        "Question": "How was the stroke at 0 N calculated?",
+        "A": "By an extensometer",
+        "B": "Using the slope of the stroke increment and the testing force curve",
+        "C": "By the initial load",
+        "D": "By a load cell",
+        "Answer": "B",
+        "Source": "The stroke at 0 N testing force can be extrapolated using the slope of the stroke increment and the testing force curve."
+    },
+    "Question_4": {
+        "Context": "The study discussed the relationship between chuck distance and uniform elongation for different wire diameters.",
+        "Question": "What was the difference in uniform elongation caused by chuck distance?",
+        "A": "Confirmed",
+        "B": "Not confirmed",
+        "C": "Negligible",
+        "D": "Significant",
+        "Answer": "C",
+        "Source": "The difference in uniform elongation caused by chuck distance was not confirmed."
+    },
+    "Question_5": {
+        "Context": "The study focused on calculating the reduction of area using SEM images of fractured pieces.",
+        "Question": "How was the reduction of area calculated?",
+        "A": "By the diameter before tensile testing",
+        "B": "By the diameter at the most constricted point",
+        "C": "By the uniform elongation",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Reduction of area can be calculated using the radius of the wire at a uniform deformation portion, the radius at the most constricted point, and the uniform elongation."
+    },
+    "Question_6": {
+        "Context": "The study verified the accuracy of the reduction of area calculation method using SEM images of fractured pieces.",
+        "Question": "What was the measurement error observed in the reduction of area calculation?",
+        "A": "0.21%",
+        "B": "1.9%",
+        "C": "4.4%",
+        "D": "0.37%",
+        "Answer": "B",
+        "Source": "The measurement error of reduction of area was 1.9%."
+    },
+    "Question_7": {
+        "Context": "The study discussed the application of the measurement method to other metal wires under 1 mm in diameter.",
+        "Question": "What was the highest tensile strength among the metal wires discussed in the study?",
+        "A": "High-carbon steel wires",
+        "B": "Stainless steel wires",
+        "C": "Copper wires",
+        "D": "Aluminum wires",
+        "Answer": "A",
+        "Source": "Since high-carbon steel wires have the highest tensile strength among metal wires..."
+    },
+    "Question_8": {
+        "Context": "The study concluded by presenting the developed methods for measuring elongation and reduction of area.",
+        "Question": "What was the maximum error observed in the measurement of reduction of area?",
+        "A": "0.21%",
+        "B": "1.9%",
+        "C": "4.4%",
+        "D": "0.37%",
+        "Answer": "B",
+        "Source": "The measurement error was at most 1.9%."
+    },
+    "Question_9": {
+        "Context": "The study discussed the conditions verified during the experiment, especially for wires less than 0.1 mm.",
+        "Question": "What was the validity that was demonstrated regarding the stroke increment?",
+        "A": "Validity of using extensometer",
+        "B": "Validity of using load cell",
+        "C": "Validity of regarding the stroke increment as the extension of the wire",
+        "D": "Validity of using non-contact extensometer",
+        "Answer": "C",
+        "Source": "Furthermore, the validity of regarding the stroke increment as the extension was demonstrated."
+    },
+    "Question_10": {
+        "Context": "The study verified the conditions for applying the measurement method to other metal wires under 1 mm in diameter.",
+        "Question": "What was the second point that needed to be confirmed for each too fine or fragile wire?",
+        "A": "Whether the wire can be fastened by grippers under an initial load",
+        "B": "Whether testing forces can be increased with an increasing stroke increment",
+        "C": "Whether the wire can be elongated uniformly",
+        "D": "Whether the wire can sustain large tensile loads",
+        "Answer": "B",
+        "Source": "The second is whether testing forces can be increased with an increasing stroke increment while a cross-head is elevated without slippage."
+    }
+}

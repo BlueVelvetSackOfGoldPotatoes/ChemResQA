@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "A continuum model of ion-induced surface patterning takes into account various atomic processes such as sputtering, re-deposition, and surface diffusion.",
+        "Question": "Which atomic process is not considered in the continuum model of ion-induced surface patterning?",
+        "A": "Sputtering",
+        "B": "Re-deposition",
+        "C": "Surface diffusion",
+        "D": "Electron capture",
+        "Answer": "D",
+        "Source": "The model incorporates the atomic processes of sputtering, re-deposition and surface diffusion, and is shown to display the generic features of the damped Kuramoto-Sivashinsky (KS) equation of non-linear dynamics."
+    },
+    "Question_2": {
+        "Context": "The stability and symmetry of evolving surface patterns can be analyzed analytically.",
+        "Question": "What is the primary objective of analyzing the stability and symmetry of evolving surface patterns?",
+        "A": "To determine the color of the patterns",
+        "B": "To determine the pattern wavelength and spatial symmetry",
+        "C": "To identify the chemical composition of the surface",
+        "D": "To measure the electrical conductivity of the surface",
+        "Answer": "B",
+        "Source": "First, we examine the stability and symmetry of evolving surface patterns with an analytical procedure. Second, we develop numerical solutions for the evolution of surface patterns that are consistent with the developed analytical method."
+    },
+    "Question_3": {
+        "Context": "Ion sputtering can lead to the formation of periodic surface patterns, and the nature of these patterns can depend on various factors.",
+        "Question": "Which factor is not known to affect the nature of periodic surface patterns formed by ion sputtering?",
+        "A": "Ion energy",
+        "B": "Ion flux",
+        "C": "Angle of incidence",
+        "D": "Color of the incident ion beam",
+        "Answer": "D",
+        "Source": "The nature of these patterns, including their wavelength, amplitude, and orientation depends on many factors (e.g. ion energy, flux, angle of incidence, substrate temperature, and material properties)."
+    },
+    "Question_4": {
+        "Context": "Surface roughness and patterns at the nanoscale can be a result of the erosion of surface material by ion sputtering.",
+        "Question": "What is the result of ion sputtering on surface material?",
+        "A": "Decreased surface roughness",
+        "B": "Formation of surface roughness and patterns",
+        "C": "Unchanged surface properties",
+        "D": "Increased transparency of the surface",
+        "Answer": "B",
+        "Source": "The erosion of surface material by ion sputtering is a fundamental process, which leads to the formation of surface roughness and patterns at the nanoscale."
+    },
+    "Question_5": {
+        "Context": "The bombardment of solid surfaces with energetic ions initiates near surface collision cascades and the ejection of surface atoms.",
+        "Question": "What is initiated by the bombardment of solid surfaces with energetic ions?",
+        "A": "Magnetic field generation",
+        "B": "Thermal insulation",
+        "C": "Near surface collision cascades and ejection of surface atoms",
+        "D": "Increased surface adhesion",
+        "Answer": "C",
+        "Source": "The bombardment of solid surfaces with energetic ions initiates near surface collision cascades and the ejection of surface atoms."
+    },
+    "Question_6": {
+        "Context": "The orientation of ripple structures on ion-bombarded surfaces can depend on the angle of ion beam incidence.",
+        "Question": "How does the angle of ion beam incidence affect the orientation of ripple structures on ion-bombarded surfaces?",
+        "A": "Ripple structures are oriented perpendicular to the ion beam at normal incidence",
+        "B": "Ripple structures are oriented parallel to the ion beam at normal incidence",
+        "C": "Ripple structures are always random, regardless of the incidence angle",
+        "D": "Ripple structures are always circular, regardless of the incidence angle",
+        "Answer": "A",
+        "Source": "The observed morphology was the formation of ripple structures oriented perpendicular to the ion beam for incidence angles close to normal (\u03b8 = 0), and parallel to the ion beam for incidence angles close to grazing."
+    },
+    "Question_7": {
+        "Context": "The surface morphology of ion-bombarded silver was studied and it was found that temperature influences the surface morphology.",
+        "Question": "What effect does temperature have on the surface morphology of ion-bombarded silver?",
+        "A": "No effect, the surface remains smooth at all temperatures",
+        "B": "At low temperatures, a rough surface is produced",
+        "C": "At high temperatures, the surface becomes magnetic",
+        "D": "At high temperatures, the surface becomes less conductive",
+        "Answer": "B",
+        "Source": "The results of their work showed that ion bombardment at low temperatures (160K) resulted in a rough surface, but as the temperature was raised to 290 K and above, a ripple structure began to appear."
+    },
+    "Question_8": {
+        "Context": "Anisotropic surface diffusion is a phenomenon that can influence the orientation of surface structures.",
+        "Question": "What is the effect of anisotropic surface diffusion on the orientation of surface structures?",
+        "A": "It causes structures to orient randomly",
+        "B": "It has no effect on the orientation",
+        "C": "It causes structures to orient along an easy pathway for diffusion",
+        "D": "It causes structures to orient perpendicular to the easy pathway for diffusion",
+        "Answer": "C",
+        "Source": "Therefore, at higher temperatures where anisotropic surface diffusion is enhanced, the ripple structures have a quicker path to organize in that orientation."
+    },
+    "Question_9": {
+        "Context": "The continuum theory of surface erosion due to energetic particle sputtering has evolved over time with contributions from various authors.",
+        "Question": "Who provided the early ideas that formed the basis for the continuum theory of surface erosion due to energetic particle sputtering?",
+        "A": "Bradley and Harper",
+        "B": "Makeev et al.",
+        "C": "Sigmund",
+        "D": "Matthes et al.",
+        "Answer": "C",
+        "Source": "The early ideas of Sigmund provided the basis for Bradley and Harper to develop a continuum equation for surface evolution, from which the wavelength of the emerging pattern can be determined."
+    },
+    "Question_10": {
+        "Context": "In the study of ion-induced surface patterning, a numerical method is developed to describe the evolution of surface patterns.",
+        "Question": "What is the purpose of developing a numerical method in the study of ion-induced surface patterning?",
+        "A": "To predict the electrical properties of the surface",
+        "B": "To describe the evolution of surface patterns",
+        "C": "To calculate the thermal conductivity of the surface",
+        "D": "To determine the chemical composition of the surface",
+        "Answer": "B",
+        "Source": "We then develop a numerical method to describe the evolution of surface patterns, where the competition between erosion, re-deposition, and surface diffusion is considered."
+    }
+}

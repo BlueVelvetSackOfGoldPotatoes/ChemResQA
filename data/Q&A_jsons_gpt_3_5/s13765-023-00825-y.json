@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the treatment of food waste in South Korea.",
+        "Question": "What is the main method favored for food waste treatment in South Korea?",
+        "A": "Landfilling",
+        "B": "Feeding",
+        "C": "Composting",
+        "D": "Incineration",
+        "Answer": "C",
+        "Source": "Traditional treatment methods for food waste include landfilling, feeding, and composting."
+    },
+    "Question_2": {
+        "Context": "The paper mentions a specific disease outbreak that affected pig farms in South Korea.",
+        "Question": "What disease outbreak led to the cessation of wet feed production in pig farms in 2019?",
+        "A": "Foot-and-mouth disease",
+        "B": "African swine fever",
+        "C": "Avian influenza",
+        "D": "Swine flu",
+        "Answer": "B",
+        "Source": "Regarding the management of food waste in South Korea, wet feed produced from food waste was stopped from being distributed to pig farms in 2019 when ASF viral infections of unknown routes were confirmed in pig farms."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the generation of food waste leachate in South Korea.",
+        "Question": "What is the main concern associated with the handling of food waste leachate?",
+        "A": "High salt content",
+        "B": "Bad odor emission",
+        "C": "High organic matter content",
+        "D": "Low water content",
+        "Answer": "B",
+        "Source": "FWLs emit a bad odor and have high organic matter content, which requires a separate treatment."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the treatment facilities for food waste leachate in South Korea.",
+        "Question": "Which type of facility is primarily involved in treating food waste leachate?",
+        "A": "Landfill",
+        "B": "Composting facility",
+        "C": "Biogas production facility",
+        "D": "Incineration plant",
+        "Answer": "C",
+        "Source": "Biogas production facilities treated raw materials, that is, food wastes that were not pretreated (solid-liquid separation) and simultaneously treated FWLs discharged from other recycling facilities."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the long-term treatment method for food waste in South Korea.",
+        "Question": "What is the preferred long-term treatment method for food waste in South Korea?",
+        "A": "Landfilling",
+        "B": "Incineration",
+        "C": "Composting",
+        "D": "Anaerobic digestion (biogas production)",
+        "Answer": "D",
+        "Source": "Considering the characteristics, fundamental environment, and economic benefits of food waste, anaerobic digestion (biogas production) was the preferred option."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the impact of food waste treatment methods on greenhouse gas emissions.",
+        "Question": "Which food waste treatment method is expected to have a greater greenhouse gas emission-reduction effect compared to composting?",
+        "A": "Landfilling",
+        "B": "Feeding",
+        "C": "Incineration",
+        "D": "Anaerobic digestion (biogas production)",
+        "Answer": "D",
+        "Source": "The greenhouse gas reduction impact of converting food waste into biogas was compared to composting. The calculation considered only the greenhouse gases CH4 and N2O in the emission calculation formula, while excluding CO2, which is naturally generated, in both biogasification and composting processes."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the production of renewable energy from food waste in South Korea.",
+        "Question": "How many households can benefit from the additional heat generated during biogas production if approximately 1000 tons of food waste leachate is treated daily?",
+        "A": "10,000 households",
+        "B": "20,000 households",
+        "C": "28,389 households",
+        "D": "30,000 households",
+        "Answer": "C",
+        "Source": "The additionally generated heat during biogas production is equal to the amount of heat that can be used by approximately 28,389 households at the same time in Korea."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the transition towards anaerobic digestion for food waste management in South Korea.",
+        "Question": "What is the main goal of transitioning towards anaerobic digestion for food waste management in South Korea?",
+        "A": "Increase greenhouse gas emissions",
+        "B": "Reduce economic efficiency",
+        "C": "Promote renewable energy production",
+        "D": "Encourage landfilling",
+        "Answer": "C",
+        "Source": "Consequently, greenhouse gas emissions will be reduced, economic efficiency will be improved, and the production of biogas, a renewable energy source, will be increased."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the impact of food waste treatment methods on energy consumption.",
+        "Question": "Which treatment method is associated with higher energy consumption due to the use of fossil fuels for removing high water content in food waste?",
+        "A": "Composting",
+        "B": "Incineration",
+        "C": "Landfilling",
+        "D": "Anaerobic digestion (biogas production)",
+        "Answer": "B",
+        "Source": "The results of the field survey of dry feed facilities revealed that processes for reducing energy use with fossil fuels are required to reduce the water content in food waste."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the expected effects of increasing food waste leachate supply for biogas production in South Korea.",
+        "Question": "What is the expected increase in biogas production if the food waste leachate supply is increased by approximately 1000 tons daily?",
+        "A": "63,600 Nm3/d",
+        "B": "50,000 Nm3/d",
+        "C": "80,000 Nm3/d",
+        "D": "100,000 Nm3/d",
+        "Answer": "A",
+        "Source": "According to the abovementioned results, if approximately 1000 tons of FWL treatment shortage is divided and treated at the sewage co-digestion facilities dispersed in each region, the additional biogas production is estimated to be approximately 63,600 Nm3/d."
+    }
+}

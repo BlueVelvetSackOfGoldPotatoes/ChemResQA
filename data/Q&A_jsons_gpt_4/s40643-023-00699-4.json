@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Anaerobically treated slaughterhouse effluent contains high levels of nutrients and organic matter, which can lead to eutrophication if released into the environment without proper treatment.",
+        "Question": "What is the primary environmental concern associated with the discharge of nutrient-rich slaughterhouse effluent into water bodies?",
+        "A": "Air pollution",
+        "B": "Soil degradation",
+        "C": "Eutrophication",
+        "D": "Desertification",
+        "Answer": "C",
+        "Source": "Anaerobically treated slaughterhouse effluent is rich in nutrients, organic matter, and cause eutrophication if discharged to the environment without proper further treatment."
+    },
+    "Question_2": {
+        "Context": "In the context of wastewater treatment, tertiary treatment is often necessary to remove specific pollutants such as phosphorus and nitrogen.",
+        "Question": "At which stage of wastewater treatment are phosphorus and nitrogen primarily removed in agro-processing industry wastewaters?",
+        "A": "Primary treatment",
+        "B": "Secondary treatment",
+        "C": "Tertiary treatment",
+        "D": "Quaternary treatment",
+        "Answer": "C",
+        "Source": "Moreover, phosphorus and nitrogen in agro-processing industry wastewaters are mainly removed in the tertiary treatment phase."
+    },
+    "Question_3": {
+        "Context": "Microalgae biomass production can be an effective method for treating wastewater, as microalgae can utilize the nutrients for growth.",
+        "Question": "Which of the following microalgae species are known for their pollutant removal efficiency and biomass production when treating wastewater?",
+        "A": "Chlorella and Scenedesmus",
+        "B": "Euglena and Volvox",
+        "C": "Spirogyra and Ulothrix",
+        "D": "Diatoms and Cyanobacteria",
+        "Answer": "A",
+        "Source": "The objective of this study is to evaluate the pollutant removal efficiency of Chlorella and Scenedesmus species as well as their co-culture treating two-phase anaerobic digester effluent through microalgae biomass production."
+    },
+    "Question_4": {
+        "Context": "Photobioreactors are controlled environments that are used to cultivate microorganisms such as microalgae.",
+        "Question": "What are the dimensions of a typical rectangular photobioreactor used for microalgae cultivation in wastewater treatment?",
+        "A": "10 cm in height, 15 cm in width, 25 cm in length",
+        "B": "15 cm in height, 20 cm in width, 30 cm in length",
+        "C": "20 cm in height, 25 cm in width, 35 cm in length",
+        "D": "25 cm in height, 30 cm in width, 40 cm in length",
+        "Answer": "B",
+        "Source": "The dimensions of the rectangular photobioreactor used to conduct the experiment are 15 cm in height, 20 cm in width, and 30 cm in length."
+    },
+    "Question_5": {
+        "Context": "Chemical oxygen demand (COD) is a measure of the amount of oxygen required to oxidize soluble and particulate organic matter in water.",
+        "Question": "What range of removal efficiencies for chemical oxygen demand (COD) was attained by Chlorella species in the treatment of wastewater?",
+        "A": "76.74\u201383.11%",
+        "B": "86.74\u201393.11%",
+        "C": "91.49\u201392.91%",
+        "D": "97.94\u201399.46%",
+        "Answer": "B",
+        "Source": "Removal efficiencies between 86.74\u201393.11%, 96.74\u201397.47%, 91.49\u201392.91%, 97.94\u201399.46%, 89.22\u201394.28%, and 91.08\u201395.31% were attained for chemical oxygen demand, total nitrogen, nitrate, ammonium, total phosphorous, and orthophosphate by Chlorella species, Scenedesmus species, and their co-culture, respectively."
+    },
+    "Question_6": {
+        "Context": "Ammonium is a form of nitrogen commonly found in wastewater and can be removed through biological treatment processes.",
+        "Question": "Which form of nitrogen did Chlorella species show the highest removal efficiency for in wastewater treatment?",
+        "A": "Total nitrogen",
+        "B": "Nitrate",
+        "C": "Ammonium",
+        "D": "Orthophosphate",
+        "Answer": "C",
+        "Source": "Removal efficiencies between 86.74\u201393.11%, 96.74\u201397.47%, 91.49\u201392.91%, 97.94\u201399.46%, 89.22\u201394.28%, and 91.08\u201395.31% were attained for chemical oxygen demand, total nitrogen, nitrate, ammonium, total phosphorous, and orthophosphate by Chlorella species, Scenedesmus species, and their co-culture, respectively."
+    },
+    "Question_7": {
+        "Context": "Total phosphorous in wastewater can lead to eutrophication if not properly treated before discharge into the environment.",
+        "Question": "What was the removal efficiency range for total phosphorous achieved by Scenedesmus species in wastewater treatment?",
+        "A": "76.74\u201383.11%",
+        "B": "86.74\u201393.11%",
+        "C": "89.22\u201394.28%",
+        "D": "97.94\u201399.46%",
+        "Answer": "C",
+        "Source": "Removal efficiencies between 86.74\u201393.11%, 96.74\u201397.47%, 91.49\u201392.91%, 97.94\u201399.46%, 89.22\u201394.28%, and 91.08\u201395.31% were attained for chemical oxygen demand, total nitrogen, nitrate, ammonium, total phosphorous, and orthophosphate by Chlorella species, Scenedesmus species, and their co-culture, respectively."
+    },
+    "Question_8": {
+        "Context": "Biomass productivity is an important measure in the cultivation of microalgae, as it indicates the amount of biomass produced per unit of time and volume.",
+        "Question": "What was the range of average biomass productivity for Scenedesmus species when used for wastewater treatment?",
+        "A": "0.08 \u00b1 0.02 g/L*day",
+        "B": "0.18 \u00b1 0.1 g/L*day",
+        "C": "0.21 \u00b1 0.12 g/L*day",
+        "D": "0.23 \u00b1 0.13 g/L*day",
+        "Answer": "C",
+        "Source": "The average biomass productivity and biomass yield of Chlorella species, Scenedesmus species, and their co-culture were 1.4 \u00b1 0.1, 1.17 \u00b1 0.12, 1.5 \u00b1 0.13 g/L, and 0.18, 0.21, and 0.23 g/L*day, respectively."
+    },
+    "Question_9": {
+        "Context": "The co-culture of different microalgae species can lead to synergistic effects that enhance biomass production and nutrient removal efficiency.",
+        "Question": "What is the benefit of using a co-culture of Chlorella and Scenedesmus species in wastewater treatment?",
+        "A": "Decreased biomass production",
+        "B": "Increased biomass production",
+        "C": "Increased production of inorganic waste",
+        "D": "Decreased nutrient removal efficiency",
+        "Answer": "B",
+        "Source": "The average biomass productivity and biomass yield of Chlorella species, Scenedesmus species, and their co-culture were 1.4 \u00b1 0.1, 1.17 \u00b1 0.12, 1.5 \u00b1 0.13 g/L, and 0.18, 0.21, and 0.23 g/L*day, respectively."
+    },
+    "Question_10": {
+        "Context": "Eutrophication is a process driven by the enrichment of water bodies with nutrients, leading to excessive growth of plants and algae.",
+        "Question": "What is a primary consequence of eutrophication in aquatic environments?",
+        "A": "Increased water clarity",
+        "B": "Decreased oxygen levels",
+        "C": "Reduced water temperature",
+        "D": "Enhanced aquatic biodiversity",
+        "Answer": "B",
+        "Source": "The continuous discharge causes nutrient accumulation in water bodies such as the sea, lake, and river, which in turn results in rapidly growing nutrients plants on the surface of the water (algal bloom). The algal bloom blocks sunlight from the waterbed plant life. Because of the dead algal blooms, oxygen is reduced in the water, and microorganisms, which use up any remaining oxygen within the water, break down the dead plant matter. Finally, all animal life dies due to the lack of oxygen in the water environment."
+    }
+}

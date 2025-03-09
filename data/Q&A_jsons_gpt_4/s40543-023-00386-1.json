@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Heavy metal ions can be toxic and pose threats to ecological balance and human health due to their non-biodegradable and poisonous characteristics.",
+        "Question": "What characteristic of heavy metal ions makes them particularly hazardous to ecological balance and human health?",
+        "A": "They are biodegradable",
+        "B": "They are non-biodegradable",
+        "C": "They are essential nutrients",
+        "D": "They are found in trace amounts",
+        "Answer": "B",
+        "Source": "Heavy metal ions pose a threat to both ecological balance and human health owing to the non-biodegradable and poisonous characteristics."
+    },
+    "Question_2": {
+        "Context": "The coordination chemistry of metal ions with organic molecules can be utilized for the detection of specific ions in aqueous solutions.",
+        "Question": "Which functional group of 4-mercaptobenzoic acid coordinates with Cr3+ ions in aqueous solution?",
+        "A": "-OH",
+        "B": "-NH2",
+        "C": "-COOH",
+        "D": "-SH",
+        "Answer": "C",
+        "Source": "4-MBA-Au@Ag NPs could effectively coordinate with the low-concentration Cr3+ ions with the group of -COOH, generating the obviously colorimetric reaction."
+    },
+    "Question_3": {
+        "Context": "The pH of a solution can affect the chemical reactions taking place, particularly those involving ionizable functional groups.",
+        "Question": "What is the optimal pH value for the colorimetric detection of Cr3+ ions using 4-MBA-Au@Ag NPs?",
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "9",
+        "Answer": "D",
+        "Source": "To detection system, the optimal concentration of 4-MBA and pH was 5 \u03bcM and 9, respectively."
+    },
+    "Question_4": {
+        "Context": "In colorimetric assays, the detection limit is the lowest quantity of a substance that can be distinguished from the absence of that substance.",
+        "Question": "What is the colorimetric detection limit for Cr3+ ions using the 4-MBA-Au@Ag NPs detection system?",
+        "A": "5 \u03bcM",
+        "B": "9 \u03bcM",
+        "C": "10 \u03bcM",
+        "D": "50 \u03bcM",
+        "Answer": "C",
+        "Source": "with UV\u2013Vis and colorimetric detection limits determined as 9 \u03bcM and 10 \u03bcM, respectively."
+    },
+    "Question_5": {
+        "Context": "The stability and uniform distribution of nanoparticles are crucial for their use in sensing applications.",
+        "Question": "Why are Au@Ag nanoparticles preferred over Ag nanoparticles for constructing a colorimetric detection system?",
+        "A": "Higher cost",
+        "B": "Lower stability",
+        "C": "More uniform and well-distributed",
+        "D": "Less sensitive to light",
+        "Answer": "C",
+        "Source": "The Au@Ag NPs were more stable for synthesis and storage, more uniform and well-distributed compared with the Ag nanoparticles."
+    },
+    "Question_6": {
+        "Context": "The specificity of a probe in a detection system is crucial for distinguishing the target analyte from other substances.",
+        "Question": "What makes the 4-MBA-Au@Ag NPs system selective for Cr3+ ions detection?",
+        "A": "The size of the nanoparticles",
+        "B": "The color change upon reaction",
+        "C": "The coordination between Cr3+ ions and the -COOH group of 4-MBA",
+        "D": "The use of UV\u2013Vis spectrometry",
+        "Answer": "C",
+        "Source": "The specificity of probe was evaluated by determining another eight relevant metal ions, namely Hg2+, Cu2+, Cd2+, Zn2+, Cr2+, Ni2+, Co2+, and As2+."
+    },
+    "Question_7": {
+        "Context": "The recovery rate in an analytical method indicates the accuracy of the method when applied to real samples.",
+        "Question": "What is the estimated recovery range for the colorimetric detection of Cr3+ ions using the 4-MBA-Au@Ag NPs system?",
+        "A": "50.0 to 75.0%",
+        "B": "88.2 to 112.1%",
+        "C": "0 to 50%",
+        "D": "75.1 to 87.9%",
+        "Answer": "B",
+        "Source": "The recovery of the system was estimated to be from 88.2 to 112.1%, which was satisfactory for practical analysis of samples."
+    },
+    "Question_8": {
+        "Context": "The presence of heavy metals in drinking water is regulated due to their potential health risks.",
+        "Question": "According to the Environment Protection Agency (EPA) guidelines, what is the maximum allowable concentration of Cr3+ ions in drinking water?",
+        "A": "9 \u03bcg L\u22121",
+        "B": "10 \u03bcg L\u22121",
+        "C": "50 \u03bcg L\u22121",
+        "D": "500 \u03bcg L\u22121",
+        "Answer": "C",
+        "Source": "According to the Environment Protection Agency (EPA) guidelines, Cr3+ concentrations must not exceed 50 \u00b5g L\u22121 in drinking water."
+    },
+    "Question_9": {
+        "Context": "The detection of metal ions in aqueous systems is important for controlling water quality and preventing pollution.",
+        "Question": "Why is it important to monitor metal ions in aqueous systems?",
+        "A": "To enhance the taste of drinking water",
+        "B": "To control water environment and prevent pollution",
+        "C": "To increase the nutrient content in water",
+        "D": "To facilitate the growth of aquatic plants",
+        "Answer": "B",
+        "Source": "Therefore, the effective monitoring for the metal ions in aqueous systems should be used to control water environment."
+    },
+    "Question_10": {
+        "Context": "The coordination between organic molecules and metal ions can lead to color changes that are useful for detection purposes.",
+        "Question": "What causes the colorimetric reaction in the detection of Cr3+ ions using 4-MBA-Au@Ag NPs?",
+        "A": "The reduction of Cr3+ ions",
+        "B": "The oxidation of 4-MBA",
+        "C": "The aggregation of 4-MBA-Au@Ag NPs due to coordination",
+        "D": "The evaporation of the solvent",
+        "Answer": "C",
+        "Source": "This would induce the aggregation of 4-MBA-Au@Ag NPs, which lead to the change of UV\u2013Vis spectrometer and colorimetric reaction."
+    }
+}

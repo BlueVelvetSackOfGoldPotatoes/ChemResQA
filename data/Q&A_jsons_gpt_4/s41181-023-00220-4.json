@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Radium-223 is an alpha-emitter used in nuclear medicine for treating bone metastases from castration-resistant prostate cancer. It accumulates in regions of high bone turnover when injected as a chloride salt.",
+        "Question": "What is the primary medical application of radium-223 (223Ra) in nuclear medicine?",
+        "A": "Imaging of brain tumors",
+        "B": "Palliative treatment of bone metastases from castration-resistant prostate cancer",
+        "C": "Treatment of hyperthyroidism",
+        "D": "Imaging of cardiac diseases",
+        "Answer": "B",
+        "Source": "The alpha-emitter radium-223 (223Ra) is presently used in nuclear medicine for the palliative treatment of bone metastases from castration-resistant prostate cancer."
+    },
+    "Question_2": {
+        "Context": "Alpha particles are helium-4 nuclei that have a high ionization potential and can cause irreversible cell damage through double-strain breaks in DNA.",
+        "Question": "What type of damage do alpha particles primarily induce in cancer cells?",
+        "A": "Single-strand breaks in RNA",
+        "B": "Double-strand breaks in DNA",
+        "C": "Mitochondrial damage",
+        "D": "Membrane disruption",
+        "Answer": "B",
+        "Source": "In particular, \u03b1-particles are able to efficiently trigger non-repairable DNA wreckage through double-strain breaks, thus inducing cell death."
+    },
+    "Question_3": {
+        "Context": "Targeted Alpha Therapy (TAT) involves the selective delivery of alpha-particle emitting radionuclides to destroy malignant cells while sparing healthy tissue.",
+        "Question": "What is the main goal of Targeted Alpha Therapy (TAT) in cancer treatment?",
+        "A": "To enhance the oxygen concentration in tumors",
+        "B": "To increase the dose rate of radiation",
+        "C": "To selectively deliver alpha-particle emitting radionuclides to tumors",
+        "D": "To stimulate the immune response against cancer cells",
+        "Answer": "C",
+        "Source": "TAT lies in the selective delivery of a suitable \u03b1-particle emitting radionuclide to primary tumors or metastases in order to destroy the malignant cells while sparing the surrounding healthy sites."
+    },
+    "Question_4": {
+        "Context": "The cytotoxicity of alpha particles is independent of oxygen concentration and dose rate, providing advantages in treating hypoxic regions of malignancies.",
+        "Question": "Why are alpha particles particularly advantageous for treating malignancies with hypoxic regions?",
+        "A": "They stimulate angiogenesis",
+        "B": "They are independent of oxygen concentration",
+        "C": "They have a low ionization potential",
+        "D": "They require a high dose rate",
+        "Answer": "B",
+        "Source": "Moreover, being the cytotoxicity of \u03b1-particles independent of oxygen concentration and dose rate, they provide advantages in the treatment of malignancies featuring hypoxic regions."
+    },
+    "Question_5": {
+        "Context": "Bifunctional chelators (BFCs) are used to trap and retain radiometals in vivo by covalently attaching them to biological vectors targeting cancer biomarkers.",
+        "Question": "What is the role of bifunctional chelators in the development of radiopharmaceuticals for cancer treatment?",
+        "A": "To enhance the metabolic stability of radiopharmaceuticals",
+        "B": "To increase the half-life of radiometals",
+        "C": "To reduce the immunogenicity of radiopharmaceuticals",
+        "D": "To trap and retain radiometals in vivo",
+        "Answer": "D",
+        "Source": "a bifunctional chelator (BFC), covalently attached to the biological vector, is then employed to trap and retain the radiometal in vivo."
+    },
+    "Question_6": {
+        "Context": "The recoil energy released from alpha-emitting radionuclides can be higher than the energy of chemical bonds, potentially leading to the cleavage of the structure encapsulating the radiometal.",
+        "Question": "Why is it important to consider the recoil energy of alpha-emitting radionuclides in the design of radiopharmaceuticals?",
+        "A": "To ensure the radiopharmaceutical is visible under MRI",
+        "B": "To prevent the cleavage of the structure encapsulating the radiometal",
+        "C": "To increase the solubility of the radiopharmaceutical",
+        "D": "To enhance the targeting specificity to cancer cells",
+        "Answer": "B",
+        "Source": "The structure encapsulating the radiometal can thus be cleaved upon \u03b1-decay, and the newly formed daughter (radio) nuclides can be released."
+    },
+    "Question_7": {
+        "Context": "Radium-223 and radium-224 are alpha-emitters with suitable half-lives for alpha-particle therapy and decay exclusively via alpha-emission to radon isotopes.",
+        "Question": "What is a characteristic feature of radium-223 and radium-224 that makes them suitable for alpha-particle therapy?",
+        "A": "They have very short half-lives",
+        "B": "They decay exclusively via beta-emission",
+        "C": "They decay exclusively via alpha-emission to radon isotopes",
+        "D": "They are stable isotopes of radium",
+        "Answer": "C",
+        "Source": "radium-223 (223Ra, t1/2 = 11.4 d) and radium-224 (224Ra, t1/2 = 3.6 d) decay exclusively via \u03b1-emission to radon-219 (219Rn, t1/2 = 4.0 s) and radon-220 (220Rn, t1/2 = 55.6 s), respectively, and have suitable half-lives for \u03b1-particle therapy."
+    },
+    "Question_8": {
+        "Context": "Radium-223 is obtained from the decay of thorium-227, which is produced from actinium-227 in generators.",
+        "Question": "How is radium-223 typically obtained for medical applications?",
+        "A": "Through direct extraction from uranium ores",
+        "B": "By neutron irradiation of radium-226",
+        "C": "From the decay of thorium-227 in generators",
+        "D": "By cyclotron production of radium isotopes",
+        "Answer": "C",
+        "Source": "223Ra is currently obtained from the decay of 227Th, which is in turn produced from actinium-227 (227Ac, t1/2 = 21.8 y) in 227Ac/227Th generators."
+    },
+    "Question_9": {
+        "Context": "Radium-223 chloride is used for the treatment of bone metastases due to its ability to mimic calcium and selectively accumulate in bone.",
+        "Question": "Why is radium-223 chloride used for the treatment of bone metastases?",
+        "A": "It selectively accumulates in bone due to its similarity to calcium",
+        "B": "It has a high affinity for soft tissue",
+        "C": "It is easily excreted through the kidneys",
+        "D": "It has a long half-life allowing for extended treatment duration",
+        "Answer": "A",
+        "Source": "Ra2+ is thus an intrinsic 'bone seeker' and it selectively accumulates in the bone, mainly in areas of high bone turnover like the border zones and the bone metastases."
+    },
+    "Question_10": {
+        "Context": "The bifunctional chelator approach in targeted alpha therapy aims to retain daughter radionuclides post-decay, but the recoil effect often causes their release.",
+        "Question": "What is a major challenge in the bifunctional chelator approach for targeted alpha therapy?",
+        "A": "The rapid decay of the parent radionuclide",
+        "B": "The release of daughter radionuclides due to the recoil effect",
+        "C": "The inability to target specific cancer cells",
+        "D": "The high cost of synthesizing bifunctional chelators",
+        "Answer": "B",
+        "Source": "The ideal situation, in which the daughter radionuclides are retained by the chelator (upper), and the most probable situation, where the recoil effect causes the release of daughter radionuclides (lower)."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Superabsorbent polymers (SAPs) can be used for lipid extraction by absorbing aqueous solutions and allowing hydrophobic lipids to be solubilized and eluted by organic solvents.",
+        "Question": "What is the primary role of superabsorbent polymers (SAPs) in the lipid extraction process?",
+        "A": "To act as a catalyst in lipid synthesis",
+        "B": "To absorb aqueous solutions and isolate hydrophobic lipids",
+        "C": "To serve as a solvent for lipid dissolution",
+        "D": "To increase the lipid's hydrophobicity",
+        "Answer": "B",
+        "Source": "SAP beads can rapidly absorbed aqueous solution with hydrophilic and ionic components in plasma sample and are con- verted into the swelling gel. The hydrophobic lipids captured into fibrous SAP gel were solubilized and eluted directly by the organic sol- vent, MTBE."
+    },
+    "Question_2": {
+        "Context": "In lipid extraction, the limit of detection (LOD) is a measure of a method's sensitivity, indicating the smallest quantity of a substance that can be reliably detected.",
+        "Question": "What does a lower limit of detection (LOD) in lipid extraction methods indicate?",
+        "A": "Higher volume of sample required",
+        "B": "Decreased efficiency of the method",
+        "C": "Increased sensitivity of the method",
+        "D": "Lower accuracy of lipid identification",
+        "Answer": "C",
+        "Source": "The limit of detection (LOD) is often used to compare the sensitivity of different lipid extraction methods. The LOD for the mSAP method was significantly lower than those of the conventional methods, indicating that it is about 7 times more sensitive than the Matyash method and about 9 times sensitive than the SAP method in positive-ion mode."
+    },
+    "Question_3": {
+        "Context": "Lipid extraction methods can be evaluated based on their recovery rates, which measure the efficiency of the method in extracting lipids from a sample.",
+        "Question": "What does a higher recovery rate in lipid extraction signify?",
+        "A": "Lower purity of the extracted lipids",
+        "B": "Increased loss of lipids during extraction",
+        "C": "Decreased sensitivity of the extraction method",
+        "D": "Greater efficiency in extracting lipids from the sample",
+        "Answer": "D",
+        "Source": "The efficiency of different lipid extraction methods can be evaluated by comparing their recovery rates. The mSAP method had higher recovery rates than the Matyash method, with increase of 1.03\u20131.40 times for LPC, Cer, SM, PC, PG and PE classes except for TG in the positive\u2013ion mode and 1.06\u20131.37 times for PG, PE, LPC, Cer, SM and PC classes in neg- ative-ion mode."
+    },
+    "Question_4": {
+        "Context": "Relative standard deviation (RSD) is a statistical measure used to quantify the precision of a method, often used in the context of lipid extraction to assess variability.",
+        "Question": "In the context of lipid extraction, what does a lower relative standard deviation (RSD) value indicate?",
+        "A": "Higher variability in lipid recovery",
+        "B": "Increased experimental error",
+        "C": "Greater precision and consistency of the method",
+        "D": "Decreased efficiency of lipid extraction",
+        "Answer": "C",
+        "Source": "The RSD (%) values for inter- and intra-day variability of the mSAP method over a 5-day period were significantly lower than those of the previous SAP and Matyash methods. This indicates that the mSAP method is more repeatable and reproducible over time."
+    },
+    "Question_5": {
+        "Context": "Liquid chromatography-mass spectrometry (LC\u2013MS) is a technique used for the identification and quantification of lipid species in plasma.",
+        "Question": "What is the main advantage of using liquid chromatography-mass spectrometry (LC\u2013MS) for lipid analysis?",
+        "A": "It requires a smaller volume of solvents",
+        "B": "It provides detailed information on the chemical structures of lipids",
+        "C": "It simplifies the lipid extraction process",
+        "D": "It reduces the need for sample preparation",
+        "Answer": "B",
+        "Source": "LC\u2013MS can provide detailed informa- tion on the chemical structures of lipids, detect a wide range of lipid classes and be used in high throughput lipid analysis."
+    },
+    "Question_6": {
+        "Context": "The Folch and Bligh-Dyer protocols are traditional methods for lipid extraction using chloroform/methanol-based liquid\u2013liquid extraction (LLE).",
+        "Question": "What is a major drawback of the traditional Folch and Bligh-Dyer lipid extraction methods?",
+        "A": "They are too rapid for accurate analysis",
+        "B": "They require small volumes of solvents",
+        "C": "They are time-consuming and require large volumes of solvents",
+        "D": "They provide a very high recovery rate of lipids",
+        "Answer": "C",
+        "Source": "Both of these methods have also been shown to be effective for the extraction and purification of lipids from plasma and biological samples. However, they do have some drawbacks, such as being time-consuming and requiring large volumes of solvents."
+    },
+    "Question_7": {
+        "Context": "The Matyash method is an alternative lipid extraction protocol that uses methyl-tert-butyl ether (MTBE)/methanol-based liquid\u2013liquid extraction.",
+        "Question": "What is one of the improvements that the Matyash method offers over traditional lipid extraction protocols?",
+        "A": "Formation of a lipid-containing lower phase",
+        "B": "Formation of a lipid-containing upper phase",
+        "C": "Use of larger volumes of chloroform",
+        "D": "Increased time required for phase separation",
+        "Answer": "B",
+        "Source": "Matyash and BUME methods greatly simplifies sample handling due to the formation of lipid-containing upper phase and ena- bles automated processing of minute amounts of plasma and other biological samples."
+    },
+    "Question_8": {
+        "Context": "Solid-phase extraction (SPE) is a technique used in target lipidomics to isolate and concentrate specific lipid classes based on their chemical properties.",
+        "Question": "What is a key advantage of using solid-phase extraction (SPE) in lipid analysis?",
+        "A": "It requires solvent/water partitions",
+        "B": "It allows for the removal of interfering compounds and improves sensitivity",
+        "C": "It is less selective for specific lipid classes",
+        "D": "It increases the volume of solvents needed",
+        "Answer": "B",
+        "Source": "Additionally, SPE allows for the removal of interfering compounds and matrix effects and do not require solvent/water parti- tions, resulting in improved sensitivity and accuracy of lipid analysis."
+    },
+    "Question_9": {
+        "Context": "Superabsorbent polymer (SAP) beads are used in a modified method for lipid extraction, which involves a spin column technique.",
+        "Question": "What is the main benefit of using a spin column filled with SAP beads for lipid extraction?",
+        "A": "It allows for the use of higher solvent-to-sample ratios",
+        "B": "It minimizes liquid handling and sample loss",
+        "C": "It requires a longer extraction time for efficiency",
+        "D": "It increases the need for manual phase separation",
+        "Answer": "B",
+        "Source": "Because the spin column with the SAP beads pass through quickly and easily lipid-containing organic solution into the bottom of collection tube dur- ing the centrifugation, the mSAP method can minimize the liquid handling and sample loss while maximizing recovery yield."
+    },
+    "Question_10": {
+        "Context": "In lipid extraction, the use of chloroform is a concern due to its toxic and potentially carcinogenic properties.",
+        "Question": "Why is the use of chloroform in lipid extraction methods a concern?",
+        "A": "It is less effective at extracting lipids",
+        "B": "It is a non-toxic and environmentally friendly solvent",
+        "C": "It forms a lipid-rich lower layer that can lead to contamination",
+        "D": "It increases the efficiency of lipid extraction",
+        "Answer": "C",
+        "Source": "Chloroform also forms a lipid-rich lower layer in the two-phase par- titioning system, which can lead to contamination of the extract and loss of lipids during the extraction pro- cess."
+    }
+}

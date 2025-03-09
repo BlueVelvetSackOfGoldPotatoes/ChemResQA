@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the fabrication of microneedles using 3D printing to control needle bevel angles. The angle of printing direction is varied to change the bevel angles of microneedles.",
+        "Question": "What method was used to fabricate a 3D printed microneedle mold in the study?",
+        "A": "Etching",
+        "B": "Photolithography",
+        "C": "SLA printing",
+        "D": "Thermal drawing",
+        "Answer": "C",
+        "Source": "In this study, the SLA printing method was used to fabricate a 3D printed microneedle mold."
+    },
+    "Question_2": {
+        "Context": "The study discusses the importance of aspect ratio and height in microneedles. It investigates the aspect ratio according to the print height of the microneedles.",
+        "Question": "What was the highest aspect ratio value achieved for the fabricated PI microneedles?",
+        "A": "0.78",
+        "B": "1.25",
+        "C": "2.58",
+        "D": "3.40",
+        "Answer": "C",
+        "Source": "The aspect ratio showed the highest value of 2.58 when the height was 1000 \u03bcm."
+    },
+    "Question_3": {
+        "Context": "The study evaluates the height implementation rate of the fabricated PI microneedles based on the print height and angle.",
+        "Question": "How does the height implementation rate of the fabricated PI microneedle change with increasing print height?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Fluctuates",
+        "Answer": "A",
+        "Source": "The height implementation rate of the fabricated PI microneedle increased as the print height increased."
+    },
+    "Question_4": {
+        "Context": "The study discusses the penetration test of the fabricated PI microneedles in porcine skin to evaluate their performance.",
+        "Question": "Which printing angle resulted in the maximized penetration capability of the PI microneedle?",
+        "A": "0\u00b0",
+        "B": "40\u00b0",
+        "C": "70\u00b0",
+        "D": "90\u00b0",
+        "Answer": "B",
+        "Source": "The PI microneedle of 1000 \u03bcm height fabricated by the printing angle of 40\u00b0 showed the maximized penetration capability."
+    },
+    "Question_5": {
+        "Context": "The study highlights the limitations of using polymer microneedles as electrodes and the challenges in controlling their shape.",
+        "Question": "What is one of the limitations mentioned for using polymer microneedles as an electrode?",
+        "A": "High durability",
+        "B": "Low mechanical strength",
+        "C": "Easy shape control",
+        "D": "Low risk of breakage",
+        "Answer": "B",
+        "Source": "One of the limitations mentioned is the low mechanical strength of polymer microneedles, causing breakage during penetration."
+    },
+    "Question_6": {
+        "Context": "The study discusses the advantages and limitations of various microneedle fabrication methods.",
+        "Question": "Which method allows for high reproducibility and various microneedle forms but has a complex fabrication process?",
+        "A": "Etching",
+        "B": "Molding",
+        "C": "Laser machining",
+        "D": "Electrical discharge machining",
+        "Answer": "B",
+        "Source": "Molding allows for high reproducibility and various microneedle forms but has a complex fabrication process."
+    },
+    "Question_7": {
+        "Context": "The study emphasizes the importance of controlling microneedle bevel angles for penetration function.",
+        "Question": "Why is controlling the bevel angle of microneedles critical for penetration function?",
+        "A": "To increase pain during penetration",
+        "B": "To reduce the possibility of breakage",
+        "C": "To decrease penetration capability",
+        "D": "To improve microneedle durability",
+        "Answer": "B",
+        "Source": "Controlling the bevel angle is critical to reduce the possibility of breakage of the microneedle during penetration."
+    },
+    "Question_8": {
+        "Context": "The study evaluates the aspect ratio and height implementation rate of microneedles fabricated using 3D printing.",
+        "Question": "What is the aspect ratio of commonly used microneedles?",
+        "A": "1:1",
+        "B": "2:1",
+        "C": "3:1",
+        "D": "4:1",
+        "Answer": "B",
+        "Source": "The aspect ratio of commonly used microneedles is 2:1 or higher."
+    },
+    "Question_9": {
+        "Context": "The study discusses the fabrication process to optimize microneedle shape using polymeric materials.",
+        "Question": "What material was used for microneedle fabrication to provide minimally invasive penetration on the skin?",
+        "A": "Silicon",
+        "B": "Metal",
+        "C": "Polyimide",
+        "D": "Polymer",
+        "Answer": "C",
+        "Source": "Polyimide was used as microneedle material to provide minimally invasive penetration on the skin."
+    },
+    "Question_10": {
+        "Context": "The study presents a novel fabrication process to control microneedle bevel angles using polymeric materials.",
+        "Question": "What was the method used to fabricate a 3D printed microneedle mold in the study?",
+        "A": "FDM",
+        "B": "DLP",
+        "C": "SLA",
+        "D": "SLS",
+        "Answer": "C",
+        "Source": "In this study, the SLA printing method was used to fabricate a 3D printed microneedle mold."
+    }
+}

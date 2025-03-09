@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Climate change can affect agriculture through various abiotic stresses such as drought, flooding, and temperature extremes. These stresses can influence plant growth, yield, and metabolic activity.",
+        "Question": "Which abiotic stress is known to reduce nitrogen uptake, transport, and redistribution in plants?",
+        "A": "Extended periods of sunlight",
+        "B": "Drought",
+        "C": "Increased carbon dioxide levels",
+        "D": "Nutrient-rich soil conditions",
+        "Answer": "B",
+        "Source": "Drought reduces nitrogen (N) uptake, transport, and redistribution. Drought stress and the resulting reduction in soil moisture reduces plant nutrient supply through mineralization, reduces nutrient diffusion and mass flux in the soil, all of which contribute to lower plant growth and metabolic activity."
+    },
+    "Question_2": {
+        "Context": "In agricultural practices, deficit irrigation is a technique used to reduce water usage by providing plants with water below their field capacity, which can potentially minimize yield loss.",
+        "Question": "What is the purpose of using deficit irrigation in agriculture?",
+        "A": "To increase soil salinity",
+        "B": "To maximize water usage",
+        "C": "To reduce water usage without significant yield loss",
+        "D": "To enhance plant growth",
+        "Answer": "C",
+        "Source": "Studies are trying to find optimal solutions to declining water availability, with one possible solution being deficit irrigation, where farmers reduce irrigation with minimal yield loss."
+    },
+    "Question_3": {
+        "Context": "Capsaicinoids are a group of compounds responsible for the pungency of chili peppers, and their synthesis can be influenced by environmental conditions.",
+        "Question": "Which enzyme is directly involved in the biosynthesis of capsaicinoids in chili plants?",
+        "A": "Lipase",
+        "B": "Amylase",
+        "C": "Capsaicin synthase (CS)",
+        "D": "Protease",
+        "Answer": "C",
+        "Source": "The yield and plant biomass, capsaicin synthase (CS), phenylalanine ammonia lyase (PAL), and peroxidase (POX), as well as total and individual capsaicinoids were studied."
+    },
+    "Question_4": {
+        "Context": "Phenylalanine ammonia lyase (PAL) is an enzyme that plays a critical role in plant metabolic pathways, including the synthesis of secondary metabolites such as capsaicinoids.",
+        "Question": "What is the role of phenylalanine ammonia lyase (PAL) in plant metabolism?",
+        "A": "Catalyzing the decomposition of organic matter",
+        "B": "Facilitating the synthesis of secondary metabolites",
+        "C": "Enhancing the uptake of water",
+        "D": "Breaking down excess sugars",
+        "Answer": "B",
+        "Source": "The yield and plant biomass, capsaicin synthase (CS), phenylalanine ammonia lyase (PAL), and peroxidase (POX), as well as total and individual capsaicinoids were studied."
+    },
+    "Question_5": {
+        "Context": "Peroxidase (POX) is an enzyme that is involved in various plant processes, including the response to abiotic stress and the metabolism of reactive oxygen species.",
+        "Question": "In the context of plant enzymatic activity, what is the function of peroxidase (POX)?",
+        "A": "Promoting fruit ripening",
+        "B": "Regulating sugar transport",
+        "C": "Responding to abiotic stress",
+        "D": "Facilitating nitrogen fixation",
+        "Answer": "C",
+        "Source": "Drought generally affects CO2 assimilation, photosynthesis, water use efficiency, enzyme activity, and plant metabolism in general. Due to the photorespiratory pathway, metabolite fluxes occur, leading to increased oxidative stress and thus increased formation of reactive oxygen species (ROS). ROS is the main reason for plant growth decline."
+    },
+    "Question_6": {
+        "Context": "The stable isotope of nitrogen, 15N, can be used in agricultural studies to track the transport and translocation of nitrogen from fertilizer to plant tissue under various conditions.",
+        "Question": "What is the purpose of using the stable isotope 15N in agricultural research?",
+        "A": "To increase the nitrogen content in the soil",
+        "B": "To track the transport and translocation of nitrogen in plants",
+        "C": "To reduce the uptake of nitrogen by plants",
+        "D": "To stimulate the growth of soil microbes",
+        "Answer": "B",
+        "Source": "Using the stable isotope of nitrogen, 15N, we can track the transport and translocation of nitrogen from fertilizer to plant tissue under stress conditions."
+    },
+    "Question_7": {
+        "Context": "In plant nutrition, the fraction of fertilizer nitrogen taken up by the crop is an important parameter for understanding the efficiency of fertilizer use.",
+        "Question": "Which formula represents the fraction of fertilizer nitrogen taken up by a plant?",
+        "A": "Fertilizer N yield = N yield * (% Ndff/100)",
+        "B": "N yield = DM yield * (% N / 100)",
+        "C": "% fertilizer N utilization = (Fertilizer N yield / Rate of N application) * 100",
+        "D": "Total amount of N contained in the crop = Fertilizer N uptake by crop",
+        "Answer": "C",
+        "Source": "Formulas Nitrogen fertilizer parameters in plants were calculated based on formulas from FAO/IAEA. [12] and were as follows: \u2013 Fraction of fertilizer N in the plant: % Ndff = atom % 15N plant sample / atom % 15N fertilizer \u2013 Total amount of N contained in the crop: \u2013 Fertilizer N uptake by crop: \u2013 Fraction of the fertilizer taken up by the plant: % fertilizer N utilization = (Fertilizer N yield / Rate of N application) * 100"
+    },
+    "Question_8": {
+        "Context": "Soil salinity can be a consequence of excessive fertilizer application, which can negatively impact soil organic matter and soil enzyme and microbial activity.",
+        "Question": "What is a potential negative effect of excessive fertilizer application on soil?",
+        "A": "Increased water retention",
+        "B": "Enhanced plant immunity",
+        "C": "Reduced soil organic matter",
+        "D": "Stimulated seed germination",
+        "Answer": "C",
+        "Source": "In addition, excessive fertilizer application reduces soil organic matter and soil enzyme and microbial activity."
+    },
+    "Question_9": {
+        "Context": "The capsaicinoid content in chili peppers can be influenced by environmental conditions and agricultural practices, such as irrigation and fertilization.",
+        "Question": "What can cause an increase in the capsaicinoid content of chili peppers?",
+        "A": "Higher atmospheric pressure",
+        "B": "Deficit irrigation",
+        "C": "Lower ambient temperatures",
+        "D": "Increased soil pH",
+        "Answer": "B",
+        "Source": "The results indicate that deficit irrigation and fertilization can be used to maintain enzymatic activity and thus capsaicinoid content, which could reduce the economic cost of irrigation water and fertilizer."
+    },
+    "Question_10": {
+        "Context": "The use of water-soluble fertilizers containing macro- and microelements is common in agriculture to provide essential nutrients to plants.",
+        "Question": "Which of the following is a component typically found in water-soluble fertilizers used for chili plants?",
+        "A": "Chlorophyll",
+        "B": "Calcium carbonate",
+        "C": "Nitric nitrogen (N-NO3)",
+        "D": "Cellulose",
+        "Answer": "C",
+        "Source": "The chili plants were additionally fully fertilized using a full dose of 200 mg/L N (200 ppm nitrogen) and half dose at 100 mg/L N (100 ppm nitrogen), every 14 days. For the fertilization a water-soluble fertilizer containing macro- and microelements (Poly-Feed\u2122; 16:8:32) was used. The fertilizer composition was as follows: macronutrients as total N (16%), nitric N (N-NO3 4.2%), ammonia N (1.8%), P (as P2O5 8%), K (as K2O 32%) and micronutrients Fe (1000 ppm), Mn (500 ppm), B (200 ppm), Zn (150 ppm), Cu (110 ppm) and Mo (70 ppm)."
+    }
+}

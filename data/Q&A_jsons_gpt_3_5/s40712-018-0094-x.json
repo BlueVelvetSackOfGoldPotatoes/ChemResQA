@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses stress concentration around arbitrary shape cavities in an elastic half-space under the action of a concentrated force. The method involves introducing fictitious forces on the cavity surface to determine the stress-strain state.",
+        "Question": "What is the basis of the method proposed in the paper for studying stress concentration around cavities?",
+        "A": "Experimental analysis",
+        "B": "Numerical analysis",
+        "C": "Introduction of fictitious forces on cavity surface",
+        "D": "Analytical solution",
+        "Answer": "C",
+        "Source": "The method is based on the assumption that it is possible to simulate the influence of cavity on the redistribution of internal forces by including fictitious forces in the solution."
+    },
+    "Question_2": {
+        "Context": "The paper compares the obtained results with the finite element method solution for stress-strain state around cavities. It discusses the distributions of stress tensor components in the vicinity of cavities.",
+        "Question": "What is the purpose of comparing the results with the finite element method solution?",
+        "A": "To determine the applicability of the proposed solution",
+        "B": "To validate the accuracy of the proposed calculation model",
+        "C": "To introduce a new analytical method",
+        "D": "To study the stress-strain state in isolation",
+        "Answer": "B",
+        "Source": "The obtained results are comprehensively compared with the solution of a similar problem by the finite element method. The estimation of accuracy and efficiency of the proposed calculation model is made."
+    },
+    "Question_3": {
+        "Context": "The paper mentions that stress concentration research started with the work of Kirsch in 1898. It discusses the use of analytical methods for solving problems related to stress concentration.",
+        "Question": "Who is credited with starting stress concentration research according to the paper?",
+        "A": "Sternberg",
+        "B": "Neuber and Hahn",
+        "C": "Vorovich and Malkina",
+        "D": "Kirsch",
+        "Answer": "D",
+        "Source": "It is considered that stress concentration research started with the work (Kirsch 1898) studying hole-weakened infinite plate."
+    },
+    "Question_4": {
+        "Context": "The paper mentions the use of analytical functions of the Kolosova-Muskhelishvili complex variable for solving problems in plane elasticity theory.",
+        "Question": "What analytical functions are used for solving problems in plane elasticity theory?",
+        "A": "Fourier series",
+        "B": "Cauchy type integrals",
+        "C": "Legendre polynomials series",
+        "D": "Kolosova-Muskhelishvili complex variable",
+        "Answer": "D",
+        "Source": "The analytical functions of the Kolosova-Muskhelishvili complex variable (Muskhelishvili 1977) are used to solve problems of plane elasticity theory."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the limitations of existing analytical methods for cavity shapes, such as cubic cavities or cavities with sharp boundaries.",
+        "Question": "What are the limitations of existing analytical methods for cavity shapes?",
+        "A": "They are limited by problem symmetry",
+        "B": "They cannot handle complex boundary values",
+        "C": "They are limited by the problem symmetry",
+        "D": "They are limited by the problem geometry",
+        "Answer": "C",
+        "Source": "Moreover, existing analytical methods have cavity shape limits, for example, when considering a cubic cavity or cavity with a sharp boundary between the faces, singularities of the stress-strain state are likely to appear or they are limited by the problem symmetry."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the importance of creating an effective method for determining stress-strain state around arbitrary shape cavities.",
+        "Question": "Why is it important to create an effective method for determining stress-strain state around arbitrary shape cavities?",
+        "A": "To simplify engineering calculations",
+        "B": "To increase the strength of products",
+        "C": "To reduce the complexity of stress analysis",
+        "D": "To study stress distribution in isolation",
+        "Answer": "B",
+        "Source": "Therefore, the task of creating an effective and universal method for determining stress-strain state around an arbitrary shape cavity has an independent meaning."
+    },
+    "Question_7": {
+        "Context": "The paper mentions that stress concentration around cavities can be studied using experimental, analytical, or numerical analysis.",
+        "Question": "What methods can be used to study stress concentration around cavities?",
+        "A": "Experimental analysis",
+        "B": "Analytical analysis",
+        "C": "Numerical analysis",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "In general, the study of stress concentration can be made using experimental, analytical or numerical analysis."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the use of integral equations to solve spatial elasticity problems.",
+        "Question": "What method is used to solve spatial elasticity problems?",
+        "A": "Finite element method",
+        "B": "Integral equations",
+        "C": "Analytical functions",
+        "D": "Complex variable analysis",
+        "Answer": "B",
+        "Source": "Method of integral equations is also used to solve spatial elasticity problems."
+    },
+    "Question_9": {
+        "Context": "The paper mentions the study of stress distribution inside and around spheroidal inclusions and voids.",
+        "Question": "What type of structures are studied for stress distribution?",
+        "A": "Cubic cavities",
+        "B": "Spheroidal inclusions",
+        "C": "Elliptical holes",
+        "D": "Twisted cylindrical rods",
+        "Answer": "B",
+        "Source": "Stress distribution inside and around spheroidal inclusions and voids has been made."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the use of Love functions for solving axisymmetric problems.",
+        "Question": "What functions are used for solving axisymmetric problems?",
+        "A": "Fourier series",
+        "B": "Cauchy type integrals",
+        "C": "Love functions",
+        "D": "Legendre polynomials series",
+        "Answer": "C",
+        "Source": "Some axisymmetric problems are usually solved either in displacements using the Lame equations or with the help of the Love function."
+    }
+}

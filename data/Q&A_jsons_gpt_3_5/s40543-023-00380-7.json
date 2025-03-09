@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "A study aimed to evaluate the effectiveness of a high-dielectric pad in enhancing signal sensitivity in neuroimaging studies using a 7 T MRI system.",
+        "Question": "What is the main purpose of using a high-dielectric pad in the study?",
+        "A": "To reduce radiofrequency inhomogeneity",
+        "B": "To increase tissue heating",
+        "C": "To enhance signal sensitivity in neuroimaging studies",
+        "D": "To decrease the wavelength of the RF field",
+        "Answer": "C",
+        "Source": "The study aimed to evaluate whether the high-dielectric pad is effective in increasing transmit and receive sensitivity in areas of low signal intensity in the human brain at high magnetic fields and assess its usefulness in neuroimaging studies."
+    },
+    "Question_2": {
+        "Context": "The study used T1-weighted images (T1w) and diffusion-weighted images (DWI) to demonstrate the benefits of the high-dielectric pad made of barium titanate (BaTiO3).",
+        "Question": "What type of images were used to demonstrate the benefits of the high-dielectric pad?",
+        "A": "T2-weighted images",
+        "B": "Proton density-weighted images",
+        "C": "T1-weighted images",
+        "D": "Diffusion-weighted images",
+        "Answer": "C",
+        "Source": "The study used T1-weighted images (T1w) and diffusion-weighted images (DWI) to demonstrate the benefits of a high-dielectric pad made of barium titanate (BaTiO3)."
+    },
+    "Question_3": {
+        "Context": "The study analyzed the enhancement of signal sensitivity in neuroimaging through DTI study. Higher signal intensities and spatial contrast were demonstrated in T1w images with the high-dielectric pad.",
+        "Question": "What imaging technique was used to analyze the enhancement of signal sensitivity in neuroimaging?",
+        "A": "Diffusion tensor imaging (DTI)",
+        "B": "Functional magnetic resonance imaging (fMRI)",
+        "C": "Positron emission tomography (PET)",
+        "D": "Computed tomography (CT)",
+        "Answer": "A",
+        "Source": "Enhancement of signal sensitivity in neuroimaging has been analyzed by DTI study. Higher signal intensities and spatial contrast were demonstrated in the T1w images acquired using high-dielectric pad."
+    },
+    "Question_4": {
+        "Context": "The study showed increased quantitative anisotropy (QA) signals in various brain regions with the high-dielectric pad, such as the corticospinal tract (CST) and the fornix (FX).",
+        "Question": "Which brain region showed a significantly increased QA signal with the high-dielectric pad?",
+        "A": "Occipital lobe",
+        "B": "Temporal lobe",
+        "C": "Cerebellum",
+        "D": "Frontal lobe",
+        "Answer": "C",
+        "Source": "Especially in DTI studies, increased quantitative anisotropy (QA) signals were observed in various brain regions, including the cerebellum (CB), with the high-dielectric pad."
+    },
+    "Question_5": {
+        "Context": "The study demonstrated a 20% overall increase in signal sensitivity with the use of the high-dielectric pad in neuroimaging.",
+        "Question": "What was the percentage increase in signal sensitivity observed with the high-dielectric pad?",
+        "A": "10%",
+        "B": "15%",
+        "C": "20%",
+        "D": "25%",
+        "Answer": "C",
+        "Source": "The signal differences accounted for an overall 20% increase in signal sensitivity with the use of the high-dielectric pad in neuroimaging."
+    },
+    "Question_6": {
+        "Context": "The study suggested that the high-dielectric pad may provide a relatively simple and low-cost method for spatiotemporal brain imaging studies.",
+        "Question": "What advantage does the study propose the high-dielectric pad offers for brain imaging studies?",
+        "A": "Complexity",
+        "B": "High cost",
+        "C": "Low cost",
+        "D": "Low resolution",
+        "Answer": "C",
+        "Source": "These findings suggest that high-dielectric pads may provide a relatively simple and low-cost method for spatiotemporal brain imaging studies."
+    },
+    "Question_7": {
+        "Context": "The study used a 7 T MRI system with a 32-channel phased-array head coil for the imaging experiments.",
+        "Question": "What type of MRI system was used in the study?",
+        "A": "3 T MRI",
+        "B": "5 T MRI",
+        "C": "7 T MRI",
+        "D": "9 T MRI",
+        "Answer": "C",
+        "Source": "All subjects underwent MRI using a 7 T MR system (Magnetom Terra, Siemens Healthcare) with a 32-channel phased-array head coil."
+    },
+    "Question_8": {
+        "Context": "The study used a multiband spin-echo EPI sequence to acquire diffusion-weighted images (DWI) for the imaging experiments.",
+        "Question": "Which sequence was used to acquire diffusion-weighted images in the study?",
+        "A": "Gradient echo sequence",
+        "B": "Spin-echo sequence",
+        "C": "Echo planar imaging sequence",
+        "D": "Rapid acquisition gradient echo sequence",
+        "Answer": "C",
+        "Source": "Diffusion weighted images (DWI) were acquired using a multiband spin-echo EPI sequence with specific settings."
+    },
+    "Question_9": {
+        "Context": "The study performed group connectometry analysis using DSI-studio software to study the effect of the high-dielectric pad on the brain.",
+        "Question": "What software was used for group connectometry analysis in the study?",
+        "A": "MRIcron",
+        "B": "DSI-studio",
+        "C": "FSL",
+        "D": "SPM",
+        "Answer": "B",
+        "Source": "Group connectometry analysis was performed using DSI-studio software to study the effect of the high-dielectric pad on the brain."
+    },
+    "Question_10": {
+        "Context": "The study concluded that the high-dielectric pad showed enhanced spatial resolution and tissue contrast in anatomical images, and increased signal intensity in DTI results.",
+        "Question": "What were the main outcomes of using the high-dielectric pad according to the study?",
+        "A": "Decreased spatial resolution",
+        "B": "Reduced tissue contrast",
+        "C": "Enhanced spatial resolution and tissue contrast",
+        "D": "Decreased signal intensity",
+        "Answer": "C",
+        "Source": "Our results show that the use of such pad can increase the spatial resolution, tissue contrast, and signal intensity in neuroimaging studies."
+    }
+}

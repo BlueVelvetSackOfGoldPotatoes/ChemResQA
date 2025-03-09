@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Doping is a process used to enhance the properties of materials by introducing impurities into their structure.",
+        "Question": "What is the primary purpose of doping in the context of nanoparticles?",
+        "A": "To decrease the cost of production",
+        "B": "To enhance properties such as electronic and optical characteristics",
+        "C": "To increase the size of the nanoparticles",
+        "D": "To purify the nanoparticles",
+        "Answer": "B",
+        "Source": "Doping has emerged as a neoteric modality to enhance the electronic, physiochemical, biological, and optical properties of oxides and semiconductor-based nanoparticles (NPs). It is an intentional physiochemical process of inserting foreign substances into the empty lattice of another pure material to alter its characteristics."
+    },
+    "Question_2": {
+        "Context": "Titanium dioxide nanoparticles are widely used in various industries, but their photocatalytic activity is limited by their inability to utilize visible light.",
+        "Question": "Why is nitrogen doping introduced to titanium dioxide nanoparticles?",
+        "A": "To enable them to utilize visible light spectra for photodegradation of pollutants",
+        "B": "To increase their size for industrial applications",
+        "C": "To make them less reactive with environmental pollutants",
+        "D": "To reduce their cost-effectiveness",
+        "Answer": "A",
+        "Source": "However, being a semiconductor, TiO2 NPs can only utilize light at a wavelength less than 400 nm (UV light), limiting their pollutant degradation efficacy. Hence, doping TiO2 NPs with nitrogen was introduced by replacing the oxygen in the lattice of TiO2 with nitrogen, and a better photocatalytic activity was achieved than the application of pure TiO2 NPs."
+    },
+    "Question_3": {
+        "Context": "The sol\u2013gel method is one of the common methods for doping nanoparticles.",
+        "Question": "What is the role of acetic acid in the sol\u2013gel method for preparing titanium dioxide nanoparticles?",
+        "A": "It acts as a reducing agent",
+        "B": "It serves as a catalyst",
+        "C": "It is used as a solvent",
+        "D": "It functions as a stabilizer",
+        "Answer": "B",
+        "Source": "In a typical procedure, 13.3 ml titanium isopropoxide (TTIP) was added dropwise in 100 ml propanol and magnetically stirred at room temperature for 20 min. After that, 4 ml acetic acid was added as a catalyst into the solution and heated at 70 \u00b0C followed by ethylene glycol as coolant."
+    },
+    "Question_4": {
+        "Context": "The characterization of nanoparticles involves various techniques to determine their properties and composition.",
+        "Question": "Which technique is used to analyze the crystal structure and phase of nanoparticles?",
+        "A": "Fourier Transform Infrared (FTIR) spectroscopy",
+        "B": "Energy Dispersive X-ray Spectroscopy (EDX)",
+        "C": "Powder X-ray diffraction (XRD)",
+        "D": "Ultraviolet\u2013Visible (UV\u2013vis) spectroscopy",
+        "Answer": "C",
+        "Source": "The crystal structure and phase analysis were performed using a powder X-ray diffractometer. Figure 3a represents the X-ray diffraction (XRD) patterns demonstrating the characteristic atomic planes at 2\u03b8 for W-N-doped TiO2 NPs successively 25.2\u00b0 (101), 33.28\u00b0 (103), 34.14\u00b0 (004), 37.8\u00b0 (112), 48.06\u00b0 (200), 54.01\u00b0 (105), 54.96\u00b0 (211), 62.74\u00b0 (204), 68.82\u00b0 (116), 70.28\u00b0 (220), and 75.08\u00b0 (215)."
+    },
+    "Question_5": {
+        "Context": "Energy Dispersive X-ray Spectroscopy (EDX) is a technique used to determine the elemental composition of materials.",
+        "Question": "What does the presence of peaks for titanium (Ti), oxygen (O), nitrogen (N), and tungsten (W) in the EDX spectra indicate?",
+        "A": "Contamination of the sample",
+        "B": "Presence of water in the sample",
+        "C": "Doping of N and W into the matrix of TiO2",
+        "D": "Incomplete synthesis of the nanoparticles",
+        "Answer": "C",
+        "Source": "The energy dispersive X-ray (EDX) spectroscopic analysis confirmed the doping of nitrogen and tungsten into the crystal matrix of TiO2. Figure 3 (b) shows the EDX spectra of W-N-doped TiO2 NPs, indicating the presence of elements like titanium (Ti), oxygen (O), nitrogen (N), and tungsten (W), which confirms the doping of N and W into the matrix of TiO2 and the purity of the sample."
+    },
+    "Question_6": {
+        "Context": "Fourier Transform Infrared (FTIR) spectroscopy is used to identify the types of chemical bonds and functional groups present in a molecule.",
+        "Question": "In FTIR analysis, what does a broad peak in the 3400\u20133500 cm\u22121 range typically indicate?",
+        "A": "Presence of carbon\u2013carbon double bonds",
+        "B": "Presence of moisture exhibiting an O\u2013H bond",
+        "C": "Presence of nitrogen\u2013nitrogen triple bonds",
+        "D": "Presence of aromatic ring structures",
+        "Answer": "B",
+        "Source": "Figure 4a shows the Fourier transform infrared (FTIR) analysis to evaluate the chemical composition of W-N-doped TiO2 NPs. The broad peak in the 3400\u20133500 cm\u22121 indicates the presence of moisture in the sample, which exhibited an O\u2013H bond."
+    },
+    "Question_7": {
+        "Context": "Ultraviolet\u2013Visible (UV/Vis) spectroscopy is a technique used to measure the absorbance of light by a sample in the UV and visible range of the electromagnetic spectrum.",
+        "Question": "What does the maximum absorbance peak around 400 nm in the UV/Vis spectra of doped titanium dioxide nanoparticles suggest?",
+        "A": "The nanoparticles can interact with light in the visible range",
+        "B": "The nanoparticles are only reactive in the UV range",
+        "C": "The nanoparticles are not suitable for photocatalytic applications",
+        "D": "The nanoparticles have a reduced bandgap",
+        "Answer": "A",
+        "Source": "Figure 4b depicts the Ultraviolet\u2013visible (UV/Vis) spectra of W-N-doped TiO2 NPs measured in the range of UV and visible (200\u2013800 nm). The maximum absorbance peak was obtained around 400 nm showing that W-N-doped TiO2 NPs can interact with the light in the visible range."
+    },
+    "Question_8": {
+        "Context": "Reactive oxygen species (ROS) are chemically reactive molecules containing oxygen that can lead to oxidative stress in biological systems.",
+        "Question": "What is the consequence of elevated levels of reactive oxygen species (ROS) in neural tissue?",
+        "A": "Increased neural connectivity",
+        "B": "Enhanced neurotransmitter release",
+        "C": "Oxidative stress damage",
+        "D": "Improved cognitive function",
+        "Answer": "C",
+        "Source": "The ability of W-N-doped TiO2 NPs to cross the blood\u2013brain barrier and accumulate in the brain leads to oxidative stress damage, supported by the elevated levels of reactive oxygen species (ROS), nitrite concentration, and malondialdehyde levels."
+    },
+    "Question_9": {
+        "Context": "Antioxidant enzymes such as catalase and superoxide dismutase play crucial roles in protecting cells from oxidative damage.",
+        "Question": "What is the effect of a significant reduction in the levels of antioxidant enzymes like catalase and superoxide dismutase in neural tissue?",
+        "A": "Increased resistance to oxidative stress",
+        "B": "Decreased likelihood of oxidative stress damage",
+        "C": "Increased potential for oxidative stress damage",
+        "D": "Stabilization of reactive oxygen species",
+        "Answer": "C",
+        "Source": "Additionally, exposure to W-N-doped TiO2 NPs significantly reduced the antioxidant enzyme levels, such as catalase and superoxide dismutase, impacting a significant decrease in dopamine and acetylcholinesterase within the rat neural tissue."
+    },
+    "Question_10": {
+        "Context": "Inflammatory biomarkers like tumor necrosis factor-alpha (TNF-\u03b1) can indicate the presence of inflammation within biological tissues.",
+        "Question": "What does an increase in the inflammatory biomarker tumor necrosis factor-alpha (TNF-\u03b1) signify in the context of neural tissue?",
+        "A": "Reduced inflammation and tissue repair",
+        "B": "Enhanced neural growth and development",
+        "C": "Potential neuroprotective effects",
+        "D": "Increased inflammation and potential tissue damage",
+        "Answer": "D",
+        "Source": "Furthermore, the inflammatory biomarker tumor necrosis factor-alpha and 8-hydroxy 2-deoxyguanosine significantly increased in response to W-N-doped TiO2 NPs. The findings revealed the adverse effects of W-N-doped TiO2 NPs on the electrical activity of rat brains and the altered concentration of various neuro-biomarkers, highlighting their potential neurotoxicity."
+    }
+}

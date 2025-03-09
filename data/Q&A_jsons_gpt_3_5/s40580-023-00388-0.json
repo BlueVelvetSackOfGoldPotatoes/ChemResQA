@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the lattice modulation mechanisms in 2D-material-assisted epitaxy. ",
+        "Question": "What is the lattice modulation mechanism in remote epitaxy?",
+        "A": "Epilayer inherits lattice from the 2D material.",
+        "B": "Epilayer inherits lattice from the substrate.",
+        "C": "Epilayer forms its own lattice structure.",
+        "D": "Epilayer is not affected by any lattice.",
+        "Answer": "B",
+        "Source": "In remote epitaxy, though the insertion of 2D materials changes the growth front and enlarges the substrate-epilayer gap, the epilayer still inherits the lattice arrangement of the underlying crystalline substrate."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the lattice modulation mechanisms in 2D-material-assisted epitaxy.",
+        "Question": "What is the key factor to successfully regulate the lattice of the epilayer in remote epitaxy?",
+        "A": "Choosing a lattice-matched 2D material buffer layer.",
+        "B": "Ensuring the lattice guidance from the 2D material.",
+        "C": "Selecting a substrate with high ionicity.",
+        "D": "Controlling the lattice mismatch between the epilayer and the substrate.",
+        "Answer": "A",
+        "Source": "With the well-chosen substrate and 2D material companion, one could achieve transferrable and high-quality single crystal growth via the remote epitaxy strategy."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the lattice modulation mechanisms in 2D-material-assisted epitaxy.",
+        "Question": "What is the lattice modulation mechanism in vdW epitaxy?",
+        "A": "Epilayer inherits lattice from the 2D material.",
+        "B": "Epilayer inherits lattice from the substrate.",
+        "C": "Epilayer forms its own lattice structure.",
+        "D": "Epilayer is not affected by any lattice.",
+        "Answer": "A",
+        "Source": "To achieve a satisfactory crystalline orientation through the vdW strategy, it is crucial to have a lattice-matched 2D material buffer layer."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the lattice modulation mechanisms in 2D-material-assisted epitaxy.",
+        "Question": "What is the key step for the successful lattice modulation process in vdW epitaxy?",
+        "A": "Choosing a lattice-matched 2D material buffer layer.",
+        "B": "Ensuring the lattice guidance from the 2D material.",
+        "C": "Selecting a substrate with high ionicity.",
+        "D": "Correctly placing the initial layer adatoms.",
+        "Answer": "D",
+        "Source": "Correctly placing the initial layer adatoms is the key step for the successful lattice modulation process in vdW epitaxy."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the lattice modulation mechanisms in 2D-material-assisted epitaxy.",
+        "Question": "What is the lattice modulation mechanism in quasi vdW epitaxy?",
+        "A": "Epilayer inherits lattice from the 2D material.",
+        "B": "Epilayer inherits lattice from the substrate.",
+        "C": "Epilayer forms its own lattice structure.",
+        "D": "Epilayer is not affected by any lattice.",
+        "Answer": "C",
+        "Source": "The modified sp3 and sp2 complex 2D material surface offers more possibilities for the 2D/3D interface construction process, which thus brings opportunities to design and control the characteristics of the as-obtained epilayer."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the lattice modulation mechanisms in 2D-material-assisted epitaxy.",
+        "Question": "What is the key factor to sufficiently regulate the epilayer lattice in quasi vdW epitaxy?",
+        "A": "Choosing a lattice-matched 2D material buffer layer.",
+        "B": "Ensuring the lattice guidance from the 2D material.",
+        "C": "Selecting a substrate with high ionicity.",
+        "D": "Correctly placing the initial layer adatoms.",
+        "Answer": "A",
+        "Source": "The usage of quasi vdW epitaxy could bring a new pathway to modulate the strain status and dislocation density in the epitaxial structure."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the lattice modulation mechanisms in 2D-material-assisted epitaxy.",
+        "Question": "What is the advantage of vdW epitaxy in breaking the substrate restriction?",
+        "A": "Ability to regulate lattice orientation.",
+        "B": "Achieving material growth on arbitrary substrates.",
+        "C": "Enhancing the lattice mismatch.",
+        "D": "Maintaining the lattice from the 2D material.",
+        "Answer": "B",
+        "Source": "By selecting the binding nature and the thickness of the 2D material, it is possible to block the potential field of the substrate and construct the epitaxial relationship between the epilayer and the 2D material."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the lattice modulation mechanisms in 2D-material-assisted epitaxy.",
+        "Question": "What is the lattice modulation mechanism in quasi vdW epitaxy?",
+        "A": "Epilayer inherits lattice from the 2D material.",
+        "B": "Epilayer inherits lattice from the substrate.",
+        "C": "Epilayer forms its own lattice structure.",
+        "D": "Epilayer is not affected by any lattice.",
+        "Answer": "C",
+        "Source": "The usage of quasi vdW epitaxy could bring a new pathway to modulate the strain status and dislocation density in the epitaxial structure."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the lattice modulation mechanisms in 2D-material-assisted epitaxy.",
+        "Question": "What is the key factor to sufficiently regulate the epilayer lattice in quasi vdW epitaxy?",
+        "A": "Choosing a lattice-matched 2D material buffer layer.",
+        "B": "Ensuring the lattice guidance from the 2D material.",
+        "C": "Selecting a substrate with high ionicity.",
+        "D": "Correctly placing the initial layer adatoms.",
+        "Answer": "A",
+        "Source": "The modified sp3 and sp2 complex 2D material surface offers more possibilities for the 2D/3D interface construction process, which thus brings opportunities to design and control the characteristics of the as-obtained epilayer."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the lattice modulation mechanisms in 2D-material-assisted epitaxy.",
+        "Question": "What is the advantage of vdW epitaxy in breaking the substrate restriction?",
+        "A": "Ability to regulate lattice orientation.",
+        "B": "Achieving material growth on arbitrary substrates.",
+        "C": "Enhancing the lattice mismatch.",
+        "D": "Maintaining the lattice from the 2D material.",
+        "Answer": "B",
+        "Source": "By selecting the binding nature and the thickness of the 2D material, it is possible to block the potential field of the substrate and construct the epitaxial relationship between the epilayer and the 2D material."
+    }
+}

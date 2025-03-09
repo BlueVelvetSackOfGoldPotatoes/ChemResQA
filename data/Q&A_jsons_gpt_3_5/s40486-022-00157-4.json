@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "A pneumatic dispenser driven by a flexible membrane with a capacitive-type sensor using an SLA-type 3D printer was fabricated.",
+        "Question": "What is the approximate range of a single droplet that could be ejected from the 200-\u03bcm-diameter nozzle?",
+        "A": "200\u2013250 nL",
+        "B": "300\u2013350 nL",
+        "C": "400\u2013450 nL",
+        "D": "500\u2013550 nL",
+        "Answer": "C",
+        "Source": "It was confirmed that a single droplet in the range of approximately 400\u2013450 nL could be ejected from the currently processed 200-\u03bcm-diameter nozzle."
+    },
+    "Question_2": {
+        "Context": "The deformation varied according to the magnitude and time of the positive pressure applied to the membrane sensor.",
+        "Question": "How does the deformation of the membrane vary?",
+        "A": "It remains constant.",
+        "B": "It decreases with time.",
+        "C": "It varies with the magnitude and time of positive pressure.",
+        "D": "It increases with time.",
+        "Answer": "C",
+        "Source": "The deformation varied according to the magnitude and time of the positive pressure applied to the membrane sensor."
+    },
+    "Question_3": {
+        "Context": "The base capacitance-to-digital converter (CDC) value decreased when the inlet pressure was removed.",
+        "Question": "What happened to the base CDC value when the inlet pressure was removed?",
+        "A": "It increased.",
+        "B": "It remained the same.",
+        "C": "It decreased.",
+        "D": "It fluctuated.",
+        "Answer": "C",
+        "Source": "The base capacitance-to-digital converter (CDC) value decreased when the inlet pressure was removed."
+    },
+    "Question_4": {
+        "Context": "The dispenser was designed and fabricated at a size suitable for printing using a stereolithography (SLA)-type 3D printer.",
+        "Question": "What type of 3D printer was used for fabricating the dispenser?",
+        "A": "FDM-type",
+        "B": "SLS-type",
+        "C": "SLA-type",
+        "D": "DLP-type",
+        "Answer": "C",
+        "Source": "The dispenser was designed and fabricated at a size suitable for printing using a stereolithography (SLA)-type 3D printer."
+    },
+    "Question_5": {
+        "Context": "The dispenser includes an actuation part that controls the pneumatic pressure using a solenoid valve.",
+        "Question": "What part of the dispenser controls the pneumatic pressure?",
+        "A": "Membrane sensor",
+        "B": "Capacitive-type sensor",
+        "C": "Actuation part",
+        "D": "Solution inlet nozzle",
+        "Answer": "C",
+        "Source": "The dispenser includes an actuation part that controls the pneumatic pressure using a solenoid valve."
+    },
+    "Question_6": {
+        "Context": "The membrane sensor was manufactured using polydimethylsiloxane (PDMS) and consisted of a membrane and supporting block.",
+        "Question": "What material was used for manufacturing the membrane sensor?",
+        "A": "Polyethylene",
+        "B": "Polypropylene",
+        "C": "Polydimethylsiloxane (PDMS)",
+        "D": "Polystyrene",
+        "Answer": "C",
+        "Source": "The membrane sensor was manufactured using polydimethylsiloxane (PDMS) and consisted of a membrane and supporting block."
+    },
+    "Question_7": {
+        "Context": "The dispenser was completed by fastening/assembling the manufactured parts using bolts.",
+        "Question": "How was the dispenser completed?",
+        "A": "Welding",
+        "B": "Gluing",
+        "C": "Soldering",
+        "D": "Fastening/assembling using bolts",
+        "Answer": "D",
+        "Source": "The dispenser was completed by fastening/assembling the manufactured parts using bolts."
+    },
+    "Question_8": {
+        "Context": "The liquid solution delivered at a constant inlet pressure fills the liquid chamber inside the dispenser.",
+        "Question": "What fills the liquid chamber inside the dispenser?",
+        "A": "Gas solution",
+        "B": "Solid solution",
+        "C": "Liquid solution",
+        "D": "Vapor solution",
+        "Answer": "C",
+        "Source": "The liquid solution delivered at a constant inlet pressure fills the liquid chamber inside the dispenser."
+    },
+    "Question_9": {
+        "Context": "The signal for precise control of the solenoid valve is shown in a graph.",
+        "Question": "What is used for precise control of the solenoid valve?",
+        "A": "Pressure sensor",
+        "B": "Temperature sensor",
+        "C": "Capacitive-type sensor",
+        "D": "Flow sensor",
+        "Answer": "C",
+        "Source": "The signal for precise control of the solenoid valve is shown in a graph."
+    },
+    "Question_10": {
+        "Context": "The volume and velocity of the droplets were quantitatively measured.",
+        "Question": "What aspects of the droplets were quantitatively measured?",
+        "A": "Color",
+        "B": "Size and shape",
+        "C": "Temperature",
+        "D": "Density",
+        "Answer": "B",
+        "Source": "The volume and velocity of the droplets were quantitatively measured."
+    }
+}

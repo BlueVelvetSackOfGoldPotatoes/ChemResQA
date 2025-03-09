@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Styrene-butadiene rubber (SBR) is a synthetic rubber commonly used in tire tread compounds to improve certain properties. Functional groups can be introduced into SBR to enhance its interaction with fillers like silica, which can affect the rubber's rolling resistance.",
+        "Question": "What is the primary reason for using Styrene-butadiene rubber (SBR) in tire tread compounds?",
+        "A": "To increase the weight of the tire",
+        "B": "To improve the Rolling Resistance (RR)",
+        "C": "To decrease the manufacturing cost",
+        "D": "To improve the color of the tire",
+        "Answer": "B",
+        "Source": "Styrene\u2013butadiene\u2013Rubber, SBR, is most often used in tread compounds in order to improve the Rolling Resistance (RR)."
+    },
+    "Question_2": {
+        "Context": "Functionalization of SBR involves introducing functional groups to the polymer chain, which can enhance polymer-filler interactions. This can lead to improvements in the performance of the rubber compound.",
+        "Question": "What is the purpose of functionalizing Styrene-butadiene rubber (SBR)?",
+        "A": "To change the color of the rubber",
+        "B": "To make the rubber more brittle",
+        "C": "To increase the polymer-filler interaction",
+        "D": "To reduce the thermal stability of the rubber",
+        "Answer": "C",
+        "Source": "The functionalized SBRs are used to increase the polymer\u2013filler interaction in the compound to improve RR."
+    },
+    "Question_3": {
+        "Context": "In rubber chemistry, the Payne effect is related to the behavior of filled rubber compounds under strain. It is associated with the interaction between filler particles within the rubber matrix.",
+        "Question": "What does the Payne effect in filled rubber compounds indicate?",
+        "A": "The thermal conductivity of the compound",
+        "B": "The elasticity of the rubber",
+        "C": "The degree of filler-filler interaction",
+        "D": "The color stability of the rubber under UV light",
+        "Answer": "C",
+        "Source": "The pronounced decrease of the storage modulus with increasing strain amplitude is known as 'Payne effect' and used as an indicator for the filler\u2013filler interaction."
+    },
+    "Question_4": {
+        "Context": "The bound rubber content in a rubber compound can be indicative of the level of interaction between the rubber matrix and the filler. It is an important parameter in evaluating the performance of the rubber compound.",
+        "Question": "What does the bound rubber content in a rubber compound measure?",
+        "A": "The amount of rubber that is not vulcanized",
+        "B": "The weight of the rubber compound",
+        "C": "The interaction between rubber and filler",
+        "D": "The color intensity of the rubber",
+        "Answer": "C",
+        "Source": "Bound rubber measurement were done for all green compounds. Physical bound rubber and chemical bound rubber were measured."
+    },
+    "Question_5": {
+        "Context": "Silanization is a chemical process that involves the reaction of silane coupling agents with silica surfaces. This reaction can be influenced by the presence of certain functional groups in the reacting polymer.",
+        "Question": "How does the presence of an amine functional group affect the silanization reaction with silica?",
+        "A": "It decelerates the reaction",
+        "B": "It has no effect on the reaction",
+        "C": "It changes the color of the silica",
+        "D": "It accelerates the reaction",
+        "Answer": "D",
+        "Source": "The model silanization reaction of TESPT with silica in the presence of amine shows that a higher amount of ethanol (EtOH) is released from TESPT compared to the amine free system. This result indicates that the silanization reaction can be accelerated by the presence of an amine functional group."
+    },
+    "Question_6": {
+        "Context": "The viscoelastic properties of rubber compounds are crucial for their performance in applications such as tires. Tan delta (tan \u03b4) is a parameter that is used to assess the rolling resistance of rubber compounds.",
+        "Question": "What does a lower tan delta (tan \u03b4) value at 70\u00b0C indicate about a rubber compound's rolling resistance?",
+        "A": "Higher rolling resistance",
+        "B": "No impact on rolling resistance",
+        "C": "Lower rolling resistance",
+        "D": "Higher thermal degradation",
+        "Answer": "C",
+        "Source": "The compound of the SBR with the alkoxy\u2013silane functional group shows lower tan \u03b4 compared to the non\u2013functionalized SBR and the amine functionalized SBR compounds. The influence of the type of functionalization of the SBR on tan \u03b4 at 70 \u00b0C was more significant in branched SBRs than in linear SBRs."
+    },
+    "Question_7": {
+        "Context": "In rubber technology, the mixing behavior of a compound can provide insights into the interactions between the polymer and fillers. The mixing torque is one parameter that reflects these interactions.",
+        "Question": "What does a higher mixing torque during the preparation of rubber compounds suggest about the polymer-filler interaction?",
+        "A": "Decreased polymer-filler interaction",
+        "B": "Increased polymer-filler interaction",
+        "C": "No change in polymer-filler interaction",
+        "D": "Decreased elasticity of the compound",
+        "Answer": "B",
+        "Source": "The mixing torque can be influenced by the rotor speed as well as by the incorporation of silica, the viscosity of the polymer and the polymer-filler interactions."
+    },
+    "Question_8": {
+        "Context": "Small-angle X-ray scattering (SAXS) is a technique used to investigate the morphological structure of fillers in rubber matrices. It can provide information about the size and distribution of filler particles.",
+        "Question": "What aspect of a rubber compound does small-angle X-ray scattering (SAXS) help to analyze?",
+        "A": "The color uniformity of the compound",
+        "B": "The thermal stability of the compound",
+        "C": "The morphological structure of fillers",
+        "D": "The elasticity of the rubber matrix",
+        "Answer": "C",
+        "Source": "Furthermore, small\u2013angle scattering (SAXS) is a unique tool to investigate the morphological structure of fillers in rubber matrices."
+    },
+    "Question_9": {
+        "Context": "The tensile properties of rubber compounds are important for their mechanical performance. Stress at a certain percentage of elongation is one measure of the compound's strength.",
+        "Question": "What does the stress at 200% elongation (S200) indicate about a rubber compound?",
+        "A": "The color fastness under tension",
+        "B": "The resistance to chemical degradation",
+        "C": "The strength of the compound under elongation",
+        "D": "The thermal expansion coefficient",
+        "Answer": "C",
+        "Source": "S200 (the stress at 200% strain) is depicted instead of the stress at 300% elongation because the elongation did not reach 300%."
+    },
+    "Question_10": {
+        "Context": "The cure behavior of rubber compounds, including the time to reach 90% of the maximum torque during vulcanization (T90), can influence the final properties of the material.",
+        "Question": "In the context of vulcanization, what does the T90 time represent for a rubber compound?",
+        "A": "The time taken to cool down after vulcanization",
+        "B": "The time to reach 90% of the maximum torque",
+        "C": "The duration of the pre-vulcanization process",
+        "D": "The time taken for the compound to degrade",
+        "Answer": "B",
+        "Source": "The cure behaviors are summarized in Table 5. The torque is the indication of the crosslinking density but is consists of contributions from the polymer\u2013polymer, polymer\u2013filler and filler\u2013filler interactions."
+    }
+}

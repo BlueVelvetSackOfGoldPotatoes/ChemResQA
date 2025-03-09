@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses a theoretical model for computing solute concentration and stress fields in a three-dimensional finite medium with arbitrary elastic fields. It mentions the incorporation of this model into simulations and the formation of a nano-hydride below a dissociated edge dislocation.",
+        "Question": "What can form in the tensile region below a dissociated edge dislocation at a low hydrogen concentration?",
+        "A": "Stacking fault",
+        "B": "Grain boundary",
+        "C": "Nano-hydride",
+        "D": "Dislocation core",
+        "Answer": "C",
+        "Source": "Using this model, it is shown that a nano-hydride can form in the tensile region below a dissociated edge dislocation at hydrogen concentration as low as \u03c70 = 5 \u00d7 10\u22125."
+    },
+    "Question_2": {
+        "Context": "The model also predicts the segregation of hydrogen at a specific grain boundary dislocation type. It mentions that this segregation strongly alters the magnitude of shear stresses at the grain boundary.",
+        "Question": "What effect does hydrogen segregation have on the shear stresses at a grain boundary?",
+        "A": "Decreases the stresses",
+        "B": "Increases the stresses",
+        "C": "No effect on stresses",
+        "D": "Changes the grain boundary orientation",
+        "Answer": "B",
+        "Source": "The model also predicts the segregation of hydrogen at \ufffd109(13 7 0)/33.4\u25e6 symmetric tilt grain boundary dislocations. This segregation strongly alters the magnitude of the shear stresses at the grain boundary."
+    },
+    "Question_3": {
+        "Context": "The model predicts that the hydrogen concentration at a mode-I central crack tip increases with certain factors. It mentions that this concentration increases with increasing external loading, higher intrinsic hydrogen concentration, and larger crack lengths.",
+        "Question": "What factors lead to an increase in hydrogen concentration at a mode-I central crack tip?",
+        "A": "Decreasing external loading",
+        "B": "Lower intrinsic hydrogen concentration",
+        "C": "Smaller crack lengths",
+        "D": "Increasing external loading, higher intrinsic hydrogen concentration, and larger crack lengths",
+        "Answer": "D",
+        "Source": "Moreover, the model also predicts that the hydrogen concentration at a mode-I central crack tip increases with increasing external loading, higher intrinsic hydrogen concentration, and/or larger crack lengths."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the stress field induced by a specific grain boundary in an infinite medium and the calculation of H concentration contours. It mentions the comparison between direct numerical solutions and linearized solutions.",
+        "Question": "What is the main difference between the direct numerical solution and the linearized solution in predicting H concentration contours at a grain boundary?",
+        "A": "Different grain boundary orientations",
+        "B": "Different intrinsic H mole fractions",
+        "C": "Different temperature conditions",
+        "D": "Different computational methods",
+        "Answer": "B",
+        "Source": "While the benchmark solution and the linearized solution both predict similar H concentration contours, the relative errors between both solutions are highest within a 1nm thick slab around the GB plane."
+    },
+    "Question_5": {
+        "Context": "The model predicts the total H-induced shear stresses for different H mole fractions at a grain boundary. It mentions the comparison between numerically calculated stresses and those from a linearized solution.",
+        "Question": "What is the relative error trend between the numerically calculated total H-induced shear stresses and those from the linearized solution at a grain boundary?",
+        "A": "Decreases with increasing temperature",
+        "B": "Increases with higher intrinsic H mole fractions",
+        "C": "Highest at a distance greater than a few Burgers vectors from the GB dislocations",
+        "D": "Converges outside a local region around the GB plane",
+        "Answer": "D",
+        "Source": "It is observed that the relative errors between both solutions are highest within a 2nm thick slab around the GB plane, while outside this local region both solutions converge."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the stress field in a rectangular plate with a mode-I central crack under uniaxial loading. It mentions the prediction of H distribution in the plate and the comparison between numerical and linearized solutions.",
+        "Question": "What is the maximum relative error observed in the H concentration predictions at the crack tip under an axial stress of 10MPa?",
+        "A": "Below 5 \u00d7 10^-3",
+        "B": "Around 0.01",
+        "C": "Above 0.05",
+        "D": "Exactly 0.1",
+        "Answer": "A",
+        "Source": "It is observed that the maximum relative error when \u03c30 = 10MPa is well below 5 \u00d7 10\u22123, which implies that Eq. (10) is a good approximation for small stress cases."
+    },
+    "Question_7": {
+        "Context": "The model predicts the hydrogen concentration at a mode-I central crack tip under certain conditions. It mentions the relative errors in H concentration predictions near the crack tip.",
+        "Question": "What is the trend of relative errors near the crack tip compared to away from the crack tip in H concentration predictions?",
+        "A": "Higher near the crack tip",
+        "B": "Higher away from the crack tip",
+        "C": "Constant throughout the plate",
+        "D": "No relative errors observed",
+        "Answer": "A",
+        "Source": "The relative errors near the crack tip (i.e. within a distance of 200nm) are typically higher than those away from the crack tip."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the development of a theoretical model for computing solute concentration and stress fields. It mentions the incorporation of this model into various simulations and its potential applications.",
+        "Question": "What is the main advantage of using the theoretical model for computing solute concentration and stress fields?",
+        "A": "Reduces computational cost",
+        "B": "Increases simulation complexity",
+        "C": "Requires additional experimental data",
+        "D": "Limits the simulation scale",
+        "Answer": "A",
+        "Source": "The linearized closed-form solution can effectively reduce the computation cost to assess the concentration and stress field in the presence of solutes, enabling large-scale simulations on the effect of solutes."
+    },
+    "Question_9": {
+        "Context": "The model developed in the paper is aimed at quantifying the concentration of hydrogen solutes and their effects on various material properties. It discusses the implications of solute-induced stress fields on dislocation interactions.",
+        "Question": "What is the significance of considering the elastic moduli change due to solute concentration in the model?",
+        "A": "Increases the computational complexity",
+        "B": "Affects the equilibrium solute concentration",
+        "C": "Reduces the accuracy of stress predictions",
+        "D": "Not relevant for the model",
+        "Answer": "B",
+        "Source": "To take this effect into account, the elastic interactions arising from the local modulus changes per unit volume should be included in the equation of chemical potentials, where Cijkl and C\u2032 ijkl are locally-changed elastic constants in the absence and presence of solute atoms, respectively."
+    },
+    "Question_10": {
+        "Context": "The paper concludes by discussing the potential applications of the developed model and its implications for future research. It mentions the need for further refinement in certain aspects of the model.",
+        "Question": "What aspect of the model requires further refinement according to the paper's conclusion?",
+        "A": "Volume change induced by a solute atom",
+        "B": "Solute-induced stress field calculations",
+        "C": "Solute concentration predictions",
+        "D": "Image effects on solute atoms",
+        "Answer": "A",
+        "Source": "Another simplification adopted in the current model is that the image effect on the solute atom is spatially homogenized. The complete evaluation of the piece-wise image effects requires the solution on specific boundary geometries."
+    }
+}

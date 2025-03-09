@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses a method for the separation of trace elements from industrially processed iron-rich hydrochloric acid solutions.",
+        "Question": "What is the solvent used for sequential solvent extractions to remove interfering Fe from the acid solutions?",
+        "A": "Nitric acid",
+        "B": "Methyl isobutyl ketone (MIBK)",
+        "C": "Hydrochloric acid",
+        "D": "Ammonium dihydrogen phosphate",
+        "Answer": "B",
+        "Source": "Sequential solvent extractions using methyl isobutyl ketone (MIBK) effectively removed the highly interfering Fe from these processed acid solutions."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the use of Dowex 50 \u00d7 8 cation exchange resin for the separation of REEs.",
+        "Question": "What method was used for the separation of rare-earth elements (REEs) using Dowex 50 \u00d7 8 cation exchange resin?",
+        "A": "Solvent extraction",
+        "B": "Ion exchange",
+        "C": "Chromatography",
+        "D": "Sorption",
+        "Answer": "B",
+        "Source": "Ion exchange separation of REEs using Dowex 50 \u00d7 8 cation exchange resin has been also studied and reported."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the accuracy of the method by analyzing synthetically prepared hydrochloric acid solutions.",
+        "Question": "What was the precision obtained for elements having concentration above 10 mg L\u22121?",
+        "A": "\u00b1 5% RSD",
+        "B": "\u00b1 10% RSD",
+        "C": "\u00b1 15% RSD",
+        "D": "\u00b1 20% RSD",
+        "Answer": "B",
+        "Source": "The precision obtained has been well within \u00b1 10% RSD for elements having concentration above 10 mg L\u22121."
+    },
+    "Question_4": {
+        "Context": "The paper mentions the use of ICP-OES for trace level determination of trace elements.",
+        "Question": "What is the major challenge during the analysis of trace elements using ICP-OES?",
+        "A": "High acidity",
+        "B": "High Fe content",
+        "C": "Viscosity",
+        "D": "Spectral interferences",
+        "Answer": "D",
+        "Source": "Spectral interferences caused by major matrix elements while determining trace concomitant elements is the major challenge during the ICP-OES analysis."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the use of LED fluorimeter for the determination of uranium.",
+        "Question": "What was the purpose of using a fluorescent enhancing buffer for uranium measurement by LED fluorimeter?",
+        "A": "To increase the sample volume",
+        "B": "To enhance the fluorescence intensity",
+        "C": "To reduce the Fe content",
+        "D": "To decrease the acidity",
+        "Answer": "B",
+        "Source": "This solution acts as fluorescence enhancing reagent for the determination of uranium by LED fluorimeter."
+    },
+    "Question_6": {
+        "Context": "The paper mentions the use of instrumental techniques like ICP-MS for the analysis of trace elements.",
+        "Question": "Which instrumental technique was used for the analysis of trace elements in Fe-rich materials?",
+        "A": "ICP-OES",
+        "B": "AAS",
+        "C": "ICP-MS",
+        "D": "RNAA",
+        "Answer": "C",
+        "Source": "Instrumental techniques like Inductively coupled plasma Mass spectrometer (ICP-MS) and Radiochemical neutron activation analysis (RNAA) were also used for the analysis of trace elements in Fe-rich materials."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the reduction of Fe in ilmenite ore during leaching with hydrochloric acid.",
+        "Question": "How is the reduction of Fe in ilmenite mainly carried out?",
+        "A": "By adding chlorine",
+        "B": "By heating with coke in an inert atmosphere",
+        "C": "By using sulfuric acid",
+        "D": "By leaching with nitric acid",
+        "Answer": "B",
+        "Source": "The reduction of Fe in ilmenite is mainly carried out by heating the ore with coke in an inert atmosphere."
+    },
+    "Question_8": {
+        "Context": "The paper mentions the use of hydrochloric acid as a solvent for the extraction of metals from ores.",
+        "Question": "What is the main matrix element found in most ores?",
+        "A": "Titanium",
+        "B": "Iron",
+        "C": "Aluminum",
+        "D": "Copper",
+        "Answer": "B",
+        "Source": "One of the most commonly found matrix elements in most ores is iron (Fe)."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the use of hydrochloric acid in various industrial applications.",
+        "Question": "What can change drastically depending on the concentration, temperature, and presence of oxidizing impurities in hydrochloric acid?",
+        "A": "Color",
+        "B": "Viscosity",
+        "C": "Corrosiveness",
+        "D": "Density",
+        "Answer": "C",
+        "Source": "It is extremely corrosive and its aggressiveness can change drastically depending on its concentration, temperature, and presence of oxidizing impurities."
+    },
+    "Question_10": {
+        "Context": "The paper mentions the use of Fe in the manufacture of construction materials.",
+        "Question": "What can the acid-leached iron liquid from iron ore mining plants contain?",
+        "A": "Toxic and radioactive elements",
+        "B": "Organic compounds",
+        "C": "Inert gases",
+        "D": "Alkaline substances",
+        "Answer": "A",
+        "Source": "The acid-leached iron liquid contains many toxic and radioactive elements, which can cause environmental effects."
+    }
+}

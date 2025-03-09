@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the Green tensor of Mindlin's anisotropic first strain gradient elasticity and its application to the Kelvin problem.",
+        "Question": "What is the Green tensor of Mindlin's anisotropic first strain gradient elasticity?",
+        "A": "A tensor-valued function of rank two",
+        "B": "A scalar function of rank three",
+        "C": "A vector function of rank four",
+        "D": "A matrix function of rank five",
+        "Answer": "A",
+        "Source": "When contracted with a concentrated force acting at the origin, the Green tensor yields the displacement field in an infinite elastic medium."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the Green tensor of Mindlin's anisotropic first strain gradient elasticity and its comparison to atomistic calculations.",
+        "Question": "What is the significance of the Green tensor being non-singular at the origin?",
+        "A": "It indicates a mathematical error",
+        "B": "It regularizes the classical anisotropic Green tensor",
+        "C": "It leads to unphysical singularities",
+        "D": "It affects the numerical implementation",
+        "Answer": "B",
+        "Source": "The Green tensor of Mindlin's first strain gradient elasticity can be regarded as a physical regularization of the classical anisotropic Green tensor."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the Green tensor of Mindlin's anisotropic first strain gradient elasticity and its comparison to atomistic calculations.",
+        "Question": "What is the consequence of the gradient of the Green tensor being finite but discontinuous at the origin?",
+        "A": "It leads to accurate results in numerical simulations",
+        "B": "It causes errors in the displacement field calculations",
+        "C": "It indicates a singularity in the displacement field",
+        "D": "It affects the convergence of the Green tensor",
+        "Answer": "C",
+        "Source": "Note that, because of the presence of the sign function, the gradient of the Green tensor is finite but discontinuous at the origin."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the Green tensor of Mindlin's anisotropic first strain gradient elasticity and its comparison to atomistic calculations.",
+        "Question": "How does the Green tensor of Mindlin's anisotropic strain gradient elasticity compare to the classical Green tensor in terms of singularity at the origin?",
+        "A": "The Green tensor is singular at the origin",
+        "B": "The Green tensor is non-singular at the origin",
+        "C": "The Green tensor has a singularity away from the origin",
+        "D": "The Green tensor has a discontinuity at the origin",
+        "Answer": "B",
+        "Source": "This noteworthy result shows that the Green tensor is non-singular at the origin, in contrast to classical elasticity."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the Green tensor of Mindlin's anisotropic first strain gradient elasticity and its comparison to atomistic calculations.",
+        "Question": "What is the purpose of deriving a simple representation of the Green tensor of Mindlin's anisotropic first strain gradient elasticity?",
+        "A": "To complicate the numerical implementation",
+        "B": "To understand the mathematical structure of the Green tensor",
+        "C": "To introduce unphysical singularities",
+        "D": "To prevent the convergence of the Green tensor",
+        "Answer": "B",
+        "Source": "The objective of this paper is to derive a simple representation of the Green tensor of Mindlin's anisotropic first strain gradient elasticity."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the Green tensor of Mindlin's anisotropic first strain gradient elasticity and its comparison to atomistic calculations.",
+        "Question": "What is the Green tensor of Mindlin's gradient elasticity of Helmholtz type characterized by?",
+        "A": "Multiple gradient length scale parameters",
+        "B": "Only one gradient length scale parameter",
+        "C": "Anisotropic material constants",
+        "D": "Infinite gradient-elastic constants",
+        "Answer": "B",
+        "Source": "An even simpler theory, named Mindlin\u2019s gradient elasticity of Helmholtz type, has been proposed by Lazar and Po (2015a). The theory is characterized by only one gradient length scale parameter."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the Green tensor of Mindlin's anisotropic first strain gradient elasticity and its comparison to atomistic calculations.",
+        "Question": "How does the Green tensor of Mindlin's anisotropic strain gradient elasticity compare to the classical Green tensor in terms of convergence to the classical tensor?",
+        "A": "It converges to the classical tensor at the origin",
+        "B": "It diverges from the classical tensor at the origin",
+        "C": "It converges to the classical tensor away from the origin",
+        "D": "It has no relation to the classical tensor",
+        "Answer": "A",
+        "Source": "It is now shown that Green tensor (32) converges to the classical Green tensor G0 when the field point x is sufficiently far from the origin compared to the characteristic length scales."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the Green tensor of Mindlin's anisotropic first strain gradient elasticity and its comparison to atomistic calculations.",
+        "Question": "What is the isotropic Green tensor characterized by in terms of elastic and gradient-elastic constants?",
+        "A": "Multiple gradient length scale parameters",
+        "B": "A single gradient length scale parameter",
+        "C": "Anisotropic material constants",
+        "D": "Infinite gradient-elastic constants",
+        "Answer": "B",
+        "Source": "The isotropic tensor D reads Dijmkln = a1 2 \ufffd \u03b4ij\u03b4km\u03b4ln + ... + 2a2 \u03b4ij\u03b4kl\u03b4mn + a4 \ufffd \u03b4il\u03b4jk\u03b4mn + ... \ufffd, where a1, a2, a3, a4, a5 are the gradient parameters in isotropic Mindlin\u2019s first strain gradient elasticity theory."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the Green tensor of Mindlin's anisotropic first strain gradient elasticity and its comparison to atomistic calculations.",
+        "Question": "What is the consequence of the isotropic Green tensor having a regularized distance function?",
+        "A": "It leads to inaccurate results in numerical simulations",
+        "B": "It indicates a singularity in the displacement field",
+        "C": "It affects the convergence of the Green tensor",
+        "D": "It provides a realistic description of near-core elastic fields",
+        "Answer": "D",
+        "Source": "By sake of (64), the Green tensor finally becomes: Gij(x) = 1 8\u03c0\u03bc \ufffd \u03bc \u03bb + 2\u03bc \u2202i\u2202jA(x, \u21131) + \ufffd \u03b4ij\ufffd \u2212 \u2202i\u2202j \ufffd A(x, \u21132) \ufffd."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the Green tensor of Mindlin's anisotropic first strain gradient elasticity and its comparison to atomistic calculations.",
+        "Question": "What is the purpose of comparing the Green tensor obtained from Mindlin's strain gradient elasticity to atomistic calculations?",
+        "A": "To introduce errors in the displacement field calculations",
+        "B": "To validate the theoretical predictions",
+        "C": "To complicate the numerical analysis",
+        "D": "To prevent the convergence of the Green tensor",
+        "Answer": "B",
+        "Source": "In this section, we compare the Green tensor obtained from Mindlin\u2019s strain gradient elasticity to that obtained from an atomistic system."
+    }
+}

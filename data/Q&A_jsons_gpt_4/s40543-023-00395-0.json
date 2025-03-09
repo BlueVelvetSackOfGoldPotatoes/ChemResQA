@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Transition metal hydroxides have potential applications in environmental and energy fields. They can undergo phase transitions under certain conditions, such as electron beam irradiation.",
+        "Question": "What phase does cobalt hydroxide (Co(OH)2) transition into under electron beam irradiation?",
+        "A": "Cobalt oxyhydroxide (CoOOH)",
+        "B": "Cobalt chloride (CoCl2)",
+        "C": "Spinel Co3O4",
+        "D": "Cobalt sulfate (CoSO4)",
+        "Answer": "C",
+        "Source": "Both the \u03b1- and \u03b2-Co(OH)2 phases underwent a phase transition to a spinel Co3O4 phase, forming nanograins with a porous morphology."
+    },
+    "Question_2": {
+        "Context": "Cobalt hydroxides exist in different phases, which have distinct structural properties and reactivities.",
+        "Question": "Which cobalt hydroxide phase is known to have a faster phase transition under electron beam irradiation?",
+        "A": "\u03b1-Co(OH)2",
+        "B": "\u03b2-Co(OH)2",
+        "C": "\u03b3-Co(OH)2",
+        "D": "\u03b4-Co(OH)2",
+        "Answer": "A",
+        "Source": "However, the \u03b1-Co(OH)2 showed a faster phase transition and dramatic volume shrinkage during the phase transition."
+    },
+    "Question_3": {
+        "Context": "Layered double hydroxides have a structure consisting of positively charged brucite-like layers and negatively charged anions in the hydrated interlayer regions.",
+        "Question": "What is the general representation of the hydrotalcite-like structure in layered double hydroxides?",
+        "A": "MII(OH)2",
+        "B": "MII 1\u2212xMIII x (OH)2 x+(An\u2212)x/n \u00b7 mH2O",
+        "C": "MII 1\u2212xMIII xO2",
+        "D": "MIIAn\u2212 \u00b7 mH2O",
+        "Answer": "B",
+        "Source": "The hydrotalcite-like structure is generally represented as MII 1\u2212xMIII x (OH)2 x+(An\u2212)x/n \u00b7 mH2O where MII 1\u2212x are divalent cations, MIII x are trivalent cations, An\u2212 are interlayer anions with negative charge n, and m is the number of water molecules in the interlayer region."
+    },
+    "Question_4": {
+        "Context": "The interlayer spacing in layered hydroxides can vary depending on the type of intercalated anions and their concentrations.",
+        "Question": "What is the interlayer spacing in \u03b1-Co(OH)2 as determined by X-ray diffraction?",
+        "A": "4.6 \u00c5",
+        "B": "7 \u00c5",
+        "C": "8.03 \u00c5",
+        "D": "10 \u00c5",
+        "Answer": "C",
+        "Source": "The interlayer spacing in our \u03b1-Co(OH)2 was determined in the XRD to be as 8.03 \u00c5."
+    },
+    "Question_5": {
+        "Context": "Electron beam irradiation in transmission electron microscopy can trigger structural changes in materials.",
+        "Question": "What is typically the accelerated voltage range for electron beams used in transmission electron microscopy?",
+        "A": "100\u2013150 kV",
+        "B": "200\u2013300 kV",
+        "C": "400\u2013500 kV",
+        "D": "500\u2013600 kV",
+        "Answer": "B",
+        "Source": "The accelerated electrons (typically 200\u2013300 kV) trigger structural changes in local areas, which can be continuously monitored in real time."
+    },
+    "Question_6": {
+        "Context": "Electron beam irradiation can cause different effects on materials, including crystallization and phase transitions.",
+        "Question": "What effect does electron beam irradiation typically have on materials observed under a transmission electron microscope?",
+        "A": "Only amorphization",
+        "B": "Only crystallization",
+        "C": "Crystallization and/or phase changes",
+        "D": "No effect",
+        "Answer": "C",
+        "Source": "The electron irradiation typically causes crystallization/amorphization or phase changes from one crystalline phase to another, depending on the experimental conditions and the materials."
+    },
+    "Question_7": {
+        "Context": "The morphology of transition metal hydroxides can be studied using various electron microscopy techniques.",
+        "Question": "Which microscopy technique is used to study the morphology of \u03b1- and \u03b2-Co(OH)2 particles?",
+        "A": "Atomic force microscopy (AFM)",
+        "B": "Scanning tunneling microscopy (STM)",
+        "C": "Scanning electron microscopy (SEM)",
+        "D": "X-ray microscopy (XRM)",
+        "Answer": "C",
+        "Source": "The morphology of \u03b1- and \u03b2-Co(OH)2 particles was studied through scanning electron microscopy (SEM)."
+    },
+    "Question_8": {
+        "Context": "During the synthesis of transition metal hydroxides, different reagents are used to influence the resulting phase and morphology.",
+        "Question": "Which reagent was excluded in the initial solution during the synthesis of \u03b2-Co(OH)2 compared to \u03b1-Co(OH)2?",
+        "A": "Cobalt chloride hexahydrate",
+        "B": "Sodium chloride",
+        "C": "Hexamethylenetetramine",
+        "D": "Ethanol",
+        "Answer": "B",
+        "Source": "The synthesis procedure of \u03b2-Co(OH)2 was the same as that of \u03b1-Co(OH)2; however, NaCl was not included in the initial solution."
+    },
+    "Question_9": {
+        "Context": "The phase transition from a layered structure to a spinel structure in transition metal hydroxides can be accompanied by significant structural changes.",
+        "Question": "What structural changes accompany the transition from the layered phase to the spinel phase in Co(OH)2?",
+        "A": "Volume expansion and defect elimination",
+        "B": "Volume shrinkage and defect formation",
+        "C": "Lattice parameter increase and grain growth",
+        "D": "Interlayer spacing reduction and crystal perfection",
+        "Answer": "B",
+        "Source": "The transition from the layered phase to the spinel phase was accompanied by enormous structural changes, including significant volume shrinkage and many defects."
+    },
+    "Question_10": {
+        "Context": "The phase transition of Co(OH)2 under electron beam irradiation can result in the formation of a specific oxide phase with a porous morphology.",
+        "Question": "What is the morphology of the Co3O4 phase formed after the phase transition of Co(OH)2 under electron beam irradiation?",
+        "A": "Dense and compact",
+        "B": "Porous",
+        "C": "Layered",
+        "D": "Fibrous",
+        "Answer": "B",
+        "Source": "Both TEM and HAADF-STEM images showed contrast variation with granular features, indicating that the converted spinel Co3O4 contained a porous morphology."
+    }
+}

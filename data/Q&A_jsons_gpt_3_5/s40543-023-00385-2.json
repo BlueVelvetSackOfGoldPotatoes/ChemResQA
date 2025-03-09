@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study involved a pretreatment process to analyze sulfur isotope compositions of sulfide minerals from metallic ore deposits. It required removing non-analyzed contaminants and substituting sulfur into the barium sulfate form. The sulfur isotope value of barite was found to be lower than that of sulfides.",
+        "Question": "What is the reason for the lower sulfur isotope value of barite compared to sulfides?",
+        "A": "Pyrite and galena have different sulfur isotope compositions.",
+        "B": "The reaction temperature was too low for accurate isotope analysis.",
+        "C": "The sulfur extraction efficiency was poor for galena.",
+        "D": "The sulfur from galena fractionated preferentially with a low isotope value during the H2S-forming process.",
+        "Answer": "D",
+        "Source": "The sulfur isotope value of barite (av. 5.9\u2030), the product, was lower than that of sulfides (av. 6.9\u2030), the reactant; this seems to be attributed to the fact that sulfur from galena was extracted from the sulfide mixture at an early stage and it fractionated preferentially with a low isotope value during the H2S-forming process."
+    },
+    "Question_2": {
+        "Context": "The study involved a series of pretreatment processes to remove contaminants from sulfide minerals. The sulfur isotope fractionation effect between sulfur species was considered during the analysis.",
+        "Question": "Why are a series of pretreatment processes required for the analysis of sulfur isotope compositions of sulfide minerals?",
+        "A": "To increase the sulfur content in the samples.",
+        "B": "To remove contaminants from the analyzed elements.",
+        "C": "To improve the combustion rate of sulfur.",
+        "D": "To reduce the sulfur extraction efficiency.",
+        "Answer": "B",
+        "Source": "To analyze the sulfur isotope compositions of sulfide minerals from metallic ore deposits, a series of pretreatment processes are required to remove non-analyzed contaminants."
+    },
+    "Question_3": {
+        "Context": "The study discussed the usefulness of substituting sulfur into the barium sulfate form for effective sulfur isotope analysis.",
+        "Question": "What is an effective method mentioned in the study for analyzing the sulfur isotope compositions of sulfide minerals?",
+        "A": "Substituting sulfur into the barium sulfate form.",
+        "B": "Directly analyzing the sulfide minerals.",
+        "C": "Using a mass spectrometer without pretreatment.",
+        "D": "Applying heat to the sulfide minerals.",
+        "Answer": "A",
+        "Source": "In particular, substituting sulfur into the barium sulfate form is an effective method."
+    },
+    "Question_4": {
+        "Context": "The study involved a pretreatment process at 200\u00b0C to extract H2S from mixed sulfides comprising pyrite and galena.",
+        "Question": "What was the reaction temperature during the pretreatment process?",
+        "A": "100\u00b0C",
+        "B": "150\u00b0C",
+        "C": "200\u00b0C",
+        "D": "250\u00b0C",
+        "Answer": "C",
+        "Source": "H2S was formed at 200 \u00b0C and reacted with an aqueous solution of Cd(CH3COO)2 to precipitate CdS."
+    },
+    "Question_5": {
+        "Context": "The study discussed the fractionation effect of sulfur isotopes between different sulfide species.",
+        "Question": "What factor largely determines the magnitude of sulfur isotope fractionation between sulfide species?",
+        "A": "The type of metallic elements present in the sulfide minerals.",
+        "B": "The temperature conditions.",
+        "C": "The pH of the solution used for analysis.",
+        "D": "The sulfur content of the sulfide minerals.",
+        "Answer": "B",
+        "Source": "The magnitude of sulfur isotope fractionation is largely dependent on the sulfide species and temperature conditions."
+    },
+    "Question_6": {
+        "Context": "The study mentioned that the sulfur isotope values of the synthesized sulfides are known to be heavier in a specific order.",
+        "Question": "In what order are the sulfur isotope values of synthesized sulfides known to be heavier?",
+        "A": "Pyrite > Chalcopyrite > Sphalerite > Galena",
+        "B": "Galena > Pyrite > Chalcopyrite > Sphalerite",
+        "C": "Sphalerite > Pyrite > Galena > Chalcopyrite",
+        "D": "Chalcopyrite > Sphalerite > Galena > Pyrite",
+        "Answer": "A",
+        "Source": "According to Bachinski (1969), the bond strength of sulfides is estimated by free energy, lattice energy, and other experimentally obtained empirical methods, and 34S-rich sulfide minerals appear in the following order: pyrite > sphalerite > chalcopyrite > galena."
+    },
+    "Question_7": {
+        "Context": "The study discussed the phase change of sulfide minerals during the pretreatment process.",
+        "Question": "What was the recrystallized product after the pretreatment reaction in the study?",
+        "A": "Pyrite",
+        "B": "Sphalerite",
+        "C": "Chalcopyrite",
+        "D": "Barite",
+        "Answer": "D",
+        "Source": "The recrystallized product after the pretreatment reaction was a typical orthorhombic barite composed of BaSO4."
+    },
+    "Question_8": {
+        "Context": "The study mentioned the sulfur extraction efficiency being poor for certain sulfide minerals.",
+        "Question": "Which sulfide mineral was specifically mentioned to have poor sulfur extraction efficiency in the study?",
+        "A": "Pyrite",
+        "B": "Galena",
+        "C": "Chalcopyrite",
+        "D": "Sphalerite",
+        "Answer": "B",
+        "Source": "However, when using the \u201cKiba\u201d reagent, the sulfur extraction efficiency is poor for chalcopyrite (CuFeS2), arsenopyrite (FeAsS), and molybdenite (MoS2)."
+    },
+    "Question_9": {
+        "Context": "The study discussed the sulfur isotope analysis of sulfide minerals containing arsenic.",
+        "Question": "What potential issue was highlighted during the sulfur isotope analysis of sulfide minerals containing arsenic?",
+        "A": "Memory effect causing excess gas and atoms to remain in the device.",
+        "B": "Poor combustion rate of sulfur in the EA/IRMS.",
+        "C": "Contamination within mass spectrometers.",
+        "D": "Low sulfur content in the arsenide samples.",
+        "Answer": "A",
+        "Source": "This memory effect causes excess gas and atoms generated in the previous sample to remain in various parts of the device, including the GC-column, causing the problem of the previously accumulated gas affecting the analysis value of the next sample in the process of successive sample analysis."
+    },
+    "Question_10": {
+        "Context": "The study discussed the importance of considering the effect of sulfur isotope fractionation between sulfur species during the pretreatment process.",
+        "Question": "Why should the effect of sulfur isotope fractionation between sulfur species be considered during the pretreatment process?",
+        "A": "To increase the sulfur extraction efficiency.",
+        "B": "To reduce the sulfur content in the samples.",
+        "C": "To improve the combustion rate of sulfur.",
+        "D": "To ensure accurate sulfur isotope analysis of sulfide mixtures.",
+        "Answer": "D",
+        "Source": "Therefore, for sulfide mineral composite samples, the effect of sulfur isotope fractionation between sulfur species should be considered when dealing with the isotope values obtained from the pretreatment process."
+    }
+}

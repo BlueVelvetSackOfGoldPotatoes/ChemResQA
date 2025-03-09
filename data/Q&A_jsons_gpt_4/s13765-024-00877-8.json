@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "R2R3-MYB transcription factors are known to regulate the expression of genes involved in plant flavonoid biosynthesis.",
+        "Question": "What is the role of R2R3-MYB transcription factors in plants?",
+        "A": "They regulate the expression of genes involved in plant flavonoid biosynthesis",
+        "B": "They are responsible for the plant's ability to absorb water",
+        "C": "They increase the rate of photosynthesis in plants",
+        "D": "They protect the plant from herbivores",
+        "Answer": "A",
+        "Source": "R2R3\u2011MYB transcription factors (TFs) are known to play a key role in regulating the expression of structural genes involved in plant flavonoid biosynthesis."
+    },
+    "Question_2": {
+        "Context": "Isoflavonoids, including isoflavones and anthocyanins, are known for their antioxidant properties in plants.",
+        "Question": "Which compounds are recognized as effective natural antioxidants in plants?",
+        "A": "Carbohydrates",
+        "B": "Isoflavonoids",
+        "C": "Proteins",
+        "D": "Lipids",
+        "Answer": "B",
+        "Source": "Isoflavonoid compounds, including isoflavones and anthocyanins, are among the most effective natural antioxidants."
+    },
+    "Question_3": {
+        "Context": "Anthocyanins are plant pigments that can impart different colors to plant parts, and their appearance is influenced by factors such as vacuolar pH and chemical modifications.",
+        "Question": "What factors influence the color imparted by anthocyanins in plant parts?",
+        "A": "Soil type",
+        "B": "Air humidity",
+        "C": "Vacuolar pH and chemical modifications",
+        "D": "Amount of sunlight",
+        "Answer": "C",
+        "Source": "Anthocyanins impart pink-to-purple color to diverse plant fruits, flowers, and vegetative tissues, depending on the vacuolar pH and chemical modifications."
+    },
+    "Question_4": {
+        "Context": "The biosynthesis of isoflavones in plants involves a multi-step enzymatic process that includes the conversion of phenylalanine to p-coumaroyl-CoA.",
+        "Question": "In the biosynthesis of isoflavones, what is phenylalanine converted into?",
+        "A": "Naringenin",
+        "B": "Malonyl-CoA",
+        "C": "p-Coumaroyl-CoA",
+        "D": "Chalcone",
+        "Answer": "C",
+        "Source": "In general, phenylalanine is transformed into p-coumaroyl-CoA by the enzyme activities of phenylalanine ammonia-lyase (PAL), cinnamic acid 4-hydroxylase (C4H), and 4-coumarate:CoA ligase (4CL)."
+    },
+    "Question_5": {
+        "Context": "Chalcone synthase (CHS) is the initial rate-limiting enzyme in the flavonoid biosynthesis pathway, catalyzing the formation of naringenin chalcone.",
+        "Question": "Which enzyme is the initial rate-limiting step in the flavonoid biosynthesis pathway?",
+        "A": "Isoflavone synthase (IFS)",
+        "B": "Chalcone isomerase (CHI)",
+        "C": "Flavanone 3-hydroxylase (F3H)",
+        "D": "Chalcone synthase (CHS)",
+        "Answer": "D",
+        "Source": "p-Coumaroyl-CoA and malonyl-CoA are then converted to the naringenin chalcone [2\u2032,4,4\u2032,6-tetrahydroxychalcone (THC)] by chalcone synthase (CHS), which is the initial rate-limiting enzyme in the flavonoid biosynthesis pathway."
+    },
+    "Question_6": {
+        "Context": "Flavonoid glycosyltransferases (UGTs) are involved in the glycosylation of anthocyanins during their biosynthesis.",
+        "Question": "What is the role of flavonoid glycosyltransferases (UGTs) in anthocyanin biosynthesis?",
+        "A": "They convert dihydroflavonols into anthocyanins",
+        "B": "They glycosylate anthocyanins",
+        "C": "They synthesize flavanones from chalcones",
+        "D": "They degrade anthocyanins into simpler compounds",
+        "Answer": "B",
+        "Source": "The major transcriptional regulator of flavonoid biosynthesis in various model plant species is a ternary protein complex (MBW) consisting of MYB, a basic helix-loop-helix (bHLH), and WD40-repeat proteins. Of the four MYB protein groups, R2R3-type MYBs are primarily involved in regulating flavonoid biosynthesis in several plant species, including Arabidopsis and apple (Malus domestica)."
+    },
+    "Question_7": {
+        "Context": "The ternary protein complex MBW, consisting of MYB, bHLH, and WD40-repeat proteins, is a major transcriptional regulator of flavonoid biosynthesis in plants.",
+        "Question": "What does the MBW complex consist of?",
+        "A": "MYB, bHLH, and WD40-repeat proteins",
+        "B": "CHS, CHI, and F3H enzymes",
+        "C": "PAL, C4H, and 4CL enzymes",
+        "D": "IFS, HID, and UGT enzymes",
+        "Answer": "A",
+        "Source": "The major transcriptional regulator of flavonoid biosynthesis in various model plant species is a ternary protein complex (MBW) consisting of MYB, a basic helix-loop-helix (bHLH), and WD40-repeat proteins."
+    },
+    "Question_8": {
+        "Context": "In the phenylpropanoid pathway, flavanone 3-hydroxylase (F3H) competes with isoflavone synthase (IFS) for flavanones, which are common precursors for various flavonoids.",
+        "Question": "Which enzyme competes with isoflavone synthase (IFS) for flavanones in the phenylpropanoid pathway?",
+        "A": "Chalcone synthase (CHS)",
+        "B": "Flavanone 3-hydroxylase (F3H)",
+        "C": "Dihydroflavonol 4-reductase (DFR)",
+        "D": "Anthocyanidin synthase (ANS)",
+        "Answer": "B",
+        "Source": "On the contrary, flavanone 3-hydroxylase (F3H) is the enzyme that most commonly competes with IFS for flavanones, common precursors of anthocyanins, flavanols, and proanthocyanidins."
+    },
+    "Question_9": {
+        "Context": "The biosynthesis of isoflavones in soybean involves the enzymatic action of isoflavone synthase (IFS) and hydroxyisoflavanone dehydratase (HID).",
+        "Question": "Which enzymes are involved in the biosynthesis of isoflavones in soybean?",
+        "A": "Phenylalanine ammonia-lyase (PAL) and cinnamic acid 4-hydroxylase (C4H)",
+        "B": "Chalcone synthase (CHS) and chalcone isomerase (CHI)",
+        "C": "Isoflavone synthase (IFS) and hydroxyisoflavanone dehydratase (HID)",
+        "D": "Flavonoid glycosyltransferases (UGTs) and malonyltransferase",
+        "Answer": "C",
+        "Source": "In soybean, abundant isoflavones, including genistein, glycitein, and daidzein, are synthesized by the enzymatic action of IFS and hydroxyisoflavanone dehydratase (HID)."
+    },
+    "Question_10": {
+        "Context": "In Arabidopsis, R2R3-type MYB transcription factors such as AtMYB11, AtMYB12, and AtMYB111 regulate the expression of enzymes involved in the early steps of flavonoid biosynthesis.",
+        "Question": "Which Arabidopsis R2R3-type MYB transcription factors are known to regulate the expression of early flavonoid biosynthetic enzymes?",
+        "A": "AtMYB75, AtMYB90, and AtMYB113",
+        "B": "AtMYB11, AtMYB12, and AtMYB111",
+        "C": "AtMYB114, AtMYB116, and AtMYB62",
+        "D": "AtMYB3, AtMYB10, and AtMYB33",
+        "Answer": "B",
+        "Source": "In Arabidopsis, three R2R3-type MYB TFs (AtMYB11, AtMYB12, and AtMYB111) with differential spatial expression patterns regulate the expressions of diverse enzymes such as CHS, CHI, and F3H."
+    }
+}

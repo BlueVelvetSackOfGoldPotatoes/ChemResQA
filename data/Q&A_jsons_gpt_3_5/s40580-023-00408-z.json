@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Detection of SARS-CoV-2",
+        "Question": "Which category of rapid detection methods is mainly used for detecting SARS-CoV-2 RNA?",
+        "A": "Rapid diagnostic test kits",
+        "B": "Biosensors",
+        "C": "NAAT-based methods",
+        "D": "ELISA",
+        "Answer": "C",
+        "Source": "NAAT based methods were mainly used to detect SARS-CoV-2 RNA by reducing the required time to improve PCR or using more rapid nucleic acid amplification techniques such as LAMP, RT-HDA, and RPA."
+    },
+    "Question_2": {
+        "Context": "Detection of SARS-CoV-2",
+        "Question": "Which biosensor platform has both higher sensitivity and much shorter time for detecting Ag and antibodies?",
+        "A": "Electrochemical biosensors",
+        "B": "Optical biosensors",
+        "C": "NAAT-based methods",
+        "D": "Rapid diagnostic test kits",
+        "Answer": "A",
+        "Source": "For the detection of Ag and antibodies, the biosensor platform has both higher sensitivity and much shorter time (1 min)."
+    },
+    "Question_3": {
+        "Context": "Detection of SARS-CoV-2",
+        "Question": "What is a common means to improve biosensor performance in the detection of virus, pathogens, and microorganisms?",
+        "A": "Noble metal nanoparticles",
+        "B": "Carbon-based nanomaterials",
+        "C": "Bimetallic nanomaterials",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Nanomaterials are applied in the diagnosis of COVID-19 through portable colorimetric devices and biosensors with various transduction mechanisms. AuNPs and its complexes have been widely used in rapid test kits and colorimetric sensors to make the test results visible to the naked eye."
+    },
+    "Question_4": {
+        "Context": "Detection of SARS-CoV-2",
+        "Question": "What is a major advantage of using aptamers as bioreceptors in biosensors?",
+        "A": "High specificity",
+        "B": "Easily synthesized in large quantities",
+        "C": "Great stability",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The advantages of aptamers as bioreceptors are the ability to target a variety of biomarkers, easily synthesized in large quantities and great stability."
+    },
+    "Question_5": {
+        "Context": "Detection of SARS-CoV-2",
+        "Question": "Which nanomaterial is widely used in biosensors for its excellent biocompatibility and detection capabilities?",
+        "A": "Carbon nanotubes",
+        "B": "Quantum dots",
+        "C": "Noble metal nanoparticles",
+        "D": "Bimetallic nanomaterials",
+        "Answer": "A",
+        "Source": "When it comes to carbon-based materials, carbon nanotubes with high specific surface area, good electrical and thermal conductivity have been widely used for biosensors."
+    },
+    "Question_6": {
+        "Context": "Detection of SARS-CoV-2",
+        "Question": "Which type of biosensor platform is a promising diagnostic method for future applications due to its accuracy and rapid detection capabilities?",
+        "A": "Electrochemical biosensors",
+        "B": "Optical biosensors",
+        "C": "NAAT-based methods",
+        "D": "Rapid diagnostic test kits",
+        "Answer": "A",
+        "Source": "Among the methods for rapid detection of SARS-CoV-2, the biosensor platform is a promising diagnostic method for future applications because it can accurately detect SARS-CoV-2 and variants in very short time and does not require expensive instrumentation and specialized technicians."
+    },
+    "Question_7": {
+        "Context": "Detection of SARS-CoV-2",
+        "Question": "What is a key role of nanomaterials in the construction of biosensors?",
+        "A": "Substrates",
+        "B": "Receptors",
+        "C": "Signal transducers",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Nanomaterials in future research may act as substrates, receptors, signal transducers and powerful bio-binders thus becoming an integral part of biosensors."
+    },
+    "Question_8": {
+        "Context": "Detection of SARS-CoV-2",
+        "Question": "Which type of biosensor has been heavily worked on for its ultra-precise detection capabilities?",
+        "A": "Electrochemical biosensors",
+        "B": "Optical biosensors",
+        "C": "Field-effect transistor-based biosensors",
+        "D": "Noble metal nanoparticles",
+        "Answer": "A",
+        "Source": "Graphene and its derivatives are desirable materials for the construction of efficient virus detection biosensors. Wei Li Ang et al. discussed the use of graphene nanocolloids as electroactive materials to develop an electrochemical biosensor for the detection of SARS-CoV-2 RNA."
+    },
+    "Question_9": {
+        "Context": "Detection of SARS-CoV-2",
+        "Question": "What is a major advantage of using carbon-based nanomaterials in biosensors?",
+        "A": "High specificity",
+        "B": "Excellent biocompatibility",
+        "C": "Great stability",
+        "D": "All of the above",
+        "Answer": "B",
+        "Source": "When it comes to carbon-based materials, carbon nanotubes with high specific surface area, good electrical and thermal conductivity have been widely used for biosensors."
+    },
+    "Question_10": {
+        "Context": "Detection of SARS-CoV-2",
+        "Question": "Which type of biosensor platform is more favorable and generally used for the detection of new coronaviruses due to its high sensitivity?",
+        "A": "Field-effect transistor-based biosensors",
+        "B": "Screen-printed sensors",
+        "C": "Optical biosensors based on SPR",
+        "D": "Noble metal nanoparticles",
+        "Answer": "C",
+        "Source": "Optical biosensors based on surface plasmon resonance are increasingly used for the detection of new coronaviruses due to their high sensitivity."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Lignocellulose can be pretreated using various methods to yield products suitable for bioenergy production.",
+        "Question": "Which pretreatment method of lignocellulose can yield clean energy via microbial fermentation?",
+        "A": "Pyrolysis",
+        "B": "Hydrolysis",
+        "C": "Ozonolysis",
+        "D": "Hydrogenation",
+        "Answer": "A",
+        "Source": "Lignocellulose pretreated using pyrolysis can yield clean energy (such as bioethanol) via microbial fermentation."
+    },
+    "Question_2": {
+        "Context": "Bio-oil derived from lignocellulosic biomass contains compounds that can inhibit microbial growth.",
+        "Question": "Which of the following compounds present in bio-oil can inhibit the growth and metabolism of microorganisms?",
+        "A": "Sugars",
+        "B": "Aldehydes",
+        "C": "Alkanes",
+        "D": "Esters",
+        "Answer": "B",
+        "Source": "However, the acids, aldehydes, and phenols present in bio-oil with inhibitory effects on microorganisms compromise the downstream utilization and conversion of lignocellulosic pyrolysates."
+    },
+    "Question_3": {
+        "Context": "Microbial electrolysis cell (MEC) technology combines biological fermentation and electrochemical technologies.",
+        "Question": "What is the primary application of microbial electrolysis cell technology?",
+        "A": "Water desalination",
+        "B": "Metal extraction",
+        "C": "Waste treatment and bioenergy production",
+        "D": "Food preservation",
+        "Answer": "C",
+        "Source": "Microbial electrolysis cell (MEC) technology is a combination of biological fermentation and electrochemical technologies that has shown promising applications in waste treatment and bioenergy production technology."
+    },
+    "Question_4": {
+        "Context": "In bio-oil media, certain compounds can act as inhibitors to the fermentation process.",
+        "Question": "Which compound is not typically considered an inhibitor in bio-oil media for microbial fermentation?",
+        "A": "Formic acid",
+        "B": "Acetic acid",
+        "C": "Furfural",
+        "D": "Levoglucosan",
+        "Answer": "D",
+        "Source": "In undetoxified bio-oil media containing 1.0% (w/v) levoglucosan, E. coli-H produced 0.54 g ethanol/g levoglucosan, reaching 94% of the theoretical yield."
+    },
+    "Question_5": {
+        "Context": "Microorganisms can be evolved to enhance their resistance to inhibitory environments.",
+        "Question": "What is the purpose of subjecting E. coli to adaptive evolution in the context of bio-oil fermentation?",
+        "A": "To decrease its growth rate",
+        "B": "To enhance its resistance to inhibitors",
+        "C": "To reduce its ethanol production capacity",
+        "D": "To increase its oxygen consumption",
+        "Answer": "B",
+        "Source": "It was initially subjected to adaptive evolution under the selection pressure of inhibitors to obtain two evolved strains, namely E. coli-H and E. coli-L (different adaptive generations), with stable phenotypes and strong resistance to the inhibitory environment of bio-oil."
+    },
+    "Question_6": {
+        "Context": "Bio-oil contains a variety of compounds, some of which can be potential inhibitors in microbial fermentation processes.",
+        "Question": "Which of the following is a primary component of bio-oil used for ethanol production?",
+        "A": "Acetic acid",
+        "B": "Levoglucosan",
+        "C": "Furfural",
+        "D": "Formic acid",
+        "Answer": "B",
+        "Source": "In addition to levoglucosan, there are numerous other compounds present in bio-oil, including formic acid, acetic acid, furfural..."
+    },
+    "Question_7": {
+        "Context": "Microbial fermentation can be used to convert biomass into biofuels such as bioethanol.",
+        "Question": "What is the theoretical yield of ethanol from levoglucosan in the context of microbial fermentation?",
+        "A": "50%",
+        "B": "75%",
+        "C": "94%",
+        "D": "100%",
+        "Answer": "C",
+        "Source": "In undetoxified bio-oil media containing 1.0% (w/v) levoglucosan, E. coli-H produced 0.54 g ethanol/g levoglucosan, reaching 94% of the theoretical yield."
+    },
+    "Question_8": {
+        "Context": "The microbial electrolysis cell system can be used for bio-oil detoxification and ethanol production.",
+        "Question": "What role does the microbial electrolysis cell system play in ethanol production from bio-oil?",
+        "A": "It decreases the ethanol yield",
+        "B": "It detoxifies the bio-oil and enhances ethanol production",
+        "C": "It increases the water content in bio-oil",
+        "D": "It inhibits the microbial fermentation process",
+        "Answer": "B",
+        "Source": "In this study, we constructed a microbial electrolysis cell system for bio-oil detoxification and efficient ethanol production using evolved Escherichia coli."
+    },
+    "Question_9": {
+        "Context": "During microbial fermentation, the presence of certain compounds can inhibit the production of desired products.",
+        "Question": "Which of the following compounds is known to inhibit microbial growth and metabolism, thereby reducing the yield of bioethanol fermentation?",
+        "A": "Ethanol",
+        "B": "Glucose",
+        "C": "Phenolic compounds",
+        "D": "Amino acids",
+        "Answer": "C",
+        "Source": "However, several of the constituents of bio-oil have previously been reported to adversely influence microbial growth, among which the organic acids, aldehydes, and phenolic compounds produced following the pyrolysis of lignocellulosic biomass can inhibit the growth and metabolism of microorganisms."
+    },
+    "Question_10": {
+        "Context": "The efficiency of microbial electrolysis cells can be assessed by measuring certain parameters.",
+        "Question": "What does the Coulomb efficiency in a microbial electrolysis cell indicate?",
+        "A": "The ratio of the mass of ethanol produced to the theoretical mass",
+        "B": "The amount of water used in the process",
+        "C": "The temperature stability of the cell",
+        "D": "The pH level of the fermentation medium",
+        "Answer": "A",
+        "Source": "The Coulomb efficiency for the formation of ethanol (FECH3CH2OH) was calculated as follows: where nCH3CH2OH represents an increase in the moles of ethanol harvested in the MEC, n represents the number of electrons required for the formation of one molecule of ethanol from levoglucosan (n = 4), F represents the Coulomb constant (96,485 C/mol of electrons), and I is the circuit current."
+    }
+}

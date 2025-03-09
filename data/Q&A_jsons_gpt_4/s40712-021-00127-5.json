@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In turbomachinery, the inlet region can experience flow distortions due to induced fluid swirl and improper flow incidence onto the impeller.",
+        "Question": "What is one of the problem areas of fluid flow in the turbomachine?",
+        "A": "Outlet region",
+        "B": "Inlet region",
+        "C": "Impeller center",
+        "D": "Diffuser",
+        "Answer": "B",
+        "Source": "One of the problem areas of fluid flow in the turbomachine is its inlet region, manifested by flow distortions due to the induced fluid swirl accompanied by improper flow incidence onto the impeller."
+    },
+    "Question_2": {
+        "Context": "In centrifugal fans, the hub is a main component, and its geometry can significantly affect the machine's performance.",
+        "Question": "What component in centrifugal fans has not been significantly studied for geometrical modifications to enhance performance?",
+        "A": "Impeller blades",
+        "B": "Diffuser",
+        "C": "Hub",
+        "D": "Volute casing",
+        "Answer": "C",
+        "Source": "Further, the hub forms one of the main components of many of the turbomachines and it is found that there has not been significant study on geometrical modifications of the same in centrifugal fans for augmented performance."
+    },
+    "Question_3": {
+        "Context": "The performance of centrifugal fans can be improved by altering the geometry of the hub, which can streamline the flow at the inlet.",
+        "Question": "What is the role of the hub in the performance of centrifugal fans?",
+        "A": "Decreases efficiency",
+        "B": "Increases noise levels",
+        "C": "Streamlines the flow at the inlet",
+        "D": "Causes flow distortions",
+        "Answer": "C",
+        "Source": "It is revealed from experimental analysis that hub plays a vital role in streamlining the flow at the inlet to the centrifugal fan and augments its performance."
+    },
+    "Question_4": {
+        "Context": "The flow behavior at the entrance region of an impeller in a centrifugal fan is complex and can lead to undesirable flow losses.",
+        "Question": "What type of flow behavior at the entrance region of an impeller in a centrifugal fan can cause a reduction in overall efficiency?",
+        "A": "Laminar flow",
+        "B": "Turbulent flow",
+        "C": "Swirl and strong fluid-boundary interactions",
+        "D": "Uniform flow",
+        "Answer": "C",
+        "Source": "It is generally understood that the flow behavior at the entrance region of an impeller of the centrifugal fan is highly complex with pre-rotation, swirl, and strong fluid\u2014boundary interactions."
+    },
+    "Question_5": {
+        "Context": "In centrifugal fans, the inlet flow distortions can be mitigated by modifying the inlet flow geometry.",
+        "Question": "What is essential to develop in order to improve the flow characteristics of centrifugal fans?",
+        "A": "Larger impeller blades",
+        "B": "Higher rotational speeds",
+        "C": "Suitable modification of inlet flow geometry",
+        "D": "Increased number of diffuser vanes",
+        "Answer": "C",
+        "Source": "Due to inlet flow distortions, it is essential to develop a suitable modification of inlet flow geometry to improve the flow characteristics."
+    },
+    "Question_6": {
+        "Context": "The performance of a centrifugal fan can be influenced by the presence of inlet guide vanes (IGVs), which can affect pressure fluctuations.",
+        "Question": "What effect do inlet guide vanes (IGVs) have on the pressure fluctuations in a centrifugal pump?",
+        "A": "Increase pressure fluctuations",
+        "B": "Have no effect on pressure fluctuations",
+        "C": "Minimize pressure fluctuations",
+        "D": "Cause intermittent pressure fluctuations",
+        "Answer": "C",
+        "Source": "The flow patterns and the pressure fluctuations in a centrifugal pump with and without inlet guide vanes (IGV) were studied by Liu et al. (2018). It is found in their study that the IGVs significantly minimize the pressure fluctuations."
+    },
+    "Question_7": {
+        "Context": "Variable pitch inducers can be used in centrifugal fans to improve anti-cavitation effects.",
+        "Question": "What is observed to increase at both the inducer and the impeller with the increase in rotational speed when using variable pitch inducers?",
+        "A": "Pressure fluctuations",
+        "B": "Static pressure",
+        "C": "Flow distortions",
+        "D": "Noise levels",
+        "Answer": "B",
+        "Source": "The use of variable pitch inducers on the upstream side of the impeller was studied numerically and experimentally by Guo et al. (2017) to improve the anti-cavitation effect. It is observed from their study that with the increase in rotational speed, the static pressure is found to increase at both the inducer and the impeller."
+    },
+    "Question_8": {
+        "Context": "The presence of small fins at the inlet of a centrifugal compressor can influence the compressor's stability.",
+        "Question": "What is the effect of small fins at the inlet of a centrifugal compressor?",
+        "A": "Increase flow recirculation",
+        "B": "Prevent inlet recirculation",
+        "C": "Decrease compressor stability",
+        "D": "Have no effect on compressor performance",
+        "Answer": "B",
+        "Source": "Tamaki et al. (2016) tried to shift the compressor stability limit in a centrifugal compressor using finned inlet method. The study mainly focused on the effect of small fins at the inlet. It is concluded from their study that the inlet recirculation is prevented by the inlet fins."
+    },
+    "Question_9": {
+        "Context": "The size of the bell mouth at the inlet of a semi-opened type axial fan can influence the pressure-rise near the best efficiency point.",
+        "Question": "What happens to the pressure-rise near the best efficiency point with the decreasing bell mouth size in a semi-opened type axial fan?",
+        "A": "Increases significantly",
+        "B": "Remains unchanged",
+        "C": "Becomes small",
+        "D": "Becomes erratic",
+        "Answer": "C",
+        "Source": "Liu et al. (2014) investigated the influence of bell mouth at inlet of semi-opened type axial fan on its flow behavior experimentally. They concluded that the pressure-rise near the best efficiency point becomes small with the decreasing bell mouth size."
+    },
+    "Question_10": {
+        "Context": "The performance of a fan can be affected by radial inflow distortions, which can be simulated using screens at the rotor's upstream.",
+        "Question": "What is the observed trend in overall performance of the fan with hub-strong radial inflow distortions?",
+        "A": "Significant improvement",
+        "B": "No change",
+        "C": "Slight improvement",
+        "D": "Reducing trend",
+        "Answer": "D",
+        "Source": "Mistry and Pradeep (2014) performed experimental investigations on the hub-strong and tip-strong radial inflow distortion on a fan stage performance. They found a reducing trend in overall performance of the fan in terms of pressure rise and efficiency by about 2 to 4% for the hub-strong radial distortion."
+    }
+}

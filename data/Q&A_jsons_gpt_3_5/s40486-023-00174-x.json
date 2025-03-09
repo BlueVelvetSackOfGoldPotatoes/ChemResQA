@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of an electrochemical sensor for the detection of Epinephrine (EP) utilizing Azure A (AzA) and silver nanoparticles. The sensor exhibited enhanced electrocatalytic oxidation of EP at a lower oxidation potential.",
+        "Question": "What was the main purpose of developing the electrochemical sensor discussed in the paper?",
+        "A": "To detect dopamine levels in the body",
+        "B": "To determine blood glucose levels",
+        "C": "To measure Epinephrine concentrations",
+        "D": "To analyze lipid breakdown in fat cells",
+        "Answer": "C",
+        "Source": "Catecholamines, including Epinephrine (EP), are widely used as medications for various conditions. The electrochemical sensor was developed for the detection of Epinephrine, enabling its determination within a specific concentration range."
+    },
+    "Question_2": {
+        "Context": "The paper describes the fabrication of a modified electrode using AzA/silver nanoclusters and its electrochemical properties.",
+        "Question": "What technique was primarily used to investigate the morphological analysis of AzA/silver nanoclusters?",
+        "A": "Field-emission scanning electron microscopy (FESEM)",
+        "B": "Transmission electron microscopy (TEM)",
+        "C": "Atomic force microscopy (AFM)",
+        "D": "X-ray diffraction (XRD)",
+        "Answer": "A",
+        "Source": "The morphological analysis of AzA/silver nanoclusters was conducted using field-emission scanning electron microscopy (FESEM)."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the electrochemical analysis of the modified electrode for the detection of Epinephrine.",
+        "Question": "What was the lower oxidation potential observed for the electrocatalytic oxidation of Epinephrine at the modified electrode?",
+        "A": "0.36 V",
+        "B": "0.27 V",
+        "C": "0.45 V",
+        "D": "0.55 V",
+        "Answer": "B",
+        "Source": "The modified electrode exhibited enhanced electrocatalytic oxidation of EP at a lower oxidation potential of 0.27 V."
+    },
+    "Question_4": {
+        "Context": "The paper highlights the detection limit and concentration range for Epinephrine using the modified electrode.",
+        "Question": "What was the detection limit for Epinephrine using the modified electrode?",
+        "A": "2.2 \u00d7 10^-6 M",
+        "B": "2.2 \u00d7 10^-7 M",
+        "C": "3.6 \u00d7 10^-3 M",
+        "D": "4.6 \u00d7 10^-7 M",
+        "Answer": "B",
+        "Source": "The detection limit of the modified electrode for Epinephrine was found to be 2.2 \u00d7 10^-7 M."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the electrochemical behavior of the modified electrode at different pH levels.",
+        "Question": "How did the peak potentials of the modified electrode change with increasing pH levels?",
+        "A": "Shifted towards more positive values",
+        "B": "Remained constant",
+        "C": "Shifted towards more negative values",
+        "D": "Showed irregular fluctuations",
+        "Answer": "C",
+        "Source": "Both the cathodic and anodic peak potentials of the modified electrode shift towards more negative values as the pH of the buffer solution increases."
+    },
+    "Question_6": {
+        "Context": "The paper describes the electrocatalytic activity of the modified electrode for the oxidation of Epinephrine.",
+        "Question": "What was the applied potential selected as the optimum potential for the AzA/silver nanoclusters modified electrode?",
+        "A": "+0.1 V",
+        "B": "+0.2 V",
+        "C": "+0.25 V",
+        "D": "+0.3 V",
+        "Answer": "D",
+        "Source": "For the amperometric determination of EP, an applied potential of +0.3 V was selected as the optimum potential for the AzA/silver nanoclusters modified electrode."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the stability of the modified electrode for the detection of Epinephrine.",
+        "Question": "How did the modified electrode perform in terms of stability over a 45-day period?",
+        "A": "Showed significant degradation in performance",
+        "B": "Exhibited minimal decrease in current response",
+        "C": "Lost its electrocatalytic activity",
+        "D": "Showed inconsistent results",
+        "Answer": "B",
+        "Source": "The modified electrode exhibited a consistent and stable current response throughout the 45-day duration, with only a negligible decrease in current at the end of the period."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the determination of Epinephrine in real urine samples using the modified electrode.",
+        "Question": "What was the main advantage of coating the AzA/silver nanoclusters with Nafion?",
+        "A": "Enhanced detection of glucose levels",
+        "B": "Improved detection of lysine concentrations",
+        "C": "Effective detection of Epinephrine in the presence of ascorbic acid",
+        "D": "Increased sensitivity to citric acid",
+        "Answer": "C",
+        "Source": "By coating the AzA/silver nanoclusters with Nafion, the proposed electrode can effectively detect EP even in the presence of high concentrations of ascorbic acid."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the electrochemical determination of Epinephrine using the modified electrode.",
+        "Question": "What was the correlation coefficient observed for the linear relation between the catalytic oxidation current and the concentration of Epinephrine?",
+        "A": "0.9950",
+        "B": "0.9960",
+        "C": "0.9940",
+        "D": "0.9970",
+        "Answer": "B",
+        "Source": "The plot of catalytic oxidation against the concentration of EP exhibited a linear relationship with a correlation coefficient of 0.9960."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the practicality of the developed amperometric sensor for the detection of Epinephrine.",
+        "Question": "What was the primary advantage of the modified electrode for analyzing other biologically significant compounds?",
+        "A": "Cost-effectiveness",
+        "B": "Ease of fabrication",
+        "C": "Stability",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The developed electrode offers advantages of cost-effectiveness, ease of fabrication, and stability, making it suitable for analyzing other biologically significant compounds."
+    }
+}

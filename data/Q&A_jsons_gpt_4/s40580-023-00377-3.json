@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In photoacoustic imaging, a laser beam is used to illuminate the target tissue, causing optical chromophores within the tissue to absorb light energy and release it, leading to thermoelastic expansion and the generation of acoustic waves.",
+        "Question": "What is the primary physical effect that enables the generation of acoustic waves in photoacoustic imaging?",
+        "A": "Magnetic resonance",
+        "B": "Thermoelastic expansion",
+        "C": "Piezoelectric effect",
+        "D": "Photon-induced photoionization",
+        "Answer": "B",
+        "Source": "To generate PA waves, a laser beam with a typical pulse width of a few nanoseconds illuminates the target tissue. The optical chromophores in biological tissue absorb the light energy and then release the energy soon after. The energy release can occur as either light energy with a slightly shifted wavelength or as thermal energy that causes thermoelastic expansion."
+    },
+    "Question_2": {
+        "Context": "Photoacoustic imaging can be performed at different scales, including nanoscale imaging which allows for super-resolution images of small structures such as organelles within cells.",
+        "Question": "What scale of photoacoustic imaging is capable of providing super-resolution images of single organelles within cells?",
+        "A": "Macroscale",
+        "B": "Microscale",
+        "C": "Nanoscale",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "At nanoscale, photoacoustic imaging has provided super-resolution images of the surface light absorption characteristics of materials and of single organelles in cells."
+    },
+    "Question_3": {
+        "Context": "In the field of photoacoustic imaging, different techniques such as optical-resolution photoacoustic microscopy and acoustic-resolution photoacoustic microscopy are used to achieve varying levels of resolution and imaging depth.",
+        "Question": "Which photoacoustic imaging technique is characterized by achieving high lateral resolution through fine optical focusing within the optical diffusion limit?",
+        "A": "Acoustic-resolution photoacoustic microscopy",
+        "B": "Optical-resolution photoacoustic microscopy",
+        "C": "Photoacoustic computed tomography",
+        "D": "Photoacoustic macroscopy",
+        "Answer": "B",
+        "Source": "Optical-resolution PAI (i.e., optical-resolution photoacoustic microscopy, OR-PAM) can achieve high lateral resolution through fine optical focusing within the optical diffusion limit."
+    },
+    "Question_4": {
+        "Context": "Photoacoustic imaging techniques can be used to measure various physiological parameters in biological tissues. These parameters can be categorized based on their relation to local molecular composition or blood flowmetry and vessel morphology.",
+        "Question": "Which category of physiological parameters measured by photoacoustic imaging includes local tissue composition and blood flow?",
+        "A": "Chromophore concentration",
+        "B": "Molecular composition parameters",
+        "C": "Blood flowmetry and vessel morphology",
+        "D": "Metabolic rate of oxygen",
+        "Answer": "C",
+        "Source": "Blood vessels are frequent targets of PAI, which can capture their morphology and blood flow features. Structural parameters such as vessel density, vessel diameter, and vessel tortuosity contribute to understanding the metabolic change and angiogenetic progression of a diseased organ or of carcinogenesis."
+    },
+    "Question_5": {
+        "Context": "In photoacoustic imaging, the use of multiwavelength excitation allows for the visualization and distinction of different chromophores within biological tissues based on their unique photoacoustic absorption spectra.",
+        "Question": "What enables the differentiation of various chromophores in biological tissue during photoacoustic imaging?",
+        "A": "Temperature variations",
+        "B": "Magnetic field changes",
+        "C": "Spectral unmixing",
+        "D": "Electrical conductivity differences",
+        "Answer": "C",
+        "Source": "Since each chromophore in biological tissue has a distinctive PA absorption spectrum within the NIR region, a distribution map of any given chromophore can be calculated by processing a series of PA images acquired via multiwavelength excitation."
+    },
+    "Question_6": {
+        "Context": "In photoacoustic imaging, the lateral resolution and imaging depth can be adjusted by modifying the system configuration, which includes the optical focus of the excitation laser and the acoustic focus of the receiving ultrasound transducer.",
+        "Question": "What factors determine the resolution of photoacoustic signals in photoacoustic imaging?",
+        "A": "The optical focus of the excitation laser and the acoustic focus of the receiving ultrasound transducer",
+        "B": "The frequency of the ultrasound transducer only",
+        "C": "The wavelength of the excitation laser only",
+        "D": "The temperature of the target tissue",
+        "Answer": "A",
+        "Source": "The resolution of PA signals depends on both the optical focus of the excitation laser and the acoustic focus of the receiving US transducer, so images with tuned spatial resolutions and imaging depths can be achieved by modifying the system configuration."
+    },
+    "Question_7": {
+        "Context": "In photoacoustic imaging, the photoacoustic effect involves the conversion of light energy to acoustic waves via thermoelastic expansion, which is induced by the absorption of pulsed light by the target tissue.",
+        "Question": "What is the photoacoustic effect in the context of photoacoustic imaging?",
+        "A": "The generation of a magnetic field in response to light absorption",
+        "B": "The conversion of light energy to acoustic waves via thermoelastic expansion",
+        "C": "The emission of light by a substance that has absorbed light or other electromagnetic radiation",
+        "D": "The reflection of light off the surface of a material",
+        "Answer": "B",
+        "Source": "PAI is based on the photoacoustic (PA) effect, in which energy is converted from light to acoustic waves via thermoelastic expansion."
+    },
+    "Question_8": {
+        "Context": "In photoacoustic imaging, the use of a laser beam with a typical pulse width of a few nanoseconds is crucial for the generation of photoacoustic waves.",
+        "Question": "What is the typical pulse width of the laser beam used to generate photoacoustic waves in photoacoustic imaging?",
+        "A": "A few milliseconds",
+        "B": "A few microseconds",
+        "C": "A few nanoseconds",
+        "D": "A few picoseconds",
+        "Answer": "C",
+        "Source": "To generate PA waves, a laser beam with a typical pulse width of a few nanoseconds illuminates the target tissue."
+    },
+    "Question_9": {
+        "Context": "In photoacoustic imaging, the energy absorbed by optical chromophores can be released in different forms, one of which is thermal energy that causes thermoelastic expansion.",
+        "Question": "How can the energy absorbed by optical chromophores in biological tissue be released according to photoacoustic imaging principles?",
+        "A": "As electrical impulses",
+        "B": "As light energy with a shifted wavelength or as thermal energy",
+        "C": "As mechanical vibrations only",
+        "D": "As chemical energy",
+        "Answer": "B",
+        "Source": "The energy release can occur as either light energy with a slightly shifted wavelength or as thermal energy that causes thermoelastic expansion."
+    },
+    "Question_10": {
+        "Context": "In photoacoustic imaging, the imaging depth is fundamentally limited by the strong optical scattering within turbid biological tissues, which restricts the observation depth of pure optical imaging techniques.",
+        "Question": "What fundamental property of biological tissues limits the imaging depth of pure optical imaging techniques in photoacoustic imaging?",
+        "A": "Optical scattering",
+        "B": "Electrical conductivity",
+        "C": "Magnetic permeability",
+        "D": "Acoustic impedance",
+        "Answer": "A",
+        "Source": "However, the strong optical scattering within turbid biological tissues fundamentally limits the imaging depth of these pure optical imaging techniques to no deeper than the optical ballistic depth (< 1 mm)."
+    }
+}

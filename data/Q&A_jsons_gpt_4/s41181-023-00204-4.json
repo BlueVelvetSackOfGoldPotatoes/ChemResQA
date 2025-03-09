@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Mucin 1 (MUC1) is a transmembrane glycoprotein that is normally expressed on the apical surface of epithelial cells and has roles in cell signaling and anti-adhesion properties. In certain malignancies, such as pancreatic ductal adenocarcinoma, a dysregulation of the glycosylation pattern of normal MUC1 reveals novel cancer-specific epitopes (MUC1-CE).",
+        "Question": "What is the role of MUC1 in normal epithelial cells?",
+        "A": "Cell signaling and anti-adhesion",
+        "B": "Oxygen transport",
+        "C": "Hormone production",
+        "D": "Enzyme inhibition",
+        "Answer": "A",
+        "Source": "Mucin 1 (MUC1) is a transmembrane glycoprotein that is normally expressed on the apical surface of epithelial cells and has a role in cell signalling and anti-adhesion properties."
+    },
+    "Question_2": {
+        "Context": "In epithelial malignancies, such as pancreatic ductal adenocarcinoma, a dysregulation of the glycosylation pattern of normal MUC1 reveals novel cancer-specific epitopes (MUC1-CE).",
+        "Question": "What change in MUC1 is associated with epithelial malignancies like pancreatic ductal adenocarcinoma?",
+        "A": "Decreased expression of MUC1",
+        "B": "Dysregulation of glycosylation pattern revealing MUC1-CE",
+        "C": "Increased enzymatic activity of MUC1",
+        "D": "Loss of transmembrane domain of MUC1",
+        "Answer": "B",
+        "Source": "In epithelial malignancies such as PDAC, a dysregulation of the glycosylation pattern of normal MUC1 reveals novel cancer-specific epitopes (MUC1-CE)."
+    },
+    "Question_3": {
+        "Context": "Several studies have shown that MUC1-CE is expressed in over 90% of pancreatic cancers. Expression of MUC1-CE has also been linked with chemoresistance and disease progression.",
+        "Question": "What is the significance of MUC1-CE expression in pancreatic cancers?",
+        "A": "It is underexpressed in most cases",
+        "B": "It is linked with increased sensitivity to chemotherapy",
+        "C": "It is expressed in over 90% of cases and linked with chemoresistance",
+        "D": "It has no impact on disease progression",
+        "Answer": "C",
+        "Source": "Several studies have shown that MUC1-CE is expressed in over 90% of pancreatic cancers. Expression of MUC1-CE has also been linked with chemoresistance and disease progression."
+    },
+    "Question_4": {
+        "Context": "Radiolabelling of antibodies to a therapeutic radionuclide which emits alpha particles, beta particles or auger electrons has been shown to elicit a cytotoxic effect.",
+        "Question": "What is the outcome of radiolabelling antibodies with radionuclides that emit alpha particles, beta particles, or auger electrons?",
+        "A": "Decreased antibody stability",
+        "B": "Elicitation of a cytotoxic effect",
+        "C": "Increased antibody targeting specificity",
+        "D": "Reduction in antibody affinity",
+        "Answer": "B",
+        "Source": "Radiolabelling of these antibodies to a therapeutic radionuclide which emits alpha particles, beta particles or auger electrons has been shown to elicit a cytotoxic effect."
+    },
+    "Question_5": {
+        "Context": "Lutetium-177 (Lu-177) is a beta-emitting radionuclide that has established its role in clinical nuclear medicine due to its optimal half-life and medium range beta-emissions, which provide cross-fire effects to target solid tumours.",
+        "Question": "Why is Lutetium-177 (Lu-177) used in clinical nuclear medicine for targeting solid tumours?",
+        "A": "Due to its short half-life and high-energy gamma emissions",
+        "B": "Because it emits alpha particles with a very short range",
+        "C": "Due to its optimal half-life and medium range beta-emissions",
+        "D": "Because it is a stable isotope with no radioactive emissions",
+        "Answer": "C",
+        "Source": "As a beta-emitting radionuclide, Lutetium-177 (Lu-177) has established itself within the clinical nuclear medicine field due to its increasing availability, 6.7 day half-life allowing for optimal tumour diffusion before decay, and medium range beta-emissions which provide cross-fire effects to target solid tumours."
+    },
+    "Question_6": {
+        "Context": "The process of conjugation involves attaching a bifunctional chelator to an antibody, which can then be used for subsequent radiolabelling.",
+        "Question": "What is the purpose of conjugating a bifunctional chelator to an antibody in the context of radiopharmaceutical development?",
+        "A": "To decrease the immunogenicity of the antibody",
+        "B": "To enable the antibody to cross the blood-brain barrier",
+        "C": "To facilitate subsequent radiolabelling of the antibody",
+        "D": "To increase the half-life of the antibody in the bloodstream",
+        "Answer": "C",
+        "Source": "Conjugation of p\u2011SCN\u2011Bn\u2011DOTA to C595 antibody A 40-fold molar excess of p-SCN-Bn-DOTA was incubated with C595 antibody for 2 h in a 0.1 M sodium bicarbonate buffer (pH 8.5) at 37 \u00b0C in a ThermoMixer\u00ae (Eppendorf, Germany) at 700 RPM. Unbound DOTA was removed through a purification process using 50 kDa Amicon\u00ae centrifugal filter units."
+    },
+    "Question_7": {
+        "Context": "In vitro experiments can be used to assess the binding affinity of a radioimmunoconjugate to cancer cells, which is crucial for determining its potential efficacy as a therapeutic agent.",
+        "Question": "What is the significance of assessing the binding affinity of a radioimmunoconjugate to cancer cells in vitro?",
+        "A": "To determine the nutritional requirements of the cancer cells",
+        "B": "To measure the metabolic rate of the cancer cells",
+        "C": "To evaluate the potential efficacy of the radioimmunoconjugate as a therapeutic agent",
+        "D": "To assess the ability of cancer cells to resist apoptosis",
+        "Answer": "C",
+        "Source": "All cell lines demonstrated a linear relationship between the concentration of [177Lu] Lu-DOTA-C595 added and bound radioactivity. Binding of [177Lu]Lu-DOTA-C595 was significantly greater to PANC-1 cells than all other cell lines at concentrations of 50, 200, 300 and 400 nM."
+    },
+    "Question_8": {
+        "Context": "The internalisation assay is used to evaluate the rate at which a radioimmunoconjugate is taken up by cancer cells, which can influence the overall toxicity of the therapy.",
+        "Question": "Why is the internalisation rate of a radioimmunoconjugate by cancer cells important?",
+        "A": "It determines the speed at which cancer cells can replicate",
+        "B": "It influences the overall toxicity of the therapy to the cancer cells",
+        "C": "It affects the ability of cancer cells to migrate and invade other tissues",
+        "D": "It indicates the energy production rate of cancer cells",
+        "Answer": "B",
+        "Source": "The internalised fraction of activity demonstrated rapid increases in PANC-1 cells as time progressed, whilst all other cell lines demonstrated lower levels of internalisation with only mild increases in internalised counts over time."
+    },
+    "Question_9": {
+        "Context": "The clonogenic assay is a method used to evaluate the cytotoxic effects of a treatment by assessing the ability of a single cell to grow into a colony.",
+        "Question": "What is the purpose of a clonogenic assay in the context of evaluating a radioimmunoconjugate's cytotoxic effects?",
+        "A": "To determine the ability of a single cell to grow into a colony after treatment",
+        "B": "To measure the oxygen consumption of treated cells",
+        "C": "To assess the rate of DNA replication in treated cells",
+        "D": "To evaluate the membrane potential of treated cells",
+        "Answer": "A",
+        "Source": "To evaluate the cytotoxic effects of [177Lu]Lu-DOTA-C595, a clonogenic assay was performed using PANC-1 and AsPC-1 cell lines."
+    },
+    "Question_10": {
+        "Context": "\u03b3H2AX foci staining is a technique used to detect double-strand DNA breaks, which are indicative of DNA damage within cells.",
+        "Question": "What does the detection of \u03b3H2AX foci in cells indicate?",
+        "A": "Cellular respiration activity",
+        "B": "Presence of double-strand DNA breaks",
+        "C": "Activation of protein synthesis pathways",
+        "D": "Initiation of cell differentiation",
+        "Answer": "B",
+        "Source": "Staining of \u03b3H2AX foci was used as a marker for detecting double strand DNA breaks."
+    }
+}

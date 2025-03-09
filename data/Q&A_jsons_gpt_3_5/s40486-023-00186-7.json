@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the integration of a sense-based user interface (SUI) platform for analyzing behavioral patterns of young children. It mentions the use of pressure sensors created using flexible inkjet printing with a piezoresistive sensing layer.",
+        "Question": "What type of pressure sensors were utilized in the study?",
+        "A": "Capacitive sensors",
+        "B": "Piezoresistive sensors",
+        "C": "Resistive sensors",
+        "D": "Inductive sensors",
+        "Answer": "B",
+        "Source": "In this study, we opted for the piezoresistive method due to its advantages, including high sensitivity at low pressures and ease of fabrication."
+    },
+    "Question_2": {
+        "Context": "The paper describes the fabrication process of the pressure sensors used in the study.",
+        "Question": "What material was used as the pressure-sensitive layer in the pressure sensors?",
+        "A": "Polyimide",
+        "B": "Carbon black",
+        "C": "Velostat",
+        "D": "Conductive electrodes",
+        "Answer": "C",
+        "Source": "Commercial Velostat is utilized as a pressure-sensitive layer (Velostat 1361, Adafruit). Velostat is a pressure-sensitive material that imparts electrical conductivity by incorporating carbon black into a polymer layer."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the design of the humidity sensors employed in the study.",
+        "Question": "What design approach was adopted for the humidity sensors?",
+        "A": "Parallel capacitor design",
+        "B": "Interdigitated electrode (IDE) structure",
+        "C": "Capacitive structure",
+        "D": "Resistive structure",
+        "Answer": "B",
+        "Source": "Therefore, in this study, we designed a humidity sensor with an interdigitated structure."
+    },
+    "Question_4": {
+        "Context": "The paper explains the measurement methods used for humidity sensors.",
+        "Question": "Which method was adopted for fabricating the humidity sensor in the study?",
+        "A": "Capacitive method",
+        "B": "Resistive method",
+        "C": "Inductive method",
+        "D": "Conductive method",
+        "Answer": "A",
+        "Source": "In this study, we adopted the capacitive method to fabricate a humidity sensor."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the expansion of the pressure and humidity sensors into sensor array structures.",
+        "Question": "How many sensors were included in the pressure sensor array structure?",
+        "A": "10 sensors",
+        "B": "25 sensors",
+        "C": "50 sensors",
+        "D": "100 sensors",
+        "Answer": "B",
+        "Source": "To increase the measurement area of the designed single pressure and humidity sensors, we expanded them into 5 \u00d7 5 and 5 \u00d7 10 sensor array structures."
+    },
+    "Question_6": {
+        "Context": "The paper mentions the visualization of sensor data through heatmaps.",
+        "Question": "What tool was used to visualize the received signal data from the sensor arrays?",
+        "A": "Python's Heatmap tool",
+        "B": "Matlab",
+        "C": "R programming language",
+        "D": "Tableau",
+        "Answer": "A",
+        "Source": "Python\u2019s Heatmap tool was used to visualize the received signal data."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the system integration for behavioral pattern detection.",
+        "Question": "Which board was employed to capture global motion and impacts of objects in the study?",
+        "A": "Arduino Uno",
+        "B": "Arduino Nano BLE",
+        "C": "Raspberry Pi",
+        "D": "ESP32",
+        "Answer": "B",
+        "Source": "In this study, a commercial Arduino Nano BLE (Bluetooth low energy) board (Nano 33 BLE, Arduino) with built-in accelerometers and gyroscopes was employed to capture global motion and impacts of objects."
+    },
+    "Question_8": {
+        "Context": "The paper describes the analysis of fine-grained behavior using the integrated sensor platform.",
+        "Question": "How were fine-grained behaviors like finger pressing and trembling detected in the study?",
+        "A": "Through pressure sensors only",
+        "B": "Through humidity sensors only",
+        "C": "Through IMU data",
+        "D": "Through both pressure and humidity sensors",
+        "Answer": "D",
+        "Source": "The humidity and pressure sensor arrays can clearly distinguish when a finger is pressed and when it is not pressed on the completed platform."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the detection of global behavior using the IMU.",
+        "Question": "What type of actions were divided for testing global behavior using the IMU?",
+        "A": "Shaking and rotating",
+        "B": "Throwing and catching",
+        "C": "Shaking and throwing",
+        "D": "Pressing and releasing",
+        "Answer": "C",
+        "Source": "Global behavior was tested using the IMU based on accelerometer data, divided into shaking and throwing actions."
+    },
+    "Question_10": {
+        "Context": "The paper concludes by highlighting the potential applications of the developed sensor-based user interface.",
+        "Question": "What is one potential application mentioned for the sensor-based user interface developed in the study?",
+        "A": "Analyzing adult behavior patterns",
+        "B": "Facilitating early diagnosis of health disorders in young children",
+        "C": "Monitoring environmental conditions",
+        "D": "Controlling smart home devices",
+        "Answer": "B",
+        "Source": "This research may potentially lay the foundation for the development of SUI for young children as well as individuals with communication difficulties."
+    }
+}

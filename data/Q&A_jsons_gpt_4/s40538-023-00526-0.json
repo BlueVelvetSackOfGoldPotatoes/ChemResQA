@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Arbuscular mycorrhizal fungi (AMF) can establish symbiotic relationships with most terrestrial plants, facilitating nutrient and water uptake for the plant.",
+        "Question": "What is the primary role of arbuscular mycorrhizal fungi (AMF) in their symbiotic relationship with terrestrial plants?",
+        "A": "To decompose organic matter in the soil",
+        "B": "To facilitate nutrient and water uptake for the plant",
+        "C": "To protect the plant from herbivores",
+        "D": "To produce phytohormones for plant growth",
+        "Answer": "B",
+        "Source": "AMF are a widely distributed group of soil fungi that can establish symbiosis with most terrestrial plants, including citrus. AMF can promote growth performance, nutrient acquisition, and stress tolerance of the host plant, as well as crop yield and quality."
+    },
+    "Question_2": {
+        "Context": "Hydrogen peroxide (H2O2) acts as a signaling molecule in plants, playing a role in growth, development, and response to stresses.",
+        "Question": "What function does hydrogen peroxide (H2O2) serve in plants?",
+        "A": "It acts as a nutrient for plant growth",
+        "B": "It functions as a signaling molecule",
+        "C": "It serves as a structural component of cell walls",
+        "D": "It is used as an energy source during photosynthesis",
+        "Answer": "B",
+        "Source": "Hydrogen peroxide (H2O2) is an important signaling molecule in plants that broadly regulates plant growth and development, responds to stresses, and is involved in plant\u2013microbe interactions."
+    },
+    "Question_3": {
+        "Context": "Antioxidant enzymes such as superoxide dismutase (SOD), peroxidase (POD), and catalase (CAT) are part of the plant's defense system, which can be induced in response to external stimuli.",
+        "Question": "Which enzymes are part of the plant's natural defense system and can be induced in response to microbial colonization?",
+        "A": "Amylase, Lipase, and Protease",
+        "B": "SOD, POD, and CAT",
+        "C": "Ligase, Helicase, and Polymerase",
+        "D": "Phosphatase, Kinase, and Synthase",
+        "Answer": "B",
+        "Source": "Antioxidant enzymes and their encoding genes, as a natural plant defense system, induce a transient defense response in the early stages of AMF\u2012host plant interaction."
+    },
+    "Question_4": {
+        "Context": "Sugar transport in plants involves specific proteins that facilitate the movement of sugars within the plant system.",
+        "Question": "What type of proteins are involved in sugar transport and distribution in plants?",
+        "A": "SWEET (sugar will eventually be exported transporters)",
+        "B": "LIPID (lipid interaction and positioning determinant proteins)",
+        "C": "STARCH (starch accumulation and retrieval transporters)",
+        "D": "GLUCO (glucose uptake coordinators)",
+        "Answer": "A",
+        "Source": "Sugar transport and distribution in plants requires the involvement of sugar transporter proteins such as SWEET (sugar will eventually be exported transporters)."
+    },
+    "Question_5": {
+        "Context": "In the symbiosis between AMF and plants, lipids are transported from plant roots to AMF, which serve as a major carbon source for the fungi.",
+        "Question": "In the symbiosis between AMF and plants, what role do lipids play?",
+        "A": "They act as a signaling molecule for root development",
+        "B": "They serve as a carbon source for the AMF",
+        "C": "They provide mechanical support to the plant roots",
+        "D": "They are involved in the detoxification of heavy metals",
+        "Answer": "B",
+        "Source": "During AMF colonization process, lipids are transported from plant roots to AMF as its main source of carbon."
+    },
+    "Question_6": {
+        "Context": "Phosphate transporter proteins are crucial in the symbiotic relationship between AMF and plants, facilitating the uptake of phosphorus by the plant.",
+        "Question": "What is the function of phosphate transporter proteins in the symbiosis between AMF and plants?",
+        "A": "To transport oxygen to the AMF",
+        "B": "To facilitate the uptake of water by the plant",
+        "C": "To facilitate the uptake of phosphorus by the plant",
+        "D": "To export waste products from the plant",
+        "Answer": "C",
+        "Source": "Mutual sensing of signals and the exchange of signaling molecules between AMF and the host plant initiate the establishment of symbionts. The arbuscular mycorrhizal fungus provides the host plant with nutrients, especially phosphorus (P)."
+    },
+    "Question_7": {
+        "Context": "Mycorrhizal colonization involves the formation of structures such as arbuscules and vesicles within the root cortical cells, which are important for the symbiotic relationship.",
+        "Question": "What structures are formed within the root cortical cells during mycorrhizal colonization?",
+        "A": "Stomata and chloroplasts",
+        "B": "Xylem and phloem",
+        "C": "Arbuscules and vesicles",
+        "D": "Root hairs and nodules",
+        "Answer": "C",
+        "Source": "Under the action of signaling molecules, fungal hyphae contact the surface of root epidermal cells and/or root hairs to form an appressorium, and enter the roots, where fungal hyphae colonize the cortical cells of roots, some of which continuously remifying and fill a cortical cell to form a complex tree-like structure, the arbuscule."
+    },
+    "Question_8": {
+        "Context": "The symbiotic relationship between AMF and plants involves a bidirectional exchange of nutrients, where plants provide carbon sources to the fungi.",
+        "Question": "In the symbiotic relationship between AMF and plants, what do plants provide to the fungi?",
+        "A": "Nitrogen",
+        "B": "Oxygen",
+        "C": "Carbon sources",
+        "D": "Water",
+        "Answer": "C",
+        "Source": "Arbuscular mycorrhizae are manifested by a bidirectional exchange at the symbiotic interface, where the host plant provides carbon sources (fatty acids and sugars) to the arbuscular mycorrhizal fungus."
+    },
+    "Question_9": {
+        "Context": "The process of mycorrhizal colonization in plant roots is marked by the formation of appressorium, which is an early structure in the establishment of the symbiotic relationship.",
+        "Question": "What is an appressorium in the context of mycorrhizal colonization?",
+        "A": "A storage structure for nutrients within the root cells",
+        "B": "An early structure formed on the root surface for fungal entry",
+        "C": "A transport channel for water and minerals in the root",
+        "D": "A protective barrier against soil pathogens",
+        "Answer": "B",
+        "Source": "AMF colonization of plant roots starts with the germination of fungal spores in the soil, followed by the continuous growth of hyphae. Under the action of signaling molecules, fungal hyphae contact the surface of root epidermal cells and/or root hairs to form an appressorium."
+    },
+    "Question_10": {
+        "Context": "In the symbiotic relationship between AMF and plants, certain genes are upregulated to facilitate the exchange of nutrients and other benefits.",
+        "Question": "During the symbiotic relationship between AMF and plants, what happens to certain plant genes associated with nutrient exchange?",
+        "A": "They are permanently turned off",
+        "B": "They are deleted from the plant genome",
+        "C": "They are upregulated",
+        "D": "They are replaced by fungal genes",
+        "Answer": "C",
+        "Source": "Starting at 28 doi, a sugar transporter gene (PtSWEET), a lipid transporter gene (PtSTR), and a phosphate transporter gene (PtPT6) were initiated to be up-regulated, followed by the up-regulation of PtSTR2, PtPT3, and PtPT5 at 42 doi and PtFe-SOD at 56 doi."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Sulfonamides are a class of antibiotics that can be added to animal feed to control and prevent diseases. They have a common structure which includes an unsubstituted amine on the benzene ring and a sulfonamide group.",
+        "Question": "What is the common structure found in sulfonamides?",
+        "A": "An unsubstituted amine on the benzene ring and a sulfonamide group",
+        "B": "A hydroxyl group attached to a benzene ring",
+        "C": "A carboxyl group parallel to an amine group",
+        "D": "A nitro group attached to a cyclohexane ring",
+        "Answer": "A",
+        "Source": "Sulfonamides have a common structure of an unsubstituted amine on the benzene ring and a sulfonamide group parallel to the amine."
+    },
+    "Question_2": {
+        "Context": "Sulfonamides act as competitive inhibitors of p-aminobenzoic acid during the folate metabolic cycle in bacteria, which is essential for nucleic acid synthesis.",
+        "Question": "How do sulfonamides inhibit bacterial growth?",
+        "A": "By disrupting the cell wall synthesis",
+        "B": "By inhibiting protein synthesis",
+        "C": "By acting as competitive inhibitors of p-aminobenzoic acid during the folate metabolic cycle",
+        "D": "By inhibiting DNA gyrase",
+        "Answer": "C",
+        "Source": "Sulfonamides are N-substituted derivatives of sulfanilamide that inhibit bacterial growth by acting as competitive inhibitors of p-aminobenzoic acid during the folate metabolic cycle."
+    },
+    "Question_3": {
+        "Context": "The widespread use of sulfonamides can lead to their residue in foods of animal origin, which is a concern due to potential adverse reactions such as the development of antibiotic resistance.",
+        "Question": "What is a major concern associated with the residue of sulfonamides in foods of animal origin?",
+        "A": "Enhanced flavor of the food",
+        "B": "Development of antibiotic resistance",
+        "C": "Increased nutritional value",
+        "D": "Decreased shelf life of the food",
+        "Answer": "B",
+        "Source": "The widespread use of sulfonamides can result in the residue of sulfonamides in the foods of animal origin that are the major concerns of consumers and regulatory bodies due to their adverse reaction such as the development of antibiotic resistance."
+    },
+    "Question_4": {
+        "Context": "To ensure the safety of food products, regulatory bodies have established maximum residue limits (MRL) for sulfonamides in food of animal origin.",
+        "Question": "What is the purpose of establishing maximum residue limits (MRL) for sulfonamides in food?",
+        "A": "To increase the nutritional value of the food",
+        "B": "To standardize the taste of food products",
+        "C": "To control the price of food products",
+        "D": "To ensure the safety of food products",
+        "Answer": "D",
+        "Source": "The European Union set a maximum residue limit (MRL) of 100 \u03bcg kg\u22121 for sulfonamides in food of animal origin such as meat, milk, and eggs."
+    },
+    "Question_5": {
+        "Context": "Analytical methods such as liquid chromatography-mass spectrometry (LC\u2013MS) are used to detect and quantify sulfonamide residues in livestock products.",
+        "Question": "Which analytical method is commonly used for the analysis of sulfonamide residues in livestock products?",
+        "A": "Nuclear magnetic resonance spectroscopy",
+        "B": "Liquid chromatography-mass spectrometry (LC\u2013MS)",
+        "C": "Infrared spectroscopy",
+        "D": "Colorimetric assays",
+        "Answer": "B",
+        "Source": "Numerous analytical methods have been developed for the screening and quantification of sulfonamides in livestock products. Such analytical methods are mainly based on microbiological assays, immunoassays, capillary electrophoresis, high performance liquid chromatography with diode array detection (HPLC\u2013DAD), gas chromatography-mass spectrometry (GC\u2013MS), liquid chromatography-mass spectrometry (LC\u2013MS), and hydrophilic interaction chromatography-mass spectrometry."
+    },
+    "Question_6": {
+        "Context": "In the analysis of sulfonamides, a modified QuEChERS method is used for sample preparation, which stands for Quick, Easy, Cheap, Effective, Rugged, and Safe.",
+        "Question": "What does the acronym QuEChERS stand for in the context of sample preparation for sulfonamide analysis?",
+        "A": "Quick, Easy, Cheap, Effective, Rugged, and Safe",
+        "B": "Quality, Efficiency, Chemistry, Extraction, Reaction, and Stability",
+        "C": "Quantitative, Extractive, Concentrated, Homogenized, Elaborate, and Refined System",
+        "D": "Quick, Extractive, Comprehensive, High-throughput, Efficient, and Reproducible System",
+        "Answer": "A",
+        "Source": "In this study, a novel sample preparation procedure was used, based on a modified QuEChERS method (Quick, Easy, Cheap, Effective, Rugged, and Safe)."
+    },
+    "Question_7": {
+        "Context": "The Codex Alimentarius Commission is an international food standards body that provides guidelines for food safety, including the validation of analytical methods.",
+        "Question": "What is the role of the Codex Alimentarius Commission in the context of analytical methods for food safety?",
+        "A": "To provide entertainment at food safety conferences",
+        "B": "To supply analytical equipment to laboratories",
+        "C": "To provide guidelines for the validation of analytical methods",
+        "D": "To enforce legal actions against food safety violations",
+        "Answer": "C",
+        "Source": "The linearity, sensitivity, accuracy, and precision of the method were validated according to the Codex guidelines."
+    },
+    "Question_8": {
+        "Context": "The correlation coefficient (r2) is a statistical measure that represents the linear relationship between two variables, often used in the validation of analytical methods.",
+        "Question": "In the validation of analytical methods, what does a correlation coefficient (r2) greater than 0.98 typically indicate?",
+        "A": "A poor linear relationship between concentration and detector response",
+        "B": "A strong linear relationship between concentration and detector response",
+        "C": "The presence of significant outliers in the data",
+        "D": "The method is not suitable for quantitative analysis",
+        "Answer": "B",
+        "Source": "The response of the detector was linear for each target compound over a wide concentration range, with a correlation coefficient (r2) greater than 0.98."
+    },
+    "Question_9": {
+        "Context": "The limit of detection (LOD) and limit of quantification (LOQ) are parameters that describe the smallest concentration of a substance that can be reliably detected or quantified by an analytical procedure.",
+        "Question": "What do the limit of detection (LOD) and limit of quantification (LOQ) represent in an analytical method?",
+        "A": "The maximum concentration of analyte that can be detected",
+        "B": "The concentration of analyte that causes visible color change",
+        "C": "The smallest concentration of analyte that can be reliably detected or quantified",
+        "D": "The optimal concentration of analyte for calibration curve",
+        "Answer": "C",
+        "Source": "The limit of detection (LOD) and limit of quantification (LOQ) ranged from 0.3 to 5 ng g\u22121 and from 1 to 19 ng g\u22121 and the average recoveries (%) for three laboratories ranged from 85 to 109% with a CV (n = 5) below 22%."
+    },
+    "Question_10": {
+        "Context": "Ultra-high-performance liquid chromatography combined with tandem mass spectrometry (UHPLC-MS/MS) is a powerful analytical technique used for the identification and quantification of compounds in complex mixtures.",
+        "Question": "What is the advantage of using ultra-high-performance liquid chromatography combined with tandem mass spectrometry (UHPLC-MS/MS) in the analysis of sulfonamides?",
+        "A": "It allows for the simultaneous determination of multiple compounds in a short analysis time",
+        "B": "It eliminates the need for sample preparation",
+        "C": "It can only detect a single compound at a time",
+        "D": "It is less sensitive compared to other analytical methods",
+        "Answer": "A",
+        "Source": "The proposed analytical method achieves identification and quantification of target sulfonamides at trace levels in a short analysis time."
+    }
+}

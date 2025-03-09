@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Plant secondary metabolites are compounds that can serve as natural antioxidants, protecting cells from oxidative stress caused by environmental factors.",
+        "Question": "Which type of plant compounds are known to protect organisms against oxidative stress?",
+        "A": "Primary metabolites",
+        "B": "Secondary metabolites",
+        "C": "Tertiary metabolites",
+        "D": "Quaternary metabolites",
+        "Answer": "B",
+        "Source": "Plant secondary metabolites can be considered natural antioxidants, and are being utilized in the production of medicines, cosmetics, foods, etc."
+    },
+    "Question_2": {
+        "Context": "Terpenoids are a diverse group of plant secondary metabolites that have shown strong scavenging abilities against reactive oxygen species and free radicals.",
+        "Question": "What is the role of terpenoids in plants?",
+        "A": "Provide structural support",
+        "B": "Facilitate photosynthesis",
+        "C": "Scavenge reactive oxygen species and free radicals",
+        "D": "Transport nutrients",
+        "Answer": "C",
+        "Source": "Plant essential oils and extracts with terpenoids, as the main chemicals, showed strong scavenging abilities against ROS and free radicals."
+    },
+    "Question_3": {
+        "Context": "Methanol is often used as a solvent in the extraction of plant secondary metabolites due to its properties.",
+        "Question": "Which solvent has been found to be effective for extracting terpenoids due to its strong polarity?",
+        "A": "Water",
+        "B": "Ethanol",
+        "C": "Methanol",
+        "D": "Ethyl acetate",
+        "Answer": "C",
+        "Source": "Among the 4 solvents, the 8 terpenoids showed the strongest free radical-scavenging activity with methanol as the reaction medium, which might result from strong-polarity methanol easily activating C = C unsaturated bonds in these compounds."
+    },
+    "Question_4": {
+        "Context": "The scavenging activity of antioxidants can be measured by their ability to neutralize specific free radicals, such as DPPH and ABTS.",
+        "Question": "Which free radicals are commonly used to measure the scavenging activity of antioxidants?",
+        "A": "Hydroxide and superoxide",
+        "B": "Hydrogen peroxide and hydroxide",
+        "C": "DPPH and ABTS",
+        "D": "Superoxide and hydrogen peroxide",
+        "Answer": "C",
+        "Source": "MeOH extracts showed the strongest scavenging activity against DPPH and ABTS free radicals."
+    },
+    "Question_5": {
+        "Context": "In the context of plant secondary metabolites, chemotypes refer to variations within a species that produce different chemical compounds.",
+        "Question": "What does the term 'chemotype' refer to in the context of plant secondary metabolites?",
+        "A": "A classification based on the plant's physical characteristics",
+        "B": "A category based on the geographical origin of the plant",
+        "C": "A variation within a species that produces a specific chemical compound",
+        "D": "A genetic mutation that alters the plant's metabolism",
+        "Answer": "C",
+        "Source": "Cinnamomum camphora (L.) J. Presl contains plentiful terpenoids and is subdivided into 5 chemotypes."
+    },
+    "Question_6": {
+        "Context": "Reactive oxygen species levels can be measured in vivo using certain model organisms, which can be indicative of oxidative stress.",
+        "Question": "Which model organism is mentioned as being used to measure in vivo reactive oxygen species levels under oxidative stress?",
+        "A": "Drosophila melanogaster",
+        "B": "Mus musculus",
+        "C": "Chlamydomonas reinhardtii",
+        "D": "Caenorhabditis elegans",
+        "Answer": "C",
+        "Source": "In in vivo assay, the two compounds significantly lowered the reactive oxygen species (ROS) levels in Chlamydomonas reinhardtii, a single-celled model organism, under H2O2 stress."
+    },
+    "Question_7": {
+        "Context": "The concentration of a compound required to scavenge 50% of free radicals is a measure of its antioxidant capacity.",
+        "Question": "What does the term 'IC50' refer to in antioxidant activity assays?",
+        "A": "The initial concentration of free radicals",
+        "B": "The concentration of an antioxidant that causes 50% inhibition of an enzyme",
+        "C": "The concentration of an antioxidant that scavenges 50% of free radicals",
+        "D": "The 50% increase in free radical production",
+        "Answer": "C",
+        "Source": "The extract concentration with 50% scavenging ability (IC50) was evaluated according to the plot of percentage scavenging ratio against extract concentration."
+    },
+    "Question_8": {
+        "Context": "The polarity of a solvent can influence its ability to activate unsaturated bonds in compounds during antioxidant activity assays.",
+        "Question": "Why might methanol be more effective than other solvents in activating unsaturated bonds in terpenoids during antioxidant assays?",
+        "A": "Due to its lower polarity",
+        "B": "Because it has a higher boiling point",
+        "C": "Due to its strong polarity",
+        "D": "Because it is less reactive",
+        "Answer": "C",
+        "Source": "Among the 4 solvents, the 8 terpenoids showed the strongest free radical-scavenging activity with methanol as the reaction medium, which might result from strong-polarity methanol easily activating C = C unsaturated bonds in these compounds."
+    },
+    "Question_9": {
+        "Context": "Terpenoids are classified into different types such as monoterpenoids and sesquiterpenoids, based on their carbon skeleton.",
+        "Question": "What is the difference between monoterpenoids and sesquiterpenoids?",
+        "A": "Monoterpenoids have a 5-carbon skeleton, while sesquiterpenoids have a 10-carbon skeleton",
+        "B": "Monoterpenoids have a 10-carbon skeleton, while sesquiterpenoids have a 15-carbon skeleton",
+        "C": "Monoterpenoids have a 15-carbon skeleton, while sesquiterpenoids have a 20-carbon skeleton",
+        "D": "Monoterpenoids have a 20-carbon skeleton, while sesquiterpenoids have a 25-carbon skeleton",
+        "Answer": "B",
+        "Source": "Among MeOH, EA, Hex and PE extracts from linalool chemotype, there were remarkable differences in the total ion chromatograms, with the high chromatographic peaks in MeOH extracts. In these extracts, 25 terpenoids were detected, including 11 monoterpenoids and 14 sesquiterpenoids."
+    },
+    "Question_10": {
+        "Context": "The ability of certain terpenoids to scavenge free radicals can be influenced by the reaction medium used in the assay.",
+        "Question": "Which terpenoids were found to have the strongest free radical-scavenging activity in methanol as the reaction medium?",
+        "A": "Linalool and camphor",
+        "B": "Ocimene and longifolene",
+        "C": "Eucalyptol and \u03b1-pinene",
+        "D": "Terpinene and D-limonene",
+        "Answer": "B",
+        "Source": "Among these main components, ocimene and longifolene separately showed the strongest activity in scavenging DPPH and ABTS free radical."
+    }
+}

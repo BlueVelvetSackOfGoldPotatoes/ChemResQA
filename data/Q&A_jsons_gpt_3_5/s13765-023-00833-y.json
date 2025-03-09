@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study evaluated the inhibition potential of anti-inflammatory compounds isolated from Pterocarpus erinaceus and Discoglypremna caloneura on Mpro. The compounds were tested for their inhibitory effect against SARS-CoV-2 Mpro.",
+        "Question": "What was the IC50 value of the acetoxy product (compound 3) in the inhibition assay against SARS-CoV-2 Mpro?",
+        "A": "42.89 \u00b5g/ml",
+        "B": "29.69 \u00b5g/ml",
+        "C": "19.39 \u00b5g/ml",
+        "D": "0.41 \u00b5g/ml",
+        "Answer": "C",
+        "Source": "Among the effectively tested samples, two derivatized compounds displayed significant improvement on the activity from the starting material, friedelin (1) through the acetoreduced (2) to the acetoxy product (3) with respective IC50 values of 42.89, 29.69 and 19.39 \u00b5g/mL."
+    },
+    "Question_2": {
+        "Context": "The study focused on the inhibitory effect of compounds isolated from Pterocarpus erinaceus and Discoglypremna caloneura on SARS-CoV-2 Mpro.",
+        "Question": "Which compound showed the highest activity among the tested samples, although lower compared to baicalein?",
+        "A": "Friedelin (1)",
+        "B": "Acetoreduced compound (2)",
+        "C": "Acetoxy product (3)",
+        "D": "Baicalein",
+        "Answer": "D",
+        "Source": "The latter displayed the highest activity although lower as compared to that of baicalein, the positive control with IC50 0.41 \u00b5g/mL."
+    },
+    "Question_3": {
+        "Context": "The study involved the evaluation of the inhibition potential of anti-inflammatory compounds isolated from specific plant sources on Mpro.",
+        "Question": "What was the IC50 value of the acetoreduced compound (compound 2) in the inhibition assay against SARS-CoV-2 Mpro?",
+        "A": "42.89 \u00b5g/ml",
+        "B": "29.69 \u00b5g/ml",
+        "C": "19.39 \u00b5g/ml",
+        "D": "0.41 \u00b5g/ml",
+        "Answer": "B",
+        "Source": "Among the effectively tested samples, two derivatized compounds displayed significant improvement on the activity from the starting material, friedelin (1) through the acetoreduced (2) to the acetoxy product (3) with respective IC50 values of 42.89, 29.69 and 19.39 \u00b5g/mL."
+    },
+    "Question_4": {
+        "Context": "The study investigated the inhibitory effect of compounds isolated from specific plant sources on SARS-CoV-2 Mpro.",
+        "Question": "Which compound showed a significant improvement in activity from the starting material friedelin (1) through the acetoreduced (2) to the acetoxy product (3)?",
+        "A": "Friedelin (1)",
+        "B": "Acetoreduced compound (2)",
+        "C": "Acetoxy product (3)",
+        "D": "Baicalein",
+        "Answer": "C",
+        "Source": "Among the effectively tested samples, two derivatized compounds displayed significant improvement on the activity from the starting material, friedelin (1) through the acetoreduced (2) to the acetoxy product (3) with respective IC50 values of 42.89, 29.69 and 19.39 \u00b5g/mL."
+    },
+    "Question_5": {
+        "Context": "The study focused on the inhibitory effect of compounds isolated from Pterocarpus erinaceus and Discoglypremna caloneura on SARS-CoV-2 Mpro.",
+        "Question": "Which compound was used as the positive control in the inhibition assay against SARS-CoV-2 Mpro?",
+        "A": "Friedelin (1)",
+        "B": "Acetoreduced compound (2)",
+        "C": "Acetoxy product (3)",
+        "D": "Baicalein",
+        "Answer": "D",
+        "Source": "The latter displayed the highest activity although lower as compared to that of baicalein, the positive control with IC50 0.41 \u00b5g/mL."
+    },
+    "Question_6": {
+        "Context": "The study evaluated the inhibition potential of anti-inflammatory compounds isolated from Pterocarpus erinaceus and Discoglypremna caloneura on Mpro.",
+        "Question": "Which compound showed the lowest IC50 value in the inhibition assay against SARS-CoV-2 Mpro?",
+        "A": "Friedelin (1)",
+        "B": "Acetoreduced compound (2)",
+        "C": "Acetoxy product (3)",
+        "D": "Baicalein",
+        "Answer": "D",
+        "Source": "The latter displayed the highest activity although lower as compared to that of baicalein, the positive control with IC50 0.41 \u00b5g/mL."
+    },
+    "Question_7": {
+        "Context": "The study involved the evaluation of the inhibition potential of anti-inflammatory compounds isolated from specific plant sources on Mpro.",
+        "Question": "Which compound exhibited weak activity in the inhibition assay against SARS-CoV-2 Mpro?",
+        "A": "(R)-2-hydroxy-N-((2S,3S,4R,Z)-1,3,4-trihydroxydocos-6-en-2-yl)docosanamide (8)",
+        "B": "Mixture of \u03b2-sitosterol and stigmasterol (10)",
+        "C": "Mixture of 7-oxo-\u03b2-sitosterol and 7-oxo-stigmasterol (11)",
+        "D": "Isoquinoline-1,4-diol (14)",
+        "Answer": "A",
+        "Source": "Weak activities were observed with (R)-2-hydroxy-N-((2S,3S,4R,Z)-1,3,4-trihydroxydocos-6-en-2-yl)docosanamide 8 (IC50 = 49.54 \u00b5g/ml)."
+    },
+    "Question_8": {
+        "Context": "The study investigated the inhibitory effect of compounds isolated from specific plant sources on SARS-CoV-2 Mpro.",
+        "Question": "Which compound showed moderate activity in the inhibition assay against SARS-CoV-2 Mpro?",
+        "A": "Mixture of \u03b2-sitosterol glucoside and stigmasterol glucoside (6)",
+        "B": "Aurantiamide acetate (12)",
+        "C": "3\u03b1-hydroxyaleuritolic acid 2\u03b1-p-hydroxybenzoate (13)",
+        "D": "Isoquinoline-1,4-diyl diacetate (15)",
+        "Answer": "B",
+        "Source": "Moderate activities were also observed with mixture of \u03b2-sitosterol glucoside and stigmasterol glucoside 6 (IC50 = 36.45 \u00b5g/ml), aurantiamide acetate 12 (IC50 = 25.80 \u00b5g/ml)."
+    },
+    "Question_9": {
+        "Context": "The study focused on the inhibitory effect of compounds isolated from Pterocarpus erinaceus and Discoglypremna caloneura on SARS-CoV-2 Mpro.",
+        "Question": "Which compound exhibited weak activity in the inhibition assay against SARS-CoV-2 Mpro?",
+        "A": "Isoquinoline-1,4-diol (14)",
+        "B": "Isoquinoline-1,4-diyl diacetate (15)",
+        "C": "1,4-dimethoxyisoquinoline (16)",
+        "D": "Mixture of \u03b2-sitosterol and stigmasterol (10)",
+        "Answer": "C",
+        "Source": "Weak activities were observed with 1,4-dimethoxyisoquinoline 16 (IC50 = 74.72 \u00b5g/ml)."
+    },
+    "Question_10": {
+        "Context": "The study involved the evaluation of the inhibition potential of anti-inflammatory compounds isolated from specific plant sources on Mpro.",
+        "Question": "Which compound exhibited weak activity in the inhibition assay against SARS-CoV-2 Mpro?",
+        "A": "Mixture of \u03b2-sitosterol and stigmasterol (10)",
+        "B": "Mixture of 7-oxo-\u03b2-sitosterol and 7-oxo-stigmasterol (11)",
+        "C": "Isoquinoline-1,4-diol (14)",
+        "D": "Isoquinoline-1,4-diyl diacetate (15)",
+        "Answer": "B",
+        "Source": "Weak activities were observed with mixture of 7-oxo-\u03b2-sitosterol and 7-oxo-stigmasterol 11 (IC50 = 59.72 \u00b5g/ml)."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Deterministic lateral displacement (DLD) is a method used for separating particles based on their size. It involves an array of obstacles that particles must navigate, resulting in different paths for particles above and below a certain size.",
+        "Question": "What is the principle behind the separation of particles in deterministic lateral displacement (DLD)?",
+        "A": "Particles are separated based on their magnetic properties.",
+        "B": "Particles are separated based on their size, with larger particles taking a different path than smaller ones.",
+        "C": "Particles are separated by applying an electric field.",
+        "D": "Particles are separated based on their solubility in a solvent.",
+        "Answer": "B",
+        "Source": "Small particles follow the same path as the streamlines in a zigzag mode. Large particles whose radius exceeds the width of the first streamline \u03b2, travel in the bump mode (or displacement mode)."
+    },
+    "Question_2": {
+        "Context": "In the context of DLD, the critical diameter is an important concept that determines the size of particles that will be separated from the rest.",
+        "Question": "What is the critical diameter in the context of deterministic lateral displacement (DLD)?",
+        "A": "The diameter at which particles become magnetic.",
+        "B": "The diameter of the posts used in the DLD array.",
+        "C": "The diameter at which particles switch from zigzag to bump mode of travel.",
+        "D": "The diameter of the channel in the DLD device.",
+        "Answer": "C",
+        "Source": "The velocity profile in each gap between two posts is described by function u(y). If the particle collides with the post, it goes around this obstacle due to mechanical contact and fluid flow. Therefore, the flow is characterized by a very low Reynolds number. Under these assumptions, the solution of Eq. (1) for \u03b2 gives the critical particle diameter Dc = 2\u03b2."
+    },
+    "Question_3": {
+        "Context": "The flow regime in a microfluidic channel is characterized by the Reynolds number, which indicates the type of flow based on the ratio of inertial forces to viscous forces.",
+        "Question": "What does a moderate Reynolds number indicate about the flow regime in a microfluidic channel?",
+        "A": "Turbulent flow with vortices and instabilities.",
+        "B": "Transition flow between laminar and turbulent.",
+        "C": "Stable laminar flow with orderly fluid motion.",
+        "D": "Supersonic flow with shock waves.",
+        "Answer": "C",
+        "Source": "This value belongs to the moderate Reynolds number regime (ReC \u2264 18) and indicates a stable laminar flow in the channel."
+    },
+    "Question_4": {
+        "Context": "The design of DLD devices often involves numerical simulation and experimental validation due to the complexity of the factors affecting particle separation.",
+        "Question": "Which of the following parameters is NOT typically included in known analytical equations for the critical diameter of separated particles in DLD devices?",
+        "A": "The gap between the columns in the DLD array.",
+        "B": "The fraction of the column shift.",
+        "C": "The post diameter.",
+        "D": "The channel height.",
+        "Answer": "C",
+        "Source": "Known analytical equations for the critical diameter of separated particles include only the gap between the columns in the DLD array and the fraction of the column shift."
+    },
+    "Question_5": {
+        "Context": "In DLD devices, the separation efficiency can be influenced by various factors, including the geometry of the microchannel.",
+        "Question": "Which of the following factors is known to affect the critical diameter and separation efficiency in DLD devices?",
+        "A": "The color of the particles.",
+        "B": "The flow rate and particle concentration.",
+        "C": "The temperature of the surrounding environment.",
+        "D": "The electrical charge of the particles.",
+        "Answer": "B",
+        "Source": "The problems also include the effect of flow rate and particle concentration on the critical diameter and separation efficiency."
+    },
+    "Question_6": {
+        "Context": "DLD devices can be designed with different post shapes, which can affect the separation process.",
+        "Question": "How does the shape of the posts in a DLD device affect particle separation?",
+        "A": "It does not affect separation; only size matters.",
+        "B": "It changes the color of the particles, affecting visibility.",
+        "C": "It affects the flow pattern and can influence the critical diameter.",
+        "D": "It alters the chemical composition of the particles.",
+        "Answer": "C",
+        "Source": "The shape of the posts significantly affects the separation of particles."
+    },
+    "Question_7": {
+        "Context": "The throughput of DLD devices is an important parameter, especially when considering applications that require processing large volumes of fluid.",
+        "Question": "Which method is NOT a way to increase the throughput of DLD devices?",
+        "A": "Parallelizing the microchannel.",
+        "B": "Increasing the flow velocity.",
+        "C": "Decreasing the channel height.",
+        "D": "Increasing the channel height.",
+        "Answer": "C",
+        "Source": "The DLD throughput can be increased in three ways: by parallelizing the microchannel, by increasing the flow velocity, and by increasing the channel height."
+    },
+    "Question_8": {
+        "Context": "In microfluidic systems, the Dean number is a dimensionless number that characterizes the influence of channel curvature on the flow.",
+        "Question": "What does a low Dean number indicate in the context of microfluidic systems?",
+        "A": "High turbulence due to channel curvature.",
+        "B": "The presence of strong secondary flows.",
+        "C": "The dominance of inertial forces over viscous forces.",
+        "D": "The flow is unidirectional with negligible secondary flows.",
+        "Answer": "D",
+        "Source": "A low Dean number (De < 40\u201360) indicates that the flow is completely unidirectional and secondary flows do not occur when the fluid direction changes."
+    },
+    "Question_9": {
+        "Context": "In microfluidics, the particle Reynolds number is used to characterize the motion of particles in a fluid flow.",
+        "Question": "What does a particle Reynolds number less than 1 indicate about the motion of particles in a microfluidic device?",
+        "A": "Particles will experience significant inertial focusing.",
+        "B": "Particles will predominantly follow the fluid streamlines.",
+        "C": "Particles will spontaneously move against the fluid flow.",
+        "D": "Particles will form stable vortices in the fluid.",
+        "Answer": "B",
+        "Source": "The inertial focusing of particles occurs when the particle Reynolds number Rep \u2265 1. Thus, shear-induced and wall-induced lift forces have little effect on particles in DLD devices at a moderate channel Reynolds number."
+    },
+    "Question_10": {
+        "Context": "In DLD systems, the hydrodynamic forces acting on a particle can be compared to the Stokes drag force, which is a force experienced by a particle moving through a viscous fluid.",
+        "Question": "What is the Stokes drag force in the context of DLD systems?",
+        "A": "The force due to the particle's weight in the fluid.",
+        "B": "The force acting on a stationary particle due to fluid flow around it.",
+        "C": "The magnetic force acting on a particle in a magnetic field.",
+        "D": "The electrical force acting on a charged particle in an electric field.",
+        "Answer": "B",
+        "Source": "The hydrodynamic forces acting on a particle can be compared to the Stokes drag force (FD) acting on a stationary particle."
+    }
+}

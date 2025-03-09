@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of perovskite solar cells, what is a key challenge in the mass production of PSCs?",
+        "Question": "What is the most challenging aspect of mass production of PSCs?",
+        "A": "Creating a high-quality perovskite layer",
+        "B": "Developing efficient charge-transporting layers",
+        "C": "Optimizing the annealing process",
+        "D": "Enhancing the flexibility of the solar cells",
+        "Answer": "A",
+        "Source": "However, there are still challenges to be addressed before mass production of PSCs, such as prevention from degradation under external stresses and the uniform, large-area formation of all layers. Among them, the most challenging aspect of mass production of PSCs is creating a high-quality perovskite layer using environmentally sustainable processes that are compatible with industry standards."
+    },
+    "Question_2": {
+        "Context": "Regarding the formation of perovskite layers, what is highlighted as crucial for human- and environment-friendly production methods?",
+        "Question": "What is crucial for human- and environment-friendly production methods for perovskite layers?",
+        "A": "Using harmful antisolvents",
+        "B": "Developing high-temperature annealing processes",
+        "C": "Controlling the crystallization behavior of the perovskite layer",
+        "D": "Increasing the amount of solvent used",
+        "Answer": "C",
+        "Source": "In particular, the benefit of introducing an eco-friendly solvent system for mass production of PSCs should be systematically investigated. The overall environmental impact of manufacturing processes of PSCs has been studied in several previous works. Because the estimated amount of solvent for fabrication of 1 GW PSCs would be 3500 L, reducing eco- and human- toxicity derived from those solvent would be crucial."
+    },
+    "Question_3": {
+        "Context": "In the context of solvent selection for perovskite precursor ink, what is a key consideration for the solvent used?",
+        "Question": "What is a key consideration for selecting a solvent for perovskite precursor ink?",
+        "A": "High boiling point",
+        "B": "Low solubility to the Pb center atom",
+        "C": "Adverse effects on human health",
+        "D": "Metabolization by enzymes",
+        "Answer": "C",
+        "Source": "The solvent also should be benign for human health and not have adverse effects on the surrounding environment even in the long run."
+    },
+    "Question_4": {
+        "Context": "In the context of solvent selection, what parameter is suggested as an effective predictor for solvent selection for the perovskite precursor?",
+        "Question": "Which parameter is suggested as an effective predictor for solvent selection for the perovskite precursor?",
+        "A": "Dielectric constant",
+        "B": "Dipole moment",
+        "C": "Boiling point",
+        "D": "Molecular weight",
+        "Answer": "B",
+        "Source": "J. C. Hamil et al. showed that the donor number (DN) is a more effective and accurate predictor than the dielectric constant to determine which solvent should be used for the main solvent and mediator."
+    },
+    "Question_5": {
+        "Context": "What solvent was used to reduce grain boundaries in solution-sheared perovskite layers in a specific study?",
+        "Question": "Which solvent was used to reduce grain boundaries in solution-sheared perovskite layers?",
+        "A": "N,N-dimethylformamide (DMF)",
+        "B": "Acetonitrile (ACN)",
+        "C": "Triethyl phosphate (TEP)",
+        "D": "N-methyl-2-pyrrolidone (NMP)",
+        "Answer": "B",
+        "Source": "When using the DMF/DMSO solvent system, which has been the most widely used, it was inevitable to produce films with large boundaries because of the high boiling point of the solvents. Therefore, they used ACN as the solvent for the perovskite precursor solution to reduce the shearing temperature."
+    },
+    "Question_6": {
+        "Context": "In a specific study, what solvent was used as a host solvent to prepare uniform perovskite films?",
+        "Question": "Which solvent was used as a host solvent to prepare uniform perovskite films?",
+        "A": "N,N-dimethylacetamide (DMAc)",
+        "B": "Triethyl phosphate (TEP)",
+        "C": "Acetonitrile (ACN)",
+        "D": "N-methyl-2-pyrrolidone (NMP)",
+        "Answer": "B",
+        "Source": "Triethyl phosphate (TEP) is another promising greener solvent candidate to replace DMF. Recently, Cao et al. provided a new approach to preparing uniform perovskite films using TEP as the host solvent."
+    },
+    "Question_7": {
+        "Context": "In a specific study, what was used as an antisolvent to form an intermediate phase with the perovskite precursor?",
+        "Question": "What was used as an antisolvent to form an intermediate phase with the perovskite precursor?",
+        "A": "Dibutyl ether",
+        "B": "Methylamine",
+        "C": "Tetrahydrofuran (THF)",
+        "D": "2-methoxyethanol (2-ME)",
+        "Answer": "A",
+        "Source": "Then, the P = O bond of TEP and the perovskite precursor immediately formed an intermediate phase, and the solvent complex was then converted to the perovskite phase through annealing treatment."
+    },
+    "Question_8": {
+        "Context": "In a specific study, what was used as an electron-transporting layer in the device configuration?",
+        "Question": "What was used as an electron-transporting layer in the device configuration?",
+        "A": "Spiro-OMeTAD",
+        "B": "Au",
+        "C": "SnO2-NRs",
+        "D": "FTO",
+        "Answer": "C",
+        "Source": "Similarly, in 2023, Wu et al. utilized this process to prepare a high-quality formamidinium (FA)-based perovskite from a TEP solvent. Dibutyl ether was used as an antisolvent, but the biggest difference from previous studies is that nanostructured tin oxide nanorods (SnO2-NRs) were used as an electron-transporting layer."
+    },
+    "Question_9": {
+        "Context": "In a specific study, what was the reported power conversion efficiency (PCE) of the fabricated device?",
+        "Question": "What was the reported power conversion efficiency (PCE) of the fabricated device?",
+        "A": "18.65%",
+        "B": "20.30%",
+        "C": "20.13%",
+        "D": "25.00%",
+        "Answer": "B",
+        "Source": "The fabricated device achieved the PCE of 20.30% with a configuration of fluorine-doped tin oxide (FTO)/c-TiO2/mesoporous (mp)-TiO2/MAPbI3/2,2\u2032,7,7\u2032-tetrakis[N,N-di(4-methoxyphenyl) amino]-9,9\u2032. -spirobifluorene (Spiro-OMeTAD)/Ag, which is higher than that achieved using the conventional DMF/DMSO solution."
+    },
+    "Question_10": {
+        "Context": "In a specific study, what was the composition of the perovskite used for film formation?",
+        "Question": "What was the composition of the perovskite used for film formation?",
+        "A": "(FAPbI3)1\u2212x(MAPbBr3)x",
+        "B": "(FAPbI3)1\u2212x(MAPbI3)x",
+        "C": "(MAPbI3)1\u2212x(MAPbBr3)x",
+        "D": "(MAPbI3)1\u2212x(MAPbI3)x",
+        "Answer": "A",
+        "Source": "They prepared a composition of (FAPbI3)1\u2212x(MAPbBr3)x (x = 0, 0.05) perovskite for film formation."
+    }
+}

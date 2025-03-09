@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Inflammation is a crucial defense mechanism in health. Excessive inflammation can lead to the pathophysiology of chronic diseases. The study aimed to investigate the anti-inflammatory effects and molecular mechanisms of TP1 extracted from Antarctic lichen Stereocaulon alpinum.",
+        "Question": "What is the main focus of the study regarding TP1?",
+        "A": "To investigate its antifungal properties",
+        "B": "To study its anticancer effects",
+        "C": "To explore its immunomodulatory activities",
+        "D": "To examine its anti-inflammatory effects",
+        "Answer": "D",
+        "Source": "Recent findings suggest that naturally derived compounds possess physiological activities, including anti-inflammatory, antifungal, antiviral, anticancer, and immunomodulatory activities."
+    },
+    "Question_2": {
+        "Context": "In the study, TP1 treatment decreased the production of nitric oxide (NO) and reactive oxygen species (ROS) in LPS-stimulated Raw264.7 macrophages.",
+        "Question": "What effect did TP1 treatment have on NO and ROS production?",
+        "A": "Increased NO and ROS production",
+        "B": "No effect on NO and ROS production",
+        "C": "Decreased NO and ROS production",
+        "D": "Induced NO but decreased ROS production",
+        "Answer": "C",
+        "Source": "TP1 treatment caused a significant dose-dependent decrease in LPS-induced NO production in Raw264.7 macrophages compared with that in the LPS-only group. Additionally, TP1 decreased ROS production in a dose-dependent manner."
+    },
+    "Question_3": {
+        "Context": "The study found that TP1 treatment significantly decreased the mRNA levels of pro-inflammatory cytokines (IL-1\u03b2, TNF-\u03b1, IL-6) in LPS-stimulated Raw264.7 macrophages.",
+        "Question": "What was the impact of TP1 treatment on the mRNA levels of pro-inflammatory cytokines?",
+        "A": "Increased mRNA levels",
+        "B": "No effect on mRNA levels",
+        "C": "Decreased mRNA levels",
+        "D": "Induced mRNA levels of other cytokines",
+        "Answer": "C",
+        "Source": "TP1 pretreatment significantly inhibited LPS-induced increase in the mRNA expression of pro-inflammatory cytokines (IL-1\u03b2, TNF-\u03b1, IL-6) 24 h after LPS treatment."
+    },
+    "Question_4": {
+        "Context": "The study demonstrated that TP1 treatment suppressed lipopolysaccharide-induced phosphorylation of the NF-\u03baB and MAPK signaling pathways in Raw264.7 macrophages.",
+        "Question": "What signaling pathways were suppressed by TP1 treatment?",
+        "A": "NF-\u03baB and JAK-STAT pathways",
+        "B": "NF-\u03baB and PI3K-Akt pathways",
+        "C": "NF-\u03baB and MAPK pathways",
+        "D": "NF-\u03baB and TGF-\u03b2 pathways",
+        "Answer": "C",
+        "Source": "TP1 suppressed lipopolysaccharide-induced phosphorylation of the NF-\u03baB and MAPK signaling pathways in Raw264.7 macrophages."
+    },
+    "Question_5": {
+        "Context": "The study found that TP1 treatment inhibited the expression of pro-inflammatory enzymes (iNOS and COX-2) at both the mRNA and protein levels without causing any cytotoxic effects.",
+        "Question": "What enzymes were inhibited by TP1 treatment?",
+        "A": "iNOS and COX-1",
+        "B": "COX-2 and LOX",
+        "C": "iNOS and COX-2",
+        "D": "LOX and iNOS",
+        "Answer": "C",
+        "Source": "TP1 treatment significantly decreased iNOS and COX-2 protein expression levels compared with those in the LPS group."
+    },
+    "Question_6": {
+        "Context": "The study showed that TP1 treatment decreased LPS-induced phosphorylation of ERK in Raw264.7 macrophages.",
+        "Question": "Which MAPK pathway phosphorylation was reduced by TP1 treatment?",
+        "A": "JNK",
+        "B": "ERK",
+        "C": "p38",
+        "D": "All of the above",
+        "Answer": "B",
+        "Source": "TP1 treatment reduced LPS-induced phosphorylation of ERK in Raw264.7 macrophages."
+    },
+    "Question_7": {
+        "Context": "The study demonstrated that TP1 treatment significantly decreased AKT and p65 phosphorylation and suppressed p65 nuclear translocation in LPS-induced Raw264.7 macrophages.",
+        "Question": "Which proteins' phosphorylation levels were decreased by TP1 treatment?",
+        "A": "AKT and p65",
+        "B": "ERK and JNK",
+        "C": "p38 and NF-\u03baB",
+        "D": "JAK and STAT",
+        "Answer": "A",
+        "Source": "TP1 treatment significantly decreased AKT and p65 phosphorylation and suppressed p65 nuclear translocation."
+    },
+    "Question_8": {
+        "Context": "The study found that TP1 treatment did not affect the phosphorylation of JNK and p38 in LPS-induced Raw264.7 macrophages.",
+        "Question": "Which MAPK pathway phosphorylation was unaffected by TP1 treatment?",
+        "A": "JNK",
+        "B": "ERK",
+        "C": "p38",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "TP1 treatment decreased LPS-induced phosphorylation of ERK but did not affect LPS-induced JNK and p38 phosphorylation."
+    },
+    "Question_9": {
+        "Context": "The study concluded that TP1 has potential applications in the development of anti-inflammatory drugs for treating inflammatory diseases such as sepsis.",
+        "Question": "What is the potential application of TP1 according to the study?",
+        "A": "Treatment of autoimmune diseases",
+        "B": "Development of antiviral drugs",
+        "C": "Treatment of inflammatory diseases like sepsis",
+        "D": "Prevention of cardiovascular diseases",
+        "Answer": "C",
+        "Source": "Conclusively, the results suggest that TP1 exhibits anti-inflammatory effects in LPS-stimulated macrophages via MAPK pathway-mediated suppression of pro-inflammatory mediators."
+    },
+    "Question_10": {
+        "Context": "The study mentioned that natural compounds from polar regions are untapped resources for the development of natural compound-based medicines.",
+        "Question": "What was highlighted as an untapped resource for the development of medicines?",
+        "A": "Compounds from tropical rainforests",
+        "B": "Compounds from urban environments",
+        "C": "Compounds from polar regions",
+        "D": "Compounds from deserts",
+        "Answer": "C",
+        "Source": "Therefore, natural compounds from polar regions are untapped resources for the development of natural compound-based medicines."
+    }
+}

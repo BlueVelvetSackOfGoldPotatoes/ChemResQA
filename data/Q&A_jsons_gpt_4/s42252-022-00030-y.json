@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In electrocatalysis, the oxygen reduction reaction (ORR) is a key process in energy conversion devices such as fuel cells and metal-air batteries. The performance of electrocatalysts for ORR is often evaluated by their onset potential and half-wave potential.",
+        "Question": "What is an onset potential in the context of oxygen reduction reaction (ORR)?",
+        "A": "The potential at which the ORR starts to occur significantly",
+        "B": "The potential at which the ORR reaches its maximum rate",
+        "C": "The potential at which all oxygen is completely reduced",
+        "D": "The potential at which the ORR stops occurring",
+        "Answer": "A",
+        "Source": "The IPNCN composites exhibit excellent ORR performance with an onset potential of 0.93 V and a half potential of 0.84 V."
+    },
+    "Question_2": {
+        "Context": "In the field of electrocatalysis, the development of noble-metal-free catalysts is important due to the high cost and scarcity of noble metals. Nitrogen-doped carbon materials have emerged as potential alternatives.",
+        "Question": "Why are nitrogen-doped carbon materials considered promising for replacing noble metal catalysts in ORR?",
+        "A": "Because they are more expensive and rare",
+        "B": "Because they offer higher electrical resistance",
+        "C": "Because they provide high ORR catalytic performance and stability",
+        "D": "Because they are easier to oxidize",
+        "Answer": "C",
+        "Source": "The metal-nitrogen/carbon (M\u2013N/C) electrocatalysts are the most potential composite materials to replace the Pt-based catalysts since the relatively low price, the abundant reserve, the outstanding ORR catalytic performance, and the high stability."
+    },
+    "Question_3": {
+        "Context": "Pyridinic nitrogen and graphitic nitrogen are two types of nitrogen functionalities that can be doped into carbon materials to enhance their electrocatalytic activity for ORR.",
+        "Question": "Which nitrogen functionalities are considered to create active sites for ORR in nitrogen-doped carbon materials?",
+        "A": "Amino nitrogen and azide nitrogen",
+        "B": "Pyridinic nitrogen and graphitic nitrogen",
+        "C": "Nitrate nitrogen and nitrite nitrogen",
+        "D": "Hydrazine nitrogen and nitroso nitrogen",
+        "Answer": "B",
+        "Source": "The pyridinic nitrogen (pyridinic-N) and the graphitic nitrogen (graphitic-N) are able to create the active sites which are considered to be more important factor in the ORR process."
+    },
+    "Question_4": {
+        "Context": "The stability of electrocatalysts during the carbonization process is crucial for their practical application in ORR.",
+        "Question": "What is a key challenge faced by M\u2013N/C composite catalysts during the carbonization process?",
+        "A": "Increased electrical conductivity",
+        "B": "Structural damage and instability",
+        "C": "Enhanced catalytic activity",
+        "D": "Decreased nitrogen content",
+        "Answer": "B",
+        "Source": "However, the M\u2013N/C composite catalysts generally meet several key problems, such as the structural damage and instability after carbonization."
+    },
+    "Question_5": {
+        "Context": "The coordination interactions between metal ions and nitrogen in a carbon matrix are essential for the formation of stable electrocatalysts.",
+        "Question": "What role do coordination interactions between metal ions and nitrogen play in the formation of electrocatalysts?",
+        "A": "They decrease the thermal stability of the catalyst",
+        "B": "They prevent the uniform distribution of metal active sites",
+        "C": "They improve the thermodynamic stability of the catalyst",
+        "D": "They reduce the electrical conductivity of the catalyst",
+        "Answer": "C",
+        "Source": "The coordination interactions between the irons and the pyridine nitrogen further improve the thermodynamic stability, where the metal active sites and nitrogen elements are uniformly distributed in the whole structure."
+    },
+    "Question_6": {
+        "Context": "Electrocatalysts with high methanol resistance are preferred for certain energy applications to avoid catalyst poisoning.",
+        "Question": "Why is methanol resistance an important property for some electrocatalysts?",
+        "A": "Because methanol is used as the primary fuel in all fuel cells",
+        "B": "Because methanol can poison the catalyst, reducing its effectiveness",
+        "C": "Because methanol increases the cost of the catalyst",
+        "D": "Because methanol improves the thermal stability of the catalyst",
+        "Answer": "B",
+        "Source": "Furthermore, the IPNCN composite electrocatalysts show the higher methanol resistance and electrochemical durability than the commercial Pt/C catalysts."
+    },
+    "Question_7": {
+        "Context": "Electrochemical durability is a measure of how well an electrocatalyst maintains its performance over time under operational conditions.",
+        "Question": "What does electrochemical durability indicate about an electrocatalyst?",
+        "A": "Its ability to conduct electricity",
+        "B": "Its resistance to chemical reactions",
+        "C": "Its performance stability over time",
+        "D": "Its capacity to store electrical charge",
+        "Answer": "C",
+        "Source": "Furthermore, the IPNCN composite electrocatalysts show the higher methanol resistance and electrochemical durability than the commercial Pt/C catalysts."
+    },
+    "Question_8": {
+        "Context": "The synthesis of electrocatalysts often involves a precursor that is later transformed into the active catalyst through a process such as carbonization.",
+        "Question": "What is the purpose of using a precursor in the synthesis of electrocatalysts?",
+        "A": "To directly act as the active catalyst without further modifications",
+        "B": "To provide a source of metal ions that can be leached out during carbonization",
+        "C": "To serve as a template that is later transformed into the active catalyst",
+        "D": "To increase the overall cost of the catalyst production process",
+        "Answer": "C",
+        "Source": "Therefore, it is necessary to design and prepare the stable M\u2013N/C precursors from the molecular level with high content of pyridinic-N and graphitic-N to get the uniformly dispersed active sites."
+    },
+    "Question_9": {
+        "Context": "The catalytic activity of an electrocatalyst for ORR can be influenced by the presence of different nitrogen species within the catalyst's structure.",
+        "Question": "Which nitrogen species within an electrocatalyst's structure are associated with catalytic activity for ORR?",
+        "A": "Pyridinic-N, pyrrolic-N, graphitic-N, and N-oxide",
+        "B": "Amino-N, nitro-N, azide-N, and nitrite-N",
+        "C": "Hydrazine-N, nitroso-N, nitrate-N, and N-oxide",
+        "D": "Ammonia-N, nitro-N, azide-N, and nitrite-N",
+        "Answer": "A",
+        "Source": "The N 1 s peaks can be divided into 398.23, 400.24, 401.00, and 402.73 eV, corresponding to the pyridinic-N, pyrrolic-N, graphitic-N, and N-oxide, respectively."
+    },
+    "Question_10": {
+        "Context": "The electrochemical performance of ORR catalysts is often evaluated using techniques such as cyclic voltammetry (CV) and linear sweep voltammetry (LSV).",
+        "Question": "What information can be obtained from cyclic voltammetry (CV) and linear sweep voltammetry (LSV) measurements of ORR catalysts?",
+        "A": "The thermal stability of the catalyst",
+        "B": "The electrical conductivity of the catalyst",
+        "C": "The onset potential and electrocatalytic activity",
+        "D": "The mechanical strength of the catalyst",
+        "Answer": "C",
+        "Source": "The cyclic voltammetry (CV) tests were performed from -0.2 to 1.2 V (vs. RHE) at a scan rate of 50 mV/s. The linear sweep voltammetry (LSV) was measured from 0 to 1.2 V (vs. RHE) at a scan rate of 5 mV/s with a rotating speed from 800 to 2400 rpm under the O2-saturated circumstance."
+    }
+}

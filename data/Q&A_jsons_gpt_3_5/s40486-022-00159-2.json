@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Understanding the impact of multiple stenoses on thrombosis formation.",
+        "Question": "What was the observed location where total occlusion could be produced in the study?",
+        "A": "Second stenosis",
+        "B": "Third stenosis",
+        "C": "First stenosis",
+        "D": "None of the stenoses",
+        "Answer": "C",
+        "Source": "Thus, the location where total occlusion could be produced was found to be the first stenosis for all the cases."
+    },
+    "Question_2": {
+        "Context": "Investigating the behavior of aggregations in different stenoses.",
+        "Question": "Where was the highest percentage of aggregations found in the study?",
+        "A": "Second stenosis",
+        "B": "Third stenosis",
+        "C": "First stenosis",
+        "D": "All stenoses had equal percentages",
+        "Answer": "C",
+        "Source": "Aggregation percentages were analyzed at each stenosis in the three channels and the highest percentage was found at the first stenosis in all the cases."
+    },
+    "Question_3": {
+        "Context": "Exploring the impact of shear rates on thrombosis development.",
+        "Question": "What role do high wall shear rates play in coronary thrombosis development?",
+        "A": "They reduce platelet aggregation",
+        "B": "They increase the risk of embolism",
+        "C": "They initiate platelets' aggregation",
+        "D": "They have no impact on thrombosis",
+        "Answer": "C",
+        "Source": "High wall shear rates play an important role in coronary thrombosis development. They are responsible for starting the mechanism for platelets\u2019 aggregation."
+    },
+    "Question_4": {
+        "Context": "Understanding the significance of pressure drop in diagnosing stenoses.",
+        "Question": "What does the pressure gradient help evaluate in diagnostic techniques like fractional flow reserve (FFR)?",
+        "A": "The blood viscosity",
+        "B": "The lesion severity",
+        "C": "The blood flow rate",
+        "D": "The arterial wall thickness",
+        "Answer": "B",
+        "Source": "The pressure gradient is used mainly when diagnostic techniques such as fractional flow reserve (FFR) are measured. FFR index helps to evaluate the lesion severity and to decide on treatment."
+    },
+    "Question_5": {
+        "Context": "Investigating the behavior of thrombus formation in different stenoses.",
+        "Question": "What was observed in the second and third stenoses regarding thrombus formation?",
+        "A": "Constant reduction in thrombus size",
+        "B": "Higher percentage of thrombus formation",
+        "C": "No thrombus formation",
+        "D": "Decrease in blood flow reaching the stenoses",
+        "Answer": "D",
+        "Source": "Instead, a constant increment in clear area percentages was noticed. Meaning that blood flow reaching these stenoses was decreasing."
+    },
+    "Question_6": {
+        "Context": "Exploring the limitations of the study.",
+        "Question": "What was one of the limitations encountered in the study regarding the fabrication?",
+        "A": "Localized collagen coating",
+        "B": "Use of von Willebrand factor protein",
+        "C": "Limited number of samples",
+        "D": "Lack of endothelial cell lining",
+        "Answer": "C",
+        "Source": "Also, a limited number of samples was used, therefore, findings need to be verified further."
+    },
+    "Question_7": {
+        "Context": "Understanding the monitoring techniques used in the study.",
+        "Question": "Why were clear areas defined during the monitoring process?",
+        "A": "To measure thrombus volume",
+        "B": "To observe blood flow recovery",
+        "C": "To identify plasma areas",
+        "D": "To determine cell-free layer thickness",
+        "Answer": "C",
+        "Source": "Clear areas might be plasma, as it has been found that geometry variations of microfluidics enhance CFL."
+    },
+    "Question_8": {
+        "Context": "Investigating the behavior of thrombus formation in different stenoses.",
+        "Question": "What was the reason for the constant increment in clear area percentages in the second and third stenoses?",
+        "A": "Thrombus dissolution",
+        "B": "Flow diversion",
+        "C": "Aggregations in the first stenosis",
+        "D": "Cell-free layer formation",
+        "Answer": "C",
+        "Source": "Meaning that blood flow reaching these stenoses was decreasing. Aggregations being formed in the first stenosis could explain these changes."
+    },
+    "Question_9": {
+        "Context": "Understanding the implications of the study results.",
+        "Question": "What insight did the study provide regarding thrombosis development in vessels with multiple stenoses?",
+        "A": "First stenosis is not prone to total occlusion",
+        "B": "Second stenosis is the most prone to total occlusion",
+        "C": "Third stenosis has the highest aggregation percentage",
+        "D": "First stenosis is the most prone to total occlusion",
+        "Answer": "D",
+        "Source": "Based on our results, the first stenosis is the most prone to total occlusion, thus, it should be treated earlier."
+    },
+    "Question_10": {
+        "Context": "Exploring the potential future applications of the study.",
+        "Question": "What future application was suggested based on the study's findings?",
+        "A": "Application to bifurcation lesions",
+        "B": "Use in arterial wall thickness measurement",
+        "C": "Implementation in blood viscosity studies",
+        "D": "Application in lung disease diagnosis",
+        "Answer": "A",
+        "Source": "A similar fabrication method, experiment setup, and perhaps evaluation technique could be applied to more complex coronary artery lesions in the future."
+    }
+}

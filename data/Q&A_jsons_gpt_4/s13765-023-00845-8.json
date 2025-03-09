@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Biochar is a carbon-rich product obtained from the thermal decomposition of organic materials in an oxygen-limited environment. It is known for its ability to improve soil properties and sequester carbon.",
+        "Question": "What is the primary benefit of biochar in agricultural ecosystems?",
+        "A": "Increasing soil acidity",
+        "B": "Reducing soil porosity",
+        "C": "Counteracting climate change impacts",
+        "D": "Enhancing plant disease resistance",
+        "Answer": "C",
+        "Source": "Biochar, widely recognized for its capacity to counteract climate change impacts, has demonstrated substantial benefits in agricultural ecosystems."
+    },
+    "Question_2": {
+        "Context": "Compost is an organic matter that has been decomposed and recycled as a fertilizer and soil amendment. It is a key ingredient in organic farming.",
+        "Question": "What is compost primarily used for in agriculture?",
+        "A": "As a pesticide",
+        "B": "As a soil amendment",
+        "C": "For adjusting soil pH to acidic levels",
+        "D": "As a plant growth inhibitor",
+        "Answer": "B",
+        "Source": "Organic amendments such as compost and biochar have ignited burgeoning interest for its potential role in elevating soil health and bolstering crop productivity."
+    },
+    "Question_3": {
+        "Context": "Waterlogging in agriculture refers to the saturation of soil with water, which can lead to reduced oxygen availability for plant roots.",
+        "Question": "What is a consequence of waterlogging on crop growth?",
+        "A": "Enhanced nutrient uptake",
+        "B": "Increased oxygen availability",
+        "C": "Improved soil aeration",
+        "D": "Constrained crop growth and productivity",
+        "Answer": "D",
+        "Source": "Waterlogging is the inundation of soil surface causing abiotic stress. It constrains crop growth and productivity by imperiling soil health and jeopardizing yields."
+    },
+    "Question_4": {
+        "Context": "Soil porosity refers to the fraction of the volume of voids over the total volume of the soil. This property is crucial for water retention and aeration.",
+        "Question": "How does biochar generally affect soil porosity?",
+        "A": "Decreases it significantly",
+        "B": "Has no effect on it",
+        "C": "Increases it depending on application rates and properties",
+        "D": "Varies with the type of crop planted",
+        "Answer": "C",
+        "Source": "Biochar generally improves soil porosity, aggregate stability, and infiltration depending upon application rates and biochar properties; thereby reducing raindrop impacts."
+    },
+    "Question_5": {
+        "Context": "Greenhouse gases like CO2 and N2O are major contributors to climate change. Agricultural practices can influence the fluxes of these gases.",
+        "Question": "Which agricultural amendment has been shown to reduce N2O flux?",
+        "A": "Nitrogen fertilizers",
+        "B": "Biochar",
+        "C": "Pesticides",
+        "D": "Herbicides",
+        "Answer": "B",
+        "Source": "Also, the CO2 and N2O fluxes remained largely similar for two biochar treatments but lower than CP treatment."
+    },
+    "Question_6": {
+        "Context": "Soil amendments can influence the emission rates of greenhouse gases from soils, which is an important consideration for climate change mitigation.",
+        "Question": "Which treatment in the context of soil amendments was associated with higher CO2 emission rates?",
+        "A": "Control",
+        "B": "Compost",
+        "C": "Rice husk biochar",
+        "D": "Wood biochar",
+        "Answer": "B",
+        "Source": "Notably, the CP treatment showed elevated CO2 emission rates compared to its counterparts."
+    },
+    "Question_7": {
+        "Context": "The pH level of a substance is a measure of its acidity or alkalinity. Biochar is known to have effects on the pH of the soil.",
+        "Question": "What is the typical pH level of biochar?",
+        "A": "Strongly acidic",
+        "B": "Neutral",
+        "C": "Slightly acidic",
+        "D": "Slightly alkaline",
+        "Answer": "D",
+        "Source": "Both rice husk and wood biochars were commercially available and slightly alkaline (pH > 9) with substantial TN, TP, K, Ca, and Mg nutrients."
+    },
+    "Question_8": {
+        "Context": "Soil organic matter is a complex mixture of carbon compounds, including decomposed plant and animal material, which provides nutrients for plants and maintains soil structure.",
+        "Question": "What is the role of soil organic matter in agriculture?",
+        "A": "It primarily acts as a herbicide",
+        "B": "It is used to decrease soil fertility",
+        "C": "It contributes to soil health and fertility",
+        "D": "It increases the soil's alkalinity",
+        "Answer": "C",
+        "Source": "Its commendable role in ameliorating soil fertility, sequestering carbon, enhancing nutrient cycling, and reducing nutrient leaching and bioavailability of contaminants, has been empirically established, leading to enhanced crop yields and GHG savings."
+    },
+    "Question_9": {
+        "Context": "Cation exchange capacity (CEC) is a measure of how well soil can retain and supply cations to plant roots. It's an important soil property influencing soil fertility.",
+        "Question": "What does a high cation exchange capacity (CEC) indicate about a soil?",
+        "A": "Low nutrient retention",
+        "B": "Poor soil structure",
+        "C": "High nutrient retention",
+        "D": "High soil acidity",
+        "Answer": "C",
+        "Source": "Soils in the experimental plots comprised of 25.8 g kg\u22121 organic matter (OM), 1.52 g kg\u22121 total nitrogen (TN), 67.6 mg kg\u22121 available phosphate (Avail. P2O5), 0.59 cmolc kg\u22121 K, 2.67 cmolc kg\u22121 Ca, 0.88 cmolc kg\u22121 Mg, and 9.22 cmolc kg\u22121 cation exchange capacity (CEC)."
+    },
+    "Question_10": {
+        "Context": "The Tyurin method and Kjeldahl method are analytical procedures used to determine certain soil properties, which are crucial for assessing soil fertility.",
+        "Question": "What soil property is measured using the Kjeldahl method?",
+        "A": "Soil pH",
+        "B": "Soil organic matter",
+        "C": "Total nitrogen",
+        "D": "Cation exchange capacity",
+        "Answer": "C",
+        "Source": "Soil organic matter (OM) and total nitrogen (TN) contents were measured using the Tyurin method and Kjeldahl method, respectively."
+    }
+}

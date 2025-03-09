@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on developing an ultrasound-assisted magnetic solid-phase extraction method for pre-concentrating tetracyclines in wastewater and river water.",
+        "Question": "What was the main purpose of the study?",
+        "A": "To investigate the effects of different elution solvents on tetracycline extraction",
+        "B": "To optimize the extraction conditions for tetracyclines in water samples",
+        "C": "To compare the adsorption capacities of chitosan and zeolite individually",
+        "D": "To study the impact of antibiotics on environmental water sources",
+        "Answer": "B",
+        "Source": "The parameters affecting the extraction and pre-concentration of tetracyclines were investigated and optimized."
+    },
+    "Question_2": {
+        "Context": "The study used a central composite design to optimize factors affecting the ultrasound-assisted magnetic solid-phase extraction method.",
+        "Question": "What statistical approach was employed to optimize the experimental conditions?",
+        "A": "Factorial design",
+        "B": "Response surface methodology",
+        "C": "Fractional factorial design",
+        "D": "Design of experiments",
+        "Answer": "B",
+        "Source": "Central composite design (CCD) was used to optimize the experimental conditions."
+    },
+    "Question_3": {
+        "Context": "The study investigated the adsorption isotherms of tetracyclines onto the composite material.",
+        "Question": "Which isotherm model best described the adsorption of tetracyclines onto the composite?",
+        "A": "Freundlich",
+        "B": "Langmuir",
+        "C": "Sips",
+        "D": "Henry",
+        "Answer": "B",
+        "Source": "The Langmuir isotherm model suggested a monolayer adsorption process."
+    },
+    "Question_4": {
+        "Context": "The study validated the analytical method in terms of linearity, sensitivity, specificity, robustness, precision, accuracy, and matrix effect.",
+        "Question": "What was the limit of detection for oxytetracycline?",
+        "A": "0.05 \u00b5g L\u22121",
+        "B": "0.35 \u00b5g L\u22121",
+        "C": "0.67 \u00b5g L\u22121",
+        "D": "0.14 \u00b5g L\u22121",
+        "Answer": "A",
+        "Source": "The LOD for oxytetracycline was found to be 0.05 \u00b5g L\u22121."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the regeneration and reusability of the synthesised adsorbent.",
+        "Question": "What was the percentage recovery for doxycycline after the ninth cycle of regeneration?",
+        "A": "Below 70%",
+        "B": "Above 90%",
+        "C": "Around 80%",
+        "D": "Exactly 100%",
+        "Answer": "A",
+        "Source": "The recovery for doxycycline was below 70% after the ninth cycle."
+    },
+    "Question_6": {
+        "Context": "The study assessed the precision and accuracy of the developed method.",
+        "Question": "What were the %RSD values for oxytetracycline, tetracycline, and doxycycline?",
+        "A": "1.36, 1.89, 3.72",
+        "B": "1.44, 0.19, 1.14",
+        "C": "0.1, 9.0, -13.1",
+        "D": "0.36, 0.43, 0.76",
+        "Answer": "B",
+        "Source": "From the low %RSD values, it can be deduced that the modification of the parameters had no significant effect on the peak areas with p values of 0.36, 0.43, and 0.76 for OT, TC, and DC, respectively."
+    },
+    "Question_7": {
+        "Context": "The study evaluated the accuracy of the UA-MSPE/HPLC-DAD method by spiking wastewater and river water samples.",
+        "Question": "What were the recovery values for the three analytes, indicating an accurate analytical method?",
+        "A": "92-101%, 95-101%, 90-99%",
+        "B": "85-92%, 88-95%, 80-90%",
+        "C": "75-80%, 82-88%, 70-80%",
+        "D": "60-70%, 65-75%, 50-60%",
+        "Answer": "A",
+        "Source": "TC and DC spiked at three different levels showed 92-101%, 95-101%, and 90-99% recoveries, indicating an accurate analytical method."
+    },
+    "Question_8": {
+        "Context": "The study investigated the matrix effect on the analytical procedure's performance.",
+        "Question": "How is the matrix effect categorized based on the percentage matrix effect (% ME) values?",
+        "A": "No effect: % ME \u2265 -20% or % ME \u2264 20%",
+        "B": "Medium effect: -50% \u2264 % ME \u2264 -20% or 20% \u2265 % ME \u2265 50%",
+        "C": "Strong effect: % ME \u2264 -50% or % ME \u2265 50%",
+        "D": "All of the above",
+        "Answer": "A",
+        "Source": "The matrix effect is categorized as having no effect when % ME \u2265 -20% or % ME \u2264 20%."
+    },
+    "Question_9": {
+        "Context": "The study compared the proposed method with other published work.",
+        "Question": "How did the developed UA-MSPE/HPLC-DAD method perform compared to other methods in terms of LOD, LOQ, and %RSD?",
+        "A": "Better LOD, LOQ, and %RSD",
+        "B": "Similar LOD, LOQ, and %RSD",
+        "C": "Worse LOD, LOQ, and %RSD",
+        "D": "Not enough information provided",
+        "Answer": "A",
+        "Source": "The developed UA-MSPE/HPLC-DAD method showed better LOD, LOQ, and %RSD compared to other published methods."
+    },
+    "Question_10": {
+        "Context": "The study analyzed the presence of tetracyclines in wastewater and river water samples.",
+        "Question": "What were the concentrations of oxytetracycline, tetracycline, and doxycycline in the river water samples?",
+        "A": "4.79 \u00b5g L\u22121, 4.94 \u00b5g L\u22121, 4.59 \u00b5g L\u22121",
+        "B": "5.79 \u00b5g L\u22121, 5.94 \u00b5g L\u22121, 5.59 \u00b5g L\u22121",
+        "C": "3.79 \u00b5g L\u22121, 3.94 \u00b5g L\u22121, 3.59 \u00b5g L\u22121",
+        "D": "2.79 \u00b5g L\u22121, 2.94 \u00b5g L\u22121, 2.59 \u00b5g L\u22121",
+        "Answer": "A",
+        "Source": "The concentrations of oxytetracycline, tetracycline, and doxycycline in river water samples were 4.79 \u00b5g L\u22121, 4.94 \u00b5g L\u22121, and 4.59 \u00b5g L\u22121, respectively."
+    }
+}

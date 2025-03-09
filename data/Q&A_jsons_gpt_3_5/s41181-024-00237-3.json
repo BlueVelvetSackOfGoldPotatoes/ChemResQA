@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of a new radiolabeled PSMA-targeting molecule called JB-1498 and its comparison to [68Ga]Ga-PSMA-11 in terms of salivary gland uptake in mice.",
+        "Question": "What was the salivary gland uptake of [68Ga]Ga-JB-1498 in the initial biodistribution study with low molar activity?",
+        "A": "0.13 \u00b1 0.01%ID/g",
+        "B": "0.39 \u00b1 0.24%ID/g",
+        "C": "10.12 \u00b1 1.73%ID/g",
+        "D": "12.09 \u00b1 1.28%ID/g",
+        "Answer": "A",
+        "Source": "In an initial biodistribution study with low molar activity, [68Ga]Ga-JB-1498 demonstrated salivary gland uptake of 0.13 \u00b1 0.01%ID/g."
+    },
+    "Question_2": {
+        "Context": "The study aimed to investigate the salivary gland uptake of [68Ga]Ga-JB-1498 compared to [68Ga]Ga-PSMA-11.",
+        "Question": "What was the salivary gland uptake of [68Ga]Ga-JB1498 in the second biodistribution study in non-tumor-bearing mice with high molar activity?",
+        "A": "0.13 \u00b1 0.01%ID/g",
+        "B": "0.39 \u00b1 0.24%ID/g",
+        "C": "10.12 \u00b1 1.73%ID/g",
+        "D": "12.09 \u00b1 1.28%ID/g",
+        "Answer": "B",
+        "Source": "In a second biodistribution study in non-tumor-bearing mice with high molar activity, [68Ga]Ga-JB1498 demonstrated salivary gland uptake of 0.39 \u00b1 0.24% ID/g."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the use of micro-PET imaging to confirm the findings of the biodistribution studies.",
+        "Question": "What did the dynamic micro-PET imaging demonstrate about the activity of [68Ga]Ga-JB1498 in salivary glands and kidneys compared to [68Ga]Ga-PSMA-11 during the first hour?",
+        "A": "Gradually decreasing activity in salivary glands and kidneys",
+        "B": "Gradually increasing activity in salivary glands and kidneys",
+        "C": "Stable activity in salivary glands and kidneys",
+        "D": "No activity detected in salivary glands and kidneys",
+        "Answer": "A",
+        "Source": "Dynamic micro-PET imaging demonstrated gradually decreasing [68Ga]Ga-JB1498 activity in salivary glands and kidneys, compared to gradually increasing [68Ga]Ga-PSMA-11 activity in these two organs during the first hour."
+    },
+    "Question_4": {
+        "Context": "The study aimed to reduce salivary gland uptake of PSMA-targeting ligands.",
+        "Question": "What was the purpose of constructing JB-1498 with a highly negatively charged linker?",
+        "A": "To increase salivary gland uptake",
+        "B": "To target kidney uptake",
+        "C": "To reduce salivary gland uptake",
+        "D": "To increase liver uptake",
+        "Answer": "C",
+        "Source": "Our findings suggest that constructing a PSMA-targeting molecule with a highly negatively charged linker is a promising strategy to reduce salivary gland uptake of GCP-II/PSMA ligands in theranostic applications."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the development of PSMA-targeting therapeutic agents.",
+        "Question": "What was the purpose of the landmark VISION trial with [177Lu]Lu-PSMA-617?",
+        "A": "To demonstrate prolonged survival compared to standard of care",
+        "B": "To increase side effects",
+        "C": "To reduce survival rates",
+        "D": "To test a new diagnostic modality",
+        "Answer": "A",
+        "Source": "The landmark VISION trial with [177Lu] Lu-PSMA-617 for metastatic castration-resistant prostate cancer demonstrated prolonged survival compared to standard of care."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the development of PSMA-targeting therapeutic agents.",
+        "Question": "What was the response of a patient with metastatic prostate cancer after 4 cycles of therapy with [225Ac]Ac-PSMA-617?",
+        "A": "PSA value reduced from 2,923 ng/mL to less than 0.1 ng/mL",
+        "B": "PSA value increased",
+        "C": "No change in PSA value",
+        "D": "PSA value reduced by 50%",
+        "Answer": "A",
+        "Source": "[225Ac]Ac-PSMA-617 demonstrated an impressive response where the PSA value of a patient with metastatic prostate cancer was reduced from 2,923 ng/mL to less than 0.1 ng/mL after 4 cycles of therapy with [225Ac]Ac-PSMA-617."
+    },
+    "Question_7": {
+        "Context": "The paper discusses strategies to reduce salivary gland uptake of PSMA-targeting agents.",
+        "Question": "Which method has been employed to reduce salivary gland uptake of PSMA-targeting agents?",
+        "A": "External cooling",
+        "B": "Vitamin D administration",
+        "C": "Antibiotic therapy",
+        "D": "Surgical removal of salivary glands",
+        "Answer": "A",
+        "Source": "Methods include external cooling, co-administration of PSMA inhibitors using PMPA, ductal injection of DCFPyL, botulinum toxin, muscarinic inhibition, monosodium glutamate administration, and vitamin C administration."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the development of PSMA-targeting molecules with different structural modifications.",
+        "Question": "What structural modification was demonstrated by Kuo et al. to lead to a significant reduction of salivary gland uptake?",
+        "A": "Replacement of the glutamate sidechain of the Lys-urea-Glu pharmacophore",
+        "B": "Addition of a methyl group",
+        "C": "Removal of the urea group",
+        "D": "Addition of a halogen atom",
+        "Answer": "A",
+        "Source": "Kuo et al. demonstrated that replacing the glutamate sidechain of the Lys-urea-Glu pharmacophore at the catalytic site can lead to significant reduction of salivary gland uptake."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the development of PSMA-targeting molecules with different structural modifications.",
+        "Question": "What has led to the reduction of salivary gland uptake in mice without altering the glutamate pharmacophore?",
+        "A": "Optimization of halogen positioning",
+        "B": "Addition of a methyl group",
+        "C": "Replacement of the urea group",
+        "D": "Alteration of the overall charge in the linker region",
+        "Answer": "D",
+        "Source": "A potential new target of structural modification without altering the glutamate pharmacophore is the overall charge in the linker region as illustrated herein."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the need to reduce salivary gland toxicity associated with current PSMA-targeting treatment.",
+        "Question": "What is the potential impact of reducing salivary gland toxicity in PSMA-targeted therapies?",
+        "A": "Increase therapeutic window",
+        "B": "Increase side effects",
+        "C": "Decrease therapeutic efficacy",
+        "D": "No impact on therapy",
+        "Answer": "A",
+        "Source": "A GCP-II targeting ligand with reduced salivary gland uptake has the potential to decrease salivary gland toxicity and increase therapeutic window of PSMA targeting radiotherapy."
+    }
+}

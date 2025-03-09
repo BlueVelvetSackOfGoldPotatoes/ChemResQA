@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of a colorimetric method for miRNA analysis. An important step in the process involves the cyclization of the padlock sequence by the target miRNA. What is the purpose of this cyclization step?",
+        "Question": "Why is the cyclization of the padlock sequence by the target miRNA important in the colorimetric method?",
+        "A": "To initiate the RCA reaction",
+        "B": "To catalyze cysteine to cystine",
+        "C": "To produce G-rich sequences",
+        "D": "To stabilize the G-quadruplex DNAzyme",
+        "Answer": "A",
+        "Source": "In this approach, cyclization of the padlock sequence by miRNA-21 initiates the RCA to produce numerous G-rich sequences."
+    },
+    "Question_2": {
+        "Context": "The color reaction in the method involves the catalytic oxidation of cysteine to cystine. Why is this oxidation reaction important in the colorimetric detection of miRNAs?",
+        "Question": "What role does the catalytic oxidation of cysteine to cystine play in the colorimetric detection of miRNAs?",
+        "A": "To prevent AuNP aggregation",
+        "B": "To stabilize the G-quadruplex DNAzyme",
+        "C": "To initiate the color reaction",
+        "D": "To mediate the gold nanoparticle-based color reaction",
+        "Answer": "D",
+        "Source": "The generated G-rich sequences fold to G-quadruplex DNAzyme that is capable of catalyzing cysteine to cystine which could mediate the gold nanoparticle-based color reaction."
+    },
+    "Question_3": {
+        "Context": "The method aims to improve the specificity of miRNA detection. What is one of the strategies employed to enhance the specificity of the approach?",
+        "Question": "How is the specificity of miRNA detection improved in the proposed method?",
+        "A": "By using exonuclease I",
+        "B": "By employing T4 DNA ligase",
+        "C": "By incorporating phi29 DNA polymerase",
+        "D": "By adding hemin",
+        "Answer": "A",
+        "Source": "The specificity of RCA is greatly improved due to the dual recognition, including the cyclization of padlock and exonuclease-I (Exo-I)/exonuclease-III (Exo-III)-based digestion of the target sequence."
+    },
+    "Question_4": {
+        "Context": "The method involves the use of AuNPs for colorimetric detection. Why is the aggregation of AuNPs important in the color reaction?",
+        "Question": "What effect does the aggregation of AuNPs have in the colorimetric detection process?",
+        "A": "Enhances the sensitivity",
+        "B": "Prevents color change",
+        "C": "Indicates the absence of miRNA",
+        "D": "Mediates the color change",
+        "Answer": "D",
+        "Source": "The absence of target dsDNA prevented AuNP assembly, which was attributed to Ag\u2013S formation between Ag+ and cysteine, which prevented triplex DNA creation between Oligo-1 on AuNPs and Oligo-2."
+    },
+    "Question_5": {
+        "Context": "The method was optimized by adjusting various experimental parameters. What was the purpose of optimizing the enzyme concentrations and other factors?",
+        "Question": "Why was it necessary to optimize the experimental parameters in the colorimetric method?",
+        "A": "To increase the cost-effectiveness",
+        "B": "To improve the color intensity",
+        "C": "To enhance the assay's sensitivity",
+        "D": "To reduce the reaction time",
+        "Answer": "C",
+        "Source": "Therefore, it was essential to optimize the relevant factors that could impact the assay\u2019s sensitivity, including the enzyme concentrations (T4 ligase, phi29 polymerase, Exo-I and Exo-III), K+, hemin, cysteine, and Ag+."
+    },
+    "Question_6": {
+        "Context": "The method demonstrated a high sensitivity in detecting miRNA-21. What was the limit of detection achieved by the colorimetric approach?",
+        "Question": "What was the limit of detection for miRNA-21 using the colorimetric method?",
+        "A": "10 fM",
+        "B": "1 nM",
+        "C": "100 pM",
+        "D": "4 fM",
+        "Answer": "D",
+        "Source": "The limit of detection was calculated to be 4 fM using the linear correlation equation."
+    },
+    "Question_7": {
+        "Context": "The method exhibited specificity in detecting miRNA-21. How was the specificity of the approach demonstrated?",
+        "Question": "How was the specificity of the method demonstrated in detecting miRNA-21?",
+        "A": "By comparing miRNA-21 with let-7a",
+        "B": "By varying the concentrations of miRNA-21",
+        "C": "By using different colorimetric indicators",
+        "D": "By altering the reaction time",
+        "Answer": "A",
+        "Source": "The miRNA-21 and its one-base (m1), two-base (m2), and three-base (m3) variants of the same concentration (100 pM) resulted in significantly different A600/A525 values."
+    },
+    "Question_8": {
+        "Context": "The method was tested using artificial serum samples. What was the correlation coefficient obtained when analyzing the clinical samples?",
+        "Question": "What was the correlation coefficient between the detection results and the initial quantities of miRNA-21 in the clinical samples?",
+        "A": "0.9943",
+        "B": "0.9999",
+        "C": "0.9876",
+        "D": "1.0000",
+        "Answer": "A",
+        "Source": "The correlation coefficient of 0.9943 in Additional file 1: Fig. S1 between the detection results and the initial quantities of miRNA-21 indicates that the method is capable of detecting miRNAs from clinical samples."
+    },
+    "Question_9": {
+        "Context": "The method was designed for quick and accurate detection of miRNAs. What was the main advantage of the colorimetric platform described in the paper?",
+        "Question": "What advantage does the colorimetric platform offer for sensing miRNAs associated with acute pancreatitis?",
+        "A": "High sensitivity",
+        "B": "Low cost",
+        "C": "Long reaction time",
+        "D": "Complex operation",
+        "Answer": "A",
+        "Source": "With respect to reaction time, sensitivity, and selectivity, this colorimetric platform exhibits potential for sensing miRNAs associated with acute pancreatitis."
+    },
+    "Question_10": {
+        "Context": "The paper acknowledges the support from The Third Affiliated Hospital of Chongqing Medical University. What was the role of C. S. in the research?",
+        "Question": "What was the role of C. S. in the research according to the acknowledgements section?",
+        "A": "Data collection",
+        "B": "Supervisor of the team",
+        "C": "Manuscript writing",
+        "D": "Experimental data analysis",
+        "Answer": "B",
+        "Source": "C. S. is the supervisor of the team in all research steps including designing, data analysis and manuscript writing."
+    }
+}

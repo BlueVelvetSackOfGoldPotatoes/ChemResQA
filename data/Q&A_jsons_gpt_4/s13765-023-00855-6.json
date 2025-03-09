@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Watery kimchi is a type of Korean kimchi that is prepared with added water or brine solution during the fermentation process and is usually consumed as a soup.",
+        "Question": "Which type of watery kimchi was found to have the highest total carotenoid content?",
+        "A": "Yeolmu mul kimchi (YMK)",
+        "B": "Dongchimi (DC)",
+        "C": "Nabak kimchi (NK)",
+        "D": "Baechu kimchi",
+        "Answer": "A",
+        "Source": "Of the three kimchi types, YMK had the highest total carotenoid content (63.78 \u00b1 4.88 mg/100 g), and DC had the lowest (3.50 \u00b1 0.12 mg/100 g)."
+    },
+    "Question_2": {
+        "Context": "Carotenoids are fat-soluble pigments that are biosynthesized in plants and some microorganisms, and they can have yellow, orange, and red colors depending on the type of carotenoid.",
+        "Question": "Which carotenoid is known for being a red pigment in red peppers and is used as an ingredient in kimchi?",
+        "A": "Lutein",
+        "B": "Capsanthin",
+        "C": "\u03b2-Carotene",
+        "D": "Zeaxanthin",
+        "Answer": "B",
+        "Source": "The red pigments capsaicin and capsorubin account for 30\u221270% of the carotenoids in red peppers, which are used as an ingredient in kimchi."
+    },
+    "Question_3": {
+        "Context": "Chlorophylls are lipophilic derivatives mostly composed of chlorophyll-a and -b that can have antioxidant, antimutagenic, metabolic enzyme regulatory activity in vitro, and cancer-preventive effects.",
+        "Question": "What was the ratio of chlorophyll-a to chlorophyll-b found to be highest in?",
+        "A": "Yeolmu mul kimchi (YMK)",
+        "B": "Dongchimi (DC)",
+        "C": "Nabak kimchi (NK)",
+        "D": "Baechu kimchi",
+        "Answer": "A",
+        "Source": "Among the watery kimchi, YMK also contained the highest ratio of Chl-a to Chl-b. This ratio is usually 3:1 in vegetables; in this study, however, the highest chlorophyll ratio was 1.68:1."
+    },
+    "Question_4": {
+        "Context": "Capsaicinoids, responsible for the spiciness of peppers, are synthesized in the plumule epidermal cells of the peppers.",
+        "Question": "Which compound is suggested to have antioxidant, anti-inflammatory, anticancer, anti-obesity, analgesic, and cardioprotective effects?",
+        "A": "Chlorophyll",
+        "B": "Ascorbic acid",
+        "C": "Capsaicin",
+        "D": "Lactic acid",
+        "Answer": "C",
+        "Source": "Capsaicin is suggested to have various physiological activities, such as antioxidant, anti-inflammatory, anticancer, anti-obesity, analgesic, and cardioprotective effects."
+    },
+    "Question_5": {
+        "Context": "Lactic acid bacteria (LAB) produce various metabolites during the lactic acid fermentation process, which contribute to the distinctive flavor and health benefits of fermented foods.",
+        "Question": "Which type of watery kimchi was found to have the highest lactic acid content?",
+        "A": "Yeolmu mul kimchi (YMK)",
+        "B": "Dongchimi (DC)",
+        "C": "Nabak kimchi (NK)",
+        "D": "Baechu kimchi",
+        "Answer": "C",
+        "Source": "The lactic acid content was highest in NK (582.72 \u00b1 29.10 mg/100 g)."
+    },
+    "Question_6": {
+        "Context": "Ascorbic acid, also known as vitamin C, is an essential nutrient involved in the repair of tissue and the enzymatic production of certain neurotransmitters.",
+        "Question": "Which type of watery kimchi had the highest content of ascorbic acid?",
+        "A": "Yeolmu mul kimchi (YMK)",
+        "B": "Dongchimi (DC)",
+        "C": "Nabak kimchi (NK)",
+        "D": "Baechu kimchi",
+        "Answer": "A",
+        "Source": "YMK also had the highest contents of ascorbic acid (447.16 \u00b1 8.95 mg/100 g) compared to DC and NK."
+    },
+    "Question_7": {
+        "Context": "The antioxidant activity of a substance can be measured by its ability to scavenge free radicals, which are unstable atoms that can cause damage to cells, leading to illness and aging.",
+        "Question": "Which assay is used to measure the antioxidant activity by scavenging the ABTS free radical?",
+        "A": "ABTS assay",
+        "B": "DPPH assay",
+        "C": "FRAP assay",
+        "D": "ORAC assay",
+        "Answer": "A",
+        "Source": "The ABTS free radical scavenging activity was measured by a previous method with a slight modification."
+    },
+    "Question_8": {
+        "Context": "Antioxidant activities of food extracts can be evaluated using various assays, including the DPPH assay, which measures the ability to scavenge the DPPH free radical.",
+        "Question": "Which type of watery kimchi showed significantly higher antioxidant activity in both ABTS and DPPH assays?",
+        "A": "Yeolmu mul kimchi (YMK)",
+        "B": "Dongchimi (DC)",
+        "C": "Nabak kimchi (NK)",
+        "D": "Baechu kimchi",
+        "Answer": "A",
+        "Source": "Moreover, YMK showed significantly higher antioxidant activity (ABTS and DPPH) than DC and NK (p < 0.05)."
+    },
+    "Question_9": {
+        "Context": "Carotenoids and chlorophylls are bioactive substances in vegetables that cannot be synthesized in the body and must be consumed in food.",
+        "Question": "Which carotenoids are considered provitamin A carotenoids because they can be converted into vitamin A in the intestine?",
+        "A": "Lutein and zeaxanthin",
+        "B": "Capsanthin and capsorubin",
+        "C": "\u03b2-Carotene, \u03b1-carotene, and cryptoxanthin",
+        "D": "Neoxanthin and violaxanthin",
+        "Answer": "C",
+        "Source": "Of the nine carotenoids detected in the study, the provitamin A carotenoids \u03b2-carotene, \u03b1-carotene, and cryptoxanthin can be converted into vitamin A in the intestine."
+    },
+    "Question_10": {
+        "Context": "Capsaicin and dihydrocapsaicin are two capsaicinoids identified in chili peppers, which contribute to their spiciness.",
+        "Question": "Which type of watery kimchi had the highest total capsaicinoid content?",
+        "A": "Yeolmu mul kimchi (YMK)",
+        "B": "Dongchimi (DC)",
+        "C": "Nabak kimchi (NK)",
+        "D": "Baechu kimchi",
+        "Answer": "A",
+        "Source": "The highest total capsaicinoid content was found in YMK, followed by DC and NK (p < 0.05)."
+    }
+}

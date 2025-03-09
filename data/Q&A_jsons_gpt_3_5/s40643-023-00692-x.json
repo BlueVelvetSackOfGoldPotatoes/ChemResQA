@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on optimizing the ultrasound-assisted extraction (UAE) using response surface methodology. Three factors and three level Box\u2013Behnken design were used to optimize the extraction of bioactive pigments. ",
+        "Question": "What was the optimal extraction temperature determined for the total pigment yield?",
+        "A": "40 \u00b0C",
+        "B": "50 \u00b0C",
+        "C": "60 \u00b0C",
+        "D": "70 \u00b0C",
+        "Answer": "C",
+        "Source": "Results revealed that ultrasound-assisted temperature, time, and solvent-to-biomass ratio had a significant (p < 0.05) influence on the total pigment yield, while temperature significantly influenced the total pigment yield."
+    },
+    "Question_2": {
+        "Context": "The study aimed to optimize the extraction of bioactive pigments and investigate the effects of three independent variables on total pigment yield, antioxidant assay, and total phenolic content.",
+        "Question": "What was the optimal extraction cycle time determined for the antioxidant activity?",
+        "A": "20 min",
+        "B": "30 min",
+        "C": "40 min",
+        "D": "50 min",
+        "Answer": "A",
+        "Source": "The experimental values showed a good agreement with the predicted values with residual standard low 1% under optimum conditions."
+    },
+    "Question_3": {
+        "Context": "The study utilized Response Surface Methodology (RSM) to optimize the extraction process and analyze the effects of extraction temperature, time, and solvent-to-biomass ratio.",
+        "Question": "What was the optimal solvent-to-biomass ratio determined for the total phenolic content?",
+        "A": "50 mL/mg",
+        "B": "60 mL/mg",
+        "C": "70 mL/mg",
+        "D": "80 mL/mg",
+        "Answer": "C",
+        "Source": "The desirability functions showed that the optimal extraction parameters were temperature: 60 \u00b0C, extraction cycle time: 20 min; and a solvent-to-biomass ratio of 70 mL/mg."
+    },
+    "Question_4": {
+        "Context": "The study aimed to optimize the extraction process using ultrasound-assisted extraction (UAE) and natural deep eutectic solvents (NADES) for bioactive pigments.",
+        "Question": "Which variable had a significant influence on the total pigment yield according to the analysis of variance?",
+        "A": "Extraction cycle time",
+        "B": "Solvent-to-biomass ratio",
+        "C": "Extraction temperature",
+        "D": "Interaction between extraction time and temperature",
+        "Answer": "C",
+        "Source": "Results revealed that ultrasound-assisted temperature, time, and solvent-to-biomass ratio had a significant (p < 0.05) influence on the total pigment yield."
+    },
+    "Question_5": {
+        "Context": "The study utilized Response Surface Methodology (RSM) to optimize the extraction process and analyze the effects of extraction temperature, time, and solvent-to-biomass ratio.",
+        "Question": "Which quadratic term was significant for the TPC model?",
+        "A": "Extraction cycle time",
+        "B": "Solvent-to-biomass ratio",
+        "C": "Extraction temperature",
+        "D": "Interaction between extraction time and temperature",
+        "Answer": "A",
+        "Source": "The quadratic term for the extraction time proved to be significant (p value = 0.05)."
+    },
+    "Question_6": {
+        "Context": "The study aimed to optimize the extraction process using ultrasound-assisted extraction (UAE) and natural deep eutectic solvents (NADES) for bioactive pigments.",
+        "Question": "Which variable showed a positive correlation with antioxidant activity according to the response surface analysis?",
+        "A": "Extraction cycle time",
+        "B": "Solvent-to-biomass ratio",
+        "C": "Extraction temperature",
+        "D": "Interaction between extraction time and temperature",
+        "Answer": "C",
+        "Source": "For a set temperature, a higher solvent-to-biomass ratio seems to result in higher antioxidant compounds."
+    },
+    "Question_7": {
+        "Context": "The study focused on optimizing the extraction process using ultrasound-assisted extraction (UAE) and natural deep eutectic solvents (NADES) for bioactive pigments.",
+        "Question": "What was the optimal extraction cycle time determined for the TPC according to the desirability function analysis?",
+        "A": "20 min",
+        "B": "30 min",
+        "C": "40 min",
+        "D": "50 min",
+        "Answer": "A",
+        "Source": "The desirability functions showed that the optimal extraction parameters were temperature: 60 \u00b0C, extraction cycle time: 20 min; and a solvent-to-biomass ratio of 70 mL/mg."
+    },
+    "Question_8": {
+        "Context": "The study aimed to optimize the extraction process using ultrasound-assisted extraction (UAE) and natural deep eutectic solvents (NADES) for bioactive pigments.",
+        "Question": "Which variable had a significant influence on the antioxidant activity according to the analysis of variance?",
+        "A": "Extraction cycle time",
+        "B": "Solvent-to-biomass ratio",
+        "C": "Extraction temperature",
+        "D": "Interaction between extraction time and temperature",
+        "Answer": "C",
+        "Source": "UAE temperature and solvent-to-biomass ratio proved to be significant to the model at a p value of 0.05."
+    },
+    "Question_9": {
+        "Context": "The study utilized Response Surface Methodology (RSM) to optimize the extraction process and analyze the effects of extraction temperature, time, and solvent-to-biomass ratio.",
+        "Question": "Which quadratic term was significant for the antioxidant activity model?",
+        "A": "Extraction cycle time",
+        "B": "Solvent-to-biomass ratio",
+        "C": "Extraction temperature",
+        "D": "Interaction between extraction time and temperature",
+        "Answer": "C",
+        "Source": "From Fig. 4b, c, a clear indication of higher antioxidant activity with temperatures of 60 \u2103 or higher is quite visible."
+    },
+    "Question_10": {
+        "Context": "The study aimed to optimize the extraction process using ultrasound-assisted extraction (UAE) and natural deep eutectic solvents (NADES) for bioactive pigments.",
+        "Question": "What was the optimal solvent-to-biomass ratio determined for the antioxidant activity according to the desirability function analysis?",
+        "A": "50 mL/mg",
+        "B": "60 mL/mg",
+        "C": "70 mL/mg",
+        "D": "80 mL/mg",
+        "Answer": "C",
+        "Source": "The desirability functions showed that the optimal extraction parameters were temperature: 60 \u00b0C, extraction cycle time: 20 min; and a solvent-to-biomass ratio of 70 mL/mg."
+    }
+}

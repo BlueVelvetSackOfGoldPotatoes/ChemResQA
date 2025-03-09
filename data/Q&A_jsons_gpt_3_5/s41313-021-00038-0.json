@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of computational methods for microstructure-sensitive design of materials. ",
+        "Question": "What is the primary focus of the proposed non-intrusive materials informatics methods?",
+        "A": "Analysis of chemical compositions",
+        "B": "Exploration of microstructure space",
+        "C": "Prediction of mechanical properties",
+        "D": "Study of thermal conductivity",
+        "Answer": "B",
+        "Source": "we propose non-intrusive materials informatics methods for the high-throughput exploration and analysis of a synthetic microstructure space using a machine learning-reinforced multi-phase-field modeling scheme."
+    },
+    "Question_2": {
+        "Context": "The study evaluates the impact of interface energy space on the shape of the intermetallic during growth.",
+        "Question": "Which parameters are identified as the most influential on the shape of the intermetallic?",
+        "A": "\u03c3SL, \u03c3IL, and \u03c3IL",
+        "B": "\u03c3SI, \u03c3SL, and \u03c3IL",
+        "C": "\u03c3SI, \u03c3SL, and \u03c3SI",
+        "D": "\u03c3SI, \u03c3IL, and \u03c3SL",
+        "Answer": "D",
+        "Source": "The sensitivity results rank \u03c3SI, \u03c3IL, and \u03c3IL, respectively, as the most influential parameters on the shape of the intermetallic."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the use of variational autoencoder and label spreading for establishing correlations.",
+        "Question": "What is the purpose of using a variational autoencoder in the study?",
+        "A": "To classify microstructures into categories",
+        "B": "To generate realistic images",
+        "C": "To establish correlations between inputs and outputs",
+        "D": "To analyze uncertainty propagation",
+        "Answer": "C",
+        "Source": "we use the VAE approach to determine the correlations between inputs and outputs of the phase-field model."
+    },
+    "Question_4": {
+        "Context": "The study involves the use of Sobol\u2019 sensitivity analysis to evaluate global sensitivity.",
+        "Question": "What does the Sobol\u2019 second-order sensitivity index measure?",
+        "A": "Main effect of a single input variable",
+        "B": "Interaction effect between pairs of input variables",
+        "C": "Total sensitivity index of all input variables",
+        "D": "Variance of the model output",
+        "Answer": "B",
+        "Source": "The Sobol\u2019 second-order sensitivity index measures the interaction effect between pairs (Xi, Xj)."
+    },
+    "Question_5": {
+        "Context": "The study discusses the use of label spreading for training data with only a small portion labeled.",
+        "Question": "What is the goal of the label spreading algorithm in the study?",
+        "A": "To predict the labels of all data points",
+        "B": "To classify microstructures into categories",
+        "C": "To establish correlations between inputs and outputs",
+        "D": "To predict the labels of unlabeled data points",
+        "Answer": "D",
+        "Source": "The goal is to predict the labels of these unlabeled microstructures with the assumption of the consistency of the scalar QoI extracted from the microstructure data."
+    },
+    "Question_6": {
+        "Context": "The study involves the use of Saltelli sampler for sampling the interface energy parameters.",
+        "Question": "What is the advantage of using Saltelli sampler over conventional Monte Carlo sampling?",
+        "A": "Requires fewer function evaluations",
+        "B": "Provides more insight into pair interactions",
+        "C": "Is computationally less expensive",
+        "D": "Estimates the index of the first and total orders",
+        "Answer": "B",
+        "Source": "Saltelli proposed two methods for overcoming the curse of dimensionality in the full-factorial design of experiments. The second case demands an excessively higher number of function evaluations than the first case. However, it estimates the index of the first and total orders plus all indices of order 2 and k \u2212 2."
+    },
+    "Question_7": {
+        "Context": "The study discusses the use of Fourier descriptor analysis for characterizing the shape of the intermetallic.",
+        "Question": "What does the Fourier descriptor analysis aim to achieve?",
+        "A": "Reconstruction of the original input data",
+        "B": "Dimensionality reduction of the input data",
+        "C": "Characterization of the shape of the intermetallic",
+        "D": "Classification of microstructures",
+        "Answer": "C",
+        "Source": "we use Fourier descriptor (FD) analysis to obtain a compact representation of IMC shape, universal enough to store sufficient information about the shape."
+    },
+    "Question_8": {
+        "Context": "The study discusses the use of a multi-phase-field formalism to study microstructure evolution.",
+        "Question": "What variables describe the components of the microstructure in the multi-phase-field method?",
+        "A": "Non-conserved variables only",
+        "B": "Conserved variables only",
+        "C": "Both non-conserved and conserved variables",
+        "D": "Temperature and pressure",
+        "Answer": "C",
+        "Source": "A set of non-conserved (0 \u2264 \u03c6i \u2264 1) and conserved variables (0 \u2264 ci \u2264 1) describe the components of the microstructure."
+    },
+    "Question_9": {
+        "Context": "The study discusses the modeling of free energy using logarithmic potentials in CALPHAD formalism.",
+        "Question": "What is a source of parameter uncertainty in the study?",
+        "A": "Selection of temperature-independent interfacial mobility",
+        "B": "Choice of empirical potential/free energy functional",
+        "C": "Optimization against experimental equilibrium data",
+        "D": "Measurement of surface tension",
+        "Answer": "B",
+        "Source": "The model and parameter uncertainty in phase-field models originate from the choice of the empirical potential/free energy functional."
+    },
+    "Question_10": {
+        "Context": "The study discusses the use of a multi-phase-field method to study the evolution of microstructure.",
+        "Question": "What is the total free energy of the chemically heterogeneous material composed of?",
+        "A": "Only bulk interactions",
+        "B": "Only interfacial interactions",
+        "C": "Both interfacial and bulk interactions",
+        "D": "Only chemical compositions",
+        "Answer": "C",
+        "Source": "The total free energy of chemically heterogeneous material involves interfacial and bulk interactions."
+    }
+}

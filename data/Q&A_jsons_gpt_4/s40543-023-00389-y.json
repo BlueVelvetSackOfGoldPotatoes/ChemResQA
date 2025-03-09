@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Mutations in certain genes can lead to the formation of protein aggregates in cells, which is a common feature in many neurodegenerative diseases.",
+        "Question": "Which gene mutation has been linked to the formation of FUS-positive inclusion and stress granules in familial amyotrophic lateral sclerosis?",
+        "A": "TARDBP",
+        "B": "FUS",
+        "C": "PRMT1",
+        "D": "UBAP2L",
+        "Answer": "B",
+        "Source": "Mutations in the fused\u2011in\u2011sarcoma (FUS) gene have been linked to familial amyotrophic lateral sclerosis (fALS). FUS aggregates in the cytosol and associates with stress granules (SGs) in pathological cases, whereas FUS is normally found in the nucleus."
+    },
+    "Question_2": {
+        "Context": "Proteins can undergo post-translational modifications, which can affect their function and interactions with other proteins.",
+        "Question": "What is the role of protein arginine methyltransferase 1 (PRMT1) in the context of stress granule dynamics?",
+        "A": "PRMT1 glycosylates proteins",
+        "B": "PRMT1 phosphorylates proteins",
+        "C": "PRMT1 demethylates proteins",
+        "D": "PRMT1 asymmetrically demethylates proteins",
+        "Answer": "D",
+        "Source": "PRMT1 asymmetrically demethylates UBAP2L, which is required for both SG assembly and disassembly."
+    },
+    "Question_3": {
+        "Context": "Stress granules (SGs) are cellular structures that form in response to stress and are composed of proteins and RNA.",
+        "Question": "What is the consequence of the FUS R521C mutation on the interaction with ubiquitin-associated protein 2-like (UBAP2L)?",
+        "A": "FUS R521C does not interact with UBAP2L",
+        "B": "FUS R521C reduces interaction with UBAP2L",
+        "C": "FUS R521C interacts more with UBAP2L than FUS WT",
+        "D": "FUS R521C prevents UBAP2L from binding to any proteins",
+        "Answer": "C",
+        "Source": "FUS R521C interacted more with ubiquitin\u2011associated protein 2\u2011like (UBAP2L) and protein arginine methyltransferase 1 (PRMT1) than FUS WT, and PRMT1 and UBAP2L are sequestered into FUS R521C\u2011positive stress granules under oxidative stress."
+    },
+    "Question_4": {
+        "Context": "In cellular biology, the localization of proteins can be indicative of their function and involvement in cellular processes.",
+        "Question": "Where is FUS normally found in a cell?",
+        "A": "In the cytosol",
+        "B": "In the mitochondria",
+        "C": "In the nucleus",
+        "D": "On the cell membrane",
+        "Answer": "C",
+        "Source": "FUS aggregates in the cytosol and associates with stress granules (SGs) in pathological cases, whereas FUS is normally found in the nucleus."
+    },
+    "Question_5": {
+        "Context": "The formation of stress granules is a cellular response to various stress conditions and involves the aggregation of specific proteins and RNA.",
+        "Question": "Which type of stress is known to induce the formation of stress granules?",
+        "A": "Nutrient abundance",
+        "B": "Oxidative stress",
+        "C": "Hydration",
+        "D": "Cell division",
+        "Answer": "B",
+        "Source": "Stress granules (SGs) are cytoplasmic ribonucleoprotein (RNP) granules formed in response to stresses that cause a temporal pause in protein translation to prevent the accumulation of misfolded proteins during cell stress conditions such as heat shock, hypoxia, oxidative stress, ultraviolet irradiation, and viral infection."
+    },
+    "Question_6": {
+        "Context": "The interaction between proteins can be influenced by mutations, which may alter their normal cellular functions.",
+        "Question": "What effect does the FUS R521C mutation have on the interaction with protein arginine methyltransferase 1 (PRMT1)?",
+        "A": "Decreases interaction with PRMT1",
+        "B": "Does not affect interaction with PRMT1",
+        "C": "Increases interaction with PRMT1",
+        "D": "Prevents any interaction with PRMT1",
+        "Answer": "C",
+        "Source": "In response to oxidative stress, the ALS-linked FUS mutant associated with PRMT1 more avidly than FUS WT and was found in stress granules with PRMT1."
+    },
+    "Question_7": {
+        "Context": "Protein modifications can regulate the assembly and disassembly of cellular structures.",
+        "Question": "What post-translational modification is UBAP2L known to undergo that affects stress granule dynamics?",
+        "A": "Ubiquitination",
+        "B": "Sumoylation",
+        "C": "Arginine methylation",
+        "D": "Acetylation",
+        "Answer": "C",
+        "Source": "Recently, it was discovered that UBAP2L participates in SG formation via arginine methylation in the Arg-Gly-Gly (RGG) motif."
+    },
+    "Question_8": {
+        "Context": "The mislocalization of proteins within cellular compartments can be a feature of certain genetic mutations associated with diseases.",
+        "Question": "What is the result of FUS mutations on the protein's localization?",
+        "A": "FUS is mislocalized to the nucleus",
+        "B": "FUS is mislocalized to the cytoplasm",
+        "C": "FUS is mislocalized to the mitochondria",
+        "D": "FUS localization remains unchanged",
+        "Answer": "B",
+        "Source": "These FUS mutations cause FUS mislocalization from the nucleus to the cytoplasm and the formation of FUS-positive stress granules, which sequester various proteins and RNA."
+    },
+    "Question_9": {
+        "Context": "The cellular response to oxidative stress can involve the formation of specific granules that contain proteins and RNA.",
+        "Question": "What cellular structure is UBAP2L known to be involved with during oxidative stress?",
+        "A": "Lysosomes",
+        "B": "Mitochondria",
+        "C": "Stress granules",
+        "D": "Golgi apparatus",
+        "Answer": "C",
+        "Source": "UBAP2L, which has an ubiquitin-associated (UBA) domain near its N-terminus, is an important regulator of SG formation."
+    },
+    "Question_10": {
+        "Context": "The function of proteins can be regulated by enzymes that modify them after translation.",
+        "Question": "Which enzyme is responsible for the majority of asymmetrical dimethylarginines in human cells?",
+        "A": "PRMT2",
+        "B": "PRMT1",
+        "C": "PRMT3",
+        "D": "PRMT5",
+        "Answer": "B",
+        "Source": "PRMT1 is the most common PRMT subtype among the nine and is widely expressed in mammalian cells, accounting for the majority of asymmetrical dimethylarginines in human cells."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In radiopharmaceuticals, radionuclidic purity is important to ensure the safety and efficacy of the pharmaceutical.",
+        "Question": "What is the minimum radionuclidic purity of [177Lu]lutetium for radiolabeling according to the European Pharmacopoeia?",
+        "A": "Greater than 95%",
+        "B": "Greater than 99%",
+        "C": "Greater than 90%",
+        "D": "Greater than 97%",
+        "Answer": "B",
+        "Source": "According to the European Pharmacopoeia, [177Lu] lutetium for radiolabeling must have a radionuclidic purity of greater than 99%."
+    },
+    "Question_2": {
+        "Context": "The presence of radionuclidic impurities in radiopharmaceuticals is strictly regulated.",
+        "Question": "What is the allowed concentration of [177mLu]lutetium impurity in [177Lu]lutetium as per the European Pharmacopoeia?",
+        "A": "Less than 0.05%",
+        "B": "Less than 0.1%",
+        "C": "Less than 0.07%",
+        "D": "Less than 0.01%",
+        "Answer": "C",
+        "Source": "According to the European Pharmacopoeia, [177Lu] lutetium for radiolabeling must have a radionuclidic purity of greater than 99%, whereas [177mLu]lutetium (< 0.07%) and an overall radionuclidic impurity (without [176Yb]ytterbium and [177mLu]lutetium) of < 0.01% is allowed."
+    },
+    "Question_3": {
+        "Context": "Sterility is a critical quality attribute for intravenous radiopharmaceuticals to prevent infections.",
+        "Question": "What is the exemption limit for [177mLu]lutetium for the unrestricted release of solid and liquid substances?",
+        "A": "1 \u00d7 106 Bq and 0.1 Bq/g",
+        "B": "5 \u00d7 105 Bq/m3 and 0.05 Bq/g",
+        "C": "1 \u00d7 105 Bq and 0.2 Bq/g",
+        "D": "5 \u00d7 106 Bq/m3 and 0.2 Bq/g",
+        "Answer": "A",
+        "Source": "For [177mLu]lutetium, the exemption limit is 1 \u00d7 106 Bq and 0.1 Bq/g for the unrestricted release of solid and liquid substances."
+    },
+    "Question_4": {
+        "Context": "The decay of radionuclides is characterized by their half-life, which is the time required for half of the radionuclide to decay.",
+        "Question": "What is the physical half-life of [177Lu]lutetium?",
+        "A": "160.4 days",
+        "B": "6.64 days",
+        "C": "5 years",
+        "D": "3 years",
+        "Answer": "B",
+        "Source": "[177Lu]lutetium decays to stable [177Hf]hafnium with a physical half-life of 6.64 days."
+    },
+    "Question_5": {
+        "Context": "Radionuclides can decay through different pathways, emitting particles and radiation of specific energies.",
+        "Question": "What is the main gamma emission energy when [177mLu]lutetium decays to [177Lu]lutetium?",
+        "A": "208 keV",
+        "B": "113 keV",
+        "C": "414 keV",
+        "D": "379 keV",
+        "Answer": "C",
+        "Source": "In the first case the main gamma emission is 414 keV (17.4%)."
+    },
+    "Question_6": {
+        "Context": "The production of radionuclides can follow different pathways, which may affect the purity and impurity profile of the final product.",
+        "Question": "What is the target material used in the non-carrier added (n.c.a) pathway for the production of [177Lu]lutetium?",
+        "A": "[176Lu]lutetium",
+        "B": "[177Yb]ytterbium",
+        "C": "[176Yb]ytterbium",
+        "D": "[177Hf]hafnium",
+        "Answer": "C",
+        "Source": "The n.c.a. pathway leads via neutron irradiation of [176Yb]ytterbium to [177Yb]ytterbium, which then decays to [177Lu]lutetium by beta emission, 176Yb(n,\u03b3)177Yb \u2192 177Lu."
+    },
+    "Question_7": {
+        "Context": "The presence of long-lived radionuclidic impurities in radiopharmaceuticals can pose challenges for waste management.",
+        "Question": "What is the physical half-life of the metastable impurity [177mLu]lutetium?",
+        "A": "6.64 days",
+        "B": "160.4 days",
+        "C": "5 years",
+        "D": "3 years",
+        "Answer": "B",
+        "Source": "The long-lived [177mLu] lutetium decays in 22.7% of the cases to [177Lu]lutetium and in the other cases to [177Hf] hafnium (77.3%), with a physical half-life of 160.4 days."
+    },
+    "Question_8": {
+        "Context": "The radionuclide [177Lu]lutetium is used in radiopharmaceuticals and can be produced through different methods, which may lead to the presence of impurities.",
+        "Question": "Which radionuclide is the first approved drug that contains [177Lu]lutetium?",
+        "A": "EndolucinBeta\u00ae",
+        "B": "LuMark\u00ae",
+        "C": "Lutathera\u00ae",
+        "D": "Pluvicto\u00ae",
+        "Answer": "C",
+        "Source": "The first approved drug that contains [177Lu]lutetium is Lutathera\u00ae."
+    },
+    "Question_9": {
+        "Context": "The concentration of radionuclidic impurities in radiopharmaceuticals is critical for ensuring compliance with regulatory standards.",
+        "Question": "What was the average concentration of [177mLu]lutetium found in Lutathera\u00ae according to the data?",
+        "A": "0.3%",
+        "B": "311 Bq/g \u00b1 200 Bq/g",
+        "C": "1.4 Bq/g",
+        "D": "29,512 \u00b1 6491 Bq/g",
+        "Answer": "B",
+        "Source": "They concluded that Lutathera\u00ae has an average concentration of 311 Bq/g \u00b1 200 Bq/g and 0.8 ppm [177mLu]lutetium."
+    },
+    "Question_10": {
+        "Context": "In the context of radiopharmaceuticals, the radionuclidic impurity levels are crucial for determining the safety and regulatory compliance of the product.",
+        "Question": "What is the radionuclidic impurity level of [177mLu]lutetium in EndolucinBeta\u00ae samples?",
+        "A": "Less than 0.01%",
+        "B": "0.07%",
+        "C": "0.015%",
+        "D": "0.1%",
+        "Answer": "A",
+        "Source": "The mean 177mLu-activity in the samples of EndolucinBeta\u00ae was 381 \u00b1 511 Bq/g, which represents a radionuclidic impurity of < < 0.01% (approx. 0.0000037 \u00b1 0.0000053%) which is very far below the limit of 0.01% stated on the certificate of analysis."
+    }
+}

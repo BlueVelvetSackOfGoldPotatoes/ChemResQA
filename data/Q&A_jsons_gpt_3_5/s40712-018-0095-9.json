@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the sintering driving force at the initial stage of Pulse Electric Current Sintering (PECS) and the factors influencing it.",
+        "Question": "What is considered the dominant sintering driving force at the late initial stage of PECS?",
+        "A": "Vacancy diffusion flux",
+        "B": "Thermal diffusion flux",
+        "C": "Concentration diffusion flux",
+        "D": "Total diffusion flux",
+        "Answer": "B",
+        "Source": "For double equal-sized spherical model under volume diffusion and simultaneous diffusion, the thermal diffusion flux driven by the high-temperature gradient formed from the neck non-uniform temperature distribution is the dominant sintering driving force, especially at the late initial stage of PECS."
+    },
+    "Question_2": {
+        "Context": "The paper explores the impact of particle size on diffusion flux under volume diffusion.",
+        "Question": "How does increasing particle size affect the diffusion flux under volume diffusion?",
+        "A": "Increases the vacancy diffusion flux",
+        "B": "Decreases the thermal diffusion flux",
+        "C": "Reduces the concentration diffusion flux",
+        "D": "Enhances the sintering driving force",
+        "Answer": "D",
+        "Source": "Numerical results show that large particles have small sintering driving forces; thus, the fine powder accelerates the sintering process in a short time."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the ratio of diffusion flux under simultaneous diffusion.",
+        "Question": "What is the main driving force of the neck mass migration under simultaneous diffusion?",
+        "A": "Vacancy diffusion flux",
+        "B": "Thermal diffusion flux",
+        "C": "Concentration diffusion flux",
+        "D": "Total diffusion flux",
+        "Answer": "B",
+        "Source": "The thermal diffusion flux accounted for nearly half of the total diffusion flux, meaning that thermal diffusion is the main driving force of the neck mass migration and that the concentration diffusion flux cannot be ignored."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the influence of temperature and stress on concentration diffusion flux.",
+        "Question": "What causes the concentration diffusion flux under volume diffusion?",
+        "A": "Temperature gradient",
+        "B": "Pressure gradient",
+        "C": "Stress gradient",
+        "D": "Thermal conductivity",
+        "Answer": "A",
+        "Source": "Affected by temperature and stress, the concentration diffusion flux expression is Jconc = -D\u2207C."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the diffusion mechanisms considered in the study.",
+        "Question": "Under what mechanism does the neck grow without shrinkage during the initial stage of PECS?",
+        "A": "Surface diffusion",
+        "B": "Volume diffusion",
+        "C": "Simultaneous diffusion",
+        "D": "Thermal diffusion",
+        "Answer": "A",
+        "Source": "At the initial stage of PECS, surface diffusion causes neck growth but not shrinkage."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the calculation model and parameters used in the study.",
+        "Question": "What is the value of the thermal expansion coefficient in the thermoelastic diffusion parameters of Al2O3?",
+        "A": "8.0 \u00d7 10^-6 K^-1",
+        "B": "27 W \u22c5 m^-1 \u22c5 K^-1",
+        "C": "380 GPa",
+        "D": "0.22",
+        "Answer": "A",
+        "Source": "Thermal expansion coefficient \u03b1t: 8.0 \u00d7 10^-6 K^-1."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the results and discussion related to temperature and concentration field distributions.",
+        "Question": "What causes the local high temperature at the edge of the sintering neck?",
+        "A": "Thermal diffusion",
+        "B": "Concentration gradient",
+        "C": "Stress effect",
+        "D": "Temperature superposition",
+        "Answer": "D",
+        "Source": "Firstly, superposition is generated at the edge of the sintering neck, resulting in local high temperature at the edge of the neck."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the calculation of the vacancy diffusion flux under volume diffusion.",
+        "Question": "What is the formula for the vacancy diffusion flux under volume diffusion?",
+        "A": "Jcurv = -D\u0394C/\u03c1",
+        "B": "Jther = -DCHm\u2207T/T",
+        "C": "Jconc = -D\u2207C",
+        "D": "Jcurv\u2212t = -D\u0394C/\u03c1",
+        "Answer": "D",
+        "Source": "The corresponding vacancy diffusion flux is Jcurv\u2212t = -D\u0394C/\u03c1."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the diffusion flux under simultaneous diffusion.",
+        "Question": "What is the ratio of the PECS vacancy diffusion flux to the conventional HP curvature-driven flux under simultaneous diffusion?",
+        "A": "4r\u03b3 + 4pr^2/\u03c0",
+        "B": "2r\u03b3 + 4pr^2/\u03c0",
+        "C": "2r\u03b3 + 4pr^2/\u03c0 + a^2\u0394\u03c3T",
+        "D": "4r\u03b3 + 4pr^2/\u03c0 + a^2\u0394\u03c3T",
+        "Answer": "B",
+        "Source": "Simultaneous diffusion: Jcurv\u2212t / Jcurv = 2r\u03b3 + 4pr^2/\u03c0."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the conclusions drawn from the study.",
+        "Question": "What is the main driving force of the neck mass migration at the late initial stage of PECS?",
+        "A": "Vacancy diffusion flux",
+        "B": "Thermal diffusion flux",
+        "C": "Concentration diffusion flux",
+        "D": "Total diffusion flux",
+        "Answer": "B",
+        "Source": "The thermal diffusion flux driven by the high-temperature gradient formed from the neck non-uniform temperature distribution is the dominant sintering driving force, especially at the late initial stage of PECS."
+    }
+}

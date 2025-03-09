@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Tea contains various bioactive compounds that contribute to its flavor and potential health benefits. These compounds include catechins and their derivatives, which have antioxidative properties.",
+        "Question": "Which of the following is NOT a derivative of catechin found in tea?",
+        "A": "Epicatechin gallate (ECG)",
+        "B": "Epigallocatechin (EGC)",
+        "C": "Epigallocatechin gallate (EGCG)",
+        "D": "Theobromine",
+        "Answer": "D",
+        "Source": "Tea contains substantial amounts of antioxidative, anti-inflammatory, anticarcinogenic, and neuroprotective substances that contribute to putative health benefits and most likely ameliorate multiple health conditions such as obesity, diabetes, hypertension, heart disease, and cancer. These putative health benefits are primarily attributed to the major bioactive components including catechin and its derivatives such as catechin gallate (CG), epicatechin (EC), epigallocatechin (EGC), epigcatechin-3-gallate (ECG), epigallocatechin-3-gallate (EGCG), and gallo-catechin (GC) occurring in the tea."
+    },
+    "Question_2": {
+        "Context": "In addition to catechins, tea also contains other compounds such as amino acids, which contribute to its taste and flavor.",
+        "Question": "Which amino acid is known for contributing to the full-bodied flavor and sweetness of tea?",
+        "A": "Glutamine",
+        "B": "Theanine",
+        "C": "Asparagine",
+        "D": "Valine",
+        "Answer": "B",
+        "Source": "Besides, tea contains caffeine, theanine and other minor compounds including sugars, organic acids and amino acids. These chemical compounds or metabolites collectively contribute to the taste of tea infusion for human consumption and bio-function-enhanced tea for tea-based cosmetics and food ingredients, based on genetic, environmental and cultivation factors."
+    },
+    "Question_3": {
+        "Context": "Metabolomics is a tool used to study the comprehensive physiological and biochemical mechanisms in different food matrices, including tea, by analyzing the metabolite profiles.",
+        "Question": "What analytical tool is used to unveil the comprehensive physiological and biochemical mechanisms in different food matrices?",
+        "A": "Chromatography",
+        "B": "Spectroscopy",
+        "C": "Metabolomics",
+        "D": "Bioinformatics",
+        "Answer": "C",
+        "Source": "Metabolomics is a robust and unbiased analytical tool, which can be used to successfully unveils the comprehensive physiological and biochemical mechanisms in different food matrices."
+    },
+    "Question_4": {
+        "Context": "The quality of tea leaves can be influenced by various factors including the cultivar, environmental conditions, and cultivation practices.",
+        "Question": "Which factor is NOT typically associated with influencing the quality of tea leaves?",
+        "A": "Cultivar",
+        "B": "Shading or light exposure",
+        "C": "Soil pH level",
+        "D": "Plucking season",
+        "Answer": "C",
+        "Source": "The quality attributes of fresh tea leaves depend upon cultivars, shading or light, pruning and unpruning, grafting, tea processing, plucking season, plucking position, climate, and the country of origin."
+    },
+    "Question_5": {
+        "Context": "Climatic conditions, such as temperature and rainfall, can affect the metabolite composition of tea leaves, contributing to the concept of 'terroir' in viticulture.",
+        "Question": "Which climatic factor is NOT typically considered part of the 'terroir' affecting the metabolite composition of tea leaves?",
+        "A": "Average temperature",
+        "B": "Total rainfall",
+        "C": "Soil mineral content",
+        "D": "Total sun exposure time",
+        "Answer": "C",
+        "Source": "Moreover, the concept of 'terroir' refers to a complex interplay between environmental, genetic, and human factors in viticulture or wine science. Daily climatological parameters such as average temperature, total rainfall and total sun exposure time during the cultivation periods were considered as 'terroir' or important environmental factors for tea growing in the current study."
+    },
+    "Question_6": {
+        "Context": "The metabolome of tea leaves can show variations from year to year, which can be explored using NMR-based metabolomics approaches.",
+        "Question": "Which spectroscopic technique is employed to explore year-to-year variations in the metabolome of tea leaves?",
+        "A": "Mass spectrometry",
+        "B": "Infrared spectroscopy",
+        "C": "Ultraviolet-visible spectroscopy",
+        "D": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "Answer": "D",
+        "Source": "We explored the year-to-year variations in leaf metabolome of two tea (C. sinensis) cultivars over a period of five successive years from 2015 to 2019 to determine vintage tea products, such as in grapes or wines, and showed a clear metabolic differentiations of fresh tea leaves. Also, the best conditions of climate were suggested through an association of rainfall and sun-expose time with the metabolism of theanine in taste- or flavor-rich tea cultivar and of catechin compounds in EGCG3\u2033Me-rich tea cultivar, thereby providing the potential vintage tea tailored to the cultivar."
+    },
+    "Question_7": {
+        "Context": "The metabolite profile of tea leaves can be quantitatively associated with the quality of the leaves, which is influenced by genetic and environmental factors.",
+        "Question": "Which compound is a predominant metabolite in tea that contributes to its taste and is influenced by genetic and environmental factors?",
+        "A": "Caffeine",
+        "B": "Sucrose",
+        "C": "Theanine",
+        "D": "Acetate",
+        "Answer": "C",
+        "Source": "Besides, tea contains caffeine, theanine and other minor compounds including sugars, organic acids and amino acids. These chemical compounds or metabolites collectively contribute to the taste of tea infusion for human consumption and bio-function-enhanced tea for tea-based cosmetics and food ingredients, based on genetic, environmental and cultivation factors."
+    },
+    "Question_8": {
+        "Context": "The process of asexual propagation is used in the cultivation of tea to produce cultivars with specific metabolic traits.",
+        "Question": "What is the method of cultivation that involves the production of new plants from the parts of existing plants without the use of seeds?",
+        "A": "Hydroponics",
+        "B": "Asexual propagation",
+        "C": "Cross-pollination",
+        "D": "Tissue culture",
+        "Answer": "B",
+        "Source": "Tea plants of two cultivars, Camellia sinensis var. sinensis cv. Jangwon 2 and Jangwon 3 were produced by asexual propagation from wild type tea cultivar, (C. sinensis var. Yabukita) at the same tea garden in the Seogwang area."
+    },
+    "Question_9": {
+        "Context": "The metabolite composition of tea leaves can be quantified using 1H NMR spectroscopy, which allows for the identification of individual compounds.",
+        "Question": "Which type of NMR spectroscopy is particularly useful for quantifying the metabolite composition in tea leaves?",
+        "A": "Carbon-13 NMR spectroscopy",
+        "B": "Proton NMR spectroscopy",
+        "C": "Solid-state NMR spectroscopy",
+        "D": "Phosphorus-31 NMR spectroscopy",
+        "Answer": "B",
+        "Source": "In the current study, fresh leaves of two tea cultivars plucked in five successive vintages from 2015 to 2019 were analyzed by 1H NMR spectroscopy to provide a multivariate dataset with global tea leaf metabolome."
+    },
+    "Question_10": {
+        "Context": "Multivariate statistical analysis, such as PCA and OPLS-DA, can be applied to NMR spectral data to visualize variations in metabolite profiles.",
+        "Question": "Which multivariate statistical analysis method is used to extract maximum information from discriminant compounds based on NMR spectra?",
+        "A": "Principal component analysis (PCA)",
+        "B": "Orthogonal projection on latent structure-discriminant analysis (OPLS-DA)",
+        "C": "Linear discriminant analysis (LDA)",
+        "D": "K-means clustering",
+        "Answer": "B",
+        "Source": "A supervised pattern recognition method, orthogonal projection on latent structure-discriminant analysis (OPLS-DA) was the performed to extract maximum information from the discriminant compounds based on the NMR spectra of tea extracts."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of materials science, the electrical response of composite materials to mechanical deformation is of interest for applications such as Structural Health Monitoring (SHM) and Strain Detection. These materials can detect changes in their structure, such as the formation of microcracks or deformations, by changes in their electrical properties.",
+        "Question": "What type of behavior do carbonic materials like Carbon Nanotubes (CNTs) exhibit due to their dependence on mechanical deformation at the nanoscale?",
+        "A": "Piezoelectric behavior",
+        "B": "Piezoresistive behavior",
+        "C": "Thermoresistive behavior",
+        "D": "Photoconductive behavior",
+        "Answer": "B",
+        "Source": "Carbonic materials like CNTs (but not only) have been deeply analyzed as candidate for strain and motion sensors at the macroscale, due to the dependence of the electrical properties on mechanical deformation at the nanoscale due to piezoresistive behavior."
+    },
+    "Question_2": {
+        "Context": "Composite materials with conductive carbon-based networks, such as those containing carbon nanotubes, can be used as in situ sensors within polymer and fiber reinforced polymer composites. The detection of microcracking and deformations is facilitated by monitoring changes in electrical resistivity.",
+        "Question": "What is the principle behind using conductive carbon-based networks in composite materials for detecting microcracks?",
+        "A": "Change in magnetic permeability",
+        "B": "Change in electrical capacitance",
+        "C": "Change in electrical resistivity",
+        "D": "Change in thermal conductivity",
+        "Answer": "C",
+        "Source": "Conductive carbon-based materials networks like those based in carbon nanotubes (CNTs) and others have been recently utilized as in situ sensors to detect microcracking and deformations in polymer and fiber reinforced polymer composite materials by using resistivity change method."
+    },
+    "Question_3": {
+        "Context": "The electrical percolation threshold of conductive materials is a critical concept in the development of electrically conductive networks within composite structures. This threshold is related to the formation of a continuous path for electrical conduction through the material.",
+        "Question": "What role does the electrical percolation threshold play in the formation of conductive networks within composite materials?",
+        "A": "It determines the maximum temperature the material can withstand before losing conductivity.",
+        "B": "It indicates the minimum amount of conductive filler required to form a conductive network.",
+        "C": "It represents the maximum electrical resistance a material can have to be used in high-voltage applications.",
+        "D": "It is the level of strain at which the material begins to exhibit piezoresistive behavior.",
+        "Answer": "B",
+        "Source": "The low electrical percolation threshold of these conductive materials allows forming an electrically conductive network within the composite structure."
+    },
+    "Question_4": {
+        "Context": "In the context of Structural Health Monitoring (SHM), the ability to localize damage within a composite material is crucial. One approach to achieve spatial localization of damage is to create resistance maps that can help identify the position of the damage.",
+        "Question": "Which method has been proposed to overcome the difficulty of spatial localization of damage in SHM?",
+        "A": "Ultrasonic testing",
+        "B": "X-ray imaging",
+        "C": "Resistance mapping",
+        "D": "Thermal imaging",
+        "Answer": "C",
+        "Source": "However, the spatial localization remains difficult. To overcome this drawback, resistance maps have been proposed to locate damage position."
+    },
+    "Question_5": {
+        "Context": "The piezoresistive behavior of carbonic materials is utilized in the development of sensors that can detect mechanical deformation. This property is particularly useful in applications such as wearable sensing systems for real-time motion detection.",
+        "Question": "Which type of sensors utilize the piezoresistive behavior of carbonic materials for detecting mechanical deformation?",
+        "A": "Humidity sensors",
+        "B": "Temperature sensors",
+        "C": "Strain and motion sensors",
+        "D": "Chemical sensors",
+        "Answer": "C",
+        "Source": "Carbonic materials like CNTs (but not only) have been deeply analyzed as candidate for strain and motion sensors at the macroscale, due to the dependence of the electrical properties on mechanical deformation at the nanoscale due to piezoresistive behavior."
+    },
+    "Question_6": {
+        "Context": "The mechanical properties of polymeric materials can be enhanced by loading them with carbonic fillers such as carbon nanotubes (CNTs) or carbon black (CB). These fillers not only improve the mechanical properties but also impart electrical conductivity to the polymers.",
+        "Question": "What is the effect of loading thermoplastic polymers with carbonic fillers like CNTs or CB?",
+        "A": "Decreases the thermal stability of the polymers",
+        "B": "Reduces the elasticity of the polymers",
+        "C": "Improves the electrical conductivity of the polymers",
+        "D": "Increases the optical transparency of the polymers",
+        "Answer": "C",
+        "Source": "All studied materials presented electrical conductivity due to small loads of different carbonic-based fillers: carbon nanotubes (CNTs) and Carbon Black (CB)."
+    },
+    "Question_7": {
+        "Context": "The use of conductive composite materials for Structural Health Monitoring (SHM) involves evaluating their electrical response to the formation of defects. The change in electrical resistance can be correlated with the size of the defect, providing valuable information about the material's structural integrity.",
+        "Question": "In the context of SHM, how is the formation of defects in conductive composite materials detected?",
+        "A": "By measuring the change in weight of the material",
+        "B": "By observing the change in color of the material",
+        "C": "By detecting the change in electrical resistance of the material",
+        "D": "By monitoring the change in thermal expansion of the material",
+        "Answer": "C",
+        "Source": "To analyze the ability of the different developed materials to detect different structural defects, the evolution of the electrical resistance when the size of the produced defect is increased has been analyzed for each composite."
+    },
+    "Question_8": {
+        "Context": "In the development of smart materials for strain detection, the mechanical strain experienced by a material during tensile tests can be correlated with changes in its electrical properties. This correlation is used to evaluate the material's potential as a strain detector.",
+        "Question": "How is the potential of materials as strain detectors analyzed?",
+        "A": "By correlating the color intensity change with mechanical strain",
+        "B": "By correlating the change in electrical resistance with mechanical strain",
+        "C": "By correlating the change in volume with mechanical strain",
+        "D": "By correlating the change in thermal conductivity with mechanical strain",
+        "Answer": "B",
+        "Source": "On the other hand, simultaneous measurements of electrical resistivity and mechanical strain during tensile tests were performed to analyze the potential of materials as strain detectors."
+    },
+    "Question_9": {
+        "Context": "The gauge factor is a dimensionless number that describes the sensitivity of a material's electrical resistance to mechanical strain. It is a critical parameter in the design of strain sensors and is defined as the ratio of relative change in electrical resistance to the mechanical strain.",
+        "Question": "What does the gauge factor of a material indicate?",
+        "A": "The thermal expansion coefficient of the material",
+        "B": "The sensitivity of the material's electrical resistance to mechanical strain",
+        "C": "The optical reflectivity of the material under strain",
+        "D": "The magnetic permeability change of the material under strain",
+        "Answer": "B",
+        "Source": "The signal-matching presented by the different materials has been discussed as a direct estimation of the capability for strain sensing and potential use for strain and motion detection applications."
+    },
+    "Question_10": {
+        "Context": "The electrical resistivity method for Structural Health Monitoring (SHM) is based on the principle that the generation of a microcrack in the polymer matrix of a composite material will disrupt conducting chains in the conductive material or nanofiller network, leading to a change in electrical resistivity.",
+        "Question": "What causes a modification in the electrical resistivity of a composite material according to the electrical resistivity method for SHM?",
+        "A": "The application of a magnetic field",
+        "B": "The exposure to ultraviolet light",
+        "C": "The generation of a microcrack in the polymer matrix",
+        "D": "The immersion in a chemical solvent",
+        "Answer": "C",
+        "Source": "The resistivity change method to perform SHM is based in the fact that the generation of a microcrack in the polymer matrix of a composite material breaks conducting chains in the percolating conductive material or nanofiller network producing a modification on the electrical resistivity that can be related with the formation and size of the produced crack."
+    }
+}

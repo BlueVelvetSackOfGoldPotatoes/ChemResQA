@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Heterometallic gold metallacages are complexes that can incorporate several cations, which can be of interest in various applications including nuclear medicine.",
+        "Question": "What is the potential application of heterometallic gold metallacages in nuclear medicine?",
+        "A": "As catalysts in industrial chemical reactions",
+        "B": "As platforms for radionuclides relevant for imaging or therapy",
+        "C": "As structural materials for medical devices",
+        "D": "As nutritional supplements",
+        "Answer": "B",
+        "Source": "Heterometallic gold metallacages are of great interest for the incorporation of several cations. Especially in nuclear medicine, those metallacages can serve as a platform for radionuclides relevant for imaging or therapy (e.g. 68Ga or 177Lu)."
+    },
+    "Question_2": {
+        "Context": "Radiopharmaceuticals utilize radionuclides for diagnostic or therapeutic purposes, with specific isotopes being preferred for their nuclear properties.",
+        "Question": "Which isotope is predominantly used in diagnostic imaging using the SPECT technique?",
+        "A": "68Ga",
+        "B": "177Lu",
+        "C": "198Au",
+        "D": "99mTc",
+        "Answer": "D",
+        "Source": "The predominant isotope in diagnostic imaging is 99mTc, due to its ideal nuclear properties (E\u03b3 = 140 keV, T1/2 = 6.02 h), covering about 80% of worldwide clinical analyses using the SPECT (Single Photon Emission Computed Tomography) technique."
+    },
+    "Question_3": {
+        "Context": "In the context of nuclear medicine, certain radionuclides are used for therapeutic purposes due to their particle emission properties.",
+        "Question": "What type of particle emitting radionuclide is 177Lu?",
+        "A": "Gamma (\u03b3) emitter",
+        "B": "Positron (\u03b2+) emitter",
+        "C": "Beta (\u03b2\u2212) emitter",
+        "D": "Alpha (\u03b1) emitter",
+        "Answer": "C",
+        "Source": "Besides 68Ga, other radioisotopes play a significant role in nuclear medicine. For example, 177Lu (t1/2 = 6.73 days, E\u03b2- = 498 keV (78.6%), E\u03b3 = 210 keV (11%) and 113 keV (6.4%) can be incorporated into 177Lu-radiopharmaceuticals like [177Lu]Lu-DOTA-TATE (Lutathera\u00ae) and [177Lu]Lu-PSMA-617 (Pluvicto\u00ae), which have reached approval to be used in clinics for therapeutic purposes in 2017 and 2022, respectively."
+    },
+    "Question_4": {
+        "Context": "The coordination chemistry of gold(I) metallacages can be influenced by the ligands used in their synthesis, which may contain different functional groups.",
+        "Question": "What is the role of the morpholine moiety in the ligands used for synthesizing gold(I) metallacages?",
+        "A": "To increase the solubility of the metallacages",
+        "B": "To decrease the cytotoxicity of the metallacages",
+        "C": "To serve as a reducing agent during synthesis",
+        "D": "To expand the possibilities for the coordination of metal ions",
+        "Answer": "D",
+        "Source": "The addition of a second bidentate N-acylthiourea linked symmetrically via a central pyridine gives rise to the so called 2,6-dipicolinoylbis(N,N-dialkylthioureas) and expands the possibilities for the coordination of metal ions and allows the formation of oligonuclear heterometallic complexes."
+    },
+    "Question_5": {
+        "Context": "The stability of metal complexes in solution is an important factor for their potential application, especially in biological systems.",
+        "Question": "Which factor is likely to disrupt the stability of gold metallacages in human serum?",
+        "A": "The presence of chloride ions",
+        "B": "The binding of Au(I) by albumins",
+        "C": "The high temperature of the human body",
+        "D": "The pH level of the serum",
+        "Answer": "B",
+        "Source": "These metallacages are not stable in human serum. Most likely, the Au(I) gets bound by the albumins and thus the metallacage gets disrupted."
+    },
+    "Question_6": {
+        "Context": "In the synthesis of heterometallic complexes, the choice of metal ions can influence the properties and applications of the resulting complex.",
+        "Question": "Which metal ions were targeted for coordination to the new set of gold metallacages synthesized?",
+        "A": "Fe3+, Co3+, and Ni3+",
+        "B": "Cu2+, Zn2+, and Ag+",
+        "C": "68Ga, 177Lu, and 198Au",
+        "D": "Na+, K+, and Ca2+",
+        "Answer": "C",
+        "Source": "Here, we aim to synthesize a new set of gold metallacages and to study their ability to coordinate to 68Ga, 177Lu and 198Au."
+    },
+    "Question_7": {
+        "Context": "The synthesis of metal complexes often involves the use of ligands that can bind to metal ions through specific donor atoms.",
+        "Question": "In the synthesis of gold metallacages, which donor atom in the ligand preferentially binds to the 'soft' metal ion Au+?",
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Sulfur",
+        "D": "Chlorine",
+        "Answer": "C",
+        "Source": "The oligonuclear coordination compounds are obtained from simple one-pot reactions of the ligands and mixtures of two metal ions with different Pearson\u2019s acidity, since the 'soft' metal ion (Au+) will bind preferably to the sulfur atom, while the harder ions (M3+) will be directed to the center of the cage formed."
+    },
+    "Question_8": {
+        "Context": "The cytotoxicity of compounds is an important consideration in the development of potential therapeutic agents, including metal complexes.",
+        "Question": "What was the observed effect of the morpholine moiety on the cytotoxicity of the tested gold metallacages?",
+        "A": "It increased the cytotoxicity compared to auranofin",
+        "B": "It had no effect on the cytotoxicity",
+        "C": "It decreased the cytotoxicity compared to their diethyl counterparts",
+        "D": "It made the metallacages non-toxic to human cells",
+        "Answer": "C",
+        "Source": "On the contrary, the metallacage [Ga{Au(Lmorph)}2]NO3 is less toxic compared to [Ga{Au(Ldiethyl)}2]NO3, while [Lu{Au(Lmorph)}3] is approx. twofold less toxic compared to [Lu{Au(Ldiethyl)}3]."
+    },
+    "Question_9": {
+        "Context": "The radiolabeling of compounds with radionuclides is a process used to prepare radiopharmaceuticals for diagnostic or therapeutic applications.",
+        "Question": "Which radionuclide demonstrated high radiochemical purity when used for radiolabeling experiments with selected gold cages?",
+        "A": "99mTc",
+        "B": "68Ga",
+        "C": "177Lu",
+        "D": "198Au",
+        "Answer": "B",
+        "Source": "The radiolabeling experiments thereof show high radiochemical purities with 68Ga and 198Au and low radiochemical purity with 177Lu."
+    },
+    "Question_10": {
+        "Context": "The coordination number of a metal ion in a complex is the number of ligand donor atoms to which the metal is directly bonded.",
+        "Question": "What is the coordination number of the M3+ metal center in the synthesized gold metallacages?",
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9",
+        "Answer": "D",
+        "Source": "In all the complexes three bis(thiourea) ligands are doubly deprotonated and coordinate to the M3+ metal center as NOO-donors, leading to a coordination number of 9."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effect of co-presence of microplastics and chemical contaminants in soil on lettuce growth and chemical uptake.",
+        "Question": "What was the effect of the presence of only cadmium (Cd) or procymidone (PCM) on lettuce leaf lengths?",
+        "A": "Adversely affected by Cd",
+        "B": "Adversely affected by PCM",
+        "C": "Not affected by Cd or PCM",
+        "D": "Negligible increase in leaf length",
+        "Answer": "C",
+        "Source": "The lettuce leaf lengths were not affected by the presence of only Cd or PCM."
+    },
+    "Question_2": {
+        "Context": "The study examined the impact of microplastics on lettuce growth in soil.",
+        "Question": "What was the impact of low-density polyethylene (LDPE) or polyvinyl chloride (PVC) in soil on lettuce growth?",
+        "A": "Significantly impacted lettuce growth",
+        "B": "Negligible impact on lettuce growth",
+        "C": "Adversely affected lettuce growth",
+        "D": "Promoted lettuce growth",
+        "Answer": "B",
+        "Source": "The presence of only LDPE or PVC in soil at the concentrations used in this study did not have significant impacts on the lettuce growth."
+    },
+    "Question_3": {
+        "Context": "The study explored the combined effect of microplastics and chemical contaminants on lettuce growth.",
+        "Question": "How did the co-presence of cadmium (Cd) and low-density polyethylene (LDPE) affect lettuce leaf numbers?",
+        "A": "Significantly increased leaf numbers",
+        "B": "Negligible increase in leaf numbers",
+        "C": "Significantly decreased leaf numbers",
+        "D": "No impact on leaf numbers",
+        "Answer": "B",
+        "Source": "The changes in the number of lettuce leaves with time in the Cd-contaminated soils with LDPE were negligible."
+    },
+    "Question_4": {
+        "Context": "The study analyzed the absorption of chemicals by lettuce in different soil samples.",
+        "Question": "How did the absorption of cadmium (Cd) by lettuce change in the presence of microplastics?",
+        "A": "Decreased absorption",
+        "B": "Increased absorption",
+        "C": "No change in absorption",
+        "D": "Absorption stopped",
+        "Answer": "C",
+        "Source": "The Cd absorption by lettuce was similar regardless of the types of microplastics."
+    },
+    "Question_5": {
+        "Context": "The study focused on the absorption of chemicals by lettuce in contaminated soil.",
+        "Question": "What was the effect of procymidone (PCM) contamination on lettuce leaf lengths?",
+        "A": "Significantly increased leaf lengths",
+        "B": "Negligible impact on leaf lengths",
+        "C": "Adversely affected leaf lengths",
+        "D": "Promoted leaf lengths",
+        "Answer": "C",
+        "Source": "The leaf length was increased with time after the initial stagnation time regardless of the presence of microplastics."
+    },
+    "Question_6": {
+        "Context": "The study investigated the impact of microplastics on lettuce growth in different soil samples.",
+        "Question": "How did the presence of polyvinyl chloride (PVC) affect lettuce leaf numbers in procymidone (PCM)-contaminated soil?",
+        "A": "Significantly increased leaf numbers",
+        "B": "Negligible increase in leaf numbers",
+        "C": "Significantly decreased leaf numbers",
+        "D": "No impact on leaf numbers",
+        "Answer": "B",
+        "Source": "The lettuce leaf numbers did not change with time in the presence of PVC or LDPE in the PCM-contaminated soil."
+    },
+    "Question_7": {
+        "Context": "The study examined the absorption of chemicals by lettuce in different soil samples.",
+        "Question": "How did the absorption of procymidone (PCM) by lettuce change in the presence of microplastics?",
+        "A": "Decreased absorption",
+        "B": "Increased absorption",
+        "C": "No change in absorption",
+        "D": "Absorption stopped",
+        "Answer": "C",
+        "Source": "The PCM absorbed by the lettuce in the PCM-contaminated soil was significantly higher than that in the control soil."
+    },
+    "Question_8": {
+        "Context": "The study focused on the impact of chemical contaminants and microplastics on lettuce growth.",
+        "Question": "What was the effect of the co-presence of cadmium (Cd) and polyvinyl chloride (PVC) on lettuce leaf lengths?",
+        "A": "Significantly increased leaf lengths",
+        "B": "Negligible increase in leaf lengths",
+        "C": "Significantly decreased leaf lengths",
+        "D": "No impact on leaf lengths",
+        "Answer": "B",
+        "Source": "The leaf length was increased with time after the initial stagnation period, except for the Cd-contaminated soil with PVC."
+    },
+    "Question_9": {
+        "Context": "The study investigated the absorption of chemicals by lettuce in different soil samples.",
+        "Question": "How did the absorption of cadmium (Cd) by lettuce change in the presence of low-density polyethylene (LDPE)?",
+        "A": "Decreased absorption",
+        "B": "Increased absorption",
+        "C": "No change in absorption",
+        "D": "Absorption stopped",
+        "Answer": "C",
+        "Source": "The Cd absorbed by the lettuce in the control soils was 17 \u00b5g g\u22121, on average, and it was increased significantly in the Cd-contaminated soil."
+    },
+    "Question_10": {
+        "Context": "The study examined the impact of chemical contaminants and microplastics on lettuce growth.",
+        "Question": "What was the effect of the co-presence of procymidone (PCM) and low-density polyethylene (LDPE) on lettuce leaf numbers?",
+        "A": "Significantly increased leaf numbers",
+        "B": "Negligible increase in leaf numbers",
+        "C": "Significantly decreased leaf numbers",
+        "D": "No impact on leaf numbers",
+        "Answer": "B",
+        "Source": "The lettuce leaf numbers did not change with time in the presence of PVC or LDPE in the PCM-contaminated soil."
+    }
+}

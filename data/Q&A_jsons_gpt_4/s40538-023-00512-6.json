@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Chamomile is an annual herb that is sensitive to abiotic stress, which can affect the quality of its essential oil.",
+        "Question": "What is the impact of abiotic stress on chamomile?",
+        "A": "It has no significant impact on chamomile.",
+        "B": "It can improve the quality of chamomile's essential oil.",
+        "C": "It can easily affect the quality of chamomile's essential oil.",
+        "D": "It primarily affects the height of the chamomile plant.",
+        "Answer": "C",
+        "Source": "Chamomile is sensitive to abiotic stress, such as heavy metals, heat damage, cold damage, and natural poisons. These factors can easily affect the quality of its essential oil."
+    },
+    "Question_2": {
+        "Context": "Nicotine released into the soil during tobacco cultivation can affect subsequent crops by altering their physiological and metabolic responses.",
+        "Question": "How does nicotine in the soil influence subsequent crops?",
+        "A": "It enhances the flavor of the crops.",
+        "B": "It has no effect on the crops.",
+        "C": "It can alter the physiological and metabolic responses of the crops.",
+        "D": "It increases the size of the crops.",
+        "Answer": "C",
+        "Source": "The nicotine released into the soil during tobacco cultivation has an impact on various aspects of chamomile growth, including plant height, flowering period, flower yield, and flower quality."
+    },
+    "Question_3": {
+        "Context": "Antioxidant enzymes in plants, such as superoxide dismutase (SOD), peroxidase (POD), and catalase (CAT), play a role in protecting plants under stress conditions.",
+        "Question": "Which antioxidant enzymes are involved in protecting plants under stress conditions?",
+        "A": "Amylase and lipase",
+        "B": "Superoxide dismutase (SOD), peroxidase (POD), and catalase (CAT)",
+        "C": "Hydrogenase and dehydrogenase",
+        "D": "Protease and nuclease",
+        "Answer": "B",
+        "Source": "The measurement of indicators of the antioxidant enzyme system includes evaluating the levels of superoxide dismutase (SOD), peroxidase (POD), catalase (CAT)."
+    },
+    "Question_4": {
+        "Context": "Malondialdehyde (MDA) is a product of lipid peroxidation in plant cells and serves as an indicator of stress in plants.",
+        "Question": "What does an elevated level of malondialdehyde (MDA) in plants indicate?",
+        "A": "Improved plant growth",
+        "B": "Enhanced photosynthesis",
+        "C": "Increased stress in plants",
+        "D": "Decreased nutrient uptake",
+        "Answer": "C",
+        "Source": "In this study, elevated levels of MDA, the product of membrane lipid peroxidation, were observed in both N-100 and N-500 treatments."
+    },
+    "Question_5": {
+        "Context": "Flavonoids, phenolic acids, organic acids, and other substances in chamomile flowers are associated with the plant's response to nicotine stress.",
+        "Question": "Which compounds in chamomile flowers are associated with the plant's response to nicotine stress?",
+        "A": "Starches and cellulose",
+        "B": "Proteins and enzymes",
+        "C": "Flavonoids, phenolic acids, organic acids",
+        "D": "Chlorophyll and carotenoids",
+        "Answer": "C",
+        "Source": "The response of chamomile flowers to nicotine stress is associated with the presence of flavonoids, phenolic acids, organic acids, and other substances."
+    },
+    "Question_6": {
+        "Context": "Metabolic regulation under nicotine stress in chamomile involves various processes, including aminoacyl-tRNA biosynthesis and glyoxylate and dicarboxylate metabolism.",
+        "Question": "Which metabolic processes are involved in the regulation under nicotine stress in chamomile?",
+        "A": "Photosynthesis and respiration",
+        "B": "Aminoacyl-tRNA biosynthesis and glyoxylate and dicarboxylate metabolism",
+        "C": "Lipid synthesis and fatty acid elongation",
+        "D": "Starch breakdown and glucose metabolism",
+        "Answer": "B",
+        "Source": "Metabolic regulation under nicotine stress primarily involves processes, such as aminoacyl-tRNA biosynthesis, glyoxylate and dicarboxylate metabolism."
+    },
+    "Question_7": {
+        "Context": "The ABC (ATP-binding cassette) transporter activity in chamomile is one of the processes affected by nicotine stress.",
+        "Question": "What role does the ABC (ATP-binding cassette) transporter activity play in chamomile under nicotine stress?",
+        "A": "It is involved in pigment synthesis.",
+        "B": "It is unrelated to nicotine stress.",
+        "C": "It is involved in the transport of water across membranes.",
+        "D": "It is one of the processes affected by nicotine stress.",
+        "Answer": "D",
+        "Source": "Metabolic regulation under nicotine stress primarily involves processes, such as ABC (ATP-binding cassette) transporter activity."
+    },
+    "Question_8": {
+        "Context": "Pyrimidine metabolism is one of the metabolic pathways involved in the response of chamomile to nicotine stress.",
+        "Question": "Which metabolic pathway is involved in the response of chamomile to nicotine stress?",
+        "A": "Pyrimidine metabolism",
+        "B": "Chlorophyll biosynthesis",
+        "C": "Cellulose synthesis",
+        "D": "Protein folding",
+        "Answer": "A",
+        "Source": "Metabolic regulation under nicotine stress primarily involves processes, such as pyrimidine metabolism."
+    },
+    "Question_9": {
+        "Context": "Nicotine can be transported from the roots to other organs in chamomile during its growth period.",
+        "Question": "How is nicotine transported within chamomile plants?",
+        "A": "It remains only in the roots and is not transported.",
+        "B": "It is transported from the roots to other organs.",
+        "C": "It is synthesized in the leaves and moves to the roots.",
+        "D": "It is evenly distributed throughout the plant without transport.",
+        "Answer": "B",
+        "Source": "It was observed that nicotine was transported from the roots to other organs during the entire growth period of chamomile."
+    },
+    "Question_10": {
+        "Context": "Ultra-high-performance liquid chromatography-coupled tandem mass spectrometry (UHPLC\u2013MS/MS) is a technique used to detect a wide range of metabolites in plant tissues.",
+        "Question": "What is the role of UHPLC\u2013MS/MS in the study of plant metabolites?",
+        "A": "It is used to measure the pH level of plant tissues.",
+        "B": "It is used to detect the presence of water in plant tissues.",
+        "C": "It is used to detect a wide range of metabolites in plant tissues.",
+        "D": "It is used to determine the age of plant tissues.",
+        "Answer": "C",
+        "Source": "A total of 1096 metabolites were detected by ultra-high-performance liquid chromatography-coupled tandem mass spectrometry (UHPLC\u2013MS/MS) analysis."
+    }
+}

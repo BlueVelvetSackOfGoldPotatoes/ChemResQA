@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the antibacterial properties of t-ZnO-laden alginate wound dressings.",
+        "Question": "What was the main finding regarding the antibacterial effect of the wound dressings?",
+        "A": "No antibacterial effect observed",
+        "B": "Moderate antibacterial effect observed",
+        "C": "Strong antibacterial effect observed",
+        "D": "Variable antibacterial effect observed",
+        "Answer": "C",
+        "Source": "In experiments not shown here, a not fully crosslinked alginate wound dressing showed no significant antibacterial effect, even at 15% of t-ZnO content. Therefore, a fully crosslinked t-ZnO containing open lattice wound dressing is the most favorable to exhibit the best antibacterial activity."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the protein adsorption capacity of t-ZnO particles.",
+        "Question": "Which type of proteins showed a higher tendency to bind to the t-ZnO surface?",
+        "A": "Proteins with an isoelectric point above 7",
+        "B": "Proteins with an isoelectric point below 7",
+        "C": "Proteins with a molecular weight above 50 kDa",
+        "D": "Proteins with a molecular weight below 30 kDa",
+        "Answer": "A",
+        "Source": "It was found that generally, proteins with an isoelectric point above 7 showed a much higher tendency to bind to the t-ZnO surface."
+    },
+    "Question_3": {
+        "Context": "The study investigated the impact of wound dressings on skin integrity.",
+        "Question": "What was the main result regarding the influence of wound dressings on skin cytotoxicity?",
+        "A": "Increased cytotoxicity compared to control",
+        "B": "No significant change in cytotoxicity compared to control",
+        "C": "Decreased cytotoxicity compared to control",
+        "D": "Variable cytotoxicity compared to control",
+        "Answer": "B",
+        "Source": "The LDH release of the skin explants with all wound dressings was lower than the LDH release of control skin without wound dressing indicating no negative influence of the wound dressings on skin integrity."
+    },
+    "Question_4": {
+        "Context": "The study examined the gene expression of key factors in skin barrier function.",
+        "Question": "What was the observed effect of the wound dressings on gene expression of filaggrin?",
+        "A": "Decreased expression",
+        "B": "No change in expression",
+        "C": "Increased expression",
+        "D": "Variable expression",
+        "Answer": "C",
+        "Source": "Filaggrin gene expression was even slightly induced by the various wound dressings."
+    },
+    "Question_5": {
+        "Context": "The study focused on the antibacterial activity of t-ZnO-laden alginate wound dressings.",
+        "Question": "What was the effect of the wound dressings on the growth of S. aureus?",
+        "A": "No effect on growth",
+        "B": "Moderate reduction in growth",
+        "C": "Significant reduction in growth",
+        "D": "Variable effect on growth",
+        "Answer": "C",
+        "Source": "Alginate wound dressings with an open lattice structure containing 5% t-ZnO were able to effectively reduce the growth of S. aureus after 24 h of incubation by a factor of 10 in comparison to the pristine alginate gels."
+    },
+    "Question_6": {
+        "Context": "The study investigated the crystal structure of t-ZnO.",
+        "Question": "What method was used to investigate the degree of crystallinity of t-ZnO?",
+        "A": "X-ray diffraction",
+        "B": "Raman scattering",
+        "C": "Immunohistochemistry",
+        "D": "Fluorescence microscopy",
+        "Answer": "A",
+        "Source": "In order to investigate the degree of crystallinity of the t-ZnO, XRD measurements on the powdered material was performed."
+    },
+    "Question_7": {
+        "Context": "The study examined the morphology of zinc oxide particles.",
+        "Question": "What is the average length of the arms of the zinc oxide particles?",
+        "A": "~45 \u00b5m",
+        "B": "~80 \u00b5m",
+        "C": "~200 nm",
+        "D": "~2 \u00b5m",
+        "Answer": "A",
+        "Source": "Statistical analysis of the particles shows that the average length of the arms is ~45 \u00b5m \u00b1 20 \u00b5m."
+    },
+    "Question_8": {
+        "Context": "The study focused on the rheological analysis of alginate-based inks.",
+        "Question": "What is the ratio between the loss modulus and the storage modulus called?",
+        "A": "Loss factor",
+        "B": "Shear modulus",
+        "C": "Flow point",
+        "D": "Viscosity",
+        "Answer": "A",
+        "Source": "The loss factor tan \u03b4 is the ratio between the loss modulus and the storage modulus."
+    },
+    "Question_9": {
+        "Context": "The study examined the chemical analysis of t-ZnO.",
+        "Question": "Which peaks were found in the Raman scattering measurements of t-ZnO?",
+        "A": "97 cm\u22121, 326 cm\u22121, 272 cm\u22121, 433 cm\u22121 and 1130 cm\u22121",
+        "B": "100, 002, 101 and 102",
+        "C": "Low-E2, E2H-E2L, A1T high-E2 and 2 LO",
+        "D": "Heavy Zn sub-lattice vibration",
+        "Answer": "A",
+        "Source": "Major peaks were found at 97 cm\u22121, 326 cm\u22121, 272 cm\u22121, 433 cm\u22121 and 1130 cm\u22121 and they belong to the low-E2, E2H-E2L, A1T high-E2 and 2 LO."
+    },
+    "Question_10": {
+        "Context": "The study investigated the 3D-printing simulations of alginate bioinks.",
+        "Question": "What was the infill percentage used for the porous structures?",
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "100%",
+        "Answer": "B",
+        "Source": "Simulations of the produced machine code are shown in Fig. 3A and D. It was used to manufacture porous structures with an infill of 50% from the alginate bioinks."
+    }
+}

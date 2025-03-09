@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In digital microfluidics, electrowetting-on-dielectric (EWOD) is a technique used for manipulating droplets on a surface by applying an electrical potential to create a change in the contact angle of the droplet.",
+        "Question": "What does EWOD stand for in the context of digital microfluidics?",
+        "A": "Electric Wetting of Dielectrics",
+        "B": "Electrowetting-on-Dielectric",
+        "C": "Electronic Water Displacement",
+        "D": "Electrolytic Water Diffusion",
+        "Answer": "B",
+        "Source": "The DMF platforms normally use electrowetting-on-dielectric (EWOD) actuation with an electrode array deposited with a hydrophobic insulator because of its rapid response and controllability."
+    },
+    "Question_2": {
+        "Context": "In the field of microfluidics, the manipulation of droplets is often necessary for applications such as biochemical analysis. One challenge in this area is the efficient mixing of viscous liquids on an open surface.",
+        "Question": "Why is efficient mixing of droplets particularly challenging in microfluidics?",
+        "A": "Because of the high Reynolds number and turbulent flow",
+        "B": "Due to the dominance of viscous forces at the microscale",
+        "C": "Because droplets cannot be manipulated on open surfaces",
+        "D": "Due to the rapid evaporation of droplets at the microscale",
+        "Answer": "B",
+        "Source": "However, at the microscale, the Reynolds number is low, and viscous forces dominate. As a result, the mixing of fluids is heavily reliant on molecular diffusion, especially in highly viscous droplets such as blood or other body fluids, which naturally mix much more slowly."
+    },
+    "Question_3": {
+        "Context": "In the development of microfluidic devices, the use of printed circuit board (PCB) technology has been explored to reduce costs and increase the density of electrodes for droplet manipulation.",
+        "Question": "What is one advantage of using PCB technology in the development of digital microfluidic platforms?",
+        "A": "PCB technology allows for the use of larger droplets",
+        "B": "PCB technology enables the creation of a top cover plate",
+        "C": "PCB technology facilitates the use of higher voltages for droplet actuation",
+        "D": "PCB technology helps to place more electrodes in a limited chip size",
+        "Answer": "D",
+        "Source": "This PCB manufacturing technology helps to place more electrodes in the limited chip size."
+    },
+    "Question_4": {
+        "Context": "In the context of EWOD, a dielectric layer is used to cover the electrodes. This layer plays a crucial role in the manipulation of droplets.",
+        "Question": "What is the primary function of the dielectric layer in EWOD applications?",
+        "A": "To conduct electrical current to the droplet",
+        "B": "To prevent the droplet from evaporating",
+        "C": "To insulate the electrode and prevent direct electrical contact with the droplet",
+        "D": "To increase the thermal conductivity between the droplet and the electrode",
+        "Answer": "C",
+        "Source": "When an electrical potential is applied between the conductive droplet and electrode covered by a hydrophobic insulator, electrical charges inside the droplet are accumulated around a triple contact line (TCL) because current cannot flow through the dielectric layer."
+    },
+    "Question_5": {
+        "Context": "The Lippmann-Young equation describes the relationship between the contact angle of a droplet and the applied voltage in EWOD systems.",
+        "Question": "According to the Lippmann-Young equation, what happens to the contact angle of a droplet when a voltage is applied in EWOD systems?",
+        "A": "The contact angle increases linearly with voltage",
+        "B": "The contact angle remains constant regardless of voltage",
+        "C": "The contact angle decreases as the voltage increases",
+        "D": "The contact angle first decreases then increases with voltage",
+        "Answer": "C",
+        "Source": "The relationship between the changed contact angle and the applied voltage can be explained by the Lippmann-Young equation, which is derived from the Lippmann equation using the parallel plate capacitance formula as follows: cos \u03b8 = cos \u03b8e + (\u03b50\u03b5dV^2)/(2\u03b3td)"
+    },
+    "Question_6": {
+        "Context": "In microfluidic systems, the use of acoustic excitation can facilitate the mixing of droplets by generating internal flow within the droplet.",
+        "Question": "What is the role of acoustically excited bubbles in the mixing of droplets in microfluidic systems?",
+        "A": "They reduce the viscosity of the droplet",
+        "B": "They generate microstreaming inside the droplet",
+        "C": "They increase the temperature of the droplet for faster mixing",
+        "D": "They create a vacuum environment for droplet mixing",
+        "Answer": "B",
+        "Source": "When an acoustic excitation is applied corresponding to the resonant frequency of the generated bubble, the bubble oscillates and simultaneously microstreaming occurs."
+    },
+    "Question_7": {
+        "Context": "The design of microfluidic devices often includes features that serve specific functions, such as the through-holes in a PCB-based EWOD chip.",
+        "Question": "What is the purpose of through-holes in a PCB-based EWOD chip?",
+        "A": "To allow light to pass through for optical analysis",
+        "B": "To provide space for bubble trapping and electrical connectivity",
+        "C": "To increase the flexibility of the PCB",
+        "D": "To reduce the overall weight of the chip",
+        "Answer": "B",
+        "Source": "Through-holes in an EWOD chip are strategically utilized not only to realize the connectivity between electrodes and control circuits but also to provide space for bubble trapping."
+    },
+    "Question_8": {
+        "Context": "In EWOD systems, the deposition of a hydrophobic layer over the dielectric layer is a critical step for the successful operation of the device.",
+        "Question": "Why is a hydrophobic layer deposited over the dielectric layer in EWOD systems?",
+        "A": "To increase the electrical conductivity of the dielectric layer",
+        "B": "To protect the dielectric layer from chemical reactions",
+        "C": "To enhance the droplet's ability to spread over the electrode",
+        "D": "To make the surface water-repellent and control the droplet's movement",
+        "Answer": "D",
+        "Source": "When an electrical potential is applied between the conductive droplet and electrode covered by a hydrophobic insulator, electrical charges inside the droplet are accumulated around a triple contact line (TCL) because current cannot flow through the dielectric layer."
+    },
+    "Question_9": {
+        "Context": "The contact angle of a droplet on a surface is a measure of the wettability of the surface by the liquid. In EWOD, the contact angle can be controlled by applying voltage.",
+        "Question": "What is observed when the contact angle of a droplet reaches saturation in an EWOD system?",
+        "A": "The droplet will start to evaporate rapidly",
+        "B": "The droplet will no longer respond to changes in voltage",
+        "C": "The droplet will begin to oscillate at its natural frequency",
+        "D": "The droplet will split into smaller droplets",
+        "Answer": "B",
+        "Source": "The contact angles of droplets on the chip A and B followed the Lippmann-Young equation up to 100 and 300 Vdc, respectively, but after these voltages contact angle saturation occurred."
+    },
+    "Question_10": {
+        "Context": "In microfluidic systems, the velocity of droplet transportation is an important parameter that can be influenced by the applied voltage in EWOD actuation.",
+        "Question": "How does the velocity of droplet transportation typically change with increasing voltage in an EWOD system?",
+        "A": "It decreases due to higher resistance",
+        "B": "It remains constant regardless of voltage",
+        "C": "It increases as the voltage increases",
+        "D": "It increases up to a point and then decreases",
+        "Answer": "C",
+        "Source": "The droplet velocity was analyzed from the images captured using the CMOS camera, and the maximum velocity was calculated after 3 times of measurement. The experimental results show that on the EWOD chip A, the droplets start to move onto the electrodes when a voltage higher than 100 Vdc is applied."
+    }
+}

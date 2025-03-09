@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to explore the efficacy of targeted alpha therapy (TAT) in treating neuroendocrine tumors (NETs) using a specific radiolabeled peptide.",
+        "Question": "What was the stability of [225Ac]Ac-DOTA-JR11 in phosphate buffered saline (PBS) and mouse serum?",
+        "A": "77% intact radiopeptide at 24 h in PBS and ~81% intact radiopeptide at 24 h in mouse serum",
+        "B": "56.6% intact radiopeptide at 24 h in PBS and 81.0% intact radiopeptide at 24 h in mouse serum",
+        "C": "95% intact radiopeptide at 24 h in PBS and 94% intact radiopeptide at 24 h in mouse serum",
+        "D": "81% intact radiopeptide at 24 h in PBS and 81% intact radiopeptide at 24 h in mouse serum",
+        "Answer": "A",
+        "Source": "Stability studies were performed, showing [225Ac]Ac-DOTA-JR11 had 77% intact radiopeptide at 24 h in PBS and ~81% intact radiopeptide at 24 h in mouse serum."
+    },
+    "Question_2": {
+        "Context": "The study investigated the binding affinity of DOTA-JR11 to somatostatin receptor 2 (SSTR2) after complexation with different nuclides.",
+        "Question": "How did the binding affinity of natLa-DOTA-JR11 and natLu-DOTA-JR11 compare to DOTA-JR11 in competitive binding assays?",
+        "A": "natLa-DOTA-JR11 and natLu-DOTA-JR11 exhibited similar binding affinity to SSTR2 compared to DOTA-JR11",
+        "B": "natLa-DOTA-JR11 showed higher binding affinity than DOTA-JR11, while natLu-DOTA-JR11 showed lower binding affinity",
+        "C": "natLa-DOTA-JR11 and natLu-DOTA-JR11 showed lower binding affinity than DOTA-JR11",
+        "D": "natLa-DOTA-JR11 and natLu-DOTA-JR11 showed no binding affinity to SSTR2",
+        "Answer": "A",
+        "Source": "Competitive binding assay revealed that natLa-DOTA-JR11 and natLu-DOTA-JR11 exhibited similar binding affinity for SSTR2 compared to the parent peptide DOTA-JR11."
+    },
+    "Question_3": {
+        "Context": "The study focused on the biodistribution profile of [225Ac]Ac-DOTA-JR11 in comparison to [177Lu]Lu-DOTA-JR11 in vivo.",
+        "Question": "What was the tumor uptake of [225Ac]Ac-DOTA-JR11 at 4 hours post-injection?",
+        "A": "7.7 \u00b1 0.9% IA/g",
+        "B": "2.8 \u00b1 0.5% IA/g",
+        "C": "19.3 \u00b1 2.6% IA/g",
+        "D": "0.4 \u00b1 0.1% IA/g",
+        "Answer": "A",
+        "Source": "High tumor uptake of 7.7 \u00b1 0.9% IA/g was observed at 4 hours post-injection of [225Ac]Ac-DOTA-JR11."
+    },
+    "Question_4": {
+        "Context": "The study aimed to compare the dosimetry of [225Ac]Ac-DOTA-JR11 and [177Lu]Lu-DOTA-JR11 in targeted alpha therapy (TAT) for NETs.",
+        "Question": "What was the absorbed dose to the liver for [225Ac]Ac-DOTA-JR11 compared to [177Lu]Lu-DOTA-JR11?",
+        "A": "271.4 mGy for [225Ac]Ac-DOTA-JR11 and 38.5 mGy for [177Lu]Lu-DOTA-JR11",
+        "B": "40.3 mGy for [225Ac]Ac-DOTA-JR11 and 23.4 mGy for [177Lu]Lu-DOTA-JR11",
+        "C": "137.2 mGy for [225Ac]Ac-DOTA-JR11 and 48.8 mGy for [177Lu]Lu-DOTA-JR11",
+        "D": "952.6 mGy for [225Ac]Ac-DOTA-JR11 and 406.9 mGy for [177Lu]Lu-DOTA-JR11",
+        "Answer": "A",
+        "Source": "The absorbed dose to the liver was 271.4 mGy for [225Ac]Ac-DOTA-JR11 and 38.5 mGy for [177Lu]Lu-DOTA-JR11."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the potential radiotoxicity of [225Ac]Ac-DOTA-JR11 in non-targeted organs for targeted alpha therapy (TAT) of NETs.",
+        "Question": "What was the absorbed dose to the kidneys for [225Ac]Ac-DOTA-JR11 compared to [177Lu]Lu-DOTA-JR11?",
+        "A": "952.6 mGy for [225Ac]Ac-DOTA-JR11 and 406.9 mGy for [177Lu]Lu-DOTA-JR11",
+        "B": "271.4 mGy for [225Ac]Ac-DOTA-JR11 and 38.5 mGy for [177Lu]Lu-DOTA-JR11",
+        "C": "137.2 mGy for [225Ac]Ac-DOTA-JR11 and 48.8 mGy for [177Lu]Lu-DOTA-JR11",
+        "D": "40.3 mGy for [225Ac]Ac-DOTA-JR11 and 23.4 mGy for [177Lu]Lu-DOTA-JR11",
+        "Answer": "A",
+        "Source": "The absorbed dose to the kidneys was 952.6 mGy for [225Ac]Ac-DOTA-JR11 and 406.9 mGy for [177Lu]Lu-DOTA-JR11."
+    },
+    "Question_6": {
+        "Context": "The study aimed to investigate the potential of [225Ac]Ac-DOTA-JR11 for targeted alpha therapy (TAT) of NETs.",
+        "Question": "What was the tumor-to-kidney ratio for [225Ac]Ac-DOTA-JR11?",
+        "A": "0.35",
+        "B": "1.14",
+        "C": "0.4",
+        "D": "0.3",
+        "Answer": "A",
+        "Source": "The tumor-to-kidney ratio for [225Ac]Ac-DOTA-JR11 was 0.35."
+    },
+    "Question_7": {
+        "Context": "The study focused on the biodistribution profile of [225Ac]Ac-DOTA-JR11 in comparison to [177Lu]Lu-DOTA-JR11 in vivo.",
+        "Question": "What was the kidney uptake of [225Ac]Ac-DOTA-JR11 at 4 hours post-injection?",
+        "A": "19.3 \u00b1 2.6% IA/g",
+        "B": "8.1 \u00b1 0.3% IA/g",
+        "C": "7.7 \u00b1 0.9% IA/g",
+        "D": "2.8 \u00b1 0.5% IA/g",
+        "Answer": "A",
+        "Source": "High kidney uptake of 19.3 \u00b1 2.6% IA/g was observed at 4 hours post-injection of [225Ac]Ac-DOTA-JR11."
+    },
+    "Question_8": {
+        "Context": "The study aimed to compare the dosimetry of [225Ac]Ac-DOTA-JR11 and [177Lu]Lu-DOTA-JR11 in targeted alpha therapy (TAT) for NETs.",
+        "Question": "What was the absorbed dose to the tumor for [225Ac]Ac-DOTA-JR11 compared to [177Lu]Lu-DOTA-JR11?",
+        "A": "328.5 mGy for [225Ac]Ac-DOTA-JR11 and 464.4 mGy for [177Lu]Lu-DOTA-JR11",
+        "B": "76.4 mGy for [225Ac]Ac-DOTA-JR11 and 8.4 mGy for [177Lu]Lu-DOTA-JR11",
+        "C": "11.2 mGy for [225Ac]Ac-DOTA-JR11 and 1.9 mGy for [177Lu]Lu-DOTA-JR11",
+        "D": "0.1 mGy for [225Ac]Ac-DOTA-JR11 and 2.8 mGy for [177Lu]Lu-DOTA-JR11",
+        "Answer": "A",
+        "Source": "The absorbed dose to the tumor was 328.5 mGy for [225Ac]Ac-DOTA-JR11 and 464.4 mGy for [177Lu]Lu-DOTA-JR11."
+    },
+    "Question_9": {
+        "Context": "The study evaluated the potential radiotoxicity of [225Ac]Ac-DOTA-JR11 in non-targeted organs for targeted alpha therapy (TAT) of NETs.",
+        "Question": "What was the absorbed dose to the spleen for [225Ac]Ac-DOTA-JR11 compared to [177Lu]Lu-DOTA-JR11?",
+        "A": "76.4 mGy for [225Ac]Ac-DOTA-JR11 and 8.4 mGy for [177Lu]Lu-DOTA-JR11",
+        "B": "271.4 mGy for [225Ac]Ac-DOTA-JR11 and 38.5 mGy for [177Lu]Lu-DOTA-JR11",
+        "C": "137.2 mGy for [225Ac]Ac-DOTA-JR11 and 48.8 mGy for [177Lu]Lu-DOTA-JR11",
+        "D": "40.3 mGy for [225Ac]Ac-DOTA-JR11 and 23.4 mGy for [177Lu]Lu-DOTA-JR11",
+        "Answer": "A",
+        "Source": "The absorbed dose to the spleen was 76.4 mGy for [225Ac]Ac-DOTA-JR11 and 8.4 mGy for [177Lu]Lu-DOTA-JR11."
+    },
+    "Question_10": {
+        "Context": "The study aimed to investigate the potential of [225Ac]Ac-DOTA-JR11 for targeted alpha therapy (TAT) of NETs.",
+        "Question": "What was the absorbed dose to the intestines for [225Ac]Ac-DOTA-JR11 compared to [177Lu]Lu-DOTA-JR11?",
+        "A": "40.3 mGy for [225Ac]Ac-DOTA-JR11 and 23.4 mGy for [177Lu]Lu-DOTA-JR11",
+        "B": "76.4 mGy for [225Ac]Ac-DOTA-JR11 and 8.4 mGy for [177Lu]Lu-DOTA-JR11",
+        "C": "271.4 mGy for [225Ac]Ac-DOTA-JR11 and 38.5 mGy for [177Lu]Lu-DOTA-JR11",
+        "D": "137.2 mGy for [225Ac]Ac-DOTA-JR11 and 48.8 mGy for [177Lu]Lu-DOTA-JR11",
+        "Answer": "A",
+        "Source": "The absorbed dose to the intestines was 40.3 mGy for [225Ac]Ac-DOTA-JR11 and 23.4 mGy for [177Lu]Lu-DOTA-JR11."
+    }
+}

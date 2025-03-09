@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of virus detection, the use of antibody sensors has been common. However, these sensors face challenges such as controlling the orientation of the receptor site and the time and cost associated with developing antibodies for new viruses.",
+        "Question": "What is one of the main challenges in using traditional antibody sensors for virus detection?",
+        "A": "Controlling the orientation of the receptor site on a solid substrate",
+        "B": "The color change of the sensor upon virus detection",
+        "C": "The size of the sensor devices",
+        "D": "The electrical conductivity of the sensor material",
+        "Answer": "A",
+        "Source": "Antibody sensor to detect viruses has been widely used but has problems such as the difficulty of right direction control of the receptor site on solid substrate, and long time and high cost for design and production of antibod\u2011 ies to new emerging viruses."
+    },
+    "Question_2": {
+        "Context": "Localized surface plasmon resonance (LSPR) is a method used to increase the sensitivity of virus detection sensors. This method involves the assembly of certain components on gold nanoparticles (AuNPs).",
+        "Question": "What is assembled on AuNPs to enhance the sensitivity of virus detection using the LSPR method?",
+        "A": "Monoclonal antibodies",
+        "B": "Recombinant protein embedded liposome (R/Li)",
+        "C": "Silver nanoparticles",
+        "D": "Carbon nanotubes",
+        "Answer": "B",
+        "Source": "The virus detection sensor with a recombinant protein embedded liposome (R/Li) was newly developed to solve the above problems, in which R/Li was assembled on AuNPs (Au@R/Li) to increase the sensitivity using localized surface plasmon resonance (LSPR) method."
+    },
+    "Question_3": {
+        "Context": "Recombinant angiotensin-converting enzyme-2 (ACE2) has been used as a host receptor for certain viruses. By integrating it with a liposome, the orientation of the enzyme active site can be controlled, which is crucial for virus attachment.",
+        "Question": "What is the purpose of integrating recombinant ACE2 with liposomes in the context of virus detection?",
+        "A": "To decrease the sensitivity of the sensor",
+        "B": "To control the direction of the enzyme active site for virus attachment",
+        "C": "To increase the cost of sensor production",
+        "D": "To reduce the biocompatibility of the sensor",
+        "Answer": "B",
+        "Source": "Recombinant angiotensin\u2011converting enzyme\u20112 (ACE2) was used as host receptors of SARS\u2011CoV and SARS\u2011CoV\u20112, and the direction of enzyme active site for virus attachment could be controlled by the integration with liposome."
+    },
+    "Question_4": {
+        "Context": "Liposomes are vesicles that can encapsulate a variety of substances and have properties such as biocompatibility and the ability to entrap both hydrophobic and hydrophilic materials.",
+        "Question": "Which of the following is a property of liposomes?",
+        "A": "High toxicity",
+        "B": "Inability to entrap hydrophilic materials",
+        "C": "Biocompatibility",
+        "D": "Lack of charged molecules",
+        "Answer": "C",
+        "Source": "Additionally, the proper\u2011 ties of liposomes include low toxicity, biocompatibility, the ability to entrap both hydrophobic and hydrophilic materials, and an abundance of negatively and positively charged molecules."
+    },
+    "Question_5": {
+        "Context": "Gold nanoparticles (AuNPs) are often used as a substrate in biosensors due to their unique properties. The synthesis of AuNPs involves a chemical redox reaction to ensure regular size and shape.",
+        "Question": "What is the role of citric acid in the synthesis of gold nanoparticles (AuNPs) for sensor applications?",
+        "A": "To increase the electrical resistance of AuNPs",
+        "B": "To act as a reducing agent in the chemical redox reaction",
+        "C": "To enhance the magnetic properties of AuNPs",
+        "D": "To decrease the optical transparency of AuNPs",
+        "Answer": "B",
+        "Source": "For regular size and shape of AuNPs, chemical redox reaction with HAuCl4 solution were added with citric acid for seed solution."
+    },
+    "Question_6": {
+        "Context": "In the context of protein purification, affinity chromatography is a technique that utilizes the specific interactions between a protein of interest and a ligand that is immobilized on a stationary phase.",
+        "Question": "What is the purpose of using imidazole buffer in the purification of ACE2 via affinity chromatography?",
+        "A": "To deactivate the ACE2 enzyme",
+        "B": "To enhance the solubility of ACE2 in water",
+        "C": "To elute the ACE2 protein from a Ni\u2013NTA column",
+        "D": "To increase the molecular weight of ACE2",
+        "Answer": "C",
+        "Source": "Then, the supernatant was inserted into a Ni\u2013NTA column with 5 mL of HisTrap HP and eluted with imidazole buffer using an affinity chromatography mechanism."
+    },
+    "Question_7": {
+        "Context": "Dynamic light scattering (DLS) is a technique used to determine the size distribution of particles in suspension by measuring the fluctuations in the intensity of light scattered by the particles.",
+        "Question": "What information can be obtained from dynamic light scattering (DLS) analysis in the context of liposome characterization?",
+        "A": "The electrical charge of the liposomes",
+        "B": "The molecular weight of the liposomes",
+        "C": "The size distribution of the liposomes",
+        "D": "The temperature stability of the liposomes",
+        "Answer": "C",
+        "Source": "Size distribution analysis was performed with dynamic light scattering (DLS), which was helpful for calculating size of liposomes in Fig. 2C."
+    },
+    "Question_8": {
+        "Context": "The interaction between proteins and lipids can be studied using computational simulations, which can predict the binding affinity and optimal binding positions.",
+        "Question": "What is the significance of calculating the binding affinity between ACE2 and phospholipids in liposome studies?",
+        "A": "To determine the electrical conductivity of ACE2",
+        "B": "To predict the stability and interaction of ACE2 when embedded in liposomes",
+        "C": "To measure the pH level of the ACE2 solution",
+        "D": "To assess the optical properties of ACE2",
+        "Answer": "B",
+        "Source": "The binding affinity was calculated to be \u2212 6.8 kcal/mol. The binding distance between the residue GLN 145 of ACE2 and the POPC complex was 2.3 \u212b, and that of TRP 742 was 2.5 \u212b."
+    },
+    "Question_9": {
+        "Context": "Fourier transform infrared (FT-IR) spectroscopy is a technique that measures the absorption of infrared radiation by a sample, which provides information about the molecular composition and structure.",
+        "Question": "In the context of characterizing Au@R/Li complexes, what molecular information can be inferred from the FT-IR spectra?",
+        "A": "The presence of N\u2013O and C = O bonds indicating protein and phospholipid structures",
+        "B": "The electrical resistance of the Au@R/Li complex",
+        "C": "The magnetic properties of the Au@R/Li complex",
+        "D": "The optical transparency of the Au@R/Li complex",
+        "Answer": "A",
+        "Source": "The dif\u2011 ferent peaks in the spectra were measured at 1530 cm\u22121 for the N\u2013O bond for protein structure, 1735 cm\u22121 for the C = O bond for phospholipids."
+    },
+    "Question_10": {
+        "Context": "The localized surface plasmon resonance (LSPR) method can be used to detect the binding of a target analyte, such as a virus spike protein, to a receptor. This is measured by a shift in the absorption peak of the sensor material.",
+        "Question": "What does a shift in the absorption peak of an LSPR sensor indicate?",
+        "A": "The temperature of the sensor has changed",
+        "B": "The sensor has been exposed to light",
+        "C": "The receptor has bound to the target analyte",
+        "D": "The sensor material has degraded",
+        "Answer": "C",
+        "Source": "A shift in the absorption peak when the receptor bound to the target was measured with UV\u2012Vis spectra."
+    }
+}

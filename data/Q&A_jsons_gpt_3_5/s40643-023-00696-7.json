@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effect of COS2 on lipid metabolism in ob/ob\u2212/\u2212 mice. Specifically, it focused on the regulation of the mitochondrial \u03b2-oxidation pathway.",
+        "Question": "What is the primary upstream regulator of lipid metabolism that was found to be enhanced by COS2 treatment?",
+        "A": "ACSL1",
+        "B": "PPAR\u03b1",
+        "C": "FXR",
+        "D": "CPT1A",
+        "Answer": "C",
+        "Source": "COS2 improved FXR gene expression, activating liver lipolysis (Fig. 3A)."
+    },
+    "Question_2": {
+        "Context": "The study examined the impact of COS2 on hepatic lipid accumulation in ob/ob\u2212/\u2212 mice and its potential role in reversing NAFLD.",
+        "Question": "Which enzyme is responsible for transferring fatty acids to acyl-CoA in the outer mitochondrial membranes?",
+        "A": "CPT1A",
+        "B": "CPT2",
+        "C": "ACSL1",
+        "D": "ACOX1",
+        "Answer": "C",
+        "Source": "FFAs were activated to form acyl-CoA via ACSL1 (Huh et al. 2020)."
+    },
+    "Question_3": {
+        "Context": "The study investigated the effects of COS2 and butyric acid on lipid accumulation in sodium oleate-induced HepG2 cells.",
+        "Question": "Which compound was more effective in restoring lipid levels in the NAFLD cell model at low concentrations?",
+        "A": "COS2",
+        "B": "NaB",
+        "C": "ACSL1",
+        "D": "PPAR\u03b1",
+        "Answer": "B",
+        "Source": "However, at the physiological concentration, NaB was more successful in restoring the lipid levels, as well as the gene and protein expression of PPAR\u03b1, CPT1A, ACOX1, and CPT2 than COS2."
+    },
+    "Question_4": {
+        "Context": "The study explored the interaction of butyric acid with PPAR\u03b1 in the context of lipid metabolism.",
+        "Question": "Which domain of PPAR\u03b1 did butyric acid primarily interact with, forming hydrogen bonds?",
+        "A": "Hydrophobic pocket",
+        "B": "Hydrophilic pocket",
+        "C": "Amphiphilic pocket",
+        "D": "AF2 domain",
+        "Answer": "D",
+        "Source": "While butyric acid could crush into the hydrophilic pocket and form hydrogen bonds with AF2 domain, which was important for the receptor to activate the transcriptional activity."
+    },
+    "Question_5": {
+        "Context": "The study examined the impact of COS2 on hepatic lipid accumulation in ob/ob\u2212/\u2212 mice and its potential role in reversing NAFLD.",
+        "Question": "Which downstream target of PPAR\u03b1 is essential for regulating FFA translocation into the mitochondria?",
+        "A": "ACSL1",
+        "B": "CPT1A",
+        "C": "CPT2",
+        "D": "ACOX1",
+        "Answer": "B",
+        "Source": "As the downstream target of PPAR\u03b1, CPT1A and CPT2 represent essential regulators for FFA translocation into the mitochondria."
+    },
+    "Question_6": {
+        "Context": "The study investigated the effects of COS2 and butyric acid on lipid accumulation in sodium oleate-induced HepG2 cells.",
+        "Question": "Which compound was more effective in reversing the gene and protein expression levels of PPAR\u03b1, CPT1A, ACOX1, and CPT2 in the NAFLD cell model?",
+        "A": "COS2",
+        "B": "NaB",
+        "C": "ACSL1",
+        "D": "PPAR\u03b1",
+        "Answer": "B",
+        "Source": "Moreover, in molecular docking analysis, the results showed that COS2 interacted with PPAR\u03b1 in hydrophobic pocket and stuck in the entrance of LBDs of PPAR\u03b1 protein. While butyric acid could crush into the hydrophilic pocket and form hydrogen bonds with AF2 domain."
+    },
+    "Question_7": {
+        "Context": "The study explored the interaction of butyric acid with PPAR\u03b1 in the context of lipid metabolism.",
+        "Question": "What is the primary role of the AF2 domain in the PPAR\u03b1 protein structure?",
+        "A": "Binding to hydrophobic ligands",
+        "B": "Regulating gene expression",
+        "C": "Forming hydrogen bonds",
+        "D": "Activating transcriptional activity",
+        "Answer": "D",
+        "Source": "These interactions stabilized AF2 helix to recruit co-activators of receptor and facilitated the transcriptional activity of PPAR\u03b1."
+    },
+    "Question_8": {
+        "Context": "The study investigated the effects of COS2 and butyric acid on lipid accumulation in sodium oleate-induced HepG2 cells.",
+        "Question": "Which compound was found to be more successful in restoring the lipid levels in the NAFLD cell model at physiological concentrations?",
+        "A": "COS2",
+        "B": "NaB",
+        "C": "ACSL1",
+        "D": "PPAR\u03b1",
+        "Answer": "B",
+        "Source": "However, at the physiological concentration, NaB was more successful in restoring the lipid levels, as well as the gene and protein expression of PPAR\u03b1, CPT1A, ACOX1, and CPT2 than COS2."
+    },
+    "Question_9": {
+        "Context": "The study examined the impact of COS2 on hepatic lipid accumulation in ob/ob\u2212/\u2212 mice and its potential role in reversing NAFLD.",
+        "Question": "Which enzyme is responsible for activating FFAs and transferring them to fatty acyl-CoA in the outer mitochondrial membrane?",
+        "A": "CPT1A",
+        "B": "CPT2",
+        "C": "ACSL1",
+        "D": "ACOX1",
+        "Answer": "A",
+        "Source": "FFAs were activated to form acyl-CoA via ACSL1 (Huh et al. 2020)."
+    },
+    "Question_10": {
+        "Context": "The study investigated the effect of COS2 on lipid metabolism in ob/ob\u2212/\u2212 mice. Specifically, it focused on the regulation of the mitochondrial \u03b2-oxidation pathway.",
+        "Question": "Which nuclear receptor was found to be regulated by COS2 treatment, leading to the upregulation of the FFA \u03b2-oxidation process?",
+        "A": "ACSL1",
+        "B": "PPAR\u03b1",
+        "C": "FXR",
+        "D": "CPT1A",
+        "Answer": "B",
+        "Source": "High COS2 doses significantly upregulated the PPAR\u03b1 mRNA levels, indicating potential lipolysis stimulation."
+    }
+}

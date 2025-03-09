@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the incorporation of noncanonical amino acids (ncAAs) into proteins using a variant of pyrrolysyl-tRNA synthetase (PylRS).",
+        "Question": "What was the main purpose of incorporating 16 novel ncAAs into proteins using the IPE variant of PylRS?",
+        "A": "To study the effect of ncAAs on protein stability",
+        "B": "To explore the role of ncAAs in enzyme catalysis",
+        "C": "To investigate the impact of ncAAs on protein folding",
+        "D": "To determine the influence of ncAAs on protein expression",
+        "Answer": "B",
+        "Source": "This work increased the utility of orthogonal translation systems and indicated that protein main-chain modification, enabled by the incorporation of ncAA, might provide a new approach for protein engineering."
+    },
+    "Question_2": {
+        "Context": "The study involved the engineering of a lanthanide-dependent alcohol dehydrogenase (PedH) by incorporating various noncanonical amino acids (ncAAs) using the IPE variant of pyrrolysyl-tRNA synthetase (PylRS).",
+        "Question": "What was the impact of incorporating phenyl-lactic acid (25) into PedH?",
+        "A": "It decreased the catalytic efficiency towards methanol",
+        "B": "It improved the catalytic efficiency towards methanol",
+        "C": "It altered the enantioselectivity of PedH",
+        "D": "It had no effect on the enzyme activity",
+        "Answer": "B",
+        "Source": "The incorporation of phenyl-lactic acid (25) improved the catalytic efficiency of PedH toward methanol by 1.8-fold."
+    },
+    "Question_3": {
+        "Context": "The study involved the incorporation of various noncanonical amino acids (ncAAs) into a lanthanide-dependent alcohol dehydrogenase (PedH) using the IPE variant of pyrrolysyl-tRNA synthetase (PylRS).",
+        "Question": "What was the effect of incorporating O-tert-Butyl-L-tyrosine (8) into PedH?",
+        "A": "It decreased the enantioselectivity of PedH",
+        "B": "It improved the enantioselectivity of PedH",
+        "C": "It reduced the catalytic efficiency of PedH",
+        "D": "It had no impact on the enzyme activity",
+        "Answer": "B",
+        "Source": "Incorporation of O-tert-Butyl-L-tyrosine modified the enantioselectivity of PedH by influencing the interactions between substrate and protein."
+    },
+    "Question_4": {
+        "Context": "The study involved the incorporation of various noncanonical amino acids (ncAAs) into a lanthanide-dependent alcohol dehydrogenase (PedH) using the IPE variant of pyrrolysyl-tRNA synthetase (PylRS).",
+        "Question": "What was the purpose of incorporating 8 different ncAAs into the lanthanide-dependent alcohol dehydrogenase PedH?",
+        "A": "To study the effect of ncAAs on protein folding",
+        "B": "To explore the role of ncAAs in enzyme catalysis",
+        "C": "To investigate the impact of ncAAs on protein stability",
+        "D": "To determine the influence of ncAAs on protein expression",
+        "Answer": "B",
+        "Source": "This work increased the utility of orthogonal translation systems and indicated that protein main-chain modification, enabled by the incorporation of ncAA, might provide a new approach for protein engineering."
+    },
+    "Question_5": {
+        "Context": "The study focused on the incorporation of noncanonical amino acids (ncAAs) into proteins using a variant of pyrrolysyl-tRNA synthetase (PylRS).",
+        "Question": "What was the significance of the N346A mutation in MmPylRS?",
+        "A": "It decreased the binding of PylRS with Pyl",
+        "B": "It increased the catalytic efficiency of PylRS",
+        "C": "It enhanced the steric hindrance preventing Phe binding",
+        "D": "It improved the recognition of small para-substituents",
+        "Answer": "A",
+        "Source": "The N346A mutation significantly decreased the binding of PylRS with Pyl."
+    },
+    "Question_6": {
+        "Context": "The study involved the engineering of a lanthanide-dependent alcohol dehydrogenase (PedH) by incorporating various noncanonical amino acids (ncAAs) using the IPE variant of pyrrolysyl-tRNA synthetase (PylRS).",
+        "Question": "What was the effect of the C348A mutation in MmPylRS?",
+        "A": "It decreased the binding of PylRS with Pyl",
+        "B": "It increased the catalytic efficiency of PylRS",
+        "C": "It enhanced the steric hindrance preventing Phe binding",
+        "D": "It improved the recognition of small para-substituents",
+        "Answer": "D",
+        "Source": "The C348A mutation was thought to generate a larger hydrophobic active site pocket, making it easier to recognize Phe derivatives with bulky and hydrophobic para substituents."
+    },
+    "Question_7": {
+        "Context": "The study involved the incorporation of various noncanonical amino acids (ncAAs) into a lanthanide-dependent alcohol dehydrogenase (PedH) using the IPE variant of pyrrolysyl-tRNA synthetase (PylRS).",
+        "Question": "What was the impact of the steric hindrance of para substituents on the activity of the IPE variant?",
+        "A": "It increased the activity against 4-fluoro-L-Phe",
+        "B": "It decreased the activity against 4-nitro-L-Phe",
+        "C": "It improved the activity against 4-amino-L-Phe",
+        "D": "It had no effect on the activity against 4-nitro-L-Phe",
+        "Answer": "A",
+        "Source": "The steric hindrance of the para substituents of 28, 54, and 55 was similar to O-methyl-L-tyrosine, but the IPE variant had low or no activity against them."
+    },
+    "Question_8": {
+        "Context": "The study involved the incorporation of various noncanonical amino acids (ncAAs) into a lanthanide-dependent alcohol dehydrogenase (PedH) using the IPE variant of pyrrolysyl-tRNA synthetase (PylRS).",
+        "Question": "What was the outcome of incorporating 4-nitro-L-Phe (28) into sfGFP using the IPE variant?",
+        "A": "It showed no incorporation into sfGFP",
+        "B": "It resulted in partial incorporation into sfGFP",
+        "C": "It led to complete incorporation into sfGFP",
+        "D": "It caused misincorporation of Lys and Phe into sfGFP",
+        "Answer": "B",
+        "Source": "The majority of incorporation in the protein was Phe, with only a limited-portion incorporation of 28."
+    },
+    "Question_9": {
+        "Context": "The study involved the incorporation of various noncanonical amino acids (ncAAs) into a lanthanide-dependent alcohol dehydrogenase (PedH) using the IPE variant of pyrrolysyl-tRNA synthetase (PylRS).",
+        "Question": "What was the effect of the F412OBT mutation on the enantioselectivity of PedH?",
+        "A": "It decreased the activity towards (S)-2-butanol",
+        "B": "It increased the activity towards (S)-2-butanol",
+        "C": "It decreased the activity towards (R)-2-butanol",
+        "D": "It had no impact on the enantioselectivity",
+        "Answer": "B",
+        "Source": "The incorporation of O-tert-Butyl-L-tyrosine (8) changed the enantioselectivity of PedH, showing higher activity toward (S)-2-butanol than (R)-2-butanol."
+    },
+    "Question_10": {
+        "Context": "The study involved the incorporation of various noncanonical amino acids (ncAAs) into a lanthanide-dependent alcohol dehydrogenase (PedH) using the IPE variant of pyrrolysyl-tRNA synthetase (PylRS).",
+        "Question": "What was the impact of incorporating 3-I-Phe (1), 3-Br-Phe (2), and 3-Me-Phe (3) into PedH?",
+        "A": "They showed no effect on the activity of PedH",
+        "B": "They decreased the activity of PedH",
+        "C": "They increased the activity of PedH",
+        "D": "They altered the enantioselectivity of PedH",
+        "Answer": "B",
+        "Source": "The mutants with the incorporation of Phe derivatives 3-I-Phe (1), 3-Br-Phe (2), and 3-Me-Phe (3) having meta-substituents showed the most significant reduction in activity."
+    }
+}

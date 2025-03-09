@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "MicroRNAs (miRNAs) play a role in regulating cell proliferation, differentiation, and death. What is the typical length range of miRNAs?",
+        "Question": "What is the typical length range of microRNAs (miRNAs)?",
+        "A": "10-15 nucleotides",
+        "B": "19-22 nucleotides",
+        "C": "25-30 nucleotides",
+        "D": "30-35 nucleotides",
+        "Answer": "B",
+        "Source": "MicroRNAs (miRNAs) are short RNA molecules that naturally occur in cells and consist of approximately 19\u201322 nucleotides."
+    },
+    "Question_2": {
+        "Context": "The study discusses the correlation between abnormal miRNA expression and diseases. Which miRNA is specifically mentioned to have alterations in its expression levels contributing to tumor development?",
+        "Question": "Which miRNA has alterations in its expression levels that significantly contribute to the development of tumors?",
+        "A": "miRNA-10",
+        "B": "miRNA-15",
+        "C": "miRNA-21",
+        "D": "miRNA-25",
+        "Answer": "C",
+        "Source": "One important group of miRNAs is miRNA-21, which has alterations in its expression levels that significantly contribute to the development of tumors."
+    },
+    "Question_3": {
+        "Context": "The study mentions the development of new biomarkers for assessing tumor malignancy. What is commonly used as the initial imaging method for uterine fibroids?",
+        "Question": "What is commonly used as the initial imaging method for uterine fibroids?",
+        "A": "MRI",
+        "B": "CT scan",
+        "C": "Ultrasound",
+        "D": "X-ray",
+        "Answer": "C",
+        "Source": "Although ultrasonography is commonly used as the initial imaging method, the development of new biomarkers is crucial for assessing the malignancy of tumors."
+    },
+    "Question_4": {
+        "Context": "The study discusses the need for simple and responsive techniques for miRNA detection. What is a key advantage of enzyme-free methodologies for bioanalysis applications?",
+        "Question": "What is a key advantage of enzyme-free methodologies for bioanalysis applications?",
+        "A": "Complexity",
+        "B": "Robustness",
+        "C": "Temperature sensitivity",
+        "D": "Cost-effectiveness",
+        "Answer": "B",
+        "Source": "These enzyme-free methodologies offer potential methods for bioanalysis applications because of their advantages in simplicity, robustness, and thermal stability."
+    },
+    "Question_5": {
+        "Context": "The study highlights the use of DNAzymes as amplifying labels for biosensing events. What is a key advantage of DNAzymes over protein enzymes?",
+        "Question": "What is a key advantage of DNAzymes over protein enzymes?",
+        "A": "Design flexibility",
+        "B": "Speed",
+        "C": "Temperature sensitivity",
+        "D": "Complexity",
+        "Answer": "A",
+        "Source": "Compared to protein enzymes, DNAzymes possess inherent advantages in terms of their design flexibility and cost-effectiveness."
+    },
+    "Question_6": {
+        "Context": "The study discusses the optimization of experimental parameters for miRNA detection. What was the optimal incubation time for the CHA process?",
+        "Question": "What was the optimal incubation time for the CHA process?",
+        "A": "15 minutes",
+        "B": "30 minutes",
+        "C": "45 minutes",
+        "D": "60 minutes",
+        "Answer": "B",
+        "Source": "The signal-to-noise ratio peaked at 30 minutes, therefore making it the optimal incubation duration."
+    },
+    "Question_7": {
+        "Context": "The study evaluates the dynamic range and sensitivity of the biosensor for miRNA detection. What was the low detection limit for miRNA-21?",
+        "Question": "What was the low detection limit for miRNA-21?",
+        "A": "10 fM",
+        "B": "3.2 fM",
+        "C": "1 pM",
+        "D": "5 fM",
+        "Answer": "B",
+        "Source": "The low detection limit was determined to be 3.2 fM, which was calculated as three times the standard deviation of the blank sample detection."
+    },
+    "Question_8": {
+        "Context": "The study assesses the selectivity of the biosensor for miRNA detection. How did the biosensor perform when detecting a single-base mismatched target compared to the target miRNA?",
+        "Question": "How did the biosensor perform when detecting a single-base mismatched target compared to the target miRNA?",
+        "A": "Similar response",
+        "B": "Stronger response for the mismatched target",
+        "C": "No response for the mismatched target",
+        "D": "Stronger response for the target miRNA",
+        "Answer": "D",
+        "Source": "The presence of the target miRNA led to a considerably stronger signal response compared to the single-base mismatched target."
+    },
+    "Question_9": {
+        "Context": "The study discusses the application of the biosensor in real sample analysis. What was the signal response in MCF-7 cells compared to HeLa cells?",
+        "Question": "What was the signal response in MCF-7 cells compared to HeLa cells?",
+        "A": "Higher in HeLa cells",
+        "B": "No response in MCF-7 cells",
+        "C": "Higher in MCF-7 cells",
+        "D": "Equal in both cell types",
+        "Answer": "C",
+        "Source": "The signal response rose as the number of cells grew, demonstrating a clear expression level of miRNA-21 in MCF-7."
+    },
+    "Question_10": {
+        "Context": "The study concludes by highlighting the advantages of the proposed biosensor. What was the determined low detection limit for miRNA in clinical samples?",
+        "Question": "What was the determined low detection limit for miRNA in clinical samples?",
+        "A": "5 fM",
+        "B": "10 fM",
+        "C": "3.2 fM",
+        "D": "1 pM",
+        "Answer": "C",
+        "Source": "The low detection limit was determined to be 3.2 fM, which is superior or comparable to former miRNA detection methods."
+    }
+}

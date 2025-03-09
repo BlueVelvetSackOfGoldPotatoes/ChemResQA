@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effect of wheat seedling extract (WSE) on osteoclast differentiation and function.",
+        "Question": "What is the main focus of the study?",
+        "A": "Effect of WSE on osteoblast differentiation",
+        "B": "Effect of WSE on osteoclast differentiation",
+        "C": "Effect of WSE on immune cell maturation",
+        "D": "Effect of WSE on bone marrow structure",
+        "Answer": "B",
+        "Source": "Osteoclasts differentiate from the myeloid cells of the monocyte/macrophage lineage and are unique cells involved in the process of bone remodeling and bone resorption in aged individuals."
+    },
+    "Question_2": {
+        "Context": "The study focused on the impact of WSE on specific signaling pathways during osteoclast differentiation.",
+        "Question": "Which signaling pathways were inhibited by WSE treatment?",
+        "A": "AKT and MAPKs",
+        "B": "JNK and p38",
+        "C": "ERK and JNK",
+        "D": "AKT and ERK",
+        "Answer": "D",
+        "Source": "WSE treatment blocks the RANKL-induced phosphorylation of AKT and ERK."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the expression levels of specific transcription factors during osteoclast differentiation.",
+        "Question": "Which transcription factors were significantly attenuated by WSE treatment?",
+        "A": "c-Fos and NFATc1",
+        "B": "TRAP and OSCAR",
+        "C": "DC-STAMP and cathepsin K",
+        "D": "NFATc1 and TRAP",
+        "Answer": "A",
+        "Source": "The mRNA expression levels of c-Fos and NFATc1 were elevated when treated with RANKL along with the vehicle. However, its expression was significantly attenuated by WSE treatment."
+    },
+    "Question_4": {
+        "Context": "The study investigated the effects of WSE on osteoclast fusion.",
+        "Question": "Which molecule essential for osteoclast fusion was significantly reduced by WSE treatment?",
+        "A": "TRAP",
+        "B": "OSCAR",
+        "C": "DC-STAMP",
+        "D": "Cathepsin K",
+        "Answer": "C",
+        "Source": "The presence of WSE significantly reduces the RANKL-mediated transcriptional expression of DC-STAMP."
+    },
+    "Question_5": {
+        "Context": "The study examined the impact of WSE on bone-resorbing activity of mature osteoclasts.",
+        "Question": "What was significantly reduced by WSE treatment in mature osteoclasts?",
+        "A": "TRAP activity",
+        "B": "Number of multinucleated cells",
+        "C": "Formation of actin rings",
+        "D": "Cell viability",
+        "Answer": "A",
+        "Source": "WSE significantly attenuated the levels of RANKL-induced transcription of cathepsin K, which plays a vital role in bone resorption by osteoclasts."
+    },
+    "Question_6": {
+        "Context": "The study identified eight key compounds in WSE and evaluated their effects on osteoclastogenesis.",
+        "Question": "Which compound reduced TRAP activity by 81% at 100 \u00b5M concentration?",
+        "A": "Isocarlinoside",
+        "B": "Isoorientin",
+        "C": "Isoschaftoside",
+        "D": "Isoscoparin",
+        "Answer": "B",
+        "Source": "At a concentration of 100 \u00b5M, luteolin-6-C-\u03b2-glucoside (isoorientin, compound 3) reduced the TRAP activity compared to the positive control by 81%."
+    },
+    "Question_7": {
+        "Context": "The study explored the inhibitory effects of WSE constituents on osteoclast differentiation.",
+        "Question": "Which compound had no significant effect on the cytotoxicity of BMM cells?",
+        "A": "Isocarlinoside",
+        "B": "Isoorientin",
+        "C": "Isoschaftoside",
+        "D": "Isoscoparin",
+        "Answer": "D",
+        "Source": "Although the cell viability was slightly increased by chrysoeriol-6-C-\u03b2-glucoside (isoscoparin, compound 8), the results showed that all compounds had no significant effect on the cytotoxicity of BMM cells."
+    },
+    "Question_8": {
+        "Context": "The study assessed the impact of WSE constituents on osteoclastogenesis at high concentrations.",
+        "Question": "What was the main finding regarding the effects of individual compounds compared to the extract?",
+        "A": "Individual compounds were less effective than the extract",
+        "B": "Individual compounds were more effective than the extract",
+        "C": "Individual compounds had similar effects as the extract",
+        "D": "Individual compounds had no effect on osteoclastogenesis",
+        "Answer": "A",
+        "Source": "Although individual compounds require higher concentration treatment compared to the extract, it is worth considering the synergy of various compounds within the plant extract."
+    },
+    "Question_9": {
+        "Context": "The study highlighted the potential of specific compounds in WSE for the treatment of bone-related diseases.",
+        "Question": "Which compounds were reported to have anti-inflammatory effects?",
+        "A": "Isocarlinoside and Isoorientin",
+        "B": "Isoschaftoside and Isovitexin",
+        "C": "Isoschaftoside and Isoscoparin",
+        "D": "Isoorientin and Isoscoparin",
+        "Answer": "A",
+        "Source": "The effects of isoorientin and isoscoparin, which are present in high quantities in wheat extracts, have been reported to decrease the production of nitric oxide and Tumor Necrosis Factor-alpha (TNF-\u03b1), thus showing anti-inflammatory effects."
+    },
+    "Question_10": {
+        "Context": "The study suggested potential applications of WSE in the treatment of various bone-related diseases.",
+        "Question": "What was the conclusion regarding the efficacy of WSE for bone-related diseases?",
+        "A": "WSE is not effective for bone-related diseases",
+        "B": "WSE has potential for the treatment of bone-related diseases",
+        "C": "WSE is less effective than traditional treatments",
+        "D": "WSE is only effective for osteoporosis",
+        "Answer": "B",
+        "Source": "Based on the previously reported results and the present findings, isoorientin and isoscoparin will have value in the treatment and prevention of bone-related diseases including inflammatory diseases of the bone such as osteoarthritis."
+    }
+}

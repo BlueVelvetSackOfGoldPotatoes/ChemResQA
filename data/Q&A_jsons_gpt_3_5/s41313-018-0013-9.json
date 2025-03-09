@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study introduces a mesoscale model to study the dynamics of material defects at interface junctions.",
+        "Question": "What is the proposed framework in the study?",
+        "A": "Discrete dislocation lines",
+        "B": "Discrete disclination lines",
+        "C": "Continuous dislocation lines",
+        "D": "Continuous disclination lines",
+        "Answer": "B",
+        "Source": "The proposed framework couples the dynamics of discrete dislocation and disclination lines."
+    },
+    "Question_2": {
+        "Context": "The study focuses on the treatment of material interfaces.",
+        "Question": "What are some of the natural defects at interface junctions mentioned in the study?",
+        "A": "Triple lines",
+        "B": "Twin tips",
+        "C": "Ledges on the twin interface",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Disclinations could be intrinsic defects that are to be unambiguously found at junction between material interfaces. This includes triple lines, twin tips, and interface ledges."
+    },
+    "Question_3": {
+        "Context": "The study discusses the application of the model to study the transverse propagation of a specific twin domain.",
+        "Question": "What is the shear direction associated with the twin domain studied in the research?",
+        "A": "\ufffd 10\u00af11 \ufffd",
+        "B": "\ufffd 10\u00af12 \ufffd",
+        "C": "\ufffd 1\u00af210 \ufffd",
+        "D": "\ufffd 2\u00af1\u00af10 \ufffd",
+        "Answer": "B",
+        "Source": "The twin plane normal is \ufffd 10\u00af12 \ufffd and coincides with the X3 axis, the shear direction is \ufffd 10\u00af11 \ufffd and coincides with the X2 axis."
+    },
+    "Question_4": {
+        "Context": "The study investigates the stability of defects at twin interfaces.",
+        "Question": "What is the proposed mechanism for the decay of large steps along the twin interface?",
+        "A": "Emission of twinning dislocations",
+        "B": "Expansion of the steps",
+        "C": "Shrinkage of the steps",
+        "D": "Formation of new ledges",
+        "Answer": "A",
+        "Source": "Simulations suggest that large ledges along the twin boundaries could decay by generating twinning dislocations."
+    },
+    "Question_5": {
+        "Context": "The study discusses the generation of twinning dislocations from ledges on a twin interface.",
+        "Question": "What is the proposed mechanism for the nucleation of disconnection loops from ledges in the twin interface?",
+        "A": "Generation of new disclination loops",
+        "B": "Formation of new twin domains",
+        "C": "Nucleation of steps and edge dislocations",
+        "D": "Expansion of the twin interface",
+        "Answer": "C",
+        "Source": "The observed mechanism is the nucleation of disconnection loops from ledges in the twin interface. The generated disconnection loops are composed of a step and of a dislocation, and they help propagating the twin interface."
+    },
+    "Question_6": {
+        "Context": "The study explores the behavior of disclinations at material interfaces.",
+        "Question": "What is the proposed motion of disclination loops on minimum energy interface planes?",
+        "A": "Glide",
+        "B": "Climb",
+        "C": "Cross-slip",
+        "D": "Twist",
+        "Answer": "A",
+        "Source": "Disclinations are postulated to glide on minimum energy interface planes, ensuring their motion is constrained to specific planes."
+    },
+    "Question_7": {
+        "Context": "The study discusses the dynamics of twin thickening mediated by the motion of ledges.",
+        "Question": "What is the mechanism proposed for the thickening of twin domains?",
+        "A": "Generation of twinning dislocations",
+        "B": "Propagation of disclination loops",
+        "C": "Expansion of the twin interface",
+        "D": "Nucleation of edge dislocations",
+        "Answer": "A",
+        "Source": "The thickening of twin domains is mediated by the generation of twinning dislocations from ledges present on the twin interface."
+    },
+    "Question_8": {
+        "Context": "The study investigates the stability of defects at twin interfaces.",
+        "Question": "What is the proposed outcome of the decay of large ledges along the twin boundaries?",
+        "A": "Formation of new twin domains",
+        "B": "Expansion of the twin interface",
+        "C": "Nucleation of disconnection loops",
+        "D": "Shrinkage of the twin domain",
+        "Answer": "C",
+        "Source": "Large ledges along the twin boundaries decay by generating twinning dislocations, which are composed of a step and a dislocation, aiding in propagating the twin interface."
+    },
+    "Question_9": {
+        "Context": "The study discusses the application of the model to study the stability of 3-dimensional defects at twin interfaces.",
+        "Question": "What is the proposed mechanism for the stability and transverse propagation of an isolated \ufffd 10\u00af12 \ufffd twin domain?",
+        "A": "Creation of twin embryos",
+        "B": "Placement of disclination loops",
+        "C": "Generation of twinning dislocations",
+        "D": "Introduction of disconnection loops",
+        "Answer": "C",
+        "Source": "The stability and transverse propagation of an isolated \ufffd 10\u00af12 \ufffd twin domain is modeled by creating twin embryos with disclination loops, leading to the generation of twinning dislocations."
+    },
+    "Question_10": {
+        "Context": "The study discusses the generation of twinning dislocations from ledges on a twin interface.",
+        "Question": "What is the proposed outcome of the out of plane motion of disclination loops crossing onto Basal/Pyramidal (BP) and Pyramidal/Pyramidal (PP) interfaces?",
+        "A": "Shrinkage of the disclination loops",
+        "B": "Expansion of the disclination loops",
+        "C": "Generation of twinning dislocation loops",
+        "D": "Formation of new disclination loops",
+        "Answer": "C",
+        "Source": "The out of plane motion of disclination loops crossing onto BP and PP interfaces leads to the generation of dipolar arrangements of square twinning dislocation loops."
+    }
+}

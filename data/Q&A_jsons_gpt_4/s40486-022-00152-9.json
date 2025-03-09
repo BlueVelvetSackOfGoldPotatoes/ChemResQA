@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Silicon wet bulk micromachining is a technique used for creating various microstructures. This process can be enhanced by increasing the etching rate, which is the vertical distance etched per unit time.",
+        "Question": "What is the role of etching rate in silicon wet bulk micromachining?",
+        "A": "Determines the color of the microstructures",
+        "B": "Affects the size of the microstructures",
+        "C": "Influences the time required to create microstructures",
+        "D": "Changes the chemical composition of the microstructures",
+        "Answer": "C",
+        "Source": "Etch rate is a key parameter when etching is involved in silicon micromachining for the formation of microstructures for MEMS-based sensors and actuators. It is defined as the vertical distance etched per unit time (i.e., etch depth (d) per unit time (t) or d/t)."
+    },
+    "Question_2": {
+        "Context": "In silicon wet bulk micromachining, additives can be introduced to the etching solution to modify the etching characteristics, such as the etch rate.",
+        "Question": "What effect does the addition of hydroxylamine (NH2OH) have on the etching rate in a sodium hydroxide (NaOH) solution?",
+        "A": "Decreases the etching rate",
+        "B": "Has no effect on the etching rate",
+        "C": "Doubles the etching rate",
+        "D": "Halves the etching rate",
+        "Answer": "C",
+        "Source": "The addition of NH2OH in NaOH solution remarkably exhibited a two-fold increment in the etching rate of a Si{100} surface."
+    },
+    "Question_3": {
+        "Context": "Undercutting at convex corners during wet etching is a phenomenon that can be beneficial for certain MEMS applications, as it relates to the release of microstructures from the substrate.",
+        "Question": "What is the significance of undercutting at convex corners in the context of MEMS fabrication?",
+        "A": "It is undesirable as it increases production costs",
+        "B": "It is crucial for the quick release of microstructures from the substrate",
+        "C": "It is used to increase the thickness of microstructures",
+        "D": "It has no impact on the fabrication process",
+        "Answer": "B",
+        "Source": "Undercutting at convex corners is highly prudent for the quick release of microstructures from the substrate."
+    },
+    "Question_4": {
+        "Context": "The etching characteristics of silicon can be influenced by the age of the etchant solution, which refers to the time elapsed since its preparation.",
+        "Question": "How does the age of an etchant solution with NH2OH added to NaOH affect the etch rate of silicon?",
+        "A": "The etch rate increases with etchant age",
+        "B": "The etch rate decreases with etchant age",
+        "C": "The etch rate remains constant regardless of etchant age",
+        "D": "The etch rate fluctuates unpredictably with etchant age",
+        "Answer": "B",
+        "Source": "The effect of aging of 12% NH2OH-added 10 M NaOH on the etch rate of Si{100} is investigated. It can obviously be noted that the etch rate significantly decreases up to two days, but there is a minor change after third day."
+    },
+    "Question_5": {
+        "Context": "In the context of silicon wet etching, the addition of certain chemicals to the etchant can improve the etched surface morphology, which is important for applications requiring smooth surfaces.",
+        "Question": "What is the effect of adding NH2OH to NaOH on the etched surface morphology of silicon?",
+        "A": "It increases the surface roughness",
+        "B": "It decreases the surface roughness",
+        "C": "It changes the color of the etched surface",
+        "D": "It has no effect on the surface roughness",
+        "Answer": "B",
+        "Source": "As can be seen in the figure, the surface roughness substantially decreases by the addition of NH2OH."
+    },
+    "Question_6": {
+        "Context": "The etching process in silicon micromachining can be carried out at various temperatures, which can affect the etching characteristics.",
+        "Question": "What temperature was maintained during the etching experiments with NH2OH-added NaOH solution?",
+        "A": "Room temperature",
+        "B": "50 \u00b1 1 \u00b0C",
+        "C": "70 \u00b1 1 \u00b0C",
+        "D": "100 \u00b1 1 \u00b0C",
+        "Answer": "C",
+        "Source": "All experiments are performed at 70 \u00b1 1 \u00b0C."
+    },
+    "Question_7": {
+        "Context": "The etching characteristics of silicon in NaOH solutions can be altered by the concentration of the etchant.",
+        "Question": "What concentration of NaOH was used in the experiments to achieve a high etch rate?",
+        "A": "5 M NaOH",
+        "B": "10 M NaOH",
+        "C": "15 M NaOH",
+        "D": "20 M NaOH",
+        "Answer": "B",
+        "Source": "10 M of NaOH is selected because it provides high etch rate at its boiling point."
+    },
+    "Question_8": {
+        "Context": "In the process of wet etching, the formation of hydrogen bubbles can affect the etching process by acting as a micro mask on the silicon surface.",
+        "Question": "What is one of the factors that can cause surface roughness during wet etching of silicon?",
+        "A": "Formation of hydrogen bubbles",
+        "B": "Use of deionized water",
+        "C": "Temperature of the etchant",
+        "D": "Thickness of the silicon wafer",
+        "Answer": "A",
+        "Source": "In wet etching, surface roughness is the result of various factors; one is the formation of a hydrogen bubble during etching which hinders the surface reactions and acts like a micro mask on the surface."
+    },
+    "Question_9": {
+        "Context": "The etching characteristics of silicon can be influenced by the addition of various additives to the etchant solution.",
+        "Question": "Which of the following additives is known to increase the etch rate when added to TMAH or KOH solutions?",
+        "A": "Hydrochloric acid (HCl)",
+        "B": "Hydroxylamine (NH2OH)",
+        "C": "Sulfuric acid (H2SO4)",
+        "D": "Acetic acid (CH3COOH)",
+        "Answer": "B",
+        "Source": "Recently, NH2OH-added TMAH and KOH solutions, which provide very high etch rate in comparison to pure KOH and TMAH, are explored for applications in wet bulk micromachining for the formation of MEMS structures."
+    },
+    "Question_10": {
+        "Context": "The etching characteristics of silicon in NaOH solutions can be influenced by the addition of NH2OH, which affects the availability of active etching species.",
+        "Question": "What role do OH\u2212 ions and H2O play in the wet chemical etching of silicon?",
+        "A": "They decrease the etch rate",
+        "B": "They act as a catalyzing and active etching species, respectively",
+        "C": "They increase the thickness of the etched layer",
+        "D": "They have no role in the etching process",
+        "Answer": "B",
+        "Source": "In wet chemical etching of silicon, the OH\u2212 ions and H2O plays an important role as a catalyzing and active etching species, respectively."
+    }
+}

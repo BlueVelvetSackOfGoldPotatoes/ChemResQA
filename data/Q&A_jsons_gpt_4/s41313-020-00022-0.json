@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In crystalline materials, dislocations are line defects that can move and interact with each other and with other elements in the crystal lattice. The motion and interaction of dislocations are key to understanding the mechanical properties of materials.",
+        "Question": "What is the effect of introducing disorder, such as precipitates, to a crystal lattice on dislocation motion?",
+        "A": "It has no significant effect on dislocation motion.",
+        "B": "It facilitates the motion of dislocations.",
+        "C": "It causes dislocations to pin to these elements, impeding their motion.",
+        "D": "It causes dislocations to annihilate spontaneously.",
+        "Answer": "C",
+        "Source": "introducing disorder to the crystal causes dislocations to pin to these impeding elements and, thus, leads to a competition between dislocation-dislocation and dislocation-disorder interactions."
+    },
+    "Question_2": {
+        "Context": "Dislocations in crystals can exhibit collective behavior that is influenced by their interactions with each other and with obstacles within the crystal lattice.",
+        "Question": "What is the term used to describe the collective behavior of dislocations when they become jammed by their anisotropic shear stress fields in pure crystals?",
+        "A": "Dislocation pinning",
+        "B": "Dislocation jamming",
+        "C": "Dislocation shearing",
+        "D": "Dislocation gliding",
+        "Answer": "B",
+        "Source": "In pure crystals, dislocations form complex structures as they become jammed by their anisotropic shear stress fields."
+    },
+    "Question_3": {
+        "Context": "The mechanical response of crystalline materials can change based on the interactions within the crystal lattice, particularly those involving dislocations.",
+        "Question": "What type of interaction can lead to a well-defined critical point of a depinning transition in a crystal lattice?",
+        "A": "Dislocation-dislocation interaction",
+        "B": "Dislocation-solute interaction",
+        "C": "Dislocation-precipitate interaction",
+        "D": "Dislocation-obstacle interaction",
+        "Answer": "D",
+        "Source": "obstacles to dislocation motion may change the system behaviour by inducing dislocation pinning, which, if strong enough, results in a well-defined critical point of a depinning transition of the dislocation assembly."
+    },
+    "Question_4": {
+        "Context": "In the study of dislocation dynamics, the behavior of dislocations under constant loading can provide insights into the mechanical properties of materials.",
+        "Question": "What is observed in the mechanical response of a crystal when it is under constant loading and the system is in a phase where dislocation-dislocation interactions dominate?",
+        "A": "A power-law relaxation of the shear rate",
+        "B": "An exponential increase in the shear rate",
+        "C": "A linear decrease in the shear rate",
+        "D": "A constant shear rate",
+        "Answer": "A",
+        "Source": "In both phases the systems appear to possess a critical stress \u03c3c where one observes a power-law relaxation of the shear rate."
+    },
+    "Question_5": {
+        "Context": "The introduction of disorder in the form of precipitates to a crystal lattice can alter the criticality and behavior of dislocations.",
+        "Question": "What effect does the introduction of disorder have on the average strain burst size in a crystal lattice when the system is in the pinning-dominated regime?",
+        "A": "The average strain burst size decreases exponentially with applied stress.",
+        "B": "The average strain burst size remains constant regardless of applied stress.",
+        "C": "The average strain burst size grows exponentially with applied stress.",
+        "D": "The average strain burst size exhibits a power-law divergence at a critical stress value.",
+        "Answer": "D",
+        "Source": "in the pinning phase we found a critical stress value where the average strain burst size exhibits a power-law divergence."
+    },
+    "Question_6": {
+        "Context": "The relaxation rate of a dislocation system under constant loading can provide information about the phase of the system.",
+        "Question": "What change in the relaxation rate is observed as a dislocation system moves further into the pinning phase?",
+        "A": "The relaxation rate decreases.",
+        "B": "The relaxation rate becomes more rapid.",
+        "C": "The relaxation rate remains constant.",
+        "D": "The relaxation rate oscillates.",
+        "Answer": "B",
+        "Source": "the relaxation becomes more rapid (larger \u03b8) as the systems move further into the pinning phase."
+    },
+    "Question_7": {
+        "Context": "Machine learning techniques can be applied to distinguish different phases of a system based on the evolving configurations of dislocations.",
+        "Question": "What machine learning approach was used to distinguish systems into separate phases based on dislocation configurations?",
+        "A": "Supervised learning",
+        "B": "Reinforcement learning",
+        "C": "Unsupervised learning",
+        "D": "Semi-supervised learning",
+        "Answer": "C",
+        "Source": "we applied the unsupervised 'confusion' scheme introduced in Van Nieuwenburg et al. (2017)."
+    },
+    "Question_8": {
+        "Context": "The geometrically necessary dislocation (GND) density is a measure used to characterize dislocation structures within a material.",
+        "Question": "What does the local geometrically necessary dislocation (GND) density represent in the context of dislocation structures?",
+        "A": "The total number of dislocations in the material.",
+        "B": "The length of dislocation lines per unit volume.",
+        "C": "The density of dislocations necessary to accommodate local lattice curvature.",
+        "D": "The average distance between dislocations.",
+        "Answer": "C",
+        "Source": "We computed the local GND density (the total GND density is constant throughout the simulation) by first evaluating the Nye tensor \u03b1 in voxels."
+    },
+    "Question_9": {
+        "Context": "The study of dislocation dynamics involves characterizing the structure of dislocation networks, which can be complex due to the interactions within the material.",
+        "Question": "Which descriptor is used to measure the roughness of a dislocation by comparing the length of dislocation segments between two junction nodes?",
+        "A": "Dislocation density",
+        "B": "Dislocation correlation",
+        "C": "Junction lengthening parameter",
+        "D": "Burgers vector magnitude",
+        "Answer": "C",
+        "Source": "we define parameter J, J = lalong - lshortest, which represents the roughness of a dislocation and by collecting its distribution inside a system provides information on the dislocation structure."
+    },
+    "Question_10": {
+        "Context": "The correlation function of dislocation spacing is a metric used to understand the spatial arrangement of dislocations in a material.",
+        "Question": "What does the dislocation spacing correlation function reveal about the dislocation structure?",
+        "A": "The chemical composition of the dislocations",
+        "B": "The electrical conductivity of the dislocation network",
+        "C": "The thermal stability of the dislocations",
+        "D": "The mean line length in spheres of radius r centered at random points along the dislocation structure",
+        "Answer": "D",
+        "Source": "L(r) is approximated by computing the mean line length in spheres of radius r centered at random points along the dislocation structure."
+    }
+}

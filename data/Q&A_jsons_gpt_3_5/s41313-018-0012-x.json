@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the formation of defects in systems of conservation laws and the challenges posed by defects in determining the system's behavior.",
+        "Question": "What is the term used in the paper to describe schemes that result in defects that are more singular?",
+        "A": "Regularizations",
+        "B": "Viscosities",
+        "C": "Irregularizations",
+        "D": "Microphysics",
+        "Answer": "C",
+        "Source": "Contrary to usual regularization schemes (such as a vanishing viscosity limit), which attempt to control defects by making them smoother, our schemes result in defects which are more singular, and we thus refer to such schemes as \u201cirregularizations\u201d."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the importance of developing numerical techniques capable of handling defects with more exotic behavior than traditional, viscous shocks.",
+        "Question": "What is the primary motivation for studying delta shocks in the context of dislocation dynamics in crystals?",
+        "A": "To understand the behavior of superfluids",
+        "B": "To investigate the behavior of traffic flow models",
+        "C": "To describe the formation of dislocation walls in crystals",
+        "D": "To study cracks in crystalline solids",
+        "Answer": "C",
+        "Source": "Our interest in delta shocks is motivated by a tangible physical question. Why do dislocations in crystals form walls? In a continuum theory of dislocation dynamics, such walls must be described as delta shocks: their density scales as the inverse square of the lattice constant, which vanishes in the continuum limit."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the formation of delta shocks in systems of conservation laws and the conditions under which they arise.",
+        "Question": "What is the Rankine-Hugoniot relation a statement of?",
+        "A": "Conservation of mass across a shock",
+        "B": "Formation of delta shocks",
+        "C": "Evolution of defects",
+        "D": "Microscopic laws",
+        "Answer": "A",
+        "Source": "The Rankine-Hugoniot relation is a statement of conservation of mass across a shock."
+    },
+    "Question_4": {
+        "Context": "The paper explains the concept of delta shocks and their natural occurrence in various systems of conservation laws.",
+        "Question": "What is the physical origin of the difficulty in determining the behavior of defects in systems of conservation laws?",
+        "A": "Microphysics",
+        "B": "Entropy conditions",
+        "C": "Regularization schemes",
+        "D": "Continuum equations",
+        "Answer": "A",
+        "Source": "Defects are inherently microscopic, and thus their behavior cannot be inferred from the continuum laws."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the ambiguity of defect behavior in systems of conservation laws and the challenges it poses.",
+        "Question": "What is the primary challenge posed by defects in systems of conservation laws?",
+        "A": "Determining the time evolution of defects",
+        "B": "Specifying the microphysics",
+        "C": "Ensuring uniqueness of solutions",
+        "D": "Implementing entropy conditions",
+        "Answer": "C",
+        "Source": "The ambiguity of defect behavior in systems of conservation laws is reflected in the mathematical theory by non-uniqueness of solutions containing defects."
+    },
+    "Question_6": {
+        "Context": "The paper explores new ways of regulating defect behavior in systems of conservation laws.",
+        "Question": "What type of defect is a primary subject of the paper?",
+        "A": "Viscous shock",
+        "B": "Dispersive shock",
+        "C": "Delta shock",
+        "D": "Regular shock",
+        "Answer": "C",
+        "Source": "Still another type of defect (which is a primary subject of this paper) is a delta shock, which consists of a delta function-like spike, possibly riding atop a regular (viscous) shock."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the formation and behavior of delta shocks in systems of conservation laws.",
+        "Question": "What is the condition that forces the formation of delta shocks according to the paper?",
+        "A": "Entropy conditions",
+        "B": "Irregularizations",
+        "C": "Stationarity",
+        "D": "Microphysics",
+        "Answer": "C",
+        "Source": "As an illustration, we consider the Riemann problem for the Hopf Eq. (2). Mass flows into the defect at x = 0 with rate F(0\u2212) \u2212 F(0+) = 1 2, and thus by the modified Rankine-Hugoniot relation with \u03c3 = 0 we find that the mass of the delta at x = 0 grows at a rate \u02d9m = 1 2."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the challenges posed by defects in systems of conservation laws and the need for new numerical methods to handle exotic defects.",
+        "Question": "What is the primary feature of delta shocks mentioned in the paper?",
+        "A": "They are always smooth",
+        "B": "They are well-understood",
+        "C": "They are more singular",
+        "D": "They are easily simulated",
+        "Answer": "C",
+        "Source": "Contrary to usual regularization schemes, our schemes result in defects which are more singular, and we thus refer to such schemes as \u201cirregularizations\u201d."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the formation and behavior of delta shocks in systems of conservation laws.",
+        "Question": "What is the primary challenge faced in simulating delta shocks numerically according to the paper?",
+        "A": "Ensuring smooth solutions",
+        "B": "Handling high-order terms",
+        "C": "Achieving convergence to a delta shock",
+        "D": "Implementing entropy conditions",
+        "Answer": "C",
+        "Source": "Despite being the most successful numerical method we found, the stability properties of this discretization are not entirely satisfactory. In particular, we found that when the grid size became substantially smaller than the width of the delta spike, the delta spike would become unstable and break apart into multiple, smaller delta spikes."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the challenges posed by defects in systems of conservation laws and the need for new numerical methods to handle exotic defects.",
+        "Question": "What is the primary focus of the paper's exploration of irregularizations in systems of conservation laws?",
+        "A": "To construct numerical schemes",
+        "B": "To prove the existence of delta shocks",
+        "C": "To handle defects with more exotic behavior",
+        "D": "To implement entropy conditions",
+        "Answer": "C",
+        "Source": "We have seen that delta shocks arise naturally in a variety of systems of conservation laws, and their presence can often be traced to an incompatibility of the flow of the conserved quantity and the motion of defects."
+    }
+}

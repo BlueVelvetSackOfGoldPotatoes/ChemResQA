@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Carbon nanoparticles can be synthesized using various green synthesis methods, one of which involves using natural sources such as fruit juices.",
+        "Question": "Which natural source was mentioned as a carbon source for synthesizing carbon nanoparticles?",
+        "A": "Orange juice",
+        "B": "Mandarin juice",
+        "C": "Apple juice",
+        "D": "Grape juice",
+        "Answer": "B",
+        "Source": "To synthesize carbon nanoparticles in less time, a green, cost-effective microwave assisted strategy is widely used. As a carbon source, mandarin juice was chosen."
+    },
+    "Question_2": {
+        "Context": "In the context of carbon allotropes, carbon atoms can exist in various hybridization states, which contribute to the formation of different molecular structures.",
+        "Question": "Which hybridization states can carbon atoms exist in?",
+        "A": "sp, sp2, and sp3",
+        "B": "sp2, sp3, and sp3d",
+        "C": "sp, sp3, and sp3d2",
+        "D": "sp3, sp3d, and sp3d2",
+        "Answer": "A",
+        "Source": "Carbon atoms may exist in sp, sp2 and sp3 hybridization states."
+    },
+    "Question_3": {
+        "Context": "Graphene is known for its \u03c0-rich electronic structure and has two types of interactions on its surface.",
+        "Question": "What are the two types of interactions present on the graphene surface?",
+        "A": "Ionic and metallic",
+        "B": "Covalent and metallic",
+        "C": "Covalent and non-covalent",
+        "D": "Ionic and non-covalent",
+        "Answer": "C",
+        "Source": "The graphene surface has two types of interactions: covalent and non-covalent."
+    },
+    "Question_4": {
+        "Context": "The \u03c0-\u03c0 interaction is a specific type of non-covalent interaction that occurs between aromatic rings.",
+        "Question": "What does the \u03c0-\u03c0 interaction primarily refer to?",
+        "A": "Interaction between two alkane chains",
+        "B": "Interaction between two alkyne groups",
+        "C": "Interaction between two aromatic rings",
+        "D": "Interaction between two alcohol groups",
+        "Answer": "C",
+        "Source": "The \u03c0-\u03c0 interaction is a specific type of supramolecular force. It primarily refers to the interaction between two aromatic rings in a restricted sense."
+    },
+    "Question_5": {
+        "Context": "The van der Waals force is a collective term for the forces that occur between atoms or molecules.",
+        "Question": "Which forces primarily contribute to the van der Waals force?",
+        "A": "Orientation force, inductive force, and dispersion forces",
+        "B": "Hydrogen bonding, ionic bonding, and covalent bonding",
+        "C": "Dipole-dipole interactions, London dispersion forces, and hydrogen bonding",
+        "D": "Metallic bonding, ionic bonding, and covalent bonding",
+        "Answer": "A",
+        "Source": "Three forces orientation force, inductive force, and dispersion forces are primarily responsible for it."
+    },
+    "Question_6": {
+        "Context": "Carbon-based nanoparticles can be synthesized from bio-precursors using environmentally friendly production techniques.",
+        "Question": "Which part of the papaya plant has been used to create carbon quantum dots (CQDs) without any surface passivation?",
+        "A": "Papaya seeds",
+        "B": "Papaya leaves",
+        "C": "Papaya fruit",
+        "D": "Papaya peel scraps",
+        "Answer": "D",
+        "Source": "Papaya peel scraps were used to hydrothermally create carbon quantum dots (CQDs) without any surface passivation."
+    },
+    "Question_7": {
+        "Context": "The interaction between liquid crystals and carbon quantum dots can result in a strong coupling effect.",
+        "Question": "In which phase of liquid crystals is a strong coupling of carbon quantum dots observed?",
+        "A": "Solid phase",
+        "B": "Gas phase",
+        "C": "Plasma phase",
+        "D": "LC mesophase",
+        "Answer": "D",
+        "Source": "In LC mesophase, a strong coupling of CQDs is seen."
+    },
+    "Question_8": {
+        "Context": "The electronic properties of graphene can influence charge transport and energy transfer processes within droplets.",
+        "Question": "What property of graphene makes it a good candidate for electronic and optoelectronic applications?",
+        "A": "Its large surface area and distinct electrical properties",
+        "B": "Its high thermal conductivity and magnetic properties",
+        "C": "Its opacity and high density",
+        "D": "Its insulating properties and brittleness",
+        "Answer": "A",
+        "Source": "Because of its large surface area and distinct electrical properties, it is a good candidate for a variety of electronic and optoelectronic applications."
+    },
+    "Question_9": {
+        "Context": "Indium tin oxide (ITO) is a material known for its specific properties that make it suitable for certain applications.",
+        "Question": "Why is indium tin oxide (ITO) widely used in optoelectronic applications?",
+        "A": "Because of its high electrical conductivity and optical transparency",
+        "B": "Because of its magnetic properties and high refractive index",
+        "C": "Because of its flexibility and high thermal resistance",
+        "D": "Because of its color-changing properties and low cost",
+        "Answer": "A",
+        "Source": "ITO is a transparent conductive material with high electrical conductivity and optical transparency."
+    },
+    "Question_10": {
+        "Context": "The interaction between ITO and nano-micro droplets can affect the charge transport and optical properties of the droplets.",
+        "Question": "What is the primary composition of the ITO layer used in optoelectronic applications?",
+        "A": "Indium oxide and tin oxide",
+        "B": "Iron oxide and titanium oxide",
+        "C": "Indium oxide and zinc oxide",
+        "D": "Iron oxide and tin oxide",
+        "Answer": "A",
+        "Source": "In the case of ITO-coated glass, the ITO layer is commonly composed of indium oxide (In2O3) and tin oxide (SnO2)."
+    }
+}

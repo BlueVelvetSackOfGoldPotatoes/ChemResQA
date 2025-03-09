@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Understanding the thermal conductivity of composites made from polymers and graphene nanoplatelets is crucial for various applications.",
+        "Question": "What is one of the key advantages of composites of graphene nanoplatelets and polymers in terms of heat dissipation?",
+        "A": "Enhanced thermal conductivity in all directions",
+        "B": "Reduced thermal conductivity compared to pure polymers",
+        "C": "Increased thermal degradation",
+        "D": "No impact on thermal properties",
+        "Answer": "A",
+        "Source": "Composites of graphene nanoplatelets (GNP) and polymers continue to arouse great interest as possible route to dissipating heat, thus extending the in-service life of the final product."
+    },
+    "Question_2": {
+        "Context": "Flexible nanotechnology is being explored for the production of foldable and portable electronic devices.",
+        "Question": "Why is heat dissipation a concern in scaled-down electronic devices?",
+        "A": "To prevent electrical malfunctions",
+        "B": "To avoid excessive energy consumption",
+        "C": "To ensure efficient operation and prevent thermal degradation",
+        "D": "To reduce the weight of the devices",
+        "Answer": "C",
+        "Source": "Indeed, the excess heat trapped inside the object might lead to thermal degradation."
+    },
+    "Question_3": {
+        "Context": "The phonons in crystalline materials propagate differently compared to polymeric systems.",
+        "Question": "How do phonons propagate in a crystalline material?",
+        "A": "As harmonic waves with no energy loss",
+        "B": "With high energy loss",
+        "C": "By generating heterogeneous points",
+        "D": "By disrupting thermal conductivity",
+        "Answer": "A",
+        "Source": "In a crystalline material (regular homogeneous structure) the phonons propagates as harmonic waves and the heat dissipates with no energy loss along the thermal path."
+    },
+    "Question_4": {
+        "Context": "Flexible devices are becoming more popular due to their portability and environmental benefits.",
+        "Question": "What is driving technology companies towards the manufacture of soft substrates?",
+        "A": "Increased energy consumption",
+        "B": "Requirement for foldable and recyclable devices",
+        "C": "Demand for heavier devices",
+        "D": "Reduced environmental impact",
+        "Answer": "B",
+        "Source": "The need for flexible devices driven by the exigence to fulfil requirements from an immense variety of customers is pushing technology companies towards the manufacture of soft substrates, which can be folded, rolled, are portable and environmentally friendly."
+    },
+    "Question_5": {
+        "Context": "Fused Deposition Modelling (FDM) is considered an innovative solution for thermal management in small objects.",
+        "Question": "What is a potential limitation of FDM for large-scale production?",
+        "A": "Long production times",
+        "B": "Low cost of printers",
+        "C": "Enhanced thermal conductivity",
+        "D": "High printing speed",
+        "Answer": "A",
+        "Source": "While there are controversial opinions on the limitations of FDM for large-scale and high volume production (e.g. long production times, and expensive printers required)."
+    },
+    "Question_6": {
+        "Context": "There are technical challenges associated with the successful printing of composites made by FDM.",
+        "Question": "What is one of the challenges mentioned in the text related to the printing of composites by FDM?",
+        "A": "Orientation effects",
+        "B": "Reduced thermal conductivity",
+        "C": "Increased printing speed",
+        "D": "Nozzle temperature not critical",
+        "Answer": "A",
+        "Source": "In this mini-review, we describe the many technical challenges that remain to successful printing of these composites by FDM, including orientation effects."
+    },
+    "Question_7": {
+        "Context": "The role of different factors in determining the thermal conductivity of composite products made by FDM is discussed.",
+        "Question": "Which factor plays a role in determining the thermal conductivity of composite products made by FDM?",
+        "A": "Printing color",
+        "B": "Nozzle size",
+        "C": "Printing bed temperature",
+        "D": "Printer brand",
+        "Answer": "C",
+        "Source": "We also compare these initial reports with those on FDM of other and related carbonaceous fillers, such as multi-walled carbon nanotubes and carbon fibre."
+    },
+    "Question_8": {
+        "Context": "The manufacture of (micro)-electronic components using FDM is considered a valid alternative.",
+        "Question": "What makes FDM a valid alternative for the manufacture of (micro)-electronic components?",
+        "A": "Low thermal conductivity",
+        "B": "High cost of printers",
+        "C": "Effective thermal management",
+        "D": "Slow production speed",
+        "Answer": "C",
+        "Source": "FDM is an innovative solution to the manufacture of small objects where effective thermal management is required and it is a valid alternative for the manufacture of (micro)-electronic components."
+    },
+    "Question_9": {
+        "Context": "There are few papers published on the FDM of functional composite materials based on graphene(s).",
+        "Question": "What is the current status of research on the FDM of functional composite materials based on graphene(s)?",
+        "A": "Extensively researched",
+        "B": "Limited publications",
+        "C": "No research conducted",
+        "D": "Not mentioned in the text",
+        "Answer": "B",
+        "Source": "There are few papers published on the FDM of functional composite materials based on graphene(s)."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the comparison between FDM of graphene-based composites and other carbonaceous fillers.",
+        "Question": "What is one of the carbonaceous fillers mentioned in comparison to graphene-based composites?",
+        "A": "Carbon dioxide",
+        "B": "Carbon monoxide",
+        "C": "Carbon fiber",
+        "D": "Carbonated water",
+        "Answer": "C",
+        "Source": "We also compare these initial reports with those on FDM of other and related carbonaceous fillers, such as multi-walled carbon nanotubes and carbon fibre."
+    }
+}

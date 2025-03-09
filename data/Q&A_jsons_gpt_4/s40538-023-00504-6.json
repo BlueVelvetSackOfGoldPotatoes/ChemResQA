@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the fabrication of biocomposites, different concentrations of natural fibers can be added to a polymer matrix to alter its properties.",
+        "Question": "What is the effect of increasing the concentration of sugarcane bagasse in a thermoplastic wheat starch matrix?",
+        "A": "Decreases tensile strength and modulus, increases elongation at break and moisture content",
+        "B": "Increases tensile strength and modulus, decreases elongation at break and moisture content",
+        "C": "Increases tensile strength and modulus, increases elongation at break and moisture content",
+        "D": "Decreases tensile strength and modulus, decreases elongation at break and moisture content",
+        "Answer": "B",
+        "Source": "The results indicated that increasing both of the weight ratio of sorbitol to glycerol and the concentration of bagasse generally led to a significant increase in tensile strength and modulus, but a decrease in elongation at break and equilibrium moisture content."
+    },
+    "Question_2": {
+        "Context": "Thermoplastic materials can be modified by adding plasticizers to change their mechanical properties.",
+        "Question": "How does the presence of sorbitol as a plasticizer in a thermoplastic starch matrix affect its properties compared to glycerol?",
+        "A": "Sorbitol increases the mobility and flexibility of the starch chains",
+        "B": "Sorbitol decreases the mobility and flexibility of the starch chains",
+        "C": "Sorbitol does not affect the mobility and flexibility of the starch chains",
+        "D": "Sorbitol decreases the tensile strength and modulus of the starch chains",
+        "Answer": "B",
+        "Source": "Sorbitol, having a larger molecular length and a higher molecular weight than glycerol, and having more structural similarity to the glucose unit of starch than glycerol, is able to create more entanglement with starch chains, which results in more interactions with starch chains than glycerol."
+    },
+    "Question_3": {
+        "Context": "The moisture absorption behavior of biocomposites can be predicted using mathematical models.",
+        "Question": "Which model is used to predict the moisture absorption behavior of biocomposites?",
+        "A": "Peleg model",
+        "B": "Langmuir model",
+        "C": "Freundlich model",
+        "D": "BET model",
+        "Answer": "A",
+        "Source": "Moisture absorption was also studied using the Peleg model, which showed that samples with lower weight ratios of sorbitol to glycerol and lower bagasse concentrations had higher initial moisture absorption rates and greater moisture absorption capacity."
+    },
+    "Question_4": {
+        "Context": "Fourier transform infrared spectroscopy (FTIR) is a technique used to identify the chemical bonds in materials by measuring the absorption of infrared radiation.",
+        "Question": "What does an increase in hydrogen and polar bonds in a biocomposite indicate in an FTIR spectrum?",
+        "A": "A decrease in the wavenumbers related to hydroxyl groups",
+        "B": "An increase in the wavenumbers related to hydroxyl groups",
+        "C": "No change in the wavenumbers related to hydroxyl groups",
+        "D": "A decrease in the wavenumbers related to carbonyl groups",
+        "Answer": "A",
+        "Source": "Finally, the FTIR spectrum revealed an increase in hydrogen and polar bonds in the biocomposites compared to pure starch."
+    },
+    "Question_5": {
+        "Context": "Thermogravimetric analysis (TGA) is a method of thermal analysis where changes in physical and chemical properties of materials are measured as a function of increasing temperature.",
+        "Question": "What does a higher onset temperature of thermal degradation (T10%) in a biocomposite indicate?",
+        "A": "Lower thermal stability",
+        "B": "Higher moisture content",
+        "C": "Higher thermal stability",
+        "D": "No change in thermal properties",
+        "Answer": "C",
+        "Source": "The investigation of thermal behavior of the biocomposites by TGA analysis showed improved thermal stability of the biocomposites by increasing both of the sorbitol:glycerol weight ratio and the bagasse concentration."
+    },
+    "Question_6": {
+        "Context": "In the context of biocomposites, the equilibrium moisture content is a measure of the amount of water a material can absorb and retain under specified conditions.",
+        "Question": "What is the effect of increasing the weight ratio of sorbitol to glycerol on the equilibrium moisture content of a biocomposite?",
+        "A": "Increases the equilibrium moisture content",
+        "B": "Decreases the equilibrium moisture content",
+        "C": "Has no effect on the equilibrium moisture content",
+        "D": "First increases, then decreases the equilibrium moisture content",
+        "Answer": "B",
+        "Source": "The equilibrium moisture content of the biocomposite decreased with the increase in the weight ratio of sorbitol to glycerol in each bagasse concentration."
+    },
+    "Question_7": {
+        "Context": "The tensile properties of a material, including tensile strength, modulus, and elongation at break, are important indicators of its mechanical performance.",
+        "Question": "What happens to the tensile strength and modulus of a biocomposite when the weight ratio of sorbitol to glycerol is increased?",
+        "A": "Both tensile strength and modulus decrease",
+        "B": "Tensile strength increases and modulus decreases",
+        "C": "Both tensile strength and modulus increase",
+        "D": "Tensile strength decreases and modulus increases",
+        "Answer": "C",
+        "Source": "For each concentration of sugarcane bagasse, with an increase in the weight ratio of sorbitol to glycerol, the tensile strength and tensile modulus of the biocomposite increased."
+    },
+    "Question_8": {
+        "Context": "The use of lignocellulosic materials such as sugarcane bagasse as fillers in biocomposites can affect their water vapor permeability.",
+        "Question": "How does the addition of sugarcane bagasse affect the water vapor permeability of a biocomposite?",
+        "A": "Increases water vapor permeability",
+        "B": "Decreases water vapor permeability",
+        "C": "Has no effect on water vapor permeability",
+        "D": "First decreases, then increases water vapor permeability",
+        "Answer": "B",
+        "Source": "Previous research has demonstrated that adding lignocellulosic fillers to the starch matrix has increased its tensile strength while simultaneously decreased its flexibility, water vapor permeability, and sensitivity to moisture."
+    },
+    "Question_9": {
+        "Context": "The mechanical integrity and barrier properties of biocomposites can be sensitive to ambient humidity.",
+        "Question": "What is the consequence of a biocomposite's sensitivity to moisture in environments with moderate to high humidity levels?",
+        "A": "Improved mechanical integrity and barrier properties",
+        "B": "No change in mechanical integrity and barrier properties",
+        "C": "Loss of mechanical integrity and barrier properties",
+        "D": "Increased water vapor permeability only",
+        "Answer": "C",
+        "Source": "This sensitivity to moisture can cause a loss of mechanical integrity and barrier properties of them in environments with moderate to high humidity levels and make them unsuitable for packaging applications."
+    },
+    "Question_10": {
+        "Context": "The plasticization of native starch is necessary to process it into thermoplastic materials due to its high melting temperature.",
+        "Question": "Why is native starch modified by plasticizers to be melt-processed as a thermoplastic material?",
+        "A": "To increase its melting temperature",
+        "B": "To decrease its degradation temperature",
+        "C": "To enable it to be formed into films and sheets",
+        "D": "To reduce its availability and cost",
+        "Answer": "C",
+        "Source": "Native starch has to be modified by plasticizers to be melt-processed as a thermoplastic material, because the melting temperature (Tm) of pure dry starch is close to 220\u2013240 \u00b0C, which is higher than its degradation temperature (220 \u00b0C)."
+    }
+}

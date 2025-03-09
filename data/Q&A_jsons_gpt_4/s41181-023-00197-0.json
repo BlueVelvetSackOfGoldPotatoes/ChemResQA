@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Peptide receptor radionuclide therapy (PRRT) is a molecular therapy used to treat certain types of cancer. It involves targeting tumors with molecules that have a high affinity for specific receptors expressed by the tumor cells. These molecules are labeled with a radioactive isotope, which allows for the targeted delivery of radiation to the tumor.",
+        "Question": "What is the primary reason for using somatostatin antagonists like DOTA-JR11 in peptide receptor radionuclide therapy for neuroendocrine tumors?",
+        "A": "To increase the overall survival rate of patients",
+        "B": "To improve the biodistribution profile and tumor uptake",
+        "C": "To reduce the cost of treatment",
+        "D": "To decrease the time required for therapy",
+        "Answer": "B",
+        "Source": "An interesting alternative could be the somatostatin antagonist, [177Lu]Lu-DOTA-JR11, that demonstrated better biodistribution profile and higher tumor uptake than [177Lu]Lu-DOTA-TATE."
+    },
+    "Question_2": {
+        "Context": "In radionuclide therapy, the therapeutic index is a measure of the treatment's ability to target diseased cells relative to healthy cells. Alpha emitters are a type of radionuclide that can be used in this therapy and are known for their high linear energy transfer (LET), which is a measure of the energy deposited by radiation into tissue per unit distance traveled.",
+        "Question": "Why might alpha emitters be considered for improving the therapeutic index of peptide receptor radionuclide therapy (PRRT)?",
+        "A": "Because they have a lower LET compared to beta emitters",
+        "B": "Because they require the presence of oxygen to create effective DNA damage",
+        "C": "Because they can induce more DNA damage compared to beta emitters",
+        "D": "Because they have a longer half-life than beta emitters",
+        "Answer": "C",
+        "Source": "Therefore, [225Ac]Ac-DOTA- JR11 can be a potential candidate to improve the treatment of NETs. Alpha emitters showed improvement of the therapeutic index of PRRT due to the high LET offered by the alpha particles compared to beta emitters."
+    },
+    "Question_3": {
+        "Context": "The stability of radiolabeled compounds in biological media is crucial for their effectiveness in radionuclide therapy. Stability studies are often performed in phosphate buffered saline (PBS) and mouse serum to assess the integrity of the radiopeptide over time.",
+        "Question": "Which radiolabeled compound demonstrated excellent stability in both phosphate buffered saline (PBS) and mouse serum?",
+        "A": "[225Ac]Ac-DOTA-JR11",
+        "B": "[177Lu]Lu-DOTA-TATE",
+        "C": "[177Lu]Lu-DOTA-JR11",
+        "D": "natLu-DOTA-JR11",
+        "Answer": "C",
+        "Source": "[177Lu]Lu-DOTA-JR11 demonstrated excellent stability in both media (> 93%) up to 24 h post incubation."
+    },
+    "Question_4": {
+        "Context": "In vitro competitive binding assays are used to determine the binding affinity of a compound to a specific receptor. These assays can be performed using cells that express the receptor of interest, and the binding affinity is often quantified using an IC50 value, which is the concentration of a compound that inhibits 50% of the binding.",
+        "Question": "What was the outcome of the in vitro competitive binding assay for natLa-DOTA-JR11 and natLu-DOTA-JR11 in terms of their binding affinity to SSTR2?",
+        "A": "Both compounds had higher binding affinity than DOTA-JR11",
+        "B": "Both compounds had lower binding affinity than DOTA-JR11",
+        "C": "Both compounds had similar binding affinity to DOTA-JR11",
+        "D": "Only natLu-DOTA-JR11 had similar binding affinity to DOTA-JR11",
+        "Answer": "C",
+        "Source": "Competitive binding assay revealed that complexation of DOTA-JR11 with natLa and natLu did not affect its binding affinity to SSTR2."
+    },
+    "Question_5": {
+        "Context": "Biodistribution studies are essential in evaluating how radiopharmaceuticals distribute within the body after administration. These studies can help in understanding the uptake of the radiopharmaceutical in different organs and tissues, including the target tumor.",
+        "Question": "In biodistribution studies of radiolabeled peptides for neuroendocrine tumors, which organ is of particular interest due to potential radiotoxicity?",
+        "A": "Heart",
+        "B": "Kidneys",
+        "C": "Lungs",
+        "D": "Spleen",
+        "Answer": "B",
+        "Source": "[225Ac]Ac-DOTA-JR11 showed a higher absorbed dose in the kidneys compared to [177Lu]Lu-DOTA-JR11, which may limit further studies with this radiopeptide."
+    },
+    "Question_6": {
+        "Context": "The pharmacokinetics of a radiopharmaceutical can be influenced by the stability of the radiolabeled compound. If a radiolabeled peptide is unstable, it may degrade, leading to the release of the radionuclide and potentially causing unintended radiation exposure to non-targeted tissues.",
+        "Question": "What is a potential consequence of the instability of a radiolabeled peptide in the context of radionuclide therapy?",
+        "A": "Increased uptake in the target tumor",
+        "B": "Decreased uptake in non-targeted organs",
+        "C": "Increased uptake in non-targeted organs",
+        "D": "No impact on biodistribution",
+        "Answer": "C",
+        "Source": "However, significantly higher kidneys, liver and bone uptake were found for [225Ac]Ac-DOTA-JR11 than [177Lu]Lu-DOTA-JR11, it might be due to the slight instability of the 225Ac-labeled peptide towards radiolysis compared to [177Lu]Lu-DOTA-JR11."
+    },
+    "Question_7": {
+        "Context": "The half-life of a radionuclide is an important factor in radionuclide therapy as it influences the duration of radiation exposure to the tumor and healthy tissues. Actinium-225 is an alpha-emitter with a relatively long half-life, which can be advantageous for certain therapeutic applications.",
+        "Question": "What is the half-life of actinium-225 and why is it considered advantageous for targeted alpha therapy (TAT)?",
+        "A": "9.92 days, because it allows for sustained radiation delivery",
+        "B": "3.66 days, because it minimizes radiation exposure",
+        "C": "14.28 days, because it matches the cell cycle of most tumors",
+        "D": "30 days, because it ensures complete tumor eradication",
+        "Answer": "A",
+        "Source": "However, actinium-225 has gained a lot of attention due to its long half-life (t1/2 = 9.92 days) and interesting decay chain offering 4 alpha particles."
+    },
+    "Question_8": {
+        "Context": "In the context of radionuclide therapy, the term 'therapeutic index' refers to the ratio of the therapeutic effect to the toxic effect of a treatment. A higher therapeutic index indicates a greater degree of specificity in targeting tumor cells over healthy cells.",
+        "Question": "What is the significance of a high therapeutic index in radionuclide therapy?",
+        "A": "It indicates a higher rate of tumor recurrence",
+        "B": "It suggests a higher degree of non-specific binding to healthy cells",
+        "C": "It implies a greater specificity in targeting tumor cells over healthy cells",
+        "D": "It means the treatment will be less effective",
+        "Answer": "C",
+        "Source": "Alpha emitters showed improvement of the therapeutic index of PRRT due to the high LET offered by the alpha particles compared to beta emitters."
+    },
+    "Question_9": {
+        "Context": "The kidneys are a critical organ to consider in the biodistribution of radiopharmaceuticals due to their role in filtering blood and excreting waste. High uptake of radiopharmaceuticals in the kidneys can lead to nephrotoxicity, which is a significant concern in radionuclide therapy.",
+        "Question": "What strategy can be explored to reduce nephrotoxicity when using radiolabeled peptides in radionuclide therapy?",
+        "A": "Increasing the dose of the radiolabeled peptide",
+        "B": "Administering amino acid cocktails",
+        "C": "Reducing the half-life of the radionuclide",
+        "D": "Targeting a different receptor",
+        "Answer": "B",
+        "Source": "However, several strategies can be explored to reduce nephrotoxicity and offer opportunities for future clinical investigations with [225Ac]Ac-DOTA-JR11."
+    },
+    "Question_10": {
+        "Context": "The use of radiolabeled peptides in radionuclide therapy requires careful consideration of the radiolysis quenchers used during the radiolabeling process. These quenchers can help stabilize the radiolabeled compound and prevent degradation caused by radiation.",
+        "Question": "Which substance was used as a radiolysis quencher to improve the stability of [225Ac]Ac-DOTA-JR11 during radiolabeling?",
+        "A": "Sodium citrate",
+        "B": "l-melatonin",
+        "C": "Sodium acetate",
+        "D": "DTPA",
+        "Answer": "B",
+        "Source": "The use of l-melatonin in condition 3 did not only improve the RCP of [225Ac]Ac-DOTA- JR11 compared to condition 2, but also improved its stability towards radiolysis."
+    }
+}

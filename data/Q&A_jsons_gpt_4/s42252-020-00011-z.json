@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Cellulose nanocrystal (CN) particles can be added to polymer blends to influence their properties. The addition of CN particles to a polylactide (PLA)/poly[(butylene succinate)-co-adipate] (PBSA) blend can affect the blend's morphological, thermal, and thermo-mechanical properties.",
+        "Question": "What effect do cellulose nanocrystal (CN) particles have on the crystallinity of PLA in a PLA/PBSA blend foam?",
+        "A": "They increase the crystallinity of PLA.",
+        "B": "They have no effect on the crystallinity of PLA.",
+        "C": "They decrease the crystallinity of PLA.",
+        "D": "They change the crystallinity of PLA to that of PBSA.",
+        "Answer": "C",
+        "Source": "The crystallinity of the prepared foams was disrupted by the inclusion of CN particles as observed from XRD analyses, which showed a decrease in PLA crystal peak intensity."
+    },
+    "Question_2": {
+        "Context": "Polylactide (PLA) is a biodegradable polymer that has received attention as a potential substitute for non-biodegradable polymer foams. However, PLA has some disadvantages that impede its widespread application.",
+        "Question": "Which of the following is NOT a disadvantage of polylactide (PLA)?",
+        "A": "Slow crystallization rate.",
+        "B": "Poor thermal stability.",
+        "C": "High impact strength.",
+        "D": "Brittleness resulting in poor mechanical properties.",
+        "Answer": "C",
+        "Source": "Although PLA is desired, it has disadvantages which impede its widespread application. They include slow crystallization and biodegradation rate, poor thermal stability, and brittleness, which results in poor mechanical properties."
+    },
+    "Question_3": {
+        "Context": "Poly[(butylene succinate)-co-adipate] (PBSA) is a biodegradable polymer that can be blended with PLA to improve certain properties of PLA.",
+        "Question": "What property does PBSA improve in a PLA/PBSA blend?",
+        "A": "Decreases the thermal stability.",
+        "B": "Increases the brittleness.",
+        "C": "Enhances the biodegradation rate of PLA.",
+        "D": "Slows down the crystallization rate.",
+        "Answer": "C",
+        "Source": "Due to its short biodegradation time, it can also enhance the biodegradation rate of PLA, which is very slow."
+    },
+    "Question_4": {
+        "Context": "The addition of filler materials to polymer blends can improve the compatibility and properties of the blend matrices.",
+        "Question": "What is the role of filler materials when added to polymer blends?",
+        "A": "They decrease the mechanical properties of the blend.",
+        "B": "They improve the compatibility and enhance properties of the blend.",
+        "C": "They prevent the blend from being used in foam applications.",
+        "D": "They make the blend immiscible.",
+        "Answer": "B",
+        "Source": "Addition of filler materials at specific concentrations can result in improved compatibility of the blend matrices."
+    },
+    "Question_5": {
+        "Context": "Cellulose nanocrystals (CNs) are considered environmentally friendly and can act as reinforcing materials in polymer matrices.",
+        "Question": "What is one of the roles of cellulose nanocrystals when used in polymer matrices?",
+        "A": "To decrease the environmental friendliness of the polymer.",
+        "B": "To act as a plasticizer and reduce the stiffness of the polymer.",
+        "C": "To act as a reinforcing agent and improve the stiffness of the polymer.",
+        "D": "To increase the biodegradation time of the polymer.",
+        "Answer": "C",
+        "Source": "Natural fillers such as cellulose nanoparticles (CNs) have received considerable interest as reinforcing materials and nucleating agents in improving the crystallinity of most polymers because of their environmental friendliness and biodegradability."
+    },
+    "Question_6": {
+        "Context": "The casting and particulate leaching (CPL) method is a technique used to prepare polymer foams with a specific morphology.",
+        "Question": "What is the key characteristic of the cell morphology in foams prepared using the CPL method?",
+        "A": "The cell morphology is dependent on the melt strength of the polymer.",
+        "B": "The cell morphology is independent of the porogen particles used.",
+        "C": "The cell morphology is dictated by the porogen size and concentration.",
+        "D": "The cell morphology is controlled by the second component such as fillers.",
+        "Answer": "C",
+        "Source": "In this method, a polymer is dissolved in a volatile solvent until a homogeneous mixture is obtained. The porogen particles, which are insoluble in a solvent, are added into a solution, and then cast into a mold whereby a solvent is allowed to evaporate leaving polymer-porogen blend in a mold."
+    },
+    "Question_7": {
+        "Context": "Thermogravimetric analysis (TGA) is a technique used to assess the thermal stability of materials by measuring the weight loss as a function of temperature.",
+        "Question": "What does an increase in the onset thermal degradation temperature indicate about a material's thermal stability?",
+        "A": "The material has decreased thermal stability.",
+        "B": "The material has increased thermal stability.",
+        "C": "The material's crystallinity has increased.",
+        "D": "The material's mechanical properties have deteriorated.",
+        "Answer": "B",
+        "Source": "With regards to neat blend foam, the onset thermal degradation increased with the addition of CN particles, which also increased the thermal stability at 50% weight loss."
+    },
+    "Question_8": {
+        "Context": "Dynamic mechanical analysis (DMA) is used to measure the thermomechanical properties of materials, such as the storage modulus, which is an indicator of the material's stiffness.",
+        "Question": "What effect does the addition of cellulose nanocrystals (CN) have on the storage modulus of PLA/PBSA blend foams?",
+        "A": "It decreases the storage modulus significantly.",
+        "B": "It has no effect on the storage modulus.",
+        "C": "It increases the storage modulus at higher temperatures.",
+        "D": "It only increases the storage modulus at lower temperatures.",
+        "Answer": "C",
+        "Source": "CN acted as a reinforcing agent in improving the stiffness of the prepared blend foam."
+    },
+    "Question_9": {
+        "Context": "The Barfoed test is a qualitative test used to determine the presence of monosaccharides in solutions by forming a reddish/brownish copper (I) oxide precipitate.",
+        "Question": "What does the absence of a reddish/brownish precipitate in the Barfoed test indicate?",
+        "A": "The presence of polysaccharides.",
+        "B": "The presence of monosaccharides.",
+        "C": "The absence of monosaccharides.",
+        "D": "The solution is highly acidic.",
+        "Answer": "C",
+        "Source": "The formation of the reddish/brownish precipitate in a control sample containing fructose indicates the presence of monosaccharide in a solution, whereas the distilled water did not form a reddish precipitate. However, in the sample solutions, the reddish/brownish precipitate was also not observed, indicating the absence of fructose in water."
+    },
+    "Question_10": {
+        "Context": "The density of polymer foams can be determined by the ratio of measured mass to volume, and the void fraction or porosity can be calculated based on the densities of the unfoamed and foamed material.",
+        "Question": "How is the void fraction (porosity) of polymer foams calculated?",
+        "A": "By dividing the density of the unfoamed material by the density of the foamed material.",
+        "B": "By subtracting the density of the foamed material from the density of the unfoamed material.",
+        "C": "By multiplying the density of the unfoamed material with the density of the foamed material.",
+        "D": "By subtracting the density of the foamed material from the density of the unfoamed material and dividing by the density of the unfoamed material.",
+        "Answer": "D",
+        "Source": "The void fraction/porosity and expansion ratio (\u03b2) of the materials were determined according to Eqs. 1 and 2, respectively. \u03c6 = (\u03c1unfoamed - \u03c1foamed) / (\u03c1unfoamed - \u03c1p)"
+    }
+}

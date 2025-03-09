@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The modification of bamboo charcoal using phosphoric acid introduces functional groups that can enhance its adsorption properties.",
+        "Question": "What functional groups are introduced on the surface of bamboo charcoal after modification with phosphoric acid?",
+        "A": "Hydroxyl, carboxyl, and phosphate groups",
+        "B": "Amino, sulfhydryl, and methyl groups",
+        "C": "Aldehyde, ketone, and ester groups",
+        "D": "Alkene, alkyne, and aromatic groups",
+        "Answer": "A",
+        "Source": "The IR spectra of bamboo charcoal and modified bamboo charcoal are illustrated in Fig. 3. Figure 3 demonstrates an absorption due to C\u2013H stretching vibrations between 2800 and 3300 cm\u22121. The intense spectral bands from wavenumbers 1590 cm\u22121 and 1160 cm\u22121 in unmodified bamboo charcoal are engendered by the stretching and bending vibrations of C\u2013H bonds in the methyl (\u2013CH3) groups. However, for the modified bamboo charcoal, the stretching vibrations are significantly reduced, indicating substantial removal of hydrogen."
+    },
+    "Question_2": {
+        "Context": "The specific surface area of adsorbents is a key factor in their adsorption capacity, and chemical modification can significantly alter this property.",
+        "Question": "What was the change in the specific surface area of bamboo charcoal after modification with phosphoric acid?",
+        "A": "Decreased from 115.18 m2/g to 4.91 m2/g",
+        "B": "Increased from 4.91 m2/g to 115.18 m2/g",
+        "C": "Remained constant at 4.91 m2/g",
+        "D": "Remained constant at 115.18 m2/g",
+        "Answer": "B",
+        "Source": "The specific surface area of unmodified and modified bamboo charcoal was 4.91 m2/g and 115.18 m2/g, respectively. This enhancement signifies a remarkable 23.5-fold augmentation compared to the unmodified variant."
+    },
+    "Question_3": {
+        "Context": "Adsorption kinetics describe how the adsorption capacity of a material changes over time, and different models can be used to represent this process.",
+        "Question": "Which kinetic model best describes the adsorption behavior of modified bamboo charcoal for chlorogenic acid?",
+        "A": "Second-order kinetic equation",
+        "B": "Zero-order kinetic equation",
+        "C": "First-order kinetic equation",
+        "D": "Pseudo-second-order kinetic equation",
+        "Answer": "C",
+        "Source": "Through the Curve Fitting in Origin, the curve follows a first-order kinetic equation, y = 48.180 (1\u2212e\u22120.046x), with a correlation coefficient of R2 = 0.9309."
+    },
+    "Question_4": {
+        "Context": "Adsorption thermodynamics study the effects of temperature on the adsorption process, and various models can be applied to describe these effects.",
+        "Question": "What thermodynamic model describes the temperature dependence of chlorogenic acid adsorption on modified bamboo charcoal?",
+        "A": "Arrhenius equation",
+        "B": "Van't Hoff equation",
+        "C": "Langmuir equation",
+        "D": "Boltzmann equation",
+        "Answer": "D",
+        "Source": "Through the Curve Fitting in Origin, the curve follows the Boltzmann equation, Y= \u221213.263 1+e x\u221240.957 4.51 + 52.30, with a correlation coefficient of R2 = 0.9999."
+    },
+    "Question_5": {
+        "Context": "Chemical modification of adsorbent materials can lead to an increase in their adsorption capacity for certain chemicals.",
+        "Question": "After modification with phosphoric acid, how much did the adsorption capacity of bamboo charcoal for chlorogenic acid increase?",
+        "A": "4.68 times",
+        "B": "46.8 times",
+        "C": "468 times",
+        "D": "6.5 times",
+        "Answer": "B",
+        "Source": "Under these conditions, the adsorption capacity of the modified bamboo charcoal for chlorogenic acid reached 46.8 \u03bcg, which was 46.8 times that of ordinary bamboo charcoal."
+    },
+    "Question_6": {
+        "Context": "Infrared spectroscopy can be used to identify the presence of certain types of chemical bonds in a substance based on characteristic absorption bands.",
+        "Question": "What does an absorption band above 3000 cm\u22121 in the IR spectrum typically indicate?",
+        "A": "Presence of saturated hydrocarbons",
+        "B": "Presence of unsaturated hydrocarbons",
+        "C": "Presence of aromatic compounds",
+        "D": "Presence of inorganic salts",
+        "Answer": "B",
+        "Source": "Above the wavenumber of 3000 cm\u22121, absorption due to C\u2013H stretching vibrations indicates the presence of unsaturated hydrocarbons."
+    },
+    "Question_7": {
+        "Context": "The Barrett\u2013Joyner\u2013Halenda (BJH) method is used to analyze the pore size distribution of materials, which is crucial for understanding their adsorption properties.",
+        "Question": "What type of isotherm is associated with the adsorption\u2013desorption curves of modified bamboo charcoal?",
+        "A": "Type I isotherm",
+        "B": "Type II isotherm",
+        "C": "Type III isotherm",
+        "D": "Type IV isotherm",
+        "Answer": "A",
+        "Source": "Figure (d), by contrast, represents the adsorption\u2013desorption isothermal curves of modified bamboo charcoal, conforming to the Type I isotherm."
+    },
+    "Question_8": {
+        "Context": "X-ray Photoelectron Spectroscopy (XPS) is a surface-sensitive quantitative spectroscopic technique that measures the elemental composition, empirical formula, chemical state, and electronic state of the elements within a material.",
+        "Question": "What elements and functional groups were identified on the surface of modified bamboo charcoal using XPS analysis?",
+        "A": "Nitrogen, sulfur, and amino groups",
+        "B": "Oxygen, phosphorus, and phosphate groups",
+        "C": "Carbon, hydrogen, and alkyl groups",
+        "D": "Silicon, aluminum, and silicate groups",
+        "Answer": "B",
+        "Source": "The C 1s spectrum (b) shows that the energy levels of C\u2013C, C\u2013O, and O=C\u2013O are 283.3, 285.1, and 288.0 eV, respectively. The O 1s spectrum (c) shows energy levels of 530.2, 531.4, and 533.1 eV for C=O, C\u2013O/P\u2013O, and C\u2013OH, respectively. The P 2p spectrum (d) shows an energy level of 133.2 eV for phosphate."
+    },
+    "Question_9": {
+        "Context": "Scanning Electron Microscopy (SEM) is a type of electron microscope that produces images of a sample by scanning it with a focused beam of electrons. The images can provide information about the sample's surface topography and composition.",
+        "Question": "What changes in surface topography were observed in bamboo charcoal after modification with phosphoric acid as seen in SEM analysis?",
+        "A": "Decreased number of pores and smoother surface",
+        "B": "Increased number of pores and rougher surface",
+        "C": "No significant change in the number of pores",
+        "D": "Formation of cracks and loss of structural integrity",
+        "Answer": "B",
+        "Source": "The modification of bamboo charcoal with phosphoric acid resulted in a rougher surface texture, increased debris within the voids, and a proliferation of porous structures distributed along the walls of existing pores."
+    },
+    "Question_10": {
+        "Context": "Density Functional Theory (DFT) calculations can be used to predict the interaction energy between molecules, which is important for understanding adsorption mechanisms.",
+        "Question": "What type of interaction primarily occurs between chlorogenic acid molecules and modified bamboo charcoal according to DFT calculations?",
+        "A": "Ionic bonding",
+        "B": "Covalent bonding",
+        "C": "Metallic bonding",
+        "D": "Hydrogen bonding",
+        "Answer": "D",
+        "Source": "The interaction between the chlorogenic acid molecule and the modified bamboo charcoal module primarily involves hydrogen bonding."
+    }
+}

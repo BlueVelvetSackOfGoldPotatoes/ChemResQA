@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Radionuclides are used in nuclear medicine for various applications including diagnostics and therapy. Certain radionuclides are preferred for positron emission tomography (PET) due to their decay properties.",
+        "Question": "Which radionuclide is commonly used for PET imaging due to its pure positron-emitting characteristics?",
+        "A": "64Cu",
+        "B": "18F",
+        "C": "111In",
+        "D": "90Y",
+        "Answer": "B",
+        "Source": "The most frequently used PET radionuclides are the pure positron-emitters 18F and 11C, which can be produced at medical cyclotrons."
+    },
+    "Question_2": {
+        "Context": "In nuclear medicine, specific radionuclides are used for single photon emission computed tomography (SPECT) due to their emission properties.",
+        "Question": "Which radionuclide is widely used for SPECT imaging?",
+        "A": "68Ga",
+        "B": "225Ac",
+        "C": "111In",
+        "D": "64Cu",
+        "Answer": "C",
+        "Source": "Also, 68 Ga and 111In are used widely for positron emission tomography (PET) and single photon emission computed tomography (SPECT), respectively."
+    },
+    "Question_3": {
+        "Context": "Theranostic applications in nuclear medicine utilize radionuclides that can be used for both diagnostic and therapeutic purposes.",
+        "Question": "Which of the following radionuclides is suitable for theranostic applications and can be used for PET imaging?",
+        "A": "43Sc",
+        "B": "47Sc",
+        "C": "52Mn",
+        "D": "225Ac",
+        "Answer": "A",
+        "Source": "Scandium presents three radioisotopes for theranostic application. 43Sc (T1/2 = 3.89 h, \u03b2+ = 88.1%, < E\u03b2+ > = 476 keV) and 44Sc (T1/2 = 4.04 h, \u03b2+ = 94.3%, < E\u03b2+ > = 632 ke V) can both be used for PET, while 47Sc (T1/2 = 3.35 d, \u03b2\u2212 = 100%, < E\u03b2- > = 162 keV) is the therapeutic match\u2014also suitable for SPECT (E\u03b3 = 159 keV (68.3%))."
+    },
+    "Question_4": {
+        "Context": "Certain radionuclides are used in nuclear medicine for \u03b2\u2212-radionuclide therapy due to their decay characteristics and emission of electrons.",
+        "Question": "Which radionuclide is used for \u03b2\u2212-radionuclide therapy?",
+        "A": "43Sc",
+        "B": "47Sc",
+        "C": "52Mn",
+        "D": "225Ac",
+        "Answer": "B",
+        "Source": "43Sc and 44Sc can be radiolabelled with macrocyclic chelators, e.g. DOTA or other chelators such as NODAGA, AAZTA, pypa, mpatcn, etc., but 47Sc\u2014with macrocyclic chelators, in particular DOTA. Currently, 44Sc is most advanced in terms of production, as well as with pre-clinical investigations, and has already been employed in proof-of-concept studies in patients."
+    },
+    "Question_5": {
+        "Context": "In the development of novel radiopharmaceuticals, the selection of radionuclides is crucial. Some radionuclides offer the potential for both diagnostic and therapeutic applications.",
+        "Question": "Which radionuclide is being investigated for its potential as a therapeutic \u03b2\u2212 emitter with additional \u03b3-ray emission useful for SPECT imaging?",
+        "A": "43Sc",
+        "B": "47Sc",
+        "C": "52Mn",
+        "D": "67Cu",
+        "Answer": "D",
+        "Source": "Copper-67 (T1/2 = 61.83 h, \u03b2\u2212 = 100%, < E\u03b2- > = 145 keV) is an emerging \u03b2\u2212 emitter of interest for therapy with \u03b3-emission usable for SPECT/CT (E\u03b3 = 91.3 and 93.3 keV (21.1%) and E\u03b3 = 185 keV (44.2%)) that forms a theranostic pair together with 64Cu."
+    },
+    "Question_6": {
+        "Context": "The use of radionuclides in brachytherapy involves the placement of radioactive sources close to the area requiring treatment. Certain radionuclides are developed for this purpose.",
+        "Question": "Which radionuclide is used in the development of a new concept for brachytherapy based on gold\u2013palladium alloy nanoparticles?",
+        "A": "103Pd",
+        "B": "111Ag",
+        "C": "128Cs",
+        "D": "135La",
+        "Answer": "A",
+        "Source": "Palladium-103 (T1/2 = 17.0 d, 100% electron capture, EX-ray \u2248 20 keV (64.9%) and EX-ray \u2248 23 keV (12%)) is used in the development of a new concept for brachytherapy, based on gold\u2013palladium (AuPd) alloy nanoparticles, intrinsically radiolabeled with 103Pd."
+    },
+    "Question_7": {
+        "Context": "Radiosynovectomy is a medical procedure that involves the intra-articular injection of a \u03b2\u2212-emitting radionuclide to treat joint conditions. This treatment relies on the phagocytic cells absorbing the radionuclide and transmitting the radioactivity to the synovium.",
+        "Question": "Which radionuclide labeled hydroxyapatite particles have been studied preclinically for radiosynovectomy?",
+        "A": "103Pd",
+        "B": "111Ag",
+        "C": "128Cs",
+        "D": "135La",
+        "Answer": "B",
+        "Source": "Silver-111 (T1/2 = 7.45 d, \u03b2\u2212 = 100%, < E\u03b2- > = 350 keV) labeled hydroxyapatite particles have been studied preclinically for radiosynovectomy."
+    },
+    "Question_8": {
+        "Context": "Radionuclides with short half-lives can be advantageous for certain medical applications due to the reduced radiation exposure over time.",
+        "Question": "Which radionuclide with a short half-life is of interest for application in PET?",
+        "A": "103Pd",
+        "B": "111Ag",
+        "C": "128Cs",
+        "D": "135La",
+        "Answer": "C",
+        "Source": "Caesium-128 (T1/2 = 3.66 min, \u03b2+ = 68.8%, < E\u03b2+ > = 1260 keV) is a short half-life radionuclide with high potential for application in PET."
+    },
+    "Question_9": {
+        "Context": "Radionuclides that emit Auger electrons are of interest for therapeutic applications due to their high linear energy transfer and short range in tissue, which can be effective for treating small metastases and single cancer cells.",
+        "Question": "Which radionuclide is proposed as a therapeutic Auger electron emitter with suitable x-rays emissions for SPECT imaging?",
+        "A": "103Pd",
+        "B": "111Ag",
+        "C": "128Cs",
+        "D": "135La",
+        "Answer": "D",
+        "Source": "Lanthanum-135 (T1/2 = 18.9 h, 100% electron capture (94.6% Auger electrons), EAuger e- = 2.66\u20135.97 keV (77.6%)) is a radiolanthanide, usually in trivalent state. 135La can be chelated e.g. with DTPA or DOTA. It has been proposed as a therapeutic Auger electron emitter and has suitable x-rays emissions for SPECT imaging (EX-ray \u2248 32 keV (61.3%) and EX-ray \u2248 37 keV (13.4%)) using low energy detectors."
+    },
+    "Question_10": {
+        "Context": "M\u00f6\u00dfbauer spectroscopy is a highly sensitive technique used to characterize the chemical state and chemical environment of elements bound in solids or frozen ex vivo samples.",
+        "Question": "Which radionuclide is suited as a source for M\u00f6\u00dfbauer spectroscopy?",
+        "A": "153Sm",
+        "B": "161Tb",
+        "C": "165Tm",
+        "D": "169Er",
+        "Answer": "A",
+        "Source": "Samarium-153 (T1/2 = 46.28 h, \u03b2\u2212 = 100%, < E\u03b2- > = 225 keV) is suited as a source for M\u00f6\u00dfbauer spectroscopy, a highly sensitive technique to characterize the chemical state and chemical environment of samarium bound in solids or frozen ex vivo samples."
+    }
+}

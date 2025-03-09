@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Permanent Rare Earth magnets are used in various applications due to their high magnetic performance. NdFeB magnets, in particular, are known for their high remanence, coercivity, and energy product, which are desirable properties in efficient motors and generators.",
+        "Question": "What is a disadvantage of NdFeB magnets that affects their durability?",
+        "A": "Low coercivity",
+        "B": "Poor corrosion resistance",
+        "C": "Low remanence",
+        "D": "Low energy product",
+        "Answer": "B",
+        "Source": "Among them NdFeB magnets are the most employed, with NdFeB having higher remanence, high coercivity and energy product. Nevertheless, their poor corrosion resistance makes them susceptible to degradation of the magnetic properties."
+    },
+    "Question_2": {
+        "Context": "To protect NdFeB magnets from corrosion and to shape them into various geometries, a method involves embedding NdFeB powders in a polymeric matrix. This approach allows for the creation of composite materials that can be used in additive manufacturing processes such as 3D printing.",
+        "Question": "What is the purpose of embedding NdFeB powders in a polymeric matrix?",
+        "A": "To increase the energy product of the magnet",
+        "B": "To enhance the magnetic properties of the polymer",
+        "C": "To protect the magnetic alloy from corrosion",
+        "D": "To reduce the weight of the magnet",
+        "Answer": "C",
+        "Source": "One possible solution is the development of innovative polymeric composite magnetic materials. The preparation of NdFeB powders filled polymeric matrix (PEEK), with a double goal of protecting the magnetic alloy is proposed, thus preventing it from corrosion, and to realize a new material that can be shaped in the form of filaments."
+    },
+    "Question_3": {
+        "Context": "Polyether ether ketone (PEEK) is a high-performance thermoplastic with desirable properties for engineering applications, including high thermal stability and mechanical strength.",
+        "Question": "What is the glass transition temperature range for PEEK?",
+        "A": "Around 143 \u00b0C",
+        "B": "Around 100 \u00b0C",
+        "C": "Around 200 \u00b0C",
+        "D": "Around 250 \u00b0C",
+        "Answer": "A",
+        "Source": "PEEK has a glass transition temperature of around 143 \u00b0C and melting temperature of 343 \u00b0C and an onset of decomposition temperature between 575 and 580 \u00b0C."
+    },
+    "Question_4": {
+        "Context": "The mechanical properties of a material are crucial for its performance in applications. The Young's modulus is a measure of a material's stiffness and is represented by the initial slope of the stress-strain curve in the elastic region.",
+        "Question": "What is the Young's modulus range for PEEK?",
+        "A": "1.5 to 2.5 GPa",
+        "B": "2.5 to 3.5 GPa",
+        "C": "3.6 to 4.6 GPa",
+        "D": "4.6 to 5.6 GPa",
+        "Answer": "C",
+        "Source": "The Young\u2019s modulus is 3.6 GPa and its tensile strength 90 to 100 MPa."
+    },
+    "Question_5": {
+        "Context": "The tensile strength of a material is a measure of the maximum amount of tensile stress that it can take before failure. For thermoplastic polymers like PEEK, this property is important for determining how the material will perform under mechanical loads.",
+        "Question": "What is the tensile strength range for PEEK?",
+        "A": "40 to 50 MPa",
+        "B": "60 to 70 MPa",
+        "C": "70 to 80 MPa",
+        "D": "90 to 100 MPa",
+        "Answer": "D",
+        "Source": "The Young\u2019s modulus is 3.6 GPa and its tensile strength 90 to 100 MPa."
+    },
+    "Question_6": {
+        "Context": "The preparation of composite materials often involves the mixing of a polymeric matrix with a filler to achieve desired properties. The melt flow index (MFI) is a measure of the flowability of the polymer melt and is inversely related to the melt viscosity.",
+        "Question": "How does the addition of NdFeB filler to PEEK affect the melt flow index (MFI) of the composite?",
+        "A": "It increases the MFI significantly",
+        "B": "It does not affect the MFI",
+        "C": "It decreases the MFI slightly",
+        "D": "It decreases the MFI significantly",
+        "Answer": "D",
+        "Source": "The MFI parameter is related to the viscosity of the material under test and the lower, the higher the viscosity of the polymer. Therefore, as it is possible to observe from the results reported in Table 2 reveal, the decrease of MFI at increasing filler amount can be associated to an increase of the viscosity."
+    },
+    "Question_7": {
+        "Context": "The degree of crystallinity in polymers affects their mechanical and thermal properties. Differential scanning calorimetry (DSC) is a thermal analysis technique used to measure the crystallinity of polymers by assessing the heat flow associated with melting and crystallization transitions.",
+        "Question": "What effect does the presence of NdFeB filler have on the degree of crystallinity in PEEK?",
+        "A": "It increases the degree of crystallinity",
+        "B": "It has no effect on the degree of crystallinity",
+        "C": "It decreases the degree of crystallinity slightly",
+        "D": "It decreases the degree of crystallinity significantly",
+        "Answer": "D",
+        "Source": "The second melting (XmII) and cooling cycle (Xc) evidenced the influence of filler on crystallinity, as it decreases with increasing filler content."
+    },
+    "Question_8": {
+        "Context": "The thermal stability of a material is an important factor in determining its suitability for high-temperature applications. Thermogravimetric analysis (TGA) measures the change in weight of a material as a function of temperature and can be used to assess thermal stability.",
+        "Question": "At what temperature range does PEEK begin to decompose according to TGA analysis?",
+        "A": "Between 550 and 560 \u00b0C",
+        "B": "Between 575 and 580 \u00b0C",
+        "C": "Between 600 and 610 \u00b0C",
+        "D": "Between 620 and 630 \u00b0C",
+        "Answer": "B",
+        "Source": "PEEK has a glass transition temperature of around 143 \u00b0C and melting temperature of 343 \u00b0C and an onset of decomposition temperature between 575 and 580 \u00b0C."
+    },
+    "Question_9": {
+        "Context": "The tensile properties of materials are often evaluated using tensile testing, which measures properties such as tensile strength, elastic modulus, and elongation at break. These properties are indicative of the material's behavior under tensile loads.",
+        "Question": "What is the effect of increasing NdFeB filler content on the tensile properties of PEEK composites?",
+        "A": "Increases tensile strength and elongation at break",
+        "B": "Decreases tensile strength and increases elongation at break",
+        "C": "Increases tensile strength and decreases elongation at break",
+        "D": "Decreases tensile strength and elongation at break",
+        "Answer": "D",
+        "Source": "As the addition of filler is increased, the Modulus of elasticity (E) also shows an increase. Consequently, the elongation at break decreases with increasing amount of particles, as the presence of the particles hinder the chain elongation in the direction of the applied load."
+    },
+    "Question_10": {
+        "Context": "Magnetic properties such as remanence (Br) and coercivity (Hcj) are important for the performance of permanent magnets. These properties can be influenced by the composition and processing of the magnetic materials.",
+        "Question": "What is the expected effect on the coercivity (Hcj) of NdFeB when incorporated into a PEEK matrix for 3D printed magnets?",
+        "A": "It significantly increases",
+        "B": "It remains approximately the same",
+        "C": "It decreases slightly",
+        "D": "It decreases significantly",
+        "Answer": "B",
+        "Source": "Coercitivity was found to be much lower in PEEK_50NdFeB printed parts with respect to PEEK_25NdFeB samples that, instead, confirmed the value of coercitivity expected for the powders (roughly 440 kA/m according to the supplier datasheet). Coercitivity, though, is not affected by the porosity of the samples, as it is an intrinsic property of the materials."
+    }
+}

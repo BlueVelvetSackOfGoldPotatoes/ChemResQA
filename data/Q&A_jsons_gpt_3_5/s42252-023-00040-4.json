@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the importance of considering the functional unit in life cycle assessments of drone technologies.",
+        "Question": "What is a key element to establish a fair comparison between UAVs and ground vehicle deliveries?",
+        "A": "Cargo transportation",
+        "B": "Payload mass",
+        "C": "Distance covered by the delivery",
+        "D": "Number of deliveries and period",
+        "Answer": "D",
+        "Source": "The attention to the particularities associated with the different business models is a key element to establish a fair comparison between UAVs and ground vehicle deliveries."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the system boundary considerations in life cycle assessments of drone technologies.",
+        "Question": "What are the different system boundary considerations mentioned in the studies?",
+        "A": "Cradle-to-gate, gate-to-gate, and cradle-to-grave",
+        "B": "Cradle-to-gate, gate-to-grave, and cradle-to-cradle",
+        "C": "Cradle-to-gate, gate-to-gate, and gate-to-grave",
+        "D": "Cradle-to-cradle, gate-to-gate, and cradle-to-grave",
+        "Answer": "A",
+        "Source": "The system boundary considered in these studies is varied, from cradle-to-gate (2 papers), gate-to-gate (3 papers), and cradle-to-grave (2 papers)."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the temporal dimension considerations in life cycle assessments of drone technologies.",
+        "Question": "Why is the inclusion of temporal dimension important in life cycle assessments?",
+        "A": "To increase complexity",
+        "B": "To ensure accurate outcomes",
+        "C": "To simplify the analysis",
+        "D": "To speed up the process",
+        "Answer": "B",
+        "Source": "Neglecting timing in the analysis can influence outcomes and is related to the functional unit. Varying from one delivery being performed to one day of deliveries, to deliveries made under the drone\u2019s life span and finally, the deliveries made under a motorcycle/truck lifespan can differ significantly in terms of materials input that a poor decision at an early stage of the analysis can potentially lead to bogus outcomes."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the importance of considering the functional unit in life cycle assessments of drone technologies.",
+        "Question": "What is a key consequence of the functional unit choice in life cycle assessments?",
+        "A": "Influences the system boundary",
+        "B": "Affects the LCA inputs",
+        "C": "Determines the study methodology",
+        "D": "Impacts the data collection process",
+        "Answer": "B",
+        "Source": "The functional unit has major consequences for the LCA inputs, and there is currently no consistency across key studies."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the challenges and considerations for future studies in life cycle assessments of drone technologies.",
+        "Question": "What is recommended for researchers and practitioners to start with when conducting new studies?",
+        "A": "Conducting gate-to-gate studies",
+        "B": "Applying a consequential modelling approach",
+        "C": "Using primary data for accuracy",
+        "D": "Developing new studies to examine circularity",
+        "Answer": "A",
+        "Source": "Researchers and practitioners should start with simple studies such as gate-to-gate and build from there to allow for high-quality data collection and apply appropriate system boundaries and selection of impact categories."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the challenges and considerations for future studies in life cycle assessments of drone technologies.",
+        "Question": "What is a key challenge highlighted in the paper regarding obtaining data for life cycle assessments?",
+        "A": "Lack of transparency in the data",
+        "B": "Uncertainty about future scenario modelling",
+        "C": "Difficulty in comparing different assessments",
+        "D": "Constraints in searching for input/output information",
+        "Answer": "D",
+        "Source": "These constraints constitute the barriers researchers face when searching for input/output information during the LCI."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the importance of considering the functional unit in life cycle assessments of drone technologies.",
+        "Question": "What is a key element to establish a fair comparison between UAVs and ground vehicle deliveries?",
+        "A": "Cargo transportation",
+        "B": "Payload mass",
+        "C": "Distance covered by the delivery",
+        "D": "Number of deliveries and period",
+        "Answer": "D",
+        "Source": "The attention to the particularities associated with the different business models is a key element to establish a fair comparison between UAVs and ground vehicle deliveries."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the system boundary considerations in life cycle assessments of drone technologies.",
+        "Question": "What are the different system boundary considerations mentioned in the studies?",
+        "A": "Cradle-to-gate, gate-to-gate, and cradle-to-grave",
+        "B": "Cradle-to-gate, gate-to-grave, and cradle-to-cradle",
+        "C": "Cradle-to-gate, gate-to-gate, and gate-to-grave",
+        "D": "Cradle-to-cradle, gate-to-gate, and cradle-to-grave",
+        "Answer": "A",
+        "Source": "The system boundary considered in these studies is varied, from cradle-to-gate (2 papers), gate-to-gate (3 papers), and cradle-to-grave (2 papers)."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the temporal dimension considerations in life cycle assessments of drone technologies.",
+        "Question": "Why is the inclusion of temporal dimension important in life cycle assessments?",
+        "A": "To increase complexity",
+        "B": "To ensure accurate outcomes",
+        "C": "To simplify the analysis",
+        "D": "To speed up the process",
+        "Answer": "B",
+        "Source": "Neglecting timing in the analysis can influence outcomes and is related to the functional unit. Varying from one delivery being performed to one day of deliveries, to deliveries made under the drone\u2019s life span and finally, the deliveries made under a motorcycle/truck lifespan can differ significantly in terms of materials input that a poor decision at an early stage of the analysis can potentially lead to bogus outcomes."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the importance of considering the functional unit in life cycle assessments of drone technologies.",
+        "Question": "What is a key consequence of the functional unit choice in life cycle assessments?",
+        "A": "Influences the system boundary",
+        "B": "Affects the LCA inputs",
+        "C": "Determines the study methodology",
+        "D": "Impacts the data collection process",
+        "Answer": "B",
+        "Source": "The functional unit has major consequences for the LCA inputs, and there is currently no consistency across key studies."
+    }
+}

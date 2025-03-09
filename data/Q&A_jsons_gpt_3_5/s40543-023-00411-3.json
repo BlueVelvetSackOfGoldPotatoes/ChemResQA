@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Details about the synthesis of small molecule derivatives targeting Plk1.",
+        "Question": "What was the starting compound used for the synthesis of the small molecule derivatives targeting Plk1?",
+        "A": "Pyrazole aldehyde",
+        "B": "Amine hydrochloride",
+        "C": "4-(Fmoc-aminomethyl)benzoic acid",
+        "D": "4-(Boc-amino)benzoic acid",
+        "Answer": "A",
+        "Source": "To a stirred solution of pyrazole aldehyde in anhydrous DMF was added slowly to a stirred solution of 2-(Boc-amino)ethyl bromide."
+    },
+    "Question_2": {
+        "Context": "Results of the HeLa cancer cell viability assay by MTT.",
+        "Question": "What was the IC50 value of derivative 1 in inhibiting the proliferation of HeLa cancer cells?",
+        "A": "25 \u03bcM",
+        "B": "50 \u03bcM",
+        "C": "100 \u03bcM",
+        "D": "272 \u03bcM",
+        "Answer": "D",
+        "Source": "As the concentration of 1 increased, the viability of tumor cells decreased, and the IC50 value was approximately 272 \u03bcM."
+    },
+    "Question_3": {
+        "Context": "Findings related to the effect of small molecule inhibitors on cell apoptosis in HeLa cancer cells.",
+        "Question": "Which small molecule inhibitor induced apoptosis in tumor cells after 48 hours?",
+        "A": "BI2536",
+        "B": "Derivative 1",
+        "C": "Derivative 2",
+        "D": "Derivative 3",
+        "Answer": "B",
+        "Source": "In particular, significant images were obtained at 48 h. BI2536 showed apoptosis effect of 27.1 \u00b1 4.8% at 24 h and 80.2 \u00b1 5.3% at 48 h, and similarly 1 showed 12.4 \u00b1 4.4% at 24 h and 59 \u00b1 4.9% at 48 h."
+    },
+    "Question_4": {
+        "Context": "In vivo biological effect of small molecule inhibitors for cancer therapy.",
+        "Question": "Which group showed a significant decrease in tumor size compared to the control group?",
+        "A": "Control group",
+        "B": "BI2536 treated group",
+        "C": "Group 1",
+        "D": "Group 3",
+        "Answer": "B",
+        "Source": "Compared with the control group, the groups treated with BI2536 and 1 showed a significant decrease in tumor size."
+    },
+    "Question_5": {
+        "Context": "Details about the development of inhibitors targeting the C-terminal PBD of Plk1.",
+        "Question": "What is the main focus of the study regarding the development of inhibitors targeting Plk1?",
+        "A": "Targeting the N-terminal kinase domain",
+        "B": "Targeting the C-terminal PBD",
+        "C": "Targeting the ATP-binding site",
+        "D": "Targeting the polo-box domain",
+        "Answer": "B",
+        "Source": "Therefore, we aimed to develop an inhibitor targeting the C-terminal PBD present only in Plk1."
+    },
+    "Question_6": {
+        "Context": "Details about the synthesis of small molecule derivatives targeting Plk1.",
+        "Question": "What was the key reagent used in the synthesis of derivative 2?",
+        "A": "Barbituric acid",
+        "B": "TFA",
+        "C": "EDCI",
+        "D": "HOBt",
+        "Answer": "A",
+        "Source": "To the reactant 10 in methanol, barbituric acid was added and refluxed for 16 h to yield derivative 2."
+    },
+    "Question_7": {
+        "Context": "Results of the HeLa cancer cell viability assay by MTT.",
+        "Question": "Which concentration of the derivatives showed the highest inhibition of HeLa cancer cell proliferation?",
+        "A": "25 \u03bcM",
+        "B": "50 \u03bcM",
+        "C": "100 \u03bcM",
+        "D": "200 \u03bcM",
+        "Answer": "D",
+        "Source": "The cells were exposed to different concentrations of the derivatives (25, 50, 100, and 200 \u03bcM), and the highest inhibition was observed at 200 \u03bcM."
+    },
+    "Question_8": {
+        "Context": "Findings related to the effect of small molecule inhibitors on cell apoptosis in HeLa cancer cells.",
+        "Question": "Which derivative showed the highest percentage of apoptosis in tumor cells at 24 hours?",
+        "A": "BI2536",
+        "B": "Derivative 1",
+        "C": "Derivative 2",
+        "D": "Derivative 3",
+        "Answer": "A",
+        "Source": "BI2536 showed apoptosis effect of 27.1 \u00b1 4.8% at 24 h, which was the highest percentage observed at that time point."
+    },
+    "Question_9": {
+        "Context": "In vivo biological effect of small molecule inhibitors for cancer therapy.",
+        "Question": "Which compound was administered via tail vein injection for tumor treatment?",
+        "A": "PBS",
+        "B": "BI2536",
+        "C": "Derivative 1",
+        "D": "DMSO",
+        "Answer": "C",
+        "Source": "Groups 2 and 3 were treated with BI2536 and 1, respectively, via tail vein injection for 21 days."
+    },
+    "Question_10": {
+        "Context": "Details about the development of inhibitors targeting the C-terminal PBD of Plk1.",
+        "Question": "What was the yield percentage of the purified compound targeting the C-terminal PBD?",
+        "A": "50%",
+        "B": "59%",
+        "C": "70%",
+        "D": "96%",
+        "Answer": "B",
+        "Source": "The crude product was purified via silica gel column chromatography to obtain the compound as a yellow colored solid with a yield of 59%."
+    }
+}

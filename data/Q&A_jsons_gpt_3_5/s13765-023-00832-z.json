@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the anti-H. pylori activity of rutin and rutin nanocrystals (RNCs).",
+        "Question": "What was the inhibition zone (IZ) of RNCs against Helicobacter pylori compared to rutin and the standard control?",
+        "A": "18 mm",
+        "B": "19.5 mm",
+        "C": "22.67 mm",
+        "D": "27 nm",
+        "Answer": "C",
+        "Source": "RNCs exhibited anti-H. pylori activity with a significantly (p < 0.05) inhibition zone of 22.67 mm while rutin exhibited less inhibition zone of 18 mm and the standard control had an inhibition zone of 19.5 mm."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) of rutin and RNCs against H. pylori.",
+        "Question": "What was the MIC of RNCs against Helicobacter pylori?",
+        "A": "7.8 \u00b5g/mL",
+        "B": "18 mm",
+        "C": "62.5 \u00b5g/mL",
+        "D": "27 nm",
+        "Answer": "A",
+        "Source": "MIC and MBC of RNCs (7.8 \u00b5g/mL) were less than MIC and MBC of rutin (62.5 \u00b5g/mL)."
+    },
+    "Question_3": {
+        "Context": "The study assessed the anti-biofilm activity of rutin and RNCs against Helicobacter pylori.",
+        "Question": "What was the biofilm inhibition percentage of RNCs at 75% of the minimum bactericidal concentration (MBC)?",
+        "A": "64.59%",
+        "B": "71.52%",
+        "C": "85.43%",
+        "D": "92.12%",
+        "Answer": "D",
+        "Source": "Biofilm formation of H. pylori was more affected by RNCs compared to rutin at all used doses of MBC, where at 75% of MBC, the anti-biofilm percentage was 92.12% using RNCs."
+    },
+    "Question_4": {
+        "Context": "The study investigated the urease inhibition activity of rutin and RNCs against Helicobacter pylori.",
+        "Question": "What was the IC50 value of rutin for urease inhibition?",
+        "A": "6.85 \u00b5g/mL",
+        "B": "18.15 \u00b5g/mL",
+        "C": "7.8 \u00b5g/mL",
+        "D": "62.5 \u00b5g/mL",
+        "Answer": "B",
+        "Source": "Promising IC50 (6.85 \u00b5g/mL) was recorded for urease inhibition using RNCs while rutin exhibited an IC50 value of 97.8 \u00b5g/mL."
+    },
+    "Question_5": {
+        "Context": "The study examined the cytotoxicity of rutin and RNCs against HT-29 cells.",
+        "Question": "What was the IC50 value of rutin against HT-29 cells?",
+        "A": "168.23 \u00b1 1.15 \u00b5g/mL",
+        "B": "184.96 \u00b1 4.33 \u00b5g/mL",
+        "C": "297.69 \u00b1 4.23 \u00b5g/mL",
+        "D": "335.31 \u00b1 2.02 \u00b5g/mL",
+        "Answer": "B",
+        "Source": "The IC50 value of rutin against HT-29 cells was 184.96 \u00b1 4.33 \u00b5g/mL."
+    },
+    "Question_6": {
+        "Context": "The study investigated the hemolysis inhibition activity of rutin and RNCs.",
+        "Question": "What was the hemolysis inhibition percentage of RNCs at 800 \u00b5g/mL?",
+        "A": "77.3%",
+        "B": "81.9%",
+        "C": "87.8%",
+        "D": "93.9%",
+        "Answer": "B",
+        "Source": "Different percentages (72.2, 77.3, 81.9, 87.8, 93.9, and 99.9%) of hemolysis inhibition were recorded using RNCs at various concentrations, including 800 \u00b5g/mL."
+    },
+    "Question_7": {
+        "Context": "The study assessed the butyrylcholinesterase inhibition activity of rutin and RNCs.",
+        "Question": "What was the IC50 value of RNCs for butyrylcholinesterase inhibition?",
+        "A": "12.74 \u00b5g/mL",
+        "B": "18.15 \u00b5g/mL",
+        "C": "7.8 \u00b5g/mL",
+        "D": "62.5 \u00b5g/mL",
+        "Answer": "A",
+        "Source": "RNCs exhibited a lower IC50 value of 12.74 \u00b5g/mL for butyrylcholinesterase inhibition compared to the IC50 of rutin, which was 18.15 \u00b5g/mL."
+    },
+    "Question_8": {
+        "Context": "The study conducted molecular docking experiments of rutin with specific proteins.",
+        "Question": "What was the binding score of rutin with the crystal structure of H. pylori (PDB code: 4HI0)?",
+        "A": "-7.47778 kcal/mol",
+        "B": "-7.68511 kcal/mol",
+        "C": "-9.50333 kcal/mol",
+        "D": "-12.0 kcal/mol",
+        "Answer": "A",
+        "Source": "Rutin has predicted strong binding interactions against the examined protein 4HI0 with a low binding score of -7.47778 kcal/mol."
+    },
+    "Question_9": {
+        "Context": "The study performed molecular docking experiments of rutin with specific proteins.",
+        "Question": "What was the binding score of rutin with the crystal structure of colon cancer (PDB code: 2HQ6)?",
+        "A": "-7.68511 kcal/mol",
+        "B": "-7.30962 kcal/mol",
+        "C": "-7.39895 kcal/mol",
+        "D": "-6.94588 kcal/mol",
+        "Answer": "A",
+        "Source": "Rutin exhibited a binding score of -7.68511 kcal/mol with the crystal structure of colon cancer (PDB code: 2HQ6)."
+    },
+    "Question_10": {
+        "Context": "The study conducted molecular docking experiments of rutin with specific proteins.",
+        "Question": "What was the binding score of rutin with the crystal structure of butyrylcholinesterase (PDB code: 6EMI)?",
+        "A": "-9.50333 kcal/mol",
+        "B": "-9.29916 kcal/mol",
+        "C": "-9.04007 kcal/mol",
+        "D": "-8.99539 kcal/mol",
+        "Answer": "A",
+        "Source": "Rutin exhibited a low binding score of -9.50333 kcal/mol with the crystal structure of butyrylcholinesterase (PDB code: 6EMI)."
+    }
+}

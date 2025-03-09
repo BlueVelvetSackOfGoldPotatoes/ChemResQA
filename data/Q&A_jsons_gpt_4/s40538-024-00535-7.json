@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the interactions between plants, insect herbivores, and pathogens, the host plants can influence the infectivity of pathogens targeting the herbivorous insects.",
+        "Question": "What role do host plants play in the interactions between insect herbivores and pathogens?",
+        "A": "Host plants provide a habitat for pathogens to thrive, independent of the herbivores.",
+        "B": "Host plants can modify the infectivity of pathogens that target herbivorous insects.",
+        "C": "Host plants have no significant role and do not interact with either herbivores or pathogens.",
+        "D": "Host plants solely act as a food source for herbivores and have no impact on pathogen infectivity.",
+        "Answer": "B",
+        "Source": "Plants play an important role in interactions between insect herbivores and their pathogens. The ability of host plants to modify the infectivity of entomopathogens in herbivorous insects has been widely documented."
+    },
+    "Question_2": {
+        "Context": "The nutritional components of host plants, such as nitrogen content, can affect the susceptibility of insect herbivores to pathogens.",
+        "Question": "How do the nutrients in host plants influence the susceptibility of insect herbivores to pathogens?",
+        "A": "Nutrients in host plants have no effect on the susceptibility of insect herbivores to pathogens.",
+        "B": "Nutrients in host plants can increase the mobility of insect herbivores, helping them avoid pathogens.",
+        "C": "Nutrients in host plants can contribute to variation in the susceptibility of insect herbivores to pathogens.",
+        "D": "Nutrients in host plants can attract more pathogens, increasing the susceptibility of insect herbivores.",
+        "Answer": "C",
+        "Source": "However, the plants\u2019 nutrients have always been neglected as a factor contributing to variation in the susceptibility of insect herbivores to entomopathogens."
+    },
+    "Question_3": {
+        "Context": "Insect herbivores can exhibit different responses to pathogens based on the nutrient components they consume from various host plants.",
+        "Question": "What correlation exists between the nutrient components of host plants and the biological responses of insect herbivores to pathogens?",
+        "A": "Higher nitrogen content in host plants correlates with increased susceptibility of herbivores to pathogens.",
+        "B": "Higher carbon content in host plants correlates with decreased susceptibility of herbivores to pathogens.",
+        "C": "Higher nitrogen content in host plants correlates with decreased susceptibility of herbivores to pathogens.",
+        "D": "There is no correlation between the nutrient components of host plants and the susceptibility of herbivores to pathogens.",
+        "Answer": "C",
+        "Source": "These biological parameters were positively correlated with the nitrogen components of host plant leaves."
+    },
+    "Question_4": {
+        "Context": "Antioxidant enzymes in insect herbivores, such as catalase (CAT) and peroxidase (POD), play a role in their defense against pathogens.",
+        "Question": "What is the function of antioxidant enzymes like CAT and POD in insect herbivores?",
+        "A": "They increase the production of pathogens within the insect herbivores.",
+        "B": "They contribute to the digestion of food in insect herbivores.",
+        "C": "They help in scavenging excess free radicals, providing a protective effect against pathogens.",
+        "D": "They suppress the immune system of insect herbivores, making them more susceptible to pathogens.",
+        "Answer": "C",
+        "Source": "However, insects possess a protective enzyme system consisting of SOD, POD, and CAT, which can scavenge excess free radicals."
+    },
+    "Question_5": {
+        "Context": "The carbon-to-nitrogen (C/N) ratio in the diet of insect herbivores can influence their growth and susceptibility to pathogens.",
+        "Question": "What effect does the carbon-to-nitrogen ratio in host plants have on insect herbivores?",
+        "A": "A higher C/N ratio leads to increased growth and reduced susceptibility to pathogens.",
+        "B": "A lower C/N ratio leads to decreased growth and increased susceptibility to pathogens.",
+        "C": "A higher C/N ratio leads to decreased growth and increased susceptibility to pathogens.",
+        "D": "The C/N ratio has no impact on the growth or susceptibility of insect herbivores to pathogens.",
+        "Answer": "C",
+        "Source": "The carbon-to-nitrogen ratio in plants was negatively correlated with partial biological parameters of infected larvae."
+    },
+    "Question_6": {
+        "Context": "Insect herbivores' tolerance to entomopathogens can be influenced by their dietary protein intake relative to carbohydrates.",
+        "Question": "How does dietary protein intake relative to carbohydrates affect insect herbivores' tolerance to entomopathogens?",
+        "A": "Increased dietary protein decreases host resistance to entomopathogens.",
+        "B": "Increased dietary protein has no effect on host resistance to entomopathogens.",
+        "C": "Increased dietary protein relative to carbohydrates can enhance survival against entomopathogens.",
+        "D": "Increased dietary carbohydrates relative to protein can enhance survival against entomopathogens.",
+        "Answer": "C",
+        "Source": "Increased dietary protein consumption relative to carbohydrates can enhance the survival of larval lepidopterans against baculoviruses."
+    },
+    "Question_7": {
+        "Context": "The fall webworm (FWW), Hyphantria cunea, is a polyphagous caterpillar that can feed on a variety of host plants, which may affect its susceptibility to the nucleopolyhedrovirus (NPV).",
+        "Question": "What is the significance of the fall webworm's polyphagous nature in relation to its susceptibility to nucleopolyhedrovirus?",
+        "A": "Being polyphagous limits the FWW's exposure to NPV, reducing its susceptibility.",
+        "B": "Being polyphagous allows the FWW to select host plants that enhance its susceptibility to NPV.",
+        "C": "Being polyphagous has no impact on the FWW's susceptibility to NPV.",
+        "D": "Being polyphagous allows the FWW to select host plants that may reduce its susceptibility to NPV.",
+        "Answer": "D",
+        "Source": "Due to its polyphagous traits, the larvae of the H. cunea could feed on nearly all deciduous tree species."
+    },
+    "Question_8": {
+        "Context": "Insect herbivores can defend themselves against pathogens through various enzyme systems, including catalase (CAT), prophenoloxidase (PPO), and peroxidase (POD).",
+        "Question": "Which enzymes are known to contribute to the defense against infections and pesticides in insect herbivores?",
+        "A": "Amylase and lipase",
+        "B": "Catalase, prophenoloxidase, and peroxidase",
+        "C": "Insulin and glucagon",
+        "D": "Hemoglobin and myoglobin",
+        "Answer": "B",
+        "Source": "Several insect enzymes, such as catalase (CAT), prophenoloxidase (PPO), and peroxidase (POD), contribute to defenses against infections and pesticides."
+    },
+    "Question_9": {
+        "Context": "The enzyme activity levels of catalase (CAT) and prophenoloxidase (PPO) can be significantly triggered by pathogen infection in insect herbivores.",
+        "Question": "What happens to the enzyme activity levels of CAT and PPO in insect herbivores upon pathogen infection?",
+        "A": "The enzyme activity levels of CAT and PPO decrease significantly.",
+        "B": "The enzyme activity levels of CAT and PPO increase significantly.",
+        "C": "The enzyme activity levels of CAT and PPO remain unchanged.",
+        "D": "The enzyme activity levels of CAT and PPO fluctuate unpredictably.",
+        "Answer": "B",
+        "Source": "HycuNPV infection significantly triggered the catalase (CAT) and prophenoloxidase (PPO) enzyme activity levels of H. cunea larvae."
+    },
+    "Question_10": {
+        "Context": "The survival rates and survival times of insect herbivores can be influenced by the nutrient components of the host plants they consume.",
+        "Question": "What is the relationship between the nutrient components of host plants and the survival rates and times of insect herbivores?",
+        "A": "Higher nutrient components in host plants lead to lower survival rates and shorter survival times.",
+        "B": "Lower nutrient components in host plants lead to higher survival rates and longer survival times.",
+        "C": "Higher nutrient components in host plants lead to higher survival rates and longer survival times.",
+        "D": "Nutrient components in host plants have no effect on survival rates and times.",
+        "Answer": "C",
+        "Source": "The nitrogen content in dietary was an essential factor in determining the insect herbivore susceptibility to entomopathogenic viruses."
+    }
+}

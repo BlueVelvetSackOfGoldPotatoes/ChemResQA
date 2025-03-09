@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Nano-enabled fertilizers can be synthesized using various procedures, one of which involves the impregnation of nanostructured materials with nutrient compounds.",
+        "Question": "What compounds were used to impregnate nanostructured date palm pits to synthesize nano-enabled fertilizers?",
+        "A": "NaCl and KNO3",
+        "B": "KH2PO4 and MgO",
+        "C": "NH4NO3 and CaCO3",
+        "D": "CuSO4 and ZnCl2",
+        "Answer": "B",
+        "Source": "The NEF (nDPF1and nDPF2) were prepared by impregnation of nanostructured date palm pits (nDPP) with (KH2PO4 + MgO) at 1:1 and 3:1 (w/w) ratios respectively."
+    },
+    "Question_2": {
+        "Context": "The release of nutrients from fertilizers can be characterized by different kinetic models, which describe the release patterns over time.",
+        "Question": "Which kinetic model was found to be the best suitable to describe the kinetics of P, K, and Mg release data from nano-enabled fertilizers in water and soil?",
+        "A": "First order",
+        "B": "Elovich",
+        "C": "Parabolic diffusion",
+        "D": "Power function",
+        "Answer": "D",
+        "Source": "The released kinetics data of the NEF revealed that power function was the best suitable model to describe the kinetics of P, K and Mg release data from NEF in water and soil."
+    },
+    "Question_3": {
+        "Context": "The interaction mechanisms of ions with surfaces can be elucidated using various analytical techniques, which reveal the nature of bonding and exchange processes.",
+        "Question": "What were the main interaction mechanisms suggested for the adsorption of PO4-K-Mg ions with nanostructured date palm pit surfaces?",
+        "A": "Covalent bonding and ionic exchange",
+        "B": "Hydrogen bonding and ligand exchange",
+        "C": "Van der Waals forces and covalent bonding",
+        "D": "Ionic exchange and Van der Waals forces",
+        "Answer": "B",
+        "Source": "Findings from FTIR and XPS analyses suggested that hydrogen bonding and ligand exchange were the main interaction mechanisms of PO4-K-Mg ions with nDPP surface."
+    },
+    "Question_4": {
+        "Context": "The use of agroindustry byproducts in the synthesis of nano-enabled fertilizers can contribute to environmental sustainability by repurposing waste materials.",
+        "Question": "What byproduct is used as a carrier in the synthesis of nano-enabled fertilizers to control the release of macronutrients?",
+        "A": "Rice husks",
+        "B": "Corn cobs",
+        "C": "Date palm pits",
+        "D": "Soybean shells",
+        "Answer": "C",
+        "Source": "The main goal of this study was to produce nano-enabled fertilizers- based green waste and to evaluate its nutrients release pattern and kinetics. This study is the first to investigate the potential of nanostructured date-pits as a carrier to control the macronutrients release and to provide low-cost and agro-ecological solution through the sustainable reuse of natural sources."
+    },
+    "Question_5": {
+        "Context": "The morphology and size of nanoparticles can be characterized using transmission electron microscopy, which provides insights into the physical properties of the nanostructured materials.",
+        "Question": "What was the observed size range of date palm pit nanoparticles as characterized by transmission electron microscopy?",
+        "A": "10-30 nm",
+        "B": "55-91 nm",
+        "C": "100-150 nm",
+        "D": "200-250 nm",
+        "Answer": "B",
+        "Source": "The TEM image of the nDPP (Fig. 2A) showed that the sizes of DPP nanoparticles range between 55.44 and 91.47 nm and are of non-spherical shape."
+    },
+    "Question_6": {
+        "Context": "The crystallinity of nanostructured materials can be determined using X-ray diffraction analysis, which reveals the presence of crystalline or amorphous domains.",
+        "Question": "What did the X-ray diffraction analysis reveal about the crystallinity of the nanostructured date palm pits?",
+        "A": "High crystallinity with distinct peaks",
+        "B": "Moderate crystallinity with some peaks",
+        "C": "Low crystallinity with few peaks",
+        "D": "Amorphous nature with no distinct peaks",
+        "Answer": "D",
+        "Source": "The XRD results of natural byproducts of date industry (date pits) in nanoscale (nDPP) are presented in Fig. 2B. No diffraction peaks analogous to crystallinity were observed, which evidently demonstrated the amorphous nature of DPP nanoparticles carrier."
+    },
+    "Question_7": {
+        "Context": "The water retention capacity of soil can be enhanced by the addition of certain materials, which can be crucial for maintaining moisture in arid conditions.",
+        "Question": "Which nano-enabled fertilizer showed the most effective enhancement in soil water retention capacity?",
+        "A": "nDPF1",
+        "B": "nDPF2",
+        "C": "Conventional fertilizer",
+        "D": "Both nDPF1 and nDPF2 equally",
+        "Answer": "B",
+        "Source": "The produced nano-fertilizers enhanced soil water retention capacity with nDPF2 being the most effective. The water retention capacity of nDPF2 treated soil was 5.6 times higher than that of soil treated with conventional fertilizers."
+    },
+    "Question_8": {
+        "Context": "The surface chemistry of nanostructured materials can be analyzed using X-ray photoelectron spectroscopy, which provides information about the elemental composition and chemical states.",
+        "Question": "According to X-ray photoelectron spectroscopy, which elements primarily composed the nanostructured date palm pit carrier?",
+        "A": "Carbon and Nitrogen",
+        "B": "Oxygen and Silicon",
+        "C": "Carbon and Oxygen",
+        "D": "Silicon and Nitrogen",
+        "Answer": "C",
+        "Source": "The full XPS spectra of nDPP display two distinct peaks: the O1s (533.44 eV) and Si2p (105.12 eV) (Fig. 5). The detailed O1s peaks at (531.6 eV) and (532.45 eV) were ascribed to organic C\u2013O and C=O, respectively."
+    },
+    "Question_9": {
+        "Context": "The functional groups present on the surface of nanostructured materials can be identified using Fourier transform infrared spectroscopy, which is crucial for understanding the interaction mechanisms with other substances.",
+        "Question": "What functional groups were identified on the nanostructured date palm pits surface that are involved in the adsorption of nutrients?",
+        "A": "Amino and carboxyl groups",
+        "B": "Hydroxyl and carbonyl groups",
+        "C": "Phosphate and sulfate groups",
+        "D": "Nitrate and chloride groups",
+        "Answer": "B",
+        "Source": "The FTIR spectrum of nDPP showed a broad strong band at 3290 cm\u22121 assigned to O\u2013H stretching vibration in association of hydrogen bonding with cellulose, lignin, and pectin... The strong bond at 1740 cm\u22121 is assigned to carbonyl stretch C=O of aliphatic esters which is abundant in hemicellulose."
+    },
+    "Question_10": {
+        "Context": "The stability of nanoparticles in dispersion can be indicated by the zeta potential, which measures the degree of repulsion between charged particles.",
+        "Question": "What was the zeta potential value of the nanostructured date palm pits indicating its surface charge and stability?",
+        "A": "+30.4 mV",
+        "B": "0 mV",
+        "C": "-30.4 mV",
+        "D": "+15.2 mV",
+        "Answer": "C",
+        "Source": "The negative zeta potential value (\u2212 30.4 mV) of nDPP indicates high negative surface charges and electrostatic stability."
+    }
+}

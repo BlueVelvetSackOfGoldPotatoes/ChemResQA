@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Microneedle electrodes are used to monitor bioelectrical signals and can penetrate the skin, offering advantages over surface electrodes.",
+        "Question": "What is the main advantage of microneedle electrodes (ME) compared to surface electrodes (SE)?",
+        "A": "ME can monitor a wider range of signals.",
+        "B": "ME can penetrate the skin to improve recording quality.",
+        "C": "ME are less expensive to produce.",
+        "D": "ME do not require any form of skin preparation.",
+        "Answer": "B",
+        "Source": "The microneedle electrode (ME) is an invasive dry electrode penetrating stratum corneum of the skin with a needle, so recording quality is improved compared with SE."
+    },
+    "Question_2": {
+        "Context": "In the context of microneedle fabrication, various materials can be used, each with their own advantages and limitations.",
+        "Question": "Which material is preferred for fabricating microneedles due to its biocompatibility and flexibility?",
+        "A": "Rigid materials",
+        "B": "Polymer",
+        "C": "Silicon",
+        "D": "Metal",
+        "Answer": "B",
+        "Source": "Accordingly, biocompatible and flexible materials such as polymer are preferred to fabricate microneedle."
+    },
+    "Question_3": {
+        "Context": "The shape and sharpness of microneedles are crucial for their performance, particularly in terms of penetration capability and minimizing tissue damage.",
+        "Question": "What aspect of a microneedle's shape is directly relevant to its penetration capability and secure implantation?",
+        "A": "The length of the microneedle",
+        "B": "The width of the microneedle base",
+        "C": "The needle bevel angle",
+        "D": "The curvature of the microneedle shaft",
+        "Answer": "C",
+        "Source": "The second one is that it is difficult to control the shape of microneedles including needle bevel which is directly relevant to penetration capability, secure after implantation, and tissue damage."
+    },
+    "Question_4": {
+        "Context": "3D printing technology has been applied to the fabrication of microneedles, offering the ability to control their shape.",
+        "Question": "Which 3D printing method uses a laser to harden a photocurable resin layer by layer?",
+        "A": "Fused Deposition Modeling (FDM)",
+        "B": "Digital Light Processing (DLP)",
+        "C": "Stereo Lithography Apparatus (SLA)",
+        "D": "Selective Laser Sintering (SLS)",
+        "Answer": "C",
+        "Source": "In this study, the SLA printing method was used to fabricate a 3D printed microneedle mold. SLA printing uses a laser to harden a photocurable resin."
+    },
+    "Question_5": {
+        "Context": "The resolution of 3D printed objects is an important factor, especially when fabricating delicate and small objects like microneedles.",
+        "Question": "What limits the resolution of the output in SLA 3D printing?",
+        "A": "The precision of the resin tank",
+        "B": "The size of the laser",
+        "C": "The speed of the printing process",
+        "D": "The type of photocurable resin used",
+        "Answer": "B",
+        "Source": "However, there is a limit to the resolution because the resolution of the output is determined by the size of the laser."
+    },
+    "Question_6": {
+        "Context": "Polyimide is a material used in the fabrication of microneedles due to its desirable properties.",
+        "Question": "What is one of the key advantages of using polyimide (PI) for microneedle fabrication?",
+        "A": "High electrical conductivity",
+        "B": "Excellent biocompatibility",
+        "C": "Natural degradability",
+        "D": "High thermal resistance",
+        "Answer": "B",
+        "Source": "Polyimide (PI) has excellent biocompatibility and excellent adhesion to metals."
+    },
+    "Question_7": {
+        "Context": "Aspect ratio is a significant parameter in the design of microneedles as it affects their performance.",
+        "Question": "What is the aspect ratio of commonly used microneedles?",
+        "A": "1:1 or lower",
+        "B": "2:1 or higher",
+        "C": "3:1 or higher",
+        "D": "4:1 or higher",
+        "Answer": "B",
+        "Source": "The aspect ratio of commonly used microneedles is 2:1 or higher."
+    },
+    "Question_8": {
+        "Context": "The penetration capability of microneedles can be tested using materials that mimic human skin.",
+        "Question": "Which material is often used for penetration testing of microneedles due to its similarity to human skin?",
+        "A": "Porcine skin",
+        "B": "Bovine hide",
+        "C": "Synthetic polymers",
+        "D": "Chicken skin",
+        "Answer": "A",
+        "Source": "Furthermore, the insertion test of the fabricated PI microneedle was conducted in porcine skin that has similar characteristics to human skin."
+    },
+    "Question_9": {
+        "Context": "The height implementation rate is a measure of how well the actual height of a fabricated microneedle matches the designed height.",
+        "Question": "What happens to the height implementation rate of a polyimide microneedle as the print height increases?",
+        "A": "It decreases significantly.",
+        "B": "It remains constant.",
+        "C": "It increases.",
+        "D": "It fluctuates unpredictably.",
+        "Answer": "C",
+        "Source": "As the height was increased, the aspect ratio was also increased, and showed the highest value when the height was 1000 \u03bcm."
+    },
+    "Question_10": {
+        "Context": "The bevel angle of a microneedle is an important factor that influences its ability to penetrate the skin.",
+        "Question": "What was the sharpest bevel angle achieved for a polyimide microneedle using a novel 3D printing fabrication process?",
+        "A": "50.8\u00b0",
+        "B": "54.5\u00b0",
+        "C": "66.2\u00b0",
+        "D": "89.5\u00b0",
+        "Answer": "B",
+        "Source": "The sharpest bevel angle was 54.5\u00b0 that was fabricated by the angle (\u03b1) at 40\u00b0."
+    }
+}

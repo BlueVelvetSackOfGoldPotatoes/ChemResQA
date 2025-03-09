@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the propagation of plane waves in a nonlocal magneto-thermoelastic semiconductor solid with rotation. Various reflected waves are identified when a longitudinal wave is incident on the surface z = 0. The effects of two temperatures, non-local parameter, fractional order parameter, and Hall current on wave characteristics are illustrated.",
+        "Question": "What are the four types of reflected coupled longitudinal waves identified in the study?",
+        "A": "Coupled longitudinal displacement wave, coupled thermal wave, coupled carrier density wave, coupled transverse displacement wave",
+        "B": "Coupled longitudinal wave, coupled thermal wave, coupled carrier wave, coupled transverse wave",
+        "C": "Coupled longitudinal wave, coupled thermal wave, coupled carrier density wave, coupled transverse wave",
+        "D": "Coupled longitudinal displacement wave, coupled thermal wave, coupled carrier wave, coupled transverse displacement wave",
+        "Answer": "A",
+        "Source": "When a longitudinal wave is incident on the surface z = 0, four types of reflected coupled longitudinal waves are identified: the coupled longitudinal displacement wave, the coupled thermal wave, coupled carrier density wave, and coupled transverse displacement wave."
+    },
+    "Question_2": {
+        "Context": "The study involves the fractional-order three-phase lag theory of thermoelasticity with two temperatures applied to a semiconductor medium. The effects of Hall current on wave characteristics are illustrated.",
+        "Question": "What is the fractional-order theory of thermoelasticity used in the study?",
+        "A": "Two-phase lag theory",
+        "B": "Three-phase lag theory",
+        "C": "Single-phase lag theory",
+        "D": "Dual-phase lag theory",
+        "Answer": "B",
+        "Source": "The study involves the fractional-order three-phase lag theory of thermoelasticity with two temperatures applied to a semiconductor medium."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the wave propagation in a semiconductor medium exposed to a strong magnetic field. The governing equations are expressed with the TPL-2T FOT of thermoelasticity.",
+        "Question": "What does TPL-2T FOT stand for in the study?",
+        "A": "Two-phase lag with two temperatures Fractional Order Theory",
+        "B": "Three-phase lag with two temperatures Fractional Order Theory",
+        "C": "Single-phase lag with two temperatures Fractional Order Theory",
+        "D": "Dual-phase lag with two temperatures Fractional Order Theory",
+        "Answer": "B",
+        "Source": "The paper discusses the wave propagation in a semiconductor medium exposed to a strong magnetic field. The governing equations are expressed with the TPL-2T FOT of thermoelasticity."
+    },
+    "Question_4": {
+        "Context": "The study involves the propagation of plane harmonic waves in a magneto-thermoelastic rotating semiconducting medium. The effects of fractional order heat transfer, Hall current, two temperatures, and non-local parameter on wave characteristics are studied.",
+        "Question": "What is the effect of increasing the value of the fractional order heat transfer parameter \u03b1 on the penetration depth of the plane wave?",
+        "A": "Penetration depth increases",
+        "B": "Penetration depth decreases",
+        "C": "Penetration depth remains constant",
+        "D": "Penetration depth becomes zero",
+        "Answer": "A",
+        "Source": "The results exhibit that as the value of fractional order heat transfer parameter \u03b1 increases, variations in the penetration depth also increases."
+    },
+    "Question_5": {
+        "Context": "The study investigates the propagation of plane waves in a semiconductor medium under the influence of a high magnetic field and Hall current. The non-dimensional expressions for penetration depth, phase velocities, specific loss, and attenuation coefficients of various reflected waves are calculated.",
+        "Question": "What is the effect of increasing the Hall current parameter m on the specific loss of the plane wave?",
+        "A": "Specific loss increases",
+        "B": "Specific loss decreases",
+        "C": "Specific loss remains constant",
+        "D": "Specific loss becomes zero",
+        "Answer": "B",
+        "Source": "As the Hall current increases, specific loss decreases."
+    },
+    "Question_6": {
+        "Context": "The study discusses the propagation of plane harmonic waves in a magneto-thermoelastic rotating semiconducting medium. The effects of two temperatures, non-local parameter, fractional order parameter, and Hall current on wave characteristics are illustrated.",
+        "Question": "What is the effect of increasing the two-temperature parameter a on the phase velocities of the plane wave?",
+        "A": "Phase velocities increase",
+        "B": "Phase velocities decrease",
+        "C": "Phase velocities remain constant",
+        "D": "Phase velocities become zero",
+        "Answer": "B",
+        "Source": "The higher the value of two temperatures, the lower is the phase velocity of the plane wave."
+    },
+    "Question_7": {
+        "Context": "The study involves the propagation of plane waves in a semiconductor medium with rotation and Hall current. The non-dimensional expressions for specific loss and attenuation coefficients of various reflected waves are calculated.",
+        "Question": "What is the effect of increasing the non-local parameter \u03f5 on the attenuation coefficients of the plane wave?",
+        "A": "Attenuation coefficients increase",
+        "B": "Attenuation coefficients decrease",
+        "C": "Attenuation coefficients remain constant",
+        "D": "Attenuation coefficients become zero",
+        "Answer": "B",
+        "Source": "The higher the value of non-local parameter \u03f5, the lower is the attenuation coefficients of a plane wave."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the wave propagation in a semiconductor medium under the influence of a high magnetic field and Hall current. The effects of fractional order heat transfer, two temperatures, and non-local parameter on wave characteristics are studied.",
+        "Question": "What is the effect of increasing the fractional order heat transfer parameter \u03b1 on the specific loss of the plane wave?",
+        "A": "Specific loss increases",
+        "B": "Specific loss decreases",
+        "C": "Specific loss remains constant",
+        "D": "Specific loss becomes zero",
+        "Answer": "A",
+        "Source": "The higher the value of \u03b1, the higher is the specific loss."
+    },
+    "Question_9": {
+        "Context": "The study involves the propagation of plane harmonic waves in a magneto-thermoelastic rotating semiconducting medium. The effects of Hall current, two temperatures, and non-local parameter on wave characteristics are illustrated.",
+        "Question": "What is the effect of increasing the two-temperature parameter a on the penetration depth of the plane wave?",
+        "A": "Penetration depth increases",
+        "B": "Penetration depth decreases",
+        "C": "Penetration depth remains constant",
+        "D": "Penetration depth becomes zero",
+        "Answer": "B",
+        "Source": "The higher the value of two temperatures, the lower is the penetration depth of plane wave."
+    },
+    "Question_10": {
+        "Context": "The study discusses the wave propagation in a semiconductor medium under the influence of a high magnetic field and Hall current. The non-dimensional expressions for penetration depth, phase velocities, specific loss, and attenuation coefficients of various reflected waves are calculated.",
+        "Question": "What is the effect of increasing the non-local parameter \u03f5 on the phase velocities of the plane wave?",
+        "A": "Phase velocities increase",
+        "B": "Phase velocities decrease",
+        "C": "Phase velocities remain constant",
+        "D": "Phase velocities become zero",
+        "Answer": "B",
+        "Source": "The higher the value of \u03f5, the lower is the phase velocity of plane wave."
+    }
+}

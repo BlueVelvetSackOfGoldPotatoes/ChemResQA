@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the elastic-plastic deformation of functionally graded material hollow rotor under high centrifugal effect. The results are compared with a homogeneous rotor and a case where Young\u2019s modulus is the only variable.",
+        "Question": "What is the purpose of the study?",
+        "A": "To investigate the stress components in FGM rotors",
+        "B": "To determine the maximum allowed angular velocity of a hollow functionally graded material rotating shaft",
+        "C": "To analyze the thermal behavior of FGM materials",
+        "D": "To study the chemical properties of functionally graded materials",
+        "Answer": "B",
+        "Source": "The purpose of this study is to present an analytical solution of the elastic-plastic deformation of functionally graded material hollow rotor under a high centrifugal effect and finally determine the maximum allowed angular velocity of a hollow functionally graded material rotating shaft."
+    },
+    "Question_2": {
+        "Context": "The study discusses the effects of variable material properties on the stress and strain components and radial displacement of functionally graded material rotors.",
+        "Question": "What effect does material variation have on stress and strain components?",
+        "A": "No effect",
+        "B": "Considerable effect",
+        "C": "Negligible effect",
+        "D": "Insignificant effect",
+        "Answer": "B",
+        "Source": "It is shown that material variation has a considerable effect on the stress and strain components and radial displacement."
+    },
+    "Question_3": {
+        "Context": "The study introduces non-dimensional parameters to solve the equilibrium equation analytically.",
+        "Question": "What method is used to solve the equilibrium equation?",
+        "A": "Numerical simulations",
+        "B": "Analytical solution",
+        "C": "Experimental testing",
+        "D": "Statistical analysis",
+        "Answer": "B",
+        "Source": "Introducing non-dimensional parameters, the equilibrium equation has been analytically solved."
+    },
+    "Question_4": {
+        "Context": "The study discusses the effects of density on the failure of a functionally graded material elastic fully plastic in a hollow rotating shaft.",
+        "Question": "What is investigated for the first time in this study with regard to Tresca\u2019s yield criterial?",
+        "A": "Density variation",
+        "B": "Temperature effects",
+        "C": "Pressure effects",
+        "D": "Material composition",
+        "Answer": "A",
+        "Source": "The effects of the density on the failure of a functionally graded material elastic fully plastic in a hollow rotating shaft are investigated for the first time in this study with regard to Tresca\u2019s yield criterial."
+    },
+    "Question_5": {
+        "Context": "The study discusses the analytical solution for the elastic-plastic deformation of functionally graded material hollow rotor under high centrifugal effect.",
+        "Question": "What is the criterion used to determine the yield condition and allowed angular velocity of the shaft?",
+        "A": "Hooke's Law",
+        "B": "Tresca's criterion",
+        "C": "Newton's Law",
+        "D": "Archimedes' Principle",
+        "Answer": "B",
+        "Source": "Tresca\u2019s criterion is considered to determine yield condition and allowed the angular velocity of the shaft."
+    },
+    "Question_6": {
+        "Context": "The study validates the model for plastic deformations by comparing results with previous articles.",
+        "Question": "What is the significance of considering variable density and yield stress in the study?",
+        "A": "It causes a considerable difference in stress and strain",
+        "B": "It has no effect on the results",
+        "C": "It simplifies the analysis",
+        "D": "It increases the complexity of the model",
+        "Answer": "A",
+        "Source": "The results show that neglecting the variety of density and yield stress causes a considerable difference in stress and strain."
+    },
+    "Question_7": {
+        "Context": "The study presents an analytical model based on different studies and non-dimensional parameters.",
+        "Question": "What is the main improvement of the analytical model presented in the study?",
+        "A": "It focuses on isotropic materials",
+        "B": "It considers only one variable property of the material",
+        "C": "It simplifies the equations",
+        "D": "It includes multiple variable material properties",
+        "Answer": "D",
+        "Source": "The analytical equations derived based on different studies, and non-dimensional parameters defined to create comprehensive and analogical outcomes."
+    },
+    "Question_8": {
+        "Context": "The study discusses the effects of neglecting the variety of density and yield stress in the analysis.",
+        "Question": "What is the potential consequence of neglecting the variety of density and yield stress?",
+        "A": "No impact on the results",
+        "B": "Considerable difference in stress and strain",
+        "C": "Simplification of the model",
+        "D": "Increased accuracy of the analysis",
+        "Answer": "B",
+        "Source": "The results show that neglecting the variety of density and yield stress causes a considerable difference in stress and strain."
+    },
+    "Question_9": {
+        "Context": "The study discusses the elastic-plastic behavior of a rotating shaft made of FGM under high centrifugal forces.",
+        "Question": "What is the importance of the research findings for gas turbine design industries?",
+        "A": "No relevance to gas turbine design",
+        "B": "Helps control the yield start point for hollow shafts during maintenance",
+        "C": "Increases the complexity of turbine design",
+        "D": "Has no practical application in industry",
+        "Answer": "B",
+        "Source": "This model will help to control the yield start point for a hollow shaft measured during maintenance."
+    },
+    "Question_10": {
+        "Context": "The study concludes by discussing the implications of the research findings for the design of high-speed rotary components.",
+        "Question": "What is the potential application of the results for designers of high-speed rotary components?",
+        "A": "No practical application",
+        "B": "Provides a better understanding of possible weaknesses in hollow shafts",
+        "C": "Increases the complexity of design",
+        "D": "Limits the design possibilities",
+        "Answer": "B",
+        "Source": "The results will help designers to get a better perception of hollow shafts possible weaknesses and failures to design more efficient rotary machines."
+    }
+}

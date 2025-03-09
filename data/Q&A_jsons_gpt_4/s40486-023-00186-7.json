@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In organic chemistry, piezoresistive materials change their electrical resistance when an external pressure is applied.",
+        "Question": "What is the principle of operation for piezoresistive pressure sensors?",
+        "A": "Changes in external pressure vary the sensor's capacitance.",
+        "B": "Changes in external pressure vary the sensor's resistance.",
+        "C": "Changes in external temperature vary the sensor's resistance.",
+        "D": "Changes in external humidity vary the sensor's resistance.",
+        "Answer": "B",
+        "Source": "Piezoresistive pressure sensors operate on the principle of converting changes in external pressure into electrical signals by varying the resistance of a pressure-sensitive layer within the sensor."
+    },
+    "Question_2": {
+        "Context": "In organic chemistry, capacitive humidity sensors operate by detecting changes in capacitance due to the interaction with water molecules.",
+        "Question": "What causes a change in capacitance in capacitive humidity sensors?",
+        "A": "Changes in external pressure.",
+        "B": "Interaction with external water molecules.",
+        "C": "Variations in the sensor's temperature.",
+        "D": "Alterations in the sensor's electrical resistance.",
+        "Answer": "B",
+        "Source": "The humidity sensors, operating by direct contact with external water molecules, are positioned on the outermost layer of the block."
+    },
+    "Question_3": {
+        "Context": "In organic chemistry, Velostat is a material used in piezoresistive sensors due to its pressure-sensitive properties.",
+        "Question": "What is Velostat's role in piezoresistive sensors?",
+        "A": "It acts as a dielectric material.",
+        "B": "It serves as a capacitive layer.",
+        "C": "It functions as a pressure-sensitive layer.",
+        "D": "It is used as an insulating layer.",
+        "Answer": "C",
+        "Source": "Commercial Velostat is utilized as a pressure-sensitive layer. Velostat is a pressure-sensitive material that imparts electrical conductivity by incorporating carbon black into a polymer layer."
+    },
+    "Question_4": {
+        "Context": "In organic chemistry, the design of humidity sensors can be crucial for their functionality.",
+        "Question": "Why is a traditional parallel capacitor design unsuitable for humidity measurement in humidity sensors?",
+        "A": "It does not allow for the permeation of water droplets.",
+        "B": "It has a low linearity response to humidity changes.",
+        "C": "It is too sensitive to external temperature variations.",
+        "D": "It cannot detect low levels of humidity.",
+        "Answer": "A",
+        "Source": "The conventional parallel capacitor design, which uses a capacitive structure for humidity sensors, is unsuitable for humidity measurement because both the top and bottom are enclosed by plates and dielectric material, leaving no space for the permeation of water droplets."
+    },
+    "Question_5": {
+        "Context": "In organic chemistry, sensor arrays are used to increase the measurement area and resolution.",
+        "Question": "What is the purpose of expanding single sensors into sensor arrays?",
+        "A": "To decrease the sensor's sensitivity.",
+        "B": "To increase the sensor's response time.",
+        "C": "To enhance the measurement area and resolution.",
+        "D": "To simplify the sensor's fabrication process.",
+        "Answer": "C",
+        "Source": "To increase the measurement area of the designed single pressure and humidity sensors, we expanded them into 5 \u00d7 5 and 5 \u00d7 10 sensor array structures."
+    },
+    "Question_6": {
+        "Context": "In organic chemistry, the interdigitated electrode (IDE) structure is a design used in capacitive sensors.",
+        "Question": "What is a characteristic feature of an interdigitated electrode (IDE) structure in capacitive sensors?",
+        "A": "It has a single layer of electrodes.",
+        "B": "It uses a parallel capacitor design.",
+        "C": "It has electrodes printed on both sides of a substrate.",
+        "D": "It is enclosed by plates and dielectric material.",
+        "Answer": "C",
+        "Source": "Therefore, in this study, we designed a humidity sensor with an interdigitated structure, as shown in Fig. 2b. Furthermore, unlike the traditional interdigitated electrode (IDE) structure, for sensor integration purposes, we printed the capacitor electrodes on both sides, creating a humidity sensor."
+    },
+    "Question_7": {
+        "Context": "In organic chemistry, the resistance of piezoresistive materials like Velostat changes due to applied pressure, affecting the conductivity.",
+        "Question": "How does applied pressure affect the electrical conductivity of Velostat in piezoresistive sensors?",
+        "A": "Applied pressure increases the distance between conductive particles, reducing conductivity.",
+        "B": "Applied pressure decreases the distance between conductive particles, increasing conductivity.",
+        "C": "Applied pressure has no effect on the distance between conductive particles.",
+        "D": "Applied pressure increases the resistance of the Velostat film, reducing conductivity.",
+        "Answer": "B",
+        "Source": "The pressure intensity is measured by exploiting the principle where the distance between conductive particles within the Velostat film decreases due to applied pressure or bending, leading to an increase in the number of conductive pathways and a subsequent reduction in the film\u2019s resistance."
+    },
+    "Question_8": {
+        "Context": "In organic chemistry, the capacitive method for humidity sensing relies on changes in the dielectric constant.",
+        "Question": "What advantage does the capacitive method for humidity sensing have?",
+        "A": "It has a high sensitivity to external pressure.",
+        "B": "It has a high linearity response to humidity changes.",
+        "C": "It requires a high level of humidity for accurate measurement.",
+        "D": "It is highly sensitive to external temperature variations.",
+        "Answer": "B",
+        "Source": "The advantages of this approach include a high linearity, less sensitivity to external temperature, and the ability to measure low humidity."
+    },
+    "Question_9": {
+        "Context": "In organic chemistry, multiplexers (MUX) are used in sensor arrays to manage multiple signals.",
+        "Question": "What is the role of a multiplexer (MUX) in sensor arrays?",
+        "A": "It decreases the sensitivity of the sensors.",
+        "B": "It increases the response time of the sensors.",
+        "C": "It allows simultaneous collection of signals from multiple sensors.",
+        "D": "It simplifies the sensor's fabrication process.",
+        "Answer": "C",
+        "Source": "To simultaneously collect signals from the 25 and 50 sensors within the two sensor arrays developed, we utilized a multiplexer (MUX, CD74HC4067, Texas Instruments) and connected flexible flat cables (FFC, AWM 20,624, Fuxell) to each side accordingly."
+    },
+    "Question_10": {
+        "Context": "In organic chemistry, flexible flat cables (FFC) are often used in the construction of sensor arrays.",
+        "Question": "What is the purpose of using flexible flat cables (FFC) in the construction of sensor arrays?",
+        "A": "To provide insulation between sensor layers.",
+        "B": "To connect sensor arrays to a multiplexer for signal collection.",
+        "C": "To increase the electrical resistance of the sensor.",
+        "D": "To decrease the measurement area of the sensor array.",
+        "Answer": "B",
+        "Source": "To simultaneously collect signals from the 25 and 50 sensors within the two sensor arrays developed, we utilized a multiplexer (MUX, CD74HC4067, Texas Instruments) and connected flexible flat cables (FFC, AWM 20,624, Fuxell) to each side accordingly."
+    }
+}

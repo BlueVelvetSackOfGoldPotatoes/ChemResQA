@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Astaxanthin is a naturally occurring xanthophyll, which is a type of carotenoid known for its high antioxidant activity. It is produced by certain microalgae under specific conditions.",
+        "Question": "Which microalga is recognized as the best source for natural astaxanthin production?",
+        "A": "Chlorella vulgaris",
+        "B": "Haematococcus pluvialis",
+        "C": "Spirulina platensis",
+        "D": "Dunaliella salina",
+        "Answer": "B",
+        "Source": "The freshwater unicellular microalga Haematococcus pluvialis has been recognized as the best source of natural astaxanthin due to its potential to accumulate large amounts of astaxanthin."
+    },
+    "Question_2": {
+        "Context": "Astaxanthin accumulation in Haematococcus pluvialis can be induced under certain stress conditions, which include nutrient deprivation.",
+        "Question": "What condition is known to be the best way to trigger astaxanthin accumulation in Haematococcus pluvialis?",
+        "A": "Carbon starvation",
+        "B": "Phosphorus starvation",
+        "C": "Nitrogen starvation combined with high light",
+        "D": "Sulfur starvation",
+        "Answer": "C",
+        "Source": "Light and nitrogen are the two most effective factors that influence growth and astaxanthin synthesis in H. pluvialis. Nitrogen starvation combined with high light is known as the best way to trigger astaxanthin accumulation in H. pluvialis."
+    },
+    "Question_3": {
+        "Context": "In the process of cultivating Haematococcus pluvialis for astaxanthin production, the culture system goes through different stages characterized by varying nutrient conditions.",
+        "Question": "During which stage do Haematococcus pluvialis cells lose the ability to divide and begin to accumulate astaxanthin?",
+        "A": "Green stage with replete-nutrient medium",
+        "B": "Red stage with depleted nutrients",
+        "C": "Exponential growth phase",
+        "D": "Stationary phase",
+        "Answer": "B",
+        "Source": "During the green stage, the cells can reproduce and accumulate biomass but not astaxanthin, while during the red stage, the cells lose the ability of division and mobility but are capable of accumulating as high as 5% of astaxanthin of dry biomass weight."
+    },
+    "Question_4": {
+        "Context": "The production of astaxanthin by Haematococcus pluvialis can be influenced by the light conditions within the culture system.",
+        "Question": "What is the term often used to describe the necessary light condition for large astaxanthin productivity in algal culture systems?",
+        "A": "Light saturation",
+        "B": "Light optimization",
+        "C": "Light stress",
+        "D": "Light adaptation",
+        "Answer": "C",
+        "Source": "Along with nitrogen starvation, the term light stress has often been used in the literature as a necessary condition for large astaxanthin productivity."
+    },
+    "Question_5": {
+        "Context": "In photobioreactors, the analysis of light transfer is complex due to factors such as biomass concentration affecting light penetration.",
+        "Question": "What phenomenon in photobioreactors can lead to strong light attenuation conditions?",
+        "A": "Low biomass concentration",
+        "B": "High biomass concentration",
+        "C": "Constant light intensity",
+        "D": "Transparent culture medium",
+        "Answer": "B",
+        "Source": "However, in PBR, the large biomass concentration usually achieved leads to strong light attenuation conditions, which makes complex the analysis of this 'light stress'."
+    },
+    "Question_6": {
+        "Context": "The spectral mass absorption cross-sections are used to relate the mean rate of photon absorption to the productivity of a substance in microalgae.",
+        "Question": "What physical quantity is necessary to trigger large accumulation of astaxanthin in Haematococcus pluvialis cells during nitrogen starvation conditions?",
+        "A": "A minimum initial mean rate of photon absorption",
+        "B": "A maximum spectral mass absorption cross-section",
+        "C": "A constant photon flux density",
+        "D": "A high incident photon flux density",
+        "Answer": "A",
+        "Source": "A minimum initial MRPA of 7000 \u00b1 500 \u00b5molh\u03bd kgx \u22121 s\u22121 was found necessary to trigger large accumulation of astaxanthin in Haematococcus pluvialis cells during nitrogen starvation conditions."
+    },
+    "Question_7": {
+        "Context": "The growth and astaxanthin synthesis in Haematococcus pluvialis are influenced by the light energy uptake by photosynthetic organisms.",
+        "Question": "What is the term used to describe the rate of light energy uptake by photosynthetic organisms?",
+        "A": "Photon flux density",
+        "B": "Photosynthetic active radiation",
+        "C": "Mean rate of photon absorption",
+        "D": "Spectral fluence rate",
+        "Answer": "C",
+        "Source": "This study aims to contribute to the understanding of processes related to light energy and their implications for astaxanthin production. The relation between light absorption rate and astaxanthin production rate by the microalga H. pluvialis grown in nitrogen starvation condition under high light intensity in a flat-panel PBR is then investigated."
+    },
+    "Question_8": {
+        "Context": "In the context of microalgal cultures, the local spectral fluence rate is an important factor in determining the light conditions within the culture volume.",
+        "Question": "What does the local spectral fluence rate represent in microalgal cultures?",
+        "A": "The rate of nutrient absorption",
+        "B": "The amount of photon absorbed per unit weight of biomass",
+        "C": "The light wavelength",
+        "D": "The light available at a given position in the culture",
+        "Answer": "D",
+        "Source": "The local spectral fluence rate G\ufffd(z) obtained at a given depth of culture. As a result, A\ufffd(z) is a local value which has to be averaged on both the PAR region and the total culture volume to obtain the mean rate of photon absorption (MRPA or < >A)."
+    },
+    "Question_9": {
+        "Context": "The backward scattering ratio is a parameter measured in algal suspensions to understand light diffusion and absorption phenomena.",
+        "Question": "What does the backward scattering ratio define in the context of light transfer in algal cultures?",
+        "A": "The fraction of the radiation absorbed by the culture medium",
+        "B": "The fraction of the radiation scattered backwards",
+        "C": "The total amount of light absorbed by the algal cells",
+        "D": "The intensity of the incident light on the culture",
+        "Answer": "B",
+        "Source": "This requests however to determine the backward scattering ratio defined as the fraction of the radiation scattered backwards, which is estimated from the suspension\u2019s scattering phase function."
+    },
+    "Question_10": {
+        "Context": "The growth medium composition can affect the growth and metabolism of microalgae such as Haematococcus pluvialis.",
+        "Question": "What component is omitted from the growth medium to induce nitrogen starvation in Haematococcus pluvialis cultures?",
+        "A": "MgSO4\u22c57H2O",
+        "B": "CaCl2\u22c52H2O",
+        "C": "NaNO3",
+        "D": "K2HPO4",
+        "Answer": "C",
+        "Source": "For nitrogen starvation experiments, the nitrate (NaNO3) was omitted from the medium while maintaining the other components constant."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on determining the mechanical material properties of healthy porcine myocardium in three regions: left ventricle (LV), mid-wall/interventricular septum (MDW), and right ventricle (RV).",
+        "Question": "What is the main objective of the study?",
+        "A": "To determine the mechanical material properties of unhealthy porcine myocardium.",
+        "B": "To develop new therapies for heart diseases.",
+        "C": "To determine the mechanical material properties of healthy porcine myocardium in three regions.",
+        "D": "To study the mechanical properties of the human heart.",
+        "Answer": "C",
+        "Source": "Hence, the main objective of this paper is to determine the mechanical material properties of healthy porcine myocardium in three regions, namely left ventricle (LV), mid-wall/interventricular septum (MDW) and right ventricle (RV)."
+    },
+    "Question_2": {
+        "Context": "The study involved conducting biaxial testing on the LV, MW, and RV regions of the pig heart.",
+        "Question": "What type of testing was conducted on the pig heart regions?",
+        "A": "Uniaxial testing",
+        "B": "Biaxial testing",
+        "C": "Tensile testing",
+        "D": "Compression testing",
+        "Answer": "B",
+        "Source": "Biaxial testing in the LV, MW and RV was conducted."
+    },
+    "Question_3": {
+        "Context": "The study compared the fit of two constitutive models, the Fung model and the Choi-Vito model, to the experimental data.",
+        "Question": "Which constitutive model provided the best fit to the experimental data?",
+        "A": "Fung model",
+        "B": "Choi-Vito model",
+        "C": "Both models provided an equally good fit",
+        "D": "None of the models provided a good fit",
+        "Answer": "B",
+        "Source": "The Choi-Vito model was found to provide the best fit with the experimental data compared to the Fung model."
+    },
+    "Question_4": {
+        "Context": "The study found differences in material properties between the left ventricle (LV), mid-wall/interventricular septum (MDW), and right ventricle (RV) of the pig heart.",
+        "Question": "What was observed regarding the material properties of the three heart regions?",
+        "A": "They were assumed to be the same.",
+        "B": "They were found to be homogeneous.",
+        "C": "They were non-linear and anisotropic.",
+        "D": "They were not studied in the experiment.",
+        "Answer": "C",
+        "Source": "This study shows that the mechanical behaviour of porcine myocardial tissue is non-linear and anisotropic."
+    },
+    "Question_5": {
+        "Context": "The study emphasized the importance of accurate computational models for studying various heart diseases.",
+        "Question": "What role do computational models play in understanding heart diseases?",
+        "A": "They are not useful for studying heart diseases.",
+        "B": "They are essential for developing new therapies.",
+        "C": "They have no impact on understanding heart diseases.",
+        "D": "They are only used for surgical procedures.",
+        "Answer": "B",
+        "Source": "Computational modelling is increasingly utilised to further understand pathological conditions. Various new interventions and therapies have been developed based on knowledge gained from these computational models."
+    },
+    "Question_6": {
+        "Context": "The study highlighted the importance of accurately determining the mechanical properties of the heart regions.",
+        "Question": "Why is it important to accurately determine the mechanical properties of heart regions?",
+        "A": "To develop accurate computational models for studying heart diseases.",
+        "B": "To perform surgical procedures.",
+        "C": "To understand the physiological functions of the heart.",
+        "D": "To study the mechanical properties of soft tissues.",
+        "Answer": "A",
+        "Source": "Inaccuracy in the mechanical properties of the heart region may affect the accuracy of the computational models developed."
+    },
+    "Question_7": {
+        "Context": "The study found differences in material parameters between the RV, LV, and MDW regions of the pig heart.",
+        "Question": "What was observed regarding the anisotropy of the pig heart regions?",
+        "A": "They were isotropic.",
+        "B": "They were linear.",
+        "C": "They were anisotropic.",
+        "D": "They were not studied in the experiment.",
+        "Answer": "C",
+        "Source": "Like various soft tissues, passive myocardium in the three different regions were found to be anisotropic."
+    },
+    "Question_8": {
+        "Context": "The study compared the material parameters of the RV, LV, and MDW regions using the Fung and Choi-Vito models.",
+        "Question": "Which model showed differences in material parameters between the RV and LV regions?",
+        "A": "Fung model",
+        "B": "Choi-Vito model",
+        "C": "Both models showed differences",
+        "D": "Neither model showed differences",
+        "Answer": "B",
+        "Source": "For the Choi-Vito model, the differences in anisotropy between the RV and LV were found to be insignificant."
+    },
+    "Question_9": {
+        "Context": "The study discussed the implications of regional differences in material properties of the pig heart.",
+        "Question": "What implications do regional differences in material properties have?",
+        "A": "No impact on computational models.",
+        "B": "May affect the accuracy of computational models.",
+        "C": "Only relevant for surgical procedures.",
+        "D": "Not mentioned in the study.",
+        "Answer": "B",
+        "Source": "Inaccuracy in the mechanical properties of the heart region may affect the accuracy of the computational models developed."
+    },
+    "Question_10": {
+        "Context": "The study highlighted the importance of using accurate material parameters in finite element analysis for studying heart diseases.",
+        "Question": "What can accurate material parameters be used for in finite element analysis?",
+        "A": "To develop new surgical procedures.",
+        "B": "To study the physiological functions of the heart.",
+        "C": "To understand the mechanical properties of soft tissues.",
+        "D": "To study the mechanisms of heart diseases.",
+        "Answer": "D",
+        "Source": "An average Fung and Choi-Vito model in three different pig heart regions could be employed for the development of computational models as listed in Tables 4 and 8."
+    }
+}

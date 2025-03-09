@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of a novel 18F-labeled analogue of the STING agonist acridone for imaging STING expression.",
+        "Question": "What is the main target of the novel 18F-labeled analogue [18F]F-CRI1?",
+        "A": "PD-L1",
+        "B": "STING",
+        "C": "HER2",
+        "D": "EGFR",
+        "Answer": "B",
+        "Source": "STING is a transmembrane protein which plays important roles in cancer, cytotoxic therapies, and various infections. Several immunotherapy approaches designed to initiate anti-tumor immune response were shown to activate the cGAS-STING pathway and the therapeutic effects of the treatments are correlated with the STING expression within the tumor microenvironment (Corrales and Gajewski 2015)."
+    },
+    "Question_2": {
+        "Context": "The paper explores the production of the radioisotopes 43Sc and 44gSc using cyclotron irradiation of enriched calcium oxide targets.",
+        "Question": "What is the molar activity of 43/44gSc produced through proton and deuteron bombardment of isotopically enriched CaO targets?",
+        "A": "48 \u00b1 11 GBq/\u03bcmol",
+        "B": "30 \u00b1 5 GBq/\u03bcmol",
+        "C": "20 \u00b1 7 GBq/\u03bcmol",
+        "D": "15 \u00b1 3 GBq/\u03bcmol",
+        "Answer": "A",
+        "Source": "The molar activity of 43/44gSc produced through a 30\u201360 min, 13.6 MeV proton energy and 5 \u03bcA current irradiation of either [43Ca]CaO or [44Ca]CaO targets was 48 \u00b1 11 GBq/\u03bcmol (1.3 \u00b1 0.3 Ci/\u03bcmol) (n = 3) at the end of chemistry."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the synthesis and evaluation of the 18F-labeled analogue of the STING agonist acridone, [18F]F-CRI1.",
+        "Question": "What is the potential application of [18F]F-CRI1 as mentioned in the paper?",
+        "A": "Imaging HER2 expression",
+        "B": "Imaging STING expression",
+        "C": "Imaging PD-L1 expression",
+        "D": "Imaging EGFR expression",
+        "Answer": "B",
+        "Source": "High tumor-con- trast images and binding specificity suggest that [18F]F-CRI1 has potential for imaging STING."
+    },
+    "Question_4": {
+        "Context": "The paper presents a study on the economic evaluation of in-house produced [177Lu]Lu-PSMA-I&T compared to radium-223 therapy.",
+        "Question": "What is the estimated cost-effectiveness of the in-house preparation of [177Lu]Lu-PSMA-I&T per QALY?",
+        "A": "\u20ac47.456",
+        "B": "\u20ac30.905",
+        "C": "\u20ac112.990",
+        "D": "\u20ac50.000",
+        "Answer": "C",
+        "Source": "Therefore, the estimated cost-effectiveness of the in-house preparation of [177Lu]Lu-PSMA-I&T is \u20ac47.456/0.42 = \u20ac112.990 per QALY."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the development of a novel 18F-labeled analogue of the STING agonist acridone for imaging STING expression.",
+        "Question": "What is the main advantage of [18F]F-CRI1 as mentioned in the paper?",
+        "A": "High stability in mouse serum",
+        "B": "High accumulation in the gastrointestinal tract",
+        "C": "High accumulation in the gallbladder",
+        "D": "High accumulation in the tumor",
+        "Answer": "D",
+        "Source": "Small animal PET studies in CT26 tumor-bearing mice revealed gradual accumulation of [18F]F-CRI1 in the tumor reaching a peak at 1 h post-injection."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the sustained growth of new radioisotopes and radiopharmaceuticals, with a focus on 99mTc in diagnostic nuclear medicine.",
+        "Question": "What was demonstrated by the shutdowns of 99Mo-production reactors during the first decade of the 2000s?",
+        "A": "The reliability of the global medical isotope supply system",
+        "B": "The efficiency of 99mTc production in cyclotrons",
+        "C": "The cost-effectiveness of maintaining aging reactors",
+        "D": "The fragility and unpredictability of the global medical isotope supply system",
+        "Answer": "D",
+        "Source": "During the first decade of the 2000s, shutdowns of 99Mo-production reactors demonstrated the fragility and unpredictability of the global medical isotope supply system."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the search for alternative sources of 99mTc due to interruptions in 99Mo-supply and aging reactors.",
+        "Question": "What has accelerated the search for alternative sources of 99mTc?",
+        "A": "Global interruptions of 99Mo-supply",
+        "B": "Exorbitant costs of maintaining aging reactors",
+        "C": "The COVID-19 pandemic",
+        "D": "The development of new cyclotron technologies",
+        "Answer": "A",
+        "Source": "The global interruptions of 99Mo-supply, aging reactors, and the exorbitant costs of their maintenance have accelerated the search for alternative sources of 99mTc."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the feasibility of co-producing 99mTc in parallel with 18F using a hybridized system.",
+        "Question": "What is the proposed new strategy for the simultaneous production of 18F and 99mTc?",
+        "A": "Production in aging reactors",
+        "B": "Bombarding targets with protons in cyclotrons",
+        "C": "Utilizing PET radiotracers",
+        "D": "Utilizing a low energy biomedical cyclotron",
+        "Answer": "D",
+        "Source": "A proposed new strategy allows for the simultaneous production of 18F and 99mTc in a low energy biomedical cyclotron available at many national facilities."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the use of terbium-161 for targeted radionuclide therapy in clinics.",
+        "Question": "What is the main advantage of terbium-161 over other isotopes?",
+        "A": "First Auger emitter",
+        "B": "High positron branching ratio",
+        "C": "Long half-life",
+        "D": "Superior imaging properties",
+        "Answer": "A",
+        "Source": "The pace of this transition has surprised all as 161 Tb is the first Auger emitter (although a combination with betas) that is now becoming widely discussed."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the revolution of theranostics in nuclear medicine applications.",
+        "Question": "What is the most widely used theranostic matched pair of radionuclides mentioned in the paper?",
+        "A": "68Ga/177Lu",
+        "B": "18F/64Cu",
+        "C": "99mTc/18F",
+        "D": "123I/131I",
+        "Answer": "A",
+        "Source": "The most widely used theranostic matched pair of radionuclides is by far 68Ga/177Lu."
+    }
+}

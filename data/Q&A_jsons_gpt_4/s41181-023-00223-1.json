@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Positron emission tomography (PET) is a molecular imaging technique that allows for the tracking of radiolabelled cells within the body.",
+        "Question": "What is the half-life of the PET radioisotope zirconium-89 (89Zr)?",
+        "A": "110 minutes",
+        "B": "78.4 hours",
+        "C": "67.2 hours",
+        "D": "12.7 hours",
+        "Answer": "B",
+        "Source": "Here, we developed a novel leukocyte labelling approach with the PET radioisotope zirconium-89 (89Zr, half-life of 78.4 h)."
+    },
+    "Question_2": {
+        "Context": "In cell labelling for imaging, the stability of the radiolabel is crucial for accurate tracking. A stable radiolabel remains attached to the cells, allowing for precise imaging over time.",
+        "Question": "Which organ did intravenously injected free [89Zr]Zr4+ ion show retention in at 5 days post injection?",
+        "A": "Lung",
+        "B": "Liver",
+        "C": "Spleen",
+        "D": "Bone",
+        "Answer": "D",
+        "Source": "However, intravenously injected free [89Zr]Zr4+ ion showed retention only in the bone with no radioactivity in the lung at 5 days post injection, which implied good stability of radiolabelled leukocytes in vivo."
+    },
+    "Question_3": {
+        "Context": "Radiolabelling of cells with isotopes like indium-111 and technetium-99m has been used for imaging, but these methods have limitations such as radiation toxicity to cells and efflux of the radiolabel.",
+        "Question": "What is the main disadvantage of labelling leukocytes with [111In] oxine and [99mTc]Tc-HMPAO?",
+        "A": "High cost of isotopes",
+        "B": "Short half-life of the isotopes",
+        "C": "Radiation toxicity and gradual efflux of the radiolabel from the cell",
+        "D": "Low image resolution",
+        "Answer": "C",
+        "Source": "The most prominent disadvantages of the labelling approach for [111In] oxine- and [99mTc]Tc-HMPAO-labelled leukocytes is possible radiation toxicity to intracellular components and gradual efflux of the radiolabel from the cell."
+    },
+    "Question_4": {
+        "Context": "The use of bifunctional chelating agents allows for the attachment of radioisotopes to cells for imaging purposes. One such agent is p-isothiocyanatobenzyl-desferrioxamine B (Df-Bz-NCS), which facilitates the chelation of zirconium-89.",
+        "Question": "What type of bond does the isothiocyanate group of Df-Bz-NCS form with cell surface groups?",
+        "A": "Ionic bond",
+        "B": "Hydrogen bond",
+        "C": "Covalent thiourea bond",
+        "D": "Van der Waals bond",
+        "Answer": "C",
+        "Source": "The isothiocyanate group of Df-Bz-NCS forms covalent thiourea bonds with primary amine groups on the cell surface."
+    },
+    "Question_5": {
+        "Context": "For PET imaging, the radiolabelled cells must be stable to ensure that the radiotracer does not dissociate from the cells after administration.",
+        "Question": "What is the role of desferrioxamine in the chelation of zirconium-89?",
+        "A": "It acts as a bifunctional chelating agent",
+        "B": "It reduces the half-life of zirconium-89",
+        "C": "It increases the positron emission energy",
+        "D": "It serves as a radioactive tracer",
+        "Answer": "A",
+        "Source": "89Zr can be obtained with high radionuclide purity and at high yields. 89Zr benefits from its relatively low mean positron emission energy of 395.5 keV, which translates into high image resolution."
+    },
+    "Question_6": {
+        "Context": "In the context of cell labelling for imaging, the molar activity is an important parameter that reflects the amount of radioactivity per mole of a substance.",
+        "Question": "What was the average apparent molar activity of the [89Zr]Zr-Df-Bz-NCS complex used for leukocyte labelling?",
+        "A": "34.95 \u00b1 18.28 MBq/\u00b5mol",
+        "B": "44.85 MBq/\u00b5mol",
+        "C": "68.61 MBq/\u00b5mol",
+        "D": "19.88 MBq/\u00b5mol",
+        "Answer": "A",
+        "Source": "The average apparent molar activity of the [89Zr]Zr-Df-Bz-NCS complex used for leukocyte labelling was calculated as 34.95 \u00b1 18.28 MBq/\u00b5mol."
+    },
+    "Question_7": {
+        "Context": "The efficiency of cell labelling is critical for ensuring that a sufficient amount of radiotracer is associated with the cells for imaging.",
+        "Question": "What range of labelling efficiency was achieved for 89Zr-leukocyte labelling?",
+        "A": "30 to 50%",
+        "B": "46 to 87%",
+        "C": "70 to 79%",
+        "D": "16 to 79%",
+        "Answer": "B",
+        "Source": "The 89Zr-leukocyte labelling efficiency ranged from 46 to 87% after 30\u201360 min."
+    },
+    "Question_8": {
+        "Context": "In radiolabelling techniques, the labelling yield is a measure of the proportion of the initial radioactivity that is incorporated into the final cell suspension.",
+        "Question": "What was the average labelling yield for the 89Zr-labelled leukocytes?",
+        "A": "46 \u00b1 15.75%",
+        "B": "57 \u00b1 12.46%",
+        "C": "30 to 40%",
+        "D": "16 to 79%",
+        "Answer": "A",
+        "Source": "The average labelling yield was 46 \u00b1 15.75%, with a range of 16% to 79%."
+    },
+    "Question_9": {
+        "Context": "The concentration of radioactivity in labelled cells is a parameter that can influence the quality of imaging and the detection of the labelled cells in vivo.",
+        "Question": "What was the determined radioactivity concentration of labelled cells before intravenous injection into mice?",
+        "A": "0.22 MBq/1 million cells",
+        "B": "0.28 MBq/1 million cells",
+        "C": "0.3 MBq/1 million cells",
+        "D": "0.18 MBq/1 million cells",
+        "Answer": "B",
+        "Source": "Radioactivity concentrations of labelled cells were up to 0.28 MBq/1 million cells."
+    },
+    "Question_10": {
+        "Context": "The biodistribution of radiolabelled cells post-injection can provide insights into the trafficking and localization of cells within an organism.",
+        "Question": "Which organs did the 89Zr-labelled leukocytes primarily distribute to at 1 hour post injection in the murine model?",
+        "A": "Lung, liver, and spleen",
+        "B": "Brain, heart, and kidney",
+        "C": "Muscle, bone, and fat",
+        "D": "Stomach, intestine, and blood",
+        "Answer": "A",
+        "Source": "Murine biodistribution data showed that cells primarily distributed to the lung, liver, and spleen at 1 h post injection."
+    }
+}

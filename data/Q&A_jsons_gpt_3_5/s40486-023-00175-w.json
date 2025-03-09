@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "The DLD method is used for particle separation. What is the critical diameter of separated particles based on known analytical equations?",
+            "Question": "What is the critical diameter of separated particles based on known analytical equations?",
+            "A": "8.12 \u00b5m",
+            "B": "9.97 \u00b5m",
+            "C": "12.5 \u00b5m",
+            "D": "15.3 \u00b5m",
+            "Answer": "B",
+            "Source": "For the parameters given in Table 2, DInglis C = 8.12 \u00b5m and DDavis C = 9.97 \u00b5m."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "What is one way to increase the throughput of DLD devices?",
+            "Question": "How can the throughput of DLD devices be increased?",
+            "A": "Decreasing the flow velocity",
+            "B": "Reducing the channel height",
+            "C": "Parallelizing the microchannel",
+            "D": "Decreasing the channel width",
+            "Answer": "C",
+            "Source": "The DLD throughput can be increased in three ways: by parallelizing the microchannel, by increasing the flow velocity, and by increasing the channel height."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "What is the main disadvantage of DLD in terms of throughput?",
+            "Question": "What is the main disadvantage of DLD in terms of throughput?",
+            "A": "Low separation efficiency",
+            "B": "High cost of fabrication",
+            "C": "Inability to adjust the critical diameter during operation",
+            "D": "Limited range of particle sizes separated",
+            "Answer": "C",
+            "Source": "The weak point of DLD devices is the inability to adjust the critical diameter during operation."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "What is the Reynolds number regime in which DLD devices operate?",
+            "Question": "In what Reynolds number regime do DLD devices operate?",
+            "A": "Low Reynolds number",
+            "B": "High Reynolds number",
+            "C": "Moderate Reynolds number",
+            "D": "No Reynolds number",
+            "Answer": "C",
+            "Source": "According to Eq. (2), the channel Reynolds number ReC = 3.13. This value belongs to the moderate Reynolds number regime (ReC \u2264 18)."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "What is the critical particle diameter dependent on in DLD devices?",
+            "Question": "What factors does the critical particle diameter depend on in DLD devices?",
+            "A": "Post radius and flow rate only",
+            "B": "Channel height and particle concentration only",
+            "C": "Post radius, longitudinal period, channel height, flow rate, and particle density",
+            "D": "Transverse period and gap between posts only",
+            "Answer": "C",
+            "Source": "It seems clear that the critical diameter also depends on the post radius, the longitudinal period, the channel height, as well as the flow rate, and the particle density."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "What is the Dean number indicating in the context of DLD devices?",
+            "Question": "What does the Dean number indicate in the context of DLD devices?",
+            "A": "The ratio of fluid momentum force to viscous shear force",
+            "B": "The transverse fluid flow due to channel curvature",
+            "C": "The particle Reynolds number",
+            "D": "The ratio of transverse to longitudinal flow",
+            "Answer": "B",
+            "Source": "The dimensionless Dean number (De) expresses the ratio of the transverse fluid flow arising due to the curvature of the channel to the longitudinal flow."
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "What forces have little effect on particles in DLD devices at a moderate channel Reynolds number?",
+            "Question": "Which forces have little effect on particles in DLD devices at a moderate channel Reynolds number?",
+            "A": "Shear-induced and wall-induced lift forces",
+            "B": "Stokes drag force",
+            "C": "Inertial focusing forces",
+            "D": "Hydrodynamic lift forces",
+            "Answer": "A",
+            "Source": "The inertial focusing of particles occurs when the particle Reynolds number Rep \u2265 1. Thus, shear-induced and wall-induced lift forces have little effect on particles in DLD devices at a moderate channel Reynolds number."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "What is the hydrodynamic force acting on a stationary particle in DLD devices?",
+            "Question": "What is the hydrodynamic force acting on a stationary particle in DLD devices?",
+            "A": "12.3 nN",
+            "B": "8.7 nN",
+            "C": "15.9 nN",
+            "D": "10.5 nN",
+            "Answer": "A",
+            "Source": "The hydrodynamic forces acting on a particle can be compared to the Stokes drag force (FD) acting on a stationary particle. Substitution of values from Table 2 gives FD = 12.3 nN."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "What is the critical diameter formula used for the preliminary design of DLD devices?",
+            "Question": "Which critical diameter formula is commonly used for the preliminary design of DLD devices?",
+            "A": "DInglis C = 8.12 \u00b5m",
+            "B": "DDavis C = 9.97 \u00b5m",
+            "C": "DZhang C = \u03beg\u03b5\u03b6",
+            "D": "DDavis C = 1.4g\u03b50.48",
+            "Answer": "B",
+            "Source": "For the parameters given in Table 2, DInglis C = 8.12 \u00b5m and DDavis C = 9.97 \u00b5m. Equation (6) is considered more accurate and is often used for the preliminary design of DLD devices."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "What is one of the materials commonly used for DLD device fabrication?",
+            "Question": "What is one of the common materials used for DLD device fabrication?",
+            "A": "Polyethylene",
+            "B": "Polystyrene",
+            "C": "Polydimethylsiloxane (PDMS)",
+            "D": "Polypropylene",
+            "Answer": "C",
+            "Source": "The most common material for DLD device fabrication is polydimethylsiloxane (PDMS)."
+        }
+    }
+]

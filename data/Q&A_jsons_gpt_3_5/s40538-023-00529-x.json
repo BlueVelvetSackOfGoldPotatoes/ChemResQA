@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the production of lignin-derived products from steam-exploded palm oil mill lignocellulosic biomass waste (POMLBW).",
+        "Question": "What is the main purpose of the study?",
+        "A": "To evaluate the thermal characteristics of lignin-derived products",
+        "B": "To investigate the antioxidant activities of lignin-derived products",
+        "C": "To analyze the antimicrobial properties of lignin-derived products",
+        "D": "To study the molecular weight of lignin-derived products",
+        "Answer": "C",
+        "Source": "LML from all steam-exploded POMLBW have antimicrobial properties against both Gram-positive and Gram-negative bacteria."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the antioxidant activity of lignin-derived products using the DPPH free radical scavenging assay.",
+        "Question": "How was the antioxidant activity of lignin-derived products assessed?",
+        "A": "By measuring hydrogen donation ability",
+        "B": "By evaluating the polyphenol content",
+        "C": "By conducting agar diffusion assays",
+        "D": "By using differential scanning calorimetry",
+        "Answer": "A",
+        "Source": "The antioxidant activity was evaluated by measuring hydrogen/electron donation ability using 0.5 mM 2,2-diphenyl-1-picrylhydrazyl (DPPH) free radical scavenging assay."
+    },
+    "Question_3": {
+        "Context": "The study investigated the production of lignin-derived products from agricultural biomass waste via steam explosion pretreatment.",
+        "Question": "What method was used to extract lignin-derived products?",
+        "A": "Acetone extraction",
+        "B": "Subcritical water extraction",
+        "C": "Ethanol extraction",
+        "D": "Hydrochloric acid extraction",
+        "Answer": "A",
+        "Source": "The steam-exploded POMLBW was extracted using 60 mL/g distilled water for 24 h at room temperature; the water-soluble-derived lignin (WSL) was then filtered using filter paper no. 131."
+    },
+    "Question_4": {
+        "Context": "The study evaluated the thermal behavior of lignin-derived products using differential scanning calorimetry.",
+        "Question": "What is the glass transition temperature (Tg) of lignin-derived products from EFB 35/5?",
+        "A": "85 \u00b0C",
+        "B": "47 \u00b0C",
+        "C": "70 \u00b0C",
+        "D": "90 \u00b0C",
+        "Answer": "B",
+        "Source": "EFB 35/5 showed the lowest Tg at 47 \u00b0C."
+    },
+    "Question_5": {
+        "Context": "The study assessed the antimicrobial activities of lignin-derived products using agar diffusion assays.",
+        "Question": "Which bacteria showed the highest inhibition zone by LML from KS 35/5?",
+        "A": "Salmonella enterica",
+        "B": "Pseudomonas aeruginosa",
+        "C": "Escherichia coli",
+        "D": "Staphylococcus aureus",
+        "Answer": "A",
+        "Source": "LML in all steam-exploded EFB, KF, and KS inhibited S. enterica with an approximately 0.4 cm inhibition zone."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the thermal decomposition of lignin-derived products using thermogravimetric analysis.",
+        "Question": "What is the temperature at which the samples start losing mass (Ts) for LML KS 40/5?",
+        "A": "123 \u00b0C",
+        "B": "108 \u00b0C",
+        "C": "121 \u00b0C",
+        "D": "106 \u00b0C",
+        "Answer": "A",
+        "Source": "Condition 40/5 resulted in Ts at 123 \u00b0C."
+    },
+    "Question_7": {
+        "Context": "The study investigated the polyphenol content and antioxidant activity of lignin-derived products.",
+        "Question": "Which severity factor resulted in the highest polyphenol amount in WSL from EFB?",
+        "A": "20/5",
+        "B": "35/5",
+        "C": "40/5",
+        "D": "45/5",
+        "Answer": "C",
+        "Source": "EFB 40/5 produced the highest amount of polyphenols."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the molecular weight of lignin-derived products using gel permeation chromatography.",
+        "Question": "What was the average molecular weight of LML from KF 35/5?",
+        "A": "2769 Da",
+        "B": "1840 Da",
+        "C": "757 Da",
+        "D": "621 Da",
+        "Answer": "A",
+        "Source": "The LML from KF 35/5 had an average molecular weight between 2769 and 1840 Da."
+    },
+    "Question_9": {
+        "Context": "The study assessed the polyphenol content of lignin-derived products using the Folin\u2013Ciocalteu method.",
+        "Question": "Which condition resulted in the lowest EC50 value for LML from EFB?",
+        "A": "20/5",
+        "B": "35/5",
+        "C": "40/5",
+        "D": "45/5",
+        "Answer": "C",
+        "Source": "The highest RSA value of the LML steam-exploded EFB was found at 40/5, which also had a low EC50 value."
+    },
+    "Question_10": {
+        "Context": "The study investigated the antimicrobial activities of lignin-derived products using agar diffusion assays.",
+        "Question": "Which bacteria showed the lowest inhibition zone by LML from KF 40/5?",
+        "A": "Salmonella enterica",
+        "B": "Pseudomonas aeruginosa",
+        "C": "Escherichia coli",
+        "D": "Staphylococcus aureus",
+        "Answer": "D",
+        "Source": "The smallest inhibition zone was observed for the KS 45/10 pretreatment."
+    }
+}

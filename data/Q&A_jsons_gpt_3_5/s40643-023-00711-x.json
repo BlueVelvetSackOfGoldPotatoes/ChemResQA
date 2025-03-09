@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on engineering whole cell systems with co-display of adhesive proteins and PETase for PET biodegradation. The efficiency of PET degradation was compared between different systems.",
+        "Question": "What was the major hydrolytic product observed when using free Fast-PETase for PET degradation?",
+        "A": "Bis(2-hydroxyethyl) terephthalate (BHET)",
+        "B": "Mono(2-hydroxyethyl) terephthalate (MHET)",
+        "C": "Terephthalic acid (TPA)",
+        "D": "Ethylene glycol (EG)",
+        "Answer": "B",
+        "Source": "When we used free Fast-PETase for PET degradation, MHET accounted for the largest proportion (over 90%) of all degradation products (BHET, MHET and TPA), which is consistent with literatures that another MHETase should be involved in the hydrolysis of MHET."
+    },
+    "Question_2": {
+        "Context": "The study investigated the adhesion ability of engineered E. coli cells displaying different adhesive proteins on PET surfaces.",
+        "Question": "Which marine organism-derived adhesive protein showed a 50% increase in adhesion ability compared to E. coli cells without adhesive proteins?",
+        "A": "cp52k",
+        "B": "mfp-3",
+        "C": "Both cp52k and mfp-3",
+        "D": "Neither cp52k nor mfp-3",
+        "Answer": "B",
+        "Source": "Compared to E. coli cells without adhesive proteins, the display of mfp-3 showed a 50% increase of adhering cell number."
+    },
+    "Question_3": {
+        "Context": "The study compared the PET degradation efficiency of E. coli cells solely displaying Fast-PETase and those co-displaying adhesive proteins and Fast-PETase.",
+        "Question": "Which system showed the highest PET degradation rate of over 15% within 24 hours?",
+        "A": "E. coli cells solely displaying Fast-PETase",
+        "B": "E. coli co-display-cp52k",
+        "C": "E. coli co-display-mfp",
+        "D": "All systems showed the same degradation rate",
+        "Answer": "C",
+        "Source": "The PET degradation rate of co-display-mfp in 24 h exceeded 15%, which was twofold more than that by solely displaying Fast-PETase."
+    },
+    "Question_4": {
+        "Context": "The study examined the efficiency of different anchor proteins for displaying Fast-PETase on the surfaces of E. coli cells.",
+        "Question": "Which anchor protein was found to be the best for displaying Fast-PETase based on PET degradation efficiency?",
+        "A": "INPNC",
+        "B": "YeeJ",
+        "C": "OmpA",
+        "D": "AIDA-I",
+        "Answer": "D",
+        "Source": "The comparison of PET degradation efficiency by three systems under the same conditions indicated that AIDA-I is the best anchor protein."
+    },
+    "Question_5": {
+        "Context": "The study investigated the effect of co-displaying adhesive proteins and Fast-PETase on the surfaces of E. coli cells for PET biodegradation.",
+        "Question": "Which system showed a 2.31-fold improvement in PET degradation compared to using an equivalent amount of free Fast-PETase?",
+        "A": "Sole-display system",
+        "B": "Co-display-cp52k system",
+        "C": "Co-display-mfp system",
+        "D": "All systems showed the same improvement",
+        "Answer": "C",
+        "Source": "For the co-display strains, 57 ng or 60 ng of Fast-PETase was displayed on the surfaces for E. coli co-display-cp52k or E. coli co-display-mfp, respectively. The degradation rate of sole-display, co-sdisplay-cp52k and co-display-mfp increased by 0.45, 1.39 and 2.31-fold, respectively."
+    },
+    "Question_6": {
+        "Context": "The study examined the adhesion performance of E. coli cells displaying adhesive proteins on PET surfaces.",
+        "Question": "Which adhesive protein was selected for evaluation based on its strong hydrophobic reactions with PET surfaces?",
+        "A": "cp52k",
+        "B": "mfp-3",
+        "C": "Both cp52k and mfp-3",
+        "D": "Neither cp52k nor mfp-3",
+        "Answer": "A",
+        "Source": "Because cp52k contains over 50% hydrophobic amino acids, this characteristic makes it possible to form strong hydrophobic reactions with PET surfaces."
+    },
+    "Question_7": {
+        "Context": "The study compared the efficiency of different anchor proteins for displaying Fast-PETase on the surfaces of E. coli cells.",
+        "Question": "Which anchor protein was selected for displaying Fast-PETase based on the comparison of PET degradation efficiency among different systems?",
+        "A": "INPNC",
+        "B": "YeeJ",
+        "C": "OmpA",
+        "D": "AIDA-I",
+        "Answer": "D",
+        "Source": "The comparison of PET degradation efficiency by three systems under the same conditions indicated that AIDA-I is the best anchor protein."
+    },
+    "Question_8": {
+        "Context": "The study examined the adhesion ability of engineered E. coli cells displaying different adhesive proteins on PET surfaces.",
+        "Question": "Which adhesive protein was known to form strong \u03c0-\u03c0 and cation-\u03c0 interactions with poly- styrene and polymethylmethacrylate?",
+        "A": "cp52k",
+        "B": "mfp-3",
+        "C": "Both cp52k and mfp-3",
+        "D": "Neither cp52k nor mfp-3",
+        "Answer": "B",
+        "Source": "mfp-3, a type of mussel adhesive protein, is known to form strong \u03c0-\u03c0 and cation-\u03c0 interactions with polystyrene and polymethylmethacrylate."
+    },
+    "Question_9": {
+        "Context": "The study focused on engineering whole cell systems with co-display of adhesive proteins and PETase for PET biodegradation.",
+        "Question": "What was the major hydrolytic product observed when using free Fast-PETase for PET degradation?",
+        "A": "Bis(2-hydroxyethyl) terephthalate (BHET)",
+        "B": "Mono(2-hydroxyethyl) terephthalate (MHET)",
+        "C": "Terephthalic acid (TPA)",
+        "D": "Ethylene glycol (EG)",
+        "Answer": "B",
+        "Source": "When we used free Fast-PETase for PET degradation, MHET accounted for the largest proportion (over 90%) of all degradation products (BHET, MHET and TPA), which is consistent with literatures that another MHETase should be involved in the hydrolysis of MHET."
+    },
+    "Question_10": {
+        "Context": "The study compared the PET degradation efficiency of E. coli cells solely displaying Fast-PETase and those co-displaying adhesive proteins and Fast-PETase.",
+        "Question": "Which system showed the highest PET degradation rate of over 15% within 24 hours?",
+        "A": "E. coli cells solely displaying Fast-PETase",
+        "B": "E. coli co-display-cp52k",
+        "C": "E. coli co-display-mfp",
+        "D": "All systems showed the same degradation rate",
+        "Answer": "C",
+        "Source": "The PET degradation rate of co-display-mfp in 24 h exceeded 15%, which was twofold more than that by solely displaying Fast-PETase."
+    }
+}

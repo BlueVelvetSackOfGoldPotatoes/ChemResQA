@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study, what method was used to improve chromatographic selectivity by minimizing matrix interference?",
+        "Question": "What method was used to improve chromatographic selectivity by minimizing matrix interference?",
+        "A": "Matrix-matched calibration curve",
+        "B": "Standard calibration curve",
+        "C": "Internal standard",
+        "D": "Blank sample",
+        "Answer": "A",
+        "Source": "For unavoidable signal modification, a matrix-matched calibration curve was used to compensate for the matrix effect. Minimizing matrix interference by sample clean-up improves chromatographic selectivity."
+    },
+    "Question_2": {
+        "Context": "What was the main purpose of using a matrix-matched calibration curve in the study?",
+        "Question": "What was the main purpose of using a matrix-matched calibration curve?",
+        "A": "To enhance signal enhancement",
+        "B": "To compensate for the matrix effect",
+        "C": "To introduce noise in the signal",
+        "D": "To suppress the signal",
+        "Answer": "B",
+        "Source": "For unavoidable signal modification, a matrix-matched calibration curve was used to compensate for the matrix effect."
+    },
+    "Question_3": {
+        "Context": "What was the LOD value for the seven SUHs in the study?",
+        "Question": "What was the LOD value for the seven SUHs?",
+        "A": "0.003 mg kg\u22121",
+        "B": "0.008 mg kg\u22121",
+        "C": "0.009 mg kg\u22121",
+        "D": "0.01 mg kg\u22121",
+        "Answer": "A",
+        "Source": "The LODs for the 7 SUHs were 0.003 mg kg\u22121."
+    },
+    "Question_4": {
+        "Context": "What was the range of analyte concentrations for which the calibration curves for the seven SUHs showed good linearity?",
+        "Question": "What was the range of analyte concentrations for good linearity in the calibration curves?",
+        "A": "0.156\u201310.0 mg L\u22121",
+        "B": "0.01\u20130.1 mg L\u22121",
+        "C": "0.5\u20135.0 mg L\u22121",
+        "D": "1.0\u201320.0 mg L\u22121",
+        "Answer": "A",
+        "Source": "Calibration curves for the seven SUHs showed good linearity, with coefficients of determination exceeding 0.9970 in the 0.156\u201310.0 mg L\u22121 range of analyte concentrations."
+    },
+    "Question_5": {
+        "Context": "What was the main consideration for the LODs and LOQs obtained in the study?",
+        "Question": "What was the main consideration for the LODs and LOQs obtained?",
+        "A": "They were higher than recommended values",
+        "B": "They were lower than recommended values",
+        "C": "They were comparable to recommended values",
+        "D": "They were not reported in the study",
+        "Answer": "B",
+        "Source": "The LODs and LOQs obtained in this study were lower than those recommended by the EU and the Korean Ministry of Food and Drug Safety."
+    },
+    "Question_6": {
+        "Context": "What was the recovery range (%) considered acceptable for the seven SUHs in the study?",
+        "Question": "What was the recovery range (%) considered acceptable for the seven SUHs?",
+        "A": "50-80%",
+        "B": "70-120%",
+        "C": "90-100%",
+        "D": "30-60%",
+        "Answer": "B",
+        "Source": "Validated method performance should comply with the SANTE/11312/2021 guidelines, with a recovery range of 70\u2013120%."
+    },
+    "Question_7": {
+        "Context": "What was the main conclusion regarding the recoveries observed for all the SUHs in the study?",
+        "Question": "What was the main conclusion regarding the recoveries observed for all the SUHs?",
+        "A": "Acceptable recoveries and good precision",
+        "B": "Unacceptable recoveries and poor precision",
+        "C": "High recoveries but poor precision",
+        "D": "Low recoveries and poor precision",
+        "Answer": "A",
+        "Source": "All seven analytes exhibited acceptable recoveries and good precision."
+    },
+    "Question_8": {
+        "Context": "What was the main outcome of applying the developed method to real-life tomato samples in the study?",
+        "Question": "What was the main outcome of applying the developed method to real-life tomato samples?",
+        "A": "High levels of pesticide residues detected",
+        "B": "No SUH residues exceeding LOD values",
+        "C": "Contamination with multiple herbicides",
+        "D": "Exceeded maximum residue limits",
+        "Answer": "B",
+        "Source": "The quantitative results revealed that none of the samples contained any of the seven SUHs in quantities exceeding the LOD values."
+    },
+    "Question_9": {
+        "Context": "What was the main purpose of the method validation in the study?",
+        "Question": "What was the main purpose of the method validation?",
+        "A": "To determine the LODs and LOQs",
+        "B": "To evaluate the color removal efficiency",
+        "C": "To assess the recoveries and precision",
+        "D": "To establish MRLs for the SUHs",
+        "Answer": "C",
+        "Source": "To evaluate the accuracy and precision of the developed method, the recoveries were determined with blank samples spiked at three fortification levels."
+    },
+    "Question_10": {
+        "Context": "What was the main sorbent used for the d-SPE clean-up in the study?",
+        "Question": "What was the main sorbent used for the d-SPE clean-up?",
+        "A": "Graphitized carbon black (GCB)",
+        "B": "Z-Sep+",
+        "C": "Octadecylsilane (C18)",
+        "D": "Zirconium-based sorbents",
+        "Answer": "C",
+        "Source": "Based on the color removal rate and analyte recovery, 300 mg of C18 was selected for the d-SPE clean-up."
+    }
+}

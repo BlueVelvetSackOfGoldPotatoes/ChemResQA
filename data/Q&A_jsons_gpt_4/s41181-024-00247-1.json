@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Positron emission tomography (PET) is a nuclear medicine functional imaging technique used to observe metabolic processes in the body. The technique uses radiopharmaceuticals that emit positrons, which annihilate with electrons resulting in the emission of gamma rays that are detected by the PET scanner.",
+        "Question": "What is the primary advantage of using fluorine-18 (18F) over gallium-68 (68Ga) in PET radiopharmaceuticals?",
+        "A": "Fluorine-18 has a shorter half-life, allowing for quicker imaging.",
+        "B": "Fluorine-18 has a higher branching fraction and lower average positron energy, resulting in higher resolution images.",
+        "C": "Fluorine-18 is less radioactive and safer for patients.",
+        "D": "Fluorine-18 is cheaper and more readily available than gallium-68.",
+        "Answer": "B",
+        "Source": "In general, higher resolution images are obtained with fluorine-18 vs gallium-68 due to the differences in their physical decay properties, the former having a higher branching fraction and lower average positron energy."
+    },
+    "Question_2": {
+        "Context": "In radiopharmaceutical development, the synthesis of radiotracers often requires optimization of reaction parameters such as time, temperature, and reagent amounts to achieve high radiochemical yield and purity.",
+        "Question": "What is a key factor that can affect the radiochemical yield of a PET radiotracer during its synthesis?",
+        "A": "The color of the reaction mixture",
+        "B": "The brand of the equipment used for synthesis",
+        "C": "The sensitivity of the radiochemical yield to reaction parameters",
+        "D": "The time of day when the synthesis is performed",
+        "Answer": "C",
+        "Source": "The sensitivity of the radiochemical yield of [18F]AlF-P16-093 to reaction parameters of time, temperature and reagent amounts was investigated using a custom automated system."
+    },
+    "Question_3": {
+        "Context": "Solid phase extraction (SPE) is a method used in chemistry for separating compounds based on their physical and chemical properties. It is often used in the purification process of chemical syntheses, including the preparation of radiopharmaceuticals.",
+        "Question": "What is the purpose of using solid phase extraction (SPE) in the synthesis of radiopharmaceuticals?",
+        "A": "To increase the temperature of the reaction mixture",
+        "B": "To separate desired radiopharmaceuticals from impurities",
+        "C": "To change the color of the radiopharmaceutical",
+        "D": "To measure the radioactivity of the radiopharmaceutical",
+        "Answer": "B",
+        "Source": "The mixture was purified by SPE (> 97% recovery)."
+    },
+    "Question_4": {
+        "Context": "The stability of a radiopharmaceutical is important for its clinical use, as it must maintain its radiochemical purity over time to ensure accurate imaging and patient safety.",
+        "Question": "What is an indicator of a radiopharmaceutical's stability?",
+        "A": "Its color change over time",
+        "B": "Its rate of decline in radiochemical purity over time",
+        "C": "The change in temperature over time",
+        "D": "The change in viscosity over time",
+        "Answer": "B",
+        "Source": "The final product formulation exhibited a rate of decline in radiochemical purity of ~ 1.4%/h which was slowed to ~ 0.4%/h when stored at 4 \u00b0C."
+    },
+    "Question_5": {
+        "Context": "The molar activity of a radiopharmaceutical is a measure of the radioactivity per amount of substance, and it is an important parameter that can influence the quality of PET imaging.",
+        "Question": "What does a higher molar activity in a radiopharmaceutical imply?",
+        "A": "Lower radiochemical purity",
+        "B": "Lower radioactivity per amount of substance",
+        "C": "Higher radioactivity per amount of substance",
+        "D": "Higher toxicity to patients",
+        "Answer": "C",
+        "Source": "The optimized none-decay-corrected yield was 52 \u00b1 4% with a molar activity of 109 \u00b1 14 GBq/\u00b5mole."
+    },
+    "Question_6": {
+        "Context": "In the context of radiopharmaceuticals, the term 'radiochemical purity' refers to the proportion of the radiopharmaceutical that is in the desired chemical form.",
+        "Question": "What is meant by 'radiochemical purity' in radiopharmaceuticals?",
+        "A": "The proportion of the drug that is not radioactive",
+        "B": "The proportion of the drug that is in the desired chemical form",
+        "C": "The color purity of the radiopharmaceutical solution",
+        "D": "The proportion of the drug that is in a solid state",
+        "Answer": "B",
+        "Source": "The optimized none-decay-corrected yield was 52 \u00b1 4% with a molar activity of 109 \u00b1 14 GBq/\u00b5mole and a radiochemical purity of 98.6 \u00b1 0.6%."
+    },
+    "Question_7": {
+        "Context": "The half-life of a radionuclide is the time required for half of the radioactive atoms in a sample to decay. It is a critical factor in determining the suitability of a radionuclide for clinical use in PET imaging.",
+        "Question": "Why is the half-life of a radionuclide important in PET imaging?",
+        "A": "It determines the color of the radiotracer",
+        "B": "It influences the resolution of the images",
+        "C": "It affects the time available for imaging and distribution",
+        "D": "It determines the viscosity of the radiotracer",
+        "Answer": "C",
+        "Source": "The authors surmised that improved image contrast was due in part to the later imaging (120 min after injection) which was possible because of the longer half-life of fluorine-18 compared to gallium-68 (109.6 min vs. 68 min) and higher injected activity."
+    },
+    "Question_8": {
+        "Context": "Prostate-specific membrane antigen (PSMA) is a protein expressed in high amounts on the surface of prostate cancer cells, and it is targeted by radiopharmaceuticals for PET imaging to improve the staging and detection of prostate cancer.",
+        "Question": "What is the role of prostate-specific membrane antigen (PSMA) in PET imaging for prostate cancer?",
+        "A": "It is used to decrease the resolution of PET images",
+        "B": "It is a target for radiopharmaceuticals to bind to prostate cancer cells",
+        "C": "It increases the half-life of radiopharmaceuticals",
+        "D": "It is used to reduce the radiochemical purity of radiopharmaceuticals",
+        "Answer": "B",
+        "Source": "Recent advancements in positron emission tomograph (PET) using prostate specific membrane antigen (PSMA)-targeted radiopharmaceuticals have changed the standard of care for prostate cancer patients by providing more accurate information during staging of primary and recurrent disease."
+    },
+    "Question_9": {
+        "Context": "The chelation process in radiopharmaceutical synthesis involves the formation of a complex between a metal ion and an organic molecule, which can be used to incorporate radionuclides such as fluorine-18 into the compound.",
+        "Question": "What is the purpose of chelation in the synthesis of radiopharmaceuticals?",
+        "A": "To decrease the half-life of the radionuclide",
+        "B": "To enhance the color of the radiopharmaceutical",
+        "C": "To incorporate radionuclides into the compound",
+        "D": "To reduce the radioactivity of the compound",
+        "Answer": "C",
+        "Source": "[18F]AlF-P16-093 incorporates the acyclic chelator HBED-CC, like PSMA-11, which forms the basis for application of the [18F]AlF2+ method."
+    },
+    "Question_10": {
+        "Context": "The optimization of production parameters for radiopharmaceuticals is essential to ensure high yield, purity, and efficiency of the synthesis process, which is crucial for clinical applications.",
+        "Question": "What is an important consideration when optimizing the production of a radiopharmaceutical?",
+        "A": "The aesthetic appearance of the synthesis equipment",
+        "B": "The personal preferences of the chemist",
+        "C": "The efficiency and yield of the synthesis process",
+        "D": "The time of day when the synthesis is initiated",
+        "Answer": "C",
+        "Source": "This work reports the optimization of the production of > 15 GBq of [18F]AlF-P16-093 using a custom automated synthesis platform."
+    }
+}

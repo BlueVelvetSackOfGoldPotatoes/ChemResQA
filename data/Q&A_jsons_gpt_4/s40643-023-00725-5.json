@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Perylenequinones are a group of naturally occurring organic compounds known for their photosensitizing properties, which make them useful in photodynamic therapy.",
+        "Question": "What type of organic compounds serve as excellent photosensitizers for photodynamic therapy?",
+        "A": "Perylenequinones",
+        "B": "Flavonoids",
+        "C": "Terpenoids",
+        "D": "Alkaloids",
+        "Answer": "A",
+        "Source": "Perylenequinones (PQs) from bambusicolous Shiraia fungi serve as excellent photosensitizers for photodynamic therapy."
+    },
+    "Question_2": {
+        "Context": "In the context of fungal secondary metabolite biosynthesis, light is considered a pivotal regulatory signal.",
+        "Question": "What environmental factor has long been recognized as a pivotal regulatory signal for fungal secondary metabolite biosynthesis?",
+        "A": "Temperature",
+        "B": "Light",
+        "C": "Humidity",
+        "D": "Soil nutrients",
+        "Answer": "B",
+        "Source": "Light has long been recognized as a pivotal regulatory signal for fungal secondary metabolite biosynthesis."
+    },
+    "Question_3": {
+        "Context": "Nitric oxide (NO) is a small signaling molecule that has been found to play a role in various biological processes, including the regulation of growth and biosynthesis in fungi.",
+        "Question": "Which signaling molecule is involved in the regulation of growth and PQ production in fungi?",
+        "A": "Carbon dioxide",
+        "B": "Oxygen",
+        "C": "Nitric oxide",
+        "D": "Hydrogen sulfide",
+        "Answer": "C",
+        "Source": "These results showed that red light-induced NO, as a signaling molecule, was involved in the regulation of growth and PQ production in Shiraia sp. S9."
+    },
+    "Question_4": {
+        "Context": "In fungi, nitric oxide synthase (NOS) and nitrate reductase (NR) are enzymes that have been implicated in the generation of nitric oxide.",
+        "Question": "Which enzymes are involved in the generation of nitric oxide in fungi?",
+        "A": "Ligase and lyase",
+        "B": "Hydrolase and isomerase",
+        "C": "Nitric oxide synthase and nitrate reductase",
+        "D": "Oxidase and reductase",
+        "Answer": "C",
+        "Source": "Red light exposure induced NO generation, peaking to 81.7 \u03bcmol/g FW on day 8 of the culture, with the involvement of nitric oxide synthase (NOS)- or nitrate reductase (NR)-dependent pathways."
+    },
+    "Question_5": {
+        "Context": "Intracellular calcium (Ca2+) and extracellular ATP (eATP) are signaling molecules that can be transiently increased in response to certain stimuli, affecting various cellular processes.",
+        "Question": "Which signaling molecules are known to increase transiently in response to certain stimuli and affect cellular processes?",
+        "A": "Glucose and fructose",
+        "B": "Intracellular calcium and extracellular ATP",
+        "C": "Intracellular potassium and extracellular ADP",
+        "D": "Intracellular sodium and extracellular AMP",
+        "Answer": "B",
+        "Source": "While mycelial H2O2 content exhibited no significant alternations, a transient increase of intracellular Ca2+ and extracellular ATP (eATP) content was detected upon exposure to red light."
+    },
+    "Question_6": {
+        "Context": "Hypocrellin A, a type of perylenequinone, is known for its strong photodynamic effects and is advantageous for biomedical applications due to its high yields of reactive oxygen species.",
+        "Question": "What are the advantages of Hypocrellin A for biomedical applications?",
+        "A": "High yields of reactive nitrogen species",
+        "B": "High dark toxicity",
+        "C": "Slow metabolism",
+        "D": "High yields of reactive oxygen species",
+        "Answer": "D",
+        "Source": "Hypocrellin A (HA), a type of hypocrellins, exhibits strong photodynamic effects on tumor cells and microbial pathogens when exposed to visible light and oxygen. It has advantages such as high yields of reactive oxygen species (ROS), low dark toxicity, and rapid metabolism for the biomedical application."
+    },
+    "Question_7": {
+        "Context": "Fungal secondary metabolites can be produced through biotechnological alternatives such as mycelium cultures, which can be a solution to the challenges in artificial cultivation and chemical synthesis.",
+        "Question": "What biotechnological alternative is used for the production of fungal secondary metabolites due to challenges in artificial cultivation and chemical synthesis?",
+        "A": "Plant tissue cultures",
+        "B": "Bacterial fermentation",
+        "C": "Mycelium cultures",
+        "D": "Animal cell cultures",
+        "Answer": "C",
+        "Source": "However, due to difficulties in artificial cultivation of the fruiting body and challenges in chemical synthesis of PQs like hypocrellins, Shiraia mycelium cultures have emerged as a biotechnological alternative for PQ production."
+    },
+    "Question_8": {
+        "Context": "Red light has been shown to significantly promote the production of certain fungal metabolites, which is an example of how environmental signals can influence the biosynthesis of secondary metabolites.",
+        "Question": "What effect does red light have on the production of certain fungal metabolites?",
+        "A": "It significantly reduces production",
+        "B": "It has no significant effect",
+        "C": "It significantly promotes production",
+        "D": "It temporarily halts production",
+        "Answer": "C",
+        "Source": "Red light has been recognized as an essential environmental signal that facilitates the production of fungal metabolites, such as exo- and endo- polysaccharides of Ganoderma lucidum (Poyedinok et al. 2008), mycophenolic acid of Penicillium brevicompactum (Shu et al. 2010), and fumonisin B1-B3 of Fusarium verticillioides (Fanelli et al. 2012)."
+    },
+    "Question_9": {
+        "Context": "The signaling molecule nitric oxide (NO) can be generated in fungi during exposure to light, and this generation can be upregulated by certain types of light exposure.",
+        "Question": "What can upregulate the generation of nitric oxide in fungi?",
+        "A": "Exposure to darkness",
+        "B": "Exposure to red light",
+        "C": "Exposure to infrared light",
+        "D": "Exposure to ultraviolet light",
+        "Answer": "B",
+        "Source": "NO generation was also observed in fungi during light exposure, such as in Trichophyton rubrum, where intense pulsed light at 420 nm upregulated nitric oxide synthase (NOS) to synthesize NO, leading to fungal growth inhibition."
+    },
+    "Question_10": {
+        "Context": "The application of a nitric oxide donor can influence the production of secondary metabolites in fungi, as demonstrated by the use of sodium nitroprusside (SNP).",
+        "Question": "What is the effect of applying a nitric oxide donor like sodium nitroprusside (SNP) on the production of secondary metabolites in fungi?",
+        "A": "It has no effect",
+        "B": "It decreases production",
+        "C": "It increases production",
+        "D": "It changes the type of metabolites produced",
+        "Answer": "C",
+        "Source": "The application of a NO donor sodium nitroprusside (SNP) restored conidiation of Shiraia sp. S9 under red light and stimulated PQ production, which was mitigated upon the introduction of NO scavenger carboxy-PTIO or soluble guanylate cyclase inhibitor NS-2028."
+    }
+}

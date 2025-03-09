@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In fluid dynamics, squeezing flow refers to a situation where a material is compressed between two parallel plates and then squeezed out radially. This concept is relevant in various scientific and engineering applications, such as polymer processing and lubrication systems.",
+        "Question": "What happens to a material in a squeezing flow scenario?",
+        "A": "It is heated until it evaporates",
+        "B": "It is compressed between two parallel plates and squeezed out radially",
+        "C": "It undergoes a chemical reaction",
+        "D": "It is frozen into a solid state",
+        "Answer": "B",
+        "Source": "In squeezing flows, a material is compressed between two parallel plates and then squeezed out radially."
+    },
+    "Question_2": {
+        "Context": "Magnetohydrodynamics (MHD) deals with the dynamics of electrically conducting fluids in the presence of a magnetic field. The study of MHD nanofluid squeezing flow involves understanding how these fluids behave when subjected to a magnetic field between two plates.",
+        "Question": "What does MHD stand for in the context of fluid dynamics?",
+        "A": "Massive Hydrodynamic Displacement",
+        "B": "Molecular Hydrodynamic Distribution",
+        "C": "Magnetohydrodynamics",
+        "D": "Magnetic Hydrodynamic Diffusion",
+        "Answer": "C",
+        "Source": "In this paper, the heat and mass transfer of MHD nanofluid squeezing flow between two parallel plates are investigated."
+    },
+    "Question_3": {
+        "Context": "Brownian motion in the context of nanofluids refers to the random movement of nanoparticles suspended in a fluid, which can affect the heat transfer properties of the fluid.",
+        "Question": "What effect does increasing the Brownian motion parameter have on the temperature profile of a nanofluid?",
+        "A": "Decreases the temperature profile",
+        "B": "No effect on the temperature profile",
+        "C": "Causes fluctuations in the temperature profile",
+        "D": "Increases the temperature profile",
+        "Answer": "D",
+        "Source": "The results indicated that increasing the Brownian motion parameter causes an increase in the temperature profile."
+    },
+    "Question_4": {
+        "Context": "Thermophoresis is a phenomenon where particles in a fluid move along a temperature gradient, which can influence the distribution of nanoparticles in a nanofluid.",
+        "Question": "What is the effect of enhancing the thermophoresis parameter on the temperature profile of a nanofluid?",
+        "A": "Increases the temperature profile",
+        "B": "Decreases the temperature profile",
+        "C": "No change to the temperature profile",
+        "D": "Makes the temperature profile oscillate",
+        "Answer": "B",
+        "Source": "Also, it was found that enhancing the thermophoresis parameter results in decreasing the temperature profile."
+    },
+    "Question_5": {
+        "Context": "In the study of nanofluids, the squeezing parameter is a dimensionless number that characterizes the degree of compression and expansion between two plates.",
+        "Question": "What is the significance of the squeezing parameter in the study of nanofluid flow?",
+        "A": "It indicates the type of nanoparticles used",
+        "B": "It determines the chemical composition of the nanofluid",
+        "C": "It characterizes the degree of compression and expansion between two plates",
+        "D": "It measures the magnetic field strength",
+        "Answer": "C",
+        "Source": "The affecting parameters on the flow and heat transfer are Brownian motion, Thermophoresis parameter, Squeezing parameter and the magnetic field."
+    },
+    "Question_6": {
+        "Context": "The Nusselt number is a dimensionless number that describes the rate of heat transfer in a fluid. It is influenced by various factors, including the presence of nanoparticles and the flow conditions.",
+        "Question": "What relationship does the Nusselt number have with the nanoparticle volume fraction in a nanofluid flow between parallel plates?",
+        "A": "Direct relationship",
+        "B": "Inverse relationship",
+        "C": "No relationship",
+        "D": "Proportional to the square of the volume fraction",
+        "Answer": "A",
+        "Source": "They indicated that the Nusselt number is directly related to nanoparticle volume fraction along with Squeeze number and Eckert number for two separated plates."
+    },
+    "Question_7": {
+        "Context": "The Prandtl number is a dimensionless number in fluid dynamics that indicates the ratio of momentum diffusivity to thermal diffusivity. It is used to characterize the flow of fluids in various situations.",
+        "Question": "In the context of nanofluid flow, what does the Prandtl number represent?",
+        "A": "Ratio of magnetic force to viscous force",
+        "B": "Ratio of momentum diffusivity to thermal diffusivity",
+        "C": "Ratio of thermal conductivity to particle concentration",
+        "D": "Ratio of Brownian motion to thermophoresis",
+        "Answer": "B",
+        "Source": "Pr is the Prandtl number, and Le is the Lewis number and are defined as follows: Pr = \u03c5/\u03b1;"
+    },
+    "Question_8": {
+        "Context": "The Lewis number is a dimensionless number that characterizes the relative importance of thermal diffusivity versus mass diffusivity in a fluid.",
+        "Question": "What does the Lewis number signify in the study of heat and mass transfer in fluids?",
+        "A": "The strength of the magnetic field",
+        "B": "The rate of heat transfer",
+        "C": "The relative importance of thermal diffusivity versus mass diffusivity",
+        "D": "The concentration of nanoparticles",
+        "Answer": "C",
+        "Source": "Pr is the Prandtl number, and Le is the Lewis number and are defined as follows: Le = thermal diffusivity/mass diffusivity;"
+    },
+    "Question_9": {
+        "Context": "The Hartmann number is a dimensionless number in magnetohydrodynamics that measures the relative strength of a magnetic field to the viscous forces in a conducting fluid.",
+        "Question": "What does the Hartmann number measure in the context of MHD nanofluid flow?",
+        "A": "The ratio of heat transfer to mass transfer",
+        "B": "The relative strength of a magnetic field to the viscous forces",
+        "C": "The concentration of nanoparticles in the fluid",
+        "D": "The rate of squeezing flow",
+        "Answer": "B",
+        "Source": "M is the Hartmann number, Nb is the Brownian motion parameter, Nt is the Thermophoretic parameter, Pr is the Prandtl number, and Le is the Lewis number and are defined as follows: M = (\u03c3B^2_0H^2/\u03bc)^0.5;"
+    },
+    "Question_10": {
+        "Context": "In the study of nanofluids, the Brownian motion coefficient and the thermophoresis coefficient are parameters that describe the motion of nanoparticles due to random collisions and temperature gradients, respectively.",
+        "Question": "What is the role of the Brownian motion coefficient in the behavior of nanofluids?",
+        "A": "It describes the motion of nanoparticles due to gravitational forces",
+        "B": "It describes the motion of nanoparticles due to random collisions",
+        "C": "It describes the motion of nanoparticles due to magnetic fields",
+        "D": "It describes the motion of nanoparticles due to electric fields",
+        "Answer": "B",
+        "Source": "Nb is the Brownian motion parameter, Nt is the Thermophoretic parameter, Pr is the Prandtl number, and Le is the Lewis number and are defined as follows: Nb = (\u03c1c)pDB(CW-Ch)/((\u03c1c)f\u03c5);"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In radionuclide therapy, combining different types of radiation can be beneficial for treating tumors of various sizes. Low-LET radiation, such as beta particles, has a longer tissue penetration and is suitable for larger tumors, while high-LET radiation like alpha particles or Auger electrons is more effective for smaller cancer sites due to their shorter tissue range.",
+        "Question": "What is an advantage of using high-LET radiation in radionuclide therapy?",
+        "A": "It has a longer tissue penetration suitable for large tumors.",
+        "B": "It is more cost-effective compared to low-LET radiation.",
+        "C": "It has a shorter tissue range effective against smaller cancer sites.",
+        "D": "It can be easily shielded to protect healthy tissue.",
+        "Answer": "C",
+        "Source": "Relative long tissue penetration of \u03b2\u2212 particles, reaching 0.5\u201312 mm with LET 0.2 keV/\u00b5m, makes them favorable for large tumors treatment. Conversely, high-LET (50\u2013230 keV/\u00b5m) \u03b1 particles with significantly shorter tissue range (40\u2013100 \u03bcm) are much more effective against smaller cancer sites."
+    },
+    "Question_2": {
+        "Context": "In the field of radionuclide therapy, the concept of an in vivo generator involves a system where a parent radionuclide decays into a daughter radionuclide within the body, emitting radiation that can be therapeutically beneficial.",
+        "Question": "What is the primary benefit of an in vivo generator in radionuclide therapy?",
+        "A": "It allows for external control of radiation emission.",
+        "B": "It ensures simultaneous implementation of different types of radiation.",
+        "C": "It prevents the need for radioactive material to be introduced into the body.",
+        "D": "It exclusively emits alpha particles for cancer treatment.",
+        "Answer": "B",
+        "Source": "In order to enhance therapeutic efficacy, an interesting alternative is to ensure simultaneous implementation of low- and high-LET radiation. The principle of this strategy is primary damage of massive tumors via \u03b2\u2212 radiation with subsequent treatment enhancement due to the tumor subpopulations (such as stem cell-like cells), metastatic sites, or single tumors targeting with Auger electrons or \u03b1 emitters."
+    },
+    "Question_3": {
+        "Context": "Gold nanoparticles can be used as carriers in radionuclide therapy, where radionuclides are deposited onto the nanoparticles. This approach can enhance the efficacy of Auger electron therapy without compromising specificity.",
+        "Question": "Why are gold nanoparticles used as carriers for radionuclides in therapy?",
+        "A": "They can be easily visualized under a microscope.",
+        "B": "They enhance the efficacy of Auger electron therapy.",
+        "C": "They are less toxic than other nanoparticle materials.",
+        "D": "They increase the half-life of the radionuclides.",
+        "Answer": "B",
+        "Source": "In previous studies involving 111In, it was found that the utilization of nanoparticles as carriers significantly enhanced the efficacy of Auger electron therapy, without compromising specificity."
+    },
+    "Question_4": {
+        "Context": "The use of monoclonal antibodies in radionuclide therapy allows for targeted delivery of radiation to specific types of cancer cells. Trastuzumab is a monoclonal antibody that specifically binds to HER2 receptors, which are overexpressed in certain tumors.",
+        "Question": "What is the role of trastuzumab in radionuclide therapy?",
+        "A": "It acts as a general immune system booster.",
+        "B": "It serves as a carrier for radionuclides to target HER2 receptors.",
+        "C": "It directly kills cancer cells without the need for radionuclides.",
+        "D": "It shields healthy cells from radiation exposure.",
+        "Answer": "B",
+        "Source": "In order to enhance the precise targeting of in vivo generator, we utilized trastuzumab, a well-known monoclonal antibody specifically binding to HER2 transmembrane receptors overexpressed in tumors with HER2+ status."
+    },
+    "Question_5": {
+        "Context": "In the synthesis of radiopharmaceuticals, the concept of specific activity is important. It refers to the activity per quantity of a radionuclide in a given compound. High specific activity is necessary for efficient therapy, especially when dealing with Auger electron emitters.",
+        "Question": "Why is high specific activity important in the synthesis of radiopharmaceuticals for Auger electron therapy?",
+        "A": "It ensures a longer shelf-life of the radiopharmaceutical.",
+        "B": "It reduces the overall cost of the treatment.",
+        "C": "It allows for lower doses to be administered to patients.",
+        "D": "It is necessary for efficient therapy with Auger electron emitters.",
+        "Answer": "D",
+        "Source": "The application of radiopharmaceuticals with very high specific activity possessing is necessary for efficient Auger electron therapy."
+    },
+    "Question_6": {
+        "Context": "The stability of radiobioconjugates in physiological conditions is crucial for their use as potential radiopharmaceuticals. The tendency for aggregation or decomposition of these compounds can significantly affect their therapeutic effectiveness and safety.",
+        "Question": "Why is the stability of radiobioconjugates important in physiological conditions?",
+        "A": "Stability ensures the radiobioconjugates can be stored for extended periods.",
+        "B": "Stable radiobioconjugates are less likely to cause allergic reactions.",
+        "C": "Stability affects the therapeutic effectiveness and safety of the compounds.",
+        "D": "Stable compounds have a higher resistance to radiation damage.",
+        "Answer": "C",
+        "Source": "The chemical stability of the bioconjugate in physiological conditions was measured at 37 \u00b0C for 16 days after centrifugation and dispersing the Au@Pd-PEG-trastuzumab in PBS buffer and saline (0.9% NaCl). The tendency for aggregation was investigated by measuring changes in hydrodynamic diameter and zeta potential using the Dynamic Light Scattering (DLS) technique."
+    },
+    "Question_7": {
+        "Context": "In radionuclide therapy, the internalization of radiobioconjugates by cancer cells is a critical step for the effective delivery of therapeutic radiation. The process involves the uptake of radiobioconjugates into the cell, allowing for targeted radiation delivery.",
+        "Question": "What is the significance of internalization of radiobioconjugates by cancer cells in radionuclide therapy?",
+        "A": "It allows for the radiobioconjugates to be recycled by the cancer cells.",
+        "B": "It enables targeted delivery of therapeutic radiation to the cancer cells.",
+        "C": "It prevents the immune system from attacking the radiobioconjugates.",
+        "D": "It increases the visibility of cancer cells under imaging techniques.",
+        "Answer": "B",
+        "Source": "Because of the limited range of Auger electrons, the internalization of radiobioconjugates is essential to attain optimal therapeutic effects."
+    },
+    "Question_8": {
+        "Context": "The cytotoxic effect of radionuclides in cancer therapy can be attributed to the damage they cause to cellular structures. Auger electrons, due to their high linear energy transfer (LET), are particularly effective at inducing double-stranded DNA breaks, leading to cell death.",
+        "Question": "How do Auger electrons induce cytotoxic effects in cancer therapy?",
+        "A": "By causing thermal damage to the cancer cells.",
+        "B": "By inducing double-stranded DNA breaks leading to cell death.",
+        "C": "By disrupting the cell's metabolic pathways.",
+        "D": "By triggering an immune response against the cancer cells.",
+        "Answer": "B",
+        "Source": "Despite the lack of nuclear localization, which is necessary to achieve an effective cytotoxic effect of Auger electrons, a substantial cytotoxic effect, significantly greater than that of pure \u03b2\u2212 and pure Auger electron emitters was observed."
+    },
+    "Question_9": {
+        "Context": "In the development of radiopharmaceuticals, the concept of an in vivo generator can be advantageous. An in vivo generator is a system where a parent radionuclide decays into a daughter radionuclide, which then emits radiation that can be used for therapeutic purposes.",
+        "Question": "What is an in vivo generator in the context of radiopharmaceutical development?",
+        "A": "A device that generates radionuclides outside the body.",
+        "B": "A system where a radionuclide decays into another within the body.",
+        "C": "A method to externally control the activation of radionuclides.",
+        "D": "A type of radiation shielding used during therapy.",
+        "Answer": "B",
+        "Source": "In the present study, we introduce the idea for the application 109Pd (13.7 h) in the form of a 109Pd/109mAg in vivo generator as an alternative approach to the previously described 161Tb."
+    },
+    "Question_10": {
+        "Context": "The use of nanoparticles in radionuclide therapy can lead to an increase in specific activity, which is the activity per quantity of a radionuclide in a given compound. This is particularly important for the efficacy of Auger electron therapy.",
+        "Question": "How do nanoparticles contribute to the increase in specific activity in radionuclide therapy?",
+        "A": "By enhancing the stability of the radionuclide in biological fluids.",
+        "B": "By increasing the half-life of the radionuclide.",
+        "C": "By allowing a greater number of radionuclide atoms to be deposited onto their surface.",
+        "D": "By reducing the rate of radionuclide decay.",
+        "Answer": "C",
+        "Source": "We have estimated that it is possible to deposit over 11,000 palladium atoms (assuming an atomic radius of 140 pm) onto a single gold nanoparticle surface. This could lead to a significant (300-fold) increase in specific activity compared to the method of 111In chelation by DOTA, as proposed by Cai et al."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the deformation in a thermoelastic medium. The researchers considered an inclined load applied on a uniform circular region with an inclination angle \u03b8. They calculated the displacement components, stress components, and conductive temperature for a TIMT solid with GN-III theory and 2T due to the inclined load.",
+        "Question": "What was the motivation behind considering magneto-thermoelastic materials in the study?",
+        "A": "To analyze the deformation field in various applications.",
+        "B": "To study the effect of different GN theories on the body.",
+        "C": "To investigate the dynamic response of inclined load in TIMT medium.",
+        "D": "To explore the thermal properties of composite materials.",
+        "Answer": "A",
+        "Source": "The study motivates to consider magneto-thermoelastic materials as an inventive field of thermoelastic solids. The shape of curves demonstrates the effect of various GN theories and rotation on the body and fulfills the purpose of the study."
+    },
+    "Question_2": {
+        "Context": "The researchers considered a concentrated normal force applied on the half-space. They calculated the deviations of displacement components, stress components, and conductive temperature for a TIMT medium with rotation and due to the inclined load.",
+        "Question": "What was observed about the displacement component (u) and conductive temperature (\u03c6) when a concentrated normal force was applied?",
+        "A": "They increased sharply.",
+        "B": "They decreased sharply.",
+        "C": "They showed an oscillatory pattern.",
+        "D": "They remained constant.",
+        "Answer": "B",
+        "Source": "From the graph, we find that the displacement component (u) and conductive temperature \u03c6 decrease while stress components (trr, trz, and tzz) and displacement component (w) show a sharp increase and then an oscillatory pattern with an amplitude difference."
+    },
+    "Question_3": {
+        "Context": "The study also considered a uniformly distributed force applied over a uniform circular region. The researchers calculated the deviations of displacement components, stress components, and conductive temperature for a TIMT medium with rotation and due to the inclined load.",
+        "Question": "What trend was observed for the stress components (trr, trz, and tzz) when a uniformly distributed force was applied?",
+        "A": "They increased sharply.",
+        "B": "They decreased sharply.",
+        "C": "They showed a small oscillatory pattern.",
+        "D": "They remained constant.",
+        "Answer": "C",
+        "Source": "The displacement components (u), stress components (trr, trz, and tzz), and temperature \u03c6 decrease sharply and then show a small oscillatory pattern, while the displacement component (w) first increases during the initial range of distance near the loading surface and follows the small oscillatory pattern for the rest of the values of distance."
+    },
+    "Question_4": {
+        "Context": "The researchers considered the effect of different GN theories on the body. They calculated the displacement components, stress components, and conductive temperature for a TIMT solid with GN-III theory and 2T due to the inclined load.",
+        "Question": "What happens to the displacement component (w) when a uniformly distributed force is applied?",
+        "A": "It decreases sharply.",
+        "B": "It increases sharply.",
+        "C": "It shows an oscillatory pattern.",
+        "D": "It remains constant.",
+        "Answer": "B",
+        "Source": "The displacement components (u), stress components (trr, trz, and tzz), and temperature \u03c6 decrease sharply and then show a small oscillatory pattern, while the displacement component (w) first increases during the initial range of distance near the loading surface and follows the small oscillatory pattern for the rest of the values of distance."
+    },
+    "Question_5": {
+        "Context": "The study focused on the numerical calculations for a TIMT solid with GN-III theory and 2T due to the inclined load. The researchers obtained the graphical illustrations of displacement components, conductive temperature, and stress components.",
+        "Question": "What was the purpose of the study regarding the deformation field?",
+        "A": "To analyze the thermal properties of composite materials.",
+        "B": "To investigate the dynamic response of inclined load in TIMT medium.",
+        "C": "To study the effect of different GN theories on the body.",
+        "D": "To explore the deformation field in various applications.",
+        "Answer": "D",
+        "Source": "The outcomes of this research are extremely helpful in the 2-D problem with dynamic response of inclined load in TIMT medium with rotation which is beneficial to detect the deformation field such as geothermal engineering, advanced aircraft structure design, thermal power plants, composite engineering, geology, high-energy particle accelerators, geophysics, auditory range, and geomagnetism."
+    },
+    "Question_6": {
+        "Context": "The researchers considered the application of an inclined load on a uniform circular region. They calculated the displacement components, stress components, and conductive temperature for a TIMT solid with GN-III theory and 2T due to the inclined load.",
+        "Question": "What was the significance of the proposed model according to the study?",
+        "A": "It was significant for different problems in thermodynamics.",
+        "B": "It was beneficial for analyzing the thermal properties of composite materials.",
+        "C": "It fulfilled the purpose of the study.",
+        "D": "It was helpful for studying the effect of various GN theories on the body.",
+        "Answer": "A",
+        "Source": "The proposed model is significant to different problems in thermoelasticity and thermodynamics."
+    },
+    "Question_7": {
+        "Context": "The study included the consideration of a concentrated normal force applied on the half-space. The researchers calculated the deviations of displacement components, stress components, and conductive temperature for a TIMT medium with rotation and due to the inclined load.",
+        "Question": "What trend was observed for the stress component trz when a concentrated normal force was applied?",
+        "A": "It increased sharply.",
+        "B": "It decreased sharply.",
+        "C": "It showed an oscillatory pattern.",
+        "D": "It remained constant.",
+        "Answer": "A",
+        "Source": "The displacement component (u) and conductive temperature \u03c6 decrease while stress components (trr, trz, and tzz) and displacement component (w) show a sharp increase and then an oscillatory pattern with an amplitude difference."
+    },
+    "Question_8": {
+        "Context": "The researchers also considered the application of a uniformly distributed force over a uniform circular region. They calculated the deviations of displacement components, stress components, and conductive temperature for a TIMT medium with rotation and due to the inclined load.",
+        "Question": "What was observed about the conductive temperature \u03c6 when a uniformly distributed force was applied?",
+        "A": "It decreased sharply.",
+        "B": "It increased sharply.",
+        "C": "It showed an oscillatory pattern.",
+        "D": "It remained constant.",
+        "Answer": "A",
+        "Source": "The displacement components (u), stress components (trr, trz, and tzz), and temperature \u03c6 decrease sharply and then show a small oscillatory pattern, while the displacement component (w) first increases during the initial range of distance near the loading surface and follows the small oscillatory pattern for the rest of the values of distance."
+    },
+    "Question_9": {
+        "Context": "The study focused on the effect of different GN theories on the body. The researchers calculated the displacement components, stress components, and conductive temperature for a TIMT solid with GN-III theory and 2T due to the inclined load.",
+        "Question": "What was the outcome of the study regarding the displacement component (u) and conductive temperature (\u03c6) when a concentrated normal force was applied?",
+        "A": "They increased sharply.",
+        "B": "They decreased sharply.",
+        "C": "They showed an oscillatory pattern.",
+        "D": "They remained constant.",
+        "Answer": "B",
+        "Source": "From the graph, we find that the displacement component (u) and conductive temperature \u03c6 decrease while stress components (trr, trz, and tzz) and displacement component (w) show a sharp increase and then an oscillatory pattern with an amplitude difference."
+    },
+    "Question_10": {
+        "Context": "The researchers considered the application of an inclined load on a uniform circular region. They calculated the displacement components, stress components, and conductive temperature for a TIMT solid with GN-III theory and 2T due to the inclined load.",
+        "Question": "What was the purpose of the study regarding the deformation field?",
+        "A": "To analyze the thermal properties of composite materials.",
+        "B": "To investigate the dynamic response of inclined load in TIMT medium.",
+        "C": "To study the effect of different GN theories on the body.",
+        "D": "To explore the deformation field in various applications.",
+        "Answer": "D",
+        "Source": "The outcomes of this research are extremely helpful in the 2-D problem with dynamic response of inclined load in TIMT medium with rotation which is beneficial to detect the deformation field such as geothermal engineering, advanced aircraft structure design, thermal power plants, composite engineering, geology, high-energy particle accelerators, geophysics, auditory range, and geomagnetism."
+    }
+}

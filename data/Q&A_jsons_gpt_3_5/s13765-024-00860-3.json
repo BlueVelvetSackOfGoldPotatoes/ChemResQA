@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effects of cow milk-derived fat on human hepatoma HepG2 cells. ",
+        "Question": "What is the most abundant saturated fatty acid found in cow milk-derived fat?",
+        "A": "Stearic acid",
+        "B": "Myristic acid",
+        "C": "Palmitic acid",
+        "D": "Linoleic acid",
+        "Answer": "C",
+        "Source": "Although season, breed, climate, health, diet, and lactation stage can affect the fatty acid composition of cow milk, palmitic acid (16:0) is the most abundant saturated fatty acid."
+    },
+    "Question_2": {
+        "Context": "The study explored the potential anticancer properties of cow milk-derived fat on liver cancer cells.",
+        "Question": "Which fatty acid has been shown to exert anticancer effects on non-small cell lung carcinoma cells?",
+        "A": "Oleic acid",
+        "B": "Valeric acid",
+        "C": "Heptadecanoic acid",
+        "D": "Pentadecanoic acid",
+        "Answer": "C",
+        "Source": "Heptadecanoic acid (C17:0) exerts anticancer effects on non-small cell lung carcinoma cells."
+    },
+    "Question_3": {
+        "Context": "The study focused on the effects of cow milk-derived fat on cell cycle progression in HepG2 cells.",
+        "Question": "What is the most abundant monounsaturated fatty acid found in cow milk-derived fat?",
+        "A": "Linoleic acid",
+        "B": "Oleic acid",
+        "C": "\u03b1-linoleic acid",
+        "D": "Margaric acid",
+        "Answer": "B",
+        "Source": "Among monounsaturated fatty acids, oleic acid (C18:1) is the most abundant in cow milk-derived fat."
+    },
+    "Question_4": {
+        "Context": "The study examined the histone deacetylase inhibitory potential of cow milk-derived fat.",
+        "Question": "Which fatty acid has been identified as a novel inhibitor of histone deacetylase 6?",
+        "A": "Linoleic acid",
+        "B": "Oleic acid",
+        "C": "Heptadecanoic acid",
+        "D": "Pentadecanoic acid",
+        "Answer": "D",
+        "Source": "A recent study identified a series of odd-chain fatty acids as novel inhibitors of histone deacetylase (HDAC) 6."
+    },
+    "Question_5": {
+        "Context": "The study investigated the antioxidant effects of cow milk-derived fat.",
+        "Question": "What method was used to assess the DPPH radical scavenging ability of cow milk-derived fat?",
+        "A": "MTT assay",
+        "B": "Western blot",
+        "C": "Flow cytometry",
+        "D": "DPPH radical scavenging assay",
+        "Answer": "D",
+        "Source": "The results of the DPPH assay in this study indicated that cow milk-derived fat can scavenge DPPH free radicals in a dose-dependent manner."
+    },
+    "Question_6": {
+        "Context": "The study focused on the effects of cow milk-derived fat on liver cancer cells.",
+        "Question": "Which signaling pathway was assessed in HepG2 cells when exposed to cow milk-derived fat?",
+        "A": "PI3K/Akt pathway",
+        "B": "JAK/STAT pathway",
+        "C": "MAPK pathway",
+        "D": "Wnt/\u03b2-catenin pathway",
+        "Answer": "B",
+        "Source": "We observed a significant decrease in the level of pSTAT-3/STAT-3 and, although not statistically significant, a decrease in the level of pJAK-2/JAK-2 in HepG2 cells when exposed to cow milk-derived fat."
+    },
+    "Question_7": {
+        "Context": "The study examined the effects of cow milk-derived fat on cell viability in HepG2 cells.",
+        "Question": "What was the IC50 value for cow milk-derived fat after 48 hours of exposure?",
+        "A": "1.501 \u00b1 0.053 mg/mL",
+        "B": "1.299 \u00b1 0.046 mg/mL",
+        "C": "2.5 mg/mL",
+        "D": "2 mg/mL",
+        "Answer": "B",
+        "Source": "Following exposure to cow-milk fat, dose- and time-dependent inhibition of cell viability was observed with IC50 values 1.501 \u00b1 0.053 mg/mL and 1.299 \u00b1 0.046 mg/mL for 24 and 48 h, respectively."
+    },
+    "Question_8": {
+        "Context": "The study investigated the effects of cow milk-derived fat on colony formation in HepG2 cells.",
+        "Question": "What was the main finding regarding the colony formation ability of HepG2 cells exposed to cow milk-derived fat?",
+        "A": "Increased colony formation",
+        "B": "No effect on colony formation",
+        "C": "Decreased colony formation",
+        "D": "Variable effects on colony formation",
+        "Answer": "C",
+        "Source": "The colony formation assay revealed that cow milk significantly inhibited colony formation in HepG2 cells."
+    },
+    "Question_9": {
+        "Context": "The study explored the apoptotic potential of cow milk-derived fat in HepG2 cells.",
+        "Question": "What was observed in HepG2 cells exposed to cow milk-derived fat regarding chromatin condensation?",
+        "A": "No change in chromatin condensation",
+        "B": "Decreased chromatin condensation",
+        "C": "Increased chromatin condensation",
+        "D": "Variable effects on chromatin condensation",
+        "Answer": "C",
+        "Source": "Hoechst 33,342 staining was employed to determine whether cow milk-derived fat mediates cytotoxic effects by inducing apoptosis. Chromatin condensation, a biochemical characteristic of apoptosis, was observed in HepG2 cells exposed to cow-milk fat."
+    },
+    "Question_10": {
+        "Context": "The study focused on the effects of cow milk-derived fat on HDAC activity.",
+        "Question": "What was the main finding regarding the HDAC inhibitory potential of cow milk-derived fat?",
+        "A": "No inhibition of HDAC activity",
+        "B": "Partial inhibition of HDAC activity",
+        "C": "Complete inhibition of HDAC activity",
+        "D": "Dose-dependent inhibition of HDAC activity",
+        "Answer": "D",
+        "Source": "As shown in Fig. 4, cow milk-derived fat inhibited HDAC activity in a dose-dependent manner, highlighting the HDAC-inhibitory potential of cow milk-derived fat."
+    }
+}

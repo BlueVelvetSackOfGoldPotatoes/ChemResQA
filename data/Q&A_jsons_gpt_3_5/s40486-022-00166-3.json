@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Thrombosis is a condition in which a blood vessel is blocked by blood clots. What is the main cause of thrombosis according to the text?",
+        "Question": "What primarily causes thrombosis?",
+        "A": "Fast blood flow",
+        "B": "Low platelet concentration",
+        "C": "Excessive coagulation",
+        "D": "Vascular repair",
+        "Answer": "C",
+        "Source": "Thrombosis is caused by slow blood flow, excessive coagulation, and vascular damage, each of which acts alone or in combination to form a thrombus."
+    },
+    "Question_2": {
+        "Context": "Thrombus formation is affected by the physical shear rate. How does the wall shear rate influence thrombus formation according to the text?",
+        "Question": "How does the wall shear rate affect thrombus formation?",
+        "A": "Increases platelet concentration near the vessel wall",
+        "B": "Decreases platelet activation",
+        "C": "Promotes blood clot dissolution",
+        "D": "Reduces platelet adhesion",
+        "Answer": "A",
+        "Source": "The physical shear rate increases the platelet concentration near the vessel wall and activates platelets in that area."
+    },
+    "Question_3": {
+        "Context": "Thrombus formation was observed in channels with different stenosis percentages. What was the maximum wall shear rate for the channel with 83.73% stenosis?",
+        "Question": "What was the maximum wall shear rate for the channel with 83.73% stenosis?",
+        "A": "7602.36 s\u22121",
+        "B": "10 s\u22121",
+        "C": "29,850.27 s\u22121",
+        "D": "5000 s\u22121",
+        "Answer": "C",
+        "Source": "Each channel has a WSR of 7602.36 s\u22121 for 71.2% stenosis and 29,850.27 s\u22121 for 83.73% stenosis when the blood flow was set to 3 mL/h."
+    },
+    "Question_4": {
+        "Context": "The study aimed to provide insights into the development of new thrombosis propensity test systems. What was the expected application of the highly reproducible shear rate-based thrombus model?",
+        "Question": "What was the expected application of the highly reproducible shear rate-based thrombus model?",
+        "A": "Development of new imaging techniques",
+        "B": "Fabrication of lab-on-a-chip for drug testing",
+        "C": "Enhancement of blood clotting mechanisms",
+        "D": "Improvement of surgical procedures",
+        "Answer": "B",
+        "Source": "It is expected that manufacturing a highly reproducible shear rate-based thrombus model as a lab-on-a-chip can be applied to the development of shear-sensitive drugs, nanoparticles, and liposomes."
+    },
+    "Question_5": {
+        "Context": "The study utilized image analysis to visualize the thrombus formation process. How was the thrombus area calculated in the image analysis process?",
+        "Question": "How was the thrombus area calculated in the image analysis process?",
+        "A": "By measuring the color intensity of the thrombus",
+        "B": "By calculating the ratio of thrombus area to total area in binary images",
+        "C": "By counting the number of platelets in the thrombus",
+        "D": "By analyzing the shape of the thrombus",
+        "Answer": "B",
+        "Source": "In the last step, the thrombus area was calculated from the ratio of the thrombus area to the total area of the binary image."
+    },
+    "Question_6": {
+        "Context": "The study observed thrombus growth in channels with different stenosis percentages. How did the thrombus growth rate differ between the channels with 71.2% and 83.73% stenosis?",
+        "Question": "How did the thrombus growth rate differ between the channels with 71.2% and 83.73% stenosis?",
+        "A": "Thrombus grew faster in the 71.2% stenosis channel",
+        "B": "Thrombus grew faster in the 83.73% stenosis channel",
+        "C": "Thrombus growth rate was similar in both channels",
+        "D": "Thrombus growth rate was not observed",
+        "Answer": "B",
+        "Source": "In the case of the 83.73% channel, the thrombus grew faster than in the 71.2% channel case."
+    },
+    "Question_7": {
+        "Context": "The study mentioned the detachment of thrombi due to high wall shear rates. What is a detached thrombus called according to the text?",
+        "Question": "What is a detached thrombus called?",
+        "A": "Embolus",
+        "B": "Thrombocyte",
+        "C": "Hemostasis",
+        "D": "Fibrinogen",
+        "Answer": "A",
+        "Source": "A detached thrombus is referred to as an embolus."
+    },
+    "Question_8": {
+        "Context": "The study discussed the analysis of thrombus formation in wide image ranges. How was the analysis improved when the image range was divided into sections?",
+        "Question": "How was the analysis improved when the image range was divided into sections?",
+        "A": "Increased accuracy in thrombus area calculation",
+        "B": "Decreased visibility of thrombus formation",
+        "C": "Reduced contrast resolution",
+        "D": "Lost details in thrombus analysis",
+        "Answer": "A",
+        "Source": "If the images were divided into sections, each divided image was individually calculated to obtain a range of grayscale values. The non-divided image was set to a grayscale range."
+    },
+    "Question_9": {
+        "Context": "The study showed differences in thrombus growth rates in different sections of the channel. Where did the thrombus growth rate appear to be the fastest?",
+        "Question": "Where did the thrombus growth rate appear to be the fastest?",
+        "A": "Near the stenosis section",
+        "B": "Far from the stenosis section",
+        "C": "At the channel entry",
+        "D": "At the channel exit",
+        "Answer": "A",
+        "Source": "In sections 4 and 5, which are close to the stenosis section, the growth rate of the thrombus was the fastest in the early stages of blood perfusion."
+    },
+    "Question_10": {
+        "Context": "The study concluded that the image analysis method provided a basis for observing and understanding thrombus formation. What was the main advantage of the image analysis method introduced in the study?",
+        "Question": "What was the main advantage of the image analysis method introduced in the study?",
+        "A": "Accurate measurement of absolute thrombus amount",
+        "B": "Visualization of platelet aggregation",
+        "C": "Comparison of relative thrombus size",
+        "D": "Identification of thrombus composition",
+        "Answer": "C",
+        "Source": "This method makes it possible to determine the location of the formed thrombus and compare the relative size of the thrombus."
+    }
+}

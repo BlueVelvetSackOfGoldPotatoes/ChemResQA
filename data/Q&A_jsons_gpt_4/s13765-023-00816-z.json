@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Gesho (Rhamnus prinoides) is a medicinal plant known for its antioxidant and anti-inflammatory activities. It is used in traditional medicine to treat various conditions.",
+        "Question": "What is NOT one of the traditional uses of Gesho according to local medicinal practices?",
+        "A": "Treating arthritis",
+        "B": "Curing common cold",
+        "C": "Improving cognitive function",
+        "D": "Alleviating back pain",
+        "Answer": "C",
+        "Source": "Ethiopian traditional medicine makes use of gesho to treat conditions like arthritis, back pain, pneumonia, rheumatism, flu, malaria, diarrhoea, indigestion, ringworm, and weariness."
+    },
+    "Question_2": {
+        "Context": "In vitro culture conditions are crucial for the growth and differentiation of plant tissues. Various factors such as agar concentration, light exposure, culture temperature, and relative humidity are manipulated to optimize these conditions.",
+        "Question": "Which of the following is NOT a factor used to calculate the callus differentiation rate of gesho in vitro cultures?",
+        "A": "Concentration of agar",
+        "B": "Duration of light exposure",
+        "C": "Soil pH level",
+        "D": "Relative humidity",
+        "Answer": "C",
+        "Source": "Using a three-layer neural network, four culture conditions viz., concentration of agar, duration of light exposure, temperature of culture, and relative humidity were used to calculate the callus differentiation rate of gesho."
+    },
+    "Question_3": {
+        "Context": "Artificial neural networks (ANN) are computational models that can simulate complex biological processes and are used to predict outcomes based on input data.",
+        "Question": "What capability is essential for an artificial neural network to accurately predict outcomes in biological research?",
+        "A": "Self-directed learning",
+        "B": "High-speed computation",
+        "C": "Chemical synthesis",
+        "D": "Genetic manipulation",
+        "Answer": "A",
+        "Source": "They also have the self-directed learning capability that is essential for accurate prediction."
+    },
+    "Question_4": {
+        "Context": "The genetic algorithm is a computational method used to find optimal solutions by mimicking the process of natural selection.",
+        "Question": "What was the approximate actual gesho differentiation rate observed in vitro, as compared to the genetic algorithm's predicted value?",
+        "A": "1.86% higher",
+        "B": "1.86% lesser",
+        "C": "2.83% higher",
+        "D": "2.83% lesser",
+        "Answer": "B",
+        "Source": "The outcomes demonstrated that the actual gesho differentiation rate was 93.87%, which was just 1.86% lesser than the genetic algorithm\u2019s predicted value."
+    },
+    "Question_5": {
+        "Context": "Response Surface Methodology (RSM) is a statistical method used to optimize processes by evaluating the effects of multiple variables.",
+        "Question": "In the context of optimizing in vitro culture conditions, what was the predicted induced differentiation rate using RSM optimization?",
+        "A": "87.62%",
+        "B": "93.87%",
+        "C": "84.79%",
+        "D": "2.83% higher than actual",
+        "Answer": "A",
+        "Source": "The projected induced differentiation rate was 87.62%, the actual value was 84.79%, and the predicted value was 2.83% higher than Response Surface Methods optimisation."
+    },
+    "Question_6": {
+        "Context": "In vitro plant cultures can be optimized using computational models to improve the growth and production of desired compounds.",
+        "Question": "What is the primary purpose of optimizing the environment for the growth of plant tissue using computational models?",
+        "A": "To reduce genetic diversity",
+        "B": "To increase the cost of production",
+        "C": "To accurately and efficiently optimize growth conditions",
+        "D": "To decrease the rate of plant growth",
+        "Answer": "C",
+        "Source": "The environment for the growth of plant tissue can be accurately and efficiently optimised using a genetic algorithm and an artificial neural network."
+    },
+    "Question_7": {
+        "Context": "Plant micropropagation is a technique used to grow plants under controlled conditions, which can be used for the mass production of pharmaceuticals.",
+        "Question": "What is one potential application of plant micropropagation?",
+        "A": "Mass production of pharmaceuticals",
+        "B": "Development of artificial intelligence",
+        "C": "Reduction of plant nutrient content",
+        "D": "Decrease in plant biodiversity",
+        "Answer": "A",
+        "Source": "One of its potential applications is the mass production of pharmaceuticals derived from plants in bioreactors, similar to the microbial fermentation process used to manufacture antibiotics."
+    },
+    "Question_8": {
+        "Context": "The ReLU activation function is employed in artificial neural networks to introduce nonlinearity and help the network process data and make predictions.",
+        "Question": "What is the role of the ReLU activation function in an artificial neural network?",
+        "A": "To decrease the speed of computation",
+        "B": "To introduce nonlinearity and process data",
+        "C": "To linearize complex relationships",
+        "D": "To reduce the accuracy of predictions",
+        "Answer": "B",
+        "Source": "The ReLU activation function is specifically employed in this work. It enables the network to process data, analyze relationships, and make predictions based on learned patterns."
+    },
+    "Question_9": {
+        "Context": "In vitro plant culture involves growing plant tissues and cells in a controlled environment, which can be used for various research and industrial applications.",
+        "Question": "What is typically designed for manipulating tissue growth and behavior in in vitro plant culture?",
+        "A": "Genetic algorithms",
+        "B": "Microbial fermentation",
+        "C": "Traditional analytical techniques",
+        "D": "Culture conditions",
+        "Answer": "D",
+        "Source": "In vitro plant culture is typically designed for manipulating tissue growth and behaviour to quickly produce huge numbers of elite plantlets or for large scale production of beneficial metabolites."
+    },
+    "Question_10": {
+        "Context": "The genetic algorithm is a computational technique that simulates the process of natural selection to find optimal solutions in complex systems.",
+        "Question": "What is the primary foundation of a genetic algorithm used in biological process optimization?",
+        "A": "Chemical equilibrium",
+        "B": "Survival of the fittest",
+        "C": "Quantum mechanics",
+        "D": "Thermodynamic cycles",
+        "Answer": "B",
+        "Source": "Charles Darwin\u2019s 'survival of the fittest' idea is the foundation of a genetic algorithm, which is used to address challenging biological process optimisation issues."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of machine learning in predicting flow stresses based on dislocation density, strain rate, and strain. It compares the performance of different machine learning methods.",
+        "Question": "What is the purpose of the kernel ridge regression method mentioned in the paper?",
+        "A": "To partition the feature space in a greedy fashion.",
+        "B": "To make predictions through the average value of training points within the partition.",
+        "C": "To infer weights by minimizing an L2 regularized least squares problem.",
+        "D": "To connect neurons in a multilayer perceptron.",
+        "Answer": "C",
+        "Source": "Kernel ridge regression is a memory based method that makes predictions for a new data point xi through its similarity to samples in the training set xj. The weights w are inferred by minimizing an L2 regularized least squares problem which yields a closed form solution."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the performance of different machine learning methods in predicting flow stresses based on dislocation density, strain rate, and strain.",
+        "Question": "What is the purpose of decision trees in machine learning?",
+        "A": "To partition the feature space in a greedy fashion.",
+        "B": "To make predictions through the average value of training points within the partition.",
+        "C": "To infer weights by minimizing an L2 regularized least squares problem.",
+        "D": "To connect neurons in a multilayer perceptron.",
+        "Answer": "A",
+        "Source": "Decision trees partition the feature space in a greedy fashion and make predictions through the average value of training points within the partition to which a new data point xi is assigned."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the use of machine learning in predicting flow stresses based on dislocation density, strain rate, and strain. It compares the performance of different machine learning methods.",
+        "Question": "What is the purpose of a multilayer perceptron in machine learning?",
+        "A": "To partition the feature space in a greedy fashion.",
+        "B": "To make predictions through the average value of training points within the partition.",
+        "C": "To infer weights by minimizing an L2 regularized least squares problem.",
+        "D": "To connect neurons in a multilayer perceptron.",
+        "Answer": "D",
+        "Source": "The multilayer perceptron model consists of stacked layers of individual units/neurons with weighted connections and nonlinear activation functions."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the performance of different machine learning methods in predicting flow stresses based on dislocation density, strain rate, and strain.",
+        "Question": "What is the importance of ensuring adequate overlap between simulation and experiment in machine learning?",
+        "A": "To increase the complexity of the model.",
+        "B": "To improve the interpretability of the results.",
+        "C": "To facilitate better generalization and prediction performance.",
+        "D": "To reduce the computational cost.",
+        "Answer": "C",
+        "Source": "The necessity of ensuring adequate overlap between simulation and experiment reflects the observation that most machine learning approaches are better at interpolation than at extrapolation."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the performance of different machine learning methods in predicting flow stresses based on dislocation density, strain rate, and strain.",
+        "Question": "Why is it important to exploit any symmetries in the mathematical formulation of the simulation problem?",
+        "A": "To increase the complexity of the model.",
+        "B": "To improve the interpretability of the results.",
+        "C": "To accelerate the exploration of parameter space.",
+        "D": "To reduce the computational cost.",
+        "Answer": "C",
+        "Source": "It is helpful to exploit any symmetries in the mathematical formulation of the simulation problem, of which the scaling relations studied here are a nontrivial example. Recognizing this fact can evidently accelerate the exploration of parameter space."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the performance of different machine learning methods in predicting flow stresses based on dislocation density, strain rate, and strain.",
+        "Question": "What does the study demonstrate about the use of machine learning approaches in representing constitutive relationships governing material behavior?",
+        "A": "They are not as effective as human researchers.",
+        "B": "They may do a better job than many human researchers.",
+        "C": "They are not suitable for materials mechanics.",
+        "D": "They are only effective for simple functional relationships.",
+        "Answer": "B",
+        "Source": "The presented study demonstrates that machine learning approaches can correctly infer relationships between simulation and/or experimental data and can be used to represent constitutive relationships governing material behavior. They may in fact do a better job than many human researchers."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the performance of different machine learning methods in predicting flow stresses based on dislocation density, strain rate, and strain.",
+        "Question": "What is the benefit of recognizing symmetries in the mathematical formulation of the simulation problem?",
+        "A": "To increase the complexity of the model.",
+        "B": "To improve the interpretability of the results.",
+        "C": "To accelerate the exploration of parameter space.",
+        "D": "To reduce the computational cost.",
+        "Answer": "C",
+        "Source": "Recognizing symmetries in the mathematical formulation of the simulation problem can accelerate the exploration of parameter space and allow for the coverage of a wider range of parameters at the same cost."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the performance of different machine learning methods in predicting flow stresses based on dislocation density, strain rate, and strain.",
+        "Question": "What is the significance of ensuring adequate overlap between simulation and experiment in machine learning?",
+        "A": "To increase the complexity of the model.",
+        "B": "To improve the interpretability of the results.",
+        "C": "To facilitate better generalization and prediction performance.",
+        "D": "To reduce the computational cost.",
+        "Answer": "C",
+        "Source": "The necessity of ensuring adequate overlap between simulation and experiment reflects the observation that most machine learning approaches are better at interpolation than at extrapolation."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the performance of different machine learning methods in predicting flow stresses based on dislocation density, strain rate, and strain.",
+        "Question": "What does the study demonstrate about the importance of exploiting symmetries in the mathematical formulation of the simulation problem?",
+        "A": "It increases the complexity of the model.",
+        "B": "It improves the interpretability of the results.",
+        "C": "It accelerates the exploration of parameter space.",
+        "D": "It reduces the computational cost.",
+        "Answer": "C",
+        "Source": "It is helpful to exploit any symmetries in the mathematical formulation of the simulation problem, of which the scaling relations studied here are a nontrivial example. Recognizing this fact can evidently accelerate the exploration of parameter space."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the performance of different machine learning methods in predicting flow stresses based on dislocation density, strain rate, and strain.",
+        "Question": "What is the benefit of recognizing symmetries in the mathematical formulation of the simulation problem?",
+        "A": "To increase the complexity of the model.",
+        "B": "To improve the interpretability of the results.",
+        "C": "To accelerate the exploration of parameter space.",
+        "D": "To reduce the computational cost.",
+        "Answer": "C",
+        "Source": "Recognizing symmetries in the mathematical formulation of the simulation problem can accelerate the exploration of parameter space and allow for the coverage of a wider range of parameters at the same cost."
+    }
+}

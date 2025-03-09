@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the synthesis of catalysts for the oxidative depolymerization of lignin to produce vanillin. The catalysts CeO2-CA, ZrO2-CA, and CeZrO2-CA were synthesized and analyzed for their effectiveness in vanillin production.",
+        "Question": "What was the catalyst that produced the highest vanillin yield for kenaf stalk in the study?",
+        "A": "CeO2-CA",
+        "B": "ZrO2-CA",
+        "C": "CeZrO2-CA",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The CeZrO2-CA catalyst produced the highest vanillin yield of 9.90% for kenaf stalk using 5 wt% of CeZrO2-CA at an optimized reaction condition of 160 \u00b0C within 30 min."
+    },
+    "Question_2": {
+        "Context": "The study investigated the effect of various reaction parameters on vanillin production. One of the parameters studied was the impact of reaction time on vanillin yield.",
+        "Question": "What was the ideal reaction time for achieving the highest vanillin yield in the study?",
+        "A": "10 min",
+        "B": "20 min",
+        "C": "30 min",
+        "D": "40 min",
+        "Answer": "C",
+        "Source": "The vanillin yield is increased gradually for all the catalysts when time increases from 10 to 30 min. The CeZrO2-CA catalyst produced the maximum amount of vanillin (9.9%) when the reaction was carried out for 30 min at 160 \u00b0C."
+    },
+    "Question_3": {
+        "Context": "The study explored the impact of catalyst loading on vanillin production from kenaf stalks. Different percentages of catalyst loading were tested to determine the optimal amount.",
+        "Question": "What was the catalyst loading percentage that resulted in the highest vanillin yield in the study?",
+        "A": "2.5 wt%",
+        "B": "5 wt%",
+        "C": "7.5 wt%",
+        "D": "10 wt%",
+        "Answer": "B",
+        "Source": "The results showed that increasing the catalyst loading led to lower yields of vanillin, with the highest yield of 9.9% obtained using 5 wt% of CeZrO2-CA."
+    },
+    "Question_4": {
+        "Context": "The study investigated the impact of pH on vanillin production during the oxidative depolymerization of kenaf stalks. Different pH levels were tested to determine the effect on vanillin yield.",
+        "Question": "At what pH level did the study achieve the highest vanillin yield?",
+        "A": "8.0",
+        "B": "8.5",
+        "C": "9.0",
+        "D": "9.5",
+        "Answer": "C",
+        "Source": "The vanillin production dramatically increased from 9.1% to 9.9% as the pH moved from 8.0 to 9.0, but it significantly dropped to 9.4% when the pH moved from 9.0 to 9.5."
+    },
+    "Question_5": {
+        "Context": "The study assessed the recyclability of the CeZrO2-CA catalyst for vanillin production. The catalyst was tested for multiple recycling cycles to evaluate its stability.",
+        "Question": "How many recycling cycles were conducted to test the recyclability of the CeZrO2-CA catalyst?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "Answer": "C",
+        "Source": "After four successive recycling processes, vanillin production was practically steady. The yield decreased from 14.3% to 13.56% after four cycles."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the impact of reaction temperature on vanillin production from kenaf stalks using different catalysts.",
+        "Question": "At what temperature range did the CeZrO2-CA catalyst show an increase in vanillin yield?",
+        "A": "120-140 \u00b0C",
+        "B": "140-160 \u00b0C",
+        "C": "160-180 \u00b0C",
+        "D": "180-200 \u00b0C",
+        "Answer": "B",
+        "Source": "The findings demonstrate that temperature significantly influenced the distribution of vanillin yield. Using CeZrO2-CA, the yield of vanillin increased from 9.5 wt% to 9.9 wt% when the reaction temperature was increased from 140 to 160 \u00b0C."
+    },
+    "Question_7": {
+        "Context": "The study explored the effect of different catalysts on the depolymerization of kenaf stalk to produce vanillin.",
+        "Question": "Which catalyst showed the highest vanillin yield under consistent conditions of 5% catalyst loading, 160 \u00b0C temperature, and 30 min of microwave treatment?",
+        "A": "CeO2-CA",
+        "B": "ZrO2-CA",
+        "C": "CeZrO2-CA",
+        "D": "Without catalyst",
+        "Answer": "C",
+        "Source": "The maximum vanillin yield (9.9%) was obtained using CeZrO2-CA as a catalyst at 160 \u00b0C temperature and 30 min of reaction time."
+    },
+    "Question_8": {
+        "Context": "The study investigated the impact of catalyst surface properties on vanillin production.",
+        "Question": "What change was observed in the CeZrO2-CA catalyst's surface properties before and after the reaction?",
+        "A": "Increase in chemisorbed oxygen",
+        "B": "Decrease in lattice oxygen",
+        "C": "Increase in Ce4+ state",
+        "D": "Decrease in Ce3+ state",
+        "Answer": "B",
+        "Source": "A comparison of the fresh CeZrO2-CA and the used CeZrO2-CA shows a decrease in the resulting signal intensities of the peaks linked to surface-bound oxygen (commonly O\u03b1)."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the impact of extracted lignin on vanillin production compared to direct biomass oxidation.",
+        "Question": "What was the difference in vanillin yield between the oxidation of extracted lignin and direct biomass using CeZrO2-CA as a catalyst?",
+        "A": "Lower yield from extracted lignin",
+        "B": "Higher yield from extracted lignin",
+        "C": "Equal yield from both sources",
+        "D": "No vanillin produced",
+        "Answer": "B",
+        "Source": "In the presence of CeZrO2-CA catalysts, the yields of vanillin for the direct oxidation of biomass and the oxidation of extracted lignin were 9.9% and 14.3%, respectively."
+    },
+    "Question_10": {
+        "Context": "The study evaluated the impact of pH on the oxidative depolymerization of kenaf stalks to produce vanillin.",
+        "Question": "What was the effect of increasing pH from 8.0 to 9.0 on vanillin production?",
+        "A": "Decreased vanillin yield",
+        "B": "Increased vanillin yield",
+        "C": "No effect on vanillin yield",
+        "D": "Stopped vanillin production",
+        "Answer": "B",
+        "Source": "The vanillin production dramatically increased from 9.1% to 9.9% as the pH moved from 8.0 to 9.0."
+    }
+}

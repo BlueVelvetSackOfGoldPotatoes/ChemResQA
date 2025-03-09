@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Metal oxide-based sensors are utilized for detecting biomarkers in exhaled breath, which can indicate the presence of various diseases.",
+        "Question": "Which of the following diseases can be identified by detecting biomarkers in exhaled breath using metal oxide-based sensors?",
+        "A": "Asthma",
+        "B": "Diabetes",
+        "C": "Halitosis",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Metal oxide\u2011based sensors have been widely used to detection biomarkers in exhaled breath for identification of various diseases such as asthma, diabetes, halitosis, and lung cancer."
+    },
+    "Question_2": {
+        "Context": "Hydrothermal methods are employed in the synthesis of nanomaterials, which can be used for sensing applications.",
+        "Question": "What is the purpose of using a hydrothermal method in the preparation of SnO2 nanospheres?",
+        "A": "To improve the electrical conductivity",
+        "B": "To enhance the sensing response",
+        "C": "To increase the magnetic properties",
+        "D": "To decrease the thermal stability",
+        "Answer": "B",
+        "Source": "Herein, we proposed one step hydrothermal method for the preparation of SnO2 nanospheres and reduced graphene oxide incorporated SnO2 nanospheres for the detection of two important biomarkers such as decane and heptane from the exhaled breath of lung cancer patients."
+    },
+    "Question_3": {
+        "Context": "The performance of sensors can be affected by their operating temperature.",
+        "Question": "At what temperature did the sensors show maximum sensing response toward heptane and decane?",
+        "A": "100 \u00b0C",
+        "B": "125 \u00b0C",
+        "C": "150 \u00b0C",
+        "D": "175 \u00b0C",
+        "Answer": "B",
+        "Source": "The sensors showed maximum sensing response toward heptane and decane compared to other interfering gases such as hydrogen, carbon monoxide, acetone, ethanol, and methanol at 125 \u00b0C."
+    },
+    "Question_4": {
+        "Context": "The detection range of a sensor is crucial for identifying low concentrations of substances.",
+        "Question": "What is the lowest concentration of decane and heptane that the proposed sensors can detect?",
+        "A": "0.1 ppm",
+        "B": "1 ppm",
+        "C": "10 ppm",
+        "D": "100 ppm",
+        "Answer": "B",
+        "Source": "The proposed sen\u2011sors exhibit excellent detection range as low as 1 ppm with appreciably fast response and recovery time."
+    },
+    "Question_5": {
+        "Context": "The response and recovery times are important parameters in evaluating the performance of gas sensors.",
+        "Question": "What are the response and recovery times for the reduced graphene oxide incorporated SnO2 nanocomposite sensor towards heptane?",
+        "A": "15 s response, 90 s recovery",
+        "B": "19 s response, 48 s recovery",
+        "C": "90 s response, 15 s recovery",
+        "D": "48 s response, 19 s recovery",
+        "Answer": "B",
+        "Source": "The reduced graphene oxide incorporated SnO2 nanocomposite sensor can detect decane and heptane as low as 1 ppm with the response (15 s, 19 s) and recovery time (90 s, 48 s) and remarkable selectivity at the optimal working temperature of 125 \u00b0C."
+    },
+    "Question_6": {
+        "Context": "The phase purity and crystal structure of materials can be characterized using X-ray diffraction analysis.",
+        "Question": "What crystal structure do the as-prepared SnO2 nanospheres and reduced graphene oxide incorporated SnO2 nanocomposite exhibit?",
+        "A": "Cubic",
+        "B": "Hexagonal",
+        "C": "Rutile",
+        "D": "Monoclinic",
+        "Answer": "C",
+        "Source": "The diffraction patterns of the as-prepared SnO2 nanospheres and Reduced graphene oxide incorporated SnO2 nanocomposite are rutile (JCPDS No. 41-1445, a0 = 4.738, c0 = 3.178)."
+    },
+    "Question_7": {
+        "Context": "The morphology of nanomaterials can be studied using electron microscopy techniques.",
+        "Question": "What feature of the SnO2 nanospheres' morphology is revealed by high magnification FESEM images?",
+        "A": "Hierarchical mesoporous nature",
+        "B": "Smooth and non-porous surface",
+        "C": "Irregular shape and size",
+        "D": "Single crystalline structure",
+        "Answer": "A",
+        "Source": "The higher magnified image reveals hierarchical mesoporous nature of the as-prepared SnO2 nanospheres."
+    },
+    "Question_8": {
+        "Context": "The activation energy of sensing materials is a factor that influences the sensing performance of sensors.",
+        "Question": "What is the activation energy of the sensors based on SnO2 nanospheres and reduced graphene oxide incorporated SnO2 nanocomposite toward heptane?",
+        "A": "0.34 eV",
+        "B": "0.32 eV",
+        "C": "0.22 eV",
+        "D": "0.19 eV",
+        "Answer": "C",
+        "Source": "The calculated activation energy of the sensors based on SnO2 nanospheres and Reduced graphene oxide incorporated SnO2 nanocomposite toward decane and heptane was found to be ~ 0.34 eV, 0.32 eV, and 0.22 eV, 0.19 eV, respectively."
+    },
+    "Question_9": {
+        "Context": "The selectivity of a sensor is its ability to preferentially detect a specific substance in the presence of other potentially interfering substances.",
+        "Question": "Which gas did the sensor show the highest selectivity towards?",
+        "A": "Heptane",
+        "B": "Decane",
+        "C": "Hydrogen",
+        "D": "Carbon monoxide",
+        "Answer": "A",
+        "Source": "The sensor showed highest sensing response toward heptane, compared to other gases."
+    },
+    "Question_10": {
+        "Context": "The long-term stability of a sensor is an important characteristic for practical applications.",
+        "Question": "What was the fluctuation in the sensing response of the Reduced graphene oxide incorporated SnO2 nanocomposite sensor during a 21-day period?",
+        "A": "Less than 1%",
+        "B": "Less than 2.1%",
+        "C": "Less than 5%",
+        "D": "Less than 10%",
+        "Answer": "B",
+        "Source": "During the 21-day period, the sensing response values of the Reduced graphene oxide incorporated SnO2 based sensor were relatively consistent, with fluctuations of less than 2.1%, demonstrating the proposed sensor\u2019s good long-term stability toward decan and heptane."
+    }
+}

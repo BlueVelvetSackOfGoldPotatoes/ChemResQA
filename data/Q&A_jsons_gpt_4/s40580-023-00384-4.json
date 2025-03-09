@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Metal anode batteries with lithium, sodium, and zinc metal anodes are considered for high-energy-density storage systems due to their specific capacities and low electrochemical potentials.",
+        "Question": "Which metal is not one of the primary anodes considered for high-energy-density storage systems?",
+        "A": "Lithium",
+        "B": "Sodium",
+        "C": "Zinc",
+        "D": "Copper",
+        "Answer": "D",
+        "Source": "With a high specific capacity and low electrochemical potentials, metal anode batteries that use lithium, sodium and zinc metal anodes, have gained great research interest in recent years, as a potential candidate for high\u2011energy\u2011 density storage systems."
+    },
+    "Question_2": {
+        "Context": "Dendrite growth in metal anode batteries during charging can lead to performance deterioration, reduced battery life, and safety concerns.",
+        "Question": "What is a major issue caused by dendrite growth during the charging of metal anode batteries?",
+        "A": "Increased energy density",
+        "B": "Improved battery performance",
+        "C": "Safety concerns",
+        "D": "Enhanced rate capability",
+        "Answer": "C",
+        "Source": "However, the uncontainable dendrite growth during the repeated charging process, deteriorates the battery performance, reduces the battery life and more importantly, raises safety concerns."
+    },
+    "Question_3": {
+        "Context": "Two-dimensional (2D) materials can be used to modify components in metal batteries to mitigate issues such as dendrite growth.",
+        "Question": "What is the role of two-dimensional materials in the context of metal batteries?",
+        "A": "Decrease the energy density",
+        "B": "Mitigate dendrite growth",
+        "C": "Increase the charging time",
+        "D": "Reduce the specific capacity",
+        "Answer": "B",
+        "Source": "With their unique properties, two\u2011dimensional (2D) materials, can be used to modify various components in metal bat\u2011 teries, eventually mitigating the dendrite growth, enhancing the cycling stability and rate capability, thus leading to safe and robust metal anodes."
+    },
+    "Question_4": {
+        "Context": "The theoretical specific capacity of anodes in metal batteries is a critical parameter for energy storage.",
+        "Question": "Which metal anode has the highest theoretical specific capacity?",
+        "A": "Lithium",
+        "B": "Sodium",
+        "C": "Zinc",
+        "D": "Graphite",
+        "Answer": "A",
+        "Source": "In Fig. 1a, compared to the conventional graphite anode with a specific capacity of 0.37 Ah g\u22121 and electrochemical potential of 0.5 V vs. standard hydrogen electrode, lithium, sodium and zinc metal anodes (MAs) are regarded as the \u201cHoly Grail\u201d electrodes that receive tremendous research attention, due to their attractive theoretical capacity (3.86, 1.17 and 0.82 Ah g\u22121 for Li, Na and Zn, respectively)"
+    },
+    "Question_5": {
+        "Context": "The electrochemical potential of metal anodes is a significant factor in their suitability for use in batteries.",
+        "Question": "Which metal anode has the lowest electrochemical potential versus the standard hydrogen electrode?",
+        "A": "Lithium",
+        "B": "Sodium",
+        "C": "Zinc",
+        "D": "Graphite",
+        "Answer": "A",
+        "Source": "In Fig. 1a, compared to the conventional graphite anode with a specific capacity of 0.37 Ah g\u22121 and electrochemical potential of 0.5 V vs. standard hydrogen electrode, lithium, sodium and zinc metal anodes (MAs) are regarded as the \u201cHoly Grail\u201d electrodes that receive tremendous research attention, due to their attractive theoretical capacity (3.86, 1.17 and 0.82 Ah g\u22121 for Li, Na and Zn, respectively) and the low electrochemical potential (\u2212 3.04 V for Li, \u2212 2.71 V for Na, and \u2212 0.76 V for Zn vs. standard hydrogen electrode)."
+    },
+    "Question_6": {
+        "Context": "Graphene is a two-dimensional material with a hexagonal lattice structure of carbon atoms and is known for its exceptional properties.",
+        "Question": "What is the hybridization of carbon atoms in graphene?",
+        "A": "sp",
+        "B": "sp2",
+        "C": "sp3",
+        "D": "sp3d",
+        "Answer": "B",
+        "Source": "Graphene is a highly conducting material that consists of carbon atoms arranged in a hexagonal shape with sp2 hybridization."
+    },
+    "Question_7": {
+        "Context": "Hexagonal boron nitride (h-BN) is a two-dimensional material similar to graphene but consists of boron and nitrogen atoms.",
+        "Question": "What is the lattice structure of hexagonal boron nitride (h-BN)?",
+        "A": "Cubic",
+        "B": "Hexagonal",
+        "C": "Tetragonal",
+        "D": "Orthorhombic",
+        "Answer": "B",
+        "Source": "Similar to graphene, h-BN is also in the form of a lay- ered sp2 phase with relatively weak bonding in the out- of-plane direction and a robust bonding in the in-plane direction, featuring a honeycomb lattice structure."
+    },
+    "Question_8": {
+        "Context": "Transition metal dichalcogenides (TMDs) are a class of two-dimensional materials that have applications in electrochemical energy storage.",
+        "Question": "What elements make up the composition of transition metal dichalcogenides (TMDs)?",
+        "A": "Transition metals and halogens",
+        "B": "Alkali metals and chalcogens",
+        "C": "Transition metals and chalcogens",
+        "D": "Alkaline earth metals and pnictogens",
+        "Answer": "C",
+        "Source": "Transition metal dichalcogenides, compositions of MX2 (M = Mo, W, Cu, Sn, etc. and X = S, Se, Te, etc.), is another attractive class of layered 2D materials that show huge potentials in the electrochemical field."
+    },
+    "Question_9": {
+        "Context": "MXenes are a family of two-dimensional transition metal carbides, nitrides, and carbonitrides with applications in energy storage.",
+        "Question": "What are MXenes primarily composed of?",
+        "A": "Transition metal oxides",
+        "B": "Transition metal sulfides",
+        "C": "Transition metal carbides and nitrides",
+        "D": "Transition metal phosphides",
+        "Answer": "C",
+        "Source": "MXene is a class of layered inorganic materials that is composed of transition metal carbides/nitrides/car- bonitrides, firstly reported at Drexel University in 2011."
+    },
+    "Question_10": {
+        "Context": "The synthesis methods for two-dimensional materials are crucial for determining their properties and applications.",
+        "Question": "Which synthesis method for two-dimensional materials involves chemical reactions under high temperature and pressure?",
+        "A": "Mechanical exfoliation",
+        "B": "Chemical vapor deposition",
+        "C": "Liquid exfoliation",
+        "D": "Hydrothermal/solvothermal methods",
+        "Answer": "D",
+        "Source": "Wet chemical hydrothermal/solvothermal methods are also commonly used for synthesizing 2D materials. These methods involve the reaction of precursor materials in a solvent at high temperature and pressure to produce 2D materials."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Autocrine motility factor (AMF) is a protein that can influence cancer cell behavior by promoting cell motility. It can also be internalized into cells through specific pathways.",
+        "Question": "What is the role of autocrine motility factor (AMF) in cancer cell behavior?",
+        "A": "Inhibits cell motility",
+        "B": "Promotes cell motility",
+        "C": "Has no effect on cell motility",
+        "D": "Decreases cell proliferation",
+        "Answer": "B",
+        "Source": "Cancer cells employ the secretion of AMF to boost their motility and proliferation through autocrine mechanisms, while also promoting angiogenesis and metastasis via both autocrine and paracrine pathways."
+    },
+    "Question_2": {
+        "Context": "Glucose-6-phosphate isomerase (GPI) can exist in different forms, each with distinct functions in cellular processes.",
+        "Question": "What dual role does glucose-6-phosphate isomerase (GPI) play in cellular processes?",
+        "A": "Enzyme and hormone",
+        "B": "Enzyme and structural protein",
+        "C": "Enzyme and motility factor",
+        "D": "Enzyme and receptor",
+        "Answer": "C",
+        "Source": "In its dimeric form, GPI acts as an enzyme, facilitating the conversion of glucose-6-phosphate to fructose-6-phosphate, a critical step in glycolysis. However, when existing as a monomer, GPI assumes the functions of AMF and neuroleukin."
+    },
+    "Question_3": {
+        "Context": "The pentose phosphate pathway (PPP) is a metabolic pathway parallel to glycolysis. It generates ribose and NADPH and is involved in various aspects of cancer cell behavior.",
+        "Question": "What is the role of the pentose phosphate pathway (PPP) in cancer cell behavior?",
+        "A": "It decreases cellular respiration",
+        "B": "It promotes cell death",
+        "C": "It is involved in survival, migration, angiogenesis, proliferation, and metastasis",
+        "D": "It has no role in cancer cell behavior",
+        "Answer": "C",
+        "Source": "G6PD, a crucial enzyme within the pentose phosphate pathway (PPP), is responsible for generating ribose and NADPH. It plays a critical role in regulating various aspects of cancer cell behavior, including survival, migration, angiogenesis, proliferation, and metastasis."
+    },
+    "Question_4": {
+        "Context": "Reactive oxygen species (ROS) are chemically reactive molecules containing oxygen. They are known to play a role in cell signaling and homeostasis.",
+        "Question": "What effect does an increase in reactive oxygen species (ROS) typically have on cancer cells?",
+        "A": "Promotes cell survival",
+        "B": "Decreases cell motility",
+        "C": "Induces cell death",
+        "D": "Has no effect on the cells",
+        "Answer": "C",
+        "Source": "D-AMF effectively downregulated the expression of glucose-6-phosphate dehydrogenase (G6PD) at both the mRNA and protein levels, resulting in a concurrent increase in the generation of reactive oxygen species (ROS)."
+    },
+    "Question_5": {
+        "Context": "Curcumin is a compound derived from the rhizomes of Curcuma longa L. and is known for its various biological properties.",
+        "Question": "What are the known effects of curcumin?",
+        "A": "Only anti-cancer",
+        "B": "Only anti-inflammatory",
+        "C": "Only antimicrobial",
+        "D": "Anti-cancer, anti-inflammatory, antimicrobial, and antioxidant",
+        "Answer": "D",
+        "Source": "Curcumin, derived from the rhizomes of Curcuma longa L., possesses a wide range of valuable properties, encompassing anti-cancer, anti-inflammatory, antimicrobial, and antioxidant effects."
+    },
+    "Question_6": {
+        "Context": "The combination of different therapeutic agents can sometimes result in a synergistic effect, enhancing the efficacy against cancer cells.",
+        "Question": "What is the potential benefit of combining curcumin with other therapeutic agents in cancer treatment?",
+        "A": "Decreases therapeutic efficacy",
+        "B": "Increases resistance to treatment",
+        "C": "Enhances therapeutic efficacy",
+        "D": "Has no impact on treatment",
+        "Answer": "C",
+        "Source": "Furthermore, there is a growing interest in the synergistic effects of curcumin when combined with established cancer drugs in clinical settings."
+    },
+    "Question_7": {
+        "Context": "Inhibiting the enzyme glucose-6-phosphate dehydrogenase (G6PD) within the pentose phosphate pathway can influence the resistance of cancer cells to anticancer drugs.",
+        "Question": "Why is inhibiting G6PD considered a strategy to enhance the susceptibility of cancer cells to anticancer drugs?",
+        "A": "It increases the production of ribose",
+        "B": "It reduces the generation of NADPH",
+        "C": "It enhances drug-induced oxidative stress",
+        "D": "It promotes angiogenesis",
+        "Answer": "C",
+        "Source": "Consequently, inhibiting G6PD has been documented to enhance the susceptibility of cancer cells to anticancer drugs that induce oxidative stress."
+    },
+    "Question_8": {
+        "Context": "Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) is an enzyme involved in the glycolytic pathway and is often used as a reference in experiments.",
+        "Question": "What is the role of glyceraldehyde-3-phosphate dehydrogenase (GAPDH) in cancer?",
+        "A": "It is only a housekeeping enzyme with no role in cancer",
+        "B": "Its overexpression is associated with the development of various cancers",
+        "C": "It inhibits the proliferation of cancer cells",
+        "D": "It is a receptor for cancer drugs",
+        "Answer": "B",
+        "Source": "Glyceraldehyde-3-phosphate dehydrogenase (GAPDH), a pivotal enzyme responsible for converting NAD+ to NADH within the glycolytic pathway, is considered a housekeeping enzyme and a standard internal reference in Western blotting experiments. However, its overexpression has been associated with the development of various cancers, including CRC."
+    },
+    "Question_9": {
+        "Context": "The internalization of autocrine motility factor (AMF) into cancer cells involves specific receptors and pathways.",
+        "Question": "Through which pathway is autocrine motility factor (AMF) internalized into cancer cells?",
+        "A": "AMFR-mediated, dynamin-independent pathway",
+        "B": "AMFR-mediated, dynamin-dependent, cholesterol-sensitive raft pathway",
+        "C": "GPI-mediated, dynamin-independent pathway",
+        "D": "GPI-mediated, dynamin-dependent pathway",
+        "Answer": "B",
+        "Source": "AMF triggers the activation of PI3K/AKT and/or MAPK/ERK signaling pathways and is internalized into the endoplasmic reticulum through an AMF receptor (AMFR)-mediated, dynamin-dependent, cholesterol-sensitive raft pathway."
+    },
+    "Question_10": {
+        "Context": "Cell competition is a process that can influence the fate of cells, including cancer cells, by assessing cellular fitness.",
+        "Question": "What is the significance of cell competition in the context of cancer progression?",
+        "A": "It promotes the survival of the fittest cells",
+        "B": "It has no impact on cancer progression",
+        "C": "It decreases the motility of cancer cells",
+        "D": "It increases the genetic diversity of cancer cells",
+        "Answer": "A",
+        "Source": "Cell competition, positioned as a downstream process within developmental signaling pathways, plays a pivotal role in assessing cellular fitness and selectively eliminating less fit cells."
+    }
+}

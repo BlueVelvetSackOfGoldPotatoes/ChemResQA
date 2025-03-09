@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the extraction and analysis of tobacco polysaccharides. The physicochemical properties and in vitro activities of the polysaccharides were investigated.",
+        "Question": "What was the primary method used to extract tobacco polysaccharides in the study?",
+        "A": "Hot water extraction",
+        "B": "Ethanol extraction",
+        "C": "Acid extraction",
+        "D": "Enzyme extraction",
+        "Answer": "A",
+        "Source": "The crude tobacco polysaccharide was obtained by hot water extraction, and purified and separated by DEAE cellulose chromatography column..."
+    },
+    "Question_2": {
+        "Context": "The study analyzed the monosaccharide composition of the tobacco polysaccharide fractions YCT-1, YCT-2, and YCT-3.",
+        "Question": "Which monosaccharide had the highest content in YCT-1?",
+        "A": "Mannose",
+        "B": "Arabinose",
+        "C": "Galactose",
+        "D": "Glucose",
+        "Answer": "D",
+        "Source": "The highly abundant monosaccharides in YCT-1 were mannose (3.209%), arabinose (8.016%), galactose (21.555%), glucose (58.274%), and xylose (3.141%)..."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the antioxidant activity of the tobacco polysaccharide fractions using DPPH radical scavenging assay.",
+        "Question": "Which fraction showed the highest DPPH radical scavenging rate?",
+        "A": "YCT-1",
+        "B": "YCT-2",
+        "C": "YCT-3",
+        "D": "VC (positive control)",
+        "Answer": "B",
+        "Source": "The DPPH radical scavenging rate of YCT-2 at a concentration of 4 mg/mL was higher than that of the other two fractions..."
+    },
+    "Question_4": {
+        "Context": "The study investigated the inhibitory effects of the tobacco polysaccharide fractions on \u03b1-amylase activity.",
+        "Question": "Which fraction showed a weak inhibitory activity on \u03b1-amylase?",
+        "A": "YCT-1",
+        "B": "YCT-2",
+        "C": "YCT-3",
+        "D": "Acarbose (positive control)",
+        "Answer": "A",
+        "Source": "Within the range of experimental concentrations (0.5\u20134 mg/mL), YCT-1, YCT-2, and YCT-3 exhibited a weak inhibitory activity for \u03b1-amylase..."
+    },
+    "Question_5": {
+        "Context": "The study examined the inhibitory effects of the tobacco polysaccharide fractions on pancreatic lipase activity.",
+        "Question": "Which fraction showed the highest inhibitory activity on pancreatic lipase?",
+        "A": "YCT-1",
+        "B": "YCT-2",
+        "C": "YCT-3",
+        "D": "Orlistat (positive control)",
+        "Answer": "C",
+        "Source": "YCT-3 showed the highest inhibitory activity (80.54%) at 1 mg/mL..."
+    },
+    "Question_6": {
+        "Context": "The study assessed the effects of the tobacco polysaccharide fractions on lipid accumulation in HepG-2 cells.",
+        "Question": "Which fraction showed the best effect in reducing lipid accumulation?",
+        "A": "YCT-1",
+        "B": "YCT-2",
+        "C": "YCT-3",
+        "D": "Model group",
+        "Answer": "C",
+        "Source": "The lipid accumulation rates of the YCT-1 (500 \u03bcg/mL), YCT-2 (500 \u03bcg/mL), and YCT-3 (500 \u03bcg/mL) groups accounted for 86.46%, 85.58%, and 78.85%, respectively..."
+    },
+    "Question_7": {
+        "Context": "The study investigated the mRNA expression levels of lipid metabolism-related genes in HepG-2 cells.",
+        "Question": "Which fraction was more effective in up-regulating the mRNA expression level of PPAR-\u03b1, CPT1A, and CYP7A1?",
+        "A": "YCT-1",
+        "B": "YCT-2",
+        "C": "YCT-3",
+        "D": "Control group",
+        "Answer": "C",
+        "Source": "Compared with YCT-1 and YCT-2, YCT-3 was more effective in up-regulating the mRNA expression level of PPAR-\u03b1, CPT1A, and CYP7A1..."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the expression levels of miR-155-3p and miR-17-3p in the exosomes from different groups.",
+        "Question": "Which group showed a significant down-regulation of miR-155-3p and miR-17-3p levels?",
+        "A": "Control group",
+        "B": "Model group",
+        "C": "YCT-1 group",
+        "D": "YCT-3 group",
+        "Answer": "D",
+        "Source": "Compared with the model group, miR-155-3p and miR-17-3p levels were significantly down-regulated in the YCT-3 group..."
+    },
+    "Question_9": {
+        "Context": "The study predicted the interaction sites between miR-155-3p and its target gene PPAR-\u03b1 as well as between miR-17-3p and its target gene CYP7A1.",
+        "Question": "Which interaction was confirmed by the dual luciferase reporter gene assays?",
+        "A": "miR-155-3p and PPAR-\u03b1",
+        "B": "miR-17-3p and PPAR-\u03b1",
+        "C": "miR-155-3p and CYP7A1",
+        "D": "miR-17-3p and CYP7A1",
+        "Answer": "C",
+        "Source": "The results showed that miR-155-3p and miR-17-3p significantly reduced the levels of PPAR-\u03b1 WT and CYP7A1 WT in 293 T cells..."
+    },
+    "Question_10": {
+        "Context": "The study aimed to provide a new perspective for the comprehensive utilization of tobacco resources and the development of new plant-derived functional foods.",
+        "Question": "What was the primary focus of the study regarding tobacco polysaccharides?",
+        "A": "Antioxidant activity",
+        "B": "Hypoglycemic activity",
+        "C": "Hypolipidemic activity",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The study aimed to provide a new perspective for the comprehensive utilization of tobacco resources and the development of new plant-derived functional foods from tobacco polysaccharides..."
+    }
+}

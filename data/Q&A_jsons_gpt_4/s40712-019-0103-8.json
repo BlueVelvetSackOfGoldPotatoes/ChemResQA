@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Vibratory machining technology can be used for the preparation of oxide coatings on aluminum-alloyed components. This process involves the transmission of shock waves to the surface, which can lead to changes in the surface characteristics.",
+        "Question": "What effect does vibratory coating have on the grain structure of aluminum-alloyed components?",
+        "A": "Increases grain sizes",
+        "B": "No change to grain sizes",
+        "C": "Reduction of grain sizes",
+        "D": "Randomizes grain orientation",
+        "Answer": "C",
+        "Source": "The vibratory coating shows a reduction of grain sizes, a regular orientation of the grain, and a dense grain structure leading to the formation of a thin layer covered by a film orientated parallel to the surface of friction giving an imparted surface finish."
+    },
+    "Question_2": {
+        "Context": "In the context of vibratory machining, the use of MoS2 as a solid lubricant coating can improve the tribological properties of machine component parts.",
+        "Question": "What is the primary benefit of applying a vibration mechanochemical solid lubricant coating based on MoS2?",
+        "A": "Increases electrical conductivity",
+        "B": "Improves surface quality and wear resistance",
+        "C": "Enhances color and appearance",
+        "D": "Reduces thermal resistance",
+        "Answer": "B",
+        "Source": "The coating characteristics are determined by measuring and comparing certain tribological properties of the samples before processing, after normal coating, and after vibratory coating process."
+    },
+    "Question_3": {
+        "Context": "Oxidation of metals is a process that can be enhanced by vibratory machining, which can lead to the formation of oxide-coated films without the use of oxidizing solutions.",
+        "Question": "How is the oxide film formation on machine component parts achieved during vibratory machining?",
+        "A": "By submerging the parts in an oxidizing solution",
+        "B": "Through the application of high temperatures",
+        "C": "By the repeated collision of processing medium particles with the parts",
+        "D": "Using a sharp cutting tool",
+        "Answer": "C",
+        "Source": "Oxide film formation on machine component parts can be obtained during the process of oxidation without oxidizing solution."
+    },
+    "Question_4": {
+        "Context": "The use of vibratory machining for the application of coatings can result in a surface finish with certain desirable characteristics.",
+        "Question": "What is a characteristic of the surface finish after vibratory machining for coating application?",
+        "A": "Increased microroughness",
+        "B": "Decreased wear resistance",
+        "C": "Orientation of grains parallel to the surface of friction",
+        "D": "Increased coefficient of friction",
+        "Answer": "C",
+        "Source": "The vibratory coating shows a reduction of grain sizes, a regular orientation of the grain, and a dense grain structure leading to the formation of a thin layer covered by a film orientated parallel to the surface of friction giving an imparted surface finish."
+    },
+    "Question_5": {
+        "Context": "The application of vibratory machining in the presence of a solid lubricant such as MoS2 can lead to the formation of a coating with specific structural properties.",
+        "Question": "What structural feature of MoS2 contributes to its effectiveness as a solid lubricant when applied using vibratory machining?",
+        "A": "Hexagonal closed packed lattice structure",
+        "B": "Cubic lattice structure",
+        "C": "Body-centered cubic structure",
+        "D": "Face-centered cubic structure",
+        "Answer": "A",
+        "Source": "Molybdenum disulfide has hexagonal closed packed lattice structure in the form of prismatic hexahedron, shown in Fig. 4. Such a structure of molybdenum disulfide proves its importance as a lubricant with high adhesive properties."
+    },
+    "Question_6": {
+        "Context": "During vibratory machining, the interaction between the processing medium and the material of the machine component part can lead to the formation of a superficial layer.",
+        "Question": "What is the result of the pressure caused by the processing medium during vibratory machining?",
+        "A": "Thermal deformation of the superficial layer",
+        "B": "Chemical bonding of the superficial layer",
+        "C": "Plastic deformation leading to dislocation formation",
+        "D": "Evaporation of the superficial layer",
+        "Answer": "C",
+        "Source": "During vibratory machining, particles of the working medium strike the part\u2019s surface. In the contact zone, there is a pressure causing plastic deformation that leads to an increase in dislocation and formation of active vacant-dislocation centers."
+    },
+    "Question_7": {
+        "Context": "The process of vibratory machining involves the use of a working medium that interacts with the surface of the component part, affecting its surface characteristics.",
+        "Question": "What types of movements does the working medium perform during vibratory machining?",
+        "A": "Only oscillations",
+        "B": "Oscillations and slow circulation movement",
+        "C": "Only rapid rotational movement",
+        "D": "Only translational movement",
+        "Answer": "B",
+        "Source": "The mixture come into intensive relative movement, making two types of movements that are oscillations and slow circulation movement."
+    },
+    "Question_8": {
+        "Context": "The application of vibratory machining for coating processes can influence the chemical activity of the surface being treated.",
+        "Question": "What is the effect of vibratory machining on the chemical activity of metallic surfaces?",
+        "A": "Decreases the chemical activity",
+        "B": "Has no effect on chemical activity",
+        "C": "Increases the chemical activity",
+        "D": "Changes the chemical composition",
+        "Answer": "C",
+        "Source": "The increase in internal energy in the metals\u2019 superficial layers as a result of plastic deformation leads to an increase in the adsorption capacity of the metal surface."
+    },
+    "Question_9": {
+        "Context": "The formation of oxide-coated films during vibratory machining is a complex process that involves mechanical and chemical interactions.",
+        "Question": "What role does the processing medium play in the formation of oxide-coated films during vibratory machining?",
+        "A": "It acts as a barrier to oxidation",
+        "B": "It facilitates the access of oxidizing solution to the metal surface",
+        "C": "It prevents plastic deformation",
+        "D": "It increases the temperature of the metal surface",
+        "Answer": "B",
+        "Source": "The vibrating medium in contact with the surface of the growing oxide film loosens it, thereby facilitating the access of the oxidizing solution to the metal surface."
+    },
+    "Question_10": {
+        "Context": "The characteristics of a coating formed by vibratory machining can be influenced by the kinematic characteristics of the vibration waves.",
+        "Question": "Which physical phenomena characterize the vibration waves in vibratory machining?",
+        "A": "Reflection, refraction, diffraction",
+        "B": "Conduction, convection, radiation",
+        "C": "Compression, rarefaction, torsion",
+        "D": "Melting, vaporization, sublimation",
+        "Answer": "A",
+        "Source": "The resulting vibration waves due to shock possesses kinematic characteristics; they are characterized by physical phenomena (reflection, refraction, diffraction\u2026)"
+    }
+}

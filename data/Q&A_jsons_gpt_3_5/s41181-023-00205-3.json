@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the evaluation of the alphaTARE-agent [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in a mouse model of colorectal cancer.",
+        "Question": "What was the estimated maximum tolerable activity (eMTA) for male rats based on the study's dosimetry calculations?",
+        "A": "396 Bq/g",
+        "B": "1982 Bq/g",
+        "C": "3641 Bq/g",
+        "D": "728 Bq/g",
+        "Answer": "C",
+        "Source": "The eMTA for male rats ranged between 728 and 3641 Bq/g (whole-body weight), depending on an RBE-value (range 1\u20135) (Fig. 5C and Additional file 1: Table S9)."
+    },
+    "Question_2": {
+        "Context": "The study assessed the biodistribution of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in tumor-bearing female and male mice.",
+        "Question": "Which organ was identified as the dose-limiting organ in the study?",
+        "A": "Kidneys",
+        "B": "Liver",
+        "C": "Tumor",
+        "D": "Femur",
+        "Answer": "B",
+        "Source": "The liver was found to be the dose limiting organ with an estimated MTA (eMTA) of 240\u20131186 Bq/g for female mice (accounting for the daughters relocation), 396\u20131982 Bq/g for male mice (not accounting for the daughters relocation), and 728\u20133641 Bq/g (accounting for the daughters relocation) for the male rats."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the pharmacokinetics and dosimetry of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in rodent models.",
+        "Question": "What was the median survival for mice treated with [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae compared to controls?",
+        "A": "26 days",
+        "B": "33-35 days",
+        "C": "47 days",
+        "D": "60 days",
+        "Answer": "C",
+        "Source": "The median survival for [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae treated mice was 47 days for both sexes as compared to controls, 26 days (untreated) and 33\u201335 days (Lipiodol\u00ae alone)."
+    },
+    "Question_4": {
+        "Context": "The study investigated the biodistribution of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in female mice and male rats.",
+        "Question": "Which organ showed the highest accumulation of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae within normal tissues?",
+        "A": "Kidneys",
+        "B": "Liver",
+        "C": "Tumor",
+        "D": "Femur",
+        "Answer": "B",
+        "Source": "The normal organ with the highest accumulation of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae was the liver."
+    },
+    "Question_5": {
+        "Context": "The study assessed the biodistribution of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in tumor-bearing female and male mice.",
+        "Question": "What was the estimated maximum tolerable activity (eMTA) for female mice based on the study's dosimetry calculations?",
+        "A": "240 Bq/g",
+        "B": "1186 Bq/g",
+        "C": "396 Bq/g",
+        "D": "1982 Bq/g",
+        "Answer": "B",
+        "Source": "The eMTA for female mice ranged between 240 and 1186 Bq/g (whole-body weight), depending on an RBE-value (range 1\u20135)."
+    },
+    "Question_6": {
+        "Context": "The study evaluated the biodistribution of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in tumor-bearing female and male mice.",
+        "Question": "Which decay daughters were assessed in the blood, kidneys, liver, tumor, and femur with marrow of the female mice?",
+        "A": "Francium-221 and Bismuth-213",
+        "B": "Polonium-213 and Astatine-217",
+        "C": "Actinium-225 and Francium-221",
+        "D": "Bismuth-213 and Actinium-225",
+        "Answer": "A",
+        "Source": "The pharmacokinetics of the free daughters, francium-221 and bismuth-213, were assessed in the blood, kidneys, liver, tumor, and femur w/ marrow of the female mice."
+    },
+    "Question_7": {
+        "Context": "The study investigated the biodistribution of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in tumor-bearing female and male mice.",
+        "Question": "What was the mean absorbed dose coefficient for [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in the liver of female mice?",
+        "A": "1213 mGy/kBq",
+        "B": "44.5 mGy/kBq",
+        "C": "102.8 mGy/kBq",
+        "D": "1066 mGy/kBq",
+        "Answer": "A",
+        "Source": "The total mean absorbed dose to the liver was 1213 mGy/kBq with 23.8% from [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae, 46.6% from free bismuth-213, and 29.6% from free francium-221."
+    },
+    "Question_8": {
+        "Context": "The study assessed the biodistribution of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in tumor-bearing female and male mice.",
+        "Question": "What was the estimated maximum tolerable activity (eMTA) for male mice based on the study's dosimetry calculations?",
+        "A": "396 Bq/g",
+        "B": "1982 Bq/g",
+        "C": "3641 Bq/g",
+        "D": "728 Bq/g",
+        "Answer": "B",
+        "Source": "The eMTA for male mice ranged between 396 and 1982 Bq/g (whole-body weight), depending on an RBE-value (range 1\u20135)."
+    },
+    "Question_9": {
+        "Context": "The study evaluated the biodistribution of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in tumor-bearing female and male mice.",
+        "Question": "Which organ showed a non-uniform activity distribution with the main uptake occurring within the cortex region for both female and male mice?",
+        "A": "Liver",
+        "B": "Kidneys",
+        "C": "Tumor",
+        "D": "Femur",
+        "Answer": "B",
+        "Source": "The kidneys show a non-uniform activity distribution with the main uptake occurring within the cortex region for both female and male mice at 24-h: 94% and 97%, and at 144-h: 86% and 85%."
+    },
+    "Question_10": {
+        "Context": "The study assessed the biodistribution of [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in tumor-bearing female and male mice.",
+        "Question": "What was the mean absorbed dose coefficient for [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae in the kidneys of male rats?",
+        "A": "8.3 mGy/kBq",
+        "B": "1.5 mGy/kBq",
+        "C": "5.2 mGy/kBq",
+        "D": "14.9 mGy/kBq",
+        "Answer": "A",
+        "Source": "The mean absorbed dose to the kidneys of male rats was 8.3 mGy/kBq from [225Ac]Ac-DOTA-TDA-Lipiodol\u00ae."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the radiolabeling of two chelates, O-TRENOX and O-TRENSOX, with technetium-99m. The researchers investigated the optimal conditions for radiolabeling these chelates with 99mTc.",
+        "Question": "What was the reducing agent used for the radiolabeling of O-TRENOX and O-TRENSOX?",
+        "A": "Stannous dichloride",
+        "B": "Stannous pyrophosphate",
+        "C": "Sodium pertechnetate",
+        "D": "Sodium chloride",
+        "Answer": "B",
+        "Source": "The results obtained when stannous dichloride was used as a reductant were not entirely satisfactory as the formation of a non-negligible amount of hydrolyzed technetium [99mTc]TcO2 was noticed. Therefore, stannous pyrophosphate was used as the reducing agent, providing excellent radiochemical purity without the formation of [99mTc]TcO2."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the amount of ligand required for proper complexation with 99mTc. Different quantities of ligand were tested to determine the minimal amount necessary for a high reaction yield.",
+        "Question": "What was the minimum amount of ligand required for a radiochemical purity of over 95%?",
+        "A": "25 \u00b5g",
+        "B": "50 \u00b5g",
+        "C": "100 \u00b5g",
+        "D": "200 \u00b5g",
+        "Answer": "A",
+        "Source": "The radiochemical purity was found satisfactory (RCP > 95%) with at least 35.9 nmol (25 \u00b5g) of O-TRENOX, and for a quantity of ligand equal to 101 nmol (100 \u00b5g) a maximum radiochemical purity plateau of 98% was obtained."
+    },
+    "Question_3": {
+        "Context": "The study investigated the effect of pH on the radiochemical yield of the complexes. Different pH values were tested to determine the impact on the formation of the chelates.",
+        "Question": "At which pH value was the maximum radiochemical yield obtained?",
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "10",
+        "Answer": "B",
+        "Source": "Maximum radiochemical yield was obtained at pH 6, which was the pH of the reaction without adjustment. When the radiolabeling was performed at pH 4, the radiochemical yield dropped to 93.7% for [99mTc]Tc-O-TRENOX and 92.4% for [99mTc]Tc-O-TRENSOX."
+    },
+    "Question_4": {
+        "Context": "The study evaluated the effect of temperature on the complexation efficiency of the chelates. Different temperatures were tested to determine the impact on the formation of the complexes.",
+        "Question": "What was the temperature chosen for the radiolabeling reaction?",
+        "A": "Room temperature",
+        "B": "50\u00b0C",
+        "C": "75\u00b0C",
+        "D": "100\u00b0C",
+        "Answer": "A",
+        "Source": "Heating was found to not improve the radiochemical yield of both complexes. For the following experiments, the reaction temperature was then defined as room temperature (RT)."
+    },
+    "Question_5": {
+        "Context": "The study investigated the reaction kinetics and radiochemical stability of the complexes in the reaction vial. The researchers studied the radiochemical yields at different time points to assess the stability of the complexes.",
+        "Question": "How long was the complex [99mTc]Tc-O-TRENOX stable in the reaction vial?",
+        "A": "5 minutes",
+        "B": "30 minutes",
+        "C": "60 minutes",
+        "D": "24 hours",
+        "Answer": "D",
+        "Source": "The results highlighted a rapid complexation of O-TRENOX with [99mTc]TcO4 \u2212, with the complex remaining stable for at least 24 hours post-reaction, maintaining a high radiochemical purity."
+    },
+    "Question_6": {
+        "Context": "The study determined the partition coefficient of the complexes by measuring their distribution between octanol and phosphate-buffered saline. The log P values were calculated to assess the lipophilic or hydrophilic behavior of the complexes.",
+        "Question": "What was the log P value for the [99mTc]Tc-O-TRENOX complex?",
+        "A": "0.5",
+        "B": "1.2",
+        "C": "-2.3",
+        "D": "3.0",
+        "Answer": "B",
+        "Source": "The calculated log P for the [99mTc]Tc-O-TRENOX complex was 1.2 \u00b1 0.2, indicating a lipophilic behavior."
+    },
+    "Question_7": {
+        "Context": "The study assessed the charge of the complexes by analyzing their migration on different celluloses. The charge determination was crucial to understand the behavior of the complexes in vivo.",
+        "Question": "What was the charge of the [99mTc]Tc-O-TRENSOX complex?",
+        "A": "Neutral",
+        "B": "Negatively charged",
+        "C": "Positively charged",
+        "D": "Variable charge",
+        "Answer": "B",
+        "Source": "For O-TRENSOX (5), the radiolabeled complex was retained by the positive cellulose DE81 while it migrated to the neutral cellulose as well as the negative cellulose P81. We concluded that the complex was negatively charged."
+    },
+    "Question_8": {
+        "Context": "The study conducted in vivo studies with biodistribution and SPECT-CT imaging in mice to evaluate the behavior of the complexes in a living system. The biodistribution results provided insights into the elimination pathways of the chelates.",
+        "Question": "Which complex showed predominantly renal elimination in mice?",
+        "A": "[99mTc]Tc-O-TRENOX",
+        "B": "[99mTc]Tc-O-TRENSOX",
+        "C": "Both complexes",
+        "D": "Neither complex",
+        "Answer": "B",
+        "Source": "The negatively charged [99mTc]Tc-O-TRENSOX complex was eliminated mainly by the renal pathway and was present in the urine as early as 30 min after the injection."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the biodistribution of the complexes in mice at different time points post-injection. The researchers observed the distribution of the complexes in various organs to understand their behavior in vivo.",
+        "Question": "Which organ showed a significantly higher uptake of [99mTc]Tc-O-TRENOX compared to [99mTc]Tc-O-TRENSOX?",
+        "A": "Liver",
+        "B": "Kidneys",
+        "C": "Spleen",
+        "D": "Lungs",
+        "Answer": "A",
+        "Source": "The neutral [99mTc]Tc-O-TRENOX complex exhibited a predominantly hepatic distribution that was significantly higher than that of [99mTc]Tc-O-TRENSOX at 60 min and 240 min post-injection."
+    },
+    "Question_10": {
+        "Context": "The study included SPECT-CT imaging to visualize the distribution of the complexes in vivo. The imaging provided insights into the localization of the chelates in different organs over time.",
+        "Question": "What was the main reason for the presence of [99mTc]Tc-O-TRENOX in the lungs?",
+        "A": "High lipophilicity",
+        "B": "Renal elimination",
+        "C": "Aggregation",
+        "D": "Hepatic uptake",
+        "Answer": "C",
+        "Source": "The hypothesis to explain the presence of [99mTc]Tc-O-TRENOX in the lungs was that the dilution made for intravenous injection led to the formation of aggregates over time, which were trapped in the capillaries of the lungs due to their size."
+    }
+}

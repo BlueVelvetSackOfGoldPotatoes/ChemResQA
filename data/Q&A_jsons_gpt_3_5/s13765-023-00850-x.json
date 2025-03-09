@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the expression patterns of two CPR genes in tomato tissues and under stress conditions. The expression levels of SlCPR2 were induced by a specific treatment.",
+        "Question": "What was the effect of jasmonic acid treatment on the expression of SlCPR2 in tomato plants?",
+        "A": "No significant change",
+        "B": "Decreased expression levels",
+        "C": "Increased expression levels",
+        "D": "Expression levels varied based on tissue type",
+        "Answer": "C",
+        "Source": "SlCPR2 showed a significant increase in gene expression only under JA treatment, suggesting that JA specifically induces the upregulation of SlCPR2."
+    },
+    "Question_2": {
+        "Context": "The study focused on the enzymatic activities of SlCPR1 and SlCPR2 with various substrates. The proteins were reacted with different substrates to measure their catalytic efficiency.",
+        "Question": "Which CPR enzyme exhibited higher catalytic efficiency with MTT as a substrate?",
+        "A": "SlCPR1",
+        "B": "SlCPR2",
+        "C": "Both had similar efficiency",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "SlCPR2 exhibited approximately five times higher catalytic efficiency than SlCPR1 when reacted with MTT."
+    },
+    "Question_3": {
+        "Context": "The study investigated the optimal pH range for the enzymatic activity of SlCPR1 and SlCPR2. The activity of the enzymes was measured across different pH values.",
+        "Question": "At what pH did both SlCPR1 and SlCPR2 exhibit the highest activity?",
+        "A": "pH 6.0",
+        "B": "pH 7.0",
+        "C": "pH 8.0",
+        "D": "pH 9.0",
+        "Answer": "C",
+        "Source": "The highest activity was observed at around pH 8.0 for both SlCPR1 and SlCPR2."
+    },
+    "Question_4": {
+        "Context": "The study explored the thermal stability of SlCPR1 and SlCPR2. The enzymes were subjected to different temperatures to assess their stability.",
+        "Question": "What was the T50 value for SlCPR1, representing the temperature at which the enzyme retains 50% of its activity?",
+        "A": "44\u00b0C",
+        "B": "48\u00b0C",
+        "C": "50\u00b0C",
+        "D": "52\u00b0C",
+        "Answer": "B",
+        "Source": "The T50 values of SlCPR1 and SlCPR2 were determined to be 48 \u00b1 0.7 \u00b0C and 44 \u00b1 1.0 \u00b0C, respectively."
+    },
+    "Question_5": {
+        "Context": "The study focused on the gene expression patterns of SlCPR1 and SlCPR2 in tomato tissues and under stress conditions. The expression levels were analyzed in response to different treatments.",
+        "Question": "Which stress treatment induced a significant increase in the expression of SlCPR2?",
+        "A": "Salicylic acid treatment",
+        "B": "Drought stress treatment",
+        "C": "Both salicylic acid and drought stress treatments",
+        "D": "Jasmonic acid treatment",
+        "Answer": "D",
+        "Source": "SlCPR2 showed a significant increase in gene expression only under JA treatment, suggesting that JA specifically induces the upregulation of SlCPR2."
+    },
+    "Question_6": {
+        "Context": "The study investigated the enzymatic activities of SlCPR1 and SlCPR2 with various substrates. The proteins were reacted with different substrates to measure their catalytic efficiency.",
+        "Question": "Which substrate showed the highest catalytic efficiency with SlCPR2?",
+        "A": "MTT",
+        "B": "CTC",
+        "C": "Ferricyanide",
+        "D": "Cytochrome c",
+        "Answer": "C",
+        "Source": "SlCPR2 exhibited higher catalytic efficiency than SlCPR1 for all tested substrates. Particularly, when reacted with MTT, SlCPR2 exhibited approximately five times higher catalytic efficiency than SlCPR1."
+    },
+    "Question_7": {
+        "Context": "The study explored the optimal pH range for the enzymatic activity of SlCPR1 and SlCPR2. The activity of the enzymes was measured across different pH values.",
+        "Question": "At what pH did both SlCPR1 and SlCPR2 exhibit the highest activity?",
+        "A": "pH 6.0",
+        "B": "pH 7.0",
+        "C": "pH 8.0",
+        "D": "pH 9.0",
+        "Answer": "C",
+        "Source": "The highest activity was observed at around pH 8.0 for both SlCPR1 and SlCPR2."
+    },
+    "Question_8": {
+        "Context": "The study focused on the thermal stability of SlCPR1 and SlCPR2. The enzymes were subjected to different temperatures to assess their stability.",
+        "Question": "At what temperature did both SlCPR1 and SlCPR2 become completely inactive?",
+        "A": "30\u00b0C",
+        "B": "40\u00b0C",
+        "C": "50\u00b0C",
+        "D": "60\u00b0C",
+        "Answer": "D",
+        "Source": "Both SlCPRs exhibited a gradual decrease in activity beyond 30\u00b0C and became completely inactive at 60\u00b0C."
+    },
+    "Question_9": {
+        "Context": "The study investigated the gene expression patterns of SlCPR1 and SlCPR2 in tomato tissues and under stress conditions. The expression levels were analyzed in response to different treatments.",
+        "Question": "Which CPR gene showed no significant change in expression levels across various stress treatments?",
+        "A": "SlCPR1",
+        "B": "SlCPR2",
+        "C": "Both SlCPR1 and SlCPR2",
+        "D": "Expression levels varied based on tissue type",
+        "Answer": "A",
+        "Source": "SlCPR1 showed no significant change in expression levels across these stress treatments."
+    },
+    "Question_10": {
+        "Context": "The study focused on the enzymatic activities of SlCPR1 and SlCPR2 with various substrates. The proteins were reacted with different substrates to measure their catalytic efficiency.",
+        "Question": "Which substrate showed the highest catalytic efficiency with SlCPR1?",
+        "A": "MTT",
+        "B": "CTC",
+        "C": "Ferricyanide",
+        "D": "Cytochrome c",
+        "Answer": "C",
+        "Source": "SlCPR1 exhibited high Kcat with the substrates; Kcat was highest with ferricyanide, followed by cytochrome c, MTT, and CTC."
+    }
+}

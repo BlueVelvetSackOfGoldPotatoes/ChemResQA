@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In environmental chemistry, the monitoring of pollutants such as antibiotics in water resources is critical. Tetracyclines are a class of antibiotics that are often targeted due to their prevalence and potential to cause bacterial resistance.",
+        "Question": "What is the main environmental concern associated with the continuous uncontrolled discharge of tetracyclines (TCs) into water resources?",
+        "A": "Increase in water turbidity",
+        "B": "Potential development of bacterial resistance",
+        "C": "Elevation of water pH levels",
+        "D": "Reduction in water surface tension",
+        "Answer": "B",
+        "Source": "A continuous uncontrolled discharge of TCs into the environment can potentially develop bacterial resistance to these antibiotics. This, in turn, could render antibiotic treatment costly and challenging."
+    },
+    "Question_2": {
+        "Context": "Chitosan is a biopolymer with a variety of applications, including water purification. It is known for its ability to adsorb contaminants due to the presence of functional groups that can interact with various substances.",
+        "Question": "What functional groups in chitosan molecules increase its adsorption capacity towards contaminants?",
+        "A": "Ketone and ester groups",
+        "B": "Aldehyde and sulfhydryl groups",
+        "C": "Amino and hydroxyl groups",
+        "D": "Carboxyl and phosphate groups",
+        "Answer": "C",
+        "Source": "The presence of highly reactive amino and hydroxyl groups in the chitosan molecule increases its adsorption capacity towards contaminants due to the ability to form hydrogen bonds and electrostatic interactions with adsorbates."
+    },
+    "Question_3": {
+        "Context": "Zeolites are microporous crystalline aluminosilicates used as adsorbents in various applications. They are chosen for their specific properties that make them suitable for adsorption processes.",
+        "Question": "Which properties make zeolites suitable as adsorbents?",
+        "A": "Flexibility and high density",
+        "B": "Excellent mechanical and thermal stability, high adsorption capacity",
+        "C": "High electrical conductivity and transparency",
+        "D": "Elasticity and low thermal expansion",
+        "Answer": "B",
+        "Source": "Zeolites were considered adsorbents in the present study due to their excellent mechanical and thermal stability, availability in abundance, inexpensive and offer high adsorption capacity."
+    },
+    "Question_4": {
+        "Context": "Iron oxide nanoparticles are often incorporated into composite materials to introduce magnetic properties, which can be advantageous in separation processes.",
+        "Question": "What is the primary advantage of incorporating iron oxide nanoparticles into an adsorbent composite?",
+        "A": "To increase the electrical conductivity",
+        "B": "To enhance the optical properties",
+        "C": "To introduce magnetic properties",
+        "D": "To reduce the overall weight",
+        "Answer": "C",
+        "Source": "The present study explored the separation of the adsorbent from water by incorporating iron oxide (Fe3O4), which became helpful for the regeneration and reusability of the adsorbent."
+    },
+    "Question_5": {
+        "Context": "In analytical chemistry, high performance liquid chromatography (HPLC) equipped with a photodiode array detector (DAD) is a technique used to quantify specific compounds in various samples.",
+        "Question": "What is the purpose of using high performance liquid chromatography with a photodiode array detector in water analysis?",
+        "A": "To sterilize the water samples",
+        "B": "To quantify the presence of specific compounds",
+        "C": "To increase the pH level of water",
+        "D": "To remove all organic matter",
+        "Answer": "B",
+        "Source": "Upon efficient extraction and pre-concentration process, a high performance liquid chromatography equipped with a photodiode array detector (HPLC-DAD) was used for the quantification of all the investigated TCs."
+    },
+    "Question_6": {
+        "Context": "The adsorption capacity of a material is an important parameter in environmental monitoring, indicating how much of a contaminant can be adsorbed onto the material's surface.",
+        "Question": "How is the equilibrium adsorption amount of a contaminant on an adsorbent expressed?",
+        "A": "mg L\u22121",
+        "B": "mg g\u22121",
+        "C": "L g\u22121",
+        "D": "g L\u22121",
+        "Answer": "B",
+        "Source": "The adsorption capacity of each tetracycline antibiotic was calculated using Eq. (1): where qe, C0, Ce, V and m are the equilibrium adsorption amounts of TCs on Cs\u2013Z\u2013Fe3O4 composite (mg g\u22121), initial concentration of adsorbate (mg L\u22121), equilibrium concentration of adsorbate (mg L\u22121) volume of TC solution (L) and mass (g) of Cs\u2013Z\u2013Fe3O4, respectively."
+    },
+    "Question_7": {
+        "Context": "The point of zero charge (pHpzc) is a critical property of an adsorbent, which determines the pH at which the surface charge of the adsorbent is neutral.",
+        "Question": "What happens to the surface charge of an adsorbent when the pH of the solution is above its pHpzc?",
+        "A": "The surface becomes positively charged",
+        "B": "The surface remains neutral",
+        "C": "The surface becomes negatively charged",
+        "D": "The surface charge oscillates between positive and negative",
+        "Answer": "C",
+        "Source": "The point of zero charge (pHpzc) of the adsorbent was 4.20, indicating that when the sample pH was below the pHpzc, the surface of the adsorbent was positive and conversely, when the sample pH was above the pHpzc, the surface of the adsorbent was negative."
+    },
+    "Question_8": {
+        "Context": "The Langmuir adsorption isotherm model describes the adsorption of molecules onto a surface at specific homogeneous sites within the adsorbent.",
+        "Question": "According to the Langmuir adsorption isotherm model, what is the nature of adsorption when the model fits the experimental data well?",
+        "A": "Physisorption",
+        "B": "Multilayer adsorption",
+        "C": "Heterogeneous adsorption",
+        "D": "Homogeneous monolayer adsorption",
+        "Answer": "D",
+        "Source": "The results indicate that Langmuir, Freundlich and Sips isotherm models yielded correlation coefficients (R2) greater than 0.99, which suggests their adequacy in predicting the experimental data. However, it is observed that both Langmuir and Sips isotherm models best described the adsorption of OT, TC and DC onto the composite since they had the highest R2 value compared to the Freundlich isotherm model."
+    },
+    "Question_9": {
+        "Context": "The detection limit (LOD) and quantification limit (LOQ) are parameters that describe the sensitivity of an analytical method, with LOD being the lowest concentration that can be reliably detected and LOQ being the lowest concentration that can be quantified.",
+        "Question": "What are the typical units used to express the detection limit (LOD) and quantification limit (LOQ) in liquid chromatography?",
+        "A": "mg mL\u22121",
+        "B": "\u00b5g mL\u22121",
+        "C": "\u00b5g L\u22121",
+        "D": "ng L\u22121",
+        "Answer": "C",
+        "Source": "The LODs for OT, TC and DC were found to be 0.05, 0.35 and 0.67 \u00b5g L\u22121, respectively, while LOQs were 0.14, 1.05 and 2.03 \u00b5g L\u22121, respectively."
+    },
+    "Question_10": {
+        "Context": "In analytical chemistry, the matrix effect refers to the influence of other components in the sample on the analysis of the target analyte, which can lead to suppression or enhancement of the analyte signal.",
+        "Question": "What does it indicate if the percentage matrix effect (%ME) is between \u221220% and 20%?",
+        "A": "The matrix has a strong effect on the analyte signal",
+        "B": "The matrix has no significant effect on the analyte signal",
+        "C": "The matrix completely suppresses the analyte signal",
+        "D": "The matrix effect is too variable to determine",
+        "Answer": "B",
+        "Source": "According to literature, the matrix effect is categorised as having no effect when % ME \u2265 \u2212 20% or % ME \u2264 20%, medium when \u2212 50% \u2264 % ME \u2264 \u2212 20% or 20% \u2265 % ME \u2264 50%, strong when % ME \u2264 \u2212 50% or % ME \u2265 50%."
+    }
+}

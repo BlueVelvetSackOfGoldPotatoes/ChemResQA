@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Perovskite solar cells have shown high power conversion efficiency and potential for low-cost production. However, the formation of a high-quality perovskite layer is a significant challenge, especially when considering environmental sustainability.",
+        "Question": "What is the most challenging aspect of mass production of perovskite solar cells?",
+        "A": "Electrode formation",
+        "B": "Charge-transporting layer formation",
+        "C": "Creation of a high-quality perovskite layer",
+        "D": "Packaging of the cells",
+        "Answer": "C",
+        "Source": "To mass produce PSCs, the most important but difficult part is the formation of a high-quality perovskite layer with industry-compatible, sustainable processes."
+    },
+    "Question_2": {
+        "Context": "In the context of perovskite solar cell production, the use of environmentally friendly solvents is crucial for the formation of perovskite layers.",
+        "Question": "Which of the following is NOT a category for environmentally friendly production methods of perovskite layers?",
+        "A": "Using environmentally friendly solvents for perovskite precursor ink/solution",
+        "B": "Replacing harmful, volatile antisolvents",
+        "C": "Limiting the use of antisolvents during film formation",
+        "D": "Increasing the use of non-polar solvents",
+        "Answer": "D",
+        "Source": "The eco-friendly production methods are categorized into two: (1) employing environmentally friendly solvents for perovskite precursor ink/solution, and (2) replacing harmful, volatile antisolvents or even limiting their use during the perovskite film formation process."
+    },
+    "Question_3": {
+        "Context": "Solvents used in the formation of perovskite layers for solar cells must have certain properties to ensure solubility and compatibility with the perovskite structure.",
+        "Question": "What property must solvents have to ensure sufficient solubility for perovskite layer formation?",
+        "A": "High volatility",
+        "B": "Sufficient affinity to the Pb center atom by donating an electron-pair",
+        "C": "Low boiling point",
+        "D": "Non-polar nature",
+        "Answer": "B",
+        "Source": "The selection of solvents for the perovskite precursor ink is limited to polar solvents which have sufficient affinity to the Pb center atom by donating an electron-pair."
+    },
+    "Question_4": {
+        "Context": "The formation of perovskite films involves a complex crystallization behavior that requires controlled steps for high-quality results.",
+        "Question": "Which of the following is NOT a step in the formation of a perovskite film?",
+        "A": "Deposition of a precursor wet-film",
+        "B": "Complete phase conversion to a photoactive perovskite phase",
+        "C": "Application of a high-temperature vacuum process",
+        "D": "Direct/indirect thermal annealing",
+        "Answer": "C",
+        "Source": "The perovskite layer exhibits complex crystallization behavior, which requires two separate steps\u2014large-area deposition of a precursor wet-film and complete phase conversion to a photoactive perovskite phase."
+    },
+    "Question_5": {
+        "Context": "The environmental impact of manufacturing processes for perovskite solar cells is a concern, particularly the use of solvents.",
+        "Question": "What is the estimated amount of solvent needed for the fabrication of 1 GW of perovskite solar cells?",
+        "A": "500 L",
+        "B": "1500 L",
+        "C": "3500 L",
+        "D": "5000 L",
+        "Answer": "C",
+        "Source": "Because the estimated amount of solvent for fabrication of 1 GW PSCs would be 3500 L, reducing eco- and human-toxicity derived from those solvent would be crucial."
+    },
+    "Question_6": {
+        "Context": "The selection of solvents for perovskite solar cell production must consider various health and environmental factors.",
+        "Question": "Which of the following is NOT a factor to consider when selecting an environmentally friendly solvent for perovskite solar cell production?",
+        "A": "Lethal dose for 50% kill (LD50)",
+        "B": "Immediate danger to life and health (IDLH)",
+        "C": "Solvent color",
+        "D": "EU regulations for substances of very high concern (SVHC)",
+        "Answer": "C",
+        "Source": "Environmental friendliness should be considered from various aspects or factors, including the lethal dose for 50% kill (LD50), immediate danger to life and health (IDLH), or EU regulations for substances of very high concern (SVHC)."
+    },
+    "Question_7": {
+        "Context": "In the search for environmentally friendly solvents for perovskite solar cell production, certain solvents have been identified as harmful and are restricted in many countries.",
+        "Question": "Which solvent is commonly used in perovskite solar cell production but is restricted due to its toxicities?",
+        "A": "N,N-dimethylformamide (DMF)",
+        "B": "Water",
+        "C": "Ethanol",
+        "D": "Acetone",
+        "Answer": "A",
+        "Source": "Currently, most of the reported literature on PSCs uses N,N-dimethylformamide (DMF) as the main solvent. DMF has a suitable boiling point and good solubility to the perovskite precursor. However, the use of DMF is restricted in many countries worldwide due to its human toxicities, including its hepatotoxicity and irritations of skin or eyes."
+    },
+    "Question_8": {
+        "Context": "The use of antisolvents in the formation of perovskite films for solar cells can pose environmental and health risks.",
+        "Question": "What is a potential solution to reduce the risks associated with the use of antisolvents in perovskite film formation?",
+        "A": "Increasing the concentration of antisolvents",
+        "B": "Developing a new process that does not require an antisolvent",
+        "C": "Using higher boiling point antisolvents",
+        "D": "Applying a higher temperature during film formation",
+        "Answer": "B",
+        "Source": "Alternatively, a better way to reduce the risk of harmful effects on human health and the environment from such antisolvents, would be to develop a new process that does not require an antisolvent."
+    },
+    "Question_9": {
+        "Context": "The donor number (DN) is a metric used to predict the solubility of various solvents in perovskite precursor solutions.",
+        "Question": "What does a high donor number (DN) indicate about a solvent's properties?",
+        "A": "Low boiling point",
+        "B": "High volatility",
+        "C": "Strong binding affinity and high boiling point",
+        "D": "Non-polar nature",
+        "Answer": "C",
+        "Source": "Generally, solvents with a high DN have a strong binding affinity and a high boiling point, so they are suitable for co-solvents, to maintain an intermediate state at room temperature and induce uniform crystallization behavior during thermal annealing."
+    },
+    "Question_10": {
+        "Context": "The formation of perovskite films from precursor solutions involves the use of main solvents, co-solvents, and additives.",
+        "Question": "What is the role of co-solvents in the formation of perovskite films?",
+        "A": "To decrease the solubility of the precursor",
+        "B": "To form a strong bond to the Pb atoms and prevent uncontrolled crystallization",
+        "C": "To act as a primary solvent for the precursor",
+        "D": "To increase the volatility of the solution",
+        "Answer": "B",
+        "Source": "For the co-solvent or mediator, a molecule that can form a strong bond to the Pb atoms that comprise the perovskite structure are typically used, to form an intermediate state with the perovskite precursor to prevent uncontrolled, rapid crystallization at room temperature."
+    }
+}

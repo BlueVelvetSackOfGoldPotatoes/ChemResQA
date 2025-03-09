@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In friction stir welding (FSW), a non-fusion welding method, the mechanical properties of the joint are influenced by various factors including the tool geometry.",
+        "Question": "What is the effect of increasing the cone angle of the tool pin in friction stir welding?",
+        "A": "Decreases the yield stress (YS) and ultimate tensile strength (UTS)",
+        "B": "Increases the yield stress (YS) and ultimate tensile strength (UTS)",
+        "C": "Has no effect on the mechanical properties",
+        "D": "Only increases the yield stress (YS) but decreases the ultimate tensile strength (UTS)",
+        "Answer": "B",
+        "Source": "According to the results presented in Figs. 10 and 11, the significant change of YS and UTS parameters can be observed in each of the three processes by changing the cone angle. As it is obvious, by increasing the cone angle, YS and UTS of the SFWS welded specimens were increased with considerable slopes."
+    },
+    "Question_2": {
+        "Context": "In friction stir welding (FSW), the tool's pin geometry can significantly affect the quality of the joint formed.",
+        "Question": "Which tool pin geometry is found to enhance the mechanical properties of the joint in friction stir welding?",
+        "A": "Cylindrical pins",
+        "B": "Conical pins with a 0\u00b0 angle",
+        "C": "Conical pins with an optimized cone angle",
+        "D": "Square pins",
+        "Answer": "C",
+        "Source": "By creating an optimum cone angle in the tool pin, the temperature gradient in the joint components would be changed, and consequently, the volume of plastic flow and pattern of the horizontal and vertical material flows would also be varied. This phenomenon results in an improved final joint quality and elimination of process defects up to a high degree."
+    },
+    "Question_3": {
+        "Context": "The mechanical properties of a welded joint in friction stir welding (FSW) can be characterized by several parameters, including yield stress (YS), ultimate tensile strength (UTS), and elongation percentage (E%).",
+        "Question": "What happens to the elongation percentage (E%) when the cone angle of the tool pin is increased in friction stir welding?",
+        "A": "It decreases significantly",
+        "B": "It remains unchanged",
+        "C": "It increases significantly",
+        "D": "It first increases and then decreases beyond a certain angle",
+        "Answer": "C",
+        "Source": "Regarding the diagrams for SFSW process, it can be concluded that the use of the tool with 15\u00b0 cone angle provided the optimum mechanical properties of the joint. In this case, YS and UTS experienced the respective increases of 40% and 17% compared to the base case (cylindrical pin)."
+    },
+    "Question_4": {
+        "Context": "In friction stir welding (FSW), the distribution of microhardness across the weld zone can provide insights into the quality of the joint.",
+        "Question": "What is the typical microhardness distribution pattern observed in the weld sections of friction stir welded specimens?",
+        "A": "U-shaped pattern",
+        "B": "V-shaped pattern",
+        "C": "W-shaped pattern",
+        "D": "Linear pattern",
+        "Answer": "C",
+        "Source": "According to the diagrams presented in Figs. 14, 15, and 16, regardless of the performed welding process, the hardness distribution pattern in the weld sections of all samples was a W-shaped pattern, which was consistent with the pattern obtained by most of the conducted researches in this area."
+    },
+    "Question_5": {
+        "Context": "The friction stir welding (FSW) process can result in different regions within the weld, such as the Nugget Zone (NZ), thermo-mechanically affected zone (TMAZ), and heat-affected zone (HAZ).",
+        "Question": "Which region in friction stir welded specimens typically shows the lowest hardness due to thermal softening?",
+        "A": "Nugget Zone (NZ)",
+        "B": "Thermo-mechanically affected zone (TMAZ)",
+        "C": "Heat-affected zone (HAZ)",
+        "D": "Base metal (BM)",
+        "Answer": "C",
+        "Source": "In all samples, the hardness of NZ, TMAZ, and HAZ regions were significantly lower than the hardness of the base metal due to the thermal softening of these areas owing to the relatively large thermal cycles."
+    },
+    "Question_6": {
+        "Context": "In friction stir welding (FSW), the cone angle of the tool pin can affect the volume and pattern of material flow, which in turn influences the mechanical properties of the joint.",
+        "Question": "What is the result of using a tool with a 15\u00b0 cone angle in the single-sided friction stir welding (SFSW) process compared to a tool with a cylindrical pin?",
+        "A": "Decrease in yield stress (YS) and ultimate tensile strength (UTS)",
+        "B": "Increase in yield stress (YS) and decrease in ultimate tensile strength (UTS)",
+        "C": "Increase in yield stress (YS) and ultimate tensile strength (UTS)",
+        "D": "No change in mechanical properties",
+        "Answer": "C",
+        "Source": "Regarding the diagrams for SFSW process, it can be concluded that the use of the tool with 15\u00b0 cone angle provided the optimum mechanical properties of the joint. In this case, YS and UTS experienced the respective increases of 40% and 17% compared to the base case (cylindrical pin)."
+    },
+    "Question_7": {
+        "Context": "The mechanical properties of friction stir welded joints can be compared to the base material to assess the quality of the welding process.",
+        "Question": "Which friction stir welding process resulted in a joint with mechanical properties closest to the base metal?",
+        "A": "Single-sided friction stir welding (SFSW)",
+        "B": "Symmetric double-sided friction stir welding (DFSW)",
+        "C": "Asymmetric double-sided friction stir welding (DFSW)",
+        "D": "All processes resulted in similar properties to the base metal",
+        "Answer": "C",
+        "Source": "The asymmetric DFSW peak samples had the closest mechanical properties to the base metal, in which YS, UTS, and E% parameters were 78.3%, 84.8%, and 86.4% of the base metal, respectively."
+    },
+    "Question_8": {
+        "Context": "In friction stir welding (FSW), the advancing side (AS) and retreating side (RS) of the weld can exhibit different mechanical and microhardness properties.",
+        "Question": "In the symmetric double-sided friction stir welding (DFSW) process, where does the lowest hardness typically occur?",
+        "A": "Nugget Zone (NZ) of the advancing side (AS)",
+        "B": "Heat-affected zone (HAZ) of the advancing side (AS)",
+        "C": "Nugget Zone (NZ) of the retreating side (RS)",
+        "D": "Heat-affected zone (HAZ) of the retreating side (RS)",
+        "Answer": "B",
+        "Source": "According to Figs. 14 and 15, it was found that in SFSW and symmetric DFSW processes, the lowest hardness occurred in HAZ of AS region."
+    },
+    "Question_9": {
+        "Context": "The friction stir welding (FSW) process involves the mixing of material from the advancing side (AS) and retreating side (RS) to form the joint.",
+        "Question": "In the asymmetric double-sided friction stir welding (DFSW) process, how does the mixing of AS and RS regions affect the microhardness distribution?",
+        "A": "Results in a uniform hardness distribution",
+        "B": "Leads to higher hardness in the AS region",
+        "C": "Leads to higher hardness in the RS region",
+        "D": "Forms a symmetric W-shaped hardness distribution",
+        "Answer": "D",
+        "Source": "In asymmetric DFSW welded specimens, due to the overlapping of AS and RS regions in two sides of the weld line at two welding passes, relatively symmetric thermal cycles and plastic flow were formed at the weld section, which resulted in the formation of a symmetric W-shaped microstructure at the welded cross-section."
+    },
+    "Question_10": {
+        "Context": "The yield stress (YS) and ultimate tensile strength (UTS) are important parameters for assessing the mechanical properties of friction stir welded joints.",
+        "Question": "What was the observed effect on yield stress (YS) and ultimate tensile strength (UTS) when using a 10\u00b0 cone angle in both symmetric and asymmetric double-sided friction stir welding (DFSW) processes?",
+        "A": "Decrease in both YS and UTS",
+        "B": "Increase in YS but decrease in UTS",
+        "C": "Increase in both YS and UTS",
+        "D": "No significant change in YS and UTS",
+        "Answer": "C",
+        "Source": "The results highlighted that the optimum pin angle was 10\u00b0 in both DFSW processes, which was associated with the highest mechanical properties. The increments of YS and UTS for the symmetric DFSW process (10\u00b0 angle) compared to the peak state of the SFSW process (15\u00b0 angle) were equal to 5.4% and 3.7%, respectively."
+    }
+}

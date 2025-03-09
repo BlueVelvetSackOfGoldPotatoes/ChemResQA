@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In magnetic resonance imaging (MRI), the use of high-dielectric materials can affect the spatial distribution of electromagnetic fields.",
+        "Question": "What is the primary purpose of using high-dielectric materials in MRI?",
+        "A": "To decrease the signal-to-noise ratio",
+        "B": "To increase the strength of the transmit and receive magnetic fields in low sensitivity areas",
+        "C": "To reduce the overall scan time",
+        "D": "To increase tissue heating",
+        "Answer": "B",
+        "Source": "The high-dielectric pad is composed of high-permittivity materials (e.g., barium titanate [BaTiO3] and calcium titanate [CaTiO3]), which are effective in altering the spatial distribution of electromagnetic fields and enlarging the shortened wavelength of B1 for high-field MRI applications of the brain or body."
+    },
+    "Question_2": {
+        "Context": "Diffusion tensor imaging (DTI) is a type of MRI that can be used to measure the diffusion of water molecules in tissue, which can reveal microstructural details about the brain.",
+        "Question": "What aspect of neuronal structure is primarily indicated by quantitative anisotropy (QA) in DTI?",
+        "A": "Axonal integrity",
+        "B": "Neuronal firing rates",
+        "C": "Axonal density",
+        "D": "Myelin sheath thickness",
+        "Answer": "C",
+        "Source": "Among DTI values, QA was used. Neuroimaging studies commonly use fractional anisotropy (FA) values rather than QA values in DTI study, however there are differences between them. FA is defined for each voxel and associated with axonal integrity. On the other hand, QA is defined for each fiber orientation and associated with axonal density."
+    },
+    "Question_3": {
+        "Context": "In MRI, the signal-to-noise ratio (SNR) is an important metric that indicates the quality of the image; higher SNR usually means a clearer image.",
+        "Question": "What is the relationship between ultra-high field MRI and signal-to-noise ratio (SNR)?",
+        "A": "Ultra-high field MRI decreases SNR compared to lower-field MRI",
+        "B": "Ultra-high field MRI has no effect on SNR",
+        "C": "Ultra-high field MRI increases SNR compared to lower-field MRI",
+        "D": "Ultra-high field MRI and SNR are unrelated",
+        "Answer": "C",
+        "Source": "Theoretically, ultra-high field magnetic resonance imaging (MRI) (\u2265 7 T) has a higher signal-to-noise ratio (SNR), which leads to higher spatiotemporal resolution and enhanced tissue contrast, compared with lower-field MRI (\u2264 3 T)."
+    },
+    "Question_4": {
+        "Context": "In MRI, T1-weighted images (T1w) are one of the basic pulse sequences used to provide specific diagnostic information.",
+        "Question": "What is the significance of T1-weighted images (T1w) in MRI?",
+        "A": "They are used to measure the temperature of the body",
+        "B": "They are used to detect the movement of the MRI machine",
+        "C": "They are used to enhance the contrast in images of the brain's anatomy",
+        "D": "They are used to measure the speed of blood flow",
+        "Answer": "C",
+        "Source": "Three-dimensional (3D) anatomical brain scans were acquired using magnetization prepared rapid acquisition gradient echo (MP-RAGE) sequence-induced T1w images with the following settings: repetition time (TR) = 4500 ms, echo time (TE) = 1.48 ms, flip angle (FA) = 6\u00b0, slice thickness = 0.8 mm, in-plane resolution = 0.8 \u00d7 0.8 mm2, matrix size = 304 \u00d7 304, number of slices = 192, total scan time = 8 min 8 s."
+    },
+    "Question_5": {
+        "Context": "In MRI, passive shimming is a technique used to improve image quality by compensating for inhomogeneities in the magnetic field.",
+        "Question": "What is the role of passive shimming in MRI?",
+        "A": "To actively adjust the magnetic field using electronic components",
+        "B": "To decrease the resolution of the images",
+        "C": "To increase the speed of image acquisition",
+        "D": "To compensate for magnetic field inhomogeneities and improve image quality",
+        "Answer": "D",
+        "Source": "To compensate for B1 interference with the human body, RF shimming is commonly used; it is a technique that uses a transmit array (active shimming) and high-dielectric material (passive shimming)."
+    },
+    "Question_6": {
+        "Context": "In neuroimaging, the corticospinal tract (CST) is an important neural pathway that connects the brain to the spinal cord and is involved in motor control.",
+        "Question": "What is the significance of the corticospinal tract (CST) in neuroimaging studies?",
+        "A": "It is associated with visual processing",
+        "B": "It is related to memory function",
+        "C": "It is involved in motor control",
+        "D": "It is important for auditory signal processing",
+        "Answer": "C",
+        "Source": "Compared to the images acquired without high-dielectric pad, those acquired with high-dielectric pad showed a significantly higher quantitative anisotropy (QA) signal in the corticospinal tract (CST), frontopontine tract (FPT), splenium of the corpus callosum (SCC), fornix (FX), inferior fronto-occipital fasciculus (IFOF), cerebellum (CB), middle cerebellar peduncle (MCP), and body of the corpus callosum (BCC) (p < 0.003)."
+    },
+    "Question_7": {
+        "Context": "In MRI, the specific absorption rate (SAR) is a measure of the rate at which energy is absorbed by the body when exposed to a radiofrequency (RF) electromagnetic field.",
+        "Question": "What does the specific absorption rate (SAR) indicate in the context of MRI?",
+        "A": "The amount of contrast agent used",
+        "B": "The rate of energy absorbed by the body from the RF field",
+        "C": "The speed of the MRI scanning process",
+        "D": "The strength of the magnetic field",
+        "Answer": "B",
+        "Source": "However, ultra-high field imaging faces technical challenges due to radiofrequency (RF) inhomogeneity, increased tissue heating, and reduced wavelength of the RF field (B1)."
+    },
+    "Question_8": {
+        "Context": "In MRI, echo planar imaging (EPI) is a fast imaging technique that forms the basis for most functional MRI.",
+        "Question": "What is one of the challenges associated with echo planar imaging (EPI) in MRI?",
+        "A": "It requires a very long scan time",
+        "B": "It is associated with signal loss and imaging blurring due to B1 field inhomogeneity",
+        "C": "It cannot be used with high-field MRI systems",
+        "D": "It produces images with very high tissue heating",
+        "Answer": "B",
+        "Source": "One of the challenges of EPI are artifacts which associated with signal loss and imaging blurring leading to non-diagnostic quality derived from B1 field inhomogeneity."
+    },
+    "Question_9": {
+        "Context": "In MRI, the flip angle (FA) is a parameter that can be adjusted during the scan to influence the contrast and signal intensity of the images.",
+        "Question": "What is the role of the flip angle (FA) in MRI?",
+        "A": "To determine the duration of the MRI scan",
+        "B": "To adjust the contrast and signal intensity of the images",
+        "C": "To measure the temperature inside the MRI scanner",
+        "D": "To control the speed of the rotating magnetic field",
+        "Answer": "B",
+        "Source": "Three-dimensional (3D) anatomical brain scans were acquired using magnetization prepared rapid acquisition gradient echo (MP-RAGE) sequence-induced T1w images with the following settings: repetition time (TR) = 4500 ms, echo time (TE) = 1.48 ms, flip angle (FA) = 6\u00b0, slice thickness = 0.8 mm, in-plane resolution = 0.8 \u00d7 0.8 mm2, matrix size = 304 \u00d7 304, number of slices = 192, total scan time = 8 min 8 s."
+    },
+    "Question_10": {
+        "Context": "Barium titanate (BaTiO3) is a high-permittivity material used in high-dielectric pads for MRI.",
+        "Question": "What is the role of barium titanate (BaTiO3) in high-dielectric pads for MRI?",
+        "A": "To decrease the permittivity of the pad",
+        "B": "To reduce the signal intensity of the images",
+        "C": "To increase the permittivity of the pad and alter electromagnetic field distribution",
+        "D": "To act as a contrast agent for imaging",
+        "Answer": "C",
+        "Source": "The high-dielectric pad is composed of high-permittivity materials (e.g., barium titanate [BaTiO3] and calcium titanate [CaTiO3]), which are effective in altering the spatial distribution of electromagnetic fields and enlarging the shortened wavelength of B1 for high-field MRI applications of the brain or body."
+    }
+}

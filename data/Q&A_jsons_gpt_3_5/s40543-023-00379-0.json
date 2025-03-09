@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of a fluorescence probe for detecting mercury ions. The probe showed a linear response based on quenching over a specific concentration range.",
+        "Question": "What was the detection limit of the T/G-C3N4 probe for Hg2+ ions?",
+        "A": "27 nM",
+        "B": "50 nM",
+        "C": "100 nM",
+        "D": "200 nM",
+        "Answer": "A",
+        "Source": "The T/G-C3N4 probe showed a linear response based on quenching over the range 0\u20131.25 \u00d7 103 nM Hg(II); the detection limit was 27 nM."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the selectivity of the T/G-C3N4 probe for Hg2+ ions compared to other metal ions.",
+        "Question": "Which metal ion showed the highest quenching effect on the fluorescence emission of T/G-C3N4?",
+        "A": "Na+",
+        "B": "Ag+",
+        "C": "Ca2+",
+        "D": "Hg2+",
+        "Answer": "D",
+        "Source": "The fluorescence emission of T/G-C3N4 quenched by the addition of Hg2+ only (about 100% quenching happened after the addition of 3.0 ppm Hg2+ in phosphate buffer pH 6); no significant quenching effect was seen after the addition of other metal ions."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the effect of pH on the fluorescence intensity of the T/G-C3N4 probe.",
+        "Question": "At which pH range did the T/G-C3N4 probe show a little effect on its emission intensity?",
+        "A": "pH 2\u20135",
+        "B": "pH 6\u20138",
+        "C": "pH 8\u201310",
+        "D": "pH 10\u201312",
+        "Answer": "B",
+        "Source": "The results revealed that T/G-C3N4 can be utilized as a probe across a wide pH range from pH 6 to pH 10 because these pH values have a little effect on the emission intensity of the probe."
+    },
+    "Question_4": {
+        "Context": "The study investigated the time-dependent fluorescence quenching of the T/G-C3N4 probe in the presence of Hg2+ ions.",
+        "Question": "How long did it take for the reaction between T/G-C3N4 and Hg2+ to complete?",
+        "A": "1 min",
+        "B": "3 min",
+        "C": "5 min",
+        "D": "10 min",
+        "Answer": "C",
+        "Source": "According to the time-dependent fluorescence quenching study, the reaction between T/G-C3N4 and Hg2+ takes 5 min to complete."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the selectivity of the T/G-C3N4 probe for Hg2+ ions in the presence of interfering metal ions.",
+        "Question": "Which metal ion did not cause a significant change in the fluorescence emission intensity of T/G-C3N4 when added as an interfering ion?",
+        "A": "Cu2+",
+        "B": "Fe2+",
+        "C": "Pb2+",
+        "D": "Hg2+",
+        "Answer": "D",
+        "Source": "The results revealed that the emission intensity of T/G-C3N4 remained unchanged in the presence of other metal ions, indicating that mercury ions have a higher affinity for binding with the OH, NHX groups and heptazine units on the surface of T/G-C3N4 than other metal ions."
+    },
+    "Question_6": {
+        "Context": "The study compared the detection limit of the developed T/G-C3N4 probe with other fluorescent probes for Hg2+ ions.",
+        "Question": "How does the detection limit of the T/G-C3N4 probe compare to previously reported probes in the literature?",
+        "A": "Higher detection limit",
+        "B": "Lower detection limit",
+        "C": "Similar detection limit",
+        "D": "Detection limit not mentioned",
+        "Answer": "B",
+        "Source": "Among the different fluorescent probes, the developed environmental probe exhibited a good linear relation and wide linear range. Consequently, T/g-C3N4 is recognized as a sensitive, selective, cost-effective, and useful platform for detection of Hg2+ in water samples."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the use of the T/G-C3N4 probe for detecting and quantifying Hg2+ ions in food samples.",
+        "Question": "Which food samples were utilized to assess the T/G-C3N4 probe for detecting Hg2+ ions?",
+        "A": "Chicken and beef",
+        "B": "Tuna and mackerel fish",
+        "C": "Vegetables and fruits",
+        "D": "Pork and lamb",
+        "Answer": "B",
+        "Source": "To assess the T/G-C3N4 as a probe for Hg2+ in real samples, tuna and mackerel fish were utilized."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the long-term stability of the T/G-C3N4 probe for detecting Hg2+ ions.",
+        "Question": "For how long did the T/G-C3N4 probe demonstrate remarkable long-term fluorescence stability in water?",
+        "A": "10 days",
+        "B": "20 days",
+        "C": "30 days",
+        "D": "40 days",
+        "Answer": "C",
+        "Source": "The T/G-C3N4 probe demonstrated remarkable long-term fluorescence stability in water (> 30 days)."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the geometry optimization of the T/G-C3N4 probe for assessing its stability and interaction ability with Hg(II).",
+        "Question": "Which approach was used to assess the geometry optimization of the T/G-C3N4 probe?",
+        "A": "Density function approach",
+        "B": "Molecular dynamics simulation",
+        "C": "Quantum Monte Carlo method",
+        "D": "Molecular docking",
+        "Answer": "A",
+        "Source": "The geometry optimization of T/G-C3N4 as a modified probe was performed to assess its stability and interaction ability with Hg(II) via using the density function approach."
+    },
+    "Question_10": {
+        "Context": "The study investigated the effect of different metal ions on the fluorescence emission intensity of the T/G-C3N4 probe.",
+        "Question": "Which metal ion caused the most significant quenching effect on the fluorescence emission of T/G-C3N4?",
+        "A": "Fe2+",
+        "B": "Ni2+",
+        "C": "Cd2+",
+        "D": "Hg2+",
+        "Answer": "D",
+        "Source": "The fluorescence emission of T/G-C3N4 quenched by the addition of Hg2+ only (about 100% quenching happened after the addition of 3.0 ppm Hg2+ in phosphate buffer pH 6); no significant quenching effect was seen after the addition of other metal ions."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Silica is used as a reinforcing filler in the rubber industry. It has polar functional groups that can interact with each other to form hydrogen bonds, leading to filler-to-filler interactions and the formation of non-dispersed clusters within a non-polar rubber matrix.",
+        "Question": "What is the primary reason for the formation of non-dispersed silica clusters in a non-polar rubber matrix?",
+        "A": "Van der Waals forces",
+        "B": "Hydrogen bonding",
+        "C": "Covalent bonding",
+        "D": "Ionic bonding",
+        "Answer": "B",
+        "Source": "This polar nature of silica causes filler\u2011to\u2011filler interaction by forming hydrogen bonds. Therefore, sizeable non\u2011dispersed silica clusters remain in a non\u2011polar rubber matrix."
+    },
+    "Question_2": {
+        "Context": "To improve the compatibility of silica with rubber and enhance the reinforcing effect, the silica surface can be modified using a coupling agent that links the rubber and silica.",
+        "Question": "What is the purpose of using a coupling agent in silica-reinforced rubber composites?",
+        "A": "To increase the molecular weight of rubber",
+        "B": "To reduce the viscosity of rubber",
+        "C": "To link the rubber and silica",
+        "D": "To initiate the vulcanization process",
+        "Answer": "C",
+        "Source": "To avoid these strong filler\u2011filler interactions and improve rubber/silica compatibility, the silica surface needs to be modified. This can be done using a coupling agent which has functional groups capable of linking both the rubber and silica."
+    },
+    "Question_3": {
+        "Context": "Silica/silane coupling agents are known to positively influence critical properties of tire treads such as rolling resistance and wet grip, contributing to the development of green tires.",
+        "Question": "Which critical tire tread properties are better balanced out with the presence of silica/silane coupling agents compared to carbon black formulations?",
+        "A": "Durability and flexibility",
+        "B": "Rolling resistance and wet grip",
+        "C": "Tensile strength and elongation",
+        "D": "Hardness and thermal stability",
+        "Answer": "B",
+        "Source": "It has been discovered that when silica/silane coupling agents are present, the critical properties like rolling resistance and wet grip in the magic triangle of tire tread balance out better than carbon black formulations, bringing the system closer to the green tire goal."
+    },
+    "Question_4": {
+        "Context": "The process of modifying the silica surface to improve its compatibility with rubber and enhance the reinforcing effect is known as silanization.",
+        "Question": "What is the primary chemical process involved in modifying the silica surface for rubber reinforcement?",
+        "A": "Polymerization",
+        "B": "Vulcanization",
+        "C": "Silanization",
+        "D": "Hydrolysis",
+        "Answer": "C",
+        "Source": "To avoid these strong filler\u2011filler interactions and improve rubber/silica compatibility, the silica surface needs to be modified. This can be done using a coupling agent which has functional groups capable of linking both the rubber and silica."
+    },
+    "Question_5": {
+        "Context": "Silica is synthesized for industrial applications through a chemical reaction involving an acid and a water-soluble sodium silicate, leading to the formation of hydrated amorphous silicas.",
+        "Question": "Which method is typically used to synthesize hydrated amorphous silicas for the tire industry?",
+        "A": "Thermal decomposition",
+        "B": "Precipitation",
+        "C": "Sol-gel process",
+        "D": "Hydrothermal synthesis",
+        "Answer": "B",
+        "Source": "In the tire industry, hydrated amorphous silicas are typically used. They are synthesized through the precipitation of an acid and a water-soluble sodium silicate."
+    },
+    "Question_6": {
+        "Context": "The surface of silica contains various functional groups, which can be categorized based on their reactivity and location on the silica surface.",
+        "Question": "Which types of silanol groups on the silica surface are reactive and can participate in the silanization reaction?",
+        "A": "Isolated and geminal silanols",
+        "B": "Vicinal and siloxane bridges",
+        "C": "Hydroxyl and carboxyl groups",
+        "D": "Amine and thiol groups",
+        "Answer": "A",
+        "Source": "Only 25% of the Si-OH groups are expected to react with silanes because these silanol groups are accessible to incoming silane molecules. Out of these three different silanol groups located on the surface of silica filler, only isolated silanols and geminal silanols can be reactive with silica."
+    },
+    "Question_7": {
+        "Context": "During the silanization process, the primary reaction involves the hydrolysis of the silane by water, which releases an aliphatic alcohol as a by-product.",
+        "Question": "What is the by-product released during the primary reaction of the silanization process?",
+        "A": "Ethanol",
+        "B": "Acetic acid",
+        "C": "Methanol",
+        "D": "Chlorine gas",
+        "Answer": "A",
+        "Source": "The primary reaction Involves the hydrolysis of the silane by water and releases ethanol either via direct condensation or via hydrolysis followed by condensation."
+    },
+    "Question_8": {
+        "Context": "The silanization reaction between silica and silane coupling agents involves two main steps: the primary reaction and the secondary reaction.",
+        "Question": "What distinguishes the primary silanization reaction from the secondary reaction in terms of reaction rate and activation energy?",
+        "A": "The primary reaction is faster with higher activation energy",
+        "B": "The primary reaction is slower with lower activation energy",
+        "C": "The secondary reaction is faster with higher activation energy",
+        "D": "The secondary reaction is slower with higher activation energy",
+        "Answer": "A",
+        "Source": "The primary reaction rate (0.122 min\u2212 1) is about 10 to 20 times faster than the secondary reaction (0.008 min\u2212 1). The activation energy is 47 kJ/mol for the primary reaction and 28 kJ/mol for the secondary reaction."
+    },
+    "Question_9": {
+        "Context": "The Payne effect is a phenomenon observed in filled, cross-linked elastomer systems where the complex modulus decreases with increasing deformation amplitude.",
+        "Question": "What does the Payne effect in filled elastomer systems indicate?",
+        "A": "Increase in thermal stability",
+        "B": "Decrease in electrical conductivity",
+        "C": "Increase in modulus with strain",
+        "D": "Decrease in modulus with strain",
+        "Answer": "D",
+        "Source": "With increasing deformation amplitude, the complex modulus of a filled, crossed-linked elastomer system decreases, known as the Payne effect."
+    },
+    "Question_10": {
+        "Context": "The hysteresis in a filled elastomer system is influenced by the periodic destruction and regeneration of the filler network, which dissipates energy.",
+        "Question": "What is the primary cause of hysteresis in a carbon black reinforced elastomer system?",
+        "A": "Chemical reactions between the filler and rubber",
+        "B": "Energy loss during repeated filler network destruction and reconstruction",
+        "C": "Vulcanization process of the rubber",
+        "D": "Evaporation of low molecular weight compounds",
+        "Answer": "B",
+        "Source": "In its rubbery form, the hysteresis of a carbon black reinforced material is still more significant than that of a silica-filled one. This is mainly caused by energy loss during the filler network\u2019s periodic destruction and regeneration."
+    }
+}

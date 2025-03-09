@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of an automated method for the radiosynthesis of [68Ga]Ga-ABY-025. ",
+        "Question": "What was the decay corrected radiochemical yield of [68Ga]Ga-ABY-025 in the developed method?",
+        "A": "41%",
+        "B": "46%",
+        "C": "43%",
+        "D": "44%",
+        "Answer": "D",
+        "Source": "With a decay corrected radiochemical yield of 44 \u00b1 2%, a radiochemical purity of 98 \u00b1 1%, and with an RCP stability of 98 \u00b1 1% at 2 h after production, the method was found highly reproducible."
+    },
+    "Question_2": {
+        "Context": "The study aimed to optimize the radiosynthesis method for [68Ga]Ga-ABY-025.",
+        "Question": "What was the radiochemical purity of [68Ga]Ga-ABY-025 at the end of synthesis (EOS)?",
+        "A": "98%",
+        "B": "99%",
+        "C": "97%",
+        "D": "96%",
+        "Answer": "A",
+        "Source": "Results from applying this method to another similar peptide offers compelling evidence of its broader applicability. This suggests that our method can be robustly employed in 68Ga-labeling of radiotracers based on Affibody molecules or other similar molecules."
+    },
+    "Question_3": {
+        "Context": "The study focused on the development of an automated cGMP-compliant radiosynthesis method for [68Ga]Ga-ABY-025.",
+        "Question": "What was the bacterial endotoxins content requirement for the product?",
+        "A": "< 10 IU/mL",
+        "B": "< 5 IU/mL",
+        "C": "< 20 IU/mL",
+        "D": "< 15 IU/mL",
+        "Answer": "B",
+        "Source": "Bacterial endotoxins content is determined using the chromogenic kinetic methodology on Endosafe\u00ae Nextgen-PTS Kinetic Reader using Test Cartridge PTS2005F. The limit for the maximum endotoxin concentration of the product was set to correspond to a maximum product injection volume of 10 mL."
+    },
+    "Question_4": {
+        "Context": "The study validated the analytical methods used for quality control of the product.",
+        "Question": "What was the requirement for the radiochemical purity of [68Ga]Ga-ABY-025?",
+        "A": "RCPTot \u2265 90%",
+        "B": "RCPTot \u2265 95%",
+        "C": "RCPTot \u2265 98%",
+        "D": "RCPTot \u2265 91%",
+        "Answer": "D",
+        "Source": "The total radiochemical purity (RCPTot) is determined by HPLC and iTLC with radioactivity detection and is calculated as: where B = Percentage of radioactivity due to impurity 68Ga3+ in iTLC analysis; T = proportion of the radioactivity due to [68Ga]Ga-ABY-025 in the HPLC analysis."
+    },
+    "Question_5": {
+        "Context": "The study aimed to optimize the radiosynthesis method for [68Ga]Ga-ABY-025.",
+        "Question": "What was the requirement for the appearance of the product?",
+        "A": "Clear and/or slightly yellow. Free of visible particles",
+        "B": "Clear and free of visible particles",
+        "C": "Yellow with no visible particles",
+        "D": "Opaque with no visible particles",
+        "Answer": "A",
+        "Source": "Appearance: The product is visually inspected for its clarity and the absence of visible particles after sufficient radioactive decay in order to avoid high radiation dose to the operator."
+    },
+    "Question_6": {
+        "Context": "The study discussed the development of an automated method for the radiosynthesis of [68Ga]Ga-ABY-025.",
+        "Question": "What was the requirement for the radioactivity concentration of the product?",
+        "A": "\u2265 20 MBq/mL",
+        "B": "\u2265 30 MBq/mL",
+        "C": "\u2265 40 MBq/mL",
+        "D": "\u2265 50 MBq/mL",
+        "Answer": "B",
+        "Source": "Radioactivity concentration \u2265 30 MBq/mL"
+    },
+    "Question_7": {
+        "Context": "The study aimed to optimize the radiosynthesis method for [68Ga]Ga-ABY-025.",
+        "Question": "What was the requirement for the concentration of ABY-025 in the product?",
+        "A": "30-50 \u00b5g/mL",
+        "B": "40-60 \u00b5g/mL",
+        "C": "50-70 \u00b5g/mL",
+        "D": "60-80 \u00b5g/mL",
+        "Answer": "B",
+        "Source": "Concentration of ABY-025 (principal peak on UV) 40\u201360 \u00b5g/mL"
+    },
+    "Question_8": {
+        "Context": "The study discussed the development of an automated method for the radiosynthesis of [68Ga]Ga-ABY-025.",
+        "Question": "What was the requirement for the pH of the product?",
+        "A": "pH 3.0-7.0",
+        "B": "pH 4.0-8.0",
+        "C": "pH 5.0-9.0",
+        "D": "pH 6.0-10.0",
+        "Answer": "B",
+        "Source": "pH 4.0\u20138.0"
+    },
+    "Question_9": {
+        "Context": "The study aimed to optimize the radiosynthesis method for [68Ga]Ga-ABY-025.",
+        "Question": "What was the requirement for the radiochemical impurity of [68Ga]Ga-ABY-025?",
+        "A": "\u2264 1%",
+        "B": "\u2264 2%",
+        "C": "\u2264 3%",
+        "D": "\u2264 4%",
+        "Answer": "C",
+        "Source": "[68Ga]-ions and/or unidentified radioactive impurities = B \u2264 3%"
+    },
+    "Question_10": {
+        "Context": "The study discussed the development of an automated method for the radiosynthesis of [68Ga]Ga-ABY-025.",
+        "Question": "What was the requirement for the filter integrity of the product?",
+        "A": "\u2265 2.5 bar",
+        "B": "\u2265 3.0 bar",
+        "C": "\u2265 3.5 bar",
+        "D": "\u2265 4.0 bar",
+        "Answer": "C",
+        "Source": "Filter integrity \u2265 3.5 bar"
+    }
+}

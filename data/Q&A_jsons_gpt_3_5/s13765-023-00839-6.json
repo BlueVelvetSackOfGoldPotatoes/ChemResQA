@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study explored the application of green ultrasound-assisted technology for the extraction of oil from rainbow trout intestines. Purification methodologies were incorporated using adsorbents to enhance the quality of the extracted oil.",
+        "Question": "What was the extraction condition for maximum oil recovery?",
+        "A": "50 \u00b0C for 30 min",
+        "B": "60 \u00b0C for 45 min",
+        "C": "70 \u00b0C for 60 min",
+        "D": "80 \u00b0C for 30 min",
+        "Answer": "B",
+        "Source": "The oil extraction efficiency was 43.5% at 5 min of ultrasonication time, and the highest extraction yield of 46.5% was obtained at 30 min. The oil recoveries decreased to 44.4% and 42.1% when the duration of the ultrasonic extraction was increased to 45 and 60 min, respectively."
+    },
+    "Question_2": {
+        "Context": "The study focused on the impact of the water-to-sample ratio on oil recovery during ultrasound-assisted extraction.",
+        "Question": "How did the oil recovery change with the addition of water during ultrasound-assisted extraction?",
+        "A": "Increased",
+        "B": "Remained constant",
+        "C": "Decreased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "Oil recovery from the rainbow trout intestines decreased with the addition of water during UAE. When no water was added, the sample was hydrolyzed and achieved a 47.9% oil recovery. The yield decreased to 44.3% when the water-to-sample ratio (v/w) was 1:1 (v/w) and 42.3% at the ratio of 3:2."
+    },
+    "Question_3": {
+        "Context": "The study investigated the impact of temperature on the ultrasound-assisted extraction process for oil recovery.",
+        "Question": "How did the oil recovery change with increasing temperature?",
+        "A": "Increased",
+        "B": "Remained constant",
+        "C": "Decreased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "Initially, the oil yield increased from 47.6% to 50 \u00b0C to 54.7% at 60 \u00b0C, but the extraction efficiency decreased when the temperature was increased to 70 and 80 \u00b0C, resulting in oil recoveries of 53.3% and 48.5%, respectively."
+    },
+    "Question_4": {
+        "Context": "The study evaluated the impact of NaCl levels on oil recovery during ultrasound-assisted extraction.",
+        "Question": "What was the effect of increasing the amount of added NaCl on oil recovery?",
+        "A": "Increased oil recovery",
+        "B": "Decreased oil recovery",
+        "C": "No effect on oil recovery",
+        "D": "Fluctuated oil recovery",
+        "Answer": "B",
+        "Source": "Adding 1 g of NaCl to the samples during extraction increased the oil recovery to 53.8%. The oil recovery decreased when the amount of added NaCl exceeded 1 g, resulting in yields of 49.7% and 47.3% when 2 and 3 g of NaCl were added, respectively."
+    },
+    "Question_5": {
+        "Context": "The study examined the impact of adsorbent materials on the peroxide value of the extracted oil during the purification process.",
+        "Question": "Which adsorbent material was the most effective in reducing the peroxide value of the extracted oil?",
+        "A": "Aluminum oxide",
+        "B": "Silica gel",
+        "C": "Mixture of silica gel and aluminum oxide",
+        "D": "No significant difference",
+        "Answer": "B",
+        "Source": "SG was found to be the most effective adsorbent among the materials tested, lowering the POV by up to 58.6%, followed by a mixture of SG and Al2O3, with a 54.0% decrease in the POV, and Al2O3 was the least effective, lowering the POV by 50.6% compared to the pre-purified oil."
+    },
+    "Question_6": {
+        "Context": "The study investigated the impact of adsorption time on the peroxide value of the extracted oil during the purification process using silica gel.",
+        "Question": "How did the peroxide value change with increasing adsorption time using silica gel?",
+        "A": "Decreased continuously",
+        "B": "Increased continuously",
+        "C": "Remained constant",
+        "D": "Fluctuated",
+        "Answer": "A",
+        "Source": "After extending the adsorption time to 30 min, the POV significantly decreased to 23.3 meqO2/kg, with a removal rate of 29.2% compared to the oil after 10 min of adsorption. Extending the adsorption time to 60 min led to a measured POV of 10 meqO2/kg, with a removal efficiency of 69.1%."
+    },
+    "Question_7": {
+        "Context": "The study focused on the impact of adding antioxidants during the extraction process on the peroxide value of the extracted oil.",
+        "Question": "How did the peroxide value change with the addition of antioxidants during the extraction process?",
+        "A": "Increased",
+        "B": "Remained constant",
+        "C": "Decreased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "Compared to the extracted oil without added antioxidants, the inclusion of antioxidants tannic acid, gallic acid, and Aronia during the extraction process decreased the POV significantly."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the impact of adding antioxidants during the extraction process on the concentrations of fatty acids in the extracted oil.",
+        "Question": "What was the effect of adding antioxidants during the extraction process on the concentrations of polyunsaturated fatty acids (PUFAs) in the extracted oil?",
+        "A": "Decreased",
+        "B": "Remained constant",
+        "C": "Increased",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "The concentrations of PUFAs in the extracted oil increased from 101 \u00b1 8 mg/g without added antioxidants to 131 \u00b1 5 mg/g with tannic acid, 132 \u00b1 6 mg/g with gallic acid, and 130 \u00b1 3 mg/g with the addition of Aronia during the early stages of extraction."
+    },
+    "Question_9": {
+        "Context": "The study examined the impact of adding antioxidants during the extraction process on the ratio of omega-6 to omega-3 fatty acids in the extracted oil.",
+        "Question": "What was the omega-6 to omega-3 fatty acid ratio in the oils added with tannic acid, gallic acid, and Aronia powder during the extraction process?",
+        "A": "0.634",
+        "B": "0.596",
+        "C": "0.599",
+        "D": "0.594",
+        "Answer": "C",
+        "Source": "The ratios of omega-6 to omega-3 fatty acids in oils added with tannic acid, gallic acid, Aronia powder, and without antioxidants were 0.596, 0.599, 0.594, and 0.634, respectively."
+    },
+    "Question_10": {
+        "Context": "The study evaluated the impact of antioxidants on the removal of organic compounds in the extracted oil.",
+        "Question": "What was the effect of adding antioxidants during the extraction process on the removal of organic compounds in the extracted oil?",
+        "A": "No effect",
+        "B": "Decreased removal",
+        "C": "Increased removal",
+        "D": "Fluctuated removal",
+        "Answer": "C",
+        "Source": "The analytical results indicated a significant decrease in the fractions of the organic compounds after the addition of antioxidants during extraction. Specifically, the removal rates were 67.1% with tannic acid, 50.3% with gallic acid, and 43.7% with the addition of Aronia powder."
+    }
+}

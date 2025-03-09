@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Incorporating lignin into cellulose nanofibers can affect their biodegradation rate due to lignin's inherent properties.",
+        "Question": "What role does lignin play when incorporated into cellulose nanofibers?",
+        "A": "It increases the biodegradation rate.",
+        "B": "It acts as an antimicrobial and crosslinking agent to control the biodegradation rate.",
+        "C": "It has no effect on the biodegradation rate.",
+        "D": "It solely acts as a nutrient for soil microbes.",
+        "Answer": "B",
+        "Source": "We incorporated lignin into CNFs as an antimicrobial and crosslinking agent to control the biodegradation rate."
+    },
+    "Question_2": {
+        "Context": "Lignocellulose nanofibers can be characterized by various analytical techniques to confirm the presence of specific functional groups.",
+        "Question": "Which analytical technique can confirm the reaction of succinic acid with lignocellulose in the synthesis of lignocellulose nanofibers?",
+        "A": "Conductometric titration",
+        "B": "Scanning electron microscopy",
+        "C": "Fourier-transform infrared spectroscopy",
+        "D": "UV-Vis spectrophotometry",
+        "Answer": "C",
+        "Source": "Fourier-transform infrared spectroscopy (FT-IR) was performed on the untreated TMP fibers and each of the LCNFs with varying lignin concentrations to confirm the reaction of succinic acid with lignocellulose."
+    },
+    "Question_3": {
+        "Context": "Deep eutectic solvents are used in the processing of biomass due to their ability to disrupt the structure efficiently.",
+        "Question": "What is the role of deep eutectic solvents in the processing of lignocellulose nanofibers?",
+        "A": "They act as a catalyst for the reaction.",
+        "B": "They increase the thermal stability of the fibers.",
+        "C": "They disrupt the structure of biomass for efficient mechanical processing.",
+        "D": "They decrease the surface area of the fibers.",
+        "Answer": "C",
+        "Source": "Deep eutectic solvents can be made from organic, non-toxic, and low cost constituents and are effective at disrupting the structure of biomass for efficient mechanical processing."
+    },
+    "Question_4": {
+        "Context": "The presence of lignin in cellulose nanofibers can influence the rate at which they degrade when applied to soil.",
+        "Question": "How does the presence of lignin in cellulose nanofibers affect their degradation in soil?",
+        "A": "Lignin presence increases the water solubility of the fibers, leading to faster degradation.",
+        "B": "Lignin has no impact on the degradation rate of the fibers in soil.",
+        "C": "Higher lignin content in the fibers leads to a slower degradation rate in soil.",
+        "D": "Lignin accelerates the microbial digestion of the fibers, increasing degradation.",
+        "Answer": "C",
+        "Source": "Modifying the lignin content of the fibers successfully modulated the biodegradation rate in soil."
+    },
+    "Question_5": {
+        "Context": "Lignin's interaction with enzymes can affect the enzymatic degradation of carbohydrates.",
+        "Question": "What is one way lignin interacts with enzymes to affect the degradation of carbohydrates?",
+        "A": "Lignin increases the activity of carbohydrate-degrading enzymes.",
+        "B": "Lignin forms unproductive binding regions with enzymes, reducing enzyme activity.",
+        "C": "Lignin acts as a catalyst for carbohydrate degradation.",
+        "D": "Lignin has no interaction with enzymes.",
+        "Answer": "B",
+        "Source": "Lignin forms unproductive binding regions with enzymes and carbohydrates through both hydrophobic and hydroxyl-mediated electrostatic interactions, reducing enzyme activity."
+    },
+    "Question_6": {
+        "Context": "The chemical composition of lignocellulose nanofibers can be determined using specific protocols.",
+        "Question": "Which protocol is used to analyze the chemical composition of lignocellulose nanofibers?",
+        "A": "NREL compositional analysis protocols",
+        "B": "ASTM standard test methods",
+        "C": "ISO quality management protocols",
+        "D": "EPA environmental assessment protocols",
+        "Answer": "A",
+        "Source": "The chemical composition of the bleached pulps was analyzed using the NREL compositional analysis protocols."
+    },
+    "Question_7": {
+        "Context": "Carboxylate functionalization of lignocellulose nanofibers can impart specific properties to the fibers.",
+        "Question": "What property can carboxylate functionalization provide to lignocellulose nanofibers?",
+        "A": "Decreased thermal stability",
+        "B": "Increased electrical conductivity",
+        "C": "Electrostatic stabilization in water",
+        "D": "Reduced mechanical strength",
+        "Answer": "C",
+        "Source": "Carboxylate functionalization can also provide properties such as electrostatic stabilization in water to produce hydrogels."
+    },
+    "Question_8": {
+        "Context": "The synthesis of lignocellulose nanofibers can involve the use of a deep eutectic solvent consisting of specific components.",
+        "Question": "Which components are used to form the deep eutectic solvent in the synthesis of lignocellulose nanofibers?",
+        "A": "Sodium chloride and water",
+        "B": "Choline chloride and urea",
+        "C": "Ethanol and acetic acid",
+        "D": "Glycerol and ethylene glycol",
+        "Answer": "B",
+        "Source": "Nanofibers were produced via mechanochemical ball milling each bleached pulp and the unbleached TMP in a deep eutectic solvent consisting of urea and choline chloride in a molar ratio of 2 mol urea to 1 mol choline chloride."
+    },
+    "Question_9": {
+        "Context": "The degree of functionalization of lignocellulose nanofibers can be quantified by measuring specific content.",
+        "Question": "What content is measured to quantify the degree of succinylation of lignocellulose nanofibers?",
+        "A": "Nitrogen content",
+        "B": "Carboxylate content",
+        "C": "Lignin content",
+        "D": "Cellulose content",
+        "Answer": "B",
+        "Source": "The degree of succinylation was quantified by measuring the carboxylate content of the fibers before and after mechanochemical treatment using conductometric titration."
+    },
+    "Question_10": {
+        "Context": "The structural morphology of lignocellulose nanofibers can be visualized using a specific type of microscopy.",
+        "Question": "Which microscopy technique is used to visualize the structural morphology of lignocellulose nanofibers?",
+        "A": "Transmission electron microscopy",
+        "B": "Atomic force microscopy",
+        "C": "Scanning electron microscopy",
+        "D": "Confocal laser scanning microscopy",
+        "Answer": "C",
+        "Source": "Scanning electron microscope images of TMP and each of the LCNFs were acquired using a FEI Nova NanoSEM 450 FEGSEM microscope to show the structural morphology before and after mechanochemical treatment."
+    }
+}

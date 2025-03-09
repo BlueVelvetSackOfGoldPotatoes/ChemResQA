@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Cell immobilization is a technique used in biocatalysis to enhance the production of high-value products by maintaining the viability of immobilized cells for bioconversion.",
+        "Question": "What is the role of cell immobilization in biocatalysis?",
+        "A": "To decrease the viability of cells for bioconversion",
+        "B": "To maintain the viability of immobilized cells for bioconversion",
+        "C": "To prevent the exchange of substrates and products",
+        "D": "To increase the feed rates in suspended cultivation systems",
+        "Answer": "B",
+        "Source": "Cell immobilization plays an important role in biocatalysis for high\u2011value products. It is necessary to maintain the viability of immobilized cells for bioconversion using viable cells as biocatalysts."
+    },
+    "Question_2": {
+        "Context": "In biocatalysis, the dynamic balance between adsorption and desorption of cells on a carrier material is crucial for maintaining long-term biological activity.",
+        "Question": "Why is the dynamic balance between adsorption and desorption of cells important in biocatalysis?",
+        "A": "To ensure the carrier material is quickly consumed",
+        "B": "To prevent the formation of biofilms",
+        "C": "To maintain long-term biological activity of the biocatalyst",
+        "D": "To increase the cost of the biocatalysis process",
+        "Answer": "C",
+        "Source": "This process of continuous adsorption and desorption of cells can ensure that the polyester nonwoven chemostat has lasting biological activity."
+    },
+    "Question_3": {
+        "Context": "Extracellular polymeric substances (EPS) are secreted by bacterial cells and play a significant role in biofilm formation on carrier materials.",
+        "Question": "What is the function of extracellular polymeric substances (EPS) secreted by bacterial cells?",
+        "A": "To inhibit the formation of biofilms",
+        "B": "To facilitate the formation of biofilms",
+        "C": "To decrease the cell density on carrier materials",
+        "D": "To enhance the desorption of cells from carrier materials",
+        "Answer": "B",
+        "Source": "Bacterial cells could adhere to the surface of polyester nonwoven via secreting extracellular polymeric substances (EPS) to form biofilms."
+    },
+    "Question_4": {
+        "Context": "Biofilm maturation on carrier materials can lead to the detachment of biofilms due to the presence of dead cells within the biofilms.",
+        "Question": "What can cause the detachment of biofilms from carrier materials?",
+        "A": "The addition of nutrients to the biofilms",
+        "B": "The presence of dead cells within the biofilms",
+        "C": "The continuous adsorption of new cells",
+        "D": "The secretion of extracellular polymeric substances",
+        "Answer": "B",
+        "Source": "As the maturation of biofilms, some dead cells inside the biofilms can cause the detachment of biofilms."
+    },
+    "Question_5": {
+        "Context": "Microbial fermentation is a process where microorganisms convert substrates into target products and carbon dioxide.",
+        "Question": "What are the end products of microbial fermentation?",
+        "A": "Only high-value products",
+        "B": "Only carbon dioxide",
+        "C": "Target products and carbon dioxide",
+        "D": "Substrates and enzymes",
+        "Answer": "C",
+        "Source": "Microbial fermentation, the main step in target product generation, is the conversion of substrates into target products and carbon dioxide with the help of fermenting microorganisms."
+    },
+    "Question_6": {
+        "Context": "The immobilization technique involves the attachment or inclusion of microbial cells or enzymes in a solid support, facilitating the exchange of substrates and products.",
+        "Question": "What does the immobilization technique in microbial fermentation involve?",
+        "A": "The destruction of microbial cells or enzymes",
+        "B": "The attachment or inclusion of microbial cells or enzymes in a solid support",
+        "C": "The prevention of substrate and product exchange",
+        "D": "The separation of cells or enzymes from each other",
+        "Answer": "B",
+        "Source": "The immobilization technique is the attachment or inclusion of the microbial cells or enzyme in a distinct solid support (carriers) that enables the exchange of substrates and products while separating the cells or enzyme at the same time from the bulk phase."
+    },
+    "Question_7": {
+        "Context": "Physical approaches for immobilizing cells or enzymes, such as entrapment and adsorption, are popular due to their simplicity and lack of requirement for functionalization support.",
+        "Question": "Why are physical approaches for immobilizing cells or enzymes popular?",
+        "A": "Because they are complex and require functionalization support",
+        "B": "Because they are expensive and time-consuming",
+        "C": "Because they are simple and do not require functionalization support",
+        "D": "Because they can only immobilize a small number of cells or enzymes",
+        "Answer": "C",
+        "Source": "The most popular tactic is physical approaches since it is easy to implement and does not require functionalization support."
+    },
+    "Question_8": {
+        "Context": "The carrier's properties are critical for a successful immobilization process, requiring chemical, thermal, and mechanical stability.",
+        "Question": "What properties are critical for a carrier in the immobilization process?",
+        "A": "Solubility in the immobilization solution",
+        "B": "Chemical, thermal, and mechanical stability",
+        "C": "High cost and environmental hazards",
+        "D": "Ability to denature or deactivate cells or enzymes",
+        "Answer": "B",
+        "Source": "The carrier must be chemically, thermally, and mechanically stable, as well as insoluble in the immobilization solution."
+    },
+    "Question_9": {
+        "Context": "The immobilization of microbial cells on carriers can lead to the formation of biofilms, which are beneficial for certain bioprocesses.",
+        "Question": "What is a beneficial outcome of immobilizing microbial cells on carriers?",
+        "A": "Decreased activity of microbial cells",
+        "B": "Formation of biofilms",
+        "C": "Inhibition of microbial growth",
+        "D": "Increased susceptibility to environmental stress",
+        "Answer": "B",
+        "Source": "Unlike the immobilization of enzymes, the immobilization of cells typically leads to the formation of biofilms on carriers."
+    },
+    "Question_10": {
+        "Context": "Polyester nonwoven materials are frequently employed for cell immobilization due to their suitability for biofilm formation.",
+        "Question": "Why are polyester nonwoven materials frequently used for cell immobilization?",
+        "A": "They prevent biofilm formation",
+        "B": "They are expensive and scarce",
+        "C": "They are suitable for biofilm formation",
+        "D": "They require extensive pretreatment",
+        "Answer": "C",
+        "Source": "The polyester nonwovens were frequently employed for cell immobilization because of easy formation of biofilms."
+    }
+}

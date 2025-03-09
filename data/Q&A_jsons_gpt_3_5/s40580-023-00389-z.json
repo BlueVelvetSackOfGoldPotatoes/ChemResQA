@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of neural engineering, what is the convergence of 3D printing methods and electrically conducting hydrogels expected to create?",
+        "Question": "What new clinical and therapeutic possibilities are expected to be created?",
+        "A": "Improved diagnostic tools",
+        "B": "Enhanced surgical techniques",
+        "C": "Precision regenerative medicine and implants",
+        "D": "Advanced pharmaceutical formulations",
+        "Answer": "C",
+        "Source": "The convergence of 3D printing methods and electrically conducting hydrogels may create new clinical and therapeutic possibilities for precision regenerative medicine and implants."
+    },
+    "Question_2": {
+        "Context": "What is the main advantage of conductive hydrogels for neural tissue engineering applications?",
+        "Question": "What key advantage do conductive hydrogels offer for neural tissue engineering?",
+        "A": "High mechanical stiffness",
+        "B": "Low biocompatibility",
+        "C": "Flexibility and adhesion to tissues",
+        "D": "Low electrical conductivity",
+        "Answer": "C",
+        "Source": "Conductive hydrogels have advantages in terms of biocompatibility, flexibility, and adhesion to tissues, enabling high sensitivity to various electrophysiological signals."
+    },
+    "Question_3": {
+        "Context": "What is a critical factor for the successful tissue remodeling in tissue engineering applications?",
+        "Question": "What factor is important for successful tissue remodeling in tissue engineering?",
+        "A": "Degradability",
+        "B": "Swelling resistance",
+        "C": "Mechanical stiffness",
+        "D": "Porosity",
+        "Answer": "A",
+        "Source": "For successful tissue remodeling in tissue engineering applications, the neuronal cell proliferation rate must match the hydrogel degradation kinetics."
+    },
+    "Question_4": {
+        "Context": "What is a key consideration for achieving a biocompatible and stable implant for long-term use in neural tissue engineering?",
+        "Question": "What is a key consideration for achieving a biocompatible and stable implant in neural tissue engineering?",
+        "A": "High mechanical stiffness",
+        "B": "Low electrical conductivity",
+        "C": "Degradability",
+        "D": "Swelling resistance",
+        "Answer": "C",
+        "Source": "Therefore, the balance between the physical and conductive properties that can provide a biocompatible and stable implant for long-term use should be considered."
+    },
+    "Question_5": {
+        "Context": "What is a common method to increase resistance to swelling in hydrogels?",
+        "Question": "How can resistance to swelling in hydrogels be increased?",
+        "A": "Increasing the concentration and crosslinking amount of the hydrogel network",
+        "B": "Decreasing the hydrophilicity of the hydrogel network",
+        "C": "Reducing the viscosity of the hydrogel ink",
+        "D": "Increasing the pore size of the hydrogel network",
+        "Answer": "A",
+        "Source": "A common method to increase resistance to swelling is to increase the concentration and crosslinking amount of the hydrogel network to make it dense."
+    },
+    "Question_6": {
+        "Context": "What is a significant limitation of stereolithography (SLA) in 3D printing of conductive hydrogels?",
+        "Question": "What is a major drawback of stereolithography in 3D printing conductive hydrogels?",
+        "A": "Low resolution",
+        "B": "Limited material selection",
+        "C": "High mechanical strength",
+        "D": "Brittleness and poor toughness",
+        "Answer": "D",
+        "Source": "However, brittleness and poor toughness owing to an inhomogeneous polymer architecture and high crosslink density are significant limitations of SLA."
+    },
+    "Question_7": {
+        "Context": "What is a disadvantage of static-state printing methods in terms of toxicity in biomedical applications?",
+        "Question": "What toxicity-related issue is associated with static-state printing methods in biomedical applications?",
+        "A": "Low mechanical strength",
+        "B": "High conductivity",
+        "C": "Toxicity caused by ROS generation",
+        "D": "Limited material selection",
+        "Answer": "C",
+        "Source": "A major disadvantage of static-state printing methods is the toxicity caused by the ROS generated during the curing of photoreactive materials, which limits their biomedical applications in vivo."
+    },
+    "Question_8": {
+        "Context": "What is a key factor influencing biocompatibility in conductive hydrogels?",
+        "Question": "What factor plays a crucial role in determining biocompatibility in conductive hydrogels?",
+        "A": "Material composition",
+        "B": "Mechanical stiffness",
+        "C": "Electrical properties",
+        "D": "Degradation behavior",
+        "Answer": "A",
+        "Source": "Biocompatibility is influenced by various factors such as material composition, surface mechanical properties, electrical properties, and degradation behavior."
+    },
+    "Question_9": {
+        "Context": "What is a method commonly used to control the degradation behavior of hydrogels?",
+        "Question": "How is the degradation behavior of hydrogels often controlled?",
+        "A": "Enzymatic degradation",
+        "B": "Hydrolysis",
+        "C": "Increasing porosity",
+        "D": "Reducing crosslinking",
+        "Answer": "B",
+        "Source": "Hydrophilic polymer chains are prone to hydrolysis, which involves the cleavage of ester or amide bonds due to their affinity to water."
+    },
+    "Question_10": {
+        "Context": "What is a critical aspect to consider for achieving strong and stable adhesion between a conductive hydrogel and biological tissue?",
+        "Question": "What is essential for ensuring strong and stable adhesion between a conductive hydrogel and biological tissue?",
+        "A": "Physical interactions",
+        "B": "Chemical bonds",
+        "C": "Mechanical interlocking",
+        "D": "Electrostatic forces",
+        "Answer": "B",
+        "Source": "Chemical interactions refer to the covalent bonds that form between conductive hydrogels and tissue owing to biological factors or external chemical precursors."
+    }
+}

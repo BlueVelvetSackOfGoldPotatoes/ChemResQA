@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Beta-cyclodextrins (\u03b2-CDs) are cyclic oligosaccharides that can form inclusion complexes with various hydrophobic molecules, potentially altering the physicochemical properties of the guest compounds.",
+        "Question": "What is the primary structural feature of beta-cyclodextrins (\u03b2-CDs) that allows them to interact with hydrophobic molecules?",
+        "A": "Hydrophilic outer surface",
+        "B": "Hydrophobic inner cavity",
+        "C": "Linear chain of glucose molecules",
+        "D": "Presence of \u03b1-(1,4)-glycosidic bonds",
+        "Answer": "B",
+        "Source": "The hydrophobic inner cavity of CDs can harbor nonpolar and size-fit polyphenols such as Res. Furthermore, the delivery capability of CDs originates from their chemical properties."
+    },
+    "Question_2": {
+        "Context": "Resveratrol (Res) is a natural polyphenol known for its pharmaceutical functions, but its application is limited due to its low water solubility.",
+        "Question": "What is a significant limitation of resveratrol (Res) that restricts its biomedical applications?",
+        "A": "High toxicity",
+        "B": "Unstable structure",
+        "C": "Low water solubility",
+        "D": "Rapid metabolism",
+        "Answer": "C",
+        "Source": "Despite its wide spectrum of pharmaceutical activities, Res has limited biomedical applications because of its low water solubility."
+    },
+    "Question_3": {
+        "Context": "Cyclodextrins (CDs) can be used to increase the bioavailability of hydrophobic drugs by forming inclusion complexes, which can enhance the water solubility of the guest compounds.",
+        "Question": "What is the role of cyclodextrins (CDs) in drug delivery systems for hydrophobic compounds?",
+        "A": "Decrease the efficacy of drugs",
+        "B": "Increase the water solubility of drugs",
+        "C": "Act as a competitive inhibitor",
+        "D": "Reduce the half-life of drugs",
+        "Answer": "B",
+        "Source": "Notably, the incorporation of Res with cyclodextrins (CDs), a commonly used delivery system, can increase its bioapplications and water solubility."
+    },
+    "Question_4": {
+        "Context": "Plasma-polymerized coatings can be applied to culture dishes to modify their surface properties, which can influence cell adhesion, growth, and the formation of three-dimensional cell structures like spheroids.",
+        "Question": "What is the purpose of applying plasma-polymerized coatings to culture dishes in cell culture experiments?",
+        "A": "To prevent cell growth",
+        "B": "To enhance cell adhesion and spheroid formation",
+        "C": "To increase the transparency of the dishes",
+        "D": "To sterilize the culture dishes",
+        "Answer": "B",
+        "Source": "Collectively, plasma surface modifications can be applied to provide a surface with the desired properties, thereby increasing surface biocompatibility such that cells can adhere, grow, differentiate, and aggregate into tumor mass-like spheroids."
+    },
+    "Question_5": {
+        "Context": "Tumor spheroids are three-dimensional cell models that mimic the architecture and microenvironment of tumors, providing a platform for evaluating drug delivery and efficacy.",
+        "Question": "Why are three-dimensional tumor spheroids considered more beneficial than two-dimensional cell cultures for antitumor drug development?",
+        "A": "They are easier to manipulate",
+        "B": "They reach confluence more rapidly",
+        "C": "They mirror real tumors in terms of tissue architecture",
+        "D": "They are less expensive to develop",
+        "Answer": "C",
+        "Source": "Nevertheless, 3D spheroids, similar to tumors, are more beneficial for developing new antitumor drugs because 2D-grown cells do not mirror real tumors in terms of tissue architecture and physiological microenvironments, including nutrient and oxygen transport."
+    },
+    "Question_6": {
+        "Context": "The hypoxic core of a tumor spheroid is characterized by low oxygen levels and can influence the effectiveness of certain anticancer treatments.",
+        "Question": "What is a distinguishing feature of the core of a tumor spheroid compared to its outer layers?",
+        "A": "Higher nutrient availability",
+        "B": "Faster cell division rates",
+        "C": "Presence of hypoxic conditions",
+        "D": "Lower cell density",
+        "Answer": "C",
+        "Source": "The proliferation zone, located at the periphery, directly interacts with nutrient- and oxygen-rich media, whereas the necrotic core experiences oxygen deficiency (hypoxia) and nutrient deprivation."
+    },
+    "Question_7": {
+        "Context": "Necrosis is a form of cell death that is often associated with pathological conditions and can be induced by certain environmental stressors in cell cultures.",
+        "Question": "Which of the following conditions can induce necrosis in cell cultures?",
+        "A": "Overexpression of growth factors",
+        "B": "Treatment with high oxygen levels",
+        "C": "Nutrient-rich media",
+        "D": "Exposure to cobalt chloride (CoCl2)",
+        "Answer": "D",
+        "Source": "When HeLa cells were treated with 0\u2013500 \u03bcM CoCl2 for 24 h, HIF-1\u03b1 expression markedly increased by 4\u201312-fold at 200\u2013500 \u03bcM, indicating that necrosis occurs after treatment with \u2265 200 \u03bcM CoCl2."
+    },
+    "Question_8": {
+        "Context": "Apoptosis is a regulated process of programmed cell death that plays a critical role in maintaining the balance of cell populations in tissues and is a target for certain anticancer drugs.",
+        "Question": "What is a hallmark of apoptosis in cell cultures that can be detected by specific staining methods?",
+        "A": "Cell swelling",
+        "B": "Lysis of cell membrane",
+        "C": "Nuclear fragmentation",
+        "D": "Uncontrolled cell division",
+        "Answer": "C",
+        "Source": "Annexin V flip-flop and nuclear fragmentation confirmed Res-induced apoptosis of the monolayered 2D cells, as monitored by flow cytometry and fluorescence microscopy, respectively."
+    },
+    "Question_9": {
+        "Context": "Caspase-3 is an enzyme that plays a crucial role in the execution phase of apoptosis, and its activation can be used as an indicator of apoptosis in cells.",
+        "Question": "Which enzyme's activation is commonly associated with the induction of apoptosis in cells?",
+        "A": "Caspase-3",
+        "B": "Lipase",
+        "C": "Amylase",
+        "D": "Catalase",
+        "Answer": "A",
+        "Source": "We observed that when the spheroids were exposed to 10 \u03bcM Res or Res/CD, caspase-3 was activated by Res/CD but not by Res alone."
+    },
+    "Question_10": {
+        "Context": "The water contact angle (WCA) is a measure of the hydrophobicity of a surface, with higher angles indicating more hydrophobic surfaces.",
+        "Question": "What does an increased water contact angle (WCA) on a modified surface indicate about its hydrophobicity?",
+        "A": "Decreased hydrophobicity",
+        "B": "Increased hydrophilicity",
+        "C": "Increased hydrophobicity",
+        "D": "No change in hydrophobicity",
+        "Answer": "C",
+        "Source": "However, after plasma surface modification using the OMBTSTS precursor, the WCA increased to > 99\u00b0, indicating a substantial improvement in surface hydrophobicity."
+    }
+}

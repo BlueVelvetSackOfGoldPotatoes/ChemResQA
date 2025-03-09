@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In an electrochemical cell, the voltage is determined by the electrochemical potentials at the electrode/electrolyte interfaces.",
+        "Question": "What determines the voltage of an electrochemical cell?",
+        "A": "The size of the electrodes",
+        "B": "The electrochemical potentials at the electrode/electrolyte interfaces",
+        "C": "The temperature of the electrolyte",
+        "D": "The color of the electrodes",
+        "Answer": "B",
+        "Source": "The voltage is the sum of the voltages of the two interfacial electric-double-layer capacitors at the two electrode/electrolyte interfaces."
+    },
+    "Question_2": {
+        "Context": "The formation of an electric-double-layer-capacitor (EDLC) at the interface of the electrolyte with each of the electrodes is essential for equalizing electrochemical potentials in an electrochemical cell.",
+        "Question": "What forms at the interface of the electrolyte with each of the electrodes to equalize electrochemical potentials?",
+        "A": "An electric-double-layer-capacitor (EDLC)",
+        "B": "A heterojunction",
+        "C": "A chemical bond",
+        "D": "A thermal barrier",
+        "Answer": "A",
+        "Source": "An electrochemical cell contains three open thermodynamic systems that, in dynamic equilibrium, equalize their electrochemical potentials with that of their surrounding by forming an electric-double-layer-capacitor at the interface of the electrolyte with each of the two electrodes."
+    },
+    "Question_3": {
+        "Context": "In thermodynamics, the first law for a closed system relates changes in internal energy to heat added and work done by the system.",
+        "Question": "According to the first law of thermodynamics for a closed system, what does the change in internal energy (dU) equal to?",
+        "A": "dU = \u03b4Q + \u2202W",
+        "B": "dU = \u03b4Q / \u2202W",
+        "C": "dU = \u03b4Q - \u2202W",
+        "D": "dU = \u03b4Q * \u2202W",
+        "Answer": "C",
+        "Source": "The first law of Thermodynamics states that in a closed system, dU = \u03b4Q - \u2202W where dU is the change in internal energy, \u03b4Q is the heat added to the system, and \u2202W is the work made by the system."
+    },
+    "Question_4": {
+        "Context": "The Gibbs free energy is a thermodynamic potential that can be used to calculate the maximum reversible work that may be performed by a thermodynamic system at a constant temperature and pressure.",
+        "Question": "What is the Gibbs free energy (G) formula?",
+        "A": "G = H + TS",
+        "B": "G = U - TS",
+        "C": "G = H - TS",
+        "D": "G = U + TS",
+        "Answer": "C",
+        "Source": "The Gibbs free energy is, G = H - TS where H is the enthalpy, S the entropy, and T the temperature in K."
+    },
+    "Question_5": {
+        "Context": "The electrochemical potential of a species in a system is a crucial concept in understanding the behavior of particles in electrochemical cells.",
+        "Question": "How is the electrochemical potential of a species in a system defined?",
+        "A": "\u03bci = \u2202G / \u2202Ni at constant T, P, and Nj\u2260i",
+        "B": "\u03bci = \u2202G * \u2202Ni at constant T, P, and Nj\u2260i",
+        "C": "\u03bci = \u2202G + \u2202Ni at constant T, P, and Nj\u2260i",
+        "D": "\u03bci = \u2202G - \u2202Ni at constant T, P, and Nj\u2260i",
+        "Answer": "A",
+        "Source": "The electrochemical potential of an open system of particles i or species i is, \u03bci = \u2202G / \u2202Ni at constant T, P, Nj\u2260i."
+    },
+    "Question_6": {
+        "Context": "The electrochemical potential of particles in a system can be influenced by external forces such as electric or magnetic fields.",
+        "Question": "What term in the equation for internal energy (dU) in an open system accounts for the work done by applied forces?",
+        "A": "TdS",
+        "B": "PdV",
+        "C": "\u03bcidNi",
+        "D": "Xidai",
+        "Answer": "D",
+        "Source": "In an open system, the internal energy dU includes changes in the chemical potential made by applied forces. The applied force may, for example, be an electric, magnetic or a gravitic force to make dU = TdS - PdV + \u03a3 \u03bcidNi - \u03a3 Xi dai."
+    },
+    "Question_7": {
+        "Context": "The electric field at the interface between an electrode and an electrolyte in a battery cell is a significant factor in the operation of the cell.",
+        "Question": "According to Gauss's law, what is the electric field outside the internal space between charged parallel plates, such as an electrode/electrolyte interface?",
+        "A": "Equal to the electric field inside the plates",
+        "B": "Zero",
+        "C": "Infinite",
+        "D": "Dependent on the plate material",
+        "Answer": "B",
+        "Source": "According to Gauss\u2019s law for ideal charged parallel plates (electrode/electrolyte interface), the electric field outside the internal space between plates is zero."
+    },
+    "Question_8": {
+        "Context": "The chemical potential of a phase in a mixture can vary depending on the surrounding contacting phase.",
+        "Question": "What happens to the electrochemical potential of a stoichiometric phase in a mixture when it contacts different phases?",
+        "A": "It remains constant",
+        "B": "It decreases exponentially",
+        "C": "It step-varies",
+        "D": "It increases linearly",
+        "Answer": "C",
+        "Source": "A stoichiometric phase step-varies its electrochemical potential as it contacts with different phases as shown in Fig. 6a)."
+    },
+    "Question_9": {
+        "Context": "In a battery cell, the dynamic equilibrium between electrodes and the electrolyte involves the equalization of electrochemical potentials.",
+        "Question": "What indicates a dynamic equilibrium between electrodes and the electrolyte in a battery cell?",
+        "A": "The chemical potential of the electrolyte is maximum",
+        "B": "The electrodes have different electrochemical potentials",
+        "C": "The electrochemical potentials of the electrodes are equalized with the electrolyte",
+        "D": "The electric field at the electrode/electrolyte interface is maximum",
+        "Answer": "C",
+        "Source": "Equations (11) to (13) indicate that in a battery cell, not only are the electrodes in dynamic equilibrium, but also each electrode with the electrolyte."
+    },
+    "Question_10": {
+        "Context": "The alignment of Fermi levels between two dissimilar solid materials in contact, such as in a battery cell, is a fundamental process.",
+        "Question": "What happens when two dissimilar solid materials in a battery cell come into contact?",
+        "A": "They repel each other's electrons",
+        "B": "They form a thermal junction",
+        "C": "They equalize their electrochemical potentials (Fermi levels)",
+        "D": "They become isolated systems",
+        "Answer": "C",
+        "Source": "It is emphasized that two dissimilar solid materials in contact equalize their electrochemical potentials (Fermi levels); therefore, the alignment of the Fermi levels happens in each electrode independent of the rest of the cell."
+    }
+}

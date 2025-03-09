@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "In the sol-gel process of fabricating thin films, the concentration of the precursor solution can affect the grain size of the resulting films.",
+            "Question": "What is observed about the grain size of ZnO thin films at low concentrations (0.2 and 0.4 M) with increasing aging time?",
+            "A": "Grain size decreases with aging time.",
+            "B": "Grain size increases with aging time up to 72 hours.",
+            "C": "Grain size remains constant regardless of aging time.",
+            "D": "Grain size increases indefinitely with aging time.",
+            "Answer": "B",
+            "Source": "For low concentration films (0.2 and 0.4 M), grain size increased with aging time up to 72 hours."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "The sol-gel process of thin film fabrication involves aging the precursor solution, which can influence the grain size of high concentration samples differently than low concentration ones.",
+            "Question": "How does the grain size of high concentration ZnO thin films (0.6 and 0.8 M) change with aging time?",
+            "A": "Grain size increases only up to 24 hours, then decreases.",
+            "B": "Grain size decreases consistently with aging time.",
+            "C": "Grain size increases only up to 48 hours, then decreases.",
+            "D": "Grain size increases indefinitely with aging time.",
+            "Answer": "C",
+            "Source": "For high concentration samples (0.6 and 0.8 M), grain size increased only up to 48 hours. Additional aging resulted in a decrease in the grain size."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "The band gap of a semiconductor material is a crucial property that can be influenced by the aging time of the precursor solution in the sol-gel process.",
+            "Question": "What trend is observed in the band gap of ZnO thin films with increasing aging time?",
+            "A": "The band gap increases with aging time.",
+            "B": "The band gap remains constant with aging time.",
+            "C": "The band gap decreases with aging time.",
+            "D": "The band gap first decreases then increases with aging time.",
+            "Answer": "C",
+            "Source": "The band gap tended to decrease with increasing aging time for all concentrations."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "In the context of sol-gel derived thin films, the annealing temperature can affect the quality of the films.",
+            "Question": "What is the minimum annealing temperature at 1 hour to achieve high-quality ZnO thin films?",
+            "A": "150 oC",
+            "B": "250 oC",
+            "C": "350 oC",
+            "D": "450 oC",
+            "Answer": "C",
+            "Source": "Annealing data suggests that 350 oC is the minimum annealing at 1 hour to achieve high-quality films and higher concentration ZnO films have stronger diffraction peaks."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "Doping ZnO thin films with Al can influence their optical and structural properties.",
+            "Question": "How does Al doping affect the optical properties of ZnO thin films?",
+            "A": "It decreases the blue shift of the band edge.",
+            "B": "It increases the blue shift of the band edge.",
+            "C": "It does not affect the band edge position.",
+            "D": "It turns the film opaque.",
+            "Answer": "B",
+            "Source": "ZnO:Al also exhibits stronger diffraction peaks and a larger blue shift of the band edge with increasing sol gel concentration."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "The sol-gel process for creating ZnO thin films involves various steps, including the choice of solvent which can affect the reaction.",
+            "Question": "Why is methanol considered a better solvent than 2-propanol for sol-gel reactions of ZnO thin films?",
+            "A": "Methanol has a lower dielectric constant.",
+            "B": "Methanol has a lower solubility limit for the precursors.",
+            "C": "Methanol has a higher boiling temperature.",
+            "D": "Methanol has a higher dielectric constant and solubility limit for the precursors.",
+            "Answer": "D",
+            "Source": "Compared to 2-propanol, methanol has a higher dielectric constant (32.35 vs 18.62) and a higher solubility limit for the precursors; however it has a lower boiling temperature (64.7 vs 82.2 oC)."
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "The sol-gel process includes the hydrolysis and condensation of a metal precursor, which can be affected by the choice of zinc precursor.",
+            "Question": "What is an advantage of using zinc acetate over zinc nitrate as a precursor in the sol-gel process for ZnO thin films?",
+            "A": "Zinc acetate is more toxic and less expensive.",
+            "B": "Zinc acetate has a higher boiling point.",
+            "C": "Zinc acetate decomposes during annealing, making it easier to remove.",
+            "D": "Zinc acetate results in a higher dielectric constant.",
+            "Answer": "C",
+            "Source": "Zinc acetate has the advantage that the acetate group will decompose during annealing."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "The sol-gel process of ZnO thin films involves aging the precursor solution, which can influence the optical properties of the films.",
+            "Question": "Which concentration of ZnO precursor solution tends to have the smallest band gap at each aging time?",
+            "A": "0.2 M",
+            "B": "0.4 M",
+            "C": "0.6 M",
+            "D": "0.8 M",
+            "Answer": "C",
+            "Source": "The smallest band gap for each aging time (24, 48, and 72 hours) was observed for 0.6 M films."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "The sol-gel process for ZnO thin films includes aging the precursor solution, which can affect the structural properties of the films.",
+            "Question": "At which aging times do the largest grain sizes occur for 0.4 M and 0.6 M ZnO sol-gel films?",
+            "A": "24 hours for both concentrations",
+            "B": "48 hours for both concentrations",
+            "C": "72 hours for 0.4 M and 48 hours for 0.6 M",
+            "D": "72 hours for both concentrations",
+            "Answer": "C",
+            "Source": "The largest grain sizes were found for 0.4 M at 72 hours and 0.6 M at 48 hours."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "In the sol-gel process, the aging temperature and time can influence the crystallinity of ZnO thin films.",
+            "Question": "What is the relationship between the grain size and the aging time for ZnO thin films at higher concentrations?",
+            "A": "Grain size increases with aging time.",
+            "B": "Grain size decreases with aging time.",
+            "C": "Grain size increases with aging time up to a point, then decreases.",
+            "D": "Grain size remains constant regardless of aging time.",
+            "Answer": "C",
+            "Source": "For both the 0.6 and 0.8 M samples, the grain size initially increases with aging time but sharply decreases after 48 hours."
+        }
+    }
+]

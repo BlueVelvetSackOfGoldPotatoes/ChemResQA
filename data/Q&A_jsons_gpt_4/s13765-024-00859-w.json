@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Acne vulgaris is a chronic skin condition that can lead to psychological impacts such as low self-confidence and depression. It is characterized by several pathophysiological factors including the colonization of a specific bacterium.",
+        "Question": "Which bacterium is primarily involved in the pathogenesis of acne vulgaris?",
+        "A": "Escherichia coli",
+        "B": "Cutibacterium acnes",
+        "C": "Staphylococcus aureus",
+        "D": "Pseudomonas aeruginosa",
+        "Answer": "B",
+        "Source": "Several factors play vital roles in acne pathophysiology including hyperseborrhea, follicular hyperkeratinization, inflammation and increased colonization of Cutibacterium acnes (C. acnes) (the primary pathogen involved in acne, previously known as Propionibacterium acnes)."
+    },
+    "Question_2": {
+        "Context": "Essential oils are often extracted from plants and analyzed to determine their chemical composition. One method of analysis involves a technique that separates and identifies volatile compounds.",
+        "Question": "Which analytical technique is used to analyze the chemical composition of essential oils?",
+        "A": "High-performance liquid chromatography (HPLC)",
+        "B": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "C": "Gas chromatography/mass spectrometry (GC/MS)",
+        "D": "Fourier-transform infrared spectroscopy (FTIR)",
+        "Answer": "C",
+        "Source": "Essential oils: Salvia officinalis L. (sage), Rosmarinus officinalis L. (rosemary), Commiphora myrrha Nees Engl. (myrrh), Origanum majorana L. (marjoram), Pelargonium zonale L. L\u2019H\u00e9r. ex Aiton (geranium) and Chrysanthemum morifolium Ramat. (chrysanthemum) were extracted by hydrodistillation and analyzed using gas chromatography/mass spectrometry (GC/MS)."
+    },
+    "Question_3": {
+        "Context": "In the context of organic chemistry, certain classes of hydrocarbons are commonly found in essential oils and are known for their fragrance and potential therapeutic properties.",
+        "Question": "Which class of hydrocarbons is predominantly found in marjoram essential oil?",
+        "A": "Aromatic hydrocarbons",
+        "B": "Aliphatic hydrocarbons",
+        "C": "Monoterpene hydrocarbons",
+        "D": "Polyaromatic hydrocarbons",
+        "Answer": "C",
+        "Source": "Monoterpene hydrocarbons are the predominant class in bioactive marjoram oil, with a percentage of 69.60%."
+    },
+    "Question_4": {
+        "Context": "The minimum inhibitory concentration (MIC) is a measure used to determine the lowest concentration of a substance required to inhibit the growth of a microorganism in vitro.",
+        "Question": "What is the MIC value range for the most active essential oils against Cutibacterium acnes as reported?",
+        "A": "0.156% v/v - 0.125% v/v",
+        "B": "0.250% v/v - 0.218% v/v",
+        "C": "1.781% v/v - 1.65% v/v",
+        "D": "16% v/v - 20% v/v",
+        "Answer": "A",
+        "Source": "Marjoram and chrysanthemum oils showed the highest antimicrobial activity against C. acnes (MIC = 0.156% v/v and 0.125% v/v, respectively)."
+    },
+    "Question_5": {
+        "Context": "In the study of essential oils, the main components of an oil can be indicative of its potential therapeutic properties. Gas chromatography/mass spectrometry (GC/MS) analysis can reveal these predominant constituents.",
+        "Question": "What is the main component identified in chrysanthemum essential oil?",
+        "A": "Limonene",
+        "B": "Terpinen-4-ol",
+        "C": "Chrysanthenone",
+        "D": "Camphor",
+        "Answer": "C",
+        "Source": "GC/MS of the actives showed that gamma-terpinene (26.46%) and terpinen-4-ol (22.24%) were the predominant constituents in marjoram, whereas chrysanthenone (32.79%) was the main component in chrysanthemum."
+    },
+    "Question_6": {
+        "Context": "The minimum bactericidal concentration (MBC) is the lowest concentration of an antibacterial agent required to kill a particular bacterium. It is a critical value in determining the efficacy of antibacterial agents.",
+        "Question": "What is the MBC range for marjoram and chrysanthemum essential oils against Cutibacterium acnes?",
+        "A": "0.156% v/v - 0.125% v/v",
+        "B": "0.250% v/v - 0.218% v/v",
+        "C": "1.781% v/v - 1.65% v/v",
+        "D": "16% v/v - 20% v/v",
+        "Answer": "C",
+        "Source": "MBC results further confirmed the efficacy of marjoram and chrysanthemum oils as bactericidal at concentrations of 1.78 and 1.65% v/v, respectively."
+    },
+    "Question_7": {
+        "Context": "In the formulation of pharmaceutical products, certain polymers are used to create gel-based delivery systems due to their biocompatibility and functionality.",
+        "Question": "Which naturally occurring polysaccharide is used in the preparation of film-forming nanogels for delivering essential oils?",
+        "A": "Cellulose",
+        "B": "Chitosan",
+        "C": "Starch",
+        "D": "Alginate",
+        "Answer": "B",
+        "Source": "Nanogels prepared from naturally occurring polysaccharides, such as chitosan seem appealing due to their biocompatibility and functionality as well as their low toxicity."
+    },
+    "Question_8": {
+        "Context": "The zeta potential of a formulation is an indicator of its stability, with higher absolute values suggesting greater stability due to repulsion between particles.",
+        "Question": "What is the approximate zeta potential value range that indicates a stable nanogel formulation?",
+        "A": "\u00b1 10 mV",
+        "B": "\u00b1 20 mV",
+        "C": "\u00b1 30 mV",
+        "D": "\u00b1 40 mV",
+        "Answer": "C",
+        "Source": "ZP indicates the overall surface charges, and correlates directly with the stability of the formulation; where the formulation is considered stable if the ZP value is around \u00b1 30 mV as per the repulsion forces in between the particles."
+    },
+    "Question_9": {
+        "Context": "The pH of topical formulations is an important factor to consider as it can influence skin compatibility and potential irritation.",
+        "Question": "What is the ideal pH range for topical formulations to avoid skin irritation?",
+        "A": "2.0 - 3.0",
+        "B": "4.5 - 5.5",
+        "C": "6.0 - 7.0",
+        "D": "7.5 - 8.5",
+        "Answer": "B",
+        "Source": "A highly acidic or highly basic pH value of formulations could alter the skin environment, which in turn can cause skin irritation. The pH values of the plain nanogel, marjoram and chrysanthemum oil-loaded nanogels were found to be 4.86 \u00b1 0.02, 4.89 \u00b1 0.02 and 4.85 \u00b1 0.03, respectively."
+    },
+    "Question_10": {
+        "Context": "In the development of pharmaceutical formulations, the time required for a film-forming gel to dry and form a film is an important parameter for practical application.",
+        "Question": "What is the typical in vitro film-forming time range for the developed film-forming nanogels?",
+        "A": "5 - 7 minutes",
+        "B": "7 - 9 minutes",
+        "C": "10 - 12 minutes",
+        "D": "12 - 15 minutes",
+        "Answer": "B",
+        "Source": "The film-forming time of the plain nanogel, marjoram and chrysanthemum oils-loaded nanogels were 8.10 \u00b1 0.80, 7.20 \u00b1 0.50 and 7.10 \u00b1 0.40 min (in vitro), respectively."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigates the ductile failure of multi-cracked specimens containing circular arc cracks. Various angles of circular arc cracks are considered to induce mixed mode loading conditions at the crack tips.",
+        "Question": "What is the main micromechanical mechanism leading to plastic deformation in the vicinity of crack tips in the tested specimens?",
+        "A": "Crazing",
+        "B": "Shear yielding",
+        "C": "Micro voids",
+        "D": "Shear bands",
+        "Answer": "B",
+        "Source": "Shear yielding and crazing are the two main micromechanical mechanisms leading to the existence of plastic deformation in the vicinity of crack tips in components (Kinloch 1985; Liu et al. 1998)."
+    },
+    "Question_2": {
+        "Context": "The study uses the equivalent material concept (EMC) in conjunction with a brittle fracture criterion to provide theoretical predictions for the ductile failure of multi-cracked specimens.",
+        "Question": "What approach is used to provide theoretical predictions for the ductile failure of the multi-cracked specimens?",
+        "A": "Dislocation method",
+        "B": "Fracture tests",
+        "C": "Finite element analysis",
+        "D": "Equivalent material concept (EMC)",
+        "Answer": "D",
+        "Source": "To prevent from elastic-plastic analysis, theoretical predictions are provided by applying the equivalent material concept (EMC) in conjunction with the brittle fracture criterion."
+    },
+    "Question_3": {
+        "Context": "The study conducts fracture tests on the prepared samples to obtain their failure loads.",
+        "Question": "What is the purpose of conducting fracture tests on the prepared samples?",
+        "A": "To determine the elastic modulus",
+        "B": "To evaluate the Poisson's ratio",
+        "C": "To obtain the failure loads",
+        "D": "To analyze the plastic deformation",
+        "Answer": "C",
+        "Source": "Fracture tests are conducted on the prepared samples and their failure loads are obtained."
+    },
+    "Question_4": {
+        "Context": "The study compares the theoretical and experimental results for the ductile failure of multi-cracked specimens.",
+        "Question": "What is used to compare the theoretical and experimental results for the ductile failure of the multi-cracked specimens?",
+        "A": "Effective fracture toughness",
+        "B": "Fracture load",
+        "C": "Stress intensity factors",
+        "D": "Plastic deformation analysis",
+        "Answer": "A",
+        "Source": "To have better realization of plastic deformation in tested specimens, size of the plastic zone at the neighborhood of crack tip is specified by performing the elastic-plastic FE analysis."
+    },
+    "Question_5": {
+        "Context": "The study uses the dislocation method to calculate the critical stress intensity factors (SIFs) for the multi-cracked specimens.",
+        "Question": "What is used to calculate the critical stress intensity factors (SIFs) for the multi-cracked specimens?",
+        "A": "Fracture tests",
+        "B": "Finite element analysis",
+        "C": "Equivalent material concept (EMC)",
+        "D": "Dislocation method",
+        "Answer": "D",
+        "Source": "The modified experimental loads are used in the dislocation method to calculate these parameters."
+    },
+    "Question_6": {
+        "Context": "The study employs a numerical technique of integral equations with Cauchy-type kernel to solve the system of Cauchy singular integral equations.",
+        "Question": "What numerical technique is used to solve the system of Cauchy singular integral equations?",
+        "A": "Finite element analysis",
+        "B": "Dislocation method",
+        "C": "Numerical analysis",
+        "D": "Integral equations with Cauchy-type kernel",
+        "Answer": "D",
+        "Source": "Erdogan et al. (1973) developed the numerical technique of integral equations with Cauchy-type kernel to solve the obtained system."
+    },
+    "Question_7": {
+        "Context": "The study uses the distributed dislocation technique to model arbitrary shapes of cracks in the multi-cracked specimens.",
+        "Question": "What technique is used to model arbitrary shapes of cracks in the multi-cracked specimens?",
+        "A": "Dislocation method",
+        "B": "Finite element analysis",
+        "C": "Distributed dislocation technique",
+        "D": "Numerical analysis",
+        "Answer": "C",
+        "Source": "By using the distributed dislocation technique, arbitrary shapes of cracks can be modeled."
+    },
+    "Question_8": {
+        "Context": "The study determines the sizes of plastic deformation in the vicinity of crack tips in the multi-cracked specimens.",
+        "Question": "What factor influences the size of the plastic zone around the crack tips in the multi-cracked specimens?",
+        "A": "Mode I loading",
+        "B": "Mode II loading",
+        "C": "Elastic modulus",
+        "D": "Poisson's ratio",
+        "Answer": "B",
+        "Source": "By comparing the sizes of determined plastic regions, it is found that by increasing the angle of circular arc crack \u03b2, the plastic zone becomes greater."
+    },
+    "Question_9": {
+        "Context": "The study uses the FE software to analyze the multi-cracked models with different angles of circular arc cracks.",
+        "Question": "What software is used to analyze the multi-cracked models with different angles of circular arc cracks?",
+        "A": "MATLAB",
+        "B": "ABAQUS/CAE",
+        "C": "ANSYS",
+        "D": "SolidWorks",
+        "Answer": "B",
+        "Source": "The commercial code ABAQUS/CAE 6.10 is used to perform finite element (FE) analysis."
+    },
+    "Question_10": {
+        "Context": "The study compares the experimental and theoretical results for the fracture toughness of the tested material.",
+        "Question": "What parameter is used to compare the experimental and theoretical results for the fracture toughness of the tested material?",
+        "A": "Fracture load",
+        "B": "Stress intensity factors",
+        "C": "Effective fracture toughness",
+        "D": "Plastic deformation analysis",
+        "Answer": "C",
+        "Source": "To compare the experimental and theoretical results, the fracture toughness of the tested material should be determined."
+    }
+}

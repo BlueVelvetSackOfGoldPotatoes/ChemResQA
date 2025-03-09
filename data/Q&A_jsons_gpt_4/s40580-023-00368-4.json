@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Remote epitaxy is a technique where epitaxial growth is performed on a substrate that is coated with an atomically thin two-dimensional material.",
+        "Question": "What is the role of the two-dimensional material in remote epitaxy?",
+        "A": "It increases the thermal expansion coefficient.",
+        "B": "It allows the surface potential of the substrate to penetrate and enable epitaxial registry.",
+        "C": "It acts as a permanent adhesive layer.",
+        "D": "It blocks all interactions between the adatom and the substrate.",
+        "Answer": "B",
+        "Source": "Since graphene is atomically thin, the surface potential of the underlying single-crystalline substrate can penetrate through the graphene, allowing epitaxial registry to the substrate while simultaneously preventing covalent bond formation between the epitaxial layer that is being grown."
+    },
+    "Question_2": {
+        "Context": "In remote epitaxy, the quality of the epitaxial layer can be influenced by the growth conditions such as temperature and pressure.",
+        "Question": "Which factor is NOT directly affected by the growth conditions in remote epitaxy?",
+        "A": "The coated 2D material.",
+        "B": "The interaction of source species with the substrate.",
+        "C": "The color of the epitaxial layer.",
+        "D": "The surface reconstruction of the substrate.",
+        "Answer": "C",
+        "Source": "These growth conditions (growth pressure, temperature, source type, ambient etc.) greatly affect the coated 2D material, leading to micro and macroscopic damage which ultimately prevents successful remote epitaxy."
+    },
+    "Question_3": {
+        "Context": "Remote epitaxy can be used to grow various types of single-crystalline material systems.",
+        "Question": "Which of the following is NOT a material system demonstrated to be compatible with remote epitaxy?",
+        "A": "III-V materials.",
+        "B": "III-N materials.",
+        "C": "Polymeric materials.",
+        "D": "Complex-oxides.",
+        "Answer": "C",
+        "Source": "Remote epitaxy has been demonstrated for a diverse system of single-crystalline material systems such as compound semiconductors (III-V materials, III-N materials, wide band-gap materials) and complex-oxides."
+    },
+    "Question_4": {
+        "Context": "Graphene is a two-dimensional material that can be used in remote epitaxy.",
+        "Question": "What is the typical number of graphene layers used on the substrate in remote epitaxy?",
+        "A": "10 \u2013 20 layers.",
+        "B": "5 \u2013 9 layers.",
+        "C": "1 \u2013 3 layers.",
+        "D": "More than 20 layers.",
+        "Answer": "C",
+        "Source": "In this technique, it is necessary to form a few layers of 2D material (typically, 1 \u2013 3 layers of graphene) on the substrate through the methods described in Sects. 3 and 4, and then epitaxial growth is performed on the 2D-coated single-crystalline substrate."
+    },
+    "Question_5": {
+        "Context": "The interaction between the 2D material and the substrate is crucial for the success of remote epitaxy.",
+        "Question": "What is a critical requirement for remote epitaxy of III-V materials?",
+        "A": "Highly conductive substrate.",
+        "B": "Sufficiently thin graphene and clean graphene-substrate interface.",
+        "C": "Use of a thick buffer layer.",
+        "D": "High pressure during growth.",
+        "Answer": "B",
+        "Source": "Remote epitaxy of III-V materials requires several requirements: sufficiently thin graphene (monolayer) and clean graphene-substrate interface."
+    },
+    "Question_6": {
+        "Context": "There are different methods to synthesize graphene, which is a two-dimensional material used in remote epitaxy.",
+        "Question": "Which method is NOT suitable for producing graphene for remote epitaxy?",
+        "A": "Chemical vapor deposition on metal substrates.",
+        "B": "Mechanical exfoliation from highly oriented pyrolytic graphite.",
+        "C": "Diffusion-assisted synthesis.",
+        "D": "Top-down approach via mechanical and chemical exfoliation.",
+        "Answer": "D",
+        "Source": "Top-down approach is not suitable for remote epitaxy due to small area and randomness of the graphene thickness which cannot be controlled at all."
+    },
+    "Question_7": {
+        "Context": "The synthesis of graphene can be achieved through various approaches.",
+        "Question": "What is a disadvantage of synthesizing graphene using the top-down approach?",
+        "A": "It produces graphene with high electrical conductivity.",
+        "B": "It allows for accurate thickness control.",
+        "C": "It results in a high yield of large-area graphene.",
+        "D": "It may result in low yield and difficulty in controlling the thickness.",
+        "Answer": "D",
+        "Source": "Although monolayer graphene mechanically exfoliated from highly oriented pyrolytic graphite (HOPG) exhibits superior mechanical strength and stable chemical/thermal properties due to high crystallinity, advanced approaches for obtaining large-area graphene have been attempted to overcome the low yield caused by the size of the exfoliation tape and the impossibility of accurate thickness control."
+    },
+    "Question_8": {
+        "Context": "Graphene can be synthesized on various substrates using the bottom-up approach.",
+        "Question": "Which metal is NOT commonly used as a substrate for graphene synthesis in the bottom-up approach?",
+        "A": "Copper.",
+        "B": "Nickel.",
+        "C": "Silicon.",
+        "D": "Palladium.",
+        "Answer": "C",
+        "Source": "Among the various substrates where sp2 carbon bonding is created, metal substrates such as copper, nickel, Pd and Ir are representative platforms from which graphene can be formed easily and quickly over the entire area through surface-catalyzed chemical vapor deposition (CVD) process."
+    },
+    "Question_9": {
+        "Context": "The synthesis of graphene can be achieved through various approaches, each with its own set of challenges.",
+        "Question": "What is a challenge associated with growing graphene on metal substrates?",
+        "A": "The metal substrates enhance the electrical conductivity of graphene.",
+        "B": "The metal substrates prevent the formation of any defects in graphene.",
+        "C": "Graphene grown on metal substrates may have defects such as grain boundaries and wrinkles.",
+        "D": "Metal substrates make it easier to control the thickness of graphene.",
+        "Answer": "C",
+        "Source": "However, graphene grown on metal substrates not only has various defects including grain boundaries and wrinkles, but also has the challenge of precisely controlling the thickness of graphene over the entire substrate area."
+    },
+    "Question_10": {
+        "Context": "In remote epitaxy, the interaction between the adatom and the substrate through the 2D material is a key factor.",
+        "Question": "What affects the remote interaction between the adatom and the substrate in remote epitaxy?",
+        "A": "The color of the 2D material.",
+        "B": "The polarity of the underlying substrates and the 2D material.",
+        "C": "The flavor of the 2D material.",
+        "D": "The brand of the substrate used.",
+        "Answer": "B",
+        "Source": "It was revealed that the polarity of the underlying substrates and the 2D material affects remote interaction through the 2D material, making relatively more strict requirements for remote epitaxy of III-V materials are necessary."
+    }
+}

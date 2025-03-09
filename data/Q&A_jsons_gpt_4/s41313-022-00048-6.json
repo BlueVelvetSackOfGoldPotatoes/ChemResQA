@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In organic chemistry, the simulation of materials and their dynamic behaviors can be performed using computational methods.",
+        "Question": "What type of computational technology is used for dynamic simulations of materials?",
+        "A": "Quantum computers",
+        "B": "Classical computers",
+        "C": "Analog computers",
+        "D": "Abacus",
+        "Answer": "A",
+        "Source": "Constant-depth circuits for dynamic simulations of materials on quantum computers"
+    },
+    "Question_2": {
+        "Context": "Quantum computing offers a different computational paradigm compared to classical computing, which can be advantageous for certain types of simulations.",
+        "Question": "What is a key feature of quantum computing that makes it suitable for simulating materials?",
+        "A": "High storage capacity",
+        "B": "Constant-depth circuits",
+        "C": "Faster arithmetic operations",
+        "D": "Better graphical user interfaces",
+        "Answer": "B",
+        "Source": "Constant-depth circuits for dynamic simulations of materials on quantum computers"
+    },
+    "Question_3": {
+        "Context": "In the field of computational chemistry, the depth of a circuit refers to the number of logical operations that can be performed in sequence.",
+        "Question": "What does the term 'constant-depth' imply in the context of quantum circuits?",
+        "A": "The number of operations increases with the size of the input",
+        "B": "The number of operations decreases with the size of the input",
+        "C": "The number of operations is unaffected by the size of the input",
+        "D": "The number of operations is determined by the user",
+        "Answer": "C",
+        "Source": "Constant-depth circuits for dynamic simulations of materials on quantum computers"
+    },
+    "Question_4": {
+        "Context": "Licensing under Creative Commons allows for certain freedoms regarding the use and distribution of copyrighted material.",
+        "Question": "Which license allows for the use, sharing, adaptation, distribution, and reproduction in any medium or format of an article?",
+        "A": "Creative Commons Attribution-ShareAlike",
+        "B": "Creative Commons Attribution-NoDerivatives",
+        "C": "Creative Commons Attribution-NonCommercial",
+        "D": "Creative Commons Attribution 4.0 International",
+        "Answer": "D",
+        "Source": "This article is licensed under a Creative Commons Attribution 4.0 International License"
+    },
+    "Question_5": {
+        "Context": "The reproducibility of scientific work is often facilitated by providing access to the original sources and materials used in research.",
+        "Question": "What is required to be provided when using material under the Creative Commons Attribution 4.0 International License?",
+        "A": "Appropriate credit to the original author(s) and the source",
+        "B": "A written consent from the original author(s)",
+        "C": "A payment to the original author(s)",
+        "D": "A non-disclosure agreement",
+        "Answer": "A",
+        "Source": "As long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence"
+    },
+    "Question_6": {
+        "Context": "When using third-party material in scientific articles, it is important to adhere to the licensing terms provided by the original creators.",
+        "Question": "What must be done if third-party material is not included in the article's Creative Commons licence?",
+        "A": "Credit the third party in the acknowledgments",
+        "B": "Obtain permission directly from the copyright holder",
+        "C": "Include a disclaimer in the article",
+        "D": "Pay a licensing fee to the publisher",
+        "Answer": "B",
+        "Source": "If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder."
+    },
+    "Question_7": {
+        "Context": "In computational chemistry, the accuracy of simulations is crucial for predicting the properties and behaviors of materials.",
+        "Question": "What is an important aspect of simulations that can affect their accuracy?",
+        "A": "The color scheme used in the simulation",
+        "B": "The depth of the computational circuits",
+        "C": "The brand of the computer used",
+        "D": "The location where the simulation is run",
+        "Answer": "B",
+        "Source": "Constant-depth circuits for dynamic simulations of materials on quantum computers"
+    },
+    "Question_8": {
+        "Context": "Quantum computers utilize principles of quantum mechanics to perform calculations, which can be fundamentally different from classical computing.",
+        "Question": "Which principle of quantum mechanics is commonly exploited by quantum computers to perform calculations?",
+        "A": "Gravity",
+        "B": "Superposition",
+        "C": "Relativity",
+        "D": "Thermodynamics",
+        "Answer": "B",
+        "Source": "Constant-depth circuits for dynamic simulations of materials on quantum computers"
+    },
+    "Question_9": {
+        "Context": "The Creative Commons Attribution 4.0 International License provides a way for authors to allow others to use their work.",
+        "Question": "What must be indicated if changes were made to the work when using it under the Creative Commons Attribution 4.0 International License?",
+        "A": "The changes must be highlighted in yellow",
+        "B": "The changes must be approved by a committee",
+        "C": "The changes must be reversible",
+        "D": "The changes must be indicated",
+        "Answer": "D",
+        "Source": "As long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made."
+    },
+    "Question_10": {
+        "Context": "The depth of quantum circuits is a measure that can impact the efficiency and capability of quantum computations.",
+        "Question": "Why might constant-depth quantum circuits be preferred for certain computational tasks?",
+        "A": "They require less power than variable-depth circuits",
+        "B": "They can execute more types of algorithms",
+        "C": "They offer predictable computational resources",
+        "D": "They are easier to program by novice users",
+        "Answer": "C",
+        "Source": "Constant-depth circuits for dynamic simulations of materials on quantum computers"
+    }
+}

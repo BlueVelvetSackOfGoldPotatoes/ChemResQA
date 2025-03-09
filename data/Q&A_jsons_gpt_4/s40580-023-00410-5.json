@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Nanobiosensors are devices that detect biological events at the nanoscale with the help of nanomaterials. They are designed to enhance the sensitivity of detection methods and can be used to detect low concentrations of analytes.",
+        "Question": "What is the primary advantage of using nanobiosensors for antigen detection over traditional antigen tests?",
+        "A": "Higher cost",
+        "B": "Enhanced sensitivity",
+        "C": "Longer processing time",
+        "D": "More complex procedures",
+        "Answer": "B",
+        "Source": "Nanobiosensors surpass the potential of antigen tests because of their enhanced sensitivity, thus enabling us to see antigens as stable and easy-to-access targets."
+    },
+    "Question_2": {
+        "Context": "During the COVID-19 pandemic, the rapid and efficient spread of SARS-CoV-2 posed a significant challenge to public health systems worldwide.",
+        "Question": "What characteristic of SARS-CoV-2 led to a rapid global spread and overwhelmed health systems?",
+        "A": "Low transmissibility",
+        "B": "Slow mutation rate",
+        "C": "High efficiency of person-to-person transmission",
+        "D": "Ineffectiveness in causing symptoms",
+        "Answer": "C",
+        "Source": "Because this new virus transmitted from person to person with high efficiency, it rapidly spread to all countries on earth and instantaneously paralyzed the public health system in most countries."
+    },
+    "Question_3": {
+        "Context": "The SARS-CoV-2 virus, responsible for COVID-19, is classified as a betacoronavirus and shares genetic similarities with other coronaviruses.",
+        "Question": "Approximately how much genetic similarity does SARS-CoV-2 share with the bat coronavirus RaTG13?",
+        "A": "About 50%",
+        "B": "About 79%",
+        "C": "About 96%",
+        "D": "Less than 30%",
+        "Answer": "C",
+        "Source": "Also, more than 96% of the SARS-Cov-2 genome matched with the bat coronavirus RaTG13, implying the zoonotic origin of these three viruses."
+    },
+    "Question_4": {
+        "Context": "The SARS-CoV-2 virus can be transmitted by individuals who do not exhibit symptoms, which poses a challenge for containment efforts.",
+        "Question": "What term describes individuals who can transmit the virus without showing symptoms?",
+        "A": "Symptomatic carriers",
+        "B": "Silent spreaders",
+        "C": "Asymptomatic hosts",
+        "D": "Invisible transmitters",
+        "Answer": "B",
+        "Source": "Since infected individuals present with a wide range of symptoms, some act as silent spreaders, where these individuals are unaware of an infection."
+    },
+    "Question_5": {
+        "Context": "Reverse transcription-polymerase chain reaction (RT-PCR) is a molecular diagnostic method used to detect the presence of viral RNA.",
+        "Question": "What is a significant drawback of the RT-PCR method for SARS-CoV-2 detection?",
+        "A": "High sensitivity to low viral loads",
+        "B": "Rapid turnaround time",
+        "C": "Potential for false negatives",
+        "D": "Ease of accessibility",
+        "Answer": "C",
+        "Source": "More importantly, RT-PCR is not free from false negatives due to the variance of the viral RNAs and the difficulties in nasopharyngeal swabbing."
+    },
+    "Question_6": {
+        "Context": "Antibody tests for SARS-CoV-2 are used to detect the presence of specific immunoglobulins that indicate a past or current infection.",
+        "Question": "Which type of immunoglobulin is typically the first responder and increases during the acute infection phase of SARS-CoV-2?",
+        "A": "Immunoglobulin A (IgA)",
+        "B": "Immunoglobulin E (IgE)",
+        "C": "Immunoglobulin M (IgM)",
+        "D": "Immunoglobulin G (IgG)",
+        "Answer": "C",
+        "Source": "Usually, as a primary immune response, neutralizing antibodies are found within 14 days after infection. IgM can be detected after 3\u20135 days of the onset, and its level increases until it peaks around two weeks after the infection and then decreases to a near-background level."
+    },
+    "Question_7": {
+        "Context": "Nanobiosensors for detecting SARS-CoV-2 antigens can target different components of the virus.",
+        "Question": "Which structural protein of SARS-CoV-2 is considered a rational target for nanobiosensors due to its role in entering host cells?",
+        "A": "Envelope (E) protein",
+        "B": "Membrane (M) protein",
+        "C": "Spike (S) protein",
+        "D": "Nucleocapsid (N) protein",
+        "Answer": "C",
+        "Source": "S protein has especially been considered a rational target for nanobiosensors because of its form and function. Because S protein plays a role in entering the host cells, many researchers have pointed out that S protein is a critical target closely related to infectivity and pathogenesis."
+    },
+    "Question_8": {
+        "Context": "In the context of SARS-CoV-2 detection, the nucleocapsid (N) protein has a specific role in the virus's lifecycle.",
+        "Question": "What is the role of the nucleocapsid (N) protein in the context of SARS-CoV-2?",
+        "A": "It facilitates the virus's entry into host cells.",
+        "B": "It is involved in the synthesis and translation of viral RNA.",
+        "C": "It forms the viral envelope.",
+        "D": "It binds to host cell receptors.",
+        "Answer": "B",
+        "Source": "In addition, detecting N protein is considered equivalent to detecting SARS-CoV-2 itself because N protein participates in the synthesis and translation of SARS-CoV-2 RNA."
+    },
+    "Question_9": {
+        "Context": "Rapid antigen tests (RATs) are used for the detection of SARS-CoV-2 antigens, but they have limitations in terms of sensitivity.",
+        "Question": "What is a major limitation of commercial rapid antigen tests (RATs) for SARS-CoV-2 detection?",
+        "A": "High cost",
+        "B": "Long processing time",
+        "C": "Low sensitivity",
+        "D": "Complex sample preparation",
+        "Answer": "C",
+        "Source": "However, commercial RAT kits have failed to be a counterpart of RT-PCR testing due to their low sensitivity."
+    },
+    "Question_10": {
+        "Context": "Nanobiosensors utilize various nanomaterials to enhance the detection of biological events.",
+        "Question": "Which nanomaterial is known for its high surface-area-to-volume ratio and conductivity, making it a preferred choice for nanobiosensors?",
+        "A": "Metallic nanoparticles",
+        "B": "Graphene family",
+        "C": "Silica nanoparticles",
+        "D": "Quantum dots",
+        "Answer": "B",
+        "Source": "In the meantime, the graphene family (graphene, graphene oxide, laser-scribed graphene, laser-engraved graphene) has also been preferred due to their extraordinary surface-to-volume ratio and conductivity."
+    }
+}

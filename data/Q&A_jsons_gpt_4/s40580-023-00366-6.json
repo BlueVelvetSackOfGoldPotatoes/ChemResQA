@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of materials science, electrospinning is a technique used to create fibers with diameters in the nanometer to micrometer range by applying a high voltage to a polymer solution or melt.",
+        "Question": "What is the technique used to fabricate fibers with diameters in the nanometer to micrometer range by applying a high voltage to a polymer solution?",
+        "A": "Centrifugation",
+        "B": "Electrospinning",
+        "C": "Sedimentation",
+        "D": "Filtration",
+        "Answer": "B",
+        "Source": "PCL-perovskite fiber paper was fabricated using a conventional electrospinning process."
+    },
+    "Question_2": {
+        "Context": "Polycaprolactone (PCL) is a biodegradable polyester with a low melting point, often used in medical applications such as drug delivery systems and scaffolding for tissue engineering.",
+        "Question": "Which biodegradable polyester, often used in medical applications, has a low melting point?",
+        "A": "Polyethylene terephthalate (PET)",
+        "B": "Polyvinyl chloride (PVC)",
+        "C": "Polycaprolactone (PCL)",
+        "D": "Polypropylene (PP)",
+        "Answer": "C",
+        "Source": "Biodegradable and biocompatible polycaprolactone (PCL) was used as a polymeric fiber material."
+    },
+    "Question_3": {
+        "Context": "Perovskite nanocrystals are a class of materials that have garnered interest for their optical and electrical properties, which make them suitable for applications like photodetectors and light-emitting diodes (LEDs).",
+        "Question": "For which applications are perovskite nanocrystals considered suitable due to their optical and electrical properties?",
+        "A": "Insulation and refrigeration",
+        "B": "Photodetectors and light-emitting diodes (LEDs)",
+        "C": "Fuel cells and batteries",
+        "D": "Packaging and containers",
+        "Answer": "B",
+        "Source": "Recently, all-inorganic perovskite CsPbX3 (X = Cl, Br, and I) nanocrystals have emerged as interesting materials for various application owing to their excellent optical and electrical properties, such as bio-imaging, drug delivery, photodetectors, laser devices, light-emitting diodes (LEDs), and photovoltaics."
+    },
+    "Question_4": {
+        "Context": "Thermogravimetric analysis (TGA) is a method of thermal analysis where the mass of a material is measured over time as the temperature changes. This technique is used to assess the thermal stability of materials.",
+        "Question": "What is the purpose of thermogravimetric analysis (TGA) in the assessment of materials?",
+        "A": "To determine the electrical conductivity",
+        "B": "To measure the optical properties",
+        "C": "To assess the thermal stability",
+        "D": "To evaluate the magnetic properties",
+        "Answer": "C",
+        "Source": "In addition, thermogravimetric analysis (TGA) and contact angle measurements have demonstrated that the PCL-perovskite fibers exhibit excellent thermal and water stability."
+    },
+    "Question_5": {
+        "Context": "Photoluminescence is a process in which a material absorbs photons and then re-emits them, which can be observed as visible light. This property is often used to create luminescent materials for various applications.",
+        "Question": "What is the process called where a material absorbs photons and then re-emits them, often observed as visible light?",
+        "A": "Electroluminescence",
+        "B": "Chemiluminescence",
+        "C": "Bioluminescence",
+        "D": "Photoluminescence",
+        "Answer": "D",
+        "Source": "Exceptional optical properties like bright photoluminescence, higher PLQY (photoluminescence quantum yield), high emission color purity, narrow emission spectra, tunable emission in the full visible-light region, and comparatively high photostability compared to organic dyes, as well as their low-cost synthesis, make all-inorganic perovskite CsPbX3 promising candidates for optoelectronics and bio-medical applications."
+    },
+    "Question_6": {
+        "Context": "In the context of luminescent materials, the photoluminescence quantum yield (PLQY) is a measure of the efficiency of luminescence, indicating the fraction of absorbed photons that are re-emitted as light.",
+        "Question": "What does the photoluminescence quantum yield (PLQY) measure in luminescent materials?",
+        "A": "The fraction of absorbed photons that are re-emitted as light",
+        "B": "The intensity of the absorbed light",
+        "C": "The duration of the luminescence",
+        "D": "The wavelength of the emitted light",
+        "Answer": "A",
+        "Source": "Exceptional optical properties like bright photoluminescence, higher PLQY (photoluminescence quantum yield), high emission color purity, narrow emission spectra, tunable emission in the full visible-light region, and comparatively high photostability compared to organic dyes, as well as their low-cost synthesis, make all-inorganic perovskite CsPbX3 promising candidates for optoelectronics and bio-medical applications."
+    },
+    "Question_7": {
+        "Context": "Silica coating is a technique used to encapsulate materials to improve their stability, especially against environmental factors such as moisture and air.",
+        "Question": "What is the purpose of silica coating in the context of material stability?",
+        "A": "To enhance electrical conductivity",
+        "B": "To improve thermal and moisture stability",
+        "C": "To increase magnetic responsiveness",
+        "D": "To boost optical clarity",
+        "Answer": "B",
+        "Source": "Therefore, various approaches have been employed to improve the stability of CsPbX3 nanocrystals, and the encapsulation of CsPbX3 nanocrystals with water-resistant environmentally inert or stable materials, such as silica, can be an effective approach to improve their stability."
+    },
+    "Question_8": {
+        "Context": "Contact angle measurements are used to determine the wettability of a surface, which is indicative of its hydrophobic or hydrophilic nature.",
+        "Question": "What do contact angle measurements indicate about a surface?",
+        "A": "Electrical resistance",
+        "B": "Thermal conductivity",
+        "C": "Wettability",
+        "D": "Optical transparency",
+        "Answer": "C",
+        "Source": "In addition, thermogravimetric analysis (TGA) and contact angle measurements have demonstrated that the PCL-perovskite fibers exhibit excellent thermal and water stability."
+    },
+    "Question_9": {
+        "Context": "Anti-counterfeiting applications often utilize luminescent materials to create security features that are invisible under normal light but become visible under specific lighting conditions, such as UV light.",
+        "Question": "Why are luminescent materials used in anti-counterfeiting applications?",
+        "A": "To create security features visible under normal light",
+        "B": "To enhance the durability of the product",
+        "C": "To create security features that are invisible under normal light but visible under UV light",
+        "D": "To reduce the cost of production",
+        "Answer": "C",
+        "Source": "We have demonstrated that fluorescent PCL-perovskite fiber paper is a promising candidate for anti-counterfeiting applications because various patterns can be printed on the paper, which only become visible after exposure to UV light at 365 nm."
+    },
+    "Question_10": {
+        "Context": "Cell proliferation assays are used to evaluate the biocompatibility of materials by measuring the growth and viability of cells in the presence of these materials.",
+        "Question": "What is the purpose of cell proliferation assays in the evaluation of materials?",
+        "A": "To measure the electrical activity of cells",
+        "B": "To assess the biocompatibility by measuring cell growth and viability",
+        "C": "To determine the genetic stability of cells",
+        "D": "To evaluate the nutrient absorption by cells",
+        "Answer": "B",
+        "Source": "Cell proliferation tests revealed that the PCL-perovskite fibers are cytocompatibility. Consequently, they may be suitable for biocompatible anti-counterfeiting."
+    }
+}

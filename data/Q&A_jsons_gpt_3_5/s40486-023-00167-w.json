@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Soft robots with incredibly sophisticated multi-mechanical, electrical, or optical capabilities have demonstrated the ability to modify their shape intelligently in response to external stimuli. Recent advances in stimuli-responsive soft robot technology heavily use polymer-based multifunctional materials.",
+        "Question": "What type of materials have recent advances in stimuli-responsive soft robot technology heavily used?",
+        "A": "Metals",
+        "B": "Polymers",
+        "C": "Inorganic materials",
+        "D": "Nonmetallic materials",
+        "Answer": "B",
+        "Source": "Soft robots can be made from various materials, including metals, polymers, and inorganic and nonmetallic materials."
+    },
+    "Question_2": {
+        "Context": "Soft robots must integrate the ability to sense, actively move in harsh conditions, and manage their behavior to compete with rigid robots. These capabilities can be achieved by ingeniously combining biological and soft materials to create structures with global compliance and deformability.",
+        "Question": "Why must soft robots integrate the ability to sense and actively move in harsh conditions?",
+        "A": "To compete with rigid robots",
+        "B": "To mimic biological organisms",
+        "C": "To withstand environmental stimuli",
+        "D": "To increase their adaptability",
+        "Answer": "A",
+        "Source": "Soft robots must integrate the ability to sense, actively move in harsh conditions, and manage their behavior to compete with rigid robots."
+    },
+    "Question_3": {
+        "Context": "Many stimuli-responsive polymers are non-toxic to biological environments, making soft polymeric robots appropriate for various biomedical uses, including flexible electronics and tissue engineering.",
+        "Question": "Why are many stimuli-responsive polymers suitable for various biomedical uses?",
+        "A": "They are toxic to biological environments",
+        "B": "They are non-toxic to biological environments",
+        "C": "They are rigid and inflexible",
+        "D": "They are difficult to manipulate",
+        "Answer": "B",
+        "Source": "Many stimuli-responsive polymers are non-toxic to biological environments, making soft polymeric robots appropriate for various biomedical uses."
+    },
+    "Question_4": {
+        "Context": "Recent years have seen a lot of research on using light to power robots. An optomechanical liquid crystalline elastomer (LCE) monolith-based soft caterpillar robot powered by light was proposed by Rog\u00f3\u017c et al.",
+        "Question": "What type of robot was proposed by Rog\u00f3\u017c et al. that is powered by light?",
+        "A": "Snake-like robot",
+        "B": "Inchworm robot",
+        "C": "Caterpillar robot",
+        "D": "Fruit fly robot",
+        "Answer": "C",
+        "Source": "An optomechanical liquid crystalline elastomer (LCE) monolith-based soft caterpillar robot powered by light was proposed by Rog\u00f3\u017c et al."
+    },
+    "Question_5": {
+        "Context": "The inchworm robot based on the LCE-CNT composite could crawl when exposed to periodic light irradiation by simulating the movement of a caterpillar.",
+        "Question": "How does the inchworm robot move?",
+        "A": "By jumping",
+        "B": "By rolling",
+        "C": "By crawling",
+        "D": "By flying",
+        "Answer": "C",
+        "Source": "The inchworm robot based on the LCE-CNT composite could crawl when exposed to periodic light irradiation by simulating the movement of a caterpillar."
+    },
+    "Question_6": {
+        "Context": "Geca-Robot was autonomously driven by light with wavelengths ranging from ultraviolet to infrared, and it moves in a caterpillar-like motion.",
+        "Question": "What drives the movement of Geca-Robot?",
+        "A": "Electricity",
+        "B": "Magnetic field",
+        "C": "Light",
+        "D": "Temperature",
+        "Answer": "C",
+        "Source": "Geca-Robot was autonomously driven by light with wavelengths ranging from ultraviolet to infrared, and it moves in a caterpillar-like motion."
+    },
+    "Question_7": {
+        "Context": "The MagWorm's soft body consists of magnetic patches that work with an external moving drive-magnet system for actuation.",
+        "Question": "What is used for actuation in the MagWorm soft robot?",
+        "A": "Electricity",
+        "B": "Light",
+        "C": "Magnetic patches",
+        "D": "Temperature",
+        "Answer": "C",
+        "Source": "The MagWorm's soft body consists of magnetic patches that work with an external moving drive-magnet system for actuation."
+    },
+    "Question_8": {
+        "Context": "The soft robot had one active core and four detecting tentacles. It consisted of two parts: a bottom magneto-stimulated shrinkable hollow body and top magneto-electric sensors that resembled tentacles.",
+        "Question": "What part of the soft robot resembled tentacles and had magneto-electric sensors?",
+        "A": "Active core",
+        "B": "Detecting tentacles",
+        "C": "Bottom body",
+        "D": "Top body",
+        "Answer": "D",
+        "Source": "It consisted of two parts: a bottom magneto-stimulated shrinkable hollow body and top magneto-electric sensors that resembled tentacles."
+    },
+    "Question_9": {
+        "Context": "The soft robotics system resembling a batoid fish incorporates self-actuating heart muscles on a scaffold with a layer-by-layer organized framework of two hydrogel layers with tiny patterns constituting the substrate and a flexible gold microelectrode.",
+        "Question": "What is included in the biomimetic framework of the soft robotics system resembling a batoid fish?",
+        "A": "CNTs",
+        "B": "Polydimethylsiloxane",
+        "C": "Gold microelectrodes",
+        "D": "Graphene",
+        "Answer": "C",
+        "Source": "Additionally, flexible Au microelectrodes were included in the biomimetic framework, improving both the mechanical integrity and electrical conductivity of the device."
+    },
+    "Question_10": {
+        "Context": "Two triboelectric adhesion feet were propelled and precisely regulated by the triboelectric effect, achieving the highest crawling speed of 14.9 mm s\u22121 on the top of the acrylic polymer.",
+        "Question": "What propelled and regulated the two triboelectric adhesion feet in the TESR system?",
+        "A": "Light",
+        "B": "Electricity",
+        "C": "Magnetic field",
+        "D": "Triboelectric effect",
+        "Answer": "D",
+        "Source": "Two triboelectric adhesion feet were propelled and precisely regulated by the triboelectric effect, achieving the highest crawling speed of 14.9 mm s\u22121 on the top of the acrylic polymer."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study discusses the fabrication of porous nanocomposites for adsorption of environmental contaminants. ",
+        "Question": "What is the main advantage of using lignosulfonate (LS) in the fabrication of the porous nanocomposites?",
+        "A": "Enhanced thermal stability",
+        "B": "Increased porosity",
+        "C": "Additional active sites for adsorption",
+        "D": "Improved structural integrity",
+        "Answer": "C",
+        "Source": "The dual role of LS enhanced the equilibrium adsorption capacity of the composites, which increased from 50 mg/g to 66 mg/g for the non-functionalized and LS-functionalized nGO1-Gel1-LS0.1 composites, respectively."
+    },
+    "Question_2": {
+        "Context": "The study focuses on the adsorption performance of the composites towards heavy metal ions.",
+        "Question": "What was the equilibrium adsorption capacity of the LS-functionalized nGO1-Gel1-LS0.1 composite for Cu(II) ions?",
+        "A": "50 mg/g",
+        "B": "66 mg/g",
+        "C": "37 mg/g",
+        "D": "69 mg/g",
+        "Answer": "D",
+        "Source": "The LS-functionalized composites demonstrated good reusability through a mild regeneration step, with 79% retention of the adsorption capacity after five adsorption-desorption cycles."
+    },
+    "Question_3": {
+        "Context": "The study explores the adsorption behavior of the composites towards cationic dyes.",
+        "Question": "What was the adsorption capacity of the LS-functionalized composite for methylene blue?",
+        "A": "38 mg/g",
+        "B": "50 mg/g",
+        "C": "69 mg/g",
+        "D": "66 mg/g",
+        "Answer": "A",
+        "Source": "Apart from heavy metal ions, the potential for cationic dye adsorption was also demonstrated as the LS-functionalized composite exhibited an adsorption capacity of 38 mg/g for methylene blue."
+    },
+    "Question_4": {
+        "Context": "The study discusses the recyclability of the composite adsorbent.",
+        "Question": "After five cycles of Cu(II) adsorption-desorption, what percentage of the adsorption capacity was retained by the composite?",
+        "A": "100%",
+        "B": "79%",
+        "C": "50%",
+        "D": "25%",
+        "Answer": "B",
+        "Source": "The sample was found to retain 79% of its adsorption capacity after the fifth cycle."
+    },
+    "Question_5": {
+        "Context": "The study highlights the fabrication process of the porous nanocomposites.",
+        "Question": "What method was employed to construct the three-dimensional (3D) free-standing porous composites?",
+        "A": "Chemical crosslinking",
+        "B": "High-temperature pyrolysis",
+        "C": "Freeze-drying",
+        "D": "Microwave irradiation",
+        "Answer": "C",
+        "Source": "The abundant oxygen functionalities on nGO conferred the construction of porous composites possessing three-dimensional (3D) interconnected network structure through the self-assembly of hydrogels using only gelatin as a crosslinker, coupled by freeze-drying method."
+    },
+    "Question_6": {
+        "Context": "The study investigates the adsorption behavior of the composites towards heavy metal ions.",
+        "Question": "What was the equilibrium time required for the LS-functionalized nGO1-Gel1-LS0.1 composite to reach maximum adsorption capacity for Cu(II) ions?",
+        "A": "20 min",
+        "B": "30 min",
+        "C": "40 min",
+        "D": "50 min",
+        "Answer": "C",
+        "Source": "The LS-functionalized composites demonstrated good reusability through a mild regeneration step, with 79% retention of the adsorption capacity after five adsorption-desorption cycles."
+    },
+    "Question_7": {
+        "Context": "The study discusses the fabrication process of the porous nanocomposites.",
+        "Question": "What was used as a crosslinker in the self-assembly of the hydrogels to construct the porous composites?",
+        "A": "Lignosulfonate",
+        "B": "Activated carbon",
+        "C": "Sodium alginate",
+        "D": "Gelatin",
+        "Answer": "D",
+        "Source": "The abundant oxygen functionalities on nGO conferred the construction of porous composites possessing three-dimensional (3D) interconnected network structure through the self-assembly of hydrogels using only gelatin as a crosslinker, coupled by freeze-drying method."
+    },
+    "Question_8": {
+        "Context": "The study discusses the adsorption performance of the composites towards heavy metal ions.",
+        "Question": "What was the main mechanism that governed the adsorption of positively charged Cu(II) ions by the LS-functionalized composites?",
+        "A": "Hydrogen bonding",
+        "B": "\u03c0-\u03c0 stacking interactions",
+        "C": "Electrostatic interactions",
+        "D": "Covalent bonding",
+        "Answer": "C",
+        "Source": "Electrostatic interactions were assumed to be the mechanism that governed the adsorption of positively charged Cu(II) ions by nGO and LS with negatively charged oxygen-containing functional groups and sulfonate groups."
+    },
+    "Question_9": {
+        "Context": "The study explores the adsorption behavior of the composites towards cationic dyes.",
+        "Question": "Besides electrostatic forces, what other interactions were reported to govern the adsorption of methylene blue by graphene-based carbon materials?",
+        "A": "Van der Waals forces",
+        "B": "Ionic bonding",
+        "C": "\u03c0-\u03c0 stacking interactions",
+        "D": "Covalent bonding",
+        "Answer": "C",
+        "Source": "Besides electrostatic forces, the adsorption of MB by graphene-based carbon materials has been reported to also be governed by \u03c0-\u03c0 stacking interactions and hydrogen bonding."
+    },
+    "Question_10": {
+        "Context": "The study discusses the fabrication process of the porous nanocomposites.",
+        "Question": "What was the method employed to derive nanographene oxide (nGO) from lignosulfonate-derived carbon spheres (CS)?",
+        "A": "High-temperature pyrolysis",
+        "B": "Acid-catalyzed microwave-assisted carbonization",
+        "C": "Hydrothermal carbonization",
+        "D": "Oxidation at room temperature",
+        "Answer": "B",
+        "Source": "nGO was synthesized by oxidation of lignosulfonate-derived carbon spheres (CS), that were obtained through an acid-catalyzed microwave-assisted carbonization process adapted from previous work."
+    }
+}

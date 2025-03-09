@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses a method called DiRCA for miRNA detection. It mentions that the method has a low limit of detection and high accuracy.",
+        "Question": "What is the main advantage of DiRCA for miRNA detection?",
+        "A": "Low cost",
+        "B": "High speed",
+        "C": "Low limit of detection",
+        "D": "High throughput",
+        "Answer": "C",
+        "Source": "DiRCA exhibited a low limit of detection of 0.43 fM, showing a promising prospect in the early-diagnosis of disease."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the use of DSN enzyme in the DiRCA method for miRNA detection.",
+        "Question": "What is the role of the DSN enzyme in the DiRCA method?",
+        "A": "To degrade miRNA",
+        "B": "To amplify signals",
+        "C": "To distinguish single base mismatches",
+        "D": "To initiate RCA",
+        "Answer": "C",
+        "Source": "DSN enzyme is utilized to specifically digest the DNA sequence in RNA\u2013DNA duplex, releasing miRNA to form a signal cycle; its capability to distinguish one base pair mismatch in RNA\u2013DNA duplex endows DiRCA a high selectivity."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the construction of the detection scaffold for the DiRCA method.",
+        "Question": "What is the purpose of heating the mixture to 90\u00b0C and then cooling it to room temperature in the construction of the detection scaffold?",
+        "A": "To amplify signals",
+        "B": "To degrade miRNA",
+        "C": "To assemble the hairpin structure",
+        "D": "To distinguish single base mismatches",
+        "Answer": "C",
+        "Source": "The construction of detection scaffold commonly follows the procedures of heating the mixture to 90 \u00b0C and cooling it to room temperature."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the analytical performance of the DiRCA method for miRNA detection.",
+        "Question": "What is the limit of detection achieved by DiRCA?",
+        "A": "1 fM",
+        "B": "10 pM",
+        "C": "0.43 fM",
+        "D": "3 fM",
+        "Answer": "C",
+        "Source": "DiRCA achieved a significantly improved signal amplification efficiency, exhibiting a limit of detection as low as 0.43 fM."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the specificity of the DiRCA method for miRNA detection.",
+        "Question": "How many base pairs can DiRCA efficiently distinguish in mismatched sequences?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "Answer": "B",
+        "Source": "DiRCA efficiently distinguished 2 more mismatched base pairs in the sequences."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the practical application potential of the DiRCA method for miRNA detection.",
+        "Question": "What was the range of recovery rates achieved by DiRCA in the recovery assay?",
+        "A": "95-100%",
+        "B": "98.89-102.3%",
+        "C": "85-90%",
+        "D": "105-110%",
+        "Answer": "B",
+        "Source": "The recovery rates of DiRCA ranged from 98.89 to 102.3%, indicating a high detective stability and accuracy."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the experimental conditions optimization for the DiRCA method for miRNA detection.",
+        "Question": "What was the selected incubation time for the DiRCA method?",
+        "A": "30 min",
+        "B": "45 min",
+        "C": "60 min",
+        "D": "75 min",
+        "Answer": "C",
+        "Source": "The result indicated the ThT signals peaked at 60 min, and thus 60 min was selected for the following experiments."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the feasibility of the DiRCA method for miRNA detection.",
+        "Question": "What was observed in the ThT signals when all essential components existed in the sensing system?",
+        "A": "No significant differences",
+        "B": "Decreased signal",
+        "C": "Increased signal",
+        "D": "No signal",
+        "Answer": "C",
+        "Source": "Only when all essential components existed in the sensing system, a greatly enhanced fluorescence signal was observed."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the working mechanism of DiRCA for miRNA detection.",
+        "Question": "What forms a circular padlock in the detection scaffold under the assistance of T4 DNA ligase?",
+        "A": "miRNA-DNA duplex",
+        "B": "ssDNA product",
+        "C": "G-quadruplex",
+        "D": "Hairpin structure",
+        "Answer": "A",
+        "Source": "The d section in detection scaffold hybridizes with the d\u2032 section to form a circular padlock under the assistance of T4 DNA ligase."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the potential of DiRCA for detecting miRNA-21 in real samples.",
+        "Question": "What was the purpose of the recovery assay performed with DiRCA?",
+        "A": "To test the sensitivity",
+        "B": "To test the specificity",
+        "C": "To test the stability and accuracy",
+        "D": "To test the speed",
+        "Answer": "C",
+        "Source": "The recovery rates of DiRCA ranged from 98.89 to 102.3%, indicating a high detective stability and accuracy."
+    }
+}

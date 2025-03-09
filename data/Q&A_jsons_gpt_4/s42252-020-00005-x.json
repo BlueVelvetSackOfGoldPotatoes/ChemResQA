@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Polymers can be combined with graphene-related materials to enhance their thermal conductivity.",
+        "Question": "What is the potential benefit of composites made from polymers and graphene family materials in electronic devices?",
+        "A": "Increase electrical resistance",
+        "B": "Dissipate heat",
+        "C": "Decrease device lifespan",
+        "D": "Improve color display",
+        "Answer": "B",
+        "Source": "Composites of polymers and the graphene family of 2D materials continue to attract great interest due their potential to dissipate heat, thus extending the in-service life of electronic and other devices."
+    },
+    "Question_2": {
+        "Context": "Fused Deposition Modelling (FDM) is a 3D printing technique that can be used to create complex structures.",
+        "Question": "What is one of the enhanced properties that can be achieved in structures 3D printed using FDM with the addition of graphene?",
+        "A": "Magnetic susceptibility",
+        "B": "Optical transparency",
+        "C": "Thermal conductivity",
+        "D": "Electrical insulation",
+        "Answer": "C",
+        "Source": "Such composites can be 3D printed using Fused Deposition Modelling into complex bespoke structures having enhanced properties, including thermal conductivity in different directions."
+    },
+    "Question_3": {
+        "Context": "The thermal conductivity of a material is influenced by its internal structure.",
+        "Question": "How does the structure of a crystalline material affect the propagation of phonons for heat dissipation?",
+        "A": "Phonons scatter at heterogeneous points",
+        "B": "Phonons propagate as harmonic waves with no energy loss",
+        "C": "Phonons are completely absorbed",
+        "D": "Phonons are generated at a slower rate",
+        "Answer": "B",
+        "Source": "In a crystalline material (regular homogeneous structure) the phonons propagates as harmonic waves and the heat dissipates with no energy loss along the thermal path."
+    },
+    "Question_4": {
+        "Context": "In polymeric systems, the presence of amorphous regions can affect thermal conductivity.",
+        "Question": "What effect do amorphous regions in polymeric systems have on phonons?",
+        "A": "They enhance phonon propagation",
+        "B": "They have no effect on phonons",
+        "C": "They scatter phonons",
+        "D": "They convert phonons into photons",
+        "Answer": "C",
+        "Source": "In polymeric systems, the amorphous regions generates discontinuities (heterogeneous points) where the phonons scatter, thus, disrupting the thermal path."
+    },
+    "Question_5": {
+        "Context": "Graphene nanoplatelets (GNP) are used to improve the thermal properties of composites.",
+        "Question": "What is the role of graphene nanoplatelets in composites for thermal management?",
+        "A": "To absorb moisture",
+        "B": "To increase electrical conductivity",
+        "C": "To dissipate heat",
+        "D": "To enhance flexibility",
+        "Answer": "C",
+        "Source": "Composites of graphene nanoplatelets (GNP) and polymers continue to arouse great interest as possible route to dissipating heat, thus extending the in-service life of the final product."
+    },
+    "Question_6": {
+        "Context": "The Fused Deposition Modelling (FDM) process involves several parameters that can affect the final properties of the printed object.",
+        "Question": "Which of the following is NOT a parameter that influences the thermal conductivity of a composite product made by FDM?",
+        "A": "Orientation effects",
+        "B": "Void formation",
+        "C": "Color of the material",
+        "D": "Nozzle temperature",
+        "Answer": "C",
+        "Source": "We describe the many technical challenges that remain to successful printing of these composites by FDM, including orientation effects, void formation, printing and feeding rates, nozzle and printing bed temperatures and the role each has in determining the thermal conductivity of any composite product made by FDM."
+    },
+    "Question_7": {
+        "Context": "Different carbonaceous fillers can be used in Fused Deposition Modelling (FDM) to achieve specific properties in the final product.",
+        "Question": "Which of the following carbonaceous fillers is mentioned as being used in FDM besides graphene?",
+        "A": "Diamond dust",
+        "B": "Multi-walled carbon nanotubes",
+        "C": "Graphite oxide",
+        "D": "Fullerenes",
+        "Answer": "B",
+        "Source": "We also compare these initial reports with those on FDM of other and related carbonaceous fillers, such as multi-walled carbon nanotubes and carbon fibre."
+    },
+    "Question_8": {
+        "Context": "The manufacturing of flexible electronic devices is an area of interest due to the demand for portable and environmentally friendly technology.",
+        "Question": "What is a characteristic of flexible devices that is driving technology companies to manufacture them?",
+        "A": "They can be folded or rolled",
+        "B": "They consume high energy",
+        "C": "They are not recyclable",
+        "D": "They generate more waste",
+        "Answer": "A",
+        "Source": "The need for flexible devices driven by the exigence to fulfil requirements from an immense variety of customers is pushing technology companies towards the manufacture of soft substrates, which can be folded, rolled, are portable and environmentally friendly."
+    },
+    "Question_9": {
+        "Context": "The miniaturization of electronic devices can lead to challenges in heat management.",
+        "Question": "Why can heat generation become an issue in smaller electronic devices?",
+        "A": "Smaller devices use less energy",
+        "B": "Heat is dissipated more efficiently in small devices",
+        "C": "Excess heat can lead to thermal degradation",
+        "D": "Smaller devices have higher thermal conductivity",
+        "Answer": "C",
+        "Source": "However, when scaling down the dimensions of an object, for instance in an electronic device, the heat generated during operation can represent an issue if the material the device is made from is not able to efficiently dissipate heat. Indeed, the excess heat trapped inside the object might lead to thermal degradation."
+    },
+    "Question_10": {
+        "Context": "The use of graphene nanoplatelets (GNP) in composites is considered for applications in thermal management.",
+        "Question": "What is a primary good where graphene nanoplatelet composites could be beneficial?",
+        "A": "Insulation materials",
+        "B": "Smart phones",
+        "C": "Paints and coatings",
+        "D": "Food packaging",
+        "Answer": "B",
+        "Source": "Flexible nanotechnology is considered a new frontier for the production of what are by now considered \u201cprimary\u201d goods such as smart phones, tablets and computers, in particular towards the idea to \u201ctransform\u201d one object into another by simple folding, connecting them or rolling them."
+    }
+}

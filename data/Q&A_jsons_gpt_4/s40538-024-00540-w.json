@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Arbuscular mycorrhizal fungi (AMF) form mutualistic symbioses with the roots of many vascular plants, facilitating nutrient exchange between the host and the fungus.",
+        "Question": "What is the primary benefit of the symbiotic relationship between arbuscular mycorrhizal fungi (AMF) and vascular plants?",
+        "A": "AMF protect plants from herbivores.",
+        "B": "AMF facilitate nutrient exchange between the host plant and the fungus.",
+        "C": "AMF increase water absorption in plants.",
+        "D": "AMF produce sugars for the host plants.",
+        "Answer": "B",
+        "Source": "Among these beneficial root associations, arbuscular mycorrhizae (AM) represent mutualistic symbioses that develop between the roots of 72% of vascular plants and arbuscular mycorrhizal fungi (AMF). AMF receive lipids [21] and sugars [22] from their photosynthetic hosts in exchange for essential mineral nutrients."
+    },
+    "Question_2": {
+        "Context": "In the symbiotic relationship between plants and arbuscular mycorrhizal fungi, the fungi provide the plant with mineral nutrients in exchange for organic compounds.",
+        "Question": "What do arbuscular mycorrhizal fungi (AMF) primarily receive from their photosynthetic hosts?",
+        "A": "Mineral nutrients",
+        "B": "Water",
+        "C": "Lipids and sugars",
+        "D": "Oxygen",
+        "Answer": "C",
+        "Source": "AMF receive lipids [21] and sugars [22] from their photosynthetic hosts in exchange for essential mineral nutrients."
+    },
+    "Question_3": {
+        "Context": "The diversity of arbuscular mycorrhizal fungi (AMF) can be influenced by the nutrient levels in the soil, with some studies suggesting reduced diversity in nutrient-rich soils.",
+        "Question": "How are nutrient levels in the soil thought to affect the diversity of arbuscular mycorrhizal fungi (AMF)?",
+        "A": "Increased diversity in nutrient-rich soils",
+        "B": "Decreased diversity in nutrient-rich soils",
+        "C": "Nutrient levels have no effect on AMF diversity",
+        "D": "Nutrient levels only affect AMF diversity in acidic soils",
+        "Answer": "B",
+        "Source": "Arbuscular mycorrhizal fungi (AMF) typically exhibit reduced diversity in nutrient-rich soils."
+    },
+    "Question_4": {
+        "Context": "In the study of arbuscular mycorrhizal fungi (AMF), high-throughput sequencing is a method used to identify and assess the diversity of AMF communities.",
+        "Question": "What is the role of high-throughput sequencing in the study of arbuscular mycorrhizal fungi (AMF)?",
+        "A": "To measure the nutrient levels in the soil",
+        "B": "To observe the physical structure of AMF",
+        "C": "To identify and assess the diversity of AMF communities",
+        "D": "To determine the age of the AMF",
+        "Answer": "C",
+        "Source": "Moreover, ongoing research into AMF diversity, coupled with advances in high-throughput sequencing technology, has revealed that the species diversity and genetic variability in AMF in tropical ecosystems may have been substantially underestimated."
+    },
+    "Question_5": {
+        "Context": "The colonization of plant roots by arbuscular mycorrhizal fungi (AMF) can be quantified using various indices, which provide information about the extent and nature of the symbiotic relationship.",
+        "Question": "Which indices are used to quantify the colonization of plant roots by arbuscular mycorrhizal fungi (AMF)?",
+        "A": "Colonization frequency, density, and arbuscular abundance",
+        "B": "Soil pH, nitrogen, and carbon content",
+        "C": "Spore density, root length, and leaf surface area",
+        "D": "Photosynthetic rate, transpiration rate, and stomatal conductance",
+        "Answer": "A",
+        "Source": "In each root sample, 30 random root fragments, each approximately 1 cm in length, were selected and examined for the presence of arbuscules, vesicles, and hyphae. The mycorrhizal colonization rate was determined using Mycocale software, and the relevant grading standards described in Votta et al.\u2019s publication [33] were applied for assessment; colonization frequency (F), colonization density (M) and arbuscular abundance (A) were calculated."
+    },
+    "Question_6": {
+        "Context": "The diversity of arbuscular mycorrhizal fungi (AMF) within the rhizosphere can be assessed using various diversity indices, which provide insights into the richness and evenness of AMF communities.",
+        "Question": "Which diversity indices are used to assess the diversity of arbuscular mycorrhizal fungi (AMF) within the rhizosphere?",
+        "A": "Richness, Hill\u2013Shannon index, Hill\u2013Simpson index, and Pielou\u2019s evenness",
+        "B": "Soil pH, total nitrogen, total phosphorus, and total potassium",
+        "C": "Root length, leaf area, and stem diameter",
+        "D": "Water potential, osmotic potential, and turgor pressure",
+        "Answer": "A",
+        "Source": "To assess \u03b1 diversity, four indices, namely, richness (observed VTs), the Hill\u2013Shannon index, the Hill\u2013Simpson index, and Pielou\u2019s evenness, were calculated using QIIME2 software."
+    },
+    "Question_7": {
+        "Context": "Soil properties such as pH and nutrient content can be analyzed to understand the physicochemical environment of the rhizosphere, which may influence the colonization and diversity of arbuscular mycorrhizal fungi (AMF).",
+        "Question": "Which soil properties are typically analyzed to understand the physicochemical environment of the rhizosphere in relation to AMF colonization and diversity?",
+        "A": "Soil texture and structure",
+        "B": "Soil temperature and moisture",
+        "C": "Total nitrogen, total phosphorus, total potassium, total organic carbon, available phosphorus, available potassium, and soil pH",
+        "D": "Soil compaction and aeration",
+        "Answer": "C",
+        "Source": "Seven soil properties, including total nitrogen (TN, determined using the Kjeldahl nitrogen method), total phosphorus (TP, determined using the molybdenum antimony anti-colorimetric method), total potassium (TK, determined using the flame photometer atomic absorption method), total organic carbon (TOC, determined using the potassium dichromate heating method), available phosphorus (AP, determined using the sodium bicarbonate leaching-colorimetric method), available potassium (AK, determined using the flame photometer atomic absorption method), and soil pH (determined using the acidimetry method), were evaluated following the procedures outlined in Bao [34]."
+    },
+    "Question_8": {
+        "Context": "Arbuscular mycorrhizal fungi (AMF) spore density in the rhizosphere soil can be determined using specific techniques that involve the isolation and counting of spores.",
+        "Question": "How is the spore density of arbuscular mycorrhizal fungi (AMF) in the rhizosphere soil determined?",
+        "A": "By measuring the electrical conductivity of the soil",
+        "B": "By counting the number of AMF spores per unit of air-dried soil",
+        "C": "By assessing the rate of photosynthesis in the host plant",
+        "D": "By calculating the amount of nitrogen fixed by the AMF",
+        "Answer": "B",
+        "Source": "For the separation of AMF spores, 25 g of each air-dried soil sample was subjected to wet sieving and sucrose centrifugation. The isolated spores were then placed in a Petri dish filled with distilled water and observed under a stereomicroscope, after which the spore density was calculated and is expressed as the number of AMF spores per 100 g of air-dried soil."
+    },
+    "Question_9": {
+        "Context": "The application of chemical fertilizers in agricultural practices can influence the symbiotic relationships between plants and arbuscular mycorrhizal fungi (AMF), potentially affecting AMF colonization and diversity.",
+        "Question": "How does the application of chemical fertilizers typically affect the symbiotic relationship between plants and arbuscular mycorrhizal fungi (AMF)?",
+        "A": "It enhances AMF colonization and diversity.",
+        "B": "It has no effect on AMF colonization and diversity.",
+        "C": "It suppresses AMF colonization and diversity.",
+        "D": "It increases the production of AMF spores.",
+        "Answer": "C",
+        "Source": "In cases where there is an ample supply of available nutrients in the soil, the plant\u2019s reliance on the mycorrhizal absorption pathway is significantly diminished [52]. As a result, in the National Tropical Fruit Tree Field Genebank, the extensive application of chemical fertilizers conspicuously suppressed the symbiotic relationship between fruit trees and AMF."
+    },
+    "Question_10": {
+        "Context": "The evolutionary divergence time of host plants can have implications for the diversity and community structure of arbuscular mycorrhizal fungi (AMF) in the rhizosphere.",
+        "Question": "What is the relationship between the evolutionary divergence time of host plants and the diversity of arbuscular mycorrhizal fungi (AMF) in the rhizosphere?",
+        "A": "There is a positive correlation between host plant evolutionary divergence time and AMF diversity.",
+        "B": "There is a negative correlation between host plant evolutionary divergence time and AMF diversity.",
+        "C": "Evolutionary divergence time has no impact on AMF diversity.",
+        "D": "Evolutionary divergence time only affects AMF diversity in nutrient-poor soils.",
+        "Answer": "A",
+        "Source": "Importantly, different plant species exhibit varying nutrient requirements [29], and nutrient levels within the rhizosphere soil frequently influence both AMF colonization of host plants and the composition of microbial communities [10\u201312]. As such, it remains unknown whether host plants have a direct effect on AMF colonization metrics and community structure or this effect is mediated through the nutrient conditions of the rhizosphere soil."
+    }
+}

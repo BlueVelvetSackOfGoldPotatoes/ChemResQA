@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the temperature dependence of the carbon/polyamide 410 composite's heat capacity.",
+        "Question": "What major transitions were observed in the specific heat capacity of the C/PA410 composite with increasing temperature?",
+        "A": "At room temperature",
+        "B": "At 50 \u00b0C",
+        "C": "At the glass transition (Tg) and melting (Tm) temperatures",
+        "D": "At 100 \u00b0C",
+        "Answer": "C",
+        "Source": "The results demonstrated that the specific heat capacity of the C/PA410 composite increases with temperature, with major transitions observed at the glass transition (Tg) and melting (Tm) temperatures."
+    },
+    "Question_2": {
+        "Context": "The study focused on the coefficient of thermal expansion (CTE) of the C/PA410 composite.",
+        "Question": "How do the CTE values differ between the fiber direction and the transverse direction of C/PA410 specimens?",
+        "A": "They are equal",
+        "B": "Fiber direction CTE is higher",
+        "C": "Transverse direction CTE is higher",
+        "D": "They are one order of magnitude smaller in the fiber direction",
+        "Answer": "D",
+        "Source": "Due to the presence of fibers, the CTE values in the fiber direction of C/PA410 specimens were one order of magnitude smaller than in the transverse direction."
+    },
+    "Question_3": {
+        "Context": "The study included measurements of the density of the C/PA410 composite at different temperatures.",
+        "Question": "How does the density of the C/PA410 composite change with increasing temperature?",
+        "A": "Increases",
+        "B": "Remains constant",
+        "C": "Decreases",
+        "D": "Fluctuates",
+        "Answer": "C",
+        "Source": "The density measurements reveal that as temperature rises, volume increases, causing density to decrease."
+    },
+    "Question_4": {
+        "Context": "The study utilized the laser flash technique to measure the heat diffusivity of the C/PA410 composite.",
+        "Question": "How was the thermal conductivity of the C/PA410 composite calculated?",
+        "A": "Using a thermometer",
+        "B": "By measuring density changes",
+        "C": "Through the laser flash technique",
+        "D": "By analyzing IR images",
+        "Answer": "C",
+        "Source": "The heat diffusivity of the C/PA410 composite was measured using the laser flash technique, which was then used to calculate thermal conductivity."
+    },
+    "Question_5": {
+        "Context": "The study explored the behavior of thermoplastic composites at elevated temperatures.",
+        "Question": "What is becoming increasingly important in accurate thermal simulations?",
+        "A": "Material color",
+        "B": "Temperature-dependent thermophysical properties",
+        "C": "Humidity levels",
+        "D": "Mechanical properties",
+        "Answer": "B",
+        "Source": "Accurate thermal simulations require knowledge of temperature-dependent thermophysical properties. Consequently, it is becoming increasingly important to investigate the behavior of thermoplastic composites at elevated temperatures."
+    },
+    "Question_6": {
+        "Context": "The study discussed the effects of temperature on thermal diffusivity and thermal conductivity.",
+        "Question": "How does the thermal conductivity of C/PA410 composites change with temperature along the fiber direction?",
+        "A": "Decreases",
+        "B": "Remains constant",
+        "C": "Increases linearly",
+        "D": "Fluctuates",
+        "Answer": "C",
+        "Source": "The results show that the average thermal conductivity in the fiber direction increases linearly with temperature."
+    },
+    "Question_7": {
+        "Context": "The study examined the temperature dependence of the density of the C/PA410 composite.",
+        "Question": "What instrument was used to measure the density of the C/PA410 composite specimens?",
+        "A": "Thermomechanical analyzer",
+        "B": "Multipycnometer",
+        "C": "Laser flash technique",
+        "D": "IR camera",
+        "Answer": "B",
+        "Source": "In this study, the Multipycnometer from Quantachrome Instruments was used to measure the density of 6 g C/PA410 composite specimens."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the thermal diffusivity and thermal conductivity of the C/PA410 composite.",
+        "Question": "How was the thermal diffusivity of the C/PA410 specimen measured?",
+        "A": "Using a thermometer",
+        "B": "By analyzing IR images",
+        "C": "Through the laser flash technique",
+        "D": "By measuring density changes",
+        "Answer": "C",
+        "Source": "A diode laser source was used to produce a thermal contrast on the specimen's surface to assess the thermal diffusivity of the C/PA410 specimen."
+    },
+    "Question_9": {
+        "Context": "The study investigated the temperature dependence of the thermal conductivity of the C/PA410 composite.",
+        "Question": "At what temperature range does the thermal conductivity of C/PA410 composites become constant in the transverse direction?",
+        "A": "Up to 25 \u00b0C",
+        "B": "Between 25 \u00b0C and 50 \u00b0C",
+        "C": "Between 50 \u00b0C and 100 \u00b0C",
+        "D": "Above 100 \u00b0C",
+        "Answer": "C",
+        "Source": "In the transverse direction it increases linearly with temperature up to 50 \u00b0C and then becomes constant between 50 \u00b0C and 100 \u00b0C."
+    },
+    "Question_10": {
+        "Context": "The study focused on the thermal properties of the C/PA410 composite.",
+        "Question": "What is the main factor contributing to the increase in thermal conductivity along the fiber direction with temperature?",
+        "A": "Density changes",
+        "B": "Heat capacity variations",
+        "C": "Presence of carbon fibers",
+        "D": "Thermal diffusivity alterations",
+        "Answer": "C",
+        "Source": "Due to the presence of highly conductive continuous carbon fibers, the thermal conductivity along the fiber direction increases with temperature."
+    }
+}

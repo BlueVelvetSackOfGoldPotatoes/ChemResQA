@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study proposed a method for the preparation of SnO2 nanospheres and reduced graphene oxide incorporated SnO2 nanospheres for the detection of biomarkers in exhaled breath. The materials were investigated through various analytical techniques.",
+        "Question": "What is the proposed method for the preparation of SnO2 nanospheres?",
+        "A": "Sol-gel method",
+        "B": "One step hydrothermal method",
+        "C": "Chemical vapor deposition",
+        "D": "Physical vapor deposition",
+        "Answer": "B",
+        "Source": "In a typical synthesis procedure calculated amount of tin (II) chloride was dispersed in distilled (DI) water followed by the addition of urea under constant magnetic stirring. After 60 min of stirring, ethanol was added into the above solution to get the desired reaction mixture."
+    },
+    "Question_2": {
+        "Context": "The study focused on the detection of two important biomarkers, decane, and heptane, from the exhaled breath of lung cancer patients.",
+        "Question": "Which of the following biomarkers were detected in the exhaled breath of lung cancer patients?",
+        "A": "Methane",
+        "B": "Acetone",
+        "C": "Ethanol",
+        "D": "Propane",
+        "Answer": "B",
+        "Source": "The proposed sensors showed maximum sensing response toward heptane and decane compared to other interfering gases such as hydrogen, carbon monoxide, acetone, ethanol, and methanol at 125 \u00b0C."
+    },
+    "Question_3": {
+        "Context": "The study investigated the sensing response of the proposed sensors towards different analyte gases.",
+        "Question": "At what temperature did the sensors show maximum sensing response towards heptane and decane?",
+        "A": "100 \u00b0C",
+        "B": "125 \u00b0C",
+        "C": "150 \u00b0C",
+        "D": "175 \u00b0C",
+        "Answer": "B",
+        "Source": "All the fabricated sensors were showed maximum sensing response towards decane and heptane at 125 \u00b0C."
+    },
+    "Question_4": {
+        "Context": "The study discussed the activation energy of the sensing materials used in the sensors.",
+        "Question": "What was the activation energy of the sensors based on SnO2 nanospheres towards decane?",
+        "A": "0.32 eV",
+        "B": "0.34 eV",
+        "C": "0.22 eV",
+        "D": "0.19 eV",
+        "Answer": "B",
+        "Source": "The calculated activation energy of the sensors based on SnO2 nanospheres and Reduced graphene oxide incorporated SnO2 nanocomposite toward decane and heptane was found to be ~ 0.34 eV."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the repeatability and long-term stability of the proposed sensor.",
+        "Question": "What was the deviation of the sensing response of the Reduced graphene oxide incorporated SnO2 sensor during 5 repetitive cycles towards decane?",
+        "A": "Less than 1%",
+        "B": "Around 2%",
+        "C": "Between 2-3%",
+        "D": "More than 3%",
+        "Answer": "B",
+        "Source": "The sensing response of the Reduced graphene oxide incorporated SnO2 during 5 repetitive cycles was within \u00b1 2% indicating the excellent reproducibility of the proposed sensor."
+    },
+    "Question_6": {
+        "Context": "The study discussed the selectivity of the fabricated sensor towards different target gases.",
+        "Question": "Which gas showed the highest sensing response compared to other interfering gases?",
+        "A": "Hydrogen",
+        "B": "Carbon monoxide",
+        "C": "Acetone",
+        "D": "Heptane",
+        "Answer": "D",
+        "Source": "The sensor showed highest sensing response toward heptane, compared to other gases."
+    },
+    "Question_7": {
+        "Context": "The study highlighted the importance of the reduced graphene oxide in the sensing performance of the sensors.",
+        "Question": "What role does reduced graphene oxide play in the sensor response?",
+        "A": "Increases resistance in the presence of reducing gas",
+        "B": "Decreases resistance in the presence of reducing gas",
+        "C": "Has no effect on resistance",
+        "D": "Enhances sensing response by accepting electrons from adjacent SnO2 nanospheres",
+        "Answer": "D",
+        "Source": "When a sensor is exposed to an analyte gas, dissociated gas may preferentially and strongly adsorb at reduced graphene oxide\u2014SnO2 nanospheres interfaces because these interfaces have high active sites such as vacancies, line defects, and strong electronic interaction between graphene and metal oxides."
+    },
+    "Question_8": {
+        "Context": "The study investigated the long-term stability of the proposed sensor.",
+        "Question": "How much did the sensing response values fluctuate during a 21-day period of testing the sensor?",
+        "A": "Less than 1%",
+        "B": "Around 2%",
+        "C": "Between 2-3%",
+        "D": "More than 3%",
+        "Answer": "B",
+        "Source": "During the 21-day period, the sensing response values of the Reduced graphene oxide incorporated SnO2 based sensor were relatively consistent, with fluctuations of less than 2.1%."
+    },
+    "Question_9": {
+        "Context": "The study discussed the sensing response of the proposed sensor at various relative humidity levels.",
+        "Question": "How did the sensor's sensing response change as the relative humidity increased?",
+        "A": "Increased",
+        "B": "Decreased",
+        "C": "Remained constant",
+        "D": "Fluctuated randomly",
+        "Answer": "B",
+        "Source": "The sensor's sensing response reduced as RH increased for both decane and heptane, which might be because the adsorbed water molecules occupied the adsorption sites on the surface, inhibiting oxygen adsorption."
+    },
+    "Question_10": {
+        "Context": "The study compared the sensing performance of the proposed sensor with reported sensors.",
+        "Question": "How did the sensing performance of the Reduced graphene oxide incorporated SnO2 nanocomposite sensor compare to reported sensors for heptane and decane?",
+        "A": "Better",
+        "B": "Worse",
+        "C": "Comparable",
+        "D": "Not mentioned",
+        "Answer": "A",
+        "Source": "The proposed Reduced graphene oxide-SnO2 nanospheres sensor showed significantly better or comparable sensing performance compared to the reported heptane and decane sensors."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Graphene is known for its excellent electrical and thermal properties, which make it a potential material for enhancing the functionality of composites in various applications.",
+        "Question": "What properties of graphene make it suitable for applications such as electromagnetic interference shielding, lightning strike protection, and electrostatic dissipation?",
+        "A": "High specific area, tensile strength, and thermal and electrical properties",
+        "B": "Low specific area, tensile strength, and magnetic properties",
+        "C": "High specific area, compressive strength, and optical properties",
+        "D": "Low specific area, tensile strength, and thermal properties",
+        "Answer": "A",
+        "Source": "Graphene has high specific area, tensile strength and thermal and electrical properties making it an excellent material to add electromagnetic interference, lightning strike and electrostatic dissipation functions to CFRP."
+    },
+    "Question_2": {
+        "Context": "Liquid phase exfoliation (LPE) is a method used to produce graphene. It involves the exfoliation of graphite in a liquid medium, often aided by surfactants to prevent re-aggregation.",
+        "Question": "What is the role of surfactants in the liquid phase exfoliation of graphene?",
+        "A": "To increase the electrical conductivity of graphene",
+        "B": "To aid exfoliation and ensure dispersion in the liquid phase",
+        "C": "To enhance the magnetic properties of graphene",
+        "D": "To reduce the thermal stability of graphene",
+        "Answer": "B",
+        "Source": "Surfactants aid exfoliation of nanomaterials while also ensuring dispersion in the liquid phase and reducing agglomeration effects over time."
+    },
+    "Question_3": {
+        "Context": "Polyether ether ketone (PEEK) is a high-performance thermoplastic with desirable properties for aerospace applications, but its intrinsic conductivity properties are not suitable for certain applications without enhancement.",
+        "Question": "Why is PEEK not suitable for electrostatic discharge or thermal dissipation applications without an additional enhancing material?",
+        "A": "Because it has high melting temperature",
+        "B": "Because it has high strength",
+        "C": "Because it has chemically resistant properties",
+        "D": "Because it has intrinsic conductivity properties",
+        "Answer": "D",
+        "Source": "The intrinsic conductivity properties of PEEK make it unsuitable for electrostatic discharge, or thermal dissipation applications without an additional enhancing material."
+    },
+    "Question_4": {
+        "Context": "The quality of graphene produced can be affected by the synthesis method used. Different methods have their own advantages and limitations regarding scalability and quality of the graphene produced.",
+        "Question": "Which graphene synthesis method is known for producing high quality graphene but has low scalability?",
+        "A": "Chemical vapor deposition (CVD) and template growth",
+        "B": "Mechanical exfoliation",
+        "C": "Graphene oxide methods",
+        "D": "Liquid phase exfoliation (LPE)",
+        "Answer": "A",
+        "Source": "Chemical vapour deposition (CVD) methods and template growth offer high quality graphene at low scalability."
+    },
+    "Question_5": {
+        "Context": "In the context of graphene-enhanced composites, the distribution and quality of graphene within the composite are crucial for the desired enhancement of properties.",
+        "Question": "What is suggested by a Raman spectroscopy analysis that shows a low ID/IG ratio in a graphene sample?",
+        "A": "High disorder due to disrupted sp2 bonds",
+        "B": "Low purity of the graphene sample",
+        "C": "High graphite-like structures due to compact nature",
+        "D": "Presence of a large number of graphene layers",
+        "Answer": "C",
+        "Source": "The ID/IG ratio is used to determine the disorder of the graphene and was approximately 0.8 for both GL and GL (HT). This corresponds disrupted sp2 bonds and high graphite like structures likely due to the compact nature of consolidated thin films."
+    },
+    "Question_6": {
+        "Context": "The surface roughness of materials can be quantitatively analyzed using various techniques, and changes in roughness can indicate alterations in the material's surface characteristics.",
+        "Question": "What change in surface roughness would likely be indicated by an increase in root mean squared (RMS) roughness after a treatment process?",
+        "A": "A smoother surface with fewer irregularities",
+        "B": "A more uniform surface with increased wettability",
+        "C": "An increase in surface irregularities",
+        "D": "No change in the surface characteristics",
+        "Answer": "C",
+        "Source": "The GTF was measured to have an absolute roughness of 1.56 \u00b1 0.35 \u03bcm and root mean squared (RMS) roughness of 1.99 \u00b1 0.36 \u03bcm. After heat treatment the roughness increased to an absolute roughness of 1.99 \u00b1 0.59 \u03bcm and an RMS roughness of 2.52 \u00b1 0.71 \u03bcm."
+    },
+    "Question_7": {
+        "Context": "The wettability of a surface can be measured by the contact angle of a liquid droplet on the surface. Surfactants can influence the wettability of surfaces.",
+        "Question": "What effect would the removal of surfactant from a graphene thin film likely have on its wettability?",
+        "A": "Increase the contact angle and reduce wettability",
+        "B": "Decrease the contact angle and increase wettability",
+        "C": "Have no effect on the contact angle or wettability",
+        "D": "Make the surface hydrophobic regardless of the contact angle",
+        "Answer": "A",
+        "Source": "The GTF demonstrated high wettability properties with a measured contact angle of approximately 11\u00b0. Comparatively, after heat treatment the wettability increases to 82\u00b0. The removal of surfactant during the heat treatment process is the likely cause of the substantial change in wettability of the graphene thin film."
+    },
+    "Question_8": {
+        "Context": "The presence of voids in composite materials can significantly affect their mechanical properties, such as shear strength.",
+        "Question": "How do voids in the interlaminar region of a composite material typically affect its shear strength?",
+        "A": "Increase the shear strength due to internal pressure",
+        "B": "Have no effect on the shear strength",
+        "C": "Decrease the shear strength due to crack propagation",
+        "D": "Increase the shear strength by acting as reinforcement",
+        "Answer": "C",
+        "Source": "Concentration of voids within the interlaminar shear region correlate with the measured shear strength reduction in the GL (HT) sample. Voids concentrated within the interlaminar region will contribute to crack propagation and weaken interlocking between all phase interfaces weakening the mechanical strength of the composite."
+    },
+    "Question_9": {
+        "Context": "Graphene's layer structure can be characterized using Raman spectroscopy, where the 2D peak provides information about the number of layers.",
+        "Question": "In Raman spectroscopy, what does a narrow full width half maximum (FWHM) of the 2D peak typically indicate about the graphene layers?",
+        "A": "A large number of graphene layers",
+        "B": "A moderate number of graphene layers",
+        "C": "A single graphene layer",
+        "D": "A few graphene layers",
+        "Answer": "D",
+        "Source": "The full width half maximum (FWHM) of the 2D peak for GL is centred at 61 suggesting 3\u20134 layered graphene, while for GL (HT) at 57 corresponding to three layered graphene."
+    },
+    "Question_10": {
+        "Context": "The electrical conductivity of composites can be enhanced by creating conductive networks within the material, which can be studied using techniques like conductive atomic force microscopy (C-AFM).",
+        "Question": "What does an increase in conductive network density within a composite material suggest about its electrical properties?",
+        "A": "Decreased electrical conductivity",
+        "B": "Increased electrical conductivity",
+        "C": "No change in electrical conductivity",
+        "D": "Decreased thermal conductivity",
+        "Answer": "B",
+        "Source": "Conductive-AFM measurements observed an increase in conductive network density in the interlaminar region after the removal of surfactant from the thin film. Greater consistency of the graphene thin films to create these conductive networks ensures uniform conductivity across the domain suitable for static change dissipation applications."
+    }
+}

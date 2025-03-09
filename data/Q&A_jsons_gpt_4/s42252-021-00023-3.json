@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the Chemi-Thermo-Mechanical Pulping process, wood chips are pretreated with chemicals and then subjected to high pressure and steam to individualize the fibers.",
+        "Question": "Which chemicals are used for pretreating wood chips in the Chemi-Thermo-Mechanical Pulping process?",
+        "A": "Sodium chloride and potassium permanganate",
+        "B": "Sodium sulfite or hydrogen peroxide",
+        "C": "Hydrochloric acid and sodium hydroxide",
+        "D": "Sulfuric acid and sodium bicarbonate",
+        "Answer": "B",
+        "Source": "In this method, the wood chips are first pretreated with about 2% of sodium sulfite or hydrogen peroxide, then they are sent to specific refiners with high pressure and steam to individualize the fibers."
+    },
+    "Question_2": {
+        "Context": "The kraft process is a widely known technique in the paper industry that uses a combination of thermal, mechanical, and mostly chemical methods to obtain cellulose fibers.",
+        "Question": "What is significantly reduced in cellulose fibers obtained through the kraft process?",
+        "A": "Amount of glucose",
+        "B": "Amount of water",
+        "C": "Amount of hemicellulose, lignin, pectin, and other wood molecules",
+        "D": "Amount of sodium sulfite",
+        "Answer": "C",
+        "Source": "A widely known and used technique in the paper industry is called kraft process and uses a combination of thermal, mechanical and mostly chemical products to obtain cellulose fibers with a much lower amount of hemicellulose, lignin, pectin and other wood molecules."
+    },
+    "Question_3": {
+        "Context": "Cellulose fibers extracted using the Chemi-Thermo-Mechanical Pulping process retain most of the wood molecules like lignin and hemicellulose.",
+        "Question": "What is a characteristic of the fibers obtained from the Chemi-Thermo-Mechanical Pulping process?",
+        "A": "They have a higher yield and are less expensive to produce",
+        "B": "They are exclusively used for producing high-quality paper",
+        "C": "They are completely lignin-free",
+        "D": "They have a lower yield and are more expensive to produce",
+        "Answer": "A",
+        "Source": "This process is a chemi-mechanical processing method as most of the wood molecules (lignin, hemicellulose) are kept in the final pulp. It has replaced some chemical pulps for several applications as it is a less-expensive pulp to produce with a much higher yield of pulp produced."
+    },
+    "Question_4": {
+        "Context": "The bleaching of Chemi-Thermo-Mechanical Pulp (CTMP) results in a whiter pulp, but it cannot achieve the same level of whiteness as kraft pulps due to the high amount of lignin maintained in the CTMP process.",
+        "Question": "Why can't bleached CTMP achieve the same level of whiteness as kraft pulps?",
+        "A": "Because bleaching CTMP does not use any chemicals",
+        "B": "Because CTMP is not subjected to any mechanical processes",
+        "C": "Because CTMP retains a high amount of lignin",
+        "D": "Because kraft pulps use a different kind of wood chip",
+        "Answer": "C",
+        "Source": "This pulp may be further bleached (BCTMP) to obtain a whiter pulp even if the result cannot be as white as for kraft pulps since high amount of lignin is maintained in the CTMP process."
+    },
+    "Question_5": {
+        "Context": "The mechanical properties of Molded Pulp Products can be influenced by various manufacturing process parameters.",
+        "Question": "Which parameter is considered the most restraining on the production time in the manufacturing of Molded Pulp Products?",
+        "A": "Moulds temperature",
+        "B": "Drying time",
+        "C": "Pressing time",
+        "D": "Pulping time",
+        "Answer": "D",
+        "Source": "The pulping time was the most restraining parameter on the production time and was affected to the first column of the table."
+    },
+    "Question_6": {
+        "Context": "In the manufacturing process of Molded Pulp Products, dehydration time is one of the parameters that can be adjusted.",
+        "Question": "What is the role of dehydration time in the manufacturing process of Molded Pulp Products?",
+        "A": "It is the time taken to mix the pulp with water",
+        "B": "It is the time taken to bleach the pulp",
+        "C": "It is the time taken to remove water from the pulp before pressing",
+        "D": "It is the time taken to cool down the pulp after pressing",
+        "Answer": "C",
+        "Source": "Other parameters had roughly the same influence on the process time. No preference was attributed, and one interaction was analyzed. We have chosen the interaction between Moulds C-D temperature and dehydration time."
+    },
+    "Question_7": {
+        "Context": "The Taguchi method is an experimental design technique used to optimize process parameters efficiently.",
+        "Question": "What is the purpose of using the Taguchi method in the context of manufacturing process optimization?",
+        "A": "To increase the number of experiments needed for conclusive results",
+        "B": "To reduce the number of experiments needed while considering all variables",
+        "C": "To focus solely on the chemical composition of the materials",
+        "D": "To eliminate the need for any experimental runs",
+        "Answer": "B",
+        "Source": "To lower the number of tests, a design of experiment was done following the Taguchi method, allowing us to lower the number of tests needed to 8. This method is effective to reduce the number of experiments by using formulas to give the lowest number of experiments needed to obtain a result for all variables studied while also acknowledging potential interaction between the tested variables."
+    },
+    "Question_8": {
+        "Context": "The GAB (Guggenheim-Anderson-de Boer) model is used to understand the sorption behavior of materials.",
+        "Question": "What does the constant 'C' in the GAB model indicate about the sorption isotherm?",
+        "A": "The heat of sorption for the multilayer",
+        "B": "The difference in chemical potential between the sorbate molecule in the upper layer and the monolayer",
+        "C": "The water content adsorbed on the surface of the fiber in the first molecular layer",
+        "D": "The speed of water molecule adsorption",
+        "Answer": "B",
+        "Source": "C is a constant related to the chemical potential\u2019s difference of the sorbate molecule (water for this study) in the upper layer and the monolayer whereas K is a constant related to the multilayers\u2019 heat properties."
+    },
+    "Question_9": {
+        "Context": "The mechanical properties of cellulose fibers can be influenced by their degree of crystallinity.",
+        "Question": "How does the degree of crystallinity affect the water retention value (WRV) of cellulose fibers?",
+        "A": "Higher crystallinity leads to higher WRV due to increased swelling ability",
+        "B": "Higher crystallinity leads to lower WRV due to reduced swelling ability",
+        "C": "Crystallinity has no impact on the WRV of cellulose fibers",
+        "D": "Crystallinity only affects the color of the cellulose fibers, not the WRV",
+        "Answer": "B",
+        "Source": "Chen et al. [18] studied the influence of beating on the properties of cellulose fibers and they observed that a longer pulping time results in a higher water retention value due to a higher swelling ability of the pulp as well as a lower degree of crystallinity."
+    },
+    "Question_10": {
+        "Context": "The sorption behavior of cellulosic materials can be greatly influenced by the relative humidity or water activity (aw).",
+        "Question": "What does a higher constant 'K' in the GAB model suggest about the cellulosic material's sorption behavior at higher water activities?",
+        "A": "The material has a reduced ability to adsorb water molecules, limiting the multilayer",
+        "B": "The material has an increased ability to adsorb water molecules, enhancing the multilayer",
+        "C": "The material becomes completely hydrophobic",
+        "D": "The material's color changes with increased water activity",
+        "Answer": "B",
+        "Source": "The variation of K between 0.8 and 0.9 shows bigger modifications in the slope as we observe a similar slope to the control for lower aw. However, when aw is higher than 0.6, we can observe that the slope with K = 0.9 diverges from the control and results in a higher water uptake (39% at 1 compared to 25% for the control slope). This variable translates the behavior of the water multilayer on the cellulose fibers surface."
+    }
+}

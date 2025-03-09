@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Renewable and environmentally responsive materials can be used in civil engineering applications such as smart building skins that respond to environmental stimuli.",
+        "Question": "What type of environmental stimuli can influence the actuation behavior and mechanical robustness of responsive materials in civil engineering?",
+        "A": "Humidity and solar radiation",
+        "B": "Magnetic fields and gravity",
+        "C": "Wind velocity and air pressure",
+        "D": "Soil composition and seismic activity",
+        "Answer": "A",
+        "Source": "To evaluate the influence of different environmental stimuli, like humidity or solar radiation, on the long-term actuation behavior and mechanical robustness of these materials, it is necessary to precisely characterize the magnitude and range of stimuli that trigger reactions and the resulting kinetics of a material, respectively, with suitable testing equipment and techniques."
+    },
+    "Question_2": {
+        "Context": "Cottonid is a cellulose-based humidity-sensing material that can be used for adaptive and autonomously moving elements due to its response to environmental triggers.",
+        "Question": "What is the environmental trigger investigated for its impact on the Cottonid material in the context of adaptive elements?",
+        "A": "Wind speed",
+        "B": "Solar radiation",
+        "C": "Soil moisture",
+        "D": "Ambient temperature",
+        "Answer": "B",
+        "Source": "In this study, the impact of solar radiation as environmental trigger on the cellulose-based humidity-sensing material Cottonid, which is a promising candidate for adaptive and autonomously moving elements, was investigated."
+    },
+    "Question_3": {
+        "Context": "Fourier-transform infrared (FTIR) spectroscopy is a technique used to assess changes in the chemical composition of materials.",
+        "Question": "Which spectroscopy technique was used to analyze the photodegradation behavior of Cottonid by assessing changes in its chemical composition?",
+        "A": "Mass spectroscopy",
+        "B": "Nuclear magnetic resonance spectroscopy",
+        "C": "Fourier-transform infrared spectroscopy",
+        "D": "Ultraviolet-visible spectroscopy",
+        "Answer": "C",
+        "Source": "Photodegradation behavior was analyzed by Fourier-transform infrared as well as electron paramagnetic resonance spectroscopy measurements to assess changes in Cottonid\u2019s chemical composition."
+    },
+    "Question_4": {
+        "Context": "Electron paramagnetic resonance (EPR) spectroscopy is a method that can detect radicals in materials, which may indicate oxidation processes.",
+        "Question": "What does the detection of radicals with EPR spectroscopy in a material suggest about its chemical state?",
+        "A": "Reduction processes",
+        "B": "Oxidation processes",
+        "C": "Polymerization reactions",
+        "D": "Hydrolysis reactions",
+        "Answer": "B",
+        "Source": "EPR spectra could corroborate these findings as radicals were detected, which were attributed to oxidation processes."
+    },
+    "Question_5": {
+        "Context": "The mechanical properties of materials can be characterized by various methods, including ultra-micro-hardness tests which measure variations in stiffness distribution.",
+        "Question": "What type of mechanical property characterization was performed on Cottonid to investigate changes in stiffness distribution?",
+        "A": "Tensile strength testing",
+        "B": "Compression testing",
+        "C": "Impact testing",
+        "D": "Ultra-micro-hardness testing",
+        "Answer": "D",
+        "Source": "Subsequently, changes in micromechanical properties on the respective specimens\u2019 surface were investigated with roughness measurements and ultra-micro-hardness tests to characterize variations in stiffness distribution in comparison to the initial condition."
+    },
+    "Question_6": {
+        "Context": "Digital image correlation (DIC) is a non-contact optical method that can be used for precise strain measurements in materials.",
+        "Question": "Which method was utilized for precise actuation strain measurements in the evaluation of Cottonid's sorption behavior?",
+        "A": "Laser scanning",
+        "B": "X-ray diffraction",
+        "C": "Digital image correlation",
+        "D": "Electron microscopy",
+        "Answer": "C",
+        "Source": "DIC was used for precise actuation strain measurements to comparatively evaluate different influences on the material\u2019s sorption behavior."
+    },
+    "Question_7": {
+        "Context": "The swelling and shrinking behavior of cellulose-based materials in response to humidity is an important aspect of their functionality in applications such as smart building skins.",
+        "Question": "What is the primary stimulus that activates the adaptive reactions of cellulose-based materials like wood?",
+        "A": "Temperature",
+        "B": "Humidity",
+        "C": "Light",
+        "D": "Oxygen concentration",
+        "Answer": "B",
+        "Source": "In case of cellulose-based materials, like wood, the decisive stimulus, which activates the adaptive reactions, is humidity."
+    },
+    "Question_8": {
+        "Context": "Photodegradation of cellulose can be induced by a combination of radical reactions, which include the formation of carbonyl and carboxyl groups.",
+        "Question": "What chemical groups' formation is associated with the photodegradation of cellulose?",
+        "A": "Amino and nitro groups",
+        "B": "Sulfhydryl and phosphate groups",
+        "C": "Carbonyl and carboxyl groups",
+        "D": "Hydroxyl and ether groups",
+        "Answer": "C",
+        "Source": "The increase of peaks in the range of 1750 and 1740 cm\u2212 1 results from the formation of carbonyl and carboxyl groups due to reactions with the surrounding oxygen."
+    },
+    "Question_9": {
+        "Context": "The mechanical properties of materials can be affected by environmental effects such as UV radiation, which can lead to a decrease in mechanical strength and embrittlement.",
+        "Question": "Which environmental effect can lead to discoloration and a pronounced decrease in mechanical properties of cellulose-based materials?",
+        "A": "High atmospheric pressure",
+        "B": "Acid rain",
+        "C": "UV radiation",
+        "D": "Ozone exposure",
+        "Answer": "C",
+        "Source": "For cellulose, which is the most abundant biopolymer on earth and therefore intensively used as raw material for various stimuli-responsive material systems, the mechanism of photodegradation is induced by a superimposition of several radical reactions."
+    },
+    "Question_10": {
+        "Context": "The microstructure of cellulose-based materials can be programmed to cause directed swelling and shrinking processes in response to environmental humidity.",
+        "Question": "How is the passive shape change of cellulose-based materials like wood programmed?",
+        "A": "Through the orientation of cellulose microfibrils",
+        "B": "By altering the pH level of the material",
+        "C": "Through the application of an electric field",
+        "D": "By changing the thermal conductivity of the material",
+        "Answer": "A",
+        "Source": "Due to hygroscopic water uptake from the surrounding environment, cellulose micro fibrils swell perpendicular to their orientation within the material and cause a passive shape change, whose magnitude and direction is programmed in the microstructure."
+    }
+}

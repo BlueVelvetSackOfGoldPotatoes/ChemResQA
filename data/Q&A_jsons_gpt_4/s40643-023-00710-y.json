@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In soil science, the soil-water content (SWC) is an important parameter that represents the volume of water present within a unit volume of soil. It is crucial for understanding soil properties and managing agricultural practices.",
+        "Question": "What does soil-water content (SWC) represent in soil science?",
+        "A": "The ratio of soil particles to water",
+        "B": "The volume of water per unit volume of soil",
+        "C": "The weight of water per unit weight of soil",
+        "D": "The depth of water in a soil sample",
+        "Answer": "B",
+        "Source": "SWCs account for a ratio between the volume of water present in a unit of soil volume."
+    },
+    "Question_2": {
+        "Context": "Soil texture is determined by the relative proportions of sand, silt, and clay in the soil. It influences various soil properties, including the soil's ability to hold water and nutrients.",
+        "Question": "Which soil property is influenced by the relative proportions of sand, silt, and clay?",
+        "A": "Soil color",
+        "B": "Soil texture",
+        "C": "Soil temperature",
+        "D": "Soil pH",
+        "Answer": "B",
+        "Source": "Soil texture prediction and analysis using artificial intelligence: Soil texture has been found to play a crucial role in ecosystem health, agricultural production, and sustainable farmland management."
+    },
+    "Question_3": {
+        "Context": "The soil's water-holding capacity is an important factor for plant growth, as it determines the amount of water that soil can retain for plant use.",
+        "Question": "What is the significance of the soil's water-holding capacity?",
+        "A": "It indicates the soil's ability to retain heat",
+        "B": "It determines the soil's resistance to erosion",
+        "C": "It determines the amount of water the soil can retain for plant use",
+        "D": "It measures the soil's nutrient content",
+        "Answer": "C",
+        "Source": "The water retained by soil for plant usage is subjected to water holding capacity, as this is the most crucial feature that supports nutrient uptake and transport mechanisms in plants."
+    },
+    "Question_4": {
+        "Context": "The cation exchange capacity (CEC) of soil is a measure of how well soil can retain and exchange cationic nutrients (positively charged ions).",
+        "Question": "What does the cation exchange capacity (CEC) of soil measure?",
+        "A": "The soil's ability to retain and exchange anionic nutrients",
+        "B": "The soil's ability to retain and exchange cationic nutrients",
+        "C": "The soil's water permeability",
+        "D": "The soil's resistance to compaction",
+        "Answer": "B",
+        "Source": "Cation exchange capacity (CEC) reflects the availability of cationic nutrients present in soil\u2013water, such as ammonium, calcium, potassium, magnesium, iron, zinc, etc."
+    },
+    "Question_5": {
+        "Context": "Soil porosity refers to the total pore space in the soil, which affects the soil's ability to hold water and air, influencing plant growth and microbial activity.",
+        "Question": "What role does soil porosity play in soil properties?",
+        "A": "Determines the soil's color",
+        "B": "Affects the soil's ability to conduct electricity",
+        "C": "Influences the soil's capacity to hold water and air",
+        "D": "Measures the soil's nutrient content",
+        "Answer": "C",
+        "Source": "Moreover, the soil porosity and SWC saturation in designated soil pores may hinder O2 diffusion, because the rate of O2 diffusion is about one hundred times less when compared with air."
+    },
+    "Question_6": {
+        "Context": "The gravimetric method for measuring soil-water content involves drying a soil sample to remove all water and then calculating the water content based on the weight loss.",
+        "Question": "How does the gravimetric method determine soil-water content?",
+        "A": "By measuring the electrical conductivity of the soil",
+        "B": "By calculating the change in soil volume after drying",
+        "C": "By assessing the color change of the soil when dry",
+        "D": "By calculating the weight loss of the soil after drying",
+        "Answer": "D",
+        "Source": "One of the basic, or so-called absolute, methods of measuring SWC is the gravimetric method (GM), which is noncalibrated and the most basic method."
+    },
+    "Question_7": {
+        "Context": "The neutron method for measuring soil-water content relies on the scattering of neutrons by hydrogen atoms in water molecules within the soil.",
+        "Question": "What principle does the neutron method for measuring soil-water content rely on?",
+        "A": "The absorption of neutrons by soil minerals",
+        "B": "The scattering of neutrons by hydrogen atoms in water molecules",
+        "C": "The reflection of neutrons by soil organic matter",
+        "D": "The transmission of neutrons through air gaps in the soil",
+        "Answer": "B",
+        "Source": "The neutron method (NM) was then developed for more likely real-time and non-destructive SWC measurements. This method accounts for only elastic collisions between neutrons and water molecules."
+    },
+    "Question_8": {
+        "Context": "Ground Penetrating Radar (GPR) is a geophysical method that uses electromagnetic waves to image the subsurface, including the measurement of soil-water content.",
+        "Question": "How does Ground Penetrating Radar (GPR) measure soil-water content?",
+        "A": "By detecting the magnetic properties of the soil",
+        "B": "By measuring the soil's heat capacity",
+        "C": "By recording the travel time and reflection of electromagnetic waves",
+        "D": "By assessing the soil's pH changes",
+        "Answer": "C",
+        "Source": "For instance, the ground penetration radar (GPR) method involves EM wave propagation in soil and then a reflection of these waves by soil entities."
+    },
+    "Question_9": {
+        "Context": "Hydraulic conductivity is a property of the soil that describes the ease with which water can move through pore spaces or fractures.",
+        "Question": "What does hydraulic conductivity in soil indicate?",
+        "A": "The soil's ability to retain nutrients",
+        "B": "The ease with which water can move through soil pore spaces",
+        "C": "The soil's resistance to wind erosion",
+        "D": "The soil's capacity for carbon sequestration",
+        "Answer": "B",
+        "Source": "In general, sandy soils have higher hydraulic conductivity than clayey soils, because they have larger pores that offer less resistance to water flow."
+    },
+    "Question_10": {
+        "Context": "The field capacity of soil refers to the amount of soil-water content after excess water has drained away and the rate of downward movement has decreased.",
+        "Question": "What is field capacity in the context of soil-water content?",
+        "A": "The maximum water content soil can hold against gravity",
+        "B": "The minimum water content before plant wilting occurs",
+        "C": "The total water content at soil saturation",
+        "D": "The water content when soil is completely dry",
+        "Answer": "A",
+        "Source": "Ideally, plants can easily access the soil\u2013water when water contents are -33 bar; this only happens after all of the GSW drainage is completed and is termed field capacity."
+    }
+}

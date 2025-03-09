@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of a novel e-skin with a unique pattern for mechanical stability and sweat permeability.",
+        "Question": "What is the purpose of the eyes-pattern in the e-skin?",
+        "A": "To enhance visual aesthetics",
+        "B": "To improve mechanical stability and sweat permeability",
+        "C": "To increase the weight of the e-skin",
+        "D": "To reduce the flexibility of the e-skin",
+        "Answer": "B",
+        "Source": "Our eyes-pattern, which was sophisticatedly designed by FEA simulation, exhibited the lowest localized stress of 943.3 MPa and strain of 43.1% compared to the previously reported patterns including auxetic kirigami and circular holes."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the importance of real-time monitoring of vital signs and the challenges faced by conventional devices.",
+        "Question": "Why is the accuracy of the sensing device crucial for real-time monitoring of vital signs?",
+        "A": "To ensure the device looks modern and sleek",
+        "B": "To prevent malfunctioning due to accumulation of skin by-products",
+        "C": "To increase the cost of the device",
+        "D": "To make the device heavier",
+        "Answer": "B",
+        "Source": "To investigate the suitability of the developed wearable sensor for real-time body temperature monitoring, the skin adherence test was performed for periodic exercise and rest cycles."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the experimental verification of the by-product permeability of the e-skin.",
+        "Question": "How was the by-product permeability of the e-skin experimentally confirmed?",
+        "A": "Through a taste test",
+        "B": "By comparing the color changes of litmus paper between different e-skins",
+        "C": "By measuring the weight of the e-skin before and after a workout",
+        "D": "By analyzing the electrical conductivity of the e-skin",
+        "Answer": "B",
+        "Source": "The amount of sweat penetration was determined by comparing the color changes of the litmus paper between our e-skin and the conventional e-skin."
+    },
+    "Question_4": {
+        "Context": "The paper describes the fabrication process of the patterned e-skin.",
+        "Question": "What material was used to fabricate the resistive temperature sensor in the e-skin?",
+        "A": "Aluminum",
+        "B": "Polyimide",
+        "C": "Copper",
+        "D": "Gold",
+        "Answer": "B",
+        "Source": "Next, polyimide solution (PI, Sigma-Aldrich) was spin-coated onto the Si surface at 3000 rpm and baked sequentially at 110 \u2103 (3 min), 130 \u2103 (3 min), and 250 \u2103 (1 h) to cure the film by evaporating the solvent."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the mechanical stability of the e-skin under bending conditions.",
+        "Question": "What was the minimum bending radius tested for the e-skin?",
+        "A": "1 mm",
+        "B": "3 mm",
+        "C": "5 mm",
+        "D": "10 mm",
+        "Answer": "B",
+        "Source": "The bending curvature radius was accurately controlled from flat to 0.5 mm through the programmed codes in the bending motion system."
+    },
+    "Question_6": {
+        "Context": "The paper highlights the importance of the eyes-pattern for stress relief in the e-skin.",
+        "Question": "What percentage lower was the localized stress in the eyes-pattern compared to the auxetic kirigami pattern?",
+        "A": "30%",
+        "B": "40%",
+        "C": "50%",
+        "D": "60%",
+        "Answer": "D",
+        "Source": "the eyes-pattern exhibited a maximum localized stress of about 943.3 MPa, which was 48.7% and 60.8% lower than the auxetic kirigami (about 1839.9 MPa) and circular hole patterns (about 2408.8 MPa), respectively."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the real-time monitoring of body temperature using the resistive-type BTM sensor.",
+        "Question": "What was the resistance of the BTM sensor at a temperature of 90 \u2103?",
+        "A": "204 \u2126",
+        "B": "325.6 \u2126",
+        "C": "500 \u2126",
+        "D": "682 \u2126",
+        "Answer": "D",
+        "Source": "As the temperature increased from 20 \u2103 to 90 \u2103, the BTM sensor showed a linear increase in resistance from 204 \u2126 to 682 \u2126."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the application of the e-skin for real-time body temperature monitoring.",
+        "Question": "What was the size of the wearable BTM sensor attached to the skin surface?",
+        "A": "1 mm x 1 mm",
+        "B": "1 cm x 1 cm",
+        "C": "5 mm x 5 mm",
+        "D": "10 mm x 10 mm",
+        "Answer": "B",
+        "Source": "Figure 4b is a photograph of a 1 \u00d7 1 cm2-sized wearable BTM sensor attached to the skin surface of a human forearm."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the potential of the developed BTM sensor for replacing conventional body temperature monitoring systems.",
+        "Question": "What was the resistance of the BTM sensor during rest conditions?",
+        "A": "204 \u2126",
+        "B": "281.5 \u2126",
+        "C": "325.6 \u2126",
+        "D": "682 \u2126",
+        "Answer": "B",
+        "Source": "During the repeated exercise, the wearable BTM sensor clearly exhibited the resistance difference between the exercise (325.6 \u2126) and rest (281.5 \u2126) conditions."
+    },
+    "Question_10": {
+        "Context": "The paper concludes by emphasizing the potential of the eyes-patterned e-skin for real-time healthcare applications.",
+        "Question": "What is the main advantage of the eyes-patterned e-skin for real-time healthcare applications?",
+        "A": "Superior mechanical stability and by-products permeability",
+        "B": "Enhanced visual appeal",
+        "C": "Higher cost-effectiveness",
+        "D": "Increased weight",
+        "Answer": "A",
+        "Source": "We believe that with our eyes-patterned e-skin, we may have proposed a new approach for reliable real-time healthcare applications."
+    }
+}

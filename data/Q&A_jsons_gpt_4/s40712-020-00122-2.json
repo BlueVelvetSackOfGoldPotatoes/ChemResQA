@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In organic chemistry, the concept of transversely isotropic materials relates to materials having different properties in different directions, which is important for understanding their behavior under various conditions.",
+        "Question": "What does 'transversely isotropic' mean in the context of material properties?",
+        "A": "Materials that have identical properties in all directions",
+        "B": "Materials that have properties varying with temperature only",
+        "C": "Materials that have different properties in different directions",
+        "D": "Materials that are isotropic only when a transverse electric field is applied",
+        "Answer": "C",
+        "Source": "The constitutive relations for a transversely isotropic thermoelastic medium are given by tij \u00bc Cijklekl - \u03b2ijT."
+    },
+    "Question_2": {
+        "Context": "In organic chemistry, the study of displacement vectors is crucial for understanding the deformation of materials under external forces, which can affect their structural integrity and performance.",
+        "Question": "What do displacement vectors represent in the study of material deformation?",
+        "A": "The amount of heat conducted through the material",
+        "B": "The change in temperature of the material over time",
+        "C": "The change in magnetic field intensity within the material",
+        "D": "The change in position of points within the material",
+        "Answer": "D",
+        "Source": "Now, using the transformation on Eqs. (5) and (12) following Slaughter (2002) with the aid of (16) and (17) yields C11 \u22022u/\u2202x2 + C13 \u22022w/\u2202x\u2202z + C44 \u22022u/\u2202z2 + (\u22022w/\u2202x\u2202z) - \u03b21(\u2202/\u2202x)\u03c6 - a1(\u22022\u03c6/\u2202x2) + a3(\u22022\u03c6/\u2202z2) + \u03bc0H2 0(\u2202e/\u2202x) - \u03b50\u03bc0\u20acu = \u03c1(\u22022u/\u2202t2), and similar equations for w and \u03c6."
+    },
+    "Question_3": {
+        "Context": "In organic chemistry, the concept of stress tensors is used to describe the internal forces within a material that arise due to external loads, which is fundamental for predicting material failure.",
+        "Question": "What are stress tensors used to describe in the context of material science?",
+        "A": "The distribution of temperature within a material",
+        "B": "The internal forces within a material due to external loads",
+        "C": "The magnetic field distribution within a material",
+        "D": "The electrical conductivity of a material",
+        "Answer": "B",
+        "Source": "Equation of motion for a transversely isotropic thermoelastic medium and taking into account Lorentz force tij;j + Fi = \u03c1\u20acui, where Fi = \u03bc0(j! \u00d7 H!0)i are the components of Lorentz force."
+    },
+    "Question_4": {
+        "Context": "In organic chemistry, the study of conductive temperature is important for understanding heat transfer within materials, which affects their thermal stability and reaction kinetics.",
+        "Question": "What does conductive temperature refer to in the context of heat transfer within materials?",
+        "A": "The temperature at which a material becomes magnetic",
+        "B": "The temperature at which a material conducts electricity",
+        "C": "The temperature distribution within a material due to heat transfer",
+        "D": "The external temperature applied to a material",
+        "Answer": "C",
+        "Source": "Following Bachher (2019), heat conduction equation for an anisotropic media is given by Kij\u03c6;ij \u00bc 1 + \u03c7D\u03c7 (\u03c1CE\u02d9T + \u03b2ijT'\u02d9eij)."
+    },
+    "Question_5": {
+        "Context": "In organic chemistry, the concept of thermal conductivity is essential for understanding how heat is transferred through materials, which can influence reaction rates and material properties.",
+        "Question": "What does thermal conductivity measure in the context of material properties?",
+        "A": "The ability of a material to conduct electricity",
+        "B": "The ability of a material to resist external forces",
+        "C": "The ability of a material to transfer heat",
+        "D": "The ability of a material to expand when heated",
+        "Answer": "C",
+        "Source": "Following Bachher (2019), heat conduction equation for an anisotropic media is given by Kij\u03c6;ij \u00bc 1 + \u03c7D\u03c7 (\u03c1CE\u02d9T + \u03b2ijT'\u02d9eij)."
+    },
+    "Question_6": {
+        "Context": "In organic chemistry, the study of strain tensors is important for understanding the deformation of materials under stress, which can affect their mechanical properties and chemical reactivity.",
+        "Question": "What do strain tensors represent in the study of material deformation?",
+        "A": "The amount of heat a material can produce under stress",
+        "B": "The electrical resistance of a material under deformation",
+        "C": "The deformation of a material under stress",
+        "D": "The change in magnetic properties of a material under stress",
+        "Answer": "C",
+        "Source": "The constitutive relations for a transversely isotropic thermoelastic medium are given by tij \u00bc Cijklekl - \u03b2ijT."
+    },
+    "Question_7": {
+        "Context": "In organic chemistry, the concept of anisotropic media is used to describe materials that have direction-dependent properties, which is crucial for designing materials with specific directional behaviors.",
+        "Question": "What are anisotropic media in the context of material properties?",
+        "A": "Materials that have the same properties in all directions",
+        "B": "Materials that change properties only when heated",
+        "C": "Materials that have direction-dependent properties",
+        "D": "Materials that are only affected by magnetic fields",
+        "Answer": "C",
+        "Source": "Following Bachher (2019), heat conduction equation for an anisotropic media is given by Kij\u03c6;ij \u00bc 1 + \u03c7D\u03c7 (\u03c1CE\u02d9T + \u03b2ijT'\u02d9eij)."
+    },
+    "Question_8": {
+        "Context": "In organic chemistry, the study of boundary conditions is crucial for solving problems related to material behavior under specific constraints, which can affect the results of chemical reactions and material testing.",
+        "Question": "What is the importance of boundary conditions in the study of material behavior?",
+        "A": "They determine the magnetic field intensity within the material",
+        "B": "They specify the electrical conductivity of the material",
+        "C": "They are crucial for solving problems related to material behavior under specific constraints",
+        "D": "They are only relevant for determining the color of the material",
+        "Answer": "C",
+        "Source": "We assume that medium is initially at rest. The undisturbed state is maintained at reference temperature T0. Then, we have the initial and regularity conditions given by u(x, z, 0) = 0 = \u02d9u(x, z, 0), w(x, z, 0) = 0 = \u02d9w(x, z, 0), \u03c6(x, z, 0) = 0 = \u02d9\u03c6(x, z, 0) for z\u22650; -\u221e < x < \u221e; u(x, z, t) = w(x, z, t) = \u03c6(x, z, t) = 0 for t > 0 when z\u2192\u221e."
+    },
+    "Question_9": {
+        "Context": "In organic chemistry, the concept of Lorentz force is relevant in the study of materials subjected to magnetic fields, which can influence the behavior of charged species within the material.",
+        "Question": "What is the Lorentz force in the context of materials subjected to magnetic fields?",
+        "A": "The force experienced by a material due to gravitational fields",
+        "B": "The force experienced by a material due to its thermal expansion",
+        "C": "The force experienced by charged species within a material due to magnetic fields",
+        "D": "The force that binds molecules together within a material",
+        "Answer": "C",
+        "Source": "Equation of motion for a transversely isotropic thermoelastic medium and taking into account Lorentz force tij;j + Fi = \u03c1\u20acui, where Fi = \u03bc0(j! \u00d7 H!0)i are the components of Lorentz force."
+    },
+    "Question_10": {
+        "Context": "In organic chemistry, the study of thermal expansion coefficients is important for understanding how materials change in size with temperature, which can affect their physical properties and chemical behavior.",
+        "Question": "What do thermal expansion coefficients measure in the context of material properties?",
+        "A": "The ability of a material to conduct heat",
+        "B": "The change in size of a material with temperature",
+        "C": "The magnetic susceptibility of a material",
+        "D": "The electrical resistance of a material",
+        "Answer": "B",
+        "Source": "The constitutive relations for a transversely isotropic thermoelastic medium are given by tij \u00bc Cijklekl - \u03b2ijT."
+    }
+}

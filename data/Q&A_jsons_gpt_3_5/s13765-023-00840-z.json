@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the biochemical properties of MtCuvA for the binding of UDP-N-acetylglucosamine (GlcNAc) using site-directed mutagenesis and docking simulation.",
+        "Question": "What did the previous studies show about the binding preference of MtCuvA?",
+        "A": "UDP-Glucose",
+        "B": "UDP-Glucosamine",
+        "C": "UDP-N-acetylglucosamine (GlcNAc)",
+        "D": "UDP",
+        "Answer": "C",
+        "Source": "Our previous studies have verified that MtCuvA can bind to UDP-GlcNAc, indicating its preference for UDP-N-acetylglucosamine (GlcNAc) as a physiological ligand."
+    },
+    "Question_2": {
+        "Context": "The study involved site-directed mutagenesis of specific residues in MtCuvA to investigate their impact on the binding to UDP-GlcNAc.",
+        "Question": "Which residue mutation significantly affected the binding of UDP-GlcNAc to MtCuvA?",
+        "A": "R80A",
+        "B": "S200A",
+        "C": "T295A",
+        "D": "Q154A",
+        "Answer": "Q154A",
+        "Source": "Mutational studies showed that Q154A mutant significantly reduced the binding efficiency for UDP-GlcNAc."
+    },
+    "Question_3": {
+        "Context": "The study aimed to identify key residues involved in the binding of UDP-GlcNAc to MtCuvA through site-directed mutagenesis.",
+        "Question": "Which residue was found to be involved in the binding of UDP-GlcNAc at the putative ligand binding pocket of MtCuvA?",
+        "A": "T33",
+        "B": "S196",
+        "C": "N226",
+        "D": "H298",
+        "Answer": "S196",
+        "Source": "Residues S196 was observed to significantly reduce the binding efficiency for UDP-GlcNAc."
+    },
+    "Question_4": {
+        "Context": "The study investigated the binding properties of MtCuvA with UDP and GlcNAc to understand their interactions.",
+        "Question": "Which ligand showed binding to MtCuvA among UDP and GlcNAc?",
+        "A": "UDP",
+        "B": "GlcNAc",
+        "C": "Both UDP and GlcNAc",
+        "D": "Neither UDP nor GlcNAc",
+        "Answer": "UDP",
+        "Source": "The study revealed that the binding of UDP increased the Tm of MtCuvA, while no binding of GlcNAc to MtCuvA was detected."
+    },
+    "Question_5": {
+        "Context": "The study performed molecular docking simulations to understand the binding of UDP to MtCuvA.",
+        "Question": "Which residue mutation did not affect the binding to UDP?",
+        "A": "T33A",
+        "B": "D36A",
+        "C": "Q154A",
+        "D": "H12A",
+        "Answer": "Q154A",
+        "Source": "The values of KD and binding efficiencies for the T33A, D36A, and Q154A mutants were similar to or even better than those of WT-MtCuvA."
+    },
+    "Question_6": {
+        "Context": "The study aimed to identify key residues involved in the binding of UDP moiety at the putative ligand binding pocket of MtCuvA.",
+        "Question": "Which residue was found to be involved in the binding of the UDP moiety to MtCuvA?",
+        "A": "H12",
+        "B": "S196",
+        "C": "T199",
+        "D": "N226",
+        "Answer": "H12",
+        "Source": "The H12A mutant slightly affected the binding to UDP, indicating its involvement in the binding of the UDP moiety."
+    },
+    "Question_7": {
+        "Context": "The study focused on the binding properties of UDP-GlcNAc to MtCuvA and the impact of specific residue mutations.",
+        "Question": "Which residue mutation significantly reduced the binding efficiency for UDP?",
+        "A": "S196A",
+        "B": "T199A",
+        "C": "N226A",
+        "D": "H298A",
+        "Answer": "S196A",
+        "Source": "The KD values and binding efficiencies for the S196A mutant were approximately 7- and 7.5-fold lower than that for WT-MtCuvA, respectively."
+    },
+    "Question_8": {
+        "Context": "The study aimed to understand the interactions of MtCuvA with UDP-GlcNAc and the impact of specific residue mutations.",
+        "Question": "Which residue mutation showed too low values to estimate its binding efficiency to UDP?",
+        "A": "N226A",
+        "B": "H298A",
+        "C": "T199A",
+        "D": "S196A",
+        "Answer": "H298A",
+        "Source": "H298A mutant showed too low KD and \u0394Tm max values to estimate its binding efficiency."
+    },
+    "Question_9": {
+        "Context": "The study investigated the binding properties of UDP to MtCuvA and the impact of specific residue mutations.",
+        "Question": "Which residue was found to be involved in the binding of UDP at the putative ligand binding pocket of MtCuvA?",
+        "A": "T33",
+        "B": "S196",
+        "C": "N226",
+        "D": "H298",
+        "Answer": "S196",
+        "Source": "Five residues, H12, S196, T199, N226, and H298, may be involved in the binding of UDP moiety at the putative ligand binding pocket of MtCuvA."
+    },
+    "Question_10": {
+        "Context": "The study aimed to provide detailed information regarding the ligand binding properties of UDP-GlcNAc to MtCuvA.",
+        "Question": "Which ligand did MtCuvA preferentially bind to as a physiological ligand?",
+        "A": "UDP-Glucose",
+        "B": "UDP-Glucosamine",
+        "C": "UDP-N-acetylglucosamine (GlcNAc)",
+        "D": "UDP",
+        "Answer": "C",
+        "Source": "MtCuvA prefers binding to UDP-GlcNAc as a physiological ligand compared to other options."
+    }
+}

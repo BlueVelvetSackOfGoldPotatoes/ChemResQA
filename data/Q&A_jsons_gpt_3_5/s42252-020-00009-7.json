@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on developing biodegradable films based on thermoplastic corn starch and copper particles with antimicrobial capacity. The films were obtained by melt-mixing and thermo-compression. Particles distribution within the matrix and the effects on transparency and mechanical properties were evaluated.",
+        "Question": "What was the main purpose of developing the biodegradable films in the study?",
+        "A": "To enhance the color of the films",
+        "B": "To decrease the tensile strength of the films",
+        "C": "To inhibit the growth of bacteria",
+        "D": "To increase the elongation at break of the films",
+        "Answer": "C",
+        "Source": "Composites inhibited the growth of Gram+ and Gram- bacteria, demonstrating their antimicrobial capacity."
+    },
+    "Question_2": {
+        "Context": "The study involved the preparation of copper particles by reducing a copper salt solution with hydrazine. The stabilizing agent used was an aqueous starch solution. The particles were coated with silica to improve stability.",
+        "Question": "What method was used to prepare the copper particles in the study?",
+        "A": "Electroplating",
+        "B": "Chemical vapor deposition",
+        "C": "Reduction with hydrazine",
+        "D": "Sputtering",
+        "Answer": "C",
+        "Source": "Cu particles preparation was carried out by reducing a copper salt solution (CuCl2, 0.05 M) with hydrazine (5% w/v)."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the mechanical properties of the films by conducting tensile tests. The stress-strain curves showed that the films were ductile materials. The addition of copper particles at certain concentrations acted as reinforcing agents.",
+        "Question": "What effect did the addition of copper particles have on the mechanical properties of the films?",
+        "A": "Decreased maximum tensile strength",
+        "B": "Increased elongation at break",
+        "C": "Acted as stress concentrators",
+        "D": "Acted as reinforcing agents",
+        "Answer": "D",
+        "Source": "Regarding maximum tensile strength, Cu and Si-Cu particles addition at 1 and 5% acted as reinforcing agents increasing the maximum tensile strength."
+    },
+    "Question_4": {
+        "Context": "The study assessed the antimicrobial activity of the composite films against Escherichia coli and Staphylococcus aureus. The films containing copper particles up to 0.75% showed antimicrobial activity against both types of bacteria.",
+        "Question": "Which microorganisms were used to test the antimicrobial activity of the composite films?",
+        "A": "Fungi and algae",
+        "B": "E. coli and S. aureus",
+        "C": "VTEC and S. aureus",
+        "D": "E. coli and algae",
+        "Answer": "B",
+        "Source": "Antimicrobial assays results are shown in Table 1. As it can be observed, TPS/Cu and TPS/Si-Cu samples showed antimicrobial activity against both Gram-positive (S. aureus) and Gram-negative (E. coli) bacteria."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the release of copper particles from the films into a simulant of aqueous foods. The released copper concentrations were measured, and it was found that both naked copper and silica-coated copper particles migrated from the films to the aqueous medium.",
+        "Question": "What was the purpose of evaluating the copper release from the films?",
+        "A": "To determine the color change in the films",
+        "B": "To assess the mechanical properties of the films",
+        "C": "To evaluate the antimicrobial activity of the films",
+        "D": "To understand the migration of the antimicrobial agent to the food surface",
+        "Answer": "D",
+        "Source": "The use of antimicrobial packaging increases food safety and minimizes the addition of synthetic additives directly to food. Besides, some antimicrobial agents confer unpleasant sensory characteristics to food products and additives incorporation into packaging avoids this issue."
+    },
+    "Question_6": {
+        "Context": "The study investigated the optical properties of the films, including luminosity, color, and transparency. It was observed that the films became less transparent with the addition of copper particles, leading to a reduction in visible light transmission.",
+        "Question": "What effect did the addition of copper particles have on the transparency of the films?",
+        "A": "Increased transparency",
+        "B": "Decreased transparency",
+        "C": "No effect on transparency",
+        "D": "Increased opacity",
+        "Answer": "B",
+        "Source": "As it can be observed, copper particles induced a reduction on transparency values of TPS films."
+    },
+    "Question_7": {
+        "Context": "The study characterized the particles used in the films through scanning electron microscopy. The images confirmed the spherical shape of the particles and showed clusters forming. Silica coating was applied to improve stability.",
+        "Question": "What was the purpose of applying silica coating to the copper particles?",
+        "A": "To decrease the stability of the particles",
+        "B": "To improve stability",
+        "C": "To change the color of the particles",
+        "D": "To increase the antimicrobial activity",
+        "Answer": "B",
+        "Source": "Silica coating was performed in order to improve Cu particles stability."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the color measurements of the films using a colorimeter. The luminosity decreased with the addition of copper particles, while the a* and b* parameters increased, indicating changes in color.",
+        "Question": "What parameter decreased with the addition of copper particles in the color measurements of the films?",
+        "A": "a*",
+        "B": "b*",
+        "C": "Luminosity (L*)",
+        "D": "Transparency",
+        "Answer": "C",
+        "Source": "Luminosity (L*) of TPS films decreased significantly with the addition of Cu and Si-Cu particles."
+    },
+    "Question_9": {
+        "Context": "The study conducted tensile tests on the films to assess their mechanical properties. The stress-strain curves indicated that the films were ductile materials, and the addition of copper particles at certain concentrations affected the maximum tensile strength and elongation at break.",
+        "Question": "What type of materials were the films characterized as based on the stress-strain curves?",
+        "A": "Brittle",
+        "B": "Ductile",
+        "C": "Elastic",
+        "D": "Viscous",
+        "Answer": "B",
+        "Source": "Stress-strain curves of TPS and composites films showed that their mechanical behavior corresponds to ductile materials."
+    },
+    "Question_10": {
+        "Context": "The study assessed the antimicrobial activity of the composite films against Escherichia coli and Staphylococcus aureus. The films containing copper particles up to 0.75% showed antimicrobial activity against both types of bacteria.",
+        "Question": "Which particles showed a lower migration rate from the films to the aqueous medium?",
+        "A": "Naked copper particles",
+        "B": "Silica-coated copper particles",
+        "C": "Both showed similar migration rates",
+        "D": "Neither showed any migration",
+        "Answer": "B",
+        "Source": "The fact that copper particles have migrated from TPS films, independently if they are naked or coated, to the aqueous medium could be attributed to the quick water penetration into to the starch-glycerol matrix, allowing the diffusion of the active compounds to the simulant."
+    }
+}

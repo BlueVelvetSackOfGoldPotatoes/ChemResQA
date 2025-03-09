@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Poly (ADP-ribose) polymerase (PARP) inhibitors are a class of drugs that target PARP enzymes involved in DNA repair. They are particularly effective against cancers with BRCA mutations, which impair the cell's ability to repair DNA damage.",
+        "Question": "What is the primary therapeutic target of PARP inhibitors?",
+        "A": "RNA polymerase",
+        "B": "Poly (ADP-ribose) polymerase",
+        "C": "Ligase enzymes",
+        "D": "Helicase enzymes",
+        "Answer": "B",
+        "Source": "Poly (ADP-ribose) polymerase (PARP) and proteins encoded for by the breast cancer susceptibility gene 1/2 (BRCA1/2) are crucial for DNA repair via base excision and homologous recombination (HR) in humans."
+    },
+    "Question_2": {
+        "Context": "BRCA mutations can lead to a reduced ability to repair damaged DNA, which in turn can result in the development of certain types of cancer.",
+        "Question": "What consequence do BRCA mutations have on DNA repair?",
+        "A": "Enhanced DNA repair",
+        "B": "Unchanged DNA repair capability",
+        "C": "Reduced ability to repair damaged DNA",
+        "D": "Increased DNA damage",
+        "Answer": "C",
+        "Source": "However, BRCA mutations result in a reduced ability to repair damaged DNA, leading to the development of cancer and other genetic changes."
+    },
+    "Question_3": {
+        "Context": "PARP inhibitors can induce synthetic lethality in cancer cells with BRCA mutations by blocking the repair of single-strand breaks, leading to cell death.",
+        "Question": "How do PARP inhibitors induce cell death in cancer cells with BRCA mutations?",
+        "A": "By inducing double-strand breaks",
+        "B": "By repairing double-strand breaks",
+        "C": "By blocking the repair of single-strand breaks",
+        "D": "By enhancing homologous recombination",
+        "Answer": "C",
+        "Source": "Single-strand breaks accumulate in the presence of a PARP inhibitor, which causes increased replication errors and double-strand breaks (DSBs), eventually leading to apoptosis of cells with BRCA mutations."
+    },
+    "Question_4": {
+        "Context": "In normal cells, double-strand breaks induced by PARP inhibitors are repaired by homologous recombination; however, in cancer cells with BRCA mutations, this repair mechanism is faulty.",
+        "Question": "Why are normal cells less affected by PARP inhibitors compared to cancer cells with BRCA mutations?",
+        "A": "Normal cells lack PARP enzymes",
+        "B": "Normal cells can repair double-strand breaks via homologous recombination",
+        "C": "Cancer cells are more resistant to PARP inhibitors",
+        "D": "PARP inhibitors do not induce double-strand breaks in normal cells",
+        "Answer": "B",
+        "Source": "In normal cells, the DSBs induced by PARP inhibitors are repaired by HR; however, in cancers caused by BRCA mutations, HR does not occur, resulting in synthetic lethality."
+    },
+    "Question_5": {
+        "Context": "PARP inhibitors have shown efficacy against breast and ovarian cancers with BRCA mutations, but they also have undesirable side effects such as hematological toxicity.",
+        "Question": "What is a common side effect associated with PARP inhibitors?",
+        "A": "Cardiotoxicity",
+        "B": "Neurotoxicity",
+        "C": "Hematological toxicity",
+        "D": "Hepatotoxicity",
+        "Answer": "C",
+        "Source": "However, all approved PARP inhibitors have undesirable side effects such as hematological toxicity."
+    },
+    "Question_6": {
+        "Context": "Selective inhibition of PARP1 over PARP2 by certain inhibitors may reduce side effects caused by PARP2 inhibition.",
+        "Question": "What is the potential advantage of selectively inhibiting PARP1 over PARP2?",
+        "A": "Increased efficacy against cancer",
+        "B": "Reduction in hematological toxicity",
+        "C": "Enhanced DNA repair",
+        "D": "Prevention of BRCA mutations",
+        "Answer": "B",
+        "Source": "Synthetic lethality occurs when only PARP1 is inhibited in the presence of a BRCA mutation, suggesting that PARP2 does not have anticancer effects and causes hematological toxicity."
+    },
+    "Question_7": {
+        "Context": "Liquid chromatography with tandem mass spectrometry (LC\u2013MS/MS) is a bioanalytical method used to quantify drugs in biological samples.",
+        "Question": "What bioanalytical method is used to quantify drugs in plasma?",
+        "A": "Gas chromatography",
+        "B": "High-performance liquid chromatography",
+        "C": "Liquid chromatography with tandem mass spectrometry",
+        "D": "Ultraviolet-visible spectroscopy",
+        "Answer": "C",
+        "Source": "Therefore, a method based on liquid chromatography with tandem mass spectroscopy (LC\u2013MS/MS) was developed and validated to quantify AZD5305 in plasma of mice."
+    },
+    "Question_8": {
+        "Context": "In mass spectrometry, the multiple reaction monitoring (MRM) mode is used to enhance the selectivity and sensitivity of the detection of specific compounds.",
+        "Question": "What is the purpose of using multiple reaction monitoring (MRM) in mass spectrometry?",
+        "A": "To increase the speed of analysis",
+        "B": "To reduce the cost of analysis",
+        "C": "To enhance the selectivity and sensitivity of detection",
+        "D": "To increase the size of the sample required",
+        "Answer": "C",
+        "Source": "Detection was carried out via triple quadrupole mass spectrometry in positive ion mode employing multiple reaction monitoring transitions."
+    },
+    "Question_9": {
+        "Context": "The pharmacokinetic properties of a drug, such as its bioavailability and metabolic stability, are critical for determining its efficacy and safety profile.",
+        "Question": "Why are the pharmacokinetic properties of a drug important?",
+        "A": "They determine the drug's color and physical appearance",
+        "B": "They influence the drug's taste and solubility",
+        "C": "They affect the drug's efficacy and safety profile",
+        "D": "They are unrelated to the drug's therapeutic effects",
+        "Answer": "C",
+        "Source": "The bioavailability was close to 100%, and the metabolic stability of AZD5305 in hepatic microsomes of mice and humans was very high. These results may contribute to the improvement of PARP inhibitors that are used to treat malignancies originating from BRCA mutations."
+    },
+    "Question_10": {
+        "Context": "The bioavailability of a drug is a measure of the fraction of an administered dose that reaches the systemic circulation and is available for therapeutic action.",
+        "Question": "What does the bioavailability of a drug indicate?",
+        "A": "The duration of the drug's effect",
+        "B": "The fraction of the dose that reaches systemic circulation",
+        "C": "The toxicity level of the drug",
+        "D": "The flavor and odor of the drug",
+        "Answer": "B",
+        "Source": "The bioavailability was close to 100%, and the metabolic stability of AZD5305 in hepatic microsomes of mice and humans was very high."
+    }
+}

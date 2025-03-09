@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Hydrogels are polymers that can absorb water without dissolving, which makes them useful in various applications such as biomedical devices and industrial products.",
+        "Question": "What property of hydrogels allows them to absorb water without dissolving?",
+        "A": "Hydrophobicity",
+        "B": "Hydrophilicity",
+        "C": "Water absorption without dissolution",
+        "D": "Bioincompatibility",
+        "Answer": "C",
+        "Source": "Hydrogels have obtained a widespread interest of research and industry because of their diversified properties, such as water absorption without dissolution, biocompatibility and flexibility."
+    },
+    "Question_2": {
+        "Context": "Polyethylene glycol diacrylate (PEGDA) is a polymer synthesized from polyethylene glycol and diacrylate crosslinker, known for its reactivity and versatility in various applications.",
+        "Question": "What are the precursor and crosslinker used to synthesize PEGDA?",
+        "A": "Polyethylene glycol (PEG) and diacrylate (DA)",
+        "B": "Polyvinyl alcohol (PVA) and diacrylate (DA)",
+        "C": "Polyethylene glycol (PEG) and tricarboxylic acid (TCA)",
+        "D": "Polyvinyl chloride (PVC) and diacrylate (DA)",
+        "Answer": "A",
+        "Source": "It is a highly reactive polymeric material, synthesized from a polyethylene glycol (PEG) precursor and diacrylate (DA) crosslinker."
+    },
+    "Question_3": {
+        "Context": "PEGDA-based hydrogels can change their shape in response to environmental conditions such as immersion in water or exposure to high temperatures.",
+        "Question": "What behavior do PEGDA-based hydrogels exhibit upon immersion in water and exposure to high temperatures?",
+        "A": "Dissolution and evaporation",
+        "B": "Swelling and shrinking",
+        "C": "Crystallization and melting",
+        "D": "Hardening and softening",
+        "Answer": "B",
+        "Source": "PEGDA-based components can swell under immersion in water, and upon exposure to sufficiently high temperature, regain their initial shape."
+    },
+    "Question_4": {
+        "Context": "Hydrogels can be customized and processed using various fabrication methods to create different structures and devices.",
+        "Question": "Which of the following is NOT a fabrication method for processing hydrogels?",
+        "A": "Spin coating",
+        "B": "Chemical vapor deposition",
+        "C": "Electropolymerization",
+        "D": "Thermal decomposition",
+        "Answer": "D",
+        "Source": "PEGDA can be customised and processed with numerous fabrication methods, such as spin coating, chemical vapour deposition, and electropolymerization."
+    },
+    "Question_5": {
+        "Context": "Hydrophobic surfaces are designed to repel water and other liquids, which is quantified by the contact angle between the liquid droplet and the substrate.",
+        "Question": "What is the purpose of designing a hydrophobic surface in the context of hydrogel photopolymer deposition?",
+        "A": "To increase the solubility of hydrogel in water",
+        "B": "To prevent the non-polymerized hydrogel from sinking into the structure",
+        "C": "To enhance the electrical conductivity of the hydrogel",
+        "D": "To improve the transparency of the hydrogel film",
+        "Answer": "B",
+        "Source": "These limitations can be overcome by applying a hydrophobic surface. This paper presents a novel two-step method, in which a hydrophobic surface was designed and manufactured using mask-projection vat photopolymerization additive manufacturing (VPP)."
+    },
+    "Question_6": {
+        "Context": "Vat photopolymerization additive manufacturing (VPP) is a process that uses structured ultraviolet light to crosslink a liquid polymer into a solid structure.",
+        "Question": "What is the role of ultraviolet (UV) light in vat photopolymerization additive manufacturing (VPP)?",
+        "A": "To dissolve the polymer",
+        "B": "To heat the polymer",
+        "C": "To crosslink the liquid polymer",
+        "D": "To reduce the viscosity of the polymer",
+        "Answer": "C",
+        "Source": "It is a process that employs structured ultraviolet (UV) light to crosslink a liquid polymer and create a solid structure."
+    },
+    "Question_7": {
+        "Context": "The Cassie-Baxter state describes a condition where hydrophobicity is achieved through the formation of air pockets between a rough surface and a liquid droplet.",
+        "Question": "According to the Cassie-Baxter state, what contributes to the hydrophobicity of a surface?",
+        "A": "Smoothness of the surface",
+        "B": "Roughness-induced formation of air pockets",
+        "C": "Hydrophilic coating",
+        "D": "Complete wetting of the surface",
+        "Answer": "B",
+        "Source": "The base was designed following the Cassie-Baxter state, in which the hydrophobicity occurs due to roughness-induced formation of air pockets between the surface and the liquid droplet."
+    },
+    "Question_8": {
+        "Context": "The contact angle is a measure of the wettability of a surface, which indicates how a liquid droplet interacts with the surface.",
+        "Question": "What does a higher contact angle on a surface indicate?",
+        "A": "Increased hydrophilicity",
+        "B": "Increased hydrophobicity",
+        "C": "Decreased surface tension",
+        "D": "Decreased viscosity of the liquid",
+        "Answer": "B",
+        "Source": "This can be achieved by applying a hydrophobic surface, which is a specially designed surface for liquid retention by means of increasing the contact angle between the liquid droplet and the substrate."
+    },
+    "Question_9": {
+        "Context": "Photoinitiators are compounds used in photopolymerization processes to initiate the polymerization reaction upon exposure to light.",
+        "Question": "What is the role of photoinitiators in the photopolymerization of hydrogels?",
+        "A": "To inhibit the polymerization reaction",
+        "B": "To initiate the polymerization reaction",
+        "C": "To increase the viscosity of the hydrogel",
+        "D": "To decrease the molecular weight of the polymer",
+        "Answer": "B",
+        "Source": "The monomer was synthesized with Phenylbis (2,4,6-trimethylbenzoyl)phosphine oxide (97%) photoinitiator for radical polymerization."
+    },
+    "Question_10": {
+        "Context": "The swelling and shrinking behavior of hydrogels is a critical property for applications such as filtering devices, where reversible changes in geometry are desired.",
+        "Question": "In the context of hydrogels used as filters, why is the ability to swell and shrink important?",
+        "A": "To allow for reversible changes in geometry",
+        "B": "To permanently alter the chemical composition",
+        "C": "To increase the thermal conductivity",
+        "D": "To enhance the optical clarity",
+        "Answer": "A",
+        "Source": "The ability of the specimen to demonstrate intrinsic hydrogel behaviour - swelling and shrinking - was investigated through immersion in water followed by exposure to heat at 60 \u25e6 C."
+    }
+}

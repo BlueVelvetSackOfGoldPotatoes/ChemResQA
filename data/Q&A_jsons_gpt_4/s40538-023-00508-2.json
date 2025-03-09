@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Continuous cropping can lead to soil degradation, which affects the soil's physicochemical properties and microbial activity, ultimately impacting crop yield. Crop rotation is a practice used to mitigate these effects.",
+        "Question": "What is the effect of crop rotation on soil physicochemical properties compared to continuous cropping?",
+        "A": "It increases soil bulk density and electrical conductivity.",
+        "B": "It decreases soil bulk density and electrical conductivity.",
+        "C": "It has no significant effect on soil physicochemical properties.",
+        "D": "It decreases soil organic matter and microbial quantity.",
+        "Answer": "B",
+        "Source": "Crop rotation can mitigate the damage caused by continuous cropping, but different crop rotation patterns respond differently to soil quality and rhizosphere metabolism. The results showed that pea-potato rotation (T1) and faba bean-potato rotation (T2) significantly improved soil physicochemical properties and microbial quantity, enhanced enzyme activity, and increased yield by 21.19% and 28.38%, respectively, compared with the continuous potato crop."
+    },
+    "Question_2": {
+        "Context": "In the context of soil quality, soil organic matter (SOM) is a crucial indicator of soil health and fertility, which can be influenced by agricultural practices such as crop rotation.",
+        "Question": "How does the inclusion of legumes in crop rotation patterns affect soil organic matter (SOM)?",
+        "A": "It significantly decreases SOM.",
+        "B": "It has no significant effect on SOM.",
+        "C": "It significantly increases SOM.",
+        "D": "It converts SOM into inorganic compounds.",
+        "Answer": "C",
+        "Source": "T1 and T2 treatments SOM significantly increased by 31.09% and 30.26%, and TN significantly increased by 20.23% and 24.72%, respectively."
+    },
+    "Question_3": {
+        "Context": "Enzyme activities in soil, such as those of sucrase and urease, are important for nutrient cycling and can be influenced by crop management practices.",
+        "Question": "What is the impact of legume-potato crop rotation on soil enzyme activities like sucrase and urease?",
+        "A": "It decreases the activities of both enzymes.",
+        "B": "It increases the activity of sucrase but decreases urease activity.",
+        "C": "It increases the activities of both enzymes.",
+        "D": "It has no significant effect on the activities of these enzymes.",
+        "Answer": "C",
+        "Source": "Compared with CK, URE activity was significantly increased by 20.53% and 25.74% in T1 and T2 treat- ments, respectively. SUC activity was significantly enhanced by 16.33% in T2 treatment."
+    },
+    "Question_4": {
+        "Context": "Microbial quantity in soil, including bacteria, fungi, and actinomycetes, is a key factor in soil health and can be affected by different crop rotation patterns.",
+        "Question": "How does legume-potato rotation influence the quantity of soil bacteria and actinomycetes?",
+        "A": "It significantly decreases the quantity of both bacteria and actinomycetes.",
+        "B": "It significantly increases the quantity of both bacteria and actinomycetes.",
+        "C": "It increases the quantity of bacteria but decreases actinomycetes.",
+        "D": "It has no significant effect on the quantity of bacteria and actinomycetes.",
+        "Answer": "B",
+        "Source": "Compared to CK, the T1 treatment significantly increased the quanti- ties of bacteria and actinomyces by 23.72% and 28.39%, respectively, and fungi were decreased by 12.72% in the T2 treatment. Bacteria and actinomycetes quanti- ties were significantly increased by 38.18% and 52.64%, respectively, and fungi were decreased by 18.1% in T2 treatment."
+    },
+    "Question_5": {
+        "Context": "Soil metabolomics is a tool used to identify low molecular weight organic compounds in soils, which can reflect plant and soil microbial metabolic activities.",
+        "Question": "Which classes of compounds are primarily identified in soil metabolomics analysis?",
+        "A": "Nucleotides, organic acids and derivatives, and flavonoids.",
+        "B": "Only nucleotides and organic acids.",
+        "C": "Only organic acids and flavonoids.",
+        "D": "Only nucleotides and flavonoids.",
+        "Answer": "A",
+        "Source": "Non-targeted metabolomics analysis showed that the differential metabolites of pea-potato and faba bean-potato rotation were mainly nucleotides, organic acids and derivatives, and flavonoids compared to continuous potato cropping."
+    },
+    "Question_6": {
+        "Context": "Metabolic pathways such as the ABC transporter, purine metabolism, and phenylalanine metabolism can be enriched with differential metabolites due to crop rotation practices.",
+        "Question": "Which metabolic pathways are enriched with differential metabolites in legume-potato rotations?",
+        "A": "Only ABC transporter and purine metabolism.",
+        "B": "Only purine metabolism and phenylalanine metabolism.",
+        "C": "ABC transporter, purine metabolism, and phenylalanine metabolism.",
+        "D": "Only phenylalanine metabolism.",
+        "Answer": "C",
+        "Source": "These differential metabolites are mainly enriched in the ABC transporter, purine metabolism, pyrimidine metabolism, and phenylalanine metabolism path- ways."
+    },
+    "Question_7": {
+        "Context": "The inclusion of legumes in crop rotation can influence the metabolic profile of the soil, affecting various biochemical pathways.",
+        "Question": "What effect does legume-potato rotation have on the metabolic profile of soil?",
+        "A": "It decreases the diversity of metabolites.",
+        "B": "It does not change the metabolic profile.",
+        "C": "It increases the abundance of specific metabolites.",
+        "D": "It only affects the pH level of the soil.",
+        "Answer": "C",
+        "Source": "Combined analyses showed that legume-potato rotations improved soil physicochemical properties, enzyme activities, and microbial quantity of continuous potato cropping, ultimately increasing tuber yields."
+    },
+    "Question_8": {
+        "Context": "The cycling of nutrients in the soil can be influenced by the presence of certain metabolites, which may affect soil physicochemical properties and microbial quantity.",
+        "Question": "What role do important metabolites play in the cycling of nutrients in the soil?",
+        "A": "They decrease the cycling of nutrients.",
+        "B": "They have no impact on the cycling of nutrients.",
+        "C": "They play a part in making soil physicochemical properties and microbial quantity better.",
+        "D": "They only affect the microbial quantity but not the physicochemical properties.",
+        "Answer": "C",
+        "Source": "Some of these important metabolites may play a part in the cycling of nutrients in the soil, making its physicochemical properties and microbial quantity better, raising the activity of soil enzymes, and ultimately increas- ing the yield of potato tubers."
+    },
+    "Question_9": {
+        "Context": "The study of rhizosphere metabolites can provide insights into the interactions between plants and soil microorganisms, as well as the overall health of the soil environment.",
+        "Question": "What components mainly constitute the rhizosphere metabolites?",
+        "A": "Only root exudates and microbial metabolites.",
+        "B": "Root exudates, microbial metabolites, plant and soil organic matter decomposition.",
+        "C": "Only plant and soil organic matter decomposition.",
+        "D": "Only root exudates.",
+        "Answer": "B",
+        "Source": "Rhizosphere metabolites consist of four main compo- nents: root exudates, microbial metabolites, and plant and soil organic matter decomposition, which can reflect plant and soil microbial metabolic activities."
+    },
+    "Question_10": {
+        "Context": "The inclusion of legumes in crop rotation can lead to changes in the soil microbial community, which can have ecological benefits.",
+        "Question": "What ecological benefits can legume inclusion in crop rotation provide?",
+        "A": "It reduces soil microbial community diversity.",
+        "B": "It optimizes the soil microbial community.",
+        "C": "It has no impact on the soil microbial community.",
+        "D": "It increases soil-borne diseases.",
+        "Answer": "B",
+        "Source": "Their inclusion in the rotation sequence can increase soil organic matter con- tent and nutrient accumulation and optimize the soil microbial community, with great ecological benefits."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Nanozymes are designed to mimic the function of enzymes, which are crucial for driving chemical reactions within cells.",
+        "Question": "What is the primary function of nanozymes?",
+        "A": "To replicate the structure of enzymes",
+        "B": "To mimic the function of enzymes",
+        "C": "To replace all cellular enzymes",
+        "D": "To observe intracellular reactions",
+        "Answer": "B",
+        "Source": "Nanozymes mimic the function of enzymes, which drive essential intracellular chemical reactions that govern biological processes."
+    },
+    "Question_2": {
+        "Context": "Nanozymes can be utilized in intracellular chemistry through two main approaches, each with its own applications and benefits.",
+        "Question": "Which of the following is NOT one of the two main approaches for utilizing nanozymes in intracellular chemistry?",
+        "A": "Biomimetic catalysis",
+        "B": "Bioorthogonal catalysis",
+        "C": "Biodegradable catalysis",
+        "D": "Both A and B are correct",
+        "Answer": "C",
+        "Source": "Two approaches for utilizing nanozymes in intracellular chemistry have been reported. Biomimetic catalysis replicates the identical reactions of natural enzymes, and bioorthogonal catalysis enables chemistries inaccessible in cells."
+    },
+    "Question_3": {
+        "Context": "Biomimetic nanozymes (BMNZs) are designed to replicate the catalytic functions of natural enzymes.",
+        "Question": "What is the primary consideration when designing biomimetic nanozymes (BMNZs) for various applications?",
+        "A": "Determining the enzymes to be mimicked",
+        "B": "The color of the nanomaterials",
+        "C": "The size of the nanomaterials only",
+        "D": "The shape of the enzymes",
+        "Answer": "A",
+        "Source": "Designing catalysts using biomimetic nanozymes (BMNZ) for various applications requires determining the enzymes to be mimicked and the process for implementing their catalytic mechanisms and kinetics."
+    },
+    "Question_4": {
+        "Context": "Bioorthogonal nanozymes (BONZs) are designed to perform catalysis of reactions that do not naturally occur in biological systems.",
+        "Question": "What is necessary when designing bioorthogonal catalysis using bioorthogonal nanozymes (BONZs)?",
+        "A": "Identifying the biomimetic catalysts",
+        "B": "Identifying the bioorthogonal catalysts",
+        "C": "Using only natural enzymes",
+        "D": "Avoiding the use of metals",
+        "Answer": "B",
+        "Source": "When designing bioorthogonal catalysis using bioorthogonal nanozymes (BONZ), it is necessary to identify the biorthogonal catalysts to be employed for the intended intracellular chemical reactions and their corresponding stabilization mechanisms in the intracellular environments."
+    },
+    "Question_5": {
+        "Context": "The catalytic process using biomimetic nanozymes (BMNZs) does not always require the introduction of additional substrates.",
+        "Question": "Why is the introduction of additional substrates not necessary when using BMNZs?",
+        "A": "Because BMNZs react with the biomolecules already present in the cells",
+        "B": "Because BMNZs are self-sustaining",
+        "C": "Because BMNZs do not participate in reactions",
+        "D": "Because BMNZs only work with synthetic substrates",
+        "Answer": "A",
+        "Source": "The introduction of additional substrates is not necessary when using BMNZs as these nanozymes mostly react with the biomolecules present in the cells."
+    },
+    "Question_6": {
+        "Context": "Nanozymes can be based on various nanomaterials and catalytic metals to facilitate intracellular catalysis.",
+        "Question": "Which of the following may be used to facilitate intracellular catalysis by nanozymes?",
+        "A": "Plastic beads",
+        "B": "Catalytic metals",
+        "C": "Natural enzymes",
+        "D": "Organic solvents",
+        "Answer": "B",
+        "Source": "For both nanozymes, various nanomaterials and catalytic metals with specific features may be used to facilitate intracellular catalysis."
+    },
+    "Question_7": {
+        "Context": "Nanozymes are artificial enzymes that include synthetic peptides, molecular catalysts, and catalytic nanomaterials.",
+        "Question": "Which of the following is considered a nanozyme?",
+        "A": "Synthetic peptides",
+        "B": "DNA molecules",
+        "C": "Cell membranes",
+        "D": "Carbohydrates",
+        "Answer": "A",
+        "Source": "As alternatives to natural enzymes, various artificial enzymes, including synthetic peptides [1], molecular catalysts [2], and catalytic nanomaterials [3\u20135], have been developed for cancer therapy [6], biosensing [7], and diagnostic medicine [8, 9]."
+    },
+    "Question_8": {
+        "Context": "The activity and selectivity of nanozymes can be affected by their size, shape, structural composition, and surface characteristics.",
+        "Question": "What factor is known to enhance the catalytic activity of nanozymes?",
+        "A": "Decreased surface-to-volume ratio",
+        "B": "Increased surface-to-volume ratio",
+        "C": "Uniform color",
+        "D": "Decreased surface area",
+        "Answer": "B",
+        "Source": "For example, numerous studies have consistently shown that nanomaterials with high surface-to-volume ratio exhibit enhanced catalytic activity."
+    },
+    "Question_9": {
+        "Context": "The catalytic mechanisms of biomimetic nanozymes (BMNZs) can be classified according to the types of enzymatic activities they mimic.",
+        "Question": "Which of the following is NOT a type of enzymatic activity that BMNZs mimic?",
+        "A": "Peroxidase-like activity",
+        "B": "Oxidase-like activity",
+        "C": "Catalase-like activity",
+        "D": "Photosynthesis-like activity",
+        "Answer": "D",
+        "Source": "Recently, BMNZs that mimic oxidoreductase enzymes, including peroxidase (POD), oxidase (OXD), catalase (CAT), and superoxide dismutase (SOD), and hydrolytic enzymes have been reported."
+    },
+    "Question_10": {
+        "Context": "Hydrolase-like biomimetic nanozymes (BMNZs) have been developed to mimic hydrolytic enzymes, which catalyze the hydrolysis of chemical bonds.",
+        "Question": "What is a common feature of hydrolases that is often mimicked in the design of hydrolase-like BMNZs?",
+        "A": "A Zn active site",
+        "B": "A Fe active site",
+        "C": "A Cu active site",
+        "D": "A Mg active site",
+        "Answer": "A",
+        "Source": "Interestingly, most hydrolases contain a Zn active site that is coordinated to the imidazole group of histidine with tetrahedral geometry."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study, what method was used to determine the antioxidant activity of the extracts?",
+        "Question": "What method was used to determine the antioxidant activity of the extracts?",
+        "A": "DPPH free radical scavenging assay",
+        "B": "ORAC values comparison",
+        "C": "MTT assay",
+        "D": "LC\u2013MS/MS analysis",
+        "Answer": "A",
+        "Source": "The antioxidant activity was determined using a DPPH free radical scavenging assay, with slight modifications."
+    },
+    "Question_2": {
+        "Context": "What was the primary anthocyanin found in the 'Ariheuk' bran extract (ABE)?",
+        "Question": "What was the primary anthocyanin found in the 'Ariheuk' bran extract (ABE)?",
+        "A": "Cyanidin-3-O-glucoside",
+        "B": "Peonidin-3-O-glucoside",
+        "C": "Cyanidin-3-O-rutinoside",
+        "D": "Delphinidin-3-O-rutinoside",
+        "Answer": "B",
+        "Source": "Several anthocyanins were identified in ABE: peonidin-3-O-glucoside, peonidin-3-O-malonylglucoside, cyanidin-3-O-rutinoside, delphinidin-3-O-rutinoside, cyanidin-3-O-(6\u2033-malonyl-glucoside), and peonidin-3-O-glucoside."
+    },
+    "Question_3": {
+        "Context": "What was the primary anthocyanin found in the 'Geumgang' bran extract (GBE)?",
+        "Question": "What was the primary anthocyanin found in the 'Geumgang' bran extract (GBE)?",
+        "A": "Cyanidin-3-O-glucoside",
+        "B": "Peonidin-3-O-glucoside",
+        "C": "Cyanidin-3-O-rutinoside",
+        "D": "Delphinidin-3-O-rutinoside",
+        "Answer": "A",
+        "Source": "The significant metabolites in GBE-F2 included DL-tryptophan (m/z 205), L-phenylalanine (m/z 166), corymboside (m/z 565), and 14 other compounds."
+    },
+    "Question_4": {
+        "Context": "What was the method used to identify the active metabolites in the subfractions of the extracts?",
+        "Question": "What was the method used to identify the active metabolites in the subfractions of the extracts?",
+        "A": "HPLC analysis",
+        "B": "UV chromatograms",
+        "C": "LC\u2013MS/MS analysis",
+        "D": "TAC determination",
+        "Answer": "C",
+        "Source": "To further identify the active metabolites with anti-inflammatory activity in subfractions (ABE and GBE), LC-mass spectrometry (MS) analysis was performed."
+    },
+    "Question_5": {
+        "Context": "What was the primary component used to visually compare metabolomic variations between ABEs and GBEs?",
+        "Question": "What was the primary component used to visually compare metabolomic variations between ABEs and GBEs?",
+        "A": "PC1",
+        "B": "PC2",
+        "C": "PC3",
+        "D": "PC4",
+        "Answer": "A",
+        "Source": "PCA also revealed a metabolomic variation in ABEs, which can explain 92.6% of the variance in principal components 1 and 2."
+    },
+    "Question_6": {
+        "Context": "What was the primary component that distinguished ABE-F2 from ABE-F1 and ABE-F3?",
+        "Question": "What was the primary component that distinguished ABE-F2 from ABE-F1 and ABE-F3?",
+        "A": "PC1",
+        "B": "PC2",
+        "C": "PC3",
+        "D": "PC4",
+        "Answer": "A",
+        "Source": "ABE-F2, the active fraction, was distinguished from ABE-F1 and ABE-F3 by principal components 1 (PC1, 73.0%) and principal component 2 (PC2, 19.6%)."
+    },
+    "Question_7": {
+        "Context": "Which subfraction exhibited the highest total anthocyanin content (TAC) among all subfractions?",
+        "Question": "Which subfraction exhibited the highest total anthocyanin content (TAC) among all subfractions?",
+        "A": "ABE-F1",
+        "B": "ABE-F2",
+        "C": "ABE-F3",
+        "D": "GBE-F2",
+        "Answer": "C",
+        "Source": "All subfractions of ABE had a higher TAC than GBE, with ABE-F3 exhibiting the highest value, followed by ABE-F2 and ABE-F1."
+    },
+    "Question_8": {
+        "Context": "Which extract exhibited significantly higher DPPH free radical scavenging activity than the other extract?",
+        "Question": "Which extract exhibited significantly higher DPPH free radical scavenging activity than the other extract?",
+        "A": "ABE",
+        "B": "GBE",
+        "C": "ABE-F2",
+        "D": "GBE-F2",
+        "Answer": "A",
+        "Source": "ABE exhibited significantly higher DPPH free radical scavenging activity than GBE."
+    },
+    "Question_9": {
+        "Context": "Which subfraction demonstrated the most potent suppression of ROS generation among all subfractions?",
+        "Question": "Which subfraction demonstrated the most potent suppression of ROS generation among all subfractions?",
+        "A": "ABE-F2",
+        "B": "ABE-F3",
+        "C": "GBE-F2",
+        "D": "GBE-F3",
+        "Answer": "A",
+        "Source": "Notably, the F2 subfraction demonstrated the most potent suppression of ROS generation among all subfractions."
+    },
+    "Question_10": {
+        "Context": "Which extract had a higher relative anti-inflammatory activity based on the assessed biomarkers?",
+        "Question": "Which extract had a higher relative anti-inflammatory activity based on the assessed biomarkers?",
+        "A": "ABE",
+        "B": "GBE",
+        "C": "ABE-F2",
+        "D": "GBE-F2",
+        "Answer": "A",
+        "Source": "Based on the assessed biomarkers, the relative anti-inflammatory activity of ABE was higher than that of GBE."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effect of DB3 on cell viability in B16F10 melanoma cells.",
+        "Question": "What was the result of the MTT assay after 24 and 48 hours of treatment with DB3?",
+        "A": "Cell viability increased",
+        "B": "Cell viability remained constant",
+        "C": "Cell viability decreased",
+        "D": "Cell viability fluctuated",
+        "Answer": "C",
+        "Source": "The cell viability decreased in a time- and dose-dependent manner."
+    },
+    "Question_2": {
+        "Context": "The study explored the impact of DB3 on apoptosis in B16F10 melanoma cells.",
+        "Question": "What was observed in the flow cytometry analysis after 24 and 48 hours of DB3 treatment?",
+        "A": "Decrease in apoptotic cells",
+        "B": "No change in cell population",
+        "C": "Increase in apoptotic cells",
+        "D": "Decrease in live cells",
+        "Answer": "C",
+        "Source": "The results revealed an increase in PI-negative and Annexin V-positive areas in the DB3-treated group, indicating an apoptotic cell population."
+    },
+    "Question_3": {
+        "Context": "The study investigated the effect of DB3 on cell proliferation in B16F10 melanoma cells.",
+        "Question": "What was the result of the CFSE cell proliferation assay after 12, 24, and 48 hours of DB3 treatment?",
+        "A": "Decrease in CFSE intensity",
+        "B": "Increase in CFSE intensity",
+        "C": "No change in CFSE intensity",
+        "D": "Fluctuation in CFSE intensity",
+        "Answer": "A",
+        "Source": "We observed that the CFSE intensity of DB3-treated cells was higher than that of the untreated cells."
+    },
+    "Question_4": {
+        "Context": "The study examined the effect of DB3 on the cell cycle in B16F10 melanoma cells.",
+        "Question": "What change was observed in the G0/G1 phase after DB3 treatment?",
+        "A": "Decrease in G0/G1 phase",
+        "B": "Increase in G0/G1 phase",
+        "C": "No change in cell cycle phases",
+        "D": "Increase in G2/M phase",
+        "Answer": "B",
+        "Source": "Our results revealed that B16F10 melanoma cells treated with DB3 exhibited an increase in the G0/G1 phase compared to levels in non-treated cells."
+    },
+    "Question_5": {
+        "Context": "The study investigated the effect of DB3 on cell migration in B16F10 melanoma cells.",
+        "Question": "What was the outcome of the wound healing assay after 12 and 24 hours of DB3 treatment?",
+        "A": "Wound gap closed completely",
+        "B": "Wound gap widened",
+        "C": "Wound gap remained the same",
+        "D": "Wound gap partially closed",
+        "Answer": "B",
+        "Source": "The wound gap in cells treated with DB3 did not close even after 12 and 24 hours, indicating an inhibitory effect of DB3 on cell migration."
+    },
+    "Question_6": {
+        "Context": "The study examined the effect of DB3 on cell invasion in B16F10 melanoma cells.",
+        "Question": "What was observed in the soft agar assay after 21 days of DB3 treatment?",
+        "A": "Increase in colony size",
+        "B": "Decrease in colony size",
+        "C": "No change in colony size",
+        "D": "Fluctuation in colony size",
+        "Answer": "B",
+        "Source": "The colony size of cells treated with DB3 decreased after three weeks, indicating an inhibitory effect of DB3 on cell invasion."
+    },
+    "Question_7": {
+        "Context": "The study analyzed the effect of DB3 on the MAPK and AKT signaling pathways in B16F10 melanoma cells.",
+        "Question": "What was the impact of DB3 treatment on the phosphorylation levels of ERK, p38, JNK, and AKT?",
+        "A": "Phosphorylation levels increased",
+        "B": "Phosphorylation levels remained constant",
+        "C": "Phosphorylation levels decreased",
+        "D": "Phosphorylation levels fluctuated",
+        "Answer": "C",
+        "Source": "Western blot analysis confirmed that the phosphorylation levels of ERK, p38, JNK, and AKT were decreased following DB3 treatment."
+    },
+    "Question_8": {
+        "Context": "The study investigated the effect of DB3 on the expression levels of cell cycle-related proteins in B16F10 melanoma cells.",
+        "Question": "What change was observed in the expression levels of Cdk4 and Cyclin D1 after DB3 treatment?",
+        "A": "Increase in expression levels",
+        "B": "No change in expression levels",
+        "C": "Decrease in expression levels",
+        "D": "Fluctuation in expression levels",
+        "Answer": "C",
+        "Source": "The expression levels of Cdk4 and Cyclin D were decreased by DB3 treatment."
+    },
+    "Question_9": {
+        "Context": "The study examined the effect of DB3 on tumor growth in a murine tumor syngraft model.",
+        "Question": "What was the outcome of the tumor size after DB3 treatment?",
+        "A": "Tumor size increased",
+        "B": "Tumor size remained constant",
+        "C": "Tumor size decreased",
+        "D": "Tumor size fluctuated",
+        "Answer": "C",
+        "Source": "We confirmed that DB3 reduced tumor size in vivo."
+    },
+    "Question_10": {
+        "Context": "The study aimed to propose DB3 as a potential anti-cancer agent for melanoma treatment.",
+        "Question": "What conclusion can be drawn regarding the potential of DB3 as an anti-cancer agent?",
+        "A": "DB3 is not effective",
+        "B": "DB3 has moderate effectiveness",
+        "C": "DB3 is highly effective",
+        "D": "DB3 effectiveness is unknown",
+        "Answer": "C",
+        "Source": "These outcomes suggest that DB3 possesses potential as a new, low-side-effect anti-cancer drug for the treatment of melanoma by regulating cell proliferation and apoptosis."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In theoretical materials science, the search for basic mechanisms is aimed at understanding the key features of phenomena. This approach has been complemented by data-driven methods, which have gained traction due to advances in machine learning.",
+        "Question": "What is the primary goal of continuum mechanics?",
+        "A": "To predict the quantum mechanical properties of materials",
+        "B": "To establish the macroscopic response to a stimulus in a given geometry for a certain material",
+        "C": "To analyze the atomic structure of crystals",
+        "D": "To simulate the behavior of individual molecules in a gas",
+        "Answer": "B",
+        "Source": "The common goal of continuum mechanics is to establish the macroscopic response to a stimulus in a given geometry for a certain material."
+    },
+    "Question_2": {
+        "Context": "In the field of materials science, deriving governing equations from first principles can become challenging, especially when dealing with phenomena outside the linear regime, such as plasticity.",
+        "Question": "Why is a rigorous approach from first principles not feasible for applications outside the linear regime like in plasticity?",
+        "A": "Because the materials are too hard to study",
+        "B": "Because the approximation from first principles is neither analytically obvious nor computationally feasible",
+        "C": "Because the materials behave in a completely predictable manner",
+        "D": "Because the linear regime is the only important aspect of materials",
+        "Answer": "B",
+        "Source": "As soon as one considers applications outside the linear regime like in plasticity, a rigorous approach becomes impossible as the approximation from first principles is neither analytically obvious nor computationally feasible."
+    },
+    "Question_3": {
+        "Context": "In the context of materials science, machine learning techniques such as neural networks have been used to bypass some of the limitations of traditional data-driven approaches.",
+        "Question": "What is a limitation of traditional data-driven approaches that modern machine learning techniques like neural networks bypass?",
+        "A": "The need for physical samples of materials",
+        "B": "The reliance on experimental data only",
+        "C": "The requirement for a large number of researchers",
+        "D": "The reliance on the choice of a proper function",
+        "Answer": "D",
+        "Source": "Modern machine learning (ML) techniques like neural networks bypass these problems as they do not rely on the choice of a proper function thus as a positive side effect taking human bias out of the process."
+    },
+    "Question_4": {
+        "Context": "In the study of mechanics and physics, machine learning can be used to predict certain properties or behaviors based on data. Feature extraction is a crucial step in this process.",
+        "Question": "Which of the following is NOT a guiding principle for feature extraction in machine learning applications in physics?",
+        "A": "Features must be invariant under transformations which leave the target unchanged",
+        "B": "Features should be chosen so that the procedure is computationally efficient",
+        "C": "Features should be able to predict future market trends",
+        "D": "It should be possible to generalize the method to different system sizes",
+        "Answer": "C",
+        "Source": "Ideally the features X should be chosen following a few guiding principles adapted from approaches in quantum chemistry: i) the symmetries of the underlying problem must be preserved. In other words, features must be invariant under transformations which leave Y unchanged, ii) The mathematical properties of the problem, like continuity and differentiability with regards to Y, should be preserved by the features. iii) Features should be chosen so that the procedure is computationally efficient. iv) It must be possible to generalize the method to different system sizes so that systems of different sizes could be expressed by the same number of features."
+    },
+    "Question_5": {
+        "Context": "In the context of machine learning for materials science, the choice of estimator is influenced by various factors including sample size, desired accuracy, and interpretability.",
+        "Question": "What is a trade-off relationship that researchers should consider when choosing an estimator for machine learning applications in materials science?",
+        "A": "Cost and speed",
+        "B": "Accuracy and color",
+        "C": "Accuracy and interpretability",
+        "D": "Sample size and temperature",
+        "Answer": "C",
+        "Source": "Accuracy and interpretability can have a trade off relationship as deep learning approaches are very accurate in many applications but remain often quite difficult to interpret."
+    },
+    "Question_6": {
+        "Context": "In the field of materials science, machine learning has been applied to predict the stress-strain behavior of materials based on internal stresses and other features.",
+        "Question": "What was the result of using machine learning to predict the stress-strain behavior of materials in dislocation-based plasticity simulations?",
+        "A": "The predictions were perfectly accurate",
+        "B": "The predictions were moderately successful",
+        "C": "The predictions were completely inaccurate",
+        "D": "The predictions were unnecessary as the behavior is deterministic",
+        "Answer": "B",
+        "Source": "The predictions turned out to be moderately successful (R2 \u223c 0.5 for undeformed and R2 \u223c 0.7 for prestretched samples) as their estimators failed to predict burst activity which the authors argued to be stochastic by nature, thus limiting the predictability of DDD in general."
+    },
+    "Question_7": {
+        "Context": "In materials science, particularly in the study of amorphous solids, predicting which atoms will plastically deform under an external load is a significant challenge.",
+        "Question": "What approach was used to predict the non-affine displacement of atoms in a glass system under shear?",
+        "A": "Symmetry functions to encode the neighbourhood of an atom",
+        "B": "Linear elasticity theory",
+        "C": "Classical thermodynamics",
+        "D": "Quantum mechanical simulations",
+        "Answer": "A",
+        "Source": "The first approach to this problem was based on the use the symmetry functions to encode the neighbourhood of an atom, as these descriptors are translation and rotation invariant, and to classify whether its non-affine displacement has exceeded a certain threshold in an athermal quasistatic loading scenario."
+    },
+    "Question_8": {
+        "Context": "In the study of atomistic glasses, machine learning models have been developed to classify atoms based on their likelihood to undergo plastic deformation.",
+        "Question": "What metric was used to assess the success of a graph neural network model in predicting plastic deformation in atomistic glasses?",
+        "A": "Coefficient of determination",
+        "B": "Mean squared error",
+        "C": "Pearson correlation coefficient",
+        "D": "Mean absolute error",
+        "Answer": "C",
+        "Source": "The success of this model was measured by the Pearson correlation coefficient p."
+    },
+    "Question_9": {
+        "Context": "In materials science, the discovery of governing equations from data can be achieved through methods that assume a model for the time evolution of some quantity.",
+        "Question": "What is the basic mathematical assumption made in the model for discovering governing equations from data?",
+        "A": "The quantity is constant over time",
+        "B": "The quantity decreases exponentially over time",
+        "C": "The quantity is interested in the time evolution of some quantity",
+        "D": "The quantity oscillates without any change over time",
+        "Answer": "C",
+        "Source": "The basic mathematical assumption to the model is that we are interested in the time evolution of some quantity \u02d9X = f (X) and look for an approximation of f."
+    },
+    "Question_10": {
+        "Context": "In the context of materials science, particularly in the discovery of functions and partial differential equations from data, a collection of possible functions is constructed and measurements are performed to solve a linear problem.",
+        "Question": "What method is employed to solve the linear problem in the discovery of governing equations from data?",
+        "A": "Regularization ansatz enforcing sparsity of the components",
+        "B": "Quantum mechanical perturbation theory",
+        "C": "Classical Newtonian mechanics",
+        "D": "Statistical thermodynamics",
+        "Answer": "A",
+        "Source": "This problem then is solved via a regularization ansatz similar to LASSO enforcing sparsity of the components thus limiting the model to the governing equations."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effect of polymers on zinc oxide (ZnO) nanofluids for enhanced oil recovery. The stability of nanofluids was evaluated using sedimentation and UV\u2013vis spectrophotometry tests.",
+        "Question": "What was noted about the stability of ZnO nanofluids with PVA and PVP stabilizers compared to ZnO nanofluids without stabilizing agents?",
+        "A": "They settled faster",
+        "B": "They settled slower",
+        "C": "They displayed good stability",
+        "D": "They agglomerated quickly",
+        "Answer": "C",
+        "Source": "ZnO, ZnO + PVP, and ZnO + PVA were all set in stable conditions and their color changes were observed while their photos were recorded each day for comparison purposes. All the nanofluids were well stirred and ultrasonicated to obtain a homogenous solution and after 24 h. there was no change in color which means that the nanofluids displayed good stability."
+    },
+    "Question_2": {
+        "Context": "The study focused on the stability analysis of nanofluids suspension in the base fluid using visual tests for seven days.",
+        "Question": "What was observed about the stability of ZnO nanofluids with PVA and PVP stabilizers after seven days?",
+        "A": "They agglomerated and settled faster",
+        "B": "They displayed good stability",
+        "C": "They showed no change in color",
+        "D": "They agglomerated slowly",
+        "Answer": "B",
+        "Source": "On the seventh day of observation, ZnO nanofluids agglomerated and settled faster than ZnO + PVA and ZnO + PVA meanwhile ZnO + PVA has the best stability compared to ZnO and ZnO + PVP nanofluids."
+    },
+    "Question_3": {
+        "Context": "The study conducted UV\u2013Vis absorbance spectra measurement of ZnO nanofluids at different wavelengths.",
+        "Question": "What was observed about the absorbance values of ZnO nanofluids with stabilizing agents at different concentrations?",
+        "A": "Absorbance values decreased with increasing concentrations",
+        "B": "Absorbance values increased with increasing concentrations",
+        "C": "Absorbance values were the same at different concentrations",
+        "D": "Absorbance values were not affected by stabilizing agents",
+        "Answer": "B",
+        "Source": "It has been observed that absorbance values increase with the increase in concentrations and decrease with increasing wavelength and this corresponds to Zeta potential values which is above \u2212 43.7 (mV) showing good stability of ZnO nanofluids."
+    },
+    "Question_4": {
+        "Context": "The study focused on the contact angle measurement of different fluids on a PDMS surface.",
+        "Question": "What was observed about the contact angle of ZnO nanofluids with PVA and PVP stabilizers compared to DI water on PDMS surface?",
+        "A": "Contact angle increased with stabilizers",
+        "B": "Contact angle decreased with stabilizers",
+        "C": "Contact angle was the same for all fluids",
+        "D": "Contact angle was not measured",
+        "Answer": "B",
+        "Source": "It was observed that DI water has a higher contact angle compared to nanofluids and this is because PDMS is hydrophobic and hardly changes in pure water. However, the contact angle decreased by 30% when the PVP stabilizer was added to ZnO nanofluids and further decreased by 35% for the PVA stabilizer as well."
+    },
+    "Question_5": {
+        "Context": "The study conducted IFT measurements to determine the effect of ZnO nanofluids and stabilizing agents on interfacial tension.",
+        "Question": "What was noted about the interfacial tension reduction when ZnO nanofluids with stabilizing agents were introduced?",
+        "A": "IFT increased",
+        "B": "IFT decreased",
+        "C": "IFT remained the same",
+        "D": "IFT was not measured",
+        "Answer": "B",
+        "Source": "Further decrease in IFT was also observed when nanofluid containing PVP and PVA stabilizing agents were introduced then the IFT decreased by 59 and 61% respectively."
+    },
+    "Question_6": {
+        "Context": "The study focused on the oil recovery factors of various nanofluid concentrations in a microchannel matrix.",
+        "Question": "Which nanofluid recorded the highest recovery factor in the microchannel matrix experiment?",
+        "A": "ZnO nanofluids",
+        "B": "ZnO + PVA",
+        "C": "ZnO + PVP",
+        "D": "The recovery factor was the same for all nanofluids",
+        "Answer": "B",
+        "Source": "Results showed that ZnO + PVA nanofluids has a higher recovery of 82% followed while ZnO + PVP recorded the second higher recovery factor of 78% and ZnO nanofluids therefore, recorded the lowest recovery factor of 73% respectively."
+    },
+    "Question_7": {
+        "Context": "The study examined the residual oil saturation after flooding in a PDMS microchannel matrix.",
+        "Question": "What was observed about the residual oil saturation after flooding with ZnO nanofluids?",
+        "A": "Almost all oil was recovered",
+        "B": "45% of saturated oil remained unrecovered",
+        "C": "No oil was recovered",
+        "D": "Oil saturation increased",
+        "Answer": "B",
+        "Source": "It was observed when ZnO nanofluids were used, almost 45% of saturated oil remained unrecovered in the pore media."
+    },
+    "Question_8": {
+        "Context": "The study focused on the visualization of porous media during the flooding process.",
+        "Question": "What was observed about the sweep efficiency when nanofluids with stabilizing agents were used?",
+        "A": "Sweep efficiency decreased",
+        "B": "Sweep efficiency increased",
+        "C": "Sweep efficiency remained the same",
+        "D": "Sweep efficiency was not measured",
+        "Answer": "B",
+        "Source": "Based on the visualization of porous media, nanofluids with stabilizing agents displayed a better sweep efficiency than ZnO nanofluids."
+    },
+    "Question_9": {
+        "Context": "The study examined the effectiveness of ZnO nanofluids on enhanced oil recovery in a microchannel matrix.",
+        "Question": "What was the recovery factor of ZnO nanofluids in the microchannel matrix experiment?",
+        "A": "73%",
+        "B": "78%",
+        "C": "82%",
+        "D": "The recovery factor was not mentioned",
+        "Answer": "A",
+        "Source": "Microchannel matrix flooding experiment results showed that ZnO nanofluids were able to enhance oil by 73%."
+    },
+    "Question_10": {
+        "Context": "The study concluded by summarizing the findings related to the stability and effectiveness of ZnO nanofluids for enhanced oil recovery.",
+        "Question": "What was the main conclusion of the study regarding the stability and effectiveness of ZnO nanofluids for enhanced oil recovery?",
+        "A": "ZnO nanofluids were not stable",
+        "B": "ZnO nanofluids were highly effective",
+        "C": "ZnO nanofluids were stable and effective",
+        "D": "ZnO nanofluids were not effective",
+        "Answer": "C",
+        "Source": "The results of the IFT pendant test revealed that PVA and PVP nanofluids significantly reduced the IFT by 59 and 61% compared to ZnO nanofluids without stabilizing agents. It was also noted that the alteration of formation wettability increases mobility and entropy of nanoparticles in suspension resulting in a reduction of IFT, increase in disjoining pressure, and creation of pressure profile in the reservoir."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the fabrication of Germanium-on-Nothing (GON) structures via annealing and their utilization in various applications.",
+        "Question": "What is the main advantage of the proposed deep learning-based simulation method over conventional simulation schemes?",
+        "A": "High computational complexity",
+        "B": "Low accuracy",
+        "C": "Long training duration",
+        "D": "Physically accurate with empirical data",
+        "Answer": "D",
+        "Source": "Compared to conventional simulation schemes, our proposed deep learning-based simulation method is not only computationally efficient ( \u223c 10 min) but also physically accurate with its use of empirical data."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the use of Ultrasonic atomic force microscopy, X-ray scanning, and optical interferometry for sub-surface imaging.",
+        "Question": "Which technique is NOT mentioned as a method for sub-surface imaging?",
+        "A": "Ultrasonic atomic force microscopy",
+        "B": "X-ray scanning",
+        "C": "Optical interferometry",
+        "D": "Electron microscopy",
+        "Answer": "D",
+        "Source": "Ultrasonic atomic force microscopy, X-ray scanning, and optical interferometry are some widely used sub-surface imaging techniques."
+    },
+    "Question_3": {
+        "Context": "The paper introduces a deep learning-based method for simulating the transformation of sub-surface morphology of GON over annealing.",
+        "Question": "What is the name of the specific branch of finite element method (FEM) mentioned as a viable simulation method for GON structures?",
+        "A": "Phase field modeling",
+        "B": "Autoencoder modeling",
+        "C": "Convolutional neural networks",
+        "D": "Linear regression modeling",
+        "Answer": "A",
+        "Source": "While phase field modeling, a specific branch of finite element method (FEM) for solving interfacial problems, is a viable simulation method for GON structures."
+    },
+    "Question_4": {
+        "Context": "The paper describes the fabrication process of Germanium-on-Nothing (GON) structures.",
+        "Question": "What is the diameter of the circular holes patterned on the surface of the germanium wafer?",
+        "A": "1.2 \u00b5m",
+        "B": "0.8 \u00b5m",
+        "C": "2.0 \u00b5m",
+        "D": "1.0 \u00b5m",
+        "Answer": "A",
+        "Source": "The diameter and spacing of the hole patterns are respectively 1.2 \u00b5m and 0.8 \u00b5m."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the training of a deep learning model for simulating the transformation of sub-surface morphology of GON structures.",
+        "Question": "What is the name of the model used for simulation, which compresses the input data into a smaller size?",
+        "A": "Autoencoder",
+        "B": "Convolutional neural network",
+        "C": "Recurrent neural network",
+        "D": "Linear regression model",
+        "Answer": "A",
+        "Source": "Autoencoder is a specific branch of encoder-decoder architectures that solves F(x) = x, namely a model that outputs the identical input data."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the simulation of 2D morphological transformation of GON structures during annealing.",
+        "Question": "What is the main advantage of the deep learning approach over theoretical simulation methods?",
+        "A": "Incorporates simplifications",
+        "B": "Long computational period",
+        "C": "Utilizes empirical data",
+        "D": "Low accuracy",
+        "Answer": "C",
+        "Source": "On the other hand, a deep learning model\u2019s use of empirical data automatically incorporates the detailed physical nature such as crystalline direction."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the training of a deep learning model for simulating the transformation of sub-surface morphology of GON structures.",
+        "Question": "What is the main purpose of the encoder component in the autoencoder model?",
+        "A": "Reconstruct the output information",
+        "B": "Compress the input data",
+        "C": "Extract important features from inputs",
+        "D": "Reconstruct the input data",
+        "Answer": "B",
+        "Source": "As the name \u2018encoder-decoder\u2019 connotes, encoder component compresses the input data into a smaller size, extracting the input\u2019s essential features in doing so."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the fabrication process of Germanium-on-Nothing (GON) structures.",
+        "Question": "What is the ramping rate used during the annealing process of the germanium wafer?",
+        "A": "10 \u25e6C/min",
+        "B": "25 \u25e6C/min",
+        "C": "20 \u25e6C/min",
+        "D": "30 \u25e6C/min",
+        "Answer": "B",
+        "Source": "The wafer is annealed in vacuum (2 \u00d710\u22126 Torr) furnace at 890 \u25e6C with ramping rate of 25 \u25e6C/min."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the training of a deep learning model for simulating the transformation of sub-surface morphology of GON structures.",
+        "Question": "What is the main advantage of the proposed deep learning-based simulation method over conventional simulation schemes?",
+        "A": "High computational complexity",
+        "B": "Low accuracy",
+        "C": "Long training duration",
+        "D": "Physically accurate with empirical data",
+        "Answer": "D",
+        "Source": "Compared to conventional simulation schemes, our proposed deep learning-based simulation method is not only computationally efficient ( \u223c 10 min) but also physically accurate with its use of empirical data."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the simulation of 2D morphological transformation of GON structures during annealing.",
+        "Question": "What is the main advantage of the deep learning approach over theoretical simulation methods?",
+        "A": "Incorporates simplifications",
+        "B": "Long computational period",
+        "C": "Utilizes empirical data",
+        "D": "Low accuracy",
+        "Answer": "C",
+        "Source": "On the other hand, a deep learning model\u2019s use of empirical data automatically incorporates the detailed physical nature such as crystalline direction."
+    }
+}

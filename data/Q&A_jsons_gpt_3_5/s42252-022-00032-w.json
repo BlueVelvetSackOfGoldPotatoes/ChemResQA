@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on fabricating a novel composite membrane for water purification. The membrane was modified with polyelectrolytes to improve rejection performance.",
+        "Question": "What was the primary reason behind the high dye rejection efficiency of the PSS-PDA-crosslinked GO membrane?",
+        "A": "Adsorption of cationic dyes",
+        "B": "Repulsion of anionic dyes",
+        "C": "Electrostatic interaction with polyelectrolytes",
+        "D": "Pore-based separations",
+        "Answer": "C",
+        "Source": "The solid electrostatic interaction of polyelectrolytes with the bacterial cell membrane may damage the cell wall."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the rejection performance of different membranes after exposure to chlorine solutions of varying concentrations.",
+        "Question": "What was the primary reason behind the excellent chlorine tolerance property of the PSS-PDA-crosslinked GO membrane?",
+        "A": "Entrapment of free chlorine into primary or secondary amine of polydopamine",
+        "B": "Interlayer spacing of graphene oxide",
+        "C": "Presence of polyelectrolytes",
+        "D": "Repulsion of chlorine ions",
+        "Answer": "A",
+        "Source": "The resistance towards chlorine exposure of this membrane can explain that free chlorine may be entrapped into primary or secondary amine of polydopamine."
+    },
+    "Question_3": {
+        "Context": "The study investigated the antifouling characteristics of the membranes in dynamic conditions.",
+        "Question": "What was the primary reason behind the high FRR values of the PSS-PDA-crosslinked GO membrane?",
+        "A": "Presence of polyelectrolytes",
+        "B": "Surface charge induced by polyelectrolytes",
+        "C": "Interlayer spacing of graphene oxide",
+        "D": "Repulsion of foulants",
+        "Answer": "B",
+        "Source": "The surface charge brought by the assembly of the polycations and polyanions is the primary reason behind the high FRR values of the PSS-PDA-crosslinked GO membrane."
+    },
+    "Question_4": {
+        "Context": "The study assessed the rejection performance of the membranes in forward osmosis mode.",
+        "Question": "What was the primary reason behind the significant rejection efficiency of the PSS-PDA-crosslinked GO membrane for both monovalent and divalent ions?",
+        "A": "Electrostatic interaction in addition to pore-based sieving",
+        "B": "Presence of polyelectrolytes",
+        "C": "Interlayer spacing of graphene oxide",
+        "D": "Repulsion of ions",
+        "Answer": "A",
+        "Source": "The PSS-PDA-crosslinked GO membrane's highest efficiency is because of electrostatic interaction in addition to the pore-based sieving."
+    },
+    "Question_5": {
+        "Context": "The study examined the water flux of different membranes at a specific transmembrane pressure.",
+        "Question": "What was the primary reason behind the significant flux improvement observed in the PSS-PDA membrane?",
+        "A": "Enhancement of hydrophilic surfaces",
+        "B": "Presence of polyelectrolytes",
+        "C": "Interlayer spacing of graphene oxide",
+        "D": "Repulsion of water molecules",
+        "Answer": "B",
+        "Source": "The charge surface resists the fouling attack by repelling the negative charged BSA used as a model foulant."
+    },
+    "Question_6": {
+        "Context": "The study investigated the antibacterial efficiency of the membranes against E. coli and S. aureus.",
+        "Question": "What was the primary reason behind the antimicrobial nature of the PSS-PDA-crosslinked GO membrane?",
+        "A": "Damage to the bacterial cell wall",
+        "B": "Presence of polyelectrolytes",
+        "C": "Interlayer spacing of graphene oxide",
+        "D": "Repulsion of bacteria",
+        "Answer": "A",
+        "Source": "The solid electrostatic interaction of polyelectrolytes with the bacterial cell membrane may damage the cell wall."
+    },
+    "Question_7": {
+        "Context": "The study evaluated the rejection performance of different membranes after exposure to chlorine solutions of varying concentrations.",
+        "Question": "Why did the rejection efficiency decrease on exposure to a 10,000 ppm chlorine solution?",
+        "A": "Weakening of the bond between amide linkage of crosslinked GO and free chlorine",
+        "B": "Increased interlayer spacing of graphene oxide",
+        "C": "Repulsion of chlorine ions",
+        "D": "Presence of polyelectrolytes",
+        "Answer": "A",
+        "Source": "When the concentration is more, there is a sufficient amount of free chlorine, which may attract the amide linkage of crosslinked GO, and therefore, the bond may become too weakened to suppress the passage of salt ions."
+    },
+    "Question_8": {
+        "Context": "The study assessed the antifouling characteristics of the membranes in dynamic conditions.",
+        "Question": "What was the primary reason behind the reduction in contact angle observed in the PSS-PDA-crosslinked GO membrane?",
+        "A": "Presence of polyelectrolytes",
+        "B": "Enhancement of hydrophilic surfaces",
+        "C": "Interlayer spacing of graphene oxide",
+        "D": "Repulsion of water molecules",
+        "Answer": "A",
+        "Source": "The surface charges induced by the self-assembly of the polycations and polyanions is the reason behind the significant decline in contact angle."
+    },
+    "Question_9": {
+        "Context": "The study evaluated the rejection performance of different membranes after exposure to chlorine solutions of varying concentrations.",
+        "Question": "What was the primary reason behind the excellent chlorine tolerance property of the PSS-PDA-crosslinked GO membrane?",
+        "A": "Entrapment of free chlorine into primary or secondary amine of polydopamine",
+        "B": "Increased interlayer spacing of graphene oxide",
+        "C": "Presence of polyelectrolytes",
+        "D": "Repulsion of chlorine ions",
+        "Answer": "A",
+        "Source": "The resistance towards chlorine exposure of this membrane can explain that free chlorine may be entrapped into primary or secondary amine of polydopamine."
+    },
+    "Question_10": {
+        "Context": "The study investigated the rejection performance of different membranes after exposure to chlorine solutions of varying concentrations.",
+        "Question": "What was the primary reason behind the high rejection efficiency of the PSS-PDA-crosslinked GO membrane for both monovalent and divalent ions?",
+        "A": "Electrostatic interaction in addition to pore-based sieving",
+        "B": "Presence of polyelectrolytes",
+        "C": "Interlayer spacing of graphene oxide",
+        "D": "Repulsion of ions",
+        "Answer": "A",
+        "Source": "The PSS-PDA-crosslinked GO membrane's highest efficiency is because of electrostatic interaction in addition to the pore-based sieving."
+    }
+}

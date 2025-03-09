@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "MicroRNAs (miRNAs) are small RNA molecules involved in the regulation of gene expression and are implicated in various biological processes and diseases.",
+        "Question": "What is the typical length range of microRNAs (miRNAs)?",
+        "A": "10-15 nucleotides",
+        "B": "19-22 nucleotides",
+        "C": "25-30 nucleotides",
+        "D": "30-35 nucleotides",
+        "Answer": "B",
+        "Source": "MicroRNAs (miRNAs) are short RNA molecules that naturally occur in cells and consist of approximately 19\u201322 nucleotides."
+    },
+    "Question_2": {
+        "Context": "In molecular biology, the correlation between abnormal miRNA expression and disease progression has been established.",
+        "Question": "Which miRNA has been found to have altered expression levels that contribute significantly to tumor development?",
+        "A": "miRNA-15",
+        "B": "miRNA-101",
+        "C": "miRNA-21",
+        "D": "miRNA-34",
+        "Answer": "C",
+        "Source": "One important group of miRNAs is miRNA-21, which has alterations in its expression levels that significantly contribute to the development of tumors."
+    },
+    "Question_3": {
+        "Context": "Uterine fibroids are non-cancerous growths in the female reproductive system, and the development of new biomarkers is crucial for assessing tumor malignancy.",
+        "Question": "Which imaging method is commonly used as the initial method for detecting uterine fibroids?",
+        "A": "MRI",
+        "B": "CT Scan",
+        "C": "Ultrasound technology",
+        "D": "X-ray",
+        "Answer": "C",
+        "Source": "Uterine fibroids (UFs) are non-cancerous growths that occur most frequently in the female reproductive system. Although ultrasonography is commonly used as the initial imaging method."
+    },
+    "Question_4": {
+        "Context": "Polymerase chain reaction (PCR) and rolling circle amplification (RCA) are techniques used for signal amplification in molecular detection.",
+        "Question": "What is a limitation of the traditional PCR method when it comes to examining living cells?",
+        "A": "It requires fluorescent labeling.",
+        "B": "It necessitates temperature cycling.",
+        "C": "It is too rapid for accurate measurement.",
+        "D": "It only works with DNA, not RNA.",
+        "Answer": "B",
+        "Source": "Nevertheless, the traditional PCR method necessitates temperature cycling, which poses difficulties for doing examination within living cells."
+    },
+    "Question_5": {
+        "Context": "Isothermal amplification techniques are developed to function without the need for temperature cycling, unlike traditional PCR.",
+        "Question": "Which isothermal amplification approach requires enzymes that may be vulnerable to the intricate cellular milieu?",
+        "A": "Hybridization chain reactions (HCR)",
+        "B": "Catalytic hairpin assembly (CHA)",
+        "C": "DNAzyme catalytic reactions",
+        "D": "Rolling circle amplification (RCA)",
+        "Answer": "D",
+        "Source": "The isothermal RCA approach requires enzymes that may be vulnerable to the intricate cellular milieu in their vicinity."
+    },
+    "Question_6": {
+        "Context": "Catalytic hairpin assembly (CHA) is an isothermal reaction used for nucleic acid detection, which operates based on the cross-opening of two DNA hairpins.",
+        "Question": "What does the catalytic hairpin assembly (CHA) process result in the production of?",
+        "A": "Multiple single-stranded DNA molecules",
+        "B": "Multiple double-stranded DNA molecules",
+        "C": "A single double-stranded DNA molecule",
+        "D": "A single single-stranded DNA molecule",
+        "Answer": "B",
+        "Source": "In this reaction, an initiator facilitates the cross-opening of two DNA hairpins, resulting in the production of multiple double-stranded DNA (dsDNA) molecules."
+    },
+    "Question_7": {
+        "Context": "DNAzymes are catalytic DNA molecules that have been used as amplifying labels in biosensing due to their inherent advantages.",
+        "Question": "Which of the following is NOT an inherent advantage of DNAzymes compared to protein enzymes?",
+        "A": "Design flexibility",
+        "B": "Cost-effectiveness",
+        "C": "Temperature sensitivity",
+        "D": "Reduced tendency for non-specific binding",
+        "Answer": "C",
+        "Source": "Compared to protein enzymes, DNAzymes possess inherent advantages in terms of their design flexibility and cost-effectiveness."
+    },
+    "Question_8": {
+        "Context": "In the context of miRNA detection, a proximity-CHA-DNAzyme system was developed for sensitive and label-free detection.",
+        "Question": "What is the role of the target miRNA in the proximity-CHA-DNAzyme system?",
+        "A": "It acts as a catalyst for the CHA-driven sequential formation of DNAzyme nanostructures.",
+        "B": "It serves as a template for synthesizing complementary DNA strands.",
+        "C": "It is used as a primer for initiating the polymerase chain reaction.",
+        "D": "It functions as a blocker to prevent non-specific binding.",
+        "Answer": "A",
+        "Source": "The target facilitated the non-enzymatic CHA-driven sequential formation of DNAzyme nanostructures."
+    },
+    "Question_9": {
+        "Context": "The detection of miRNAs can be enhanced by signal amplification strategies that involve the use of DNAzymes.",
+        "Question": "What is the consequence of the DNAzyme-facilitated cleavage of a substrate in the context of miRNA detection?",
+        "A": "Decreased fluorescence signal",
+        "B": "Production of an intensified fluorescence signal",
+        "C": "Inhibition of the CHA reaction",
+        "D": "Stabilization of the hairpin structures",
+        "Answer": "B",
+        "Source": "The target facilitated the non-enzymatic CHA-driven sequential formation of DNAzyme nanostructures, resulting in the effective DNAzyme-facilitated cleavage of a substrate modified with a fluorophore and quencher, leading to the production of an intensified fluorescence signal."
+    },
+    "Question_10": {
+        "Context": "The development of new miRNA detection methods can aid in the early detection of malignancies by complementing traditional diagnostic methods.",
+        "Question": "What is the detection limit of the newly developed miRNA-21 assay using the proximity-CHA-activated DNAzyme system?",
+        "A": "3.2 fM",
+        "B": "10 fM",
+        "C": "1 nM",
+        "D": "20 nM",
+        "Answer": "A",
+        "Source": "As a simple sensing strategy, the proximity-CHA-activated DNAzyme system enabled the sensitive miRNA-21 assay with a low detection limit. The low detection limit was determined to be 3.2 fM."
+    }
+}

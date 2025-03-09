@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of smart wearable devices, strain sensors that can detect and measure strain through changes in their electrical resistance are important. The performance of these sensors is often characterized by their gauge factor (GF) and stretchability.",
+        "Question": "What does the gauge factor (GF) in a strain sensor indicate?",
+        "A": "The ratio between relative resistance change and applied strain",
+        "B": "The maximum amount of strain the sensor can detect",
+        "C": "The durability of the sensor under cyclic loading",
+        "D": "The energy consumption of the sensor during operation",
+        "Answer": "A",
+        "Source": "The GF, a measure of strain sensitivity, is defined as the ratio between relative resistance change and applied strain."
+    },
+    "Question_2": {
+        "Context": "Strain sensors can be made from various materials, including carbon-based nanomaterials like carbon nanotubes (CNTs) and graphene. These materials are chosen for their electrical and mechanical properties.",
+        "Question": "Why are carbon nanotubes (CNTs) and graphene suitable for use in strain sensors?",
+        "A": "Because of their color-changing properties",
+        "B": "Due to their excellent conductivity, stability, flexibility, and low toxicity",
+        "C": "Because they are magnetic materials",
+        "D": "Due to their ability to emit light when strained",
+        "Answer": "B",
+        "Source": "carbon nanomaterials such as CNTs and graphene would be suitable candidates because of their excellent conductivity, stability, flexibility, various morphology, and low toxicity."
+    },
+    "Question_3": {
+        "Context": "In the development of strain sensors, the aspect ratio of the materials used is an important factor. One-dimensional (1D) materials like carbon nanotubes have a high aspect ratio.",
+        "Question": "How does the high aspect ratio of 1D carbon nanotubes contribute to the performance of strain sensors?",
+        "A": "It increases the color intensity of the sensor",
+        "B": "It enhances the magnetic properties of the sensor",
+        "C": "It allows the sensor to withstand larger strains without breaking conductive paths",
+        "D": "It reduces the electrical conductivity of the sensor",
+        "Answer": "C",
+        "Source": "1D nanomaterials can withstand larger strains without breaking the conductive paths because of their high aspect ratio."
+    },
+    "Question_4": {
+        "Context": "Graphene is a two-dimensional (2D) material that is used in the fabrication of strain sensors. The shape of graphene influences its behavior under strain.",
+        "Question": "What effect does the two-dimensional (2D) shape of graphene have on its performance in a strain sensor?",
+        "A": "It increases the sensor's sensitivity to light",
+        "B": "It allows the sensor to detect magnetic fields",
+        "C": "It causes the sensor to consume less power",
+        "D": "It leads to easy separation of the graphene network under applied strain",
+        "Answer": "D",
+        "Source": "This high GF is caused by the easy separation of the graphene network under the applied strain due to its two-dimensional (2D) shape."
+    },
+    "Question_5": {
+        "Context": "The interaction of certain nanomaterials with light can be utilized to create sensors with additional functionalities, such as photodetection.",
+        "Question": "How do carbon nanotubes (CNTs) and graphene interact with UV light to enable photodetection?",
+        "A": "They change color when exposed to UV light",
+        "B": "They vibrate at specific frequencies under UV light",
+        "C": "They adsorb and desorb oxygen molecules, affecting their electrical properties",
+        "D": "They become more magnetic when exposed to UV light",
+        "Answer": "C",
+        "Source": "Upon exposure to UV light, the binding of oxygen molecules to MWCNT/graphene is disrupted by light-induced \u03c0-electron plasmons, resulting in the desorption of oxygen molecules from their surfaces and the return of captured electrons."
+    },
+    "Question_6": {
+        "Context": "The percolation network in a strain sensor refers to the network of conductive pathways formed by the sensor's materials, which are crucial for its electrical performance.",
+        "Question": "What happens to the percolation network of a strain sensor as the mass of spray-coated multi-walled carbon nanotubes (MWCNTs) reaches a certain point?",
+        "A": "The network becomes magnetic",
+        "B": "The network's color changes",
+        "C": "The network's electrical resistance becomes zero",
+        "D": "The network becomes saturated, affecting stretchability and sensitivity",
+        "Answer": "D",
+        "Source": "The percolation networks of the sensor were gradually saturated when the sprayed MWCNT mass reached 0.18 mg."
+    },
+    "Question_7": {
+        "Context": "Strain sensors can be enhanced by combining different types of nanomaterials, such as one-dimensional (1D) and two-dimensional (2D) materials, to leverage their distinct properties.",
+        "Question": "What is the advantage of combining 1D MWCNTs with 2D graphene in a strain sensor?",
+        "A": "It allows the sensor to float on water",
+        "B": "It enables the sensor to detect colors",
+        "C": "It improves the sensor's gauge factor and stretchability",
+        "D": "It reduces the sensor's response time to strain",
+        "Answer": "C",
+        "Source": "By incorporating the 0.36 mg of graphene into the MWCNT film (i.e., a mass ratio of 1:2 between MWCNT and graphene), the GF is further improved to 12,144.7 in a strain range of 650\u2013700%."
+    },
+    "Question_8": {
+        "Context": "The fabrication process of strain sensors involves the deposition of sensing materials onto a substrate. Spray coating is one method used for this purpose.",
+        "Question": "What is the role of spray coating in the fabrication of strain sensors with MWCNTs and graphene?",
+        "A": "It cleans the substrate surface",
+        "B": "It evenly distributes the sensing materials on the substrate",
+        "C": "It increases the thermal conductivity of the sensor",
+        "D": "It magnetizes the sensing materials",
+        "Answer": "B",
+        "Source": "The mass of spray-coated MWCNT and graphene and their mass ratio are modulated to overcome the trade-off between strain sensitivity and sensing range."
+    },
+    "Question_9": {
+        "Context": "Raman spectroscopy is a technique used to characterize materials by observing vibrational, rotational, and other low-frequency modes in a system.",
+        "Question": "What information can be obtained from the Raman spectra of carbon-based materials like MWCNTs and graphene?",
+        "A": "Their magnetic properties",
+        "B": "Their color and pigment composition",
+        "C": "Their interactions and structural defects",
+        "D": "Their thermal conductivity",
+        "Answer": "C",
+        "Source": "The intensity ratio (ID/IG) between the D and G peaks, which provide information on interactions and structural defects in carbon-based materials, are 1.02, 0.74, and 1.33 for graphene, MWCNT, and MWCNT/graphene hybrid."
+    },
+    "Question_10": {
+        "Context": "The mechanical properties of strain sensors are crucial for their performance in real-world applications. Durability under cyclic loading is one such property.",
+        "Question": "What does the term 'signal drift' refer to in the context of strain sensors under cyclic loading?",
+        "A": "The change in color of the sensor",
+        "B": "The variation in the sensor's electrical signal over repeated cycles",
+        "C": "The sensor's ability to return to its original shape",
+        "D": "The sensor's resistance to water and moisture",
+        "Answer": "B",
+        "Source": "The signal drift was ~ 5% during 600 cycles. The signal drift is attributed to the instability of the conductive pathway under repeatedly applied large strain, which could be due to the peel-off of the sensing materials from the Ecoflex substrate."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of lithium-ion battery materials, what is the significance of descriptors?",
+        "Question": "What are the four characteristics that material descriptors must satisfy?",
+        "A": "Reproducibility, Validity, Distinguishability, Complexity",
+        "B": "Accuracy, Precision, Universality, Simplicity",
+        "C": "Reliability, Consistency, Specificity, Complexity",
+        "D": "Reproducibility, Validity, Distinguishability, Simplicity",
+        "Answer": "D",
+        "Source": "Although material descriptors vary in complexity, they must all satisfy the four characteristics below. (1) Reproducibility means that where the same descriptors are used, the descriptors should be fixed for the same material at any time and place to guarantee the repeatability of machine learning results. (2) Validity means that the descriptor should describe at least one intrinsic property of the material that is strongly relevant to the purpose of the machine learning. (3) Distinguishability means that differences between the descriptors of different materials can be recognized by the machine. (4) Simplicity means that descriptors cannot be too complex to be learned or understood by machines."
+    },
+    "Question_2": {
+        "Context": "Regarding the development of new cathode materials for lithium-ion batteries, what is a key factor that influences battery performance?",
+        "Question": "What is the significance of the coordination environment of transitional metals in cathode materials?",
+        "A": "It affects the color of the material",
+        "B": "It influences the thermal stability of the material",
+        "C": "It impacts the conductivity and stability of the material",
+        "D": "It determines the weight of the material",
+        "Answer": "C",
+        "Source": "The impacts of the coordination environment of different transitional metals in layered transitional metal oxide and polyanionic compound on phase transaction and electronics state on d-orbital changes to predict their conductivities variation."
+    },
+    "Question_3": {
+        "Context": "In the context of electrolytes for lithium-ion batteries, what is a challenge in creating novel electrolytes?",
+        "Question": "What is a method used to define the tendency of an electrolyte to be oxidatively stable?",
+        "A": "Dielectric constant",
+        "B": "Donor number",
+        "C": "Electrostatic potential",
+        "D": "Solubility",
+        "Answer": "B",
+        "Source": "Pande et al. used the number of Gutmann donors and acceptors based on solvent and other components as a simple descriptor of HOMO-level renormalization induced by different electrolyte compositions."
+    },
+    "Question_4": {
+        "Context": "In the context of lithium-ion battery materials, what is a key consideration for the stability of the SEI layer?",
+        "Question": "What is a descriptor used to accelerate the design and development of a robust artificial solid electrolyte interface (ASEI) layer?",
+        "A": "Thickness of the SEI layer",
+        "B": "Elastic deformation",
+        "C": "Plastic deformation-related parameters",
+        "D": "Thickness of the inorganic\u2013organic interface",
+        "Answer": "D",
+        "Source": "Manoj et al. provide a heterogeneous ASEI model to develop key parameters (SEI film thickness, the thickness of the inorganic\u2013organic interface, elastic deformation and plastic deformation-related parameters etc.) for the ASEI layer."
+    },
+    "Question_5": {
+        "Context": "In the context of machine learning applied to battery research, what is a challenge in establishing relevant and accurate AI/ML models?",
+        "Question": "What is a descriptor used to screen and evaluate solvents in electrolytes based on their interaction with Li+ ions?",
+        "A": "Dielectric constant",
+        "B": "Donor number",
+        "C": "Electrostatic potential",
+        "D": "Solubility",
+        "Answer": "C",
+        "Source": "He et al. studied the ESP of many solvents using density flooding theory (DFT) and qualitatively analyzed solvent molecules at their highest electrostatic potential (ESPmax) and lowest electrostatic potential (ESPmin)."
+    },
+    "Question_6": {
+        "Context": "In the context of electrode-related descriptors for lithium-ion batteries, what is a key factor that influences the performance of electrodes?",
+        "Question": "What descriptor is used to predict the rate at which metal dendrites will grow on the negative electrode?",
+        "A": "Height of the metal self-diffusion barrier",
+        "B": "Thickness of the electrode sheet",
+        "C": "Standard deviation from the state of lithium",
+        "D": "Depth-dependent kinetic descriptors",
+        "Answer": "A",
+        "Source": "J\u00e4ckle et al. suggest that the growth mechanism of metal dendrites on the negative surface is closely related to the diffusion process, and a descriptor has been added to predict the rate at which metal dendrites will grow on the negative electrode, the height of the metal self-diffusion barrier."
+    },
+    "Question_7": {
+        "Context": "In the context of quantitative structure-activity relationships (QSARs), what is a significant aspect of QSAR research?",
+        "Question": "What is the basis of QSAR research?",
+        "A": "Calculation of molecular descriptors",
+        "B": "Statistical analysis of experimental data",
+        "C": "Development of computational models",
+        "D": "Identification of molecular structures",
+        "Answer": "A",
+        "Source": "The calculation of molecular descriptors is the basis of QSAR research, and the precise definition and rational use of molecular descriptors are very important in QSAR research."
+    },
+    "Question_8": {
+        "Context": "In the context of the Materials Genome Initiative, what is the primary aim of the initiative?",
+        "Question": "What is the overarching objective of the Material Genome Initiative?",
+        "A": "To establish a comprehensive material genes database",
+        "B": "To accelerate the development of new materials",
+        "C": "To facilitate researchers in discerning fundamental principles governing material science",
+        "D": "To identify novel high-performance materials",
+        "Answer": "A",
+        "Source": "Similar to the Human Genome Project (HGP), the overarching objective of the Material Genome Initiative (MGI) is the establishment of a comprehensive material genes database."
+    },
+    "Question_9": {
+        "Context": "In the context of artificial intelligence and machine learning, what is a key development in the field of machine learning?",
+        "Question": "What advancement broadened the scope of machine learning applications by introducing non-linear activation functions?",
+        "A": "Introduction of deep learning algorithms",
+        "B": "Development of reinforcement learning methods",
+        "C": "Enhancement of neural network structures",
+        "D": "Incorporation of supervised learning techniques",
+        "Answer": "A",
+        "Source": "However, researchers have extended the structure of neural networks to three layers by introducing non-linear activation functions, which greatly broadened the scope of machine learning applications."
+    },
+    "Question_10": {
+        "Context": "In the context of the development of new batteries, what is a challenge faced by researchers?",
+        "Question": "What is a key factor that influences the development cycle of lithium batteries?",
+        "A": "Synthesis methods",
+        "B": "Precursor materials",
+        "C": "Synthesis environments",
+        "D": "Morphological characteristics",
+        "Answer": "B",
+        "Source": "the development of novel energy storage functional materials is influenced by an extremely large number of variables, such as precursor materials, synthesis methods, synthesis environments and morphological characteristics."
+    }
+}

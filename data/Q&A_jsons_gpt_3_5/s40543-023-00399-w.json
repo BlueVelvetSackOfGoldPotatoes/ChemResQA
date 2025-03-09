@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Vitamin K1 is important for bone and cardiovascular health and blood coagulation in the human body.",
+        "Question": "What is the major dietary form of vitamin K in most diets?",
+        "A": "Vitamin K2",
+        "B": "Vitamin K3",
+        "C": "Vitamin K4",
+        "D": "Vitamin K1",
+        "Answer": "D",
+        "Source": "Vitamin K1 is a naturally occurring form of vitamin K in plants and the major dietary form of vitamin K in most diets."
+    },
+    "Question_2": {
+        "Context": "Vitamin K1 is found in large quantities in photosynthetic tissues of dark green leafy vegetables.",
+        "Question": "Which function does vitamin K serve in plants?",
+        "A": "Energy storage",
+        "B": "Electron acceptor during photosynthesis",
+        "C": "Cell wall synthesis",
+        "D": "Protein synthesis",
+        "Answer": "B",
+        "Source": "Vitamin K1 is found in large quantities in photosynthetic tissues of dark green leafy vegetables since it functions as an electron acceptor during photosynthesis."
+    },
+    "Question_3": {
+        "Context": "Vitamin K deficiency may cause failure in the regulation of vitamin K-dependent physiological processes.",
+        "Question": "What physiological processes may be affected by vitamin K deficiency?",
+        "A": "Protein digestion",
+        "B": "Blood clotting",
+        "C": "Muscle growth",
+        "D": "Nerve transmission",
+        "Answer": "B",
+        "Source": "Vitamin K deficiency may cause failure in the regulation of vitamin K-dependent physiological processes, including blood clotting."
+    },
+    "Question_4": {
+        "Context": "Vitamin K1 is important for maintaining bone and cardiovascular health in elderly people.",
+        "Question": "What is the recommended average daily intake level of vitamin K for women according to the United States Institute of Medicine?",
+        "A": "120 \u03bcg/day",
+        "B": "90 \u03bcg/day",
+        "C": "65 \u03bcg/day",
+        "D": "75 \u03bcg/day",
+        "Answer": "C",
+        "Source": "The recommended average daily intake level of vitamin K for women is 65 \u03bcg/day according to the United States Institute of Medicine."
+    },
+    "Question_5": {
+        "Context": "Green leafy vegetables contribute more than one-half of total vitamin K1 intake.",
+        "Question": "Which green vegetables are mentioned to contain more than 300 \u03bcg of vitamin K1/100 g?",
+        "A": "Collards, spinach, and salad greens",
+        "B": "Broccoli, peas, and asparagus",
+        "C": "Kale, cabbage, and lettuce",
+        "D": "Cauliflower, carrots, and bell peppers",
+        "Answer": "A",
+        "Source": "A few green vegetables, such as collards, spinach, and salad greens, contain more than 300 \u03bcg of vitamin K1/100 g."
+    },
+    "Question_6": {
+        "Context": "Vitamin K1 is routinely measured using high-performance liquid chromatography (HPLC)\u2013fluorescence detection.",
+        "Question": "What method overcame the problems of insufficient accuracy and precision in vitamin K1 measurement?",
+        "A": "Gas chromatography/mass spectrometry",
+        "B": "Liquid chromatography/mass spectrometry",
+        "C": "Isotope dilution-liquid chromatography/tandem mass spectrometry",
+        "D": "Thin-layer chromatography",
+        "Answer": "C",
+        "Source": "The problems have been overcome with the use of liquid chromatography/mass spectrometry (LC/MS), in particular, the stable isotope dilution method with LC/MS detection is considered the most accurate method."
+    },
+    "Question_7": {
+        "Context": "The developed method for vitamin K1 analysis had a repeatability and reproducibility of less than 2% relative standard deviation.",
+        "Question": "What was used as an internal standard in the developed method for quantifying vitamin K1?",
+        "A": "Vitamin K1-d7",
+        "B": "Vitamin K2-d5",
+        "C": "Vitamin K3-d6",
+        "D": "Vitamin K4-d8",
+        "Answer": "A",
+        "Source": "Vitamin K1-d7 was used as an internal standard in the developed method."
+    },
+    "Question_8": {
+        "Context": "The method corrected for losses of target compounds during sample clean-up and compensated for the variation in ionization efficiency due to matrix interferences.",
+        "Question": "What was the main advantage of using isotopically labeled vitamin K1 as an internal standard?",
+        "A": "Enhanced color detection",
+        "B": "Corrected for losses during sample clean-up",
+        "C": "Reduced sample preparation time",
+        "D": "Increased sample volume",
+        "Answer": "B",
+        "Source": "As it uses isotopically labeled vitamin K1 as an internal standard, the method corrects for losses of target compounds during sample clean-up and compensates for the variation in ionization efficiency due to matrix interferences."
+    },
+    "Question_9": {
+        "Context": "The method had a higher-order metrological quality as a reference method.",
+        "Question": "What was the chromatographic column employed for the separation of trans- and cis-vitamin K1 isomers?",
+        "A": "C18 column",
+        "B": "C30 column",
+        "C": "C8 column",
+        "D": "C12 column",
+        "Answer": "B",
+        "Source": "A C30 column was employed for proper separation of trans- and cis-vitamin K1 isomers."
+    },
+    "Question_10": {
+        "Context": "The method was validated by measuring gravimetrically fortified samples.",
+        "Question": "What was used to validate the performance parameters of the developed method?",
+        "A": "Gravimetrically fortified samples",
+        "B": "Synthetic standards",
+        "C": "Control samples",
+        "D": "Blank samples",
+        "Answer": "A",
+        "Source": "The method was validated by measuring gravimetrically fortified samples."
+    }
+}

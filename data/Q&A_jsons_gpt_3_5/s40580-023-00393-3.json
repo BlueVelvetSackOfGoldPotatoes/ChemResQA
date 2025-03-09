@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study introduced a 3D printed fluidic swab (3DPFS) for nasal sample collection for COVID-19 testing. The 3DPFS was compared to cotton swabs (CS) in terms of collecting and releasing nasal fluid.",
+        "Question": "What was the main advantage of the 3DPFS over the cotton swab (CS) in collecting and releasing nasal fluid?",
+        "A": "Higher sensitivity in detecting SARS-CoV-2",
+        "B": "Lower cost and ease of mass production",
+        "C": "Reduced discomfort and pain for users",
+        "D": "Improved accuracy in LFA and RT-qPCR",
+        "Answer": "C",
+        "Source": "Additionally, a survey of 28 volunteers found that approximately 90% of users preferred the 3DPFS over the CS because the 3DPFS caused less pain and discomfort, indicating that it may be a promising alternative for nasal sampling."
+    },
+    "Question_2": {
+        "Context": "The study involved testing SARS-CoV-2 lysates in nasal fluid collected using the 3DPFS and CS. The samples were analyzed using RT-qPCR and lateral flow assays (LFA).",
+        "Question": "What was the main finding regarding the sensitivity of detecting SARS-CoV-2 in nasal fluid collected by the 3DPFS compared to the cotton swab (CS)?",
+        "A": "3DPFS had undetermined Ct values in RT-qPCR",
+        "B": "CS showed higher color intensity in LFA",
+        "C": "3DPFS had lower Ct values in RT-qPCR",
+        "D": "CS showed higher sensitivity in detecting SARS-CoV-2",
+        "Answer": "C",
+        "Source": "RT-qPCR results showed that all of the samples collected by the 3DPFS had lower Ct values compared to those collected by the CS."
+    },
+    "Question_3": {
+        "Context": "The study compared the collection efficiency of the 3DPFS and CS in collecting nasal fluid. The samples were analyzed for collected and released volumes, as well as color intensity.",
+        "Question": "What was the key difference observed in the collection efficiency between the 3DPFS and the cotton swab (CS)?",
+        "A": "CS collected more colored sample than 3DPFS",
+        "B": "3DPFS released more collected sample than CS",
+        "C": "CS had higher color intensity in the collected samples",
+        "D": "3DPFS had higher volume loss during collection",
+        "Answer": "B",
+        "Source": "The 3DPFS was able to release significantly more of the collected sample to the tube than the CS, resulting in approximately 4 times greater color intensity."
+    },
+    "Question_4": {
+        "Context": "The study involved a user survey comparing the comfort and ease of use between the 3DPFS and CS for COVID-19 testing. The survey included questions about pain, discomfort, and user preference.",
+        "Question": "What was the main outcome of the user survey regarding the preference between the 3DPFS and the cotton swab (CS)?",
+        "A": "Majority of users preferred CS for COVID-19 testing",
+        "B": "Users reported higher pain and discomfort with 3DPFS",
+        "C": "Approximately 90% of users preferred 3DPFS over CS",
+        "D": "Users found CS to be more cost-effective",
+        "Answer": "C",
+        "Source": "Approximately 90% of users preferred the 3DPFS over the CS because the 3DPFS caused less pain and discomfort, indicating that it may be a promising alternative for nasal sampling."
+    },
+    "Question_5": {
+        "Context": "The study compared the ability of the 3DPFS and CS to collect and release nasal fluid. Blue dye mixed with artificial nasal fluid was used for the comparison.",
+        "Question": "What was the key difference observed in the released volume of nasal fluid between the 3DPFS and the cotton swab (CS)?",
+        "A": "3DPFS released less collected sample than CS",
+        "B": "CS released more collected sample than 3DPFS",
+        "C": "3DPFS released all collected samples, while CS did not",
+        "D": "CS retained less colored sample within the swab compared to 3DPFS",
+        "Answer": "A",
+        "Source": "The 3DPFS was able to release significantly more of the collected sample to the tube than the CS, resulting in approximately 4 times greater color intensity."
+    },
+    "Question_6": {
+        "Context": "The study involved testing SARS-CoV-2 lysates in nasal fluid collected using the 3DPFS and CS. The samples were analyzed using RT-qPCR and lateral flow assays (LFA).",
+        "Question": "What was the main advantage of the 3DPFS over the cotton swab (CS) in detecting SARS-CoV-2 in nasal fluid?",
+        "A": "3DPFS showed higher color intensity in LFA",
+        "B": "CS had lower Ct values in RT-qPCR",
+        "C": "3DPFS allowed for lower dilution volumes",
+        "D": "CS required higher sampling pressure for collection",
+        "Answer": "C",
+        "Source": "To ensure that we could compare the collectivity of the two swabs without the diluting effect getting in the way, we used a total volume of 400 \u00b5L of NW solution for both collection and releasing."
+    },
+    "Question_7": {
+        "Context": "The study compared the collection efficiency of the 3DPFS and CS in collecting nasal fluid. The samples were evaluated using volume and color intensity measurements.",
+        "Question": "What was the main difference observed in the color intensity of the collected samples between the 3DPFS and the cotton swab (CS)?",
+        "A": "3DPFS had darker solution color than CS",
+        "B": "CS showed higher volume loss during collection",
+        "C": "3DPFS retained less colored sample within the swab compared to CS",
+        "D": "CS had higher color intensity in the collected samples",
+        "Answer": "A",
+        "Source": "The color of the solution within the tube was also significantly darker for the 3DPFS than for the CS."
+    },
+    "Question_8": {
+        "Context": "The study involved a user survey comparing the comfort and ease of use between the 3DPFS and CS for COVID-19 testing. The survey included questions about pain, discomfort, and user preference.",
+        "Question": "What was the main outcome of the user survey regarding the level of discomfort experienced with the 3DPFS compared to the cotton swab (CS)?",
+        "A": "Users reported higher pain with 3DPFS",
+        "B": "CS caused less discomfort for users",
+        "C": "Users found 3DPFS to be more comfortable",
+        "D": "CS was preferred by a majority of users",
+        "Answer": "C",
+        "Source": "Approximately 90% of users preferred the 3DPFS over the CS because the 3DPFS caused less pain and discomfort, indicating that it may be a promising alternative for nasal sampling."
+    },
+    "Question_9": {
+        "Context": "The study compared the ability of the 3DPFS and CS to collect and release nasal fluid. Blue dye mixed with artificial nasal fluid was used for the comparison.",
+        "Question": "What was the main difference observed in the collected volume of nasal fluid between the 3DPFS and the cotton swab (CS)?",
+        "A": "3DPFS collected more fluid than CS",
+        "B": "CS retained more colored sample within the swab compared to 3DPFS",
+        "C": "3DPFS required higher sampling pressure for collection",
+        "D": "CS released more collected sample than 3DPFS",
+        "Answer": "A",
+        "Source": "As depicted in Fig. 3D, both the 3DPFS and CS were able to collect all the loaded samples, but the 3DPFS retained significantly less colored sample within the swab compared to the CS, regardless of the viscosity."
+    },
+    "Question_10": {
+        "Context": "The study involved testing SARS-CoV-2 lysates in nasal fluid collected using the 3DPFS and CS. The samples were analyzed using RT-qPCR and lateral flow assays (LFA).",
+        "Question": "What was the key advantage of the 3DPFS over the cotton swab (CS) in detecting SARS-CoV-2 in nasal fluid?",
+        "A": "3DPFS showed higher sensitivity in RT-qPCR",
+        "B": "CS had undetermined Ct values in RT-qPCR",
+        "C": "3DPFS demonstrated higher color intensity in LFA",
+        "D": "CS showed higher sensitivity in detecting SARS-CoV-2",
+        "Answer": "A",
+        "Source": "Especially at 100 pfu/mL, the samples collected by the CS showed undetermined Ct value, while the samples collected by the 3DPFS showed an average Ct value of 37.2 \u00b1 0.09 (n = 3)."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Microorganisms can produce enzymes that have a variety of industrial applications. Proteases are a type of enzyme that break down protein bonds, which is useful in industries such as detergents.",
+        "Question": "What type of protease is produced by Exiguobacterium indicum 1.2.3?",
+        "A": "Acidic protease",
+        "B": "Alkaline serine protease",
+        "C": "Metalloprotease",
+        "D": "Aspartic protease",
+        "Answer": "B",
+        "Source": "This strain produced alkaline serine protease, which works in lower temperatures (20\u201340 \u00b0C) with casein as a specific substrate."
+    },
+    "Question_2": {
+        "Context": "Enzymes can be sensitive to temperature changes, and their activity can vary significantly across different temperature ranges.",
+        "Question": "At what temperature range does the protease from Exiguobacterium indicum 1.2.3 show optimal activity?",
+        "A": "0\u201320 \u00b0C",
+        "B": "20\u201340 \u00b0C",
+        "C": "40\u201360 \u00b0C",
+        "D": "60\u201380 \u00b0C",
+        "Answer": "B",
+        "Source": "This strain produced alkaline serine protease, which works in lower temperatures (20\u201340 \u00b0C) with casein as a specific substrate."
+    },
+    "Question_3": {
+        "Context": "The stability of an enzyme at a specific temperature is crucial for its application in industrial processes.",
+        "Question": "How long does the protease from Exiguobacterium indicum 1.2.3 remain stable at 30 \u00b0C?",
+        "A": "1 hour",
+        "B": "2 hours",
+        "C": "3 hours",
+        "D": "4 hours",
+        "Answer": "C",
+        "Source": "The protease was utterly stable for 3 h at 30 \u00b0C."
+    },
+    "Question_4": {
+        "Context": "Enzymes have an optimal pH at which they exhibit maximum activity. This is an important characteristic for their application in various industries.",
+        "Question": "At which pH does the protease from Exiguobacterium indicum 1.2.3 exhibit optimum activity?",
+        "A": "pH 7",
+        "B": "pH 8",
+        "C": "pH 9",
+        "D": "pH 10",
+        "Answer": "D",
+        "Source": "The optimum activity was obtained at pH 10."
+    },
+    "Question_5": {
+        "Context": "Metal ions can have significant effects on the activity of enzymes, either enhancing or inhibiting their function.",
+        "Question": "Which metal ion enhances the activity of the protease from Exiguobacterium indicum 1.2.3 the most?",
+        "A": "Ca2+",
+        "B": "Mn2+",
+        "C": "Cu2+",
+        "D": "Mg2+",
+        "Answer": "A",
+        "Source": "The crude enzyme activity was enhanced by various metal ions and retained 147%, 125%, 124%, and 117% of its activity within 1 mM Ca2+, Mn2+, Cu2+, and Mg2+, respectively."
+    },
+    "Question_6": {
+        "Context": "Enzyme inhibitors are molecules that decrease enzyme activity. One common inhibitor for serine proteases is phenylmethylsulfonyl fluoride (PMSF).",
+        "Question": "What is the effect of phenylmethylsulfonyl fluoride on the protease from Exiguobacterium indicum 1.2.3?",
+        "A": "It enhances the activity",
+        "B": "It has no effect",
+        "C": "It partially inhibits the activity",
+        "D": "It completely inhibits the activity",
+        "Answer": "D",
+        "Source": "The crude enzyme was inactive with phenylmethylsulfonyl fluoride, indicating a serine residue on the active side."
+    },
+    "Question_7": {
+        "Context": "Surfactants can affect the stability and activity of enzymes, which is particularly relevant in the formulation of detergents.",
+        "Question": "Which surfactant increases the activity of the protease from Exiguobacterium indicum 1.2.3?",
+        "A": "Sodium dodecyl sulfate (SDS)",
+        "B": "Tween 80",
+        "C": "Triton X-100",
+        "D": "Sodium perborate",
+        "Answer": "B",
+        "Source": "The addition of Tween 80, Triton X-100, and sodium perborate improved enzymatic activity up to 135%, 109%, and 105%, respectively."
+    },
+    "Question_8": {
+        "Context": "Oxidizing agents are used in detergents for their bleaching effects, but they can also affect enzyme stability.",
+        "Question": "Which oxidizing agent does NOT decrease the activity of the protease from Exiguobacterium indicum 1.2.3?",
+        "A": "Hydrogen peroxide",
+        "B": "Sodium hypochlorite",
+        "C": "Sodium perborate",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The enzyme exhibited a significant proteolytic effect in the presence of surfactants and oxidizing agents. The addition of Tween 80, Triton X-100, and sodium perborate improved enzymatic activity up to 135%, 109%, and 105%, respectively."
+    },
+    "Question_9": {
+        "Context": "Enzymes can be used in detergents to improve the removal of stains from textiles during the washing process.",
+        "Question": "What type of stains was the protease from Exiguobacterium indicum 1.2.3 effective in removing in a washing test?",
+        "A": "Blood",
+        "B": "Milk",
+        "C": "Ink",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "According to the washing results, the crude enzyme effectively removed the blood on different types of standard pre-stained textiles at 30 \u00b0C."
+    },
+    "Question_10": {
+        "Context": "The ability of an enzyme to function in the presence of surfactants and oxidizing agents is important for its application in laundry detergents.",
+        "Question": "How does the addition of sodium perborate affect the protease activity from Exiguobacterium indicum 1.2.3?",
+        "A": "Decreases activity by 5%",
+        "B": "No change in activity",
+        "C": "Increases activity by 5%",
+        "D": "Increases activity by more than 5%",
+        "Answer": "D",
+        "Source": "The addition of Tween 80, Triton X-100, and sodium perborate improved enzymatic activity up to 135%, 109%, and 105%, respectively."
+    }
+}

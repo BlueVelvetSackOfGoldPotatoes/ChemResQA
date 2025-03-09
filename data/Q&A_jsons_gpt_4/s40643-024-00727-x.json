@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The bioconversion of 4\u2011hydroxy\u20112\u2011keto acid derivatives can be achieved through aldol condensation involving formaldehyde and pyruvate, which is a process of interest for the production of various chemicals.",
+        "Question": "What is the specific activity of the novel thermostable class II pyruvate aldolase from Deinococcus radiodurans when used for aldol condensation?",
+        "A": "10.3 \u00b5mol min\u20131 mg\u20131",
+        "B": "46.3 \u00b5mol min\u20131 mg\u20131",
+        "C": "76.5 \u00b5mol min\u20131 mg\u20131",
+        "D": "357.6 \u00b5mol min\u20131 mg\u20131",
+        "Answer": "B",
+        "Source": "We developed an environmentally friendly biocatalyst consisting of a novel thermostable class II pyruvate aldolase from Deinococcus radiodurans with maltose\u2011binding protein (MBP\u2011DrADL), which has specific activity of 46.3 \u00b5mol min\u20131 mg\u20131."
+    },
+    "Question_2": {
+        "Context": "Enzymes can retain their activity over a range of temperatures, and their stability at elevated temperatures is an important characteristic for industrial applications.",
+        "Question": "At what temperature range did the MBP\u2011DrADL maintain over 60% of its enzyme activity for 4 days?",
+        "A": "20 to 35 \u00b0C",
+        "B": "35 to 45 \u00b0C",
+        "C": "50 to 65 \u00b0C",
+        "D": "70 to 85 \u00b0C",
+        "Answer": "C",
+        "Source": "Surprisingly, MBP\u2011DrADL maintained over 60% of enzyme activity for 4 days at 50 to 65 \u00b0C."
+    },
+    "Question_3": {
+        "Context": "Optimal reaction conditions are crucial for maximizing the efficiency of enzymatic reactions, including temperature and pH.",
+        "Question": "What were the optimum reaction conditions for the production of 2\u2011keto\u20114\u2011hydroxybutyrate (2\u2011KHB) using MBP\u2011DrADL?",
+        "A": "37 \u00b0C, pH 7.0",
+        "B": "45 \u00b0C, pH 7.5",
+        "C": "50 \u00b0C, pH 8.0",
+        "D": "60 \u00b0C, pH 8.5",
+        "Answer": "C",
+        "Source": "The optimum reaction conditions for 2\u2011KHB production were 50 \u00b0C, pH 8.0."
+    },
+    "Question_4": {
+        "Context": "Enzymes often require metal ions for their catalytic activity, and the presence of specific metal ions can significantly affect the enzyme's performance.",
+        "Question": "Which metal ion was found to yield the highest activity for MBP\u2011DrADL?",
+        "A": "Mn2+",
+        "B": "Co2+",
+        "C": "Mg2+",
+        "D": "Ca2+",
+        "Answer": "C",
+        "Source": "Among the tested ions, Mg2+ yielded the highest MBP\u2011DrADL activity."
+    },
+    "Question_5": {
+        "Context": "The concentration of metal ions can influence the activity of metalloenzymes, and finding the optimal concentration is important for enzymatic reactions.",
+        "Question": "What was the optimal Mg2+ concentration for MBP\u2011DrADL activity?",
+        "A": "1 mM",
+        "B": "5 mM",
+        "C": "10 mM",
+        "D": "15 mM",
+        "Answer": "B",
+        "Source": "The catalytic activity of the other aldolases was also ion dependent, with Co2+ acting on MBP-EcYfaU and Mg2+ on MBP-PaADL, indicating a diversity of metal dependencies even among aldolases that catalyze the same chemical reactions."
+    },
+    "Question_6": {
+        "Context": "Kinetic parameters such as kcat and Km are used to describe the catalytic efficiency of enzymes, with kcat representing the turnover number and Km representing the substrate concentration at which the reaction rate is half of its maximum value.",
+        "Question": "What were the kcat values of MBP\u2011DrADL for formaldehyde and pyruvate, respectively?",
+        "A": "398 min\u22121 and 453 min\u22121",
+        "B": "11,845 min\u22121 and 7670 min\u22121",
+        "C": "5.87 min\u22121 and 7.54 min\u22121",
+        "D": "10 min\u22121 and 20 min\u22121",
+        "Answer": "B",
+        "Source": "The kcat values of MBP-DrADL for formaldehyde and pyruvate were 11,845 and 7670 min\u22121, respectively."
+    },
+    "Question_7": {
+        "Context": "The Km value of an enzyme for a substrate can indicate the affinity between them; a lower Km value suggests a higher affinity.",
+        "Question": "What were the Km values of MBP\u2011DrADL toward formaldehyde and pyruvate, respectively?",
+        "A": "8.79 mM and 4.06 mM",
+        "B": "10 mM and 20 mM",
+        "C": "30 mM and 15 mM",
+        "D": "50 mM and 25 mM",
+        "Answer": "A",
+        "Source": "Moreover, the Km values of MBP-DrADL toward formaldehyde and pyruvate were 8.79 mM and 4.06 mM, respectively."
+    },
+    "Question_8": {
+        "Context": "Enzyme concentration can affect the rate of reaction and the yield of product in an enzymatic reaction.",
+        "Question": "What enzyme concentration of MBP\u2011DrADL led to a saturation state in the production of 2-KHB?",
+        "A": "0.005 mg mL\u22121",
+        "B": "0.010 mg mL\u22121",
+        "C": "0.025 mg mL\u22121",
+        "D": "0.100 mg mL\u22121",
+        "Answer": "C",
+        "Source": "When the enzyme concentration was below 0.025 mg mL\u22121, the amount of 2-KHB increased with enzyme concentration. However, above 0.025 mg mL\u22121 enzyme, 2-KHB concentration reached a saturation state."
+    },
+    "Question_9": {
+        "Context": "Substrate concentration is a critical factor in enzymatic reactions, and there is often an optimal concentration range for maximal product yield.",
+        "Question": "At what concentrations of formaldehyde and pyruvate did the maximal production of 2-KHB occur?",
+        "A": "50 mM formaldehyde and 100 mM pyruvate",
+        "B": "80 mM formaldehyde and 40 mM pyruvate",
+        "C": "100 mM formaldehyde and 200 mM pyruvate",
+        "D": "300 mM formaldehyde and 300 mM pyruvate",
+        "Answer": "C",
+        "Source": "When 0\u2013300 mM formaldehyde or pyruvate were tested with 0.025 mg mL\u22121 enzyme, the maximal production of 2-KHB occurred at a concentration of 100 mM formaldehyde and 200 mM pyruvate."
+    },
+    "Question_10": {
+        "Context": "Continuous addition of substrates in an enzymatic reaction can be a strategy to improve product yield, especially when dealing with inhibitory effects of substrates at high concentrations.",
+        "Question": "How was the production of 2-KHB improved in the enzymatic reaction using MBP\u2011DrADL?",
+        "A": "By increasing the enzyme concentration",
+        "B": "By lowering the reaction temperature",
+        "C": "By continuous addition of substrates",
+        "D": "By reducing the reaction time",
+        "Answer": "C",
+        "Source": "2-KHB production was improved by continuous addition of substrates, which produced approximately 124.8 mM (14.6 g L\u20131) of 2-KHB over 60 min with a volumetric productivity and specific productivity of 14.6 g L\u20131 h\u20131 and 583.4 mg mg\u2011enzyme\u20131 h\u20131, respectively."
+    }
+}

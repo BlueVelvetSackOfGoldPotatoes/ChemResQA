@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In membrane technology for water purification, the use of polymeric membranes is considered advantageous due to their cost-effectiveness and ease of upscaling.",
+        "Question": "What is a significant advantage of using polymeric membranes in water purification technology?",
+        "A": "High energy consumption",
+        "B": "Complex manufacturing process",
+        "C": "Cost-effectiveness and ease of upscaling",
+        "D": "Low durability",
+        "Answer": "C",
+        "Source": "Therefore, in this context, membrane technology, particularly the use of polymeric membranes, is highly desirable because of its cost-effectiveness and ease of upscaling."
+    },
+    "Question_2": {
+        "Context": "In the context of water purification, Forward Osmosis (FO) is a less energy-intensive technique that relies on natural osmotic pressure to drive separation, eliminating additional pumping costs.",
+        "Question": "What is the driving force behind the separation process in Forward Osmosis (FO) used for water purification?",
+        "A": "Electric current",
+        "B": "Natural osmotic pressure",
+        "C": "Centrifugal force",
+        "D": "Thermal energy",
+        "Answer": "B",
+        "Source": "FO is essentially a process via which separation can be carried out, and it is driven by natural osmotic pressure, which further eliminates any additional pumping cost."
+    },
+    "Question_3": {
+        "Context": "Polyamide (PA)-based membranes are known for their sieving performance in water purification, but they are susceptible to chlorine attack which can lead to disintegration of amide linkages.",
+        "Question": "What is a significant drawback of using Polyamide (PA)-based membranes in water purification?",
+        "A": "They are highly reactive with oxygen",
+        "B": "They are impermeable to water",
+        "C": "They are susceptible to chlorine attack",
+        "D": "They have a low sieving performance",
+        "Answer": "C",
+        "Source": "A significant bottleneck towards the application of PA membranes\u2019 are their susceptibility to chlorine attack. The amide linkages usually disintegrate when exposed to chlorine atmosphere."
+    },
+    "Question_4": {
+        "Context": "Graphene oxide (GO) membranes can be modified to enhance their chlorine tolerance and prevent swelling in aqueous environments.",
+        "Question": "What is a disadvantage of pristine graphene oxide (GO) membranes that can be mitigated by chemical modification?",
+        "A": "They swell in an aqueous environment",
+        "B": "They are highly flammable",
+        "C": "They are opaque, blocking light transmission",
+        "D": "They are too rigid to be used in filtration systems",
+        "Answer": "A",
+        "Source": "Another disadvantage of pristine GO is it swells in an aqueous environment."
+    },
+    "Question_5": {
+        "Context": "Layer-by-layer assembly is a technique used to fabricate thin-film composite membranes by alternately adsorbing polycations and polyanions, which can provide more binding sites for molecular sieving.",
+        "Question": "What is the main advantage of using layer-by-layer assembly in the fabrication of thin-film composite membranes?",
+        "A": "Decreased production time",
+        "B": "Increased thickness of the membrane",
+        "C": "More binding sites for molecular sieving",
+        "D": "Reduced cost of raw materials",
+        "Answer": "C",
+        "Source": "Another main advantage of this strategy is that it can provide more binding sites, an essential requirement to achieve molecular sieving."
+    },
+    "Question_6": {
+        "Context": "In the development of nanoporous membranes, selective etching can be used to create nanochannels by removing specific components from a blend.",
+        "Question": "What is the purpose of selective etching in the development of nanoporous membranes?",
+        "A": "To increase the thermal stability of the membrane",
+        "B": "To create nanochannels by removing specific components",
+        "C": "To enhance the electrical conductivity of the membrane",
+        "D": "To color the membrane for easy identification",
+        "Answer": "B",
+        "Source": "The PMMA component, restricted in either the interspheruitic regions or interlamellar regions, was selectively etched out to yield nanochannels."
+    },
+    "Question_7": {
+        "Context": "Polyvinylidene difluoride (PVDF) membranes can be obtained with different pore sizes by varying the composition in blends and using selective etching.",
+        "Question": "How can the pore sizes of Polyvinylidene difluoride (PVDF) membranes be tuned?",
+        "A": "By changing the temperature during the extrusion process",
+        "B": "By varying the composition in blends and using selective etching",
+        "C": "By applying different pressures during the filtration process",
+        "D": "By altering the pH level of the solution used in the membrane production",
+        "Answer": "B",
+        "Source": "The membranes with different pore sizes were tuned on varying the composition in blends and a gradient in microstructure was achieved by stitching the membranes."
+    },
+    "Question_8": {
+        "Context": "Polydopamine (PDA) can be synthesized through oxidant-induced polymerization, which is a process that involves the polymerization of dopamine in the presence of an oxidant.",
+        "Question": "What method is used for the synthesis of Polydopamine (PDA)?",
+        "A": "Oxidant-induced polymerization",
+        "B": "Hydrothermal synthesis",
+        "C": "Sol-gel process",
+        "D": "Electrospinning",
+        "Answer": "A",
+        "Source": "PDA was synthesized by oxidant-induced polymerization technique as mentioned in the literature."
+    },
+    "Question_9": {
+        "Context": "Polystyrene sulfonate (PSS) is a polyanion that can be prepared from polystyrene by sulfonation, which involves the introduction of sulfonate groups into the polymer.",
+        "Question": "How is Polystyrene sulfonate (PSS) prepared from polystyrene?",
+        "A": "By polymerization of styrene monomers",
+        "B": "By sulfonation, introducing sulfonate groups into the polymer",
+        "C": "By crosslinking with other polymer chains",
+        "D": "By breaking down the polymer into smaller units",
+        "Answer": "B",
+        "Source": "PSS is prepared from polystyrene by the method reported in the literature."
+    },
+    "Question_10": {
+        "Context": "The efficiency of a membrane in water purification can be assessed by its ability to reject unwanted substances, such as salts and dyes, while allowing water to pass through.",
+        "Question": "What is an important measure of a membrane's efficiency in water purification?",
+        "A": "Its ability to change color when contaminants are present",
+        "B": "Its capacity to increase the temperature of the water",
+        "C": "Its ability to reject unwanted substances like salts and dyes",
+        "D": "Its flexibility and ability to be shaped into different forms",
+        "Answer": "C",
+        "Source": "Pure water flux, salt rejection, dye removal, and antibacterial activity were performed to study the membrane\u2019s efficiency."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the biosynthesis of plant secondary metabolites, O-methyltransferases (OMTs) are enzymes that catalyze the transfer of a methyl group from a donor molecule to an acceptor molecule.",
+        "Question": "What is the role of O-methyltransferases (OMTs) in plants?",
+        "A": "Catalyze the hydrolysis of secondary metabolites",
+        "B": "Catalyze the methylation of secondary metabolites",
+        "C": "Catalyze the glycosylation of secondary metabolites",
+        "D": "Catalyze the isomerization of secondary metabolites",
+        "Answer": "B",
+        "Source": "In plants, O\u2011methyltransferases (OMTs) participate in the methylation of a vast array of secondary metabolites, including flavonoids, phenylpropanoids, and alkaloids."
+    },
+    "Question_2": {
+        "Context": "Flavonoids are a class of plant secondary metabolites with diverse structures and health-beneficial activities. Their structural diversity is due to different oxidation statuses and substitutions on their carbon skeletons.",
+        "Question": "Which factor contributes to the structural diversity of flavonoids?",
+        "A": "The presence of different amino acids",
+        "B": "The different oxidation statuses of the carbon skeletons",
+        "C": "The number of carbon atoms in the molecule",
+        "D": "The type of solvent used during extraction",
+        "Answer": "B",
+        "Source": "The structural diversity of flavonoids comes from the different oxidation statuses of the carbon skeletons and substitutions in their hydroxyl groups."
+    },
+    "Question_3": {
+        "Context": "Flavonoid O-methyltransferases (FOMTs) are known to have broad substrate selectivity but typically transfer a methyl group to a specific position of the flavonoid molecule.",
+        "Question": "What is a characteristic of flavonoid O-methyltransferases (FOMTs)?",
+        "A": "They transfer methyl groups randomly across the flavonoid molecule.",
+        "B": "They have narrow substrate selectivity and regiospecificity.",
+        "C": "They have broad substrate selectivity and strict regiospecificity.",
+        "D": "They only methylate the hydroxyl groups of glycosyl moieties.",
+        "Answer": "C",
+        "Source": "Flavonoid OMTs (FOMTs) accept diverse flavonoid substrates, whereas they typically transfer a methyl group to a specific position of flavonoids."
+    },
+    "Question_4": {
+        "Context": "Citrus plants are known to contain a variety of methoxyflavonoids, which are flavonoids with one or more methoxy groups.",
+        "Question": "Which of the following is a methoxyflavonoid found in citrus plants?",
+        "A": "Eriodictyol",
+        "B": "Chrysoeriol",
+        "C": "Luteolin",
+        "D": "Quercetin",
+        "Answer": "B",
+        "Source": "Citrus fruit and juices are reported to have diverse methoxyflavonoids, such as hesperetin, isosakuranetin, chrysoeriol, and nobiletin, and their respective glycosides."
+    },
+    "Question_5": {
+        "Context": "In the context of enzyme kinetics, Vmax represents the maximum rate of an enzymatic reaction when the enzyme is saturated with substrate.",
+        "Question": "What does Vmax indicate in enzyme kinetics?",
+        "A": "The minimum substrate concentration required for enzyme activity",
+        "B": "The maximum substrate concentration the enzyme can handle",
+        "C": "The maximum rate of the reaction when the enzyme is saturated with substrate",
+        "D": "The velocity of the enzyme reaction at half the substrate concentration",
+        "Answer": "C",
+        "Source": "In agreement with its relative activity, CsOMT16 has the highest Vmax and kcat values of 89.33 pmol min\u22121 ug\u22121 and 3.76 min\u22121 for quercetin, respectively."
+    },
+    "Question_6": {
+        "Context": "The Km value in enzyme kinetics is a measure of the substrate concentration at which the reaction rate is half of the Vmax.",
+        "Question": "What does the Km value represent in enzyme kinetics?",
+        "A": "The rate at which the enzyme reaction speed is maximized",
+        "B": "The total concentration of enzyme available in the reaction",
+        "C": "The energy required to initiate the enzyme-catalyzed reaction",
+        "D": "The substrate concentration at which the reaction rate is half of the Vmax",
+        "Answer": "D",
+        "Source": "CsOMT16 showed comparable binding affinity to eriodictyol, luteolin, and quercetin, with Km values of 2.62, 1.17, and 4.52 \u00b5M, respectively."
+    },
+    "Question_7": {
+        "Context": "The catalytic efficiency of an enzyme can be expressed as the ratio of kcat/Km, which combines the turnover number (kcat) and the Michaelis constant (Km).",
+        "Question": "What does the kcat/Km ratio indicate about an enzyme's catalytic efficiency?",
+        "A": "It indicates the enzyme's affinity for its substrate.",
+        "B": "It indicates the maximum rate of the enzymatic reaction.",
+        "C": "It indicates the enzyme's efficiency in converting substrate to product.",
+        "D": "It indicates the thermal stability of the enzyme.",
+        "Answer": "C",
+        "Source": "Although its Vmax and Km values were considerably different, CsOMT16 exhibited comparable kcat/Km values to the flavonoids examined, ranging from 8.66 \u00d7 103 to 3.65 \u00d7 104 M\u22121 s\u22121."
+    },
+    "Question_8": {
+        "Context": "In the context of biotransformation, whole-cell microorganisms can be used to selectively modify compounds due to their specific enzymatic activities.",
+        "Question": "What is the purpose of using whole-cell microorganisms in biotransformation?",
+        "A": "To extract pure compounds from complex mixtures",
+        "B": "To selectively modify compounds using specific enzymatic activities",
+        "C": "To increase the thermal stability of enzymes",
+        "D": "To reduce the cost of enzyme purification",
+        "Answer": "B",
+        "Source": "Because of their substrate-, regio-, and stereo- specificities, biocatalysts such as enzymes and whole- cell microorganisms have been applied to selectively modify synthetic and natural compounds."
+    },
+    "Question_9": {
+        "Context": "Flavonoid 3'-O-methyltransferases are a type of FOMT that specifically methylates the 3'-hydroxyl group of flavonoids.",
+        "Question": "Which position on the flavonoid molecule does a flavonoid 3'-O-methyltransferase typically methylate?",
+        "A": "The 7-hydroxyl group",
+        "B": "The 3'-hydroxyl group",
+        "C": "The 5-hydroxyl group",
+        "D": "The 4'-hydroxyl group",
+        "Answer": "B",
+        "Source": "These results demonstrate that CsOMT16 is a FOMT catalyzing the 3\u2019-O-methylation of flavonoids and likely contributes to orange having diverse methoxyflavonoids."
+    },
+    "Question_10": {
+        "Context": "Methoxyflavonoids are flavonoids that have been modified by the addition of methoxy groups, and they possess various biological activities.",
+        "Question": "What is a characteristic feature of methoxyflavonoids?",
+        "A": "They have reduced water solubility compared to their non-methylated counterparts.",
+        "B": "They are less biologically active than other flavonoids.",
+        "C": "They are exclusively found in animal tissues.",
+        "D": "They are flavonoids with one or more methoxy groups.",
+        "Answer": "D",
+        "Source": "Methoxyflavonoids have valuable biological activities and have thus been considered functional agents in the food and pharmaceutical industries."
+    }
+}

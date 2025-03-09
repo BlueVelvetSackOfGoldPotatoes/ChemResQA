@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In materials science, flow stress is an important property that can be influenced by various factors such as dislocation density and strain rate.",
+        "Question": "Which of the following parameters is NOT typically used to predict flow stress in materials?",
+        "A": "Dislocation density",
+        "B": "Strain rate",
+        "C": "Shear modulus",
+        "D": "Molecular weight",
+        "Answer": "D",
+        "Source": "Flow stresses (resolved shear stresses) based on dislocation density, strain rate, and strain as well as essential materials parameters (shear modulus, dislocation drag coefficient, Burgers vector length)."
+    },
+    "Question_2": {
+        "Context": "Machine learning methods can be used to predict material properties by training on certain features.",
+        "Question": "Which of the following is NOT a feature that would typically be used in machine learning models for predicting flow stresses in materials?",
+        "A": "Strain",
+        "B": "Shear modulus",
+        "C": "Burgers vector length",
+        "D": "Melting point",
+        "Answer": "D",
+        "Source": "All features and targets were logarithmically transformed and standardized before training, testing and prediction."
+    },
+    "Question_3": {
+        "Context": "Scaling analysis is a technique used to compare and predict material behavior under different conditions.",
+        "Question": "What is the purpose of scaling analysis in the context of predicting material properties?",
+        "A": "To validate machine learning algorithms",
+        "B": "To serve as a benchmark for prediction performance",
+        "C": "To increase the computational speed of simulations",
+        "D": "To reduce the amount of experimental data needed",
+        "Answer": "B",
+        "Source": "The scaling analysis presented in the previous paragraph serves as a benchmark for prediction performance."
+    },
+    "Question_4": {
+        "Context": "In the study of material deformation, the Schmid factor is a critical parameter.",
+        "Question": "What does the Schmid factor represent in the context of material deformation?",
+        "A": "The ratio of shear moduli between two materials",
+        "B": "The ratio of Burgers vector lengths between two materials",
+        "C": "The orientation dependence of shear stress required to move dislocations",
+        "D": "The strain rate experienced by the material",
+        "Answer": "C",
+        "Source": "Experimental resolved shear stresses determined for some material X deformed in [hkl] orientation with Schmid factor M[hkl] were referred to Cu deformed in [100] orientation."
+    },
+    "Question_5": {
+        "Context": "Machine learning models require a selection of activation functions for their neurons in neural networks.",
+        "Question": "Which of the following is NOT a commonly used activation function in neural network models?",
+        "A": "ReLU",
+        "B": "Sigmoid",
+        "C": "Tanh",
+        "D": "Celsius",
+        "Answer": "D",
+        "Source": "We test both the relu and sigmoid activation functions."
+    },
+    "Question_6": {
+        "Context": "In machine learning, kernel ridge regression is a method used for making predictions.",
+        "Question": "What does kernel ridge regression use to make predictions for new data points?",
+        "A": "A linear combination of weighted kernel functions",
+        "B": "A decision tree partitioning",
+        "C": "A multilayer perceptron",
+        "D": "A convolutional neural network",
+        "Answer": "A",
+        "Source": "Kernel ridge regression is a memory based method that makes predictions for a new data point xi through its similarity to samples in the training set xj."
+    },
+    "Question_7": {
+        "Context": "Decision trees are a type of machine learning algorithm used for classification and regression tasks.",
+        "Question": "How do decision trees make predictions?",
+        "A": "Through the average value of training points within the partition to which a new data point is assigned",
+        "B": "By minimizing an L2 regularized least squares problem",
+        "C": "Using a set of stacked layers of neurons",
+        "D": "Through the similarity to samples in the training set",
+        "Answer": "A",
+        "Source": "Decision trees partition the feature space in greedy fashion and make predictions through the average value of training points within the partition to which a new data point xi is assigned."
+    },
+    "Question_8": {
+        "Context": "In the context of machine learning, the performance of models is often evaluated using certain metrics.",
+        "Question": "Which metric is commonly used to evaluate the performance of machine learning models in predicting material properties?",
+        "A": "Mean squared error",
+        "B": "Coefficient of determination (R2)",
+        "C": "Accuracy",
+        "D": "Precision",
+        "Answer": "B",
+        "Source": "A fit of the simulation data using Eq. (12) allows to reproduce the actual values with a coefficient of determination of R2 = 0.972."
+    },
+    "Question_9": {
+        "Context": "Machine learning models can be trained using different schemes that affect their performance.",
+        "Question": "What is a potential issue when using machine learning models trained on simulation data to predict experimental data?",
+        "A": "The models may overfit to the simulation data",
+        "B": "The simulation data may not cover the same parameter range as the experimental data",
+        "C": "The experimental data may be too noisy for the model",
+        "D": "The models may require too much computational power",
+        "Answer": "B",
+        "Source": "The reduced reliability in predicting simulation data is to be expected, since the simulations represent highly idealized situations."
+    },
+    "Question_10": {
+        "Context": "The overlap of training and test data in feature space is crucial for the performance of machine learning models.",
+        "Question": "Why is ensuring adequate overlap between training and test data in feature space important for machine learning models?",
+        "A": "To facilitate the exploration of parameter space",
+        "B": "To ensure that the model can interpolate well",
+        "C": "To reduce the computational effort required",
+        "D": "To avoid the need for theoretical arguments",
+        "Answer": "B",
+        "Source": "The first and obvious conclusion points to the necessity of ensuring adequate overlap between simulation and experiment."
+    }
+}

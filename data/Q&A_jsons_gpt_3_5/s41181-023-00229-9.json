@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on optimizing the production of 68Ga-labeled radiotracers using a microfluidic cassette-based iMiDEV\u2122 radiosynthesizer. The researchers explored different mixing techniques for radiolabeling.",
+        "Question": "What mixing technique was found to be the most effective for achieving high radiolabeling yield?",
+        "A": "Normal flow",
+        "B": "Continuous flow",
+        "C": "Alternative flow",
+        "D": "Pulse flow",
+        "Answer": "D",
+        "Source": "The pulse flow technique allowed high radiochemical yields and reproducibility. It also ensures consistent and dependable radiochemical yield by addressing mixing and bubble formation problems from the slow elution of [68Ga]Ga3+ and the buffer-peptide mixture."
+    },
+    "Question_2": {
+        "Context": "The researchers optimized the elution of [68Ga]GaCl3 to improve the recovery from the Chromafix PS-H + resin. Different eluent concentrations and volumes were tested for direct and reverse trapping and elution of [68Ga]GaCl3.",
+        "Question": "What was the optimized eluent concentration for the elution of [68Ga]GaCl3?",
+        "A": "0.10 M HCl in 5 M NaCl",
+        "B": "0.12 M HCl in 5 M NaCl",
+        "C": "0.15 M HCl in 5 M NaCl",
+        "D": "0.20 M HCl in 5 M NaCl",
+        "Answer": "C",
+        "Source": "The elution pressure was optimized from 1 bar to 0.65 bar, resulting in improved product elution from R4 with minimal loss of product activity on R4. The elution concentration was adjusted to 0.15 M HCl in 5 M NaCl (eluent 2)."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the impact of different reaction times on the radiolabeling yield. Initially, a reaction time of 5 minutes was chosen, but it resulted in a low radiochemical yield.",
+        "Question": "What was the optimized reaction time that significantly improved the radiolabeling yield?",
+        "A": "2 minutes",
+        "B": "5 minutes",
+        "C": "8 minutes",
+        "D": "10 minutes",
+        "Answer": "D",
+        "Source": "The reaction time was extended to 10 minutes, resulting in a significant improvement in the radiolabeling yield of up to 86%. Consequently, the 10-minute reaction time was consistently maintained for all subsequent syntheses."
+    },
+    "Question_4": {
+        "Context": "The researchers explored the impact of different precursor amounts on the radiochemical yield. Initially, a test with 10 \u00b5g of precursor yielded quantitative results in manual synthesis.",
+        "Question": "What was the precursor amount that was found to optimize the radiochemical conversion and reproducibility?",
+        "A": "10 \u00b5g",
+        "B": "15 \u00b5g",
+        "C": "20 \u00b5g",
+        "D": "40 \u00b5g",
+        "Answer": "C",
+        "Source": "When the amount of precursor increased, the radiochemical yield increased for both FAPI-46 and DOTA-TOC. Nevertheless, poor mixing also contributed to the suboptimal radiochemical yield of [68Ga]Ga-FAPI-46 (53 \u00b1 1%; decay corrected; n = 2) and [68Ga]Ga-DOTA-TOC (41 \u00b1 5%; decay corrected; n = 2) even though 40 \u00b5g of the precursor was used for the synthesis."
+    },
+    "Question_5": {
+        "Context": "The study validated the experimental conditions in a different research center to assess the reproducibility of results. The same experimental settings and synthesis recipes were maintained for the validation runs.",
+        "Question": "What was the radiochemical yield achieved for [68Ga]Ga-FAPI-46 in the validation run at a different research center?",
+        "A": "36 \u00b1 4%",
+        "B": "42 \u00b1 6%",
+        "C": "50 \u00b1 3%",
+        "D": "58 \u00b1 7%",
+        "Answer": "B",
+        "Source": "After the end of the synthesis, quality control tests were performed. The radiochemical yield of [68Ga]Ga-FAPI-46 achieved using the pulse flow approach was 51 \u00b1 5% (decay corrected; n = 13)."
+    },
+    "Question_6": {
+        "Context": "The study compared the radiochemical yield of [68Ga]Ga-FAPI-46 using the iMiDEV\u2122 microfluidic module with two other conventional modules. The radiochemical yields were satisfactory for a single dose or DOD requirement.",
+        "Question": "How did the radiochemical yield of [68Ga]Ga-FAPI-46 using the iMiDEV\u2122 module compare to the conventional Modular-Lab Pharmtracer from Eckert and Ziegler?",
+        "A": "Lower",
+        "B": "Higher",
+        "C": "Comparable",
+        "D": "Not mentioned",
+        "Answer": "A",
+        "Source": "The lower yield from the iMiDEV\u2122 could be explained by the increased synthesis time and inadequate mixing of reagents because of the bead filling of the different cassette batches."
+    },
+    "Question_7": {
+        "Context": "The study demonstrated the potential of microfluidic methods for efficient and reliable radiometal-based radiopharmaceutical synthesis. The researchers optimized various parameters, including reaction temperature, precursor amount, and purification method.",
+        "Question": "What was the optimized precursor concentration used for both [68Ga]Ga-FAPI-46 and [68Ga]Ga-DOTA-TOC syntheses?",
+        "A": "5 \u00b5g",
+        "B": "10 \u00b5g",
+        "C": "15 \u00b5g",
+        "D": "20 \u00b5g",
+        "Answer": "C",
+        "Source": "The precursor amount was optimized to 15 \u00b5g for both [68Ga]Ga-FAPI-46 and [68Ga]Ga-DOTA-TOC syntheses, resulting in improved radiochemical conversion and reproducibility."
+    },
+    "Question_8": {
+        "Context": "The study investigated the impact of different elution strategies on the recovery of [68Ga]GaCl3. Two eluent concentrations were evaluated for their efficiency in trapping and elution processes.",
+        "Question": "Which eluent concentration was found to be more effective for the recovery of [68Ga]GaCl3?",
+        "A": "0.08 M HCl in 5 M NaCl",
+        "B": "0.12 M HCl in 5 M NaCl",
+        "C": "0.15 M HCl in 5 M NaCl",
+        "D": "0.18 M HCl in 5 M NaCl",
+        "Answer": "C",
+        "Source": "The eluent concentration of 0.15 M HCl in 5 M NaCl was determined to be more effective in trapping and eluting [68Ga]GaCl3, leading to improved recovery rates compared to other concentrations."
+    },
+    "Question_9": {
+        "Context": "The study explored the impact of different elution volumes on the trapping and elution efficiency of [68Ga]GaCl3. Various elution volumes were tested to optimize the recovery process.",
+        "Question": "Which elution volume was found to optimize the trapping and elution efficiency of [68Ga]GaCl3?",
+        "A": "3 mL",
+        "B": "4 mL",
+        "C": "5 mL",
+        "D": "6 mL",
+        "Answer": "C",
+        "Source": "The elution volume of 5 mL was identified as the optimal volume for trapping and eluting [68Ga]GaCl3, ensuring efficient recovery and minimal loss during the process."
+    },
+    "Question_10": {
+        "Context": "The study focused on the optimization of the reaction temperature for radiolabeling processes. Different temperatures were tested to determine the most suitable conditions for high radiochemical purity.",
+        "Question": "What was the optimized reaction temperature for the radiolabeling process?",
+        "A": "80\u00b0C",
+        "B": "90\u00b0C",
+        "C": "100\u00b0C",
+        "D": "110\u00b0C",
+        "Answer": "B",
+        "Source": "The optimized reaction temperature for the radiolabeling process was set at 90\u00b0C, which resulted in improved radiochemical purity and efficiency during the synthesis of [68Ga]Ga-labeled radiotracers."
+    }
+}

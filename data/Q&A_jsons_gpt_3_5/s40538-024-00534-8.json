@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the synthesis of metal nanoparticles using Bacillus biocontrol agents.",
+        "Question": "What is the key advantage of using endospore-forming Bacillus biocontrol agents in the production of nano-microbicides?",
+        "A": "They can produce multifarious secondary metabolites.",
+        "B": "They can easily form endospores at the stationary phase.",
+        "C": "They are resistant to heating and dryness.",
+        "D": "They can tolerate Ag+ and Ag nanoparticles.",
+        "Answer": "D",
+        "Source": "Bacillus cells at the stationary phase form endospores and tolerate Ag+ and Ag nanoparticles (AgNPs), while the cell-free culture supernatant (CFCS) mediates the synthesis of AgNPs."
+    },
+    "Question_2": {
+        "Context": "The study discusses the characteristics of silver nanoparticles produced from Bacillus culture and CFCS.",
+        "Question": "What physical characteristic do AgNP\u2013CFCS and AgNP-culture share?",
+        "A": "They have a different color in liquid media.",
+        "B": "They show different bactericidal activities.",
+        "C": "They have similar electrical characteristics.",
+        "D": "They have different chemical compositions.",
+        "Answer": "C",
+        "Source": "AgNP\u2013CFCS and AgNP-culture have shown similar particle size and morphology, crystalline structures, surface\u2013plasmon\u2013resonance peaks, zeta potential, chemical element compositions, and organic groups."
+    },
+    "Question_3": {
+        "Context": "The study evaluates the antibacterial activities of different substances against Pseudomonas syringae pv. actinidiae.",
+        "Question": "Which substance showed the most significant inhibition on the growth of Psa strains ML2-12 and T6-1?",
+        "A": "CFCS",
+        "B": "AgNO3",
+        "C": "AgNP\u2013CFCS",
+        "D": "AgNP-culture",
+        "Answer": "D",
+        "Source": "AgNP-culture showed the most significant inhibition on the Psa growth."
+    },
+    "Question_4": {
+        "Context": "The study investigates the anti-biofilm activities of AgNP\u2013CFCS and AgNP-culture against Psa.",
+        "Question": "What was the outcome of the crystal violet staining of biofilms?",
+        "A": "Psa under AgNP-culture formed the most biofilm.",
+        "B": "Psa under AgNP\u2013CFCS formed the least biofilm.",
+        "C": "Psa under both treatments formed similar amounts of biofilm.",
+        "D": "Psa under the control condition formed the least biofilm.",
+        "Answer": "B",
+        "Source": "Crystal violet staining and colorimetric assay showed that Psa under AgNP-culture (0.01 mM) and AgNP\u2013CFCS (0.01 mM) formed only 17\u201224% biofilm."
+    },
+    "Question_5": {
+        "Context": "The study assesses the protective effect of CFCS and AgNPs on kiwifruit leaves from Psa infection.",
+        "Question": "How did the 200-time diluted bio-microbicide and nano-microbicide products affect the lesion area on kiwifruit leaves?",
+        "A": "They increased the lesion area.",
+        "B": "They had no effect on the lesion area.",
+        "C": "They slightly reduced the lesion area.",
+        "D": "They dramatically reduced the lesion area.",
+        "Answer": "D",
+        "Source": "The 200-time diluted bio-microbicide and nano-microbicide products dramatically reduced the lesion area to 5% of the leaf area."
+    },
+    "Question_6": {
+        "Context": "The study explores the synthesis of AgNPs using a modified nutrient broth.",
+        "Question": "What modification was made to the nutrient broth for the production of CFCS mediating the synthesis of AgNPs?",
+        "A": "Increased glucose concentration.",
+        "B": "Added NaCl to avoid precipitation of Ag+.",
+        "C": "Replaced glucose with sucrose to increase exopolysaccharide production.",
+        "D": "Reduced the proportion of tryptone.",
+        "Answer": "C",
+        "Source": "NaCl was removed to avoid precipitating Ag+. Sucrose 10 g instead of glucose 2.5 g per liter was used to increase the production of exopolysaccharides."
+    },
+    "Question_7": {
+        "Context": "The study discusses the potential risks associated with using small-size AgNPs and non-transformed Ag+.",
+        "Question": "What is a solution proposed to reduce the toxic risk of using the synergistic bio-microbicide and nano-microbicide?",
+        "A": "Increasing the size of the AgNP product.",
+        "B": "Using a higher concentration of Ag+.",
+        "C": "Adding more toxic substances to counteract the AgNPs.",
+        "D": "Reducing the transformation rate of Ag+ to Ag0.",
+        "Answer": "A",
+        "Source": "Increasing the size of the AgNP product > 20 nm in diameter and the transformation rate of Ag+ to Ag0 is a solution to reduce the toxic risk of using the synergistic bio-microbicide and nano-microbicide."
+    },
+    "Question_8": {
+        "Context": "The study emphasizes the importance of using biologically benign materials in the production of nano-microbicides.",
+        "Question": "Which materials are suggested as alternatives to reduce regulatory scrutiny?",
+        "A": "Endospore-forming biocontrol agents and Zn-based nanomaterials.",
+        "B": "AgNPs and Ag+.",
+        "C": "Toxic chemicals and heavy metals.",
+        "D": "Synthetic nanoparticles and pesticides.",
+        "Answer": "A",
+        "Source": "Alternatively, the strategy of the coproduction and cooperation of bio-microbicide and nano-microbicide can be realized by using biologically benign and generally recognized as safe (GRAS) materials, such as endospore-forming biocontrol agents belonging to the Bacillus subtilis clade and the Paenibacillus polymyxa complex and Zn-based nanomaterials."
+    },
+    "Question_9": {
+        "Context": "The study highlights the challenges in the application of nanotechnology-enabled sustainable agriculture.",
+        "Question": "What are the three major barriers that need to be overcome for the realization of nanotechnology-enabled sustainable agriculture?",
+        "A": "Lack of funding, limited research interest, and technological constraints.",
+        "B": "Scale up production and delivery at field scale, regulatory and safety concerns, and consumer acceptance.",
+        "C": "Climate change, soil degradation, and water scarcity.",
+        "D": "Insect infestations, plant diseases, and crop failures.",
+        "Answer": "B",
+        "Source": "To realize the full potential of nanotechnology-enabled sustainable agriculture, such as using nanopesticides of metallic nanoparticles in plant protection, three major barriers need to be overcome: scale up production and delivery at field scale, regulatory and safety concerns, and consumer acceptance."
+    },
+    "Question_10": {
+        "Context": "The study discusses the challenges associated with the cytotoxic and genotoxic potential of Ag+ and AgNPs.",
+        "Question": "What is suggested as a way to reduce the toxic risk of using the synergistic bio-microbicide and nano-microbicide?",
+        "A": "Increasing the concentration of AgNPs.",
+        "B": "Using more toxic substances in the formulation.",
+        "C": "Using negatively charged nanoparticles.",
+        "D": "Reducing the working concentration of AgNPs and Ag+.",
+        "Answer": "D",
+        "Source": "The synergistic action of the bio-microbicide and nano-microbicide can reduce the working concentration of AgNPs and Ag+."
+    }
+}

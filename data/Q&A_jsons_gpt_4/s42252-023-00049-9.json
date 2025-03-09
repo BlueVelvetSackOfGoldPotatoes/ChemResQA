@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Sheet Moulding Compound (SMC) composites are materials that can be used in various industrial applications due to their short manufacturing times. These composites consist of fibers and resin that melt and flow to fill a mold when heated, after which the resin cures and the composite solidifies.",
+        "Question": "What does SMC stand for in the context of composite materials?",
+        "A": "Solid Moulding Composite",
+        "B": "Sheet Moulding Compound",
+        "C": "Synthetic Moulding Component",
+        "D": "Simple Moulding Composite",
+        "Answer": "B",
+        "Source": "Sheet Moulding Compound (SMC) is a class of composite materials that have the possibility to be useful in automotive industrial applications, due to the possibility of comparatively short cycle times."
+    },
+    "Question_2": {
+        "Context": "In the context of composite materials, Advanced SMC (A-SMC) differs from earlier materials in that it uses carbon fibers and has a higher volume fraction of fibers.",
+        "Question": "What is the main difference between Advanced SMC (A-SMC) and earlier SMC materials?",
+        "A": "A-SMC uses glass fibers instead of carbon fibers",
+        "B": "A-SMC has a lower volume fraction of fibers",
+        "C": "A-SMC uses carbon fibers and has a higher volume fraction of fibers",
+        "D": "A-SMC has a longer manufacturing time",
+        "Answer": "C",
+        "Source": "More recently, Advanced SMC (A-SMC) has also been introduced, the main difference compared to earlier materials being that the fibres are now carbon and the volume fraction of fibres is higher (35% and higher compared to earlier 20\u201325%)."
+    },
+    "Question_3": {
+        "Context": "The viscosity of a composite material like SMC can be modeled using a semi-empirical model that takes into account the volume fraction of fibers, shear strain rate, and temperature.",
+        "Question": "Which factors are considered in the semi-empirical model for the viscosity of SMC?",
+        "A": "Volume fraction of fibers, shear strain rate, and pressure",
+        "B": "Volume fraction of fibers, shear strain rate, and temperature",
+        "C": "Shear strain rate, temperature, and humidity",
+        "D": "Pressure, temperature, and humidity",
+        "Answer": "B",
+        "Source": "To include the complex rheology of the SMC the viscosity of it is modelled using the semi-empirical model suggested by Kluge where \u03b7 is the dynamic viscosity, ff is the fibre volume fraction, B is a temperature constant, T is the temperature, \u02d9\u01eb is the strain rate, \u02d9\u03b3 is the shear strain rate."
+    },
+    "Question_4": {
+        "Context": "In composite material modeling, the orientation of fibers can be predicted using models that assume the fibers are rigid ellipsoidal particles with a large aspect ratio, neglecting Brownian motion.",
+        "Question": "What assumption is made about the fibers in models predicting fiber orientation in composite materials?",
+        "A": "The fibers are flexible and have a small aspect ratio",
+        "B": "The fibers are assumed to be rigid ellipsoidal particles with a large aspect ratio",
+        "C": "Brownian motion is the primary factor affecting fiber orientation",
+        "D": "The fibers are spherical particles",
+        "Answer": "B",
+        "Source": "The fibre orientation evolution, in its turn, is modelled using the model suggested by Folgar and Tucker and Advani and Tucker, in which the fibres are assumed to be rigid ellipsoidal particles with a large aspect ratio, and that they are sufficiently large so that Brownian motion can be neglected."
+    },
+    "Question_5": {
+        "Context": "Orientation tensors are mathematical representations used to describe the alignment of fibers within a composite material with respect to the principal axes.",
+        "Question": "What is the purpose of orientation tensors in the context of composite materials?",
+        "A": "To measure the hardness of the composite material",
+        "B": "To describe the color distribution within the composite",
+        "C": "To describe the alignment of fibers within the composite",
+        "D": "To calculate the thermal conductivity of the composite",
+        "Answer": "C",
+        "Source": "Orientation tensors are used to describe the alignment with the principal axes."
+    },
+    "Question_6": {
+        "Context": "In the study of composite materials, the Method of Ellipses is an experimental approach used to determine the orientation tensors of fibers by fitting their cross-sectional shapes to ellipses.",
+        "Question": "What does the Method of Ellipses help determine in the study of composite materials?",
+        "A": "The chemical composition of the fibers",
+        "B": "The density of the composite material",
+        "C": "The orientation tensors of fibers",
+        "D": "The melting point of the resin",
+        "Answer": "C",
+        "Source": "The method of ellipse is a common experimental approach applied in many studies to extract the orientation tensors of fibres throughout the projection of their cross section on a 2D micrograph."
+    },
+    "Question_7": {
+        "Context": "In the analysis of fiber orientations within composites, fibers are often assumed to have a circular cross-section and behave as straight rods, despite the fact that real fibers may not be perfectly circular or straight.",
+        "Question": "What assumption is commonly made about the shape of fibers in the analysis of their orientation within composites?",
+        "A": "Fibers are assumed to have an elliptical cross-section",
+        "B": "Fibers are assumed to have a hexagonal cross-section",
+        "C": "Fibers are assumed to have a circular cross-section",
+        "D": "Fibers are assumed to have a square cross-section",
+        "Answer": "C",
+        "Source": "The fibres have a circular cross-section with the same diameter (being the mean diameter of all fibres). The error that may occur due to the fact that carbon fibres are not perfectly circular is neglected."
+    },
+    "Question_8": {
+        "Context": "When preparing composite samples for microscopy, the quality of polishing is crucial for accurate analysis. However, a new image technique has been developed that requires less meticulous sample preparation.",
+        "Question": "What is the advantage of the new image technique for analyzing composite samples under a microscope?",
+        "A": "It requires more extensive polishing and etching",
+        "B": "It allows for the use of lower resolution microscopes",
+        "C": "It requires less meticulous sample preparation",
+        "D": "It necessitates the use of more expensive equipment",
+        "Answer": "C",
+        "Source": "One of the advantages of the new technique applied in this study, presented in the next section, is that much less work is required to obtain microscope images with a quality good enough for the analysis."
+    },
+    "Question_9": {
+        "Context": "In the field of composite materials, machine learning algorithms can be employed to automatically measure fiber angles in microscopy images, improving the accuracy and speed of fiber orientation measurements.",
+        "Question": "How have machine learning algorithms improved the measurement of fiber orientations in composite materials?",
+        "A": "By eliminating the need for microscopy",
+        "B": "By automatically measuring fiber angles in images",
+        "C": "By increasing the need for manual annotation",
+        "D": "By reducing the resolution of images required",
+        "Answer": "B",
+        "Source": "The new proposed technique for image analysis makes the 2D fibre orientation measurement more accurate and faster, allows image treatment with polishing defects, with direct measurement without the need of image threshold or any corrections, and with better fitting of dense and crowd population of fibres."
+    },
+    "Question_10": {
+        "Context": "In composite material analysis, the pressing setup used for rheological testing influences the orientation of fibers. A specific geometry is used to study the flow and orientation during the pressing process.",
+        "Question": "What is the purpose of the pressing setup in rheological testing of composite materials?",
+        "A": "To determine the chemical resistance of the composite",
+        "B": "To measure the electrical conductivity of the fibers",
+        "C": "To study the flow and orientation of fibers during pressing",
+        "D": "To calculate the curing time of the resin",
+        "Answer": "C",
+        "Source": "The pressing setup can be seen in Fig. 6. The geometry is a pressing tool used for rheological testing. The inner area (in dark grey in the left figure) indicates the initial charge placement with the initial charge having a diameter of 3.5 cm."
+    }
+}

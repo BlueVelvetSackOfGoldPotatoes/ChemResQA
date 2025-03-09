@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The specific heat capacity of a material is the amount of heat needed to change the temperature of a unit mass of the material by one degree Celsius. It can vary with temperature.",
+        "Question": "How does the specific heat capacity of a carbon/polyamide composite change with temperature?",
+        "A": "Decreases linearly with temperature",
+        "B": "Increases with temperature",
+        "C": "Remains constant with temperature",
+        "D": "Increases up to a certain temperature, then decreases",
+        "Answer": "B",
+        "Source": "The results demonstrated that the specific heat capacity of the C/PA410 composite increases with temperature, with major transitions observed at the glass transition (Tg) and melting (Tm) temperatures."
+    },
+    "Question_2": {
+        "Context": "The coefficient of thermal expansion (CTE) describes how the size of a material changes with a change in temperature.",
+        "Question": "What is the relationship between the CTE values in the fiber direction and the transverse direction of a carbon/polyamide composite?",
+        "A": "CTE values are larger in the fiber direction",
+        "B": "CTE values are smaller in the fiber direction",
+        "C": "CTE values are the same in both directions",
+        "D": "CTE values in the fiber direction are unpredictable",
+        "Answer": "B",
+        "Source": "Due to the presence of fibers, the CTE values in the fiber direction of C/PA410 specimens were one order of magnitude smaller than in the transverse direction."
+    },
+    "Question_3": {
+        "Context": "Density of materials can change with temperature due to thermal expansion or contraction.",
+        "Question": "What happens to the density of a carbon/polyamide composite as the temperature increases?",
+        "A": "Density increases",
+        "B": "Density decreases",
+        "C": "Density remains constant",
+        "D": "Density first decreases then increases",
+        "Answer": "B",
+        "Source": "The density measurements reveal that as temperature rises, volume increases, causing density to decrease."
+    },
+    "Question_4": {
+        "Context": "Thermal conductivity is a measure of a material's ability to conduct heat. It can be affected by temperature.",
+        "Question": "How does the thermal conductivity in the fiber direction of a carbon/polyamide composite change with temperature?",
+        "A": "Decreases linearly with temperature",
+        "B": "Increases linearly with temperature",
+        "C": "Remains constant with temperature",
+        "D": "Increases up to a certain temperature, then decreases",
+        "Answer": "B",
+        "Source": "The results show that the average thermal conductivity in the fiber direction increases linearly with temperature."
+    },
+    "Question_5": {
+        "Context": "The glass transition temperature (Tg) is the temperature at which an amorphous polymer transitions from a hard and relatively brittle state into a viscous or rubbery state.",
+        "Question": "What happens to the specific heat capacity of a carbon/polyamide composite at the glass transition temperature?",
+        "A": "It decreases",
+        "B": "It remains the same",
+        "C": "It increases",
+        "D": "It becomes zero",
+        "Answer": "C",
+        "Source": "Above Tg, the polymer structure is floppy and has sufficient free volume for various molecular motions to be able to absorb the added heat."
+    },
+    "Question_6": {
+        "Context": "The melting temperature (Tm) is the temperature at which a crystalline polymer becomes amorphous, meaning the crystalline regions melt.",
+        "Question": "What is observed regarding the specific heat capacity of a carbon/polyamide composite at the melting temperature?",
+        "A": "It decreases sharply",
+        "B": "It increases sharply",
+        "C": "It remains constant",
+        "D": "It fluctuates",
+        "Answer": "B",
+        "Source": "The polymer\u2019s crystalline regions then melt at Tm. At this stage, first, the polymer absorbs a certain amount of heat (the latent heat of melting); second, the polymer undergoes a change in heat capacity."
+    },
+    "Question_7": {
+        "Context": "Thermal diffusivity is a measure of how quickly heat can spread through a material. It is influenced by the material's structure and temperature.",
+        "Question": "How does the thermal diffusivity of a carbon/polyamide composite change with temperature in the fiber direction?",
+        "A": "Decreases with temperature",
+        "B": "Increases with temperature",
+        "C": "Remains constant with temperature",
+        "D": "First increases, then decreases with temperature",
+        "Answer": "B",
+        "Source": "As shown in Fig. 9, the average thermal diffusivity increased with temperature along the fiber direction."
+    },
+    "Question_8": {
+        "Context": "In the context of composite materials, the orientation of fibers can significantly impact the material's thermal properties.",
+        "Question": "What is the effect of fiber orientation on the thermal diffusivity of a carbon/polyamide composite?",
+        "A": "No effect",
+        "B": "Increases thermal diffusivity in the transverse direction",
+        "C": "Decreases thermal diffusivity in the fiber direction",
+        "D": "Thermal diffusivity is higher in the fiber direction than in the transverse direction",
+        "Answer": "D",
+        "Source": "The thermal diffusivity is calculated using the slope of a linearly fitted cooling section of the FWHMvs \u221a t graph. Since the FWHM = 2.35 \u2217 \u221a 2\u03b1 \u2217 \u221a t, the slope of a linearly fitted cooling section of the FWHMvs \u221a t graph is used to calculate the thermal diffusivity (\u03b1)."
+    },
+    "Question_9": {
+        "Context": "The coefficient of thermal expansion (CTE) can change at the glass transition temperature due to the increased mobility of the polymer chains.",
+        "Question": "What change in CTE is observed at the glass transition temperature in a carbon/polyamide composite?",
+        "A": "CTE decreases",
+        "B": "CTE increases",
+        "C": "CTE remains the same",
+        "D": "CTE becomes zero",
+        "Answer": "B",
+        "Source": "At Tg, a considerable increase in expansion rate and a change in the slope of the CTE curves are observed in both the fiber and transverse directions of the composite."
+    },
+    "Question_10": {
+        "Context": "Thermal conductivity in composites can be anisotropic, meaning it varies with direction relative to the orientation of the fibers.",
+        "Question": "What is the trend of thermal conductivity in the transverse direction of a carbon/polyamide composite with temperature?",
+        "A": "Increases linearly with temperature",
+        "B": "Decreases linearly with temperature",
+        "C": "Increases up to 50 \u00b0C and then becomes constant",
+        "D": "Decreases up to 50 \u00b0C and then becomes constant",
+        "Answer": "C",
+        "Source": "The results show that the average thermal conductivity in the transverse direction increases linearly with temperature up to 50 \u00b0C and then becomes constant between 50 \u00b0C and 100 \u00b0C."
+    }
+}

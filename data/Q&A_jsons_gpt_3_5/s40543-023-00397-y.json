@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on analyzing the concentration of urinary creatinine and urine color to verify normal urine samples prior to forensic drug testing.",
+        "Question": "What method was used to analyze the concentration of urinary creatinine in the study?",
+        "A": "Spectrophotometry",
+        "B": "Liquid chromatography-tandem mass spectrometry (LC-MS/MS)",
+        "C": "Colorimetric method based on the Jaff\u00e9 reaction",
+        "D": "Isotope dilution mass spectrometry",
+        "Answer": "C",
+        "Source": "Current urinary Cr analysis methods include the colorimetric method based on the Jaff\u00e9 reaction, liquid chromatography-tandem mass spectrometry (LC\u2013MS/MS), and isotope dilution mass spectrometry used as the standard analysis."
+    },
+    "Question_2": {
+        "Context": "The study aimed to identify correlations between creatinine concentration and urine color.",
+        "Question": "Which color space values exhibited a strong correlation with creatinine concentration?",
+        "A": "L* and a*",
+        "B": "Value and Chroma",
+        "C": "Chroma and b*",
+        "D": "L* and b*",
+        "Answer": "C",
+        "Source": "According to the data, chroma and b* exhibited strong correlations with Cr. The correlation between chroma and b* was 0.9881 at a high concentration."
+    },
+    "Question_3": {
+        "Context": "The study analyzed the stability of creatinine in urine samples under different conditions.",
+        "Question": "How was the stability of creatinine in urine tested for short-term stability?",
+        "A": "Measurements taken after 7, 14, 20, and 30 days at 4\u00b0C",
+        "B": "Measurements taken after 2, 4, 6, and 8 hours at room temperature",
+        "C": "Measurements taken after 3 days at room temperature",
+        "D": "Measurements taken after 1 week at 37\u00b0C",
+        "Answer": "B",
+        "Source": "For short-term stability tests, measurements were taken after 2, 4, 6, and 8 hours at room temperature in the lab before sample preparation and analysis."
+    },
+    "Question_4": {
+        "Context": "The study compared creatinine concentrations based on age and sex.",
+        "Question": "Was there a significant difference in creatinine concentrations between males and females?",
+        "A": "Yes",
+        "B": "No",
+        "C": "Not mentioned",
+        "D": "Depends on the age group",
+        "Answer": "B",
+        "Source": "Analyzing the samples according to sex indicated that p = 0.4554 for Cr concentrations in the samples from 169 males and 74 females; therefore, no significant difference was found for the distribution of the measured values according to sex."
+    },
+    "Question_5": {
+        "Context": "The study aimed to develop a method to identify water content in urine.",
+        "Question": "What was used to determine the characteristics of urine color in the study?",
+        "A": "Spectrophotometer",
+        "B": "Korea Standard Color Analysis program",
+        "C": "Liquid chromatography-tandem mass spectrometry (LC-MS/MS)",
+        "D": "Isotope dilution mass spectrometry",
+        "Answer": "B",
+        "Source": "The Korea Standard Color Analysis program developed by the Korean Agency for Technology and Standards was used in the measurement and testing of urine color from some of the collected images."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the precision and accuracy of the analytical method.",
+        "Question": "What was the intra-day precision of the analytical method?",
+        "A": "0.9%",
+        "B": "1.5%",
+        "C": "6.9%",
+        "D": "6.8%",
+        "Answer": "A",
+        "Source": "The intra-day precision was 0.9%."
+    },
+    "Question_7": {
+        "Context": "The study compared creatinine concentrations based on age groups.",
+        "Question": "Was there a significant difference in creatinine concentrations among the age groups?",
+        "A": "Yes",
+        "B": "No",
+        "C": "Not mentioned",
+        "D": "Depends on the sex",
+        "Answer": "B",
+        "Source": "Furthermore, analyzing the samples according to age indicated that p = 0.2143, 0.2349, and 0.983 for the young (19\u201334 years), middle-aged (35\u201349 years), and elderly (\u2265 50 years) groups, respectively; therefore, no significant difference was observed in the distribution of Cr concentrations according to age."
+    },
+    "Question_8": {
+        "Context": "The study aimed to verify abnormal urine samples prior to forensic drug testing.",
+        "Question": "What is considered abnormal in terms of creatinine concentration in urine samples?",
+        "A": "Less than 5 mg/dL",
+        "B": "Between 5 and 20 mg/dL",
+        "C": "Between 20 and 300 mg/dL",
+        "D": "More than 300 mg/dL",
+        "Answer": "B",
+        "Source": "Using a stricter criterion than the aforementioned three criteria, a urine sample is considered abnormal and diluted when the urinary Cr concentration is 5\u201320 mg/dL."
+    },
+    "Question_9": {
+        "Context": "The study focused on the analysis of urine samples for forensic drug testing.",
+        "Question": "What is the purpose of the study regarding urine color and creatinine concentration?",
+        "A": "To develop a smartphone application for urine collection",
+        "B": "To identify correlations and determine intentional dilution of urine samples",
+        "C": "To measure the pH of urine samples",
+        "D": "To analyze the specific gravity of urine samples",
+        "Answer": "B",
+        "Source": "The purpose of this study is to measure the Cr concentration and color of urine to identify their correlation and determine whether a urine sample has been intentionally diluted."
+    },
+    "Question_10": {
+        "Context": "The study compared the mean creatinine concentration between males and females.",
+        "Question": "What was the mean creatinine concentration in males and females, respectively?",
+        "A": "136.4 \u00b1 66.2 mg/dL and 109.5 \u00b1 71.1 mg/dL",
+        "B": "109.5 \u00b1 71.1 mg/dL and 136.4 \u00b1 66.2 mg/dL",
+        "C": "136.4 \u00b1 71.1 mg/dL and 109.5 \u00b1 66.2 mg/dL",
+        "D": "109.5 \u00b1 66.2 mg/dL and 136.4 \u00b1 71.1 mg/dL",
+        "Answer": "A",
+        "Source": "The mean \u00b1 standard deviation of Cr concentration in males and females was 136.4 \u00b1 66.2 mg/dL and 109.5 \u00b1 71.1 mg/dL, respectively."
+    }
+}

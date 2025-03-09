@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the uptake of PLGA nanoparticles by murine macrophage RAW264.7 cells using fluorescence microscopy. The experiment involved assessing the internalization of nanoparticles of different sizes by the cells.",
+        "Question": "What was the primary method used to assess the uptake of PLGA nanoparticles by RAW264.7 cells?",
+        "A": "Flow cytometry",
+        "B": "Positron emission tomography",
+        "C": "Fluorescence microscopy",
+        "D": "Magnetic resonance imaging",
+        "Answer": "C",
+        "Source": "We assessed the variations in the uptake of APC-labelled PLGA-NH2 nanoparticles by RAW264.7 cells based on size following a 24-h incubation period (Fig. 2)."
+    },
+    "Question_2": {
+        "Context": "The study focused on the biodistribution of 89Zr-PLGA-NH2 nanoparticles in mice following different routes of administration. The experiment involved monitoring the distribution of nanoparticles in major organs over a specified period.",
+        "Question": "Which organ exhibited the highest initial distribution of nanoparticles after intravenous administration in mice?",
+        "A": "Lungs",
+        "B": "Liver",
+        "C": "Spleen",
+        "D": "Kidneys",
+        "Answer": "B",
+        "Source": "In mice that were intravenously administered nanoparticles, we observed substantial distribution of the nanoparticles in the liver (28.3 \u00b1 13.61%ID/g), lungs (14.76 \u00b1 0.8%ID/g), and spleen (5.96 \u00b1 2.04%ID/g)."
+    },
+    "Question_3": {
+        "Context": "The study examined the influence of nanoparticle size on cellular uptake in vitro using RAW264.7 cells. The experiment involved assessing the uptake of fluorescently labelled PLGA-NH2 nanoparticles of different sizes by the cells.",
+        "Question": "Which size of nanoparticles showed the highest uptake by RAW264.7 cells after 24 hours of incubation?",
+        "A": "300 nm",
+        "B": "600 nm",
+        "C": "900 nm",
+        "D": "Size did not affect uptake",
+        "Answer": "A",
+        "Source": "After 24 h, RAW264.7 cells exhibited a preference for 300- and 900-nm nanoparticles, whereas the uptake of 600-nm nanoparticles was lower than that of the other nanoparticles."
+    },
+    "Question_4": {
+        "Context": "The study investigated the biodistribution of 89Zr-PLGA-NH2 nanoparticles in major tissues following intramuscular and subcutaneous injections in mice. The experiment involved tracking the distribution of nanoparticles in different tissues after administration via these routes.",
+        "Question": "Which route of administration resulted in the least distribution of nanoparticles in the lungs in mice?",
+        "A": "Intramuscular",
+        "B": "Subcutaneous",
+        "C": "Intravenous",
+        "D": "Intranasal",
+        "Answer": "A",
+        "Source": "In the case of intramuscular and subcutaneous injections, most nanoparticles remained around the injection site throughout the tracking period, with only a small quantity being eliminated by the kidneys."
+    },
+    "Question_5": {
+        "Context": "The study examined the biodistribution of 89Zr-PLGA-NH2 nanoparticles in mice following intravenous and intranasal administrations. The experiment involved monitoring the distribution of nanoparticles in major organs over a specified period.",
+        "Question": "Which route of administration resulted in the highest pulmonary uptake of nanoparticles in mice?",
+        "A": "Intravenous",
+        "B": "Intranasal",
+        "C": "Subcutaneous",
+        "D": "Intramuscular",
+        "Answer": "B",
+        "Source": "In our in vivo experiments, radiolabelled nanoparticles exhibited significantly higher pulmonary uptake when administered intranasally rather than intravenously."
+    },
+    "Question_6": {
+        "Context": "The study focused on the uptake of PLGA-NH2 nanoparticles by lung immune cells in mice following intranasal administration. The experiment involved quantifying nanoparticle uptake by different immune cell subsets in the lungs at various time points.",
+        "Question": "Which type of immune cells consistently exhibited a trend toward increased nanoparticle uptake compared to lymphoid immune cells?",
+        "A": "Alveolar macrophages",
+        "B": "Dendritic cells",
+        "C": "Monocytes",
+        "D": "T cells",
+        "Answer": "A",
+        "Source": "Across all observed time points, immune cell subsets, including alveolar macrophages, dendritic cells (DCs), monocytes, and neutrophils, consistently exhibited a trend toward increased nanoparticle uptake compared to lymphoid immune cells."
+    },
+    "Question_7": {
+        "Context": "The study investigated the biodistribution of 89Zr-PLGA-NH2 nanoparticles in major tissues following intravenous and intranasal administrations in mice. The experiment involved tracking the distribution of nanoparticles in different organs over a specified period.",
+        "Question": "Which organ exhibited the most substantial distribution of nanoparticles after intranasal administration in mice?",
+        "A": "Lungs",
+        "B": "Liver",
+        "C": "Spleen",
+        "D": "Kidneys",
+        "Answer": "A",
+        "Source": "In the case of nasal administration, a persistent distribution of nanoparticles in the lungs was observed throughout the study period."
+    },
+    "Question_8": {
+        "Context": "The study examined the uptake of PLGA-NH2 nanoparticles by lung immune cells in mice following intranasal administration. The experiment involved quantifying nanoparticle uptake by different immune cell subsets in the lungs at various time points.",
+        "Question": "Which immune cell subset consistently demonstrated a relatively higher tendency for nanoparticle uptake than lymphoid immune cells?",
+        "A": "Alveolar macrophages",
+        "B": "Dendritic cells",
+        "C": "Monocytes",
+        "D": "T cells",
+        "Answer": "B",
+        "Source": "Myeloid immune cells consistently demonstrated a relatively higher tendency for nanoparticle uptake than lymphoid immune cells, irrespective of the time after nanoparticle administration."
+    },
+    "Question_9": {
+        "Context": "The study focused on the biodistribution of 89Zr-PLGA-NH2 nanoparticles in major tissues following intravenous and intranasal administrations in mice. The experiment involved monitoring the distribution of nanoparticles in different organs over a specified period.",
+        "Question": "Which route of administration resulted in the least distribution of nanoparticles in the liver in mice?",
+        "A": "Intravenous",
+        "B": "Intranasal",
+        "C": "Subcutaneous",
+        "D": "Intramuscular",
+        "Answer": "B",
+        "Source": "Furthermore, nanoparticle accumulation in the liver and spleen of mice in the nasal administration group was almost negligible compared with that among mice in the intravenous administration group."
+    },
+    "Question_10": {
+        "Context": "The study investigated the uptake of PLGA-NH2 nanoparticles by lung immune cells in mice following intranasal administration. The experiment involved quantifying nanoparticle uptake by different immune cell subsets in the lungs at various time points.",
+        "Question": "Which immune cell subset exhibited a sharp decline in nanoparticle uptake at 12 hours post-administration?",
+        "A": "Alveolar macrophages",
+        "B": "Dendritic cells",
+        "C": "Monocytes",
+        "D": "T cells",
+        "Answer": "B",
+        "Source": "DCs exhibited a sharp decline in nanoparticle uptake at 12 h, with the lowest uptake level among myeloid immune cells at 48 h."
+    }
+}

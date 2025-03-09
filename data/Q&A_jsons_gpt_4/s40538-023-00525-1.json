@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Black carbon, also known as pyrogenic carbon, is a material produced by the incomplete combustion of organic matter in environments with limited oxygen supply. Its structure varies in aromaticity, ranging from slightly charred organic material to highly condensed aromatic compounds such as soot.",
+        "Question": "What is black carbon also known as?",
+        "A": "Oxidized carbon",
+        "B": "Pyrogenic carbon",
+        "C": "Biochar",
+        "D": "Graphene",
+        "Answer": "B",
+        "Source": "Black carbon, also known as pyrogenic carbon, is formed by incomplete combustion of organic matter under limited oxygen supply."
+    },
+    "Question_2": {
+        "Context": "The chemical structure of black carbon increases in aromaticity from slightly charred material to highly condensed forms like graphite and soot. This gradation reflects the degree of combustion and the conditions under which the material was formed.",
+        "Question": "Which form of carbon represents the highest degree of aromaticity in the black carbon continuum?",
+        "A": "Charcoal",
+        "B": "Graphite",
+        "C": "Soot",
+        "D": "Organic slightly charred material",
+        "Answer": "B",
+        "Source": "Its chemical structure is characterized by increasing aromaticity from slightly charred material over char and charcoal to graphite and soot particle recondensed from the gas phase."
+    },
+    "Question_3": {
+        "Context": "Benzene polycarboxylic acids (BPCA) are used as molecular markers to trace the polycondensed aromatic moieties of charred materials. These markers help in identifying and quantifying black carbon in various samples.",
+        "Question": "What are benzene polycarboxylic acids (BPCA) used for in the context of black carbon?",
+        "A": "As a fuel source",
+        "B": "As a cleaning agent",
+        "C": "As molecular markers",
+        "D": "As a preservative",
+        "Answer": "C",
+        "Source": "Different methods have been adopted for black carbon determination; among them using benzene polycarboxylic acids (BPCA) as molecular markers for the polycondensed aromatic moieties of charred materials."
+    },
+    "Question_4": {
+        "Context": "During the analysis of black carbon, the presence of organic matter can interfere with the determination of BPCA markers. This is a challenge that researchers face when trying to accurately quantify black carbon in environmental samples.",
+        "Question": "What is a known interference in the analysis of BPCA markers for black carbon?",
+        "A": "Inorganic salts",
+        "B": "Water content",
+        "C": "Organic matter",
+        "D": "Nitrogen content",
+        "Answer": "C",
+        "Source": "However, different researchers have shown interferences from organic matter during BPCA analysis."
+    },
+    "Question_5": {
+        "Context": "The stability of black carbon in the environment and its resistance to chemical and biological breakdown make it a significant contributor to the global carbon sink. This stability allows black carbon to reside in soils for extended periods.",
+        "Question": "Why is black carbon considered a significant contributor to the global carbon sink?",
+        "A": "Because it is easily biodegradable",
+        "B": "Due to its volatility",
+        "C": "Because of its resistance to breakdown",
+        "D": "Due to its solubility in water",
+        "Answer": "C",
+        "Source": "Consequently, due to its persistence in the environment, black carbon certainly contributes to a significant global carbon sink."
+    },
+    "Question_6": {
+        "Context": "The BPCA method for black carbon analysis involves the conversion of polycondensed aromatic structures to BPCA after acid hydrolysis and nitric acid oxidation. This method utilizes specific molecular markers for the analysis.",
+        "Question": "What is the purpose of acid hydrolysis in the BPCA method for black carbon analysis?",
+        "A": "To remove polyvalent cations",
+        "B": "To increase the pH of the sample",
+        "C": "To reduce the sample size",
+        "D": "To add essential nutrients",
+        "Answer": "A",
+        "Source": "The BPCA method is based on the principle that the polycondensed aromatic structure of black carbon is converted to BPCA after acid hydrolysis to remove polyvalent cations which disturb further analysis, and HNO3 oxidation of organic matter and the polyaromatic backbone of black carbon."
+    },
+    "Question_7": {
+        "Context": "In the context of black carbon analysis, artificial formation of BPCA can occur, leading to inaccuracies in the quantification of black carbon. This artifact can arise during the analytical procedure and must be accounted for to ensure accurate results.",
+        "Question": "What is a potential artifact in the BPCA method for black carbon analysis?",
+        "A": "Underestimation of black carbon due to dilution",
+        "B": "Artificial formation of BPCA",
+        "C": "Loss of sample during transportation",
+        "D": "Contamination with inorganic carbon",
+        "Answer": "B",
+        "Source": "Nevertheless, BPCA could also be formed artificially during the analytical procedure."
+    },
+    "Question_8": {
+        "Context": "The BPCA method has been modified over time to improve its accuracy and specificity for black carbon analysis. These modifications have been based on the understanding of the method's limitations and the nature of the samples being analyzed.",
+        "Question": "Which BPCA were considered to be derived from black carbon in a modified BPCA method?",
+        "A": "B3CA and B4CA",
+        "B": "B5CA and B6CA",
+        "C": "B1CA and B2CA",
+        "D": "B7CA and B8CA",
+        "Answer": "B",
+        "Source": "Kappenberg et al. [17] modified the BPCA method only by considering penta- and hexacarboxylic acids (B5CA and B6CA, respectively) as black carbon-derived because BPCA with three and four carboxylic groups (B3CA and B4CA, respectively) may originate from non-black carbon materials."
+    },
+    "Question_9": {
+        "Context": "The analysis of black carbon in soil samples can be affected by the amount of total organic carbon (TOC) present. It is important to assess whether the TOC load can lead to artificial production of BPCA, which would affect the accuracy of black carbon quantification.",
+        "Question": "Up to what amount of total organic carbon (TOC) in soil samples was no artificial BPCA formation observed?",
+        "A": "5\u201310 mg",
+        "B": "Up to 20 mg",
+        "C": "More than 50 mg",
+        "D": "Less than 1 mg",
+        "Answer": "B",
+        "Source": "Our results show that for soil samples, no artificial BPCA formation occurred at least up to 20 mg of total organic carbon."
+    },
+    "Question_10": {
+        "Context": "In the analysis of black carbon using the BPCA method, the sample weight and corresponding TOC amount are critical factors. Exceeding certain TOC amounts in the analysis of plant materials can lead to artificial BPCA formation, which is an important consideration for accurate measurement.",
+        "Question": "For plant samples, at what TOC amount does artificial BPCA formation occur when using the BPCA method for black carbon analysis?",
+        "A": "Less than 5 mg",
+        "B": "Exactly 10 mg",
+        "C": "More than 10 mg",
+        "D": "Any amount of TOC",
+        "Answer": "C",
+        "Source": "In contrast, for plant samples, artificial BPCA formation of up to 3 g kg\u22121 occurred when more plant material equivalent to 10 mg total organic carbon was used."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Cow milk is a rich source of various nutrients including proteins, vitamins, minerals, and a wide range of fatty acids. The fatty acid composition of cow milk can be influenced by factors such as diet, health, and lactation stage of the cow.",
+        "Question": "Which fatty acid is the most abundant saturated fatty acid in cow milk?",
+        "A": "Stearic acid (18:0)",
+        "B": "Palmitic acid (16:0)",
+        "C": "Myristic acid (14:0)",
+        "D": "Lauric acid (12:0)",
+        "Answer": "B",
+        "Source": "Although season, breed, climate, health, diet, and lactation stage can affect the fatty acid composition of cow milk, palmitic acid (16:0) is the most abundant saturated fatty acid, followed by stearic acid (18:0) and myristic acid (14:0)."
+    },
+    "Question_2": {
+        "Context": "In the context of unsaturated fatty acids found in cow milk, oleic acid is a monounsaturated fatty acid, while linoleic and \u03b1-linolenic acids are polyunsaturated.",
+        "Question": "Which is the most abundant monounsaturated fatty acid in cow milk-derived fat?",
+        "A": "Linoleic acid (18:2)",
+        "B": "\u03b1-Linolenic acid (18:3)",
+        "C": "Oleic acid (18:1)",
+        "D": "Palmitoleic acid (16:1)",
+        "Answer": "C",
+        "Source": "Among the unsaturated fatty acids, oleic acid (18:1) is the most abundant, followed by linoleic (18:2) and \u03b1-linoleic (18:3) acids."
+    },
+    "Question_3": {
+        "Context": "Odd-chain fatty acids are a type of fatty acids that have an odd number of carbon atoms. They are produced by the ruminal bacteria in cows and have been studied for their potential health effects.",
+        "Question": "Which of the following odd-chain fatty acids is known to exert anticancer effects on liver cancer cells?",
+        "A": "Butyric acid (C4:0)",
+        "B": "Valeric acid (C5:0)",
+        "C": "Caproic acid (C6:0)",
+        "D": "Heptadecanoic acid (C17:0)",
+        "Answer": "B",
+        "Source": "Valeric acid also exerts anticancer effects on liver cancer cells."
+    },
+    "Question_4": {
+        "Context": "Histone deacetylases (HDACs) are enzymes that remove acetyl groups from histones, leading to a closed chromatin structure and reduced gene expression. Inhibition of HDACs can lead to increased acetylation, open chromatin, and potentially suppress tumor cell survival and proliferation.",
+        "Question": "Which class of molecules has been identified as inhibitors of histone deacetylase (HDAC), potentially contributing to the control of cancer cell growth?",
+        "A": "Carbohydrates",
+        "B": "Fatty acids",
+        "C": "Nucleic acids",
+        "D": "Steroids",
+        "Answer": "B",
+        "Source": "A recent study identified a series of odd-chain fatty acids as novel inhibitors of histone deacetylase (HDAC) 6. These play a key role in tumorigenesis through histone deacetylation, thereby contributing to tumor cell survival and proliferation."
+    },
+    "Question_5": {
+        "Context": "The Janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway is a cellular signaling mechanism that is involved in controlling gene expression and cellular functions in response to various stimuli.",
+        "Question": "Which member of the JAK family is involved in the JAK/STAT signaling pathway and is frequently dysregulated in cancer?",
+        "A": "JAK-1",
+        "B": "JAK-2",
+        "C": "JAK-3",
+        "D": "TYK2",
+        "Answer": "B",
+        "Source": "Upon ligand-induced activation, JAKs phosphorylate the cytoplasmic portion of receptor tyrosine kinases, creating binding sites for STATs. After binding, JAKs phosphorylate STATs. JAK-2 is one of four members of the JAK family, while STAT-3 is one of seven members of the STAT-3 family in humans."
+    },
+    "Question_6": {
+        "Context": "The JAK/STAT signaling pathway is implicated in various cellular processes, including cell proliferation and survival. Dysregulation of this pathway can contribute to the development of cancer.",
+        "Question": "In the context of liver cancer, what percentage of cases have been reported to exhibit constant activation of STAT-3?",
+        "A": "Up to 30%",
+        "B": "Up to 40%",
+        "C": "Up to 50%",
+        "D": "Up to 60%",
+        "Answer": "D",
+        "Source": "The JAK/STAT pathway is one of the most frequently dysregulated signaling pathways in cancer, specifically in hepatocellular carcinoma. STAT-3 is a transcription factor that is constantly activated in up to 60% of liver cancer cases."
+    },
+    "Question_7": {
+        "Context": "Fatty acids are metabolized in the liver, where they can accumulate through dietary intake and de novo biosynthesis. The process of fat metabolism involves several steps, including the breakdown and reassembly of fatty acids.",
+        "Question": "After dietary fats are hydrolyzed in the intestinal lumen and absorbed, into what are the free fatty acids reassembled?",
+        "A": "Cholesterol",
+        "B": "Phospholipids",
+        "C": "Triglycerides",
+        "D": "Glycogen",
+        "Answer": "C",
+        "Source": "Once absorbed into the intestine, free fatty acids are reassembled into triglycerides, which are packaged into chylomicrons and transported to the muscle and adipose tissue."
+    },
+    "Question_8": {
+        "Context": "In the study of fatty acids, the method of analysis is crucial for determining the composition and relative concentrations of different fatty acids present in a sample.",
+        "Question": "Which method is used to analyze the fatty acid composition in cow milk-derived fat?",
+        "A": "Gas chromatography-mass spectrometry (GC-MS)",
+        "B": "High-performance liquid chromatography (HPLC)",
+        "C": "Association of Official Analytical Collaboration (AOAC) 996.06 method",
+        "D": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "Answer": "C",
+        "Source": "The fatty acid compositions in the extracted fat fractions of cow milk samples were analyzed using the Association of Official Analytical Collaboration (AOAC) 996.06 method."
+    },
+    "Question_9": {
+        "Context": "The 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical scavenging assay is a common method used to evaluate the antioxidant capacity of compounds. It measures the ability of a compound to act as a free radical scavenger, indicating its potential as an antioxidant.",
+        "Question": "What is the purpose of the DPPH radical scavenging assay in the context of evaluating cow milk-derived fat?",
+        "A": "To measure the protein content",
+        "B": "To assess the enzymatic activity",
+        "C": "To determine the antioxidant capacity",
+        "D": "To quantify the fatty acid composition",
+        "Answer": "C",
+        "Source": "The DPPH radical scavenging assay and its data analysis were conducted as previously described with minor modifications. Cow milk-derived fat with concentrations of 5, 10, and 20 mg/mL (dissolved in dimethyl sulfoxide) was used for the assay with catechin as the positive control."
+    },
+    "Question_10": {
+        "Context": "Western blotting is a widely used technique in molecular biology to detect specific proteins in a sample. It involves the separation of proteins by gel electrophoresis, transfer to a membrane, and probing with antibodies specific to the target protein.",
+        "Question": "What is the purpose of using Western blotting in the context of evaluating the effects of cow milk-derived fat on liver cancer cells?",
+        "A": "To measure the concentration of fatty acids",
+        "B": "To assess the expression of apoptosis-associated proteins",
+        "C": "To determine the sugar content in the cells",
+        "D": "To quantify the number of cells",
+        "Answer": "B",
+        "Source": "Western blotting results indicated that the cleaved form of caspase-3 was present in HepG2 cells exposed to cow milk-derived fat at the first two doses tested. Additionally, cow milk-derived fat significantly increased the levels of cleaved PARP in HepG2 cells."
+    }
+}

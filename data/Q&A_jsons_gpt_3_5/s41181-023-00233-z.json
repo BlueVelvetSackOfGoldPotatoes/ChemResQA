@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the production of the PET radionuclide 61Cu via different nuclear reactions. ",
+        "Question": "What is the main advantage of using a shorter-lived PET radionuclide like 61Cu?",
+        "A": "Higher stability",
+        "B": "Lower production cost",
+        "C": "Better dosimetry",
+        "D": "Longer half-life",
+        "Answer": "C",
+        "Source": "Furthermore, 61Cu showed some advantages over 64Cu for the tracking of small proteins regarding dosimetry concerns, due to the latter\u2019s longer half-life and its \u03b2\u2212 co- emission with 38.5% intensity."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the production scalability of 61Cu through increasing irradiation time.",
+        "Question": "How could production scalability of 61Cu be achieved?",
+        "A": "By increasing the target thickness",
+        "B": "By decreasing the proton energy",
+        "C": "By increasing the irradiation time",
+        "D": "By using a different target material",
+        "Answer": "C",
+        "Source": "Furthermore, production scalability could be easily achieved by increasing the irradiation time."
+    },
+    "Question_3": {
+        "Context": "The paper mentions the importance of decay time after irradiation for radiochemical separation.",
+        "Question": "Why is a decay time after irradiation important for radiochemical separation?",
+        "A": "To reduce the absorbed dose",
+        "B": "To increase the radioactivity",
+        "C": "To improve the molar activity",
+        "D": "To enhance the radionuclidic purity",
+        "Answer": "A",
+        "Source": "The decay time after irradiation enabled the reduction in the absorbed dose while performing the radiochemical separation."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the radiochemical separation process of 61Cu.",
+        "Question": "What is the main purpose of washing the target with citric acid solution?",
+        "A": "To remove stable metal impurities",
+        "B": "To increase the molar activity",
+        "C": "To enhance the radionuclidic purity",
+        "D": "To reduce the decay time",
+        "Answer": "A",
+        "Source": "The target was washed with 10 mL of a 0.1 M citric acid solution for 15 min to remove the presence of metallic ions."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the radionuclide purity characterization of the 61Cu product.",
+        "Question": "What was the radionuclidic purity of the [61Cu]CuCl2 product at EOP?",
+        "A": "Over 99.6%",
+        "B": "Less than 90%",
+        "C": "Around 95%",
+        "D": "Exactly 100%",
+        "Answer": "A",
+        "Source": "The [61Cu]CuCl2 product showed both high RNP, over 99.6%, as well as high AMA 260 GBq/\u00b5mol, EOP corrected."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the molar activity quantification of the 61Cu product.",
+        "Question": "How was the molar activity of the [61Cu]CuCl2 product quantified?",
+        "A": "By titration with a macrocyclic ligand",
+        "B": "By measuring the pH of the solution",
+        "C": "By using an ion exchange column",
+        "D": "By analyzing the stable copper content",
+        "Answer": "A",
+        "Source": "Moreover, the apparent molar activity (AMA) of the product was quantified by titration with the macrocyclic ligand 1,4,8,11-Tetraazacyclotetradecane-1,4,8,11- tetraacetic acid (TETA)."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the experimental saturation yields of 61Cu.",
+        "Question": "What percentage of the theoretical calculated yield was achieved in the experimental saturation yields?",
+        "A": "About 10%",
+        "B": "About 25%",
+        "C": "About 50%",
+        "D": "About 75%",
+        "Answer": "B",
+        "Source": "The attained experimental saturation yields represent about 25% of the theoretical calculated yield."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the impact of decay time after irradiation on the radiochemical separation.",
+        "Question": "Why is a decay time after irradiation important for quantifying 62Cu in the [61Cu]CuCl2 product?",
+        "A": "To reduce the absorbed dose",
+        "B": "To allow for decay of 62Cu",
+        "C": "To increase the radioactivity",
+        "D": "To improve the molar activity",
+        "Answer": "B",
+        "Source": "In consequence, quantification of 62Cu in the [61Cu]CuCl2 product results impossible in practice."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the radionuclide purity characterization of the 61Cu product.",
+        "Question": "What was the main radioimpurity detected in the [61Cu]CuCl2 product after a decay time of 3 days?",
+        "A": "64Cu",
+        "B": "57Co",
+        "C": "58Co",
+        "D": "63Ni",
+        "Answer": "A",
+        "Source": "However, after a decay time of ca. 3 days the presence of radiocobalt and 64Cu was quantified."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the scalability of 61Cu production through increasing irradiation time.",
+        "Question": "How could the production scalability of 61Cu be further improved?",
+        "A": "By using a different target material",
+        "B": "By increasing the proton energy",
+        "C": "By optimizing the target thickness",
+        "D": "By decreasing the irradiation time",
+        "Answer": "C",
+        "Source": "Considering these stable copper sources and their impact, it is reasonable to conclude that the copper content is independent of the activity produced and thus the molar activity should increase with production batches of higher 61Cu content."
+    }
+}

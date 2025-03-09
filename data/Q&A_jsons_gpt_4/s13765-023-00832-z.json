@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Rutin is a natural polyphenolic flavonoid compound with a broad range of medicinal applications. However, its low water solubility can limit its effectiveness in pharmacological applications.",
+        "Question": "What is a primary limitation of rutin's pharmacological utility?",
+        "A": "High toxicity",
+        "B": "Low tissue permeability due to low water solubility",
+        "C": "High production costs",
+        "D": "Unstable chemical structure",
+        "Answer": "B",
+        "Source": "Despite the vital activity of many compounds, they lack that effectiveness due to their low solubility in water. Unfortunately, for this reason, rutin often leads to low tissue permeability and insufficient bioavailability, which has greatly limited its pharmacological utility."
+    },
+    "Question_2": {
+        "Context": "Nanocrystals are sub-micron colloidal dispersions composed entirely of drug substances, which can enhance the aqueous solubility and bioavailability of poorly water-soluble drugs.",
+        "Question": "What is the main advantage of formulating drugs as nanocrystals?",
+        "A": "To increase the drug's molecular weight",
+        "B": "To enhance the drug's color and appearance",
+        "C": "To enhance the drug's aqueous solubility and bioavailability",
+        "D": "To make the drug's synthesis more complex",
+        "Answer": "C",
+        "Source": "Nanocrystals (NCs) are sub-micron colloidal dispersions that are entirely made up of drug substances. They were initially launched in the 1990s as a way to enhance the aqueous solubility and bioavailability of medicines with low water solubility."
+    },
+    "Question_3": {
+        "Context": "Rutin nanocrystals (RNCs) are developed to improve the solubility and pharmacological effects of rutin. The ultrasonication method is one of the techniques used to create these nanocrystals.",
+        "Question": "Which method is used to create rutin nanocrystals (RNCs)?",
+        "A": "Freeze-drying",
+        "B": "Heat compression",
+        "C": "Ultrasonication",
+        "D": "Solvent evaporation",
+        "Answer": "C",
+        "Source": "RNCs were created via the ultrasonication approach and showed a spherical shape via Transmission electron microscopy with a mean particle size of 27 nm."
+    },
+    "Question_4": {
+        "Context": "In the context of antimicrobial activity, the minimum inhibitory concentration (MIC) is the lowest concentration of an antimicrobial that will inhibit the visible growth of a microorganism after overnight incubation.",
+        "Question": "What does the term 'minimum inhibitory concentration (MIC)' refer to?",
+        "A": "The maximum concentration of a substance that is toxic to cells",
+        "B": "The minimum concentration of a substance required to enhance cell growth",
+        "C": "The lowest concentration of a substance that inhibits visible growth of a microorganism",
+        "D": "The concentration of a substance that causes visible cell lysis",
+        "Answer": "C",
+        "Source": "The minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) of rutin and RNCs were detected against H. pylori. In 96-flat well microplates, the rutin and RNCs underwent the MTT tetrazolium reduction evaluation."
+    },
+    "Question_5": {
+        "Context": "The minimum bactericidal concentration (MBC) is a measure used to determine the lowest concentration of an antibacterial agent required to kill a particular bacterium.",
+        "Question": "What does 'minimum bactericidal concentration (MBC)' measure?",
+        "A": "The concentration of bacteria in a sample",
+        "B": "The maximum concentration of an agent that bacteria can resist",
+        "C": "The minimum concentration of an agent required to prevent bacterial growth",
+        "D": "The lowest concentration of an agent required to kill a bacterium",
+        "Answer": "D",
+        "Source": "The minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) of rutin and RNCs were detected against H. pylori."
+    },
+    "Question_6": {
+        "Context": "Biofilm formation by bacteria like Helicobacter pylori can contribute to their resistance against antimicrobial agents, making it harder to eradicate the infection.",
+        "Question": "What is the significance of biofilm formation by bacteria such as Helicobacter pylori?",
+        "A": "It accelerates the growth of bacteria",
+        "B": "It increases the susceptibility of bacteria to antibiotics",
+        "C": "It contributes to bacterial resistance against antimicrobial agents",
+        "D": "It decreases the lifespan of bacteria",
+        "Answer": "C",
+        "Source": "RNCs were more acutely (92.12%) than rutin (85.43%) for inhibition the H. pylori biofilm formation."
+    },
+    "Question_7": {
+        "Context": "The half maximal inhibitory concentration (IC50) is a measure of the potency of a substance in inhibiting a specific biological or biochemical function.",
+        "Question": "What does the term 'half maximal inhibitory concentration (IC50)' indicate?",
+        "A": "The concentration at which a substance causes 50% reduction in cell viability",
+        "B": "The concentration at which a substance is 50% soluble in water",
+        "C": "The concentration at which a substance is 50% absorbed by the body",
+        "D": "The concentration at which a substance inhibits 50% of a biological function",
+        "Answer": "D",
+        "Source": "A promising half maximal inhibitory concentration (IC50) (6.85 \u00b5g/mL) was recorded using RNCs for urease inhibition compared to the IC50 value of rutin (97.8 \u00b5g/mL)."
+    },
+    "Question_8": {
+        "Context": "In the context of cytotoxicity assays, the IC50 value is used to determine the effectiveness of a substance in inhibiting cell proliferation, often used in cancer research.",
+        "Question": "In cytotoxicity assays, what does a lower IC50 value indicate about a substance's effectiveness?",
+        "A": "Less effectiveness in inhibiting cell proliferation",
+        "B": "Greater effectiveness in inhibiting cell proliferation",
+        "C": "Lower toxicity to normal cells",
+        "D": "Higher solubility in water",
+        "Answer": "B",
+        "Source": "IC50 values of RNCs were less 168.23 \u00b1 1.15 \u00b5g/mL and 297.69 \u00b1 4.23 \u00b5g/mL than the IC50 values of rutin 184.96 \u00b1 4.33 \u00b5g/mL and 335.31 \u00b1 2.02 \u00b5g/mL against HT\u201129 cells and normal Vero cells, respectively."
+    },
+    "Question_9": {
+        "Context": "Hemolysis is the rupture of red blood cells, which can be inhibited by certain compounds. The inhibition of hemolysis can be an indicator of the protective effects of a compound against cell damage.",
+        "Question": "What does the inhibition of hemolysis by a compound suggest?",
+        "A": "It indicates the compound's ability to cause cell damage",
+        "B": "It suggests the compound's potential to protect against cell damage",
+        "C": "It reflects the compound's ability to increase cell permeability",
+        "D": "It demonstrates the compound's role in enhancing cell lysis",
+        "Answer": "B",
+        "Source": "Different percentages (72.2, 77.3, and 81.9%) of hemolysis inhibition were recorded using RNCs, but 63.6, 68.9, 73.6, and 80.6% were obtained using rutin at 600, 800, and 1000 \u00b5g/mL, respectively."
+    },
+    "Question_10": {
+        "Context": "Butyrylcholinesterase (BChE) is an enzyme that hydrolyzes butyrylcholine and is associated with Alzheimer's disease. Inhibiting BChE can be a therapeutic strategy for managing symptoms of Alzheimer's.",
+        "Question": "What is the therapeutic significance of inhibiting butyrylcholinesterase (BChE) activity?",
+        "A": "It can help manage symptoms of Alzheimer's disease",
+        "B": "It can increase the risk of developing Alzheimer's disease",
+        "C": "It can decrease the effectiveness of Alzheimer's medications",
+        "D": "It can lead to an increase in butyrylcholine levels in the brain",
+        "Answer": "A",
+        "Source": "Butyrylcholinesterase (BChE) inhibition % was documented at a lower IC50 value for RNCs (12.74 \u00b5g/mL) than the IC50 of rutin (18.15 \u00b5g/mL)."
+    }
+}

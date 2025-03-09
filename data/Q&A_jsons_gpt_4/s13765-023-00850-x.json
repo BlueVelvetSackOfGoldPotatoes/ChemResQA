@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "NADPH-cytochrome P450 reductase (CPR) is an enzyme that transfers electrons to cytochrome P450, which is involved in various biochemical processes.",
+        "Question": "What are the two identified genes of NADPH-cytochrome P450 reductase in tomatoes?",
+        "A": "SlCPR1 and SlCPR2",
+        "B": "SlCPR3 and SlCPR4",
+        "C": "SlCPR5 and SlCPR6",
+        "D": "SlCPR7 and SlCPR8",
+        "Answer": "A",
+        "Source": "In tomatoes (Solanum lycopersicum), two CPR genes, SlCPR1 and SlCPR2, were identified."
+    },
+    "Question_2": {
+        "Context": "The expression of genes can be influenced by various treatments and stress conditions in plants.",
+        "Question": "Which treatment significantly increased the expression of SlCPR2 in tomatoes?",
+        "A": "Salicylic acid",
+        "B": "Jasmonic acid",
+        "C": "Drought stress",
+        "D": "Ethanol",
+        "Answer": "B",
+        "Source": "SlCPR2 expression increased significantly with jasmonic acid treatment."
+    },
+    "Question_3": {
+        "Context": "The cDNA of CPR genes can be expressed in bacteria without any modifications to the amino acid sequence.",
+        "Question": "In which bacterium were the SlCPRs cDNA expressed?",
+        "A": "Bacillus subtilis",
+        "B": "Staphylococcus aureus",
+        "C": "Escherichia coli",
+        "D": "Pseudomonas aeruginosa",
+        "Answer": "C",
+        "Source": "The cDNA of SlCPRs were expressed in Escherichia coli without any amino acid modification."
+    },
+    "Question_4": {
+        "Context": "Enzymes can exhibit different levels of activity when reacting with various substrates.",
+        "Question": "Which SlCPR showed more activity when reacted with several protein and chemical substrates?",
+        "A": "SlCPR1",
+        "B": "SlCPR2",
+        "C": "Both showed equal activity",
+        "D": "Neither showed any activity",
+        "Answer": "B",
+        "Source": "SlCPR2 was more active than SlCPR1."
+    },
+    "Question_5": {
+        "Context": "Enzymes can have optimal activity within a certain pH range.",
+        "Question": "At which pH did both SlCPR1 and SlCPR2 exhibit peak activity?",
+        "A": "pH 6.0",
+        "B": "pH 7.0",
+        "C": "pH 8.0",
+        "D": "pH 9.0",
+        "Answer": "C",
+        "Source": "Both SlCPR1 and SlCPR2 exhibited strong activity across a pH range of 6.0 to 9.0, with peak activity at pH 8.0."
+    },
+    "Question_6": {
+        "Context": "NADPH-cytochrome P450 reductase (CPR) requires specific cofactors for its electron transfer function.",
+        "Question": "Which of the following cofactors is NOT required for the function of CPR?",
+        "A": "FAD",
+        "B": "FMN",
+        "C": "NADPH",
+        "D": "ATP",
+        "Answer": "D",
+        "Source": "To perform its function, CPR requires the presence of NADPH and the cofactors FAD and FMN."
+    },
+    "Question_7": {
+        "Context": "CPR is known to transfer electrons to a variety of enzymes and chemicals.",
+        "Question": "Which of the following is NOT a reported reactant of CPR?",
+        "A": "Oxygenase",
+        "B": "Fatty acid elongase",
+        "C": "Cytochrome c",
+        "D": "Hemoglobin",
+        "Answer": "D",
+        "Source": "CPR is known to transfer electrons to diverse enzymes such as oxygenase and fatty acid elongase. It has also been reported to react with various chemicals such as cytochrome b5, cytochrome c."
+    },
+    "Question_8": {
+        "Context": "CPRs in plants are classified into different classes based on their structure and function.",
+        "Question": "What distinguishes Class II CPRs from Class I CPRs?",
+        "A": "Class II CPRs have a short membrane anchor at the N-terminus.",
+        "B": "Class II CPRs have a long membrane anchor at the N-terminus.",
+        "C": "Class II CPRs are not involved in primary metabolic processes.",
+        "D": "Class II CPRs are not expressed in plant tissues.",
+        "Answer": "B",
+        "Source": "Class II CPR has a long membrane anchor at the N-terminus and serves different functions related to plant adaptation and defense responses."
+    },
+    "Question_9": {
+        "Context": "The subcellular localization of proteins can be determined by fusing them with fluorescent proteins and observing the fluorescence in cells.",
+        "Question": "Where was the CPR-EGFP fusion protein predominantly localized in plant cells?",
+        "A": "Nucleus",
+        "B": "Mitochondria",
+        "C": "Endoplasmic reticulum",
+        "D": "Golgi apparatus",
+        "Answer": "C",
+        "Source": "The experimental results showed that the CPR-EGFP fusion protein was predominantly localized on the ER membrane."
+    },
+    "Question_10": {
+        "Context": "The thermal stability of proteins can be assessed by determining the temperature at which they retain a certain percentage of their activity.",
+        "Question": "What is the T50 value, representing the temperature at which the enzyme retains 50% of its activity, for SlCPR1?",
+        "A": "44 \u00b1 1.0 \u00b0C",
+        "B": "48 \u00b1 0.7 \u00b0C",
+        "C": "50 \u00b1 1.5 \u00b0C",
+        "D": "55 \u00b1 2.0 \u00b0C",
+        "Answer": "B",
+        "Source": "The T50 values of SlCPR1 and SlCPR2 were determined to be 48 \u00b1 0.7 \u00b0C and 44 \u00b1 1.0 \u00b0C, respectively."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Intracellular delivery technologies are used to transport therapeutic substances into target cells, which is essential for cell therapy and regenerative medicine. These substances must traverse the plasma membrane, which can be achieved through passive or active transport mechanisms.",
+        "Question": "Which method is NOT a membrane disruption-mediated technique for intracellular delivery?",
+        "A": "Electroporation",
+        "B": "Sonoporation",
+        "C": "Photoporation",
+        "D": "Osmosis",
+        "Answer": "D",
+        "Source": "Membrane disruption-mediated methods designed to create mechanical fields in plasma membranes are used to form temporary pores. These include electroporation, sonoporation, and photoporation."
+    },
+    "Question_2": {
+        "Context": "Plasmonic nanoparticles like gold nanoparticles can be used to deliver substances into cells by disrupting the cell membrane. This process is facilitated by the nanoparticles' ability to generate heat and form vapor nanobubbles when irradiated with light, creating transient pores in the plasma membrane.",
+        "Question": "What is the primary reason gold nanoparticles are used in photoporation studies?",
+        "A": "They are magnetic",
+        "B": "They generate heat upon light irradiation",
+        "C": "They are highly radioactive",
+        "D": "They are visible under a microscope",
+        "Answer": "B",
+        "Source": "During photoporation, the vibration of AuNPs generates heat in a localized area. The high thermal conductivity of AuNPs allows for an instantaneous temperature rise, and a vapor nanobubble is formed."
+    },
+    "Question_3": {
+        "Context": "Upconversion nanoparticles (UCNPs) have the ability to absorb light at one wavelength and emit it at a shorter wavelength, a process known as anti-Stokes emission. This property is utilized in various applications including bioimaging and therapy.",
+        "Question": "What is the process called when upconversion nanoparticles absorb light at a longer wavelength and emit it at a shorter wavelength?",
+        "A": "Photoluminescence",
+        "B": "Electroluminescence",
+        "C": "Chemiluminescence",
+        "D": "Anti-Stokes emission",
+        "Answer": "D",
+        "Source": "Upconversion nanoparticles (UCNPs) absorb light in the NIR wavelength band and emit visible light. Unlike photoluminescence, which has a general Stokes reaction (\u03bbex < \u03bbem), the anti-Stokes (\u03bbex > \u03bbem) reaction results in upconverting photons."
+    },
+    "Question_4": {
+        "Context": "Nanocomposites can be synthesized by combining different types of nanoparticles, such as gold nanoparticles and upconversion nanoparticles, to create new materials with unique properties suitable for specific applications.",
+        "Question": "What is the purpose of combining gold nanoparticles with upconversion nanoparticles to create nanocomposites?",
+        "A": "To increase the magnetic properties",
+        "B": "To enhance absorption in the NIR region",
+        "C": "To reduce the overall size of the nanoparticles",
+        "D": "To make them glow in the dark",
+        "Answer": "B",
+        "Source": "To overcome this challenge, upconversion nanoparticles were employed to stimulate AuNP at NIR wavelengths. posAuNP@UCNPs nanocomposites were produced by coating 30 nm UCNPs on 80 nm AuNPs."
+    },
+    "Question_5": {
+        "Context": "The zeta potential of nanoparticles is a measure of their surface charge, which influences their stability in suspension and their interaction with biological membranes.",
+        "Question": "Why is a positive zeta potential important for nanoparticles used in photoporation?",
+        "A": "It enhances their magnetic properties",
+        "B": "It increases their fluorescence",
+        "C": "It improves interaction with negatively charged cell membranes",
+        "D": "It decreases their thermal conductivity",
+        "Answer": "C",
+        "Source": "Determining the zeta potential of a particle is an important factor in photoporation efficiency, as the process is more effective with cationic particles than anionic particles."
+    },
+    "Question_6": {
+        "Context": "The photoluminescence quenching phenomenon occurs when the emitted light from one material is reabsorbed by another material, which can be used to control the light emission properties of nanocomposites.",
+        "Question": "What happens to the photoluminescence intensity of upconversion nanoparticles when they are combined with gold nanoparticles that absorb the emitted light?",
+        "A": "It increases exponentially",
+        "B": "It remains constant",
+        "C": "It is quenched",
+        "D": "It changes color",
+        "Answer": "C",
+        "Source": "We found that photoluminescence intensity gradually weakened as the posAuNP ratio increased, confirming that photon quenching occurred as a result of re-absorption of the upconverting photon emitted by UCNP by posAuNPs."
+    },
+    "Question_7": {
+        "Context": "Finite element method (FEM) simulations can be used to predict the electric field distribution around nanoparticles, which is important for understanding their interactions with light and their potential use in applications such as photoporation.",
+        "Question": "What does an increase in the local electric field around nanoparticles indicate in the context of photoporation?",
+        "A": "Decreased thermal conductivity",
+        "B": "Increased light emission",
+        "C": "Enhanced plasmonic resonance",
+        "D": "Reduced absorption efficiency",
+        "Answer": "C",
+        "Source": "E-field was implemented by entering the wave equation, assuming that plane waves of 980 nm (UCNP \u03bbex) and 545 nm (UCNP \u03bbem) are applied in the X axis direction, respectively, while placed as XZ planes."
+    },
+    "Question_8": {
+        "Context": "Resistive heating losses (RHL) occur when nanoparticles convert absorbed electromagnetic energy into heat, which can be used to induce local temperature increases and facilitate certain processes like photoporation.",
+        "Question": "In the context of photoporation, what is the significance of an increase in resistive heating losses (RHL) when nanoparticles are irradiated with light?",
+        "A": "It indicates a decrease in nanoparticle stability",
+        "B": "It suggests an increase in the formation of vapor nanobubbles",
+        "C": "It implies a reduction in the electric field strength",
+        "D": "It means the nanoparticles are becoming less conductive",
+        "Answer": "B",
+        "Source": "The occurrence of exotherm is a critical factor for AuNP photoporation because it leads to the formation of vapor nanobubbles (VNBs), which burst and perforate the cell membrane."
+    },
+    "Question_9": {
+        "Context": "In the field of nanomedicine, the intracellular delivery of therapeutic agents can be enhanced by using nanoparticles that temporarily disrupt the plasma membrane, allowing the agents to enter the cell.",
+        "Question": "What is the role of vapor nanobubbles (VNBs) in the process of nanoparticle-mediated photoporation for intracellular delivery?",
+        "A": "They increase the fluorescence of the nanoparticles",
+        "B": "They protect the nanoparticles from degradation",
+        "C": "They facilitate the formation of transient pores in the plasma membrane",
+        "D": "They prevent the nanoparticles from aggregating",
+        "Answer": "C",
+        "Source": "The high thermal conductivity of AuNPs allows for an instantaneous temperature rise, and a vapor nanobubble is formed. This process aides in the formation of transient pores in the plasma membrane."
+    },
+    "Question_10": {
+        "Context": "The delivery of therapeutic agents into cells can be achieved through various methods, including passive transport and active techniques that involve the temporary disruption of the plasma membrane.",
+        "Question": "Which method of intracellular delivery is more effective in delivering therapeutic agents into cells: passive transport or active techniques involving temporary plasma membrane disruption?",
+        "A": "Passive transport",
+        "B": "Active techniques involving temporary plasma membrane disruption",
+        "C": "Both are equally effective",
+        "D": "Neither method is effective",
+        "Answer": "B",
+        "Source": "Determining the zeta potential of a particle is an important factor in photoporation efficiency, as the process is more effective with cationic particles than anionic particles."
+    }
+}

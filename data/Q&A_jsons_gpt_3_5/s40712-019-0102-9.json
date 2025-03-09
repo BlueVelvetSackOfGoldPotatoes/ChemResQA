@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the synthesis of zirconium oxide nanoparticles using the hydrothermal method. It mentions the high surface area obtained and the porosity in the nanometer range.",
+        "Question": "What is the specific surface area of the zirconium oxide nanoparticles synthesized using the hydrothermal method?",
+        "A": "543 m2/g",
+        "B": "400 m2/g",
+        "C": "600 m2/g",
+        "D": "250 m2/g",
+        "Answer": "A",
+        "Source": "The obtained BET surface area was 543 m2/g, which is larger than the reported values, as seen in the text."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the different crystalline structures of zirconia nanoparticles, including cubic, tetragonal, and monoclinic structures.",
+        "Question": "Which transformation temperature makes using pure zirconium oxide impossible in many applications?",
+        "A": "Cubic > 2370 \u00b0C",
+        "B": "Tetragonal > 1150 \u00b0C",
+        "C": "Monoclinic > 1150 \u00b0C",
+        "D": "Cubic > 2000 \u00b0C",
+        "Answer": "A",
+        "Source": "Generally, zirconia nanoparticles consist of three crystalline structures, which are cubic (C), tetragonal (T), and monoclinic (M), depending on their transformation temperatures (cubic > 2370 \u00b0C), as mentioned in the text."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the thermal properties of the synthesized zirconium oxide nanoparticles.",
+        "Question": "What is the main reason for the weight loss observed at 100 \u00b0C in the thermal gravimetric analysis of the zirconium oxide nanoparticles?",
+        "A": "Decomposition of terminal hydroxyl groups",
+        "B": "Evaporation of physically adsorbed water",
+        "C": "Degradation of the material",
+        "D": "Decomposition of sulfate and carbonaceous phase",
+        "Answer": "B",
+        "Source": "The initial stages of weight loss, at 100 \u00b0C, are due to the desorption of physically adsorbed water, as mentioned in the text."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the crystallographic analysis of the zirconium oxide nanoparticles.",
+        "Question": "Which space group represents the stable phase of the Arkelite zirconia nanostructure?",
+        "A": "Fm-3m",
+        "B": "Im-3m",
+        "C": "Pm-3m",
+        "D": "Cm-3m",
+        "Answer": "A",
+        "Source": "The XRD results of zirconia nanoparticles show a pure cubic phase with the first space group (Fm-3m, Z = 4), in the text."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the synthesis methods and applications of zirconium oxide nanoparticles.",
+        "Question": "Which method was used to synthesise the zirconium oxide nanoparticles without using alcohol?",
+        "A": "Microwave irradiation",
+        "B": "Solid-state synthesis",
+        "C": "Hydrothermal method",
+        "D": "Sol gel",
+        "Answer": "C",
+        "Source": "Zirconia nanospheres and nanorods were obtained without using any alcohol, by applying the hydrothermal method at ambient pressure for 48 h, as mentioned in the text."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the electrochemical behaviour of the zirconium oxide nanoparticles.",
+        "Question": "What electrolyte was used in the electrochemical measurements under three electrodes?",
+        "A": "Sodium chloride",
+        "B": "Potassium chloride",
+        "C": "Sodium nitrate",
+        "D": "Ammonium chloride",
+        "Answer": "C",
+        "Source": "Electrochemical measurements were observed under three electrodes. While silver\u2013silver chloride (Ag/AgCl) electrode was used as the reference electrode, zirconia nanoparticles coated on glassy carbon were used as a working electrode and Pt wire was used as a counter electrode. 0.03 g of ZrO2 was ultra-sonicated in 0.5 ml 1 wt% Nafion in absolute ethanol for 30 min, pipetted a 0.05-ml suspension onto the glassy carbon electrode and dried at ambient temperature."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the crystallographic analysis of the zirconium oxide nanoparticles.",
+        "Question": "What lattice parameters are associated with the \u03b4(ZrH1.66) phases of zirconia at 120 \u00b0C?",
+        "A": "a = b = c = 3.6153 \u00c5",
+        "B": "a = b = c = 5.1144 \u00c5",
+        "C": "a = b = c = 4.8051 \u00c5",
+        "D": "a = b = c = 3.6090 \u00c5",
+        "Answer": "B",
+        "Source": "Figure 2b shows the \u03b4(ZrH1.66) phases lattice parameters are (a = b = c = 5.1144 \u00c5) at 120 \u00b0C, which is bigger than (a = b = c = 4.8051 \u00c5) at 500 \u00b0C, as mentioned in the text."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the synthesis of zirconium oxide nanoparticles using the hydrothermal method.",
+        "Question": "What is the main reason for the high oxygen ionic conductivity of cubic zirconia?",
+        "A": "Low thermal conductivity",
+        "B": "Chemical stability over a wide range of temperatures",
+        "C": "High oxygen ionic conductivity",
+        "D": "High thermal conductivity",
+        "Answer": "C",
+        "Source": "The stabilised cubic ZrO2 can also be used as an oxygen sensor in fuel cell membranes because it has the ability to allow oxygen ions to move freely through the crystal structure at high temperatures, as mentioned in the text."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the synthesis methods and applications of zirconium oxide nanoparticles.",
+        "Question": "Which stabilisers can be used to avoid cracks within the structure of cubic zirconia due to the transformation phase?",
+        "A": "Y2O3, CaO, MgO",
+        "B": "Na2O, K2O, Al2O3",
+        "C": "SiO2, TiO2, Fe2O3",
+        "D": "CuO, ZnO, NiO",
+        "Answer": "A",
+        "Source": "The stabilised cubic ZrO2 can also be used as an oxygen sensor in fuel cell membranes because it has the ability to allow oxygen ions to move freely through the crystal structure at high temperatures, as mentioned in the text."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the synthesis methods and applications of zirconium oxide nanoparticles.",
+        "Question": "What is the main advantage of using the hydrothermal method for synthesising zirconium oxide nanoparticles?",
+        "A": "Produces crystalline at a lower temperature",
+        "B": "Requires a great deal of energy",
+        "C": "Results in agglomeration of particles",
+        "D": "Produces uncontrolled morphology",
+        "Answer": "A",
+        "Source": "The advantages of the hydrothermal method are that crystalline is produced at a lower temperature without using a great deal of energy, as mentioned in the text."
+    }
+}

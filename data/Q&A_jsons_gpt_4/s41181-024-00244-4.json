@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "L-type amino acid transporters (LAT1) are known to be overexpressed in various cancers and play a crucial role in cancer growth and survival. Radiohalogen-labeled amino acid derivatives that target LAT1 can be used for cancer imaging and radiotherapy.",
+        "Question": "Which radiohalogen-labeled amino acid derivative exhibits instability against deastatination in vivo, posing a challenge for its use in radiotherapy?",
+        "A": "[18F]F-NpGT",
+        "B": "[125I]I-NpGT",
+        "C": "[211At]At-NpGT",
+        "D": "[131I]I-NpGT",
+        "Answer": "C",
+        "Source": "However, 211At-labeled amino acid derivatives exhibit instability against deastatination in vivo, making it challenging to use 211At for radiotherapy."
+    },
+    "Question_2": {
+        "Context": "In the development of radiopharmaceuticals, the stability of the compound against dehalogenation in vivo is a critical factor. Radiohalogen-labeled amino acid derivatives have been synthesized with high dehalogenation stability for use in radiotheranostics.",
+        "Question": "What is the primary reason for the instability of radiohalogen-labeled amino acid derivatives in vivo?",
+        "A": "High carbon-halogen bond strength",
+        "B": "Weak carbon-halogen bond strength",
+        "C": "High resistance to P450 metabolism",
+        "D": "Low steric hindrance",
+        "Answer": "B",
+        "Source": "However, 211At-labeled amino acid derivatives are unstable in vivo and undergo deastatination, reportedly owing to weak carbon-astatine bond strength."
+    },
+    "Question_3": {
+        "Context": "The neopentyl glycol (NpG) structure has been used as a scaffold for labeling radiohalogens due to its high steric hindrance and resistance to P450 metabolism, which contributes to the stability of the labeled compounds against dehalogenation in vivo.",
+        "Question": "What structural feature contributes to the high stability against dehalogenation in vivo of radiohalogen-labeled compounds using the NpG structure?",
+        "A": "Low steric hindrance",
+        "B": "Susceptibility to P450 metabolism",
+        "C": "High steric hindrance",
+        "D": "Weak carbon-halogen bond strength",
+        "Answer": "C",
+        "Source": "radiohalogen-labeled compounds using the NpG structure show high stability against dehalogenation in vivo owing to high steric hindrance and resistance to P450 metabolism."
+    },
+    "Question_4": {
+        "Context": "Amino acid derivatives can be modified to be recognized as substrates by LAT1, which is essential for their uptake into cancer cells overexpressing LAT1.",
+        "Question": "Which part of the L-tyrosine molecule is expected to be acceptable for modification to ensure substrate recognition by LAT1?",
+        "A": "The carboxyl group",
+        "B": "The amino group",
+        "C": "The hydroxyl group of phenol",
+        "D": "The side chain",
+        "Answer": "C",
+        "Source": "According to the structures of radiolabeled amino acid derivatives such as [18F]-fluoroethyl-L-tyrosine ([18F]-FET), modification of the hydroxyl group of phenol in L-tyrosine is expected to be acceptable for substrate recognition by LAT1."
+    },
+    "Question_5": {
+        "Context": "The development of radiohalogen-labeled amino acid derivatives involves the synthesis and characterization of these compounds for their specific cellular uptake and biodistribution in tumor-bearing models.",
+        "Question": "What is the purpose of synthesizing new radiohalogen-labeled amino acid derivatives?",
+        "A": "To decrease their stability in vivo",
+        "B": "To increase their recognition as substrates of LAT1",
+        "C": "To enhance their excretion from the body",
+        "D": "To reduce their therapeutic efficacy",
+        "Answer": "B",
+        "Source": "radiohalogen-labeled amino acid derivatives ([211At]At-NpGT, [125I]I-NpGT, and [18F]F-NpGT; Fig. 1) were synthesized and characterized for their LAT1-specific cellular uptake and biodistribution in tumor-bearing mice."
+    },
+    "Question_6": {
+        "Context": "In the context of radiotheranostics, it is crucial that the diagnostic and therapeutic agents exhibit similar pharmacokinetics in the body to ensure accurate diagnosis and effective treatment.",
+        "Question": "Why is it essential for radiotheranostic agents to have similar biodistributions?",
+        "A": "To ensure different pharmacokinetics",
+        "B": "To increase the complexity of treatment",
+        "C": "To ensure accurate diagnosis and effective treatment",
+        "D": "To reduce the effectiveness of the agents",
+        "Answer": "C",
+        "Source": "Ensuring similarity in the pharmacokinetics of diagnostic and therapeutic agents in the body is essential for their application in radiotheranostics."
+    },
+    "Question_7": {
+        "Context": "The stability of radiolabeled compounds in biological media such as phosphate-buffered saline (PBS) and fetal bovine serum (FBS) is an important parameter in assessing their suitability for in vivo applications.",
+        "Question": "What is the significance of assessing the stability of radiolabeled compounds in PBS and FBS?",
+        "A": "To determine their radiochemical yield",
+        "B": "To evaluate their stability for in vivo applications",
+        "C": "To measure their molecular weight",
+        "D": "To assess their resistance to gamma radiation",
+        "Answer": "B",
+        "Source": "All radiolabeled compounds showed high stability in PBS and FBS, and no halogen desorption was observed (< 1%)."
+    },
+    "Question_8": {
+        "Context": "The uptake and release of radiolabeled amino acid derivatives by tumor cells are indicative of their transport dynamics and potential for use in radiotheranostics.",
+        "Question": "What does the uptake and subsequent release of radiolabeled amino acid derivatives by tumor cells indicate?",
+        "A": "Their inability to be transported into cells",
+        "B": "Their transport dynamics and potential for radiotheranostics",
+        "C": "Their high stability against dehalogenation",
+        "D": "Their lack of recognition by LAT1",
+        "Answer": "B",
+        "Source": "Cellular uptake of [211At]At-NpGT, [125I]I-NpGT, and [18F]F-NpGT by C6 glioma cells increased over time. Furthermore, these radiolabeled compounds were gradually excreted from the cells."
+    },
+    "Question_9": {
+        "Context": "Inhibitors of the L-type amino acid transporter (LAT1) can be used to study the specificity of substrate recognition by LAT1, which is important for the development of targeted radiopharmaceuticals.",
+        "Question": "Which of the following is used as an inhibitor of LAT1 to study the specificity of substrate recognition?",
+        "A": "L-tyrosine",
+        "B": "2-aminobicyclo[2.2.1]heptane-2-carboxylic acid (BCH)",
+        "C": "\u03b1-(methylamino)isobutyric acid (MeAIB)",
+        "D": "\u03b1-methyl-L-tyrosine (AMT)",
+        "Answer": "B",
+        "Source": "The uptake of these radiolabeled compounds was significantly inhibited in the presence of BCH, an inhibitor of the L-type amino acid transporter."
+    },
+    "Question_10": {
+        "Context": "The therapeutic efficacy of radiolabeled compounds in cancer treatment can be evaluated in animal models by observing their effect on tumor growth.",
+        "Question": "What is a method to evaluate the therapeutic efficacy of a radiolabeled compound in cancer treatment?",
+        "A": "Observing its effect on the growth of tumors in animal models",
+        "B": "Measuring its stability in vitro",
+        "C": "Determining its radiochemical purity",
+        "D": "Assessing its resistance to metabolic degradation",
+        "Answer": "A",
+        "Source": "In this study, [211At]At-NpGT exhibited a dose-dependent inhibitory effect on the growth of glioma-bearing mice."
+    }
+}

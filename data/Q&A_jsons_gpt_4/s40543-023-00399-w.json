@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Vitamin K is essential for various physiological processes in humans, including blood coagulation and maintaining bone and cardiovascular health.",
+        "Question": "What is the major dietary form of vitamin K in most diets?",
+        "A": "Vitamin K1 (phylloquinone)",
+        "B": "Vitamin K2 (menaquinone)",
+        "C": "Vitamin K3 (menadione)",
+        "D": "Vitamin K4",
+        "Answer": "A",
+        "Source": "Vitamin K1 is a naturally occurring form of vitamin K in plants and the major dietary form of vitamin K in most diets; vitamin K2 has a more restricted distribution in meat, liver, and certain fermented foods."
+    },
+    "Question_2": {
+        "Context": "Vitamin K1 is found in high quantities in certain types of plant tissues due to its role in photosynthesis.",
+        "Question": "In plants, where is vitamin K1 predominantly found?",
+        "A": "Roots",
+        "B": "Stems",
+        "C": "Flowers",
+        "D": "Photosynthetic tissues of dark green leafy vegetables",
+        "Answer": "D",
+        "Source": "In plants, vitamin K1 is found in large quantities in photosynthetic tissues of dark green leafy vegetables since it functions as an electron acceptor during photosynthesis."
+    },
+    "Question_3": {
+        "Context": "Vitamin K functions as a coenzyme in the human body, aiding in the conversion of specific amino acid residues in proteins.",
+        "Question": "During which process does vitamin K function as a coenzyme?",
+        "A": "Glycolysis",
+        "B": "Post-translational conversion of specific glutamyl residues",
+        "C": "Oxidative phosphorylation",
+        "D": "DNA replication",
+        "Answer": "B",
+        "Source": "In humans, vitamin K functions as a coenzyme during the post-translational conversion of specific glutamyl residues in certain proteins."
+    },
+    "Question_4": {
+        "Context": "Vitamin K was initially recognized for its role in a specific physiological process before its other health benefits were discovered.",
+        "Question": "What was vitamin K originally noted for?",
+        "A": "Enhancing muscle growth",
+        "B": "Improving vision",
+        "C": "Its role in blood clotting",
+        "D": "Stimulating cognitive function",
+        "Answer": "C",
+        "Source": "Vitamin K was originally noted for its role in blood clotting."
+    },
+    "Question_5": {
+        "Context": "The adequate intake levels of vitamin K differ based on recommendations by health organizations in different countries.",
+        "Question": "According to the United States Institute of Medicine, what is the adequate intake level of vitamin K for men?",
+        "A": "65 \u03bcg/day",
+        "B": "75 \u03bcg/day",
+        "C": "90 \u03bcg/day",
+        "D": "120 \u03bcg/day",
+        "Answer": "D",
+        "Source": "The United States Institute of Medicine reported that the adequate intake level of vitamin K is 120 \u03bcg/day for men and 90 \u03bcg/day for women."
+    },
+    "Question_6": {
+        "Context": "Vitamin K1 is routinely measured in foods using certain analytical techniques to determine its content.",
+        "Question": "Which method is commonly used for measuring vitamin K1 content in foods?",
+        "A": "Gas chromatography/mass spectrometry (GC/MS)",
+        "B": "High-performance liquid chromatography (HPLC)\u2013fluorescence detection (FLD)",
+        "C": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "D": "Infrared spectroscopy",
+        "Answer": "B",
+        "Source": "Vitamin K1 is routinely measured using high-performance liquid chromatography (HPLC)\u2013fluorescence detection (FLD), as its detection sensitivity is greatly enhanced by derivatization."
+    },
+    "Question_7": {
+        "Context": "In analytical chemistry, the use of isotopically labeled compounds as internal standards can correct for losses and compensate for variations during sample analysis.",
+        "Question": "What is the purpose of using isotopically labeled vitamin K1 as an internal standard in the analysis of vitamin K1 content?",
+        "A": "To enhance the flavor of the sample",
+        "B": "To increase the boiling point of the solvent",
+        "C": "To correct for losses of target compounds during sample clean-up",
+        "D": "To change the color of the sample for better detection",
+        "Answer": "C",
+        "Source": "As it uses isotopically labeled vitamin K1 as an internal standard, the method corrects for losses of target compounds during sample clean-up and compensates for the variation in ionization efficiency due to matrix interferences."
+    },
+    "Question_8": {
+        "Context": "Liquid chromatography/tandem mass spectrometry (LC/MS/MS) is a technique used for the determination of compounds in various samples.",
+        "Question": "What is one of the limitations of previously reported LC/MS/MS methods for determining vitamin K1 content in vegetables?",
+        "A": "They could not separate trans and cis isomers of vitamin K1",
+        "B": "They required extremely high temperatures",
+        "C": "They could only detect synthetic vitamin K1",
+        "D": "They were too rapid to control precisely",
+        "Answer": "A",
+        "Source": "However, the methods determine the total vitamin K1 content without separating trans and cis isomers."
+    },
+    "Question_9": {
+        "Context": "The accurate determination of vitamin K1 isomers requires the use of specific columns in liquid chromatography.",
+        "Question": "Which type of column was employed for the proper separation of trans- and cis-vitamin K1 isomers?",
+        "A": "C18 column",
+        "B": "C8 column",
+        "C": "C30 column",
+        "D": "C4 column",
+        "Answer": "C",
+        "Source": "A C30 column was employed for proper separation of trans- and cis-vitamin K1 isomers."
+    },
+    "Question_10": {
+        "Context": "The evaluation of a method's performance in analytical chemistry includes assessing its repeatability and reproducibility.",
+        "Question": "What was the relative standard deviation (RSD) for the repeatability of the vitamin K1 analysis in the described method?",
+        "A": "Less than 1% relative standard deviation",
+        "B": "Less than 2% relative standard deviation",
+        "C": "Approximately 6\u201310% relative standard deviation",
+        "D": "More than 10% relative standard deviation",
+        "Answer": "B",
+        "Source": "The repeatability and reproducibility of the vitamin K1 analysis were less than 2% relative standard deviation, indicating that the method had a higher-order metrological quality as a reference method."
+    }
+}

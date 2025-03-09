@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the effects of external carbon and nitrogen sources on soil microorganisms, particularly Azotobacter, and their impact on nitrogen fixation. The study aimed to investigate the relationship between exogenous substances and Azotobacter growth.",
+        "Question": "What was the main purpose of the study?",
+        "A": "To analyze the effects of external carbon and nitrogen sources on soil pH",
+        "B": "To investigate the relationship between exogenous substances and Azotobacter growth",
+        "C": "To study the impact of nitrogen fixation on soil biodiversity",
+        "D": "To compare the efficiency of different nitrogen fertilizers in agricultural production",
+        "Answer": "B",
+        "Source": "The study aimed to investigate the relationship between exogenous substances and Azotobacter growth."
+    },
+    "Question_2": {
+        "Context": "The study explored the effects of external carbon and nitrogen sources on the relative abundances of Azotobacter genus and relevant species in different treatment groups.",
+        "Question": "Which treatment group showed a significant increase in the relative abundances of Azotobacter genus and relevant species?",
+        "A": "Control group (CK)",
+        "B": "Glucose treatment group (C)",
+        "C": "Urea treatment group (N)",
+        "D": "Glucose + urea treatment group (CN)",
+        "Answer": "B",
+        "Source": "The results showed that the relative abundances of the Azotobacter genus and relevant species were increased in group C, indicating promotion of Azotobacter growth."
+    },
+    "Question_3": {
+        "Context": "The study analyzed the effects of external carbon and nitrogen sources on nitrogen cycle genes in soil, particularly focusing on the nif genes.",
+        "Question": "Which group exhibited significantly higher relative abundances of nif genes compared to other groups?",
+        "A": "Control group (CK)",
+        "B": "Glucose treatment group (C)",
+        "C": "Urea treatment group (N)",
+        "D": "Glucose + urea treatment group (CN)",
+        "Answer": "B",
+        "Source": "The relative abundances of the nif genes (i.e., nifH, nifD, and nifK) were significantly increased in group C."
+    },
+    "Question_4": {
+        "Context": "The study investigated the direct and indirect effects of bacterial \u03b1-diversity, Azotobacter, and nitrogen cycle genes on soil nitrogen levels.",
+        "Question": "What was the significant direct effect of bacterial \u03b1-diversity, Azotobacter, and nitrogen cycle genes on alkali-hydrolyzed nitrogen content in soil?",
+        "A": "Negligible direct effects",
+        "B": "Significant direct effects",
+        "C": "Indirect effects",
+        "D": "No effect observed",
+        "Answer": "B",
+        "Source": "Piecewise SEM analysis showed that bacterial \u03b1-diversity, Azotobacter, and nitrogen cycle genes had significant direct effects on alkali-hydrolyzed nitrogen content in soil."
+    },
+    "Question_5": {
+        "Context": "The study compared the dry weight of rape plants and total nitrogen content in plants across different treatment groups.",
+        "Question": "Which group had a significantly greater dry weight of rape plants compared to the control group?",
+        "A": "Glucose treatment group (C)",
+        "B": "Urea treatment group (N)",
+        "C": "Glucose + urea treatment group (CN)",
+        "D": "Control group (CK)",
+        "Answer": "A",
+        "Source": "The dry weight of rape was significantly greater in groups C and N than in group CK."
+    },
+    "Question_6": {
+        "Context": "The study examined the effects of external carbon and nitrogen sources on soil physicochemical properties, including soil pH and total nitrogen content.",
+        "Question": "Which group exhibited significantly greater total nitrogen content in soil compared to the control group?",
+        "A": "Glucose treatment group (C)",
+        "B": "Urea treatment group (N)",
+        "C": "Glucose + urea treatment group (CN)",
+        "D": "Control group (CK)",
+        "Answer": "A",
+        "Source": "Total nitrogen content in soil was significantly greater in groups C, N, and CN, compared with group CK."
+    },
+    "Question_7": {
+        "Context": "The study analyzed the impact of external carbon and nitrogen sources on the bacterial community structure in soil.",
+        "Question": "Which treatment group significantly affected the bacterial community structure composition?",
+        "A": "Control group (CK)",
+        "B": "Glucose treatment group (C)",
+        "C": "Urea treatment group (N)",
+        "D": "Glucose + urea treatment group (CN)",
+        "Answer": "B",
+        "Source": "The soil bacterial community structure composition was significantly different among the four treatments, indicating that the application of C and N significantly affected soil bacterial community structure."
+    },
+    "Question_8": {
+        "Context": "The study investigated the effects of external carbon and nitrogen sources on the relative abundances of major bacterial phyla in soil.",
+        "Question": "Which phylum had the highest relative abundance in the glucose treatment group (C)?",
+        "A": "Actinomycetes",
+        "B": "Firmicutes",
+        "C": "Bacteroidetes",
+        "D": "Proteobacteria",
+        "Answer": "D",
+        "Source": "Proteobacteria had the highest relative abundance in group C (56.04%), which was significantly higher than the abundances in groups N and CN."
+    },
+    "Question_9": {
+        "Context": "The study examined the impact of external carbon and nitrogen sources on the relative abundances of major bacterial genera in soil.",
+        "Question": "Which genus displayed a significant change in relative abundance between the glucose treatment group (C) and the control group (CK)?",
+        "A": "Actinomycetes",
+        "B": "Firmicutes",
+        "C": "Bacteroidetes",
+        "D": "Azotobacter",
+        "Answer": "D",
+        "Source": "Treatment with glucose increased the relative abundance of Azotobacter by 310.30-fold to 12.27%, making it the dominant genus in group C."
+    },
+    "Question_10": {
+        "Context": "The study explored the effects of external carbon and nitrogen sources on the dry weight of rape plants and total nitrogen content in plants.",
+        "Question": "Which group exhibited significantly greater total nitrogen content in plants compared to the control group?",
+        "A": "Glucose treatment group (C)",
+        "B": "Urea treatment group (N)",
+        "C": "Glucose + urea treatment group (CN)",
+        "D": "Control group (CK)",
+        "Answer": "A",
+        "Source": "Total nitrogen content in plants was significantly greater in group C (13.89%) than in group CK."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Tobacco polysaccharides can be extracted and purified using certain chromatography techniques. These polysaccharides are composed of multiple monosaccharides linked by glycosidic bonds.",
+        "Question": "Which chromatography technique is used for the purification of tobacco polysaccharides?",
+        "A": "Gas chromatography",
+        "B": "DEAE-52 cellulose chromatography",
+        "C": "Thin-layer chromatography",
+        "D": "Affinity chromatography",
+        "Answer": "B",
+        "Source": "Tobacco polysaccharides were extracted by hot water extraction, and purified and separated using DEAE-52 cellulose chromatography columns, and three purified polysaccharide fractions, YCT-1, YCT-2, and YCT-3, were finally obtained."
+    },
+    "Question_2": {
+        "Context": "The molecular weight of polysaccharides can be determined using high-performance gel chromatography, which helps in understanding the distribution of their molecular sizes.",
+        "Question": "What is the average molecular weight of the tobacco polysaccharide fraction YCT-2?",
+        "A": "27,727 Da",
+        "B": "27,587 Da",
+        "C": "66,517 Da",
+        "D": "4,11%",
+        "Answer": "B",
+        "Source": "The average molecular weights of the three components were 27,727 Da, 27,587 Da, and 66,517 Da, respectively."
+    },
+    "Question_3": {
+        "Context": "Polysaccharides can exhibit antioxidant activity, which can be compared among different fractions using various radical scavenging assays.",
+        "Question": "Which assay can be used to compare the in vitro antioxidant activity of tobacco polysaccharides among different fractions?",
+        "A": "DPPH radical scavenging assay",
+        "B": "Bradford protein assay",
+        "C": "BCA protein assay",
+        "D": "TC and TG assay",
+        "Answer": "A",
+        "Source": "The in vitro antioxidant activity of tobacco polysaccharides was compared among different fractions by using DPPH radical, hydroxyl radical scavenging assay and potassium ferricyanide method."
+    },
+    "Question_4": {
+        "Context": "In the context of hypoglycemic activity, certain enzymes are targeted to compare the activity of different fractions of polysaccharides.",
+        "Question": "Which enzyme's activity inhibition assay is used to compare the in vitro hypoglycemic activity of tobacco polysaccharides?",
+        "A": "Lipase",
+        "B": "Protease",
+        "C": "\u03b1-Amylase",
+        "D": "\u03b2-Glucosidase",
+        "Answer": "C",
+        "Source": "The in vitro hypoglycemic activity was compared using \u03b1-amylase and \u03b1-glucosidase activity inhibition assay."
+    },
+    "Question_5": {
+        "Context": "The hypolipidemic activity of polysaccharides can be investigated by assessing the inhibition of certain enzymes involved in lipid metabolism.",
+        "Question": "Which enzyme's activity is inhibited by tobacco polysaccharides as part of their in vitro hypolipidemic activity investigation?",
+        "A": "\u03b1-Glucosidase",
+        "B": "Pancreatic lipase",
+        "C": "\u03b2-Lactamase",
+        "D": "\u03b1-Amylase",
+        "Answer": "B",
+        "Source": "And the in vitro hypolipidemic activity were investigated by using pancreatic lipase activity inhibition assay and HepG-2 intracellular lipid accumulation assay."
+    },
+    "Question_6": {
+        "Context": "Polysaccharides are composed of various monosaccharides, and their molar percentages can vary among different fractions.",
+        "Question": "Which monosaccharide is present in the highest molar percentage in the tobacco polysaccharide fraction YCT-1?",
+        "A": "Mannose",
+        "B": "Ribose",
+        "C": "Glucose",
+        "D": "Galactose",
+        "Answer": "C",
+        "Source": "The monosaccharides with a high content of YCT-1 were mannose (3.209%), arabinose (8.016%), galactose (21.555%), glucose (58.274%), and xylose (3.141%)."
+    },
+    "Question_7": {
+        "Context": "The scavenging activity of polysaccharides on hydroxyl radicals can be measured to evaluate their antioxidant capacity.",
+        "Question": "Which tobacco polysaccharide fraction exhibited the highest hydroxyl radical scavenging rate at a concentration of 4 mg/mL?",
+        "A": "YCT-1",
+        "B": "YCT-2",
+        "C": "YCT-3",
+        "D": "All fractions had the same rate",
+        "Answer": "B",
+        "Source": "The maximum hydroxyl radical scavenging rate of YCT-2 reached 90.67%, which was higher than that of the other two fractions."
+    },
+    "Question_8": {
+        "Context": "The inhibitory ability of polysaccharides on \u03b1-amylase activity can be weak or strong, influencing their potential as hypoglycemic agents.",
+        "Question": "How was the inhibitory ability of tobacco polysaccharide fractions on \u03b1-amylase activity characterized?",
+        "A": "Strong",
+        "B": "Moderate",
+        "C": "Weak",
+        "D": "Non-existent",
+        "Answer": "C",
+        "Source": "The three polysaccharide fractions had a weak inhibitory ability on \u03b1-amylase activity, but showed excellent inhibitory ability on \u03b1-glucosidase and pancreatic lipase activity."
+    },
+    "Question_9": {
+        "Context": "The inhibition of \u03b1-glucosidase activity by polysaccharides is a measure of their potential as hypoglycemic agents.",
+        "Question": "Which tobacco polysaccharide fraction showed a strong inhibitory activity on \u03b1-glucosidase?",
+        "A": "Only YCT-1",
+        "B": "Only YCT-2",
+        "C": "Only YCT-3",
+        "D": "All fractions YCT-1, YCT-2, and YCT-3",
+        "Answer": "D",
+        "Source": "YCT-1, YCT-2, and YCT-3 possessed a strong inhibitory activity for \u03b1-glucosidase, and it is expected to be developed into a natural and non-toxic hypoglycemic agent."
+    },
+    "Question_10": {
+        "Context": "The expression of certain genes in HepG-2 cells can be influenced by polysaccharides, affecting lipid metabolism.",
+        "Question": "Which gene expression was found to be up-regulated in HepG-2 cells by the tobacco polysaccharide YCT-3?",
+        "A": "PPAR-\u03b1",
+        "B": "CPT-1A",
+        "C": "CYP7A1",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The results of cellular experiments showed that all three fractions were able to inhibit lipid over-accumulation in HepG-2 cells by increasing the mRNA expression levels of PPAR-\u03b1, CPT-1A, and CYP7A1 genes, and the tobacco polysaccharide YCT-3 showed the best effect."
+    }
+}

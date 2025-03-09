@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Fluoropolymer hydrophobic coatings are used to increase the contact angle of water droplets, making them easy to roll off surfaces due to their low surface energy and low friction.",
+        "Question": "What is the primary function of fluoropolymer hydrophobic coatings on surfaces?",
+        "A": "To increase the electrical conductivity",
+        "B": "To increase the contact angle of water droplets",
+        "C": "To absorb water droplets",
+        "D": "To catalyze chemical reactions",
+        "Answer": "B",
+        "Source": "the surface of the fluoropolymer hydrophobic coatings increases the contact angle of water droplets and makes them easy to roll off from the surface due to their low surface energy and low friction"
+    },
+    "Question_2": {
+        "Context": "In electrowetting-on-dielectric (EWOD) technology, the hydrophobic coating is crucial as it affects the device's performance by influencing the contact angle of droplets.",
+        "Question": "Why is the hydrophobic coating important in EWOD technology?",
+        "A": "It provides structural support to the device",
+        "B": "It increases the device's power consumption",
+        "C": "It influences the contact angle of droplets",
+        "D": "It decreases the device's response time",
+        "Answer": "C",
+        "Source": "the hydrophobic coating, which plays a crucial role in EWOD devices, degrades its hydrophobicity due to prolonged water exposure and repeated EWOD actuations"
+    },
+    "Question_3": {
+        "Context": "The durability of hydrophobic coatings can be affected by environmental factors such as the impact of falling droplets, which simulate rain.",
+        "Question": "What environmental factor is simulated to test the durability of hydrophobic coatings?",
+        "A": "Sunlight exposure",
+        "B": "Wind abrasion",
+        "C": "Impact of falling droplets",
+        "D": "Temperature fluctuations",
+        "Answer": "C",
+        "Source": "Therefore, this study evaluates the durability of open-air EWOD devices by simulating raindrop damage to hydrophobic coatings and comparing the durability of different hydrophobic coating thicknesses."
+    },
+    "Question_4": {
+        "Context": "The Lippmann-Young equation describes the relationship between applied voltage and droplet contact angle in EWOD, indicating that the thickness of the hydrophobic and dielectric layer affects the change in droplet contact angle with voltage.",
+        "Question": "According to the Lippmann-Young equation, what factors affect the change in droplet contact angle with voltage in EWOD?",
+        "A": "Thickness of the hydrophobic and dielectric layer",
+        "B": "Color of the hydrophobic coating",
+        "C": "Size of the water droplet",
+        "D": "Ambient air pressure",
+        "Answer": "A",
+        "Source": "This equation shows that the thickness of the hydrophobic and dielectric layer affects the change in droplet contact angle with voltage."
+    },
+    "Question_5": {
+        "Context": "The contact angle (CA) and contact angle hysteresis (CAH) are parameters used to evaluate the hydrophobicity of a surface, where CAH is the difference between the advancing and receding contact angles.",
+        "Question": "What does contact angle hysteresis (CAH) represent?",
+        "A": "The difference between the initial and final contact angles",
+        "B": "The uniformity of the hydrophobic coating",
+        "C": "The difference between the advancing and receding contact angles",
+        "D": "The electrical resistance of the hydrophobic coating",
+        "Answer": "C",
+        "Source": "The advancing and receding contact angles are measured through each process, and the CAH of each sample is calculated as the difference between the advancing and receding contact angles."
+    },
+    "Question_6": {
+        "Context": "Hydrophobic coatings can be damaged by environmental factors, and their recovery can be assessed by heating, which affects the contact angle and contact angle hysteresis.",
+        "Question": "How can the recovery of damaged hydrophobic coatings be assessed?",
+        "A": "By cooling them to sub-zero temperatures",
+        "B": "By exposing them to ultraviolet light",
+        "C": "By immersing them in saline solution",
+        "D": "By heating them",
+        "Answer": "D",
+        "Source": "The damaged hydrophobic coatings are then heated on a 200 \u2103 hot plate for 24 h to recover their hydrophobicity"
+    },
+    "Question_7": {
+        "Context": "The performance of EWOD devices can be evaluated by measuring the change in contact angle of droplets under applied voltage and comparing it to the initial contact angle.",
+        "Question": "How is the performance of EWOD devices evaluated?",
+        "A": "By measuring the change in weight of the droplets",
+        "B": "By measuring the change in contact angle of droplets under applied voltage",
+        "C": "By measuring the change in color of the hydrophobic coating",
+        "D": "By measuring the temperature change of the droplets",
+        "Answer": "B",
+        "Source": "The EWOD actuation performance is measured by the ratio of the initial contact angle to the contact angle recovered when the voltage is removed."
+    },
+    "Question_8": {
+        "Context": "The durability of hydrophobic coatings can be tested by subjecting them to repeated damage-recovery cycles, which can reveal the number of recovery limitations.",
+        "Question": "What method is used to test the durability of hydrophobic coatings?",
+        "A": "Single impact test",
+        "B": "Continuous abrasion test",
+        "C": "Repeated damage-recovery cycles",
+        "D": "Long-term UV exposure test",
+        "Answer": "C",
+        "Source": "The samples with different thicknesses of hydrophobic coatings are first damaged by falling droplets... The samples are then heated on a hot plate at 200 \u2103 for 24 h to recover their hydrophobicity... This process of heating and recovering damaged hydrophobic coatings is called the damage-recovery cycle."
+    },
+    "Question_9": {
+        "Context": "The surface morphology of hydrophobic coatings can be analyzed using atomic force microscopy, which can show changes such as increased roughness due to environmental damage.",
+        "Question": "Which technique is used to analyze the surface morphology of hydrophobic coatings?",
+        "A": "Scanning electron microscopy",
+        "B": "Transmission electron microscopy",
+        "C": "Atomic force microscopy",
+        "D": "X-ray diffraction",
+        "Answer": "C",
+        "Source": "The surface morphology of the 1.0 \u00b5m samples are analyzed using atomic force microscopy for each cycle."
+    },
+    "Question_10": {
+        "Context": "The recovery of hydrophobic coatings after damage can be quantified by measuring the contact angle and contact angle hysteresis, which are indicators of the surface's hydrophobicity.",
+        "Question": "Which parameters are measured to quantify the recovery of hydrophobic coatings after damage?",
+        "A": "Density and viscosity",
+        "B": "Hardness and elasticity",
+        "C": "Contact angle and contact angle hysteresis",
+        "D": "Thermal conductivity and heat capacity",
+        "Answer": "C",
+        "Source": "The CA and CAH of droplets placed on the sample surface are measured by a contact angle goniometer... to analyze the hydrophobicity of the experimental samples."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Halide perovskite quantum dots (PQDs) are nanoparticles that have shown promise in optoelectronic applications due to their optical and electrical properties. However, they are known to have poor structural stability when exposed to external stimuli such as moisture and heat.",
+        "Question": "What is the main cause of structural degradation in halide perovskite quantum dots (PQDs)?",
+        "A": "Oxidation reactions with atmospheric oxygen",
+        "B": "Defect formation on the surface and vacancy formation in the lattices",
+        "C": "Photobleaching under exposure to sunlight",
+        "D": "Mechanical stress from external pressure",
+        "Answer": "B",
+        "Source": "The structural degradation of PQDs is primarily caused by the formation of defects (vacancies and interstitials) through ion migration and the detachment of weakly bound ligands on the PQD surface."
+    },
+    "Question_2": {
+        "Context": "In the context of improving the structural stabilities of halide perovskite quantum dots (PQDs), various strategies have been developed. One such strategy involves modifying the ligands attached to the surface of PQDs.",
+        "Question": "Which strategy for improving the structural stability of PQDs involves changing the surface ligands?",
+        "A": "Core\u2013shell structure",
+        "B": "Crosslinking",
+        "C": "Ligand modification",
+        "D": "Metal doping",
+        "Answer": "C",
+        "Source": "The structural stabilities of PQDs can be improved through four methods: (1) ligand modification, (2) core\u2013shell structure, (3) crosslinking, and (4) metal doping."
+    },
+    "Question_3": {
+        "Context": "In the field of optoelectronics, core\u2013shell structures are used to enhance the stability of materials. For PQDs, this involves coating the quantum dots with another material.",
+        "Question": "What is the purpose of introducing a core\u2013shell structure to PQDs?",
+        "A": "To increase the electrical conductivity",
+        "B": "To enhance the photoluminescence",
+        "C": "To improve structural stability against external stimuli",
+        "D": "To reduce the overall size of the quantum dots",
+        "Answer": "C",
+        "Source": "Core\u2013shell structure: Polymers or inorganic materials are introduced as passivation layers to improve the structural stabilities of PQDs against external stimuli (moisture or oxygen)."
+    },
+    "Question_4": {
+        "Context": "Crosslinking is a method used to enhance the stability of PQDs by creating bonds between ligands on the surface of the quantum dots.",
+        "Question": "What is the main benefit of crosslinking the surface ligands of PQDs?",
+        "A": "To increase the quantum dot size",
+        "B": "To improve solubility in solvents",
+        "C": "To suppress ligand dissociation and minimize defect formation",
+        "D": "To change the color of the emitted light",
+        "Answer": "C",
+        "Source": "Crosslinking: Crosslinkable ligands are introduced as surface passivation ligands to minimize defect formation by inhibiting ligand dissociation through the crosslinking of ligands via light or heat."
+    },
+    "Question_5": {
+        "Context": "Metal doping in PQDs is a strategy used to enhance their structural stability by incorporating metal ions into the quantum dot lattice.",
+        "Question": "What is the effect of metal doping on the structural stability of PQDs?",
+        "A": "It decreases the migration energy of ions within the lattice",
+        "B": "It increases the photoluminescence quantum yield",
+        "C": "It changes the B\u2013X bond lengths and improves stability",
+        "D": "It reduces the overall optical bandgap of the PQDs",
+        "Answer": "C",
+        "Source": "Metal doping: Metal ions with equivalent charge numbers are doped at the A\u2013 or B\u2013sites, which significantly improves the structural stabilities of PQDs by changing the B\u2013X bond lengths."
+    },
+    "Question_6": {
+        "Context": "The stability of PQDs is often tested by their response to external stimuli such as moisture, heat, and light. These tests help determine the effectiveness of various stabilization strategies.",
+        "Question": "Which external stimulus is known to cause poor structural stability in PQDs due to their ionic nature?",
+        "A": "Magnetic fields",
+        "B": "Ultrasonic waves",
+        "C": "Moisture, oxygen, and heat",
+        "D": "Electrical currents",
+        "Answer": "C",
+        "Source": "PQDs are easily decomposed or degraded under external stimuli (moisture, oxygen, and heat, etc.)"
+    },
+    "Question_7": {
+        "Context": "The optoelectronic properties of PQDs, such as photoluminescence quantum yield (PLQY), are crucial for their performance in devices. Structural stabilities of PQDs are essential for maintaining high PLQY.",
+        "Question": "What happens to the photoluminescence quantum yield (PLQY) of PQDs when they undergo structural degradation?",
+        "A": "The PLQY increases due to enhanced light absorption",
+        "B": "The PLQY remains unchanged but the color spectrum shifts",
+        "C": "The PLQY decreases due to increased non-radiative recombination",
+        "D": "The PLQY oscillates due to fluctuating energy levels",
+        "Answer": "C",
+        "Source": "This structural degradation increased non-radiative recombination and reduced the PLQY."
+    },
+    "Question_8": {
+        "Context": "In PQDs, the A-site cations and B-site cations occupy specific positions within the cubic unit cell, which is crucial for their optoelectronic properties.",
+        "Question": "In the chemical structure of PQDs, where do the A-site cations and B-site cations reside?",
+        "A": "A-site cations at the face-center and B-site cations at the corners",
+        "B": "A-site cations at the corners and B-site cations at the body-center",
+        "C": "A-site cations at the edges and B-site cations at the face-center",
+        "D": "A-site cations at the body-center and B-site cations at the edges",
+        "Answer": "B",
+        "Source": "In this chemical structure, A\u2013site cations (e.g., Cs+, CH3NH3+) occupy the corners of the cubic unit cell, B\u2013site cations (e.g., Pb2+, Sn2+) occupy the body-center"
+    },
+    "Question_9": {
+        "Context": "The photoluminescence (PL) and electroluminescence (EL) emission of PQDs can be tuned by controlling the composition of halide ions, which is essential for achieving full-color displays.",
+        "Question": "How can the optical bandgap of PQDs be tuned to achieve different colors?",
+        "A": "By altering the size of the quantum dots",
+        "B": "By controlling the halide composition (Cl, Br, and I)",
+        "C": "By changing the temperature during synthesis",
+        "D": "By applying different voltages in the device",
+        "Answer": "B",
+        "Source": "The optical bandgap (electroluminescence (EL) and photoluminescence (PL) emission) of the PQDs can be easily tuned by controlling the halide composition (Cl, Br, and I) to achieve full colors of blue, green, and red."
+    },
+    "Question_10": {
+        "Context": "The photodetector performance of PQDs can be influenced by the ligands present on their surface. Ligand modification can lead to changes in the photodetector performance.",
+        "Question": "What impact does ligand modification have on the photodetector performance of PQDs?",
+        "A": "It decreases the response time to light",
+        "B": "It increases the light absorption coefficient",
+        "C": "It enhances the photodetector performance",
+        "D": "It has no impact on the photodetector performance",
+        "Answer": "C",
+        "Source": "The shorter inter-particle distance between PQDs, owing to the short alkyl chain length of the AET ligand, also enhanced the photodetector performance."
+    }
+}

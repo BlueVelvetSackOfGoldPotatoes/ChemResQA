@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Based on the experiment with the E. coli-H strain in the microbial electrolysis cell system, what was the observed effect of electricity on levoglucosan consumption and ethanol production?",
+        "Question": "What effect did the application of electricity have on levoglucosan consumption and ethanol production by the E. coli-H strain?",
+        "A": "Decreased levoglucosan consumption and ethanol production",
+        "B": "No significant change in levoglucosan consumption but increased ethanol production",
+        "C": "Increased levoglucosan consumption and ethanol production",
+        "D": "Increased levoglucosan consumption but decreased ethanol production",
+        "Answer": "C",
+        "Source": "In electrically treated bio-oil media, the E. coli-H strain exhibited significantly higher levoglucosan consumption and ethanol production capacities compared with the control."
+    },
+    "Question_2": {
+        "Context": "In the experiment, what was the bioethanol yield obtained by the E. coli-H strain in the electrified MEC system?",
+        "Question": "What was the bioethanol yield achieved by the E. coli-H strain in the electrified MEC system?",
+        "A": "0.11 g/g",
+        "B": "0.53 g/g",
+        "C": "0.54 g/g",
+        "D": "0.19 g/g",
+        "Answer": "C",
+        "Source": "E. coli-H produced 0.54 g ethanol/g levoglucosan, reaching 94% of the theoretical yield."
+    },
+    "Question_3": {
+        "Context": "Regarding inhibitor degradation performance, what was the observed effect of electricity on furfural conversion in the bio-oil-based microbial electrolysis cell system?",
+        "Question": "How did the application of electricity affect furfural conversion in the bio-oil-based microbial electrolysis cell system?",
+        "A": "No change in furfural conversion",
+        "B": "Decreased furfural conversion",
+        "C": "Increased furfural conversion",
+        "D": "Complete conversion of furfural",
+        "Answer": "C",
+        "Source": "In the bioelectrochemical group, the concentration of furfural had dropped to approximately 2 \u00d7 10\u20138 mg/L at 56 h, which compares with the value of approximately 8.83 \u00d7 10\u20138 mg/L recorded at the same time point in the control fermentation."
+    },
+    "Question_4": {
+        "Context": "What was the observed trend in Coulomb efficiency during the fermentation process in the MEC system?",
+        "Question": "What trend was observed in Coulomb efficiency during the fermentation process in the MEC system?",
+        "A": "Decreasing trend",
+        "B": "Constant trend",
+        "C": "Increasing trend",
+        "D": "Fluctuating trend",
+        "Answer": "A",
+        "Source": "The Coulomb efficiency of the experimental group peaked at 80.3%, 66.8%, and 28.4% during the course of fermentation from 32 to 36 h, 36 h to 40 h, and 40 h to 44 h, respectively, thereby indicating that external energy is the main source for generating bioethanol during the fermentation process, although gradually declines in the latter stages."
+    },
+    "Question_5": {
+        "Context": "What was the purpose of using neutral red in the experiment with E. coli in the microbial electrolysis cell system?",
+        "Question": "Why was neutral red used in the experiment with E. coli in the microbial electrolysis cell system?",
+        "A": "To inhibit E. coli growth",
+        "B": "To promote E. coli growth",
+        "C": "To measure E. coli growth",
+        "D": "To monitor E. coli metabolism",
+        "Answer": "B",
+        "Source": "Neutral red functions as a supplementary electron sink that accepts the excessive electrons produced during glycolysis, which are in turn used to regenerate NAD+ from NADH, which is beneficial for further glycolysis."
+    },
+    "Question_6": {
+        "Context": "What was the observed effect of electricity on the growth of E. coli in the experiment?",
+        "Question": "How did the application of electricity affect the growth of E. coli in the experiment?",
+        "A": "Stunted growth",
+        "B": "Accelerated growth",
+        "C": "No effect on growth",
+        "D": "Decreased growth",
+        "Answer": "B",
+        "Source": "Notably, the application of electricity clearly stimulated the growth of E. coli and markedly diminished the necessary fermentation time."
+    },
+    "Question_7": {
+        "Context": "What was the main benefit of the MEC system in the production of ethanol according to the experiment?",
+        "Question": "What was the primary advantage of the MEC system in ethanol production based on the experiment?",
+        "A": "Reduced ethanol yield",
+        "B": "Increased fermentation time",
+        "C": "Enhanced ethanol productivity",
+        "D": "No effect on bioethanol production",
+        "Answer": "C",
+        "Source": "We conclude that the ethanol produced from the integrated process demonstrated in this study can be used to derive fuel from hydrodeoxygenated bio-oil, while reducing lifecycle greenhouse gas emissions."
+    },
+    "Question_8": {
+        "Context": "What was the observed effect of the MEC system on inhibitor conversion in the bio-oil media?",
+        "Question": "How did the MEC system influence inhibitor conversion in the bio-oil media?",
+        "A": "No impact on inhibitor conversion",
+        "B": "Decreased inhibitor conversion",
+        "C": "Enhanced inhibitor conversion",
+        "D": "Complete inhibition of inhibitors",
+        "Answer": "C",
+        "Source": "These findings thus indicate that microbial electrolysis can promote the efficient conversion of the organic acids and furfural in bio-oil."
+    },
+    "Question_9": {
+        "Context": "What was the significance of the observed Coulomb efficiency in the MEC process?",
+        "Question": "Why is the Coulomb efficiency important in the MEC process?",
+        "A": "To measure the pH level",
+        "B": "To evaluate the current leakage",
+        "C": "To assess the efficiency of bioethanol production",
+        "D": "To monitor the temperature",
+        "Answer": "C",
+        "Source": "The Coulomb efficiency for the production of ethanol in the MEC process represents the ratio of the mass of ethanol liberated by a current to the theoretical mass, as predicted by Coulomb\u2019s law."
+    },
+    "Question_10": {
+        "Context": "What was the conclusion drawn regarding the application of the microbial electrosynthesis process for ethanol production?",
+        "Question": "What conclusion was reached regarding the use of the microbial electrosynthesis process for ethanol production?",
+        "A": "Decreased bioethanol yield",
+        "B": "Increased greenhouse gas emissions",
+        "C": "Enhanced ethanol productivity and reduced emissions",
+        "D": "No impact on ethanol production",
+        "Answer": "C",
+        "Source": "We conclude that the ethanol produced from the integrated process demonstrated in this study can be used to derive fuel from hydrodeoxygenated bio-oil, while reducing lifecycle greenhouse gas emissions."
+    }
+}

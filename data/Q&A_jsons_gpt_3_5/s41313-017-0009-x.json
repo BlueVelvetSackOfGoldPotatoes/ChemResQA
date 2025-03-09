@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the modeling of disordered cellular materials using a two-scale approach.",
+        "Question": "What is the approach used in the paper to match the macro-scale Cosserat continuum to the micro-scale beam network?",
+        "A": "Bottom-up homogenization methods",
+        "B": "Top-down reverse modeling strategies",
+        "C": "Energetically consistent continuization scheme",
+        "D": "Asymptotic methods",
+        "Answer": "C",
+        "Source": "Here we use a different approach that is based on an energetically consistent continuization scheme that uses data from the beam network model in order to determine continuous stress and strain variables..."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the limitations of classical constitutive models for cellular solids.",
+        "Question": "What is a characteristic of cellular solids that makes classical constitutive models inadequate?",
+        "A": "They have intrinsic length scales",
+        "B": "They are isotropic materials",
+        "C": "They have high density",
+        "D": "They have regular microstructures",
+        "Answer": "A",
+        "Source": "Classical constitutive models for elastic materials behavior are local and do not possess intrinsic length scales. For cellular solids the inadequacy of such models is obvious..."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the extended modeling capabilities of generalized continuum theories.",
+        "Question": "What additional degrees of freedom were introduced by Cosserat and Cosserat in their generalized continuum theory?",
+        "A": "Additional stress variables",
+        "B": "Additional rotational degrees of freedom",
+        "C": "Additional strain variables",
+        "D": "Additional elastic constants",
+        "Answer": "B",
+        "Source": "Cosserat and Cosserat (1909) enriched the classical formulation by additional independent rotational degrees of freedoms (micro-rotations) and their gradients."
+    },
+    "Question_4": {
+        "Context": "The paper discusses experimental determination of material parameters in generalized continuum theories.",
+        "Question": "Which continuum model has been the focus of experimental determination due to its simplicity?",
+        "A": "Cosserat continuum",
+        "B": "Elastic continuum",
+        "C": "Polar continuum",
+        "D": "Nonlinear continuum",
+        "Answer": "A",
+        "Source": "Experimen- tal determination of these parameters is much more difficult and error-prone compared to the classical theory, efforts have therefore focused on the Cosserat continuum as the simplest case."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the methods for scale transitions in multi-scale simulation.",
+        "Question": "What is the alternative approach to experimental parameter identification mentioned in the text?",
+        "A": "Top-down reverse modeling approaches",
+        "B": "Bottom-up homogenization methods",
+        "C": "Asymptotic methods",
+        "D": "Polynomial expansion",
+        "Answer": "B",
+        "Source": "Multi-scale simulation methods which relate a micro-scale model with full resolu- tion of the material microstructure to a generalized continuum macro-model may serve as an alternative or additional approach to experimental parameter identification. For such scale transitions typically two approaches are used. In top-down, reverse model- ing approaches..."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the generation of microstructures for cellular solids.",
+        "Question": "How are stochastic cellular microstructures represented in the paper?",
+        "A": "As regular honeycombs",
+        "B": "As lattice-like structures",
+        "C": "As ensembles of statistically equivalent samples",
+        "D": "As single realizations",
+        "Answer": "C",
+        "Source": "To model the behavior of such stochastic microstructures in a statistically meaningful manner one has to rely on ensembles of statistically equivalent samples, rather than on single realizations."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the tuning of irregularity in cellular microstructures.",
+        "Question": "How is the degree of irregularity adjusted in the creation of irregular systems?",
+        "A": "By changing the lattice constant",
+        "B": "By perturbing the position of each seed",
+        "C": "By altering the lattice structure",
+        "D": "By varying the aspect ratio",
+        "Answer": "B",
+        "Source": "Irregular systems are created by perturbing the position p of each seed by a stochastic vector \u03b4p."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the relative density of cellular systems.",
+        "Question": "What parameter is kept constant to ensure the relative density of the system remains the same?",
+        "A": "System width",
+        "B": "System height",
+        "C": "Aspect ratio",
+        "D": "Volume covered by the beams",
+        "Answer": "C",
+        "Source": "The relative density of a system is \u03c1rel = VB tWH = w WH NB \ufffd i=1 li, which is kept constant at \u03c1rel = 0.1 by proportional scaling of W and H."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the construction of beam networks for cellular microstructures.",
+        "Question": "What is the assumed cross-section shape of the Timoshenko beams in the paper?",
+        "A": "Circular",
+        "B": "Rectangular",
+        "C": "Triangular",
+        "D": "Quadratic",
+        "Answer": "D",
+        "Source": "Each Timoshenko beam is assumed to be linear elastic with Young\u2019s modulus EB = 0.1 GPa and Poisson\u2019s ratio \u03bdB = 0.3. The cross-section is quadratic: t = w = 0.05\ufffdp..."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the response of different system realizations.",
+        "Question": "How is the statistical uncertainty in the system response between different realizations mitigated in the paper?",
+        "A": "By averaging over single realizations",
+        "B": "By comparing deterministic models",
+        "C": "By estimating the scatter and averaging over a large ensemble",
+        "D": "By focusing on systematic differences",
+        "Answer": "C",
+        "Source": "To mitigate this problem, we estimate the scatter of the system response between different realizations and average over a sufficiently large ensemble, with \u2019sufficiently\u2019 defined by the condition that the statistical scatter of the ensemble-averaged response ought to be below 1% of the mean value of the response."
+    }
+}

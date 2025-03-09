@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the formation of cellular dislocation patterns during plastic deformation.",
+        "Question": "What is the relationship between the characteristic pattern wavelength and the mean dislocation spacing?",
+        "A": "The wavelength is inversely proportional to the mean dislocation spacing.",
+        "B": "The wavelength is directly proportional to the mean dislocation spacing.",
+        "C": "The wavelength is independent of the mean dislocation spacing.",
+        "D": "The wavelength is proportional to the applied stress.",
+        "Answer": "A",
+        "Source": "Such cell structures show an almost universal scaling behavior ('law of similitude') which is independent of loading conditions, material or temperature: the characteristic pattern wavelength \u03bb is proportional to the mean dislocation spacing (mds) \u03c1\u22121/2 0 where \u03c10 is the spatially averaged dislocation density."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the formation of cellular dislocation patterns during plastic deformation.",
+        "Question": "What is the primary factor determining the emergence of cellular dislocation patterns?",
+        "A": "Cross slip between dislocations.",
+        "B": "Diffusion of dislocations.",
+        "C": "Dislocation density gradient.",
+        "D": "Interaction between dislocation densities and flow stress.",
+        "Answer": "D",
+        "Source": "The only essential requirement for patterning in our model is that, for a given stress, the local dislocation flux is a decreasing function of local dislocation density."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the relationship between dislocation density and stress in the formation of cellular patterns.",
+        "Question": "What condition leads to the formation of cellular dislocation patterns?",
+        "A": "\u03c4ext < \u03b1Gb\u221a\u03c10",
+        "B": "\u03c4ext > \u03b1Gb\u221a\u03c10",
+        "C": "\u03c4ext = \u03b1Gb\u221a\u03c10",
+        "D": "\u03c4ext < 5/4\u03b1Gb\u221a\u03c10",
+        "Answer": "D",
+        "Source": "The instability condition can then be written as \u02d9\u03f5 = \u03c10b 2B \u239b \u239d\u03c4ext \u2212 \u03b1Gb \ufffd\ufffd i \u03c1i \u239e \u23a0 \u2264 \u03c13 0Gb3 \u03b1 8B."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the formation of cellular dislocation patterns during plastic deformation.",
+        "Question": "What parameter separates the regime of large fluctuations in dislocation velocity from the regime of small fluctuations?",
+        "A": "\u03c10",
+        "B": "\u02d9\u03f5",
+        "C": "Pc",
+        "D": "Gb",
+        "Answer": "C",
+        "Source": "Remarkably, a recent study by Fan et al. (2021) demonstrates that the same parameter also controls the shape of the dislocation velocity distribution and the magnitude of dislocation velocity fluctuations, separating a regime of large fluctuations (large P) from a regime of small fluctuations (small P)."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the experimental observations of dislocation patterns in LiF crystals.",
+        "Question": "What is the relationship between the pattern wavelength and the total dislocation density?",
+        "A": "The wavelength is inversely proportional to the total dislocation density.",
+        "B": "The wavelength is directly proportional to the total dislocation density.",
+        "C": "The wavelength is independent of the total dislocation density.",
+        "D": "The wavelength is proportional to the applied stress.",
+        "Answer": "B",
+        "Source": "Also the overall relationship between pattern wavelength \u03bb = \u03bbc+\u03bbw and total dislocation density \u03c10 matches well experimental data."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the formation of cellular dislocation patterns during plastic deformation.",
+        "Question": "What is the significance of the dipole formation in the dislocation walls?",
+        "A": "It stabilizes the dislocation walls by pushing dislocations against the wall.",
+        "B": "It destabilizes the dislocation walls by increasing dislocation density.",
+        "C": "It has no effect on the dislocation walls.",
+        "D": "It leads to dislocation annihilation.",
+        "Answer": "A",
+        "Source": "The walls are formed by the mutual trapping of dislocations into dipole-like configurations (friction stress). They are stabilized by two effects that mutually compensate each other: On the one hand, excess of dislocations of positive sign pushes against the wall from one side ('pile up stress')."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the formation of cellular dislocation patterns during plastic deformation.",
+        "Question": "What is the role of symmetry breaking during the early stage of deformation?",
+        "A": "It leads to dislocation annihilation.",
+        "B": "It activates both pairs of slip systems simultaneously.",
+        "C": "It causes one pair of slip systems to become inactive.",
+        "D": "It increases the dislocation density.",
+        "Answer": "C",
+        "Source": "As a consequence, during the early stage of deformation a symmetry breaking takes place where deformation is taken over by one conjugate pair of slip systems while the second pair becomes inactive."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the formation of cellular dislocation patterns during plastic deformation.",
+        "Question": "What is the expected number of dislocation lines threading each cell wall on average?",
+        "A": "About 10",
+        "B": "About 25",
+        "C": "About 50",
+        "D": "About 100",
+        "Answer": "C",
+        "Source": "With a cell size of about 15 mds, we expect on average about 50 dislocation lines threading each cell wall."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the formation of cellular dislocation patterns during plastic deformation.",
+        "Question": "How are dipoles formed in the dislocation walls?",
+        "A": "Positive and negative dislocations gather on the same side of the wall.",
+        "B": "Positive and negative dislocations gather on opposite sides of the wall.",
+        "C": "Dipoles are not formed in the dislocation walls.",
+        "D": "Dipoles are formed by dislocation annihilation.",
+        "Answer": "B",
+        "Source": "Owing to the imbalance of fluxes during wall formation, dipoles form preferentially in such a manner that positive and negative dislocations gather on the opposite sides of the wall."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the formation of cellular dislocation patterns during plastic deformation.",
+        "Question": "What is the width of the walls in the dislocation cell structures?",
+        "A": "About 5 mds",
+        "B": "About 10 mds",
+        "C": "About 15 mds",
+        "D": "About 20 mds",
+        "Answer": "A",
+        "Source": "The walls are essentially dipolar (they carry little net mis-orientation), hence, we expect about 25 positive and an equal number of negative dislocations in a wall. The walls are stabilized by two effects that mutually compensate each other: On the one hand, excess of dislocations of positive sign pushes against the wall from one side ('pile up stress')."
+    }
+}

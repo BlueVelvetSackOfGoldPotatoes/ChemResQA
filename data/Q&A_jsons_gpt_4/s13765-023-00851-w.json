@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Incorporating organic amendments into soil is a practice that can enhance soil fertility and improve soil health. Organic amendments such as food waste and biochar are known to affect soil chemical properties.",
+        "Question": "What effect does the application of food waste and biochar typically have on soil pH?",
+        "A": "Decreases soil pH significantly",
+        "B": "No effect on soil pH",
+        "C": "Increases soil pH",
+        "D": "Randomly alters soil pH",
+        "Answer": "C",
+        "Source": "However, the application of FW and biochar increased the soil pH, with the highest pH (8.2) observed in the combined treatment of biochar and MPs."
+    },
+    "Question_2": {
+        "Context": "Electrical conductivity (EC) in soil is an important measure that can be influenced by the addition of various substances, including organic amendments.",
+        "Question": "How does the application of food waste affect soil electrical conductivity (EC)?",
+        "A": "It decreases EC",
+        "B": "It increases EC",
+        "C": "It has no effect on EC",
+        "D": "It makes EC measurement impossible",
+        "Answer": "B",
+        "Source": "However, the application of FW and biochar increased the soil pH, with the highest pH (8.2) observed in the combined treatment of biochar and MPs. Despite the presence of MPs, FW application resulted in notable increases in soil electrical conductivity (EC; 2.04 dS m\u22121)"
+    },
+    "Question_3": {
+        "Context": "Available nitrogen in the form of nitrates and ammonium is essential for plant growth and can be influenced by soil amendments.",
+        "Question": "What is the effect of adding food waste on the available nitrogen content in the soil?",
+        "A": "It significantly reduces available nitrogen",
+        "B": "It does not affect available nitrogen",
+        "C": "It significantly increases available nitrogen",
+        "D": "It converts all nitrogen to gases",
+        "Answer": "C",
+        "Source": "Despite the presence of MPs, FW application resulted in notable increases in soil electrical conductivity (EC; 2.04 dS m\u22121), available nitrogen (NO3 \u2212\u2013N: 325.5 mg kg\u22121, NH4 +\u2013N: 105.2 mg kg\u22121)"
+    },
+    "Question_4": {
+        "Context": "Soil amendments can affect the activity of enzymes such as urease, which is involved in the nitrogen cycle by hydrolyzing urea into carbon dioxide and ammonia.",
+        "Question": "What impact does the application of food waste have on soil urease activity?",
+        "A": "It significantly decreases urease activity",
+        "B": "It has no significant effect on urease activity",
+        "C": "It significantly increases urease activity",
+        "D": "It completely inhibits urease activity",
+        "Answer": "B",
+        "Source": "However, the application of FW and its coexistence with MPs did not significantly affect soil urease activity."
+    },
+    "Question_5": {
+        "Context": "The application of organic amendments can influence the microbial activity in soil, as indicated by the activity of enzymes such as acid phosphatase which is involved in the phosphorus cycle.",
+        "Question": "How does the addition of food waste affect soil acid phosphatase activity?",
+        "A": "It decreases acid phosphatase activity",
+        "B": "It has no significant effect on acid phosphatase activity",
+        "C": "It increases acid phosphatase activity",
+        "D": "It completely stops acid phosphatase activity",
+        "Answer": "C",
+        "Source": "FW addition doubled acid phosphatase activity"
+    },
+    "Question_6": {
+        "Context": "Microbial diversity in soil is an important factor for soil health and can be affected by the addition of organic amendments.",
+        "Question": "What is the effect of adding food waste on soil bacterial alpha diversity?",
+        "A": "It increases alpha diversity",
+        "B": "It decreases alpha diversity",
+        "C": "It has no effect on alpha diversity",
+        "D": "It fluctuates alpha diversity randomly",
+        "Answer": "B",
+        "Source": "FW and its coexistence with MPs decreased alpha diversity."
+    },
+    "Question_7": {
+        "Context": "The relative abundance of different bacterial phyla in soil can be indicative of the soil's health and nutrient cycles, and can be influenced by soil amendments.",
+        "Question": "Which bacterial phylum increases in relative abundance with the addition of food waste to soil?",
+        "A": "Acidobacteria",
+        "B": "Actinobacteria",
+        "C": "Firmicutes",
+        "D": "Planctomycetes",
+        "Answer": "C",
+        "Source": "The highest relative abundances of Firmicutes and Proteobacteria were observed in the FW-added soils"
+    },
+    "Question_8": {
+        "Context": "Biochar is a soil amendment produced from organic materials through pyrolysis and is known to affect soil properties and microbial communities.",
+        "Question": "What is the effect of biochar addition on the relative abundance of Planctomycetes in soil?",
+        "A": "It decreases their relative abundance",
+        "B": "It increases their relative abundance",
+        "C": "It has no effect on their relative abundance",
+        "D": "It eliminates them from the soil",
+        "Answer": "B",
+        "Source": "Planctomycetes were the highest in the biochar-added soils."
+    },
+    "Question_9": {
+        "Context": "The presence of microplastics in soil can interact with organic amendments and potentially affect soil enzyme activities.",
+        "Question": "What is the combined effect of microplastics and biochar on soil fluorescein diacetate hydrolase (FDAase) enzyme activity?",
+        "A": "It increases FDAase activity",
+        "B": "It decreases FDAase activity",
+        "C": "It has no effect on FDAase activity",
+        "D": "It fluctuates FDAase activity unpredictably",
+        "Answer": "B",
+        "Source": "In soil cultivated with lettuce, the coexistence of MPs and biochar reduced soil Fluorescein diacetate hydrolase enzyme activity by 46.2%"
+    },
+    "Question_10": {
+        "Context": "Soil amendments can have an impact on the growth of plants, with certain amendments potentially inhibiting growth due to changes in soil properties.",
+        "Question": "What is the effect of food waste application on the growth of lettuce?",
+        "A": "It promotes lettuce growth",
+        "B": "It has no effect on lettuce growth",
+        "C": "It inhibits lettuce growth",
+        "D": "It kills lettuce plants",
+        "Answer": "C",
+        "Source": "FW application negatively affected lettuce growth."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Quantum cryptography uses the principles of quantum mechanics to secure communication. Quantum key distribution (QKD) is a method that allows two parties to generate a shared random secret key.",
+        "Question": "What principle of quantum mechanics ensures the security of QKD by detecting eavesdropping attempts?",
+        "A": "Quantum entanglement",
+        "B": "Heisenberg uncertainty principle",
+        "C": "Quantum superposition",
+        "D": "Quantum teleportation",
+        "Answer": "B",
+        "Source": "The Heisenberg uncertainty principle states that measuring a quantum system inevitably alters its state. Thus, any eavesdropper attempts to intercept and measure the quantum keys will introduce detectable anomalies, alerting the communicating parties to the presence of an intrusion."
+    },
+    "Question_2": {
+        "Context": "In quantum mechanics, quantum entanglement is a phenomenon where two quantum particles become linked in such a way that the state of one affects the other, no matter the distance separating them.",
+        "Question": "How is quantum entanglement used in quantum cryptography?",
+        "A": "To encrypt data using quantum algorithms",
+        "B": "To establish a secure key between two parties",
+        "C": "To detect the presence of quantum computers",
+        "D": "To increase the computational power of AI",
+        "Answer": "B",
+        "Source": "Quantum entanglement is another fundamental concept in quantum mechanics that links two quantum particles so that the state of one instantaneously affects the state of the other, regardless of the distance separating them. This property can be used to establish a secure key between two parties."
+    },
+    "Question_3": {
+        "Context": "Quantum computers pose a significant threat to current cryptographic systems due to their ability to solve certain mathematical problems much more efficiently than classical computers.",
+        "Question": "Which type of cryptographic algorithm is particularly at risk due to quantum computers?",
+        "A": "Symmetric-key algorithms",
+        "B": "Hash functions",
+        "C": "Public-key algorithms",
+        "D": "Quantum cryptographic algorithms",
+        "Answer": "C",
+        "Source": "The advent of quantum computing thus necessitates the development of new cryptographic systems that are secure against quantum attacks, often referred to as \u2018quantum-resistant\u2019 or \u2018post-quantum\u2019 cryptography."
+    },
+    "Question_4": {
+        "Context": "The development of quantum-resistant cryptographic algorithms is crucial for securing data against the potential capabilities of quantum computers.",
+        "Question": "What is the primary goal of post-quantum cryptography?",
+        "A": "To use quantum mechanics principles for encryption",
+        "B": "To enhance AI-driven cryptographic systems",
+        "C": "To develop algorithms secure against quantum attacks",
+        "D": "To replace all classical cryptographic systems",
+        "Answer": "C",
+        "Source": "The quantum threat is not just a theoretical concern but a near-future reality. The advent of quantum computing thus necessitates the development of new cryptographic systems that are secure against quantum attacks, often referred to as \u2018quantum-resistant\u2019 or \u2018post-quantum\u2019 cryptography."
+    },
+    "Question_5": {
+        "Context": "Quantum key distribution (QKD) is a secure method of communication that relies on the principles of quantum mechanics.",
+        "Question": "What does the BB84 protocol relate to in the context of quantum cryptography?",
+        "A": "A quantum computing algorithm",
+        "B": "A quantum key distribution method",
+        "C": "A post-quantum cryptographic algorithm",
+        "D": "An AI-driven cryptographic system",
+        "Answer": "B",
+        "Source": "The cornerstone of quantum cryptography is quantum key distribution (QKD), a method that enables two parties to generate a shared random secret key, which is essential for encrypting and decrypting messages in such a way that any eavesdropper\u2019s presence can be detected."
+    },
+    "Question_6": {
+        "Context": "Quantum cryptography provides a method of secure communication that is considered to be impervious to eavesdropping due to the laws of quantum mechanics.",
+        "Question": "What is the primary benefit of using quantum cryptography over traditional cryptographic methods?",
+        "A": "Faster encryption and decryption",
+        "B": "More efficient use of computational resources",
+        "C": "Communication channels impervious to eavesdropping",
+        "D": "Simpler algorithmic structure",
+        "Answer": "C",
+        "Source": "The primary benefit of quantum cryptography is its potential to provide communication channels impervious to eavesdropping. It overcomes many limitations of traditional cryptographic methods, particularly in advancing computational power, such as quantum computers."
+    },
+    "Question_7": {
+        "Context": "The Heisenberg uncertainty principle is a fundamental concept in quantum mechanics that has implications for quantum cryptography.",
+        "Question": "What does the Heisenberg uncertainty principle imply for quantum key distribution systems?",
+        "A": "Quantum keys can be distributed at unlimited distances",
+        "B": "Eavesdropping attempts on quantum keys are detectable",
+        "C": "Quantum keys can be cloned without detection",
+        "D": "Quantum keys remain stable in all environmental conditions",
+        "Answer": "B",
+        "Source": "The Heisenberg uncertainty principle states that measuring a quantum system inevitably alters its state. Thus, any eavesdropper attempts to intercept and measure the quantum keys will introduce detectable anomalies, alerting the communicating parties to the presence of an intrusion."
+    },
+    "Question_8": {
+        "Context": "Quantum entanglement is a phenomenon where a pair of quantum particles are interconnected in such a way that the state of one particle instantaneously affects the other, regardless of the distance between them.",
+        "Question": "In the context of quantum cryptography, what advantage does quantum entanglement provide?",
+        "A": "It allows for faster data transfer rates",
+        "B": "It enables the creation of quantum-resistant algorithms",
+        "C": "It facilitates the establishment of a secure communication key",
+        "D": "It increases the storage capacity of quantum keys",
+        "Answer": "C",
+        "Source": "Quantum entanglement is another fundamental concept in quantum mechanics that links two quantum particles so that the state of one instantaneously affects the state of the other, regardless of the distance separating them. This property can be used to establish a secure key between two parties."
+    },
+    "Question_9": {
+        "Context": "Quantum computers have the potential to efficiently solve problems that are currently infeasible for classical computers, posing a threat to existing cryptographic systems.",
+        "Question": "What type of problem, if solved efficiently by quantum computers, would compromise the security of RSA encryption?",
+        "A": "Elliptic curve discrete logarithm problem",
+        "B": "Factoring large prime numbers",
+        "C": "Symmetric key generation",
+        "D": "Quantum key distribution",
+        "Answer": "B",
+        "Source": "Shor\u2019s algorithm demonstrates that a quantum computer could factor large numbers exponentially faster than the best-known algorithms running on a classical computer. As a result, the encryption systems that depend on the difficulty of these problems for security would become vulnerable once sufficiently powerful quantum computers are developed."
+    },
+    "Question_10": {
+        "Context": "Quantum cryptography's security is deeply rooted in the principles of quantum mechanics, which differ significantly from classical physics.",
+        "Question": "Which principle of quantum mechanics is leveraged in quantum cryptography to ensure that any attempt at eavesdropping will alter the state of the quantum system being monitored?",
+        "A": "Quantum decoherence",
+        "B": "Quantum superposition",
+        "C": "Heisenberg uncertainty principle",
+        "D": "Quantum tunneling",
+        "Answer": "C",
+        "Source": "The Heisenberg uncertainty principle states that measuring a quantum system inevitably alters its state. Thus, any eavesdropper attempts to intercept and measure the quantum keys will introduce detectable anomalies, alerting the communicating parties to the presence of an intrusion."
+    }
+}

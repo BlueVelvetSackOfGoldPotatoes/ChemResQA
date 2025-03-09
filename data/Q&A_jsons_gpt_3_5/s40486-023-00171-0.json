@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Gas sensors play a crucial role in detecting pollutants. The study focuses on improving the recovery rate of NO2 sensors using heterojunctions.",
+        "Question": "What is the purpose of forming heterojunctions between transition metal dichalcogenide nanosheets and ZnO nanoparticles?",
+        "A": "To decrease the sensitivity of the sensor",
+        "B": "To increase the operating temperature of the sensor",
+        "C": "To improve the recovery rate of the sensor",
+        "D": "To reduce the sensing response of the sensor",
+        "Answer": "C",
+        "Source": "Herein, heterojunctions were formed between the two-dimensional transition metal dichalcogenide nanosheets and zero-dimensional ZnO nanoparticles to improve the recovery rate of a NO2 sensor."
+    },
+    "Question_2": {
+        "Context": "The study discusses the advantages of using metal oxide-based gas sensors.",
+        "Question": "What advantages do metal oxide-based gas sensors offer?",
+        "A": "Rapid response and high sensitivity",
+        "B": "Complex synthesis process and high toxicity",
+        "C": "Low sensitivity and slow response",
+        "D": "High operating temperatures and difficult synthesis",
+        "Answer": "A",
+        "Source": "Gas sensors based on TMDC, such as MoS2, WS2, and WSe2, can detect NO2 and NH3 gases at room temperature owing to their distinctive layered structures, unique photoelectric and charge transfer properties, air stability, and presence of abundant active sites."
+    },
+    "Question_3": {
+        "Context": "The study mentions the challenges associated with TMDC-based gas sensors.",
+        "Question": "What are the major limitations of TMDC-based NO2 gas sensors?",
+        "A": "High sensitivity and fast response",
+        "B": "Low sensitivity, slow response, and poor recovery",
+        "C": "Rapid recovery and low detection limit",
+        "D": "Stable recovery and high detection limit",
+        "Answer": "B",
+        "Source": "Low sensitivity, slow response, and poor recovery are the major limitations associated with TMDC-based NO2 gas sensors."
+    },
+    "Question_4": {
+        "Context": "The study explains the impact of forming heterojunctions on sensor recovery rates.",
+        "Question": "How did the recovery rates of MoS2/ZnO and WSe2/ZnO sensors improve compared to MoS2 and WSe2 sensors?",
+        "A": "By 1-5%",
+        "B": "By 6-10%",
+        "C": "By 11-15%",
+        "D": "By 16-20%",
+        "Answer": "D",
+        "Source": "Compared with MoS2 and WSe2, the recovery rates of MoS2/ZnO and WSe2/ZnO sensors improved by ~ 5.72\u201311.87% and ~ 8.10\u201319.44%, respectively."
+    },
+    "Question_5": {
+        "Context": "The study discusses the role of ZnO nanoparticles in reducing signal drift.",
+        "Question": "How do ZnO nanoparticles affect the signal drift of TMDC-based sensors?",
+        "A": "Increase the signal drift",
+        "B": "Have no impact on signal drift",
+        "C": "Significantly reduce the signal drift",
+        "D": "Cause the signal drift to fluctuate",
+        "Answer": "C",
+        "Source": "Furthermore, the addition of ZnO nanoparticles significantly reduces the signal drift of the TMDC-based sensor."
+    },
+    "Question_6": {
+        "Context": "The study explains the mechanism behind the improved recovery rate of TMDC/ZnO-based gas sensors.",
+        "Question": "What leads to the formation of a depletion layer on the ZnO surface in the heterojunction?",
+        "A": "Diffusion of holes into ZnO",
+        "B": "Diffusion of electrons into TMDC",
+        "C": "Equilibrium of Fermi levels",
+        "D": "Presence of NO2 molecules",
+        "Answer": "B",
+        "Source": "The electrons of ZnO near the ZnO/TMDC interface tend to diffuse into TMDC, whereas the holes in TMDC tend to diffuse into ZnO before the Fermi levels of the p-type TMDC and n-type ZnO reach equilibrium."
+    },
+    "Question_7": {
+        "Context": "The study highlights the impact of NO2 gas on the conductivity of the sensor.",
+        "Question": "What happens to the sensor conductivity when exposed to NO2 gas?",
+        "A": "Conductivity increases",
+        "B": "Conductivity remains unchanged",
+        "C": "Conductivity decreases initially and then increases",
+        "D": "Conductivity decreases continuously",
+        "Answer": "C",
+        "Source": "When the sensor is exposed to NO2 gas, the NO2 molecules first capture electrons from ZnO with large adsorption energy and increase the width of the built-in electric field, resulting in a decrease in the sensor conductivity at the initial stage of NO2 gas influx."
+    },
+    "Question_8": {
+        "Context": "The study discusses the impact of incomplete desorption of NO2 molecules on sensor recovery rates.",
+        "Question": "How does incomplete desorption of NO2 molecules affect the recovery rate of TMDC/ZnO-based gas sensors?",
+        "A": "It has no effect on the recovery rate",
+        "B": "It decreases the recovery rate",
+        "C": "It improves the recovery rate",
+        "D": "It fluctuates the recovery rate",
+        "Answer": "C",
+        "Source": "This significantly improves the recovery rate of TMDC/ZnO-based gas sensors."
+    },
+    "Question_9": {
+        "Context": "The study concludes by emphasizing the contribution of heterojunctions to gas sensor performance.",
+        "Question": "What is the expected contribution of the study to the development of NO2 gas sensors?",
+        "A": "No significant impact",
+        "B": "Decrease in sensor performance",
+        "C": "Improvement in sensor performance",
+        "D": "Inconsistency in sensor performance",
+        "Answer": "C",
+        "Source": "This study is expected to contribute to the development of high-performance NO2 gas sensors."
+    },
+    "Question_10": {
+        "Context": "The study acknowledges the funding support received for the research.",
+        "Question": "What was the source of funding for the research mentioned in the paper?",
+        "A": "National Institute of Health (NIH)",
+        "B": "National Science Foundation (NSF)",
+        "C": "Ministry of Science, ICT, and Future Planning",
+        "D": "Department of Energy (DOE)",
+        "Answer": "C",
+        "Source": "This research was supported by the Basic Science Research Program of the National Research Foundation of Korea (NRF), funded by the Ministry of Science, ICT, and Future Planning (2022R1A2C4001577)."
+    }
+}

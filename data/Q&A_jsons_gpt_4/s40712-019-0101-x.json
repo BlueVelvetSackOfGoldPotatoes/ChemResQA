@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "High-pressure vessels are containers designed to hold gases or liquids at a pressure substantially different from the ambient pressure. They have various shapes and are used in multiple industries.",
+        "Question": "What shapes are commonly used for high-pressure vessels?",
+        "A": "Cylindrical, conical, ellipsoidal, and spherical",
+        "B": "Square, rectangular, hexagonal, and octagonal",
+        "C": "Triangular, pentagonal, heptagonal, and nonagonal",
+        "D": "Cubical, tetrahedral, pyramidal, and circular",
+        "Answer": "A",
+        "Source": "High-pressure vessels are air-tight containers, mostly cylindrically, conically, ellipsoidally, or spherically shaped, that are used to store a large amount of energy."
+    },
+    "Question_2": {
+        "Context": "In the context of high-pressure vessels, the term 'thick-walled' is used to describe vessels with a certain ratio of wall thickness to internal radius.",
+        "Question": "What is the minimum ratio of thickness to internal radius for a high-pressure vessel to be considered thick-walled?",
+        "A": "0.5",
+        "B": "1.0",
+        "C": "1.20",
+        "D": "2.0",
+        "Answer": "C",
+        "Source": "They are termed as thick walled when their ratio of thickness and internal radius exceeds 1.20."
+    },
+    "Question_3": {
+        "Context": "The design of high-pressure vessels takes into account various factors to prevent failure modes. One such factor is the stress concentration that can occur due to discontinuities.",
+        "Question": "What are the discontinuities in a high-pressure vessel that can lead to stress concentrations?",
+        "A": "Geometric, loading, and metallurgical",
+        "B": "Chemical, biological, and physical",
+        "C": "Thermal, electrical, and magnetic",
+        "D": "Hydraulic, pneumatic, and optical",
+        "Answer": "A",
+        "Source": "However, due to the discontinuities in the cylinder, the stress distribution along the cylinder wall is not uniform. These discontinuities such as geometric, loading, and metallurgical create regions of high stress that are referred to as stress concentrations."
+    },
+    "Question_4": {
+        "Context": "Stress concentration factors (SCF) are dimensionless factors used to calculate stress concentrations due to various types of stresses in high-pressure vessels.",
+        "Question": "What types of stress concentration factors are calculated for high-pressure vessels?",
+        "A": "Static, dynamic, and thermal",
+        "B": "Chemical, biological, and physical",
+        "C": "Electrical, magnetic, and gravitational",
+        "D": "Hydraulic, pneumatic, and optical",
+        "Answer": "A",
+        "Source": "The stress concentrations due to static, dynamic, and thermal stresses are calculated using dimensionless factors called the stress concentration factor (SCF), dynamic stress concentration factor (DSCF), and the thermal stress concentration factor (TSCF), respectively."
+    },
+    "Question_5": {
+        "Context": "The failure of high-pressure vessels can have severe consequences, and thus, their design and manufacture are regulated by standard codes.",
+        "Question": "What can be the consequences of pressure vessel failures?",
+        "A": "Loss of life, damage of property, or health hazard",
+        "B": "Decreased production efficiency",
+        "C": "Increased operational costs",
+        "D": "All of the above",
+        "Answer": "A",
+        "Source": "Failures of the pressure vessel are usually catastrophic and may lead to loss of life, damage of property, or pose a health hazard."
+    },
+    "Question_6": {
+        "Context": "In the manufacturing of high-pressure vessels, certain processes are performed to increase the strength of the vessels.",
+        "Question": "Which processes are performed at the manufacturing stage of pressure vessels to increase their strength?",
+        "A": "Autofrettage and shakedown",
+        "B": "Annealing and tempering",
+        "C": "Hardening and quenching",
+        "D": "Galvanizing and bluing",
+        "Answer": "A",
+        "Source": "Other processes such as autofrettage and shakedown are also performed at the manufacturing stage of pressure vessels to increase their strength."
+    },
+    "Question_7": {
+        "Context": "Cross bores in high-pressure vessels are inevitable due to their functional requirements, but they introduce geometric discontinuities.",
+        "Question": "What is the purpose of cross bores in high-pressure vessels?",
+        "A": "For aesthetic purposes",
+        "B": "To reduce the overall weight of the vessel",
+        "C": "To provide for fittings like relief and safety valves",
+        "D": "To increase the internal volume of the vessel",
+        "Answer": "C",
+        "Source": "Cross bores give provision for fitting relief and safety valves, bursting disks, gas inlets, flow circuit meter, temperature and internal pressure measurement, inspection covers, lubrication, etc."
+    },
+    "Question_8": {
+        "Context": "Cross bore size in high-pressure vessels is a critical parameter that affects stress concentration factors.",
+        "Question": "How does the size of a cross bore affect the stress concentration factor in a high-pressure vessel?",
+        "A": "SCF decreases as cross bore size increases",
+        "B": "SCF increases as cross bore size increases",
+        "C": "SCF remains constant regardless of cross bore size",
+        "D": "SCF is inversely proportional to the square of the cross bore size",
+        "Answer": "B",
+        "Source": "The results showed an increase in SCFs as the ratio of cross bore to main cylinder bore increases."
+    },
+    "Question_9": {
+        "Context": "The shape of cross bores in high-pressure vessels can be optimized to reduce stress concentration factors.",
+        "Question": "Which cross bore shape has been found to reduce stress concentration factors when compared to circular cross bores?",
+        "A": "Square",
+        "B": "Elliptical",
+        "C": "Triangular",
+        "D": "Hexagonal",
+        "Answer": "B",
+        "Source": "The common cross bore shapes are circular and elliptical. According to Steele et al. (1986), a circular cross bore is termed as small when the ratio of the cross bore to main bore diameter is \u2264 0.5."
+    },
+    "Question_10": {
+        "Context": "The location of cross bores in high-pressure vessels is a design parameter that can influence stress concentration factors.",
+        "Question": "What is the effect of offsetting a cross bore from the radial line in a high-pressure vessel?",
+        "A": "It increases the stress concentration factor",
+        "B": "It has no effect on the stress concentration factor",
+        "C": "It decreases the stress concentration factor",
+        "D": "It changes the stress concentration factor unpredictably",
+        "Answer": "C",
+        "Source": "Offsetting a circular cross bore by an appropriate distance from radial line was found to reduce SCFs, while improving fatigue life by 170%."
+    }
+}

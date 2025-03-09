@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Iron oxide minerals complexed with humic substances can serve as a source of bioavailable iron for plants. These complexes can release metal ligands and provide iron-humic complexes that are directly usable by plant iron-uptake mechanisms.",
+        "Question": "What role do iron oxide mineral-humic complexes play in plant nutrition?",
+        "A": "They inhibit the uptake of iron by plants",
+        "B": "They serve as a reservoir of bioavailable iron for plants",
+        "C": "They prevent the formation of iron-humic complexes",
+        "D": "They increase the pH of the soil, making iron less available",
+        "Answer": "B",
+        "Source": "Iron oxide mineral\u2013humic complexes serve as a reservoir of bioavailable Fe for plants, releasing metal ligands and providing Fe\u2013humic complexes directly usable by plant Fe-uptake mechanisms."
+    },
+    "Question_2": {
+        "Context": "Goethite, an iron hydroxide mineral, is known for its stability and is commonly found in soils and sediments. It can transform from other iron hydroxides over time and is influenced by environmental pH.",
+        "Question": "Which iron hydroxide is known for being the most thermodynamically stable and prevalent in soils and sediments?",
+        "A": "Ferrihydrite",
+        "B": "Feroxyhyte",
+        "C": "Lepidocrocite",
+        "D": "Goethite",
+        "Answer": "D",
+        "Source": "Among these iron hydroxides, ferrihydrite 5Fe2O3\u22199H2O, feroxyhyte \u03b4-FeOOH, lepidocrocite \u03b3-FeOOH, and goethite \u03b1-FeOOH exhibit varying thermodynamic stabilities. Goethite stands out as the most thermodynamically stable hydroxide making it a prevalent mineral in soils and sediments."
+    },
+    "Question_3": {
+        "Context": "In the soil environment, the concentration of dissolved iron is crucial for plant growth. Iron is typically found in various hydroxocomplex forms depending on the soil pH.",
+        "Question": "At what concentration range is dissolved iron typically required for normal plant growth?",
+        "A": "10\u201310 to 10\u20139 M",
+        "B": "10\u20138 to 10\u20137 M",
+        "C": "10\u20136 to 10\u20135 M",
+        "D": "10\u20134 to 10\u20133 M",
+        "Answer": "C",
+        "Source": "However, for normal plant growth, the concentration of dissolved iron should be several orders of magnitude higher, ranging from 10\u20136 to 10\u20135 M."
+    },
+    "Question_4": {
+        "Context": "Iron deficiency in plants can lead to a disease known as iron deficiency chlorosis. To combat this, iron chelates with synthetic organic chelators are sometimes used, but they have environmental drawbacks.",
+        "Question": "What is the plant disease called that is caused by iron deficiency?",
+        "A": "Iron surplus syndrome",
+        "B": "Chlorophyll abundance disorder",
+        "C": "Iron deficiency chlorosis",
+        "D": "Mineral imbalance wilt",
+        "Answer": "C",
+        "Source": "Iron deficiency causes a plant disease known as iron deficiency chlorosis."
+    },
+    "Question_5": {
+        "Context": "Humic substances (HS) are known for their ability to form stable complexes with metal ions. These complexes can be beneficial in agriculture as they can be used to alleviate iron deficiency in plants.",
+        "Question": "What is one of the important biospheric functions of humic substances (HS)?",
+        "A": "Decreasing the pH of soil",
+        "B": "Forming stable complexes with metal ions",
+        "C": "Inhibiting the growth of plant roots",
+        "D": "Blocking the absorption of microelements by plants",
+        "Answer": "B",
+        "Source": "HS show the ability to form stable complexes with metal ions and to stabilize soil colloids containing oxide nanoparticles."
+    },
+    "Question_6": {
+        "Context": "The bioavailability of iron for plant uptake can be influenced by the form in which iron is present. Iron-humic complexes have been shown to be a readily absorbable iron source for plants.",
+        "Question": "Which form of iron is readily absorbable by plant roots according to research findings?",
+        "A": "Iron-humic complexes",
+        "B": "Iron oxide nanoparticles",
+        "C": "Insoluble iron hydroxides",
+        "D": "Free iron cations in soil",
+        "Answer": "A",
+        "Source": "The findings indicated that iron\u2013humic complexes serve as a readily absorbable iron source for plants, facilitated by easy uptake by plant roots."
+    },
+    "Question_7": {
+        "Context": "The size and surface charge of nanoparticles can influence their potential for uptake by plants. These properties can affect the bioactivity of the nanoparticles when used in agricultural applications.",
+        "Question": "What properties of nanoparticles make them potential candidates for plant uptake?",
+        "A": "Color and solubility",
+        "B": "Size and surface charge",
+        "C": "Shape and density",
+        "D": "Temperature stability and weight",
+        "Answer": "B",
+        "Source": "The size and surface charge of NPs make them potential candidates for plant uptake."
+    },
+    "Question_8": {
+        "Context": "The process of intercalating goethite nanoparticles into a coal matrix can enhance the adsorption capacity of humic acids, which is beneficial for the slow release of nutrients.",
+        "Question": "What effect does the intercalation of goethite into a coal matrix have on the specific surface area of the resulting material?",
+        "A": "Decreases the specific surface area",
+        "B": "Has no effect on the specific surface area",
+        "C": "Increases the specific surface area",
+        "D": "Makes the specific surface area inconsistent",
+        "Answer": "C",
+        "Source": "The intercalation of G into the coal matrix increased the specific surface area of GC, enhancing its HA sorption capacity."
+    },
+    "Question_9": {
+        "Context": "The release of iron ions from iron-humic complexes can be a time-dependent process. This sustained release is important for the development of iron nanofertilizers.",
+        "Question": "How does the release of iron ions from iron-humic complexes typically occur over time?",
+        "A": "Instantaneous release followed by rapid depletion",
+        "B": "Consistent and time-dependent release",
+        "C": "Decreasing release with no time dependence",
+        "D": "Variable release with immediate cessation",
+        "Answer": "B",
+        "Source": "In contrast to GC, GC\u2013HA exhibited a more consistent and time-dependent release of Fe3+ and Fe2+."
+    },
+    "Question_10": {
+        "Context": "The zeta potential of nanoparticles can provide information about their surface charge, which influences their stability in suspension and their interaction with other substances.",
+        "Question": "What does the zeta potential of nanoparticles indicate?",
+        "A": "The pH level of the nanoparticle solution",
+        "B": "The thermal stability of the nanoparticles",
+        "C": "The surface charge of the nanoparticles",
+        "D": "The magnetic properties of the nanoparticles",
+        "Answer": "C",
+        "Source": "The zeta potential of the nanoparticles was determined using electrophoretic light scattering with a NanoBrook Omni particle analyzer."
+    }
+}

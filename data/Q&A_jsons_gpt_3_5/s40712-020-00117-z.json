@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on investigating the effect of alumina powder on electrical discharge machining parameters of aluminum composite A413-Al2O3. The researchers used the Taguchi method and analyzed the total normalized quality loss (TNQL) and signal-to-noise ratio (S/N) of outputs.",
+        "Question": "What is the most influential parameter on the material removal rate?",
+        "A": "Voltage",
+        "B": "Current intensity",
+        "C": "Pulse-on time",
+        "D": "Pulse-off time",
+        "Answer": "B",
+        "Source": "The study concludes that the current intensity has the greatest impact on the material removal rate, such that when it increases, the material removal rate will increase as well."
+    },
+    "Question_2": {
+        "Context": "The research analyzed the effects of input parameters on the surface roughness during the electrical discharge machining process. The study highlighted the impact of current intensity, pulse-on time, pulse-off time, and voltage on the surface roughness.",
+        "Question": "Which parameter has the biggest effect on surface roughness?",
+        "A": "Voltage",
+        "B": "Current intensity",
+        "C": "Pulse-on time",
+        "D": "Pulse-off time",
+        "Answer": "B",
+        "Source": "The current intensity was identified as having the biggest slope and thus the largest effect on surface roughness."
+    },
+    "Question_3": {
+        "Context": "The study examined the influence of input parameters on the tool wear ratio during the electrical discharge machining process. It discussed the impact of pulse-on time, current intensity, voltage, and pulse-off time on the tool wear ratio.",
+        "Question": "Which parameter has the greatest impact on the tool wear ratio?",
+        "A": "Voltage",
+        "B": "Current intensity",
+        "C": "Pulse-on time",
+        "D": "Pulse-off time",
+        "Answer": "C",
+        "Source": "The graph of the pulse-on time showed the largest slope, indicating the greatest impact on the tool wear ratio."
+    },
+    "Question_4": {
+        "Context": "The study compared the material removal rate in cases with and without alumina powder in the dielectric during electrical discharge machining. It found that the material removal rate decreased when alumina powder was added to the dielectric.",
+        "Question": "How does the material removal rate change with the addition of alumina powder in the dielectric?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains the same",
+        "D": "Fluctuates",
+        "Answer": "B",
+        "Source": "The study observed that the material removal rate declines by adding 3 g/L aluminum oxide powder in the kerosene dielectric."
+    },
+    "Question_5": {
+        "Context": "The research analyzed the impact of input parameters on the surface roughness in the presence of alumina powder in the dielectric during electrical discharge machining. It discussed the effects of current intensity, voltage, pulse-on time, and pulse-off time on surface roughness.",
+        "Question": "How does the surface roughness change with the addition of alumina powder in the dielectric?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains the same",
+        "D": "Fluctuates",
+        "Answer": "B",
+        "Source": "The study noted that the surface roughness decreases by adding 3 g/L aluminum oxide powder in the kerosene dielectric."
+    },
+    "Question_6": {
+        "Context": "The study examined the tool wear rate in cases with and without alumina powder in the dielectric during electrical discharge machining. It found that the tool wear rate decreased when alumina powder was present in the dielectric.",
+        "Question": "How does the tool wear rate change with the addition of alumina powder in the dielectric?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains the same",
+        "D": "Fluctuates",
+        "Answer": "B",
+        "Source": "The study observed that the tool wear rate of the electrode diminishes by adding 3 g/L aluminum oxide powder in the kerosene dielectric."
+    },
+    "Question_7": {
+        "Context": "The research focused on the simultaneous analysis of the total normalized quality loss and signal-to-noise ratio of outputs to examine the influence of input parameters on influential parameters during electrical discharge machining. It weighted the material removal rate, surface roughness, and tool wear rate differently.",
+        "Question": "Which output parameter was considered to have the highest weight in the analysis?",
+        "A": "Material removal rate",
+        "B": "Surface roughness",
+        "C": "Tool wear rate",
+        "D": "All were weighted equally",
+        "Answer": "A",
+        "Source": "The study mentioned that the weight ratio of the material removal rate was 0.5, indicating it was considered to have the highest weight in the analysis."
+    },
+    "Question_8": {
+        "Context": "The study utilized the Taguchi method to investigate the influential parameters of electrical discharge machining on an aluminum composite. It calculated the average MSNR value for each input parameter at different levels to determine the optimal values.",
+        "Question": "What was the final outcome for the input parameters in the analysis?",
+        "A": "First level of voltage (A1), first level of current intensity (B1), first level of pulse-on time (C1), and third level of pulse-off time (D3)",
+        "B": "Second level of voltage (A2), second level of current intensity (B2), second level of pulse-on time (C2), and third level of pulse-off time (D3)",
+        "C": "First level of voltage (A1), second level of current intensity (B2), first level of pulse-on time (C1), and third level of pulse-off time (D3)",
+        "D": "Second level of voltage (A2), first level of current intensity (B1), second level of pulse-on time (C2), and third level of pulse-off time (D3)",
+        "Answer": "A",
+        "Source": "According to the average of MSNR values for each input parameter at different levels, the final outcome of the analysis was presented as the first level of voltage (A1), the first level of current intensity (B1), the first level of pulse-on time (C1), and the third level of pulse-off time (D3)."
+    },
+    "Question_9": {
+        "Context": "The study compared the material removal rate in cases with and without alumina powder in the dielectric during electrical discharge machining. It found that the material removal rate decreased when alumina powder was added to the dielectric.",
+        "Question": "What was the reason for the decrease in material removal rate when alumina powder was added to the dielectric?",
+        "A": "Increased sparking energy",
+        "B": "Reduction in energy of the spark",
+        "C": "Enhanced plasma channel density",
+        "D": "Decreased workpiece temperature",
+        "Answer": "B",
+        "Source": "The study observed that the material removal rate declines by adding 3 g/L aluminum oxide powder in the kerosene dielectric, which in turn causes a reduction in the surface roughness and the tool wear rate compared to the case of the kerosene dielectric without powder."
+    },
+    "Question_10": {
+        "Context": "The research analyzed the impact of input parameters on the tool wear ratio during the electrical discharge machining process. It discussed the influence of pulse-on time, current intensity, voltage, and pulse-off time on the tool wear ratio.",
+        "Question": "What happens to the tool wear rate with an increase in the pulse-on time?",
+        "A": "Increases initially and then decreases",
+        "B": "Decreases initially and then increases",
+        "C": "Increases continuously",
+        "D": "Decreases continuously",
+        "Answer": "A",
+        "Source": "By an increase in the pulse-on time up to 50 \u03bcs, the wear of the tool is significant; however, after that, the tool wear decreases swiftly."
+    }
+}

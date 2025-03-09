@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on using a three-layer neural network to calculate the callus differentiation rate of gesho based on four culture conditions.",
+        "Question": "What was one of the culture conditions used to calculate the callus differentiation rate of gesho?",
+        "A": "Concentration of sucrose",
+        "B": "Duration of darkness exposure",
+        "C": "Level of CO2 in the environment",
+        "D": "Relative humidity",
+        "Answer": "D",
+        "Source": "Four culture conditions viz., concentration of agar, duration of light exposure, temperature of culture, and relative humidity were used to calculate the callus differentiation rate of gesho."
+    },
+    "Question_2": {
+        "Context": "The study utilized a genetic algorithm for global optimization. What was the foundational idea behind the genetic algorithm?",
+        "Question": "What is the foundational idea behind a genetic algorithm?",
+        "A": "Randomly generating chromosomes",
+        "B": "Selecting parent solutions based on fitness value",
+        "C": "Creating new generations through mutation",
+        "D": "Optimizing discontinuous fitness functions",
+        "Answer": "B",
+        "Source": "The three genetic operators of crossover, mutation, and selection were used to create new generations. Using the process of selection, chromosomes with the highest fitness values were selected as breeding parents."
+    },
+    "Question_3": {
+        "Context": "The study involved the preparation of explants for callus induction. What was used to avoid fungal contamination during the explant preparation process?",
+        "Question": "What was used to avoid fungal contamination during the explant preparation process?",
+        "A": "Teepol",
+        "B": "Bavistin",
+        "C": "Mercuric chloride",
+        "D": "NaOCl",
+        "Answer": "D",
+        "Source": "The explants were prepared into an appropriate size and washed with diluted Teepol, rinsed with water, treated with 0.01 percent bavistin, and underwent surface sterilization with 0.8% w/v NaOCl."
+    },
+    "Question_4": {
+        "Context": "The study employed a three-layer neural network for modelling. What was the transfer function used in the modelling of the reliance of differentiation on independent variables?",
+        "Question": "What transfer function was used in the modelling of the reliance of differentiation on independent variables?",
+        "A": "Sigmoid",
+        "B": "ReLU",
+        "C": "Tanh",
+        "D": "Tansig",
+        "Answer": "D",
+        "Source": "The modelling the reliance of differentiation on independent variables was done using the 'Tansig' transfer function."
+    },
+    "Question_5": {
+        "Context": "The study aimed to optimize the rate of differentiation through Response Surface Methodology (RSM). What does RSM stand for?",
+        "Question": "What does RSM stand for in the context of the study?",
+        "A": "Random Sampling Method",
+        "B": "Regression Surface Modelling",
+        "C": "Response Surface Methodology",
+        "D": "Relative Statistical Measurement",
+        "Answer": "C",
+        "Source": "The effect of four independent process parameters on differentiation was analyzed using a Centre Composite design (CCD). Design-Expert\u00ae software was used for generating CCD combinations, RSM modelling, and statistical optimization."
+    },
+    "Question_6": {
+        "Context": "The study involved the preparation of explants for callus induction. What was used to avoid fungal contamination during the explant preparation process?",
+        "Question": "What was used to avoid fungal contamination during the explant preparation process?",
+        "A": "Teepol",
+        "B": "Bavistin",
+        "C": "Mercuric chloride",
+        "D": "NaOCl",
+        "Answer": "D",
+        "Source": "The explants were prepared into an appropriate size and washed with diluted Teepol, rinsed with water, treated with 0.01 percent bavistin, and underwent surface sterilization with 0.8% w/v NaOCl."
+    },
+    "Question_7": {
+        "Context": "The study employed a genetic algorithm for global optimization. What was the foundational idea behind the genetic algorithm?",
+        "Question": "What is the foundational idea behind a genetic algorithm?",
+        "A": "Randomly generating chromosomes",
+        "B": "Selecting parent solutions based on fitness value",
+        "C": "Creating new generations through mutation",
+        "D": "Optimizing discontinuous fitness functions",
+        "Answer": "B",
+        "Source": "The three genetic operators of crossover, mutation, and selection were used to create new generations. Using the process of selection, chromosomes with the highest fitness values were selected as breeding parents."
+    },
+    "Question_8": {
+        "Context": "The study aimed to optimize the rate of differentiation through Response Surface Methodology (RSM). What does RSM stand for?",
+        "Question": "What does RSM stand for in the context of the study?",
+        "A": "Random Sampling Method",
+        "B": "Regression Surface Modelling",
+        "C": "Response Surface Methodology",
+        "D": "Relative Statistical Measurement",
+        "Answer": "C",
+        "Source": "The effect of four independent process parameters on differentiation was analyzed using a Centre Composite design (CCD). Design-Expert\u00ae software was used for generating CCD combinations, RSM modelling, and statistical optimization."
+    },
+    "Question_9": {
+        "Context": "The study utilized a three-layer neural network for modelling. What was the transfer function used in the modelling of the reliance of differentiation on independent variables?",
+        "Question": "What transfer function was used in the modelling of the reliance of differentiation on independent variables?",
+        "A": "Sigmoid",
+        "B": "ReLU",
+        "C": "Tanh",
+        "D": "Tansig",
+        "Answer": "D",
+        "Source": "The modelling the reliance of differentiation on independent variables was done using the 'Tansig' transfer function."
+    },
+    "Question_10": {
+        "Context": "The study focused on using a three-layer neural network to calculate the callus differentiation rate of gesho based on four culture conditions.",
+        "Question": "What was one of the culture conditions used to calculate the callus differentiation rate of gesho?",
+        "A": "Concentration of sucrose",
+        "B": "Duration of darkness exposure",
+        "C": "Level of CO2 in the environment",
+        "D": "Relative humidity",
+        "Answer": "D",
+        "Source": "Four culture conditions viz., concentration of agar, duration of light exposure, temperature of culture, and relative humidity were used to calculate the callus differentiation rate of gesho."
+    }
+}

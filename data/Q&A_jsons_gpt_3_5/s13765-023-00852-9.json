@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Non-thermal plasma (NTP) technologies have been applied in various fields, including plant growth. The study aimed to identify optimal conditions for enhancing rice seed germination and seedling growth under low temperatures using NTP technology.",
+        "Question": "What is the optimal NTP treatment for promoting rice seed germination and growth under low-temperature stress?",
+        "A": "10.0 kV for 20 s",
+        "B": "13.9 kV for 30 s",
+        "C": "15.0 kV for 30 s",
+        "D": "19.7 kV for 40 s",
+        "Answer": "C",
+        "Source": "Our research indicated that NTP treatment at 15.0 kV for 30 s optimally promotes rice seed germination and growth under low-temperature stress."
+    },
+    "Question_2": {
+        "Context": "NTP treatment increases the activity and expression of antioxidant enzymes under low-temperature conditions.",
+        "Question": "Which enzyme's activity is increased by NTP treatment in roots under low-temperature conditions?",
+        "A": "Catalase (CAT)",
+        "B": "Superoxide dismutase (SOD)",
+        "C": "Peroxidase (POD)",
+        "D": "AOX1B",
+        "Answer": "A",
+        "Source": "NTP treatment increases root SOD and CAT activities but did not affect leaf SOD and CAT activities."
+    },
+    "Question_3": {
+        "Context": "NTP treatment alters the expression of specific genes related to seed growth and root development.",
+        "Question": "Which gene's expression is downregulated by NTP treatment in rice roots?",
+        "A": "AOX1B",
+        "B": "BRXL2",
+        "C": "KASI",
+        "D": "NCED3",
+        "Answer": "D",
+        "Source": "The expression levels of the fatty acid synthesis inhibitor gene \u03b2-ketoacyl-[acyl carrier protein] synthase I (KASI) in the treatment group were lower than those in the control."
+    },
+    "Question_4": {
+        "Context": "NTP treatment enhances seed germination and root development in rice under cold stress.",
+        "Question": "Which gene's expression is upregulated by NTP treatment in rice roots?",
+        "A": "KASI",
+        "B": "NCED3",
+        "C": "BRXL2",
+        "D": "EREBP2",
+        "Answer": "D",
+        "Source": "The expression levels of EREBP transcription factor 2 (EREBP2) in the treatment group were higher than those in the control."
+    },
+    "Question_5": {
+        "Context": "NTP treatment increases root soluble protein levels and antioxidant enzyme activities.",
+        "Question": "Which enzyme's activity is increased by NTP treatment in roots under low-temperature conditions?",
+        "A": "Peroxidase (POD)",
+        "B": "Superoxide dismutase (SOD)",
+        "C": "Catalase (CAT)",
+        "D": "AOX1B",
+        "Answer": "C",
+        "Source": "NTP treatment increased root SOD and CAT activities but did not affect leaf SOD and CAT activities."
+    },
+    "Question_6": {
+        "Context": "NTP treatment accelerates rice seed germination.",
+        "Question": "What is the effect of NTP treatment on the germination rate of rice seeds under low-temperature conditions?",
+        "A": "Decreases germination rate",
+        "B": "No effect on germination rate",
+        "C": "Increases germination rate",
+        "D": "Stops germination",
+        "Answer": "C",
+        "Source": "Analysis of the germination rate data revealed that NTP treatment at 15.0 kV for 30 s significantly increased rice seed germination in the early stages."
+    },
+    "Question_7": {
+        "Context": "NTP treatment promotes rice seedling growth in the soil.",
+        "Question": "What effect does NTP treatment have on plant height in rice seedlings grown in the soil?",
+        "A": "Decreases plant height",
+        "B": "No effect on plant height",
+        "C": "Increases plant height",
+        "D": "Stops plant growth",
+        "Answer": "B",
+        "Source": "No significant differences were observed among the groups in terms of plant height."
+    },
+    "Question_8": {
+        "Context": "NTP treatment enhances seed germination and root development in rice under cold stress.",
+        "Question": "Which gene's expression is downregulated by NTP treatment in rice roots?",
+        "A": "BRXL2",
+        "B": "KASI",
+        "C": "NCED3",
+        "D": "EREBP2",
+        "Answer": "B",
+        "Source": "The expression levels of the fatty acid synthesis inhibitor gene \u03b2-ketoacyl-[acyl carrier protein] synthase I (KASI) in the treatment group were lower than those in the control."
+    },
+    "Question_9": {
+        "Context": "NTP treatment increases root soluble protein levels and antioxidant enzyme activities.",
+        "Question": "Which enzyme's activity is increased by NTP treatment in leaves under low-temperature conditions?",
+        "A": "Catalase (CAT)",
+        "B": "Superoxide dismutase (SOD)",
+        "C": "Peroxidase (POD)",
+        "D": "AOX1B",
+        "Answer": "B",
+        "Source": "NTP treatment increased root SOD and CAT activities but did not affect leaf SOD and CAT activities."
+    },
+    "Question_10": {
+        "Context": "NTP treatment accelerates rice seed germination.",
+        "Question": "What is the effect of NTP treatment on the growth of rice seedlings on day 14 post-treatment?",
+        "A": "Decreases growth",
+        "B": "No effect on growth",
+        "C": "Increases growth",
+        "D": "Stops growth",
+        "Answer": "C",
+        "Source": "The group treated with 15.0 kV for 30 s exhibited higher germination rates and increased plant and root fresh weights."
+    }
+}

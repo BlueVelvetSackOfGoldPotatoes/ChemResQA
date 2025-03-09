@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the development of a phase field model for polycrystalline grain growth using spherical gaussians to model anisotropy. The model involves the use of quaternions for orientations and misorientations.",
+        "Question": "What method is used to represent the orientations and misorientations in the grain growth phase field model?",
+        "A": "Euler angle representation",
+        "B": "Rotation matrices",
+        "C": "Quaternions",
+        "D": "Axis-angle pairs",
+        "Answer": "C",
+        "Source": "Quaternions will be used for the representation of both orientations and misorientations in the grain growth PFM considering their computational efficiency and their simpler expressions. Modified versions of such expressions are presented as follows."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the methodology of including minima in the phase field model by using 2-D gaussian switches. These switches match the misorientation between grains with misorientations for the GB energy minima.",
+        "Question": "What is the purpose of using 2-D gaussian switches in the phase field model?",
+        "A": "To calculate grain boundary energies",
+        "B": "To simulate grain growth in real time",
+        "C": "To match misorientations between grains",
+        "D": "To determine grain orientations",
+        "Answer": "C",
+        "Source": "The methodology involves using 2-D gaussian switches, which match the misorientation between grains with misorientations for the GB energy minima."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the generation of the 5-D anisotropy parameter between two grains A and B in a laboratory sample of reference frame R using spherical gaussians.",
+        "Question": "What is used to control the interface in the 5-D anisotropy parameter?",
+        "A": "Misorientation",
+        "B": "Grain boundary mobility",
+        "C": "Gradient energy coefficient",
+        "D": "Bulk free energy",
+        "Answer": "C",
+        "Source": "The 5-D anisotropy parameter presented in Eq. (18) is the gradient energy coefficient used to control the interface."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the formulation of the free energy functional for the phase field model, which includes non-conserved order parameters and bulk free energy.",
+        "Question": "What is the driving force parameter in the free energy functional for the phase field model?",
+        "A": "Bulk free energy",
+        "B": "Phenomenological parameters",
+        "C": "Driving force parameter",
+        "D": "Total free energy",
+        "Answer": "C",
+        "Source": "m is a driving force parameter; fbulk is the bulk free energy; \u03c6, \u03c9, and \u03b3 are phenomenological parameters."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the time evolution of the non-conserved order parameter controlled using the Allen-Cahn equation.",
+        "Question": "What is the constant used to control the time evolution of the non-conserved order parameter?",
+        "A": "Bulk free energy",
+        "B": "Driving force parameter",
+        "C": "Grain boundary mobility",
+        "D": "Constant grain boundary mobility",
+        "Answer": "D",
+        "Source": "The time evolution of the non-conserved order parameter is controlled using the Allen-Cahn equation: where L is the constant grain boundary mobility."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the development of a 5-D anisotropy parameter for polycrystalline grain growth using spherical gaussians.",
+        "Question": "What is the purpose of the gaussian switch in the 5-D anisotropy parameter?",
+        "A": "To control the interface",
+        "B": "To match misorientations",
+        "C": "To calculate grain boundary energies",
+        "D": "To determine grain orientations",
+        "Answer": "B",
+        "Source": "The switch provides a comparison of any misorientation, from a laboratory sample, between two grains qB \u2212 A to misorientations form the library qB \u2212 Alib of misorientations generated using the work by Bulatov et al. (2014)."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the formulation of the free energy functional for the phase field model, which includes non-conserved order parameters and bulk free energy.",
+        "Question": "What is the total free energy of the system dependent on in the free energy functional?",
+        "A": "Non-conserved order parameters",
+        "B": "Bulk free energy",
+        "C": "Driving force parameter",
+        "D": "Phenomenological parameters",
+        "Answer": "A",
+        "Source": "F is the total free energy of the system; \u03b7i and \u03b7j are the non-conserved order parameters."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the calculation of the specific GB energy between grains with orientations i and j, dependent on the misorientation and inclination.",
+        "Question": "What is used as a measure for the width of the diffuse grain boundary region?",
+        "A": "Specific GB energy",
+        "B": "Bulk free energy",
+        "C": "Driving force parameter",
+        "D": "Width measure",
+        "Answer": "D",
+        "Source": "lij is a measure for the width of the diffuse grain boundary region."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the formulation of the free energy functional for the phase field model, which includes non-conserved order parameters and bulk free energy.",
+        "Question": "What is the derivative of E(\u03b8, v) with respect to the gradient of the order parameter in a direction, d?",
+        "A": "Specific GB energy",
+        "B": "Driving force parameter",
+        "C": "Misorientation",
+        "D": "Gradient energy coefficient",
+        "Answer": "D",
+        "Source": "The derivative of E(\u03b8, v) with respect to the gradient of the order parameter in a direction, d, can further be determined using Eqs. (18) and (22)."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the future study of phase field simulations using the developed model in the Multiphysics Object Oriented Simulation Environment (MOOSE).",
+        "Question": "What is the purpose of performing simulations using MOOSE?",
+        "A": "To validate the model",
+        "B": "To develop a new material class",
+        "C": "To determine the driving force parameter",
+        "D": "To calculate grain boundary energies",
+        "Answer": "A",
+        "Source": "Upon successful validation, the model may be used to choose ideal treatments to produce a specific microstructure for improving material properties without costly trial and error experimental methods."
+    }
+}

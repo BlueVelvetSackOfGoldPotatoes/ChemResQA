@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Cold mix asphalts are materials obtained by mixing bitumen emulsion with aggregates. The curing process involves the evaporation of water, leading to the stiffening of the material over time.",
+        "Question": "What is the primary process that causes cold mix asphalts to stiffen over time?",
+        "A": "Chemical reaction with aggregates",
+        "B": "Evaporation of water",
+        "C": "Application of heat",
+        "D": "Freezing of the water content",
+        "Answer": "B",
+        "Source": "The material stiffens with time while water drains off in a phase called curing. These materials are mostly used for pavement (road repair and structure of low traffic roads)."
+    },
+    "Question_2": {
+        "Context": "In the context of cold mix asphalts, the curing process is influenced by external parameters such as temperature and humidity.",
+        "Question": "Which external parameters are known to highly influence the curing of emulsion cold mix asphalt?",
+        "A": "Pressure and sunlight exposure",
+        "B": "Wind speed and particle size",
+        "C": "Temperature and humidity",
+        "D": "Altitude and material density",
+        "Answer": "C",
+        "Source": "Furthermore it is known that the curing of emulsion cold mix asphalt is highly dependent on external parameters such as the climatic conditions."
+    },
+    "Question_3": {
+        "Context": "During the curing of cold mix asphalts, the mechanical behavior of the mix can be assessed using oedometer tests which measure the stiffness of the material.",
+        "Question": "What is the purpose of oedometer tests in the context of cold mix asphalts?",
+        "A": "To measure the tensile strength",
+        "B": "To determine the thermal conductivity",
+        "C": "To assess the mechanical behavior",
+        "D": "To evaluate the water content",
+        "Answer": "C",
+        "Source": "The mechanical behaviour of the mix was assessed using oedometer tests."
+    },
+    "Question_4": {
+        "Context": "The physicochemical properties of binders in cold mix asphalts, such as oxidation and rheology, can be evaluated to understand the material's behavior.",
+        "Question": "Which physicochemical properties of binders in cold mix asphalts are important for understanding the material's behavior?",
+        "A": "Solubility and density",
+        "B": "Oxidation and rheology",
+        "C": "Molecular weight and polarity",
+        "D": "Viscosity and boiling point",
+        "Answer": "B",
+        "Source": "The physicochemical evolutions of extracted binders, such as oxidation and rheology, were evaluated."
+    },
+    "Question_5": {
+        "Context": "The rheological behavior of binders in cold mix asphalts can be studied to understand how the binder contributes to the overall mix behavior.",
+        "Question": "What aspect of binders in cold mix asphalts is directly related to understanding their contribution to the overall mix behavior?",
+        "A": "Freezing point",
+        "B": "Rheological behavior",
+        "C": "Chemical composition",
+        "D": "Color change over time",
+        "Answer": "B",
+        "Source": "The rheological evolution of the binder allows a direct understanding of the influence of the binder on the whole mix."
+    },
+    "Question_6": {
+        "Context": "The glass transition temperature of a binder in cold mix asphalts can be measured to assess changes in its properties during curing.",
+        "Question": "What does a change in the glass transition temperature of a binder indicate in the context of cold mix asphalts?",
+        "A": "A change in the binder's thermal stability",
+        "B": "A variation in the binder's electrical conductivity",
+        "C": "A shift in the binder's oxidation level",
+        "D": "A modification in the binder's mechanical properties",
+        "Answer": "D",
+        "Source": "A change in glass transition measured with calorimetry could account for binder weakening during curing."
+    },
+    "Question_7": {
+        "Context": "Oxidation levels in binders of cold mix asphalts can be quantified using infrared spectroscopy, which measures specific absorption bands.",
+        "Question": "What does the measurement of oxidation levels in binders of cold mix asphalts involve?",
+        "A": "Quantifying the absorption of UV light",
+        "B": "Measuring the electrical resistance",
+        "C": "Determining the thermal degradation",
+        "D": "Quantifying specific absorption bands in infrared spectroscopy",
+        "Answer": "D",
+        "Source": "The oxidation (quantified with IR) and increase of modulus of the binder would indicate its ageing."
+    },
+    "Question_8": {
+        "Context": "The curing of cold mix asphalts can be simulated under different temperature and humidity conditions to mimic seasonal changes.",
+        "Question": "What is the purpose of simulating different seasonal conditions in the curing of cold mix asphalts?",
+        "A": "To predict the color changes of the asphalt over time",
+        "B": "To understand the impact of seasonal changes on curing",
+        "C": "To measure the electrical conductivity changes due to temperature",
+        "D": "To assess the resistance of asphalt to UV radiation",
+        "Answer": "B",
+        "Source": "The ambition of this paper is to give an idea of the different aspects of curing on emulsion cold mix asphalts and understand the influence of the implementation season."
+    },
+    "Question_9": {
+        "Context": "In cold mix asphalts, the binder behavior during curing is assessed to understand its impact on the mix, but it does not fully explain the mix behavior.",
+        "Question": "Why does the binder behavior not fully explain the mix behavior in cold mix asphalts?",
+        "A": "Because the mix contains other components that react differently",
+        "B": "Because the binder is not affected by temperature changes",
+        "C": "Because the mix does not contain any binder",
+        "D": "Because the binder always remains in a liquid state",
+        "Answer": "A",
+        "Source": "However the binder behaviour does not explain the whole mix behaviour as the kinetics between them are not always similar."
+    },
+    "Question_10": {
+        "Context": "The stiffness of cold mix asphalts can be influenced by the void content within the material, which changes during curing.",
+        "Question": "How does the void content within cold mix asphalts influence its stiffness?",
+        "A": "Higher void content generally leads to increased stiffness",
+        "B": "Void content has no impact on the stiffness",
+        "C": "Lower void content generally leads to increased stiffness",
+        "D": "Only the size of the voids, not the content, affects stiffness",
+        "Answer": "C",
+        "Source": "The height variations are also correlated to the void geometry that would change during curing and influence the modulus of the material."
+    }
+}

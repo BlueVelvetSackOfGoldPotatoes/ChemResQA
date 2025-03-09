@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "MicroRNAs (miRNAs) are small noncoding RNAs that play a crucial role in RNA silencing and post-transcriptional regulation of gene expression.",
+        "Question": "What is the typical length range of microRNAs (miRNAs)?",
+        "A": "10-15 nucleotides",
+        "B": "18-25 nucleotides",
+        "C": "50-60 nucleotides",
+        "D": "100-200 nucleotides",
+        "Answer": "B",
+        "Source": "Non-coding miRNAs are endogenous small noncoding RNAs with the length of about 18\u201325 nt that play essential role in RNA silencing and regulating the gene expression."
+    },
+    "Question_2": {
+        "Context": "In the field of molecular biology, various methods are used to detect and quantify miRNAs due to their significance as biomarkers for various diseases.",
+        "Question": "Which enzyme is used in the DiRCA assay to specifically digest the DNA sequence in RNA\u2013DNA duplex, releasing miRNA to form a signal cycle?",
+        "A": "T4 DNA ligase",
+        "B": "phi29 enzyme",
+        "C": "DSN enzyme",
+        "D": "CRISPR-Cas9",
+        "Answer": "C",
+        "Source": "In DiRCA, target miRNA unfolds hairpin structure probe in the detection scaffold, forming a RNA\u2013DNA duplex. DSN enzyme is utilized to specifically digest the DNA sequence in RNA\u2013DNA duplex, releasing miRNA to form a signal cycle."
+    },
+    "Question_3": {
+        "Context": "The detection of miRNAs can be enhanced by using signal amplification strategies. One such strategy involves the use of specific enzymes that can amplify signals under constant temperature conditions.",
+        "Question": "What is the role of phi29 enzyme in the DiRCA assay for miRNA detection?",
+        "A": "To unfold the hairpin structure probe",
+        "B": "To degrade the DNA sequence in the RNA\u2013DNA duplex",
+        "C": "To initiate rolling circle amplification",
+        "D": "To specifically bind with the target miRNA",
+        "Answer": "C",
+        "Source": "The DSN enzyme based cleavage initiates RCA, transcribing G-rich sequences for signal generation. 2 \u03bcL phi 29 enzyme, 2 \u03bcL dNTP, 1 \u03bcL ThT (5 \u03bcM) and 2 \u03bcL NEB buffer were then added in the mixture."
+    },
+    "Question_4": {
+        "Context": "Fluorescent dyes can be used to detect the formation of certain nucleic acid structures, which are indicative of successful amplification in molecular assays.",
+        "Question": "Which fluorescent dye is used in the DiRCA assay to identify G-quadruplexes formed during the amplification process?",
+        "A": "FAM",
+        "B": "BHQ",
+        "C": "Thioflavin T (ThT)",
+        "D": "Cy5",
+        "Answer": "C",
+        "Source": "With the transcribed G-rich amplification products can be specifically recognized via efficient binding between G-quadruplexes sequences and the fluorescent dye Thioflavin T (ThT)."
+    },
+    "Question_5": {
+        "Context": "Isothermal nucleic acid amplification is a process that allows the amplification of nucleic acids at a constant temperature, which is advantageous over methods requiring thermal cycling.",
+        "Question": "What is the main advantage of isothermal nucleic acids amplification strategies over RT-PCR?",
+        "A": "They require thermal cycling",
+        "B": "They amplify nucleic acids under constant thermal condition",
+        "C": "They have lower signal amplification efficiency",
+        "D": "They are less versatile and more complex",
+        "Answer": "B",
+        "Source": "Isothermal nucleic acids amplification strategies have been emerged as alternative methods of RT-PCR, possessing the advantages of efficiently amplifying nucleic acids under constant thermal condition."
+    },
+    "Question_6": {
+        "Context": "The specificity of miRNA detection assays is crucial for distinguishing closely related miRNA sequences, which often differ by only a few nucleotides.",
+        "Question": "How does the DiRCA assay achieve high selectivity in detecting target miRNA?",
+        "A": "By using RT-PCR for amplification",
+        "B": "By employing CRISPR-Cas9 for signal generation",
+        "C": "By the capability of DSN enzyme to distinguish one base pair mismatch in RNA\u2013DNA duplex",
+        "D": "By using T4 DNA ligase for signal amplification",
+        "Answer": "C",
+        "Source": "its capability to distinguish one base pair mismatch in RNA\u2013DNA duplex endows DiRCA a high selectivity."
+    },
+    "Question_7": {
+        "Context": "In molecular diagnostics, the limit of detection (LOD) is a critical parameter that determines the assay's sensitivity and its ability to detect low concentrations of analytes.",
+        "Question": "What is the reported limit of detection for the DiRCA assay?",
+        "A": "0.43 fM",
+        "B": "1 pM",
+        "C": "5 nM",
+        "D": "10 \u03bcM",
+        "Answer": "A",
+        "Source": "Based on the DSN assisted signal cycle and RCA, DiRCA shows a low limit of detection of 0.43 fM."
+    },
+    "Question_8": {
+        "Context": "The process of wound healing involves various stages, including the inflammatory response, where the immune system plays a critical role.",
+        "Question": "What role do miRNAs play in the process of wound healing?",
+        "A": "They decrease collagen deposition",
+        "B": "They increase the growth of epidermal keratinocytes",
+        "C": "They prevent the differentiation of macrophages",
+        "D": "They inhibit the immune response",
+        "Answer": "B",
+        "Source": "In the process of wound inflammation, microRNAs (miRNAs) can regulate the differentiation and function of different types of macrophages by regulating key transcription factor signaling pathways, so that they can play a role in accelerating the growth of epidermal keratinocytes."
+    },
+    "Question_9": {
+        "Context": "The detection scaffold in molecular assays is a crucial component that determines the assay's functionality and sensitivity.",
+        "Question": "What is the initial step in constructing the detection scaffold for the DiRCA assay?",
+        "A": "Heating the mixture to 90 \u00b0C and cooling it to room temperature",
+        "B": "Adding miRNA to the mixture and incubating at room temperature",
+        "C": "Mixing the detection scaffold with DSN enzyme",
+        "D": "Incubating the mixture with T4 DNA ligase",
+        "Answer": "A",
+        "Source": "The construction of detection scaffold commonly follows the procedures of heating the mixture to 90 \u00b0C and cooling it to room temperature."
+    },
+    "Question_10": {
+        "Context": "The design of molecular assays often includes a step where a specific structure, such as a hairpin, is targeted by an analyte to initiate a series of reactions leading to signal generation.",
+        "Question": "In the context of the DiRCA assay, what event triggers the unfolding of the hairpin structure probe in the detection scaffold?",
+        "A": "The addition of DSN enzyme",
+        "B": "The binding of target miRNA to the probe",
+        "C": "The heating of the mixture to 90 \u00b0C",
+        "D": "The cooling of the mixture to room temperature",
+        "Answer": "B",
+        "Source": "In the present of target miRNA, it can specifically bind with b\u2032 section in detection scaffold and gradually unfold the hairpin structure, forming a miRNA-DNA duplex."
+    }
+}

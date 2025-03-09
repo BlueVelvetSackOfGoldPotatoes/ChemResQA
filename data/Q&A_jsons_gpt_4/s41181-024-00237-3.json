@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of radiopharmacy, radiolabeled molecules are used to target specific antigens for diagnostic or therapeutic purposes. One such target is the prostate-specific membrane antigen (PSMA) which is overexpressed in prostate cancer cells.",
+        "Question": "What is the main limitation of current radiolabeled PSMA-targeting therapeutic agents?",
+        "A": "Low binding affinity to PSMA",
+        "B": "High salivary gland binding leading to xerostomia",
+        "C": "Rapid degradation in the bloodstream",
+        "D": "Inability to cross the blood-brain barrier",
+        "Answer": "B",
+        "Source": "The current generation of radiolabeled PSMA-targeting therapeutic agents is limited by prominent salivary gland binding, which results in dose-limiting xerostomia from radiation exposure."
+    },
+    "Question_2": {
+        "Context": "In medicinal chemistry, the linker region of a molecule can influence its pharmacokinetic and pharmacodynamic properties, including its distribution in various organs.",
+        "Question": "What effect does a highly negatively charged linker have on a PSMA-targeting molecule?",
+        "A": "Increases uptake in the liver",
+        "B": "Reduces salivary gland uptake",
+        "C": "Enhances blood-brain barrier penetration",
+        "D": "Decreases binding affinity for PSMA",
+        "Answer": "B",
+        "Source": "JB-1498 is a urea-based small molecule with a highly negatively charged linker targeting prostate specific membrane antigen (PSMA). Prior work on a similar tracer with the same negatively charged linker demonstrated low normal organ/soft tissue background uptake compared to [68Ga]Ga-PSMA-11."
+    },
+    "Question_3": {
+        "Context": "The biodistribution of radiolabeled compounds is an important aspect of their evaluation, as it determines the sites of accumulation and potential side effects.",
+        "Question": "What was the observed effect of [68Ga]Ga-JB-1498 on salivary gland uptake in mice?",
+        "A": "Increased uptake compared to [68Ga]Ga-PSMA-11",
+        "B": "No change in uptake compared to [68Ga]Ga-PSMA-11",
+        "C": "Decreased uptake compared to [68Ga]Ga-PSMA-11",
+        "D": "Complete elimination of uptake",
+        "Answer": "C",
+        "Source": "The purpose of this study was to investigate if [68Ga]Ga-JB-1498 had reduced salivary gland uptake in mice compared to [68Ga]Ga-PSMA-11. JB-1498 demonstrated high affinity for PSMA binding and tumor uptake in a murine tumor model."
+    },
+    "Question_4": {
+        "Context": "The molar activity of a radiolabeled compound is a measure of its radioactivity per amount of substance, which can affect its biodistribution.",
+        "Question": "How does the molar activity of a radiolabeled compound potentially affect its uptake in organs?",
+        "A": "Higher molar activity increases uptake in all organs",
+        "B": "Molar activity has no effect on organ uptake",
+        "C": "Lower molar activity increases uptake in target organs",
+        "D": "Molar activity can affect organ uptake differently",
+        "Answer": "D",
+        "Source": "Molar activity of PSMA-targeting ligands has been shown to affect organ uptake in mouse biodistribution studies."
+    },
+    "Question_5": {
+        "Context": "Glutamate carboxypeptidase II (GCP-II) is an enzyme that is targeted by certain radiolabeled molecules for the imaging and treatment of prostate cancer.",
+        "Question": "What is another name for Glutamate carboxypeptidase II (GCP-II) when it is targeted for prostate cancer?",
+        "A": "Prostate-specific antigen (PSA)",
+        "B": "Prostate-specific membrane antigen (PSMA)",
+        "C": "Prostate stem cell antigen (PSCA)",
+        "D": "Prostate acid phosphatase (PAP)",
+        "Answer": "B",
+        "Source": "Glutamate carboxypeptidase II (GCP-II), or prostate specific membrane antigen (PSMA), is highly expressed in prostate cancers."
+    },
+    "Question_6": {
+        "Context": "The pharmacophore of a molecule is the part responsible for its biological interaction with a target protein, and modifications to it can change the molecule's binding properties.",
+        "Question": "What effect can replacing the glutamate sidechain of the Lys-urea-Glu pharmacophore have on a PSMA-targeting molecule?",
+        "A": "Increase its toxicity",
+        "B": "Reduce its stability",
+        "C": "Decrease its salivary gland uptake",
+        "D": "Enhance its immunogenicity",
+        "Answer": "C",
+        "Source": "Kuo et al. demonstrated that replacing the glutamate sidechain of the Lys-urea-Glu pharmacophore at the catalytic site can lead to significant reduction of salivary gland uptake."
+    },
+    "Question_7": {
+        "Context": "Radiolabeled small molecules targeting PSMA can be used for both diagnostic imaging and therapeutic purposes in the context of prostate cancer.",
+        "Question": "What is the main advantage of using a radiolabeled small molecule targeting PSMA for prostate cancer?",
+        "A": "It can cure all stages of prostate cancer",
+        "B": "It allows for non-invasive detection of metastatic prostate cancer",
+        "C": "It eliminates the need for any other cancer treatments",
+        "D": "It has no side effects",
+        "Answer": "B",
+        "Source": "Positron emission tomography with PSMA-targeting tracers that evolved over the last 20 years has proven to be the most accurate diagnostic modality for detecting metastatic prostate cancer non-invasively."
+    },
+    "Question_8": {
+        "Context": "The linker region of a molecule can influence its overall charge, which in turn can affect its interaction with biological targets and tissues.",
+        "Question": "How might the overall charge in the linker region of a PSMA-targeting molecule affect its biodistribution?",
+        "A": "A highly positive charge increases renal clearance",
+        "B": "A neutral charge enhances blood-brain barrier penetration",
+        "C": "A highly negative charge may reduce salivary gland uptake",
+        "D": "Charge has no impact on biodistribution",
+        "Answer": "C",
+        "Source": "A potential new target of structural modification without altering the glutamate pharmacophore is the overall charge in the linker region as illustrated herein."
+    },
+    "Question_9": {
+        "Context": "In the development of radiolabeled compounds for medical use, the chelate used for radiolabeling can influence the stability and biodistribution of the compound.",
+        "Question": "What is the significance of replacing the Bn-NOTA chelate with DOTA in the context of a PSMA-targeting molecule?",
+        "A": "It increases the molecule's stability",
+        "B": "It reduces the molecule's binding affinity",
+        "C": "It enhances the molecule's immunogenicity",
+        "D": "It decreases the molecule's solubility",
+        "Answer": "A",
+        "Source": "Replacement of the thiourea with the amide bond for chelator conjugation was necessary due to the propensity for radiolysis of the radiolabeled compound at high molar activity."
+    },
+    "Question_10": {
+        "Context": "The enzymatic inhibition assay is a method used to determine the binding affinity of a molecule to a target enzyme, which is crucial for evaluating its potential as a therapeutic agent.",
+        "Question": "What does a low EC50 value in an enzymatic inhibition assay indicate about a molecule's affinity for its target?",
+        "A": "Low binding affinity",
+        "B": "High binding affinity",
+        "C": "No binding affinity",
+        "D": "Unstable interaction with the target",
+        "Answer": "B",
+        "Source": "Using fluorescent enzymatic assay, EC50 of JB-1498 was estimated to be 287 \u00b1 64 pM. This places the upper limit of Ki of JB1498 to PSMA = 300 pM (Ki is lower than 300 pM)."
+    }
+}

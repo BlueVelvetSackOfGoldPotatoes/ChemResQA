@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Biochar is a carbon-rich material produced through the pyrolysis of biomass in low-oxygen conditions. It has applications in carbon sequestration, soil amendment, and as an alternative fuel source.",
+        "Question": "What happens to the biochar yield as pyrolysis temperatures increase?",
+        "A": "It increases",
+        "B": "It decreases",
+        "C": "It remains constant",
+        "D": "It fluctuates unpredictably",
+        "Answer": "B",
+        "Source": "Increase in temperatures resulted in decrease of biochar yield, volatile matter, and O/C and H/C atomic ratios, while ash content and essential nutrients increased."
+    },
+    "Question_2": {
+        "Context": "During the pyrolysis process of biomass to produce biochar, various physicochemical properties are affected by the temperature at which pyrolysis is conducted.",
+        "Question": "What is the effect of increasing pyrolysis temperatures on the volatile matter content of biochar?",
+        "A": "Volatile matter content increases",
+        "B": "Volatile matter content decreases",
+        "C": "Volatile matter content remains unchanged",
+        "D": "Volatile matter content varies depending on the biomass type",
+        "Answer": "B",
+        "Source": "Increase in temperatures resulted in decrease of biochar yield, volatile matter, and O/C and H/C atomic ratios, while ash content and essential nutrients increased."
+    },
+    "Question_3": {
+        "Context": "Biochar's physicochemical properties, such as the atomic ratios of elements like oxygen and hydrogen to carbon, are indicative of its stability and potential for carbon sequestration.",
+        "Question": "How do increasing pyrolysis temperatures affect the O/C atomic ratio in biochar?",
+        "A": "The O/C atomic ratio increases",
+        "B": "The O/C atomic ratio decreases",
+        "C": "The O/C atomic ratio remains the same",
+        "D": "The O/C atomic ratio becomes zero",
+        "Answer": "B",
+        "Source": "Increase in temperatures resulted in decrease of biochar yield, volatile matter, and O/C and H/C atomic ratios, while ash content and essential nutrients increased."
+    },
+    "Question_4": {
+        "Context": "Biochar can be produced from various types of biomass, including agricultural residues like pigeonpea and maize stalks. The yield of biochar can vary depending on the type of biomass and the conditions of pyrolysis.",
+        "Question": "Which biomass type was observed to have a higher yield of biochar at the same pyrolysis temperatures?",
+        "A": "Pigeonpea stalks",
+        "B": "Maize stalks",
+        "C": "Both had equal yields",
+        "D": "The yield depends on the pyrolysis temperature, not the biomass type",
+        "Answer": "A",
+        "Source": "Yield was observed to be higher in pigeonpea stalks derived biochar compared to maize stalks derived biochar at same pyrolysis temperatures."
+    },
+    "Question_5": {
+        "Context": "The organic carbon content in biochar is an important factor determining its quality and suitability for various applications, including as a soil amendment and for carbon sequestration.",
+        "Question": "At which pyrolysis temperature was the organic carbon content found to be higher in the biochar samples?",
+        "A": "400 \u00b0C",
+        "B": "500 \u00b0C",
+        "C": "600 \u00b0C",
+        "D": "The organic carbon content is independent of pyrolysis temperature",
+        "Answer": "C",
+        "Source": "The organic carbon content is found to be higher in the biochar samples prepared at 600 \u00b0C, i.e., 10.44%, and 10.39% for pigeonpea and maize-derived biochar, respectively."
+    },
+    "Question_6": {
+        "Context": "Biochar's nutrient content, such as essential elements like nitrogen, phosphorus, and potassium, can be influenced by the pyrolysis temperature during its production.",
+        "Question": "Which essential nutrient in biochar was found to be inversely related to the increase in pyrolysis temperature?",
+        "A": "Phosphorus",
+        "B": "Potassium",
+        "C": "Nitrogen",
+        "D": "Sulphur",
+        "Answer": "C",
+        "Source": "The essential elements of biochar were increased with an increase in pyrolysis temperature except nitrogen which is conversely related to temperature."
+    },
+    "Question_7": {
+        "Context": "The higher heating value (HHV) of biochar is a measure of the energy content and is an important property when considering biochar as an alternative solid fuel.",
+        "Question": "What was the approximate higher heating value (HHV) for both pigeonpea and maize biochars?",
+        "A": "20.75 MJ kg\u22121",
+        "B": "25.75 MJ kg\u22121",
+        "C": "30.75 MJ kg\u22121",
+        "D": "35.75 MJ kg\u22121",
+        "Answer": "C",
+        "Source": "Furthermore, the higher heating value (HHV) was approximately 30.75 MJ kg\u22121 for both the biochars, indicating their suitability as alternative solid fuels."
+    },
+    "Question_8": {
+        "Context": "The fixed carbon content of biochar is a key parameter that reflects its carbon sequestration potential and its suitability as a soil amendment.",
+        "Question": "Which biochar demonstrated a higher fixed carbon content at a pyrolysis temperature of 400 \u00b0C?",
+        "A": "Pigeonpea stalks derived biochar",
+        "B": "Maize stalks derived biochar",
+        "C": "Both showed equal fixed carbon content",
+        "D": "Fixed carbon content is not affected by pyrolysis temperature",
+        "Answer": "A",
+        "Source": "The biochar obtained through pyrolysis at 400 \u00b0C demonstrated superior characteristics compared to biochar produced at other temperatures. It exhibited a higher biochar yield, with approximately 84.60% for pigeonpea and 64.85% for maize fixed carbon content."
+    },
+    "Question_9": {
+        "Context": "The CO2 reduction potential of biochar is a measure of its ability to mitigate climate change by reducing atmospheric carbon dioxide levels.",
+        "Question": "Which biochar showed a significant CO2 reduction potential?",
+        "A": "Pigeonpea stalks derived biochar only",
+        "B": "Maize stalks derived biochar only",
+        "C": "Both pigeonpea and maize stalks derived biochar",
+        "D": "Neither pigeonpea nor maize stalks derived biochar",
+        "Answer": "C",
+        "Source": "A significant CO2 reduction potential of 84 CO2 eq kg\u22121 and 55 CO2 eq kg\u22121 was observed for pigeonpea and maize biochar, respectively."
+    },
+    "Question_10": {
+        "Context": "The fuel ratio of biochar is a parameter that compares the fixed carbon content to the volatile matter content, providing insight into its potential as a solid fuel.",
+        "Question": "What does a higher fuel ratio in biochar indicate?",
+        "A": "Higher volatile matter content",
+        "B": "Lower fixed carbon content",
+        "C": "Higher fixed carbon content",
+        "D": "Lower energy content",
+        "Answer": "C",
+        "Source": "The fixed carbon recovery efficiency was also notable at around 200.44% for PPS and 142.37% for maize biochar which is higher compared to biochar produced at other temperatures."
+    }
+}

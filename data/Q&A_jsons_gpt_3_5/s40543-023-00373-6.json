@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to develop and validate an analytical method for quantifying VEN in plasma samples from rats and dogs. The method involved deproteination and LC-MS/MS analysis.",
+        "Question": "What was the lower limit of quantification (LLOQ) for VEN in the plasma samples?",
+        "A": "100 ng/mL",
+        "B": "10 ng/mL",
+        "C": "1 ng/mL",
+        "D": "500 ng/mL",
+        "Answer": "C",
+        "Source": "The LLOQ for VEN was determined to be at 1 ng/mL with acceptable accuracy and precision."
+    },
+    "Question_2": {
+        "Context": "The study validated various parameters of the analytical method, including accuracy, precision, dilution, recovery, matrix effect, and stability.",
+        "Question": "What was used as the internal standard (IS) in the LC-MS/MS analysis?",
+        "A": "Imipramine",
+        "B": "Acetonitrile",
+        "C": "Methanol",
+        "D": "Formic acid",
+        "Answer": "A",
+        "Source": "In the preliminary screening study, imipramine was selected as the IS, considering its recovery and matrix effects with VEN and IS."
+    },
+    "Question_3": {
+        "Context": "The method validation included assessing the selectivity and specificity of the assay by analyzing blank plasma samples.",
+        "Question": "How was the selectivity of the assay determined?",
+        "A": "By analyzing the response at the retention time of VEN",
+        "B": "By analyzing the response of the IS in the control",
+        "C": "By analyzing the response at the retention time of VEN and the IS",
+        "D": "By analyzing the response at the retention time of the IS",
+        "Answer": "C",
+        "Source": "The selectivity of the assay was studied by analyzing blank plasma samples for the presence of interfering peaks for VEN and the IS."
+    },
+    "Question_4": {
+        "Context": "The study evaluated the linearity of the calibration curves based on the analysis of eight concentrations of VEN.",
+        "Question": "What was the range of the calibration curve for VEN in the plasma samples?",
+        "A": "10-1000 ng/mL",
+        "B": "1-100 ng/mL",
+        "C": "100-1000 ng/mL",
+        "D": "1-1000 ng/mL",
+        "Answer": "D",
+        "Source": "The calibration curve was linear over the concentration ranges of 1\u20131000 ng/mL for VEN in plasma samples from rats and dogs."
+    },
+    "Question_5": {
+        "Context": "The study assessed the accuracy, precision, and dilution integrity of the assay using different quality control samples.",
+        "Question": "What was the within-run relative error (RE) for VEN in rat plasma at the low quality control (LQC) level?",
+        "A": "7.0%",
+        "B": "1.7%",
+        "C": "0.3%",
+        "D": "2.4%",
+        "Answer": "A",
+        "Source": "The within-run RE for rat samples was 7.0% at the LQC level for VEN."
+    },
+    "Question_6": {
+        "Context": "The study investigated the recovery and matrix effect of the analytes in plasma samples from rats and dogs.",
+        "Question": "What was the mean recovery of VEN in rat plasma at the high quality control (HQC) level?",
+        "A": "88.7-98.7%",
+        "B": "88.1-96.2%",
+        "C": "101%",
+        "D": "96.1%",
+        "Answer": "A",
+        "Source": "The mean recovery of VEN in plasma samples for rats was within the range of 88.7\u201398.7% at the HQC level."
+    },
+    "Question_7": {
+        "Context": "The study evaluated the stability of VEN under various storage and handling conditions.",
+        "Question": "How was the stability of VEN assessed in whole blood samples?",
+        "A": "At 0 min and after at least 60 min",
+        "B": "At room temperature for 20 h",
+        "C": "After freeze-thaw cycles",
+        "D": "At least 3 months at -70\u00b0C",
+        "Answer": "A",
+        "Source": "In whole blood sample stability, the stability of VEN was assessed at LQC and HQC concentrations at 0 min and after at least 60 min."
+    },
+    "Question_8": {
+        "Context": "The study applied the developed assay to pharmacokinetic studies of VEN in rats and dogs.",
+        "Question": "What was the maximum concentration (Cmax) of VEN in female rats after oral administration of 30 mg/kg?",
+        "A": "4160 ng/mL",
+        "B": "120 ng/mL",
+        "C": "156 ng/mL",
+        "D": "1130 ng/mL",
+        "Answer": "A",
+        "Source": "Cmax at 30 mg/kg was 4160 ng/mL for female rats."
+    },
+    "Question_9": {
+        "Context": "The study calculated various pharmacokinetic parameters for VEN in rats and dogs after oral administration.",
+        "Question": "What was the time point at maximum concentration (Tmax) for VEN in male dogs after oral administration of 0.5 mg/kg?",
+        "A": "0.583 h",
+        "B": "1.00 h",
+        "C": "0.333 h",
+        "D": "0.583 \u00b1 0.342 h",
+        "Answer": "A",
+        "Source": "Tmax for male dogs was 0.583 \u00b1 0.342 h after oral administration of 0.5 mg/kg."
+    },
+    "Question_10": {
+        "Context": "The study concluded that the developed LC-MS/MS assay was reliable for PK and TK studies of VEN in rats and dogs.",
+        "Question": "What was the main reason for developing a bioanalytical method with minimal blood sample volumes?",
+        "A": "To minimize hematologic toxicity",
+        "B": "To reduce the cost of analysis",
+        "C": "To increase the speed of analysis",
+        "D": "To improve the accuracy of the results",
+        "Answer": "A",
+        "Source": "The blood sampling can be reduced below 3% of the total blood volume in PK/TK studies in rats using this method."
+    }
+}

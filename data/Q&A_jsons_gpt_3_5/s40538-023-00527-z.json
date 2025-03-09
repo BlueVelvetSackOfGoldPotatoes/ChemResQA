@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the antibacterial mechanism of condensed tannins (CTs) from sainfoin against Pediococcus pentosaceus SF11. The minimal inhibitory concentration (MIC) of CTs was determined.",
+        "Question": "What was the minimal inhibitory concentration (MIC) of condensed tannins (CTs) against Pediococcus pentosaceus SF11?",
+        "A": "125 mg/L",
+        "B": "750 mg/L",
+        "C": "1500 mg/L",
+        "D": "3000 mg/L",
+        "Answer": "C",
+        "Source": "The MIC of CTs against Pediococcus pentosaceus SF11 was 1500 mg/L (MIC) after filter membrane sterilization."
+    },
+    "Question_2": {
+        "Context": "The study examined the effects of CTs on the growth of Pediococcus pentosaceus SF11. The absorbance at 600 nm, pH, and lactic acid production were measured.",
+        "Question": "How did the pH level change over time in the presence of condensed tannins (CTs) at a concentration of 1500 mg/L?",
+        "A": "Increased",
+        "B": "Decreased",
+        "C": "Remained constant",
+        "D": "Fluctuated",
+        "Answer": "B",
+        "Source": "The pH level decreased rapidly in both groups after 4 hours of incubation. The CT group had a higher pH level than the control groups from 4 to 24 hours of incubation."
+    },
+    "Question_3": {
+        "Context": "The study analyzed the activities of enzymes involved in xylose metabolism in Pediococcus pentosaceus SF11 in the presence of condensed tannins (CTs).",
+        "Question": "Which enzyme activity was highest in the control group after 24 hours of incubation?",
+        "A": "Lactate dehydrogenase (LDH)",
+        "B": "Phosphoketolase (PK)",
+        "C": "Transaldolase (TAL)",
+        "D": "Transketolase (TKT)",
+        "Answer": "A",
+        "Source": "The LDH activity was highest in the control after 24 hours of incubation."
+    },
+    "Question_4": {
+        "Context": "The study investigated the effect of condensed tannins (CTs) on the cell membrane of Pediococcus pentosaceus SF11. Potassium ion efflux and molecular absorbance at 260 nm were measured.",
+        "Question": "How did the molecular absorbance at 260 nm change in the presence of CTs at concentrations of 200, 500, 1000, and 1500 mg/L?",
+        "A": "Increased",
+        "B": "Decreased",
+        "C": "Remained constant",
+        "D": "Fluctuated",
+        "Answer": "C",
+        "Source": "The molecular absorbance at 260 nm in cells showed no differences in all groups between different incubation times."
+    },
+    "Question_5": {
+        "Context": "The study examined the production of hydrogen peroxide by condensed tannins (CTs) and its impact on Pediococcus pentosaceus SF11.",
+        "Question": "At what pH level did the content of hydrogen peroxide produced by CTs tend to increase first and then decrease?",
+        "A": "pH 4.0",
+        "B": "pH 5.0",
+        "C": "pH 6.0",
+        "D": "pH 7.0",
+        "Answer": "D",
+        "Source": "The content of hydrogen peroxide produced by CTs tended to increase first and then decrease at pH ranging from 4.0 to 7.0."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the global transcriptome of Pediococcus pentosaceus SF11 in response to condensed tannins (CTs).",
+        "Question": "Which gene was the most upregulated in response to CT stress?",
+        "A": "PEPE_RS03875",
+        "B": "PEPE_RS04980",
+        "C": "PEPE_RS03740",
+        "D": "PEPE_RS05335",
+        "Answer": "B",
+        "Source": "The PEPE_RS04980 gene showed the highest fold change among the upregulated genes, encoding an XRE family transcriptional regulator."
+    },
+    "Question_7": {
+        "Context": "The study investigated the effect of condensed tannins (CTs) on the expression of oxidoreductase genes in Pediococcus pentosaceus SF11.",
+        "Question": "How many differently expressed genes were involved in oxidoreductase expression?",
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four",
+        "Answer": "D",
+        "Source": "Only four differently expressed genes were involved in the expression of oxidoreductase."
+    },
+    "Question_8": {
+        "Context": "The study examined the lipid metabolism pathway in Pediococcus pentosaceus SF11 in response to condensed tannins (CTs).",
+        "Question": "How many genes were downregulated in the lipid metabolism pathway under CT stress?",
+        "A": "Ten",
+        "B": "Fifteen",
+        "C": "Twenty",
+        "D": "Twenty-five",
+        "Answer": "B",
+        "Source": "Fifteen genes were downregulated in the lipid metabolism pathway under CT stress."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the effect of condensed tannins (CTs) on the expression of genes involved in the PTS system of Pediococcus pentosaceus SF11.",
+        "Question": "Which gene showed the highest fold change among the upregulated genes related to the PTS system?",
+        "A": "PEPE_RS04675",
+        "B": "PEPE_RS04680",
+        "C": "PEPE_RS08075",
+        "D": "PEPE_RS08080",
+        "Answer": "A",
+        "Source": "PEPE_RS04675 (pgmB) showed the highest fold change among the upregulated genes related to the PTS system."
+    },
+    "Question_10": {
+        "Context": "The study investigated the impact of condensed tannins (CTs) on the expression of phosphate ABC transporter genes in Pediococcus pentosaceus SF11.",
+        "Question": "Which gene was the most downregulated among the genes involved in the phosphate ABC transporter system?",
+        "A": "pstA",
+        "B": "pstB",
+        "C": "pstC",
+        "D": "phoU",
+        "Answer": "B",
+        "Source": "The pstB gene was the most downregulated among the genes involved in the phosphate ABC transporter system."
+    }
+}

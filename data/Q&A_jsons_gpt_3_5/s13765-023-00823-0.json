@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Information about the synthesis of ferulic acid hydrazide derivatives and their inhibitory activity against MAO enzymes.",
+        "Question": "Which compound showed the best inhibitory ability against MAO-B with an IC50 value of 1.88 \u03bcM?",
+        "A": "FA1",
+        "B": "FA3",
+        "C": "FA5",
+        "D": "FA9",
+        "Answer": "B",
+        "Source": "FA3 had an IC50 value of 1.88 \u03bcM, showing the best inhibitory ability against MAO-B."
+    },
+    "Question_2": {
+        "Context": "Details about the enzyme kinetics and inhibition studies for MAO-B.",
+        "Question": "What type of inhibitor was FA3 determined to be based on the Lineweaver-Burk plot?",
+        "A": "Competitive inhibitor",
+        "B": "Non-competitive inhibitor",
+        "C": "Uncompetitive inhibitor",
+        "D": "Mixed inhibitor",
+        "Answer": "A",
+        "Source": "In the Lineweaver\u2013Burk plot, FA3 appeared to be a competitive MAO-B inhibitor."
+    },
+    "Question_3": {
+        "Context": "Information about the reversibility studies of MAO-B inhibition by FA3.",
+        "Question": "How was the recovery pattern of MAO-B inhibition by FA3 compared to safinamide?",
+        "A": "FA3 showed faster recovery than safinamide",
+        "B": "FA3 showed slower recovery than safinamide",
+        "C": "FA3 showed similar recovery to safinamide",
+        "D": "FA3 did not recover after inhibition",
+        "Answer": "C",
+        "Source": "The recovery pattern showed FA3 was a reversible MAO-B inhibitor with a similar recovery to safinamide."
+    },
+    "Question_4": {
+        "Context": "Details about the molecular docking investigation of FA3 and MAO-B interactions.",
+        "Question": "What was the docking score for the lead compound FA3 in the molecular docking study?",
+        "A": "-8.591 kcal/mol",
+        "B": "-9.648 kcal/mol",
+        "C": "-7.342 kcal/mol",
+        "D": "-10.125 kcal/mol",
+        "Answer": "A",
+        "Source": "The docking scores (XP mode) for the lead compounds (FA3) were approximately -8.591 kcal/mol."
+    },
+    "Question_5": {
+        "Context": "Information about the molecular dynamic simulation of the FA3-MAO-B complex.",
+        "Question": "Which amino acid residue showed the highest hydrogen bond contribution with FA3 during the simulation?",
+        "A": "Tyr60",
+        "B": "Gly434",
+        "C": "Tyr398",
+        "D": "Tyr326",
+        "Answer": "Gly434",
+        "Source": "Gly434 participates in an 84% hydrogen bond with the OH of the ferulic ring."
+    },
+    "Question_6": {
+        "Context": "Details about the enzyme assays of MAO-A and MAO-B using specific substrates.",
+        "Question": "Which substrate was used for the enzyme assay of MAO-A?",
+        "A": "Kynuramine",
+        "B": "Benzylamine",
+        "C": "Adrenaline",
+        "D": "Noradrenaline",
+        "Answer": "A",
+        "Source": "The activities of MAO-A and MAO-B were assayed using kynuramine as substrates."
+    },
+    "Question_7": {
+        "Context": "Information about the synthesis of ferulic acid hydrazide derivatives.",
+        "Question": "What was the yield percentage for the synthesis of ferulic acid hydrazide derivative FA9?",
+        "A": "58%",
+        "B": "64%",
+        "C": "72%",
+        "D": "81%",
+        "Answer": "A",
+        "Source": "Yield: 58%; Yellow powder, Rf value 0.78 (chloroform/methanol = 4/1)."
+    },
+    "Question_8": {
+        "Context": "Details about the spectral characterization of the compounds.",
+        "Question": "Which compound showed a peak at 11.69 ppm in the 1H-NMR spectra indicating the formation of the NH group of hydrazone?",
+        "A": "FA1",
+        "B": "FA3",
+        "C": "FA5",
+        "D": "FA9",
+        "Answer": "A",
+        "Source": "In the 1H-NMR spectra of FA1, the peak at 11.69 ppm suggested the formation of the NH group of hydrazone."
+    },
+    "Question_9": {
+        "Context": "Information about the enzyme kinetics and inhibition studies for MAO-B.",
+        "Question": "What was used to determine the inhibition type of the leading compound for MAO-B at different substrate concentrations?",
+        "A": "Lineweaver-Burk plot",
+        "B": "Secondary plots",
+        "C": "Michaelis-Menten equation",
+        "D": "Hill equation",
+        "Answer": "B",
+        "Source": "The inhibition type of the leading compound for MAO-B was determined at the five different substrate concentrations and at three inhibitor concentrations around its IC50 using secondary plots."
+    },
+    "Question_10": {
+        "Context": "Details about the enzyme kinetics and inhibition studies for MAO-B.",
+        "Question": "What was the Ki value determined for FA3 in the enzyme kinetics study?",
+        "A": "1.88 \u03bcM",
+        "B": "2.08 \u03bcM",
+        "C": "1.92 \u00b1 0.73 \u03bcM",
+        "D": "4.22 \u03bcM",
+        "Answer": "C",
+        "Source": "The Ki value was determined to be 1.92 \u00b1 0.73 \u03bcM."
+    }
+}

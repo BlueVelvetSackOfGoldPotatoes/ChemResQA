@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to characterize the moisture-dependent actuation behavior of bioinspired and additively manufactured hygromorphs. They used Fused Filament Fabrication (FFF) to print bilayered structures. What material was used for the passive layer in the printed bilayers?",
+        "Question": "What material was used for the passive layer in the printed bilayers?",
+        "A": "Polylactic acid (PLA)",
+        "B": "Cellulosic materials",
+        "C": "Acrylonitrile Butadiene Styrene (ABS)",
+        "D": "Vinylacetate-vinylversatate-ethylene",
+        "Answer": "C",
+        "Source": "ABS is used for the passive layer in the printed bilayers."
+    },
+    "Question_2": {
+        "Context": "The investigation of the mean cellulose microfibril orientation on the surface of the active layer suggested a preferential orientation with respect to printing direction. What method was used to determine the cellulose microfibril orientation?",
+        "Question": "What method was used to determine the cellulose microfibril orientation?",
+        "A": "X-ray diffraction (XRD)",
+        "B": "Micro computed tomography (\u03bcCT)",
+        "C": "SEM Images",
+        "D": "Video analyses",
+        "Answer": "A",
+        "Source": "Cellulose microfibril orientation was determined using X-ray diffraction (XRD)."
+    },
+    "Question_3": {
+        "Context": "Comparison with the thermomechanical model derived from Timoshenko (1925) shows that the computational prediction of the moisture dependent actuation is considerably accurate for most selected cellulosic materials and filler contents. What model was used for comparison in predicting the moisture dependent actuation?",
+        "Question": "What model was used for comparison in predicting the moisture dependent actuation?",
+        "A": "Timoshenko (1925)",
+        "B": "Elastic modulus model",
+        "C": "Hygromechanic model",
+        "D": "Thermal expansion model",
+        "Answer": "A",
+        "Source": "The computational prediction of the moisture dependent actuation was compared with the thermomechanical model derived from Timoshenko (1925)."
+    },
+    "Question_4": {
+        "Context": "The investigation of the mean cellulose microfibril orientation on the surface of the active layer suggested a preferential orientation with respect to printing direction. What did the investigation suggest about the cellulose microfibril orientation?",
+        "Question": "What did the investigation suggest about the cellulose microfibril orientation?",
+        "A": "Random orientation",
+        "B": "No orientation observed",
+        "C": "Preferential orientation with respect to printing direction",
+        "D": "Uniform orientation",
+        "Answer": "C",
+        "Source": "The investigation suggested a preferential orientation of cellulose microfibrils with respect to the printing direction."
+    },
+    "Question_5": {
+        "Context": "The moisture dependent actuation strain of the printed bilayers was determined by video analyses. What was used to determine the actuation strain of the printed bilayers?",
+        "Question": "What was used to determine the actuation strain of the printed bilayers?",
+        "A": "X-ray diffraction (XRD)",
+        "B": "Micro computed tomography (\u03bcCT)",
+        "C": "SEM Images",
+        "D": "Video analyses",
+        "Answer": "D",
+        "Source": "The actuation strain of the printed bilayers was determined by video analyses."
+    },
+    "Question_6": {
+        "Context": "The investigation of the mean cellulose microfibril orientation on the surface of the active layer suggested a preferential orientation with respect to printing direction. What method was used to investigate the cellulose microfibril orientation throughout the entire active layer?",
+        "Question": "What method was used to investigate the cellulose microfibril orientation throughout the entire active layer?",
+        "A": "X-ray diffraction (XRD)",
+        "B": "Micro computed tomography (\u03bcCT)",
+        "C": "SEM Images",
+        "D": "Video analyses",
+        "Answer": "B",
+        "Source": "The cellulose microfibril orientation throughout the entire active layer was investigated by micro computed tomography (\u03bc-CT)."
+    },
+    "Question_7": {
+        "Context": "The investigation of the mean cellulose microfibril orientation on the surface of the active layer suggested a preferential orientation with respect to printing direction. What instrument was used for the measurement of cellulose orientation close to the surface?",
+        "Question": "What instrument was used for the measurement of cellulose orientation close to the surface?",
+        "A": "SEM",
+        "B": "X-ray diffraction (XRD)",
+        "C": "Micro computed tomography (\u03bcCT)",
+        "D": "Video analyses",
+        "Answer": "B",
+        "Source": "A Rigaku MniFlex 600 X-ray diffractometer was used for the measurement of cellulose orientation close to the surface."
+    },
+    "Question_8": {
+        "Context": "The moisture dependent actuation strain of the printed bilayers was determined by video analyses. What was used to follow the actuation of the printed bilayers?",
+        "Question": "What was used to follow the actuation of the printed bilayers?",
+        "A": "X-ray diffraction (XRD)",
+        "B": "Micro computed tomography (\u03bcCT)",
+        "C": "SEM Images",
+        "D": "Video analyses",
+        "Answer": "D",
+        "Source": "The actuation of the printed bilayers was followed by video analyses."
+    },
+    "Question_9": {
+        "Context": "The investigation of the mean cellulose microfibril orientation on the surface of the active layer suggested a preferential orientation with respect to printing direction. What angle was used to determine the fiber alignment?",
+        "Question": "What angle was used to determine the fiber alignment?",
+        "A": "Z/2",
+        "B": "Z",
+        "C": "XRD",
+        "D": "SEM",
+        "Answer": "A",
+        "Source": "The fiber alignment was calculated by the value of the angle (Z/2) for the width of the diffraction at one half of the maximum intensity."
+    },
+    "Question_10": {
+        "Context": "The investigation of the mean cellulose microfibril orientation on the surface of the active layer suggested a preferential orientation with respect to printing direction. What method was used to investigate the orientation of individual fibers throughout the entire active layer?",
+        "Question": "What method was used to investigate the orientation of individual fibers throughout the entire active layer?",
+        "A": "X-ray diffraction (XRD)",
+        "B": "Micro computed tomography (\u03bcCT)",
+        "C": "SEM Images",
+        "D": "Video analyses",
+        "Answer": "B",
+        "Source": "The orientation of individual fibers throughout the entire active layer was investigated by micro computed tomography (\u03bc-CT)."
+    }
+}

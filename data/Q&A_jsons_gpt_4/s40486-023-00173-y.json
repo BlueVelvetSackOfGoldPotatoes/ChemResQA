@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Two-photon lithography (TPL) is a technique used for fabricating three-dimensional microstructures by inducing polymerization through the absorption of two photons.",
+        "Question": "What is the primary advantage of two-photon lithography compared to conventional two-dimensional nanopatterning?",
+        "A": "Higher energy consumption",
+        "B": "Ability to rapidly fabricate 3D microstructures",
+        "C": "Use of ultraviolet light only",
+        "D": "Simpler equipment requirements",
+        "Answer": "B",
+        "Source": "Two-photon lithography (TPP) is a prominent and effective approach for the fabrication of intricate three-dimensional (3D) microstructures. Compared with conventional two-dimensional nanopatterning technology, TPP presents distinct advantages in terms of its ability to rapidly fabricate 3D microstructures."
+    },
+    "Question_2": {
+        "Context": "In two-photon polymerization (TPP), a photosensitizer is used to initiate polymerization by absorbing photons and emitting ultraviolet light.",
+        "Question": "What initiates polymerization in TPP?",
+        "A": "Heat",
+        "B": "Ultraviolet light emission from a photosensitizer",
+        "C": "Visible light",
+        "D": "Electrical current",
+        "Answer": "B",
+        "Source": "In this process, the photosensitizer absorbs two near infrared photons and emits ultraviolet photons, thus initiating polymerization."
+    },
+    "Question_3": {
+        "Context": "The resolution of 3D microstructures fabricated by TPP is determined by the size of the voxel, which is the solidified image of the focal spot.",
+        "Question": "What determines the resolution of 3D microstructures in TPP?",
+        "A": "The size of the laser beam",
+        "B": "The intensity of the ultraviolet light",
+        "C": "The size of the voxel",
+        "D": "The type of photosensitizer used",
+        "Answer": "C",
+        "Source": "Polymerization is initiated when the focused laser beam exposes the photoresist, and the resulting solidified image of the focal spot is known as a voxel (volume pixel)."
+    },
+    "Question_4": {
+        "Context": "In TPP, the laser scanning path is manipulated to join voxels together, creating the final 3D structure.",
+        "Question": "How are voxels joined together to create the final 3D structure in TPP?",
+        "A": "By chemical bonding",
+        "B": "By thermal fusion",
+        "C": "By manipulating the laser scanning path",
+        "D": "By applying an external pressure",
+        "Answer": "C",
+        "Source": "By manipulating the laser focus via the designed laser path using a piezo stage or galvano scanner, the voxels are joined together, thus resulting in a final 3D structure."
+    },
+    "Question_5": {
+        "Context": "The TPP process involves a development step where uncured photoresist is dissolved away using a developing solution.",
+        "Question": "What happens to the uncured photoresist in the TPP process?",
+        "A": "It is heated to solidify",
+        "B": "It is exposed to light to harden",
+        "C": "It is dissolved using a developing solution",
+        "D": "It is left as part of the structure",
+        "Answer": "C",
+        "Source": "After the TPP process is completed, the uncured photoresist is dissolved, which is accomplished using an appropriate developing solution."
+    },
+    "Question_6": {
+        "Context": "Defects such as delamination can occur in TPP, which involves the detachment of the fabricated structure from the substrate.",
+        "Question": "What is a common defect in the fabrication of 3D microstructures using TPP?",
+        "A": "Color distortion",
+        "B": "Delamination",
+        "C": "Over-curing",
+        "D": "Shrinkage",
+        "Answer": "B",
+        "Source": "Defects such as pattern delamination are discussed, with emphasis on the cell scaffold structure and microlens array."
+    },
+    "Question_7": {
+        "Context": "The absorption of solvent by the 3D microstructures during development can cause deformation and lead to delamination.",
+        "Question": "What can cause deformation and delamination of 3D microstructures during the TPP development process?",
+        "A": "Exposure to air",
+        "B": "Absorption of solvent",
+        "C": "Application of heat",
+        "D": "Use of an incorrect wavelength",
+        "Answer": "B",
+        "Source": "During this time, the 3D microstructures can absorb the surrounding solvent, which causes their internal structure to deform. These deformations allow the 3D microstructure to be removed from the glass substrate."
+    },
+    "Question_8": {
+        "Context": "The presence of free volume within the cured polymer structure of a 3D microstructure allows for the absorption of solvents, which can lead to swelling and deformation.",
+        "Question": "What role does the free volume within a cured polymer structure play in the deformation of 3D microstructures?",
+        "A": "It decreases the structural integrity",
+        "B": "It allows for the absorption of solvents leading to swelling",
+        "C": "It enhances the photopolymerization process",
+        "D": "It prevents the absorption of light",
+        "Answer": "B",
+        "Source": "A space known as the free volume exists within the cured polymer structure. This free volume serves as a space for the absorption of solvents within the 3D microstructure during development."
+    },
+    "Question_9": {
+        "Context": "In TPP, controlling the laser power is crucial for achieving the desired degree of polymer curing and avoiding defects such as delamination.",
+        "Question": "How does controlling the laser power in TPP affect the curing of the photocurable resin?",
+        "A": "It has no effect on curing",
+        "B": "It decreases the curing speed",
+        "C": "It increases the risk of delamination",
+        "D": "It affects the degree of curing and can prevent defects",
+        "Answer": "D",
+        "Source": "As the laser power increases, the cross-linking between polymers in the photocurable resin becomes more activated, and the curing degree increases."
+    },
+    "Question_10": {
+        "Context": "The bending stiffness of a 3D microstructure is a factor that influences its susceptibility to deformation and delamination.",
+        "Question": "What effect does increasing the thickness of a 3D microstructure have on its bending stiffness?",
+        "A": "It decreases the bending stiffness",
+        "B": "It has no effect on bending stiffness",
+        "C": "It increases the bending stiffness",
+        "D": "It makes the structure more prone to delamination",
+        "Answer": "C",
+        "Source": "As the thickness (t) of the structure increases, the bending stiffness of the cantilever increases, and the amount of deformation in the cantilever decreases accordingly."
+    }
+}

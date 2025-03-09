@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Interstitial solute atoms such as hydrogen can induce localized changes in the stress field of materials, which can affect mechanical properties such as yield strength.",
+        "Question": "What is the effect of interstitial solute-induced stress fields on the mechanical properties of metals?",
+        "A": "They have no significant effect.",
+        "B": "They can increase the yield strength.",
+        "C": "They can decrease the yield strength.",
+        "D": "They change the color of the metal.",
+        "Answer": "B",
+        "Source": "Interstitial solute atoms (such as carbon (C), hydrogen (H), oxygen (O), lithium (Li), etc.) play an important role in controlling the physical and mechanical properties (e.g. yield strength (Gavriljuk et al. 1998; Barrera et al. 2016; Cui et al. 2018), and phase composition (Schwarz and Khachaturyan 2006)) of different metals and alloys."
+    },
+    "Question_2": {
+        "Context": "The segregation of carbon around dislocations in iron can lead to pinning of dislocations, a phenomenon known as the Cottrell atmosphere.",
+        "Question": "What is the term used to describe the segregation of carbon around dislocations leading to their pinning in iron?",
+        "A": "Barnett effect",
+        "B": "Cottrell atmosphere",
+        "C": "Sofronis phenomenon",
+        "D": "Khachaturyan syndrome",
+        "Answer": "B",
+        "Source": "In 1949, Cottrell and Bilby developed a theory of yielding and strain ageing in iron in which they explained that the segregation of C around dislocations lead to their pinning (Cottrell and Bilby 1949). This was latter termed the 'Cottrell atmosphere'."
+    },
+    "Question_3": {
+        "Context": "The interaction energy between solute atoms at neighboring sites can be a contributing factor to the overall energy state of a material.",
+        "Question": "What term describes the interaction energy between solute atoms residing at neighboring sites?",
+        "A": "Cohesive energy",
+        "B": "Bond energy",
+        "C": "Solute-solute interaction energy",
+        "D": "Lattice energy",
+        "Answer": "C",
+        "Source": "The five terms on the right hand side of Eq. (1) represent in order of appearance: (1) the reference chemical potential; (2) the entropy associated with the solute concentration; (3) the work against the hydrostatic stress in the volume; (4) the solute image interaction energy; and (5) the solute-solute interaction energy arising from chemical and electronic effects that are short ranged (Wagner 1971; Udyansky et al. 2009; Khachaturyan; Barouh et al. 2014)."
+    },
+    "Question_4": {
+        "Context": "In the context of solute distribution in materials, the chemical potential of solute atoms is influenced by several factors including the solute mole fraction and the stress tensor.",
+        "Question": "Which term in the chemical potential equation accounts for the work against the hydrostatic stress in the volume?",
+        "A": "The reference chemical potential",
+        "B": "The entropy associated with the solute concentration",
+        "C": "The solute image interaction energy",
+        "D": "The work against the hydrostatic stress in the volume",
+        "Answer": "D",
+        "Source": "The five terms on the right hand side of Eq. (1) represent in order of appearance: (1) the reference chemical potential; (2) the entropy associated with the solute concentration; (3) the work against the hydrostatic stress in the volume; (4) the solute image interaction energy; and (5) the solute-solute interaction energy arising from chemical and electronic effects that are short ranged."
+    },
+    "Question_5": {
+        "Context": "The solute mole fraction in a defect-free state of a material is an important reference point for understanding solute distribution.",
+        "Question": "What is the term used to describe the solute mole fraction in the defect-free state of a material?",
+        "A": "Intrinsic reference mole fraction",
+        "B": "Maximum solute volume concentration",
+        "C": "Reference chemical potential",
+        "D": "Reference mole fraction",
+        "Answer": "D",
+        "Source": "The solute mole fraction in the defect-free state is taken as the reference mole fraction, \u03c7A0, and is evaluated from Eq. (2) at chemical equilibrium (i.e. \u03bcA(x) = 0) to be: \u03c7A0(x) = [ 1 + exp (\u03bc0 \u2212 \u03c3Akk(x)\ufffdV/3 \u2212 \u03b71 \u00af\u03c7A0 + ZEss\u03c7A0(x) kBT )]\u22121."
+    },
+    "Question_6": {
+        "Context": "The solute-induced stress field in materials is a result of the extra lattice distortion caused by the difference between the true and the reference solute concentrations.",
+        "Question": "What causes the solute-induced stress field in a material?",
+        "A": "The difference between the solute-induced strain and the eigenstrain",
+        "B": "The entropy associated with the solute concentration",
+        "C": "The reference chemical potential",
+        "D": "The solute image interaction energy",
+        "Answer": "A",
+        "Source": "The excess solute concentration, which is the difference between the true and the reference solute concentrations, induces an extra lattice distortion in the volume. This is accompanied by a solute-induced elastic field, denoted by ( )I, in order to preserve the coherency of the crystal lattice."
+    },
+    "Question_7": {
+        "Context": "The solute-induced elastic strain field is a key factor in determining the solute-induced stress field within a material.",
+        "Question": "What is the solute-induced elastic strain field a difference between?",
+        "A": "The solute-induced strain and the eigenstrain",
+        "B": "The solute mole fraction and the reference mole fraction",
+        "C": "The intrinsic and extrinsic solute concentrations",
+        "D": "The chemical potential and the reference chemical potential",
+        "Answer": "A",
+        "Source": "The solute-induced elastic strain field, \u03b5I,elij, is the difference between the solute-induced strain, \u03b5Iij, and the eigenstrain, e\u2217ij, and is given locally by: \u03b5I,elij(x) = \u03b5Iij(x) \u2212 e\u2217ij(x) = \u03b5Iij(x) \u2212 1/3 (c(x) \u2212 cA0) \ufffdV\u03b4ij."
+    },
+    "Question_8": {
+        "Context": "In the study of solute distribution in materials, the chemical potential equation includes a term that accounts for the entropy associated with the solute concentration.",
+        "Question": "Which term in the chemical potential equation represents the entropy associated with the solute concentration?",
+        "A": "The reference chemical potential",
+        "B": "The entropy term",
+        "C": "The solute image interaction energy",
+        "D": "The solute-solute interaction energy",
+        "Answer": "B",
+        "Source": "The five terms on the right hand side of Eq. (1) represent in order of appearance: (1) the reference chemical potential; (2) the entropy associated with the solute concentration; (3) the work against the hydrostatic stress in the volume; (4) the solute image interaction energy; and (5) the solute-solute interaction energy arising from chemical and electronic effects that are short ranged."
+    },
+    "Question_9": {
+        "Context": "The solute-induced stress field in a material is influenced by the solute concentration and can be represented using a scalar potential in the context of elasticity theory.",
+        "Question": "What scalar potential is used to represent the solute-induced stress field in elasticity theory?",
+        "A": "Maxwell stress function",
+        "B": "Airy stress function",
+        "C": "Papkovich-Neuber scalar potential",
+        "D": "Galerkin vector potential",
+        "Answer": "C",
+        "Source": "Using the Papkovich-Neuber scalar potential B0(x) (Papkovich 1932; Neuber 1934), the solute-induced filed can be shown from Eq. (14) to be \u03c3Iij(x) = \u2212 G/(2(1 \u2212 \u03bd))B0,ij(x) \u2212 2G(1 + \u03bd)/(1 \u2212 \u03bd) \ufffdV/3 \u03b4ij (c(x) \u2212 cA0(x))."
+    },
+    "Question_10": {
+        "Context": "The solute-induced stress field in a material can be approximated analytically for plane strain problems using the Airy stress function.",
+        "Question": "Which stress function is utilized to derive an approximate analytical solution for the solute-induced stress field in plane strain problems?",
+        "A": "Maxwell stress function",
+        "B": "Airy stress function",
+        "C": "Papkovich-Neuber scalar potential",
+        "D": "Galerkin vector potential",
+        "Answer": "B",
+        "Source": "For plane strain problems, the Airy stress function \u03c6 is utilized ('Airy stress function' section). Here, \u02dc\u03c3kk(x) \u2212 \u03c3Akk(x) and \u00af\u02dc\u03c3kk \u2212 \u00af\u03c3Akk can be shown to be harmonic functions with respect to the Airy stress function, where \u02dc\u03c3kk(x) \u2212 \u03c3Akk(x) = (1 + \u03bd) \u22072\u03c6(x), \u00af\u02dc\u03c3kk \u2212 \u00af\u03c3Akk = (1 + \u03bd) \u22072 \u00af\u03c6."
+    }
+}

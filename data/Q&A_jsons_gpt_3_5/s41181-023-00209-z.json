@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study, what was the primary aim regarding the development of [225Ac]Ac-DOTA-C595?",
+        "Question": "What was the primary aim of the study regarding the development of [225Ac]Ac-DOTA-C595?",
+        "A": "To characterise the in vitro behaviour of [225Ac]Ac-DOTA-C595 in PDAC cells.",
+        "B": "To perform a dosimetric assessment of [225Ac]Ac-DOTA-C595.",
+        "C": "To evaluate the therapeutic effect of [225Ac]Ac-DOTA-C595 in MUC1-CE expressing PDAC cells.",
+        "D": "To conduct a preliminary cross-calibration of detectors for the clinical implementation of Ac-225.",
+        "Answer": "A",
+        "Source": "In this study, we developed and characterised the in vitro behaviour of [225Ac]Ac-DOTA-C595 in PDAC cells with varying levels of MUC1-CE expression."
+    },
+    "Question_2": {
+        "Context": "What was the secondary aim of the study regarding [225Ac]Ac-DOTA-C595?",
+        "Question": "What was the secondary aim of the study regarding [225Ac]Ac-DOTA-C595?",
+        "A": "To evaluate the therapeutic effect of [225Ac]Ac-DOTA-C595 in MUC1-CE expressing PDAC cells.",
+        "B": "To perform a dosimetric assessment of [225Ac]Ac-DOTA-C595.",
+        "C": "To characterise the in vitro behaviour of [225Ac]Ac-DOTA-C595 in PDAC cells.",
+        "D": "To conduct a preliminary cross-calibration of detectors for the clinical implementation of Ac-225.",
+        "Answer": "B",
+        "Source": "As a secondary aim, a radioanalytical assessment of [225Ac]Ac-DOTA-C595 was performed to calibrate detection of alpha, beta, and gamma emissions resulting from Ac-225 decay as preparation for clinical implementation."
+    },
+    "Question_3": {
+        "Context": "What was observed in terms of cell binding of [225Ac]Ac-DOTA-C595 in the study?",
+        "Question": "What was observed in terms of cell binding of [225Ac]Ac-DOTA-C595 in the study?",
+        "A": "Binding to PANC-1 was significantly lower than all other cell lines.",
+        "B": "Binding to BxPC-3 was significantly greater than all other cell lines.",
+        "C": "Binding to PANC-1 was significantly greater than all other cell lines.",
+        "D": "Binding to CAPAN-1 was significantly lower than all other cell lines.",
+        "Answer": "C",
+        "Source": "Binding to PANC-1 was significantly greater than all other cell lines at concentrations of 50 \u2013 300 nM."
+    },
+    "Question_4": {
+        "Context": "What was the observed internalisation pattern of [225Ac]Ac-DOTA-C595 in the study?",
+        "Question": "What was the observed internalisation pattern of [225Ac]Ac-DOTA-C595 in the study?",
+        "A": "Internalisation was significantly higher in BxPC-3 compared to PANC-1.",
+        "B": "Internalisation was significantly higher in PANC-1 and AsPC-1 compared to BxPC-3 and CAPAN-1.",
+        "C": "Internalisation was significantly higher in CAPAN-1 compared to PANC-1.",
+        "D": "Internalisation was significantly higher in AsPC-1 compared to PANC-1.",
+        "Answer": "B",
+        "Source": "PANC-1 and AsPC-1 cell lines demonstrated significantly higher levels of internalisation compared to BxPC-3 and CAPAN-1 cell lines."
+    },
+    "Question_5": {
+        "Context": "What was the effect of [225Ac]Ac-DOTA-C595 on \u03b3H2AX foci in the study?",
+        "Question": "What was the effect of [225Ac]Ac-DOTA-C595 on \u03b3H2AX foci in the study?",
+        "A": "Significantly more AsPC-1 cells exhibited \u03b3H2AX foci compared to PANC-1 cells.",
+        "B": "Significantly more PANC-1 cells exhibited \u03b3H2AX foci compared to AsPC-1 cells.",
+        "C": "No significant differences were identified in the percentage of \u03b3H2AX foci between cell lines.",
+        "D": "No cells exhibited \u03b3H2AX foci in response to [225Ac]Ac-DOTA-C595.",
+        "Answer": "B",
+        "Source": "One-hour following [225Ac]Ac-DOTA-C595 exposure significantly more PANC-1 cells exhibited \u03b3H2AX foci than AsPC-1 cells."
+    },
+    "Question_6": {
+        "Context": "What was the observed clonogenic survival pattern in response to [225Ac]Ac-DOTA-C595 in the study?",
+        "Question": "What was the observed clonogenic survival pattern in response to [225Ac]Ac-DOTA-C595 in the study?",
+        "A": "PANC-1 cells exhibited significantly higher survival compared to AsPC-1 cells at all concentrations.",
+        "B": "AsPC-1 cells exhibited significantly higher survival compared to PANC-1 cells at all concentrations.",
+        "C": "No significant differences were identified in the survival of PANC-1 and AsPC-1 cells.",
+        "D": "Both PANC-1 and AsPC-1 cells had 100% survival at all concentrations.",
+        "Answer": "A",
+        "Source": "At low concentrations of [225Ac]Ac-DOTA-C595, survival of PANC-1 cells was lower than AsPC-1 cells."
+    },
+    "Question_7": {
+        "Context": "What was the purpose of the dosimetric assessment conducted in the study?",
+        "Question": "What was the purpose of the dosimetric assessment conducted in the study?",
+        "A": "To estimate the dose-rate of 1 kBq of [225Ac]Ac-DOTA-C595 with consideration to alpha particles.",
+        "B": "To evaluate the therapeutic effect of [225Ac]Ac-DOTA-C595 in MUC1-CE expressing PDAC cells.",
+        "C": "To characterise the in vitro behaviour of [225Ac]Ac-DOTA-C595 in PDAC cells.",
+        "D": "To perform a preliminary cross-calibration of detectors for the clinical implementation of Ac-225.",
+        "Answer": "A",
+        "Source": "A dosimetric assessment was performed to estimate the dose-rate of 1 kBq of [225Ac]Ac-DOTA-C595 with consideration to alpha particles."
+    },
+    "Question_8": {
+        "Context": "What was the outcome of the cross-calibration of detectors in the study?",
+        "Question": "What was the outcome of the cross-calibration of detectors in the study?",
+        "A": "The detectors showed inconsistent results, leading to the need for recalibration.",
+        "B": "The detectors were unable to detect any emissions from Ac-225 decay.",
+        "C": "A strong linear correlation was established between the detectors.",
+        "D": "The detectors were found to be incompatible with the emissions from Ac-225 decay.",
+        "Answer": "C",
+        "Source": "Cross-calibration of the HPGD and Automatic Gamma Counter resulted in a strong linear correlation."
+    },
+    "Question_9": {
+        "Context": "What was the observed pattern of alpha, beta, and gamma emissions from Ac-225 decay in the study?",
+        "Question": "What was the observed pattern of alpha, beta, and gamma emissions from Ac-225 decay in the study?",
+        "A": "Alpha emissions were approximately 4 times higher than beta and gamma emissions.",
+        "B": "Beta emissions were the most dominant compared to alpha and gamma emissions.",
+        "C": "Gamma emissions were the most dominant compared to alpha and beta emissions.",
+        "D": "Alpha, beta, and gamma emissions were all equal in intensity.",
+        "Answer": "A",
+        "Source": "Using Ludlum 3030p and Thermo RadEYE B-20 dosimeters, the measured alpha particle fluence was approximately 4 times higher than beta and gamma fluence."
+    },
+    "Question_10": {
+        "Context": "What was the conclusion drawn regarding the potential of [225Ac]Ac-DOTA-C595 in the study?",
+        "Question": "What was the conclusion drawn regarding the potential of [225Ac]Ac-DOTA-C595 in the study?",
+        "A": "The study concluded that [225Ac]Ac-DOTA-C595 had no therapeutic effect on PDAC cells.",
+        "B": "The study concluded that [225Ac]Ac-DOTA-C595 showed promising results in targeting MUC1-CE expressing PDAC cells.",
+        "C": "The study concluded that [225Ac]Ac-DOTA-C595 was ineffective in inducing DNA damage in PDAC cells.",
+        "D": "The study concluded that [225Ac]Ac-DOTA-C595 had toxic effects on normal pancreatic cells.",
+        "Answer": "B",
+        "Source": "In this study, we demonstrated that the C595 monoclonal antibody can be labelled to Ac-225 and maintain high MUC1-CE binding and internalisation. [225Ac]Ac-DOTA-C595 demonstrated a strong therapeutic effect on PDAC cells by inducing \u03b3H2AX foci in most treated cells."
+    }
+}

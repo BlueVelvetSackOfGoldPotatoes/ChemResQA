@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In pulse electric current sintering (PECS), the sintering mechanism for non-conductive powders is complex due to the absence of direct current flow through the powder materials.",
+        "Question": "What acts as additional driving forces for surface curvature driving in the sintering of non-conductive powders?",
+        "A": "Electrical conductivity",
+        "B": "Concentration diffusion flux and thermal diffusion flux",
+        "C": "Magnetic fields",
+        "D": "Direct current flow",
+        "Answer": "B",
+        "Source": "The concentration diffusion flux, which is caused by the local concentration gradient, and the thermal diffusion flux act as additional driving forces for the surface curvature driving."
+    },
+    "Question_2": {
+        "Context": "The sintering driving force in PECS can be influenced by the thermoelastic diffusion coupling transmission, which includes non-Fourier and non-Fick effects.",
+        "Question": "What theory is used to investigate the sintering driving force of nonconductive Al2O3 powders at the initial stage of PECS?",
+        "A": "Classical Fick law",
+        "B": "Generalized thermoelastic diffusion theory",
+        "C": "Newton's law of cooling",
+        "D": "Fourier's law of heat conduction",
+        "Answer": "B",
+        "Source": "The sintering driving force of nonconductive Al2O3 powders at the initial stage of pulse electric current sintering is investigated under the thermoelastic diffusion coupling transmission with the consideration of non-Fourier and non-Fick effect."
+    },
+    "Question_3": {
+        "Context": "The classical Fick law describes mass diffusion under the assumption that mass disturbances propagate at infinite speeds, which is not always the case in dynamic systems.",
+        "Question": "What does the non-Fick's law introduce to the classical Fick's first law?",
+        "A": "A constant diffusion coefficient",
+        "B": "A variable temperature gradient",
+        "C": "A diffusion relaxation time",
+        "D": "An infinite propagation velocity",
+        "Answer": "C",
+        "Source": "J + \u03c4 \u2202J/\u2202t = \u2212D\u2207C where J, D, \u2207C, and \u03c4 denote the diffusion flux, the diffusion coefficient, the concentration gradient, and the diffusion relaxation time, respectively."
+    },
+    "Question_4": {
+        "Context": "In the context of generalized thermoelastic diffusion theory, the propagation of temperature and mass diffusion is considered to occur at a limited speed.",
+        "Question": "What are the basic equations of generalized thermoelastic diffusion theory used to describe?",
+        "A": "The coupling effect of temperature, deformation, and mass diffusion in elastic solids",
+        "B": "The infinite speed of sound in a vacuum",
+        "C": "The propagation of electromagnetic waves",
+        "D": "The static equilibrium of forces in a structure",
+        "Answer": "A",
+        "Source": "Sherief deduced the basic equations of generalized thermoelastic diffusion (GTD) theory, which considers the non-Fourier effect of heat conduction and the non-Fick effect of mass diffusion."
+    },
+    "Question_5": {
+        "Context": "The generalized thermoelastic diffusion theory includes equations of motion, heat conduction, and mass diffusion to describe the coupling effects in a material.",
+        "Question": "What does the equation of motion in generalized thermoelastic diffusion theory account for?",
+        "A": "The relationship between force and acceleration",
+        "B": "The coupling of temperature and mass diffusion",
+        "C": "The interaction among elastic effect, heat effect, and mass transfer",
+        "D": "The conservation of energy in an isolated system",
+        "Answer": "C",
+        "Source": "Equation of motion: \u03bcui;jj + (\u03bb + \u03bc)(uj;ij)\u2212\u03b21T;i\u2212\u03b22C;i = \u03c10\u20acui where ui denotes the displacement vector, T the temperature increment, and C the concentration."
+    },
+    "Question_6": {
+        "Context": "In the study of sintering mechanisms, the equation of heat conduction is a critical component that describes how heat is transferred within a material.",
+        "Question": "What does the equation of heat conduction in generalized thermoelastic diffusion theory include?",
+        "A": "The effect of gravity on heat transfer",
+        "B": "The influence of magnetic fields on thermal properties",
+        "C": "The non-Fourier effect of heat conduction and the coupling effect of temperature and strain",
+        "D": "The phase change of materials at critical temperatures",
+        "Answer": "C",
+        "Source": "Equation of heat conduction: \u03c10C\u03b5 _T + \u03c40 \u20acT + \u03b21T0 _e + \u03c40\u20ace + a0T0 _C + \u03c40 \u20acC = k0T;ii"
+    },
+    "Question_7": {
+        "Context": "The generalized thermoelastic diffusion theory also includes an equation of mass diffusion that accounts for various effects on the diffusion process.",
+        "Question": "What does the equation of mass diffusion in generalized thermoelastic diffusion theory consider?",
+        "A": "The influence of electrical conductivity on mass transfer",
+        "B": "The effect of light intensity on diffusion rates",
+        "C": "The non-Fick effect of mass diffusion and the influence of temperature and strain",
+        "D": "The impact of quantum tunneling on particle diffusion",
+        "Answer": "C",
+        "Source": "Equation of mass diffusion: D\u03b22e;ii + Da0T ;ii + _C + \u03c4 \u20acC\u2212Db0C;ii = 0"
+    },
+    "Question_8": {
+        "Context": "The driving forces during neck sintering in a material are influenced by various gradients and stresses.",
+        "Question": "What factors contribute to the driving forces of mass migration during neck sintering?",
+        "A": "Neck vacancy concentration gradient, temperature gradient, and concentration gradient",
+        "B": "Magnetic field gradient, electrical potential, and gravitational force",
+        "C": "Chemical potential, radiation pressure, and surface tension",
+        "D": "Kinetic energy, potential energy, and work done by external forces",
+        "Answer": "A",
+        "Source": "The driving forces of mass migration during neck sintering consists of three parts: (1) the neck vacancy concentration gradient affected by intrinsic Laplace stress, additional pressure, and thermal stress; (2) the temperature gradient caused by the non-uniform temperature distribution at the neck; and (3) the concentration gradient resulting from the influence of the temperature and stress fields."
+    },
+    "Question_9": {
+        "Context": "In the context of sintering, the diffusion of vacancies plays a significant role in the mass transfer process.",
+        "Question": "What is the proposed expression for the vacancy concentration difference \u0394C under volume diffusion in PECS?",
+        "A": "\u0394C = C0\u03a9/a2kT (4r\u03b3 + 4pr2/\u03c0 + a2\u0394\u03c3T)",
+        "B": "\u0394C = C0\u03a9/a2kT (4r\u03b3 + 4pr2/\u03c0)",
+        "C": "\u0394C = C0\u03a9/a2kT (2r\u03b3 + 4pr2/\u03c0 + a2\u0394\u03c3T)",
+        "D": "\u0394C = C0\u03a9/a2kT (2r\u03b3 + 4pr2/\u03c0)",
+        "Answer": "A",
+        "Source": "Volume diffusion: \u0394C = C0\u03a9/a2kT (4r\u03b3 + 4pr2/\u03c0 + a2\u0394\u03c3T)"
+    },
+    "Question_10": {
+        "Context": "The sintering process can be influenced by the size of the particles being sintered, which affects the diffusion flux.",
+        "Question": "How does particle size affect the diffusion flux during the sintering process?",
+        "A": "Larger particles increase the diffusion flux",
+        "B": "Particle size has no effect on the diffusion flux",
+        "C": "Smaller particles decrease the diffusion flux",
+        "D": "Larger particles decrease the diffusion flux",
+        "Answer": "D",
+        "Source": "Particle size has a significant effect on the diffusion flux. As the particle size increases, the vacancy of the diffusion flux, the thermal diffusion, and the concentration of the diffusion fluxes were significantly reduced."
+    }
+}

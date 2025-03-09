@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the response of tobacco plants to Ralstonia solanacearum infection. The microbial communities in the root and stem compartments were analyzed.",
+        "Question": "What was observed in the microbial community diversity of tobacco root and stem compartments upon R. solanacearum infection?",
+        "A": "Increase in diversity",
+        "B": "No change in diversity",
+        "C": "Obvious reduction in diversity",
+        "D": "Shift from bacteria to fungi dominance",
+        "Answer": "C",
+        "Source": "An obvious reduction of community diversity and changes of microbial composition were observed in tobacco root and stem compartments upon R. solanacearum infection."
+    },
+    "Question_2": {
+        "Context": "The study focused on the defense responses of tobacco plants to bacterial wilt disease caused by Ralstonia solanacearum.",
+        "Question": "Which defense signaling pathways were significantly activated in tobacco roots and stems with R. solanacearum infection?",
+        "A": "Auxin and cytokinin",
+        "B": "Gibberellin and abscisic acid",
+        "C": "Jasmonic acid and ethylene",
+        "D": "Salicylic acid and brassinosteroids",
+        "Answer": "C",
+        "Source": "Key genes participating in plant defense signaling pathways of JA (jasmonic acid) and SA (salicylic acid) were significantly activated in tobacco root and stem with R. solanacearum infection."
+    },
+    "Question_3": {
+        "Context": "The study explored the activities of defense enzymes in tobacco plants in response to Ralstonia solanacearum infection.",
+        "Question": "What was the trend observed in the activities of defense enzymes in diseased roots and stems compared to healthy plants?",
+        "A": "Decrease in enzyme activities",
+        "B": "No change in enzyme activities",
+        "C": "Increase in enzyme activities",
+        "D": "Shift from enzymatic to non-enzymatic defense mechanisms",
+        "Answer": "C",
+        "Source": "Activities of defense enzymes of SOD, PPO, POD, PAL, CAT and \u03b2-1,3-GA in root and stem compartments in diseased plants were significantly higher than those in healthy plants."
+    },
+    "Question_4": {
+        "Context": "The study investigated the effects of inoculating beneficial endophytic Burkholderia ASV_550 on tobacco plants.",
+        "Question": "What was the impact of Burkholderia ASV_550 inoculation on tobacco plants in the presence of R. solanacearum?",
+        "A": "Decreased plant growth",
+        "B": "Increased disease incidence",
+        "C": "Enhanced plant resistance and growth",
+        "D": "No effect on plant defense system",
+        "Answer": "C",
+        "Source": "Inoculation of beneficial Burkholderia ASV_550 in soils greatly enhanced the tobacco defense system and reduced the disease incidence when the pathogen was present."
+    },
+    "Question_5": {
+        "Context": "The study examined the recruitment of beneficial microbes in tobacco roots and stems upon Ralstonia solanacearum infection.",
+        "Question": "Which bacterial genus was significantly enriched in diseased roots compared to diseased stems?",
+        "A": "Pseudomonas",
+        "B": "Bacillus",
+        "C": "Burkholderia",
+        "D": "Streptomyces",
+        "Answer": "C",
+        "Source": "Bacterial genera of Burkholderia were significantly enriched in the root compartment compared to the stem compartment."
+    },
+    "Question_6": {
+        "Context": "The study focused on the antagonistic activities of endophytic bacteria against Ralstonia solanacearum.",
+        "Question": "Which bacterial strain showed the strongest antagonistic activity against R. solanacearum?",
+        "A": "Paenibacillus sp. B11",
+        "B": "Acidovorax sp. B203",
+        "C": "Sphingomonas sp. B6",
+        "D": "Burkholderia sp. B196",
+        "Answer": "D",
+        "Source": "Burkholderia ASV_550 showed the strongest antagonistic activities in vitro against R. solanacearum."
+    },
+    "Question_7": {
+        "Context": "The study evaluated the expression of key genes related to plant defense signaling pathways.",
+        "Question": "Which gene involved in the salicylic acid signaling pathway showed increased expression in diseased roots and stems?",
+        "A": "NtAOC",
+        "B": "NtAOS",
+        "C": "NtNPR1",
+        "D": "NtJAZ1",
+        "Answer": "C",
+        "Source": "Expression of NtNPR1, a gene involved in the salicylic acid signaling pathway, was enhanced in both diseased root and stem compartments."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the impact of Ralstonia solanacearum infection on the microbial composition in tobacco root and stem compartments.",
+        "Question": "Which fungal phylum was more abundant in the root compartment compared to the stem compartment?",
+        "A": "Ascomycota",
+        "B": "Basidiomycota",
+        "C": "Glomeromycota",
+        "D": "Zygomycota",
+        "Answer": "A",
+        "Source": "The relative abundance of fungal Ascomycota was higher in the root compartment compared to the stem compartment."
+    },
+    "Question_9": {
+        "Context": "The study investigated the effects of pathogen invasion on the microbial composition in tobacco root and stem compartments.",
+        "Question": "Which microbial community showed a greater influence on the bacterial community structure than bacterial wilt disease?",
+        "A": "Root compartment",
+        "B": "Stem compartment",
+        "C": "Bacterial wilt disease",
+        "D": "Fungal community",
+        "Answer": "A",
+        "Source": "The endophytic compartment (root) exerted a greater effect on the whole bacterial community than bacterial wilt disease."
+    },
+    "Question_10": {
+        "Context": "The study explored the recruitment of beneficial microbes in diseased tobacco plants.",
+        "Question": "What was the trend observed in the microbial diversity of diseased roots compared to healthy roots?",
+        "A": "Increase in diversity",
+        "B": "No change in diversity",
+        "C": "Obvious reduction in diversity",
+        "D": "Shift from bacteria to fungi dominance",
+        "Answer": "C",
+        "Source": "An obvious reduction of community diversity and changes of microbial composition were observed in tobacco root compartments upon R. solanacearum infection."
+    }
+}

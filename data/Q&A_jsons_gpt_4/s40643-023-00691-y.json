@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Lignocellulosic biomass is composed of cellulose, hemicellulose, and lignin. Cellulose is a polymer of glucose, while hemicellulose consists of various sugars including hexoses and pentoses.",
+        "Question": "Which of the following is the most abundant pentose sugar found in hemicellulose?",
+        "A": "Arabinose",
+        "B": "Xylose",
+        "C": "Mannose",
+        "D": "Galactose",
+        "Answer": "B",
+        "Source": "Hemicellulose hydrolysate is usually made up of sugars from pentose (xylose and arabinose) and some hexose sugars (glucose, mannose, and galactose). Xylose represents the most widespread pentose in the biosphere and the second-largest sugar after glucose."
+    },
+    "Question_2": {
+        "Context": "Microorganisms such as yeasts are used for the bioconversion of lignocellulosic biomass into valuable products. For efficient conversion, these microorganisms must be able to utilize various sugars present in the biomass.",
+        "Question": "Which type of sugar must yeasts be able to utilize for the efficient conversion of lignocellulosic biomass?",
+        "A": "Fructose",
+        "B": "Sucrose",
+        "C": "Xylose",
+        "D": "Lactose",
+        "Answer": "C",
+        "Source": "For the conversion, microorganisms must be able to use various sugars in lignocellulosic biomass, including pentose sugars, especially xylose."
+    },
+    "Question_3": {
+        "Context": "Xylitol is a polyol with various beneficial properties, making it a valuable product that can be produced from xylose through microbial fermentation.",
+        "Question": "Which of the following is NOT a property of xylitol?",
+        "A": "High sweetness level",
+        "B": "Low glycemic index",
+        "C": "Triggers cancer",
+        "D": "Cariostatic effect",
+        "Answer": "C",
+        "Source": "Xylitol (C5H12O5) is a polyol that has a high sweetness level, with only 40% of calories from sucrose, a low glycemic index, does not trigger cancer (non-carcinogenicity), inhibits caries (cariostatic), and has antidiabetic potential."
+    },
+    "Question_4": {
+        "Context": "Ethanol can be produced from lignocellulosic biomass, which is a sustainable and renewable source. This process is an alternative to using food crops for ethanol production.",
+        "Question": "What is the term for ethanol produced from non-food crop lignocellulosic biomass?",
+        "A": "First-generation bioethanol",
+        "B": "Second-generation bioethanol",
+        "C": "Third-generation bioethanol",
+        "D": "Fourth-generation bioethanol",
+        "Answer": "B",
+        "Source": "Second-generation ethanol from biomass is generated using lignocellulosic material, which includes resources from forests, agricultural waste, and municipal trash."
+    },
+    "Question_5": {
+        "Context": "During the pretreatment of lignocellulosic biomass, certain compounds are produced that can inhibit the subsequent enzymatic hydrolysis and fermentation processes.",
+        "Question": "Which types of compounds are known to be inhibitory byproducts of lignocellulosic biomass pretreatment?",
+        "A": "Alcohols and esters",
+        "B": "Lignin and sugar breakdown products",
+        "C": "Amino acids and peptides",
+        "D": "Fatty acids and glycerol",
+        "Answer": "B",
+        "Source": "Several lignin and sugar breakdown products are generated throughout the pretreatment process, which may adversely influence enzyme hydrolysis and fermentation by microbial cells, including yeast."
+    },
+    "Question_6": {
+        "Context": "Yeast isolates capable of metabolizing xylose are sought after for their potential in converting lignocellulosic biomass into value-added products.",
+        "Question": "From which type of waste were yeast isolates capable of metabolizing xylose obtained in the study?",
+        "A": "Municipal solid waste",
+        "B": "Oil palm waste",
+        "C": "Wastewater sludge",
+        "D": "Food processing waste",
+        "Answer": "B",
+        "Source": "Throughout this investigation, yeast isolates capable of metabolizing xylose were obtained from oil palm waste degraded and dispersed throughout the plantation."
+    },
+    "Question_7": {
+        "Context": "The metabolic pathway for xylose utilization in yeasts is of significant interest due to its role in converting xylose to high-value compounds.",
+        "Question": "Which enzyme is responsible for the initial step of converting xylose to xylitol in yeasts?",
+        "A": "Xylitol dehydrogenase",
+        "B": "Xylose reductase",
+        "C": "Xylulokinase",
+        "D": "Xylose isomerase",
+        "Answer": "B",
+        "Source": "Xylose assimilation in yeasts takes the sugar via an enzymatic reservoir before entering the phosphopentose route. To absorb pentose sugars, D-xylose reductase (E.C. 1.1.1.21) converts xylose to xylitol."
+    },
+    "Question_8": {
+        "Context": "For the production of xylitol from xylose by yeasts, it is crucial to prevent the further metabolism of xylitol to xylulose.",
+        "Question": "Which enzyme's activity should be limited to prevent the conversion of xylitol to xylulose in the production of xylitol from xylose?",
+        "A": "Xylose reductase",
+        "B": "Xylitol dehydrogenase",
+        "C": "Xylulokinase",
+        "D": "Xylose isomerase",
+        "Answer": "B",
+        "Source": "The intricate metabolic control of xylitol formation includes xylose transport, the manufacture of essential enzymes, and cofactor replenishment."
+    },
+    "Question_9": {
+        "Context": "Yeast strains are screened for their ability to produce ethanol from various carbon sources, including xylose, which is a pentose sugar present in lignocellulosic biomass.",
+        "Question": "What is the significance of using yeast strains that can produce ethanol from xylose in the context of lignocellulosic biomass bioconversion?",
+        "A": "They can utilize the most abundant sugar in the biomass for ethanol production.",
+        "B": "They can produce ethanol at lower temperatures compared to other strains.",
+        "C": "They can convert lignin into ethanol, which is not possible with other strains.",
+        "D": "They can produce higher amounts of ethanol from glucose compared to xylose.",
+        "Answer": "A",
+        "Source": "One of the requirements for optimal use of lignocellulosic biomass is complete substrate consumption. All forms of sugar in hemicellulose and cellulose must be utilized as substrates to produce value-added products such as xylitol or biofuels."
+    },
+    "Question_10": {
+        "Context": "The ability of yeast strains to grow at various temperatures is important for industrial applications, as it can affect the efficiency of the bioconversion process.",
+        "Question": "What is the term used to describe yeast strains that can grow at higher temperatures and are therefore suitable for industrial bioconversion processes?",
+        "A": "Psychrophilic",
+        "B": "Mesophilic",
+        "C": "Thermotolerant",
+        "D": "Hyperthermophilic",
+        "Answer": "C",
+        "Source": "Although the cell density of all isolates decreased at temperatures above 37 \u00b0C, the growth of all isolates was quite significant at 42 \u00b0C so that they could be grouped as thermotolerant."
+    }
+}

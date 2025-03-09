@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Fluorescein isothiocyanate (FITC) can be used to modify amino silica, creating a material that exhibits fluorescence. This fluorescence can be quenched by certain chemical reactions, such as the binding of another molecule to the amino group that FITC would normally bind to.",
+        "Question": "What happens to the fluorescence intensity of FITC-modified amino silica when it reacts with 3-MCPD under alkaline conditions?",
+        "A": "The fluorescence intensity increases",
+        "B": "The fluorescence intensity remains unchanged",
+        "C": "The fluorescence intensity decreases",
+        "D": "The fluorescence intensity fluctuates unpredictably",
+        "Answer": "C",
+        "Source": "The fluorescence intensity of FITC-modified amino silica was greatly quenched by 3-MCPD\u2019s reaction with the amino group under alkaline conditions, and the fluorescence intensity is different at different reaction times, reaction pH, and reaction temperature."
+    },
+    "Question_2": {
+        "Context": "The detection of contaminants in food products is important for food safety. Fluorescence analysis is one technique that can be used for this purpose, where the presence of a contaminant can quench or enhance the fluorescence of a detector substance.",
+        "Question": "What is the role of pH 8.5 in the fluorescence analysis of 3-MCPD using FITC-modified amino silica?",
+        "A": "It is the pH at which the fluorescence intensity is the highest",
+        "B": "It is the pH at which the fluorescence intensity is the lowest",
+        "C": "It is the pH at which the reaction does not occur",
+        "D": "It is the pH at which the FITC is destroyed",
+        "Answer": "A",
+        "Source": "At 100 \u00b0C and pH 8.5, FITC-modified amino silica exhibits the lowest fluorescence intensity in the presence of 3-MCPD."
+    },
+    "Question_3": {
+        "Context": "In fluorescence analysis, the reaction temperature can affect the fluorescence intensity of the materials involved. The temperature at which the reaction is carried out can be optimized to achieve the best sensitivity for detecting a specific compound.",
+        "Question": "At which temperature does FITC-modified amino silica exhibit the greatest change in fluorescence intensity when reacting with 3-MCPD?",
+        "A": "60 \u00b0C",
+        "B": "70 \u00b0C",
+        "C": "90 \u00b0C",
+        "D": "100 \u00b0C",
+        "Answer": "C",
+        "Source": "The difference in fluorescence intensity rose with temperature and reached its highest value at 90 \u00b0C when 3-MCPD and FITC began to compete with one another for more amino binding sites."
+    },
+    "Question_4": {
+        "Context": "The reaction time in a fluorescence analysis can influence the outcome of the experiment. An optimal reaction time allows for the complete interaction between the detector substance and the target analyte.",
+        "Question": "What is the optimal reaction time for the fluorescence analysis of 3-MCPD using FITC-modified amino silica?",
+        "A": "2 minutes",
+        "B": "4 minutes",
+        "C": "8 minutes",
+        "D": "10 minutes",
+        "Answer": "C",
+        "Source": "When the reaction time reached 8 min, the difference value of fluorescence intensity of the supernatant reached its maximum."
+    },
+    "Question_5": {
+        "Context": "In fluorescence analysis, the specificity of the method is important to ensure that the fluorescence changes observed are due to the target analyte and not other substances that may be present in the sample.",
+        "Question": "Which of the following substances does not significantly interfere with the fluorescence analysis of 3-MCPD using FITC-modified amino silica?",
+        "A": "2-Monochloropropane-1,3-diol (2-MCPD)",
+        "B": "Glycerol (GI)",
+        "C": "Propylene glycol (PG)",
+        "D": "Ethylene glycol (EG)",
+        "Answer": "A",
+        "Source": "The most noticeable fluorescence signal came from FITC-modified amino silica that was quenched by 3-MCPD."
+    },
+    "Question_6": {
+        "Context": "The detection limit of an analytical method is the lowest quantity of a substance that can be distinguished from the absence of that substance (a blank value) with a stated confidence level.",
+        "Question": "What is the detection limit of 3-MCPD when using the fluorescence analysis method with FITC-modified amino silica?",
+        "A": "0.001 mg/L",
+        "B": "0.025 mg/L",
+        "C": "0.1 mg/L",
+        "D": "1.0 mg/L",
+        "Answer": "B",
+        "Source": "Fluorescence analysis is used to obtain a linear range from 0.025 to 1.0 mg/L for 3-MCPD detection under optimal experimental conditions, with a detection limit of 0.025 mg/L."
+    },
+    "Question_7": {
+        "Context": "The correlation coefficient in a linear regression analysis indicates the strength and direction of the relationship between two variables. It is a value between -1 and 1, where 1 means a perfect positive linear relationship.",
+        "Question": "What is the correlation coefficient for the linear relationship between 3-MCPD concentration and fluorescence intensity in the developed fluorescence analysis method?",
+        "A": "0.8500",
+        "B": "0.9000",
+        "C": "0.9500",
+        "D": "0.9915",
+        "Answer": "D",
+        "Source": "Fluorescence analysis is used to obtain a linear range from 0.025 to 1.0 mg/L for 3-MCPD detection under optimal experimental conditions, with a correlation coefficient of 0.9915."
+    },
+    "Question_8": {
+        "Context": "In analytical chemistry, the recovery rate is a measure of the accuracy of an analytical method and is defined as the percentage of the known amount of analyte recovered from the sample during the analysis.",
+        "Question": "What is the recovery rate range for 3-MCPD in soy sauce using the fluorescence analysis method?",
+        "A": "80.0% to 90.0%",
+        "B": "90.1% to 95.0%",
+        "C": "94.2% to 106.5%",
+        "D": "110.0% to 120.0%",
+        "Answer": "C",
+        "Source": "The recovery of 3-MCPD was between 94.2% and 106.5% under optimal conditions."
+    },
+    "Question_9": {
+        "Context": "The relative standard deviation (RSD) is a statistical measure used to describe the precision of an analytical method. It is expressed as a percentage and is calculated by dividing the standard deviation by the mean value of the data.",
+        "Question": "What is the range of the relative standard deviation (RSD) for the intra-day precision of 3-MCPD detection in soy sauce using the fluorescence analysis method?",
+        "A": "1.0% to 2.0%",
+        "B": "2.71% to 3.26%",
+        "C": "3.5% to 4.0%",
+        "D": "4.5% to 5.0%",
+        "Answer": "B",
+        "Source": "The relative standard deviation (RSD) of 3-MCPD ranged between 2.71 and 3.26%."
+    },
+    "Question_10": {
+        "Context": "In analytical chemistry, comparing the performance of a new analytical method with existing methods can provide insight into its relative advantages and disadvantages.",
+        "Question": "How does the detection limit of the new fluorescence analysis method for 3-MCPD compare to traditional detection methods such as GC\u2013MS?",
+        "A": "It is significantly higher",
+        "B": "It is about the same",
+        "C": "It is significantly lower",
+        "D": "It cannot be compared",
+        "Answer": "B",
+        "Source": "In terms of detection performance, the limit of detection obtained from this new method is comparable to some of those obtained using traditional detection techniques such as GC\u2013MS."
+    }
+}

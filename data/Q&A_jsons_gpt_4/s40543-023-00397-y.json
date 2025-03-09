@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In forensic drug testing, the integrity of urine samples is crucial. One way to assess the validity of a urine sample is by measuring the concentration of urinary creatinine.",
+        "Question": "What is considered an abnormal urinary creatinine concentration that may indicate a diluted urine sample?",
+        "A": "20\u2013300 mg/dL",
+        "B": "5.6\u201322.6 mg/dL",
+        "C": "5\u201320 mg/dL",
+        "D": "30\u2013300 mg/dL",
+        "Answer": "C",
+        "Source": "Urine samples containing < 20 mg/ dL of Cr were classified as abnormal. The World Health Organization (WHO) states that the effective concentration range of urinary Cr is 30\u2013300 mg/dL. A sample is defined as having been diluted if the urinary Cr concentration is 5.6\u201322.6 mg/ dL in Europe and 5\u201320 mg/dL in the U.S."
+    },
+    "Question_2": {
+        "Context": "The Jaff\u00e9 reaction is a colorimetric method used for the analysis of creatinine in biological fluids.",
+        "Question": "Which analytical instrument is used for creatinine analysis based on the Jaff\u00e9 reaction?",
+        "A": "Cobas C-311 analyzer",
+        "B": "High-performance liquid chromatography",
+        "C": "Gas chromatography",
+        "D": "Mass spectrometry",
+        "Answer": "A",
+        "Source": "Cr was analyzed via a colorimetric method based on the Jaff\u00e9 reaction using a Cobas C-311 analyzer (Roche SA, Basel, Switzerland; Hitachi, Tokyo, Japan)."
+    },
+    "Question_3": {
+        "Context": "In the context of urine drug testing, the color of urine can be an indicator of sample dilution.",
+        "Question": "What color is generally associated with diluted urine?",
+        "A": "Dark yellow",
+        "B": "Amber",
+        "C": "Lighter color",
+        "D": "Reddish hue",
+        "Answer": "C",
+        "Source": "Diluted urine generally has a lighter color than normal urine. Conversely, highly concentrated urine is usually dark yellow or amber."
+    },
+    "Question_4": {
+        "Context": "The Munsell color system is a color space that specifies colors based on three color dimensions: hue, value (lightness), and chroma (color purity).",
+        "Question": "In the Munsell color system, what does the 'value' dimension represent?",
+        "A": "Color purity",
+        "B": "Lightness",
+        "C": "Hue",
+        "D": "Saturation",
+        "Answer": "B",
+        "Source": "The Munsell color system defines each color as a sign representing the three parameters of color\u2014hue, value, and chroma as follows: (hue \u00d7 value) / chroma."
+    },
+    "Question_5": {
+        "Context": "The CIE L*a*b* color space is a color system that describes all perceivable colors in three values.",
+        "Question": "In the CIE L*a*b* color space, what does the 'b*' value represent?",
+        "A": "Lightness",
+        "B": "Redness and greenness",
+        "C": "Yellowness and blueness",
+        "D": "Hue",
+        "Answer": "C",
+        "Source": "The CIE color system was validated by the CIE in 1978, whereby L*, a*, and b* are measured. L* indicates the lightness (i.e., white, and black), a* indicates the redness and greenness, and b* indicates the yellowness and blueness."
+    },
+    "Question_6": {
+        "Context": "The stability of a chemical compound in a biological sample is important for accurate measurement and analysis.",
+        "Question": "What deviation percentage from the initial condition is considered acceptable for the stability of urinary creatinine?",
+        "A": "< 5%",
+        "B": "< 10%",
+        "C": "< 15%",
+        "D": "< 20%",
+        "Answer": "C",
+        "Source": "The stability was determined to be acceptable if the deviation was < 15%."
+    },
+    "Question_7": {
+        "Context": "Quality control samples are used to measure precision and accuracy in analytical chemistry.",
+        "Question": "What concentration of creatinine was used to prepare quality control samples in the context of urine analysis?",
+        "A": "5 mg/dL",
+        "B": "20 mg/dL",
+        "C": "51.3 mg/dL",
+        "D": "93.5 mg/dL",
+        "Answer": "B",
+        "Source": "Hence, quality control (QC) samples (20 mg/dL) were prepared by the addition of different aliquots of the working stock solution of the analyte to synthetic urine without Cr."
+    },
+    "Question_8": {
+        "Context": "The World Health Organization provides guidelines for the effective concentration range of urinary creatinine.",
+        "Question": "According to the WHO, what is the effective concentration range of urinary creatinine?",
+        "A": "5\u201320 mg/dL",
+        "B": "20\u2013300 mg/dL",
+        "C": "30\u2013300 mg/dL",
+        "D": "5.6\u201322.6 mg/dL",
+        "Answer": "C",
+        "Source": "The World Health Organization (WHO) states that the effective concentration range of urinary Cr is 30\u2013300 mg/dL."
+    },
+    "Question_9": {
+        "Context": "In analytical chemistry, the lower limit of quantification (LLOQ) is the smallest concentration of a compound that can be reliably quantified.",
+        "Question": "What is the lower limit of quantification for creatinine using the colorimetric method based on the Jaff\u00e9 reaction?",
+        "A": "4.2 mg/dL",
+        "B": "5 mg/dL",
+        "C": "20 mg/dL",
+        "D": "30 mg/dL",
+        "Answer": "A",
+        "Source": "The manufacturer\u2019s guideline states that the lower limit of quantification (LLOQ) is 4.2 mg/dL, and the range of quantification is 4.2\u2013622 mg/dL."
+    },
+    "Question_10": {
+        "Context": "In the analysis of biological samples, the precision and accuracy of the analytical method are crucial for reliable results.",
+        "Question": "What was the intra-day precision percentage for the creatinine analysis method used?",
+        "A": "0.9%",
+        "B": "1.5%",
+        "C": "6.9%",
+        "D": "6.8%",
+        "Answer": "A",
+        "Source": "The intra-day and inter-day precision was 0.9% and 1.5%, respectively; the intra-day and inter-day accuracy was 6.9% and 6.8%, respectively."
+    }
+}

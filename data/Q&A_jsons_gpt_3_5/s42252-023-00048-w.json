@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "Based on the classification of natural fibres, which type of natural fibres is primarily composed of proteins such as keratin, fibroin, collagen, and chitosan?",
+            "Question": "What are animal fibres primarily composed of?",
+            "A": "Lignocellulosic",
+            "B": "Mineral-derived",
+            "C": "Plant-derived",
+            "D": "Protein-based",
+            "Answer": "D",
+            "Source": "Animal fibres such as wool and silk are primarily composed of proteins such as keratin, fibroin, collagen, and chitosan."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "Considering the properties of natural fibres, which type of plant fibres tend to be more hydrophilic?",
+            "Question": "Which type of plant fibres are more hydrophilic in nature?",
+            "A": "Primary plant fibres",
+            "B": "Secondary plant fibres",
+            "C": "Bast fibres",
+            "D": "Leaf fibres",
+            "Answer": "A",
+            "Source": "By contrast, plant fibres are lignocellulosic in nature, comprised of lignin, cellulose, hemicellulose, pectins, and waxes, and hence more hydrophilic. They can be classified as primary or secondary, where primary plant fibres are those that are grown specifically for use as fibres."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "Regarding the mechanical properties of natural fibres, which type of plant fibres tend to have excellent Young's modulus and flexural strength?",
+            "Question": "Which type of plant fibres have excellent Young's modulus and flexural strength?",
+            "A": "Leaf fibres",
+            "B": "Primary plant fibres",
+            "C": "Secondary plant fibres",
+            "D": "Bast fibres",
+            "Answer": "D",
+            "Source": "Bast fibres, for example, are those that come from the stem of a plant and tend to have excellent Young\u2019s modulus and flexural strength."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "Considering the properties of natural fibres, which type of natural fibres are as strong as steel wire and stiffer than E-glass fibres based on equivalent weights?",
+            "Question": "Which type of natural fibres are as strong as steel wire and stiffer than E-glass fibres based on equivalent weights?",
+            "A": "Leaf fibres",
+            "B": "Primary plant fibres",
+            "C": "Secondary plant fibres",
+            "D": "Bast fibres",
+            "Answer": "D",
+            "Source": "Bast fibres (flax, hemp, jute, and ramie), also, are as strong as steel wire and stiffer than E-glass fibres based on equivalent weights."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "In terms of the solubility parameters of polymers, which polymer has a high Hildebrand solubility parameter of 32 MPa1/2?",
+            "Question": "Which polymer has a high Hildebrand solubility parameter of 32 MPa1/2?",
+            "A": "PHB",
+            "B": "PLA",
+            "C": "PBAT",
+            "D": "Cellulose",
+            "Answer": "D",
+            "Source": "As can be seen from these results, cellulose has a high Hildebrand solubility parameter at 32 MPa1/2."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "Regarding the biodegradation of polymers, which type of polymers primarily undergo abiotic hydrolysis via bulk erosion?",
+            "Question": "Which type of polymers primarily undergo abiotic hydrolysis via bulk erosion?",
+            "A": "PHA",
+            "B": "PLA",
+            "C": "PBAT",
+            "D": "PCL",
+            "Answer": "B",
+            "Source": "As previously noted, PLA primarily undergoes abiotic hydrolysis via bulk erosion, which is a slow process under ambient conditions."
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "Considering the durability of biodegradable polymer biocomposites, what factor is associated with preferential swelling of the organic fibre?",
+            "Question": "What factor is associated with preferential swelling of the organic fibre in biodegradable polymer biocomposites?",
+            "A": "Microbial attack",
+            "B": "Thermal stability",
+            "C": "Moisture absorption",
+            "D": "UV resistance",
+            "Answer": "C",
+            "Source": "Moisture absorption in particular is associated with preferential swelling of the organic fibre, leading to differential expansion between matrix and fibre and delamination of the interface."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "Regarding the recycling of biodegradable polymer biocomposites, what is a common fate for much of the plastic waste currently generated?",
+            "Question": "What is a common fate for much of the plastic waste currently generated?",
+            "A": "Incineration",
+            "B": "Landfill",
+            "C": "Chemical recycling",
+            "D": "Mechanical recycling",
+            "Answer": "B",
+            "Source": "Finally, landfill is a common fate for much of the plastic waste currently generated."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "In terms of the mechanical properties of biodegradable polymer biocomposites, what is an active area of investigation for which there is far less research to date?",
+            "Question": "What is an active area of investigation with far less research to date regarding biodegradable polymer biocomposites?",
+            "A": "Durability testing",
+            "B": "Biodegradation rate",
+            "C": "Chemical recycling",
+            "D": "Mechanical recycling",
+            "Answer": "C",
+            "Source": "The mechanical or chemical recycling of biodegradable polymer biocomposites is an active area of investigation for which there is far less research to date."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "Considering the development of new biobased and biodegradable polymer biocomposites, what is underpinning the delivery of the promise seen for these materials?",
+            "Question": "What is underpinning the delivery of the promise seen for new biobased and biodegradable polymer biocomposites?",
+            "A": "Machine learning framework",
+            "B": "Raw material selection",
+            "C": "End-of-life properties",
+            "D": "Processing technologies",
+            "Answer": "A",
+            "Source": "Underpinning the delivery of this promise will be fundamental understandings in polymer chemistry, processing, and structure-property-degradation relationships."
+        }
+    }
+]

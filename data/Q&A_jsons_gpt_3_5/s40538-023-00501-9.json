@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the impact of deficit irrigation and fertilization on chili plants.",
+        "Question": "What was the effect of deficit irrigation on the enzymatic activity of capsaicin synthase (CS) in 'Chili-AS Rot'?",
+        "A": "Decreased enzymatic activity",
+        "B": "Increased enzymatic activity",
+        "C": "No effect on enzymatic activity",
+        "D": "Varied depending on the irrigation treatment",
+        "Answer": "B",
+        "Source": "In 'Chili-AS Rot', the deficit irrigation had the highest CS activity of 16.08 nmol/s*g FW compared to the other treatments."
+    },
+    "Question_2": {
+        "Context": "The study examined the nitrogen utilization from fertilizer in chili plants.",
+        "Question": "How did the utilization of nitrogen fertilizer change in 'Naga Morich' under deficit irrigation?",
+        "A": "Increased",
+        "B": "Decreased",
+        "C": "Remained the same",
+        "D": "Varied depending on the fertilizer treatment",
+        "Answer": "B",
+        "Source": "In 'Naga Morich', N yield and percent N utilization of fertilizer were approximately between 55 and 65% lower in the half-fertilizer treatments regardless of irrigation treatment."
+    },
+    "Question_3": {
+        "Context": "The study analyzed the impact of deficit irrigation on capsaicinoid content in chili plants.",
+        "Question": "What was the effect of deficit irrigation on the total capsaicinoid content in 'Naga Morich'?",
+        "A": "Increased",
+        "B": "Decreased",
+        "C": "Remained unchanged",
+        "D": "Varied depending on the irrigation treatment",
+        "Answer": "C",
+        "Source": "The content of total capsaicinoids was higher in FCff and DIff than in the FCff and FChf."
+    },
+    "Question_4": {
+        "Context": "The study investigated the impact of deficit fertilization on chili plant yield.",
+        "Question": "How did the yield of 'Chili-AS Rot' compare between the deficit irrigation and full-fertilization treatment?",
+        "A": "Higher yield under deficit irrigation",
+        "B": "Higher yield under full-fertilization",
+        "C": "No significant difference in yield",
+        "D": "Varied depending on the plant part analyzed",
+        "Answer": "A",
+        "Source": "The yield of 'Chili-AS Rot' was between 18.2 and 26.7% higher than the other treatments under deficit irrigation."
+    },
+    "Question_5": {
+        "Context": "The study examined the effect of deficit irrigation on nitrogen translocation in chili plants.",
+        "Question": "What was the impact of deficit irrigation on nitrogen translocation in 'Chili-AS Rot'?",
+        "A": "Reduced nitrogen translocation",
+        "B": "Enhanced nitrogen translocation",
+        "C": "No effect on nitrogen translocation",
+        "D": "Varied depending on the nitrogen content in the plant parts",
+        "Answer": "A",
+        "Source": "In the cultivar 'Chili-AS Rot', deficit irrigation was found to reduce the utilization of N fertilizer when the plant and fruit were considered."
+    },
+    "Question_6": {
+        "Context": "The study evaluated the enzymatic activity in chili plants under different irrigation and fertilization conditions.",
+        "Question": "Which treatment showed the highest phenylalanine ammonia lyase (PAL) activity in 'Naga Morich'?",
+        "A": "FCff",
+        "B": "FChf",
+        "C": "Diff",
+        "D": "DIhf",
+        "Answer": "A",
+        "Source": "In 'Naga Morich', CS activity was highest in FCff treatment and lowest in Diff treatment."
+    },
+    "Question_7": {
+        "Context": "The study investigated the impact of deficit fertilization on capsaicinoid content in chili plants.",
+        "Question": "How did the content of homocapsaicin change in 'Chili-AS Rot' under deficit fertilization?",
+        "A": "Decreased",
+        "B": "Increased",
+        "C": "Remained unchanged",
+        "D": "Varied depending on the capsaicinoid studied",
+        "Answer": "B",
+        "Source": "Half dose fertilized plants of 'Chili-AS Rot' showed higher content of homocapsaicin than full-fertilized plants."
+    },
+    "Question_8": {
+        "Context": "The study examined the nitrogen parameters in chili plants under different irrigation and fertilization treatments.",
+        "Question": "What was the effect of deficit irrigation on the nitrogen yield in 'Naga Morich'?",
+        "A": "Higher nitrogen yield under deficit irrigation",
+        "B": "Lower nitrogen yield under deficit irrigation",
+        "C": "No significant difference in nitrogen yield",
+        "D": "Varied depending on the nitrogen content in the plant parts",
+        "Answer": "B",
+        "Source": "N yield under field capacity irrigation was 1.30 mg/plant lower when half N was added than under full-fertilization."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the impact of deficit irrigation on plant biomass yield in chili plants.",
+        "Question": "Which treatment showed the highest fruit dry weight in 'Naga Morich'?",
+        "A": "FCff",
+        "B": "FChf",
+        "C": "Diff",
+        "D": "DIhf",
+        "Answer": "D",
+        "Source": "The DIhf showed the best results, with an 8.8\u201325.6% higher yield, 19.1\u201336.5% higher fruit number per plant and 24.9\u201327.6% higher fruit DW when compared to the other treatments."
+    },
+    "Question_10": {
+        "Context": "The study focused on the metabolic response of chili plants under different irrigation and fertilization conditions.",
+        "Question": "What was the effect of deficit fertilization on the capsaicin content in 'Naga Morich'?",
+        "A": "Increased capsaicin content",
+        "B": "Decreased capsaicin content",
+        "C": "Remained unchanged",
+        "D": "Varied depending on the irrigation treatment",
+        "Answer": "A",
+        "Source": "Capsaicin content was higher in full dose of fertilizer regardless of irrigation treatment, ranging from 3.9 to 5.9%."
+    }
+}

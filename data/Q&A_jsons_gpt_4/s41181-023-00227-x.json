@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Nanoparticles can be engineered to exhibit certain behaviors within biological systems, which can be influenced by their size, shape, surface charge, and chemical modifications.",
+        "Question": "What is the effect of nanoparticle size on their uptake by phagocytic cells?",
+        "A": "Size has no effect on uptake by phagocytic cells",
+        "B": "Larger nanoparticles are more readily engulfed by phagocytic cells",
+        "C": "Smaller nanoparticles are more readily engulfed by phagocytic cells",
+        "D": "Only nanoparticles of medium size are engulfed by phagocytic cells",
+        "Answer": "B",
+        "Source": "Our results of internalisation experiments involving three submicron-sized nanoparticles and RAW264.7 murine macrophage cells suggested that the uptake of nanoparticles by phagocytic cells is size-dependent. Recent studies have reported similar findings of internalisation experiments involving macrophage cell lines and PLGA nanoparticles, emphasising that larger nanoparticles are more readily engulfed by phagocytic cells, even early after administration."
+    },
+    "Question_2": {
+        "Context": "The administration route of nanoparticles can significantly affect their behavior in vivo, particularly in terms of tissue absorption, metabolism, and elimination.",
+        "Question": "Which administration route for nanoparticles resulted in the highest and most targeted pulmonary uptake?",
+        "A": "Intravenous",
+        "B": "Intramuscular",
+        "C": "Intranasal",
+        "D": "Subcutaneous",
+        "Answer": "C",
+        "Source": "Positron emission tomography revealed that intranasal delivery resulted in the highest and most targeted pulmonary uptake, whereas intravenous administration led to accumulation mainly in the liver and spleen."
+    },
+    "Question_3": {
+        "Context": "The physicochemical properties of nanoparticles, such as size and charge, can influence their interaction with biological systems and their subsequent uptake by cells.",
+        "Question": "What was the observed effect of fluorescent labelling on the size and charge of poly(lactic-co-glycolic acid) (PLGA) nanoparticles?",
+        "A": "Fluorescent labelling significantly increased the size and charge",
+        "B": "Fluorescent labelling significantly decreased the size and charge",
+        "C": "Fluorescent labelling did not significantly alter the nanoparticle size and charge",
+        "D": "Fluorescent labelling eliminated the charge of the nanoparticles",
+        "Answer": "C",
+        "Source": "Fluorescent labelling did not significantly alter the nanoparticle size and charge."
+    },
+    "Question_4": {
+        "Context": "In the context of drug delivery, the use of biocompatible and biodegradable polymers is crucial for reducing toxicity and enhancing the structural stability of nanoparticles.",
+        "Question": "Which biocompatible and biodegradable polymer is approved for medical use and is known for its low toxicity and satisfactory structural stability?",
+        "A": "Polyethylene glycol",
+        "B": "Poly(lactic-co-glycolic acid) (PLGA)",
+        "C": "Polycaprolactone",
+        "D": "Polyvinyl alcohol",
+        "Answer": "B",
+        "Source": "In this context, poly(lactic-co-glycolic acid) (PLGA), a biocompatible and biodegradable polymer approved for medical use by both the U.S. Food and Drug Administration and the European Medicines Agency, has garnered substantial attention in the field of drug delivery systems."
+    },
+    "Question_5": {
+        "Context": "The method of nanoparticle administration can influence their distribution and retention in specific tissues, which is critical for targeted drug delivery.",
+        "Question": "What was the distribution pattern of intravenously administered nanoparticles in mice?",
+        "A": "Consistent distribution in the liver and gradual increase in the spleen",
+        "B": "Rapid decrease in the liver and consistent distribution in the spleen",
+        "C": "Rapid increase in the liver and consistent distribution in the lungs",
+        "D": "Consistent distribution in the lungs and rapid decrease in the spleen",
+        "Answer": "A",
+        "Source": "In mice that were intravenously administered nanoparticles, we observed substantial distribution of the nanoparticles in the liver (28.3 \u00b1 13.61%ID/g), lungs (14.76 \u00b1 0.8%ID/g), and spleen (5.96 \u00b1 2.04%ID/g). The initial distribution of nanoparticles in the liver remained consistent over 7 days, whereas that in the spleen gradually increased."
+    },
+    "Question_6": {
+        "Context": "The uptake of nanoparticles by immune cells can be influenced by the physicochemical properties of the nanoparticles, which can be tailored to target specific cell types.",
+        "Question": "Which immune cells demonstrated a higher tendency for nanoparticle uptake irrespective of the time after nanoparticle administration?",
+        "A": "Lymphoid immune cells",
+        "B": "Myeloid immune cells",
+        "C": "Erythrocytes",
+        "D": "Platelets",
+        "Answer": "B",
+        "Source": "Across all observed time points, immune cell subsets, including alveolar macrophages, dendritic cells (DCs), monocytes, and neutrophils, consistently exhibited a trend toward increased nanoparticle uptake compared to lymphoid immune cells."
+    },
+    "Question_7": {
+        "Context": "The stability and homogeneity of nanoparticle suspensions are often assessed using the polydispersity index (PDI), which provides information on the size distribution of the particles.",
+        "Question": "What does a low polydispersity index (PDI) value indicate about the size distribution of nanoparticles?",
+        "A": "A broad size distribution",
+        "B": "An inconsistent size distribution",
+        "C": "A homogenous size distribution",
+        "D": "The size distribution cannot be determined from PDI",
+        "Answer": "C",
+        "Source": "The PDI values were 0.16 \u00b1 0.06, 0.12 \u00b1 0.11, and 0.12 \u00b1 0.04, respectively, indicating homogenous size distribution of all nanoparticles."
+    },
+    "Question_8": {
+        "Context": "The zeta potential of nanoparticles is a measure of the surface charge, which can influence the interaction between nanoparticles and biological membranes.",
+        "Question": "What charge did all PLGA-NH2 nanoparticles display?",
+        "A": "Strong positive charge",
+        "B": "Strong negative charge",
+        "C": "Neutral charge",
+        "D": "Similar negative charges",
+        "Answer": "D",
+        "Source": "Regarding zeta potential, all nanoparticles displayed similar negative charges\u2014 PLGA-NH2-S, -11.49 \u00b1 3.46 mV; PLGA-NH2-M, \u2212 11.74 \u00b1 0.64 mV; and PLGA-NH2-L, \u2212 9.57 \u00b1 0.18 mV."
+    },
+    "Question_9": {
+        "Context": "The use of radiolabelling techniques, such as with the isotope 89Zr, allows for the tracking of nanoparticles within biological systems using imaging modalities like positron emission tomography (PET).",
+        "Question": "What is the half-life of the isotope 89Zr used for PET imaging?",
+        "A": "1.2 days",
+        "B": "2.5 days",
+        "C": "3.2 days",
+        "D": "4.6 days",
+        "Answer": "C",
+        "Source": "To investigate the long-term systemic distribution, trafficking, and elimination dynamics of the nanoparticles in vivo, we used 89Zr, which has a half-life of 3.2 days, for PET imaging."
+    },
+    "Question_10": {
+        "Context": "The interaction of nanoparticles with immune cells can be quantified using techniques such as fluorescence-activated cell sorting (FACS) analysis.",
+        "Question": "Which lung immune cells showed a decline in nanoparticle uptake at 48 hours after intranasal administration?",
+        "A": "Alveolar macrophages",
+        "B": "Dendritic cells",
+        "C": "Monocytes",
+        "D": "Neutrophils",
+        "Answer": "B",
+        "Source": "DCs exhibited a sharp decline in nanoparticle uptake at 12 h, with the lowest uptake level among myeloid immune cells at 48 h."
+    }
+}

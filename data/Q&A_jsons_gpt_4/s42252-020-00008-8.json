@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Carbon-based adsorbents are known for their exceptional adsorption capability due to their porous structure and the presence of various functional groups on their surface.",
+        "Question": "What is the primary advantage of using carbon-based adsorbents for environmental remediation?",
+        "A": "They have a high thermal stability.",
+        "B": "They possess exceptional adsorption capability.",
+        "C": "They are primarily composed of cellulose.",
+        "D": "They are non-porous materials.",
+        "Answer": "B",
+        "Source": "Carbon-based adsorbents possess exceptional adsorption capability, making them an ideal platform for the remediation of environmental contaminants."
+    },
+    "Question_2": {
+        "Context": "Lignosulfonate is a byproduct of the pulping process and is a complex polymer that can be carbonized to produce carbonaceous materials.",
+        "Question": "What is lignosulfonate primarily composed of?",
+        "A": "Glucose monomers",
+        "B": "Amino acids",
+        "C": "p-coumaryl, coniferyl, and sinapyl alcohol building blocks",
+        "D": "Nucleotide chains",
+        "Answer": "C",
+        "Source": "Lignin is a complex heterogeneous polymer composed in large part of p-coumaryl, coniferyl, and sinapyl alcohol building blocks making up a molecular chain with a large number of phenyl rings."
+    },
+    "Question_3": {
+        "Context": "Hydrothermal carbonization is a process used to carbonize biomass, which operates at relatively low temperatures and is considered a green approach.",
+        "Question": "What is a key advantage of hydrothermal carbonization compared to pyrolytic carbonization?",
+        "A": "It requires higher temperatures.",
+        "B": "It produces a lower yield of carbonaceous materials.",
+        "C": "It significantly reduces energy consumption and air pollution.",
+        "D": "It is a less time-efficient method.",
+        "Answer": "C",
+        "Source": "In comparison to pyrolytic carbonization, HTC proceeds at much lower temperatures in a closed system, thus significantly reducing energy consumption and air pollution."
+    },
+    "Question_4": {
+        "Context": "Nanographene oxide (nGO) can be synthesized from lignosulfonate-derived carbon spheres through an oxidation process that introduces oxygen-containing functional groups.",
+        "Question": "What functional groups are introduced to lignosulfonate-derived carbon spheres to form nanographene oxide (nGO)?",
+        "A": "Hydroxyl and amino groups",
+        "B": "Carboxyl and epoxy groups",
+        "C": "Phosphate and sulfonate groups",
+        "D": "Aldehyde and ketone groups",
+        "Answer": "B",
+        "Source": "The obtained CS were sonicated in a 70% HNO3 aque- ous solution (1:100 w/w) for 30 min. Oxidation was per- formed at 90 \u00b0C with constant stirring for 30 min."
+    },
+    "Question_5": {
+        "Context": "The adsorption capacity of a material is an important measure of its ability to capture and hold substances, such as pollutants, on its surface.",
+        "Question": "Which functional group on lignosulfonate-based nanocomposites is primarily responsible for the adsorption of heavy metal ions?",
+        "A": "Hydroxyl groups",
+        "B": "Epoxy groups",
+        "C": "Sulfonate groups",
+        "D": "Amino groups",
+        "Answer": "C",
+        "Source": "The presence of negatively-charged sulfonate groups increased the Cu(II) equilibrium adsorption capacity (66 mg/g) by 24% in comparison to the non-functionalized nGO/gelatin counterpart."
+    },
+    "Question_6": {
+        "Context": "The synthesis of carbonaceous materials from lignin-based precursors can be achieved through various methods, including hydrothermal carbonization.",
+        "Question": "Which biomass component yields chars with higher thermal stability and lower reactivity due to higher fixed carbon contents?",
+        "A": "Cellulose-rich biomass",
+        "B": "Lignin-rich biomass",
+        "C": "Hemicellulose-rich biomass",
+        "D": "Starch-rich biomass",
+        "Answer": "B",
+        "Source": "In comparison to cellulose-rich biomass, lignin-rich biomass yield chars with higher thermal stability and lower reactiv- ity as a result of their higher fixed carbon contents."
+    },
+    "Question_7": {
+        "Context": "The porosity of an adsorbent material is a critical factor that influences its adsorption performance.",
+        "Question": "What is the role of gelatin in the formation of lignosulfonate-based nanocomposites?",
+        "A": "It acts as a plasticizer.",
+        "B": "It serves as a crosslinking agent.",
+        "C": "It functions as a catalyst.",
+        "D": "It is used as a solvent.",
+        "Answer": "B",
+        "Source": "Self-assembly of a three-dimensional porous hydrogel was thereafter initiated by using gelatin as a low cost, highly available and biodegradable crosslinker."
+    },
+    "Question_8": {
+        "Context": "The introduction of functional groups to a carbon-based adsorbent can enhance its adsorption performance by providing additional active sites.",
+        "Question": "How does non-covalent functionalization with lignosulfonate enhance the adsorption performance of porous composites?",
+        "A": "By reducing the thermal stability of the composite",
+        "B": "By decreasing the pore size of the composite",
+        "C": "By increasing the number of negatively-charged functional groups",
+        "D": "By introducing hydrophobic groups to the composite",
+        "Answer": "C",
+        "Source": "Further enhancement of adsorption performance was achieved by introducing additional surface functional groups through a non-covalent functionalization of the porous composite with lignosulfonate."
+    },
+    "Question_9": {
+        "Context": "The adsorption rate of a material is indicative of how quickly it can reach adsorption equilibrium.",
+        "Question": "What is the significance of the adsorption rate when comparing lignosulfonate-based nanocomposites to other graphene- or GO-based adsorbents?",
+        "A": "Lignosulfonate-based nanocomposites have a slower adsorption rate.",
+        "B": "Lignosulfonate-based nanocomposites have a similar adsorption rate.",
+        "C": "Lignosulfonate-based nanocomposites have a faster adsorption rate.",
+        "D": "The adsorption rate is not a relevant factor in comparison.",
+        "Answer": "C",
+        "Source": "Both functionalized and non-functionalized composites exhibited significantly faster adsorption rates (40 min) compared to many graphene- or GO-based adsorbents reported in literature."
+    },
+    "Question_10": {
+        "Context": "The reusability of an adsorbent is an important characteristic for its practical application in environmental remediation.",
+        "Question": "What is the recyclability potential of lignosulfonate-based nanocomposites as adsorbents?",
+        "A": "They cannot be reused after the first adsorption cycle.",
+        "B": "They retain full adsorption capacity after multiple cycles.",
+        "C": "They require a high concentration of acid for regeneration.",
+        "D": "They retain a significant portion of their adsorption capacity after several cycles.",
+        "Answer": "D",
+        "Source": "The reusability of the composite is one of the key factors for potential use in industrial applications. Five cycles of adsorption-desorption were performed for the recyclability test."
+    }
+}

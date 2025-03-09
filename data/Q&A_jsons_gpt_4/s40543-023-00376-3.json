@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In Islamic dietary law, certain substances are considered permissible and legal, while others are forbidden. The terms used to describe these categories are 'halal' and 'haram' respectively.",
+        "Question": "What term is used to describe substances that are permissible and legal under Islamic dietary law?",
+        "A": "Haram",
+        "B": "Halal",
+        "C": "Makruh",
+        "D": "Mustahab",
+        "Answer": "B",
+        "Source": "Under Islamic law, 'halal' refers to what is permitted and legal, whereas 'haram' refers to the forbidden."
+    },
+    "Question_2": {
+        "Context": "In the context of food authentication, the detection of non-halal substances such as porcine proteins in products is crucial for certain communities. Various analytical techniques are employed for this purpose.",
+        "Question": "Which of the following analytical techniques is NOT commonly used for authenticating pork and its derivatives in food products?",
+        "A": "Enzyme-linked immunosorbent assays (ELISAs)",
+        "B": "Sodium dodecyl sulfate\u2013polyacrylamide electrophoresis (SDS\u2212PAGE)",
+        "C": "Polymerase chain reactions (PCRs)",
+        "D": "Gas chromatography-flame ionization detection (GC-FID)",
+        "Answer": "D",
+        "Source": "Analytical techniques for authenticating pork and its derivatives include enzyme-linked immunosorbent assays (ELISAs), sodium dodecyl sulfate\u2013polyacrylamide electrophoresis (SDS\u2212PAGE), polymerase chain reactions (PCRs), and mass spectrometry (MS)."
+    },
+    "Question_3": {
+        "Context": "Mass spectrometry (MS) is a powerful analytical tool used for the characterization of complex samples, including the detection of specific proteins from different species.",
+        "Question": "What is one of the major limitations of polymerase chain reaction (PCR) methods in the detection of animal source DNA?",
+        "A": "Inability to identify the origin of gelatin tissue",
+        "B": "High sensitivity for DNA detection during food processing",
+        "C": "Rapid and accurate results for processed meat",
+        "D": "High resistance to DNA degradation under heat",
+        "Answer": "A",
+        "Source": "A major limitation of PCR is the critical DNA extraction method because DNA degradation under heat and acidic environments results in lower accuracy of animal source identification. Moreover, PCR-based methods cannot identify the origin of gelatin tissue."
+    },
+    "Question_4": {
+        "Context": "Liquid chromatography\u2013mass spectrometry (LC\u2013MS) is an analytical technique that combines the physical separation capabilities of liquid chromatography with the mass analysis capabilities of mass spectrometry.",
+        "Question": "What is one of the advantages of using liquid chromatography\u2013mass spectrometry (LC\u2013MS) for halal authentication over other methods like ELISA and PCR?",
+        "A": "Requires more sample preparation procedures",
+        "B": "Lower reproducibility",
+        "C": "High sensitivity and specificity for analyzing meat",
+        "D": "Higher detection limit",
+        "Answer": "C",
+        "Source": "The liquid chromatography\u2013mass spectrometry (LC\u2013MS) approach has some advantages that outweigh the disadvantages of ELISA, PCR, and SDS-PAGE. In addition, it requires fewer sample preparation procedures and has good reproducibility, sensitivity, and specificity for analyzing meat."
+    },
+    "Question_5": {
+        "Context": "Sample preparation is a critical step in LC\u2013MS analysis, and the process can vary depending on the type of sample, such as meat-based or gelatin-based products.",
+        "Question": "Which of the following is NOT a typical step in the sample preparation for LC\u2013MS analysis of meat-based products?",
+        "A": "Meat pre-treatment",
+        "B": "Protein extraction",
+        "C": "Digestion",
+        "D": "Polymerization",
+        "Answer": "D",
+        "Source": "For example, in meat-based products, sample preparation before LC\u2013MS analysis includes meat pre-treatment, protein extraction, digestion, and desalting."
+    },
+    "Question_6": {
+        "Context": "The sensitivity of downstream analyses in LC\u2013MS can be significantly affected by the conditions of sample preparation and instrumentation.",
+        "Question": "What is the purpose of desalting in the sample preparation process for LC\u2013MS analysis?",
+        "A": "To increase the pH of the sample",
+        "B": "To reduce the complexity of the matrix for peptide ionization",
+        "C": "To enhance the flavor of the sample",
+        "D": "To precipitate proteins out of the solution",
+        "Answer": "B",
+        "Source": "Desalting is one of the critical steps in LC\u2013MS peptide determination. Desalting after or before trypsin digestion can reduce the complexity of the matrix for peptide ionization."
+    },
+    "Question_7": {
+        "Context": "In LC\u2013MS analysis, the selection of biomarkers is crucial for the identification of specific proteins, such as those used to authenticate the presence of porcine proteins in food products.",
+        "Question": "What is an important consideration when selecting marker peptides for differentiating between animal species in LC\u2013MS analysis?",
+        "A": "The peptides should have high molecular weight",
+        "B": "The peptides should be unique to a single species",
+        "C": "The peptides should be common to all species",
+        "D": "The peptides should be derived from plant proteins",
+        "Answer": "B",
+        "Source": "Biomarkers are chosen based on a set of criteria and must be unique to a single species. Selecting marker peptides to differentiate between animal species is important because surrogate peptides in a complex mixture with the same m/z cannot be distinguished."
+    },
+    "Question_8": {
+        "Context": "LC\u2013MS involves separating mixtures using liquid chromatography and identifying compounds with mass spectrometry. The data produced includes retention times, mass-to-charge ratios, and intensity.",
+        "Question": "In LC\u2013MS analysis, what does the retention time (RT) refer to?",
+        "A": "The duration of the ionization process",
+        "B": "The time it takes for a compound to pass through the LC column",
+        "C": "The stability of the mass spectrometer's signal",
+        "D": "The charge of the ions detected by the mass spectrometer",
+        "Answer": "B",
+        "Source": "An LC\u2013MS experiment produces three types of data: (1) retention times (RTs), (2) mass-to-charge ratios (m/z), and (3) intensity (Tuli and Ressom 2009)."
+    },
+    "Question_9": {
+        "Context": "Mass spectrometry can be enhanced by using tandem mass spectrometry (MS/MS), which involves multiple mass spectrometers to analyze a sample in a two-step process.",
+        "Question": "What is the purpose of using tandem mass spectrometry (MS/MS) in peptide sequencing?",
+        "A": "To increase the pH level of peptides",
+        "B": "To reduce the molecular weight of peptides",
+        "C": "To isolate the precursor ion and determine the product ions",
+        "D": "To enhance the solubility of peptides in the mobile phase",
+        "Answer": "C",
+        "Source": "MS/MS can be employed for peptide sequencing through a mass analyzer to isolate the precursor ion and collide with inert gas for fragmentation or a second mass analyzer to determine the product ions."
+    },
+    "Question_10": {
+        "Context": "The process of identifying proteins in LC\u2013MS analysis often involves the digestion of proteins into peptides, which can then be analyzed by the mass spectrometer.",
+        "Question": "What is the role of trypsin in the sample preparation for LC\u2013MS analysis?",
+        "A": "To catalyze the polymerization of peptides",
+        "B": "To digest proteins into smaller peptide fragments",
+        "C": "To increase the molecular weight of proteins",
+        "D": "To precipitate proteins from the sample",
+        "Answer": "B",
+        "Source": "Protein digestion is performed following reduction and alkylation. Solutions of the trypsin enzyme in ammonium bicarbonate (Sarah et al. 2016; Wang et al. 2018) or in 0.1% acetic acid (Li et al. 2018) were used for digestion."
+    }
+}

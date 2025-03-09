@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Surface roughness plays a crucial role in the mechanical properties of 3D-printed dental implants. ",
+        "Question": "How does the arithmetic mean deviation of the assessed profile change with the diameter of the 3D-printed dental implants?",
+        "A": "Increases with diameter",
+        "B": "Decreases with diameter",
+        "C": "Remains constant",
+        "D": "Varies unpredictably",
+        "Answer": "A",
+        "Source": "The surface roughness (Ra) of 3D-printed dental implants with a diameter of 3.4 mm was reported to be a minimum of 4.33 \u03bcm and the maximum Ra was 9.94 \u03bcm. The surface roughness of 3D-printed dental implants with a diameter of 4.3 mm was reported to be a minimum of 4.58 \u03bcm and a maximum of 6.02 \u03bcm."
+    },
+    "Question_2": {
+        "Context": "The study focused on the impact of surface roughness on the mechanical properties of 3D-printed dental implants.",
+        "Question": "How does the skewness parameter change with the complexity of the sample geometry?",
+        "A": "Increases with complexity",
+        "B": "Decreases with complexity",
+        "C": "Shows no correlation with complexity",
+        "D": "Varies unpredictably",
+        "Answer": "B",
+        "Source": "The skewness parameter demonstrated a decrease in percentage when used in the samples with complex structures. One of the greatest difficulties of additive manufacturing is the surface finish, and it might be difficult to use 3D-printed parts in other applications where surface finish is a critical factor."
+    },
+    "Question_3": {
+        "Context": "The study explored the relationship between surface roughness and mechanical properties of 3D-printed dental implants.",
+        "Question": "How does the root mean square deviation of the surface change with the printing orientation?",
+        "A": "Increases with printing orientation",
+        "B": "Decreases with printing orientation",
+        "C": "Shows no correlation with printing orientation",
+        "D": "Varies unpredictably",
+        "Answer": "A",
+        "Source": "Deviations between models were recorded, and the Rq value of the 3D-printed dogbone tensile test specimens was 6.94%, the 3D-printed dental implant with a 3.4-mm diameter was 8.16% and the 3D-printed dental implant with a 4.3-mm diameter was 7.08%."
+    },
+    "Question_4": {
+        "Context": "The study investigated the impact of surface roughness on the fatigue properties of 3D-printed dental implants.",
+        "Question": "How does the arithmetical mean height (Ra) change with the number of cycles in fatigue testing?",
+        "A": "Increases with cycles",
+        "B": "Decreases with cycles",
+        "C": "Shows no correlation with cycles",
+        "D": "Varies unpredictably",
+        "Answer": "A",
+        "Source": "Ra increases by 90.74% when the cycles decrease from 262,142 to 137,433, revealing lower cycle gain. It shows a 23% increase in Ra when the cycle increases from 137,433 to 169,624."
+    },
+    "Question_5": {
+        "Context": "The study examined the relationship between surface roughness and mechanical properties of 3D-printed dental implants.",
+        "Question": "How does the ultimate tensile stress (UTS) affect the skewness parameter?",
+        "A": "Increases with UTS",
+        "B": "Decreases with UTS",
+        "C": "Shows no correlation with UTS",
+        "D": "Varies unpredictably",
+        "Answer": "B",
+        "Source": "Ra increases by 1.4% when the UTS decreases to 955.25 MPa at 968.35 MPa and increases by 0.6% when the UTS increases to 961.18 MPa. It was also noticed from the same table that Rsk and Rq increase with the decrease in UTS."
+    },
+    "Question_6": {
+        "Context": "The study focused on the fatigue properties of 3D-printed dental implants.",
+        "Question": "How does the surface roughness parameter change with the decrease in the number of cycles in fatigue testing?",
+        "A": "Increases with cycles decrease",
+        "B": "Decreases with cycles decrease",
+        "C": "Shows no correlation with cycles decrease",
+        "D": "Varies unpredictably",
+        "Answer": "A",
+        "Source": "For 3D-printed dental implants, the greater the surface roughness, the lower the mechanical properties, which in turn shortens the life of the implant and reduces its performance."
+    },
+    "Question_7": {
+        "Context": "The study examined the fatigue properties of 3D-printed dental implants.",
+        "Question": "How does the fatigue life change with the increase in surface roughness?",
+        "A": "Increases with surface roughness",
+        "B": "Decreases with surface roughness",
+        "C": "Shows no correlation with surface roughness",
+        "D": "Varies unpredictably",
+        "Answer": "B",
+        "Source": "Ra increases by 90.74% when the cycles decrease from 262,142 to 137,433, revealing lower cycle gain. It shows a 23% increase in Ra when the cycle increases from 137,433 to 169,624."
+    },
+    "Question_8": {
+        "Context": "The study investigated the mechanical properties of 3D-printed dental implants.",
+        "Question": "How does the maximum load deflection change with the decrease in surface roughness?",
+        "A": "Increases with surface roughness decrease",
+        "B": "Decreases with surface roughness decrease",
+        "C": "Shows no correlation with surface roughness decrease",
+        "D": "Varies unpredictably",
+        "Answer": "B",
+        "Source": "Ra increases by 90.74% when the cycles decrease from 262,142 to 137,433, revealing lower cycle gain. It shows a 23% increase in Ra when the cycle increases from 137,433 to 169,624."
+    },
+    "Question_9": {
+        "Context": "The study focused on the impact of surface roughness on the mechanical properties of 3D-printed dental implants.",
+        "Question": "How does the tensile strain change with the increase in surface roughness?",
+        "A": "Increases with surface roughness",
+        "B": "Decreases with surface roughness",
+        "C": "Shows no correlation with surface roughness",
+        "D": "Varies unpredictably",
+        "Answer": "A",
+        "Source": "Ra increases by 90.74% when the cycles decrease from 262,142 to 137,433, revealing lower cycle gain. It shows a 23% increase in Ra when the cycle increases from 137,433 to 169,624."
+    },
+    "Question_10": {
+        "Context": "The study examined the relationship between surface roughness and mechanical properties of 3D-printed dental implants.",
+        "Question": "How does the yield stress change with the increase in surface roughness?",
+        "A": "Increases with surface roughness",
+        "B": "Decreases with surface roughness",
+        "C": "Shows no correlation with surface roughness",
+        "D": "Varies unpredictably",
+        "Answer": "B",
+        "Source": "Ra increases by 90.74% when the cycles decrease from 262,142 to 137,433, revealing lower cycle gain. It shows a 23% increase in Ra when the cycle increases from 137,433 to 169,624."
+    }
+}

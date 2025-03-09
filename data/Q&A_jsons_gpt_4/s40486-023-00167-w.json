@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Soft robotics is an interdisciplinary field that integrates principles from engineering and biology to create robots with flexible and adaptable structures similar to living organisms.",
+        "Question": "What is the primary objective of soft robots?",
+        "A": "To provide rigid and inflexible interactions with environments",
+        "B": "To provide biologically inspired abilities for adaptable and flexible interactions with complex objects and surroundings",
+        "C": "To replicate the exact movements of animals without adaptation",
+        "D": "To replace all conventional robotics with soft robotics",
+        "Answer": "B",
+        "Source": "The objective of soft robots is to provide biologically inspired abilities and enable adaptable and flexible interactions with complex objects and surroundings."
+    },
+    "Question_2": {
+        "Context": "Stimuli-responsive materials can change their properties in response to external environmental stimuli such as light, electricity, or magnetic fields.",
+        "Question": "Which of the following is NOT a type of external stimulus that can cause soft robots to modify their shape?",
+        "A": "Light",
+        "B": "Electricity",
+        "C": "Thermal gradient",
+        "D": "Sound waves",
+        "Answer": "D",
+        "Source": "Soft robots with incredibly sophisticated multi-mechanical, electrical, or optical capabilities have demonstrated the ability to modify their shape intelligently in response to external stimuli, such as light, electricity, thermal gradient, and magnetic fields."
+    },
+    "Question_3": {
+        "Context": "Polymer-based materials are often used in soft robotics due to their flexibility and ability to mimic the mechanical behavior of biological tissues.",
+        "Question": "Why are polymer-based materials frequently used in the construction of soft robots?",
+        "A": "Because they are the cheapest materials available",
+        "B": "Because they are rigid and unyielding",
+        "C": "Because they resemble the mechanical behavior of biological cells or tissues",
+        "D": "Because they can only respond to magnetic fields",
+        "Answer": "C",
+        "Source": "Much research has been done on polymer-based soft robots because of their flexibility or adaptability, resembling the mechanical behavior of biological cells or tissues."
+    },
+    "Question_4": {
+        "Context": "Soft robots can be designed for various biomedical applications due to the compatibility of certain materials with biological environments.",
+        "Question": "What makes many stimuli-responsive polymers suitable for biomedical applications?",
+        "A": "Their high cost and complexity",
+        "B": "Their non-toxicity to biological environments",
+        "C": "Their ability to function only in dry conditions",
+        "D": "Their rigid and inflexible nature",
+        "Answer": "B",
+        "Source": "Additionally, many stimuli-responsive polymers are non-toxic to biological environments, making soft polymeric robots appropriate for various biomedical uses, including flexible electronics and tissue engineering."
+    },
+    "Question_5": {
+        "Context": "Light-driven soft robots utilize light as a power source to activate movements and functions within the robot.",
+        "Question": "What is the role of light in light-driven soft robots?",
+        "A": "To illuminate the robots for better visibility",
+        "B": "To power the robots through photovoltaic cells",
+        "C": "To provide a heat source for thermal activation",
+        "D": "To power the robots through the photothermal effect",
+        "Answer": "D",
+        "Source": "Due to the photothermal effect of the incorporated CNTs, the LCE-CNT composite exhibited significant reversible activation when exposed to visible light."
+    },
+    "Question_6": {
+        "Context": "Magnetic field-driven soft robots are controlled and actuated by external magnetic fields, which can cause them to change shape or move.",
+        "Question": "How do magnetic field-driven soft robots typically achieve movement or shape change?",
+        "A": "Through gravitational pull",
+        "B": "By using an internal combustion engine",
+        "C": "By using an external moving drive-magnet system for actuation",
+        "D": "Through manual manipulation",
+        "Answer": "C",
+        "Source": "The MagWorm\u2019s soft body consists of magnetic patches that work with an external moving drive-magnet system for actuation."
+    },
+    "Question_7": {
+        "Context": "In soft robotics, the integration of biological components can enhance the robot's capabilities, such as intrinsic sensing and controlled movements.",
+        "Question": "What advantage do biological components provide when integrated into soft robots?",
+        "A": "They increase the robot's weight significantly",
+        "B": "They enable intrinsic sensing and controlled movements",
+        "C": "They make the robots completely autonomous",
+        "D": "They allow the robots to operate without any external stimuli",
+        "Answer": "B",
+        "Source": "Stimuli-responsive soft robots with biological components, such as intrinsic sensing, are essential to enable controlled movements, thus revolutionizing developments in soft robotics."
+    },
+    "Question_8": {
+        "Context": "Electrical field-driven soft robots can be actuated and controlled by applying an external electrical field, which can induce movements in the robot's structure.",
+        "Question": "What is the function of an external electrical field in electrical field-driven soft robots?",
+        "A": "To generate heat for thermal actuation",
+        "B": "To provide electrical stimulation and controlled beating actions",
+        "C": "To charge the robot's internal battery",
+        "D": "To create a magnetic field for actuation",
+        "Answer": "B",
+        "Source": "The Au microelectrodes positioned beneath the cell layer of the soft robotic system also provided the induced electrical stimulation and controlled beating actions."
+    },
+    "Question_9": {
+        "Context": "The development of soft robots often involves creating designs that can adapt and evolve, using materials that are environmentally friendly and can integrate into natural ecosystems.",
+        "Question": "What is a key design goal for future soft bioinspired robots?",
+        "A": "To consume as much energy as possible",
+        "B": "To be composed of non-recyclable materials",
+        "C": "To adapt and evolve using environmentally conscious materials",
+        "D": "To operate independently of the natural ecosystem",
+        "Answer": "C",
+        "Source": "Future soft bioinspired robots should be able to adapt and evolve since they will be composed of recyclable, biodegradable, or biohybrid materials."
+    },
+    "Question_10": {
+        "Context": "Soft robots are designed to perform tasks in various sectors, including manufacturing, healthcare, and environmental monitoring, by leveraging their unique properties.",
+        "Question": "In which sectors are soft robots expected to find new applications?",
+        "A": "Only in space exploration",
+        "B": "Exclusively in underwater environments",
+        "C": "Primarily in the entertainment industry",
+        "D": "Manufacturing, industrial, educational, and consumer sectors",
+        "Answer": "D",
+        "Source": "Soft robots have many uses, and new applications for various technology will be covered. This field can also examine real-world applications in the manufacturing, industrial, educational, and consumer sectors."
+    }
+}

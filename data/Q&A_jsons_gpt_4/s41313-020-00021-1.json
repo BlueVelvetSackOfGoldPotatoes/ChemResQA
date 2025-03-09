@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In materials exposed to radiation, defects such as voids can organize into superlattices with specific crystal structures. These structures are influenced by the conditions of irradiation, including temperature and dose rate.",
+        "Question": "What phenomenon is observed in certain bcc and fcc metals and alloys under specific irradiation conditions?",
+        "A": "Disorganization of crystal lattices",
+        "B": "Melting of the metals and alloys",
+        "C": "Self-organization of defects into void superlattices",
+        "D": "Complete removal of defects",
+        "Answer": "C",
+        "Source": "One of the most intriguing phenomena under radiation is the self-organization of defects, such as the void superlattices, which have been observed in a list of bcc and fcc metals and alloys when the irradiation conditions fall into certain windows defined by temperature and dose rate."
+    },
+    "Question_2": {
+        "Context": "The self-organization of void superlattices in irradiated materials is not only a subject of scientific interest but also has practical implications for mitigating issues in nuclear reactors.",
+        "Question": "What is a potential application of the self-organization of void superlattices in structural materials used in nuclear reactors?",
+        "A": "Enhancing electrical conductivity",
+        "B": "Mitigating swelling and He embrittlement",
+        "C": "Increasing thermal resistance",
+        "D": "Reducing material density",
+        "Answer": "B",
+        "Source": "The self-organization of void superlattices is not only scientifically fascinating, but also a promising way to mitigate swelling and He embrittlement, which are critical concerns on the structural materials used in nuclear reactors, by forming high density of nanoscale voids/bubbles instead of large ones."
+    },
+    "Question_3": {
+        "Context": "The formation of void superlattices involves interactions similar to those in atomic lattices, which can include anisotropic elastic interactions between voids.",
+        "Question": "What type of interaction between voids can lead to void ordering in superlattices?",
+        "A": "Isotropic thermal interactions",
+        "B": "Anisotropic elastic interactions",
+        "C": "Electromagnetic interactions",
+        "D": "Gravitational interactions",
+        "Answer": "B",
+        "Source": "As to void superlattices, a possible such interaction is the elastic interaction between voids, which can be anisotropic and leads to void ordering."
+    },
+    "Question_4": {
+        "Context": "The stability of defect concentration fields under continuous irradiation can be lost, leading to the development of modulated waves at a critical point.",
+        "Question": "What happens to the mean defect concentration fields under continuous irradiation when they lose stability?",
+        "A": "They form a uniform concentration field",
+        "B": "They develop into modulated waves",
+        "C": "They cause immediate material failure",
+        "D": "They result in a phase change of the material",
+        "Answer": "B",
+        "Source": "It has been long realized that during defect accumulation under continuous irradiation, the mean defect concentration fields can lose stability to modulated waves at a certain critical point."
+    },
+    "Question_5": {
+        "Context": "The selection of superlattice structure during defect self-organization under irradiation is influenced by the anisotropic diffusion of self-interstitial atoms (SIAs).",
+        "Question": "What factor is crucial for the selection of superlattice structure during defect self-organization under irradiation?",
+        "A": "Isotropic diffusion of vacancies",
+        "B": "Anisotropic diffusion of self-interstitial atoms",
+        "C": "Uniform distribution of defects",
+        "D": "Temperature independence of defect dynamics",
+        "Answer": "B",
+        "Source": "By analyzing the nonlinear recombination between vacancies and self-interstitial-atoms (SIAs) in the discrete lattice space, this work establishes the physical connection between symmetry breaking and anisotropic SIA diffusion, allowing for predictions of void ordering during defect self-organization."
+    },
+    "Question_6": {
+        "Context": "The formation of void superlattices under irradiation can be predicted by considering the modes of SIA diffusion.",
+        "Question": "Which aspect of SIA behavior is used to predict the formation of void superlattices under irradiation?",
+        "A": "The charge of SIAs",
+        "B": "The recombination radius of SIAs",
+        "C": "The diffusion modes of SIAs",
+        "D": "The energy barrier for SIA migration",
+        "Answer": "C",
+        "Source": "Various superlattice structures can be predicted based on different SIA diffusion modes, and the predictions are in good agreement with atomistic simulations and previous experimental observations."
+    },
+    "Question_7": {
+        "Context": "Theoretical predictions of void superlattice structures are consistent with experimental observations and can be confirmed by atomistic simulations.",
+        "Question": "How are theoretical predictions of void superlattice structures validated?",
+        "A": "Through chemical synthesis of superlattices",
+        "B": "By comparison with experimental observations and atomistic simulations",
+        "C": "Using quantum mechanical calculations",
+        "D": "By measuring the electrical properties of the materials",
+        "Answer": "B",
+        "Source": "Various superlattice structures can be predicted based on different SIA diffusion modes, and the predictions are in good agreement with atomistic simulations and previous experimental observations."
+    },
+    "Question_8": {
+        "Context": "The recombination of vacancies and SIAs is a key process in the formation of void superlattices, and it is influenced by the perturbations in the concentration fields.",
+        "Question": "What effect do perturbations in the concentration fields have on the recombination rate of vacancies and SIAs?",
+        "A": "They increase the recombination rate",
+        "B": "They have no effect on the recombination rate",
+        "C": "They decrease the recombination rate",
+        "D": "They cause immediate recombination of all defects",
+        "Answer": "C",
+        "Source": "The occurrence of perturbations reduces the recombination rate because \u02dccv and \u02dcci always occur simultaneously with antiphase due to the nature of mutual recombination, e.g., increasing in one will simultaneously induce a reduction in the other."
+    },
+    "Question_9": {
+        "Context": "In the context of void superlattice formation, the recombination rate between vacancies and SIAs is affected by the wave vector and the SIA diffusion property.",
+        "Question": "What factors affect the recombination rate between vacancies and SIAs during void superlattice formation?",
+        "A": "Wave vector and SIA diffusion property",
+        "B": "Temperature and pressure",
+        "C": "Electrical conductivity and magnetic fields",
+        "D": "Chemical composition of the material",
+        "Answer": "A",
+        "Source": "When SIA diffuses isotropically, \u03c3k\u03bb is symmetrical about \u02c6k and depends only on k0. While SIA diffuses anisotropically, the dependence on \u02c6k can lead to symmetry breaking."
+    },
+    "Question_10": {
+        "Context": "The formation of void superlattices under irradiation is a dynamic process that involves the accumulation of vacancies and their interaction with SIAs.",
+        "Question": "What is the nature of the defect fields under irradiation when considering the formation of void superlattices?",
+        "A": "Static and unchanging",
+        "B": "Dynamic and evolving due to diffusion and defect production",
+        "C": "Periodically oscillating",
+        "D": "Instantaneously forming without intermediate states",
+        "Answer": "B",
+        "Source": "With such an assumption, Eq. 4 is applicable for both 1D and 3D SIA diffusion. We note that in the literature a different expression has been used for the recombination rate when SIAs perform 1D diffusion (Amino et al. 2011), which followed the analysis of annihilation of 1D diffusing SIA clusters at static traps such as voids (Barashev et al. 2001)."
+    }
+}

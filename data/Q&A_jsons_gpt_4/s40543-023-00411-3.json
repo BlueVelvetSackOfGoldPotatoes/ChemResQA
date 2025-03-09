@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Polo-like kinase 1 (Plk1) is a serine-threonine protein kinase that plays a crucial role in cell division processes such as spindle formation and chromosome separation. It is known to be overexpressed in tumor cells, which makes it a target for cancer treatment.",
+        "Question": "What domains does Polo-like kinase 1 (Plk1) consist of?",
+        "A": "An N-terminal kinase domain and a C-terminal polo-box domain",
+        "B": "A single kinase domain",
+        "C": "An N-terminal phosphatase domain and a C-terminal kinase domain",
+        "D": "A C-terminal kinase domain and an N-terminal polo-box domain",
+        "Answer": "A",
+        "Source": "Plk1 consists of a kinase domain, an ATP-binding site at the N-terminus, and a polo-box domain (PBD) at the C-terminus, and the development of Plk1 inhibitors is being conducted by targeting two proteins."
+    },
+    "Question_2": {
+        "Context": "Inhibitors targeting the polo-box domain (PBD) of Plk1 are being researched as potential cancer treatments due to their specificity to the Plk1 protein overexpressed in tumor cells.",
+        "Question": "Why is the development of inhibitors targeting the C-terminal PBD of Plk1 significant?",
+        "A": "Because they have higher solubility in water",
+        "B": "Because they have improved selectivity and specificity for Plk1",
+        "C": "Because they are easier to synthesize",
+        "D": "Because they are less expensive to produce",
+        "Answer": "B",
+        "Source": "Therefore, it is necessary to develop inhibitors, targeting PBD, that are more effective than BI2536. To overcome these drawbacks and develop an inhibitor with improved selectivity and specificity for Plk1, we developed small molecule-based derivatives targeting the C-terminal PBD present only in Plk1."
+    },
+    "Question_3": {
+        "Context": "Protein-protein interactions (PPIs) are critical for various biological functions, including signal transduction and protein metabolism. Understanding these interactions can lead to the development of new drugs.",
+        "Question": "What is the significance of elucidating protein-protein interactions (PPIs)?",
+        "A": "To increase the rate of protein synthesis",
+        "B": "To understand the essence of life phenomena",
+        "C": "To enhance the stability of proteins",
+        "D": "To simplify the structure of proteins",
+        "Answer": "B",
+        "Source": "Protein\u2013protein interactions (PPI), which occur in the body, are important reactions for understanding the essence of life phenomena and are often present between several proteins in cells."
+    },
+    "Question_4": {
+        "Context": "Small molecule inhibitors are a type of therapeutic agent that can interact with specific proteins within cells to inhibit their activity. They are often designed to target specific domains within a protein that are critical for its function.",
+        "Question": "What is the purpose of designing small molecule inhibitors for proteins?",
+        "A": "To increase the activity of proteins",
+        "B": "To stabilize the protein structure",
+        "C": "To inhibit the activity of specific proteins",
+        "D": "To promote protein-protein interactions",
+        "Answer": "C",
+        "Source": "In addition, through the analysis of protein-inhibitor interactions, the development and research of selective inhibitors of disease-specific proteins are increasing."
+    },
+    "Question_5": {
+        "Context": "The development of anticancer drugs often involves targeting specific proteins that are overexpressed in cancer cells. One such target is the kinase domain of Plk1, which is involved in tumor cell proliferation.",
+        "Question": "What has been a common target for the development of anticancer drugs?",
+        "A": "The polo-box domain (PBD) of Plk1",
+        "B": "The kinase domain (KD) of Plk1",
+        "C": "The ATP-binding site of Plk2",
+        "D": "The phosphatase domain of Plk3",
+        "Answer": "B",
+        "Source": "Over the past decades, many studies have targeted the kinase domain (KD) of Plk1 to confirm its anticancer effects."
+    },
+    "Question_6": {
+        "Context": "Inhibitors that target the ATP-binding site of proteins can sometimes interact with other nonspecific kinases, leading to low selectivity and serious side effects.",
+        "Question": "What is a potential drawback of inhibitors that target the ATP-binding site of proteins?",
+        "A": "They are too large to enter cells",
+        "B": "They have a short half-life in the bloodstream",
+        "C": "They interact with other nonspecific kinases",
+        "D": "They are rapidly metabolized by the liver",
+        "Answer": "C",
+        "Source": "However, because BI2536 is an inhibitor of the kinase domain (KD), which is an ATP-binding site, it interacts with other nonspecific kinases in vivo, resulting in low selectivity and serious side effects."
+    },
+    "Question_7": {
+        "Context": "The process of apoptosis is a form of programmed cell death that is essential for the removal of damaged or unnecessary cells. In cancer treatment, inducing apoptosis in tumor cells is a key strategy.",
+        "Question": "What is the significance of inducing apoptosis in tumor cells for cancer treatment?",
+        "A": "To promote tumor cell proliferation",
+        "B": "To enhance the immune response against tumor cells",
+        "C": "To inhibit tumor cell division",
+        "D": "To eliminate tumor cells",
+        "Answer": "D",
+        "Source": "Suppression of Plk1 results in apoptosis and M-phase cell cycle arrest in tumor cells."
+    },
+    "Question_8": {
+        "Context": "The cell cycle is a series of phases that cells go through as they grow and divide. A checkpoint is a control mechanism that ensures each phase is completed before the next one begins. The G2/M checkpoint is crucial for the cell cycle.",
+        "Question": "What is the role of the G2/M checkpoint in the cell cycle?",
+        "A": "To initiate DNA replication",
+        "B": "To ensure DNA is correctly replicated before mitosis",
+        "C": "To regulate the transition from metaphase to anaphase",
+        "D": "To signal the end of cell division",
+        "Answer": "B",
+        "Source": "Cell cycle arrest by small molecule inhibitors via G2/M checkpoint."
+    },
+    "Question_9": {
+        "Context": "The development of peptide-based inhibitors for protein-protein interactions is challenging due to their poor stability and cell permeability, which are critical for their effectiveness as drugs.",
+        "Question": "Why is the development of peptide-based inhibitors challenging?",
+        "A": "They have high enzyme stability and cell permeability",
+        "B": "They are too stable to be effective",
+        "C": "They have low enzyme stability and cell permeability",
+        "D": "They are too large to synthesize",
+        "Answer": "C",
+        "Source": "Peptides and peptide mimics have excellent binding abilities. However, their enzyme stability and cell permeability are low."
+    },
+    "Question_10": {
+        "Context": "The development of new drugs can be facilitated by the analysis of the structures formed when a target protein and an inhibitor bind, providing insights into the interaction and potential for selectivity.",
+        "Question": "Why is the analysis of protein-inhibitor binding structures important in drug development?",
+        "A": "To determine the nutritional value of the drug",
+        "B": "To assess the color and appearance of the drug",
+        "C": "To understand the interaction and improve selectivity",
+        "D": "To increase the production rate of the drug",
+        "Answer": "C",
+        "Source": "Useful information can be obtained from the structures formed when the target protein and the inhibitor bind."
+    }
+}

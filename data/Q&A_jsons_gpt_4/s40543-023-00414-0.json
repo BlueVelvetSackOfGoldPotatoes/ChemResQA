@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In cell biology, understanding the relationship between genotype and phenotype is crucial. Genomic structures are typically uniform across cells within an organism, but the expression patterns of these genomes dictate the physiological traits of the cells.",
+        "Question": "What dictates the physiological traits of cells within an organism?",
+        "A": "Uniformity of genomic structures across cells",
+        "B": "Expression patterns of the genomes",
+        "C": "Size of the organism",
+        "D": "Number of cells in the organism",
+        "Answer": "B",
+        "Source": "This paradigm shift hinges on the understanding that while genomic structures remain uniform across cells within an organism, the expression patterns dictate physiological traits."
+    },
+    "Question_2": {
+        "Context": "Single-cell RNA sequencing (scRNA-seq) is a technology that allows for the analysis of transcriptomic information at a high resolution, which is essential for understanding the relationship between genotype and phenotype.",
+        "Question": "What technology allows for high-resolution analysis of transcriptomic information to understand the relationship between genotype and phenotype?",
+        "A": "Polymerase Chain Reaction (PCR)",
+        "B": "Genome-wide association studies (GWAS)",
+        "C": "Single-cell RNA sequencing (scRNA-seq)",
+        "D": "Fluorescence in situ hybridization (FISH)",
+        "Answer": "C",
+        "Source": "To fully understand the relationship between genotype and phenotype, it is necessary to analyze transcriptomic information at a high resolution, and advances in high throughput sequencing technologies have made it possible to do so at the level of single cell."
+    },
+    "Question_3": {
+        "Context": "Dimensionality reduction (DR) techniques are used in single-cell RNA sequencing data analysis to simplify the data into lower-dimensional representations that are easier to interpret and analyze.",
+        "Question": "What is the purpose of using dimensionality reduction techniques in single-cell RNA sequencing data analysis?",
+        "A": "To increase the number of dimensions for better visualization",
+        "B": "To simplify the data into lower-dimensional representations for easier interpretation",
+        "C": "To enhance the complexity of the data",
+        "D": "To identify the genomic structures of cells",
+        "Answer": "B",
+        "Source": "To address this challenge, Dimensionality Reduction (DR) techniques have been developed to simplify the data and create lower-dimensional representations that are easier to understand and interpret."
+    },
+    "Question_4": {
+        "Context": "Principal Component Analysis (PCA) is a linear dimensionality reduction technique that identifies linear feature combinations with the highest variance, but it may not capture the complexity of diverse cell types in single-cell RNA sequencing analysis.",
+        "Question": "Why might Principal Component Analysis (PCA) be inadequate for single-cell RNA sequencing analysis?",
+        "A": "Because it identifies non-linear feature combinations",
+        "B": "Because it reduces the variance of the data too much",
+        "C": "Because it may not capture the complexity of diverse cell types",
+        "D": "Because it increases the dimensionality of the data",
+        "Answer": "C",
+        "Source": "However, linear DR approaches are not always reliable for scRNA-seq analysis as they may not fully capture the complexity of diverse cell types and can result in an inadequate representation of the data."
+    },
+    "Question_5": {
+        "Context": "Nonlinear dimensionality reduction techniques are favored over linear ones for single-cell RNA sequencing data visualization because they can capture both local and global patterns in the data.",
+        "Question": "Why are nonlinear dimensionality reduction techniques preferred over linear ones for scRNA-seq data visualization?",
+        "A": "They are computationally less intensive",
+        "B": "They can capture both local and global patterns in the data",
+        "C": "They only capture global patterns, which is sufficient",
+        "D": "They are easier to implement",
+        "Answer": "B",
+        "Source": "In contrast, nonlinear DR techniques have become popular for scRNA-seq data visualization because of their ability to identify both local and global patterns while avoiding coordinate overlap."
+    },
+    "Question_6": {
+        "Context": "Uniform Manifold Approximation and Projection (UMAP) and t-distributed stochastic neighbor embedding (t-SNE) are nonlinear dimensionality reduction algorithms used for visualizing single-cell RNA sequencing data, but they have limitations in maintaining global structures.",
+        "Question": "What is a limitation of UMAP and t-SNE when used for visualizing single-cell RNA sequencing data?",
+        "A": "They cannot handle large datasets",
+        "B": "They are too computationally expensive",
+        "C": "They have difficulty maintaining global structures",
+        "D": "They only work with linear data",
+        "Answer": "C",
+        "Source": "t-SNE and UMAP are good at retaining local structures but have difficulty maintaining global structures."
+    },
+    "Question_7": {
+        "Context": "Pairwise Controlled Manifold Approximation Projection (PaCMAP) is a nonlinear dimensionality reduction algorithm that uses a unique loss function and graph components to preserve local and global structures in single-cell RNA sequencing data.",
+        "Question": "What distinguishes Pairwise Controlled Manifold Approximation Projection (PaCMAP) in handling single-cell RNA sequencing data?",
+        "A": "Its use of a unique loss function and graph components",
+        "B": "Its reliance on linear relationships in the data",
+        "C": "Its inability to handle large datasets",
+        "D": "Its exclusive focus on preserving local structures",
+        "Answer": "A",
+        "Source": "Pairwise Controlled Manifold Approximation Projection (PaCMAP) is a recent nonlinear DR algorithm that claims to achieve this by using a unique loss function and graph components."
+    },
+    "Question_8": {
+        "Context": "Compactness Preservation Pairwise Controlled Manifold Approximation Projection (CP-PaCMAP) is an advancement in single-cell RNA sequencing data visualization that aims to preserve the compactness property of high-dimensional data points in a low-dimensional space.",
+        "Question": "What is the primary advancement of Compactness Preservation Pairwise Controlled Manifold Approximation Projection (CP-PaCMAP) in scRNA-seq data visualization?",
+        "A": "Preservation of the compactness property of high-dimensional data points in a low-dimensional space",
+        "B": "Reduction of computational costs",
+        "C": "Elimination of the need for dimensionality reduction",
+        "D": "Simplification of the genomic structures",
+        "Answer": "A",
+        "Source": "This paper aims to present an augmented version of PaCMAP termed as Compactness Preservation Pairwise Controlled Manifold Approximation Projection (CP-PaCMAP) which can additionally preserve compactness property of HDS datapoints into LDS."
+    },
+    "Question_9": {
+        "Context": "In the context of single-cell RNA sequencing, the term 'compactness' refers to the property of a data point's neighborhood being tightly clustered, with the local radius serving as a measure of this compactness.",
+        "Question": "In scRNA-seq data analysis, what does the term 'compactness' refer to?",
+        "A": "The uniformity of gene expression across different cells",
+        "B": "The tight clustering of a data point's neighborhood",
+        "C": "The number of cells in a given dataset",
+        "D": "The overall size of the dataset",
+        "Answer": "B",
+        "Source": "If a data point\u2019s neighbors are relatively close, the surrounding area is compact for that point. Consequently, the local radius, determined as the mean distance between neighbors, can serve as a measure of local compactness."
+    },
+    "Question_10": {
+        "Context": "The Mantel test is a statistical test used to assess the correlation between distance matrices, which can be applied to evaluate the preservation of pairwise relationships between cells in high-dimensional and low-dimensional spaces after dimensionality reduction.",
+        "Question": "What is the purpose of the Mantel test in the context of dimensionality reduction for scRNA-seq data?",
+        "A": "To determine the optimal number of dimensions for reduction",
+        "B": "To assess the correlation between distance matrices of high-dimensional and low-dimensional spaces",
+        "C": "To calculate the exact distances between cells in low-dimensional space",
+        "D": "To identify the most significant genes in the dataset",
+        "Answer": "B",
+        "Source": "The Mantel test can be utilized along with the Pearson Correlation Coefficient (PCC) to evaluate the preservation of pairwise relationships between cells in the original HDS and their LDS representations."
+    }
+}

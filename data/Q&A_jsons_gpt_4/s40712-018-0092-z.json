@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "In metal cutting processes, the addition of certain substances to lubricants can influence the performance characteristics such as cutting force, temperature, and tool wear.",
+            "Question": "What is the effect of adding alumina nanoparticles to industrial oil in the context of metal cutting processes?",
+            "A": "It increases the cutting force and temperature",
+            "B": "It has no significant effect on the cutting process",
+            "C": "It reduces the cutting force, friction, and cutting temperature",
+            "D": "It only changes the color of the cutting fluid",
+            "Answer": "C",
+            "Source": "Applying nanofluid made by adding alumina nanoparticles to industrial oil may reduce the cutting force, friction, and cutting temperature and, from that, improve the tool life in the hobbing process."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "The properties of nanoparticles can make them suitable for various applications, including as additives in lubricants for machining processes.",
+            "Question": "Which properties of Al2O3 nanoparticles make them suitable for addition to industrial oils for machining processes?",
+            "A": "Low heat resistance and irregular shape",
+            "B": "Heat resistance, spherical shape, and a high specific temperature",
+            "C": "Low sintering temperature and cubic shape",
+            "D": "High reactivity with metal surfaces",
+            "Answer": "B",
+            "Source": "Especially, the Al2O3 nanoparticles have many properties such as heat resistance, spherical shape, and a high specific temperature, consistent with adding to the industrial oils, so it is suitable for the machining process."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "In machining processes, the use of cutting fluids with added nanoparticles has been studied for its effects on various performance metrics.",
+            "Question": "What effects have been indicated by the use of cutting fluids with added Al2O3 nanoparticles in machining processes?",
+            "A": "Increase in tool wear and surface roughness",
+            "B": "Decrease in tool wear, temperature, and surface roughness",
+            "C": "Increase in cutting temperature and decrease in tool wear",
+            "D": "No change in tool wear, temperature, or surface roughness",
+            "Answer": "B",
+            "Source": "Vasu and Reddy (2011) indicated that the using of the cutting fluids added Al2O3 nanoparticles which can decrease the tool wear, temperature, and surface roughness in machining 600 aluminum alloys."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "The ratio of forces in a cutting process can be indicative of the friction coefficient, which is an important parameter in machining.",
+            "Question": "How can the friction coefficient be represented in the context of cutting processes?",
+            "A": "By the ratio of the cutting speed to the feed rate",
+            "B": "By the ratio of the cutting depth to the chip thickness",
+            "C": "By the ratio force Fz/Fy",
+            "D": "By the ratio of the tool wear to the surface roughness",
+            "Answer": "C",
+            "Source": "According to Eq. (1), the friction coefficient can be represented by the ration force Fz/Fy; the friction coefficient value decreases when the ratio force FZ/Fy increases."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "The Taguchi method is a statistical approach used to optimize process parameters and improve quality in manufacturing.",
+            "Question": "What is the purpose of using the signal-to-noise (S/N) ratio in the Taguchi method?",
+            "A": "To maximize the noise in the process",
+            "B": "To determine the impact of noise parameters on the output",
+            "C": "To calculate the actual noise produced by the machinery",
+            "D": "To identify the best color for the product",
+            "Answer": "B",
+            "Source": "The Taguchi method popularly uses the S/N ratio to consider the influence of the survey parameters on the output parameters."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "In the context of optimizing machining processes, different types of quality characteristics can be considered.",
+            "Question": "Which type of quality characteristic is appropriate when the goal is to reduce the friction coefficient in a machining process?",
+            "A": "Nominal the better",
+            "B": "Smaller the better",
+            "C": "Greater the better",
+            "D": "Equal to the standard",
+            "Answer": "C",
+            "Source": "Thus, to reduce the friction coefficient, the greater the better quality characteristic for the ratio force FZ/Fy must be taken."
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "Fuzzy logic is a mathematical model that can handle uncertain and vague information, which can be applied in multi-objective optimization.",
+            "Question": "What is the role of fuzzy logic in multi-objective optimization?",
+            "A": "To convert precise measurements into vague data",
+            "B": "To optimize multi-objects by converting different units into non-unit values",
+            "C": "To increase the uncertainty in the optimization process",
+            "D": "To reduce the number of objectives to a single one",
+            "Answer": "B",
+            "Source": "So, the fuzzy model can be used to optimize multi-objects by converting the S/N ratios of the Taguchi experiment into a single index."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "In machining, the wear on the tool can significantly affect the quality of the machined product.",
+            "Question": "What is the effect of using nanolubricants with optimal conditions on the tool wear in gear hobbing?",
+            "A": "It increases the flank and crater wear on the hob",
+            "B": "It has no effect on the tool wear",
+            "C": "It reduces the flank and crater wear on the hob",
+            "D": "It only changes the color of the hob",
+            "Answer": "C",
+            "Source": "The results show that it can reduce a maximum 39.3% of the flank wear and 59.4% of the crater wear on the hob when using the optimal conditions."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "The performance of cutting fluids can be evaluated by their effect on the temperature during the machining process.",
+            "Question": "What is the impact of using cutting fluids with Al2O3 nanoparticles on the cutting temperature?",
+            "A": "It significantly increases the cutting temperature",
+            "B": "It has no impact on the cutting temperature",
+            "C": "It decreases the cutting temperature",
+            "D": "It only affects the color of the cutting fluid",
+            "Answer": "C",
+            "Source": "The using of the cutting fluids added Al2O3 nanoparticles which can decrease the tool wear, temperature, and surface roughness in machining 600 aluminum alloys."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "The Taguchi method involves an orthogonal array to design experiments for process optimization.",
+            "Question": "What is the purpose of using an L18 orthogonal array in the Taguchi method?",
+            "A": "To create a complex experimental setup",
+            "B": "To research the effects of some factors on multiple responses",
+            "C": "To increase the number of experiments needed",
+            "D": "To focus on a single response variable",
+            "Answer": "B",
+            "Source": "The Taguchi design was chosen to research the effects of some factors on the total cutting force, the force ratio Fz/Fy, the cutting temperature, and the surface roughness in the fly hobbing process."
+        }
+    }
+]

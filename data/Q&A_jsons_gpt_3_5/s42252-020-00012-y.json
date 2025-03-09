@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the preparation of chitosan/hydroxyapatite scaffolds loaded with heparin for bone tissue engineering.",
+        "Question": "What was the main purpose of loading heparin onto the scaffolds?",
+        "A": "To delay chitosan degradation",
+        "B": "To promote angiogenesis",
+        "C": "To enhance cell proliferation",
+        "D": "To increase scaffold stability",
+        "Answer": "B",
+        "Source": "The results of the CAM assay confirmed the stimulation of angiogenesis and vascular attachment to the synthesized scaffolds."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the release of heparin from the scaffolds over time.",
+        "Question": "What was observed about the release of heparin from the scaffolds?",
+        "A": "A sustained release over time",
+        "B": "A rapid release within the first 1.5 hours",
+        "C": "A delayed release after 5 days",
+        "D": "A constant release throughout the study period",
+        "Answer": "B",
+        "Source": "Most of the heparin was released within the first 1.5 hours of immersion in water."
+    },
+    "Question_3": {
+        "Context": "The study assessed the cytotoxicity of the scaffolds using an Alamar Blue assay.",
+        "Question": "What was observed regarding cell viability on the scaffolds?",
+        "A": "Higher cell proliferation with increasing heparin content",
+        "B": "Constant cell activity regardless of heparin content",
+        "C": "Decreased cell viability with higher heparin concentrations",
+        "D": "No cell attachment observed on the scaffolds",
+        "Answer": "B",
+        "Source": "Regardless of the heparin content, cell activity remains constant throughout the entire evaluation."
+    },
+    "Question_4": {
+        "Context": "The study conducted an in-vitro degradation analysis of the scaffolds.",
+        "Question": "What effect did the presence of hydroxyapatite have on the chitosan scaffold degradation?",
+        "A": "Accelerated degradation",
+        "B": "Delayed degradation",
+        "C": "No effect on degradation",
+        "D": "Prevented degradation",
+        "Answer": "B",
+        "Source": "The presence of hydroxyapatite, hampers lysozyme interaction with chitosan, delaying chitosan degradation."
+    },
+    "Question_5": {
+        "Context": "The study used the CAM assay to evaluate the angiogenic response of the scaffolds.",
+        "Question": "Which loading concentration of heparin exhibited the best angiogenic response?",
+        "A": "0.5 mg/mL",
+        "B": "1 mg/mL",
+        "C": "2 mg/mL",
+        "D": "5 mg/mL",
+        "Answer": "A",
+        "Source": "A slightly better performance from the scaffold loaded in the 0.5 mg/mL solution indicating that this loading concentration provided better angiogenic response."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the vasculogenic index of the scaffolds with different heparin concentrations.",
+        "Question": "What was the average vasculogenic index for the scaffold with the highest heparin loading concentration?",
+        "A": "28.5",
+        "B": "32",
+        "C": "33",
+        "D": "36.8",
+        "Answer": "28.5",
+        "Source": "For the highest heparin loading concentration, most of the embryos died, showing a survival rate of 20%."
+    },
+    "Question_7": {
+        "Context": "The study included a histological analysis of the CAM assay samples.",
+        "Question": "What was observed in the histological analysis of the CAM assay samples?",
+        "A": "Inflammatory cells infiltrating the scaffold",
+        "B": "Poor integration of the scaffold with CAM tissue",
+        "C": "Appearance of secondary blood vessels surrounding the CAM tissue",
+        "D": "Anomalies in the CAM tissue",
+        "Answer": "C",
+        "Source": "Integration of the CAM tissue and the scaffold and the appearance of secondary vessels surrounding the CAM tissue was observed."
+    },
+    "Question_8": {
+        "Context": "The study investigated the effect of heparin loading on cell viability within the scaffolds.",
+        "Question": "How did the presence of heparin affect cell activity on the scaffolds?",
+        "A": "Enhanced cell proliferation",
+        "B": "Decreased cell viability",
+        "C": "No impact on cell activity",
+        "D": "Promoted cell attachment",
+        "Answer": "B",
+        "Source": "Furthermore, the heparin concentration hinders cells proliferation."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the degradation of chitosan scaffold under enzyme exposure.",
+        "Question": "What role did hydroxyapatite play in the degradation of the chitosan scaffold?",
+        "A": "Accelerated the degradation process",
+        "B": "Inhibited the degradation process",
+        "C": "Delayed the degradation process",
+        "D": "Prevented the degradation process",
+        "Answer": "C",
+        "Source": "The presence of hydroxyapatite, hampers lysozyme interaction with chitosan, delaying chitosan degradation."
+    },
+    "Question_10": {
+        "Context": "The study assessed the angiogenic response of the scaffolds using the CAM assay.",
+        "Question": "What was the significance of the vasculogenic index results for the different heparin loading concentrations?",
+        "A": "Similar results regardless of heparin loading",
+        "B": "Higher index with increasing heparin content",
+        "C": "Better response with lower heparin concentrations",
+        "D": "No correlation between index and heparin content",
+        "Answer": "C",
+        "Source": "From the vasculogenic index it was observed that for most of the concentrations, the results were very similar regardless of the amount of heparin loaded."
+    }
+}

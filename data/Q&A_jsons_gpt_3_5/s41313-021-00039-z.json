@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of molecular sciences, what is a key application area for quantum computing?",
+        "Question": "What is a key application area for quantum computing in the molecular sciences?",
+        "A": "Drug-molecule protein docking",
+        "B": "Photochemistry",
+        "C": "Cheminformatics",
+        "D": "Molecular structure prediction",
+        "Answer": "B",
+        "Source": "Molecular science is a key application area for quantum computing as the quantum dance of electrons and nuclei in molecules occurs on the nanometer scale, and must be described by a quantum model."
+    },
+    "Question_2": {
+        "Context": "What is the primary advantage of the variational quantum eigensolver (VQE) over quantum phase estimation (QPE) for energy evaluation of molecular systems?",
+        "Question": "What is the primary advantage of the variational quantum eigensolver (VQE) over quantum phase estimation (QPE) for energy evaluation of molecular systems?",
+        "A": "Exact eigenstate with controllable error",
+        "B": "Limited by ansatz with uncontrollable error",
+        "C": "Higher cost",
+        "D": "Higher ansatz fidelity requirement",
+        "Answer": "B",
+        "Source": "Unlike QPE, which gives the exact FCI energy, VQE gives a variational upper bound on the energy. The accuracy of VQE is thus limited by the ansatz it adopts."
+    },
+    "Question_3": {
+        "Context": "What is a challenge in applying quantum algorithms for dynamics in chemical systems?",
+        "Question": "What is a challenge in applying quantum algorithms for dynamics in chemical systems?",
+        "A": "Limited information obtained from a wave function",
+        "B": "Need for accurate representation of the potential energy surface",
+        "C": "Difficulty in preparing the vibrational basis",
+        "D": "Requirement for autocorrelation functions",
+        "Answer": "A",
+        "Source": "Another challenge of applying quantum algorithms for dynamics is that one needs to carefully think what to measure given the limited information one can obtain from a wave function."
+    },
+    "Question_4": {
+        "Context": "What is a key quantity in thermodynamics that is crucial for predicting reactions or drug-protein docking?",
+        "Question": "What is a key quantity in thermodynamics that is crucial for predicting reactions or drug-protein docking?",
+        "A": "Excited state energy",
+        "B": "Geometry optimization",
+        "C": "Free energy",
+        "D": "Dynamics",
+        "Answer": "C",
+        "Source": "Free energy is one of the key quantities in thermodynamics and serves as the decisive measure for predicting reactions or drug-protein docking."
+    },
+    "Question_5": {
+        "Context": "What is a common method used in traditional quantum chemistry for studying ensemble of molecular structures to obtain free energy contributions?",
+        "Question": "What is a common method used in traditional quantum chemistry for studying ensemble of molecular structures to obtain free energy contributions?",
+        "A": "Quantum gradient estimation",
+        "B": "Quantum walks",
+        "C": "Monte Carlo sampling",
+        "D": "Grover search",
+        "Answer": "C",
+        "Source": "In traditional computational chemistry, one can use Monte Carlo sampling or classical molecular dynamics to study an ensemble of molecular structures. This approach allows one to obtain all four free energy contributions and their couplings in one shot."
+    },
+    "Question_6": {
+        "Context": "What is a challenge in applying quantum machine learning models in cheminformatics?",
+        "Question": "What is a challenge in applying quantum machine learning models in cheminformatics?",
+        "A": "Reading classical data by quantum computers",
+        "B": "Lack of practical advantage over classical approaches",
+        "C": "Difficulty in learning the compact form of wave function",
+        "D": "Inaccessibility of quantum machines for ordinary scientists",
+        "Answer": "A",
+        "Source": "There are known challenges to quantum computers reading classical data, making it unclear whether quantum machine learning models offer a practical advantage over classical approaches."
+    },
+    "Question_7": {
+        "Context": "What is a key difference between quantum phase estimation (QPE) and variational quantum eigensolver (VQE) algorithms for energy evaluation of molecular systems?",
+        "Question": "What is a key difference between quantum phase estimation (QPE) and variational quantum eigensolver (VQE) algorithms for energy evaluation of molecular systems?",
+        "A": "Solution accuracy",
+        "B": "Cost",
+        "C": "Ansatz fidelity requirement",
+        "D": "Parallel speed",
+        "Answer": "C",
+        "Source": "QPE can reach unlimited precision using any initial state of non-negligible overlap with the true ground state, while VQE's precision depends directly on the trial state."
+    },
+    "Question_8": {
+        "Context": "What is a primary advantage of quantum machine learning models in cheminformatics?",
+        "Question": "What is a primary advantage of quantum machine learning models in cheminformatics?",
+        "A": "Practical advantage over classical approaches",
+        "B": "Ease of access to quantum machines for ordinary scientists",
+        "C": "Ability to learn the compact form of wave function",
+        "D": "Rapid generation of new insights from existing quantum chemistry data",
+        "Answer": "D",
+        "Source": "Machine learning, as a data-driven approach, is expected to generate new insights from massive existing quantum chemistry data using various neural network models."
+    },
+    "Question_9": {
+        "Context": "What is a key criterion that may decide the success and fate of different strategies in the field of quantum computation for molecular science?",
+        "Question": "What is a key criterion that may decide the success and fate of different strategies in the field of quantum computation for molecular science?",
+        "A": "Serial speed",
+        "B": "Scalability",
+        "C": "Accessibility",
+        "D": "Parallel speed",
+        "Answer": "B",
+        "Source": "The metrics mentioned above will ultimately decide on the success and fate of the different strategies that are currently being pursued in the field of quantum computation for molecular science."
+    },
+    "Question_10": {
+        "Context": "What is a challenge in applying quantum algorithms for dynamics in chemical systems?",
+        "Question": "What is a challenge in applying quantum algorithms for dynamics in chemical systems?",
+        "A": "Limited information obtained from a wave function",
+        "B": "Need for accurate representation of the potential energy surface",
+        "C": "Difficulty in preparing the vibrational basis",
+        "D": "Requirement for autocorrelation functions",
+        "Answer": "A",
+        "Source": "Another challenge of applying quantum algorithms for dynamics is that one needs to carefully think what to measure given the limited information one can obtain from a wave function."
+    }
+}

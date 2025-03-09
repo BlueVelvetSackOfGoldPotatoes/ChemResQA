@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on identifying a potential regulatory gene that positively controls isoflavonoid production in response to ethephon treatment in soybean. RNA sequencing revealed the upregulation of 22 genes related to isoflavonoid biosynthesis in soybean plants after ethephon application.",
+        "Question": "Which method was used to identify the upregulation of genes related to isoflavonoid biosynthesis in soybean plants after ethephon treatment?",
+        "A": "Western blotting",
+        "B": "Immunohistochemistry",
+        "C": "RNA sequencing",
+        "D": "PCR amplification",
+        "Answer": "C",
+        "Source": "RNA sequencing (RNA\u2011seq) revealed that ethephon application led to the upregulation of 22 genes, including the genes for R2R3\u2011MYB TFs, related to isoflavonoid biosynthesis in soybean plants."
+    },
+    "Question_2": {
+        "Context": "The study aimed to identify a potential regulatory gene responsible for the biosynthesis of flavonoids and anthocyanins in soybean flowers. GmMYB108 overexpression resulted in an intense accumulation of anthocyanins and total flavonoid production in the leaf tissues of transgenic Arabidopsis plants.",
+        "Question": "What was the outcome of GmMYB108 overexpression in transgenic Arabidopsis plants?",
+        "A": "Decreased anthocyanin production",
+        "B": "Reduced flavonoid accumulation",
+        "C": "Intense accumulation of anthocyanins",
+        "D": "No effect on total flavonoid production",
+        "Answer": "C",
+        "Source": "GmMYB108 overexpression resulted in an intense accumulation of anthocyanins as well as total flavonoid production in the leaf tissues of transgenic Arabidopsis plants."
+    },
+    "Question_3": {
+        "Context": "The study revealed that GmMYB108 is exclusively enriched in flowers as determined using in silico and real-time quantitative PCR analyses.",
+        "Question": "Where was GmMYB108 found to be exclusively enriched?",
+        "A": "Leaves",
+        "B": "Roots",
+        "C": "Flowers",
+        "D": "Seeds",
+        "Answer": "C",
+        "Source": "Furthermore, GmMYB108 overexpression resulted in an intense accumulation of anthocyanins as well as total flavonoid production in the leaf tissues of transgenic Arabidopsis plants."
+    },
+    "Question_4": {
+        "Context": "The study highlighted that GmMYB108 overexpression increased the transcript levels of several genes involved in the biosynthesis of anthocyanins and their regulatory pathways in Arabidopsis.",
+        "Question": "What effect did GmMYB108 overexpression have on the transcript levels of genes related to anthocyanin biosynthesis in Arabidopsis?",
+        "A": "Decreased transcript levels",
+        "B": "No effect on transcript levels",
+        "C": "Increased transcript levels",
+        "D": "Inhibited transcript levels",
+        "Answer": "C",
+        "Source": "GmMYB108 overexpression increased the transcript levels of several genes involved in the biosynthesis of anthocyanins and their regulatory pathways in Arabidopsis."
+    },
+    "Question_5": {
+        "Context": "The study demonstrated that GmMYB108 is a potential positive regulator of the biosynthesis of flavonoids and anthocyanins in soybean flowers.",
+        "Question": "What role does GmMYB108 play in the biosynthesis of flavonoids and anthocyanins in soybean flowers?",
+        "A": "Negative regulator",
+        "B": "Neutral regulator",
+        "C": "Positive regulator",
+        "D": "Inhibitory regulator",
+        "Answer": "C",
+        "Source": "These results suggest that GmMYB108 is a potential positive regulator of the biosynthesis of flavonoids and anthocyanins in soybean flowers."
+    },
+    "Question_6": {
+        "Context": "The study indicated that GmMYB108 overexpression led to an intense accumulation of anthocyanins and total flavonoid production in the leaf tissues of transgenic Arabidopsis plants.",
+        "Question": "What was the outcome of GmMYB108 overexpression in the leaf tissues of transgenic Arabidopsis plants?",
+        "A": "Decreased anthocyanin accumulation",
+        "B": "No effect on flavonoid production",
+        "C": "Intense accumulation of anthocyanins",
+        "D": "Reduced total flavonoid production",
+        "Answer": "C",
+        "Source": "GmMYB108 overexpression resulted in an intense accumulation of anthocyanins as well as total flavonoid production in the leaf tissues of transgenic Arabidopsis plants."
+    },
+    "Question_7": {
+        "Context": "The study found that GmMYB108 is exclusively enriched in flowers as determined using in silico and real-time quantitative PCR analyses.",
+        "Question": "Where was GmMYB108 found to be exclusively enriched?",
+        "A": "Leaves",
+        "B": "Roots",
+        "C": "Flowers",
+        "D": "Seeds",
+        "Answer": "C",
+        "Source": "Furthermore, GmMYB108 overexpression resulted in an intense accumulation of anthocyanins as well as total flavonoid production in the leaf tissues of transgenic Arabidopsis plants."
+    },
+    "Question_8": {
+        "Context": "The study highlighted that GmMYB108 overexpression increased the transcript levels of several genes involved in the biosynthesis of anthocyanins and their regulatory pathways in Arabidopsis.",
+        "Question": "What effect did GmMYB108 overexpression have on the transcript levels of genes related to anthocyanin biosynthesis in Arabidopsis?",
+        "A": "Decreased transcript levels",
+        "B": "No effect on transcript levels",
+        "C": "Increased transcript levels",
+        "D": "Inhibited transcript levels",
+        "Answer": "C",
+        "Source": "GmMYB108 overexpression increased the transcript levels of several genes involved in the biosynthesis of anthocyanins and their regulatory pathways in Arabidopsis."
+    },
+    "Question_9": {
+        "Context": "The study demonstrated that GmMYB108 is a potential positive regulator of the biosynthesis of flavonoids and anthocyanins in soybean flowers.",
+        "Question": "What role does GmMYB108 play in the biosynthesis of flavonoids and anthocyanins in soybean flowers?",
+        "A": "Negative regulator",
+        "B": "Neutral regulator",
+        "C": "Positive regulator",
+        "D": "Inhibitory regulator",
+        "Answer": "C",
+        "Source": "These results suggest that GmMYB108 is a potential positive regulator of the biosynthesis of flavonoids and anthocyanins in soybean flowers."
+    },
+    "Question_10": {
+        "Context": "The study indicated that GmMYB108 overexpression led to an intense accumulation of anthocyanins and total flavonoid production in the leaf tissues of transgenic Arabidopsis plants.",
+        "Question": "What was the outcome of GmMYB108 overexpression in the leaf tissues of transgenic Arabidopsis plants?",
+        "A": "Decreased anthocyanin accumulation",
+        "B": "No effect on flavonoid production",
+        "C": "Intense accumulation of anthocyanins",
+        "D": "Reduced total flavonoid production",
+        "Answer": "C",
+        "Source": "GmMYB108 overexpression resulted in an intense accumulation of anthocyanins as well as total flavonoid production in the leaf tissues of transgenic Arabidopsis plants."
+    }
+}

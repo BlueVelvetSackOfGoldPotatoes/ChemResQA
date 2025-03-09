@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to evaluate factors influencing soil EC sensor values by monitoring EC under different soil organic matter and water contents.",
+        "Question": "What is the relationship between soil EC and water content?",
+        "A": "Non-linear",
+        "B": "No relationship",
+        "C": "Linear",
+        "D": "Inverse",
+        "Answer": "C",
+        "Source": "Soil EC showed a linear correlation with water content at water content of 10\u201325% for loam and sandy loam soils and at water content of 10\u201340% for silty clay loam soil."
+    },
+    "Question_2": {
+        "Context": "The study involved monitoring EC and water content in soil samples with added organic matter.",
+        "Question": "How did the calibration factor for soil EC change when organic matter was added to the soil?",
+        "A": "Decreased",
+        "B": "Remained the same",
+        "C": "Increased",
+        "D": "Became negative",
+        "Answer": "C",
+        "Source": "In comparison to the soil without organic matter, the calibration factor was higher when organic matter was added to the soil."
+    },
+    "Question_3": {
+        "Context": "The study analyzed exchangeable ion contents in soil samples with and without added organic matter.",
+        "Question": "Which ion content increased when organic matter was added to the soil?",
+        "A": "Nitrate",
+        "B": "Sulfur",
+        "C": "Calcium",
+        "D": "Magnesium",
+        "Answer": "C",
+        "Source": "The concentration of exchangeable ions such as K, and Ca in the soil increased when organic matter was added in the soil."
+    },
+    "Question_4": {
+        "Context": "The research involved conducting correlation analyses between EC and organic matter.",
+        "Question": "What was the correlation between sensor EC values and soil organic matter?",
+        "A": "Negative",
+        "B": "Positive",
+        "C": "No correlation",
+        "D": "Inverse",
+        "Answer": "B",
+        "Source": "The sensor EC value of sandy loam soil was highly correlated with the ion content in pore water, and the sensor EC value of loam soil was highly correlated with exchangeable ions."
+    },
+    "Question_5": {
+        "Context": "The study utilized PCA to evaluate the relationship between sensor EC values and soil properties.",
+        "Question": "What did the first principal component show positive correlations with?",
+        "A": "Clay content",
+        "B": "Pore water pH",
+        "C": "Exchangeable Sodium",
+        "D": "Sand content",
+        "Answer": "D",
+        "Source": "The first PC showed positive correlations with sand content, pore water pH, and exchangeable Ca and P."
+    },
+    "Question_6": {
+        "Context": "The study discussed the variability explained by different principal components.",
+        "Question": "What percentage of total variance was explained by the second principal component?",
+        "A": "28.3%",
+        "B": "23.2%",
+        "C": "15.5%",
+        "D": "11.3%",
+        "Answer": "B",
+        "Source": "The second PC accounted for 23.2% of the total variation."
+    },
+    "Question_7": {
+        "Context": "The research highlighted the importance of considering soil texture in interpreting sensor EC values.",
+        "Question": "Which soil texture showed a high correlation between sensor EC values and ion content in pore water?",
+        "A": "Silty clay loam",
+        "B": "Loam",
+        "C": "Sandy loam",
+        "D": "Clay",
+        "Answer": "C",
+        "Source": "The sensor EC value of sandy loam soil was highly correlated with the ion content in pore water."
+    },
+    "Question_8": {
+        "Context": "The study emphasized the impact of organic matter on sensor EC values.",
+        "Question": "How did organic matter affect the sensor EC values?",
+        "A": "Decreased the EC values",
+        "B": "Had no effect",
+        "C": "Increased the EC values",
+        "D": "Made the EC values unstable",
+        "Answer": "C",
+        "Source": "The sensor EC value of sandy loam soil was highly correlated with the ion content in pore water, and the sensor EC value of loam soil was highly correlated with exchangeable ions."
+    },
+    "Question_9": {
+        "Context": "The study discussed the relationship between sensor EC values and nutrient levels in soil.",
+        "Question": "What nutrient content was closely related to sensor EC values?",
+        "A": "Phosphorus",
+        "B": "Sulfur",
+        "C": "Potassium",
+        "D": "Magnesium",
+        "Answer": "C",
+        "Source": "The sensor EC monitoring values showed a high correlation with the contents of NO3 \u2212, K, S and Ca in the pore water."
+    },
+    "Question_10": {
+        "Context": "The research highlighted the importance of considering organic matter and soil texture in nutrient monitoring.",
+        "Question": "Why is it important to consider organic matter and soil texture in nutrient monitoring using EC sensors?",
+        "A": "To complicate the analysis",
+        "B": "To simplify the analysis",
+        "C": "To improve accuracy",
+        "D": "To introduce errors",
+        "Answer": "C",
+        "Source": "Therefore, when monitoring nutrient levels in soil using EC sensor, organic matter and soil texture need to be considered."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Microalgae can be used for bioremediation of agricultural runoff due to their ability to utilize nutrients such as nitrates and phosphates for growth.",
+        "Question": "Which microalgae species has been reported to effectively remove nutrients from agricultural runoff?",
+        "A": "Chlorella sp. S5",
+        "B": "Spirulina platensis",
+        "C": "Dunaliella salina",
+        "D": "Haematococcus pluvialis",
+        "Answer": "A",
+        "Source": "Chlorella is one of the most potent species of microalgae that can remove nutrients from agricultural runoff. Moreover, this species is capable of accumulating high amount of lipids as biomass that can further be exploited for biodiesel production."
+    },
+    "Question_2": {
+        "Context": "In the context of microalgae cultivation, certain parameters such as the concentration of nitrates and phosphates, as well as pH, are optimized to achieve maximum biomass production.",
+        "Question": "What is the normal concentration of NaNO3 in BG11 media used for algal growth?",
+        "A": "0.75 g/L",
+        "B": "1.5 g/L",
+        "C": "1.875 g/L",
+        "D": "2.25 g/L",
+        "Answer": "B",
+        "Source": "The normal concentration of NaNO3 in BG11 media is 1.5 g/L while the concentration of K2HPO4 is 0.06 g/L."
+    },
+    "Question_3": {
+        "Context": "The pH of the medium in which microalgae are cultivated can significantly affect their growth.",
+        "Question": "At which pH did Chlorella sp. S5 show the highest growth during optimization studies?",
+        "A": "6.5",
+        "B": "7",
+        "C": "7.5",
+        "D": "8.5",
+        "Answer": "C",
+        "Source": "Chlorella sp. strain S5 showed the highest growth when NaNO3 concentration was 1.875 g/L, K2HPO4 concentration was 0.06 g/L, and at pH 7.5."
+    },
+    "Question_4": {
+        "Context": "Microalgae can accumulate lipids in their biomass, which can be used for biodiesel production.",
+        "Question": "What percentage of lipid content was found in Chlorella sp. S5 during growth kinetics and lipid content determination?",
+        "A": "12%",
+        "B": "14%",
+        "C": "16%",
+        "D": "18%",
+        "Answer": "C",
+        "Source": "For biodiesel production lipid is an important substrate, therefore determination of the microalgal capability of lipid production was an important step. Total lipids content (Lc) is the percent of lipids in total biomass (% dwt), determined by using the n-hexane method."
+    },
+    "Question_5": {
+        "Context": "Biogas production through anaerobic digestion can be performed using different types of biomass, including whole biomass and lipid-extracted biomass.",
+        "Question": "Which type of biomass yielded more biomethane during anaerobic digestion in the experiment?",
+        "A": "Whole biomass",
+        "B": "Lipid-extracted biomass",
+        "C": "Both yielded the same amount",
+        "D": "Neither, as microalgae are not suitable for biogas production",
+        "Answer": "B",
+        "Source": "Subsequently, both the intact algal biomass and its lipid-depleted algal biomass were used for biogas production within a batch anaerobic digestion setup. The biomethane yields obtained from whole biomass and lipid-depleted biomass were 330.34 NmL/g VSadded and 364.34 NmL/g VSadded, respectively."
+    },
+    "Question_6": {
+        "Context": "The process of converting oils into biodiesel involves a reaction known as trans-esterification, which can be catalyzed by enzymes such as lipases.",
+        "Question": "Which bacterial strain was used for enzymatic trans-esterification to produce biodiesel from algal oil?",
+        "A": "Escherichia coli",
+        "B": "Bacillus subtilis Q4 MZ841642",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Staphylococcus aureus",
+        "Answer": "B",
+        "Source": "The algal extracted lipids (oils) were employed in enzymatic trans-esterification for biodiesel production using whole-cell biomass of Bacillus subtilis Q4 MZ841642."
+    },
+    "Question_7": {
+        "Context": "The quality of biodiesel can be determined by analyzing the content of fatty acid methyl esters (FAMEs) using techniques such as gas chromatography coupled with mass spectrometry (GC\u2013MS).",
+        "Question": "What was the total FAME content of the biodiesel derived from algal biomass as per the GC\u2013MS analysis?",
+        "A": "88.2%",
+        "B": "92.2%",
+        "C": "96.2%",
+        "D": "98.2%",
+        "Answer": "D",
+        "Source": "The biodiesel derived from algal biomass exhibited a noteworthy total FAME content of 98.2%, meeting the quality standards set by American Society for Testing and Materials (ASTM) and European union (EU) standards."
+    },
+    "Question_8": {
+        "Context": "Methanol is commonly used in the trans-esterification process for biodiesel production, but it can be toxic to microorganisms.",
+        "Question": "At what concentration did Bacillus subtilis Q4 show abundant growth despite the presence of methanol?",
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%",
+        "Answer": "A",
+        "Source": "Strain Q4 showed abundant growth at 5% methanol at 24, 48, and 72 h. Similarly, it also showed efficient growth at 10% methanol at all the incubation points."
+    },
+    "Question_9": {
+        "Context": "The ability of microalgae to grow in different seasons under natural conditions can affect the production of biomass and the accumulation of lipids.",
+        "Question": "During which season did Chlorella sp. S5 accumulate a higher amount of lipids?",
+        "A": "Spring",
+        "B": "Summer",
+        "C": "Autumn",
+        "D": "Winter",
+        "Answer": "D",
+        "Source": "Biomass production was mainly affected by temperature. Low temperature retarded the growth of microalgae, whereas an increase in temperature increased biomass production. However, interestingly when we look at lipid accumulation, a higher amount of lipids was accumulated during the winter season."
+    },
+    "Question_10": {
+        "Context": "The solvent extraction technique is used to quantify dry biomass in microalgae cultivation studies.",
+        "Question": "What method was used to quantify the dry biomass of Chlorella sp. S5?",
+        "A": "Solvent extraction technique",
+        "B": "Gravimetric analysis",
+        "C": "Flow cytometry",
+        "D": "Dry weight measurement",
+        "Answer": "A",
+        "Source": "Dry biomass was quantified using the solvent extraction technique, while the identification of nitrates and phosphates in agricultural runoff was carried out using commercial kits."
+    }
+}

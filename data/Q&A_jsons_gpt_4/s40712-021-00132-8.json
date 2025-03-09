@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In materials testing, buckling is a failure mode characterized by a sudden failure of a structural member subjected to high compressive stress, where the actual compressive stress at the point of failure is less than the ultimate compressive stresses that the material is capable of withstanding.",
+        "Question": "What is the critical buckling force in the context of materials testing?",
+        "A": "The force at which a material specimen begins to stretch",
+        "B": "The force at which a material specimen begins to exhibit plastic deformation",
+        "C": "The force at which a material specimen begins to experience sideways movement",
+        "D": "The force at which a material specimen completely fractures",
+        "Answer": "C",
+        "Source": "For hourglass-shaped specimens, buckling means onset of sideways movement, without a drop in the applied load which is typical for conventional Euler buckling."
+    },
+    "Question_2": {
+        "Context": "Finite element modeling is a numerical method for predicting how a product reacts to real-world forces, vibration, heat, fluid flow, and other physical effects. It shows whether a product will break, wear out, or work the way it was designed.",
+        "Question": "What is the purpose of developing a finite element model in the context of compression testing?",
+        "A": "To identify the color changes in the material under stress",
+        "B": "To identify the critical buckling force",
+        "C": "To measure the temperature change in the material",
+        "D": "To observe the magnetic properties of the material",
+        "Answer": "B",
+        "Source": "A finite element model (in Abaqus) is developed to identify the critical buckling force."
+    },
+    "Question_3": {
+        "Context": "The von Mises yield criterion suggests that yielding of a ductile material begins when the second deviatoric stress invariant reaches a critical value. It is part of plasticity theory that applies best to ductile materials, such as some metals.",
+        "Question": "Which yield criterion is used in the material model for predicting buckling in compression testing?",
+        "A": "Tresca yield criterion",
+        "B": "Mohr-Coulomb yield criterion",
+        "C": "von Mises yield criterion",
+        "D": "Rankine yield criterion",
+        "Answer": "C",
+        "Source": "The material model is based on von Mises yield criterion, the associated flow rule, and a modified Voce law."
+    },
+    "Question_4": {
+        "Context": "In material science, the term 'plastic strain' refers to the permanent deformation that occurs in a material after it has been stressed beyond its elastic limit.",
+        "Question": "What does the parameter \u03b50 represent in the context of material modeling?",
+        "A": "Elastic strain at the end of the yielding plateau",
+        "B": "Plastic strain at the end of the yielding plateau",
+        "C": "Total strain at the fracture point",
+        "D": "Initial strain before any stress is applied",
+        "Answer": "B",
+        "Source": "By applying n = 2, the Voce law fitted the experimental data well. This can be seen in Fig. 3. The parameters of the Voce rule were calibrated by minimizing the following error (least square fit) by using the problem solver in spreadsheet (Excel): \u03b50 is plastic strain at the end of the yielding plateau."
+    },
+    "Question_5": {
+        "Context": "In the field of material testing, an extensometer is an instrument that measures the elongation of a specimen under stress. It can be used to determine the strain the material experiences.",
+        "Question": "What is the purpose of using an extensometer in compression tests?",
+        "A": "To measure the electrical conductivity of the material",
+        "B": "To measure the temperature of the material",
+        "C": "To measure the elongation or compression of the material",
+        "D": "To measure the hardness of the material",
+        "Answer": "C",
+        "Source": "The onset of sideways movement is identified experimentally by analysis of the data from extensometer and the load cell."
+    },
+    "Question_6": {
+        "Context": "The ratio of the radius of curvature to diameter (R/d ratio) is a geometric parameter that can influence the buckling behavior of specimens under compression testing.",
+        "Question": "How does the R/d ratio affect the buckling behavior of specimens?",
+        "A": "A larger R/d ratio results in a higher critical buckling force",
+        "B": "A smaller R/d ratio results in a higher critical buckling force",
+        "C": "The R/d ratio has no effect on the critical buckling force",
+        "D": "The R/d ratio only affects the tensile strength, not the buckling behavior",
+        "Answer": "B",
+        "Source": "It is also clear that the smaller ratio R/d between the specimen diameter (d) and the radius of curvature (R) gives a higher buckling force."
+    },
+    "Question_7": {
+        "Context": "In material testing, the term 'hourglass-shaped specimen' refers to a specimen with a narrowed central section and wider ends, which can be advantageous in certain tests.",
+        "Question": "Why are hourglass-shaped specimens suited for low-cycle fatigue testing?",
+        "A": "They are easier to grip in the testing machine",
+        "B": "They resist buckling better during the compression phase",
+        "C": "They are cheaper to produce",
+        "D": "They have a higher tensile strength",
+        "Answer": "B",
+        "Source": "Hourglass-shaped specimens are suited to investigate low-cycle fatigue. The hourglass shape is suitable to resist buckling during the compression phase compared to a uniform section specimen."
+    },
+    "Question_8": {
+        "Context": "ASTM E606/606M is a standard that provides guidelines for the strain-controlled fatigue testing, which is also applicable to low-cycle fatigue testing.",
+        "Question": "What is the significance of ASTM E606/606M in the context of specimen design for low-cycle fatigue testing?",
+        "A": "It specifies the color coding for specimens",
+        "B": "It provides guidelines for the specimen geometry",
+        "C": "It determines the chemical composition of the specimen",
+        "D": "It outlines the procedure for heat treatment of specimens",
+        "Answer": "B",
+        "Source": "Therefore, the standard from the American Society of Testing and Materials, ASTM E606/606M (2012), has been used as a guideline for the specimen geometry."
+    },
+    "Question_9": {
+        "Context": "In the context of materials testing, the term 'yield strength' refers to the amount of stress at which a material begins to deform plastically.",
+        "Question": "What is the minimum required yield strength for the hot rolled structural steel S355J2-1.0577 used in the tests?",
+        "A": "355 MPa",
+        "B": "510 MPa",
+        "C": "680 MPa",
+        "D": "417 MPa",
+        "Answer": "A",
+        "Source": "The material used for these tests is a commercial quality hot rolled structural steel S355J2-1.0577. The minimum required yield strength is 355 MPa."
+    },
+    "Question_10": {
+        "Context": "In material science, the Voce law is a phenomenological model that describes the hardening behavior of materials under plastic deformation.",
+        "Question": "What is the purpose of modifying the Voce law in the context of material modeling?",
+        "A": "To account for the strain at the end of the yielding plateau",
+        "B": "To measure the electrical resistance of the material",
+        "C": "To determine the melting point of the material",
+        "D": "To calculate the thermal expansion coefficient",
+        "Answer": "A",
+        "Source": "In order to include the yielding plateau, Voce law had to be modified by a constant to include the strain at the end of the yield plateau \u03b50."
+    }
+}

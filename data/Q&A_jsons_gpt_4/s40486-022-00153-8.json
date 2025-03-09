@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "A microarray detection method can be used to visualize pathogenic genes by immobilizing capture probe DNA on a surface and detecting the presence of target genes through a series of reactions.",
+        "Question": "What surface treatment is used to induce hydrophilic properties on a cyclic olefin copolymer (COC) substrate for microarrays?",
+        "A": "Acid washing",
+        "B": "Oxygen plasma treatment",
+        "C": "UV irradiation",
+        "D": "Thermal annealing",
+        "Answer": "B",
+        "Source": "Cyclic olefin copolymer (COC) substrate for microarrays was treated with oxygen plasma to induce hydrophilic surface properties."
+    },
+    "Question_2": {
+        "Context": "In a microarray detection method, the capture probe DNA is modified to prevent unwanted reactions during the detection process.",
+        "Question": "How is the 3' end of the capture probe DNA modified to provide resistance against the TdT reaction?",
+        "A": "Methylated",
+        "B": "Acetylated",
+        "C": "Phosphorylated",
+        "D": "Glycosylated",
+        "Answer": "C",
+        "Source": "The 3\u02b9 end of the capture probe DNA immobilized on the COC surface was modified with a phosphate group to provide resistance against the TdT reaction."
+    },
+    "Question_3": {
+        "Context": "Terminal deoxynucleotidyl transferase (TdT) is an enzyme used in a microarray detection method for signal amplification.",
+        "Question": "What does terminal deoxynucleotidyl transferase (TdT) catalyze in the detection of pathogenic genes?",
+        "A": "The addition of nucleotides to the 5' terminus of DNA",
+        "B": "The removal of nucleotides from the 3' terminus of DNA",
+        "C": "The addition of nucleotides to the 3' terminus of DNA",
+        "D": "The removal of nucleotides from the 5' terminus of DNA",
+        "Answer": "C",
+        "Source": "Terminal deoxynucleotidyl transferase (TdT) is an enzyme that catalyzes the addition of nucleotides to the 3\u02b9 terminus of single-stranded or double-stranded DNA in a template-independent manner."
+    },
+    "Question_4": {
+        "Context": "In a microarray detection method, the visualization of pathogenic genes can be achieved through the use of nanoparticles.",
+        "Question": "Which type of nanoparticles are used to tag the poly uridine tails in the developed microarray detection method?",
+        "A": "Silver nanoparticles",
+        "B": "Gold nanoparticles",
+        "C": "Iron oxide nanoparticles",
+        "D": "Quantum dots",
+        "Answer": "B",
+        "Source": "Thereafter, streptavidin-conjugated gold nanoparticles (s-AuNPs) tagged the poly uridine tails by the biotin\u2013streptavidin interaction."
+    },
+    "Question_5": {
+        "Context": "The detection of pathogenic genes using a microarray involves a colorimetric signal amplification step.",
+        "Question": "What is the purpose of the silver enhancement process in the microarray detection method?",
+        "A": "To isolate the target genes",
+        "B": "To amplify the visual signal",
+        "C": "To extract DNA from pathogens",
+        "D": "To sterilize the microarray chip",
+        "Answer": "B",
+        "Source": "The visual signal was amplified by silver enhancement in the presence of the s-AuNPs."
+    },
+    "Question_6": {
+        "Context": "The immobilization of DNA on a substrate is a critical step in the fabrication of a DNA microarray chip.",
+        "Question": "What method is used to immobilize the capture probe DNA on the COC surface in the microarray detection method?",
+        "A": "Chemical bonding",
+        "B": "Physical adsorption",
+        "C": "UV irradiation",
+        "D": "Electrostatic interaction",
+        "Answer": "C",
+        "Source": "The capture probe DNA was immobilized on the COC surface by UV irradiation."
+    },
+    "Question_7": {
+        "Context": "The specificity of a microarray detection method is crucial for the accurate identification of pathogenic genes.",
+        "Question": "What is the role of the capture probe DNA in a microarray detection method?",
+        "A": "To amplify the target gene",
+        "B": "To cut the target gene",
+        "C": "To replicate the target gene",
+        "D": "To capture the target gene",
+        "Answer": "D",
+        "Source": "The capture probe DNA capable of partially complementarily binding to the target gene was consistently arranged by a contact microarray spotter and fixed on the surface of the COC chip."
+    },
+    "Question_8": {
+        "Context": "The detection of pathogenic genes using a microarray can be performed by generating a colorimetric signal.",
+        "Question": "In the context of a microarray detection method, what interaction is used to form a complex between biotinylated deoxyuridine triphosphate (b-dUTP) and gold nanoparticles?",
+        "A": "Biotin-avidin interaction",
+        "B": "Biotin-streptavidin interaction",
+        "C": "Antibody-antigen interaction",
+        "D": "DNA-ligase interaction",
+        "Answer": "B",
+        "Source": "The Poly b-dUTP synthesized selectively forms a complex with s-AuNPs through a biotin-streptavidin interaction, causing the formation of black spots that can be observed with the naked eye."
+    },
+    "Question_9": {
+        "Context": "In a microarray detection method, the conditions for the enzymatic reaction are optimized for effective signal generation.",
+        "Question": "What is an important factor to consider when optimizing the concentration of streptavidin-conjugated gold nanoparticles (s-AuNPs) for colorimetric signal formation?",
+        "A": "Temperature stability of s-AuNPs",
+        "B": "Electrical repulsion between s-AuNPs",
+        "C": "pH sensitivity of s-AuNPs",
+        "D": "Magnetic properties of s-AuNPs",
+        "Answer": "B",
+        "Source": "Therefore, excessive s-AuNP concentration conditions can inhibit the s-AuNP binding efficiency to the array spot due to the increased electrical repulsion between particles."
+    },
+    "Question_10": {
+        "Context": "The detection of pathogenic genes using a microarray involves the hybridization of target genes with capture probe DNA.",
+        "Question": "What is the purpose of using lambda exonuclease in the preparation of target genes for microarray detection?",
+        "A": "To amplify the target genes",
+        "B": "To denature the target genes",
+        "C": "To digest the non-hybridized strands of target genes",
+        "D": "To label the target genes with biotin",
+        "Answer": "C",
+        "Source": "Subsequently, PCR products were treated with lambda exonuclease such that only ssDNAs capable of hybridizing with each capture probe DNA remained."
+    }
+}

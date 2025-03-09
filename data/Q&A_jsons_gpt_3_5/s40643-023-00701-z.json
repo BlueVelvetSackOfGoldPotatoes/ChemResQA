@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the protease activity of a novel strain, Exiguobacterium indicum 1.2.3. The enzyme produced by this strain showed stability in a specific pH range.",
+        "Question": "At which pH did the enzyme exhibit optimum activity?",
+        "A": "pH 7",
+        "B": "pH 8",
+        "C": "pH 9",
+        "D": "pH 10",
+        "Answer": "D",
+        "Source": "The optimum activity was obtained at pH 10."
+    },
+    "Question_2": {
+        "Context": "The study investigated the effect of temperature on the enzyme activity and stability of Exiguobacterium indicum 1.2.3 protease.",
+        "Question": "At which temperature did the enzyme show maximum activity?",
+        "A": "20\u00b0C",
+        "B": "30\u00b0C",
+        "C": "40\u00b0C",
+        "D": "50\u00b0C",
+        "Answer": "B",
+        "Source": "The enzyme showed maximum activity at 30\u00b0C."
+    },
+    "Question_3": {
+        "Context": "The paper explored the impact of various metal ions on the protease activity of Exiguobacterium indicum 1.2.3.",
+        "Question": "Which metal ion significantly boosted the proteolytic activity of the enzyme?",
+        "A": "Fe2+",
+        "B": "Ca2+",
+        "C": "Na+",
+        "D": "K+",
+        "Answer": "B",
+        "Source": "The addition of divalent Ca2+ significantly boosted the proteolytic activity of E. indicum 1.2.3 by 47%."
+    },
+    "Question_4": {
+        "Context": "The study examined the enzyme stability in the presence of surfactants and oxidizing agents.",
+        "Question": "Which surfactant increased the enzyme activity by 140%?",
+        "A": "SDS",
+        "B": "Tween 80",
+        "C": "Triton X-100",
+        "D": "EDTA",
+        "Answer": "B",
+        "Source": "Under the effect of the non-ionic surfactants, crude protease activity markedly increased at 1% presence of Tween 80 and Triton X-100, 140%, and 110% of their initial activity, respectively."
+    },
+    "Question_5": {
+        "Context": "The paper evaluated the washing performance of Exiguobacterium indicum 1.2.3 protease in detergent formulations.",
+        "Question": "What was the stain removal percentage when using 1 g/L of the enzyme-containing formulation?",
+        "A": "Less than 50%",
+        "B": "Around 60%",
+        "C": "More than 80%",
+        "D": "Around 70%",
+        "Answer": "C",
+        "Source": "The 0.5 and 1 g/L enzyme-containing formulations showed > 80% and > 85% stain removal performance, respectively."
+    },
+    "Question_6": {
+        "Context": "The study focused on the protease activity of Exiguobacterium indicum 1.2.3 under different pH conditions.",
+        "Question": "At which pH did the enzyme exhibit the most stability for 120 minutes?",
+        "A": "pH 7",
+        "B": "pH 8",
+        "C": "pH 9",
+        "D": "pH 10",
+        "Answer": "D",
+        "Source": "The relative pH stability was obtained at pH 10, which had more than 90% for 120 min."
+    },
+    "Question_7": {
+        "Context": "The paper investigated the thermal stability of the enzyme produced by Exiguobacterium indicum 1.2.3.",
+        "Question": "At which temperature did the enzyme show thermal activation?",
+        "A": "20\u00b0C",
+        "B": "30\u00b0C",
+        "C": "40\u00b0C",
+        "D": "50\u00b0C",
+        "Answer": "B",
+        "Source": "The enzyme showed thermal activation between 20 and 30\u00b0C."
+    },
+    "Question_8": {
+        "Context": "The study examined the impact of metal ions and inhibitors on the protease activity of Exiguobacterium indicum 1.2.3.",
+        "Question": "Which inhibitor completely inhibited the enzyme activity at 1 mM?",
+        "A": "EDTA",
+        "B": "PMSF",
+        "C": "Ca2+",
+        "D": "Mg2+",
+        "Answer": "B",
+        "Source": "For inhibitory screening, PMSF completely inhibits enzyme activity at 1 mM, indicating that the enzyme is a serine protease with a serine residue in its active site."
+    },
+    "Question_9": {
+        "Context": "The paper explored the enzyme stability in the presence of surfactants and oxidizing agents.",
+        "Question": "Which oxidizing agent did not affect the enzyme activity?",
+        "A": "Sodium hypochlorite",
+        "B": "Hydrogen peroxide",
+        "C": "Sodium perborate",
+        "D": "EDTA",
+        "Answer": "A",
+        "Source": "The protease showed highly stable activity with 1% sodium hypochlorite (> 75%)."
+    },
+    "Question_10": {
+        "Context": "The study evaluated the washing performance of Exiguobacterium indicum 1.2.3 protease in detergent formulations.",
+        "Question": "Which formulation showed the highest stain removal performance?",
+        "A": "Only detergent",
+        "B": "0.5 g/L enzyme-containing formulation",
+        "C": "1 g/L enzyme-containing formulation",
+        "D": "Commercial ultra-white detergent",
+        "Answer": "C",
+        "Source": "The 0.5 and 1 g/L enzyme-containing formulations showed > 80% and > 85% stain removal performance, respectively."
+    }
+}

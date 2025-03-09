@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the impact of laser power on the fabrication of 3D microstructures via TPP. ",
+        "Question": "What effect does increasing the laser power have on delamination in 3D microstructures fabricated via TPP?",
+        "A": "Increases delamination",
+        "B": "Decreases delamination",
+        "C": "Causes polymer damage",
+        "D": "Leads to bubbling in the polymer",
+        "Answer": "B",
+        "Source": "By increasing the laser power, there is a lot of curing between the polymers. Consequently, a polymer network becomes denser. As a result, there is less free volume for the surrounding solvent to be absorbed and delamination is alleviated."
+    },
+    "Question_2": {
+        "Context": "The paper explores the impact of structure thickness on delamination in 3D microstructures fabricated via TPP.",
+        "Question": "How does increasing the thickness of the structure affect delamination?",
+        "A": "Increases delamination",
+        "B": "Decreases delamination",
+        "C": "Causes polymer damage",
+        "D": "Leads to bubbling in the polymer",
+        "Answer": "B",
+        "Source": "Increasing the thickness of the structure resulted in a higher bending stiffness and less deformation owing to solvent absorption, which alleviated delamination."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the role of the bending stiffness of the structure in relation to delamination.",
+        "Question": "How does the bending stiffness of the structure impact delamination in 3D microstructures fabricated via TPP?",
+        "A": "Increases delamination",
+        "B": "Decreases delamination",
+        "C": "Causes polymer damage",
+        "D": "Leads to bubbling in the polymer",
+        "Answer": "B",
+        "Source": "As the thickness of the structure increases, the bending stiffness of the cantilever increases, and the amount of deformation in the cantilever decreases accordingly. This implies that as the thickness of the structure increases, the deformation of the structure due to the internal expansion of the polymer is decreased."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the impact of the laser power on the fabrication of 3D microstructures via TPP.",
+        "Question": "What happens when the laser power exceeds 60 mW in the fabrication of 3D microstructures via TPP?",
+        "A": "Improves the structure quality",
+        "B": "Causes delamination",
+        "C": "Results in polymer damage and bubbling",
+        "D": "Reduces the curing degree",
+        "Answer": "C",
+        "Source": "However, in our experiments, we observed that when the laser power exceeded 60 mW, damage and bubbles occurred in the photocurable resin due to excessive laser power."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the impact of the laser power on the fabrication of 3D microstructures via TPP.",
+        "Question": "What effect does an extremely low laser power have on the fabrication of 3D microstructures via TPP?",
+        "A": "Ensures sufficient curing",
+        "B": "Causes polymer damage",
+        "C": "Leads to bubbling in the polymer",
+        "D": "Reduces delamination",
+        "Answer": "B",
+        "Source": "An extremely low power will not ensure the sufficient curing and accuracy of the structure."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the impact of the laser power on the fabrication of 3D microstructures via TPP.",
+        "Question": "What is the consequence of setting an extremely high laser power in the fabrication of 3D microstructures via TPP?",
+        "A": "Improves the structure quality",
+        "B": "Causes delamination",
+        "C": "Results in polymer damage and bubbling",
+        "D": "Reduces the curing degree",
+        "Answer": "C",
+        "Source": "An extremely high power will cause problems such as resin damage and bubbling."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the impact of structure thickness on delamination in 3D microstructures fabricated via TPP.",
+        "Question": "How does increasing the thickness of the structure affect the bending stiffness?",
+        "A": "Decreases bending stiffness",
+        "B": "Increases bending stiffness",
+        "C": "Causes polymer damage",
+        "D": "Leads to bubbling in the polymer",
+        "Answer": "B",
+        "Source": "As the thickness (t) of the structure increases, the bending stiffness of the cantilever increases."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the impact of the laser power on the fabrication of 3D microstructures via TPP.",
+        "Question": "What is the effect of reducing the laser power in the fabrication of 3D microstructures via TPP?",
+        "A": "Increases delamination",
+        "B": "Decreases delamination",
+        "C": "Causes polymer damage",
+        "D": "Leads to bubbling in the polymer",
+        "Answer": "B",
+        "Source": "Therefore, in such cases, delamination can be solved by reducing the laser power and designing the appropriate heights for the 3D shape."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the impact of structure thickness on delamination in 3D microstructures fabricated via TPP.",
+        "Question": "What is the relationship between structure thickness and delamination in 3D microstructures fabricated via TPP?",
+        "A": "Increasing thickness increases delamination",
+        "B": "Increasing thickness decreases delamination",
+        "C": "Increasing thickness causes polymer damage",
+        "D": "Increasing thickness leads to bubbling in the polymer",
+        "Answer": "B",
+        "Source": "Increasing the thickness of the structure resulted in a higher bending stiffness and less deformation owing to solvent absorption, which alleviated delamination."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the impact of the laser power on the fabrication of 3D microstructures via TPP.",
+        "Question": "What is the consequence of an excessively high laser power in the fabrication of 3D microstructures via TPP?",
+        "A": "Improves the structure quality",
+        "B": "Causes delamination",
+        "C": "Results in polymer damage and bubbling",
+        "D": "Reduces the curing degree",
+        "Answer": "C",
+        "Source": "These bubbles were caused by the evaporation of the solvent from the polymer by the high laser power."
+    }
+}

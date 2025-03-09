@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In colloidal quantum dot (CQD) solar cells, there is a known tradeoff between light absorption and charge transport due to the carrier diffusion length being comparable to the thickness of the CQD film.",
+        "Question": "What is a known issue in PbS colloidal quantum dot solar cells related to the carrier diffusion length?",
+        "A": "It is longer than the thickness of the CQD film, leading to low light absorption.",
+        "B": "It is shorter than the thickness of the CQD film, leading to inefficient charge transport.",
+        "C": "It is comparable to the thickness of the CQD film, leading to a tradeoff between light absorption and charge transport.",
+        "D": "It is unrelated to the thickness of the CQD film, affecting only the charge recombination rate.",
+        "Answer": "C",
+        "Source": "A tradeoff between light absorption and charge transport is a well\u2011known issue in PbS colloidal quantum dot (CQD) solar cells because the carrier diffusion length in PbS CQD films is comparable to the thickness of CQD film."
+    },
+    "Question_2": {
+        "Context": "To enhance the performance of PbS CQD solar cells, strategies such as reducing trapping at the interface and increasing the light absorption coefficient of CQDs are employed.",
+        "Question": "Which strategy is commonly used to enhance carrier transport in PbS CQD solar cells?",
+        "A": "Increasing the thickness of the CQD layer.",
+        "B": "Reducing the trapping at the interface by replacing long hydrocarbon chains with short functional ligands.",
+        "C": "Decreasing the size of the quantum dots to reduce the bandgap.",
+        "D": "Applying an external magnetic field to align the charge carriers.",
+        "Answer": "B",
+        "Source": "Research efforts to address this challenge are classified into two groups. One is to enhance the carrier transport by reducing the trapping at the interface, and the other is to increase the light absorption coefficient of CQDs."
+    },
+    "Question_3": {
+        "Context": "In the context of PbS CQD solar cells, the charge transport properties are influenced by several factors including exciton dissociation, hopping between CQDs, trapping, and recombination steps.",
+        "Question": "What are the main factors influencing charge transport properties in PbS CQD solar cells?",
+        "A": "Exciton dissociation, hopping between CQDs, trapping, and recombination steps.",
+        "B": "The intensity of incident light, the angle of light incidence, and the reflection coefficient of the surface.",
+        "C": "The electrical conductivity of the electrodes, the dielectric constant of the medium, and the bandgap of the CQDs.",
+        "D": "The thermal conductivity of the CQD layer, the ambient temperature, and the cooling rate of the device.",
+        "Answer": "A",
+        "Source": "One fundamental question of PbS CQD solar cells is how to improve their charge transport properties that are mainly influenced by the charge hopping between CQDs. The charge transport of CQDs are controlled by exciton dissociation, hopping between CQDs, trapping, and recombination steps."
+    },
+    "Question_4": {
+        "Context": "The synthesis of oleic-acid-capped PbS CQD involves a process where lead oxide, 1-octadecene, and oleic acid are mixed and subjected to specific conditions to form the quantum dots.",
+        "Question": "What materials are mixed to synthesize oleic-acid-capped PbS CQD?",
+        "A": "Lead oxide, 1-octadecene, and oleic acid.",
+        "B": "Zinc acetate, potassium hydroxide, and methanol.",
+        "C": "Lead iodide, lead bromide, and ammonium acetate.",
+        "D": "Bis(trimethylsilyl)sulfide, acetonitrile, and 1,2-ethanedithiol.",
+        "Answer": "A",
+        "Source": "The synthesis of oleic-acid-capped PbS CQD was per- formed using a previously published method [17]. ODE was degassed under vacuum at 85 \u00b0C for 12 h. 450 mg of PbO, 18 mL of ODE, and 1.5 mL of OA were mixed in a three-neck flask under vacuum at 70 \u00b0C for 2 h."
+    },
+    "Question_5": {
+        "Context": "In the synthesis of ZnO nanoparticles, a process is used where zinc acetate dihydrate is dissolved in methanol and reacted with potassium hydroxide solution to form ZnO nanoparticles.",
+        "Question": "Which method is used for the synthesis of ZnO nanoparticles?",
+        "A": "Dissolving zinc acetate dihydrate in methanol and reacting it with potassium hydroxide solution.",
+        "B": "Heating zinc oxide in a vacuum to sublimate and then condense it into nanoparticles.",
+        "C": "Electrolysis of zinc salts in an aqueous solution to form zinc hydroxide, which is then calcined to ZnO.",
+        "D": "Chemical vapor deposition of zinc precursors onto a substrate to form a thin film of ZnO.",
+        "Answer": "A",
+        "Source": "The ZnO nanoparticles were prepared by a modified method based on a published work [18]. 1.77 g of zinc acetate dihydrate was dissolved in 75 mL of methanol at 65 \u00b0C, and 0.89 g of potassium hydroxide was dis- solved in 39 mL of methanol."
+    },
+    "Question_6": {
+        "Context": "The distributed Bragg reflector (DBR) is a structure used in solar cells to enhance light absorption by selectively reflecting certain wavelengths. It is composed of alternating layers of materials with different refractive indices.",
+        "Question": "What is the purpose of a distributed Bragg reflector (DBR) in solar cell design?",
+        "A": "To convert the absorbed light directly into electrical energy.",
+        "B": "To increase the thermal stability of the solar cell.",
+        "C": "To selectively enhance light absorption in a non-visible wavelength range.",
+        "D": "To serve as an adhesive layer between the solar cell and the protective coating.",
+        "Answer": "C",
+        "Source": "Moreover, utilizing a distributed Bragg reflector (DBR) can further boost the light absorption without sacrificing visible transparency by selectively enhancing light absorption in a non-visible wavelength range."
+    },
+    "Question_7": {
+        "Context": "In the context of solar cells, a Fabry\u2013Perot (FP) resonator is an optical structure that enhances light absorption at specific resonant wavelengths by trapping light within an optical cavity formed between two highly reflecting mirrors.",
+        "Question": "What is the role of a Fabry\u2013Perot (FP) resonator in solar cell technology?",
+        "A": "To reflect all incident light away from the solar cell to prevent overheating.",
+        "B": "To absorb and convert ultraviolet light into visible light.",
+        "C": "To assist photoactive materials in absorbing more light at the FP resonant wavelength.",
+        "D": "To serve as a protective barrier against environmental damage.",
+        "Answer": "C",
+        "Source": "A FP resonator is an optical cavity where light oscillates between two highly reflecting mirrors. This oscillation assists photoactive materials in absorbing more light at the FP resonant wavelength."
+    },
+    "Question_8": {
+        "Context": "The power conversion efficiency (PCE) of solar cells is a measure of their ability to convert incident solar energy into electrical energy. It is influenced by factors such as light absorption, charge transport, and recombination losses.",
+        "Question": "What does an increase in the power conversion efficiency (PCE) of PbS CQD solar cells indicate?",
+        "A": "A decrease in the overall light absorption by the solar cell.",
+        "B": "An improvement in the ability to convert incident solar energy into electrical energy.",
+        "C": "A reduction in the electrical conductivity of the solar cell.",
+        "D": "An increase in the recombination rate of charge carriers.",
+        "Answer": "B",
+        "Source": "When the FP resonance and DBR are combined, the power conversion efficiency (PCE) of PbS CQD solar cells increases by 54%."
+    },
+    "Question_9": {
+        "Context": "In the context of solar cells, the incident photon to current efficiency (IPCE) is a measure of the efficiency with which photons of a particular wavelength are converted into an electric current.",
+        "Question": "What does the incident photon to current efficiency (IPCE) measure in solar cells?",
+        "A": "The efficiency of converting photons of a particular wavelength into heat.",
+        "B": "The efficiency of converting photons of a particular wavelength into an electric current.",
+        "C": "The total number of photons incident on the solar cell surface.",
+        "D": "The reflectance of the solar cell at a particular wavelength.",
+        "Answer": "B",
+        "Source": "The FP resonance enhances light absorption near the resonant wavelength of the DBR without changing the CQD film thickness. The light absorption near the FP resonance wavelength is further boosted by coupling the FP resonance with the high reflectivity of the Ag\u2011coated DBR."
+    },
+    "Question_10": {
+        "Context": "In the field of solar cell technology, the average visible transmittance (AVT) is a measure of the average percentage of visible light that passes through the solar cell, which is an important factor for semi-transparent solar cells.",
+        "Question": "What does the average visible transmittance (AVT) indicate in the context of semi-transparent solar cells?",
+        "A": "The average percentage of visible light that is absorbed by the solar cell.",
+        "B": "The average percentage of visible light that is reflected by the solar cell.",
+        "C": "The average percentage of visible light that passes through the solar cell.",
+        "D": "The total amount of electricity generated by the solar cell under visible light.",
+        "Answer": "C",
+        "Source": "Our results show how to overcome the inherence problem of the CQD and develop a semi\u2011transparent solar cell where the wavelength\u2011selective absorption and the transparency for visible light are important."
+    }
+}

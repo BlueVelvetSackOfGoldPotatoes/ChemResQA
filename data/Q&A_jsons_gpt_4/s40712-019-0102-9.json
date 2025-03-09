@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Zirconium oxide nanoparticles can be synthesized using various methods, one of which is the hydrothermal method. This method involves chemical reactions in a sealed and heated aqueous environment, which can lead to the formation of crystalline structures.",
+        "Question": "At what temperature was the hydrothermal method applied to synthesize zirconium oxide nanoparticles?",
+        "A": "100 \u00b0C",
+        "B": "120 \u00b0C",
+        "C": "2370 \u00b0C",
+        "D": "1150 \u00b0C",
+        "Answer": "B",
+        "Source": "The hydrothermal method was applied at 120 \u00b0C by using an autoclave with a Teflon liner at an ambient pressure for 48 h."
+    },
+    "Question_2": {
+        "Context": "In the synthesis of nanoparticles, the Brunauer\u2013Emmett\u2013Teller (BET) method is used to measure the surface area of materials by nitrogen gas adsorption. A high surface area can be indicative of a material's porosity and potential for catalysis or other applications.",
+        "Question": "What was the surface area of the zirconium oxide nanoparticles obtained using the hydrothermal method according to the BET results?",
+        "A": "543 m2/g",
+        "B": "237 m2/g",
+        "C": "115 m2/g",
+        "D": "80 m2/g",
+        "Answer": "A",
+        "Source": "The Brunauer\u2013Emmett\u2013Teller results show that a high surface area of 543 m2/g was obtained in the hydrothermal process, having a high porosity in nanometre range."
+    },
+    "Question_3": {
+        "Context": "Zirconium oxide nanoparticles can exhibit different crystalline structures, such as cubic, tetragonal, and monoclinic, which are determined by their transformation temperatures.",
+        "Question": "What are the transformation temperatures for the cubic, tetragonal, and monoclinic structures of zirconium oxide nanoparticles?",
+        "A": "Cubic > 2370 \u00b0C, Tetragonal > 1150 \u00b0C, Monoclinic > 1150 \u00b0C",
+        "B": "Cubic > 120 \u00b0C, Tetragonal > 543 \u00b0C, Monoclinic > 543 \u00b0C",
+        "C": "Cubic > 1000 \u00b0C, Tetragonal > 650 \u00b0C, Monoclinic > 650 \u00b0C",
+        "D": "Cubic > 920 \u00b0C, Tetragonal > 340 \u00b0C, Monoclinic > 340 \u00b0C",
+        "Answer": "A",
+        "Source": "Generally, zirconia nanoparticles consist of three crystalline structures, which are cubic (C), tetragonal (T) and monoclinic (M), depending on their transformation temperatures (cubic > 2370 \u00b0C, tetragonal > 1150 \u00b0C and monoclinic > 1150 \u00b0C)."
+    },
+    "Question_4": {
+        "Context": "Zirconium oxide nanoparticles have applications in various fields due to their unique properties. These properties include high strength, fracture toughness, and resistance to corrosion.",
+        "Question": "Which of the following is NOT a property of zirconium oxide nanoparticles?",
+        "A": "High thermal conductivity",
+        "B": "High strength",
+        "C": "High corrosion resistance",
+        "D": "High fracture toughness",
+        "Answer": "A",
+        "Source": "1D nanomaterials, such as nanoribbons, exhibit novel physical properties with potential application in a number of areas due to their high strength and fracture toughness, low thermal conductivity, high corrosion resistance."
+    },
+    "Question_5": {
+        "Context": "Zirconium oxide nanoparticles can be used as catalysts due to their acidic and basic properties. They can also function as n-type semiconductor materials.",
+        "Question": "What type of semiconductor material is zirconium oxide known to be?",
+        "A": "p-type",
+        "B": "n-type",
+        "C": "Intrinsic",
+        "D": "Extrinsic",
+        "Answer": "B",
+        "Source": "Zirconia is known as a solid acid catalyst and an n-type semiconductor material."
+    },
+    "Question_6": {
+        "Context": "The crystalline structures of zirconium oxide nanoparticles can be stabilized at room temperature by using certain stabilizers, which prevent phase transformation and cracking.",
+        "Question": "Which of the following is NOT a stabilizer used to stabilize the high-temperature phases of zirconium oxide nanoparticles?",
+        "A": "Y2O3",
+        "B": "CaO",
+        "C": "MgO",
+        "D": "NaCl",
+        "Answer": "D",
+        "Source": "The high-temperature phases, such as cubic and tetragonal, can be stabilised at room temperature by using stabilisers such as Y2O3, CaO, MgO and CeO2 to avoid cracks within the structure due to the transformation phase."
+    },
+    "Question_7": {
+        "Context": "Zirconium oxide nanoparticles have high ionic conductivity, which makes them suitable for use in fuel cell membranes. This property allows oxygen ions to move freely through the crystal structure at high temperatures.",
+        "Question": "What property of cubic zirconium oxide makes it suitable for use as an oxygen sensor in fuel cell membranes?",
+        "A": "High electrical conductivity",
+        "B": "High oxygen ionic conductivity",
+        "C": "High thermal conductivity",
+        "D": "High electron mobility",
+        "Answer": "B",
+        "Source": "The stabilised cubic ZrO2 can also be used as an oxygen sensor in fuel cell membranes, because it has the ability to allow oxygen ions to move freely through the crystal structure at high temperatures."
+    },
+    "Question_8": {
+        "Context": "Zirconium oxide nanoparticles can be synthesized in various morphologies, including nanotubes and nanowires, which can be used to improve the sensitivity of chemical sensors.",
+        "Question": "Which morphology of zirconium oxide is expected to improve the sensitivity of chemical sensors?",
+        "A": "Nanospheres",
+        "B": "Nanoribbons",
+        "C": "Nanotubes",
+        "D": "Nanoparticles",
+        "Answer": "C",
+        "Source": "Furthermore, zirconia, in the form of nanotubes or nanowires, is expected to improve the sensitivity of chemical sensors and reinforce thermal stability and toughness of the material."
+    },
+    "Question_9": {
+        "Context": "Zirconium oxide nanoparticles can undergo a transformation from tetragonal to monoclinic structure, which is associated with a volume expansion and can induce stresses in the material.",
+        "Question": "What is the approximate volume expansion associated with the tetragonal-to-monoclinic transformation of zirconium oxide?",
+        "A": "1\u20132%",
+        "B": "2\u20133%",
+        "C": "3\u20134%",
+        "D": "4\u20135%",
+        "Answer": "D",
+        "Source": "Furthermore, the tetragonal-to-monoclinic transformation occurs with a volume expansion of about 4\u20135%, inducing high compressive stresses in the material."
+    },
+    "Question_10": {
+        "Context": "The synthesis of zirconium oxide nanoparticles can be achieved through various methods, each affecting the crystal sizes and morphological phases of the nanoparticles.",
+        "Question": "Which synthesis method is reported to produce zirconium oxide nanoparticles at a lower temperature without using a great deal of energy?",
+        "A": "Microwave irradiation",
+        "B": "Solid-state synthesis",
+        "C": "Sol-gel",
+        "D": "Hydrothermal",
+        "Answer": "D",
+        "Source": "The advantages of the hydrothermal method are that crystalline is produced at a lower temperature without using a great deal of energy."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the development and evaluation of nano-enabled fertilizers synthesized using date palm pits impregnated with specific nutrients. The fertilizers were tested for their water retention capacity in soil.",
+        "Question": "What was the most effective nano-enabled fertilizer in enhancing soil water retention capacity?",
+        "A": "nDPF1",
+        "B": "Control",
+        "C": "nDPF2",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The produced nano-fertilizers enhanced soil water retention capacity with nDPF2 being the most effective."
+    },
+    "Question_2": {
+        "Context": "The study investigated the release rates of phosphorus, potassium, and magnesium from conventional fertilizers and nano-enabled fertilizers in water. The results showed differences in nutrient release patterns.",
+        "Question": "Which fertilizer exhibited the lowest cumulative release percentage of potassium in water within 192 hours?",
+        "A": "nDPF1",
+        "B": "Control",
+        "C": "nDPF2",
+        "D": "Both nDPF1 and nDPF2",
+        "Answer": "C",
+        "Source": "The cumulative release rate of K from control reached 28.74% within 192 h in distilled water as compared to 13.49% and 10.89% of K released from nDPF1 and nDPF2 respectively within the same time frame."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the controlled release kinetics of phosphorus, potassium, and magnesium from nano-enabled fertilizers in water and soil. Different kinetic models were applied to describe the release data.",
+        "Question": "Which kinetic model was found to be the most suitable for describing the release kinetics of phosphorus, potassium, and magnesium from the nano-enabled fertilizers in water and soil?",
+        "A": "First order",
+        "B": "Elovich",
+        "C": "Parabolic diffusion",
+        "D": "Power function",
+        "Answer": "D",
+        "Source": "The power function model has shown the lowest SE values which indicates that this model is the most suitable model for describing the P, K and Mg kinetics release data from NEF in water and soil."
+    },
+    "Question_4": {
+        "Context": "The study conducted a pot experiment to assess the effect of nano-enabled fertilizers on maize plant growth and phosphorus content. The experiment compared the plant parameters among different treatments.",
+        "Question": "Which treatment resulted in the highest phosphorus content in both plant shoot and root?",
+        "A": "nDPF1",
+        "B": "Control",
+        "C": "nDPF2",
+        "D": "The phosphorus content was the same in all treatments",
+        "Answer": "C",
+        "Source": "Phosphorus content in plant shoot and root in nDPF2 treatment achieved the highest values of P% (0.35% in shoot and 0.186% in root) whereas the nDPF1 treatment showed an intermediate effect on P content in plant tissues."
+    },
+    "Question_5": {
+        "Context": "The study aimed to develop nano-enabled fertilizers from green waste and evaluate their potential in enhancing nutrient uptake efficiency and reducing nutrient loss. The study highlighted the importance of sustainable agriculture practices.",
+        "Question": "What was the main goal of the study regarding the production of nano-enabled fertilizers?",
+        "A": "To increase nutrients uptake efficiency",
+        "B": "To mitigate moisture retention problem in arid soils",
+        "C": "To reduce nutrients loss through leaching",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The main goal of this study was to produce nano-enabled fertilizers-based green waste and to evaluate its nutrients release pattern and kinetics."
+    },
+    "Question_6": {
+        "Context": "The study explored the water retention behavior of nano-enabled fertilizers in sandy soil. The results indicated differences in water retention capacity between the control and the nano-enabled fertilizers.",
+        "Question": "Which treatment showed the highest water retention capacity on the 24th day in sandy soil?",
+        "A": "nDPF1",
+        "B": "Control",
+        "C": "nDPF2",
+        "D": "The water retention capacity was the same in all treatments",
+        "Answer": "C",
+        "Source": "The WR of the soil mixed with nDPF1 and nDPF2 was 64.58% and 72.67% on the 5th day and reached 11.84% and 20.01% on the 24th day, respectively."
+    },
+    "Question_7": {
+        "Context": "The study investigated the controlled release behavior of phosphorus, potassium, and magnesium from nano-enabled fertilizers in water. The results showed differences in nutrient release rates between the nano-enabled fertilizers and the control.",
+        "Question": "Which fertilizer exhibited the lowest cumulative release percentage of magnesium in water within 192 hours?",
+        "A": "nDPF1",
+        "B": "Control",
+        "C": "nDPF2",
+        "D": "Both nDPF1 and nDPF2",
+        "Answer": "C",
+        "Source": "The Mg cumulative percentage released from control in water was about 100% within 192 h whereas, the cumulative release percentages from nDPF1 and nDPF2 at the same time interval were 64.25% and 36.05% respectively."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the kinetics and modeling of phosphorus, potassium, and magnesium release from nano-enabled fertilizers in water and soil. Different kinetic models were applied to describe the release data.",
+        "Question": "Which kinetic model was found to have the lowest standard error values and was considered the most suitable for describing the release kinetics of phosphorus, potassium, and magnesium from the nano-enabled fertilizers?",
+        "A": "First order",
+        "B": "Elovich",
+        "C": "Parabolic diffusion",
+        "D": "Power function",
+        "Answer": "D",
+        "Source": "The power function model has shown the lowest SE values which indicates that this model is the most suitable model for describing the P, K and Mg kinetics release data from NEF in water and soil."
+    },
+    "Question_9": {
+        "Context": "The study conducted a pot experiment to evaluate the effect of nano-enabled fertilizers on maize plant growth and phosphorus content. The results indicated differences in plant growth parameters among the treatments.",
+        "Question": "Which treatment resulted in the highest plant height and stem diameter in maize plants?",
+        "A": "nDPF1",
+        "B": "Control",
+        "C": "nDPF2",
+        "D": "The plant height and stem diameter were the same in all treatments",
+        "Answer": "C",
+        "Source": "Both nDPF1 and nDPF2 treatments gave the highest values of plant height (37 cm and 40 cm) and stem diameter, respectively."
+    },
+    "Question_10": {
+        "Context": "The study aimed to develop nano-enabled fertilizers from green waste and evaluate their potential in enhancing nutrient uptake efficiency and reducing nutrient loss. The study highlighted the importance of sustainable agriculture practices.",
+        "Question": "What was the significance of using nano-enabled fertilizers from green waste according to the study?",
+        "A": "To increase nutrients uptake efficiency",
+        "B": "To mitigate moisture retention problem in arid soils",
+        "C": "To reduce nutrients loss through leaching",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The use of green waste as a source of nutrients not only reduces waste but also provides an environmentally friendly alternative to traditional chemical fertilizers."
+    }
+}

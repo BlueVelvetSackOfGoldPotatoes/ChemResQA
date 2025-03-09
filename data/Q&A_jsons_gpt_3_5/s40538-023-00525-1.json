@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to assess if organic matter load exceeding a certain threshold could artificially produce BPCA during black carbon analysis.",
+        "Question": "What was the maximum total organic carbon (TOC) load in soil samples where no artificial BPCA formation occurred?",
+        "A": "5 mg",
+        "B": "10 mg",
+        "C": "15 mg",
+        "D": "20 mg",
+        "Answer": "D",
+        "Source": "Our results show that for soil samples, no artificial BPCA formation occurred at least up to 20 mg of total organic carbon."
+    },
+    "Question_2": {
+        "Context": "The study analyzed different plant materials to investigate the artificial formation of BPCA during oxidation processes.",
+        "Question": "Which plant material showed artificial BPCA formation when more than 10 mg of total organic carbon (TOC) was used?",
+        "A": "Ivy leaves",
+        "B": "Beech leaves",
+        "C": "Spruce needles",
+        "D": "Thuja leaves/needles",
+        "Answer": "B",
+        "Source": "In Beech leaves, only B3CA was produced when TOC load exceeded 10 mg."
+    },
+    "Question_3": {
+        "Context": "The study compared the results of conventional high-pressure digestion with microwave-assisted oxidation process.",
+        "Question": "Which method showed a significantly higher B3CA content in Ivy and Thuja samples?",
+        "A": "Conventional high-pressure digestion",
+        "B": "Microwave-assisted oxidation process",
+        "C": "Both methods showed similar results",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "A significantly higher B3CA content in the Ivy and Thuja samples treated with microwave-assisted oxidation process compared to the conventional method was observed."
+    },
+    "Question_4": {
+        "Context": "The study investigated the correlation between black carbon content and sample weight as mg of TOC in plant samples.",
+        "Question": "Which plant sample showed a significantly higher black carbon content in the high-pressure oxidation process compared to the microwave-assisted process?",
+        "A": "Ivy leaves",
+        "B": "Beech leaves",
+        "C": "Spruce needles",
+        "D": "Thuja leaves/needles",
+        "Answer": "B",
+        "Source": "In Beech leaves, there was a significantly higher black carbon content of 4.69 g kg\u22121 in the high-pressure oxidation process compared to the microwave-assisted process."
+    },
+    "Question_5": {
+        "Context": "The study analyzed the individual benzenepolycarboxylic acids and black carbon content in plant samples.",
+        "Question": "Which plant material showed an increase in B4CA content from 0.2 to 0.7 g kg\u22121?",
+        "A": "Ivy leaves",
+        "B": "Beech leaves",
+        "C": "Spruce needles",
+        "D": "Thuja leaves/needles",
+        "Answer": "D",
+        "Source": "The mean content of B4CA increased from 0.2 to 0.7 g kg\u22121 in Thuja samples."
+    },
+    "Question_6": {
+        "Context": "The study assessed the correlation between B6CA content and sample weight as mg of TOC in plant samples.",
+        "Question": "Which plant sample showed artificial formation of B6CA only when more than 200 mg of TOC was oxidized?",
+        "A": "Ivy leaves",
+        "B": "Beech leaves",
+        "C": "Spruce needles",
+        "D": "Thuja leaves/needles",
+        "Answer": "A",
+        "Source": "B6CA was detected only in Ivy leaves when more than 200 mg of TOC was oxidized."
+    },
+    "Question_7": {
+        "Context": "The study compared the results of conventional and microwave-assisted oxidation processes.",
+        "Question": "Which method showed a significantly higher B5CA content in Beech leaves?",
+        "A": "Conventional high-pressure digestion",
+        "B": "Microwave-assisted oxidation process",
+        "C": "Both methods showed similar results",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "B4CA and B5CA showed significantly higher contents in Beech leaves in the microwave-assisted oxidation process compared to the high-pressure digestion."
+    },
+    "Question_8": {
+        "Context": "The study investigated the correlation between sample weight as mg of TOC and BPCA content in plant samples.",
+        "Question": "Which plant sample showed a positive correlation between B3CA content and lignin content?",
+        "A": "Ivy leaves",
+        "B": "Beech leaves",
+        "C": "Spruce needles",
+        "D": "Thuja leaves/needles",
+        "Answer": "D",
+        "Source": "B3CA showed a positive correlation with lignin content in Thuja needles."
+    },
+    "Question_9": {
+        "Context": "The study compared the results of conventional and microwave-assisted oxidation processes.",
+        "Question": "Which method showed no significant differences in black carbon content in Ivy, Spruce, and Thuja samples?",
+        "A": "Conventional high-pressure digestion",
+        "B": "Microwave-assisted oxidation process",
+        "C": "Both methods showed similar results",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The black carbon content was not significantly different among the two oxidation methods in Ivy, Spruce, and Thuja samples."
+    },
+    "Question_10": {
+        "Context": "The study assessed the artificial formation of BPCA during oxidation processes.",
+        "Question": "What was the maximum total organic carbon (TOC) load in plant samples where no artificial BPCA formation occurred?",
+        "A": "20 mg",
+        "B": "30 mg",
+        "C": "40 mg",
+        "D": "50 mg",
+        "Answer": "A",
+        "Source": "No artificial formation of BPCA occurred when the TOC load was lower than 28 mg in Ivy leaves, 12 mg in Spruce leaves/needles, 12 mg in Thuja leaves/needles."
+    }
+}

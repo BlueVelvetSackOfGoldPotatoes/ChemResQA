@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to investigate the effects of high iron intake on copper availability in rats.",
+        "Question": "What physiological disturbances were observed in rats consuming high-iron diets?",
+        "A": "Anemia and reduced copper levels",
+        "B": "Increased copper levels and shortened colon lengths",
+        "C": "Elevated serum cholesterol levels",
+        "D": "Increased tissue copper levels",
+        "Answer": "A",
+        "Source": "Rats consuming the high-iron diets displayed anemia, reduced copper levels in their organs and feces, and shortened colon lengths."
+    },
+    "Question_2": {
+        "Context": "The study focused on the interaction between dietary iron and copper in experimental animals.",
+        "Question": "How did additional copper in the diet affect the physiological disturbances induced by high iron intake?",
+        "A": "Exacerbated the disturbances",
+        "B": "Prevented the disturbances",
+        "C": "Had no effect on the disturbances",
+        "D": "Increased tissue copper levels",
+        "Answer": "B",
+        "Source": "The physiological disturbances caused by a high-iron diet were prevented when additional copper was included in the rodent diet."
+    },
+    "Question_3": {
+        "Context": "The study investigated the impact of high iron consumption on serum cholesterol levels.",
+        "Question": "What effect did increasing dietary copper consumption have on overall serum cholesterol levels?",
+        "A": "Increased serum cholesterol levels",
+        "B": "Decreased serum cholesterol levels",
+        "C": "Had no effect on serum cholesterol levels",
+        "D": "Elevated serum triglyceride levels",
+        "Answer": "B",
+        "Source": "Increasing dietary copper consumption led to a decrease in overall serum cholesterol levels."
+    },
+    "Question_4": {
+        "Context": "The study explored the relationship between high iron intake and hepatic enzymatic activity.",
+        "Question": "How did high-iron feeding affect serum alkaline phosphatase (ALP) levels?",
+        "A": "Increased ALP levels",
+        "B": "Decreased ALP levels",
+        "C": "Had no effect on ALP levels",
+        "D": "Elevated serum AST levels",
+        "Answer": "B",
+        "Source": "Serum ALP activity levels were significantly influenced by dietary iron, with high iron resulting in significantly lower ALP activity."
+    },
+    "Question_5": {
+        "Context": "The study examined the impact of high iron and copper levels on hematological parameters.",
+        "Question": "What effect did high iron and copper levels have on hemoglobin (Hb) levels?",
+        "A": "Increased Hb levels",
+        "B": "Decreased Hb levels",
+        "C": "Had no effect on Hb levels",
+        "D": "Elevated serum iron levels",
+        "Answer": "B",
+        "Source": "HFe treatment resulted in significantly higher hepatic iron loading."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the distribution of iron and copper in various tissues.",
+        "Question": "Which tissue showed the highest copper levels among all dietary treatments?",
+        "A": "Liver",
+        "B": "Spleen",
+        "C": "Heart",
+        "D": "Kidney",
+        "Answer": "Spleen",
+        "Source": "Spleen copper levels were significantly higher in the AdFe/HCu group."
+    },
+    "Question_7": {
+        "Context": "The study investigated the effects of high iron and copper intake on colon length.",
+        "Question": "How did high iron intake combined with low copper affect colon length?",
+        "A": "Increased colon length",
+        "B": "Decreased colon length",
+        "C": "Had no effect on colon length",
+        "D": "Elevated serum copper levels",
+        "Answer": "B",
+        "Source": "In the HFe/LCu group, the colon length was the shortest among all groups."
+    },
+    "Question_8": {
+        "Context": "The study examined the excretion of iron and copper in feces and the small intestine.",
+        "Question": "What was the relationship between intestinal and fecal iron content?",
+        "A": "Negative correlation",
+        "B": "Positive correlation",
+        "C": "No correlation",
+        "D": "Elevated serum iron levels",
+        "Answer": "B",
+        "Source": "There was a positive correlation between intestinal and fecal iron content."
+    },
+    "Question_9": {
+        "Context": "The study assessed the impact of dietary iron and copper on tissue copper loading.",
+        "Question": "How did dietary iron and copper concentrations influence copper loading in the liver?",
+        "A": "Decreased copper loading",
+        "B": "Increased copper loading",
+        "C": "Had no effect on copper loading",
+        "D": "Elevated serum copper levels",
+        "Answer": "B",
+        "Source": "Liver copper levels were significantly higher in the AdFe/HCu group."
+    },
+    "Question_10": {
+        "Context": "The study investigated the role of dietary iron and copper in the absorption and excretion of minerals.",
+        "Question": "How did dietary iron and copper content influence copper levels in the small intestine?",
+        "A": "Decreased copper levels",
+        "B": "Increased copper levels",
+        "C": "Had no effect on copper levels",
+        "D": "Elevated serum copper levels",
+        "Answer": "B",
+        "Source": "The copper content in the small intestine was affected by dietary iron and copper concentrations."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to develop a methodology for thermoelastic analysis using experimental temperature data and numerical displacement evaluation.",
+        "Question": "What was the purpose of using thermal imaging in the experimental setup?",
+        "A": "To measure the strain field",
+        "B": "To calculate the stress components",
+        "C": "To evaluate the displacement field",
+        "D": "To determine the shear modulus",
+        "Answer": "C",
+        "Source": "The experimental procedure relied on the simultaneous acquisition of the temperature and displacement fields acting on a surface using two optical measurement methods, thermal imaging and DIC analysis."
+    },
+    "Question_2": {
+        "Context": "The study utilized a CNC marker device for marking speckle patterns on the surface.",
+        "Question": "What was the advantage of using the CNC marker device for speckle pattern generation?",
+        "A": "Consistent reproduction of speckle size and distribution",
+        "B": "Lower cost compared to other methods",
+        "C": "Ability to generate patterns manually",
+        "D": "Limited applicability to complex geometries",
+        "Answer": "A",
+        "Source": "The developed surface marking procedure can be adapted for any other device, like 3d printers, to mark the speckle patterns independent of the surface complexity."
+    },
+    "Question_3": {
+        "Context": "The study compared different polynomial functions for approximating the temperature field.",
+        "Question": "What was the purpose of approximating the temperature field with polynomial functions?",
+        "A": "To calculate the strain field",
+        "B": "To evaluate the stress components",
+        "C": "To convert domain integrals into boundary equivalents",
+        "D": "To determine the shear modulus",
+        "Answer": "C",
+        "Source": "The BEM formulation used in this procedure, obtained from an RIM application, required the temperature field to be input as a function, introducing a possible error source to the analysis."
+    },
+    "Question_4": {
+        "Context": "The study involved the comparison of numerical and experimental displacement fields.",
+        "Question": "What was the main purpose of comparing the numerical and experimental displacement fields?",
+        "A": "To determine the accuracy of the experimental setup",
+        "B": "To validate the proposed methodology",
+        "C": "To calculate the strain field",
+        "D": "To evaluate the shear modulus",
+        "Answer": "B",
+        "Source": "The observed good agreement between the numerical and experimental results points toward the viability and good accuracy of the proposed methodology."
+    },
+    "Question_5": {
+        "Context": "The study discussed the importance of the speckle pattern in DIC analysis.",
+        "Question": "Why is the quality of the speckle pattern crucial in DIC analysis?",
+        "A": "To determine the shear modulus",
+        "B": "To calculate the stress components",
+        "C": "To evaluate the strain field",
+        "D": "To provide accurate displacement measurements",
+        "Answer": "D",
+        "Source": "The good quality of the speckle pattern used in the DIC analyses was assured by using a CNC marker device specially developed for this work."
+    },
+    "Question_6": {
+        "Context": "The study utilized thermal imaging for acquiring temperature data.",
+        "Question": "What was the purpose of acquiring the temperature data using thermal imaging?",
+        "A": "To measure the stress components",
+        "B": "To evaluate the strain field",
+        "C": "To calculate the displacement field",
+        "D": "To determine the shear modulus",
+        "Answer": "C",
+        "Source": "The experimentally acquired temperature fields were used as inputs for a numerical BEM routine that calculates the consequent displacement fields."
+    },
+    "Question_7": {
+        "Context": "The study employed a DIC system for displacement analysis.",
+        "Question": "What was the role of the DIC system in the experimental setup?",
+        "A": "To measure the strain field",
+        "B": "To evaluate the stress components",
+        "C": "To calculate the displacement field",
+        "D": "To determine the shear modulus",
+        "Answer": "C",
+        "Source": "The good quality of the speckle pattern used in the DIC analyses was assured by using a CNC marker device specially developed for this work."
+    },
+    "Question_8": {
+        "Context": "The study discussed the use of polynomial functions for approximating temperature data.",
+        "Question": "Why was it necessary to approximate the temperature data with polynomial functions?",
+        "A": "To calculate the stress components",
+        "B": "To evaluate the strain field",
+        "C": "To convert domain integrals into boundary equivalents",
+        "D": "To determine the shear modulus",
+        "Answer": "C",
+        "Source": "The BEM formulation used in this procedure, obtained from an RIM application, required the temperature field to be input as a function, introducing a possible error source to the analysis."
+    },
+    "Question_9": {
+        "Context": "The study compared different polynomial functions for approximating the temperature field.",
+        "Question": "What was the outcome of comparing the different polynomial functions for approximating the temperature field?",
+        "A": "Biquadratic function showed the highest accuracy",
+        "B": "Biquartic function had the lowest error",
+        "C": "All polynomial functions showed similar accuracy",
+        "D": "Bicubic function was the most accurate",
+        "Answer": "C",
+        "Source": "The proximity of the resultant values provided by each polynomial function is once again evinced by the error data."
+    },
+    "Question_10": {
+        "Context": "The study discussed the experimental setup for acquiring temperature and displacement data.",
+        "Question": "Why was it important to have a controlled environment during the experimental setup?",
+        "A": "To ensure accurate displacement measurements",
+        "B": "To determine the shear modulus",
+        "C": "To evaluate the strain field",
+        "D": "To calculate the stress components",
+        "Answer": "A",
+        "Source": "The experimental procedure relied on the simultaneous acquisition of the temperature and displacement fields acting on a surface using two optical measurement methods, thermal imaging and DIC analysis."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Hemp is a plant known for its ability to grow rapidly and produce high biomass. It has a deep root system and can absorb and accumulate heavy metals from the soil, which makes it a candidate for phytoremediation purposes.",
+        "Question": "Which characteristic of hemp makes it suitable for phytoremediation?",
+        "A": "Ability to produce secondary metabolites",
+        "B": "High biomass yield and heavy metal accumulation",
+        "C": "Production of fiber and seeds",
+        "D": "Low tolerance to increased heavy metal levels",
+        "Answer": "B",
+        "Source": "Hemp (Cannabis sativa) is a crop that meets some characteristics of plants suitable for phytoremediation purposes, such as rapid growth, a deep root system, high production of above-ground biomass, and relatively low cultivation requirements."
+    },
+    "Question_2": {
+        "Context": "Zinc is an essential micronutrient for plants, playing a role in various biological functions. However, at high concentrations, zinc can become phytotoxic, leading to growth inhibition and other negative effects on plants.",
+        "Question": "What is the role of zinc in plants at appropriate concentrations?",
+        "A": "It acts solely as a structural component of ribosomes",
+        "B": "It is involved in the production of secondary metabolites",
+        "C": "It serves as a cofactor in metalloenzymes and is important for photosynthesis",
+        "D": "It is only important for maintaining cell membrane integrity",
+        "Answer": "C",
+        "Source": "For plants, Zn represents a micronutrient that is a cofactor in a number of metalloenzymes, transcription factors, and is a structural component of ribosomes and some t-RNA synthetases. Zinc is also important for photosynthesis and maintaining the cell membrane integrity."
+    },
+    "Question_3": {
+        "Context": "In the context of phytoremediation, certain plants known as hyperaccumulators are particularly efficient at absorbing and concentrating heavy metals from contaminated soils without suffering phytotoxic effects.",
+        "Question": "What is a characteristic feature of hyperaccumulator plants?",
+        "A": "They require high levels of fertilizers to grow",
+        "B": "They can accumulate extremely high amounts of heavy metals without phytotoxic effects",
+        "C": "They have a slow growth rate and low biomass production",
+        "D": "They are typically large, fast-growing plants",
+        "Answer": "B",
+        "Source": "Theoretically, HM hyperaccumulators are best suited for this purpose since they are able to grow in heavily contaminated soils and, at the same time, accumulate extremely high amounts of HMs in above-ground organs without phytotoxic effects."
+    },
+    "Question_4": {
+        "Context": "Chelating agents are compounds that can form stable complexes with metal ions. They are used in phytoremediation to increase the bioavailability of heavy metals in soils, facilitating their uptake by plants.",
+        "Question": "What is the role of chelating agents in phytoremediation?",
+        "A": "To decrease the pH of the soil",
+        "B": "To reduce the biomass yield of phytoremediation plants",
+        "C": "To form complexes with metal soil contaminants, increasing their bioavailability",
+        "D": "To act as fertilizers and enhance plant growth",
+        "Answer": "C",
+        "Source": "One of the strategies leading to increasing the solubility and thus the HM bioavailability for phytoextraction is the exogenous application of chelating agents, which form complexes with numerous metal soil contaminants."
+    },
+    "Question_5": {
+        "Context": "Nitrilotriacetic acid (NTA) is a biodegradable chelating agent that has been tested for its efficiency in phytoremediation. It can enhance the uptake and translocation of heavy metals in plants.",
+        "Question": "What is a potential environmental benefit of using nitrilotriacetic acid (NTA) in phytoremediation?",
+        "A": "It has a high toxicity to soil microorganisms",
+        "B": "It is non-biodegradable and persists in the environment",
+        "C": "It can enhance the uptake of heavy metals by plants",
+        "D": "It reduces the biomass production of phytoremediation plants",
+        "Answer": "C",
+        "Source": "Similar to endogenous chelators, exogenously applied synthetic chelators can increase the uptake and root\u2013shoot HM translocation via the transpiration stream, which is one of the basic prerequisites for successful phytoextraction."
+    },
+    "Question_6": {
+        "Context": "Citric acid is a natural low-molecular-weight carboxylic acid that can act as a chelating agent. It has the ability to form complexes with metals, potentially aiding in their uptake by plants.",
+        "Question": "What is the role of citric acid in the context of phytoremediation?",
+        "A": "It serves as a primary energy source for plants",
+        "B": "It inhibits the growth of phytoremediation plants",
+        "C": "It acts as a natural chelating agent to increase metal bioavailability",
+        "D": "It is used to increase the pH of the soil",
+        "Answer": "C",
+        "Source": "Carboxylic acids (malic, citric acid) also play an important role in the loading Zn into the xylem, its root-to-shoot translocation and tolerance to increased levels of this metal in leaves."
+    },
+    "Question_7": {
+        "Context": "The bioconcentration factor (BCF) is a measure used to assess the ability of plants to accumulate heavy metals from the soil. It is calculated as the ratio of the metal concentration in the plant to that in the soil.",
+        "Question": "What does a bioconcentration factor (BCF) greater than 1 indicate in the context of phytoremediation?",
+        "A": "The plant is effective at accumulating the metal from the soil",
+        "B": "The soil is depleted of the metal",
+        "C": "The plant is not suitable for phytoremediation",
+        "D": "The chelating agents have a toxic effect on the plant",
+        "Answer": "A",
+        "Source": "Similarly, the bioconcentration factor (BCF) expresses the ratio between the Zn content in the roots (root BCF) or in the shoot (shoot BCF) and the Zn content in the soil."
+    },
+    "Question_8": {
+        "Context": "The translocation factor (TF) is used to evaluate the efficiency of phytoremediation plants in transporting heavy metals from the roots to the above-ground parts. It is calculated based on the metal concentrations in different parts of the plant.",
+        "Question": "In phytoremediation, what does a translocation factor (TF) less than 1 signify?",
+        "A": "The plant is highly efficient at translocating the metal to the above-ground parts",
+        "B": "The plant accumulates more metal in the roots than in the above-ground parts",
+        "C": "The chelating agents have failed to mobilize the metal",
+        "D": "The soil is not contaminated with heavy metals",
+        "Answer": "B",
+        "Source": "The translocation factor (TF) was calculated as the ratio between the Zn concentration in the shoot (\u00b5g g\u22121) and Zn concentration in the root system (\u00b5g g\u22121)."
+    },
+    "Question_9": {
+        "Context": "Soil microbial activity can be assessed by measuring the activity of enzymes such as dehydrogenase. The activity of this enzyme is an indicator of the overall microbial activity and soil health.",
+        "Question": "What does a decrease in soil dehydrogenase activity generally indicate?",
+        "A": "An increase in soil fertility",
+        "B": "Enhanced microbial activity and soil health",
+        "C": "A potential toxic effect on soil microbial activity",
+        "D": "A decrease in the bioavailability of heavy metals",
+        "Answer": "C",
+        "Source": "NTA affected the soil microbiome negatively, causing decreased enzyme activity (in \u2018Monoica\u2019 planted soil) and induced respiration (in \u2018Monoica\u2019 and especially in \u2018Felina 32\u2019 planted soil)."
+    },
+    "Question_10": {
+        "Context": "In phytoremediation, the application of chelating agents can have varying effects on soil enzymes. Some enzymes may show increased activity due to the presence of certain chelating agents, indicating changes in soil microbial processes.",
+        "Question": "Which soil enzyme's activity was enhanced by the application of citric acid in a study on phytoremediation using hemp?",
+        "A": "Dehydrogenase",
+        "B": "Nitrilotriacetic acid",
+        "C": "Phosphatase",
+        "D": "Arylsulfatase",
+        "Answer": "A",
+        "Source": "On the other hand, CA application did not lead to significantly increased Zn levels in any of the studied hemp varieties. Together with CA\u2019s negative effects on some soil enzymes, CA enhanced urease activity, dehydrogenase and several respiration types for the \u2018Felina 32\u2019 variety and exerted less detrimental effect on the soil microbiome."
+    }
+}

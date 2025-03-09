@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome</title>
+  <style>
+    header {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    body {
+        margin: 0;
+        padding-top: 50px; /* Adjust this value based on the height of your header image */
+    }
+</style>
+</head>
+
+<body>
+  <header>
+    <img src="{{ url_for('static', filename='pollice.png') }}" alt="Pollice Image">
+  </header>
+  <h1>Welcome to the ChemResQA Quiz</h1>
+  <p>This is a 10 question quiz application to better gauge the difficulty of the questionnaire.</p>
+  <form action="/question" method="post">
+    <button type="submit">Continue</button>
+  </form>
+</body>
+</html>

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on investigating the effect of various cutting parameters on dimensional accuracy and surface roughness in hard turning operations.",
+        "Question": "What is the most important factor affecting the surface roughness in hard turning operations?",
+        "A": "Cutting depth",
+        "B": "Spindle speed",
+        "C": "Feed rate",
+        "D": "Nose radius",
+        "Answer": "C",
+        "Source": "The obtained results showed that feed rate is the most important factor affecting the surface roughness."
+    },
+    "Question_2": {
+        "Context": "The study emphasized the significance of cutting depth in relation to dimensional accuracy in hard turning operations.",
+        "Question": "Which factor has the greatest effect on the dimensional accuracy in hard turning operations?",
+        "A": "Spindle speed",
+        "B": "Feed rate",
+        "C": "Cutting depth",
+        "D": "Nose radius",
+        "Answer": "C",
+        "Source": "It was observed that among all the processing parameters, the cutting depth has the greatest effect on the dimensional accuracy."
+    },
+    "Question_3": {
+        "Context": "The study discussed the impact of insert nose radius on surface roughness and dimensional accuracy in hard turning operations.",
+        "Question": "What is the effect of insert nose radius on surface roughness?",
+        "A": "Improves surface roughness",
+        "B": "Worsens surface roughness",
+        "C": "No effect on surface roughness",
+        "D": "Improves dimensional accuracy",
+        "Answer": "A",
+        "Source": "By increasing the nose radius, the surface roughness improves significantly."
+    },
+    "Question_4": {
+        "Context": "The study highlighted the relationship between feed rate and surface roughness in hard turning operations.",
+        "Question": "How does increasing the feed rate affect surface roughness?",
+        "A": "Decreases surface roughness",
+        "B": "Increases surface roughness",
+        "C": "No effect on surface roughness",
+        "D": "Improves dimensional accuracy",
+        "Answer": "B",
+        "Source": "The experimental results reveal that when the feed rate increases, the surface roughness average increases."
+    },
+    "Question_5": {
+        "Context": "The study examined the effect of spindle speed on cutting forces in hard turning operations.",
+        "Question": "What effect does increasing spindle speed have on cutting forces?",
+        "A": "Decreases cutting forces",
+        "B": "Increases cutting forces",
+        "C": "No effect on cutting forces",
+        "D": "Improves surface roughness",
+        "Answer": "A",
+        "Source": "Increasing the spindle speed from 500 to 2000 rpm leads to the linearly decreasing of the surface roughness, related to the decreasing of the cutting forces at higher cutting speeds."
+    },
+    "Question_6": {
+        "Context": "The study discussed the impact of cutting depth on surface roughness in hard turning operations.",
+        "Question": "How does increasing cutting depth affect surface roughness?",
+        "A": "Decreases surface roughness",
+        "B": "Increases surface roughness",
+        "C": "No effect on surface roughness",
+        "D": "Improves dimensional accuracy",
+        "Answer": "B",
+        "Source": "The experimental results reveal that the surface roughness is decreased about 9% by increasing the cutting depth to 2 mm."
+    },
+    "Question_7": {
+        "Context": "The study investigated the effect of cutting depth on dimensional accuracy in hard turning operations.",
+        "Question": "What impact does increasing cutting depth have on dimensional accuracy?",
+        "A": "Improves dimensional accuracy",
+        "B": "Worsens dimensional accuracy",
+        "C": "No effect on dimensional accuracy",
+        "D": "Improves surface roughness",
+        "Answer": "B",
+        "Source": "It was observed that by increasing the cutting depth, the dimensional accuracy decreases drastically."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the optimal combinations of processing parameters for achieving the best dimensional accuracy in hard turning operations.",
+        "Question": "What combination of parameters yields the best dimensional accuracy?",
+        "A": "Highest spindle speed and feed rate, lowest cutting depth",
+        "B": "Lowest spindle speed and feed rate, highest cutting depth",
+        "C": "Highest spindle speed and nose radius, lowest feed rate",
+        "D": "Lowest spindle speed and nose radius, moderate feed rate",
+        "Answer": "D",
+        "Source": "The highest level of the nose radius and spindle speed, the moderate level of the cutting depth, along with the lowest level of the feed rate is an ideal combination to achieve the best dimensional accuracy."
+    },
+    "Question_9": {
+        "Context": "The study discussed the effect of processing parameters on surface roughness in hard turning operations.",
+        "Question": "What combination of parameters yields the best surface roughness?",
+        "A": "Highest spindle speed and feed rate, lowest cutting depth",
+        "B": "Lowest spindle speed and feed rate, highest cutting depth",
+        "C": "Highest spindle speed and nose radius, lowest feed rate",
+        "D": "Lowest spindle speed and nose radius, moderate feed rate",
+        "Answer": "C",
+        "Source": "The highest level of the spindle speed and nose radius, the moderate level of the cutting depth, along with the lowest level of the feed rate is an ideal combination to achieve an acceptable surface roughness."
+    },
+    "Question_10": {
+        "Context": "The study concluded by proposing optimal combinations of processing parameters for achieving the best surface roughness in hard turning operations.",
+        "Question": "What combination of parameters yields the best surface roughness?",
+        "A": "Highest spindle speed and feed rate, lowest cutting depth",
+        "B": "Lowest spindle speed and feed rate, highest cutting depth",
+        "C": "Highest spindle speed and nose radius, lowest feed rate",
+        "D": "Lowest spindle speed and nose radius, moderate feed rate",
+        "Answer": "C",
+        "Source": "The highest level of the spindle speed and nose radius, the moderate level of the cutting depth, along with the lowest level of the feed rate is an ideal combination to achieve an acceptable surface roughness."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "c-MET is a receptor with tyrosine kinase activity that is activated by hepatocyte growth factor. It is involved in various physiological processes and plays a role in cancer cell proliferation, migration, and metastasis.",
+        "Question": "What is the role of c-MET in cancer biology?",
+        "A": "It decreases cancer cell proliferation.",
+        "B": "It activates pathways leading to increased proliferation, migration, and metastasis.",
+        "C": "It suppresses the immune response against cancer cells.",
+        "D": "It has no significant role in cancer biology.",
+        "Answer": "B",
+        "Source": "c-MET is a transmembrane receptor with tyrosine kinase activity that is activated by its physiological ligand, hepatocyte growth factor. This receptor plays a key role in many physiological processes (embryogenesis, wound healing, etc.). When involved in cancer biology, it activates several intracellular signaling pathways leading to increased proliferation, migration and metastasis of cancer cells through the epithelial- mesenchymal transition process."
+    },
+    "Question_2": {
+        "Context": "In the context of PET-CT imaging, radiopharmaceuticals targeting specific pathways can be used to detect the sites of various cancers. These radiopharmaceuticals can be labelled with different radioisotopes.",
+        "Question": "Which radioisotope is used to label EMP100 for PET-CT imaging?",
+        "A": "Copper-64",
+        "B": "Zirconium-89",
+        "C": "Gallium-68",
+        "D": "Carbon-11",
+        "Answer": "C",
+        "Source": "EMP100 is a cyclic oligopeptide bound to a DOTA chelator, with nanomolar affinity for c\u2011MET. The aim of this project was to develop an automated method for radiolabelling the radiopharmaceutical [68Ga]Ga\u2011EMP100."
+    },
+    "Question_3": {
+        "Context": "Radiopharmaceuticals can be optimized for better performance by adjusting various parameters such as pH, temperature, and the presence of adjuvants during the synthesis process.",
+        "Question": "What is the optimal pH range for the complexation reaction of [68Ga]Ga-EMP100?",
+        "A": "2.75 to 4.00",
+        "B": "4.00 to 5.25",
+        "C": "5.25 to 6.50",
+        "D": "6.50 to 7.75",
+        "Answer": "A",
+        "Source": "The first result of the radiolabelling optimisation was the identification of the optimal pH range between 2.75 and 4.00, which was achieved by varying the volume of 0.08 mol/L ammonium acetate between 1700 and 4400 \u00b5L and measuring the effect on the RCP measured by TLC (Table 1), keeping the temperature and heating time at 90 \u00b0C for 10 min constant."
+    },
+    "Question_4": {
+        "Context": "For the synthesis of radiopharmaceuticals, the temperature at which the complexation reaction occurs is a critical parameter that can affect the yield and quality of the final product.",
+        "Question": "At what temperature was the complexation reaction for [68Ga]Ga-EMP100 found to be almost complete?",
+        "A": "70 \u00b0C",
+        "B": "80 \u00b0C",
+        "C": "90 \u00b0C",
+        "D": "100 \u00b0C",
+        "Answer": "C",
+        "Source": "Subsequent investigations were carried out on the influence of heating time at a stable temperature (90 \u00b0C), measuring the incorporation of gallium-68 by assessing the RCP at different time points (0, 5, 8, 10 and 15 min). A duration of 10 min was found to ensure almost complete incorporation."
+    },
+    "Question_5": {
+        "Context": "In the development of radiopharmaceuticals, the amount of precursor peptide used in the synthesis can be optimized to achieve sufficient synthesis yield while maintaining high radiochemical purity.",
+        "Question": "What was the minimum amount of EMP-100 peptide precursor required for satisfactory synthesis yield of [68Ga]Ga-EMP100?",
+        "A": "30 \u00b5g",
+        "B": "50 \u00b5g",
+        "C": "75 \u00b5g",
+        "D": "90 \u00b5g",
+        "Answer": "C",
+        "Source": "Smaller amounts of peptide precursor (30, 50, 75 \u00b5g) were tested to determine the minimum amount required for satisfactory synthesis yield. Satisfactory RCP (> 95%) and RCY (> 50%) were obtained with 75 \u00b5g of precursor peptide."
+    },
+    "Question_6": {
+        "Context": "Radiolysis impurities can be a concern in the synthesis of radiopharmaceuticals. The use of adjuvants can improve the purity of the compound by reducing the effects of radiolysis.",
+        "Question": "Which adjuvants were used to improve the purity of [68Ga]Ga-EMP100 by reducing radiolysis impurities?",
+        "A": "Ascorbic acid and ethanol",
+        "B": "Gentisic acid and methanol",
+        "C": "Sodium acetate and acetonitrile",
+        "D": "Formic acid and water",
+        "Answer": "A",
+        "Source": "To reduce radiolysis oxidation and stabilise the reaction mixture, we introduced adjuvants such as ascorbic acid, gentisic acid and ethanol prior to the heating step. Initial tests with all three adjuvants gave consistent results as reflected in the RCP and RCY data."
+    },
+    "Question_7": {
+        "Context": "The stability of a radiopharmaceutical is an important parameter that ensures it remains within established specifications over a certain period after synthesis.",
+        "Question": "How long was [68Ga]Ga-EMP100 assessed to be stable at room temperature?",
+        "A": "1 hour",
+        "B": "2 hours",
+        "C": "3 hours",
+        "D": "4 hours",
+        "Answer": "C",
+        "Source": "The stability of [68Ga]Ga-EMP100 was assessed over 3 h in the finished product vial at room temperature, measuring appearance, pH, radiochemical purity, and sterility. Results remained within established specifications."
+    },
+    "Question_8": {
+        "Context": "The radiochemical yield (RCY) is a measure of the efficiency of the radiolabelling process and is expressed as a percentage.",
+        "Question": "What is the target radiochemical yield (RCY) for the synthesis of [68Ga]Ga-EMP100?",
+        "A": "Greater than 30%",
+        "B": "Greater than 40%",
+        "C": "Greater than 50%",
+        "D": "Greater than 60%",
+        "Answer": "C",
+        "Source": "Finally, the target activity at the time of calibration should be greater than 500 MBq, which, combined with a radiochemical yield (RCY) greater than 50%, allows imaging of at least one patient regardless of generator elution yield."
+    },
+    "Question_9": {
+        "Context": "The molar activity (MA) of a radiopharmaceutical is defined as the amount of radioactivity per unit amount of substance (e.g., GBq/\u00b5mol) and is a critical parameter for the effectiveness of PET imaging.",
+        "Question": "What is the minimum molar activity (MA) target for [68Ga]Ga-EMP100?",
+        "A": "Greater than 5 GBq/\u00b5mol",
+        "B": "Greater than 10 GBq/\u00b5mol",
+        "C": "Greater than 15 GBq/\u00b5mol",
+        "D": "Greater than 20 GBq/\u00b5mol",
+        "Answer": "B",
+        "Source": "Second, the molar activity (MA) must be greater than 10 GBq/\u00b5mol: at this stage of development, this value was chosen based on the current knowledge of needed ratio between \u2018hot\u2019 and \u2018cold\u2019 compound in the final product as well as commonly achieved values for agents at this stage of development."
+    },
+    "Question_10": {
+        "Context": "In the synthesis of radiopharmaceuticals, the radiochemical purity (RCP) is a measure of the proportion of the desired radiolabelled compound in the final product, excluding any impurities.",
+        "Question": "What is the required radiochemical purity (RCP) for [68Ga]Ga-EMP100?",
+        "A": "Greater than 85%",
+        "B": "Greater than 90%",
+        "C": "Greater than 95%",
+        "D": "Greater than 99%",
+        "Answer": "C",
+        "Source": "Firstly, radiochemical purity (RCP) is controlled and must exceed 95% (EMA. European Medicines Agency 2022, 2018a; Revised guidance for elaborating monographs on radiopharmaceutical preparations: new section on validation of methods 2019)."
+    }
+}

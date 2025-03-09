@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study compared the efficiency of different lipid extraction methods by evaluating their recovery rates.",
+        "Question": "Which method showed higher recovery rates compared to the Matyash method for most lipid classes?",
+        "A": "Matyash method",
+        "B": "SAP method",
+        "C": "mSAP method",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The results showed that the mSAP method had higher recovery rates than the Matyash method, with an increase of 1.03\u20131.40 times for LPC, Cer, SM, PC, PG, and PE classes except for TG in the positive\u2013ion mode and 1.06\u20131.37 times for PG, PE, LPC, Cer, SM, and PC classes in the negative-ion mode."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the sensitivity of different lipid extraction methods by comparing their limit of detection (LOD) for specific lipid standards.",
+        "Question": "Which method demonstrated the lowest limit of detection (LOD) for PC (17:0/17:0) standard in the positive-ion mode?",
+        "A": "Matyash method",
+        "B": "SAP method",
+        "C": "mSAP method",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The LOD for the mSAP method was significantly lower (0.0351 pmol) than those of the Matyash (0.2431 pmol) and SAP (0.3096 pmol) methods, indicating that it is about 7 times more sensitive than the Matyash method and about 9 times sensitive than the SAP method in positive-ion mode."
+    },
+    "Question_3": {
+        "Context": "The study assessed the repeatability and reproducibility of different lipid extraction methods by evaluating the intra-day and inter-day variation of XIC peak areas for PC standard spiked in plasma.",
+        "Question": "Which method showed the lowest intra-day and inter-day relative standard deviation (RSD) values for XIC peak areas of PC standard over a 5-day period?",
+        "A": "Matyash method",
+        "B": "SAP method",
+        "C": "mSAP method",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The mSAP method had the smallest intra-day area variation and significantly lower intra-day and inter-day RSD (%) values than those of the SAP and Matyash methods, indicating that it was more repeatable and reproducible."
+    },
+    "Question_4": {
+        "Context": "The study compared the lipid species identified by different extraction methods through UPLC-MS analysis.",
+        "Question": "Which method showed comparable performance in identifying major lipid classes to the Matyash method?",
+        "A": "Matyash method",
+        "B": "SAP method",
+        "C": "mSAP method",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The similarity in the chromatogram patterns between Matyash and mSAP methods suggests that the two methods have comparable performance in identifying the major lipid classes."
+    },
+    "Question_5": {
+        "Context": "The study focused on the efficiency of lipid extraction methods by comparing their recovery rates.",
+        "Question": "Which method was found to be about 3.3 times more reproducible than the SAP method?",
+        "A": "Matyash method",
+        "B": "SAP method",
+        "C": "mSAP method",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The mSAP method was found to be about 3.3 times more reproducible than the SAP method and about 2.2 times more reproducible than the Matyash method."
+    },
+    "Question_6": {
+        "Context": "The study compared the efficiency of different lipid extraction methods by evaluating their recovery rates.",
+        "Question": "Which method had higher recovery rates for most lipid classes compared to the Matyash method?",
+        "A": "Matyash method",
+        "B": "SAP method",
+        "C": "mSAP method",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The results showed that the mSAP method had higher recovery rates than the Matyash method, with an increase of 1.03\u20131.40 times for LPC, Cer, SM, PC, PG, and PE classes except for TG in the positive\u2013ion mode and 1.06\u20131.37 times for PG, PE, LPC, Cer, SM, and PC classes in the negative-ion mode."
+    },
+    "Question_7": {
+        "Context": "The study assessed the sensitivity of different lipid extraction methods by comparing their limit of detection (LOD) for specific lipid standards.",
+        "Question": "Which method demonstrated the lowest limit of detection (LOD) for PG (17:0/17:0) standard in the negative-ion mode?",
+        "A": "Matyash method",
+        "B": "SAP method",
+        "C": "mSAP method",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The mSAP method is about 2 times more sensitive than the Matyash and SAP methods in negative-ion mode, with a significantly lower LOD."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the repeatability and reproducibility of different lipid extraction methods by assessing the intra-day and inter-day variation of XIC peak areas for PC standard spiked in plasma.",
+        "Question": "Which method showed the highest average peak area of PC standard and the lowest intra-day and inter-day relative standard deviation (RSD) values over a 5-day period?",
+        "A": "Matyash method",
+        "B": "SAP method",
+        "C": "mSAP method",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The mSAP method had a higher average peak area of PC standard than the SAP and Matyash methods, indicating that it was more efficient in extracting the lipids. Additionally, the intra-day and inter-day RSD (%) values for the mSAP method were significantly lower than those of the SAP and Matyash methods."
+    },
+    "Question_9": {
+        "Context": "The study compared the lipid species identified by different extraction methods through UPLC-MS analysis.",
+        "Question": "Which method was found to be more sensitive and quantitative than the Matyash and SAP methods?",
+        "A": "Matyash method",
+        "B": "SAP method",
+        "C": "mSAP method",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "The linear regression analysis showed that the correlation coefficient value of mSAP method was higher than those of SAP and Matyash methods in positive-ion mode, suggesting that the mSAP method provides more accurate quantification."
+    },
+    "Question_10": {
+        "Context": "The study focused on the efficiency of lipid extraction methods by comparing their recovery rates.",
+        "Question": "Which method had comparable efficiency to the previous SAP method and improved efficiency compared to the Matyash method?",
+        "A": "Matyash method",
+        "B": "SAP method",
+        "C": "mSAP method",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "Based on the comparable recovery results of SAP and Matyash method which were reported in previous work, mSAP and previous SAP methods had similar efficiency for lipid extraction. These results suggest that the mSAP is an efficient method for lipid extraction, with comparable efficiency to the previous SAP method and improved efficiency compared to the Matyash method."
+    }
+}

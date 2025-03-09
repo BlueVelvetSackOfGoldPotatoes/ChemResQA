@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the in-plane elastic stability of curved beams considering various factors.",
+        "Question": "What method was used to solve the governing nonlinear equations of motion?",
+        "A": "Finite Element Method",
+        "B": "Differential Quadrature Element Method (DQEM)",
+        "C": "Arc Length Method",
+        "D": "Perturbation Method",
+        "Answer": "B",
+        "Source": "The problem was solved performing both the static and dynamic analysis using the numerical method of differential quadrature element method (DQEM) which is a new and efficient numerical method for rapidly solving linear and nonlinear differential equations."
+    },
+    "Question_2": {
+        "Context": "The study aimed to predict the pre and post-buckling behavior of a curved beam under various conditions.",
+        "Question": "What was considered to obtain the buckling loads, natural frequencies, and mode shapes of the beam?",
+        "A": "Concentrated Radial Load",
+        "B": "Uniformly Distributed Load",
+        "C": "Trapezoid Method",
+        "D": "Finite Element Simulation",
+        "Answer": "A",
+        "Source": "Without any loss of generality, a clamped-clamped curved beam under a concentrated load was considered to obtain the buckling loads, natural frequencies, and mode shapes of the beam throughout the method."
+    },
+    "Question_3": {
+        "Context": "The investigation included an examination of the curvature parameter influencing the dynamic behavior of the problem.",
+        "Question": "What was shown to completely influence the values of buckling loads?",
+        "A": "Shear Deformations",
+        "B": "Rotary Inertia",
+        "C": "Geometric Nonlinearity",
+        "D": "Curvature of the Beam",
+        "Answer": "D",
+        "Source": "It was shown that the values of buckling loads were completely influenced by the curvature of the beam."
+    },
+    "Question_4": {
+        "Context": "The study validated the proposed method by modeling the beam using a finite element simulation.",
+        "Question": "What method was used to validate the results obtained by the proposed method?",
+        "A": "Analytical Method",
+        "B": "Numerical Method",
+        "C": "Differential Quadrature Element Method (DQEM)",
+        "D": "Finite Element Method",
+        "Answer": "D",
+        "Source": "To validate the proposed method, the beam was modeled using a finite element simulation."
+    },
+    "Question_5": {
+        "Context": "The study investigated the effect of beam curvature on the buckling load.",
+        "Question": "How does the buckling load change with the curvature of the beam?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains Constant",
+        "D": "No Effect",
+        "Answer": "A",
+        "Source": "In Fig. 6, the results show that the curvature of the beam and the buckling load are proportional to each other."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the behavior of natural frequencies of the beam under different conditions.",
+        "Question": "What happens to the natural frequencies of the beam just after buckling occurs?",
+        "A": "Decrease",
+        "B": "Increase",
+        "C": "Remain Constant",
+        "D": "Vary Erratically",
+        "Answer": "B",
+        "Source": "After buckling occurs, a jump in the frequencies is seen that is due to a sudden increase of beam stiffness at this condition."
+    },
+    "Question_7": {
+        "Context": "The study classified the natural frequencies according to the symmetry of the mode shapes.",
+        "Question": "Which mode shapes are denoted by the letter 'S' in the classification?",
+        "A": "Asymmetric Modes",
+        "B": "Symmetric Modes",
+        "C": "Flexural Modes",
+        "D": "Longitudinal Modes",
+        "Answer": "B",
+        "Source": "In Fig. 9, the letters S and N denote the symmetric and asymmetric modes respectively."
+    },
+    "Question_8": {
+        "Context": "The study examined the effect of buckling on the symmetry of the mode shapes.",
+        "Question": "What happens to the first symmetric natural frequency just after buckling occurs?",
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains Constant",
+        "D": "Vanishes",
+        "Answer": "D",
+        "Source": "After buckling, due to a severe drop in the longitudinal stiffness, the first symmetric frequency vanished."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the mode shapes corresponding to the pre-buckling state.",
+        "Question": "What type of mode shapes were observed in the pre-buckling state?",
+        "A": "Symmetric",
+        "B": "Asymmetric",
+        "C": "Flexural",
+        "D": "Longitudinal",
+        "Answer": "A",
+        "Source": "The first, the second and the third asymmetric modes are flexural modes, whereas the first and the second symmetric modes are longitudinal-flexural."
+    },
+    "Question_10": {
+        "Context": "The study investigated the mode shapes corresponding to the post-buckling state.",
+        "Question": "What happens to the first symmetric natural frequency in the post-buckling state?",
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains Constant",
+        "D": "Vanishes",
+        "Answer": "D",
+        "Source": "After buckling, due to a severe drop in the longitudinal stiffness, the first symmetric frequency vanished."
+    }
+}

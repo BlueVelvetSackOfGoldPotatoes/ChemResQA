@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Chitosan is a biopolymer known for its biocompatibility, biodegradability, and non-toxic nature. It has functional groups that allow for chemical modifications to enhance its properties.",
+        "Question": "What functional groups in chitosan allow for its chemical modification?",
+        "A": "Hydroxyl and amino groups",
+        "B": "Carboxyl and sulfate groups",
+        "C": "Aldehyde and ketone groups",
+        "D": "Ester and ether groups",
+        "Answer": "A",
+        "Source": "Chitosan due to its abundant hydroxyl and amino functional groups can be chemically modified as a route to new or improved properties."
+    },
+    "Question_2": {
+        "Context": "Cellulose is a polysaccharide that is abundant in plants and can be chemically modified to produce derivatives such as carboxymethyl cellulose (CMC), which is water-soluble and has a negative charge.",
+        "Question": "What modification is made to cellulose to produce carboxymethyl cellulose (CMC)?",
+        "A": "Hydroxyl groups are replaced by methyl groups",
+        "B": "Hydroxyl groups are replaced by ethyl groups",
+        "C": "Hydroxyl groups are replaced by carboxymethyl groups",
+        "D": "Hydroxyl groups are replaced by sulfate groups",
+        "Answer": "C",
+        "Source": "Carboxymethyl cellulose (CMC) is chemically derived from cellulose, with some hydroxyl groups replaced by carboxymethyl groups (\u2500CH2\u2500COOH), which makes it water-soluble."
+    },
+    "Question_3": {
+        "Context": "Graphene oxide (GO) is a derivative of graphene that contains various oxygen-containing groups, making it hydrophilic and negatively charged in aqueous solutions.",
+        "Question": "Which groups in graphene oxide contribute to its hydrophilicity and negative charge in water?",
+        "A": "Methyl and ethyl groups",
+        "B": "Carboxylic acid and phenolic hydroxyl groups",
+        "C": "Sulfate and nitrate groups",
+        "D": "Amino and aldehyde groups",
+        "Answer": "B",
+        "Source": "GO has oxygen-containing hydrophilic groups (e.g. carboxylic acid and phenolic hydroxyl groups) on the platelets and the ionisation of these groups in water makes GO negatively charged."
+    },
+    "Question_4": {
+        "Context": "Nanoclays like sepiolite (SPT) are naturally hydrophilic and negatively charged due to isomorphic substitutions in their structure.",
+        "Question": "What characteristic of nanoclays such as sepiolite (SPT) makes them hydrophilic and negatively charged?",
+        "A": "Presence of carboxylic acid groups",
+        "B": "Presence of phenolic hydroxyl groups",
+        "C": "Isomorphic substitutions in the inter-gallery spacing",
+        "D": "Addition of sulfate half-esters",
+        "Answer": "C",
+        "Source": "Nanoclays such as SPT are hydrophilic and negatively charged in their natural forms due to isomorphic substitutions occurring in the inter-gallery spacing between the clay platelets."
+    },
+    "Question_5": {
+        "Context": "Cellulose nanocrystals (CNCs) are produced by acid hydrolysis of cellulose, resulting in nanoparticles with negative surface charges due to the presence of certain groups.",
+        "Question": "What groups on cellulose nanocrystals (CNCs) give them a negative surface charge?",
+        "A": "Carboxymethyl groups",
+        "B": "Sulfate half-esters",
+        "C": "Phenolic hydroxyl groups",
+        "D": "Isomorphic substitutions",
+        "Answer": "B",
+        "Source": "CNCs prepared by acid hydrolysis contain negative sulphate half-esters and are also hydrophilic."
+    },
+    "Question_6": {
+        "Context": "The mechanical properties of materials can be influenced by the interactions between fillers and the polymer matrix. For instance, the tensile strength of a composite material can be affected by the dispersion and interaction of the fillers within the matrix.",
+        "Question": "What effect does the inclusion of hydrophilic nanofillers like graphene oxide (GO) and sepiolite (SPT) have on the tensile strength of chitosan-based composites?",
+        "A": "Decreases tensile strength due to poor interaction",
+        "B": "Increases tensile strength due to strong interaction",
+        "C": "No effect on tensile strength",
+        "D": "Variable effect on tensile strength depending on the matrix",
+        "Answer": "B",
+        "Source": "A 3D interconnected microstructure formed, composed of GO and SPT due to the strong interactions between these hydrophilic nanofillers. The chitosan/CMC/GO/SPT composite had the highest tensile strength."
+    },
+    "Question_7": {
+        "Context": "The thermal stability of a polymer composite can be influenced by the type of fillers used and their interactions with the polymer matrix. Thermal stability is often assessed by measuring the temperature at which the maximum rate of thermal decomposition occurs.",
+        "Question": "How does the inclusion of hydrophobic reduced graphene oxide (rGO) generally affect the thermal stability of chitosan-based composites?",
+        "A": "Increases thermal stability due to enhanced interaction",
+        "B": "Decreases thermal stability due to poor interaction",
+        "C": "No significant effect on thermal stability",
+        "D": "Thermal stability is mainly determined by rGO",
+        "Answer": "D",
+        "Source": "For the un-plasticised matrices, hydrophobic rGO nanosheets generally hindered the interaction of SPT or CNCs with the polysaccharides (chitosan and CMC) and consequently, composite properties were mainly determined by the rGO."
+    },
+    "Question_8": {
+        "Context": "The addition of plasticizers to a polymer matrix can increase chain mobility, resulting in a more ductile and pliable material. Ionic liquids are one type of plasticizer that can be used to achieve this effect.",
+        "Question": "What effect does the plasticization of a chitosan matrix with 1-ethyl-3-methylimidazolium acetate ([C2mim][OAc]) have when combined with nanofillers like reduced graphene oxide (rGO) and cellulose nanocrystals (CNCs)?",
+        "A": "Decreases chain mobility and ductility",
+        "B": "Increases chain mobility, ductility, and surface hydrophilicity",
+        "C": "No significant effect on chain mobility or ductility",
+        "D": "Increases chain mobility but decreases surface hydrophilicity",
+        "Answer": "B",
+        "Source": "For the chitosan matrix plasticised by 1-ethyl-3-methylimidazolium acetate ([C2mim][OAc]), rGO + CNCs or rGO + SPT disrupted polymer chain interactions more effectively than the nanofillers when added alone and resulted in the chitosan being more plasticised, as shown by increased chain mobility, ductility, and surface hydrophilicity."
+    },
+    "Question_9": {
+        "Context": "The surface wettability of a material is an important property for various applications, including biomedical and biotechnology fields. Surface wettability is often measured by the contact angle of water droplets on the material surface.",
+        "Question": "What is the effect of combining hydrophilic nanofillers like graphene oxide (GO) and sepiolite (SPT) on the surface hydrophilicity of chitosan-based composites?",
+        "A": "Increases surface hydrophilicity due to strong interactions",
+        "B": "Decreases surface hydrophilicity due to poor interactions",
+        "C": "No significant effect on surface hydrophilicity",
+        "D": "Variable effect on surface hydrophilicity depending on the matrix",
+        "Answer": "A",
+        "Source": "For the samples containing SPT, this needle-like nanofiller can be observed as white dots or even as protruding rods. The SPT nanoparticles are more apparent in the samples that also contained rGO (A/rGOS-F, AE2/rGOS-F, B/rGOS-F, and BE2/rGOS-F) than in those also included with GO (A/GOS-F, AE2/GOS-F, B/GOS-F, and BE2/GOS-F)."
+    },
+    "Question_10": {
+        "Context": "The mechanical properties of a composite material can be significantly influenced by the dispersion and interaction of nanofillers within the polymer matrix.",
+        "Question": "What is the effect of combining hydrophobic reduced graphene oxide (rGO) with hydrophilic sepiolite (SPT) on the mechanical properties of chitosan-based composites?",
+        "A": "Enhances mechanical properties due to synergistic effects",
+        "B": "Reduces mechanical properties due to poor dispersion",
+        "C": "No significant effect on mechanical properties",
+        "D": "Mechanical properties are mainly determined by rGO",
+        "Answer": "D",
+        "Source": "For the un-plasticised matrices, hydrophobic rGO nanosheets generally hindered the interaction of SPT or CNCs with the polysaccharides (chitosan and CMC) and consequently, composite properties were mainly determined by the rGO."
+    }
+}

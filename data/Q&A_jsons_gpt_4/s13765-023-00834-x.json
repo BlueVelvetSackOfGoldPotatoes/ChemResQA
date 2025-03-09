@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Chromium (VI) is a toxic element that can contaminate the environment through industrial waste and other activities. It poses a threat to living organisms when present in soil, water, and air.",
+        "Question": "Which form of chromium is considered to be more toxic and can cause teratogenic effects to animals and human beings?",
+        "A": "Chromium (I)",
+        "B": "Chromium (III)",
+        "C": "Chromium (IV)",
+        "D": "Chromium (VI)",
+        "Answer": "D",
+        "Source": "Chromium (VI) is known to be harmful element that commonly found industrial waste, mining activities, and waste- water discharges from various industries. When released into the environment, Cr (VI) can contaminate soil, water, and air, posing a serious threat to living organisms."
+    },
+    "Question_2": {
+        "Context": "In the context of chromium contamination, certain species of fungi have been identified to have a high tolerance to chromium (VI), which enables them to survive in contaminated environments.",
+        "Question": "What is the tolerance index (TI) used to measure in the context of fungi's resistance to chromium (VI)?",
+        "A": "The rate of chromium (VI) reduction by fungi",
+        "B": "The growth of fungi in chromium (VI) supplemented medium compared to unsupplemented medium",
+        "C": "The concentration of chromium (VI) in the environment",
+        "D": "The amount of chromium (VI) absorbed by the fungal biomass",
+        "Answer": "B",
+        "Source": "The capacity of the chromium (VI) tolerance was ascertained using the tolerance index (TI) factor of the fungal species that were grown in chromium (VI) laden medium. Tolerance index (TI) was measured using the Eq. (1). where: TI: the tolerance index of fungi for Cr. Fg (Cr): Fungal growth in chromium (VI) supplemented SDA medium. Fg: Fungal growth in unsupplemented chromium (VI) SDA medium in the same time period."
+    },
+    "Question_3": {
+        "Context": "Fungi are considered as potential bio-sorbents for heavy metals due to their cell wall content, which contains a range of functional groups that can be involved in metal removal.",
+        "Question": "Which family does the filamentous fungus Purpureocillium lilacinum, identified for its high chromium (VI) tolerance, belong to?",
+        "A": "Ascomycota",
+        "B": "Basidiomycota",
+        "C": "Ophiocordycipitaceae",
+        "D": "Zygomycota",
+        "Answer": "C",
+        "Source": "Among the fungal species isolated from the Cr (VI) contaminated soil sample, the filamentous fungus of Ophiocordycipitaceae family, Purpureocillium lilacinum was identified using molecular sequencing technique, showed maximum tolerance against Cr (VI) with a tolerance index of 1.19 \u00b1 0.23."
+    },
+    "Question_4": {
+        "Context": "The growth of fungi can be influenced by various environmental factors, and optimizing these factors can enhance their growth and bio-sorption capacity.",
+        "Question": "What was identified as the most preferred carbon source for the growth of Purpureocillium lilacinus?",
+        "A": "Fructose",
+        "B": "Glucose",
+        "C": "Sucrose",
+        "D": "Maltose",
+        "Answer": "B",
+        "Source": "The results explicated that glucose was the most preferred carbon source for P. lilacinus, while yeast extract was the most preferred for nitrogen source."
+    },
+    "Question_5": {
+        "Context": "The pH value of the environment is a critical factor affecting the growth of fungi, and finding the optimum pH is essential for maximizing their bio-sorption potential.",
+        "Question": "What was the optimum pH value for the growth of Purpureocillium lilacinus in the context of chromium (VI) bio-sorption?",
+        "A": "3.0",
+        "B": "4.5",
+        "C": "6.0",
+        "D": "7.5",
+        "Answer": "C",
+        "Source": "The optimum pH value and temperature were found to be 6.0 and 26 \u00b0C, respectively."
+    },
+    "Question_6": {
+        "Context": "Temperature is another environmental factor that significantly affects the growth of fungi. An optimum temperature range is conducive to their growth and bio-sorption activities.",
+        "Question": "At what temperature was Purpureocillium lilacinus found to have optimum growth for chromium (VI) bio-sorption?",
+        "A": "20 \u00b0C",
+        "B": "26 \u00b0C",
+        "C": "30 \u00b0C",
+        "D": "35 \u00b0C",
+        "Answer": "B",
+        "Source": "The optimum pH value and temperature were found to be 6.0 and 26 \u00b0C, respectively."
+    },
+    "Question_7": {
+        "Context": "The concentration of chromium (VI) in the environment can affect the survival and growth of fungi. Fungi with high tolerance to chromium (VI) can be used for bioremediation purposes.",
+        "Question": "What is the significance of identifying fungi that can survive in high concentrations of chromium (VI)?",
+        "A": "To use them for bio-fertilizers",
+        "B": "To employ them for effective bioremediation of chromium-contaminated sites",
+        "C": "To enhance their pathogenicity",
+        "D": "To increase their agricultural yield",
+        "Answer": "B",
+        "Source": "In addition, P. lilacinus isolate was identified to survive in high concentrations of Cr (VI), indicating its potential for employing effective bioremediation of chromium-contaminated site."
+    },
+    "Question_8": {
+        "Context": "Biosorption is a process where biological materials, such as fungal biomass, are used to remove heavy metals from solutions. This process can be influenced by operational factors.",
+        "Question": "Which of the following is NOT an operational factor influencing biosorption?",
+        "A": "pH",
+        "B": "Temperature",
+        "C": "Starting metal concentration",
+        "D": "Color of the bio-sorbent",
+        "Answer": "D",
+        "Source": "Furthermore, the biosorption can be improved by adjusting the pH, temperature, starting metal concentration, bio-sorbent concentration, and contact duration, all of which are operational limiting factors that influencing the biosorption."
+    },
+    "Question_9": {
+        "Context": "The use of Plackett Burman Design in experiments helps in ascertaining the significance of different factors on the growth of organisms such as fungi.",
+        "Question": "In the context of optimizing fungal growth for bio-sorption, what does the Plackett Burman Design help to determine?",
+        "A": "The genetic variability of the fungal species",
+        "B": "The morphological characteristics of the fungi",
+        "C": "The significance of different growth limiting factors",
+        "D": "The taxonomic classification of the fungi",
+        "Answer": "C",
+        "Source": "Statistical optimization to single out the significant growth limiting factors using Plackett Burman design."
+    },
+    "Question_10": {
+        "Context": "Fungal biomass can be characterized by various analytical techniques to understand the composition and structure, which is important for biosorption studies.",
+        "Question": "Which analytical technique is used to deduce the elemental composition of a soil sample?",
+        "A": "Fourier-transform infrared spectroscopy (FTIR)",
+        "B": "Scanning Electron Microscopy\u2013Energy Dispersive X-ray analysis (SEM\u2013EDX)",
+        "C": "Polymerase Chain Reaction (PCR)",
+        "D": "X-ray diffraction (XRD)",
+        "Answer": "B",
+        "Source": "Elemental analysis (EDX) was carried out an instrument (Hitachi S-3400N, Japan). For increasing the image quality and electron conduction, dried soil sample was taken on to the sample mounted on aluminium stab sequenced which was coated by thin layer of gold under vacuum. Further, the elemental composition was deduced by an energy dispersive X-ray detector."
+    }
+}

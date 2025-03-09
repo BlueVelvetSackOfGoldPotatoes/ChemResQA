@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the process of fermentation, various microorganisms can influence the development of aroma compounds in plant-based materials.",
+        "Question": "Which type of microorganisms exerted a more pronounced influence on metabolites in fermented filler tobacco leaves?",
+        "A": "Bacterial microorganisms",
+        "B": "Fungal microorganisms",
+        "C": "Viral microorganisms",
+        "D": "Algal microorganisms",
+        "Answer": "B",
+        "Source": "solanone, isophorone, durene, (-)-alpha-terpineol, and 2,3\u2019-bipyridine exhibited the strongest correlations with microbiome data, with fungal microorganisms exerting a more pronounced influence on metabolites, as elucidated through two-way orthogonal partial least-squares (O2PLS) modeling."
+    },
+    "Question_2": {
+        "Context": "During the analysis of volatile organic compounds (VOCs) in plant materials, certain techniques can be used to identify and quantify these compounds.",
+        "Question": "Which technique was used to discern disparities in volatile organic compound distribution across filler tobacco leaves from different regions?",
+        "A": "Gas chromatography-mass spectrometry (GC\u2013MS)",
+        "B": "High-performance liquid chromatography (HPLC)",
+        "C": "Nuclear magnetic resonance (NMR) spectroscopy",
+        "D": "Fourier-transform infrared spectroscopy (FTIR)",
+        "Answer": "A",
+        "Source": "Additionally, GC\u2013MS was used to discern disparities in volatile organic compound (VOC) distribution across FTLs from these regions, identifying 92, 81, 79, 58, 69, and 92 VOCs within each respective sample set."
+    },
+    "Question_3": {
+        "Context": "Free amino acids (FAAs) can be categorized based on their taste profiles, which include umami, sweet, bitter, and salty flavors.",
+        "Question": "Which category of free amino acids constituted the majority in the filler tobacco leaves according to the study?",
+        "A": "Umami amino acids",
+        "B": "Sweet amino acids",
+        "C": "Bitter amino acids",
+        "D": "Salt amino acids",
+        "Answer": "A",
+        "Source": "FAAs can be systematically categorized into four primary groups: umami amino acids, encompassing Aspartic (Asp) and Glutamic (Glu); sweet amino acids, which include Serine (Ser), Glycine (Gly), Threonine (Thr), Alanine (Ala), and Proline (Pro); bitter amino acids, encompassing Tyrosine (Tyr), Valine (Val), Methionine (Met), Isoleucine (Ile), Histidine (His), Arginine (Arg), Leucine (Leu), Phenylalanine (Phe), and Lysine (Lys); and salt amino acid (Cysteine, Cys). Our analysis revealed that these categories contribute significantly to the overall FAAs content in FTLs. Specifically, umami amino acids constituted the majority, accounting for 82.14% of the total FAAs."
+    },
+    "Question_4": {
+        "Context": "The electronic nose (E-nose) is a device designed to simulate human olfactory perception and is used to profile the aroma characteristics of various products.",
+        "Question": "What was the electronic nose (E-nose) used for in the analysis of filler tobacco leaves?",
+        "A": "To determine the moisture content",
+        "B": "To profile the aroma characteristics",
+        "C": "To measure the nicotine content",
+        "D": "To assess the leaf color",
+        "Answer": "B",
+        "Source": "The electronic nose (E-nose), designed to simulate human olfactory perception, is widely utilized across various industries, including food, beverages, environmental monitoring, and medical diagnostics, due to its capability to rapidly and non-destructively gauge the aroma characteristics of different tobacco products."
+    },
+    "Question_5": {
+        "Context": "In the context of tobacco leaves, certain compounds are formed through the degradation of carotenoids and are important for the aroma of the tobacco.",
+        "Question": "Which class of compounds includes vital aromatic molecules formed through the degradation of carotenoids in tobacco leaves?",
+        "A": "Alkanes",
+        "B": "Esters",
+        "C": "Ketones",
+        "D": "Alcohols",
+        "Answer": "C",
+        "Source": "Ketones, for instance, represent vital aromatic molecules formed through the degradation of carotenoids (Li et al. 2021)."
+    },
+    "Question_6": {
+        "Context": "Terpenoids are a class of compounds that play a significant role in the aroma of tobacco.",
+        "Question": "What is the result of the oxidative breakdown of the carbon chain of terpenoid molecules in tobacco?",
+        "A": "Formation of acids and esters",
+        "B": "Production of aldehydes and ketones",
+        "C": "Synthesis of alcohols and phenols",
+        "D": "Generation of alkanes and alkenes",
+        "Answer": "B",
+        "Source": "The oxidative breakdown of the carbon chain of terpenoid molecules results in the direct production of aldehydes and ketones such as solanone, geranylacetone, and solanedione."
+    },
+    "Question_7": {
+        "Context": "The microbial community structure of tobacco leaves is influenced by various environmental factors and plays a crucial role in the fermentation process.",
+        "Question": "Which environmental factors are closely linked to the diversity and dynamics of microbial populations in tobacco leaves?",
+        "A": "Temperature and humidity",
+        "B": "Climate, soil composition, and agricultural practices",
+        "C": "Altitude and sunlight exposure",
+        "D": "Leaf size and thickness",
+        "Answer": "B",
+        "Source": "The diversity and dynamics of these microbial populations are closely linked to environmental factors such as climate, soil composition, and agricultural practices, varying in different tobacco-growing regions."
+    },
+    "Question_8": {
+        "Context": "The fermentation process in tobacco production is essential for the development of the tobacco\u2019s distinct aroma and flavor.",
+        "Question": "What is the role of microbial activity during the fermentation stage of tobacco production?",
+        "A": "To enhance the visual appeal of the tobacco leaves",
+        "B": "To increase the nicotine content",
+        "C": "To break down precursor substances into aromatic compounds",
+        "D": "To reduce the moisture content for better combustion",
+        "Answer": "C",
+        "Source": "The microbial activity during this stage is responsible for the breakdown of precursor substances into aromatic compounds, thus playing a pivotal role in defining the unique characteristics of cigar tobacco leaves."
+    },
+    "Question_9": {
+        "Context": "The fermentation process can significantly enhance various aspects of tobacco leaves.",
+        "Question": "What aspects of tobacco leaves are improved through proper fermentation techniques?",
+        "A": "Visual appeal, physical attributes, chemical composition, and sensory allure",
+        "B": "Leaf size, thickness, and color uniformity",
+        "C": "Growth rate, yield, and resistance to pests",
+        "D": "Nicotine content, leaf texture, and dryness",
+        "Answer": "A",
+        "Source": "Proper fermentation techniques can significantly enhance the visual appeal, physical attributes, chemical composition, and sensory allure of tobacco leaves."
+    },
+    "Question_10": {
+        "Context": "The aroma compounds in tobacco leaves are influenced by the raw materials and the fermentation process used in their production.",
+        "Question": "What are the direct contributors to the tobacco\u2019s flavor from the group of compounds present in tobacco leaves?",
+        "A": "Fragrance compounds and fragrance precursor chemicals",
+        "B": "Chlorophyll and carotenoids",
+        "C": "Nicotine and tar",
+        "D": "Starch and proteins",
+        "Answer": "A",
+        "Source": "Tobacco leaves house a multitude of aromatic compounds, albeit with relatively low concentrations. These compounds include fragrance compounds and fragrance precursor chemicals."
+    }
+}

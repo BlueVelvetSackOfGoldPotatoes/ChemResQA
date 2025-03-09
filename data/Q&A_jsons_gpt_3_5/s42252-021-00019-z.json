@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effect of tufting on in-plane mechanical properties of green biocomposites. The materials used were flax fiber and InfuGreen 810 epoxy resin. The study performed various mechanical tests on tufted and untufted samples.",
+        "Question": "What is the purpose of tufting in the study?",
+        "A": "To reduce the tensile strength of the composite",
+        "B": "To improve the in-plane mechanical properties of the composite",
+        "C": "To increase the compression strength of the composite",
+        "D": "To decrease the interlaminar shear strength of the composite",
+        "Answer": "B",
+        "Source": "The distortion induced by glass fibre during tufting yields negative effect on the in-plane mechanical properties of the green biocomposite in tension, the effects are marginal in compression, whereas in shear a slight improvement in interlaminar shear strength and shear modulus is reported."
+    },
+    "Question_2": {
+        "Context": "The study compared the in-plane mechanical properties of tufted and untufted biocomposite samples. The investigation included tension, compression, and shear tests.",
+        "Question": "What is the main reason for the marginal reduction in compressive modulus of the tufted biocomposite?",
+        "A": "Formation of resin-rich pockets",
+        "B": "Misalignment of fibers",
+        "C": "Increased interlaminar shear strength",
+        "D": "Enhanced tensile strength",
+        "Answer": "B",
+        "Source": "The reduction in the values of Young\u2019s modulus of specimen in tension is certainly due to the distortion of in-plane fibers around the tufts that leads to their misalignment with the load applied and the formation of resin-rich pockets."
+    },
+    "Question_3": {
+        "Context": "The study conducted a Boeing Compression Test to determine the compressive strength of the green biocomposite materials.",
+        "Question": "What was the ultimate compressive strength of the tufted biocomposite material?",
+        "A": "71.5 MPa",
+        "B": "72.4 MPa",
+        "C": "0.194 GPa",
+        "D": "0.190 GPa",
+        "Answer": "B",
+        "Source": "The results of ultimate compressive strength and compressive modulus are presented in Table 2. The results shown in Fig. 13a and b highlights that through the thickness reinforcement marginally improves the ultimate strength of the material."
+    },
+    "Question_4": {
+        "Context": "The study analyzed the effect of tufting on the in-plane mechanical properties of green biocomposites based on flax fiber reinforced with glass fiber tufts.",
+        "Question": "What was the observed percentage decrease in the Young's modulus of the tufted green biocomposite?",
+        "A": "42%",
+        "B": "31%",
+        "C": "8%",
+        "D": "5.7%",
+        "Answer": "A",
+        "Source": "Reduction of the in-plane tensile properties could be due to misalignments and fiber rupture caused by tufting of laminated composite and concentration of stress around tufts. Furthermore, tufting loops accumulate a thin layer of resin that gives rise to the thickness of sample."
+    },
+    "Question_5": {
+        "Context": "The study performed a three point bending test to compare the in-plane mechanical properties of tufted and untufted biocomposite samples.",
+        "Question": "What was the observed increase in the interlaminar shear strength of the tufted green biocomposite?",
+        "A": "8%",
+        "B": "5.7%",
+        "C": "42%",
+        "D": "31%",
+        "Answer": "A",
+        "Source": "The maximum interlaminar shear strength (ILSS) of the REF and TUF material shown in Fig. 7 exhibits that tufting reinforcement increases shear strength of the flax fibre based green biocomposite by 8%."
+    },
+    "Question_6": {
+        "Context": "The study utilized Digital Image Correlation to calculate mean shear strain and interlaminar shear modulus of the tufted and untufted biocomposite samples.",
+        "Question": "What was the observed increase in the interlaminar shear modulus of the tufted specimens?",
+        "A": "5.7%",
+        "B": "8%",
+        "C": "42%",
+        "D": "31%",
+        "Answer": "A",
+        "Source": "The interlaminar shear moduli of tufted specimens of flax based green biocomposite increases slightly by 5.7% as compared to untufted material."
+    },
+    "Question_7": {
+        "Context": "The study investigated the effect of tufting on the in-plane mechanical properties of green biocomposites based on flax fiber and InfuGreen 810 epoxy resin.",
+        "Question": "What was the observed effect of tufting on the interlaminar shear strength of the composite?",
+        "A": "Decrease",
+        "B": "No change",
+        "C": "Marginal increase",
+        "D": "Significant increase",
+        "Answer": "C",
+        "Source": "The literature review reports conflicting results i.e. the stitches can become sites of stress concentration that can cause reduction in the interlaminar shear strength whereas the improvement in shear strength is possibly due to through-thickness interlocking which difficult shearing between the fabric plies."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the effect of tufting on the in-plane mechanical properties of green biocomposites based on flax fiber reinforced with glass fiber tufts.",
+        "Question": "What was the observed effect of tufting on the in-plane tensile properties of the composite?",
+        "A": "Reduction",
+        "B": "Improvement",
+        "C": "No change",
+        "D": "Significant increase",
+        "Answer": "A",
+        "Source": "The finding of this study reveals the complexity of reinforcing biocomposites in through the thickness direction. Hence, to improve their performance rigorous efforts are required in order to take the understanding of mechanical behaviour of 3D biocomposites to the level of understanding of mechanical behaviours of 2D laminated composites."
+    },
+    "Question_9": {
+        "Context": "The study compared the in-plane mechanical properties of tufted and untufted biocomposite samples. The investigation included tension, compression, and shear tests.",
+        "Question": "What was the observed effect of tufting on the in-plane compression properties of the composite?",
+        "A": "Marginal reduction",
+        "B": "Improvement",
+        "C": "Significant reduction",
+        "D": "No change",
+        "Answer": "A",
+        "Source": "The reduction in the values of Young\u2019s modulus of specimen in tension is certainly due to the distortion of in-plane fibers around the tufts that leads to their misalignment with the load applied and the formation of resin-rich pockets."
+    },
+    "Question_10": {
+        "Context": "The study conducted a Boeing Compression Test to determine the compressive strength of the green biocomposite materials.",
+        "Question": "What was the observed effect of tufting on the compressive modulus of the composite?",
+        "A": "Marginal increase",
+        "B": "Significant decrease",
+        "C": "No change",
+        "D": "Improvement",
+        "Answer": "C",
+        "Source": "The results shown in Fig. 13a and b highlights that through the thickness reinforcement marginally improves the ultimate strength of the material."
+    }
+}

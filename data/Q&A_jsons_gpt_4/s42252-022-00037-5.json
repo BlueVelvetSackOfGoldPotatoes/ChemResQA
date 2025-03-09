@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Self-healing materials have the ability to repair themselves after damage, which can be beneficial for extending the lifetime of products. Piezoresistive sensors can be used to detect damage in such materials by monitoring changes in electrical resistance.",
+        "Question": "What property of piezoresistive sensors allows them to detect damage in self-healing materials?",
+        "A": "Optical transparency",
+        "B": "Change in electrical resistance",
+        "C": "Magnetic field variation",
+        "D": "Thermal conductivity change",
+        "Answer": "B",
+        "Source": "In this study, self-healing sensor composite strips were developed with the embedding of a thermoplastic styrene-based co-polymer (TPS) sensor in a self-healing matrix. Piezoresistive TPS sensor fibers composites (SFCs) and 3D printed sensor element composites (SECs) were fabricated and embedded in a self-healing matrix by lamination process to detect damage."
+    },
+    "Question_2": {
+        "Context": "The integration of functional elements into a soft elastomeric matrix can create composite structures that maintain the softness of the matrix material while adding new functionalities.",
+        "Question": "What is the purpose of integrating a functional element, such as a sensor thread, into a soft elastomeric matrix?",
+        "A": "To increase the weight of the composite",
+        "B": "To enhance the electrical insulation",
+        "C": "To maintain the softness while adding functionality",
+        "D": "To make the composite material more rigid",
+        "Answer": "C",
+        "Source": "In order to avoid stiffening the soft robot structure, a composite approach can be used for developing composite strips. These composite structures are developed with the integration of the functional element, in the form of a single thread, in a soft elastomeric matrix material."
+    },
+    "Question_3": {
+        "Context": "Thermoplastic elastomers (TPEs) are a class of polymers that exhibit both thermoplastic and elastomeric properties, and can be used to create piezoresistive sensors.",
+        "Question": "What characteristic behavior is expected from thermoplastic elastomers when used in piezoresistive sensors?",
+        "A": "Brittleness at low temperatures",
+        "B": "High rigidity at room temperature",
+        "C": "Elasticity and deformability",
+        "D": "Inability to conduct electricity",
+        "Answer": "C",
+        "Source": "A styrene-based tri-block co-polymer (TPS) was obtained by Kraiburg TPE (Waldkraiburg, Germany) in Shore hardness 40A and 50A. The two types of TPS will be called TPS 40A and TPS 50A in this study."
+    },
+    "Question_4": {
+        "Context": "Piezoresistive sensors can be fabricated using different methods, including extrusion into filaments or 3D printing.",
+        "Question": "Which fabrication methods are suitable for creating piezoresistive sensors?",
+        "A": "Chemical vapor deposition",
+        "B": "Extrusion and 3D printing",
+        "C": "Sol-gel processing",
+        "D": "Electrospinning",
+        "Answer": "B",
+        "Source": "To evaluate the piezoresistive properties of the two TPS composites, composite sensor fibers were extruded using a Voladora Nx + (International Technology 3D Printers S.L., Valencia, Spain) pellet printer. For the self-healing element composite strips, composite sensor elements with dimensions of 130 \u00d7 1.2 \u00d7 0.4 mm were printed with the Voladora Nx + FDM pellet printer."
+    },
+    "Question_5": {
+        "Context": "The mechanical properties of a material, such as elongation at fracture, can be affected by the addition of fillers.",
+        "Question": "How does the addition of fillers like carbon black to a polymer matrix typically affect the polymer's elongation at fracture?",
+        "A": "It increases significantly",
+        "B": "It remains unchanged",
+        "C": "It is reduced",
+        "D": "It becomes infinite",
+        "Answer": "C",
+        "Source": "In addition, in the same study, a filler of 30 wt.% resulted in a significantly diminished elongation at the point of fracture for the self-healing elastomer UPy1 (e.g. from 1200 to 70%)."
+    },
+    "Question_6": {
+        "Context": "Self-healing efficiency is a measure of a material's ability to recover its properties after damage. The addition of certain fillers can impact this efficiency.",
+        "Question": "What effect does the addition of carbon black filler have on the self-healing efficiency of a polymer?",
+        "A": "It increases the efficiency",
+        "B": "It has no effect on the efficiency",
+        "C": "It decreases the efficiency",
+        "D": "It makes the polymer self-heal instantly",
+        "Answer": "C",
+        "Source": "Khimi et al. reported a lower self-healing efficiency of at least one third, by adding of carbon black filler."
+    },
+    "Question_7": {
+        "Context": "The gauge factor (GF) is a parameter that quantifies the sensitivity of a piezoresistive sensor to mechanical deformation.",
+        "Question": "What does a higher gauge factor (GF) indicate about a piezoresistive sensor?",
+        "A": "Lower thermal stability",
+        "B": "Higher sensitivity to strain",
+        "C": "Decreased electrical conductivity",
+        "D": "Increased weight of the sensor",
+        "Answer": "B",
+        "Source": "A gauge factor (GF) of 117 and 70 was calculated between 20\u2013100% strain for the sensor fibers based on TPS 40A and 50A, respectively."
+    },
+    "Question_8": {
+        "Context": "The integration of piezoresistive sensors into self-healing materials can be achieved through various methods, including lamination.",
+        "Question": "Which method can be used to integrate piezoresistive sensors into self-healing materials?",
+        "A": "Lamination",
+        "B": "Freeze drying",
+        "C": "Distillation",
+        "D": "Sublimation",
+        "Answer": "A",
+        "Source": "Piezoresistive TPS sensor fibers composites (SFCs) and 3D printed sensor element composites (SECs) were fabricated and embedded in a self-healing matrix by lamination process to detect damage."
+    },
+    "Question_9": {
+        "Context": "The mechanical properties of composite materials can be characterized by stress-strain curves, which provide information about the material's response to tensile forces.",
+        "Question": "What does a negative slope in the stress-strain curve of a composite material indicate?",
+        "A": "The material is undergoing strain hardening",
+        "B": "The material has reached its elastic limit",
+        "C": "The viscous behavior is dominating over the elastic behavior",
+        "D": "The material is completely inelastic",
+        "Answer": "C",
+        "Source": "Generally, elastomers have a viscoelastic behavior and the negative slope and decrease in cross-section are good indications that at higher strains, the viscous behavior dominates the mechanical behavior of both SFCs with UPy1 matrix."
+    },
+    "Question_10": {
+        "Context": "The healing process of self-healing materials can be activated by various stimuli, with heat being one of them.",
+        "Question": "What stimulus is commonly used to activate the self-healing process in self-healing materials?",
+        "A": "Ultraviolet light",
+        "B": "Magnetic fields",
+        "C": "Heat",
+        "D": "Electric current",
+        "Answer": "C",
+        "Source": "The self-healing process is activated by heat and therefore, non self-healing sensors with high melting point above 160 \u00b0C are able to withstand the accelerated healing process by thermal treatment."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the modeling of dislocations using a hybrid approach of peridynamics and gradient elasticity.",
+        "Question": "What is the main advantage of using peridynamics in the context of modeling dislocations?",
+        "A": "Efficient computation of dislocation interactions",
+        "B": "Accurate representation of dislocation stresses near the core",
+        "C": "Effective handling of surface boundary conditions",
+        "D": "Precise evaluation of dislocation velocities",
+        "Answer": "C",
+        "Source": "The overall stress field is thus completely controlled by \u03c3 g,b, which has the correct behavior at the dislocation core. The overall stress field is thus completely controlled by \u03c3 g,b, which has the correct behavior at the dislocation core."
+    },
+    "Question_2": {
+        "Context": "The study compares the stress fields of dislocations obtained from peridynamics with those from gradient elasticity.",
+        "Question": "What is the purpose of using gradient elasticity in conjunction with peridynamics in the hybrid model?",
+        "A": "To accurately represent dislocation stresses near the core",
+        "B": "To efficiently compute dislocation interactions",
+        "C": "To handle surface boundary conditions effectively",
+        "D": "To evaluate dislocation velocities precisely",
+        "Answer": "A",
+        "Source": "The correction fields obtained via Eq. (46) from gradient elasticity are mathematically expressed as differences of Bessel functions and thus decay exponentially, whereas the formalism of Cai et al. leads to an algebraic decay of the correction function."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the construction of a hybrid multiscale dislocation model.",
+        "Question": "What is the advantage of using a hybrid model combining peridynamics and gradient elasticity for dislocation simulations?",
+        "A": "Efficient computation of dislocation velocities",
+        "B": "Accurate representation of dislocation stresses near the core",
+        "C": "Effective handling of surface boundary conditions",
+        "D": "Precise evaluation of dislocation interactions",
+        "Answer": "B",
+        "Source": "The overall stress field is thus completely controlled by \u03c3 g,b, which has the correct behavior at the dislocation core."
+    },
+    "Question_4": {
+        "Context": "The study discusses the limitations of using peridynamics for dislocation simulations.",
+        "Question": "What is a potential limitation of using peridynamics for simulating dislocations near the surface?",
+        "A": "Underestimation of dislocation velocities",
+        "B": "Overestimation of dislocation stresses near the core",
+        "C": "Inaccurate representation of surface boundary conditions",
+        "D": "Neglect of dislocation interactions",
+        "Answer": "C",
+        "Source": "For a dislocation within distance \u03b4p or less from the surface, the computation becomes unreliable because the correction stress \u03c3 g(r) does not account for the surface boundary conditions."
+    },
+    "Question_5": {
+        "Context": "The paper compares the results obtained from peridynamics with those from other approaches.",
+        "Question": "What distinguishes the correction fields obtained from gradient elasticity in the hybrid model from other correction methods?",
+        "A": "They exhibit algebraic decay",
+        "B": "They are computationally expensive",
+        "C": "They decay exponentially",
+        "D": "They are inaccurate near the dislocation core",
+        "Answer": "C",
+        "Source": "The correction fields obtained via Eq. (46) from gradient elasticity are mathematically expressed as differences of Bessel functions and thus decay exponentially."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the comparison of stress fields of dislocations from peridynamics and gradient elasticity.",
+        "Question": "What is the behavior of the correction fields obtained from gradient elasticity in the hybrid model?",
+        "A": "They exhibit linear decay",
+        "B": "They show exponential decay",
+        "C": "They have oscillatory patterns",
+        "D": "They remain constant",
+        "Answer": "B",
+        "Source": "The correction fields obtained via Eq. (46) from gradient elasticity are mathematically expressed as differences of Bessel functions and thus decay exponentially."
+    },
+    "Question_7": {
+        "Context": "The study discusses the construction of a hybrid multiscale dislocation model.",
+        "Question": "What is the rationale behind using a combination of peridynamics and gradient elasticity in the hybrid model?",
+        "A": "To simplify the computational cost",
+        "B": "To accurately represent dislocation stresses near the core",
+        "C": "To handle surface boundary conditions effectively",
+        "D": "To account for dislocation interactions accurately",
+        "Answer": "D",
+        "Source": "The method is based on using a combination of peridynamic and gradient elasticity for evaluating the stress field of a dislocation in a multiscale model as the sum of three contributions."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the limitations of using peridynamics for dislocation simulations.",
+        "Question": "What is a challenge when using peridynamics for simulating dislocations near the surface?",
+        "A": "Overestimation of dislocation velocities",
+        "B": "Inaccurate representation of dislocation stresses near the core",
+        "C": "Neglect of surface boundary conditions",
+        "D": "Underestimation of dislocation interactions",
+        "Answer": "C",
+        "Source": "For a dislocation within distance \u03b4p or less from the surface, the computation becomes unreliable because the correction stress \u03c3 g(r) does not account for the surface boundary conditions."
+    },
+    "Question_9": {
+        "Context": "The study compares the results obtained from peridynamics with those from other approaches.",
+        "Question": "What distinguishes the correction fields obtained from gradient elasticity in the hybrid model?",
+        "A": "They exhibit algebraic decay",
+        "B": "They are computationally expensive",
+        "C": "They decay exponentially",
+        "D": "They are inaccurate near the dislocation core",
+        "Answer": "C",
+        "Source": "The correction fields obtained via Eq. (46) from gradient elasticity are mathematically expressed as differences of Bessel functions and thus decay exponentially."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the modeling of dislocations using a hybrid approach of peridynamics and gradient elasticity.",
+        "Question": "What is the key benefit of using gradient elasticity in conjunction with peridynamics for simulating dislocations?",
+        "A": "Efficient computation of dislocation interactions",
+        "B": "Accurate representation of dislocation stresses near the core",
+        "C": "Effective handling of surface boundary conditions",
+        "D": "Precise evaluation of dislocation velocities",
+        "Answer": "B",
+        "Source": "The correction fields obtained via Eq. (46) from gradient elasticity are mathematically expressed as differences of Bessel functions and thus decay exponentially."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to develop an anti-acne preparation from active anti-bacterial medicinal plants. Essential oils were extracted and analyzed for their anti-acne activities against Cutibacterium acnes ATCC 6919.",
+        "Question": "Which essential oils showed the highest antimicrobial activity against C. acnes?",
+        "A": "Sage and rosemary oils",
+        "B": "Myrrh and geranium oils",
+        "C": "Marjoram and chrysanthemum oils",
+        "D": "Rosemary and geranium oils",
+        "Answer": "C",
+        "Source": "Marjoram and chrysanthemum oils showed the highest antimicrobial activity against C. acnes (MIC = 0.156% v/v and 0.125% v/v, respectively)."
+    },
+    "Question_2": {
+        "Context": "The antibacterial activity of essential oils against Cutibacterium acnes ATCC 6919 was evaluated. The minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) were determined.",
+        "Question": "Which essential oil had the lowest MIC against C. acnes?",
+        "A": "Sage oil",
+        "B": "Rosemary oil",
+        "C": "Myrrh oil",
+        "D": "Chrysanthemum oil",
+        "Answer": "D",
+        "Source": "Chrysanthemum oil had the lowest MIC against C. acnes (MIC = 0.125% v/v)."
+    },
+    "Question_3": {
+        "Context": "The study involved the formulation of film-forming nanogels with essential oils for anti-acne activity. The nanogels were characterized for particle size, polydispersity index, and zeta potential.",
+        "Question": "What was the particle size of the plain nanogel?",
+        "A": "550.5 nm",
+        "B": "632.5 nm",
+        "C": "611.6 nm",
+        "D": "550.5 \u00b5m",
+        "Answer": "A",
+        "Source": "The measured particle size of the plain nanogel was 550.5 \u00b1 26.09 nm."
+    },
+    "Question_4": {
+        "Context": "The film-forming nanogels were evaluated for their pH values. The pH values of the plain nanogel, marjoram, and chrysanthemum oil-loaded nanogels were determined.",
+        "Question": "What was the pH value of the marjoram oil-loaded nanogel?",
+        "A": "4.86",
+        "B": "4.89",
+        "C": "4.85",
+        "D": "4.90",
+        "Answer": "C",
+        "Source": "The pH value of the marjoram oil-loaded nanogel was 4.85 \u00b1 0.03."
+    },
+    "Question_5": {
+        "Context": "The in vivo anti-acne activity of marjoram and chrysanthemum oils-loaded nanogels was evaluated in a murine acne infection model. The effect on bacterial load and histopathological analysis was assessed.",
+        "Question": "Which treatment group showed the most reduction in bacterial counts compared to the plain formula group?",
+        "A": "Erythromycin group",
+        "B": "Chrysanthemum oil formula group",
+        "C": "Marjoram oil formula group",
+        "D": "Negative control group",
+        "Answer": "B",
+        "Source": "Chrysanthemum oil formula exhibited the most reduction in bacterial counts, followed by erythromycin and marjoram, respectively."
+    },
+    "Question_6": {
+        "Context": "The study evaluated the expression of nuclear factor erythroid 2\u2013related factor 2 (Nrf2) and tumor necrosis factor-alpha (TNF-\u03b1) in response to oxidative stress and inflammation.",
+        "Question": "Which group showed the most significant increase in Nrf2 expression compared to the normal control group?",
+        "A": "Negative control group",
+        "B": "Plain formula group",
+        "C": "Erythromycin group",
+        "D": "Marjoram oil formula group",
+        "Answer": "D",
+        "Source": "Marjoram oil formula showed marked elevation in Nrf2 expression compared to the normal control group."
+    },
+    "Question_7": {
+        "Context": "The expression of tumor necrosis factor-alpha (TNF-\u03b1) was evaluated in response to inflammation. Different treatment groups were compared for their effect on TNF-\u03b1 expression.",
+        "Question": "Which group showed the most significant reduction in TNF-\u03b1 expression compared to the acne-infected mice group?",
+        "A": "Negative control group",
+        "B": "Plain formula group",
+        "C": "Erythromycin group",
+        "D": "Chrysanthemum oil formula group",
+        "Answer": "D",
+        "Source": "Chrysanthemum oil formula exhibited marked reduction in TNF-\u03b1 expression compared to the acne-infected mice group."
+    },
+    "Question_8": {
+        "Context": "The study aimed to develop a safe phytopharmaceutical formulation with anti-acne activity. The in vitro antibacterial activity of essential oils against Cutibacterium acnes was evaluated.",
+        "Question": "Which essential oil exhibited the highest bactericidal concentration (MBC) against C. acnes?",
+        "A": "Sage oil",
+        "B": "Rosemary oil",
+        "C": "Myrrh oil",
+        "D": "Marjoram oil",
+        "Answer": "D",
+        "Source": "Marjoram oil had the highest bactericidal concentration (MBC = 1.781% v/v) against C. acnes."
+    },
+    "Question_9": {
+        "Context": "The study involved the preparation and characterization of film-forming nanogels with essential oils for anti-acne activity. The viscosity of the nanogels was measured.",
+        "Question": "What was the viscosity of the chrysanthemum oil-loaded nanogel?",
+        "A": "2,069 cp",
+        "B": "2,045 cp",
+        "C": "1,997 cp",
+        "D": "2,100 cp",
+        "Answer": "C",
+        "Source": "The viscosity of the chrysanthemum oil-loaded nanogel was 1,997 \u00b1 76 cp."
+    },
+    "Question_10": {
+        "Context": "The study evaluated the in vivo anti-acne activity of marjoram and chrysanthemum oils-loaded nanogels in a murine acne infection model. The effect on bacterial load and histopathological analysis was assessed.",
+        "Question": "Which treatment group showed the most reduction in TNF-\u03b1 expression compared to the acne-infected mice group?",
+        "A": "Erythromycin group",
+        "B": "Marjoram oil formula group",
+        "C": "Chrysanthemum oil formula group",
+        "D": "Plain formula group",
+        "Answer": "C",
+        "Source": "Chrysanthemum oil formula exhibited marked reduction in TNF-\u03b1 expression compared to the acne-infected mice group."
+    }
+}

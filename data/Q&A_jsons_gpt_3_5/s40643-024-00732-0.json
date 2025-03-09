@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the immobilization of microbial cells on polyester nonwoven in a chemostat. The researchers observed fluctuations in free bacterial cells after adding the polyester nonwoven.",
+        "Question": "What was the reason behind the fluctuation phenomenon of free bacterial cells after adding the polyester nonwoven to the chemostat?",
+        "A": "Nutrient deficiency",
+        "B": "Balance between adsorption and desorption of cells",
+        "C": "Temperature changes",
+        "D": "Presence of extracellular polymeric substances (EPS)",
+        "Answer": "B",
+        "Source": "The reason for this phenomenon was the balance between adsorption and desorption of bacterial cells on the polyester nonwoven."
+    },
+    "Question_2": {
+        "Context": "The study highlighted the importance of extracellular polymeric substances (EPS) in cell immobilization on polyester nonwoven.",
+        "Question": "What role did EPS play in the process of adsorption of cells on the polyester nonwoven?",
+        "A": "Promoting cell growth",
+        "B": "Enhancing nutrient absorption",
+        "C": "Facilitating cell attachment",
+        "D": "Preventing cell detachment",
+        "Answer": "C",
+        "Source": "EPS secreted by cells was important for the further adsorption of bacterial cells on the polyester nonwoven."
+    },
+    "Question_3": {
+        "Context": "The study discussed the content of exoprotein and exopolysaccharide in the EPS of bacterial cells immobilized on polyester nonwoven.",
+        "Question": "Which component was found to be significantly higher in the EPS of the immobilized cells?",
+        "A": "Exoprotein",
+        "B": "Exopolysaccharide",
+        "C": "Lipids",
+        "D": "Carbohydrates",
+        "Answer": "A",
+        "Source": "The protein content of the three strains is significantly higher than that of the polysaccharide."
+    },
+    "Question_4": {
+        "Context": "The study investigated the desorption of bacterial cells from the polyester nonwoven.",
+        "Question": "What factor was primarily responsible for the detachment of biofilms from the polyester nonwoven?",
+        "A": "Nutrient levels",
+        "B": "Microbial growth status",
+        "C": "Presence of c-di-GMP",
+        "D": "Quorum-sensing signals",
+        "Answer": "A",
+        "Source": "The major factor for the detachment of biofilms was that the formation of multilayer biofilms might limit the transport of substrate."
+    },
+    "Question_5": {
+        "Context": "The study utilized propidium monoazide (PMA) treatment to differentiate viable and non-viable cells on the polyester nonwoven.",
+        "Question": "What was the proportion of death cells for Lactobacillus rhamnosus at 126 hours after PMA treatment?",
+        "A": "87.7%",
+        "B": "90.5%",
+        "C": "93.8%",
+        "D": "91.8%",
+        "Answer": "90.5%",
+        "Source": "The proportion of death cells was 90.5% at 126 hours."
+    },
+    "Question_6": {
+        "Context": "The study examined the adsorption of cells on the polyester nonwoven with and without EPS.",
+        "Question": "What was the difference in cell numbers on the polyester nonwoven with EPS compared to without EPS for Klebsiella pneumoniae?",
+        "A": "5.03 log CFU/mL",
+        "B": "6.51 log CFU/mL",
+        "C": "7.51 log CFU/mL",
+        "D": "8.42 log CFU/mL",
+        "Answer": "6.51 log CFU/mL",
+        "Source": "The cell numbers on polyester nonwoven of Klebsiella pneumoniae with EPS were 7.51 log CFU/mL, whereas without EPS, the cell numbers were 1.48 log CFU/mL."
+    },
+    "Question_7": {
+        "Context": "The study discussed the advantages of using polyester nonwoven for cell immobilization.",
+        "Question": "What advantage does the polyester nonwoven offer in comparison to other carriers?",
+        "A": "Requires pretreatment",
+        "B": "Longer cell adsorption time",
+        "C": "Higher cell numbers achieved",
+        "D": "Higher cost",
+        "Answer": "C",
+        "Source": "The cell numbers on polyester nonwoven can reach 6.5 \u00b1 0.38 log CFU/mL, which is advantageous for cell immobilization."
+    },
+    "Question_8": {
+        "Context": "The study highlighted the importance of exoprotein in cell aggregation and attachment.",
+        "Question": "What is the role of exoprotein in cell aggregation?",
+        "A": "Promoting cell detachment",
+        "B": "Enhancing cell growth",
+        "C": "Assisting in cell aggregation",
+        "D": "Preventing cell adhesion",
+        "Answer": "C",
+        "Source": "Exoprotein with negatively charged amino acids are involved in electrostatic bonds with multivalent cation, thus decreasing the negative surface charge density surrounding the cell surface and assisting in cell aggregation."
+    },
+    "Question_9": {
+        "Context": "The study investigated the formation of multilayer biofilms on the polyester nonwoven.",
+        "Question": "What was observed on the polyester nonwoven after the formation of multilayer biofilms?",
+        "A": "Decrease in cell numbers",
+        "B": "Increase in cell viability",
+        "C": "Presence of bioaggregates",
+        "D": "Enhanced nutrient transport",
+        "Answer": "C",
+        "Source": "Bioaggregates could be clearly observed on the polyester nonwoven after the formation of multilayer biofilms."
+    },
+    "Question_10": {
+        "Context": "The study discussed the factors influencing biofilm detachment from the polyester nonwoven.",
+        "Question": "What was the primary factor limiting the transport of substrate and leading to biofilm detachment?",
+        "A": "Presence of lytic bacteriophage",
+        "B": "Nutrient levels",
+        "C": "Microbial growth status",
+        "D": "c-di-GMP concentration",
+        "Answer": "B",
+        "Source": "The major factor for the detachment of biofilms was that the formation of multilayer biofilms might limit the transport of substrate."
+    }
+}

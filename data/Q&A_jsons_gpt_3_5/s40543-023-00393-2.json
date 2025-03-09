@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "GQDs have been utilized in biosensors for their unique properties. One study focused on developing an enzyme-free wearable sensor for monitoring a specific compound. What was the compound monitored in this study?",
+        "Question": "What compound was monitored using the enzyme-free wearable sensor developed with BGQDs/CNTs?",
+        "A": "Uric acid",
+        "B": "Serotonin",
+        "C": "Dopamine",
+        "D": "Nicotine",
+        "Answer": "A",
+        "Source": "Monitoring the UA level in body fluids is essential because it can strongly indicate renal disease. Wang et al. (2022) developed enzyme-free wearable sensors, and the DPV technique was used to monitor UA concentrations in human sweat using boron-doped GQDs attached to carbon nanotubes (BGQDs/CNTs) as noble metal-free electrocatalysts."
+    },
+    "Question_2": {
+        "Context": "GQDs have been used in the construction of a label-free immunosensor for detecting a specific biomarker. What was the biomarker targeted in this study?",
+        "Question": "What biomarker was targeted in the construction of the label-free immunosensor using amine-functionalized GQDs-modified screen-printed carbon electrodes?",
+        "A": "Uric acid",
+        "B": "Serotonin",
+        "C": "Dopamine",
+        "D": "AXL",
+        "Answer": "D",
+        "Source": "The disposable immune-sensing platform is formed by immobilizing the specific anti-AXL antibody onto amine-functionalized GQDs-modified screen-printed carbon electrodes for the detection of biomarker receptor tyrosine kinase (AXL) in human serum."
+    },
+    "Question_3": {
+        "Context": "GQDs have been utilized in the development of an ultrasensitive enzyme-free electrochemical nano-immunosensor. What specific analyte was targeted for detection in this study?",
+        "Question": "What analyte was detected using the ultrasensitive enzyme-free electrochemical nano-immunosensor based on GQDs and gold nanoparticles?",
+        "A": "Uric acid",
+        "B": "Dopamine",
+        "C": "Cardiac troponin-I",
+        "D": "Nicotine",
+        "Answer": "C",
+        "Source": "They developed an ultrasensitive enzyme-free electrochemical nano-immunosensor, and SWV technique was used to detect cardiac troponin-I (cTnI) for the early identification of acute myocardial infarction. It is based on a screen-printed gold electrode modified with GQDs and gold nanoparticles (AuNPs)."
+    },
+    "Question_4": {
+        "Context": "GQDs were used in the development of an apta-sensor for detecting a specific virus-related protein. What virus-related protein was the focus of this study?",
+        "Question": "What virus-related protein was detected using the apta-sensor based on GQDs for human immunodeficiency virus (HIV)?",
+        "A": "p24 proteins",
+        "B": "Epinephrine",
+        "C": "Serotonin",
+        "D": "Dopamine",
+        "Answer": "A",
+        "Source": "Gogola et al. (2021) reported an apta-sensor that detects human immunodeficiency virus (HIV) via p24 proteins. In their research, graphene QDs were used to improve the amplification of an electrochemical signal and to help immobilize the p24-HIV aptamer on the device."
+    },
+    "Question_5": {
+        "Context": "GQDs were incorporated into a carbon fiber electrode for the detection of a specific substance. What substance was targeted in this study?",
+        "Question": "What substance was detected using the carbon fiber electrode with AuPd alloy nanoparticles decorated GQDs assembly?",
+        "A": "Uric acid",
+        "B": "Epinephrine",
+        "C": "Dopamine",
+        "D": "Hydrogen peroxide",
+        "Answer": "D",
+        "Source": "An amperometric hydrogen peroxide (H2O2) sensor was developed by Xu et al. (2018) using carbon fiber with dual nanoenzyme, i.e., AuPd alloy nanoparticles (AuPd-ANPs) decorated GQDs assembly."
+    },
+    "Question_6": {
+        "Context": "GQDs were used in the construction of an electrochemical sensor for detecting a specific compound. What compound was the focus of this study?",
+        "Question": "What compound was detected using the amperometric sensor developed with GQDs and chitosan?",
+        "A": "Uric acid",
+        "B": "Serotonin",
+        "C": "Dopamine",
+        "D": "Epinephrine",
+        "Answer": "D",
+        "Source": "Tashkhourian et al. (2018) used GQD to construct a simply modified carbon paste electrode (CPE) with chitosan (CS) as a stabilizing agent to develop a new electrochemical sensor. The objective of this study was to develop an amperometric sensor for the detection of epinephrine."
+    },
+    "Question_7": {
+        "Context": "GQDs were utilized in the development of an amperometric sensor for monitoring a specific compound. What compound was the focus of this study?",
+        "Question": "What compound was monitored using the amperometric sensor developed with carbon fiber and AuPd alloy nanoparticles decorated GQDs assembly?",
+        "A": "Uric acid",
+        "B": "Epinephrine",
+        "C": "Dopamine",
+        "D": "Hydrogen peroxide",
+        "Answer": "D",
+        "Source": "An amperometric hydrogen peroxide (H2O2) sensor was developed by Xu et al. (2018) using carbon fiber with dual nanoenzyme, i.e., AuPd alloy nanoparticles (AuPd-ANPs) decorated GQDs assembly."
+    },
+    "Question_8": {
+        "Context": "GQDs were incorporated into a screen-printed electrode for the detection of a specific biomarker. What biomarker was targeted in this study?",
+        "Question": "What biomarker was detected using the screen-printed electrode with nitrogen-doped GQD and copper nanocluster composite?",
+        "A": "Dopamine",
+        "B": "Serotonin",
+        "C": "Nicotine",
+        "D": "Cardiac troponin-I",
+        "Answer": "A",
+        "Source": "Saisree et al. (2022) demonstrated the use of nitrogen-doped GQD (N-GQD) with copper nanocluster (CuNC) composite for the simultaneous electrochemical detection of DA, SER, and nicotine (NIC) with a good peak-to-peak separation."
+    },
+    "Question_9": {
+        "Context": "GQDs were used in the development of an electrochemical sensor for detecting a specific compound. What compound was the focus of this study?",
+        "Question": "What compound was detected using the electrochemical sensor developed with GQDs and gold nanoparticles?",
+        "A": "Uric acid",
+        "B": "Dopamine",
+        "C": "Cardiac troponin-I",
+        "D": "Nicotine",
+        "Answer": "C",
+        "Source": "Mansuriya and Altintas developed an ultrasensitive enzyme-free electrochemical nano-immunosensor, and SWV technique was used to detect cardiac troponin-I (cTnI) for the early identification of acute myocardial infarction. It is based on a screen-printed gold electrode modified with GQDs and gold nanoparticles (AuNPs)."
+    },
+    "Question_10": {
+        "Context": "GQDs were utilized in the development of an apta-sensor for detecting a specific virus-related protein. What virus-related protein was the focus of this study?",
+        "Question": "What virus-related protein was detected using the apta-sensor based on GQDs for human immunodeficiency virus (HIV)?",
+        "A": "p24 proteins",
+        "B": "Epinephrine",
+        "C": "Serotonin",
+        "D": "Dopamine",
+        "Answer": "A",
+        "Source": "Gogola et al. (2021) reported an apta-sensor that detects human immunodeficiency virus (HIV) via p24 proteins. In their research, graphene QDs were used to improve the amplification of an electrochemical signal and to help immobilize the p24-HIV aptamer on the device."
+    }
+}

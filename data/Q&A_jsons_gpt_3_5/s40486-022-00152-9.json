@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the etching characteristics of Si{100} in pure and NH2OH-added NaOH. It mentions the importance of etch rate in silicon micromachining for MEMS-based sensors and actuators.",
+        "Question": "What is the etch rate defined as in silicon micromachining?",
+        "A": "Vertical distance etched per unit area",
+        "B": "Vertical distance etched per unit time",
+        "C": "Horizontal distance etched per unit time",
+        "D": "Horizontal distance etched per unit area",
+        "Answer": "B",
+        "Source": "It is defined as the vertical distance etched per unit time (i.e., etch depth (d) per unit time (t) or d/t)."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the effect of aging on the etching characteristics of Si{100} in NH2OH-added NaOH.",
+        "Question": "What happens to the etch rate with the aging of NH2OH-added NaOH?",
+        "A": "It increases",
+        "B": "It remains constant",
+        "C": "It decreases",
+        "D": "It fluctuates",
+        "Answer": "C",
+        "Source": "It can obviously be noted that the etch rate significantly decreases up to two days, but there is a minor change after the third day."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the undercutting rate at convex corners in pure and NH2OH-added NaOH.",
+        "Question": "What happens to the undercutting rate at convex corners when NH2OH is added to NaOH?",
+        "A": "It decreases",
+        "B": "It remains the same",
+        "C": "It increases",
+        "D": "It fluctuates",
+        "Answer": "C",
+        "Source": "It clearly indicates that the undercutting rate increases significantly when NH2OH is added to 10 M NaOH."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the effect of etchant age on the undercutting rate.",
+        "Question": "How does the undercutting rate change with the age of the etchant?",
+        "A": "It increases",
+        "B": "It remains constant",
+        "C": "It decreases",
+        "D": "It fluctuates",
+        "Answer": "C",
+        "Source": "The undercutting rate follows the same trend as the etch rate. It decreases with etchant age and becomes stable after two days of the etchant age."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the etched surface roughness in pure and NH2OH-added NaOH.",
+        "Question": "What effect does the addition of NH2OH have on the surface roughness?",
+        "A": "It increases",
+        "B": "It remains constant",
+        "C": "It decreases",
+        "D": "It fluctuates",
+        "Answer": "C",
+        "Source": "As can be seen in the figure, the surface roughness substantially decreases by the addition of NH2OH."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the effect of etchant age on the etched surface roughness.",
+        "Question": "How does the surface roughness change with the age of the etchant?",
+        "A": "It increases",
+        "B": "It remains constant",
+        "C": "It decreases",
+        "D": "It fluctuates",
+        "Answer": "D",
+        "Source": "It can simply be noticed that the surface roughness is fluctuating with the etchant age."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the applications of high undercutting rate in NH2OH-added NaOH.",
+        "Question": "Why is high undercutting rate beneficial in the fabrication of MEMS components?",
+        "A": "To increase the etching time",
+        "B": "To decrease the etching time",
+        "C": "To increase the surface roughness",
+        "D": "To decrease the surface roughness",
+        "Answer": "B",
+        "Source": "High etch rate is beneficial to decrease the etching time and hence the higher throughput, which is inevitable for industrial application to reduce the product cost."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the effect of etchant age on the etching characteristics.",
+        "Question": "Why is it recommended to use NH2OH-added NaOH immediately after its preparation?",
+        "A": "To decrease the etch rate",
+        "B": "To increase the etch rate",
+        "C": "To decrease the undercutting rate",
+        "D": "To take advantage of higher etch rate and undercutting",
+        "Answer": "D",
+        "Source": "Hence, it is recommended that the NH2OH-added NaOH must be used after its preparation to take the advantage of higher etch rate and undercutting."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the surface roughness in pure and NH2OH-added NaOH.",
+        "Question": "What is the surface roughness at the microscopic scale attributed to in wet etching?",
+        "A": "Formation of pyramids or hillocks on the surface",
+        "B": "Formation of a hydrogen bubble during etching",
+        "C": "Deposition of etching by-products on the surface",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The surface roughness at the microscopic scale occurs due to the non-uniform removal of atoms from the surface or lattice defects which are present on the surface and extend into the bulk crystal."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the effect of etchant age on the surface roughness.",
+        "Question": "What happens to the surface roughness with the etchant age?",
+        "A": "It increases",
+        "B": "It remains constant",
+        "C": "It decreases",
+        "D": "It fluctuates",
+        "Answer": "D",
+        "Source": "As the etched surface morphology depends on various parameters and can be influenced by any kinds of surface contamination on the silicon surface during etching. However, we can claim from the results that the etched surface roughness is not deteriorated with etchant age."
+    }
+}

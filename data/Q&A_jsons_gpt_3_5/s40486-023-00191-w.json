@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study entailed the development of a visual and tactile perception technique for braille character recognition. In the visual perception approach, a deep learning model was used based on custom-made braille dataset collected through data augmentation and preprocessing.",
+        "Question": "What was the performance indicated by mAP50 and mAP75 on the generated dataset?",
+        "A": "94.8 and 70.4",
+        "B": "80.2 and 60.8",
+        "C": "88.5 and 75.2",
+        "D": "96.3 and 68.9",
+        "Answer": "A",
+        "Source": "The attained performance was indicated by an mAP50 of 94.8 and mAP75 of 70.4 on the generated dataset."
+    },
+    "Question_2": {
+        "Context": "Visual perception techniques have enabled object detection, segmentation, and classification due to the advancement of graphics processing units (GPUs) for parallel computing and high-quality datasets.",
+        "Question": "What has enabled object detection, segmentation, and classification in visual perception techniques?",
+        "A": "High-quality datasets",
+        "B": "Advancement of GPUs",
+        "C": "Parallel computing",
+        "D": "Both B and C",
+        "Answer": "D",
+        "Source": "Visual perception techniques have enabled object detection, segmentation, and classification because of the advancement of graphics processing units (GPUs) for parallel computing and high-quality datasets."
+    },
+    "Question_3": {
+        "Context": "Tactile perception techniques overcome environmental constraints and require specific conditions, including small size, high density, and high sensitivity.",
+        "Question": "What specific conditions are required for tactile perception techniques?",
+        "A": "Large size and low density",
+        "B": "Small size, low density, and low sensitivity",
+        "C": "Small size, high density, and high sensitivity",
+        "D": "Medium size and medium density",
+        "Answer": "C",
+        "Source": "Tactile perception techniques are not only limited by slower data processing rates but also require specific conditions, including small size, high density, and high sensitivity."
+    },
+    "Question_4": {
+        "Context": "The study utilized a transfer learning model, Faster R-CNN\u2013FPN\u2013ResNet-50, for object detection in the visual perception approach.",
+        "Question": "Which transfer learning model was utilized for object detection in the visual perception approach?",
+        "A": "Faster R-CNN\u2013FPN\u2013ResNet-50",
+        "B": "VGG16",
+        "C": "AlexNet",
+        "D": "InceptionV3",
+        "Answer": "A",
+        "Source": "The study utilized the transfer learning model, namely, Faster R-CNN\u2013FPN\u2013ResNet-50, for object detection."
+    },
+    "Question_5": {
+        "Context": "The tactile perception technique utilized a capacitive sensing approach with a micropatterned pressure-sensitive layer to enhance sensitivity and response/recovery time.",
+        "Question": "What approach was utilized in the tactile perception technique to enhance sensitivity and response/recovery time?",
+        "A": "Resistive sensing",
+        "B": "Capacitive sensing",
+        "C": "Inductive sensing",
+        "D": "Optical sensing",
+        "Answer": "B",
+        "Source": "In this study, a capacitive sensing approach was utilized with a micropatterned pressure-sensitive layer to enhance sensitivity and response/recovery time."
+    },
+    "Question_6": {
+        "Context": "Pressure sensors are transducers that convert applied pressure into changes in electrical signals.",
+        "Question": "What do pressure sensors convert applied pressure into?",
+        "A": "Mechanical energy",
+        "B": "Heat",
+        "C": "Electrical signals",
+        "D": "Light",
+        "Answer": "C",
+        "Source": "Pressure sensors are transducers that convert applied pressure into changes in electrical signals."
+    },
+    "Question_7": {
+        "Context": "The study fabricated a capacitive pressure sensor array with a parallel-plate capacitor structure comprising a plane electrode at the top and interdigitated electrodes at the bottom.",
+        "Question": "What structure did the capacitive pressure sensor array comprise of?",
+        "A": "Parallel-plate capacitor",
+        "B": "Series capacitor",
+        "C": "Cylindrical capacitor",
+        "D": "Spherical capacitor",
+        "Answer": "A",
+        "Source": "The study fabricated a capacitive pressure sensor array with a parallel-plate capacitor structure comprising a plane electrode at the top and interdigitated electrodes at the bottom."
+    },
+    "Question_8": {
+        "Context": "The pressure sensor with the dome structure exhibited an eightfold improvement in performance compared with the pressure sensor with the blank film.",
+        "Question": "How much improvement in performance was exhibited by the pressure sensor with the dome structure compared to the one with the blank film?",
+        "A": "Twofold",
+        "B": "Fourfold",
+        "C": "Sixfold",
+        "D": "Eightfold",
+        "Answer": "D",
+        "Source": "The pressure sensor with the dome structure exhibited an eightfold improvement in performance compared with the pressure sensor with the blank film."
+    },
+    "Question_9": {
+        "Context": "The pressure sensing performance was conducted under flat conditions and measured using an LCR meter.",
+        "Question": "What was used to measure the pressure sensing performance?",
+        "A": "Voltmeter",
+        "B": "Ammeter",
+        "C": "LCR meter",
+        "D": "Oscilloscope",
+        "Answer": "C",
+        "Source": "The pressure sensing performance was conducted under flat conditions and measured using an LCR meter."
+    },
+    "Question_10": {
+        "Context": "The proposed braille recognition technique based on vision and tactile exhibited complementary characteristics.",
+        "Question": "What characteristics did the proposed braille recognition technique based on vision and tactile exhibit?",
+        "A": "Redundant",
+        "B": "Complementary",
+        "C": "Opposing",
+        "D": "Unrelated",
+        "Answer": "B",
+        "Source": "The proposed braille recognition technique based on vision and tactile exhibited complementary characteristics."
+    }
+}

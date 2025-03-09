@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In thrombosis research, the relationship between wall shear rate (WSR) and thrombus formation is significant because WSR affects the concentration and activation of platelets near the vessel wall.",
+        "Question": "What is the role of wall shear rate (WSR) in thrombus formation?",
+        "A": "It decreases the platelet concentration near the vessel wall.",
+        "B": "It increases the platelet concentration near the vessel wall and activates platelets.",
+        "C": "It has no effect on platelet concentration or activation.",
+        "D": "It deactivates platelets near the vessel wall.",
+        "Answer": "B",
+        "Source": "Thrombus formation is affected by the physical shear rate, which increases the platelet concentration near the vessel wall and activates platelets in that area."
+    },
+    "Question_2": {
+        "Context": "In the context of thrombosis, the use of image analysis allows for the visualization and quantitative calculation of thrombus areas without the need for fluorescence.",
+        "Question": "How does image analysis contribute to thrombus research?",
+        "A": "It calculates the blood viscosity.",
+        "B": "It measures the blood flow rate.",
+        "C": "It visualizes and quantitatively calculates the thrombus area.",
+        "D": "It detects the presence of specific proteins in the thrombus.",
+        "Answer": "C",
+        "Source": "In this study, through image analysis, which is a post-processing process, the visibility of the thrombus was improved, growth process of the thrombus was observed, and area of the thrombus was quantitatively calculated, compared, and analyzed."
+    },
+    "Question_3": {
+        "Context": "The process of thrombus formation involves the initial attachment of platelets to the vessel wall, followed by the aggregation of more platelets to these attached platelets.",
+        "Question": "What is the initial event in the process of thrombus formation?",
+        "A": "Platelets aggregate to form a thrombus in the bloodstream.",
+        "B": "Platelets attach to the vessel wall and begin to form a thrombus.",
+        "C": "A thrombus detaches and forms an embolus.",
+        "D": "Blood coagulation factors activate independently of platelets.",
+        "Answer": "B",
+        "Source": "This is based on the principle of thrombus formation, in which platelets are attached to the inner wall of the channel in the early stage of thrombus growth and aggregate to the attached platelets."
+    },
+    "Question_4": {
+        "Context": "The formation of a thrombus can be influenced by the degree of stenosis in a blood vessel, with different stenosis percentages affecting the rate of thrombus growth.",
+        "Question": "How does the degree of stenosis in a blood vessel affect thrombus growth?",
+        "A": "Higher stenosis percentages lead to slower thrombus growth.",
+        "B": "Stenosis percentage has no impact on thrombus growth.",
+        "C": "Lower stenosis percentages lead to faster thrombus growth.",
+        "D": "Higher stenosis percentages lead to faster thrombus growth.",
+        "Answer": "D",
+        "Source": "In the case of the 83.73% channel, the thrombus grew faster than in the 71.2% channel case."
+    },
+    "Question_5": {
+        "Context": "In thrombosis research, the detachment of a thrombus due to high wall shear rates is referred to as an embolus, which can occur during the thrombus formation process.",
+        "Question": "What is an embolus in the context of thrombus formation?",
+        "A": "A stable thrombus that does not detach.",
+        "B": "A blood vessel with high stenosis percentage.",
+        "C": "A detached thrombus caused by high wall shear rates.",
+        "D": "A platelet that is activated but not attached to the wall.",
+        "Answer": "C",
+        "Source": "A detached thrombus is referred to as an embolus. A high WSR increases the concentration of platelets near the channel walls and promotes platelet activation; conversely, it also separates the thrombus from the thrombus body."
+    },
+    "Question_6": {
+        "Context": "In the study of thrombosis, the wall shear rate (WSR) can influence where platelets aggregate in relation to a stenosis section within a blood vessel.",
+        "Question": "Where do platelets tend to aggregate in relation to a stenosis section at different wall shear rates?",
+        "A": "Platelets aggregate at the rear part of the stenosis section at lower shear rates.",
+        "B": "Platelets aggregate at the front part of the stenosis section at higher shear rates.",
+        "C": "Platelets aggregate at the front part of the stenosis section at lower shear rates.",
+        "D": "Platelet aggregation is not influenced by the location of the stenosis section.",
+        "Answer": "C",
+        "Source": "Previous studies reported that the degree of platelet diffusion or aggregation switches around a WSR is 10,000 s\u22121. This shows a trend similar to the simulation results of Yazdani et al. that platelets aggregated in the front part of the stenosis section at shear rates of 2400\u20135400 s\u22121."
+    },
+    "Question_7": {
+        "Context": "In thrombus formation studies, the use of citrate in blood collection tubes is common to prevent coagulation during sample preparation.",
+        "Question": "What is the purpose of using citrate in blood collection tubes?",
+        "A": "To increase the blood viscosity.",
+        "B": "To bind calcium ions and prevent coagulation.",
+        "C": "To activate platelets before an experiment.",
+        "D": "To dilute the blood sample.",
+        "Answer": "B",
+        "Source": "Whole blood was collected in a citrate tube and used the same day. Citrate binds calcium ions to prevent them from interacting with the coagulation system."
+    },
+    "Question_8": {
+        "Context": "In thrombosis research, collagen coating is applied to surfaces to promote platelet coagulation.",
+        "Question": "What is the purpose of collagen coating in thrombus research?",
+        "A": "To decrease the rate of blood flow.",
+        "B": "To prevent platelet adhesion.",
+        "C": "To promote platelet coagulation at the surface.",
+        "D": "To increase blood viscosity.",
+        "Answer": "C",
+        "Source": "To promote platelet coagulation at the PDMS channel surface, the channel was incubated with collagen."
+    },
+    "Question_9": {
+        "Context": "In thrombosis research, the hydraulic diameter is a calculated value used to describe the geometry of a channel or blood vessel.",
+        "Question": "What does the hydraulic diameter represent in the context of blood vessels or channels?",
+        "A": "The length of the blood vessel.",
+        "B": "The width of the stenosis section.",
+        "C": "The geometric mean of the channel's cross-sectional dimensions.",
+        "D": "The viscosity of the blood flowing through the channel.",
+        "Answer": "C",
+        "Source": "The hydraulic diameter of the channel was calculated using the formula Dh = 2 \u221a 2wh / \u221a w2 + h2, where w and h are the lengths of the long and short sides of the channel, respectively."
+    },
+    "Question_10": {
+        "Context": "In thrombosis research, the process of binarization in image analysis is used to distinguish thrombus regions from non-thrombus regions.",
+        "Question": "What is the purpose of binarization in image analysis of thrombus formation?",
+        "A": "To convert the image into a high-resolution format.",
+        "B": "To separate the thrombus region from the non-thrombus region.",
+        "C": "To enhance the color information of the thrombus.",
+        "D": "To calculate the blood flow rate.",
+        "Answer": "B",
+        "Source": "In the third step, the thrombus region was separated from the non-thrombus region through binarization of the image. The binarization step primarily involves setting a specific threshold value for black and white."
+    }
+}

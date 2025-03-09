@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the effects of two herbal prescriptions, SDT and HYT, on appetite control using mouse hypothalamic neuronal GT1-7 cells.",
+        "Question": "Which neurotransmitter is crucial for feeding regulation and is associated with increased expression during fasting?",
+        "A": "Serotonin",
+        "B": "Glucagon",
+        "C": "Neuropeptide Y",
+        "D": "Corticotropin-releasing hormone",
+        "Answer": "C",
+        "Source": "Expression and secretion of NPY in the hypothalamus increase during fasting, and injection of NPY potently stimulates food intake."
+    },
+    "Question_2": {
+        "Context": "The study analyzed the differential expression of anorexia-related genes in cell lines treated with SDT and HYT.",
+        "Question": "Which gene showed increased expression in the low-dose SDT group and is associated with neuropeptide Y?",
+        "A": "Npy5r",
+        "B": "Npy1r",
+        "C": "Npy6r",
+        "D": "Il2ra",
+        "Answer": "A",
+        "Source": "Npy5r, Npy1r, and Npy6r, which were associated with Npy, showed increased expression in the low-dose SDT group."
+    },
+    "Question_3": {
+        "Context": "The study conducted pathway enrichment analysis based on the KEGG pathway for differentially expressed genes in samples treated with SDT and HYT.",
+        "Question": "Which pathway was associated with DEGs in the high-dose SDT group but does not imply that SDT was more effective over HYT in regulating the digestive system or appetite-related CNS regulations?",
+        "A": "Olfactory transduction",
+        "B": "Pancreatic secretion",
+        "C": "Serotonergic synapse",
+        "D": "Apelin signaling pathway",
+        "Answer": "A",
+        "Source": "The top 20 terms were selected based on the high-dose SDT group; however, notably this does not imply that SDT was more effective over HYT in regulating the digestive system or appetite-related CNS regulations."
+    },
+    "Question_4": {
+        "Context": "The study identified 17 anorexia-related genes and analyzed their fold-change in cell lines treated with SDT and HYT.",
+        "Question": "Which gene showed a decrease in expression in the high-dose SDT group and is associated with TAC precursor 1?",
+        "A": "Tnf",
+        "B": "Il1b",
+        "C": "Tac1",
+        "D": "Npy",
+        "Answer": "C",
+        "Source": "Tac1, which is related to TAC precursor 1, showed decreased expression in the high-dose SDT group."
+    },
+    "Question_5": {
+        "Context": "The study inferred the compound causing changes in the expression of anorexia-related genes by analyzing a prescription-herb-compound-target network.",
+        "Question": "Which compound was associated with Gcg, Npy5r, Npy1r, or Htr4 genes and was predicted to be related to appetite regulation?",
+        "A": "Linolenic acid",
+        "B": "Glycine",
+        "C": "Retinal",
+        "D": "Thymidine",
+        "Answer": "A",
+        "Source": "Among these compounds, linolenic acid was associated with Gcg, Npy5r, Npy1r, or Htr4 genes."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the association between microarray data and anorexia by compiling a list of genes associated with the disease.",
+        "Question": "Which gene was associated with Il2 and tended to decrease in all the experimental groups?",
+        "A": "Tnf",
+        "B": "Il1b",
+        "C": "Il2ra",
+        "D": "Crh",
+        "Answer": "C",
+        "Source": "Il2ra, which was associated with Il2, tended to decrease in all the experimental groups."
+    },
+    "Question_7": {
+        "Context": "The study focused on the effects of two herbal prescriptions, SDT and HYT, on appetite control using mouse hypothalamic neuronal GT1-7 cells.",
+        "Question": "Which neurotransmitter is related to glucose metabolism and causes satiety by sensing blood glucagon levels in the hepatic portal vein?",
+        "A": "Serotonin",
+        "B": "Glucagon",
+        "C": "Neuropeptide Y",
+        "D": "Corticotropin-releasing hormone",
+        "Answer": "B",
+        "Source": "The anorexic action of glucagon inhibits food intake by sensing blood glucagon levels in the hepatic portal vein."
+    },
+    "Question_8": {
+        "Context": "The study conducted pathway enrichment analysis based on the KEGG pathway for differentially expressed genes in samples treated with SDT and HYT.",
+        "Question": "Which pathway was associated with DEGs in the high-dose SDT group and was related to salivary secretion?",
+        "A": "Olfactory transduction",
+        "B": "Pancreatic secretion",
+        "C": "Serotonergic synapse",
+        "D": "Salivary secretion",
+        "Answer": "D",
+        "Source": "Salivary secretion was associated with DEGs in the high-dose SDT group."
+    },
+    "Question_9": {
+        "Context": "The study identified 17 anorexia-related genes and analyzed their fold-change in cell lines treated with SDT and HYT.",
+        "Question": "Which gene showed a decrease in expression in the high-dose HYT group and was not substantial in the other groups?",
+        "A": "Gcg",
+        "B": "Crhr1",
+        "C": "Il1rn",
+        "D": "Tnfrsf1a",
+        "Answer": "B",
+        "Source": "In the high-dose HYT group, a decrease in the expression of Gcg and Crhr1, which was not substantial in the other groups, was observed."
+    },
+    "Question_10": {
+        "Context": "The study inferred the compound causing changes in the expression of anorexia-related genes by analyzing a prescription-herb-compound-target network.",
+        "Question": "Which compound was associated with Gcg, Npy5r, Npy1r, or Htr4 genes and was predicted to be related to appetite regulation?",
+        "A": "Palmitic acid",
+        "B": "Glycine",
+        "C": "Retinal",
+        "D": "Thymidine",
+        "Answer": "A",
+        "Source": "Among these compounds, palmitic acid and oleic acid have been studied in relation to appetite regulation."
+    }
+}

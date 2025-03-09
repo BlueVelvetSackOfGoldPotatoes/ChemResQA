@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study evaluated electrical response to mechanical deformation and formation of defects in different polymeric composite materials. They measured electrical properties to detect structural defects and analyzed the potential of materials as strain detectors.",
+        "Question": "What was the aim of the study regarding the evaluation of polymeric composite materials?",
+        "A": "To analyze the thermal properties",
+        "B": "To evaluate the optical properties",
+        "C": "To assess the electrical properties",
+        "D": "To study the magnetic properties",
+        "Answer": "C",
+        "Source": "Measurements of electrical properties of these materials were taken to evaluate their capability to detect the presence of structural defects of different sizes as well as its spatial location."
+    },
+    "Question_2": {
+        "Context": "The study focused on conductive carbon-based materials networks like those based on carbon nanotubes (CNTs) to detect microcracking and deformations in polymer and fiber-reinforced polymer composite materials.",
+        "Question": "What type of materials were used as in situ sensors to detect microcracking and deformations?",
+        "A": "Metal-based materials",
+        "B": "Carbon-based materials",
+        "C": "Polymer-based materials",
+        "D": "Ceramic-based materials",
+        "Answer": "B",
+        "Source": "Conductive carbon-based materials networks like those based in carbon nanotubes (CNTs) and others have been recently utilized as in situ sensors to detect microcracking and deformations."
+    },
+    "Question_3": {
+        "Context": "The study mentioned the use of conductive composites for structural health monitoring and strain detection applications.",
+        "Question": "What is the main application of the conductive composites mentioned in the study?",
+        "A": "Structural health monitoring",
+        "B": "Water purification",
+        "C": "Food packaging",
+        "D": "Cosmetic industry",
+        "Answer": "A",
+        "Source": "All composites studied have shown a positive response (modification of electrical performance) to external mechanical stimulus: induced damage and deformations."
+    },
+    "Question_4": {
+        "Context": "The study discussed the use of carbonic materials like CNTs for strain and motion sensors at the macroscale.",
+        "Question": "What type of behavior allows carbonic materials to be used as strain and motion sensors?",
+        "A": "Piezoelectric behavior",
+        "B": "Piezoresistive behavior",
+        "C": "Ferromagnetic behavior",
+        "D": "Thermoelectric behavior",
+        "Answer": "B",
+        "Source": "Carbonic materials like CNTs (but not only) have been deeply analyzed as candidates for strain and motion sensors at the macroscale, due to the dependence of the electrical properties on mechanical deformation at the nanoscale due to piezoresistive behavior."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the electrical properties and damage-dependent resistance characteristics of various carbon-based/polymer composite materials.",
+        "Question": "What method was used to evaluate the ability of materials to detect mechanical deformation?",
+        "A": "Tensile testing",
+        "B": "Compression testing",
+        "C": "Flexural testing",
+        "D": "Impact testing",
+        "Answer": "A",
+        "Source": "Simultaneous measurements of strain and electrical resistance were taken for representative composite coupons during tensile tests."
+    },
+    "Question_6": {
+        "Context": "The study discussed the percolation curve of epoxy resin loaded with carbon nanotubes.",
+        "Question": "What was observed in the resistivity changes with the gradual increase of defect size in the epoxy resin?",
+        "A": "Exponential increase",
+        "B": "Linear increase",
+        "C": "Sudden drop",
+        "D": "No change",
+        "Answer": "B",
+        "Source": "The resistivity changes before and after the production of the defect increases linearly with the gradual increase of size defect."
+    },
+    "Question_7": {
+        "Context": "The study evaluated the strain detection capabilities of different materials during tensile tests.",
+        "Question": "What material showed good capability for strain detection applications despite its more brittle nature?",
+        "A": "Epoxy resin with CNTs",
+        "B": "PEKK\u2011ESD",
+        "C": "Carbon fiber reinforced polymer composite",
+        "D": "PLA",
+        "Answer": "A",
+        "Source": "Results show good capability of this material for strain detection applications. In this case, the reason to observe the results plotted lies in the more brittle nature of resin matrix comparing with the thermoplastic showed in the previous point."
+    },
+    "Question_8": {
+        "Context": "The study discussed the failure detection capacities of long carbon fiber reinforced polymer composite.",
+        "Question": "What defect size was the long carbon fiber composite material valid for structural health monitoring?",
+        "A": "Below 5 mm",
+        "B": "Above 8 mm",
+        "C": "Exactly 7 mm",
+        "D": "Exactly 10 mm",
+        "Answer": "B",
+        "Source": "For defects larger than 8 mm, this material is valid for SHM by the electrical resistivity method."
+    },
+    "Question_9": {
+        "Context": "The study evaluated the maximum stretch and Gauge Factor of different thermoplastic materials.",
+        "Question": "Which material had the highest maximum stretch among the thermoplastic materials evaluated?",
+        "A": "PLA",
+        "B": "ESD safe ABS",
+        "C": "CNT PETG",
+        "D": "PEKK\u2011ESD",
+        "Answer": "D",
+        "Source": "On the other side and considering the estimated Gauge Factor values, also is important to notice that the values obtained are given by different strain values depending on the nature of the composite evaluated, being epoxy resin and PEKK (among thermoplastic), both loaded with CNTs, the most promising materials for SHM and Strain detection applications."
+    },
+    "Question_10": {
+        "Context": "The study concluded that all polymeric conductive composite and nanocomposite materials evaluated were suitable for applications in strain detection.",
+        "Question": "What was the main conclusion regarding the suitability of the evaluated materials for strain detection applications?",
+        "A": "Only thermoset materials were suitable",
+        "B": "Only thermoplastic materials were suitable",
+        "C": "All materials were suitable",
+        "D": "None of the materials were suitable",
+        "Answer": "C",
+        "Source": "All polymeric conductive composite and nanocomposite materials evaluated of different nature (thermoset and thermoplastic) have been proved suitable for applications in strain detection."
+    }
+}

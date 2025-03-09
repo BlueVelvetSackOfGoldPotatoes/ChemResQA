@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study compares the rheological behavior of hybrid nano lubricants with different composition ratios in a base oil. The purpose is to determine the HNL with the best lubrication performance at the start of the vehicle.",
+        "Question": "What type of fluid behavior was observed in the hybrid nano lubricants?",
+        "A": "Newtonian",
+        "B": "Pseudo-plastic non-Newtonian",
+        "C": "Dilatant",
+        "D": "Viscoelastic",
+        "Answer": "B",
+        "Source": "Observing the pseudo-plastic non-Newtonian fluid."
+    },
+    "Question_2": {
+        "Context": "The study compared the viscosity of HNLs with different composition ratios. The results showed differences in viscosity based on the composition ratios.",
+        "Question": "Which composition ratio of HNLs showed more viscous behavior?",
+        "A": "30:70",
+        "B": "25:75",
+        "C": "40:60",
+        "D": "20:80",
+        "Answer": "A",
+        "Source": "Observing more viscous HNLs with a composition ratio of 30:70 compared to HNLs with a composition ratio of 25:75 in equal conditions with an increase in solid volume fraction (SVF)."
+    },
+    "Question_3": {
+        "Context": "The study discussed the effect of nanoparticles on the viscosity of HNLs at different solid volume fractions (SVFs).",
+        "Question": "What effect did low SVFs have on the viscosity of the hybrid nano lubricants?",
+        "A": "Increase in viscosity",
+        "B": "No effect on viscosity",
+        "C": "Decrease in viscosity",
+        "D": "Change in color",
+        "Answer": "C",
+        "Source": "Observing the decrease in viscosity in low SVFs due to the presence of nanoparticles in the layers between the HNL and facilitating the sliding of the layers on top of each other."
+    },
+    "Question_4": {
+        "Context": "The study utilized Response Surface Methodology (RSM) to predict viscosity values of the selected HNL.",
+        "Question": "What was the efficiency of the RSM in predicting viscosity values?",
+        "A": "Low efficiency",
+        "B": "Moderate efficiency",
+        "C": "High efficiency",
+        "D": "No efficiency",
+        "Answer": "C",
+        "Source": "Optimal efficiency of the RSM in predicting viscosity values and constructing an experimental model."
+    },
+    "Question_5": {
+        "Context": "The study analyzed the sensitivity of viscosity to changes in solid volume fractions (SVFs) of the HNLs.",
+        "Question": "Where was the greatest sensitivity observed in terms of SVF changes?",
+        "A": "Low SVFs",
+        "B": "Medium SVFs",
+        "C": "High SVFs",
+        "D": "No sensitivity observed",
+        "Answer": "C",
+        "Source": "Observing the greatest sensitivity to changes in high SVFs."
+    },
+    "Question_6": {
+        "Context": "The study compared the power law index values at different laboratory conditions for HNLs with varying composition ratios.",
+        "Question": "What type of fluid behavior is indicated by a power law index greater than 1?",
+        "A": "Newtonian behavior",
+        "B": "Dilatant fluid",
+        "C": "Pseudoplastic fluid",
+        "D": "Viscoelastic behavior",
+        "Answer": "B",
+        "Source": "n>1: Dilatant Fluid"
+    },
+    "Question_7": {
+        "Context": "The study investigated the effect of shear rate on viscosity to describe the rheological behavior of HNLs.",
+        "Question": "What does the dependence of viscosity on shear rate indicate about the behavior of the HNLs?",
+        "A": "Newtonian behavior",
+        "B": "Dilatant behavior",
+        "C": "Pseudoplastic behavior",
+        "D": "Viscoelastic behavior",
+        "Answer": "C",
+        "Source": "The dependence of the viscosity of HNLs on shear rate indicates that the HNLs are non-Newtonian."
+    },
+    "Question_8": {
+        "Context": "The study compared the viscosity enhancement of HNLs at different shear rates and temperatures.",
+        "Question": "What was the maximum increase in viscosity enhancement observed at T = 55\u00b0C and SVF = 1%?",
+        "A": "15.56%",
+        "B": "24.93%",
+        "C": "34.97%",
+        "D": "25.38%",
+        "Answer": "C",
+        "Source": "The maximum increase in viscosity enhancement at T = 55\u00b0C and SVF = 1% belonged to MWCNT-Al2O3 (30%-70%) / 10W40 HNL and was equal to 34.97%."
+    },
+    "Question_9": {
+        "Context": "The study utilized the RSM method to determine the relationship between the target response and variables affecting it.",
+        "Question": "What was the purpose of using the RSM in the study?",
+        "A": "To determine the effect of temperature on viscosity",
+        "B": "To predict experimental data of HNLs",
+        "C": "To model experimental data",
+        "D": "To analyze the effect of shear rate on viscosity",
+        "Answer": "C",
+        "Source": "The purpose of using the RSM in this study is to determine the relationship between the target response and the variables affecting it in the form of providing a predictive relationship as well as modeling experimental data."
+    },
+    "Question_10": {
+        "Context": "The study analyzed the margin of deviation (MOD) to determine the degree of scattering and deviation of data relative to the zero standard line.",
+        "Question": "What method was used to calculate the MOD?",
+        "A": "Standard deviation",
+        "B": "Mean",
+        "C": "Coefficient of variation",
+        "D": "Percentage change",
+        "Answer": "D",
+        "Source": "Equation 6 was used to calculate the MOD."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In crystal plasticity, the deformation gradient can be decomposed into lattice and plastic components.",
+        "Question": "What is the multiplicative decomposition of the deformation gradient in crystal plasticity?",
+        "A": "F = FL + FP",
+        "B": "F = FL / FP",
+        "C": "F = FL * FP",
+        "D": "F = FL - FP",
+        "Answer": "C",
+        "Source": "Using a multiplicative decomposition of the deformation gradient into lattice and plastic parts, i.e. F(X, t) = FL(X, t)FP(X, t), an initial stress-free polycrystal is constructed."
+    },
+    "Question_2": {
+        "Context": "The deformation gradient in crystal plasticity has a specific initial condition in a stress-free single crystal.",
+        "Question": "What is the initial condition of the deformation gradient in a stress-free single crystal?",
+        "A": "FP(X, 0) = FL(X, 0) = 0",
+        "B": "FP(X, 0) = FL(X, 0) = I",
+        "C": "FP(X, 0) = FL(X, 0) = -I",
+        "D": "FP(X, 0) = FL(X, 0) = 1",
+        "Answer": "B",
+        "Source": "In standard crystal plasticity, a stress-free single crystal at t = 0 is modeled using the initial conditions FP(X, 0) = FL(X, 0) \u2261 I."
+    },
+    "Question_3": {
+        "Context": "The plastic deformation in crystal plasticity is attributed to dislocation slip.",
+        "Question": "What represents the deformation gradient of an infinitesimal material element attributed to dislocation slip?",
+        "A": "The lattice component FL",
+        "B": "The plastic component FP",
+        "C": "The total deformation gradient F",
+        "D": "The elastic strain EL",
+        "Answer": "B",
+        "Source": "In this paper, FP represents the deformation gradient of an infinitesimal material element, attributed to dislocation slip through its volume."
+    },
+    "Question_4": {
+        "Context": "In crystal plasticity, slip systems are defined by specific vectors in the lattice configuration.",
+        "Question": "What defines a slip system in crystal plasticity?",
+        "A": "A glide direction and a slip plane normal",
+        "B": "The plastic deformation gradient FP",
+        "C": "The lattice deformation gradient FL",
+        "D": "The total deformation gradient F",
+        "Answer": "A",
+        "Source": "As is customary, dislocations move on slip systems \u03b1 = 1, 2, . . . , A, where each \u03b1 defines a glide direction s\u03b1 and a slip plane normal to m\u03b1."
+    },
+    "Question_5": {
+        "Context": "The evolution of the plastic component of the deformation gradient is governed by slip rates on individual slip systems.",
+        "Question": "What is the flow rule that governs the evolution of FP?",
+        "A": "\u02d9FP = FP * LP",
+        "B": "\u02d9FP = LP + FP",
+        "C": "\u02d9FP = LP / FP",
+        "D": "\u02d9FP = LP * FP",
+        "Answer": "D",
+        "Source": "Evolution of FP is governed by slip rates v\u03b1(X, t) on individual slip systems via the flow rule \u02d9FP = LPFP."
+    },
+    "Question_6": {
+        "Context": "The macroscopic force balance in crystal plasticity is an equation that relates to the stress within the material.",
+        "Question": "Which equation represents the macroscopic force balance in crystal plasticity?",
+        "A": "Div P(X, t) = 0",
+        "B": "FP(X, t) = 0",
+        "C": "FL(X, t) = 0",
+        "D": "F(X, t) = 0",
+        "Answer": "A",
+        "Source": "Macroscopic force balance Div P(X, t) = 0, X \u2208 B0, t > 0."
+    },
+    "Question_7": {
+        "Context": "The microscopic force balance for each slip system involves the relationship between the slip rate and the resolved shear stress.",
+        "Question": "What is the microscopic force balance equation for each slip system?",
+        "A": "b\u03b1v\u03b1(X, t) = \u03c8,EL m\u03b1 \u00b7 CLs\u03b1",
+        "B": "b\u03b1v\u03b1(X, t) = \u03c8,EL m\u03b1 / CLs\u03b1",
+        "C": "b\u03b1v\u03b1(X, t) = \u03c8,EL m\u03b1 + CLs\u03b1",
+        "D": "b\u03b1v\u03b1(X, t) = \u03c8,EL m\u03b1 - CLs\u03b1",
+        "Answer": "A",
+        "Source": "Microscopic force balance for each slip system \u03b1 b\u03b1v\u03b1(X, t) = \u03c8,EL m\u03b1 \u00b7 CLs\u03b1."
+    },
+    "Question_8": {
+        "Context": "In crystal plasticity, the free energy density depends on the lattice Lagrangian strain.",
+        "Question": "How is the lattice Lagrangian strain EL defined in terms of the lattice component FL?",
+        "A": "EL = (FL + FL^T - I) / 2",
+        "B": "EL = (FL * FL^T - I) / 2",
+        "C": "EL = (FL - FL^T - I) / 2",
+        "D": "EL = (FL / FL^T - I) / 2",
+        "Answer": "B",
+        "Source": "If the free energy density, denoted by \u03c8, depends on the lattice Lagrangian strain EL := \u00bd(FL^T FL - I)."
+    },
+    "Question_9": {
+        "Context": "The geometrically necessary dislocation density tensor G is defined in the context of crystal plasticity.",
+        "Question": "How is the geometrically necessary dislocation density tensor G defined?",
+        "A": "G = FP * Curl FP",
+        "B": "G = FP + Curl FP",
+        "C": "G = FP - Curl FP",
+        "D": "G = FP / Curl FP",
+        "Answer": "A",
+        "Source": "An important consequence of the decomposition given in (11) is that the resulting polycrystal is stress-free since the Lagrangian strain, defined in (6), is equal to zero. Therefore, Eq. (11) describes a polycrystalline state which is obtained from a reference single crystal by the right amount of slip in each grain such that grains undergo relative rotation but the polycrystal remains stress free."
+    },
+    "Question_10": {
+        "Context": "The initial state of a polycrystal in the diffuse-interface model is defined by a specific choice of FL and FP.",
+        "Question": "What is the initial state of FL and FP in the diffuse-interface model for a polycrystal?",
+        "A": "FL(X, 0) = I, FP(X, 0) = I",
+        "B": "FL(X, 0) = R0(X), FP(X, 0) = R0(X)^T",
+        "C": "FL(X, 0) = R0(X)^T, FP(X, 0) = R0(X)",
+        "D": "FL(X, 0) = 0, FP(X, 0) = 0",
+        "Answer": "B",
+        "Source": "The initial state of the polycrystal is chosen to be: FL(X, 0) = R0(X), FP(X, 0) = R0(X)^T, resulting in F(X, 0) \u2261 I."
+    }
+}

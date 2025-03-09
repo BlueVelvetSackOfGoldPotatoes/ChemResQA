@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the effects of Centella asiatica (CA) on obesity in mice with a high-fat, high-sugar diet. The researchers examined various parameters related to obesity and gene expression in the liver.",
+        "Question": "What was the effect of CA treatment on body weight gain in mice with high-fat, high-sugar diet-induced obesity?",
+        "A": "Increased body weight gain",
+        "B": "No effect on body weight gain",
+        "C": "Decreased body weight gain",
+        "D": "Fluctuating body weight gain",
+        "Answer": "C",
+        "Source": "CA treatment significantly attenuated HFHSD-induced increase in body weight gain (p < 0.05)."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the impact of CA treatment on serum glucose, triacylglycerol, and cholesterol levels in mice with high-fat, high-sugar diet-induced obesity.",
+        "Question": "How did CA treatment affect serum glucose levels in mice with high-fat, high-sugar diet-induced obesity?",
+        "A": "Increased serum glucose levels",
+        "B": "No effect on serum glucose levels",
+        "C": "Decreased serum glucose levels",
+        "D": "Fluctuating serum glucose levels",
+        "Answer": "C",
+        "Source": "CA treatment attenuated HFHSD-induced increase in serum glucose levels, with CA-H showing significantly lower levels compared to HFHSD (p < 0.05)."
+    },
+    "Question_3": {
+        "Context": "The researchers measured the relative weights of different white adipose tissues (WAT) in mice with high-fat, high-sugar diet-induced obesity treated with CA.",
+        "Question": "Which white adipose tissue showed a significant reduction in relative weight with CA treatment?",
+        "A": "Inguinal WAT",
+        "B": "Mesenteric WAT",
+        "C": "Epididymal WAT",
+        "D": "No significant reduction in any WAT",
+        "Answer": "A",
+        "Source": "CA treatment significantly reduced the relative weight of inguinal WAT in mice with HFHSD-induced obesity (p < 0.05)."
+    },
+    "Question_4": {
+        "Context": "The study included histological analysis of liver and epididymal white adipose tissue (eWAT) in mice with high-fat, high-sugar diet-induced obesity treated with CA.",
+        "Question": "What was the effect of CA treatment on hepatic steatosis in mice with high-fat, high-sugar diet-induced obesity?",
+        "A": "Increased hepatic steatosis",
+        "B": "No effect on hepatic steatosis",
+        "C": "Decreased hepatic steatosis",
+        "D": "Fluctuating hepatic steatosis",
+        "Answer": "C",
+        "Source": "CA treatment markedly reduced hepatic steatosis in mice with HFHSD-induced obesity."
+    },
+    "Question_5": {
+        "Context": "The researchers evaluated the mRNA expression levels of various genes related to cholesterol homeostasis and lipid metabolism in the liver of mice with high-fat, high-sugar diet-induced obesity treated with CA.",
+        "Question": "How did CA treatment affect the mRNA expression levels of PPAR\u03b3 in the liver?",
+        "A": "Increased expression levels",
+        "B": "No effect on expression levels",
+        "C": "Decreased expression levels",
+        "D": "Fluctuating expression levels",
+        "Answer": "C",
+        "Source": "CA treatment significantly attenuated the mRNA expression levels of PPAR\u03b3 in the liver of mice with HFHSD-induced obesity (p < 0.05)."
+    },
+    "Question_6": {
+        "Context": "The study aimed to understand the mechanisms involved in the anti-obesity effects of CA by examining various parameters in mice with high-fat, high-sugar diet-induced obesity.",
+        "Question": "What was the impact of CA treatment on adipocyte diameter in epididymal white adipose tissue (eWAT)?",
+        "A": "Increased adipocyte diameter",
+        "B": "No effect on adipocyte diameter",
+        "C": "Decreased adipocyte diameter",
+        "D": "Fluctuating adipocyte diameter",
+        "Answer": "C",
+        "Source": "CA treatment attenuated HFHSD-induced increase in adipocyte diameter in eWAT, with CA-H showing significantly smaller diameter compared to HFHSD (p < 0.001)."
+    },
+    "Question_7": {
+        "Context": "The study examined the effects of CA treatment on body fat accumulation and gene expression in the liver of mice with high-fat, high-sugar diet-induced obesity.",
+        "Question": "What was the effect of CA treatment on the mRNA expression levels of FAS in the liver?",
+        "A": "Increased expression levels",
+        "B": "No effect on expression levels",
+        "C": "Decreased expression levels",
+        "D": "Fluctuating expression levels",
+        "Answer": "C",
+        "Source": "CA treatment significantly attenuated the mRNA expression levels of FAS in the liver of mice with HFHSD-induced obesity (p < 0.01)."
+    },
+    "Question_8": {
+        "Context": "The researchers investigated the ameliorative effects of CA in vivo to understand the underlying mechanisms involved in the anti-obesity effects of CA.",
+        "Question": "How did CA treatment affect the macrovesicular area of epididymal white adipose tissue (eWAT)?",
+        "A": "Increased macrovesicular area",
+        "B": "No effect on macrovesicular area",
+        "C": "Decreased macrovesicular area",
+        "D": "Fluctuating macrovesicular area",
+        "Answer": "C",
+        "Source": "Compared to that in the HFHSD, macrovesicular area of eWAT was decreased following CA treatment (p < 0.05)."
+    },
+    "Question_9": {
+        "Context": "The study aimed to provide scientific evidence supporting CA as a supplement to prevent obesity by examining various parameters in mice with high-fat, high-sugar diet-induced obesity.",
+        "Question": "What was the effect of CA treatment on serum triacylglycerol levels in mice with high-fat, high-sugar diet-induced obesity?",
+        "A": "Increased serum triacylglycerol levels",
+        "B": "No effect on serum triacylglycerol levels",
+        "C": "Decreased serum triacylglycerol levels",
+        "D": "Fluctuating serum triacylglycerol levels",
+        "Answer": "C",
+        "Source": "CA treatment attenuated HFHSD-induced increase in serum triacylglycerol levels, with CA-H showing significantly lower levels compared to HFHSD (p < 0.05)."
+    },
+    "Question_10": {
+        "Context": "The researchers examined the effects of CA treatment on various parameters related to obesity and gene expression in the liver of mice with high-fat, high-sugar diet-induced obesity.",
+        "Question": "How did CA treatment affect the mRNA expression levels of CD36 in the liver?",
+        "A": "Increased expression levels",
+        "B": "No effect on expression levels",
+        "C": "Decreased expression levels",
+        "D": "Fluctuating expression levels",
+        "Answer": "C",
+        "Source": "CA treatment significantly attenuated the mRNA expression levels of CD36 in the liver of mice with HFHSD-induced obesity (p < 0.05)."
+    }
+}

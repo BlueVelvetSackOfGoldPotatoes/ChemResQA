@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "In the context of gearboxes, certain applications require the use of solid lubricants instead of traditional fluid lubricants. Solid lubricants with a lamellar sliding mechanism, such as graphite and molybdenum disulfide, are known for enabling low coefficients of friction.",
+            "Question": "Which solid lubricant is known for enabling very low coefficients of friction due to its lamellar sliding mechanism?",
+            "A": "Silicon dioxide",
+            "B": "Graphite",
+            "C": "Polytetrafluoroethylene",
+            "D": "Calcium fluoride",
+            "Answer": "B",
+            "Source": "Especially solid lubricants with a lamellar sliding mechanism like graphite and molybdenum disulfide (MoS2) or diamond-like carbon (DLC) coatings can enable very low coefficients of friction."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "In the field of tribology, the term 'superlubricity' is used to describe a state of extremely low friction, with coefficients of friction below a certain threshold.",
+            "Question": "What is the threshold coefficient of friction below which the regime of superlubricity is attributed?",
+            "A": "0.05",
+            "B": "0.1",
+            "C": "0.01",
+            "D": "0.2",
+            "Answer": "C",
+            "Source": "(Hirano and Shinjo 1990) introduced this friction regime, which is attributed to coefficients of friction below \u03bc \u2264 0.01."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "The tribological performance of solid lubricants can be significantly affected by environmental conditions, such as humidity, which can impact their friction and wear characteristics.",
+            "Question": "How does significant relative humidity under ambient air conditions affect the friction and wear of molybdenum disulfide (MoS2)?",
+            "A": "It has no remarkable influence",
+            "B": "It decreases friction and wear",
+            "C": "It leads to a sharp increase in friction and wear",
+            "D": "It only affects wear but not friction",
+            "Answer": "C",
+            "Source": "However, in contrast to graphite, significant relative humidity (RH) under ambient air conditions leads to an sharp increase in friction and wear for MoS2."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "In the study of tribology, the addition of certain metallic elements to solid lubricants can enhance their wear resistance without significantly altering their frictional behavior.",
+            "Question": "Which metallic elements can be added to solid lubricants like MoS2 to increase wear resistance?",
+            "A": "Chromium or titanium",
+            "B": "Aluminum or silicon",
+            "C": "Gold or silver",
+            "D": "Nickel or zinc",
+            "Answer": "A",
+            "Source": "Metallic elements like chromium or titanium can be added to increase wear resistance, whereas there is no remarkable influence on frictional behavior."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "Diamond-like carbon (DLC) coatings are used in tribology for their ability to reduce friction and provide high wear resistance, even under high load conditions. The properties of DLC coatings can be influenced by the ratio of different carbon bonds and the presence of other elements.",
+            "Question": "Which type of carbon bond and additional element can result in ultra-low friction for DLC coatings under dry lubrication?",
+            "A": "sp3-bonded carbon and nitrogen",
+            "B": "sp2-bonded carbon and hydrogen",
+            "C": "sp3-bonded carbon and oxygen",
+            "D": "sp2-bonded carbon and sulfur",
+            "Answer": "B",
+            "Source": "Especially DLC coatings with high proportions of amorphous sp2 carbon bonds and hydrogen (a-C:H) can result in ultra-low friction under dry lubrication."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "The tribological properties of DLC coatings are sensitive to environmental conditions, and the presence of humidity in the ambient air can play a major role in determining their coefficient of friction.",
+            "Question": "What is the effect of ambient air humidity on the coefficient of friction for DLC coatings?",
+            "A": "It significantly reduces the coefficient of friction",
+            "B": "It has no significant effect on the coefficient of friction",
+            "C": "It increases the coefficient of friction within a certain range",
+            "D": "It causes the coefficient of friction to fluctuate unpredictably",
+            "Answer": "C",
+            "Source": "However, the tribological properties of DLC coatings also depend strongly on environmental conditions, where the humidity of the ambient air plays a major role."
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "The mechanical and tribological properties of DLC coatings can be tailored by modifying their composition, including the ratio of sp2- to sp3-bonded carbon, the hydrogen content, and the addition of doping elements.",
+            "Question": "What can strongly influence the mechanical and tribological properties of DLC coatings?",
+            "A": "The ratio of sp2- to sp3-bonded carbon, hydrogen content, and doping elements",
+            "B": "The thickness of the coating and the type of substrate material",
+            "C": "The method of application and the curing temperature",
+            "D": "The ambient temperature and the exposure to UV light",
+            "Answer": "A",
+            "Source": "The mechanical and tribological properties of DLC coatings can be strongly influenced by the ratio of sp2- to sp3-bonded carbon, the hydrogen content and doping elements."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "The performance of solid lubricants in tribological systems is not only influenced by their material properties but also by the way they are provided in the system, which can affect their lifetime and effectiveness.",
+            "Question": "What factor is crucial for the performance of solid lubricants in tribological systems besides their material properties?",
+            "A": "The color of the lubricant",
+            "B": "The provision of the solid lubricants in the tribological system",
+            "C": "The brand of the lubricant",
+            "D": "The viscosity of the lubricant at room temperature",
+            "Answer": "B",
+            "Source": "However, the tribological performance strongly depends on the environmental conditions and the provision of the solid lubricants in the tribological system."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "The addition of certain elements to MoS2 coatings can improve their wear resistance. However, the impact on frictional behavior may not be significant, indicating that wear resistance and frictional behavior can be independently modified to some extent.",
+            "Question": "What is the impact of adding elements like chromium or titanium to MoS2 coatings on their frictional behavior?",
+            "A": "It significantly improves frictional behavior",
+            "B": "It worsens frictional behavior",
+            "C": "It has no remarkable influence on frictional behavior",
+            "D": "It eliminates friction completely",
+            "Answer": "C",
+            "Source": "Metallic elements like chromium or titanium can be added to increase wear resistance, whereas there is no remarkable influence on frictional behavior."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "In the study of tribology, the term 'superlubricity' is associated with extremely low friction. Achieving superlubricity can be challenging and is typically observed under specific conditions.",
+            "Question": "Under what conditions has superlubricity been observed for solid lubricants with a lamellar sliding mechanism?",
+            "A": "Under high humidity conditions",
+            "B": "At room temperature and atmospheric pressure",
+            "C": "On a macroscale with heavy loads",
+            "D": "On a microscale",
+            "Answer": "D",
+            "Source": "According to (Dienwiebel et al. 2004) and (Li et al. 2017), solid lubricants with lamellar sliding mechanism can reach the friction regime of superlubricity. The requirements for achieving superlubricity are numerous and can only be observed on microscale."
+        }
+    }
+]

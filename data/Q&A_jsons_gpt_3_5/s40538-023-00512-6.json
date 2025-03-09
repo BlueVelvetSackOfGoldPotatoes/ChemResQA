@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to examine the effects of physiological and metabolic response of chamomile under different concentrations of nicotine stress.",
+        "Question": "What impact did higher nicotine concentrations (100.0 \u03bcg/g and 500.0 \u03bcg/g) have on chamomile growth?",
+        "A": "Enhanced growth",
+        "B": "Induced stress",
+        "C": "No significant effect",
+        "D": "Delayed flowering time",
+        "Answer": "B",
+        "Source": "However, higher nicotine concentrations of 100.0 \u03bcg/g (N-100) and 500.0 \u03bcg/g (N-500) were found to induce stress..."
+    },
+    "Question_2": {
+        "Context": "The study revealed the response of chamomile flowers to nicotine stress and associated metabolic regulation.",
+        "Question": "What substances were associated with the response of chamomile flowers to nicotine stress?",
+        "A": "Flavonoids, phenolic acids, and organic acids",
+        "B": "Amino acids and lipids",
+        "C": "Alkaloids and terpenes",
+        "D": "Nucleotides and lignans",
+        "Answer": "A",
+        "Source": "The response of chamomile flowers to nicotine stress is associated with the presence of flavonoids, phenolic acids, organic acids, and other substances."
+    },
+    "Question_3": {
+        "Context": "The study analyzed the distribution of nicotine in chamomile plants at different growth stages.",
+        "Question": "Where was nicotine primarily concentrated in chamomile plants?",
+        "A": "Leaves",
+        "B": "Flowers",
+        "C": "Roots",
+        "D": "Stems",
+        "Answer": "C",
+        "Source": "Nicotine was primarily concentrated in the roots..."
+    },
+    "Question_4": {
+        "Context": "The study investigated the effect of nicotine treatment on the antioxidant enzyme activities in chamomile leaves.",
+        "Question": "Which enzyme activity was significantly higher in the N-100 and N-500 treatments compared to the control group?",
+        "A": "Superoxide dismutase (SOD)",
+        "B": "Peroxidase (POD)",
+        "C": "Catalase (CAT)",
+        "D": "Malondialdehyde (MDA)",
+        "Answer": "A",
+        "Source": "Superoxide dismutase (SOD) levels were significantly higher in the N-100 and N-500 treatments compared to the control group (CK)."
+    },
+    "Question_5": {
+        "Context": "The study identified 48 differential metabolites in chamomile flowers under different concentrations of nicotine stress.",
+        "Question": "Which type of compounds were primarily identified as differential metabolites?",
+        "A": "Flavonoids",
+        "B": "Amino acids",
+        "C": "Lipids",
+        "D": "Terpenes",
+        "Answer": "A",
+        "Source": "These included flavonoids (22.9%), organic acids (14.58%) and phenolic acids (14.58%)..."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the metabolic pathways enriched in differential metabolites in chamomile under nicotine stress.",
+        "Question": "Which pathway was enriched in response to nicotine stress involving aminoacyl-tRNA biosynthesis?",
+        "A": "Metabolic pathways",
+        "B": "Glyoxylate and dicarboxylate metabolism",
+        "C": "Pyrimidine metabolism",
+        "D": "ABC transporter activity",
+        "Answer": "A",
+        "Source": "Pathway database of KEGG was used for metabolic pathway analysis of the enriched pathways. Based on the mapping results, 19 pathways were provided..."
+    },
+    "Question_7": {
+        "Context": "The study investigated the response of amino acids and their derivatives under different nicotine concentrations.",
+        "Question": "What was the trend observed in the content of amino acids and their derivatives under nicotine stress?",
+        "A": "Decreased content with increasing nicotine concentration",
+        "B": "Increased content with increasing nicotine concentration",
+        "C": "No significant change in content",
+        "D": "Highest content in the N-1 treatment",
+        "Answer": "B",
+        "Source": "Amino acids and their derivatives together with organic acids (except L-citramalic acid, citric acid, 2-methylsuccinic acid) were highest under N-500 treatment..."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the involvement of specific compounds in pathways related to plant stress resistance.",
+        "Question": "Which compounds were involved in the synthesis of alkaloids derived from ornithine and lysine?",
+        "A": "Citric acid and L-citramalic acid",
+        "B": "L-valine and l-methionine",
+        "C": "L-phenylalanine and L-arginine",
+        "D": "Xanthine and 2'-deoxycytidine",
+        "Answer": "C",
+        "Source": "l-phenylalanine and L-arginine (Fig. 10) play crucial roles as key compounds in the Phosphate and amino acid transporters of the ABC transporter pathway in response to abiotic stress."
+    },
+    "Question_9": {
+        "Context": "The study investigated the correlation patterns of different compounds in response to nicotine stress.",
+        "Question": "Which compounds showed a significant negative correlation with other substances in response to nicotine stress?",
+        "A": "Citric acid and L-citramalic acid",
+        "B": "2-methylsuccinic acid and tartronate semialdehyde",
+        "C": "L-valine and l-methionine",
+        "D": "Xanthine and cytidine",
+        "Answer": "A",
+        "Source": "Citric acid and L-citramalic acid were significantly negatively correlated with the expression of other compounds..."
+    },
+    "Question_10": {
+        "Context": "The study analyzed the pathway of biosynthesis of plant hormones in response to nicotine stress.",
+        "Question": "Which compounds were key components in the pathway of biosynthesis of plant hormones?",
+        "A": "Citric acid and l-phenylalanine",
+        "B": "L-valine and l-methionine",
+        "C": "L-arginine and L-citramalic acid",
+        "D": "Xanthine and 2'-deoxycytidine",
+        "Answer": "A",
+        "Source": "Finally, citric acid and l-phenylalanine were key components in the pathway of biosynthesis of plant hormones..."
+    }
+}

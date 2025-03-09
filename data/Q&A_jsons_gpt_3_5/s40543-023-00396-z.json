@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the electrochemical properties of different electrodes for bromate detection.",
+        "Question": "What was the primary reason for favouring the use of NiPcMWCNTs/GCE for bromate detection?",
+        "A": "Higher sensitivity",
+        "B": "Lower stability",
+        "C": "Lower current response",
+        "D": "Higher charge-transfer resistance",
+        "Answer": "A",
+        "Source": "NiPcMWCNTs/GCE was favoured among other electrodes due to its lower Rct value and higher current response."
+    },
+    "Question_2": {
+        "Context": "The study examined the impact of varied scan rates on the electrochemical processes at NiPcMWCNTs/GCE.",
+        "Question": "What does a Tafel slope greater than 120 mV dec\u22121 suggest?",
+        "A": "A one-electron process",
+        "B": "An adsorptive process",
+        "C": "A two-electron process",
+        "D": "A three-electron process",
+        "Answer": "B",
+        "Source": "A Tafel slope greater than 120 mV dec\u22121 suggests an adsorptive process at the electrode surface."
+    },
+    "Question_3": {
+        "Context": "The study explored the effect of varied electrolyte pH on the electrochemical performance of NiPcMWCNTs/GCE.",
+        "Question": "What was the primary reason for investigating the effect of varied electrolyte pH?",
+        "A": "To determine the impact on the reduction peak current",
+        "B": "To assess the impact on the oxidation peak current",
+        "C": "To evaluate the impact on the charge-transfer resistance",
+        "D": "To analyze the impact on the stability of the electrode",
+        "Answer": "A",
+        "Source": "The effect of the varied electrolyte pH on the electrochemical performance of NiPcMWCNTs/GCE was investigated to attain the best reduction peak resolution for bromate detection."
+    },
+    "Question_4": {
+        "Context": "The study focused on the electroanalysis of bromate at NiPcMWCNTs/GCE.",
+        "Question": "What was the primary reason for using a pH of 1 throughout the experiment?",
+        "A": "To achieve the highest cathodic peak current",
+        "B": "To assess the impact on the anodic peak current",
+        "C": "To determine the impact on the charge-transfer resistance",
+        "D": "To analyze the impact on the stability of the electrode",
+        "Answer": "A",
+        "Source": "The highest cathodic peak current of bromate was attained at the pH of 1 and subsequently reduced with increasing pH."
+    },
+    "Question_5": {
+        "Context": "The study investigated the electroanalysis of bromate at NiPcMWCNTs/GCE.",
+        "Question": "What was the LoD obtained for the NiPcMWCNTs/GCE sensor for bromate detection?",
+        "A": "6.72 \u03bcM",
+        "B": "20.38 \u03bcM",
+        "C": "483.7 \u03bcM \u03a9\u22121",
+        "D": "1299.10 \u03bcA",
+        "Answer": "A",
+        "Source": "The LoD obtained for the NiPcMWCNTs/GCE were 6.72 \u03bcM with a sensitivity of 483.7 \u03bcM \u03a9\u22121."
+    },
+    "Question_6": {
+        "Context": "The study examined the electroanalysis of bromate at NiPcMWCNTs/GCE.",
+        "Question": "What was the LoQ obtained for the NiPcMWCNTs/GCE sensor for bromate detection?",
+        "A": "6.72 \u03bcM",
+        "B": "20.38 \u03bcM",
+        "C": "483.7 \u03bcM \u03a9\u22121",
+        "D": "1299.10 \u03bcA",
+        "Answer": "B",
+        "Source": "The LoQ obtained for the NiPcMWCNTs/GCE were 20.38 \u03bcM with a sensitivity of 483.7 \u03bcM \u03a9\u22121."
+    },
+    "Question_7": {
+        "Context": "The study compared the proposed sensor with other reported bromate sensors.",
+        "Question": "What was the LoD obtained for the proposed sensor compared to other reported bromate sensors?",
+        "A": "6.72 \u03bcM",
+        "B": "20.38 \u03bcM",
+        "C": "483.7 \u03bcM \u03a9\u22121",
+        "D": "1299.10 \u03bcA",
+        "Answer": "A",
+        "Source": "The LoD obtained for the NiPcMWCNTs/GCE were 6.72 \u03bcM with a sensitivity of 483.7 \u03bcM \u03a9\u22121."
+    },
+    "Question_8": {
+        "Context": "The study investigated the impact of scan rate variation on the electrochemical processes at NiPcMWCNTs/GCE.",
+        "Question": "What does a linear connection between the scan rate's square root and the peak currents suggest?",
+        "A": "A diffusion-controlled process",
+        "B": "An adsorptive process",
+        "C": "A two-electron process",
+        "D": "A three-electron process",
+        "Answer": "A",
+        "Source": "A linear connection exists between the scan rate's square root and the peak currents, suggesting a diffusion-controlled process."
+    },
+    "Question_9": {
+        "Context": "The study examined the impact of varied scan rates on the electrochemical processes at NiPcMWCNTs/GCE.",
+        "Question": "What does a linear connection between the logarithm of the scan rate and the peak potential suggest?",
+        "A": "A diffusion-controlled process",
+        "B": "An adsorptive process",
+        "C": "A two-electron process",
+        "D": "A three-electron process",
+        "Answer": "A",
+        "Source": "A linear connection exists between the logarithm of the scan rate and the peak potential, suggesting a diffusion-controlled process."
+    },
+    "Question_10": {
+        "Context": "The study explored the electroanalysis of bromate at NiPcMWCNTs/GCE.",
+        "Question": "What does a Tafel slope of 225 mV dec\u22121 suggest?",
+        "A": "A one-electron process",
+        "B": "An adsorptive process",
+        "C": "A two-electron process",
+        "D": "A three-electron process",
+        "Answer": "B",
+        "Source": "The Tafel slope for bromate reduction (225 mV dec\u22121) is larger than 120 mV dec\u22121 implying the occurrence of an adsorptive process at the electrode surface."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Chronic renal disorders can progress to renal interstitial fibrosis, which is characterized by chronic inflammation and the accumulation of pro-fibrotic substances.",
+        "Question": "What molecule has been found useful in protecting the liver from oxidative damage and is being investigated for its effects on fibrosis markers and inflammatory proteins in the kidney?",
+        "A": "Sulforaphane",
+        "B": "TGF-\u03b1",
+        "C": "Smad7",
+        "D": "NF-\u03baB",
+        "Answer": "A",
+        "Source": "The Sulforaphane (Sul) molecule is particularly useful in protecting the liver from oxidative damage. To investigate the Sul effects on fibrosis markers and inflammatory proteins in the kidney of NRK52E cell line and rats and clarify the mechanism of TGF-\u03b2/Smad signaling pathway in a rat model of RIF were developed in the present study."
+    },
+    "Question_2": {
+        "Context": "In the context of renal fibrosis, certain cytokines and proteins are known to be upregulated, contributing to the fibrotic process.",
+        "Question": "Which of the following proteins is NOT typically upregulated in fibrotic NRK52E cells?",
+        "A": "Tumor necrosis factor (TNF-\u03b1)",
+        "B": "Interleukin-6 (IL-6)",
+        "C": "High-mobility group protein B1",
+        "D": "Transforming growth factor-\u03b1 (TGF-\u03b1)",
+        "Answer": "D",
+        "Source": "Sul (50, 100, and 200 ng/ml) remarkably reduced the gene expressions of tumor necrosis factor (TNF-\u03b1), interleukin-6 (IL-6), interleukin (IL)-1\u03b2, collagen 3 (COL3A1), collagen 1 (COL1A1), and \u03b1-smooth muscle actin (\u03b1-SMA) in fibrotic NRK52E cells compared with those in cells inspired by transforming growth factor-\u03b1 (TGF-\u03b1)."
+    },
+    "Question_3": {
+        "Context": "The TGF-\u03b2/Smad signaling pathway plays a crucial role in the development of renal interstitial fibrosis, with certain proteins acting as intracellular effectors.",
+        "Question": "Which protein in the TGF-\u03b2/Smad signaling pathway is known to negatively control the fibrotic process as part of a feedback loop?",
+        "A": "Smad2",
+        "B": "Smad3",
+        "C": "Smad7",
+        "D": "Smad4",
+        "Answer": "C",
+        "Source": "In fibrotic tissue, TGF-1\u03b2 can upregulate the expression of Smad3 and Smad2; Smad7 negatively controls this process as part of a feedback loop."
+    },
+    "Question_4": {
+        "Context": "In the development of renal fibrosis, certain signaling pathways are implicated, which involve various biological processes and molecules.",
+        "Question": "Which of the following is NOT a signaling pathway or molecule involved in renal interstitial fibrosis?",
+        "A": "Apoptosis signal-regulating kinase",
+        "B": "NF-kB transcription factors",
+        "C": "Platelet-derived growth factor receptor",
+        "D": "VEGF-R2",
+        "Answer": "D",
+        "Source": "Numerous signaling pathways, such as apoptosis signal-regulating kinase and transforming growth factor beta (TGF-\u03b2)/Smad, have been involved in renal fibrosis. Previous investigation has shown that the NF-kB transcription factors may increase TGF-\u03b2 expression, activating the TGF-\u03b2/Smad pathway and mediating its downstream biological impacts."
+    },
+    "Question_5": {
+        "Context": "In the study of renal fibrosis, certain proteins serve as markers for fibrotic activity within the kidney tissue.",
+        "Question": "Which of the following proteins is commonly used as a marker for fibrosis and is upregulated in the presence of TGF-\u03b2?",
+        "A": "Cyclooxygenase-2",
+        "B": "\u03b1-smooth muscle actin (\u03b1-SMA)",
+        "C": "Activator protein-1",
+        "D": "High-mobility group protein B1",
+        "Answer": "B",
+        "Source": "The expression level of TNF-\u03b1, IL-6, IL-1\u03b2, COL3A1, COL1A1, and \u03b1-SMA in the rats\u2019 kidneys exposed to UUO was also suppressed by the treatment of Sul."
+    },
+    "Question_6": {
+        "Context": "In the context of renal fibrosis, the expression of certain proteins is indicative of the fibrotic process and is influenced by the TGF-\u03b2/Smad signaling pathway.",
+        "Question": "Which protein is a critical factor in the Smad unit that may interact with Smad3 and Smad7 to influence transcriptional activity?",
+        "A": "Smad1",
+        "B": "Smad2",
+        "C": "Smad4",
+        "D": "Smad6",
+        "Answer": "C",
+        "Source": "Located upstream of the kidney fibrotic and inflammatory methods, Smad4 is a critical factor in the Smad unit that may interact with Smad3 and Smad7 to influence the transcriptional activity."
+    },
+    "Question_7": {
+        "Context": "In the study of renal fibrosis, the role of macrophages and certain cytokines they secrete is significant in the inflammatory response.",
+        "Question": "Which cytokine is secreted by macrophages and contributes to inflammation in renal tissues?",
+        "A": "Interleukin-10 (IL-10)",
+        "B": "Interleukin-1\u03b2 (IL-1\u03b2)",
+        "C": "Interferon-gamma (IFN-\u03b3)",
+        "D": "Interleukin-4 (IL-4)",
+        "Answer": "B",
+        "Source": "Macrophages, invading immune cells, have been identified as the primary mediators of this inflammatory response. Numerous monocytes/macrophages generated by the kidney continually infiltrate the organ and induce inflammation by secreting inflammatory cytokines like TNF-\u03b1 and IL-1\u03b2."
+    },
+    "Question_8": {
+        "Context": "The process of fibrosis in the kidneys is associated with an inappropriate buildup of extracellular matrix in response to damage.",
+        "Question": "What is the global incidence range of chronic kidney disease (CKD), which often leads to renal fibrosis?",
+        "A": "1-5%",
+        "B": "3-18%",
+        "C": "20-25%",
+        "D": "10-15%",
+        "Answer": "B",
+        "Source": "The global incidence of CKD ranges between 3 and 18%, significantly burdening public health systems."
+    },
+    "Question_9": {
+        "Context": "Certain medications have been investigated for their antifibrotic properties in the context of renal fibrosis.",
+        "Question": "Which multikinase inhibitor, used in cancer treatment, has been shown to have antifibrotic properties?",
+        "A": "Sunitinib",
+        "B": "Imatinib",
+        "C": "Sorafenib",
+        "D": "Dasatinib",
+        "Answer": "C",
+        "Source": "Studies we\u2019ve conducted show that the multikinase inhibitor sorafenib, which is used in cancer treatment, has antifibrotic properties."
+    },
+    "Question_10": {
+        "Context": "In the context of renal fibrosis, certain tyrosine kinases are targeted by antifibrotic medications to mitigate the fibrotic process.",
+        "Question": "Which of the following tyrosine kinases is NOT targeted by the antifibrotic medication sorafenib?",
+        "A": "VEGF-R2",
+        "B": "PDGF receptor",
+        "C": "EGFR",
+        "D": "FGFR",
+        "Answer": "D",
+        "Source": "The vascular endothelial growth factor receptor 2 (VEGF-R2) and the platelet-derived growth factor (PDGF) receptor are two of the tyrosine kinases that it blocks."
+    }
+}

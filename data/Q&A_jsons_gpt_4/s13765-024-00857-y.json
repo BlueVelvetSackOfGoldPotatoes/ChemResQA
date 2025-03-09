@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Morpholine-derived halogenated chalcone derivatives are compounds that have been investigated for their inhibitory activity against monoamine oxidase (MAO), an enzyme associated with neurodegenerative diseases.",
+        "Question": "Which morpholine-derived halogenated chalcone derivative showed the highest inhibitory activity against MAO-B?",
+        "A": "MHC1",
+        "B": "MHC5",
+        "C": "MHC7",
+        "D": "MHC9",
+        "Answer": "B",
+        "Source": "MHC5 showed the highest inhibitory activity against MAO-B with an IC50 value of 0.065 \u03bcM, followed by MHC7 (IC50 = 0.078 \u03bcM) and MHC6 (IC50 = 0.082 \u03bcM)."
+    },
+    "Question_2": {
+        "Context": "In the context of enzyme inhibition, the IC50 value is a measure that indicates how much of a substance is needed to inhibit a biological process by half.",
+        "Question": "What is the IC50 value of MHC5 against MAO-B?",
+        "A": "0.065 \u03bcM",
+        "B": "0.078 \u03bcM",
+        "C": "0.082 \u03bcM",
+        "D": "0.095 \u03bcM",
+        "Answer": "A",
+        "Source": "MHC5 showed the highest inhibitory activity against MAO-B with an IC50 value of 0.065 \u03bcM."
+    },
+    "Question_3": {
+        "Context": "The selectivity index of a compound is a ratio that helps determine the preferential inhibition of one type of enzyme over another, which is important for targeting specific biological pathways.",
+        "Question": "What was the selectivity index value of MHC5 for MAO-B over MAO-A?",
+        "A": "37.05",
+        "B": "66.15",
+        "C": "80.11",
+        "D": "102.47",
+        "Answer": "B",
+        "Source": "The selectivity index values of all the compounds were high for MAO-B over MAO-A, and the values for MHC5 and MHC4 were 66.15 and 80.11, respectively."
+    },
+    "Question_4": {
+        "Context": "In enzyme kinetics, the Ki value represents the dissociation constant of an enzyme-inhibitor complex, which is indicative of the inhibitor's potency.",
+        "Question": "What was the Ki value of MHC5 as a competitive MAO-B inhibitor?",
+        "A": "0.024 \u00b1 0.00062 \u03bcM",
+        "B": "0.041 \u00b1 0.0028 \u03bcM",
+        "C": "0.065 \u03bcM",
+        "D": "0.095 \u03bcM",
+        "Answer": "A",
+        "Source": "MHC5 and MHC4 were competitive MAO-B inhibitors with Ki values of 0.024 \u00b1 0.00062 and 0.041 \u00b1 0.0028 \u03bcM, respectively."
+    },
+    "Question_5": {
+        "Context": "Reversibility tests in enzyme inhibition studies help to determine whether the inhibitor can be removed from the enzyme, restoring its activity.",
+        "Question": "What was the reversibility pattern of MHC5 in comparison to safinamide?",
+        "A": "More reversible than safinamide",
+        "B": "Less reversible than safinamide",
+        "C": "Similar to safinamide",
+        "D": "Irreversible as compared to safinamide",
+        "Answer": "C",
+        "Source": "In reversibility tests, the changes in residual activity before and after the dialysis of MHC5 and MHC4 were similar to those of safinamide, a reversible MAO-B reference inhibitor."
+    },
+    "Question_6": {
+        "Context": "Molecular docking studies predict how small molecules, such as drugs, bind to a receptor of known 3D structure, and docking scores are used to estimate the binding affinity.",
+        "Question": "What was the docking score of MHC5 in the molecular docking study?",
+        "A": "\u201310.64 \u00b1 0.14 kcal/mol",
+        "B": "\u201310.92 \u00b1 0.08 kcal/mol",
+        "C": "\u201311.313 kcal/mol",
+        "D": "\u201310.078 kcal/mol",
+        "Answer": "B",
+        "Source": "Molecular docking and dynamic simulations predicted that the lead molecules MHC5 and MHC4 could strongly bind to the MAO-B active site with docking scores of \u201310.92 \u00b1 0.08 and \u201310.64 \u00b1 0.14 kcal/mol, respectively."
+    },
+    "Question_7": {
+        "Context": "Blood-brain barrier (BBB) permeability is a crucial property for drugs targeting central nervous system disorders, as it indicates the drug's ability to cross the barrier and reach the brain.",
+        "Question": "Which feature of MHC5 and MHC4 was confirmed to be favorable for the treatment of neurodegenerative diseases?",
+        "A": "High blood plasma concentration",
+        "B": "Blood-brain barrier permeability",
+        "C": "Low molecular weight",
+        "D": "High water solubility",
+        "Answer": "B",
+        "Source": "Additionally, MHC4 and MHC5 exhibited favorable ADME features, including blood\u2013brain barrier permeability."
+    },
+    "Question_8": {
+        "Context": "Monoamine oxidases (MAOs) are enzymes that inactivate biogenic amines and are found on the mitochondrial outer membrane, with MAO-A and MAO-B being two isoenzymes.",
+        "Question": "Where are the monoamine oxidase enzymes located within the cell?",
+        "A": "Mitochondrial inner membrane",
+        "B": "Mitochondrial outer membrane",
+        "C": "Endoplasmic reticulum",
+        "D": "Nucleus",
+        "Answer": "B",
+        "Source": "MAO-A and MAO-B are two isoenzymes found on the mitochondrial outer membrane that produce hydrogen peroxide."
+    },
+    "Question_9": {
+        "Context": "Chalcones are bioactive compounds that have been studied for their MAO-B inhibitory activity and contain a carbonyl-conjugated system with two electrophilic sites.",
+        "Question": "What structural feature of chalcones serves as a Michael acceptor in biochemical signaling pathways?",
+        "A": "Carbonyl-conjugated system",
+        "B": "Morpholine ring",
+        "C": "Halogen substituents",
+        "D": "Saturated heterocyclic ring",
+        "Answer": "A",
+        "Source": "Additionally, this unusual conjugated form of ketones serves as a Michael acceptor in several cellular biochemical signaling pathways."
+    },
+    "Question_10": {
+        "Context": "The physicochemical properties of chalcones are influenced by the substituents present on the aromatic and heterocyclic nuclei, affecting their ability to inhibit selective MAO-B enzymes.",
+        "Question": "What influences the electrophilic nature of the enone unit of chalcones?",
+        "A": "The size of the morpholine ring",
+        "B": "The differential electron density caused by different substituents",
+        "C": "The presence of a saturated heterocyclic ring",
+        "D": "The overall molecular weight of the chalcone",
+        "Answer": "B",
+        "Source": "The electrophilic nature of the enone unit of chalcones is influenced by the differential electron density of the aromatic and heterocyclic nuclei caused by the presence of different substituents."
+    }
+}

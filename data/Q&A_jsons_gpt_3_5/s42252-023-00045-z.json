@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on mixing characteristics of AMC powder mixtures with high SiCp contents. The influence of mixing parameters on the homogeneity of particle distribution was investigated.",
+        "Question": "What is the main objective of understanding the fundamental mixing behavior of powder mixtures for AMC green body production?",
+        "A": "To investigate the influence of mixing parameters on the homogeneity of the particle distribution",
+        "B": "To determine the COVd value for different particle loadings",
+        "C": "To analyze the particle size distribution in powder mixtures",
+        "D": "To study the impact of different reinforcement materials on AMC properties",
+        "Answer": "A",
+        "Source": "For this purpose, powder mixtures of monomodal AlSi7Mg0.6 and different SiCp fractions were prepared with different mixing times and speeds to investigate the influence of these mixing parameters on the homogeneity of the particle distribution."
+    },
+    "Question_2": {
+        "Context": "The study explored the influence of mixing speed and time on the homogeneity of powder mixtures for AMC production.",
+        "Question": "What was observed when the mixing speed was increased to 60 min\u22121?",
+        "A": "Decreased homogeneity due to increased mixing time",
+        "B": "Increased homogeneity due to enhanced mixing efficiency",
+        "C": "Segregation effects due to higher centrifugal forces",
+        "D": "No impact on the homogeneity of the mixture",
+        "Answer": "C",
+        "Source": "When applying even higher mixing speed of 60 min\u22121 the amount of centrifugal forces rises and can exceed the gravity forces, resulting in a trajectory movement of single particles."
+    },
+    "Question_3": {
+        "Context": "The study discussed the mixing behavior of powder mixtures with different particle sizes.",
+        "Question": "How does the mixing behavior differ for powder with smaller grain size (F220) compared to larger grain size (F60)?",
+        "A": "Smaller grain size requires longer mixing time for homogeneity",
+        "B": "Larger grain size shows more cohesive behavior",
+        "C": "Smaller grain size is influenced by mixing speed",
+        "D": "Larger grain size exhibits trajectory segregation",
+        "Answer": "A",
+        "Source": "The higher COVd values resulted from the lower balance of segregation and mixing effects due to the smaller size of the powder, a more cohesive behavior became apparent."
+    },
+    "Question_4": {
+        "Context": "The study presented a regression model to predict mixing results for different powder mixtures.",
+        "Question": "What is the main influencing parameter on the mixing process according to the regression model?",
+        "A": "Mixing speed",
+        "B": "Particle loading",
+        "C": "Particle size",
+        "D": "Mixing time",
+        "Answer": "D",
+        "Source": "The linear coefficient m1 of the regression model shows the highest value of all coefficients for both models, which relates to the highest influence of mixing time onto the process."
+    },
+    "Question_5": {
+        "Context": "The study discussed the implications of mixing parameters on the homogeneity of AMC powder mixtures.",
+        "Question": "What is the recommended mixing time to achieve a homogenous mixture for all investigated particle loadings?",
+        "A": "5 minutes",
+        "B": "10 minutes",
+        "C": "15 minutes",
+        "D": "20 minutes",
+        "Answer": "C",
+        "Source": "Independent of mixing speed, a mixing time of 15 min resulted in a homogenous particle distribution for all investigated particle loadings."
+    },
+    "Question_6": {
+        "Context": "The study highlighted the importance of understanding the flow behavior of powder mixtures in the mixing process.",
+        "Question": "What is the recommended Froude number for mixing AMC powders in a turbula mixer?",
+        "A": "0.5",
+        "B": "1.5",
+        "C": "2",
+        "D": "2.5",
+        "Answer": "C",
+        "Source": "A mixing speed below a Froude number of 2 (cascading flow behavior) should be chosen for mixing of AMC powders in a turbula mixer."
+    },
+    "Question_7": {
+        "Context": "The study discussed the influence of powder size on the mixing behavior and homogeneity of powder mixtures.",
+        "Question": "How does the mixing behavior differ for powder with smaller grain size (F220) compared to larger grain size (F60)?",
+        "A": "Smaller grain size requires longer mixing time for homogeneity",
+        "B": "Larger grain size shows more cohesive behavior",
+        "C": "Smaller grain size is influenced by mixing speed",
+        "D": "Larger grain size exhibits trajectory segregation",
+        "Answer": "A",
+        "Source": "The higher COVd values resulted from the lower balance of segregation and mixing effects due to the smaller size of the powder, a more cohesive behavior became apparent."
+    },
+    "Question_8": {
+        "Context": "The study presented a regression model to predict mixing results for different powder mixtures.",
+        "Question": "What is the main influencing parameter on the mixing process according to the regression model?",
+        "A": "Mixing speed",
+        "B": "Particle loading",
+        "C": "Particle size",
+        "D": "Mixing time",
+        "Answer": "D",
+        "Source": "The linear coefficient m1 of the regression model shows the highest value of all coefficients for both models, which relates to the highest influence of mixing time onto the process."
+    },
+    "Question_9": {
+        "Context": "The study discussed the implications of mixing parameters on the homogeneity of AMC powder mixtures.",
+        "Question": "What is the recommended mixing time to achieve a homogenous mixture for all investigated particle loadings?",
+        "A": "5 minutes",
+        "B": "10 minutes",
+        "C": "15 minutes",
+        "D": "20 minutes",
+        "Answer": "C",
+        "Source": "Independent of mixing speed, a mixing time of 15 min resulted in a homogenous particle distribution for all investigated particle loadings."
+    },
+    "Question_10": {
+        "Context": "The study highlighted the importance of understanding the flow behavior of powder mixtures in the mixing process.",
+        "Question": "What is the recommended Froude number for mixing AMC powders in a turbula mixer?",
+        "A": "0.5",
+        "B": "1.5",
+        "C": "2",
+        "D": "2.5",
+        "Answer": "C",
+        "Source": "A mixing speed below a Froude number of 2 (cascading flow behavior) should be chosen for mixing of AMC powders in a turbula mixer."
+    }
+}

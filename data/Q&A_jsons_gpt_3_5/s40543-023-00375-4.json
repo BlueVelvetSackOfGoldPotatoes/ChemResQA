@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on analyzing mass transport properties and diffusion coefficients of ferrocyanide using various electrodes via cyclic voltammetry. They confirmed that diffusion is dominant during mass transfer in agarose hydrogel. Based on the content, what is the main factor controlling mass transport in agarose hydrogel?",
+        "Question": "What is the main factor controlling mass transport in agarose hydrogel?",
+        "A": "Migration",
+        "B": "Convection",
+        "C": "Diffusion",
+        "D": "Adsorption",
+        "Answer": "C",
+        "Source": "The experimental results confirmed that the mass transfer behavior in agarose was similar to that in solution. The good linearity of the square root of the scan\u2011rate\u2011dependent peak current demonstrated that diffusion is dominant during mass transfer in agarose hydrogel owing to a reduction in other mass transport effects (i.e., migration and convection)."
+    },
+    "Question_2": {
+        "Context": "The study discussed the advantages of ultramicroelectrodes (UMEs) over macroelectrodes. What property of UMEs makes them particularly suited for the study of rapid homogeneous or heterogeneous reactions?",
+        "Question": "What property of UMEs makes them particularly suited for the study of rapid reactions?",
+        "A": "Higher signal-to-noise ratios",
+        "B": "Enhanced sensitivity",
+        "C": "Low current flow",
+        "D": "Low detection limits",
+        "Answer": "C",
+        "Source": "UME can operate in the early transient state because of the low cell time constant (RC) and in the steady-state regime owing to enhanced mass transfer properties. Consequently, UMEs are particularly suited for the study of rapid homogeneous or heterogeneous reactions."
+    },
+    "Question_3": {
+        "Context": "The study compared the diffusion properties of redox molecules in solution and agarose hydrogel. What was the observed trend in the diffusion coefficient (D) of Fe(CN)6 4\u2013 as the agarose concentration increased?",
+        "Question": "What was the observed trend in the diffusion coefficient (D) of Fe(CN)6 4\u2013 as the agarose concentration increased?",
+        "A": "Decreased",
+        "B": "Increased",
+        "C": "Remained constant",
+        "D": "Varied randomly",
+        "Answer": "A",
+        "Source": "The D values in agarose are approximately the same order of magnitude as those in the solution, but the mass transport properties deteriorate with increasing agarose concentrations."
+    },
+    "Question_4": {
+        "Context": "The study discussed the impact of natural convection on chronoamperometry (CA) results. What was the main reason for the irregular and irreproducible responses observed in the solution phase for relatively long-term electrochemistry?",
+        "Question": "What was the main reason for the irregular and irreproducible responses observed in the solution phase for relatively long-term electrochemistry?",
+        "A": "Density gradient",
+        "B": "Thermal convection",
+        "C": "Mechanical vibration",
+        "D": "Natural convection",
+        "Answer": "D",
+        "Source": "The CA curves and plots of current as a function of the inverse square root of time yielded irregular and irreproducible responses in the solution for relatively long\u2011term electrochemistry. However, in the agarose hydrogel, the CA response was more regular and reproducible for > 300 s because of reduced natural convection."
+    },
+    "Question_5": {
+        "Context": "The study highlighted the importance of Faraday cages when using ultramicroelectrodes (UMEs). Why are Faraday cages used in UME experiments?",
+        "Question": "Why are Faraday cages used in UME experiments?",
+        "A": "To reduce natural convection",
+        "B": "To minimize unexpected vibration",
+        "C": "To decrease background current noise",
+        "D": "To enhance sensitivity",
+        "Answer": "C",
+        "Source": "Because the nA level is significantly affected by background current noise, the electrochemical cell is generally placed in a Faraday cage when using a UME for electrochemical measurements. Faraday cages reduce background current noise and unexpected vibration or convection."
+    },
+    "Question_6": {
+        "Context": "The study discussed the impact of agarose concentration on the diffusion coefficient (D) of Fe(CN)6 4\u2013 at the macroelectrode and UME. What agarose concentration range was recommended for use with UMEs based on the results?",
+        "Question": "What agarose concentration range was recommended for use with UMEs based on the results?",
+        "A": "2.4-3.2 wt%",
+        "B": "3.2-4.8 wt%",
+        "C": "4.8-9.1 wt%",
+        "D": "2.4-9.1 wt%",
+        "Answer": "A",
+        "Source": "Agarose hydrogels with agarose concentration exceeding 4.8 wt% are not recommended for use in conjunction with UMEs."
+    },
+    "Question_7": {
+        "Context": "The study compared the current fluctuations in solution and agarose hydrogel during chronoamperometry (CA) using a macroelectrode. What was the main advantage of using agarose hydrogel in reducing current fluctuations?",
+        "Question": "What was the main advantage of using agarose hydrogel in reducing current fluctuations?",
+        "A": "Reduced background noise",
+        "B": "Enhanced sensitivity",
+        "C": "Prevention of natural convection",
+        "D": "Decreased electrode area",
+        "Answer": "C",
+        "Source": "The CA of the agarose hydrogel showed a more regular and reproducible current for > 300 s based on the Cottrell\u2019s theory, owing to reduced natural convection."
+    },
+    "Question_8": {
+        "Context": "The study discussed the diffusion properties of redox molecules in agarose hydrogel using a macroelectrode. What was the main factor contributing to the anodic shift observed in the voltammograms as the agarose concentration increased?",
+        "Question": "What was the main factor contributing to the anodic shift observed in the voltammograms as the agarose concentration increased?",
+        "A": "Steric hindrance",
+        "B": "Electrode area",
+        "C": "Electrochemical reversibility",
+        "D": "Redox concentration",
+        "Answer": "A",
+        "Source": "Additionally, with increasing agarose concentration, the voltammograms are slightly anodically shifted to approximately 10\u201312 mV. This anodic shift implies a higher degree of interaction and stabilization between the charged Fe(CN)6 4\u2013 molecule and hydrophilic moieties of the agarose polymer backbone."
+    },
+    "Question_9": {
+        "Context": "The study discussed the advantages of ultramicroelectrodes (UMEs) over macroelectrodes. What property of UMEs allows them to operate in the early transient state and the steady-state regime?",
+        "Question": "What property of UMEs allows them to operate in the early transient state and the steady-state regime?",
+        "A": "Low detection limits",
+        "B": "Enhanced mass transfer properties",
+        "C": "Low cell time constant",
+        "D": "High signal-to-noise ratios",
+        "Answer": "C",
+        "Source": "UME can operate in the early transient state because of the low cell time constant (RC) and in the steady-state regime owing to enhanced mass transfer properties."
+    },
+    "Question_10": {
+        "Context": "The study compared the current fluctuations in solution and agarose hydrogel during chronoamperometry (CA) using a UME. What was the main advantage of using agarose hydrogel in reducing current fluctuations in UME experiments?",
+        "Question": "What was the main advantage of using agarose hydrogel in reducing current fluctuations in UME experiments?",
+        "A": "Enhanced sensitivity",
+        "B": "Reduced background noise",
+        "C": "Prevention of natural convection",
+        "D": "Decreased electrode area",
+        "Answer": "C",
+        "Source": "Therefore, agarose hydrogels present a promising option for minimizing unexpected convection, even under UME conditions."
+    }
+}

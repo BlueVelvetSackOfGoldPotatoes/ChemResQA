@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the enzymatic conversion of CO2 to CO using CODH enzymes.",
+        "Question": "What is the primary advantage of using biocatalysts like CODH enzymes for CO2 reduction?",
+        "A": "High energy efficiency",
+        "B": "Low stability",
+        "C": "Limited substrate specificity",
+        "D": "High toxicity",
+        "Answer": "A",
+        "Source": "Comparing all known natural CO2 fixation pathways, the WL pathway is the most energy efficient by consuming only one ATP."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the use of CODH enzymes in electrochemical applications.",
+        "Question": "What is the main challenge in utilizing CODH enzymes in electrocatalysis?",
+        "A": "Immobilization on the electrode surface",
+        "B": "High stability",
+        "C": "Low electron transfer efficiency",
+        "D": "High tolerance towards O2",
+        "Answer": "C",
+        "Source": "The main challenges for the utilization of CODH enzymes in electrocatalysis are their immobilization on the electrode surface and their stability related to either leaching or a low tolerance towards O2."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the electrochemical mechanisms involved in utilizing CODH enzymes.",
+        "Question": "What is the preferred electronic communication pathway between the enzyme and the electrode in electrocatalysis?",
+        "A": "Direct electron transfer (DET)",
+        "B": "Mediated electron transfer (MET)",
+        "C": "Immobilization on carbon-based electrodes",
+        "D": "Cross-linking of proteins",
+        "Answer": "A",
+        "Source": "The electronic communication pathway generally considered as the most favorable between enzyme and electrode is the direct electron transfer (DET) via immediate contact of the biomolecule to the solid surface."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the electrochemical integration of CODH enzymes in CO2 reduction.",
+        "Question": "What is the primary advantage of using CODH enzymes in CO2 reduction?",
+        "A": "Low overpotential in catalyzing CO2 reduction",
+        "B": "High stability in harsh conditions",
+        "C": "Limited substrate availability",
+        "D": "Low energy efficiency",
+        "Answer": "A",
+        "Source": "The electrochemical techniques introduced within this review demonstrate how promising CODH enzymes can be for industrial applications. These studies mainly apply CODHs from already cultured microbial strains for CO2 reduction on electrodes."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the use of CODH enzymes in photoelectrochemical systems.",
+        "Question": "What is the main challenge in achieving high turnover frequencies (TOF) in CODH-based photoreduction applications?",
+        "A": "Absorption of photons",
+        "B": "Delivery of charge carriers",
+        "C": "Recombination of carriers",
+        "D": "Immobilization on the electrode surface",
+        "Answer": "C",
+        "Source": "The enzymes\u2019 TOF in all photoreduction applications is always significantly lower than their inherent activities, which is attributed to a combination of distinct factors: absorption of photons and delivery of charge carriers, recombination of carriers, electron transfer issues, CODH leaching, or enzyme deactivation by O2."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the utilization of CODH enzymes in anaerobic CO-coupled metabolisms.",
+        "Question": "What is the primary function of the WL pathway in acetogens?",
+        "A": "Fixation of CO2 into acetate",
+        "B": "Generation of ATP",
+        "C": "Production of H2",
+        "D": "Reduction of CO2 to CO",
+        "Answer": "A",
+        "Source": "They use the WL pathway not only for the fixation of CO2 according to Eq. 2, but also for redox balancing."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the CO-coupled methanogenic metabolism.",
+        "Question": "What is the primary energy source for methanogens in reducing CO2 to methane?",
+        "A": "CO2",
+        "B": "H2",
+        "C": "CO",
+        "D": "CH4",
+        "Answer": "B",
+        "Source": "The majority of methanogens reduce CO2 to methane and use H2 as the electron donor."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the electrochemical applications of CODH enzymes.",
+        "Question": "What is the main challenge in utilizing CODH enzymes in electrocatalysis?",
+        "A": "Immobilization on the electrode surface",
+        "B": "High stability",
+        "C": "Low electron transfer efficiency",
+        "D": "High tolerance towards O2",
+        "Answer": "C",
+        "Source": "The main challenges for the utilization of CODH enzymes in electrocatalysis are their immobilization on the electrode surface and their stability related to either leaching or a low tolerance towards O2."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the CO-coupled methanogenic metabolism.",
+        "Question": "What is the primary end product of the CO2 reduction process in methanogens?",
+        "A": "CO",
+        "B": "H2",
+        "C": "CH4",
+        "D": "CO2",
+        "Answer": "C",
+        "Source": "The majority of methanogens reduce CO2 to methane and use H2 as the electron donor."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the CO-coupled methanogenic metabolism.",
+        "Question": "What is the primary challenge in utilizing CO as an energy source for methanogens?",
+        "A": "Toxic nature of CO",
+        "B": "Low energy efficiency",
+        "C": "High stability requirements",
+        "D": "Limited substrate availability",
+        "Answer": "A",
+        "Source": "This might be caused by the toxic nature of CO as well as that CO-metabolism moves easier towards CH4 alternative products."
+    }
+}

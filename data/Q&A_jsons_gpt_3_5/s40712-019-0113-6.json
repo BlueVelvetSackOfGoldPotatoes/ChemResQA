@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Experimental results on the effect of concentration, aging, and annealing time on the optical and structural properties of sol gel zinc oxide (ZnO) and Al-doped ZnO thin films.",
+        "Question": "What was observed regarding the grain size of low concentration ZnO films with increasing aging time?",
+        "A": "Decreased grain size",
+        "B": "Constant grain size",
+        "C": "Increased grain size",
+        "D": "Grain size remained the same",
+        "Answer": "C",
+        "Source": "For low concentration films (0.2 and 0.4 M), grain size increased with aging time up to 72 hours."
+    },
+    "Question_2": {
+        "Context": "Experimental results on the effect of concentration, aging, and annealing time on the optical and structural properties of sol gel zinc oxide (ZnO) and Al-doped ZnO thin films.",
+        "Question": "At what concentration of Zn precursor did the largest grain sizes occur after 48 hours of aging?",
+        "A": "0.2 M",
+        "B": "0.4 M",
+        "C": "0.6 M",
+        "D": "0.8 M",
+        "Answer": "C",
+        "Source": "The largest grain sizes were found for 0.6 M at 48 hours."
+    },
+    "Question_3": {
+        "Context": "Experimental results on the effect of concentration, aging, and annealing time on the optical and structural properties of sol gel zinc oxide (ZnO) and Al-doped ZnO thin films.",
+        "Question": "What trend was observed for the band gap of ZnO films with increasing aging time for low concentration samples?",
+        "A": "Decreased band gap",
+        "B": "Constant band gap",
+        "C": "Increased band gap",
+        "D": "Band gap fluctuated",
+        "Answer": "A",
+        "Source": "Only at extended aging times of 72 hours is there a noticeable decrease in the band gap for both 0.2 and 0.4 M samples."
+    },
+    "Question_4": {
+        "Context": "Experimental results on the effect of concentration, aging, and annealing time on the optical and structural properties of sol gel zinc oxide (ZnO) and Al-doped ZnO thin films.",
+        "Question": "Which concentration of Zn precursor resulted in the lowest band gap after 48 hours of aging?",
+        "A": "0.2 M",
+        "B": "0.4 M",
+        "C": "0.6 M",
+        "D": "0.8 M",
+        "Answer": "C",
+        "Source": "For the same aging time, 0.6 M results in the lowest band gap."
+    },
+    "Question_5": {
+        "Context": "Experimental results on the effect of concentration, aging, and annealing time on the optical and structural properties of sol gel zinc oxide (ZnO) and Al-doped ZnO thin films.",
+        "Question": "What was observed about the Urbach energy as the grain size increased?",
+        "A": "Urbach energy increased",
+        "B": "Urbach energy decreased",
+        "C": "Urbach energy remained constant",
+        "D": "Urbach energy fluctuated",
+        "Answer": "B",
+        "Source": "As the grain size increases, the Urbach energy decreases."
+    },
+    "Question_6": {
+        "Context": "Experimental results on the effect of concentration, aging, and annealing time on the optical and structural properties of sol gel zinc oxide (ZnO) and Al-doped ZnO thin films.",
+        "Question": "What was the minimum annealing temperature required for diffraction peaks to be present in the films?",
+        "A": "150 oC",
+        "B": "250 oC",
+        "C": "350 oC",
+        "D": "450 oC",
+        "Answer": "C",
+        "Source": "In most cases, 350 oC is the minimum temperature, at 1-hour annealing, for diffraction peaks to be present."
+    },
+    "Question_7": {
+        "Context": "Experimental results on the effect of concentration, aging, and annealing time on the optical and structural properties of sol gel zinc oxide (ZnO) and Al-doped ZnO thin films.",
+        "Question": "At what concentration of Zn precursor did additional diffraction peaks become more likely at elevated temperatures?",
+        "A": "0.2 M",
+        "B": "0.4 M",
+        "C": "0.6 M",
+        "D": "0.8 M",
+        "Answer": "C",
+        "Source": "At 0.6 M concentration, additional diffraction peaks become more likely at elevated temperatures."
+    },
+    "Question_8": {
+        "Context": "Experimental results on the effect of concentration, aging, and annealing time on the optical and structural properties of sol gel zinc oxide (ZnO) and Al-doped ZnO thin films.",
+        "Question": "What trend was observed for the diffraction peak intensity as the concentration of Zn precursor increased?",
+        "A": "Decreased intensity",
+        "B": "Constant intensity",
+        "C": "Increased intensity",
+        "D": "Intensity fluctuated",
+        "Answer": "C",
+        "Source": "In general, higher concentration films tend to have stronger diffraction peak intensity at each set of comparable conditions."
+    },
+    "Question_9": {
+        "Context": "Experimental results on the effect of concentration, aging, and annealing time on the optical and structural properties of sol gel zinc oxide (ZnO) and Al-doped ZnO thin films.",
+        "Question": "What was the effect of aluminum doping on the diffraction peaks of ZnO thin films?",
+        "A": "No diffraction peaks observed",
+        "B": "Stronger diffraction peaks observed",
+        "C": "Weaker diffraction peaks observed",
+        "D": "Diffraction peaks remained the same",
+        "Answer": "B",
+        "Source": "Starting at 350 oC and continuing to 450 oC, stronger diffraction peaks are observed in most films."
+    },
+    "Question_10": {
+        "Context": "Experimental results on the effect of concentration, aging, and annealing time on the optical and structural properties of sol gel zinc oxide (ZnO) and Al-doped ZnO thin films.",
+        "Question": "At what temperature did most films display stronger diffraction peaks?",
+        "A": "150 oC",
+        "B": "250 oC",
+        "C": "350 oC",
+        "D": "450 oC",
+        "Answer": "C",
+        "Source": "For all films, the diffraction peaks are very weak for RT, 150 oC and 250 oC annealed samples. Starting at 350 oC and continuing to 450 oC, stronger diffraction peaks are observed in most films."
+    }
+}

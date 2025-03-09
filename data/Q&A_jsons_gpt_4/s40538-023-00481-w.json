@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Paper mulberry is considered a high-quality protein feedstuff for ruminants due to its content of biologically active compounds, amino acids, vitamins, digestible crude fiber, and mineral elements.",
+        "Question": "What compounds contribute to the high-quality protein feedstuff status of paper mulberry for ruminants?",
+        "A": "Amino acids and vitamins",
+        "B": "Mineral elements and water",
+        "C": "Biologically active compounds and digestible crude fiber",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The crude protein content of whole-plant paper mulberry could be equivalent to alfalfa. Besides, paper mulberry contains abundant biologically active compounds, amino acids, vitamins, digestible crude fiber and mineral elements."
+    },
+    "Question_2": {
+        "Context": "Ensiling is a process used to preserve fresh forage, which involves fermentation under anaerobic conditions.",
+        "Question": "What is the main purpose of ensiling in the context of preserving fresh forage?",
+        "A": "To dry the forage completely",
+        "B": "To enhance the palatability and reduce nutrient loss",
+        "C": "To increase the water content of the forage",
+        "D": "To extract biologically active compounds",
+        "Answer": "B",
+        "Source": "Ensiling is a reliable way to effectively preserve fresh forage due to its good palatability and low nutrient loss."
+    },
+    "Question_3": {
+        "Context": "High moisture and low water-soluble carbohydrate concentration in fresh paper mulberry can make ensiling difficult, leading to poor fermentation quality.",
+        "Question": "Why can high moisture and low water-soluble carbohydrate concentration in fresh paper mulberry lead to difficulties in ensiling?",
+        "A": "It promotes the growth of desirable microorganisms",
+        "B": "It enhances the dry matter content",
+        "C": "It leads to unpleasant smelling and low fermentation quality",
+        "D": "It increases the biologically active compounds",
+        "Answer": "C",
+        "Source": "However, it has been found that high temperature and humidity conditions lead to the propagation of harmful microorganisms, which subsequently leads to the deterioration of silage. In addition, the features of high moisture and low water-soluble carbohydrate (WSC) concentration in fresh paper mulberry make it difficult to ensile, revealed by unpleasant smelling and low fermentation quality."
+    },
+    "Question_4": {
+        "Context": "Wheat bran is used as an additive in ensiling due to its high dry matter content and richness in carbohydrates and other nutrients.",
+        "Question": "What is the role of wheat bran when used as an additive in ensiling?",
+        "A": "To increase the moisture content of the silage",
+        "B": "To provide a fermentation substrate for the growth of lactic acid bacteria",
+        "C": "To reduce the protein content of the silage",
+        "D": "To inhibit the ensiling process",
+        "Answer": "B",
+        "Source": "As a traditional animal feed, WB has a high dry matter content, rich in carbohydrates and other nutrients. Adding WB is an effective method to reduce feed moisture content. During ensiling, WB could provide fermentation substrate for the growth of lactic acid bacteria (LAB) and accelerate the succession process to become dominant bacteria."
+    },
+    "Question_5": {
+        "Context": "Lactic acid bacteria (LAB) are often added as inoculants during ensiling to improve the fermentation quality.",
+        "Question": "What characteristic of lactic acid bacteria makes them suitable as inoculants for improving silage fermentation quality?",
+        "A": "High utilization rate of sugar and fast acid production",
+        "B": "Ability to increase water-soluble carbohydrate concentration",
+        "C": "Reduction of dry matter content",
+        "D": "Promotion of harmful microorganism growth",
+        "Answer": "A",
+        "Source": "The exogenous LAB has the characteristics of high utilization rate of sugar, fast acid production and pH reduction, which can speed up the ensiling process and inhibit the growth of harmful microorganisms."
+    },
+    "Question_6": {
+        "Context": "The fermentation quality of silage can be assessed by measuring various parameters, including pH, ammonia nitrogen (NH3-N), and lactic acid content.",
+        "Question": "Which parameters are indicative of good fermentation quality in silage?",
+        "A": "High pH and NH3-N concentration",
+        "B": "Low pH and increased lactic acid content",
+        "C": "High water-soluble carbohydrate and ether extract content",
+        "D": "Increased acetic acid and propionic acid content",
+        "Answer": "B",
+        "Source": "More importantly, WB and LP + WB treatments significantly reduced the pH value and NH3-N concentration, and increased lactic acid content (P < 0.05)."
+    },
+    "Question_7": {
+        "Context": "The microbial community in silage plays a crucial role in the fermentation process, with certain bacteria becoming dominant under specific conditions.",
+        "Question": "Which genus of bacteria was found to be dominant in all treatments of paper mulberry silage?",
+        "A": "Weissella",
+        "B": "Lactobacillus",
+        "C": "Propionibacterium",
+        "D": "Clostridium",
+        "Answer": "B",
+        "Source": "Lactobacillus was the dominant genera in all treatments."
+    },
+    "Question_8": {
+        "Context": "The addition of certain substrates and bacterial inoculants can shift the dominant bacterial species in silage.",
+        "Question": "Which bacterial species became dominant in paper mulberry silage with the addition of wheat bran and Lactobacillus plantarum?",
+        "A": "Lactobacillus farciminis",
+        "B": "Lactobacillus buchneri",
+        "C": "Lactobacillus brevis",
+        "D": "Weissella cibaria",
+        "Answer": "C",
+        "Source": "However, at the species level, Lactobacillus farciminis became the most dominant bacteria in control and LP treatments while the dominant bacteria in WB and LP + WB were Lactobacillus brevis and Lactobacillus farciminis."
+    },
+    "Question_9": {
+        "Context": "The correlation between microbial species and fermentation products can be analyzed to understand their impact on silage quality.",
+        "Question": "Which bacterial species was positively correlated with crude protein and lactic acid, and negatively correlated with pH and NH3-N in paper mulberry silage?",
+        "A": "Lactobacillus farciminis",
+        "B": "Lactobacillus ginsenosidimutans",
+        "C": "Lactobacillus brevis",
+        "D": "Weissella cibaria",
+        "Answer": "C",
+        "Source": "In addition, Lactobacillus brevis was positively correlated to crude protein and lactic acid and negatively correlated to pH and NH3-N."
+    },
+    "Question_10": {
+        "Context": "The addition of wheat bran to paper mulberry silage can affect the chemical composition, including dry matter (DM) and water-soluble carbohydrate (WSC) contents.",
+        "Question": "What effect does the addition of wheat bran have on the dry matter and water-soluble carbohydrate contents of paper mulberry silage?",
+        "A": "Decreases DM and increases WSC",
+        "B": "Increases both DM and WSC",
+        "C": "Decreases both DM and WSC",
+        "D": "Increases DM and decreases WSC",
+        "Answer": "D",
+        "Source": "The WB and LP + WB treatments significantly increased (P < 0.05) DM and WSC contents and decreased (P < 0.05) ADF and EE contents compared with control and LP treatments."
+    }
+}

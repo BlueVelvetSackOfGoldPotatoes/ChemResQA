@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Soft devices for various applications are made from carbon nanomaterials like carbon nanotubes and graphene due to their flexibility, conductivity, and potential for large-area processing.",
+        "Question": "What are some outstanding characteristics of carbon nanomaterials like carbon nanotubes and graphene?",
+        "A": "High strength and low conductivity",
+        "B": "Low flexibility and high thermal conductivity",
+        "C": "Intrinsic flexibility and tunable conductivity",
+        "D": "Low aspect ratio and low mechanical compliance",
+        "Answer": "C",
+        "Source": "Among the many candidate materials for constructing soft devices, carbon nanomaterials such as carbon nanotubes (CNTs) and graphene have been actively investigated owing to their outstanding characteristics, including their intrinsic flexibility, tunable conductivity..."
+    },
+    "Question_2": {
+        "Context": "Soft devices based on carbon nanomaterials have been integrated into elastomers to provide new functionalities compared to conventional materials.",
+        "Question": "What is one advantage of integrating carbon nanomaterials into elastomers for soft devices?",
+        "A": "Reduced flexibility",
+        "B": "Increased transparency",
+        "C": "Lower conductivity",
+        "D": "Higher rigidity",
+        "Answer": "B",
+        "Source": "Furthermore, hybrids of CNT and graphene could complement each other, resulting in improved device performance, e.g., in regards to sensitivity, sensing range, and actuation displacement. Thus, devices based on CNT-graphene hybrids can outperform others comprising homogeneous materials."
+    },
+    "Question_3": {
+        "Context": "Flexible and stretchable electronic materials have been developed using carbon nanotubes and graphene for soft sensors and actuators.",
+        "Question": "What type of materials are unsuitable for soft sensors and actuators due to their insufficient flexibility?",
+        "A": "Metal and doped Si thin films",
+        "B": "Polymer composites",
+        "C": "CNT-graphene hybrids",
+        "D": "Graphene electrodes",
+        "Answer": "A",
+        "Source": "Metal and doped Si thin films (the most widely used electronic materials) are unsuitable for such devices, owing to their insufficient flexibility."
+    },
+    "Question_4": {
+        "Context": "CNT-graphene hybrid films have been widely tested to explore their synergetic size and geometrical effects.",
+        "Question": "What advantage does a CNT-graphene hybrid film offer over a super-aligned CNT film?",
+        "A": "Lower Young's modulus",
+        "B": "Higher electrical resistance",
+        "C": "Higher Young's modulus",
+        "D": "Lower electrical conductivity",
+        "Answer": "C",
+        "Source": "For example, it was reported that a Young\u2019s modulus achieved by a CNT-graphene hybrid film was larger by an order of magnitude (2.34 GPa) than that of a super-aligned CNT film (0.35 GPa)."
+    },
+    "Question_5": {
+        "Context": "Flexible physical sensors based on CNT-graphene hybrids have been developed for pressure and strain sensing applications.",
+        "Question": "What is a key requirement for flexible physical sensors used in wearable electronics applications?",
+        "A": "Low sensitivity",
+        "B": "Narrow sensing range",
+        "C": "High sensitivity",
+        "D": "Fast response time",
+        "Answer": "C",
+        "Source": "Flexible physical sensors are key components for such applications, and mechanical flexibility/stretchability, high sensitivity, fast response time, and repeatability are considered as important requirements."
+    },
+    "Question_6": {
+        "Context": "CNT-graphene hybrid materials have been used to fabricate flexible wearable strain sensors.",
+        "Question": "What advantage does a CNT-graphene hybrid structure provide for strain sensors?",
+        "A": "Low sensitivity",
+        "B": "Limited sensing range",
+        "C": "High sensitivity",
+        "D": "High sensing range",
+        "Answer": "C",
+        "Source": "Thus, a CNT-graphene hybrid structure can provide a synergistic electrical network induced by the interconnections between the graphene and CNTs, resulting in superior stretchability and high sensitivity."
+    },
+    "Question_7": {
+        "Context": "Soft actuators based on CNT/graphene composites have shown enhanced actuation strains, faster response times, and greater stability.",
+        "Question": "What is a critical factor determining the actuation performance of CNT yarns in CNT artificial muscles?",
+        "A": "Twisting rate",
+        "B": "Capacitance",
+        "C": "Tensile strength",
+        "D": "Temperature",
+        "Answer": "B",
+        "Source": "The capacitance of CNT yarns is one of the critical factors determining the actuation performance, and it can be increased by the addition of graphene."
+    },
+    "Question_8": {
+        "Context": "Soft devices composed of carbon nanomaterial hybrids are expected to be available in many fields through interdisciplinary efforts.",
+        "Question": "What is a challenge mentioned for the future development of soft devices based on carbon nanomaterial hybrids?",
+        "A": "Controlling defects in the materials",
+        "B": "Integrating energy storage devices",
+        "C": "Developing wireless communication modules",
+        "D": "Enhancing the transparency of the devices",
+        "Answer": "A",
+        "Source": "From a materials perspective, controlling defects and the number of walls or layers of CNTs and graphene during scalable and low-cost production may expand the applicability of carbon nanomaterials."
+    },
+    "Question_9": {
+        "Context": "Hybrids of multidimensional carbon nanomaterials have shown great potential for soft devices due to their compelling properties.",
+        "Question": "What is one advantage of hybrids of CNT and graphene for device performance?",
+        "A": "Reduced sensitivity",
+        "B": "Limited sensing range",
+        "C": "Improved sensitivity",
+        "D": "Reduced actuation displacement",
+        "Answer": "C",
+        "Source": "Hybrids of CNT and graphene could complement each other, resulting in improved device performance, e.g., in regards to sensitivity, sensing range, and actuation displacement."
+    },
+    "Question_10": {
+        "Context": "Flexible and stretchable energy storage devices and wireless communication modules can be integrated with soft systems based on carbon nanomaterial hybrids.",
+        "Question": "What is mentioned as an opportunity for future work in the development of soft devices?",
+        "A": "Enhancing the transparency of the devices",
+        "B": "Integrating energy storage devices",
+        "C": "Developing wireless communication modules",
+        "D": "Improving the performance of soft actuators",
+        "Answer": "B",
+        "Source": "Flexible and stretchable energy storage devices and wireless communication modules can also be integrated with such soft systems."
+    }
+}

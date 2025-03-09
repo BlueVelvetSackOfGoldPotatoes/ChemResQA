@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In vitro behavior of a novel beta-emitting radioimmunoconjugate [177Lu]Lu-DOTA-C595 as a therapeutic agent against PDAC was characterized. Results showed binding to all cell lines relative to their expression of MUC1-CE.",
+        "Question": "What was the in vitro behavior of [177Lu]Lu-DOTA-C595 in relation to PDAC cell lines?",
+        "A": "No binding to any cell lines",
+        "B": "Binding to all cell lines regardless of MUC1-CE expression",
+        "C": "Binding only to cell lines with high MUC1-CE expression",
+        "D": "Binding only to cell lines with low MUC1-CE expression",
+        "Answer": "B",
+        "Source": "Results: A series of in vitro experiments were performed on PDAC cell lines exhibiting strong to weak MUC1-CE expression. [177Lu] Lu-DOTA-C595 bound to all cell lines relative to their expression of MUC1-CE."
+    },
+    "Question_2": {
+        "Context": "Internalisation assay was performed to evaluate the rate of cellular internalisation of [177Lu]Lu-DOTA-C595 across different MUC1-CE expressing cell lines.",
+        "Question": "What was the internalisation rate of [177Lu]Lu-DOTA-C595 in PANC-1 cells compared to other cell lines?",
+        "A": "Lower internalisation rate",
+        "B": "Similar internalisation rate",
+        "C": "Higher internalisation rate",
+        "D": "No internalisation observed",
+        "Answer": "C",
+        "Source": "PANC-1 cell lines had the greatest percentage of internalisation at all time points, beginning with 28.4% at 1 h and progressing to a maximum of 75.4% at 48 h."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the expression of \u03b3H2AX foci as a marker for detecting double strand DNA breaks.",
+        "Question": "What was the percentage of cells with positive \u03b3H2AX expression at 24 hours post-treatment in AsPC-1 cells?",
+        "A": "99.35%",
+        "B": "69.2%",
+        "C": "97.01%",
+        "D": "98.56%",
+        "Answer": "B",
+        "Source": "At 24 h post-treatment, 99.35% of PANC-1 cells exhibited positive \u03b3H2AX expression. AsPC-1 cells demonstrated lower \u03b3H2AX expression of 69.2% at 24 h."
+    },
+    "Question_4": {
+        "Context": "Clonogenic assay was performed to evaluate the cytotoxic effects of [177Lu]Lu-DOTA-C595.",
+        "Question": "At what concentration did PANC-1 cells show significantly lower survival compared to AsPC-1 cells?",
+        "A": "100 nM",
+        "B": "500 nM",
+        "C": "750 nM",
+        "D": "1000 nM",
+        "Answer": "C",
+        "Source": "At 500, 750, and 1000 nM of [177Lu]Lu-DOTA-C595, PANC-1 cells had significantly lower survival than AsPC-1 cells."
+    },
+    "Question_5": {
+        "Context": "The study compared the cytotoxic effects of [177Lu]Lu-DOTA-C595 with Lu-177 only.",
+        "Question": "In AsPC-1 cells, which treatment showed significantly lower survival compared to [177Lu]Lu-DOTA-C595 at 500, 750, and 1000 nM concentrations?",
+        "A": "Lu-177 only",
+        "B": "[177Lu]Lu-DOTA-C595",
+        "C": "DOTA-C595",
+        "D": "C595",
+        "Answer": "A",
+        "Source": "In AsPC-1 cell lines, cells treated with unlabeled Lu-177 had significantly lower survival compared to cells treated with equivalent concentrations of [177Lu]Lu-DOTA-C595 at 500, 750, and 1000 nM."
+    },
+    "Question_6": {
+        "Context": "The study assessed the cytotoxicity of unmodified C595 against PDAC cells.",
+        "Question": "What was the therapeutic effect of unmodified C595 in PDAC cells?",
+        "A": "No therapeutic effect",
+        "B": "Moderate therapeutic effect",
+        "C": "High therapeutic effect",
+        "D": "Low therapeutic effect",
+        "Answer": "C",
+        "Source": "Treatment using unmodified C595 also demonstrated a cytotoxic effect against PDAC cells in this study."
+    },
+    "Question_7": {
+        "Context": "Future research considerations were discussed regarding the application of [177Lu]Lu-DOTA-C595 to other epithelial malignancies.",
+        "Question": "What other epithelial malignancies were mentioned as potential targets for [177Lu]Lu-DOTA-C595?",
+        "A": "Breast cancer",
+        "B": "Prostate cancer",
+        "C": "Lung, colon, and ovarian adenocarcinoma",
+        "D": "Leukemia",
+        "Answer": "C",
+        "Source": "Future research should consider applying [177Lu]Lu-DOTA-C595 to other epithelial malignancies with MUC1-CE overexpression such as lung, colon, and ovarian adenocarcinoma."
+    },
+    "Question_8": {
+        "Context": "The study highlighted the need for in vivo studies to better assess the systemic effects of [177Lu]Lu-DOTA-C595.",
+        "Question": "What was identified as a limitation of the in vitro experiments?",
+        "A": "Lack of binding to PDAC cells",
+        "B": "Inability to assess the systemic effects",
+        "C": "Inconclusive results on cell survival",
+        "D": "No internalisation observed",
+        "Answer": "B",
+        "Source": "In vivo studies are required to better assess all range of effects."
+    },
+    "Question_9": {
+        "Context": "The study suggested the potential use of alpha-emitting radioisotopes to enhance the cytotoxic effect.",
+        "Question": "Which alpha-emitting radioisotope was proposed as a potential replacement for Lu-177?",
+        "A": "Actinium-225",
+        "B": "Iodine-131",
+        "C": "Technetium-99m",
+        "D": "Yttrium-90",
+        "Answer": "A",
+        "Source": "Replacing Lu-177 with an alpha-emitting radioisotope such as Actinium-225 may improve the cytotoxic effect observed by [177Lu]Lu-DOTA-C595 in this study."
+    },
+    "Question_10": {
+        "Context": "The study emphasized the importance of further research to understand the in vivo characteristics of [177Lu]Lu-DOTA-C595.",
+        "Question": "What was the main conclusion regarding the need for future studies?",
+        "A": "In vivo studies are not necessary",
+        "B": "In vivo studies are crucial to understand the systemic effects",
+        "C": "In vitro studies are sufficient to assess the therapeutic potential",
+        "D": "Further studies are not warranted",
+        "Answer": "B",
+        "Source": "The study has shown promising results warranting further studies in animals to understand the in vivo characteristics of [177Lu]Lu-DOTA-C595 in targeting of PDAC and other epithelial malignancies."
+    }
+}

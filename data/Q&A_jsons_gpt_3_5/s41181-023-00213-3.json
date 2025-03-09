@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the study, what was the optimal pH range identified for the complexation reaction of [68Ga]Ga-EMP100?",
+        "Question": "What was the optimal pH range for the complexation reaction of [68Ga]Ga-EMP100?",
+        "A": "2.75-3.25",
+        "B": "3.25-3.75",
+        "C": "3.75-4.00",
+        "D": "4.00-4.25",
+        "Answer": "C",
+        "Source": "The optimum reaction pH was found to be 3.75 using ammonium acetate buffer. The pH of the buffer plays an important role in radiolabelling procedures, particularly with gallium-68, and the reaction kinetics for 68Ga3+ incorporation is inversely related to pH."
+    },
+    "Question_2": {
+        "Context": "What was the main purpose of introducing adjuvants such as ascorbic acid and ethanol in the radiolabelling process of [68Ga]Ga-EMP100?",
+        "Question": "Why were adjuvants like ascorbic acid and ethanol introduced in the radiolabelling process of [68Ga]Ga-EMP100?",
+        "A": "To increase the radioactivity concentration",
+        "B": "To stabilize the reaction mixture and reduce radiolysis oxidation",
+        "C": "To speed up the heating process",
+        "D": "To improve the molar activity",
+        "Answer": "B",
+        "Source": "To reduce radiolysis oxidation and stabilise the reaction mixture, we introduced adjuvants such as ascorbic acid, gentisic acid and ethanol prior to the heating step."
+    },
+    "Question_3": {
+        "Context": "What was the minimum amount of EMP100 peptide precursor required for satisfactory synthesis yield?",
+        "Question": "What was the minimum amount of EMP100 peptide precursor required for satisfactory synthesis yield?",
+        "A": "30 \u00b5g",
+        "B": "50 \u00b5g",
+        "C": "75 \u00b5g",
+        "D": "90 \u00b5g",
+        "Answer": "C",
+        "Source": "Satisfactory RCP (> 95%) and RCY (> 50%) were obtained with 75 \u00b5g of precursor peptide."
+    },
+    "Question_4": {
+        "Context": "What was the optimal heating time identified for the radiolabelling process of [68Ga]Ga-EMP100?",
+        "Question": "What was the optimal heating time for the radiolabelling process of [68Ga]Ga-EMP100?",
+        "A": "5 min",
+        "B": "8 min",
+        "C": "10 min",
+        "D": "15 min",
+        "Answer": "C",
+        "Source": "A duration of 10 min was found to ensure almost complete incorporation."
+    },
+    "Question_5": {
+        "Context": "What was the main parameter investigated in the study to improve product quality?",
+        "Question": "Which parameter was investigated in the study to improve product quality?",
+        "A": "Radiochemical purity",
+        "B": "Molar activity",
+        "C": "Radionuclide identity",
+        "D": "pH evaluation",
+        "Answer": "A",
+        "Source": "The three main objectives of radiolabelling optimisation are to improve product quality through a number of specific parameters. Firstly, radiochemical purity (RCP) is controlled and must exceed 95%."
+    },
+    "Question_6": {
+        "Context": "What was the target activity at the time of calibration required for imaging at least one patient?",
+        "Question": "What was the target activity at the time of calibration required for imaging at least one patient?",
+        "A": "Greater than 100 MBq",
+        "B": "Greater than 500 MBq",
+        "C": "Greater than 1000 MBq",
+        "D": "Greater than 1500 MBq",
+        "Answer": "B",
+        "Source": "Finally, the target activity at the time of calibration should be greater than 500 MBq, which, combined with a radiochemical yield (RCY) greater than 50%, allows imaging of at least one patient regardless of generator elution yield."
+    },
+    "Question_7": {
+        "Context": "What was the main advantage of using an automated system for gallium-68 radiolabelling?",
+        "Question": "What was the main advantage of using an automated system for gallium-68 radiolabelling?",
+        "A": "Higher radioactivity concentration",
+        "B": "Improved operator radiation protection",
+        "C": "Consistent yields",
+        "D": "Faster synthesis time",
+        "Answer": "C",
+        "Source": "Automated systems are a good solution for gallium-68 radiolabelling because they are more reliable, more reproducible and guarantee consistent yields."
+    },
+    "Question_8": {
+        "Context": "What was the purpose of trapping the gallium-68 eluate on a cationic column prior to the radiolabelling process?",
+        "Question": "Why was the gallium-68 eluate trapped on a cationic column prior to the radiolabelling process?",
+        "A": "To increase the molar activity",
+        "B": "To remove metallic impurities",
+        "C": "To reduce the heating time",
+        "D": "To speed up the radiolabelling process",
+        "Answer": "B",
+        "Source": "Another advantage of cationic eluate purification is the ability to remove concentrations of zinc ions (from gallium-68 decrease) and other metallic impurities that could compete with gallium-68 labelling reactions."
+    },
+    "Question_9": {
+        "Context": "What was the main reason for introducing adjuvants like ascorbic acid and ethanol in the radiolabelling process of [68Ga]Ga-EMP100?",
+        "Question": "Why were adjuvants like ascorbic acid and ethanol introduced in the radiolabelling process of [68Ga]Ga-EMP100?",
+        "A": "To increase the radioactivity concentration",
+        "B": "To stabilize the reaction mixture and reduce radiolysis oxidation",
+        "C": "To improve the molar activity",
+        "D": "To speed up the heating process",
+        "Answer": "B",
+        "Source": "To reduce radiolysis oxidation and stabilise the reaction mixture, we introduced adjuvants such as ascorbic acid, gentisic acid and ethanol prior to the heating step."
+    },
+    "Question_10": {
+        "Context": "What was the main parameter investigated in the study to improve product quality?",
+        "Question": "Which parameter was investigated in the study to improve product quality?",
+        "A": "Radiochemical purity",
+        "B": "Molar activity",
+        "C": "Radionuclide identity",
+        "D": "pH evaluation",
+        "Answer": "A",
+        "Source": "The three main objectives of radiolabelling optimisation are to improve product quality through a number of specific parameters. Firstly, radiochemical purity (RCP) is controlled and must exceed 95%."
+    }
+}

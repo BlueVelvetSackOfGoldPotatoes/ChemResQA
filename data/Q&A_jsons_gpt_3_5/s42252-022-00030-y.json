@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the preparation of iron-chelating pyridine nitrogen-rich coordinated nanosheet (IPNCN) composites. The composites exhibit excellent ORR performance.",
+        "Question": "What is the onset potential of the IPNCN composite catalysts for the oxygen reduction reaction (ORR)?",
+        "A": "0.84 V",
+        "B": "0.93 V",
+        "C": "0.96 V",
+        "D": "1.2 V",
+        "Answer": "B",
+        "Source": "The IPNCN composites exhibit excellent ORR performance with an onset potential of 0.93 V."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the synthesis of IPNCN composites and their characteristics.",
+        "Question": "What is the main advantage of the design strategy of IPNCN composite catalysts?",
+        "A": "High metal utilization efficiency",
+        "B": "Fast mass transport",
+        "C": "Rich content of pyridine nitrogen",
+        "D": "Uniform distribution of nitrogen elements and metal catalyzed active sites",
+        "Answer": "D",
+        "Source": "The superior catalytic activity of the IPNCN composite catalysts can be attributed to the rich content of pyridine nitrogen, the stable and uniform distribution of the nitrogen elements and the metal catalyzed active sites."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the electrochemical measurements of the IPNCN composite catalysts.",
+        "Question": "What is the electron transfer number (n) of the IPNCN-2\u2013850 composite catalysts?",
+        "A": "2.5",
+        "B": "3.9",
+        "C": "4.5",
+        "D": "5.2",
+        "Answer": "B",
+        "Source": "The electron transfer number (n) of the IPNCN-2\u2013850 composite catalysts was calculated as 3.9 in average at various potentials from 0.2 to 0.6 V."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the ORR catalytic performances of different composite catalysts.",
+        "Question": "Which composite catalyst showed the best ORR activity among IPNCN-2\u2013750, IPNCN-2\u2013800, IPNCN-2\u2013850, and IPNCN-2\u2013900?",
+        "A": "IPNCN-2\u2013750",
+        "B": "IPNCN-2\u2013800",
+        "C": "IPNCN-2\u2013850",
+        "D": "IPNCN-2\u2013900",
+        "Answer": "C",
+        "Source": "Among the IPNCN catalysts, the ORR activity of the IPNCN-2\u2013850 composite catalysts are better than those of IPNCN-2\u2013750, IPNCN-2\u2013900, IPNCN-1\u2013850, and IPNCN-3\u2013850."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the stability of the IPNCN composite catalysts.",
+        "Question": "How much of the initial current density did the IPNCN-2\u2013850 composite catalysts retain after 40,000 s compared to the Pt/C catalysts?",
+        "A": "69%",
+        "B": "77%",
+        "C": "97%",
+        "D": "100%",
+        "Answer": "C",
+        "Source": "The IPNCN-2\u2013850 composite catalysts still keep 97.7% of the initial current while the Pt/C catalysts retain only 69% of the initial current after 40,000 s."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the synthesis and characterization of the IPNCN composites.",
+        "Question": "What is the main reason for the decrease in the surface area of the IPNCN-2\u2013850 composite catalysts?",
+        "A": "Changing of the pores",
+        "B": "Decomposition of small organic molecules",
+        "C": "Formation of ordered graphitic carbon",
+        "D": "Increase in the surface area",
+        "Answer": "A",
+        "Source": "The decrease of the surface area for the IPNCN-2\u2013850 is mainly due to the changing of the pores."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the electrochemical measurements of the IPNCN composite catalysts.",
+        "Question": "What is the onset potential of the commercial Pt/C catalysts for the oxygen reduction reaction (ORR)?",
+        "A": "0.84 V",
+        "B": "0.93 V",
+        "C": "0.96 V",
+        "D": "1.2 V",
+        "Answer": "C",
+        "Source": "The commercial Pt/C catalysts show onset potentials of 0.96 V for the ORR."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the synthesis and characterization of the IPNCN composites.",
+        "Question": "What is the main advantage of the solvothermal method in preparing the IPNCN composite catalysts?",
+        "A": "Formation of ordered graphitic carbon",
+        "B": "Uniform dispersion of active sites",
+        "C": "High metal utilization efficiency",
+        "D": "Fast mass transport",
+        "Answer": "B",
+        "Source": "The solvothermal method is conducive to form the coordination polymers and the uniform dispersion of the active sites."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the ORR catalytic performances of different composite catalysts.",
+        "Question": "What is the half-wave potential of the IPNCN-2\u2013850 composite catalysts for the oxygen reduction reaction (ORR)?",
+        "A": "0.84 V",
+        "B": "0.93 V",
+        "C": "0.96 V",
+        "D": "1.2 V",
+        "Answer": "A",
+        "Source": "The IPNCN-2\u2013850 composite catalysts showed excellent onset potentials of 0.93 V and half-wave potentials of 0.84 V."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the stability of the IPNCN composite catalysts.",
+        "Question": "What was the observed change in the half-potential after the stability test of the IPNCN-2\u2013850 composite catalysts?",
+        "A": "Small positive shift",
+        "B": "Large positive shift",
+        "C": "Small negative shift",
+        "D": "Large negative shift",
+        "Answer": "C",
+        "Source": "A small negative half-potential shift was observed after the stability test, further demonstrating the reliable stability of IPNCN-2\u2013850 as ORR electrocatalysts."
+    }
+}

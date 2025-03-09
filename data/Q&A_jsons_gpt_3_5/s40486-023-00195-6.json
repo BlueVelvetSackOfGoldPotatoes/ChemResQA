@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to evaluate the thermal conductivity ratio (TCR) of SWCNT-CuO/Water nanofluid using experimental data. The optimal artificial neural network (ANN) structure consisted of 2 hidden layers with specific numbers of neurons in each layer.",
+        "Question": "What was the optimal structure of the artificial neural network (ANN) used in the study?",
+        "A": "1 hidden layer with 3 neurons",
+        "B": "2 hidden layers with 5 neurons in the first layer and 7 neurons in the second layer",
+        "C": "3 hidden layers with 6 neurons in each layer",
+        "D": "4 hidden layers with 10 neurons in each layer",
+        "Answer": "B",
+        "Source": "the optimal structure was chosen, which consists of 2 hidden layers, the first layer with the optimal structure consisting of 5 neurons and the second layer containing 7 neurons."
+    },
+    "Question_2": {
+        "Context": "The study focused on increasing the accuracy and optimization of the ANN structure in estimating the thermal conductivity of nanofluids.",
+        "Question": "What was the training algorithm used for the artificial neural network (ANN) in the study?",
+        "A": "Backpropagation",
+        "B": "Lundberg-Marquardt algorithm (LMA)",
+        "C": "Genetic algorithm",
+        "D": "Gradient descent",
+        "Answer": "B",
+        "Source": "MLP network with Lundberg-Marquardt algorithm (LMA) was utilized to predict data (TCR) by ANN."
+    },
+    "Question_3": {
+        "Context": "The study compared the accuracy of artificial neural networks (ANNs) with other methods for estimating the properties of nanofluids.",
+        "Question": "What is one advantage of using artificial neural networks (ANNs) for modeling complex functions?",
+        "A": "High computational cost",
+        "B": "Low accuracy",
+        "C": "Ability to model nonlinear processes",
+        "D": "Limited applications",
+        "Answer": "C",
+        "Source": "ANNs are utilized in various scientific courts because of their high ability to reproduce and model nonlinear processes."
+    },
+    "Question_4": {
+        "Context": "The study emphasized the importance of artificial neural networks (ANNs) in estimating properties of nanofluids with high accuracy.",
+        "Question": "What is the primary application of artificial neural networks (ANNs) mentioned in the text?",
+        "A": "Modeling linear processes",
+        "B": "Modeling multivariate problems",
+        "C": "Modeling simple functions",
+        "D": "Modeling static systems",
+        "Answer": "B",
+        "Source": "One of the applications of ANNs is the ability to model multivariate problems to solve complex problems."
+    },
+    "Question_5": {
+        "Context": "The study highlighted the use of artificial neural networks (ANNs) in various scientific disciplines.",
+        "Question": "Which transfer function was considered on neurons in the latent layers of the artificial neural network (ANN) in the study?",
+        "A": "Sigmoid",
+        "B": "Tangent",
+        "C": "Linear",
+        "D": "Exponential",
+        "Answer": "A",
+        "Source": "Functions of sigmoid transfer were considered on neurons in the latent layers."
+    },
+    "Question_6": {
+        "Context": "The study discussed the accuracy of different artificial neural network (ANN) structures in modeling thermal conductivity of nanofluids.",
+        "Question": "What was the best value of the regression coefficient (R) achieved by the ANN in the study?",
+        "A": "0.998",
+        "B": "0.999",
+        "C": "0.9997",
+        "D": "0.9999",
+        "Answer": "B",
+        "Source": "The best value of R2 is 0.999903, which is related to the fourteenth structure in Table 3."
+    },
+    "Question_7": {
+        "Context": "The study compared the accuracy of artificial neural networks (ANNs) with mathematical correlations in predicting thermal conductivity of nanofluids.",
+        "Question": "What was the main conclusion drawn from the comparison between the ANN method and mathematical calculation data in the study?",
+        "A": "ANN method was less accurate",
+        "B": "Mathematical calculation data was more precise",
+        "C": "ANN method was more precise",
+        "D": "Both methods were equally accurate",
+        "Answer": "C",
+        "Source": "ANN simulation is more precise than computational data."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the error values in predicting the thermal conductivity ratio (TCR) of the hybrid nanofluid at different temperatures.",
+        "Question": "What was the maximum error range observed in predicting the TCR of the hybrid nanofluid?",
+        "A": "0.01 - 0.03",
+        "B": "-0.02 - 0.02",
+        "C": "-0.03 - 0.03",
+        "D": "-0.05 - 0.05",
+        "Answer": "B",
+        "Source": "According to Fig. 10, the maximum error is between 0.033 and \u2212 0.045."
+    },
+    "Question_9": {
+        "Context": "The study presented the histogram of TCR data errors for different stages in the artificial neural network (ANN).",
+        "Question": "Which stage had the least error with the highest frequency according to the histogram plot?",
+        "A": "Training stage",
+        "B": "Validation stage",
+        "C": "Test stage",
+        "D": "All stages had equal errors",
+        "Answer": "A",
+        "Source": "The least error with the highest frequency belongs to the training stage."
+    },
+    "Question_10": {
+        "Context": "The study discussed the margin of deviation (MOD) in forecasting the thermal conductivity ratio of the nanofluid.",
+        "Question": "What was the maximum MOD observed in the study?",
+        "A": "3.1%",
+        "B": "4.2%",
+        "C": "1.7%",
+        "D": "2.5%",
+        "Answer": "A",
+        "Source": "MOD doesn\u2019t exceed 3.1 to \u2212 3.8. The validation stage has the lowest MOD."
+    }
+}

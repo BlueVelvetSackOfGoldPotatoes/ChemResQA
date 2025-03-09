@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the diversity and colonization of arbuscular mycorrhizal fungi (AMF) in the National Tropical Fruit Tree Genebank. They aimed to understand the direct and indirect effects of host plants on AMF community dynamics.",
+        "Question": "What was the range of AMF spore densities found in the rhizosphere soil of the 12 tropical fruit trees?",
+        "A": "24.00 to 204.80 spores/100 g of dry soil",
+        "B": "50.00 to 150.00 spores/100 g of dry soil",
+        "C": "100.00 to 300.00 spores/100 g of dry soil",
+        "D": "10.00 to 100.00 spores/100 g of dry soil",
+        "Answer": "A",
+        "Source": "High-throughput sequencing identified 207 AMF virtual taxa (VTs) from 60 soil samples, with dominant taxa, including early-evolved Paraglomus fungi and ruderal AMF, being minimally affected by soil nutrient levels. Interestingly, there was no correlation between \u03b1 diversity and spore density. Despite their low colonization density and arbuscular abundance, all the tree roots harbored AMF, with spore densities ranging from 24.00 to 204.80 spores/100 g of dry soil."
+    },
+    "Question_2": {
+        "Context": "The study explored the intricate relationship between host plants and AMF in genebanks, offering insights for effective AMF resource management and informed conservation practices.",
+        "Question": "What was the predominant AMF family identified in the rhizosphere soils of the 12 tropical fruit trees?",
+        "A": "Glomeraceae",
+        "B": "Paraglomeraceae",
+        "C": "Claroideoglomeraceae",
+        "D": "Ambisporaceae",
+        "Answer": "A",
+        "Source": "The predominant AMF were primarily early-evolved Paraglomus fungi (31.619%) and ruderal AMF (56.848%). Despite the highly acidic and nutrient-rich conditions, a surprising diversity in the AMF communities was noted across the 12 fruit trees. Notably, no correlation was found between \u03b1 diversity and spore density."
+    },
+    "Question_3": {
+        "Context": "The study utilized high-throughput sequencing technology to assess the diversity of AMF communities in the rhizosphere soils of 12 tropical fruit trees.",
+        "Question": "What was the total number of AMF virtual taxa (VTs) identified from the soil samples?",
+        "A": "207",
+        "B": "100",
+        "C": "50",
+        "D": "300",
+        "Answer": "A",
+        "Source": "High-throughput sequencing identified 207 AMF virtual taxa (VTs) from 60 soil samples, with dominant taxa, including early-evolved Paraglomus fungi and ruderal AMF, being minimally affected by soil nutrient levels. Interestingly, there was no correlation between \u03b1 diversity and spore density."
+    },
+    "Question_4": {
+        "Context": "The study aimed to understand the impact of host plants on the AMF community composition, alpha diversity, spore density, and colonization status in the rhizosphere.",
+        "Question": "What was the primary impact of the evolutionary divergence time of host plants on the alpha diversity of the AMF communities?",
+        "A": "Direct and positive significant impact",
+        "B": "No impact",
+        "C": "Negative impact",
+        "D": "Indirect impact",
+        "Answer": "A",
+        "Source": "SEM indicated that the evolutionary divergence time of host plants directly influenced the three alpha diversity indices of the AMF community. Notably, the impact was particularly significant on the richness, with a path coefficient of 0.6816 and a significance level of P < 0.001."
+    },
+    "Question_5": {
+        "Context": "The study investigated the intricate relationship between host plants and AMF in genebanks, offering insights for effective AMF resource management and informed conservation practices.",
+        "Question": "What was the primary impact of the evolutionary divergence time of host plants on the AMF spore density in the rhizosphere?",
+        "A": "Direct correlation",
+        "B": "No correlation",
+        "C": "Negative correlation",
+        "D": "Indirect correlation",
+        "Answer": "C",
+        "Source": "Among the mycorrhizal colonization indices, only the abundance of arbuscular structures (A) exhibited a direct correlation with evolutionary divergence time, where the path coefficient was -0.3340 and the significance level was P < 0.05."
+    },
+    "Question_6": {
+        "Context": "The study aimed to understand the direct and indirect effects of host plants on AMF community dynamics, sporulation, and colonization in the National Tropical Fruit Tree Genebank.",
+        "Question": "What was the primary impact of the evolutionary divergence time of host plants on the AMF community structure in the rhizosphere?",
+        "A": "Direct impact",
+        "B": "No impact",
+        "C": "Negative impact",
+        "D": "Indirect impact",
+        "Answer": "B",
+        "Source": "However, neither evolutionary divergence times nor soil nutrients significantly affected the AMF community structure."
+    },
+    "Question_7": {
+        "Context": "The study explored the intricate relationship between host plants and AMF in genebanks, offering insights for effective AMF resource management and informed conservation practices.",
+        "Question": "What was the primary impact of host plants on the AMF community composition in the rhizosphere?",
+        "A": "Significant variation",
+        "B": "No variation",
+        "C": "Minimal variation",
+        "D": "Inconsistent variation",
+        "Answer": "C",
+        "Source": "The results distinctly demonstrated that each of these plant species harbors a unique AMF community structure. In stark contrast, plants that underwent earlier evolutionary divergence displayed no significant variation in their AMF community compositions."
+    },
+    "Question_8": {
+        "Context": "The study utilized high-throughput sequencing technology to assess the diversity of AMF communities in the rhizosphere soils of 12 tropical fruit trees.",
+        "Question": "What was the predominant AMF genus identified in the rhizosphere soils of the 12 tropical fruit trees?",
+        "A": "Paraglomus",
+        "B": "Rhizophagus",
+        "C": "Glomus",
+        "D": "Claroideoglomus",
+        "Answer": "C",
+        "Source": "At the genus level, the relative abundances of Paraglomus (31.619%), Rhizophagus (23.986%), Glomus (19.026%), and Claroideoglomus (5.484%) exceeded the threshold of 5%. The results of the PCA conducted at the family level highlighted a distinctive pattern."
+    },
+    "Question_9": {
+        "Context": "The study aimed to understand the direct and indirect effects of host plants on AMF community dynamics, sporulation, and colonization in the National Tropical Fruit Tree Genebank.",
+        "Question": "What was the primary impact of the evolutionary divergence time of host plants on the AMF spore density in the rhizosphere?",
+        "A": "Direct correlation",
+        "B": "No correlation",
+        "C": "Negative correlation",
+        "D": "Indirect correlation",
+        "Answer": "C",
+        "Source": "Among the mycorrhizal colonization indices, only the abundance of arbuscular structures (A) exhibited a direct correlation with evolutionary divergence time, where the path coefficient was -0.3340 and the significance level was P < 0.05."
+    },
+    "Question_10": {
+        "Context": "The study explored the intricate relationship between host plants and AMF in genebanks, offering insights for effective AMF resource management and informed conservation practices.",
+        "Question": "What was the primary impact of the evolutionary divergence time of host plants on the AMF community structure in the rhizosphere?",
+        "A": "Direct impact",
+        "B": "No impact",
+        "C": "Negative impact",
+        "D": "Indirect impact",
+        "Answer": "B",
+        "Source": "However, neither evolutionary divergence times nor soil nutrients significantly affected the AMF community structure."
+    }
+}

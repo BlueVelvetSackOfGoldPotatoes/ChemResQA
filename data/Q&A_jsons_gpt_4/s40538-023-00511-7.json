@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Fusarium solani is a pathogenic fungus that can cause root rot in various plants, leading to significant agricultural losses. Essential oils (EOs) from plants like Cymbopogon citratus have been identified to possess antifungal properties that can inhibit the growth of such fungi.",
+        "Question": "What is the main pathogen causing root rot of Panax notoginseng?",
+        "A": "Pseudomonas sp.",
+        "B": "Fusarium oxysporum",
+        "C": "Fusarium solani",
+        "D": "Rhizoctonia solani",
+        "Answer": "C",
+        "Source": "Fusarium solani (F. solani) is the main pathogen causing root rot of Panax notoginseng (Burk.) F. H. Chen (P. notoginseng)."
+    },
+    "Question_2": {
+        "Context": "Essential oils (EOs) are volatile, aromatic compounds extracted from plants. They are known for their antimicrobial properties, including antifungal effects. However, their hydrophobic nature can lead to low bioavailability when applied in agricultural settings.",
+        "Question": "What is a limitation of using Cymbopogon citratus essential oil (EO) directly for its antifungal effects?",
+        "A": "High cost of production",
+        "B": "Low bioavailability due to hydrophobicity",
+        "C": "Ineffectiveness against fungi",
+        "D": "Toxicity to plants",
+        "Answer": "B",
+        "Source": "Cymbopogon citratus (DC.) Stapf (C. citratus) essential oil (EO) is a mixture of various active ingredients with good antifungal effects and no residue. However, due to its hydrophobicity and oxidation, its bioavailability is low."
+    },
+    "Question_3": {
+        "Context": "Nanoemulsions are submicron-sized emulsions that are used to improve the delivery of hydrophobic compounds such as essential oils. They enhance the stability and bioavailability of the oils, making them more effective for various applications.",
+        "Question": "What technology was used to improve the bioavailability of Cymbopogon citratus essential oil?",
+        "A": "Ultrasonication",
+        "B": "Freeze-drying",
+        "C": "Lyophilization",
+        "D": "Centrifugation",
+        "Answer": "A",
+        "Source": "In this study, EO was made into a nanoemulsion using Tween-80 and anhydrous ethanol by ultrasonication."
+    },
+    "Question_4": {
+        "Context": "The stability of nanoemulsions is crucial for their effectiveness as delivery systems. Various factors such as temperature, pH, and light exposure can affect the stability of these formulations.",
+        "Question": "Which method was used to evaluate the stability of Cymbopogon citratus nanoemulsion?",
+        "A": "Spectrophotometry",
+        "B": "Turbidity measurement",
+        "C": "Viscosity analysis",
+        "D": "pH metering",
+        "Answer": "A",
+        "Source": "The stability of NEO was measured according to the reference [21] and with slight modification. The NEO was centrifuged, salt treated, acid\u2012base treated, high-low temperature treated, and light treated, and then the transmittance was measured before and after the treatment."
+    },
+    "Question_5": {
+        "Context": "Gas chromatography-mass spectrometry (GC-MS) is an analytical method that combines the features of gas chromatography and mass spectrometry to identify different substances within a test sample.",
+        "Question": "Which analytical technique was employed to analyze the components of Cymbopogon citratus essential oil and its emulsions?",
+        "A": "Nuclear magnetic resonance (NMR)",
+        "B": "Infrared spectroscopy (IR)",
+        "C": "High-performance liquid chromatography (HPLC)",
+        "D": "Gas chromatography-mass spectrometry (GC-MS)",
+        "Answer": "D",
+        "Source": "The components of EO, TEO, and NEO were analyzed by GC\u2012MS."
+    },
+    "Question_6": {
+        "Context": "The minimum inhibitory concentration (MIC) is the lowest concentration of an antimicrobial ingredient that prevents the visible growth of a microorganism after overnight incubation.",
+        "Question": "What is the term for the lowest concentration of an emulsion that inhibits the growth of Fusarium solani?",
+        "A": "Minimum effective concentration (MEC)",
+        "B": "Minimum inhibitory concentration (MIC)",
+        "C": "Minimum bactericidal concentration (MBC)",
+        "D": "Minimum fungicidal concentration (MFC)",
+        "Answer": "B",
+        "Source": "The minimum inhibitory concentration (MIC) of NEO and TEO was determined by the method published by our research group [12]."
+    },
+    "Question_7": {
+        "Context": "In the context of fungal pathogens, the germination of spores is a critical step in the life cycle, leading to the proliferation and spread of the fungus.",
+        "Question": "What process in Fusarium solani is inhibited by the Cymbopogon citratus nanoemulsion, affecting the growth of mycelia?",
+        "A": "Photosynthesis",
+        "B": "Spore germination",
+        "C": "Chlorophyll synthesis",
+        "D": "Root absorption",
+        "Answer": "B",
+        "Source": "NEO also inhibited the gene expression of the CYR1 enzyme and decreased the amount of d-trehalose, thus inhibiting the germination of spores and thereby affecting the growth of mycelia."
+    },
+    "Question_8": {
+        "Context": "The tricarboxylic acid (TCA) cycle, also known as the Krebs cycle, is a series of chemical reactions used by all aerobic organisms to generate energy.",
+        "Question": "Which metabolic cycle in Fusarium solani is affected by the emulsions based on Cymbopogon citratus essential oil?",
+        "A": "Calvin cycle",
+        "B": "Glyoxylate cycle",
+        "C": "Urea cycle",
+        "D": "Tricarboxylic acid (TCA) cycle",
+        "Answer": "D",
+        "Source": "Through transcriptomic and metabolomic analyses, it was found that both NEO and TEO inhibited the fungi by destroying the cell membrane, thereby affecting the ribosome, meiosis and TCA cycle of the fungi."
+    },
+    "Question_9": {
+        "Context": "Meiosis is a process that results in the formation of haploid cells from a diploid cell, which is essential for sexual reproduction in eukaryotes.",
+        "Question": "What cellular process related to reproduction is disrupted in Fusarium solani by the emulsions containing Cymbopogon citratus essential oil?",
+        "A": "Mitosis",
+        "B": "Binary fission",
+        "C": "Budding",
+        "D": "Meiosis",
+        "Answer": "D",
+        "Source": "Through transcriptomic and metabolomic analyses, it was found that both NEO and TEO inhibited the fungi by destroying the cell membrane, thereby affecting the ribosome, meiosis and TCA cycle of the fungi."
+    },
+    "Question_10": {
+        "Context": "Ribosomes are the molecular machines within cells that synthesize proteins by translating messenger RNA into polypeptide chains.",
+        "Question": "What cellular structure involved in protein synthesis is affected by the emulsions derived from Cymbopogon citratus essential oil in Fusarium solani?",
+        "A": "Golgi apparatus",
+        "B": "Endoplasmic reticulum",
+        "C": "Ribosome",
+        "D": "Mitochondrion",
+        "Answer": "C",
+        "Source": "Through transcriptomic and metabolomic analyses, it was found that both NEO and TEO inhibited the fungi by destroying the cell membrane, thereby affecting the ribosome, meiosis and TCA cycle of the fungi."
+    }
+}

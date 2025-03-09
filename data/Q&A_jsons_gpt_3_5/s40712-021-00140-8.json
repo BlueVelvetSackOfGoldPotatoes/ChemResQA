@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on investigating the effect of high energy ball milling (HEBM) parameters on the crystallite size of CaCO3. The Taguchi method was used for optimization.",
+        "Question": "Which parameter was found to be the most effective in influencing the crystallite size of CaCO3?",
+        "A": "Milling time (MT)",
+        "B": "Milling speed (MS)",
+        "C": "Ball to powder weight ratio (BPWR)",
+        "D": "Size of balls",
+        "Answer": "A",
+        "Source": "It was established that the MT is the most effective parameter followed by MS and BPWR."
+    },
+    "Question_2": {
+        "Context": "The study aimed to determine the effect of HEBM parameters on the crystallite sizes of CaCO3 powder using the Taguchi method.",
+        "Question": "What is the significance of the Taguchi method in this study?",
+        "A": "It simplifies the experimental parameter combinations.",
+        "B": "It provides a complex factorial method for testing all possible combinations.",
+        "C": "It focuses on the interaction effects between parameters.",
+        "D": "It is used for determining the crystal structure of CaCO3.",
+        "Answer": "A",
+        "Source": "Compared to the factorial method, instead of testing all possible combinations of parameters available, the Taguchi method provides a more simplified way to set up the combination of experimental parameters."
+    },
+    "Question_3": {
+        "Context": "The study utilized the L9 orthogonal array for the experiments to optimize the HEBM process variables of CaCO3.",
+        "Question": "How many degrees of freedom were considered in the Taguchi methodology for this study?",
+        "A": "7",
+        "B": "9",
+        "C": "3",
+        "D": "5",
+        "Answer": "A",
+        "Source": "The number of experimental trials must be equal to or larger than the DOF for performing experiments in process optimization. The most appropriate OA in this case is L9 (33)."
+    },
+    "Question_4": {
+        "Context": "The study investigated the crystallite size of CaCO3 powder under different HEBM conditions using the Taguchi method.",
+        "Question": "Which parameter had the smallest effect on the crystallite size of CaCO3?",
+        "A": "Milling time (MT)",
+        "B": "Milling speed (MS)",
+        "C": "Ball to powder weight ratio (BPWR)",
+        "D": "Size of balls",
+        "Answer": "C",
+        "Source": "From the point of the 'smaller the better' quality characteristic, the MT has the largest effect on the CaCO3 crystallite size, while BPWR has the smallest effect."
+    },
+    "Question_5": {
+        "Context": "The study utilized the Taguchi method and ANOVA to determine the optimal HEBM parameters for CaCO3 crystallite size.",
+        "Question": "What does ANOVA stand for in this study?",
+        "A": "Analysis of Variance",
+        "B": "Advanced Numerical Optimization and Validation Analysis",
+        "C": "Association of Variables and Attributes",
+        "D": "Analysis of Variable Attributes",
+        "Answer": "A",
+        "Source": "ANOVA is employed to determine statistically significant parameters."
+    },
+    "Question_6": {
+        "Context": "The study used the Taguchi method and ANOVA to analyze the effect of process parameters on the crystallite size of CaCO3.",
+        "Question": "Which parameter had the highest percentage contribution to the crystallite size of CaCO3?",
+        "A": "Milling time (MT)",
+        "B": "Milling speed (MS)",
+        "C": "Ball to powder weight ratio (BPWR)",
+        "D": "Size of balls",
+        "Answer": "A",
+        "Source": "From the results of ANOVA for CaCO3 crystallite size, the MT was found to have a contribution of 32.46%."
+    },
+    "Question_7": {
+        "Context": "The study focused on optimizing the HEBM process variables for CaCO3 using the Taguchi method and ANOVA.",
+        "Question": "What was the predicted crystallite size at the optimal levels of milling parameters?",
+        "A": "77.03 nm",
+        "B": "136.51 nm",
+        "C": "115 nm",
+        "D": "122.69 nm",
+        "Answer": "A",
+        "Source": "According to these values, the crystallite size was computed as 77.03 nm."
+    },
+    "Question_8": {
+        "Context": "The study conducted confirmation tests to validate the optimized conditions for the crystallite size of CaCO3.",
+        "Question": "What was the average CaCO3 crystallite size found in the confirmation tests?",
+        "A": "77.03 nm",
+        "B": "136.51 nm",
+        "C": "115 nm",
+        "D": "122.69 nm",
+        "Answer": "C",
+        "Source": "The average CaCO3 crystallite size was found to be 115 nm."
+    },
+    "Question_9": {
+        "Context": "The study utilized the Taguchi method and ANOVA to determine the optimal HEBM parameters for CaCO3 crystallite size.",
+        "Question": "What was the confidence interval for the predicted optimal CaCO3 crystallite size?",
+        "A": "17.55 - 136.51 nm",
+        "B": "77.03 - 59.48 nm",
+        "C": "122.69 - 90% nm",
+        "D": "115 - 90% nm",
+        "Answer": "A",
+        "Source": "The CI at 90% confidence level is calculated to be \u00b1 59.48. Thus, with 90% confidence level, the estimated optimal CaCO3 crystallite size is (77.03 \u00b1 59.48) nm\u2014i.e., the confirmation result should be within 17.55 and 136.51 nm."
+    },
+    "Question_10": {
+        "Context": "The study aimed to optimize the HEBM process variables for CaCO3 using the Taguchi method and ANOVA.",
+        "Question": "What was the main goal of the confirmation tests conducted in this study?",
+        "A": "To validate the optimized conditions",
+        "B": "To determine the initial crystallite size",
+        "C": "To compare different milling techniques",
+        "D": "To analyze the effect of temperature on crystallite size",
+        "Answer": "A",
+        "Source": "With the Taguchi optimization methodology, a confirmation test is required to validate the optimized condition."
+    }
+}

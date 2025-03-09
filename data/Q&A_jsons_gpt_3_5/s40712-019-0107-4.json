@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the deformation in transversely isotropic thermoelastic thin circular plates under different boundary conditions.",
+        "Question": "What techniques were used to find the solution to the problem in the study?",
+        "A": "Fourier transform",
+        "B": "Laplace and Hankel transform",
+        "C": "Wavelet transform",
+        "D": "Radon transform",
+        "Answer": "B",
+        "Source": "The Laplace and Hankel transform techniques have been used to find the solution to the problem."
+    },
+    "Question_2": {
+        "Context": "The study discusses the classification of plates based on their aspect ratio.",
+        "Question": "How are plates classified according to their aspect ratio?",
+        "A": "Based on their thickness",
+        "B": "Based on their diameter",
+        "C": "Based on their aspect ratio",
+        "D": "Based on their material composition",
+        "Answer": "C",
+        "Source": "Plates can be classified into three categories: membranes, thin plates, and thick plates depending upon the aspect ratio."
+    },
+    "Question_3": {
+        "Context": "The study mentions the authors who worked on different theories of thermoelasticity.",
+        "Question": "Which authors worked on different theories of thermoelasticity?",
+        "A": "Zhao and Ventsel",
+        "B": "Tripathi and Warbhe",
+        "C": "Bhad and Varghese",
+        "D": "Marin and Lata",
+        "Answer": "D",
+        "Source": "Authors such as Marin, Hassan, Ellahi, Alamri, and Lata worked on different theories of thermoelasticity."
+    },
+    "Question_4": {
+        "Context": "The study discusses the constitutive relations and field equations for an anisotropic thermoelastic medium.",
+        "Question": "What is the equation of motion for a uniformly rotating medium with an angular velocity \u03a9?",
+        "A": "tij = \u03c1 \u20acui",
+        "B": "tij,j = \u03c1 \u20acui + \u03a9 \ufffd \u03a9 \ufffd u",
+        "C": "K\ufffd ij + Kij \u2202 \u2202t \ufffd \ufffd \u03c6;ij = 1 + \u03c40 \u2202 \u2202t \ufffd \ufffd \u03b2ijT 0\u02d9eij",
+        "D": "tij = Cijklekl\u2212\u03b2ijT",
+        "Answer": "B",
+        "Source": "The equation of motion for a uniformly rotating medium with an angular velocity \u03a9 is: tij,j = \u03c1 \u20acui + \u03a9 \ufffd \u03a9 \ufffd u"
+    },
+    "Question_5": {
+        "Context": "The study discusses the method and formulation of the problem for a transversely isotropic thin circular plate.",
+        "Question": "What type of coordinates are used in the problem formulation?",
+        "A": "Cartesian coordinates",
+        "B": "Spherical coordinates",
+        "C": "Cylindrical coordinates",
+        "D": "Polar coordinates",
+        "Answer": "C",
+        "Source": "We use plane cylindrical coordinates (r, \u03b8, z) with the centre of the plate as the origin."
+    },
+    "Question_6": {
+        "Context": "The study mentions the particular cases considered in the research.",
+        "Question": "What happens if K \ufffd ij = 0 and \u03c40 = 0?",
+        "A": "Results for classical coupled thermoelasticity",
+        "B": "Results for TIT thin plate without rotation",
+        "C": "Results for TIT thin plate with and without energy dissipation",
+        "D": "Results for isotropic rotating thin plate",
+        "Answer": "A",
+        "Source": "If K \ufffd ij = 0 and \u03c40 = 0, then Eqs. give results for TIT thin plate for classical coupled thermoelasticity."
+    },
+    "Question_7": {
+        "Context": "The study discusses the applications of the theoretical results obtained.",
+        "Question": "What devices or structures can the obtained results be applied to in engineering applications?",
+        "A": "Cars and airplanes",
+        "B": "Pressure sensors and microphones",
+        "C": "Mobile phones and laptops",
+        "D": "Refrigerators and washing machines",
+        "Answer": "B",
+        "Source": "The temperature, displacement, and thermal stresses that are obtained can be applied to the design of pressure sensors, microphones, gas flow meters, optical telescopes, radar antennae, and many other device structures or machines in engineering applications."
+    },
+    "Question_8": {
+        "Context": "The study discusses the numerical results and discussions related to the thermoelastic problem.",
+        "Question": "What material was chosen for the numerical calculations in the study?",
+        "A": "Aluminum",
+        "B": "Cobalt",
+        "C": "Steel",
+        "D": "Copper",
+        "Answer": "B",
+        "Source": "For the numerical results, cobalt material has been taken for thermoelastic material from Dhaliwal and Singh (1980)."
+    },
+    "Question_9": {
+        "Context": "The study concludes with a summary of the findings.",
+        "Question": "What was one of the conclusions drawn from the study?",
+        "A": "The series solution given here may not be convergent",
+        "B": "The temperature, displacement, and stresses obtained can be applied to various engineering applications",
+        "C": "The study focused on theoretical aspects only without practical applications",
+        "D": "The results obtained were not applicable to any real-world scenarios",
+        "Answer": "B",
+        "Source": "The temperature, displacement, and thermal stresses that are obtained can be applied to the design of pressure sensors, microphones, gas flow meters, optical telescopes, radar antennae, and many other device structures or machines in engineering applications."
+    },
+    "Question_10": {
+        "Context": "The study discusses the effect of rotation and boundary conditions on the thermoelastic problem.",
+        "Question": "What effect does rotation have on the displacement component in the study?",
+        "A": "Rotation has no effect on the displacement component",
+        "B": "Rotation causes more variations in the displacement component",
+        "C": "Rotation decreases the displacement component",
+        "D": "Rotation increases the displacement component",
+        "Answer": "B",
+        "Source": "We can see that the rotation has a significant effect on the displacement component as there are more variations in u in case of rotation as compared to when rotation is zero."
+    }
+}

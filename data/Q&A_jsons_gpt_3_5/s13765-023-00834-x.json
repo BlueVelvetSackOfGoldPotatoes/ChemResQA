@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to isolate a fungal species with high Cr tolerance capacity for biosorption. The filamentous fungus Purpureocillium lilacinum showed maximum tolerance against Cr (VI) with a tolerance index of 1.19 \u00b1 0.23. The study also investigated the influence of different carbon and nitrogen sources on P. lilacinus growth.",
+        "Question": "What was the tolerance index of Purpureocillium lilacinum against Cr (VI)?",
+        "A": "0.61 \u00b1 0.10",
+        "B": "0.42 \u00b1 0.17",
+        "C": "0.75 \u00b1 0.09",
+        "D": "1.19 \u00b1 0.23",
+        "Answer": "D",
+        "Source": "Among the fungal species isolated from the Cr (VI) contaminated soil sample, the filamentous fungus of Ophiocordycipitaceae family, Purpureocillium lilacinum was identified using molecular sequencing technique, showed maximum tolerance against Cr (VI) with a tolerance index of 1.19 \u00b1 0.23."
+    },
+    "Question_2": {
+        "Context": "The study investigated the influence of different carbon and nitrogen sources on P. lilacinus growth. Glucose was identified as the most preferred carbon source for P. lilacinus.",
+        "Question": "Which carbon source was identified as the most preferred for P. lilacinus growth?",
+        "A": "Fructose",
+        "B": "Sucrose",
+        "C": "Maltose",
+        "D": "Glucose",
+        "Answer": "D",
+        "Source": "The results explicated that glucose was the most preferred carbon source for P. lilacinus."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the influence of different nitrogen sources on P. lilacinus growth. Yeast extract was identified as the most preferred nitrogen source for P. lilacinus.",
+        "Question": "Which nitrogen source was identified as the most preferred for P. lilacinus growth?",
+        "A": "Peptone",
+        "B": "Tryptone",
+        "C": "Yeast extract",
+        "D": "None of the above",
+        "Answer": "C",
+        "Source": "While comparing the usage of fungi as bio-sorbents to that of algae and plants, it is easy to cultivate in large quantities of fungal biomass, which can be produced utilizing with simple processing techniques at low cost."
+    },
+    "Question_4": {
+        "Context": "The study investigated the influence of pH on P. lilacinus growth. The biomass concentration of P. lilacinus increased constantly with increasing pH and attained a maximum at pH 6.0.",
+        "Question": "At what pH did P. lilacinus attain the maximum biomass concentration?",
+        "A": "5.0",
+        "B": "6.0",
+        "C": "7.0",
+        "D": "8.0",
+        "Answer": "B",
+        "Source": "The biomass of P. lilacinus concentration increased constantly with increasing pH and attained a maximum of 12.88 \u00b1 1.15 g/L at pH of 6.0."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the influence of temperature on P. lilacinus growth. The biomass concentration of P. lilacinus reached the highest at 26\u00b0C.",
+        "Question": "At what temperature did P. lilacinus reach the highest biomass concentration?",
+        "A": "20\u00b0C",
+        "B": "24\u00b0C",
+        "C": "26\u00b0C",
+        "D": "30\u00b0C",
+        "Answer": "C",
+        "Source": "From the results, while the temperature increased, the biomass concentration of P. lilacinus also found to be increased and reached the highest biomass concentration of 12.82 \u00b1 0.66 g/L at 26 \u00b0C."
+    },
+    "Question_6": {
+        "Context": "The study investigated the influence of Cr (VI) concentration on P. lilacinus growth. The biomass concentration of P. lilacinus considerably declined with increasing concentration of K2Cr2O7.",
+        "Question": "How did the biomass concentration of P. lilacinus change with increasing K2Cr2O7 concentration?",
+        "A": "Increased",
+        "B": "Decreased",
+        "C": "Remained constant",
+        "D": "Fluctuated",
+        "Answer": "B",
+        "Source": "It was found that the biomass concentration of P. lilacinus considerably declined with increasing concentration of K2Cr2O7."
+    },
+    "Question_7": {
+        "Context": "The study utilized Plackett Burman Design to evaluate the effect of various independent variables on the growth of P. lilacinus. The concentration of K2Cr2O7 significantly affected the growth of P. lilacinus.",
+        "Question": "Which independent variable had the greatest effect on the growth of P. lilacinus?",
+        "A": "Glucose concentration",
+        "B": "Yeast extract concentration",
+        "C": "K2Cr2O7 concentration",
+        "D": "pH",
+        "Answer": "C",
+        "Source": "Among all the studied independent variables, the concentration of K2Cr2O7 had affected the growth of P. lilacinus significantly."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the FTIR spectra of heat inactivated biomass before and after Cr (VI) biosorption. The spectra showed shifts in absorption peaks attributed to functional groups involved in biosorption.",
+        "Question": "Which functional groups were significantly involved in the biosorption process according to the FTIR spectra analysis?",
+        "A": "-NH groups, hydroxyl groups (\u2013OH), carboxylate anions (COO-), carbonyl groups (\u2013CO)",
+        "B": "-SO3 groups, phosphate group (P\u2013OH and P=O and stretching)",
+        "C": "-NH groups, phosphate group (P\u2013OH and P=O and stretching)",
+        "D": "-OH groups, carbonyl groups (\u2013CO), phosphate group (P\u2013OH and P=O and stretching)",
+        "Answer": "A",
+        "Source": "From the analysis of biomass, shifted broad bands found at 3580, 1830 and 1400 cm\u22121 while compared with Cr (VI) laden biomass which showed the approximately same absorption at 3620, 1890 and 1370 cm\u22121. These were attributed to \u2013NH groups, hydroxyl groups (\u2013OH), carboxylate anions (COO-) and carbonyl groups (\u2013CO)."
+    },
+    "Question_9": {
+        "Context": "The study conducted EDAX analysis before and after Cr (VI) biosorption onto heat inactivated biomass. The analysis confirmed the presence of Cr (VI) in the biomass.",
+        "Question": "What did the EDAX analysis confirm regarding the presence of Cr (VI) in the heat inactivated biomass?",
+        "A": "No presence of Cr (VI)",
+        "B": "Presence of Cr (VI) before biosorption",
+        "C": "Presence of Cr (VI) after biosorption",
+        "D": "Presence of Cr (VI) both before and after biosorption",
+        "Answer": "D",
+        "Source": "This analysis confirmed the significant amount of Cr (VI) absorption which revealed with Cr (VI) signals."
+    },
+    "Question_10": {
+        "Context": "The study aimed to isolate a Cr tolerant fungal species for biosorption. The selected fungal isolate, Purpureocillium lilacinum, showed potential for effective bioremediation of chromium-contaminated sites.",
+        "Question": "What was the selected fungal isolate's potential for employing effective bioremediation of chromium-contaminated sites?",
+        "A": "Low potential",
+        "B": "Moderate potential",
+        "C": "High potential",
+        "D": "No potential",
+        "Answer": "C",
+        "Source": "In addition, P. lilacinus isolate was identified to survive in high concentrations of Cr (VI), indicating its potential for employing effective bioremediation of chromium-contaminated site."
+    }
+}

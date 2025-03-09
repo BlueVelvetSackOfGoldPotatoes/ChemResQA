@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Carbon nanotubes (CNTs) and graphene are carbon nanomaterials with a hexagonal lattice of sp2-hybridized carbon atoms. They are known for their exceptional mechanical, electrical, thermal, and optical properties, which make them suitable for various applications including electronics and sensors.",
+        "Question": "What dimensional shape do carbon nanotubes (CNTs) and graphene have, respectively?",
+        "A": "CNTs are 2D and graphene is 1D",
+        "B": "CNTs are 1D and graphene is 2D",
+        "C": "Both CNTs and graphene are 1D",
+        "D": "Both CNTs and graphene are 2D",
+        "Answer": "B",
+        "Source": "They are classified into one-dimensional (1D) carbon nanotubes (CNTs) and two-dimensional (2D) graphene according to their dimensional shape."
+    },
+    "Question_2": {
+        "Context": "The mechanical properties of carbon nanotube-based structures have been experimentally measured, revealing a wide range of Young's modulus values. The Young's modulus is a measure of a material's ability to withstand changes in length when under lengthwise tension or compression.",
+        "Question": "What is the range of experimentally measured Young's modulus for CNT-family materials?",
+        "A": "4.7 GPa to 1 TPa",
+        "B": "71 MPa to 200 GPa",
+        "C": "31.7 GPa to 1 TPa",
+        "D": "223 to 130 GPa",
+        "Answer": "A",
+        "Source": "The experimentally measured Young\u2019s modulus of CNT-family materials ranges from 4.7 GPa to 1 TPa, depending on the size scale of the structured material and measurement methods."
+    },
+    "Question_3": {
+        "Context": "Graphene is a two-dimensional carbon nanomaterial with exceptional mechanical properties, which have been widely tested in various structural forms.",
+        "Question": "What is the experimentally measured range of tensile strength for graphene?",
+        "A": "4.7 GPa to 1 TPa",
+        "B": "71 MPa to 200 GPa",
+        "C": "31.7 GPa to 1 TPa",
+        "D": "223 to 130 GPa",
+        "Answer": "D",
+        "Source": "Experimental reports have shown that the tensile strength of graphene can range between 223 and 130 GPa."
+    },
+    "Question_4": {
+        "Context": "In the development of soft electronics, the mechanical flexibility and stretchability of electronic materials are crucial considerations alongside their electrical performance.",
+        "Question": "Why are metal and doped Si thin films generally unsuitable for soft electronics?",
+        "A": "Due to their high cost",
+        "B": "Because of their insufficient flexibility",
+        "C": "Owing to their low electrical conductivity",
+        "D": "Because they are not transparent",
+        "Answer": "B",
+        "Source": "Metal and doped Si thin films (the most widely used electronic materials) are unsuitable for such devices, owing to their insufficient flexibility."
+    },
+    "Question_5": {
+        "Context": "Carbon nanotube-graphene hybrids are being investigated for use in flexible and stretchable electrodes, which are essential components in various electronic devices.",
+        "Question": "What is the advantage of using a CNT-graphene hybrid structure for flexible and stretchable electrodes?",
+        "A": "It increases the weight of the electrodes",
+        "B": "It reduces the flexibility of the electrodes",
+        "C": "It retains conductivity at a substantial strain level without significant changes in electrical transport properties",
+        "D": "It makes the electrodes rigid and brittle",
+        "Answer": "C",
+        "Source": "The combination of 1D metallic CNTs and 2D graphene is ideal for achieving these attributes; thus, extensive research has been conducted on developing flexible and stretchable electrodes based on CNT\u2013graphene hybrids."
+    },
+    "Question_6": {
+        "Context": "Field-effect transistors (FETs) are a type of transistor that includes active channels, electrodes, and gate dielectrics. For soft electronics, all components of transistors must be flexible or stretchable.",
+        "Question": "What makes CNT-graphene hybrids particularly advantageous for use in flexible and stretchable field-effect transistors (FETs)?",
+        "A": "Their high cost and complex manufacturing process",
+        "B": "The high mobility and on\u2013off ratio of semiconducting CNTs",
+        "C": "Their rigid structure and brittleness",
+        "D": "The low aspect ratio of the CNTs",
+        "Answer": "B",
+        "Source": "The high mobility and on\u2013off ratio of semiconducting CNTs make them an excellent active-channel material for soft electronics."
+    },
+    "Question_7": {
+        "Context": "Wearable electronics require flexible and stretchable physical sensors that can detect changes in pressure and strain with high sensitivity and a wide sensing range.",
+        "Question": "What limitation do conventional physical sensors based on thin films and nanowires typically exhibit?",
+        "A": "A narrow sensing range and/or low sensitivity",
+        "B": "High sensitivity and a wide sensing range",
+        "C": "High cost and complexity",
+        "D": "Extreme durability and robustness",
+        "Answer": "A",
+        "Source": "However, conventional physical sensors based on thin films and nanowires exhibit insufficient performance for practical applications, such as by having a narrow sensing range and/or low sensitivity."
+    },
+    "Question_8": {
+        "Context": "Soft actuators are critical for applications in soft robotics and bionics, and the integration of carbon nanomaterials into elastomers can provide new functionalities for these devices.",
+        "Question": "What is one of the expected benefits of integrating carbon nanomaterials into elastomers for soft actuators?",
+        "A": "Decreased actuation displacement",
+        "B": "Reduced sensitivity and sensing range",
+        "C": "Improved device performance such as in sensitivity, sensing range, and actuation displacement",
+        "D": "Increased weight and reduced flexibility",
+        "Answer": "C",
+        "Source": "Hybrids of CNT and graphene could complement each other, resulting in improved device performance, e.g., in regards to sensitivity, sensing range, and actuation displacement."
+    },
+    "Question_9": {
+        "Context": "The development of soft devices often involves the integration of multiple components, including electronics, sensors, and actuators, into a single system.",
+        "Question": "What is a significant challenge in realizing a standalone soft device?",
+        "A": "The development of manufacturing and packaging processes for integrating all components into a single system",
+        "B": "Finding applications for the soft devices",
+        "C": "Reducing the electrical conductivity of the components",
+        "D": "Increasing the rigidity of the soft devices",
+        "Answer": "A",
+        "Source": "To realize a standalone soft device, the development of manufacturing and packaging processes for integrating all components (such as electronics, sensors, and actuators) into a single system is another important challenge."
+    },
+    "Question_10": {
+        "Context": "Carbon nanotube (CNT) and graphene hybrids are being explored for their potential to enhance the properties and performance of various devices, including soft electronics, sensors, and actuators.",
+        "Question": "What is the primary reason for combining 1D CNTs and 2D graphene in hybrid materials?",
+        "A": "To increase the complexity of the devices",
+        "B": "To reduce the electrical conductivity of the devices",
+        "C": "To improve the mechanical strength and reduce contact resistance",
+        "D": "To make the devices heavier and less flexible",
+        "Answer": "C",
+        "Source": "CNTs and graphene have intimate lattice structures beneficial for minimizing contact resistance and reinforcing mechanical strength when forming heterostructures."
+    }
+}

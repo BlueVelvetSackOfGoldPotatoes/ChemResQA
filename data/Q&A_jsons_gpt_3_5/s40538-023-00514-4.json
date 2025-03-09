@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Compounds 1, 2, and 3 were tested for their inactivation efficacy against TMV at a concentration of 50 \u03bcg/mL. The results showed that compound 1 had an inactivation efficacy of 58.9%.",
+        "Question": "Which compound exhibited the highest inactivation efficacy against TMV?",
+        "A": "Compound 1",
+        "B": "Compound 2",
+        "C": "Compound 3",
+        "D": "Ningnanmycin",
+        "Answer": "A",
+        "Source": "The results indicated that compounds 1, 2, and 3 exhibited notable protective effects at a concentration of 50 \u03bcg/mL, with inhibition rates of 62.3% \u00b1 4.7, 48.6% \u00b1 3.2, and 54.5% \u00b1 4.5, respectively. These rates were better than that of ningnanmycin."
+    },
+    "Question_2": {
+        "Context": "The protective effects of compounds 1, 2, and 3 were tested at a concentration of 50 \u03bcg/mL. Compound 1 showed an inhibition rate of 62.3%.",
+        "Question": "Which compound exhibited the highest protective effect against TMV?",
+        "A": "Compound 1",
+        "B": "Compound 2",
+        "C": "Compound 3",
+        "D": "Ningnanmycin",
+        "Answer": "A",
+        "Source": "The results indicated that compounds 1, 2, and 3 exhibited notable protective effects at a concentration of 50 \u03bcg/mL, with inhibition rates of 62.3% \u00b1 4.7, 48.6% \u00b1 3.2, and 54.5% \u00b1 4.5, respectively. These rates were better than that of ningnanmycin."
+    },
+    "Question_3": {
+        "Context": "The curative effects of compound 1 and ningnanmycin were tested on TMV-infected flue-cured tobacco plants. Compound 1 showed a better curative effect compared to ningnanmycin.",
+        "Question": "Which treatment showed a better curative effect on TMV-infected tobacco plants?",
+        "A": "Compound 1",
+        "B": "Ningnanmycin",
+        "C": "Both had similar effects",
+        "D": "Neither had a significant effect",
+        "Answer": "A",
+        "Source": "After treatment with compound 1, the lesions were obviously further reduced compared with those after treatment with ningnanmycin. There was only a small amount of lesion observed on the newly grown leaves."
+    },
+    "Question_4": {
+        "Context": "The study evaluated the antiviral activities of compounds 1, 2, and 3 against TMV. Compound 2 exhibited an inactivation efficacy of 43.8%.",
+        "Question": "Which compound showed a slightly better inactivation efficacy than the positive control, ningnanmycin?",
+        "A": "Compound 1",
+        "B": "Compound 2",
+        "C": "Compound 3",
+        "D": "Ningnanmycin",
+        "Answer": "B",
+        "Source": "As a result, antiviral activity of compound 2 with inactivation efficacy of 43.8% \u00b1 3.5 was slightly better than that of positive control, ningnanmycin (37.6% \u00b1 3.8), a widely used commercial antiviral agent in China."
+    },
+    "Question_5": {
+        "Context": "The protective effects of compounds 1, 2, and 3 were tested at a concentration of 50 \u03bcg/mL. Compound 3 exhibited an inhibition rate of 54.5%.",
+        "Question": "Which compound exhibited the second-highest protective effect against TMV?",
+        "A": "Compound 1",
+        "B": "Compound 2",
+        "C": "Compound 3",
+        "D": "Ningnanmycin",
+        "Answer": "C",
+        "Source": "The results indicated that compounds 1, 2, and 3 exhibited notable protective effects at a concentration of 50 \u03bcg/mL, with inhibition rates of 62.3% \u00b1 4.7, 48.6% \u00b1 3.2, and 54.5% \u00b1 4.5, respectively. These rates were better than that of ningnanmycin."
+    },
+    "Question_6": {
+        "Context": "The study compared the antiviral activities of compounds 1, 2, and 3 against TMV. Compound 3 showed an inhibition rate of 52.6%.",
+        "Question": "Which compound exhibited the lowest antiviral activity against TMV?",
+        "A": "Compound 1",
+        "B": "Compound 2",
+        "C": "Compound 3",
+        "D": "Ningnanmycin",
+        "Answer": "C",
+        "Source": "Interestingly, compounds 1 and 3 exhibited potent antiviral activities against TMV with inhibition rates of 58.9% \u00b1 4.0 and 52.6% \u00b1 3.9 at a concentration of 50 \u03bcg/mL, respectively, and these rates are higher than that of positive control."
+    },
+    "Question_7": {
+        "Context": "The curative effects of compound 2 and ningnanmycin were tested on TMV-infected tobacco plants. Compound 2 showed a moderate curative effect.",
+        "Question": "Which treatment exhibited a slightly better curative effect on TMV-infected tobacco plants?",
+        "A": "Compound 2",
+        "B": "Ningnanmycin",
+        "C": "Both had similar effects",
+        "D": "Neither had a significant effect",
+        "Answer": "A",
+        "Source": "As a result, antiviral activity of compound 2 with inactivation efficacy of 43.8% \u00b1 3.5 was slightly better than that of positive control, ningnanmycin (37.6% \u00b1 3.8), a widely used commercial antiviral agent in China."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the protective effects of compounds 1, 2, and 3 against TMV. Compound 2 exhibited an inhibition rate of 48.6%.",
+        "Question": "Which compound showed the lowest protective effect against TMV?",
+        "A": "Compound 1",
+        "B": "Compound 2",
+        "C": "Compound 3",
+        "D": "Ningnanmycin",
+        "Answer": "B",
+        "Source": "The results indicated that compounds 1, 2, and 3 exhibited notable protective effects at a concentration of 50 \u03bcg/mL, with inhibition rates of 62.3% \u00b1 4.7, 48.6% \u00b1 3.2, and 54.5% \u00b1 4.5, respectively. These rates were better than that of ningnanmycin."
+    },
+    "Question_9": {
+        "Context": "The antiviral activities of compounds 1, 2, and 3 against TMV were evaluated. Compound 1 showed an inhibition rate of 58.9%.",
+        "Question": "Which compound exhibited the highest antiviral activity against TMV?",
+        "A": "Compound 1",
+        "B": "Compound 2",
+        "C": "Compound 3",
+        "D": "Ningnanmycin",
+        "Answer": "A",
+        "Source": "Interestingly, compounds 1 and 3 exhibited potent antiviral activities against TMV with inhibition rates of 58.9% \u00b1 4.0 and 52.6% \u00b1 3.9 at a concentration of 50 \u03bcg/mL, respectively, and these rates are higher than that of positive control."
+    },
+    "Question_10": {
+        "Context": "The curative effects of compound 3 and ningnanmycin were tested on TMV-infected tobacco plants. Compound 3 showed a moderate curative effect.",
+        "Question": "Which treatment exhibited a slightly better curative effect on TMV-infected tobacco plants?",
+        "A": "Compound 3",
+        "B": "Ningnanmycin",
+        "C": "Both had similar effects",
+        "D": "Neither had a significant effect",
+        "Answer": "A",
+        "Source": "After treatment with compound 1, the lesions were obviously further reduced compared with those after treatment with ningnanmycin. There was only a small amount of lesion observed on the newly grown leaves."
+    }
+}

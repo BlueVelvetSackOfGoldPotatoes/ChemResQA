@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses strain energy decomposition methods in phase field fracture models and evaluates their performance with benchmark problems. In the first benchmark, the predicted mechanical behavior of cracked material is compared.",
+        "Question": "What is the goal of the work described in the paper?",
+        "A": "To assess the performance of strain decomposition methods",
+        "B": "To develop a new strain energy decomposition method",
+        "C": "To compare the performance of different fracture models",
+        "D": "To study the impact of stress decomposition on fracture behavior",
+        "Answer": "A",
+        "Source": "The goal of this work is to facilitate the choice of strain decomposition method by assessing the performance of three existing methods (spectral decomposition of the stress or the strain and deviatoric decomposition of the strain) and one new method (deviatoric decomposition of the stress) with several benchmark problems."
+    },
+    "Question_2": {
+        "Context": "The paper discusses various benchmark problems used to evaluate the performance of strain energy decomposition methods in phase field fracture models.",
+        "Question": "What type of benchmark problems were used to compare the performance of the strain decomposition methods?",
+        "A": "Quasi-static benchmark cases",
+        "B": "Dynamic benchmark cases",
+        "C": "Both quasi-static and dynamic benchmark cases",
+        "D": "Thermal benchmark cases",
+        "Answer": "C",
+        "Source": "In each benchmark problem, we compare the performance of the four methods using both qualitative and quantitative metrics. In the first benchmark, we compare the predicted mechanical behavior of cracked material. We then use four quasi-static benchmark cases: a single edge notched tension test, a single edge notched shear test, a three-point bending test, and a L-shaped panel test. Finally, we use two dynamic benchmark cases: a dynamic tensile fracture test and a dynamic shear fracture test."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the performance of different strain energy decomposition methods in phase field fracture models under various loading conditions.",
+        "Question": "Which strain decomposition method correctly localizes tensile strain within the cracked material?",
+        "A": "Strain spectral decomposition",
+        "B": "Stress deviatoric decomposition",
+        "C": "Strain deviatoric decomposition",
+        "D": "Stress spectral decomposition",
+        "Answer": "C",
+        "Source": "All four methods correctly predict all of the tensile strain localized within the cracked material, the spectral methods correctly predict cracked material can support compressive stress, and the deviatoric methods correctly predict localization of shear strain within cracked material."
+    },
+    "Question_4": {
+        "Context": "The paper evaluates the performance of strain energy decomposition methods in phase field fracture models under different loading conditions.",
+        "Question": "Which strain decomposition method accurately allows cracked material to fully support a compressive stress?",
+        "A": "Strain spectral decomposition",
+        "B": "Stress deviatoric decomposition",
+        "C": "Strain deviatoric decomposition",
+        "D": "Stress spectral decomposition",
+        "Answer": "D",
+        "Source": "The two spectral methods accurately allow cracked material to fully support a compressive stress, while the deviatoric methods only support a portion of the compressive stress."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the impact of strain energy decomposition methods on fracture behavior under different loading conditions.",
+        "Question": "Which strain decomposition method accurately localizes shear strain within the cracked material?",
+        "A": "Strain spectral decomposition",
+        "B": "Stress deviatoric decomposition",
+        "C": "Strain deviatoric decomposition",
+        "D": "Stress spectral decomposition",
+        "Answer": "C",
+        "Source": "The deviatoric methods accurately localize the shear strain within the crack, while the spectral methods allow the crack to support some shear stress."
+    },
+    "Question_6": {
+        "Context": "The paper evaluates the performance of strain energy decomposition methods in phase field fracture models under various loading conditions.",
+        "Question": "Which strain decomposition method accurately predicts the crack path in a three-point bending test?",
+        "A": "Strain spectral decomposition",
+        "B": "Stress deviatoric decomposition",
+        "C": "Strain deviatoric decomposition",
+        "D": "Stress spectral decomposition",
+        "Answer": "D",
+        "Source": "The two spectral methods accurately predict the crack path in a three-point bending test, while the two deviatoric methods require that the load be applied across at least seven nodes for the crack to propagate."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the performance of different strain energy decomposition methods in phase field fracture models under various loading conditions.",
+        "Question": "Which strain decomposition method predicts no crack propagation in a mixed mode L-shaped panel fracture case?",
+        "A": "Strain spectral decomposition",
+        "B": "Stress deviatoric decomposition",
+        "C": "Strain deviatoric decomposition",
+        "D": "Stress spectral decomposition",
+        "Answer": "B",
+        "Source": "In the L-shaped panel mixed mode case, the spectral methods provide reasonable predictions, while the deviatoric methods do not predict any crack formation."
+    },
+    "Question_8": {
+        "Context": "The paper evaluates the performance of strain energy decomposition methods in phase field fracture models under different loading conditions.",
+        "Question": "Which strain decomposition method predicts similar crack paths in a quasi-static shear test?",
+        "A": "Strain spectral decomposition",
+        "B": "Stress deviatoric decomposition",
+        "C": "Strain deviatoric decomposition",
+        "D": "Stress spectral decomposition",
+        "Answer": "C",
+        "Source": "For the quasi-static shear case, the two deviatoric methods predict similar crack paths, while the spectral methods allow the crack to support some shear stress."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the impact of strain energy decomposition methods on fracture behavior under different loading conditions.",
+        "Question": "Which strain decomposition method predicts similar crack paths in a dynamic shear test?",
+        "A": "Strain spectral decomposition",
+        "B": "Stress deviatoric decomposition",
+        "C": "Strain deviatoric decomposition",
+        "D": "Stress spectral decomposition",
+        "Answer": "A",
+        "Source": "The two spectral methods again predict the correct crack paths and similar crack propagation rates."
+    },
+    "Question_10": {
+        "Context": "The paper evaluates the performance of strain energy decomposition methods in phase field fracture models under different loading conditions.",
+        "Question": "Which strain decomposition method predicts the correct crack paths and similar crack propagation rates in a dynamic tensile fracture test?",
+        "A": "Strain spectral decomposition",
+        "B": "Stress deviatoric decomposition",
+        "C": "Strain deviatoric decomposition",
+        "D": "Stress spectral decomposition",
+        "Answer": "A",
+        "Source": "The crack paths from the four methods are all very similar. The crack length evolution from the four methods is also very similar."
+    }
+}

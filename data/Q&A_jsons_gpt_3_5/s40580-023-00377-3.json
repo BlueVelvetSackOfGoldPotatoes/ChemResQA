@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Functional photoacoustic imaging offers unique benefits such as scalable resolution and imaging depth. It has been used to precisely measure various physiological parameters in both human and animal subjects. What is a key advantage of photoacoustic imaging over traditional optical imaging techniques?",
+        "Question": "What is a key advantage of photoacoustic imaging over traditional optical imaging techniques?",
+        "A": "Superior imaging depth",
+        "B": "Higher spatial resolution",
+        "C": "Faster imaging speed",
+        "D": "Better tissue contrast",
+        "Answer": "A",
+        "Source": "PAI achieves superior imaging depths by forming images from optically-derived acoustic signals, which inherently attenuate less than optical signals in biological tissue."
+    },
+    "Question_2": {
+        "Context": "In the field of biomedical imaging, optical characterization of cells and tissues is essential for understanding physiological mechanisms. Which of the following is NOT mentioned as a current biomedical optical imaging technique in the text?",
+        "Question": "Which of the following is NOT mentioned as a current biomedical optical imaging technique?",
+        "A": "Fluorescence imaging",
+        "B": "Optical coherence tomography",
+        "C": "Photoacoustic imaging",
+        "D": "Diffuse optical tomography",
+        "Answer": "C",
+        "Source": "Current biomedical optical imaging techniques include fluorescence imaging, confocal microscopy, optical coherence tomography, two-photon microscopy, near-infrared spectroscopy, and diffuse optical tomography."
+    },
+    "Question_3": {
+        "Context": "Photoacoustic imaging is based on the photoacoustic effect, converting light energy into acoustic waves in biological tissue. What is the mechanism by which photoacoustic waves are generated in photoacoustic imaging?",
+        "Question": "What is the mechanism by which photoacoustic waves are generated in photoacoustic imaging?",
+        "A": "Thermoelastic expansion",
+        "B": "Photochemical reaction",
+        "C": "Electromagnetic induction",
+        "D": "Nuclear fusion",
+        "Answer": "A",
+        "Source": "PAI is based on the photoacoustic effect, in which energy is converted from light to acoustic waves via thermoelastic expansion."
+    },
+    "Question_4": {
+        "Context": "Functional photoacoustic imaging can provide information about various physiological parameters in biological tissues. What type of information can be obtained through functional photoacoustic imaging?",
+        "Question": "What type of information can be obtained through functional photoacoustic imaging?",
+        "A": "Structural information only",
+        "B": "Chemical information only",
+        "C": "Functional and structural information",
+        "D": "Molecular information only",
+        "Answer": "C",
+        "Source": "Combining PAI with USI can provide both chemical and structural information about a target tissue."
+    },
+    "Question_5": {
+        "Context": "Multiscale photoacoustic imaging can provide imaging at different scales, from nanoscale to macroscale. What is a key advantage of optical-resolution photoacoustic microscopy (OR-PAM) over acoustic-resolution photoacoustic microscopy (AR-PAM)?",
+        "Question": "What is a key advantage of optical-resolution photoacoustic microscopy (OR-PAM) over acoustic-resolution photoacoustic microscopy (AR-PAM)?",
+        "A": "Higher imaging depth",
+        "B": "Higher lateral resolution",
+        "C": "Faster imaging speed",
+        "D": "Better tissue penetration",
+        "Answer": "B",
+        "Source": "Optical-resolution PAI can achieve high lateral resolution through fine optical focusing within the optical diffusion limit."
+    },
+    "Question_6": {
+        "Context": "In the field of biomedical imaging, understanding the physiological mechanisms of cells and tissues is crucial. What is a limitation of traditional optical imaging techniques mentioned in the text?",
+        "Question": "What is a limitation of traditional optical imaging techniques?",
+        "A": "Limited imaging depth",
+        "B": "Low spatial resolution",
+        "C": "Slow imaging speed",
+        "D": "Poor tissue contrast",
+        "Answer": "A",
+        "Source": "The strong optical scattering within turbid biological tissues fundamentally limits the imaging depth of these pure optical imaging techniques to no deeper than the optical ballistic depth."
+    },
+    "Question_7": {
+        "Context": "Photoacoustic imaging can capture functional information in addition to structural details. What type of physiological parameters can be quantified using functional photoacoustic imaging?",
+        "Question": "What type of physiological parameters can be quantified using functional photoacoustic imaging?",
+        "A": "Blood flow velocity only",
+        "B": "Tissue temperature only",
+        "C": "Oxygen saturation, vessel morphology, and blood flow",
+        "D": "Metabolic rate of oxygen only",
+        "Answer": "C",
+        "Source": "The fPAI technique can measure various functional parameters in biological tissues, including the concentration of hemoglobin (HbT), SO2, blood flow, vessel morphology, and the metabolic rate of oxygen (MRO2)."
+    },
+    "Question_8": {
+        "Context": "Functional photoacoustic imaging can provide insights into various physiological parameters in biological tissues. What is a distinctive advantage of photoacoustic imaging mentioned in the text?",
+        "Question": "What is a distinctive advantage of photoacoustic imaging?",
+        "A": "Adjustable imaging depth",
+        "B": "Higher spatial resolution",
+        "C": "Faster image reconstruction",
+        "D": "Better tissue contrast",
+        "Answer": "A",
+        "Source": "One distinctive advantage of PAI is that its resolution and imaging depth can be adjusted to suit a specific target area."
+    },
+    "Question_9": {
+        "Context": "In the context of biomedical imaging, optical scattering in biological tissues poses a challenge for traditional optical imaging techniques. How does photoacoustic imaging overcome this limitation?",
+        "Question": "How does photoacoustic imaging overcome the limitation of optical scattering in biological tissues?",
+        "A": "By using higher laser power",
+        "B": "By converting light to acoustic waves",
+        "C": "By increasing the imaging speed",
+        "D": "By using shorter wavelength lasers",
+        "Answer": "B",
+        "Source": "PAI achieves superior imaging depths by forming images from optically-derived acoustic signals, which inherently attenuate less than optical signals in biological tissue."
+    },
+    "Question_10": {
+        "Context": "Functional photoacoustic imaging can provide comprehensive information about biological tissues. What type of information can be readily visualized using photoacoustic imaging?",
+        "Question": "What type of information can be readily visualized using photoacoustic imaging?",
+        "A": "Molecular information only",
+        "B": "Structural information only",
+        "C": "Functional information only",
+        "D": "Morphology of a lesion rich with a target chromophore",
+        "Answer": "D",
+        "Source": "In optically characterizing chromophores, the pixel intensity of PAI is basically proportional to the local concentration, so PAI readily visualizes the morphology of a lesion rich with a target chromophore."
+    }
+}

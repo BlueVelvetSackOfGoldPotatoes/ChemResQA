@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Based on the study's findings on the impact of block copolymers on polymer blend nanocomposites, particularly in relation to electrical conductivity.",
+        "Question": "What effect did the addition of SEBS triblock copolymer have on the electrical conductivity of the PP/PS 80:20 blend nanocomposite?",
+        "A": "Decreased conductivity",
+        "B": "No significant change in conductivity",
+        "C": "Increased conductivity",
+        "D": "Conductivity remained the same as the uncompatibilized blend",
+        "Answer": "C",
+        "Source": "we achieved better PS/MWCNT domain interconnectivity in the PP/PS 80:20 blend system that led to a significant increase in conductivity (four orders of magnitude increase)."
+    },
+    "Question_2": {
+        "Context": "In the study, what was the observed trend in electrical conductivity for the PP/PS 50:50 blend nanocomposite with the addition of block copolymers?",
+        "Question": "How did the electrical conductivity change with the addition of SEBS triblock copolymer at 3 vol% concentration in the PP/PS 50:50 blend nanocomposite?",
+        "A": "Decreased conductivity",
+        "B": "No change in conductivity",
+        "C": "Increased conductivity",
+        "D": "Conductivity remained the same as the uncompatibilized blend",
+        "Answer": "C",
+        "Source": "we achieved 4 orders of magnitude increase in electrical conductivity with 3% triblock SEBS copolymer."
+    },
+    "Question_3": {
+        "Context": "Regarding the impact of block copolymers on rheological properties of polymer blend nanocomposites.",
+        "Question": "What effect did the addition of SEBS triblock copolymer have on the storage modulus of the PP/PS 80:20 blend nanocomposite?",
+        "A": "Decreased storage modulus",
+        "B": "No significant change in storage modulus",
+        "C": "Increased storage modulus",
+        "D": "Storage modulus remained the same as the uncompatibilized blend",
+        "Answer": "C",
+        "Source": "we observed that higher concentration of 10 vol% of diblock copolymer, gave higher modulus at low strain and same also applies for the loss modulus."
+    },
+    "Question_4": {
+        "Context": "Considering the morphology evolution in the PP/PS 20:80 blend nanocomposite with the addition of block copolymers.",
+        "Question": "What was the initial effect on electrical conductivity at lower copolymer concentrations in the PP/PS 20:80 blend nanocomposite?",
+        "A": "Decreased conductivity",
+        "B": "No change in conductivity",
+        "C": "Increased conductivity",
+        "D": "Conductivity remained the same as the uncompatibilized blend",
+        "Answer": "A",
+        "Source": "we saw an initial decrease in the electrical conductivity at low copolymer concentrations (1 vol%)"
+    },
+    "Question_5": {
+        "Context": "Regarding the impact of block copolymers on the morphology of polymer blend nanocomposites.",
+        "Question": "What was the observed effect of adding diblock SEP copolymer to the PP/PS 50:50 blend nanocomposite?",
+        "A": "Reduced droplet size",
+        "B": "Increased droplet size",
+        "C": "No change in droplet size",
+        "D": "Formation of co-continuous morphology",
+        "Answer": "A",
+        "Source": "However, upon adding diblock copolymer, we observed a reduced droplet domain size."
+    },
+    "Question_6": {
+        "Context": "In relation to the impact of block copolymers on the morphology evolution of polymer blend nanocomposites.",
+        "Question": "What was the morphology observed in the PP/PS 80:20 blend nanocomposite with the addition of SEBS triblock copolymer at 1 vol% concentration?",
+        "A": "Dispersed morphology",
+        "B": "Co-continuous morphology",
+        "C": "No change in morphology",
+        "D": "Irregular morphology",
+        "Answer": "B",
+        "Source": "we achieved about two orders of magnitude increase compared to the uncompatibilized blend nanocomposite and a corresponding plateau-like behavior in the low-frequency region."
+    },
+    "Question_7": {
+        "Context": "Considering the impact of block copolymers on the morphology of polymer blend nanocomposites.",
+        "Question": "What was the observed effect of adding SEBS triblock copolymer to the PP/PS 50:50 blend nanocomposite?",
+        "A": "More co-continuous morphology",
+        "B": "Dispersed morphology",
+        "C": "No change in morphology",
+        "D": "Formation of irregular morphology",
+        "Answer": "A",
+        "Source": "adding triblock copolymer to the blend nanocomposite results in a more co-continuous morphology compared to that obtained by adding the diblock copolymer."
+    },
+    "Question_8": {
+        "Context": "Regarding the impact of block copolymers on the electrical conductivity of polymer blend nanocomposites.",
+        "Question": "What was the observed trend in electrical conductivity for the PS/CNT single polymer nanocomposite?",
+        "A": "High conductivity",
+        "B": "Low conductivity",
+        "C": "No change in conductivity",
+        "D": "Conductivity decreased with copolymer addition",
+        "Answer": "A",
+        "Source": "The PS/CNT single polymer nanocomposite shows a very high conductivity (just over 10\u2212 2 S/cm) compared to the very low conductivity of PP/CNT (just below 10\u2212 6 S/cm) in the absence of any compatibilizer."
+    },
+    "Question_9": {
+        "Context": "In relation to the impact of block copolymers on the electrical conductivity of polymer blend nanocomposites.",
+        "Question": "What was the effect of adding SEBS triblock copolymer at 10 vol% concentration in the PP/PS 20:80 blend nanocomposite?",
+        "A": "Decreased conductivity",
+        "B": "No change in conductivity",
+        "C": "Increased conductivity",
+        "D": "Conductivity remained the same as the uncompatibilized blend",
+        "Answer": "C",
+        "Source": "at 10 vol% SEBS, the conductivity increases, with a value of 1.05*10\u22121S/cm at 10 vol% SEBS."
+    },
+    "Question_10": {
+        "Context": "Considering the impact of block copolymers on the rheological properties of polymer blend nanocomposites.",
+        "Question": "What was the observed effect on the storage modulus of the blend nanocomposites made with SEP diblock copolymer?",
+        "A": "Decreased storage modulus",
+        "B": "No significant change in storage modulus",
+        "C": "Increased storage modulus",
+        "D": "Storage modulus remained the same as the uncompatibilized blend",
+        "Answer": "C",
+        "Source": "higher concentration of 10 vol% of diblock copolymer, gave higher modulus at low strain and same also applies for the loss modulus."
+    }
+}

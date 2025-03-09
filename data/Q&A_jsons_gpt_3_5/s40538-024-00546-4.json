@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the response of biochar on rhizosphere soil chemical properties, enzyme activity, microbial communities, and sugarcane Pokkah boeng disease.",
+        "Question": "What was the effect of applying 30 t ha\u22121 of biochar on soil pH compared to applying 15 t ha\u22121 of biochar?",
+        "A": "Decreased by 0.51%",
+        "B": "Increased by 1.50%",
+        "C": "Increased by 0.51%",
+        "D": "Decreased by 1.50%",
+        "Answer": "B",
+        "Source": "The amendment of 30 t ha\u22121 of biochar (B2) significantly improve soil pH by 1.50% and 9.61% compared with that of B1 and B0, followed by 0.51% increase by 15 t ha\u22121 of biochar (B1) compared with that of control (B0)."
+    },
+    "Question_2": {
+        "Context": "The study focused on the impact of biochar on enzyme activities in the rhizosphere soil of sugarcane.",
+        "Question": "Which enzyme activity significantly increased with biochar application?",
+        "A": "Soil acid phosphatase (S-ACP)",
+        "B": "Soil urease (S-UE)",
+        "C": "Soil sucrase (S-SC)",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "The application of biochar significantly increased S-UE, S-SC, and S-ACP activities."
+    },
+    "Question_3": {
+        "Context": "The study explored the impact of biochar on the microbial community in the sugarcane rhizosphere.",
+        "Question": "What was the effect of biochar application on the diversity and richness of rhizosphere microorganisms?",
+        "A": "Decreased diversity and richness",
+        "B": "Increased diversity and richness",
+        "C": "No effect on diversity and richness",
+        "D": "Varied effect on diversity and richness",
+        "Answer": "B",
+        "Source": "Alpha diversity analysis showed that biochar application significantly changed the diversity and richness of rhizosphere microorganisms."
+    },
+    "Question_4": {
+        "Context": "The study investigated the correlation between soil chemical properties and microbial community in the sugarcane rhizosphere.",
+        "Question": "Which soil chemical property showed a positive correlation with the relative abundance of Proteobacteria?",
+        "A": "Available potassium (AK)",
+        "B": "Soil acid phosphatase (S-ACP)",
+        "C": "Soil urease (S-UE)",
+        "D": "Soil pH",
+        "Answer": "A",
+        "Source": "AK and S-ACP were positively correlated with the phylum Proteobacteria."
+    },
+    "Question_5": {
+        "Context": "The study examined the impact of biochar on disease index of Pokkah boeng disease in sugarcane.",
+        "Question": "How did the disease index of PB in the biochar-treated groups compare to the control groups?",
+        "A": "Higher in biochar-treated groups",
+        "B": "Lower in biochar-treated groups",
+        "C": "No significant difference",
+        "D": "Varied between biochar-treated and control groups",
+        "Answer": "B",
+        "Source": "Biochar application reduced the disease index of PB. The disease index of PB was lower in biochar-treated groups than in the control groups."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the relative abundance of Fusarium in the sugarcane rhizosphere with and without biochar application.",
+        "Question": "What was the effect of biochar application on the relative abundance of Fusarium in the rhizosphere?",
+        "A": "Increased the relative abundance of Fusarium",
+        "B": "Decreased the relative abundance of Fusarium",
+        "C": "No effect on the relative abundance of Fusarium",
+        "D": "Varied effect on the relative abundance of Fusarium",
+        "Answer": "B",
+        "Source": "Biochar significantly reduced the relative abundance of Fusarium in the sugarcane rhizosphere."
+    },
+    "Question_7": {
+        "Context": "The study explored the impact of biochar on the enrichment of specific microbial communities in the sugarcane rhizosphere.",
+        "Question": "Which microbial community was enriched in the treatment group with 30 t ha\u22121 of biochar?",
+        "A": "Rhodanobacteraceae",
+        "B": "Acidobacteriota",
+        "C": "Xanthomonadales",
+        "D": "Proteobacteria",
+        "Answer": "B",
+        "Source": "Acidobacteriota (phylum and its class Vicinamibacteria, genus Vicinamibacterales) was enriched in the treatment group where 30 t ha\u22121 biochar was applied."
+    },
+    "Question_8": {
+        "Context": "The study investigated the co-occurrence network between environmental factors and bacterial phyla in the sugarcane rhizosphere.",
+        "Question": "Which environmental factor was positively correlated with HSB_OF53-F07 (Chloroflexi)?",
+        "A": "Soil acid phosphatase (S-ACP)",
+        "B": "Available potassium (AK)",
+        "C": "Soil pH",
+        "D": "None of the above",
+        "Answer": "D",
+        "Source": "The results showed a negative correlation of HSB_OF53-F07 (Chloroflexi) with AP and S-ACP."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the impact of biochar on the soil microbial community and its correlation with soil environmental factors.",
+        "Question": "Which enzyme activity showed a significant positive correlation with Kickxellomycota in the fungal community?",
+        "A": "Soil acid phosphatase (S-ACP)",
+        "B": "Soil urease (S-UE)",
+        "C": "Soil sucrase (S-SC)",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "S-UE was significantly positive correlated with Kickxellomycota."
+    },
+    "Question_10": {
+        "Context": "The study examined the impact of biochar on the co-occurrence network between environmental factors and fungal phyla in the sugarcane rhizosphere.",
+        "Question": "Which fungal phylum was negatively correlated with both NH4 +\u2013N and AK?",
+        "A": "Ascomycota",
+        "B": "Basidiomycota",
+        "C": "Mortierellomycota",
+        "D": "Unclassified K_Fungi",
+        "Answer": "A",
+        "Source": "Neocosmospora (Ascomycota) and Cephalotrichum (Ascomycota) were negatively correlated with NH4 +\u2013N and AK."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In inkjet printing technology, drop-on-demand is a method that allows precise delivery of liquid material in the form of micro-droplets to a specific location.",
+        "Question": "What is the main advantage of using drop-on-demand inkjet printing technology?",
+        "A": "It increases the amount of material consumed.",
+        "B": "It allows for precise delivery of micro-droplets to a desired location.",
+        "C": "It requires more maintenance cost and effort.",
+        "D": "It is limited to printing on specific types of substrates.",
+        "Answer": "B",
+        "Source": "Inkjet printing, based on drop-on-demand, is a non-contact printing technology that can deliver a liquid material, in the form of micro-droplets, precisely to a desired location."
+    },
+    "Question_2": {
+        "Context": "In the field of printed electronics, various functional materials are used in conjunction with electrode printing for manufacturing.",
+        "Question": "Which of the following is NOT a functional material typically used in the field of printed electronics?",
+        "A": "Color filters",
+        "B": "Transistors of displays",
+        "C": "Bio-ink",
+        "D": "Electrode printing",
+        "Answer": "C",
+        "Source": "In the field of printed electronics, various functional materials such as electronic devices, including color filters and transistors of displays, are used in conjunction with electrode printing for manufacturing using inkjet technology."
+    },
+    "Question_3": {
+        "Context": "In tissue engineering, bio-ink is a substance widely employed as a bioprinting system for creating artificial tissues or organs.",
+        "Question": "What is the primary use of bio-ink in tissue engineering?",
+        "A": "For cleaning printing nozzles",
+        "B": "As a bioprinting system for artificial tissues or organs",
+        "C": "For monitoring the ejection process of printers",
+        "D": "As a high-viscosity material for packaging electronic products",
+        "Answer": "B",
+        "Source": "In tissue engineering, bio-ink is widely employed as a bioprinting system for artificial tissues or organs."
+    },
+    "Question_4": {
+        "Context": "In manufacturing, a jetting valve-type printing system is used to apply high-viscosity materials such as epoxy molding compounds (EMC) or adhesives to precise locations.",
+        "Question": "What is the main purpose of using a jetting valve-type printing system in manufacturing?",
+        "A": "To reduce the viscosity of materials",
+        "B": "To increase the maintenance cost",
+        "C": "To apply high-viscosity materials to accurate locations",
+        "D": "To monitor the ejection process using a high-speed camera",
+        "Answer": "C",
+        "Source": "Currently, for packaging various electronic products in the manufacturing industry, a jetting valve-type printing system is used to apply a high-viscosity material, such as an epoxy molding compound (EMC) or adhesive, to an accurate location."
+    },
+    "Question_5": {
+        "Context": "Monitoring methods for the dispensing state have been developed to prevent printing nozzle failure and to confirm efficient maintenance cycles.",
+        "Question": "What is the purpose of developing various monitoring methods for the dispensing state in printing technologies?",
+        "A": "To increase the frequency of nozzle clogging",
+        "B": "To enhance the viscosity of the printing materials",
+        "C": "To prevent printing nozzle failure",
+        "D": "To apply lower pressures during printing",
+        "Answer": "C",
+        "Source": "Various monitoring methods for the dispensing state have been developed to prevent printing nozzle failure and efficient maintenance cycle confirmation."
+    },
+    "Question_6": {
+        "Context": "A capacitive-type sensor can be used to measure the deformation of a membrane in a pneumatic dispenser by detecting changes in capacitance.",
+        "Question": "How does a capacitive-type sensor in a pneumatic dispenser work to monitor membrane deformation?",
+        "A": "By measuring the temperature change of the membrane",
+        "B": "By detecting changes in capacitance due to membrane deformation",
+        "C": "By observing the membrane through a high-speed camera",
+        "D": "By applying a constant pressure to the membrane",
+        "Answer": "B",
+        "Source": "The difference between the membrane deformation under normal and abnormal operating conditions was analyzed using the sensing signal of the embedded sensor, and the droplet ejection status was monitored in real-time."
+    },
+    "Question_7": {
+        "Context": "The use of a stereolithography (SLA)-type 3D printer allows for the fabrication of components suitable for printing, including parts of a pneumatic dispenser.",
+        "Question": "What is the role of a stereolithography (SLA)-type 3D printer in the context of a pneumatic dispenser?",
+        "A": "It is used to increase the viscosity of the printing material.",
+        "B": "It is used for the periodic cleaning of the nozzle.",
+        "C": "It is used to fabricate parts of the dispenser suitable for printing.",
+        "D": "It is used to apply hydrophobic coatings around the nozzle.",
+        "Answer": "C",
+        "Source": "In addition, all parts of the dispenser were designed and fabricated at a size suitable for printing using a stereolithography (SLA)-type 3D printer."
+    },
+    "Question_8": {
+        "Context": "Polydimethylsiloxane (PDMS) is a material used in the fabrication of membrane sensors for pneumatic dispensers.",
+        "Question": "What is the significance of using polydimethylsiloxane (PDMS) in the fabrication of membrane sensors?",
+        "A": "It is used to increase the electrical conductivity of the membrane.",
+        "B": "It is used to fabricate the membrane that deforms with pneumatic pressure to eject droplets.",
+        "C": "It is used to bond the PDMS membrane to the microchannel.",
+        "D": "It is used to drill the outlet nozzle of the dispenser.",
+        "Answer": "B",
+        "Source": "The membrane sensor was manufactured using polydimethylsiloxane (PDMS) and consisted of a membrane and supporting block. The membrane was deformed with pneumatic pressure to eject droplets."
+    },
+    "Question_9": {
+        "Context": "Silver nanowire (AgNW) electrodes are patterned on the surface of a membrane sensor to measure deformation.",
+        "Question": "What is the function of silver nanowire (AgNW) electrodes on a membrane sensor in a pneumatic dispenser?",
+        "A": "To increase the weight of the membrane",
+        "B": "To bond the membrane to the supporting block",
+        "C": "To measure the deformation of the membrane",
+        "D": "To decrease the sensitivity of the sensor",
+        "Answer": "C",
+        "Source": "The membrane was deformed with pneumatic pressure to eject droplets, and silver nanowire (AgNW) electrodes were patterned on the membrane surface to measure deformation."
+    },
+    "Question_10": {
+        "Context": "The deformation of a membrane in a pneumatic dispenser can be controlled by varying the magnitude and duration of the applied positive pressure.",
+        "Question": "What effect does increasing the positive pressure applied to the membrane in a pneumatic dispenser have?",
+        "A": "It decreases the deformation of the membrane.",
+        "B": "It has no effect on the deformation of the membrane.",
+        "C": "It increases the deformation of the membrane until a certain limit.",
+        "D": "It changes the chemical composition of the membrane.",
+        "Answer": "C",
+        "Source": "The deformation varied according to the magnitude and time of the positive pressure applied to the membrane sensor."
+    }
+}

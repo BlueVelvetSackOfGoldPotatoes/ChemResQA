@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Biofilms are structured communities of bacterial cells enclosed in a self-produced polymeric matrix and adherent to an inert or living surface.",
+        "Question": "What is the composition of the matrix in which bacterial cells are enclosed in a biofilm?",
+        "A": "Lipopolysaccharides",
+        "B": "Self-produced polymeric substances",
+        "C": "Glycogen reserves",
+        "D": "Extracellular DNA",
+        "Answer": "B",
+        "Source": "Biofilms are structured communities of bacterial cells enclosed in a self-produced polymeric matrix and adherent to an inert or living surface."
+    },
+    "Question_2": {
+        "Context": "Antibiotics are used to treat bacterial infections, but their effectiveness can be reduced when bacteria form biofilms.",
+        "Question": "Why can the effectiveness of antibiotics be reduced when bacteria form biofilms?",
+        "A": "Because biofilms protect bacteria from the immune system",
+        "B": "Because biofilms increase the mutation rate of bacteria",
+        "C": "Because biofilms can neutralize antibiotics",
+        "D": "Because biofilms prevent antibiotic penetration",
+        "Answer": "D",
+        "Source": "Antibiotics are used to treat bacterial infections, but their effectiveness can be reduced when bacteria form biofilms."
+    },
+    "Question_3": {
+        "Context": "Staphylococcus aureus is a common bacterium that can cause a range of illnesses, from minor skin infections to life-threatening diseases.",
+        "Question": "What type of infections can Staphylococcus aureus cause?",
+        "A": "Only minor skin infections",
+        "B": "Only life-threatening diseases",
+        "C": "A range from minor skin infections to life-threatening diseases",
+        "D": "Only respiratory infections",
+        "Answer": "C",
+        "Source": "Staphylococcus aureus is a common bacterium that can cause a range of illnesses, from minor skin infections to life-threatening diseases."
+    },
+    "Question_4": {
+        "Context": "The Bio-Timer method is a technique used to screen for the effectiveness of antibiotics against bacteria.",
+        "Question": "What is the purpose of the Bio-Timer method?",
+        "A": "To determine the nutritional requirements of bacteria",
+        "B": "To screen for the effectiveness of antibiotics against bacteria",
+        "C": "To identify bacterial species",
+        "D": "To measure the growth rate of biofilms",
+        "Answer": "B",
+        "Source": "Antibiotics effective in biofilm-developed Staphylococcus aureus screened using Bio-Timer method."
+    },
+    "Question_5": {
+        "Context": "Rifampin and erythromycin are antibiotics that can be used to treat bacterial infections.",
+        "Question": "Which of the following antibiotics can have a synergistic effect on the biofilm matrix of Staphylococcus aureus?",
+        "A": "Rifampin and erythromycin",
+        "B": "Penicillin and vancomycin",
+        "C": "Amoxicillin and clavulanate",
+        "D": "Ciprofloxacin and tetracycline",
+        "Answer": "A",
+        "Source": "Synergistic effect of rifampin and erythromycin on biofilm matrix."
+    },
+    "Question_6": {
+        "Context": "Biofilm formation in bacteria can confer different degrees of antibiotic resistance.",
+        "Question": "What effect does biofilm formation have on the antibiotic susceptibility of bacteria?",
+        "A": "It increases susceptibility",
+        "B": "It has no effect on susceptibility",
+        "C": "It decreases susceptibility",
+        "D": "It only affects the taste of the bacteria",
+        "Answer": "C",
+        "Source": "Antibiotic susceptibility of Staphylococcus aureus with different degrees of biofilm formation."
+    },
+    "Question_7": {
+        "Context": "The degree of biofilm formation by Staphylococcus aureus can vary, which may influence the effectiveness of antibiotic treatment.",
+        "Question": "What can influence the effectiveness of antibiotic treatment in Staphylococcus aureus?",
+        "A": "The color of the bacteria",
+        "B": "The degree of biofilm formation",
+        "C": "The size of the bacterial colony",
+        "D": "The temperature of the environment",
+        "Answer": "B",
+        "Source": "Antibiotic susceptibility of Staphylococcus aureus with different degrees of biofilm formation."
+    },
+    "Question_8": {
+        "Context": "The development of new drugs often involves the study of bacterial resistance mechanisms.",
+        "Question": "In the development of new drugs, why is the study of bacterial resistance mechanisms important?",
+        "A": "To make bacteria more resistant",
+        "B": "To increase the cost of healthcare",
+        "C": "To improve the effectiveness of antibiotics",
+        "D": "To create more potent bacterial strains",
+        "Answer": "C",
+        "Source": "Department of Bio new drug development."
+    },
+    "Question_9": {
+        "Context": "Graduate research can contribute to the field of analytical science by developing new methods or improving existing ones.",
+        "Question": "What is one way graduate research can contribute to the field of analytical science?",
+        "A": "By developing new sports equipment",
+        "B": "By improving transportation systems",
+        "C": "By developing new methods for analysis",
+        "D": "By creating new culinary recipes",
+        "Answer": "C",
+        "Source": "This paper was modified and developed from the master\u2019s thesis."
+    },
+    "Question_10": {
+        "Context": "Creative Commons licenses allow for the use, sharing, adaptation, distribution, and reproduction of licensed works.",
+        "Question": "What does a Creative Commons Attribution 4.0 International License permit for licensed works?",
+        "A": "Use, sharing, adaptation, distribution, and reproduction in any medium or format",
+        "B": "Exclusive commercial use by the licensee",
+        "C": "Redistribution with altered content only",
+        "D": "Use and sharing with mandatory financial compensation to the author",
+        "Answer": "A",
+        "Source": "This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format."
+    }
+}

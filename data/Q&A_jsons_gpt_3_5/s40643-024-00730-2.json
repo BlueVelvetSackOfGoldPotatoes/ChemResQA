@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses a composite treatment technology involving expansion and fungal treatment of biomass. It mentions the impact of expansion on lignin degradation and microbial community during ensiling.",
+        "Question": "What is one advantage of expansion as a pretreatment method for biomass?",
+        "A": "Increased lignin degradation",
+        "B": "Reduced microbial activity",
+        "C": "Lower pH value",
+        "D": "Decreased fermentation quality",
+        "Answer": "A",
+        "Source": "The severe expansion conditions created an opportunity for colonization of I. lacteus and enhanced lignin degradation."
+    },
+    "Question_2": {
+        "Context": "The study evaluates the microbial community at the genus level during ensiling of different treated straw samples.",
+        "Question": "Which genus was dominant in EIP silage during ensiling?",
+        "A": "Pantoea",
+        "B": "Methylobacterium",
+        "C": "Weissella",
+        "D": "Clavispora",
+        "Answer": "D",
+        "Source": "Clavispora gradually replaced Irpex in EIP silage, which potentially promoted lactic acid bacteria growth and acetic acid production."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the impact of different treatments on the fermentation quality and microbial community during ensiling.",
+        "Question": "Which treatment led to the highest lactic acid concentration during ensiling?",
+        "A": "CP",
+        "B": "CIP",
+        "C": "EIP",
+        "D": "EX",
+        "Answer": "C",
+        "Source": "The highest LA concentration was observed in CP silage, and ultimately 58.42 g/kg DM on day 28."
+    },
+    "Question_4": {
+        "Context": "The study evaluates the in vitro gas production of different treated straw samples.",
+        "Question": "What was the main gas product in livestock industry evaluated in the study?",
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Methane",
+        "D": "Carbon monoxide",
+        "Answer": "C",
+        "Source": "CH4 and CO2 are the main products in livestock industry, comprising approximately 14.5% of global anthropogenic greenhouse gas emissions."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the microbial community and functional prediction based on the Kyoto Encyclopedia of Genes and Genomes (KEGG) databases.",
+        "Question": "Which function was enriched in expanded straw silage during ensiling?",
+        "A": "Carbohydrate metabolism",
+        "B": "Amino acid metabolism",
+        "C": "Energy metabolism",
+        "D": "Nucleotide metabolism",
+        "Answer": "A",
+        "Source": "Carbohydrate metabolism mainly contained gluconeogenesis and glycolysis metabolism, thus it was inferred that on the one hand, expanded straw caused a higher ability of lignocellulose degradation by I. lacteus to produce carbohydrates."
+    },
+    "Question_6": {
+        "Context": "The study evaluates the chemical composition of different treated straw samples.",
+        "Question": "Which component showed a significant decrease in expanded straw compared to raw straw?",
+        "A": "Cellulose",
+        "B": "Hemicellulose",
+        "C": "Lignin",
+        "D": "Water-soluble carbohydrate",
+        "Answer": "C",
+        "Source": "Lignin and HC contents in EX were significantly lower than that in CK."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the dynamics of organic acids in different treatments during ensiling.",
+        "Question": "Which treatment showed the highest acetic acid concentration during ensiling?",
+        "A": "CP",
+        "B": "CIP",
+        "C": "EIP",
+        "D": "EX",
+        "Answer": "C",
+        "Source": "The AA accumulated the fastest in EIP silage throughout the ensiling compared to others, leading to the highest AA concentration about 22.35 g/kg DM on day 28."
+    },
+    "Question_8": {
+        "Context": "The study evaluates the microbial counts of LAB, aerobic bacteria, and yeasts in different treatments.",
+        "Question": "Which treatment showed a decrease in aerobic bacteria counts below the detection limit?",
+        "A": "CK",
+        "B": "EX",
+        "C": "CIL",
+        "D": "EIL",
+        "Answer": "B",
+        "Source": "The counts of LAB and yeasts of the samples in EX decreased below the detection limit (< 102 cfu/FM), and the aerobic bacterial counts dropped."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the bacterial and fungal community at the phylum and genus level during ensiling.",
+        "Question": "Which phylum was dominant in CK and EX samples?",
+        "A": "Proteobacteria",
+        "B": "Firmicutes",
+        "C": "Cyanophyta",
+        "D": "Basidiomycota",
+        "Answer": "A",
+        "Source": "On the phylum level, Proteobacteria are usually the dominant phyla before silage, such as in CK, EX, and CIL groups."
+    },
+    "Question_10": {
+        "Context": "The study evaluates the fermentation profile and microbial populations in different treatments.",
+        "Question": "Which treatment led to the lowest pH value during ensiling?",
+        "A": "CP",
+        "B": "CIP",
+        "C": "EIP",
+        "D": "EX",
+        "Answer": "C",
+        "Source": "The pH of all silage drastically decreased, with the CP and CIP silages decreasing to 3.95 and 3.98, and the EIP decreasing to 4.46."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "A study focused on deep drawing of round cups using dimensionless analysis and Buckingham pi theorem.",
+        "Question": "What method was used to determine the geometric parameters in dimensionless form?",
+        "A": "Finite element analysis",
+        "B": "Dimensional homogeneity",
+        "C": "Buckingham pi theorem",
+        "D": "Stepwise regression",
+        "Answer": "C",
+        "Source": "The study focused on geometric parameters in dimensionless form by utilizing the Buckingham pi theorem."
+    },
+    "Question_2": {
+        "Context": "The study aimed to find the best group of dimensionless geometric parameters for deep drawing of round cups.",
+        "Question": "What was used to evaluate the three scales in the study?",
+        "A": "Commercial FE software",
+        "B": "Experimental tests",
+        "C": "Proposed dimensionless models",
+        "D": "Finite element analysis",
+        "Answer": "A",
+        "Source": "The three scales were evaluated using commercial FE software in the study."
+    },
+    "Question_3": {
+        "Context": "The study compared outcomes for dimensionless models and experimental tests.",
+        "Question": "What was used to compare the results in the study?",
+        "A": "Proposed dimensionless models",
+        "B": "Simulation process",
+        "C": "Experimental tests",
+        "D": "Generalization technique",
+        "Answer": "C",
+        "Source": "The outcomes were compared using experimental tests in the study."
+    },
+    "Question_4": {
+        "Context": "The study highlighted the importance of selecting proper process parameters for flawless parts.",
+        "Question": "What is essential to achieve flawless parts in the study?",
+        "A": "Experimental tests",
+        "B": "Proper process parameters",
+        "C": "Dimensional analysis",
+        "D": "Fluid and dynamic applications",
+        "Answer": "B",
+        "Source": "Selecting the proper process parameters was crucial to achieve flawless parts in the study."
+    },
+    "Question_5": {
+        "Context": "The study emphasized the role of dimensional analysis in evaluating processes on different scales.",
+        "Question": "What is a significant benefit of dimensional analysis mentioned in the study?",
+        "A": "Complexity of the problem",
+        "B": "Understanding fundamental process model",
+        "C": "Process trend prediction",
+        "D": "Simplicity",
+        "Answer": "D",
+        "Source": "The most significant benefits of dimensional analysis mentioned were simplicity and no need to understand the fundamental process model."
+    },
+    "Question_6": {
+        "Context": "The study discussed the prediction of required force for forging using dimensional analysis.",
+        "Question": "What was used to predict the required force for forging in the study?",
+        "A": "Friction coefficient",
+        "B": "Dimensional analysis",
+        "C": "Complex geometry",
+        "D": "Fluid and dynamic applications",
+        "Answer": "B",
+        "Source": "The prediction of required force for forging was done using dimensional analysis in the study."
+    },
+    "Question_7": {
+        "Context": "The study mentioned the use of dimensional analysis in metal forming.",
+        "Question": "What was used to define the effect of lubricants on cold rolling in the study?",
+        "A": "Dimensional analysis",
+        "B": "Buckingham pi theorem",
+        "C": "Friction coefficient",
+        "D": "Finite element analysis",
+        "Answer": "B",
+        "Source": "The effect of lubricants on cold rolling was defined using the Buckingham pi theorem in the study."
+    },
+    "Question_8": {
+        "Context": "The study discussed the application of dimensional analysis in predicting friction effects.",
+        "Question": "What was used to detect friction effects in the study?",
+        "A": "Dimensional analysis",
+        "B": "Linear model",
+        "C": "Nonlinear dynamic analysis",
+        "D": "Friction coefficient",
+        "Answer": "A",
+        "Source": "Dimensional analysis was used to detect friction effects in the study."
+    },
+    "Question_9": {
+        "Context": "The study focused on the determination of drawing force in metal forming processes.",
+        "Question": "What was used to measure the localized faults in the study?",
+        "A": "Dimensional analysis",
+        "B": "Dimensionless model",
+        "C": "Finite element analysis",
+        "D": "Friction coefficient",
+        "Answer": "A",
+        "Source": "Dimensional analysis was used to measure the localized faults in the study."
+    },
+    "Question_10": {
+        "Context": "The study emphasized the importance of selecting accurate geometrical parameters for the deep drawing process.",
+        "Question": "What was considered to control the exceeding tensile stresses in the study?",
+        "A": "Material properties",
+        "B": "Geometric parameters",
+        "C": "Dimensional analysis",
+        "D": "Friction coefficient",
+        "Answer": "B",
+        "Source": "Selecting accurate geometrical parameters was considered to control the exceeding tensile stresses in the study."
+    }
+}

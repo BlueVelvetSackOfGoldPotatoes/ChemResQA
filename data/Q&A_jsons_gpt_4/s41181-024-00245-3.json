@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In organic chemistry, esterification is a reaction that forms an ester as the reaction product from an alcohol and an acid.",
+        "Question": "Which reagent is commonly used as a coupling agent in esterification reactions?",
+        "A": "Sodium chloride",
+        "B": "1-ethyl-3-(3-dimethylaminopropyl)carbodiimide (EDC)",
+        "C": "Sodium bicarbonate",
+        "D": "Hydrochloric acid",
+        "Answer": "B",
+        "Source": "1 was prepared by an esterification reaction in the presence of EDC as the coupling agent and a catalytic quantity of DMAP."
+    },
+    "Question_2": {
+        "Context": "In peptide synthesis, protecting groups are often used to prevent certain reactions from occurring at specific sites on the amino acids.",
+        "Question": "Which functional group on the ACooP peptide was unexpectedly targeted for acylation instead of the expected site?",
+        "A": "Hydroxyl group",
+        "B": "Amino group",
+        "C": "Carboxyl group",
+        "D": "Thiol group",
+        "Answer": "D",
+        "Source": "Interestingly, 6\u2011[18F]fluoronicotinic acid 4\u2011nitrophenyl ester conjugated to ACooP exclusively by S\u2011acylation instead of the expected N\u2011acylation."
+    },
+    "Question_3": {
+        "Context": "The distribution coefficient (LogD) is a measure of a compound's distribution between a hydrophilic phase (such as water) and a lipophilic phase (such as octanol).",
+        "Question": "What does a negative LogD value indicate about a compound's hydrophilicity?",
+        "A": "It is more hydrophilic than lipophilic",
+        "B": "It is more lipophilic than hydrophilic",
+        "C": "It is neither hydrophilic nor lipophilic",
+        "D": "It cannot be determined",
+        "Answer": "A",
+        "Source": "LogD7.4 of [18F]FNA-S-ACooP was \u2212 0.55 \u00b1 0.01 (n = 3) indicating that it is a hydrophilic compound."
+    },
+    "Question_4": {
+        "Context": "In organic chemistry, the use of a catalyst can speed up a reaction without being consumed in the process.",
+        "Question": "Which catalyst is used to facilitate esterification reactions?",
+        "A": "4-dimethylaminopyridine (DMAP)",
+        "B": "Sodium hydroxide",
+        "C": "Potassium permanganate",
+        "D": "Copper sulfate",
+        "Answer": "A",
+        "Source": "1 was prepared by an esterification reaction in the presence of EDC as the coupling agent and a catalytic quantity of DMAP."
+    },
+    "Question_5": {
+        "Context": "In organic synthesis, the yield of a reaction is the amount of product obtained, which is often expressed as a percentage of the theoretical maximum.",
+        "Question": "What was the yield of the esterification reaction to produce compound 1?",
+        "A": "29.9%",
+        "B": "49%",
+        "C": "96.6%",
+        "D": "89%",
+        "Answer": "B",
+        "Source": "The crude product was purified by silica gel column chromatography with a solution of hexane:ethylacetate (3:1, v/v) as eluent, and the resulting fractions were collected and concentrated to dryness in vacuo. The final product was obtained as a white solid (255 mg, 0.97 mmol, 49% yield)."
+    },
+    "Question_6": {
+        "Context": "In the context of radiolabeling for positron emission tomography (PET), prosthetic groups are used to attach radioactive isotopes to biomolecules.",
+        "Question": "Which prosthetic group was used for the radiolabeling of the ACooP peptide?",
+        "A": "6-[18F]fluoronicotinic acid 4-nitrophenyl ester",
+        "B": "N-succinimidyl-4-[18F]fluorobenzoate",
+        "C": "Piflufolastat F-18",
+        "D": "N,N,N-trimethyl-5-((4-nitrophenoxy)carbonyl)pyridine-2-aminium triflate",
+        "Answer": "A",
+        "Source": "The prosthetic compound 6\u2011[18F]fluoronicotinic acid 4\u2011nitrophenyl ester was conveniently prepared with an on\u2011resin 18F\u2011fluorination in 29.9% radiochemical yield and 96.6% radiochemical purity."
+    },
+    "Question_7": {
+        "Context": "In organic chemistry, high-performance liquid chromatography (HPLC) is a technique used to separate, identify, and quantify each component in a mixture.",
+        "Question": "What is the purpose of using HPLC in the context of radiolabeling peptides?",
+        "A": "To measure the pH of the reaction mixture",
+        "B": "To purify the radiolabeled product",
+        "C": "To initiate the radiolabeling reaction",
+        "D": "To deactivate the radioactive isotope",
+        "Answer": "B",
+        "Source": "The reaction mixture was then purified by a semi-preparative high-performance liquid chromatography (HPLC) C18 column at a flow rate of 4 mL/min."
+    },
+    "Question_8": {
+        "Context": "In the context of organic chemistry, the term 'radiochemical yield' refers to the amount of a radiolabeled compound that is formed in a synthesis.",
+        "Question": "What was the radiochemical yield of the on-resin 18F-fluorination to prepare the prosthetic compound 6-[18F]fluoronicotinic acid 4-nitrophenyl ester?",
+        "A": "29.9%",
+        "B": "49%",
+        "C": "96.6%",
+        "D": "89%",
+        "Answer": "A",
+        "Source": "The prosthetic compound 6\u2011[18F]fluoronicotinic acid 4\u2011nitrophenyl ester was conveniently prepared with an on\u2011resin 18F\u2011fluorination in 29.9% radiochemical yield and 96.6% radiochemical purity."
+    },
+    "Question_9": {
+        "Context": "In organic chemistry, the term 'radiochemical purity' refers to the proportion of a radiolabeled compound that is in the desired chemical form.",
+        "Question": "What was the radiochemical purity of the prosthetic compound 6-[18F]fluoronicotinic acid 4-nitrophenyl ester after on-resin 18F-fluorination?",
+        "A": "29.9%",
+        "B": "49%",
+        "C": "96.6%",
+        "D": "89%",
+        "Answer": "C",
+        "Source": "The prosthetic compound 6\u2011[18F]fluoronicotinic acid 4\u2011nitrophenyl ester was conveniently prepared with an on\u2011resin 18F\u2011fluorination in 29.9% radiochemical yield and 96.6% radiochemical purity."
+    },
+    "Question_10": {
+        "Context": "In organic chemistry, the stability of a compound in biological media is an important consideration for its potential use in vivo.",
+        "Question": "How was the stability of [18F]FNA-S-ACooP assessed in vitro?",
+        "A": "By measuring its melting point",
+        "B": "By incubating it in rat plasma and analyzing with HPLC",
+        "C": "By exposing it to UV light",
+        "D": "By performing a LogD7.4 measurement",
+        "Answer": "B",
+        "Source": "The stability of [18F]FNA-S-ACooP was assessed in vitro using plasma from a Sprague Dawley rat. After incubating [18F]FNA-S-ACooP in plasma at 37 \u00b0C for 5 min, 10 min, and 15 min, respectively, samples were taken and plasma proteins precipitated with acetonitrile."
+    }
+}

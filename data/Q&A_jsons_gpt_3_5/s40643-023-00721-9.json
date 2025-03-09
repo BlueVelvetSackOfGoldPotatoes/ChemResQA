@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the immobilization of lipase TLLs within a hydrogel matrix. The researchers utilized a two-step crosslinking method involving oxidized carboxymethyl cellulose (OCMC) and carboxymethyl chitosan (CMCHS).",
+        "Question": "What was the primary method used to immobilize lipase TLLs within the hydrogel matrix?",
+        "A": "Schiff base reaction",
+        "B": "Glutaraldehyde crosslinking",
+        "C": "Microfluidic encapsulation",
+        "D": "Enzymatic modification",
+        "Answer": "A",
+        "Source": "TLLs were initially crosslinked through the Schiff base reaction by oxidized carboxymethyl cellulose (OCMC)."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the impact of different solvents on the catalytic performance of the hydrogel-encapsulated lipase TLLs.",
+        "Question": "Which solvent exhibited the highest conversion rate of 6'-O-lauroyl arbutin in the enzymatic reaction?",
+        "A": "Acetone",
+        "B": "Cyclohexane",
+        "C": "Acetonitrile",
+        "D": "Tetrahydrofuran (THF)",
+        "Answer": "D",
+        "Source": "After a reaction at 50 \u00b0C for 12 h, the conversion rate of 6'-O-lauroyl arbutin in different reaction media was found to be in descending order, i.e., THF > tert-amyl alcohol > acetone > cyclohexane > acetonitrile > methanol."
+    },
+    "Question_3": {
+        "Context": "The study investigated the enzymatic properties of the hydrogel-encapsulated lipase TLLs, focusing on factors such as pH and temperature.",
+        "Question": "What was the optimal pH for both free TLLs and CMCHS/OCMC@TLLs?",
+        "A": "pH 6.0",
+        "B": "pH 7.0",
+        "C": "pH 8.0",
+        "D": "pH 9.0",
+        "Answer": "C",
+        "Source": "The optimum pH of free TLLs and CMCHS/OCMC@TLLs was found to be approximately 8.0."
+    },
+    "Question_4": {
+        "Context": "The study analyzed the enzymatic kinetic parameters of free TLLs, OCMC@TLLs complex, and OCMC/CMCS@TLLs using the Michaelis-Menten equation.",
+        "Question": "What was the Km value of OCMC/CMCS@TLLs compared to free TLLs?",
+        "A": "Lower",
+        "B": "Higher",
+        "C": "Equal",
+        "D": "Not mentioned",
+        "Answer": "B",
+        "Source": "The Km of OCMC/CMCS@TLLs was calculated to be 9.938 mmol/L, about sevenfold higher than that of free TLLs."
+    },
+    "Question_5": {
+        "Context": "The study assessed the inhibitory activity of tyrosinase by comparing \u03b1-arbutin and 6'-O-lauroyl arbutin.",
+        "Question": "Which compound exhibited a lower IC50 value for inhibiting tyrosinase?",
+        "A": "\u03b1-arbutin",
+        "B": "6'-O-lauroyl arbutin",
+        "C": "Both had the same IC50 value",
+        "D": "Not mentioned",
+        "Answer": "B",
+        "Source": "The IC50 value of 6\u2019-O-lauroyl arbutin was 0.035 mmol/L, slightly lower than that of \u03b1-arbutin (0.041 mmol/L)."
+    },
+    "Question_6": {
+        "Context": "The study investigated the DPPH radical scavenging ability of \u03b1-arbutin and 6'-O-lauroyl arbutin.",
+        "Question": "Which compound showed a greater DPPH radical scavenging ability?",
+        "A": "\u03b1-arbutin",
+        "B": "6'-O-lauroyl arbutin",
+        "C": "Both had equal scavenging abilities",
+        "D": "Not mentioned",
+        "Answer": "B",
+        "Source": "The DPPH radical scavenging ability of 6\u2019-O-lauroyl arbutin was found to be greater than that of its parent compound."
+    },
+    "Question_7": {
+        "Context": "The study evaluated the operating stability of OCMC/CMCHS@TLLs in comparison to a commercially immobilized lipase preparation.",
+        "Question": "Which catalyst exhibited a higher residual activity after seven repetitions of the reaction?",
+        "A": "OCMC/CMCHS@TLLs",
+        "B": "Commercially immobilized lipase",
+        "C": "Both had the same residual activity",
+        "D": "Not mentioned",
+        "Answer": "A",
+        "Source": "After seven repetitions, the performance of OCMC/CMCHS@TLLs dropped to 53.52%, suggesting its high operating stability."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the Log P values of arbutin and 6'-O-lauroyl arbutin to determine their hydrophilicity and lipophilicity.",
+        "Question": "What was the Log P value of 6'-O-lauroyl arbutin compared to arbutin?",
+        "A": "Arbutin had a higher Log P value",
+        "B": "6'-O-lauroyl arbutin had a higher Log P value",
+        "C": "Both had the same Log P value",
+        "D": "Not mentioned",
+        "Answer": "B",
+        "Source": "The Log P value of \u03b1-arbutin was -1.51, indicating its potent hydrophilicity; however, the Log P value of 6\u2019-O-lauroyl arbutin was as high as 3.18, demonstrating that the lipophilicity of arbutin was greatly enhanced."
+    },
+    "Question_9": {
+        "Context": "The study assessed the impact of acylation modification on the inhibitory activity of tyrosinase.",
+        "Question": "Which compound showed a lower IC50 value for inhibiting tyrosinase?",
+        "A": "\u03b1-arbutin",
+        "B": "6'-O-lauroyl arbutin",
+        "C": "Both had the same IC50 value",
+        "D": "Not mentioned",
+        "Answer": "B",
+        "Source": "The IC50 value of 6\u2019-O-lauroyl arbutin was about 0.12 mmol/L, obviously lower than that of \u03b1-arbutin."
+    },
+    "Question_10": {
+        "Context": "The study evaluated the DPPH radical scavenging ability of \u03b1-arbutin and 6'-O-lauroyl arbutin.",
+        "Question": "Which compound exhibited a greater DPPH radical scavenging ability?",
+        "A": "\u03b1-arbutin",
+        "B": "6'-O-lauroyl arbutin",
+        "C": "Both had equal scavenging abilities",
+        "D": "Not mentioned",
+        "Answer": "B",
+        "Source": "The DPPH radical scavenging ability of 6\u2019-O-lauroyl arbutin was greatly higher than its parent compound due to the electron-donating effect of lauroyl groups."
+    }
+}

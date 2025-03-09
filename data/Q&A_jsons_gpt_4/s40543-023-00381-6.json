@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Cannabinoids are a class of compounds derived from the Cannabis sativa plant, and they have various physiological effects. Synthetic cannabinoids are also created to mimic the effects of natural cannabinoids and are studied for potential therapeutic uses.",
+        "Question": "What is a potential therapeutic use of synthetic cannabinoid derivatives?",
+        "A": "Antinociceptive effects",
+        "B": "Antiepileptic effects",
+        "C": "Anticancer potential",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Synthetic and natural cannabinoid derivatives are highly investigated as drug candidates due to their antinociceptive, antiepileptic and anticancer potential."
+    },
+    "Question_2": {
+        "Context": "Arachidonoylcyclopropylamide (ACPA) is a synthetic cannabinoid that has been studied for its effects on various types of cancer.",
+        "Question": "Which type of cancer has ACPA shown antiproliferative and apoptotic effects on?",
+        "A": "Non-small cell lung cancer",
+        "B": "Pancreatic carcinoma",
+        "C": "Endometrial carcinoma",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Arachidonoylcyclopropylamide (ACPA) is a synthetic cannabinoid with antiproliferative and apoptotic effects on non-small cell lung cancer and pancreatic and endometrial carcinoma."
+    },
+    "Question_3": {
+        "Context": "In the context of pharmacokinetics, the half-life of a drug is an important factor that determines how long the drug stays active in the body.",
+        "Question": "What is a challenge in the quantification of ACPA in biological systems?",
+        "A": "Its long half-life",
+        "B": "Its short half-life",
+        "C": "Its strong UV signal",
+        "D": "Its high solubility in water",
+        "Answer": "B",
+        "Source": "However, the challenge in the quantification of ACPA is its short half-life and lack of UV signal."
+    },
+    "Question_4": {
+        "Context": "Liquid chromatography-tandem mass spectrometry (LC\u2013MS/MS) is a technique used for the sensitive and selective quantification of compounds in various matrices.",
+        "Question": "What method was developed for the quantification of ACPA?",
+        "A": "High-performance liquid chromatography",
+        "B": "Gas chromatography",
+        "C": "Liquid chromatography-tandem mass spectrometry",
+        "D": "Thin-layer chromatography",
+        "Answer": "C",
+        "Source": "Therefore, we developed a liquid chromatography-tandem mass spectrometric (LC\u2013MS/MS) method for sensitive and selective quantification of ACPA in cell culture medium and intracellular matrix."
+    },
+    "Question_5": {
+        "Context": "In mass spectrometry, the transition from a precursor ion to a product ion is monitored for the detection and quantification of a specific compound.",
+        "Question": "What transition was used for the detection of ACPA in the developed LC\u2013MS/MS method?",
+        "A": "344 \u2192 287 m/z",
+        "B": "344 \u2192 203 m/z",
+        "C": "203 \u2192 344 m/z",
+        "D": "287 \u2192 344 m/z",
+        "Answer": "B",
+        "Source": "Multiple reaction monitoring in the positive ionization mode was used for detection with 344 \u2192 203 m/z transitions."
+    },
+    "Question_6": {
+        "Context": "The mobile phase in chromatography is the solvent or mixture of solvents used to carry the sample through the stationary phase, affecting the separation of compounds.",
+        "Question": "What was the composition of the mobile phase used in the gradient mode for the separation of ACPA?",
+        "A": "0.1% formic acid in methanol and water",
+        "B": "0.1% formic acid in water and acetonitrile",
+        "C": "0.1% acetic acid in water and acetonitrile",
+        "D": "0.1% acetic acid in methanol and water",
+        "Answer": "B",
+        "Source": "The separation of ACPA was performed on C18 column with the mobile phase run in the gradient mode with 0.1% formic acid (FA) in water and 0.1% FA in acetonitrile at a flow rate of 0.3 ml/min."
+    },
+    "Question_7": {
+        "Context": "The endocannabinoid system is a complex network of receptors and ligands involved in various physiological processes.",
+        "Question": "Which receptors are known to mediate the anticancer effects of cannabinoids?",
+        "A": "G-protein-coupled CB receptors 1 and 2",
+        "B": "G-protein-coupled CB receptors 3 and 4",
+        "C": "Ionotropic glutamate receptors",
+        "D": "Serotonin receptors",
+        "Answer": "A",
+        "Source": "Both endogenous and exogenous cannabinoids induce their anticancer effects through G-protein-coupled CB receptors 1 (CB1) and 2 (CB2)."
+    },
+    "Question_8": {
+        "Context": "The calibration curve in analytical chemistry is used to determine the concentration of a substance in an unknown sample by comparing its response to a series of known standards.",
+        "Question": "What was the linearity range of the calibration curve for ACPA in the developed LC\u2013MS/MS method?",
+        "A": "0.18\u2013100 ng/mL",
+        "B": "1.8\u2013100 ng/mL",
+        "C": "18\u20131000 ng/mL",
+        "D": "1.8\u20131000 ng/mL",
+        "Answer": "D",
+        "Source": "The assay was linear in the concentration range of 1.8\u20131000 ng/mL (r = 0.999)."
+    },
+    "Question_9": {
+        "Context": "In analytical chemistry, the internal standard is a compound added in a constant amount to samples, calibration standards, and quality controls. It is used to correct for variations in sample analysis.",
+        "Question": "What compound was used as the internal standard (IS) in the quantification of ACPA?",
+        "A": "Arachidonoyl ethanolamide",
+        "B": "Polycaprolactone",
+        "C": "Formic acid",
+        "D": "Acetonitrile",
+        "Answer": "A",
+        "Source": "The analytical standard of ACPA and arachidonoyl ethanolamide (internal standard, IS) was obtained from Tocris Bioscience."
+    },
+    "Question_10": {
+        "Context": "The validation of an analytical method ensures that it is suitable for its intended purpose and meets certain criteria such as accuracy, precision, and specificity.",
+        "Question": "Which of the following parameters were NOT mentioned as part of the validation studies for the LC\u2013MS/MS method developed for ACPA quantification?",
+        "A": "Linearity",
+        "B": "Sensitivity",
+        "C": "Stability",
+        "D": "Volatility",
+        "Answer": "D",
+        "Source": "The validation studies revealed that the method was linear, sensitive, accurate, precise, selective, repeatable, robust and rugged."
+    }
+}

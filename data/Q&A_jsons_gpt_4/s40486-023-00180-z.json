@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Nanofluids can be used in enhanced oil recovery (EOR) to improve the extraction of oil from reservoirs. These fluids can alter the properties of the reservoir by reducing interfacial tension, changing wettability, and increasing disjoining pressure.",
+        "Question": "What is the primary role of polymer stabilizers in zinc oxide (ZnO) nanofluids used for enhanced oil recovery?",
+        "A": "To increase the viscosity of the nanofluids",
+        "B": "To stabilize the nanoparticles in the nanofluids",
+        "C": "To reduce the cost of nanofluid production",
+        "D": "To alter the color of the nanofluids",
+        "Answer": "B",
+        "Source": "The stability issue has been reduced by deploying polymers as stabilizing and capping agents for nanoparticles which improve their suspension, protect them from high temperature and high salinity, and improve molecular interactions with other fluids."
+    },
+    "Question_2": {
+        "Context": "In the context of nanofluids for oil recovery, the stability of the nanoparticles within the base fluid is crucial for effective application. This stability can be affected by various factors including the presence of stabilizing agents.",
+        "Question": "Which stabilizing agent was found to record the highest oil recovery when used with ZnO nanofluids?",
+        "A": "Polyvinylpyrrolidone (PVP)",
+        "B": "Polyvinyl alcohol (PVA)",
+        "C": "Sodium hydroxide (NaOH)",
+        "D": "Chromium trichloride (CrCl3)",
+        "Answer": "B",
+        "Source": "It was noted that ZnO nanofluids with PVA stabilizer recorded the highest oil recovery of 82%."
+    },
+    "Question_3": {
+        "Context": "Nanoparticles such as ZnO are used in the preparation of nanofluids for enhanced oil recovery due to their unique properties, which include the ability to adsorb on rock surfaces.",
+        "Question": "What is the advantage of ZnO nanoparticles having a large surface area in the context of enhanced oil recovery?",
+        "A": "They can increase the density of the nanofluids",
+        "B": "They can enhance the thermal conductivity of the nanofluids",
+        "C": "They have a higher adsorption capacity on rock surfaces",
+        "D": "They can change the color of the nanofluids",
+        "Answer": "C",
+        "Source": "Furthermore, ZnO nanofluids have a higher adsorption capacity on the rock surface due to the large surface area of its nanoparticles."
+    },
+    "Question_4": {
+        "Context": "The wettability of a formation is a critical factor in oil recovery processes. Nanofluids can be used to alter the wettability of the formation's surface, which can enhance oil recovery.",
+        "Question": "What is the effect of nanoparticles rearranging at the formation surface in enhanced oil recovery?",
+        "A": "It increases the interfacial tension between fluids",
+        "B": "It decreases the structural disjoint pressure",
+        "C": "It leads to the alteration of formation rock from oil-wet to water-wet conditions",
+        "D": "It reduces the adsorption capacity of the nanofluids",
+        "Answer": "C",
+        "Source": "Wettability alteration is one of the main mechanisms in nanofluid-enhanced oil recovery because nanoparticles in base fluids easily rearrange at the formation surface accelerated by an increase in the structural disjoint pressure that enhances oil recovery."
+    },
+    "Question_5": {
+        "Context": "The interfacial tension (IFT) between oil and water in a reservoir can significantly affect the efficiency of oil recovery. Nanofluids can be used to reduce this interfacial tension.",
+        "Question": "How do nanofluids containing polymeric stabilizing agents compare to ZnO nanofluids without stabilizing agents in terms of interfacial tension reduction?",
+        "A": "They achieve better recovery factors with no significant change in IFT",
+        "B": "They achieve better recovery factors and reduce the IFT significantly",
+        "C": "They have no effect on the IFT or recovery factors",
+        "D": "They increase the IFT but improve the recovery factors",
+        "Answer": "B",
+        "Source": "Nanofluids containing polymeric stabilizing agents achieved better recovery factors compared to ZnO nanofluids without stabilizing agents. This phenomenon was also observed in the interfacial tension test where nanofluids with PVA and PVP stabilizers reduced the IFT by 59% and 61% respectively."
+    },
+    "Question_6": {
+        "Context": "The synthesis of nanoparticles involves various chemical reactions and processes. Zinc oxide nanoparticles can be synthesized using a sol\u2013gel method, which involves chemical reactions in a solution that lead to the formation of a gel.",
+        "Question": "What is the purpose of adding sodium hydroxide during the synthesis of zinc oxide nanoparticles using the sol\u2013gel method?",
+        "A": "To increase the pH of the solution",
+        "B": "To act as a stabilizing agent",
+        "C": "To reduce the particle size of the nanoparticles",
+        "D": "To initiate the gelation process",
+        "Answer": "D",
+        "Source": "Zinc oxide nanoparticles were synthesized using the sol\u2013gel method by carefully adding 10 g of zinc acetate dihydrate to 150 ml of methanol and were subjected to instance stirring using a magnetic stirrer for 60 \u00b0C until the solution became clear. 18 ml of sodium hydroxide was added dropwise at the glass wall follows by continuous stirring for three hours."
+    },
+    "Question_7": {
+        "Context": "The size of nanoparticles is a critical parameter that influences their properties and behavior in applications such as enhanced oil recovery.",
+        "Question": "What is the average particle size of the synthesized ZnO nanoparticles used in the preparation of nanofluids for enhanced oil recovery?",
+        "A": "10 nm",
+        "B": "34 nm",
+        "C": "93 nm",
+        "D": "145 nm",
+        "Answer": "B",
+        "Source": "Nanoparticles with an average particle size of 34 nm were synthesized and used to prepare nanofluids of different concentrations and their stability was evaluated using sedimentation and UV\u2013vis spectrophotometry tests."
+    },
+    "Question_8": {
+        "Context": "The stability of nanofluids is often assessed using various tests, including UV\u2013vis spectrophotometry, which measures the absorbance of light by the nanofluids at different wavelengths.",
+        "Question": "What does a redshift in the UV\u2013vis absorbance curve of ZnO nanofluids indicate?",
+        "A": "A decrease in the concentration of nanoparticles",
+        "B": "An increase in the particle size of nanoparticles",
+        "C": "A reduction in the stability of the nanofluids",
+        "D": "An improvement in the chemical stability of the nanofluids",
+        "Answer": "B",
+        "Source": "However, there is a redshift in the ZnO + PVA curve and this may happen due change in refractive index, particle size of PVA and aggregation of ZnO nanoparticles in base fluid or reduction on active sites on the surface of ZnO nanoparticles."
+    },
+    "Question_9": {
+        "Context": "The zeta potential of a nanofluid is a measure of the stability of the nanoparticles within the fluid. It is determined by the surface charge of the nanoparticles, which affects their ability to remain suspended in the fluid.",
+        "Question": "What does a zeta potential value of -43.7 mV indicate about the stability of ZnO nanofluids?",
+        "A": "Poor stability due to high agglomeration",
+        "B": "Moderate stability with potential for coagulation",
+        "C": "Good stability with reduced agglomeration",
+        "D": "No impact on stability as zeta potential is not related",
+        "Answer": "C",
+        "Source": "The obtained zeta potential of -43.7 (mV) indicates a better dispersibility of the colloidal in the base fluids."
+    },
+    "Question_10": {
+        "Context": "In the process of enhanced oil recovery, the contact angle of a fluid on a rock surface can provide insights into the wettability of the formation. A lower contact angle indicates a more water-wet surface, which is generally favorable for oil recovery.",
+        "Question": "What was the observed effect of adding PVA and PVP stabilizers to ZnO nanofluids on the contact angle on a PDMS surface?",
+        "A": "The contact angle increased, indicating a more oil-wet surface",
+        "B": "The contact angle remained unchanged",
+        "C": "The contact angle decreased, indicating a more water-wet surface",
+        "D": "The contact angle varied unpredictably",
+        "Answer": "C",
+        "Source": "It was well noted that the addition of PVA and PVP stabilizers into nanofluids decrease the contact angle at PDMS surface than pure nanofluids which changed the PDMS surface to water-wet indicating the capability of nanofluids in altering the reservoir formation wettability."
+    }
+}

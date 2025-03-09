@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of lithium-ion batteries, the optimization of cathode materials is crucial for improving performance. Ni-based cathode materials are known for their high capacity and energy density.",
+        "Question": "What is the primary benefit of enhancing porosity in Ni-based cathode materials for lithium-ion batteries?",
+        "A": "Increases the electrode-electrolyte contact area",
+        "B": "Reduces the manufacturing cost",
+        "C": "Enhances the battery's aesthetic appeal",
+        "D": "Decreases the energy density",
+        "Answer": "A",
+        "Source": "Enhanced porosity improves lithium-ion mobility by increasing the electrode\u2013electrolyte contact area and reducing the number of ion diffusion pathways."
+    },
+    "Question_2": {
+        "Context": "In materials science, porosity is a critical factor that influences the performance of materials such as cathode materials in batteries.",
+        "Question": "What is a potential drawback of excessive porosity in Ni-based cathode materials?",
+        "A": "Increases the energy density",
+        "B": "Improves the cyclic performance",
+        "C": "Diminishes the capacity",
+        "D": "Reduces the manufacturing cost",
+        "Answer": "C",
+        "Source": "However, excessive porosity can diminish capacity, thus necessitating optimizing pore distribution to compromise the trade\u2011off relation."
+    },
+    "Question_3": {
+        "Context": "Scanning electron microscopy (SEM) is a technique used to analyze the microstructure of materials, including the porosity of electrode materials.",
+        "Question": "What is a limitation of conventional SEM image-based porosity measurement?",
+        "A": "It is highly automated",
+        "B": "It is labor-intensive and subject to human bias",
+        "C": "It increases the energy density of materials",
+        "D": "It is not applicable to Ni-based cathode materials",
+        "Answer": "B",
+        "Source": "Conventional scanning electron microscopy (SEM) image\u2011based porosity measurement can be used for this purpose. However, it is labor\u2011intensive and subjected to human bias for low\u2011contrast pore images, thereby potentially lowering measurement accuracy."
+    },
+    "Question_4": {
+        "Context": "Deep convolutional neural networks (CNNs) have been applied in various fields, including materials science, for image analysis and feature segmentation.",
+        "Question": "What is the advantage of using deep convolutional neural networks for porosity measurement in cathode materials?",
+        "A": "Increases the number of ion diffusion pathways",
+        "B": "Reduces the electrode-electrolyte contact area",
+        "C": "Reduces manual effort and human bias",
+        "D": "Diminishes the capacity of the cathode materials",
+        "Answer": "C",
+        "Source": "This automated method considerably reduces manual effort and human bias related to the digitization of pore features in serial section SEM image datasets used in 3D electron tomography."
+    },
+    "Question_5": {
+        "Context": "X-ray computed tomography (XCT) and scanning electron microscopy (SEM) combined with focused ion beam (FIB) are techniques used to characterize the porosity of materials.",
+        "Question": "Which technique is suggested for precise porosity quantification at the nanoscale resolution?",
+        "A": "X-ray computed tomography (XCT) only",
+        "B": "SEM combined with a focused ion beam (FIB)-based serial milling",
+        "C": "Conventional digital approaches",
+        "D": "Manual counting methods",
+        "Answer": "B",
+        "Source": "Cross-sectional image analysis or tomography interpretation using scanning electron microscopy (SEM) combined with a focused ion beam (FIB)-based serial milling was suggested for precise porosity quantification owing to its nanoscale resolution down to a level of 10 nm."
+    },
+    "Question_6": {
+        "Context": "In image analysis, the segmentation of features such as pores in materials can be challenging due to the quality of the images obtained from techniques like SEM.",
+        "Question": "What is a common issue with the segmentation of pores in SEM images?",
+        "A": "The high contrast of the images",
+        "B": "The subjective decision-making due to weak image contrast",
+        "C": "The oversaturation of colors",
+        "D": "The high automation of the process",
+        "Answer": "B",
+        "Source": "In general, a subjective decision can be made regarding the weak image contrast of pores in SEM images, which can reduce the measurement veracity."
+    },
+    "Question_7": {
+        "Context": "Digital segmentation methods are used to estimate the pore content in materials based on SEM imaging.",
+        "Question": "What is a general drawback of traditional digital segmentation methods for SEM images?",
+        "A": "They are too rapid and efficient",
+        "B": "They are generally time-consuming and require human intervention",
+        "C": "They enhance the capacity of the cathode materials",
+        "D": "They are not applicable to porous materials",
+        "Answer": "B",
+        "Source": "Digital segmentation using the aforementioned approaches is generally time-consuming and requires human intervention for each digital processing step, thus complicating measurements with statistical significance."
+    },
+    "Question_8": {
+        "Context": "Convolutional neural networks (CNNs) are a class of deep neural networks, most commonly applied to analyzing visual imagery.",
+        "Question": "What is the role of CNNs in the context of feature segmentation for SEM images?",
+        "A": "To increase the number of ion diffusion pathways",
+        "B": "To reduce the cyclic performance of lithium-ion batteries",
+        "C": "To improve efficiency and reliability in feature segmentation",
+        "D": "To enhance the porosity of the cathode materials",
+        "Answer": "C",
+        "Source": "Recently, machine learning/deep learning algorithms such as random forest classifiers and CNNs for feature segmentation were actively adapted to reduce contrast artifacts in traditional SEM images and to improve efficiency and reliability in FIB-SEM tomography for pore structure characterizations."
+    },
+    "Question_9": {
+        "Context": "In the process of developing deep learning models for image segmentation, the preprocessing of input data is a crucial step.",
+        "Question": "What is the purpose of preprocessing input images in the context of CNN-based pore segmentation?",
+        "A": "To increase the energy density of cathode materials",
+        "B": "To improve the learning efficiency of the CNN model",
+        "C": "To reduce the electrode-electrolyte contact area",
+        "D": "To diminish the capacity of the cathode materials",
+        "Answer": "B",
+        "Source": "To preprocess the image dataset, we independently used histogram stretching and histogram equalization to create a high-contrast image dataset exhibiting a clear pore structure in the secondary cathode particles."
+    },
+    "Question_10": {
+        "Context": "Histogram equalization is a technique used in image processing to improve the contrast of images.",
+        "Question": "What is the effect of histogram equalization on the contrast of SEM images used for pore segmentation?",
+        "A": "It reduces the contrast and makes the images blurrier",
+        "B": "It has no effect on the contrast or quality of the images",
+        "C": "It substantially improves the image contrast",
+        "D": "It changes the color balance of the images",
+        "Answer": "C",
+        "Source": "Subsequent treatment based on histogram equalization can further improve the image contrast, which effectively reduces the difference in magnitude among all pixels in the pore region with dark contrast."
+    }
+}

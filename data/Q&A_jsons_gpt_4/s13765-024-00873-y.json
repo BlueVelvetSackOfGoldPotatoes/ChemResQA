@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Inflammation is a protective response involving immune cells, blood vessels, and molecular mediators that helps eliminate the initial cause of cell injury.",
+        "Question": "Which of the following is NOT a representative signal of inflammation?",
+        "A": "Fever",
+        "B": "Redness",
+        "C": "Dysfunction",
+        "D": "Numbness",
+        "Answer": "D",
+        "Source": "Inflammation, the body\u2019s \u201cnatural defense system\u201d against injury and disease, has five representative signals: fever, redness, dysfunction, swelling, and ache."
+    },
+    "Question_2": {
+        "Context": "Pattern recognition receptors (PRRs) play a crucial role in the immune system by recognizing pathogen-associated molecular patterns (PAMPs) to trigger an inflammatory response.",
+        "Question": "Which family of pattern recognition receptors is known for recognizing lipopolysaccharides (LPS)?",
+        "A": "Toll-like receptors (TLRs)",
+        "B": "NOD-like receptors (NLRs)",
+        "C": "RIG-I-like receptors (RLRs)",
+        "D": "C-type lectin receptors (CLRs)",
+        "Answer": "A",
+        "Source": "Pattern recognition receptors (PRRs) recognize pathogen-associated molecular patterns (PAMPs), specialized motif of bacteria, viruses, and fungi, and trigger inflammatory responses through intracellular signaling. Toll-like receptors (TLRs) are the most well-known members of the PRR family."
+    },
+    "Question_3": {
+        "Context": "Lipopolysaccharides (LPS) are major components of the cell wall of gram-negative bacteria and can trigger a strong immune response.",
+        "Question": "What is the major consequence of lipopolysaccharides (LPS) binding to Toll-like receptors (TLRs)?",
+        "A": "Decreased cytokine production",
+        "B": "Induction of an acute inflammatory response",
+        "C": "Suppression of macrophage activation",
+        "D": "Inhibition of nitric oxide production",
+        "Answer": "B",
+        "Source": "LPS is a major component of the cell wall of gram-negative bacteria and can trigger the release of numerous inflammatory cytokines, resulting in an acute inflammatory response."
+    },
+    "Question_4": {
+        "Context": "In the context of inflammation, the activation of certain signaling pathways leads to the production of pro-inflammatory mediators.",
+        "Question": "Which signaling pathway is involved in the production of pro-inflammatory cytokines and enzymes upon activation?",
+        "A": "G protein-coupled receptor signaling",
+        "B": "Wnt/\u03b2-catenin signaling",
+        "C": "NF-\u03baB and MAPK signaling pathways",
+        "D": "Hedgehog signaling pathway",
+        "Answer": "C",
+        "Source": "These processes can trigger intracellular signaling cascades by stimulating the AKT/NF-\u03baB and mitogen-activated protein kinase (MAPK) signaling pathways, including ERK1/2, JNKs, and p38 MAPKs."
+    },
+    "Question_5": {
+        "Context": "Pro-inflammatory cytokines are key mediators of inflammation and play a role in the body's immune response.",
+        "Question": "Which of the following is a pro-inflammatory cytokine?",
+        "A": "Interleukin-10 (IL-10)",
+        "B": "Interleukin-6 (IL-6)",
+        "C": "Interleukin-4 (IL-4)",
+        "D": "Transforming growth factor-beta (TGF-\u03b2)",
+        "Answer": "B",
+        "Source": "Stimulation of these pathways can induce the expression of pro-inflammatory mediators, such as pro-inflammatory cytokines (interleukin-6 [IL-6], IL-1\u03b2, and tumor necrosis factor-alpha [TNF-\u03b1]) and pro-inflammatory enzymes."
+    },
+    "Question_6": {
+        "Context": "Pro-inflammatory enzymes play a significant role in the inflammatory process by producing mediators that contribute to inflammation.",
+        "Question": "Which of the following enzymes is considered a pro-inflammatory enzyme that contributes to the inflammatory process?",
+        "A": "Catalase",
+        "B": "Superoxide dismutase",
+        "C": "Cyclooxygenase-2 (COX-2)",
+        "D": "Glutathione peroxidase",
+        "Answer": "C",
+        "Source": "Stimulation of these pathways can induce the expression of pro-inflammatory mediators, such as pro-inflammatory cytokines and pro-inflammatory enzymes, such as inducible nitric oxide synthase (iNOS) and cyclooxygenase-2 (COX-2)."
+    },
+    "Question_7": {
+        "Context": "Sepsis is a life-threatening condition that arises when the body's response to an infection causes injury to its own tissues and organs.",
+        "Question": "What is a major cause of sepsis?",
+        "A": "Viral infection",
+        "B": "Fungal infection",
+        "C": "Lipopolysaccharides (LPS)",
+        "D": "Parasitic infection",
+        "Answer": "C",
+        "Source": "Over the years, the incidence of sepsis has increased, and LPS is a major cause of sepsis."
+    },
+    "Question_8": {
+        "Context": "Natural compounds are often investigated for their potential therapeutic activities due to their structural diversity.",
+        "Question": "Which of the following activities is NOT typically associated with natural compounds?",
+        "A": "Anti-inflammatory",
+        "B": "Antifungal",
+        "C": "Antiviral",
+        "D": "Pro-inflammatory",
+        "Answer": "D",
+        "Source": "Recent findings suggest that naturally derived compounds possess physiological activities, including anti-inflammatory, antifungal, antiviral, anticancer, and immunomodulatory activities."
+    },
+    "Question_9": {
+        "Context": "p-Terphenyls are a class of organic compounds that consist of three phenyl rings connected by single carbon-carbon bonds.",
+        "Question": "What is the structural backbone of p-Terphenyl compounds?",
+        "A": "1,4-diphenyl benzene derivatives",
+        "B": "1,3-diphenyl propane derivatives",
+        "C": "1,2-diphenyl ethane derivatives",
+        "D": "1,4-diphenyl ether derivatives",
+        "Answer": "A",
+        "Source": "p-Terphenyls are 1,4-diphenyl benzene derivatives with three phenyl rings connected by a single C\u2013C bond."
+    },
+    "Question_10": {
+        "Context": "Secondary metabolites produced by organisms in extreme environments like the polar regions can have various physiological activities.",
+        "Question": "Which of the following is a physiological activity associated with secondary metabolites from polar organisms?",
+        "A": "Neurodegenerative",
+        "B": "Antithrombotic",
+        "C": "Procoagulant",
+        "D": "Carcinogenic",
+        "Answer": "B",
+        "Source": "p-Terphenyls possess several biological activities, including neuroprotective, antithrombotic, and anticoagulant activities."
+    }
+}

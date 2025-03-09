@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Radiopharmaceuticals are used in nuclear medicine for diagnosis or therapy, and some require preparation in a radiopharmacy laboratory.",
+        "Question": "What is the primary use of radiopharmaceuticals in medicine?",
+        "A": "For nutritional supplements",
+        "B": "For diagnosis or therapy in nuclear medicine",
+        "C": "For improving physical performance",
+        "D": "For cosmetic purposes",
+        "Answer": "B",
+        "Source": "Radiopharmaceuticals are medicines used for diagnosis or therapy in nuclear medicine."
+    },
+    "Question_2": {
+        "Context": "Technetium-99m is used in radiopharmacy laboratories for preparations in nuclear medicine.",
+        "Question": "What is technetium-99m primarily used for in a radiopharmacy laboratory?",
+        "A": "As a preservative in pharmaceuticals",
+        "B": "As a flavoring agent in oral medications",
+        "C": "For daily used Single-photon-emission-computed-tomography (SPECT) imaging",
+        "D": "As a disinfectant for medical equipment",
+        "Answer": "C",
+        "Source": "These drugs may require preparation in a radiopharmacy laboratory such as for daily used Single-photon-emission-computed-tomography (SPECT) imaging with technetium-99 m preparations."
+    },
+    "Question_3": {
+        "Context": "In the context of radiopharmaceuticals, sterility testing is crucial to ensure the absence of microbial contamination.",
+        "Question": "Why is sterility testing performed on radiopharmaceutical preparations?",
+        "A": "To enhance the flavor of the pharmaceutical",
+        "B": "To change the color of the pharmaceutical",
+        "C": "To guarantee the absence of microbial contamination",
+        "D": "To increase the half-life of radiopharmaceuticals",
+        "Answer": "C",
+        "Source": "For this purpose and in order to ensure the sterility of a radiopharmaceutical preparation, sterility testing must be performed to guarantee the absence of microbial contamination."
+    },
+    "Question_4": {
+        "Context": "The European Pharmacopoeia sets standards for pharmaceuticals, including recommendations for sterility testing of radiopharmaceuticals.",
+        "Question": "What does the European Pharmacopoeia recommend regarding radiopharmaceutical preparations?",
+        "A": "They should be colored before administration",
+        "B": "They should comply with the sterility test",
+        "C": "They should be used without any testing",
+        "D": "They should be taste-tested",
+        "Answer": "B",
+        "Source": "The European Pharmacopoeia recommends that radiopharmaceutical preparations for parenteral administration should comply with the sterility test."
+    },
+    "Question_5": {
+        "Context": "Radiopharmaceutical preparations can be tested for sterility by storing samples until sufficient radioactivity decay occurs.",
+        "Question": "What is one recommended method for performing sterility testing on radiopharmaceutical preparations?",
+        "A": "Heating the samples to high temperatures",
+        "B": "Storing samples for sufficient radioactivity decay",
+        "C": "Adding preservatives to the samples",
+        "D": "Freezing the samples",
+        "Answer": "B",
+        "Source": "The latest European Association of Nuclear Medicine (EANM) recommendations on Good Radiopharmacy Practice from Gillings and al suggests storing samples for sufficient radioactivity decay, and then sent for sterility testing to an external laboratory."
+    },
+    "Question_6": {
+        "Context": "Technetium-99m gamma rays have been studied for their effects on bacterial strains that may contaminate injectable solutions.",
+        "Question": "What effect does technetium-99m gamma radiation have on Pseudomonas aeruginosa in comparison to non-radioactive samples?",
+        "A": "No effect",
+        "B": "Increases bacterial growth",
+        "C": "Decreases the number of CFU",
+        "D": "Changes bacterial color",
+        "Answer": "C",
+        "Source": "Technetium-99 m caused a very important decrease of the number of P. aeruginosa CFU in relation to the non-radioactive samples."
+    },
+    "Question_7": {
+        "Context": "The survival rate of bacteria in radiopharmaceutical solutions can be influenced by the presence of nutrients in the medium.",
+        "Question": "What factor besides radioactivity affects the survival rate of Staphylococcus epidermidis in the medium?",
+        "A": "The color of the medium",
+        "B": "The presence of oxygen",
+        "C": "The absence of nutrients",
+        "D": "The temperature of the medium",
+        "Answer": "C",
+        "Source": "For the S. epidermidis strain, the results showed a decrease in the number of CFU in both series (radioactive, non-radioactive) with no difference whatever the radioactive activity."
+    },
+    "Question_8": {
+        "Context": "The viability of bacteria in radiopharmaceutical solutions can be affected by the concentration of radioactivity.",
+        "Question": "How does a high concentration of radioactivity affect Staphylococcus aureus in radiopharmaceutical solutions?",
+        "A": "It has no impact on bacterial viability",
+        "B": "It changes the bacterial strain",
+        "C": "It increases the bacterial survival rate",
+        "D": "It decreases the bacterial survival rate",
+        "Answer": "D",
+        "Source": "Finally with S. aureus, the number of CFU decreased in the two series at different times. A more significant decrease was observed in the radioactive series for activities greater than 1.85 GBq."
+    },
+    "Question_9": {
+        "Context": "The sterility of radiopharmaceuticals is a critical aspect of patient safety, and various measures are recommended to ensure this.",
+        "Question": "Which of the following is a recommended practice to ensure the sterility of radiopharmaceutical preparations?",
+        "A": "Working in a dirty environment",
+        "B": "Using untrained staff",
+        "C": "Ignoring aseptic techniques",
+        "D": "Complying with strict aseptic techniques",
+        "Answer": "D",
+        "Source": "Consequently, to ensure patient safety, it is very important to have a complete quality assurance system and to comply with all the relevant hygiene safety measures (strict aseptic techniques, working in a clean room in a class A shielded enclosure, having staff trained and validated by aseptic filling tests, etc.)"
+    },
+    "Question_10": {
+        "Context": "The incubation period for plate cultures is an important factor in the detection of bacterial contamination in pharmaceuticals.",
+        "Question": "What incubation period does the European pharmacopoeia recommend for plate cultures to detect bacterial contamination?",
+        "A": "24 hours",
+        "B": "7 days",
+        "C": "2 weeks",
+        "D": "1 month",
+        "Answer": "B",
+        "Source": "The European pharmacopoeia recommends an incubation period for plate cultures to 7 days and not just for 24 h incubation."
+    }
+}

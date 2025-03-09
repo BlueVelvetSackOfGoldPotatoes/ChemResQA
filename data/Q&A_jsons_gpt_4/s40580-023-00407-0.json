@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Memristors are electronic devices that can change their resistance in response to electrical stimuli, and this change can be retained over time.",
+        "Question": "What does the term 'memristor' stand for?",
+        "A": "Memory resistor",
+        "B": "Metal resistor",
+        "C": "Mega resistor",
+        "D": "Modulated resistor",
+        "Answer": "A",
+        "Source": "The memristor, short for memory resistor, is an emerging two-terminal electronic device with a simple form of electrode/switching layer/electrode that can alter its conductance state due to the dynamical reconfiguration of the switching layer induced by external electrical stimuli."
+    },
+    "Question_2": {
+        "Context": "In memristors, the conductance state can be altered by external electrical stimuli, and this change can be retained for a certain length of time without energy consumption.",
+        "Question": "How is the conductance state of a memristor maintained?",
+        "A": "Using a continuous power supply",
+        "B": "Through an external magnetic field",
+        "C": "With zero energy consumption",
+        "D": "By mechanical stress",
+        "Answer": "C",
+        "Source": "As its name suggested, such conductance change can retain for a certain length of time with zero energy consumption."
+    },
+    "Question_3": {
+        "Context": "Memristors can achieve multiple intermediate conductance states between ON and OFF states by using appropriate electrical inputs.",
+        "Question": "What allows memristors to achieve multiple intermediate conductance states?",
+        "A": "Temperature variations",
+        "B": "Appropriate electrical inputs",
+        "C": "Mechanical pressure",
+        "D": "Light exposure",
+        "Answer": "B",
+        "Source": "Moreover, multiple intermediate conductance states between ON (the low resistance state) and OFF (the high resistance state) state can be achieved via the use of appropriate electrical inputs."
+    },
+    "Question_4": {
+        "Context": "Memristors can be broadly classified into filament and filament-free types based on their switching process.",
+        "Question": "What is the main difference between filament and filament-free memristors?",
+        "A": "The color of the device",
+        "B": "The size of the device",
+        "C": "The presence of localized conduction channels",
+        "D": "The type of electrical stimuli used",
+        "Answer": "C",
+        "Source": "Memristors can be broadly classified into filament and filament-free types depending on whether the switching process occurs within a few localized conduction channels or uniformly across the entire device area."
+    },
+    "Question_5": {
+        "Context": "Filament-free switching memristors are associated with uniform conduction and insulation effects across the entire interface between electrode and switching layer or the bulk of the switching layer.",
+        "Question": "What is a characteristic feature of filament-free switching memristors?",
+        "A": "Localized conduction channels",
+        "B": "Uniform conduction across the entire device",
+        "C": "High variability in switching",
+        "D": "Initial forming process",
+        "Answer": "B",
+        "Source": "Because the conduction is dependent on the entire area of the device, the ON current scales with the device size. Hence, the area dependency of the operating current is one distinct property of the filament-free type."
+    },
+    "Question_6": {
+        "Context": "Ion migration in memristors is a process where ions move under the influence of an applied electric field, affecting the device's resistance.",
+        "Question": "What role does ion migration play in the operation of certain memristors?",
+        "A": "It generates heat to increase resistance",
+        "B": "It creates a magnetic field to change resistance",
+        "C": "It moves ions to modulate a barrier affecting resistance",
+        "D": "It permanently alters the material composition",
+        "Answer": "C",
+        "Source": "Migration of ions under the applied electric field is generally considered as one of the main driving forces for the filament-free type of memristors. The \u03a6B can result in a high resistance contact because the major charge carriers are depleted near the interface of the switching layer."
+    },
+    "Question_7": {
+        "Context": "Intercalation in memristors involves the reversible insertion of ions into the lattices of materials, which can lead to changes in the device's resistance.",
+        "Question": "What is the effect of intercalation on the resistance of a memristor?",
+        "A": "It decreases resistance by forming a magnetic field",
+        "B": "It increases resistance by removing ions from lattices",
+        "C": "It has no effect on resistance",
+        "D": "It changes resistance by ion insertion and removal in lattices",
+        "Answer": "D",
+        "Source": "Reversible intercalation of ions into the lattices provides the basis for the switching mechanism of this type of memristors. If a downward or upward electric field is introduced into the device, cations such as Li+ can drift toward the bottom or top electrode while depleted at the opposite electrode."
+    },
+    "Question_8": {
+        "Context": "Electron trapping/detrapping is a mechanism in memristors where the capture or release of electrons at trap sites affects the device's conductance.",
+        "Question": "How does electron trapping/detrapping affect the conductance of a memristor?",
+        "A": "It changes the color of the device",
+        "B": "It alters the thermal properties of the device",
+        "C": "It modifies the interfacial barrier affecting conductance",
+        "D": "It increases the mechanical strength of the device",
+        "Answer": "C",
+        "Source": "The electric field applied to these junction structures can either trap or detrap electrons when trap sites are distributed within the switching layer. Because the number of trapped electrons near/at the interface can alter the \u03a6B, this type of memristors switch without the formation of conductive filaments."
+    },
+    "Question_9": {
+        "Context": "Ferroelectric effect in memristors is related to the ability of certain materials to have their spontaneous polarization switched by an external electric field, influencing the device's conductance.",
+        "Question": "What is the significance of the ferroelectric effect in memristors?",
+        "A": "It allows for the storage of magnetic data",
+        "B": "It enables switching of spontaneous polarization to modulate conductance",
+        "C": "It increases the optical transparency of the device",
+        "D": "It reduces the overall size of the device",
+        "Answer": "B",
+        "Source": "A ferroelectric material may possess multiple spontaneous polarizations without an external electric field, which can be switched by applying a sufficiently high external field. Such nonvolatility and tunability of polarization make them attractive for implementing memristive devices."
+    },
+    "Question_10": {
+        "Context": "Phase transition in memristors refers to the change in electrical properties of a material due to a change in its atomic arrangement, affecting the device's resistance.",
+        "Question": "How does a phase transition influence the resistance of a memristor?",
+        "A": "It changes the device's color, affecting resistance",
+        "B": "It induces a magnetic phase, altering resistance",
+        "C": "It involves a structural change that alters electrical properties",
+        "D": "It has no impact on resistance",
+        "Answer": "C",
+        "Source": "Phase transition, which involves a change in electrical properties, can significantly alter the conductance of materials. Structural changes between phases induce changes in the band structure of the material, resulting in changes in its electrical properties."
+    }
+}

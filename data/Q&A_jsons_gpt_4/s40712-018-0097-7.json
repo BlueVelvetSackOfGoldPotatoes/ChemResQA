@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In machining operations, the use of cubic boron nitride (CBN) tools for turning hardened steel is an alternative to grinding processes. The hardness of the steel is typically greater than 45 HRc, and the operation is known as hard turning.",
+        "Question": "What is the typical hardness of steel that is machined using cubic boron nitride tools in hard turning operations?",
+        "A": "Greater than 35 HRc",
+        "B": "Greater than 45 HRc",
+        "C": "Greater than 55 HRc",
+        "D": "Greater than 65 HRc",
+        "Answer": "B",
+        "Source": "Hard turning machining operation using cubic boron nitride tool as an alternative of grinding process is a type of turning operation in which hardened steel are machined with the hardness greater than 45 HRc."
+    },
+    "Question_2": {
+        "Context": "During hard turning operations, the variations in surface finish and dimensional accuracy are influenced by various cutting parameters. These parameters include depth of cut, spindle speed, and feed rate.",
+        "Question": "Which cutting parameter is most influential on the surface roughness in hard turning operations?",
+        "A": "Depth of cut",
+        "B": "Spindle speed",
+        "C": "Feed rate",
+        "D": "Insert nose radius",
+        "Answer": "C",
+        "Source": "The obtained results showed that depth of cut and spindle speed have the greatest effect on the dimensional accuracy, while feed rate is the most important factor affecting the surface roughness."
+    },
+    "Question_3": {
+        "Context": "In hard turning operations, the effect of tool wear, specifically flank wear, on dimensional accuracy is a subject of investigation.",
+        "Question": "What is the influence of flank wear on the dimensional accuracy in hard turning operations?",
+        "A": "Significant",
+        "B": "Insignificant",
+        "C": "Moderate",
+        "D": "Variable",
+        "Answer": "B",
+        "Source": "The analysis of the vibration and tool wear proved that the flank wear has insignificant influence on the dimensional accuracy, whereas the vibration effect is considerable."
+    },
+    "Question_4": {
+        "Context": "The surface roughness of machined components is a critical quality factor that can affect various properties such as fatigue life, corrosion resistance, and lubrication ability.",
+        "Question": "Which property is NOT typically affected by the surface roughness of machined components?",
+        "A": "Fatigue life",
+        "B": "Corrosion resistance",
+        "C": "Electrical conductivity",
+        "D": "Lubrication ability",
+        "Answer": "C",
+        "Source": "The surface roughness (Ra) is an important factor that affects the properties of the machined component, like fatigue life, corrosion resistance, friction coefficient, wear resistance, and lubrication ability."
+    },
+    "Question_5": {
+        "Context": "In the context of hard turning operations, the selection of appropriate processing parameters can improve dimensional accuracy, which in turn can reduce machining cost and time.",
+        "Question": "What is the result of selecting appropriate processing parameters in terms of dimensional accuracy in hard turning operations?",
+        "A": "Decreases machining cost and time",
+        "B": "Increases machining cost and time",
+        "C": "Has no effect on machining cost and time",
+        "D": "Increases machining cost but decreases time",
+        "Answer": "A",
+        "Source": "By selecting appropriate processing parameters, the dimensional accuracy improves, and therefore, the additional cutting pass is reduced. As a result, the machining cost and time will be reduced significantly."
+    },
+    "Question_6": {
+        "Context": "In machining operations, the geometry of the cutting tool, including the insert nose radius, plays a role in determining the surface finish and dimensional accuracy of the workpiece.",
+        "Question": "What is the effect of a larger insert nose radius on the surface roughness in hard turning operations?",
+        "A": "Worsens the surface roughness",
+        "B": "Improves the surface roughness",
+        "C": "Has no effect on the surface roughness",
+        "D": "Only affects the dimensional accuracy",
+        "Answer": "B",
+        "Source": "As shown in Fig. 1a, by increasing the nose radius, the surface roughness improves significantly. In all experiments, 0.4 mm nose radius yields the worst surface finish."
+    },
+    "Question_7": {
+        "Context": "The spindle speed in machining operations is a parameter that can affect both the surface roughness and dimensional accuracy of the workpiece.",
+        "Question": "How does increasing the spindle speed affect the surface roughness in hard turning operations?",
+        "A": "Decreases the surface roughness",
+        "B": "Increases the surface roughness",
+        "C": "Has no effect on the surface roughness",
+        "D": "First decreases, then increases the surface roughness",
+        "Answer": "A",
+        "Source": "According to Fig. 3, increasing the spindle speed from 500 to 2000 rpm leads to the linearly decreasing of the surface roughness."
+    },
+    "Question_8": {
+        "Context": "In hard turning operations, the feed rate is a critical parameter that can influence the surface finish of the workpiece.",
+        "Question": "What happens to the surface roughness when the feed rate is increased in hard turning operations?",
+        "A": "The surface roughness decreases",
+        "B": "The surface roughness increases",
+        "C": "The surface roughness remains unchanged",
+        "D": "The surface roughness initially decreases, then increases",
+        "Answer": "B",
+        "Source": "The experimental results reveal that when the feed rate increases from 0.08 to 0.32 mm/rev, the surface roughness average increases from 1.6 to 6.6 \u03bcm."
+    },
+    "Question_9": {
+        "Context": "The cutting depth is one of the parameters in machining operations that can be adjusted to achieve desired outcomes in terms of surface finish and dimensional accuracy.",
+        "Question": "What is the general effect of increasing the cutting depth on the surface roughness in hard turning operations?",
+        "A": "Significantly improves the surface roughness",
+        "B": "Significantly worsens the surface roughness",
+        "C": "Has an insignificant effect on the surface roughness",
+        "D": "First improves, then worsens the surface roughness",
+        "Answer": "C",
+        "Source": "As explained earlier, the impact of cutting depth on the surface roughness is insignificant."
+    },
+    "Question_10": {
+        "Context": "In machining operations, achieving the desired cutting depth is crucial for maintaining dimensional accuracy.",
+        "Question": "Which parameter has the greatest effect on dimensional accuracy in hard turning operations?",
+        "A": "Feed rate",
+        "B": "Cutting depth",
+        "C": "Spindle speed",
+        "D": "Insert nose radius",
+        "Answer": "B",
+        "Source": "The obtained results showed that feed rate is the most important factor affecting the surface roughness, while cutting depth and spindle speed has no considerable effect on the surface roughness."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Inflammatory bowel disease (IBD) is a group of chronic disorders affecting the gastrointestinal tract, which includes conditions such as Crohn's disease and ulcerative colitis. These diseases are characterized by inflammation of the gut, but the exact causes are not fully understood.",
+        "Question": "Which of the following is NOT a characteristic feature of Inflammatory bowel disease (IBD)?",
+        "A": "Chronic disorders of the gastrointestinal tract",
+        "B": "Includes Crohn's disease and ulcerative colitis",
+        "C": "Caused by excessive production of digestive enzymes",
+        "D": "Characterized by inflammation of the gut",
+        "Answer": "C",
+        "Source": "Inflammatory bowel disease (IBD), including Crohn\u2019s disease and ulcerative colitis, is a family of chronic disorders along the gastrointestinal tract characterized by its idiopathic and relapsing nature."
+    },
+    "Question_2": {
+        "Context": "Neutrophil extracellular traps (NETs) are structures composed of DNA and proteins released by neutrophils during inflammation. They are intended to trap pathogens but can also contribute to inflammation and tissue damage if not regulated properly.",
+        "Question": "What is the role of neutrophil extracellular traps (NETs) in the context of inflammation?",
+        "A": "To promote tissue regeneration",
+        "B": "To capture pathogens and activate the immune system",
+        "C": "To suppress the immune response",
+        "D": "To produce digestive enzymes",
+        "Answer": "B",
+        "Source": "NETs are DNA-based extracellular structures released by activated neutrophils during inflammation to capture pathogens and further activate the immune system."
+    },
+    "Question_3": {
+        "Context": "DNase-I is an enzyme that degrades DNA and can be used to dismantle NETs. However, its therapeutic application is limited by its instability and rapid clearance from the body.",
+        "Question": "What is a major limitation in the therapeutic application of DNase-I for treating conditions associated with NETs?",
+        "A": "High cost of production",
+        "B": "Low stability and rapid clearance in vivo",
+        "C": "Inability to degrade RNA",
+        "D": "Activation of the immune system",
+        "Answer": "B",
+        "Source": "However, low stability and rapid clearance of DNase\u2011I remain as major limitations for further therapeutic applications."
+    },
+    "Question_4": {
+        "Context": "Polymeric nanoparticles can be used as a delivery system to enhance the stability and therapeutic efficacy of enzymes such as DNase-I, which are otherwise rapidly cleared from the body.",
+        "Question": "What is the purpose of using polymeric nanoparticles in the delivery of DNase-I?",
+        "A": "To decrease the enzymatic activity of DNase-I",
+        "B": "To increase the delivery and therapeutic efficacy of DNase-I",
+        "C": "To promote the rapid clearance of DNase-I",
+        "D": "To change the function of DNase-I from an enzyme to a receptor",
+        "Answer": "B",
+        "Source": "In this research, polymeric nanozymes were fabricated to increase the delivery and therapeutic efficacy of DNase\u2011I."
+    },
+    "Question_5": {
+        "Context": "Poly(lactic-co-glycolic acid) (PLGA) is a biodegradable polymer used in medical applications, including drug delivery systems, due to its safety and ability to degrade into non-toxic by-products.",
+        "Question": "What is a key characteristic of poly(lactic-co-glycolic acid) (PLGA) that makes it suitable for use in drug delivery systems?",
+        "A": "It is non-biodegradable",
+        "B": "It degrades into toxic by-products",
+        "C": "It is impermeable to drugs",
+        "D": "It is biodegradable",
+        "Answer": "D",
+        "Source": "The nanozymes were fabricated upon a poly lactic-co-glycolic acid (PLGA) core, which was coated with dopamine to form a bio-adhesive layer."
+    },
+    "Question_6": {
+        "Context": "Dopamine can be used in nanoparticle fabrication to create a bio-adhesive layer that facilitates the conjugation of other molecules, such as enzymes, to the nanoparticle surface.",
+        "Question": "What is the role of dopamine in the context of nanoparticle fabrication?",
+        "A": "To prevent nanoparticles from adhering to biological tissues",
+        "B": "To act as a catalyst for chemical reactions",
+        "C": "To form a bio-adhesive layer for conjugation of enzymes",
+        "D": "To serve as the core material of nanoparticles",
+        "Answer": "C",
+        "Source": "The nanozymes were fabricated upon a poly lactic-co-glycolic acid (PLGA) core, which was coated with dopamine to form a bio-adhesive layer."
+    },
+    "Question_7": {
+        "Context": "PEGylation is a process where polyethylene glycol (PEG) chains are attached to molecules or surfaces, such as nanoparticles, to improve their stability and circulation time in the body.",
+        "Question": "What is the purpose of PEGylation in the context of nanoparticle drug delivery?",
+        "A": "To reduce the stability of nanoparticles",
+        "B": "To improve in vivo stability and circulation time",
+        "C": "To decrease the solubility of nanoparticles",
+        "D": "To increase the immunogenicity of nanoparticles",
+        "Answer": "B",
+        "Source": "Nanozymes were PEGylated to improve their stability in vivo."
+    },
+    "Question_8": {
+        "Context": "In the treatment of IBD, mesalamine is a commonly used medication that works by inhibiting inflammation in the gastrointestinal tract.",
+        "Question": "What is the therapeutic action of mesalamine in the treatment of IBD?",
+        "A": "To promote inflammation",
+        "B": "To inhibit inflammation",
+        "C": "To increase neutrophil infiltration",
+        "D": "To induce NETosis",
+        "Answer": "B",
+        "Source": "To date, the majority of therapeutic drugs used against IBD are immunosuppressive drugs, steroids, 5-aminosalicylates, or other agents intended to inhibit inflammation."
+    },
+    "Question_9": {
+        "Context": "Myeloperoxidase (MPO) is an enzyme released by activated neutrophils during inflammation and can be used as a biomarker to measure the extent of inflammation in tissues.",
+        "Question": "What does an elevated level of myeloperoxidase (MPO) activity in tissue indicate?",
+        "A": "Decreased inflammation",
+        "B": "Increased oxygen supply to the tissue",
+        "C": "Reduced neutrophil activity",
+        "D": "Increased inflammation",
+        "Answer": "D",
+        "Source": "MPO is an enzyme abundantly degranulated by activated neutrophils, making it highly specific indicators of neutrophil-mediated inflammation and oxidative stress in the colon."
+    },
+    "Question_10": {
+        "Context": "Dextran sulfate sodium (DSS) is a chemical compound used to induce colitis in animal models, which mimics some aspects of human IBD for research purposes.",
+        "Question": "What is the role of dextran sulfate sodium (DSS) in experimental research related to IBD?",
+        "A": "To cure colitis",
+        "B": "To induce colitis in animal models",
+        "C": "To reduce inflammation",
+        "D": "To act as an anti-inflammatory agent",
+        "Answer": "B",
+        "Source": "Acute colitis was induced following a conventional method using dextran sulfate sodium (DSS)."
+    }
+}

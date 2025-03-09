@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the use of calcium fluoride (CaF2) for biomedical applications. ",
+        "Question": "What is the main reason for using CaF2 in biomedical applications?",
+        "A": "High stability and luminescent properties",
+        "B": "Low cost and easy availability",
+        "C": "Strong mechanical properties",
+        "D": "Biodegradability and eco-friendliness",
+        "Answer": "A",
+        "Source": "CaF2 nanopowders are extensively used for biomedical applications like imaging due to its high stability and brilliant luminescent properties."
+    },
+    "Question_2": {
+        "Context": "The paper discusses different coating methods for metal implants.",
+        "Question": "Which coating method provides denser coatings according to the text?",
+        "A": "Sputtering",
+        "B": "Plasma spray",
+        "C": "Pulsed laser deposition",
+        "D": "Dip-coating",
+        "Answer": "D",
+        "Source": "Coating methods like sputtering, plasma spray, and pulsed laser deposition give thin film coatings, whereas dip-coating and electrophoretic coatings gave comparatively denser coatings."
+    },
+    "Question_3": {
+        "Context": "The paper mentions the use of CaF2 as a theranostic agent.",
+        "Question": "What is the main characteristic of theranostic agents?",
+        "A": "Used only for therapy",
+        "B": "Used only for diagnosis",
+        "C": "Used for both therapy and diagnosis",
+        "D": "Used for imaging purposes",
+        "Answer": "C",
+        "Source": "Theranostic agents are materials which can be used as a combination for therapy and diagnosis."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the preparation of a new type of bioactive glass.",
+        "Question": "What happens when the newly prepared bioactive glasses are immersed in simulated body fluid?",
+        "A": "They dissolve completely",
+        "B": "They form a biocompatible hydroxyapatite layer",
+        "C": "They lose their structural integrity",
+        "D": "They become toxic to cells",
+        "Answer": "B",
+        "Source": "When the newly prepared bioactive glasses are immersed in static simulated body fluid, a complete biocompatible hydroxyapatite layer formed on the glass surface within a period of 3 weeks."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the dip-coating process for depositing CaF2 sols onto borosilicate glasses.",
+        "Question": "What is the main drawback associated with the dip-coating process for dental applications?",
+        "A": "Poor adhesion characteristics",
+        "B": "High cost of materials",
+        "C": "Limited availability of equipment",
+        "D": "Long processing time",
+        "Answer": "A",
+        "Source": "These coatings reported to have a drawback of poor adhesion characteristics."
+    },
+    "Question_6": {
+        "Context": "The paper describes the preparation of a CaF2 solution for dip coating.",
+        "Question": "What was used to prepare the CaF2 solution for dip coating?",
+        "A": "Water",
+        "B": "Acetone",
+        "C": "Ethanol",
+        "D": "Methanol",
+        "Answer": "C",
+        "Source": "The CaF2 solution for dip coating was prepared using ethanol (99.99% purity), glycerin, and CaF2 nanopowders."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the mechanical properties of the CaF2-coated samples.",
+        "Question": "What is the adhesion strength between the CaF2 thin film and the base substrate?",
+        "A": "1MPa",
+        "B": "3MPa",
+        "C": "5MPa",
+        "D": "7MPa",
+        "Answer": "B",
+        "Source": "The adhesion strength between CaF2 thin film and the base substrate was measured to be 3MPa."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the dissolution behavior of CaF2 in simulated body fluid.",
+        "Question": "What happens to the dissolution rate of Ca ions in the SBF over time?",
+        "A": "Decreases steadily",
+        "B": "Increases steadily",
+        "C": "Remains constant",
+        "D": "Fluctuates randomly",
+        "Answer": "C",
+        "Source": "The dissolution rate of both Ca and F ions is almost constant over a period of 4 weeks."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the cell viability study of the CaF2-coated samples.",
+        "Question": "What is the main conclusion regarding the cell viability of the coated samples?",
+        "A": "Toxic to cells",
+        "B": "No cell attachment observed",
+        "C": "Acceptable cell viability",
+        "D": "Highly cytotoxic",
+        "Answer": "C",
+        "Source": "At the same time, it is also seen that with 50% extract dilution when mixed with 50% DMEM, the cell viability is ~80% which is acceptable by ISO 10993-5 standards."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the corrosion behavior of the CaF2-coated samples.",
+        "Question": "What is the main advantage of a CaF2-coated sample in terms of corrosion resistance?",
+        "A": "Higher corrosion rate",
+        "B": "Lower corrosion rate",
+        "C": "No effect on corrosion rate",
+        "D": "Increased porosity",
+        "Answer": "B",
+        "Source": "From Fig. 6, it is clear that a CaF2-coated sample have better resistance to the accelerated corrosion."
+    }
+}

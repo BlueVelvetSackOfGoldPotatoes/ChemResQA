@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In a preclinical study, two stereoisomers of rhPSMA ligands were compared for their biodistribution and dosimetry in healthy and tumor-bearing mice.",
+        "Question": "What was the main aim of the study comparing the two rhPSMA ligands?",
+        "A": "To investigate the effect of stereoisomerism on the pharmacokinetics",
+        "B": "To determine the PSMA binding characteristics",
+        "C": "To assess the lipophilicity of the ligands",
+        "D": "To evaluate the tumor uptake only",
+        "Answer": "A",
+        "Source": "In the present preclinical study, we investigate the effect of stereoisomerism on the pharmacokinetics of [177Lu]Lu-rhPSMA-10.1 and [177Lu]Lu-rhPSMA-10.2 in healthy and PSMA-positive LNCaP-tumor bearing mice..."
+    },
+    "Question_2": {
+        "Context": "The study involved radiolabeling procedures for the rhPSMA ligands.",
+        "Question": "What was the radiochemical purity determined to be for [177Lu]Lu-rhPSMA-10.1 and [177Lu]Lu-rhPSMA-10.2?",
+        "A": "97.2% and 94.5%",
+        "B": "94.2% and 94.5%",
+        "C": "98.5% and 96.8%",
+        "D": "92.1% and 91.6%",
+        "Answer": "B",
+        "Source": "RCP as determined by radio-HPLC was 94.2 \u00b1 0.2% for [177Lu]Lu-rhPSMA-10.1 and 94.5 \u00b1 0.2 [177Lu]Lu-rhPSMA-10.2..."
+    },
+    "Question_3": {
+        "Context": "The study included stability assessments of the rhPSMA ligands in various media.",
+        "Question": "Which medium showed the highest stability for both [177Lu]Lu-rhPSMA-10.1 and [177Lu]Lu-rhPSMA-10.2 after 168 hours?",
+        "A": "Acetate buffer",
+        "B": "PBS pH 7.4",
+        "C": "0.9% Sodium chloride",
+        "D": "Human serum",
+        "Answer": "C",
+        "Source": "The highest stability for both isomers was found in 0.9% sodium chloride (80 \u00b1 3% for 10.1 and 82 \u00b1 3% for 10.2 after 168 h)..."
+    },
+    "Question_4": {
+        "Context": "The biodistribution and dosimetry studies were conducted in both non-tumor-bearing and tumor-bearing mice.",
+        "Question": "What was the primary route of excretion for [177Lu]Lu-rhPSMA-10.1 and [177Lu]Lu-rhPSMA-10.2 in non-tumor-bearing mice?",
+        "A": "Renal system",
+        "B": "Liver",
+        "C": "Spleen",
+        "D": "Salivary glands",
+        "Answer": "A",
+        "Source": "In non-tumor-bearing mice, [177Lu]Lu-rhPSMA-10.1 and [177Lu]Lu-rhPSMA-10.2 displayed fast pharmacokinetics with excretion occurring primarily via the renal system..."
+    },
+    "Question_5": {
+        "Context": "The study compared the kidney uptake of [177Lu]Lu-rhPSMA-10.1 and [177Lu]Lu-rhPSMA-10.2 in both non-tumor-bearing and tumor-bearing mice.",
+        "Question": "Which isomer displayed lower initial kidney uptake at 1 hour post-injection in non-tumor-bearing mice?",
+        "A": "[177Lu]Lu-rhPSMA-10.1",
+        "B": "[177Lu]Lu-rhPSMA-10.2",
+        "C": "Both isomers had similar kidney uptake",
+        "D": "The kidney uptake was not measured",
+        "Answer": "A",
+        "Source": "Remarkable differences in the accumulation of both isomers in the kidneys were noted, with the D-Dap isomer [177Lu]Lu-rhPSMA-10.1 displaying a 1.5-fold lower initial kidney uptake of 104.2 \u00b1 0.2%ID/g at 1 h, compared to the L-Dap isomer [177Lu] Lu-rhPSMA-10.2..."
+    },
+    "Question_6": {
+        "Context": "The study evaluated the tumor uptake of [177Lu]Lu-rhPSMA-10.1 and [177Lu]Lu-rhPSMA-10.2 over a 168-hour time course in tumor-bearing mice.",
+        "Question": "Which isomer showed higher tumor uptake at 1 hour post-injection in tumor-bearing mice?",
+        "A": "[177Lu]Lu-rhPSMA-10.1",
+        "B": "[177Lu]Lu-rhPSMA-10.2",
+        "C": "Both isomers had similar tumor uptake",
+        "D": "The tumor uptake was not measured",
+        "Answer": "B",
+        "Source": "A high tumor uptake equal to 8.6 \u00b1 1.7%ID/g and 10.9 \u00b1 2.0%ID/g at 1 h p.i. was measured for isomer [177Lu] Lu-rhPSMA-10.1 and [177Lu]Lu-rhPSMA-10.2, respectively..."
+    },
+    "Question_7": {
+        "Context": "The study discussed the dosimetry calculations for the radiopharmaceuticals.",
+        "Question": "How were the absorbed doses in organs of a standard adult calculated?",
+        "A": "Using numerical integration and physical decay",
+        "B": "By measuring the organ activity concentrations directly",
+        "C": "By estimating based on the total-body activity only",
+        "D": "By assuming a fixed absorbed dose for all organs",
+        "Answer": "A",
+        "Source": "The activity accumulation in significant source organs was determined using both numerical integration and physical decay..."
+    },
+    "Question_8": {
+        "Context": "The study compared the total body effective doses for [177Lu]Lu-rhPSMA-10.1 and [177Lu]Lu-rhPSMA-10.2 in non-tumor-bearing mice.",
+        "Question": "Which isomer had a lower total body effective dose at a 1-hour voiding interval?",
+        "A": "[177Lu]Lu-rhPSMA-10.1",
+        "B": "[177Lu]Lu-rhPSMA-10.2",
+        "C": "Both isomers had the same total body effective dose",
+        "D": "The total body effective dose was not measured",
+        "Answer": "A",
+        "Source": "The total body effective doses were 0.018 mSv/MBq (1 h voiding interval) and 0.023 mSv/MBq (3.5 h) for [177Lu]Lu-rhPSMA-10.1 and 0.052 mSv/MBq (1 h) and 0.056 mSv/ MBq (3.5 h) for [177Lu]Lu-rhPSMA-10.2, respectively..."
+    },
+    "Question_9": {
+        "Context": "The study discussed the implications of the findings on the potential clinical translation of the radiopharmaceuticals.",
+        "Question": "What is a key consideration mentioned regarding the transferability of murine uptake values to humans?",
+        "A": "The similarity in kidney uptake between species",
+        "B": "The accuracy of predicting human pharmacokinetics in mice",
+        "C": "The potential impact on renal side effects in patients",
+        "D": "The importance of murine kidney uptake in clinical trials",
+        "Answer": "C",
+        "Source": "Until the availability of improved preclinical methods to predict human pharmacokinetics more accurately, especially in organs at risk, murine uptake values are still the most important selection criteria for clinical translation of novel radiopharmaceuticals..."
+    },
+    "Question_10": {
+        "Context": "The study concluded by highlighting the potential of one of the isomers for PSMA-targeted radioligand therapy.",
+        "Question": "What advantage does [177Lu]Lu-rhPSMA-10.1 offer over [177Lu]Lu-rhPSMA-10.2 for radioligand therapy?",
+        "A": "Higher tumor uptake",
+        "B": "Faster kidney clearance kinetics",
+        "C": "Lower stability in human serum",
+        "D": "Superior binding to HSA",
+        "Answer": "B",
+        "Source": "[177Lu]Lu-rhPSMA-10.1 shows fast kidney clearance kinetics resulting in excellent tumor-to-organ ratios over a therapy relevant time course..."
+    }
+}

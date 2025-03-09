@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Low-temperature plasma-assisted processes are known for their high reaction efficiency and are used in biomass valorization. Charged species, energetic molecules and radicals, and active photons are key players in these processes.",
+        "Question": "What roles do charged species, energetic molecules and radicals, and active photons play in low-temperature plasma-assisted processes for biomass valorization?",
+        "A": "They reduce the reaction efficiency",
+        "B": "They are key factors during processing",
+        "C": "They increase the crystallinity of biomass",
+        "D": "They are irrelevant to the process",
+        "Answer": "B",
+        "Source": "It is well established that charged species, chemically energetic molecules and radicals, and highly active photons playing key roles during processing."
+    },
+    "Question_2": {
+        "Context": "In biomass conversion, pretreatment is a crucial step that facilitates the transformation of raw biomass by reducing its crystallinity, purification, and delignification.",
+        "Question": "What is the primary purpose of pretreatment in biomass conversion?",
+        "A": "To increase the energy content of biomass",
+        "B": "To facilitate raw biomass transformation",
+        "C": "To enhance the moisture content of biomass",
+        "D": "To convert biomass directly into biofuels",
+        "Answer": "B",
+        "Source": "The pretreatment of biomass is the first and foremost step for biomass upgrading to facilitate raw biomass transformation, which reduces the crystallinity, purification, and delignification."
+    },
+    "Question_3": {
+        "Context": "Chemo-catalytic conversion of biomass involves various reactions to produce different target products, such as hydrolysis and hydrogenation.",
+        "Question": "Which of the following is a primary reaction involved in the chemo-catalytic conversion of biomass?",
+        "A": "Combustion",
+        "B": "Fermentation",
+        "C": "Hydrolysis",
+        "D": "Photosynthesis",
+        "Answer": "C",
+        "Source": "The chemo-catalytic conversion of biomass involves primary reactions to various kinds of target products, such as hydrolysis, hydrogenation, retro-aldol condensation and so on."
+    },
+    "Question_4": {
+        "Context": "Lignocellulosic biomass waste primarily consists of hemicellulose, cellulose, lignin, and other components. These can be converted into key platform chemicals and value-added products.",
+        "Question": "Which of the following is NOT a primary component of lignocellulosic biomass waste?",
+        "A": "Hemicellulose",
+        "B": "Cellulose",
+        "C": "Lignin",
+        "D": "Proteins",
+        "Answer": "D",
+        "Source": "In terms of chemical composition, lignocellulosic biomass waste is primarily composed of hemicellulose, cellulose, lignin, and some extractives and ash."
+    },
+    "Question_5": {
+        "Context": "Lignin, a component of biomass feedstock, contains aromatic rings and various functional groups, which can be selectively functionalized to produce value-added chemicals.",
+        "Question": "Which functional groups in lignin contribute to the production of value-added chemicals?",
+        "A": "Methoxy and phenolic hydroxy groups",
+        "B": "Amino and carboxyl groups",
+        "C": "Sulfhydryl and phosphate groups",
+        "D": "Ester and ether groups",
+        "Answer": "A",
+        "Source": "Specifically, owing to their abundance of aromatic rings and methoxy, phenolic hydroxy, alkyl, and fatty alcohol groups, some pure, value-added, and commodity chemicals can be produced by selective functionalization."
+    },
+    "Question_6": {
+        "Context": "Plasma technology can be categorized as thermal or non-thermal based on energy level, temperature, and electronic density. Non-thermal plasma is considered low-temperature plasma due to its unique properties.",
+        "Question": "What distinguishes non-thermal plasma from thermal plasma?",
+        "A": "Non-thermal plasma operates at higher temperatures",
+        "B": "Non-thermal plasma has a higher electronic density",
+        "C": "Non-thermal plasma's ions and gas molecules remain relatively stable",
+        "D": "Non-thermal plasma requires more energy for generation",
+        "Answer": "C",
+        "Source": "Non-thermal plasma (non-equilibrium plasma) is considered as low-temperature plasma due to its unique properties. While the electrons are highly excited within the plasma gas, other components such as ions and gas molecules remain relatively stable."
+    },
+    "Question_7": {
+        "Context": "In the context of biomass gasification, the use of carrier gases can influence the distribution of products. Different carrier gases can lead to varying conversion efficiencies.",
+        "Question": "Which carrier gas has been shown to give the maximum conversion efficiency in biomass gasification?",
+        "A": "Carbon dioxide (CO2)",
+        "B": "Hydrogen (H2)",
+        "C": "Nitrogen (N2)",
+        "D": "Oxygen (O2)",
+        "Answer": "C",
+        "Source": "In the plasma-induced gasification, the distribution of products highly depends on the property of carrier gas. In general, CO, CO2, H2, or N2 is used as the carrier gas. N2 has been shown to give the maximum conversion among all carrier gases."
+    },
+    "Question_8": {
+        "Context": "Low-temperature plasma processes have been studied for technological pretreatment of biomass due to their short treatment duration, less pollution, and easy recovery of chemicals.",
+        "Question": "What are the advantages of using low-temperature plasma for biomass pretreatment?",
+        "A": "Long treatment duration and high pollution",
+        "B": "Short treatment duration and less pollution",
+        "C": "High chemical consumption and complex recovery",
+        "D": "Low efficiency and high temperature operation",
+        "Answer": "B",
+        "Source": "Low-temperature plasma processing has been studied for technological pretreatment of biomass owing to its relatively short treatment duration, less pollution, and easy recovery of chemicals."
+    },
+    "Question_9": {
+        "Context": "The synthesis of heterogeneous catalysts via low-temperature plasma can be carried out under mild conditions, and these catalysts have shown comparable performance to those prepared using conventional methods.",
+        "Question": "How does the performance of heterogeneous catalysts synthesized via low-temperature plasma compare to those prepared by conventional methods?",
+        "A": "They have significantly lower performance",
+        "B": "They have slightly lower performance",
+        "C": "They have comparable performance",
+        "D": "They are not suitable for biomass conversion",
+        "Answer": "C",
+        "Source": "These catalysts were reported with comparable performance for biomass conversion to other state-of-the-art catalysts prepared using conventional methods."
+    },
+    "Question_10": {
+        "Context": "Plasma-assisted chemo-catalysis is a research area that combines plasma processing with chemo-catalytic processes to enhance reaction efficiency for biomass pretreatment, gasification, liquefaction, and catalyst synthesis.",
+        "Question": "What is the purpose of integrating plasma processing with chemo-catalytic processes in biomass conversion?",
+        "A": "To reduce the reaction efficiency",
+        "B": "To increase the reaction temperature",
+        "C": "To enhance the reaction efficiency",
+        "D": "To complicate the reaction mechanism",
+        "Answer": "C",
+        "Source": "In addition, integrating plasma processing with the chemo-catalytic process can enhance the reaction efficiency for biomass pretreatment, gasification, liquefaction, and catalyst synthesis."
+    }
+}

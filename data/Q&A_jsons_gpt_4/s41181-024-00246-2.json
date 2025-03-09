@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Radiohybrid PSMA-targeted ligands have been developed for theranostic applications in prostate cancer, aiming for optimized binding, reduced charge, and accelerated kidney excretion.",
+        "Question": "What is the primary reason for developing radiohybrid PSMA-targeted ligands?",
+        "A": "To increase the half-life of the ligands in the bloodstream",
+        "B": "To provide an optimized binding profile to human serum albumin and accelerated kidney excretion",
+        "C": "To enhance the visual contrast in imaging applications",
+        "D": "To increase the overall negative charge of the ligands",
+        "Answer": "B",
+        "Source": "Radiohybrid PSMA-targeted ligands (rhPSMA) have been introduced as a novel platform for theranostic applications. Among a variety of rhPSMA-ligands developed for radioligand therapy, two stereoisomers [177Lu]Lu-rhPSMA-10.1 and -10.2 have been synthesized and initially characterized in preclinical experiments with the aim to provide an optimized binding profile to human serum albumin, a reduction of charge, and thus accelerated kidney excretion."
+    },
+    "Question_2": {
+        "Context": "In the development of radioligand therapy, the pharmacokinetics of ligands are crucial, particularly their uptake and excretion rates in healthy versus tumor-bearing organisms.",
+        "Question": "What is a desirable characteristic of a radioligand used in therapy for its pharmacokinetics?",
+        "A": "High uptake and slow excretion from healthy organs",
+        "B": "Low uptake and slow excretion from tumors",
+        "C": "High uptake in tumors and fast clearance from healthy organs",
+        "D": "Uniform uptake in both tumors and healthy organs",
+        "Answer": "C",
+        "Source": "As both isomers showed similar in vitro characteristics and tumor uptake at 24 h post injection in tumor bearing mice and in order to identify the isomer with the most favorable pharmacokinetics for radioligand therapy, we carried out in-depth biodistribution and dosimetry studies in tumor-bearing and healthy mice."
+    },
+    "Question_3": {
+        "Context": "Radiolabeled ligands are used in the detection and treatment of diseases, and their stability in various media is an important aspect of their effectiveness.",
+        "Question": "Why is the stability of radiolabeled ligands in different media important?",
+        "A": "To ensure they can be stored for long periods before use",
+        "B": "To guarantee they maintain their charge in different environments",
+        "C": "To ensure they remain effective during the time needed for diagnostic or therapeutic procedures",
+        "D": "To increase their visibility under imaging techniques",
+        "Answer": "C",
+        "Source": "rhPSMA-10.1 and -10.2 were radiolabeled with lutetium-177 according to the established procedures of other DOTA-based PSMA ligands and displayed a high and comparable stability in all buffers and human serum (> 97%, 24 h)."
+    },
+    "Question_4": {
+        "Context": "The use of stereoisomers in the development of radioligands can result in different in vivo behaviors, which is significant for their application in radioligand therapy.",
+        "Question": "What impact can the stereoconfiguration of a radioligand have on its in vivo behavior?",
+        "A": "It can change the color of the radioligand in imaging",
+        "B": "It can affect the radioligand's stability in vitro only",
+        "C": "It can influence the radioligand's binding characteristics and in vivo pharmacokinetics",
+        "D": "It has no impact; all stereoisomers behave identically in vivo",
+        "Answer": "C",
+        "Source": "Distinctive differences were found in the kidneys, where [177Lu]Lu-rhPSMA-10.1 displayed lower initial uptake and faster excretion kinetics compared to [177Lu]Lu-rhPSMA-10.2 expressed by a 1.5-fold and ninefold lower uptake value at 1 h and 24 h in healthy animals, respectively."
+    },
+    "Question_5": {
+        "Context": "In radioligand therapy, the dosimetry studies involve calculating the radiation doses delivered to various organs to assess the potential risks and therapeutic benefits.",
+        "Question": "What is the purpose of performing dosimetry studies in the context of radioligand therapy?",
+        "A": "To determine the colorimetric properties of the radioligand",
+        "B": "To calculate the radiation doses delivered to organs and tissues",
+        "C": "To measure the electrical conductivity of the radioligand in tissues",
+        "D": "To assess the magnetic properties of the radioligand",
+        "Answer": "B",
+        "Source": "For estimating tumor doses the unit density sphere model described by Stabin and Konijnenberg (2000) was utilized."
+    },
+    "Question_6": {
+        "Context": "The development of radioligands for prostate cancer treatment involves targeting the prostate-specific membrane antigen (PSMA) to deliver therapeutic radiation specifically to cancer cells.",
+        "Question": "What is the target molecule for radioligands developed for prostate cancer treatment?",
+        "A": "Human serum albumin",
+        "B": "Prostate-specific membrane antigen (PSMA)",
+        "C": "Gamma-aminobutyric acid (GABA) receptors",
+        "D": "Blood-brain barrier",
+        "Answer": "B",
+        "Source": "Radiohybrid PSMA-targeted ligands (rhPSMA) have been introduced as a novel platform for theranostic applications."
+    },
+    "Question_7": {
+        "Context": "The use of lutetium-177 in radioligand therapy is based on its radioactive properties, which allow it to be used for both imaging and treatment purposes.",
+        "Question": "Why is lutetium-177 used in radioligand therapy?",
+        "A": "Because it has a long half-life suitable for extended imaging sessions",
+        "B": "Because it emits visible light detectable by standard imaging equipment",
+        "C": "Because it is a stable isotope that does not decay",
+        "D": "Because it emits radiation that can be used for both imaging and therapeutic purposes",
+        "Answer": "D",
+        "Source": "rhPSMA-10.1 and -10.2 were radiolabeled with lutetium-177 according to the established procedures of other DOTA-based PSMA ligands."
+    },
+    "Question_8": {
+        "Context": "The clearance rate of a radioligand from the kidneys is an important factor in its pharmacokinetic profile, as it affects the potential for renal toxicity.",
+        "Question": "Why is the kidney clearance rate of a radioligand important in its pharmacokinetic profile?",
+        "A": "A faster clearance rate indicates higher toxicity to the kidneys",
+        "B": "A slower clearance rate enhances the imaging quality of the radioligand",
+        "C": "A faster clearance rate minimizes potential renal toxicity",
+        "D": "The clearance rate has no impact on the pharmacokinetic profile",
+        "Answer": "C",
+        "Source": "Distinctive differences were found in the kidneys, where [177Lu]Lu-rhPSMA-10.1 displayed lower initial uptake and faster excretion kinetics compared to [177Lu]Lu-rhPSMA-10.2."
+    },
+    "Question_9": {
+        "Context": "In the context of radioligand therapy, the tumor-to-organ ratio is an important metric that reflects the specificity and potential efficacy of the radioligand.",
+        "Question": "What does a high tumor-to-organ ratio indicate in the context of radioligand therapy?",
+        "A": "The radioligand is more toxic to healthy organs than to the tumor",
+        "B": "The radioligand is non-specific and binds equally to tumors and healthy organs",
+        "C": "The radioligand has a high specificity and potential efficacy against the tumor",
+        "D": "The radioligand is likely to be rapidly excreted from the body",
+        "Answer": "C",
+        "Source": "[177Lu]Lu-rhPSMA-10.1 shows fast kidney clearance kinetics resulting in excellent tumor-to-organ ratios over a therapy relevant time course."
+    },
+    "Question_10": {
+        "Context": "The binding affinity of a radioligand to its target is a critical factor that influences its uptake in tumor cells and its effectiveness in radioligand therapy.",
+        "Question": "Why is the binding affinity of a radioligand to its target important?",
+        "A": "A higher binding affinity usually correlates with higher uptake in target cells and increased therapeutic effectiveness",
+        "B": "A lower binding affinity is preferred to ensure rapid clearance from the body",
+        "C": "Binding affinity is only relevant for imaging purposes and not for therapy",
+        "D": "Binding affinity affects the color of the radioligand in imaging",
+        "Answer": "A",
+        "Source": "In a preclinical selection process of rhPSMA-7 isomers which are different in the stereoconfiguration of a Diaminopropionic acid unit (D-Dap or L-Dap) and the chelator (R-DOTAGA or S-DOTAGA), rhPSMA-7.3 (D-Dap, S-DOTAGA) displayed superior tumor uptake and faster clearance from background organs, compared with other isomers."
+    }
+}

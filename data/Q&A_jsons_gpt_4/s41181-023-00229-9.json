@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of nuclear medicine, positron emission tomography (PET) is a type of imaging that uses radiotracers to visualize and measure changes in metabolic processes, and biochemical activities. This imaging technique is particularly useful in oncology for diagnosing various types of cancers.",
+        "Question": "Which radiotracer is clinically approved for imaging neuroendocrine tumors?",
+        "A": "[68Ga]Ga-FAPI-46",
+        "B": "[68Ga]Ga-DOTA-TOC",
+        "C": "DOTA-FAPI",
+        "D": "PSMA-11",
+        "Answer": "B",
+        "Source": "Among these probes, 68Ga\u2011labeled FAPI\u201146 and DOTA\u2011TOC have emerged as key players due to their ability to diagnose a broad spectrum of cancers ([68Ga] Ga\u2011FAPI\u201146) in late\u2011phase studies, whereas [68Ga]Ga\u2011DOTA\u2011TOC is clinically approved for neuroendocrine tumors."
+    },
+    "Question_2": {
+        "Context": "Microfluidic techniques in radiopharmaceutical synthesis offer several advantages over conventional methods. These techniques are characterized by their microscale volume, which allows for a larger surface-area-to-volume ratio, leading to faster reaction rates and shorter reaction times.",
+        "Question": "What is one of the main advantages of microfluidic techniques over conventional methods in radiopharmaceutical synthesis?",
+        "A": "Larger quantity of chemicals required",
+        "B": "Longer reaction times",
+        "C": "Faster reaction rates",
+        "D": "Suitable for large-scale centralized production",
+        "Answer": "C",
+        "Source": "Due to the microscale volume, microfluidic techniques achieve a larger surface-area-to-volume ratio, leading to a faster reaction rate and shorter reaction time in radiosynthesis."
+    },
+    "Question_3": {
+        "Context": "In the synthesis of radiopharmaceuticals, the use of a microfluidic cassette-based synthesizer can enable the synthesis based on a dose-on-demand approach, which is particularly useful for producing radiotracers in preclinical and clinical settings.",
+        "Question": "What approach does a microfluidic cassette-based synthesizer enable in the synthesis of radiotracers?",
+        "A": "Batch production",
+        "B": "Dose-on-demand",
+        "C": "Continuous production",
+        "D": "Bulk synthesis",
+        "Answer": "B",
+        "Source": "To facilitate their production, we leveraged a microfluidic cassette\u2011based iMiDEV radiosynthesizer, enabling the synthesis of [68Ga]Ga\u2011FAPI\u201146 and [68Ga]Ga\u2011DOTA\u2011TOC based on a dose\u2011on\u2011demand (DOD) approach."
+    },
+    "Question_4": {
+        "Context": "The synthesis of radiotracers often requires the use of a precursor, which is a substance from which another is formed, especially by a metabolic reaction. In the context of radiopharmaceuticals, the amount of precursor used can influence the efficiency of the synthesis process.",
+        "Question": "Why is it recommended to use a low quantity of peptide precursor in the production of receptor-targeted radiotracers?",
+        "A": "To increase the reaction time",
+        "B": "To cause receptor saturation",
+        "C": "To reduce uptake in targeted receptors",
+        "D": "To prevent receptor saturation and ensure sufficient uptake in targeted receptors",
+        "Answer": "D",
+        "Source": "A low peptide quantity is recommended for producing receptor-targeted radiotracers because higher peptide amounts could cause receptor saturation and reduced uptake in the targeted receptors."
+    },
+    "Question_5": {
+        "Context": "Radiolabeling is a technique used in the field of radiopharmacy to attach radioactive isotopes to compounds, which can then be used as tracers in PET imaging. The efficiency of radiolabeling can be influenced by the mixing techniques of the reagents.",
+        "Question": "What is a challenge in the radiolabeling process that can affect the radiochemical yield?",
+        "A": "The use of high temperatures",
+        "B": "Inadequate mixing of reagents",
+        "C": "The use of non-radioactive isotopes",
+        "D": "The use of large volumes of reagents",
+        "Answer": "B",
+        "Source": "Radiolabeling was challenging because of the inadequate mixing of [68Ga]Ga3+ and the buffer-pep- tide mixture; despite this, the achieved radiochemical yield (non-isolated) was 64 \u00b1 16% (n = 8)."
+    },
+    "Question_6": {
+        "Context": "The purity of radiopharmaceuticals is crucial for their safe and effective use in medical imaging. High-performance liquid chromatography (HPLC) is one of the techniques used to assess the radiochemical purity of synthesized radiotracers.",
+        "Question": "Which technique is used to determine the radiochemical purity of radiopharmaceuticals?",
+        "A": "Thin layer chromatography (TLC)",
+        "B": "Gas chromatography (GC)",
+        "C": "High-performance liquid chromatography (HPLC)",
+        "D": "Mass spectrometry",
+        "Answer": "C",
+        "Source": "The radiochemical purities (HPLC) of [68Ga]Ga\u2011FAPI\u201146 and [68Ga]Ga\u2011DOTA\u2011TOC were 98.2 \u00b1 0.2% and 98.4 \u00b1 0.9%, respectively."
+    },
+    "Question_7": {
+        "Context": "In the synthesis of radiopharmaceuticals, solid-phase extraction (SPE) is a method used to purify the synthesized compounds by trapping them on a resin and then eluting them with a suitable solvent.",
+        "Question": "What is the purpose of solid-phase extraction (SPE) in the synthesis of radiopharmaceuticals?",
+        "A": "To increase the reaction temperature",
+        "B": "To purify the synthesized compounds",
+        "C": "To measure the half-life of the radionuclide",
+        "D": "To produce the radiotracers in bulk",
+        "Answer": "B",
+        "Source": "After optimization, HLB and C18 resins were examined for SPE purification and formulation, and product elution was assessed using different elution pressures for ethanol."
+    },
+    "Question_8": {
+        "Context": "The apparent molar activity (AMA) of a radiopharmaceutical is an important parameter that reflects the radioactivity per amount of substance. It is a critical factor in determining the effectiveness of the radiopharmaceutical for clinical use.",
+        "Question": "What does the apparent molar activity (AMA) of a radiopharmaceutical indicate?",
+        "A": "The total radioactivity of the product",
+        "B": "The concentration of the precursor used",
+        "C": "The radioactivity per amount of substance",
+        "D": "The volume of the radiopharmaceutical",
+        "Answer": "C",
+        "Source": "The apparent molar activity (AMA) of [68Ga]Ga-FAPI-46 and [68Ga]Ga-DOTA-TOC at the end of synthesis were 30 \u00b1 11 GBq/ \u00b5mol (n = 3) and 61 \u00b1 10 GBq/\u00b5mol (n = 3), respectively."
+    },
+    "Question_9": {
+        "Context": "In the context of radiopharmaceuticals, the term 'decay-corrected yield' refers to the radiochemical yield that has been adjusted for the decay of radioactivity over time. This adjustment is necessary to account for the natural decrease in radioactivity due to the half-life of the radioactive isotopes.",
+        "Question": "What is the significance of 'decay-corrected yield' in the context of radiopharmaceutical synthesis?",
+        "A": "It indicates the stability of the radiopharmaceutical over time",
+        "B": "It reflects the yield after adjusting for the decay of radioactivity",
+        "C": "It measures the purity of the radiopharmaceutical",
+        "D": "It determines the half-life of the radioactive isotopes used",
+        "Answer": "B",
+        "Source": "We achieved decay\u2011corrected yield of 44 \u00b1 5% for [68Ga]Ga\u2011FAPI\u201146 and 46 \u00b1 7% for [68Ga]Ga\u2011DOTA\u2011TOC in approximately 30 min."
+    },
+    "Question_10": {
+        "Context": "The synthesis of radiopharmaceuticals involves several steps, including the elution of the radionuclide from a generator, radiolabeling with a precursor, and purification. The elution step is critical as it provides the radionuclide in a form that can be used for the subsequent radiolabeling process.",
+        "Question": "What is the purpose of the elution step in the synthesis of radiopharmaceuticals?",
+        "A": "To cool down the reaction mixture",
+        "B": "To provide the radionuclide for radiolabeling",
+        "C": "To increase the reaction time",
+        "D": "To sterilize the final product",
+        "Answer": "B",
+        "Source": "For initial tests, 50 to 200 MBq radioactivity was used, and after optimization of radiolabeling, 1100 MBq to 1200 MBq was used to produce a single clinical dose."
+    }
+}

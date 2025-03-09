@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Platelet-derived growth factor receptor beta (PDGFR\u03b2) is known to be overexpressed on activated hepatic stellate cells, which are implicated in the process of fibrogenesis in the liver.",
+        "Question": "What is the role of activated hepatic stellate cells in the liver?",
+        "A": "They decrease the rate of fibrogenesis",
+        "B": "They are the main source of extracellular matrix in liver fibrosis",
+        "C": "They are responsible for glucose metabolism",
+        "D": "They suppress immune responses",
+        "Answer": "B",
+        "Source": "Hepatic stellate cells (HSCs) when activated (aHSCs) play a major role in liver fibrogenesis as they are known to be the main source of ECM in liver fibrosis."
+    },
+    "Question_2": {
+        "Context": "Affibody molecules are engineered proteins with a three-helical bundle structure, which can be used for diagnostic imaging due to their rapid biodistribution and tissue penetration.",
+        "Question": "What is a characteristic feature of Affibody molecules that makes them suitable for diagnostic imaging?",
+        "A": "Large molecular size",
+        "B": "Slow biodistribution",
+        "C": "Rapid biodistribution and tissue penetration",
+        "D": "Inability to be engineered",
+        "Answer": "C",
+        "Source": "Affibody molecules are small molecules of 58-amino-acid (6.5 kDa) three-helical bundle polypeptide. They are robust, easy to engineer, and small relative to e.g. antibodies, which is favorable for diagnostic imaging due to their rapid biodistribution and tissue penetration."
+    },
+    "Question_3": {
+        "Context": "Fluorine-18 is a radionuclide with ideal nuclear properties for positron emission tomography (PET) imaging, which includes high-resolution images and a convenient radioactive half-life.",
+        "Question": "Why is fluorine-18 considered suitable for PET imaging?",
+        "A": "It has a very long radioactive half-life",
+        "B": "It emits strong gamma radiation",
+        "C": "It has ideal nuclear properties for PET imaging",
+        "D": "It is not radioactive",
+        "Answer": "C",
+        "Source": "However, labeling with fluorine-18 would be of interest since it has ideal nuclear properties for positron emission tomography (PET) imaging, allowing for e.g. high-resolution images as well as facile logistics due to its two-hour radioactive half-life."
+    },
+    "Question_4": {
+        "Context": "In the context of molecular imaging, the use of a trans-cyclooctene (TCO) group conjugated to a molecule can facilitate the attachment of a radiolabel for imaging purposes.",
+        "Question": "What is the purpose of conjugating a molecule with a trans-cyclooctene (TCO) group in molecular imaging?",
+        "A": "To decrease the molecule's stability",
+        "B": "To facilitate the attachment of a radiolabel",
+        "C": "To increase the molecular weight significantly",
+        "D": "To reduce the molecule's affinity for its target",
+        "Answer": "B",
+        "Source": "Z09591 was produced in a minimized format only containing the three-helix Affibody scaffold (58 amino acids, including the PDGFR\u03b2 binding motif) by chemical solid phase peptide synthesis (Almac). A unique cysteine residue was added to the C-terminal, which was conjugated with a TCO group via a tris-polyethylene glycol (PEG3) linker."
+    },
+    "Question_5": {
+        "Context": "The biodistribution of a radiolabeled molecule is important to understand its pharmacokinetics and to determine if the background uptake in the target organ is favorable for imaging.",
+        "Question": "Why is it important to study the biodistribution of a radiolabeled molecule?",
+        "A": "To determine the molecule's color",
+        "B": "To assess its pharmacokinetics and background uptake in the target organ",
+        "C": "To understand its nutritional value",
+        "D": "To measure its electrical conductivity",
+        "Answer": "B",
+        "Source": "The biodistribution of [18F]TZ-Z09591, assessed by ex vivo organ distribution and PET imaging in healthy control rats, was a primordial step in the evaluation of the radiotracer as it allows to study its pharmacokinetics in a healthy organism."
+    },
+    "Question_6": {
+        "Context": "Liver fibrosis is characterized by the accumulation of extracellular matrix (ECM), which can lead to organ dysfunction or failure.",
+        "Question": "What characterizes liver fibrosis?",
+        "A": "Reduction of extracellular matrix",
+        "B": "Decreased liver size",
+        "C": "Accumulation of extracellular matrix",
+        "D": "Increased liver enzyme activity",
+        "Answer": "C",
+        "Source": "Fibrogenesis is a dynamic process characterized by the ongoing accumulation of extracellular matrix (ECM), which can lead to the dysfunction or failure of the affected organ."
+    },
+    "Question_7": {
+        "Context": "The gold standard for assessing liver fibrosis is liver biopsy, which has limitations such as invasiveness and complications.",
+        "Question": "What is a limitation of using liver biopsy to assess liver fibrosis?",
+        "A": "It is non-invasive",
+        "B": "It has no complications",
+        "C": "It is always accurate",
+        "D": "It is invasive with potential complications",
+        "Answer": "D",
+        "Source": "The gold standard for assessing fibrosis is liver biopsy and its unavoidable limitations (invasiveness, complications, sampling variability, etc.)."
+    },
+    "Question_8": {
+        "Context": "Positron emission tomography (PET) imaging using specific tracers can be a non-invasive technique to visualize biological processes such as fibrogenesis in the liver.",
+        "Question": "What is a potential advantage of using PET imaging with specific tracers for liver fibrogenesis?",
+        "A": "It requires liver biopsy",
+        "B": "It is highly invasive",
+        "C": "It is a non-invasive technique",
+        "D": "It has low resolution",
+        "Answer": "C",
+        "Source": "Therefore, the development of a non-invasive technique to quantify fibrogenesis would potentially be a major step forward in providing a more reactive and sensitive assessment of the activity of antifibrotic therapies."
+    },
+    "Question_9": {
+        "Context": "The Affibody molecule Z09591 targeting PDGFR\u03b2 has been previously labeled with different chelators for molecular imaging purposes.",
+        "Question": "What has the Affibody molecule Z09591 been previously used for?",
+        "A": "Increasing liver fibrosis",
+        "B": "Molecular imaging of PDGFR\u03b2-expressing xenografts",
+        "C": "Reducing the half-life of radionuclides",
+        "D": "Blocking PDGFR\u03b1",
+        "Answer": "B",
+        "Source": "The Affibody molecule Z09591 was previously labelled with a dodecane tetraacetic acid (DOTA) chelator and evaluated for the molecular imaging of PDGFR\u03b2-expressing xenografts with [111In]DOTA-Z09591 and [68 Ga]DOTA-Z09591."
+    },
+    "Question_10": {
+        "Context": "The use of click chemistry procedures can facilitate the radiolabeling of proteins and peptides with fluorine-18 for PET imaging.",
+        "Question": "What role does click chemistry play in the context of radiolabeling for PET imaging?",
+        "A": "It complicates the synthesis of radiotracers",
+        "B": "It is used to decrease the stability of radiotracers",
+        "C": "It facilitates the attachment of fluorine-18 to molecules",
+        "D": "It is used to remove the radioactive component from molecules",
+        "Answer": "C",
+        "Source": "[18F]MeTZ was radiolabeled by a prosthetic flourine-18 labeled TZ group via a click chemistry procedure previously described for radiolabeling of proteins."
+    }
+}

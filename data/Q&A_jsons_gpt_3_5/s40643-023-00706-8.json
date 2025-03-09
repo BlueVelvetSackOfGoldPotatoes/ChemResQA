@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "An experiment was conducted to assess the local anesthetic activity of O. anisum root extract using the foot withdrawal reflex in frogs.",
+        "Question": "What was the observed trend in the onset time of anesthesia response with increasing concentrations of O. anisum root extract in the foot withdrawal reflex experiment in frogs?",
+        "A": "Onset time increased",
+        "B": "Onset time decreased",
+        "C": "Onset time remained constant",
+        "D": "Onset time fluctuated",
+        "Answer": "B",
+        "Source": "Treatment with different concentrations of methanolic extract of root bark of O. anisum (10\u201380 mg/mL) revealed the dose-dependent onset time of anesthesia response (35.00, 22.54, 17.35, 12.64 and 6.49 min, respectively) in frog."
+    },
+    "Question_2": {
+        "Context": "An experiment was conducted to evaluate the local anesthetic activity of O. anisum root extract using the intradermal wheal method in guinea pigs.",
+        "Question": "What was the observed trend in the onset time of local anesthesia with increasing concentrations of O. anisum root extract in the intradermal wheal method experiment in guinea pigs?",
+        "A": "Onset time increased",
+        "B": "Onset time decreased",
+        "C": "Onset time remained constant",
+        "D": "Onset time fluctuated",
+        "Answer": "B",
+        "Source": "Considerable response was observed at guinea pigs treated with 80 mg/mL extract. The quick recovery rate of animals was observed at least concentrations, while the rate of recovery was found to be delayed at higher concentrations."
+    },
+    "Question_3": {
+        "Context": "An experiment was conducted to assess the effect of O. anisum root extract on HCl-induced acute lung injury (ALI) in mice.",
+        "Question": "What was the observed effect of O. anisum extract on the total number of inflammatory cells in bronchoalveolar lavage fluid (BALF) of mice with HCl-induced ALI?",
+        "A": "Increase in inflammatory cells",
+        "B": "No effect on inflammatory cells",
+        "C": "Decrease in inflammatory cells",
+        "D": "Fluctuation in inflammatory cells",
+        "Answer": "C",
+        "Source": "Mice administered with different doses of extract before HCl treatment showed considerable reduction in the number of inflammatory cells."
+    },
+    "Question_4": {
+        "Context": "An experiment was conducted to evaluate the effect of O. anisum extract on oxidative stress in HCl-induced ALI mice.",
+        "Question": "What was the observed trend in the levels of ROS in the lungs of mice with HCl-induced ALI when treated with O. anisum extract?",
+        "A": "Increase in ROS levels",
+        "B": "No effect on ROS levels",
+        "C": "Decrease in ROS levels",
+        "D": "Fluctuation in ROS levels",
+        "Answer": "C",
+        "Source": "Mice treated with O. anisum extracts before HCl administration greatly reduced the ROS amounts in the lungs."
+    },
+    "Question_5": {
+        "Context": "An experiment was conducted to evaluate the analgesic activity of O. anisum extract using the Eddy\u2019s hot plate method in rats.",
+        "Question": "What was the observed trend in the latency time for analgesia with increasing doses of O. anisum extract in rats?",
+        "A": "Latency time decreased",
+        "B": "Latency time increased",
+        "C": "Latency time remained constant",
+        "D": "Latency time fluctuated",
+        "Answer": "B",
+        "Source": "The analysis revealed the increased latency time with significant analgesic activities. The study finds dose-dependent upliftment of latency time with maximal analgesic activity at 200 mg/kg of O. anisum extract."
+    },
+    "Question_6": {
+        "Context": "An experiment was conducted to assess the anti-inflammatory activity of O. anisum extract using the carrageenan paw oedema method in rats.",
+        "Question": "What was the observed effect of O. anisum extract on anti-inflammatory activity in rats compared to diclofenac, a known anti-inflammatory agent?",
+        "A": "Less effective than diclofenac",
+        "B": "Equally effective as diclofenac",
+        "C": "More effective than diclofenac",
+        "D": "No effect compared to diclofenac",
+        "Answer": "A",
+        "Source": "Dose-dependent inhibitory activity was observed and the maximal inhibitory activity was monitored at 200 mg/kg of O. ansium extract. However, the anti-inflammatory activity of methanolic extracts of various plants such as Mollugo cerviana, Citrus nobilis, Palicourea crocea, Callicarpa arborea Roxb have been demonstrated previously."
+    },
+    "Question_7": {
+        "Context": "An experiment was conducted to evaluate the local anesthetic effect of Anacyclus pyrethrum root extract in guinea pigs.",
+        "Question": "What was the significant finding regarding the local anesthetic effect of Anacyclus pyrethrum root extract in guinea pigs?",
+        "A": "Rapid onset of time",
+        "B": "Delayed onset of time",
+        "C": "No local anesthetic effect observed",
+        "D": "Fluctuating onset of time",
+        "Answer": "A",
+        "Source": "The animals injected intradermally with plant extract revealed significant local anesthetic effect at 2% ethanolic root extract of A. pyrethrum with rapid onset of time."
+    },
+    "Question_8": {
+        "Context": "An experiment was conducted to evaluate the local anesthetic activity of Sterculia tragacantha Lindl extract in guinea pigs.",
+        "Question": "What was the observed effect of Sterculia tragacantha Lindl extract on local anesthesia in guinea pigs?",
+        "A": "No local anesthetic effect observed",
+        "B": "Significant local anesthetic activity",
+        "C": "Delayed onset of time",
+        "D": "Fluctuating onset of time",
+        "Answer": "B",
+        "Source": "An intradermal injection of extract of Sterculia tragacantha Lindl displayed local anesthetic activity in guinea pig."
+    },
+    "Question_9": {
+        "Context": "An experiment was conducted to assess the anti-inflammatory potential of O. anisum root extract using a mice model of HCl-induced ALI.",
+        "Question": "What was the observed effect of O. anisum root extract on the number of inflammatory cells in BALF of mice with HCl-induced ALI?",
+        "A": "Increase in inflammatory cells",
+        "B": "No effect on inflammatory cells",
+        "C": "Decrease in inflammatory cells",
+        "D": "Fluctuation in inflammatory cells",
+        "Answer": "C",
+        "Source": "Mice administered orally with different doses of O. anisum root extract showed reduced number of inflammatory cells in BALF."
+    },
+    "Question_10": {
+        "Context": "An experiment was conducted to evaluate the effect of O. anisum extract on redox homeostasis and catalase activity in HCl-induced ALI mice.",
+        "Question": "What was the observed effect of O. anisum extract on redox homeostasis and catalase activity in lungs of mice with HCl-induced ALI?",
+        "A": "No effect on redox homeostasis and catalase activity",
+        "B": "Decrease in redox homeostasis and catalase activity",
+        "C": "Increase in redox homeostasis and catalase activity",
+        "D": "Fluctuation in redox homeostasis and catalase activity",
+        "Answer": "C",
+        "Source": "Results unveiled that mice treated with O. anisum extract was found to restore the redox homeostasis and catalase activity in lungs."
+    }
+}

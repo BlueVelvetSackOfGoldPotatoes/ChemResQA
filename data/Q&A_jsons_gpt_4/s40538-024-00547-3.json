@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Plant parasitic nematodes are harmful to agricultural production and can be controlled by nematode-trapping fungi, which capture nematodes using specialized traps.",
+        "Question": "What is the role of nematode-trapping fungi (NTF) in agriculture?",
+        "A": "They enhance the growth of plant parasitic nematodes",
+        "B": "They capture nematodes to control their population",
+        "C": "They have no significant role in agriculture",
+        "D": "They promote infection of plants by pathogenic microorganisms",
+        "Answer": "B",
+        "Source": "Nematode-trapping fungi (NTF) form diverse special traps to capture nematodes through mycelium specialization, such as three-dimensional networks, adhesive knobs, and constricting rings etc."
+    },
+    "Question_2": {
+        "Context": "Secondary metabolites produced by certain bacteria can induce the formation of traps in nematode-trapping fungi, which is a potential strategy for biological control of nematodes.",
+        "Question": "What can induce nematode-trapping fungi to produce traps?",
+        "A": "Plant roots",
+        "B": "Sunlight",
+        "C": "Secondary metabolites from bacteria",
+        "D": "Chemical fertilizers",
+        "Answer": "C",
+        "Source": "Many factors can induce the formation of traps, among which natural metabolite is an important factor."
+    },
+    "Question_3": {
+        "Context": "The AraC family of transcriptional regulators is known to regulate the metabolism of bacteria, affecting the production of various metabolites.",
+        "Question": "What is the function of the AraC family of transcriptional regulators in bacteria?",
+        "A": "They regulate the reproduction of bacteria",
+        "B": "They regulate the metabolism of bacteria",
+        "C": "They protect bacteria from antibiotics",
+        "D": "They induce trap formation in fungi",
+        "Answer": "B",
+        "Source": "The AraC family of transcriptional regulator is representative of globally regulated genes that have been studied early and are widely distributed in a variety of bacteria."
+    },
+    "Question_4": {
+        "Context": "Promoters are crucial in gene transcription and expression, and the selection of a stably expressed promoter can significantly impact the production of metabolites in metabolic engineering.",
+        "Question": "What is the significance of promoters in gene transcription and expression?",
+        "A": "They decrease the stability of gene expression",
+        "B": "They have no impact on gene expression",
+        "C": "They prevent gene transcription",
+        "D": "They play an important role in gene transcription and expression",
+        "Answer": "D",
+        "Source": "Promoters play an important role in gene transcription and expression."
+    },
+    "Question_5": {
+        "Context": "Pseudomonas lurida is a gram-negative bacterium that exhibits characteristics such as cold tolerance and plant growth promotion, and it can produce active metabolites that induce trap formation in Arthrobotrys oligospora.",
+        "Question": "Which characteristic is not associated with Pseudomonas lurida?",
+        "A": "Cold tolerance",
+        "B": "Inducing trap formation in Arthrobotrys oligospora",
+        "C": "Plant growth promotion",
+        "D": "Resistance to high temperatures",
+        "Answer": "D",
+        "Source": "Pseudomonas lurida is a gram-negative bacterium that is widely distributed; it was first isolated from strawberry leaves, and then obtained from soil in cold regions, plant rhizospheres, nematode, and milk. It has the characteristics of cold tolerance, phosphorus dissolution and plant growth promotion."
+    },
+    "Question_6": {
+        "Context": "In the context of nematode control, biocontrol methods are preferred over chemical methods due to their reduced negative environmental impacts.",
+        "Question": "Why is biocontrol of plant parasitic nematodes often preferred over chemical control methods?",
+        "A": "Biocontrol is more expensive than chemical methods",
+        "B": "Chemical methods are more effective than biocontrol",
+        "C": "Biocontrol has fewer negative environmental impacts",
+        "D": "Chemical methods are not available",
+        "Answer": "C",
+        "Source": "The biocontrol of PPNs has been extensively researched because it has few negative environmental impacts."
+    },
+    "Question_7": {
+        "Context": "The production of secondary metabolites by bacteria can be enhanced by the insertion of a strong promoter, which can lead to an increase in the yield of these metabolites.",
+        "Question": "What is the effect of inserting a strong promoter in the bacterial genome on the production of secondary metabolites?",
+        "A": "Decreases the yield of secondary metabolites",
+        "B": "Has no effect on the yield of secondary metabolites",
+        "C": "Increases the yield of secondary metabolites",
+        "D": "Changes the color of the bacterial colonies",
+        "Answer": "C",
+        "Source": "A strong promoter, PoprL, was inserted to overexpress the araC gene and the transformant P. lurida araC-PoprL was obtained."
+    },
+    "Question_8": {
+        "Context": "The fermentation broth of certain bacteria can induce trap formation in nematode-trapping fungi, suggesting that the active substances responsible for this induction are present in the broth.",
+        "Question": "What does the ability of a bacterial fermentation broth to induce trap formation in nematode-trapping fungi suggest?",
+        "A": "The broth contains nutrients for fungi growth",
+        "B": "The broth contains active substances that induce trap formation",
+        "C": "The broth is toxic to fungi",
+        "D": "The broth has no effect on fungi",
+        "Answer": "B",
+        "Source": "The fermentation broth of P. lurida had a good induction effect, traps began to form at 48 h, a large number of traps formed at 60 h."
+    },
+    "Question_9": {
+        "Context": "The metabolite 1-methylhydantoin from Pseudomonas lurida has been found to effectively induce trap formation in Arthrobotrys oligospora, which can be used for controlling plant parasitic nematodes.",
+        "Question": "Which metabolite from Pseudomonas lurida is effective in inducing trap formation in Arthrobotrys oligospora?",
+        "A": "Benzoic acid",
+        "B": "Acetyl-9H-carbazole",
+        "C": "1-methylhydantoin",
+        "D": "Indole-3-carboxylic acid",
+        "Answer": "C",
+        "Source": "The activity assay showed that 1-methylhydantoin (9) could effectively induce A. oligospora to produce traps."
+    },
+    "Question_10": {
+        "Context": "The global loss caused by plant parasitic nematodes is significant, highlighting the need for effective control strategies.",
+        "Question": "What is the estimated global economic loss caused by plant parasitic nematodes annually?",
+        "A": "$170 million",
+        "B": "$170 billion",
+        "C": "$17 billion",
+        "D": "$1.7 billion",
+        "Answer": "B",
+        "Source": "According to a literature, a global loss of 170 billion dollars annually is caused by PPNs."
+    }
+}

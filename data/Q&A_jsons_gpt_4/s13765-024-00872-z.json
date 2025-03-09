@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of plant-derived extracts, the total anthocyanin content is often measured to assess the potential antioxidant properties of the extract.",
+        "Question": "What is the significance of measuring the total anthocyanin content in plant extracts?",
+        "A": "To determine the water content of the plant extract",
+        "B": "To assess the potential antioxidant properties of the extract",
+        "C": "To measure the protein content of the plant extract",
+        "D": "To evaluate the extract's ability to induce inflammation",
+        "Answer": "B",
+        "Source": "The \u2019Ariheuk\u2019 bran extract (ABE) contained a higher total anthocyanin content (0.19 mg C3G/g) than the general wheat bran extract (GBE) (0.01 mg C3G/g). ABE exhibited stronger antioxidant and anti\u2011inflammatory activities than GBE."
+    },
+    "Question_2": {
+        "Context": "Anthocyanins are water-soluble pigments that are responsible for red, purple, and blue colors in plants and are known for their antioxidant and anti-inflammatory activities.",
+        "Question": "What role do anthocyanins play in plants?",
+        "A": "They contribute to the plant's structural integrity",
+        "B": "They protect the plant from ultraviolet radiation",
+        "C": "They are responsible for the plant's red, purple, and blue colors and have antioxidant and anti-inflammatory activities",
+        "D": "They are essential for the plant's water transport system",
+        "Answer": "C",
+        "Source": "The primary anthocyanins found in \u2019Ariheuk\u2019 are cyanidin-3-O-glucoside (C3G) and peonidin-3-O-glucoside (P3G). The physiological benefits of colored wheat, which is rich in bioactive compounds, such as anthocyanins, carotenoids, and other phytochemicals, have garnered global attention."
+    },
+    "Question_3": {
+        "Context": "In vitro assays, such as the DPPH free radical scavenging activity test, are commonly used to evaluate the antioxidant capacity of substances.",
+        "Question": "What does the DPPH free radical scavenging activity test measure?",
+        "A": "The ability of a substance to donate electrons and neutralize free radicals",
+        "B": "The concentration of free radicals in a substance",
+        "C": "The water solubility of the substance",
+        "D": "The ability of a substance to generate free radicals",
+        "Answer": "A",
+        "Source": "To assess the antioxidant activity, the DPPH free radical scavenging activity and ORAC values were compared. ABE exhibited significantly higher DPPH free radical scavenging activity than GBE, with lower IC50 and higher ORAC values."
+    },
+    "Question_4": {
+        "Context": "The expression of inducible nitric oxide synthase (iNOS) and cyclooxygenase 2 (COX-2) in cells is often assessed to understand the anti-inflammatory effects of a substance.",
+        "Question": "Why is the expression of iNOS and COX-2 in cells important to measure when assessing anti-inflammatory effects?",
+        "A": "They are enzymes involved in the synthesis of cell membranes",
+        "B": "They are indicators of cell proliferation",
+        "C": "They are involved in the induction and elevation of pro-inflammatory mediators",
+        "D": "They are responsible for the cellular uptake of nutrients",
+        "Answer": "C",
+        "Source": "The mechanism underlying the anti\u2011inflammatory effects of ABE was explored by assessing the expression of inducible nitric oxide synthase (iNOS) and cyclooxygenase 2 (COX\u20112) in RAW 264.7 cells stimulated with lipopolysaccharide (LPS)."
+    },
+    "Question_5": {
+        "Context": "Preparative liquid chromatography (Prep-LC) is a technique used to separate and purify compounds from complex mixtures.",
+        "Question": "What is the purpose of using preparative liquid chromatography in the context of analyzing plant extracts?",
+        "A": "To determine the pH level of the plant extract",
+        "B": "To separate and purify compounds from complex mixtures",
+        "C": "To measure the viscosity of the plant extract",
+        "D": "To quantify the water content in the plant extract",
+        "Answer": "B",
+        "Source": "The crude ABE extract was also partially fractionated into three subfractions (ABE\u2011 F1, ABE\u2011F2, and ABE\u2011F3) using preparative liquid chromatography (Prep\u2011LC) to identify the active metabolites."
+    },
+    "Question_6": {
+        "Context": "Cyclooxygenase 2 (COX-2) is an enzyme that plays a role in the inflammatory process by mediating the production of pro-inflammatory substances.",
+        "Question": "What is the role of COX-2 in the inflammatory process?",
+        "A": "It mediates the production of pro-inflammatory substances",
+        "B": "It reduces the production of pro-inflammatory substances",
+        "C": "It is involved in the synthesis of anti-inflammatory proteins",
+        "D": "It aids in the repair of damaged tissues",
+        "Answer": "A",
+        "Source": "iNOS and COX-2 are key factors in the inflammatory pathway owing to their involvement in the induction and elevation of pro-inflammatory mediators, including NO and prostaglandin E2 (PGE2)."
+    },
+    "Question_7": {
+        "Context": "Metabolomic analysis using multivariate statistical methods can be employed to identify active metabolites in plant extracts.",
+        "Question": "What is the purpose of using metabolomic analysis with multivariate statistical methods in the context of plant extracts?",
+        "A": "To identify the genetic makeup of the plant",
+        "B": "To determine the age of the plant",
+        "C": "To identify active metabolites contributing to the extract's activity",
+        "D": "To assess the plant's growth rate",
+        "Answer": "C",
+        "Source": "The key metabolites contributing to the physiological activity of ABE were screened and identified using metabolomic analyses."
+    },
+    "Question_8": {
+        "Context": "The anti-inflammatory activity of plant extracts can be evaluated by measuring the suppression of nitric oxide (NO) production in stimulated cells.",
+        "Question": "How is the anti-inflammatory activity of plant extracts commonly evaluated in vitro?",
+        "A": "By measuring the increase in nitric oxide (NO) production in stimulated cells",
+        "B": "By measuring the suppression of nitric oxide (NO) production in stimulated cells",
+        "C": "By assessing the growth rate of plant cells",
+        "D": "By determining the photosynthetic efficiency of plant cells",
+        "Answer": "B",
+        "Source": "To evaluate the anti-inflammatory activity of the extracts, nitric oxide (NO) generation and the expression of key biomarkers (iNOS and COX-2) were compared with LPS-induced RAW 264.7 cells."
+    },
+    "Question_9": {
+        "Context": "Apigenin glycosides, such as corymboside and schaftoside, are compounds found in wheat that exhibit antioxidant and anti-inflammatory properties.",
+        "Question": "What properties do apigenin glycosides like corymboside and schaftoside exhibit?",
+        "A": "Antibacterial and antiviral",
+        "B": "Antioxidant and anti-inflammatory",
+        "C": "Neuroprotective and muscle growth promoting",
+        "D": "Antifungal and anti-parasitic",
+        "Answer": "B",
+        "Source": "The corymbosides and schaftosides found in all F2 samples were apigenin glycosides commonly found in wheat. Apigenin glycosides exhibit anticancer, antioxidant, and anti-inflammatory properties."
+    },
+    "Question_10": {
+        "Context": "The MTT assay is a colorimetric assay for assessing cell metabolic activity, and by extension, cell viability.",
+        "Question": "What does the MTT assay measure in the context of cell culture experiments?",
+        "A": "The concentration of nutrients in the cell culture medium",
+        "B": "The rate of cell division",
+        "C": "Cell metabolic activity and viability",
+        "D": "The genetic expression profiles of the cells",
+        "Answer": "C",
+        "Source": "The MTT assay was performed to assess the cytotoxicity of the extracts on RAW 264.7 cells at various concentrations. Cell viability above 80% was considered non-cytotoxic."
+    }
+}

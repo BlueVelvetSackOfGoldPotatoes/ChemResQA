@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the effects of Jeju lava seawater (JLS) on osteoarthritis (OA) pathogenesis, focusing on chondrocyte metabolism and OA development.",
+        "Question": "What is the unique advantage of Jeju lava seawater (JLS) over conventional seawater salts?",
+        "A": "Enriched with microplastics",
+        "B": "Contains high levels of sodium chloride",
+        "C": "Free of microplastics and enriched with essential minerals",
+        "D": "Associated with potential health risks",
+        "Answer": "C",
+        "Source": "Jeju lava seawater (JLS), sourced exclusively from Jeju Island, has emerged as a unique alternative, free of microplastics and enriched with essential minerals such as magnesium, calcium, zinc, and iron."
+    },
+    "Question_2": {
+        "Context": "The study examined the expression of catabolic and anabolic factors in JLS-treated chondrocytes.",
+        "Question": "What effect did JLS treatment have on the expression of anabolic factors in chondrocytes?",
+        "A": "Decreased expression of aggrecan",
+        "B": "Increased expression of MMP3",
+        "C": "Increased expression of SOX9",
+        "D": "Decreased expression of COL2A1",
+        "Answer": "C",
+        "Source": "JLS treatment resulted in a concentration-dependent increase in the expression of anabolic factors like aggrecan, SOX9, and COL2A1."
+    },
+    "Question_3": {
+        "Context": "The study assessed the viability of primary cultured chondrocytes treated with different salts.",
+        "Question": "What was the maximum safe concentration of salts for chondrocytes based on the viability assay?",
+        "A": "0.1%",
+        "B": "0.2%",
+        "C": "0.5%",
+        "D": "1%",
+        "Answer": "C",
+        "Source": "Cell viability assay demonstrated that JLS, KS, and DS were not cytotoxic to chondrocytes at concentrations of 0.1\u20130.5%."
+    },
+    "Question_4": {
+        "Context": "The study examined the effects of salts on the expression of catabolic factors in chondrocytes.",
+        "Question": "Which salt treatment significantly inhibited the expression of Mmp3, Mmp13, Adamts4, and Adamts5 in chondrocytes?",
+        "A": "Jeju lava seawater (JLS)",
+        "B": "Korean sea salt (KS)",
+        "C": "Deep ocean seawater salt (DS)",
+        "D": "All salts had similar effects",
+        "Answer": "A",
+        "Source": "JLS treatment significantly inhibited the expression of Mmp3, Mmp13, Adamts4, and Adamts5 induced by proinflammatory cytokines in primary chondrocytes."
+    },
+    "Question_5": {
+        "Context": "The study investigated the effects of different salts on the viability of primary cultured chondrocytes.",
+        "Question": "Which salt treatment significantly increased chondrocyte viability at a concentration of 0.5%?",
+        "A": "Jeju lava seawater (JLS)",
+        "B": "Korean sea salt (KS)",
+        "C": "Deep ocean seawater salt (DS)",
+        "D": "All salts had similar effects",
+        "Answer": "A",
+        "Source": "Treatment with 0.5% of JLS significantly increased chondrocyte viability."
+    },
+    "Question_6": {
+        "Context": "The study compared the therapeutic effects of different salts in a mouse model induced with OA via destabilization of medial meniscus (DMM).",
+        "Question": "Which salt treatment did not induce hypertrophic changes in chondrocytes?",
+        "A": "Jeju lava seawater (JLS)",
+        "B": "Korean sea salt (KS)",
+        "C": "Deep ocean seawater salt (DS)",
+        "D": "All salts induced hypertrophic changes",
+        "Answer": "A",
+        "Source": "JLS treatment did not significantly affect the expression of hypertrophy markers, indicating the absence of hypertrophic changes in chondrocytes."
+    },
+    "Question_7": {
+        "Context": "The study examined the mineral compositions and concentrations of different salts using ICP-MS.",
+        "Question": "Which salt had the highest concentration of strontium (Sr)?",
+        "A": "Jeju lava seawater (JLS)",
+        "B": "Korean sea salt (KS)",
+        "C": "Deep ocean seawater salt (DS)",
+        "D": "All salts had similar concentrations",
+        "Answer": "A",
+        "Source": "The concentrations of strontium (Sr) in JLS were 231,017 ppb, significantly higher than in KS and DS."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the effects of salts on proinflammatory cytokine-induced changes in the expression of anabolic and catabolic factors in chondrocytes.",
+        "Question": "Which salt treatment reversed the IL-1\u03b2-induced decrease in aggrecan expression in chondrocytes?",
+        "A": "Jeju lava seawater (JLS)",
+        "B": "Korean sea salt (KS)",
+        "C": "Deep ocean seawater salt (DS)",
+        "D": "All salts had similar effects",
+        "Answer": "A",
+        "Source": "JLS treatment reversed the IL-1\u03b2-induced decrease in aggrecan expression in chondrocytes."
+    },
+    "Question_9": {
+        "Context": "The study assessed the impact of JLS in a mice DMM model to examine the anti-osteoarthritis effects.",
+        "Question": "What effect did JLS treatment have on osteophyte size in the mice with DMM-induced OA?",
+        "A": "Significantly increased osteophyte size",
+        "B": "Significantly decreased osteophyte size",
+        "C": "No significant effect on osteophyte size",
+        "D": "Induced hypertrophic changes in osteophytes",
+        "Answer": "C",
+        "Source": "Although not statistically significant, JLS treatment did not significantly affect osteophyte size in mice with DMM-induced OA."
+    },
+    "Question_10": {
+        "Context": "The study highlighted the importance of continued research to fully understand the potential of JLS in OA treatment.",
+        "Question": "What is the recommended next step for future studies regarding the therapeutic potential of JLS in OA?",
+        "A": "Adjust experimental parameters to optimize JLS efficacy",
+        "B": "Conclude that JLS is not effective in OA treatment",
+        "C": "Discontinue research on JLS",
+        "D": "Ignore in vivo effects and focus solely on in vitro observations",
+        "Answer": "A",
+        "Source": "Further exploration and refinement of the experimental conditions are necessary to comprehensively investigate the in vivo effects of JLS."
+    }
+}

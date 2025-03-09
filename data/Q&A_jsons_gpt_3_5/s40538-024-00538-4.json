@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study involved modifying bamboo charcoal with phosphoric acid to enhance its adsorption capacity for chlorogenic acid. The specific surface area of the modified bamboo charcoal increased significantly compared to the unmodified version.",
+        "Question": "What was the specific surface area of unmodified bamboo charcoal before modification?",
+        "A": "4.91 m2/g",
+        "B": "115.18 m2/g",
+        "C": "7.15 nm",
+        "D": "1.99 nm",
+        "Answer": "A",
+        "Source": "The specific surface area of unmodified bamboo charcoal was 4.91 m2/g."
+    },
+    "Question_2": {
+        "Context": "The study aimed to determine the optimal conditions for modifying bamboo charcoal with phosphoric acid. The experiments varied the mass fraction of phosphoric acid, impregnation ratio, activation temperature, and activation time.",
+        "Question": "What was the optimal mass fraction of phosphoric acid used in the modification process?",
+        "A": "30%",
+        "B": "45%",
+        "C": "60%",
+        "D": "75%",
+        "Answer": "B",
+        "Source": "The results demonstrated that modified bamboo charcoal had the strongest adsorption capacity for chlorogenic acid when impregnating bamboo charcoal in a 45% mass fraction of phosphoric acid solution."
+    },
+    "Question_3": {
+        "Context": "The study conducted adsorption kinetic studies to understand the adsorption behavior of modified bamboo charcoal for chlorogenic acid. The curve of the modified bamboo charcoal for chlorogenic acid followed a specific kinetic equation.",
+        "Question": "Which kinetic equation did the curve of the modified bamboo charcoal for chlorogenic acid adhere to?",
+        "A": "Zero-order kinetic equation",
+        "B": "First-order kinetic equation",
+        "C": "Second-order kinetic equation",
+        "D": "Third-order kinetic equation",
+        "Answer": "B",
+        "Source": "Adsorption kinetic studies revealed that the curve of the modified bamboo charcoal for chlorogenic acid adhered to a first-order kinetic equation."
+    },
+    "Question_4": {
+        "Context": "The study analyzed the adsorption thermodynamics of modified bamboo charcoal for chlorogenic acid at different temperatures. The adsorption rate varied with temperature changes.",
+        "Question": "Which equation did the curve of the modified bamboo charcoal for chlorogenic acid conform to in the adsorption thermodynamic studies?",
+        "A": "Langmuir equation",
+        "B": "Freundlich equation",
+        "C": "Boltzmann equation",
+        "D": "Henderson-Hasselbalch equation",
+        "Answer": "C",
+        "Source": "Adsorption thermodynamic studies suggested that the curve of the modified bamboo charcoal for chlorogenic acid conformed to the Boltzmann equation."
+    },
+    "Question_5": {
+        "Context": "The study utilized IR analysis to compare bamboo charcoal and modified bamboo charcoal. The IR spectra provided insights into the functional groups present in the materials.",
+        "Question": "Which functional group was significantly reduced in the modified bamboo charcoal compared to unmodified bamboo charcoal?",
+        "A": "Carboxyl group",
+        "B": "Hydroxyl group",
+        "C": "Phosphate group",
+        "D": "Methyl group",
+        "Answer": "B",
+        "Source": "The intense spectral bands from wavenumbers 1590 cm\u22121 and 1160 cm\u22121 in unmodified bamboo charcoal, engendered by the stretching and bending vibrations of C\u2013H bonds in the methyl (\u2013CH3) groups, were significantly reduced in the modified bamboo charcoal."
+    },
+    "Question_6": {
+        "Context": "The study conducted BET analysis to evaluate the pore structure of unmodified and modified bamboo charcoal. The results indicated significant changes in the specific surface area and pore volume after modification.",
+        "Question": "What was the specific surface area of modified bamboo charcoal after modification?",
+        "A": "4.91 m2/g",
+        "B": "115.18 m2/g",
+        "C": "7.15 nm",
+        "D": "1.99 nm",
+        "Answer": "B",
+        "Source": "The specific surface area of modified bamboo charcoal surged from 4.91 m2/g to 115.18 m2/g after modification."
+    },
+    "Question_7": {
+        "Context": "The study utilized XRD analysis to determine the crystalline or amorphous structure of bamboo charcoal before and after modification. The XRD pattern revealed specific peaks corresponding to certain reflections.",
+        "Question": "Which peak position was observed for both unmodified and modified bamboo charcoal in the XRD pattern?",
+        "A": "2\u03b8 = 23.8",
+        "B": "2\u03b8 = 45.6",
+        "C": "2\u03b8 = 15.2",
+        "D": "2\u03b8 = 30.9",
+        "Answer": "A",
+        "Source": "A broad peak of the unmodified and modified bamboo charcoal position at 2\u03b8 = 23.8 was observed for all samples and corresponds to reflections of the (002) planes, respectively."
+    },
+    "Question_8": {
+        "Context": "The study employed XPS analysis to identify the elements in modified bamboo charcoal and their chemical states. The XPS spectra provided information on the chemical composition of the material.",
+        "Question": "Which energy level was observed for the phosphate group in the XPS spectrum of modified bamboo charcoal?",
+        "A": "133.2 eV",
+        "B": "285.1 eV",
+        "C": "530.2 eV",
+        "D": "288.0 eV",
+        "Answer": "A",
+        "Source": "The P 2p spectrum of modified bamboo charcoal showed an energy level of 133.2 eV for phosphate."
+    },
+    "Question_9": {
+        "Context": "The study conducted SEM analysis to examine the surface microtopography of unmodified and modified bamboo charcoal. The SEM images revealed differences in the pore structures of the materials.",
+        "Question": "What was the main change observed in the surface texture of modified bamboo charcoal compared to unmodified bamboo charcoal in the SEM analysis?",
+        "A": "Smaller pores",
+        "B": "Smoother surface",
+        "C": "Rougher surface",
+        "D": "No visible changes",
+        "Answer": "C",
+        "Source": "The modification of bamboo charcoal with phosphoric acid resulted in a rougher surface texture, increased debris within the voids, and a proliferation of porous structures distributed along the walls of existing pores."
+    },
+    "Question_10": {
+        "Context": "The study conducted DFT calculations to analyze the interaction between chlorogenic acid and modified bamboo charcoal. The calculations revealed the formation of hydrogen bonds between the molecules.",
+        "Question": "What type of bond primarily formed between the hydroxyl group of ring A on the chlorogenic acid module and the phosphate group of the modified bamboo charcoal module?",
+        "A": "Ionic bond",
+        "B": "Covalent bond",
+        "C": "Hydrogen bond",
+        "D": "Van der Waals bond",
+        "Answer": "C",
+        "Source": "The interaction between the chlorogenic acid molecule and the modified bamboo charcoal module primarily involves hydrogen bonding."
+    }
+}

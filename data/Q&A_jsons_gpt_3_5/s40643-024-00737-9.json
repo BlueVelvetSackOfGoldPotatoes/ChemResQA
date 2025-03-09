@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the adsorption capacity of amyloid fibrils derived from plant-based materials for organic dyes removal from contaminated water.",
+        "Question": "What is the main advantage of using plant-derived amyloid fibrils for adsorption compared to animal-based amyloid fibrils?",
+        "A": "Higher cost",
+        "B": "Lower sustainability",
+        "C": "Lower adsorption capacity",
+        "D": "More sustainable",
+        "Answer": "D",
+        "Source": "However, according to an overall sustainability footprint analysis, the animal-based amyloid fibrils exhibited much lower sustainability in consideration of techno-economic, environmental and social impact."
+    },
+    "Question_2": {
+        "Context": "The study explored the adsorption kinetics of amyloid fibrils derived from wheat flour for organic dyes.",
+        "Question": "Which kinetic model best describes the adsorption process of organic dyes by wheat flour amyloid fibrils?",
+        "A": "Pseudo-first-order",
+        "B": "Pseudo-second-order",
+        "C": "Langmuir",
+        "D": "Freundlich",
+        "Answer": "B",
+        "Source": "These results indicated that the adsorption by wheat flour amyloid fibrils was a pseudo-second-order process, which followed the pseudo-second-order kinetic mechanism."
+    },
+    "Question_3": {
+        "Context": "The study investigated the adsorption isotherms of amyloid fibrils derived from wheat flour for organic dyes.",
+        "Question": "Which model best fits the adsorption isotherm of Congo red on wheat flour amyloid fibrils?",
+        "A": "Langmuir",
+        "B": "Freundlich",
+        "C": "Pseudo-first-order",
+        "D": "Pseudo-second-order",
+        "Answer": "A",
+        "Source": "For CR, the R2 value of Langmuir fitting (0.999) was much higher than that of the R2 (0.671) from Freundlich fitting, indicating CR adsorption on amyloid fibrils fitted well with the Langmuir isotherm model."
+    },
+    "Question_4": {
+        "Context": "The study assessed the adsorption performance of amyloid fibrils derived from wheat flour for organic dyes.",
+        "Question": "What is the maximum monolayer adsorption capacity of wheat flour amyloid fibrils for Congo red?",
+        "A": "139 mg/g",
+        "B": "333 mg/g",
+        "C": "49.2 mg/g",
+        "D": "41.5 mg/g",
+        "Answer": "B",
+        "Source": "The maximum monolayer adsorption capacity for CR was 333 mg/g."
+    },
+    "Question_5": {
+        "Context": "The study examined the regeneration ability of amyloid fibrils derived from wheat flour for organic dyes adsorption.",
+        "Question": "How many continuous reuse cycles showed over 90% removal efficiency for Congo red by wheat flour amyloid fibrils?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "Answer": "C",
+        "Source": "It was shown that the removal efficiency of amyloid fibrils also reached over 90% after 3 continuous reuse cycles."
+    },
+    "Question_6": {
+        "Context": "The study highlighted the importance of utilizing plant-based amyloid fibrils for organic dyes removal.",
+        "Question": "What was the main characteristic of the amyloid fibrils derived from wheat flour under acidic conditions?",
+        "A": "High cost",
+        "B": "Low sustainability",
+        "C": "High adsorption capacity",
+        "D": "Beta-sheet-rich",
+        "Answer": "D",
+        "Source": "Therefore, albumins, globulins, gliadins were firstly removed from the wheat flour. As albumins and globulins could solve in NaCl solution, these proteins were removed by dissolving the wheat flour in 2% (w/v) NaCl solution."
+    },
+    "Question_7": {
+        "Context": "The study demonstrated the successful preparation of amyloid fibrils from wheat flour and their adsorption performance for organic dyes.",
+        "Question": "What method was used to confirm the presence of amyloid fibrils in the wheat flour preparation?",
+        "A": "TEM observation",
+        "B": "FTIR analysis",
+        "C": "ThT staining",
+        "D": "UV/Vis spectroscopy",
+        "Answer": "C",
+        "Source": "To confirm the formation of wheat flour amyloid fibrils, ThT staining, TEM observation and FTIR analysis were applied."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the adsorption capacity of amyloid fibrils derived from wheat flour for organic dyes.",
+        "Question": "What was the adsorption capacity of wheat flour amyloid fibrils for Eosin Y?",
+        "A": "40.8 mg/g",
+        "B": "66 mg/g",
+        "C": "170 mg/g",
+        "D": "172 mg/g",
+        "Answer": "B",
+        "Source": "The equilib- rium adsorption capacity Qe,exp of EY was 66 mg/g, and the equilibrium adsorption capacity Qe calculated by the pseudo-second-order fitting was 70.4 mg/g."
+    },
+    "Question_9": {
+        "Context": "The study investigated the adsorption performance of amyloid fibrils derived from wheat flour for organic dyes.",
+        "Question": "What was the main advantage of using amyloid fibrils for adsorption compared to activated carbon and adsorption resin?",
+        "A": "Higher cost",
+        "B": "Lower sustainability",
+        "C": "Lower efficiency",
+        "D": "Easy operation and high efficiency",
+        "Answer": "D",
+        "Source": "Traditionally, activated carbon and adsorption resin were widely used, which could efficiently adsorb and concentrate organic dyes on their surface to decontaminate wastewater."
+    },
+    "Question_10": {
+        "Context": "The study focused on the adsorption capacity of amyloid fibrils derived from plant-based materials for organic dyes removal from contaminated water.",
+        "Question": "What was the main focus of the study regarding the application of plant-based amyloid fibrils?",
+        "A": "Removal of heavy metal ions",
+        "B": "Removal of organic dyes",
+        "C": "Removal of bacteria",
+        "D": "Removal of viruses",
+        "Answer": "B",
+        "Source": "This work demonstrated the feasibility to utilize the plant-based amyloid fibril for organic dyes removal from contaminated water."
+    }
+}

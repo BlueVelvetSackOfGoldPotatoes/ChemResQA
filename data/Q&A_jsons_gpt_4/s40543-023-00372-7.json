@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Thrombin is a serine protease enzyme that converts soluble fibrinogen into insoluble fibrin and activates platelets. It is involved in blood coagulation and can be an indicator of various physiological diseases.",
+        "Question": "What is the role of thrombin in blood coagulation?",
+        "A": "It converts soluble fibrinogen to insoluble fibrin and activates platelets.",
+        "B": "It reduces the blood glucose levels.",
+        "C": "It synthesizes new DNA strands.",
+        "D": "It acts as an antibody in the immune response.",
+        "Answer": "A",
+        "Source": "Thrombin, as a key serine protease that plays crucial roles in converting soluble fibrinogen to insoluble fibrin and catalyzing the activation of platelet, is involved in a variety of physiological diseases."
+    },
+    "Question_2": {
+        "Context": "In medical diagnostics, the accurate and quantitative determination of thrombin levels is important for diagnosing diseases and developing treatment plans.",
+        "Question": "Why is the determination of thrombin levels important in medical diagnostics?",
+        "A": "To determine the oxygen levels in the blood.",
+        "B": "To assist in the diagnosis of diseases and developing treatment plans.",
+        "C": "To measure the levels of cholesterol in the blood.",
+        "D": "To evaluate the kidney function.",
+        "Answer": "B",
+        "Source": "As a main criterion for coagulation disorders, accurate and quantitative determination of thrombin levels assists the diagnosis of many diseases and developing treatment plans."
+    },
+    "Question_3": {
+        "Context": "Immunoassays are traditional techniques used for detecting thrombin, but they have limitations such as low sensitivity to changes in thrombin concentration.",
+        "Question": "What is a limitation of traditional immunoassays for detecting thrombin?",
+        "A": "They are too sensitive to thrombin concentration changes.",
+        "B": "They cannot accurately identify thrombin.",
+        "C": "They have a weak response to trace amounts of thrombin.",
+        "D": "They are too expensive to be used in clinical settings.",
+        "Answer": "C",
+        "Source": "Despite that the immunoassay can accurately identify thrombin and provide a convincing results, the weak response to the trace amount of thrombin and low sensitivity to changes of thrombin concentration confine its wider application."
+    },
+    "Question_4": {
+        "Context": "Fluorometric assays are techniques used for detecting thrombin, which have made significant progress compared to immunoassays and electrochemical assays.",
+        "Question": "What is a drawback of fluorometric assays in thrombin detection?",
+        "A": "They are not sensitive enough to detect trace amounts of thrombin.",
+        "B": "They can only detect thrombin in solid samples.",
+        "C": "They require a very high temperature to operate.",
+        "D": "They are only applicable in a vacuum environment.",
+        "Answer": "A",
+        "Source": "Even though fluorometric assays have made remarkable progresses to the immunoassay and electrochemical assay, they still have several drawbacks, including (1) the sensitivity cannot meet the high requirement of detecting trace amount of thrombin."
+    },
+    "Question_5": {
+        "Context": "Silver nanoclusters (AgNCs) are emerging fluorophores with unique features such as lower toxicity, better brightness, and high photostability, making them suitable for chemical and biomolecular detection.",
+        "Question": "What are the advantages of using silver nanoclusters (AgNCs) in detection assays?",
+        "A": "High toxicity and low brightness.",
+        "B": "High cost and complicated preparation.",
+        "C": "Lower toxicity, better brightness, and high photostability.",
+        "D": "Limited stability and high reactivity with other compounds.",
+        "Answer": "C",
+        "Source": "Silver nanoclusters (AgNCs) have emerged as a novel fluorophore in recent years and have attracted considerable attention in chemical/biomolecular detection and cellular imaging due to its unique features of lower toxicity, better brightness, and high photostability."
+    },
+    "Question_6": {
+        "Context": "Allosteric probes are designed with a hairpin structure and contain functional sections that can specifically bind with targets, leading to a change in the probe's structure.",
+        "Question": "What happens to an allosteric probe when it specifically binds with its target?",
+        "A": "It remains in its original hairpin structure.",
+        "B": "It changes from a hairpin structure to a linear structure.",
+        "C": "It disintegrates into its constituent nucleotides.",
+        "D": "It replicates to form a double-stranded DNA.",
+        "Answer": "B",
+        "Source": "In the existence of thrombin, it can specifically bind with a section in allosteric probe and consequently lead to the allosterism of the probe from hairpin structure to linear, exposing the a\u2032 and d sections."
+    },
+    "Question_7": {
+        "Context": "DNA polymerase is an enzyme that can extend DNA chains during DNA replication or in certain detection assays.",
+        "Question": "What is the role of DNA polymerase in the context of DNA-assisted detection assays?",
+        "A": "To cut DNA strands at specific sites.",
+        "B": "To replicate the entire genome.",
+        "C": "To extend DNA chains using primers.",
+        "D": "To denature double-stranded DNA.",
+        "Answer": "C",
+        "Source": "Upon the addition of DNA polymerase, chains are extended with d and e as primers. As a result, a double-strand DNA (dsDNA) product is formed."
+    },
+    "Question_8": {
+        "Context": "Endonucleases are enzymes that can recognize specific DNA sequences and introduce cuts within the DNA strands.",
+        "Question": "What is the function of endonucleases in DNA-assisted detection assays?",
+        "A": "To amplify the signal by cutting at recognizing sites.",
+        "B": "To ligate two separate DNA strands.",
+        "C": "To synthesize new DNA strands.",
+        "D": "To prevent the DNA from replicating.",
+        "Answer": "A",
+        "Source": "The formed dsDNA product contains two endonuclease recognizing sites, which can be specifically cut by endonuclease to generate nicking sites."
+    },
+    "Question_9": {
+        "Context": "Fluorescence assays are used to characterize probes and their interactions with targets by measuring the fluorescence signals emitted.",
+        "Question": "In a fluorescence assay, what does a change in fluorescence intensity indicate?",
+        "A": "A change in temperature.",
+        "B": "A change in pH level.",
+        "C": "An interaction between the probe and its target.",
+        "D": "The presence of a magnetic field.",
+        "Answer": "C",
+        "Source": "The result in Fig. 2a showed a greatly decreased fluorescence intensity when linear allosteric probe was heated to 90 \u00b0C for 10 min and cooled to room temperature, indicating the successful assembly of allosteric probe to hairpin structure. Upon the addition of thrombin, the signal recovered to 2655 a.u., implying that thrombin could unfold assembled allosteric probe."
+    },
+    "Question_10": {
+        "Context": "The limit of detection (LOD) is a measure of the smallest amount of substance that can be reliably detected by an assay but not necessarily quantitated as an exact value.",
+        "Question": "What was the limit of detection (LOD) for thrombin using the described fluorescent technique?",
+        "A": "2.3 pM",
+        "B": "11 pM",
+        "C": "3 nM",
+        "D": "54 nM",
+        "Answer": "A",
+        "Source": "The method exhibits a high sensitivity with a low limit of detection of 2.3 pM, while maintaining an excellent selectivity and stability."
+    }
+}

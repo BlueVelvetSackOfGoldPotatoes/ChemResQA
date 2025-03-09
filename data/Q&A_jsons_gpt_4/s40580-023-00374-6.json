@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Metal halide perovskite materials are considered for next-generation optoelectronic applications due to their excellent electrical and optical properties. They can be processed at low temperatures and are suitable for flexible substrates.",
+        "Question": "What is the significance of organic-inorganic metal halide perovskite materials in the field of optoelectronics?",
+        "A": "They have poor electrical properties",
+        "B": "They require high-temperature processing",
+        "C": "They are suitable for flexible substrates and have excellent properties",
+        "D": "They are not suitable for next-generation optoelectronic applications",
+        "Answer": "C",
+        "Source": "organic-inorganic metal halide perovskite materials have received tremendous attention as next-generation optoelectronic materials. Based on their excellent electrical and optical properties, as well as their facile solution process, which is applicable to flexible substrates, device performance has been rapidly increasing."
+    },
+    "Question_2": {
+        "Context": "In the field of solar cells, tandem solar cells (TSCs) are developed to overcome the efficiency limits of single junction solar cells. TSCs use more than one absorber layer with different optical bandgaps to efficiently utilize incident sunlight by reducing losses.",
+        "Question": "Why are tandem solar cells (TSCs) considered an advancement over single junction solar cells?",
+        "A": "They use a single absorber layer with a fixed bandgap",
+        "B": "They have lower efficiency due to increased complexity",
+        "C": "They utilize multiple absorber layers with different bandgaps for better sunlight utilization",
+        "D": "They are simpler to fabricate than single junction solar cells",
+        "Answer": "C",
+        "Source": "To overcome efficiency limit, tandem solar cells (TSCs) that connect two or more cells in series have been developed. It exploits more than two absorbers with different optical bandgaps to utilize incident sunlight efficiently by reducing thermalization and non-absorption losses."
+    },
+    "Question_3": {
+        "Context": "Charge recombination in solar cells is a process that can limit their efficiency. There are different types of recombination, such as Shockley-Read-Hall (SRH) recombination, radiative recombination, and Auger recombination.",
+        "Question": "What is the dominant non-radiative recombination process that affects the efficiency of tandem solar cells?",
+        "A": "Radiative recombination",
+        "B": "Shockley-Read-Hall (SRH) recombination",
+        "C": "Auger recombination",
+        "D": "Photon-induced recombination",
+        "Answer": "B",
+        "Source": "One of the most influential factors that determine the efficiency of the solar cell is charge recombination, which can be classified into three types: Shockley-Read-Hall (SRH) recombination, radiative recombination, and Auger recombination. SRH and Auger recombinations are sorted as non-radiative recombination."
+    },
+    "Question_4": {
+        "Context": "Defects in perovskite materials can act as traps for charge carriers, leading to non-radiative recombination. These defects can be intrinsic point defects such as vacancies, interstitials, and antisite substitutions.",
+        "Question": "Which type of intrinsic point defect in perovskite materials is known to induce deep-level traps that are more detrimental than shallow traps?",
+        "A": "Vacancies",
+        "B": "Interstitials",
+        "C": "Antisite substitutions",
+        "D": "Substitutional impurities",
+        "Answer": "C",
+        "Source": "While vacancies and interstitials dominantly exhibit shallow transition energy levels, antisite defects induce deep-level traps which are more detrimental defects than shallow traps."
+    },
+    "Question_5": {
+        "Context": "In perovskite solar cells, the interfaces between the perovskite layer and charge transport layers (CTLs) are critical for device performance. Interface engineering at these junctions can involve strategies such as defect passivation and band alignment.",
+        "Question": "What is the purpose of interface engineering in perovskite solar cells?",
+        "A": "To increase the optical absorption of the perovskite layer",
+        "B": "To enhance the structural rigidity of the solar cell",
+        "C": "To improve charge-carrier dynamics and reduce non-radiative recombination",
+        "D": "To simplify the solar cell fabrication process",
+        "Answer": "C",
+        "Source": "The roles of interface engineering are defect passivation, improving charge-carrier dynamics, band alignment, suppressing ion migration, and these are closely related to each other."
+    },
+    "Question_6": {
+        "Context": "In perovskite solar cells, the charge transport layers (CTLs) are responsible for extracting and transporting photogenerated charge carriers. Different materials are used for electron transport layers (ETLs) and hole transport layers (HTLs) depending on the type of cell structure.",
+        "Question": "Which of the following materials is typically used as an electron transport layer (ETL) in n-i-p type perovskite solar cells?",
+        "A": "Spiro-MeOTAD",
+        "B": "Poly(triaryl amine) (PTAA)",
+        "C": "TiO2",
+        "D": "Nickel oxide (NiO)",
+        "Answer": "C",
+        "Source": "Typically, the n-i-p type cell employs TiO2 (or SnO2) as ETLs and 2,2\u02b9,7,7\u02b9-tetrakis(N,N-dimethoxyphenylamine)-9,9\u02b9-spirobifluorene (spiro-MeOTAD) (or poly(triaryl amine) (PTAA)) as HTLs, respectively."
+    },
+    "Question_7": {
+        "Context": "Ion migration in perovskite materials can lead to device instability and performance degradation. This phenomenon is particularly problematic in perovskite solar cells where ions can migrate under electrical bias or light illumination.",
+        "Question": "What is a major consequence of ion migration in perovskite solar cells?",
+        "A": "Increased power conversion efficiency",
+        "B": "Enhanced charge carrier mobility",
+        "C": "Reduced hysteresis effect",
+        "D": "Device performance and stability issues",
+        "Answer": "D",
+        "Source": "The halide perovskite material has a low activation energy of ion migration that makes ion diffusion easy under electrical bias or light illumination during the operation conditions. It induces a hysteresis effect depending on the sweep direction, or light soaking effect."
+    },
+    "Question_8": {
+        "Context": "In tandem solar cells, the incident light first encounters the top subcell, which typically has a wide-bandgap absorber. This design allows for the absorption of high-energy photons by the top subcell, while low-energy photons pass through to the bottom subcell.",
+        "Question": "In a tandem solar cell, which subcell is designed to absorb high-energy photons?",
+        "A": "The bottom subcell with a narrow-bandgap absorber",
+        "B": "The top subcell with a wide-bandgap absorber",
+        "C": "Both subcells equally absorb all energy photons",
+        "D": "Neither subcell, as photons are reflected",
+        "Answer": "B",
+        "Source": "The incident light enters toward a wide-bandgap absorber, i.e., the top subcell, and high energy photons are absorbed first. Unabsorbed low energy photons are captured by a narrow bandgap absorber layer in the bottom subcell."
+    },
+    "Question_9": {
+        "Context": "In the context of tandem solar cells, two main architectures are used: monolithic two-terminal (2-T) and mechanical four-terminal (4-T). Each has its own advantages and challenges in terms of light harvesting, current matching, and fabrication.",
+        "Question": "Which tandem solar cell architecture requires current matching between the top and bottom subcells due to their series connection?",
+        "A": "Mechanical four-terminal (4-T)",
+        "B": "Monolithic two-terminal (2-T)",
+        "C": "Both 2-T and 4-T equally",
+        "D": "Neither 2-T nor 4-T requires current matching",
+        "Answer": "B",
+        "Source": "For the 2-T tandem cell, no additional electrodes or substrates, e.g., glasses, are needed because two subcells are electrically connected by a thin recombination layer (less than tens of nanometers scale) on a single substrate. Therefore, the 2-T TSC is more favorable than the 4-T TSC in terms of light harvesting. However, subcells are coupled by series connection, amounts of electrons and holes generated by top and bottom subcells have to be identical to operate efficiently."
+    },
+    "Question_10": {
+        "Context": "In tandem solar cells, the recombination layer plays a critical role in connecting the top and bottom subcells. It allows for the recombination of charge carriers and maintains charge neutrality across the cell.",
+        "Question": "What is the primary function of the recombination layer in a monolithic two-terminal tandem solar cell?",
+        "A": "To absorb additional photons",
+        "B": "To recombine photogenerated electrons and holes",
+        "C": "To increase the bandgap of the solar cell",
+        "D": "To serve as an additional substrate",
+        "Answer": "B",
+        "Source": "In 2-T TSCs, there are two types of ICLs where photogenerated eletrons and holes are recombined to maintain charge neutrality between subcells: A tunnel junction and a metallic recombination layer."
+    }
+}

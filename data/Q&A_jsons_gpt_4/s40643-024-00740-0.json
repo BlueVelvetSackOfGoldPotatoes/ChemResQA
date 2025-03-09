@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In anaerobic digestion, hydrolysis and acidogenesis are often spatially separated from methanogenesis to improve the digestion of residual biomass.",
+        "Question": "Which of the following is NOT a benefit of separating hydrolysis and acidogenesis from methanogenesis in anaerobic digestion?",
+        "A": "Prevention of fast acidification of methanogenesis with easily degradable matter",
+        "B": "Detoxification of inhibiting biomass such as citrus waste",
+        "C": "Increased hydrolysis of recalcitrant biomass under certain conditions",
+        "D": "Decreased overall yield of the digestion process",
+        "Answer": "D",
+        "Source": "The two-stage setup holds various advantages depending on the feedstock: (i) a fast acidification of the methanogenesis is prevented in case of a sudden increase of easily degradable matter (e.g., food waste), (ii) the detoxification of inhibiting biomass such as citrus waste (Lukitawesa et al. 2018) or inhibitors from thermal pretreatment (Li et al. 2017); (iii) increased hydrolysis of recalcitrant biomass in the first stage under certain process conditions (e.g., acidic or alkaline pH-value) other than optimal for full digestion (Voelklein et al. 2016; Cheah et al. 2019), (iv) thermophilic pre-digestion (Garcia-Aguirre et al. 2017; Qin et al. 2017), respectively."
+    },
+    "Question_2": {
+        "Context": "In anaerobic digestion, the hydrolytic and acidogenic microbial community is robust towards changes in environmental conditions, which offers flexibility in the AD system.",
+        "Question": "What is a benefit of introducing a hydrolysis stage in anaerobic digestion systems?",
+        "A": "Decreased flexibility of the AD system",
+        "B": "On-demand production of methane",
+        "C": "Reduced stability of the AD system",
+        "D": "Lower yields of biogas",
+        "Answer": "B",
+        "Source": "Since the hydrolytic and acidogenic microbial community is more robust towards changes in the environmental conditions, introducing a hydrolysis stage also offers a higher flexibility of the AD system, especially for the on-demand production of methane (Hahn et al. 2014; Linke et al. 2015)."
+    },
+    "Question_3": {
+        "Context": "In the context of anaerobic digestion, electrochemical sensors are a method of monitoring that has been implemented frequently in pilot scale.",
+        "Question": "Which of the following is a characteristic of electrochemical sensors used in anaerobic digestion monitoring?",
+        "A": "They are generally too expensive for large scale use",
+        "B": "They offer limited information compared to titration methods",
+        "C": "They are a fast, convenient, and cheap method of monitoring",
+        "D": "They are rarely implemented due to their complexity",
+        "Answer": "C",
+        "Source": "In contrast, electrochemical sensors are a fast, convenient, and cheap method of monitoring, that has already been implemented frequently in pilot scale (Wu et al. 2019; Cruz et al. 2021)."
+    },
+    "Question_4": {
+        "Context": "Plug-flow reactors (PFRs) with laminar flow create gradients among pH-value, ORP, and conductivity due to radial mixing.",
+        "Question": "What is a likely observation in plug-flow reactors (PFRs) with laminar flow during acidification?",
+        "A": "Uniform distribution of pH-value, ORP, and conductivity",
+        "B": "Gradients of pH-value, ORP, and conductivity",
+        "C": "Complete absence of pH-value, ORP, and conductivity changes",
+        "D": "Instantaneous mixing and equalization of pH-value, ORP, and conductivity",
+        "Answer": "B",
+        "Source": "In plug-flow reactors (PFRs) with laminar flow, mixing occurs in radial direction more or less exclusively. As a result, if there is sufficient hydrolytic and acidogenic activity among the microbial population, gradients should appear among the pH-value, ORP and conductivity."
+    },
+    "Question_5": {
+        "Context": "Monitoring the oxidation\u2013reduction potential (ORP) can provide insights into the metabolic pathways during anaerobic digestion.",
+        "Question": "What does a stable ORP measurement indicate about acidogenesis under dynamic operation in anaerobic digestion?",
+        "A": "It indicates instability and poor acidogenesis",
+        "B": "It shows a lack of correlation to acidogenesis",
+        "C": "It reflects a stable correlation to acidogenesis",
+        "D": "It suggests an absence of acidogenic activity",
+        "Answer": "C",
+        "Source": "The ORP (measured at the inlet) showed the most stable correlation to acidogenesis under dynamic operation, while the conductivity (at the outlet) correlated to the acid concentration in dependence on the feedstock."
+    },
+    "Question_6": {
+        "Context": "In anaerobic digestion, the hydraulic retention time (HRT) is one of the process conditions that can be varied.",
+        "Question": "Which of the following process conditions does NOT directly influence gradient formation in plug-flow reactors during anaerobic digestion?",
+        "A": "Hydraulic retention time (HRT)",
+        "B": "Feedstock composition",
+        "C": "Bioaugmentation of hydrolytic microorganisms",
+        "D": "Temperature of the reactor",
+        "Answer": "D",
+        "Source": "In particular, changes of the feedstock composition, the SCCA composition and bioaugmentation were found to influence the spatial gradient development in the PFRs. In contrast, variation of the HRT or thin-sludge recirculation did not provoke significant changes in the gradient formation."
+    },
+    "Question_7": {
+        "Context": "The pH-value in anaerobic digestion is an important parameter that can affect microbial activity and process performance.",
+        "Question": "What effect does a higher pH-value generally have on the microbial hydrolysis of maize silage in anaerobic digestion?",
+        "A": "It decreases the hydrolysis yield",
+        "B": "It has no effect on the hydrolysis yield",
+        "C": "It increases the hydrolysis yield",
+        "D": "It completely halts the hydrolysis process",
+        "Answer": "C",
+        "Source": "For MS, a higher pH-value was found to generally increase the hydrolysis yield. This is caused by the higher activity of hydrolytic microorganisms at less acidic pH-values (Azman et al. 2015)."
+    },
+    "Question_8": {
+        "Context": "The presence of short-chain carboxylic acids (SCCAs) can influence the hydrolysis of lignocellulosic biomass in anaerobic digestion.",
+        "Question": "How can the presence of SCCAs like acetic acid affect the hydrolysis of lignocellulosic biomass?",
+        "A": "It can induce swelling and fragmentation of the biomass",
+        "B": "It can completely degrade the lignocellulosic structures",
+        "C": "It has no effect on the hydrolysis process",
+        "D": "It can reduce the surface area available for enzymatic degradation",
+        "Answer": "A",
+        "Source": "The presence of SCCA, such as acetic acid, which accumulated during acidogenesis, has been demonstrated to induce swelling and fragmentation of lignocellulosic biomass. This process leads to an enlargement of the surface area and higher porosity, which subsequently exposes hemicellulose and cellulose to enzymatic degradation (Peng et al. 2019; Ma et al. 2021)."
+    },
+    "Question_9": {
+        "Context": "In anaerobic digestion, the oxidation\u2013reduction potential (ORP) can be used to monitor the fermentation patterns.",
+        "Question": "What does an ORP measurement between -200 and -300 mV typically indicate about the fermentation pattern at the inlet of a plug-flow reactor?",
+        "A": "Dominant methanogenesis",
+        "B": "Dominant lactic acid fermentation",
+        "C": "Dominant butyric acid fermentation",
+        "D": "Absence of any fermentation activity",
+        "Answer": "B",
+        "Source": "A low pH-value and higher ORP measurements at the inlet favor lactic acid fermentation, whereas a higher pH-value at the center combined with a low ORP at the inlet and outlet results in a dominant butyric acid fermentation."
+    },
+    "Question_10": {
+        "Context": "The measurement of conductivity in anaerobic digestion can be correlated with the concentration of soluble metabolites.",
+        "Question": "Which on-line measurement in a plug-flow reactor is a reliable indicator for the accumulation of total short-chain carboxylic acids (SCCAs)?",
+        "A": "Conductivity at the inlet",
+        "B": "pH-value at the center",
+        "C": "Conductivity at the outlet",
+        "D": "ORP at the center",
+        "Answer": "C",
+        "Source": "The monitoring of the conductivity, especially at the outlet, proved to be a reliable indicator for the accumulation of the total SCCAs, in both PFRs and under significant operational (HRT, recirculation) and microbial/process changes (bioaugmentation, variation in metabolism)."
+    }
+}

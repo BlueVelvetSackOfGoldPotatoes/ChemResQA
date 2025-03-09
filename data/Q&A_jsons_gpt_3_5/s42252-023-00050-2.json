@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Thermal ablation techniques are being studied for their potential to induce immunogenic cell death and augment systemic immune responses to immunotherapies.",
+        "Question": "What is the purpose of using tissue mimicking thermosensitive, thermochromic liquid crystal, and thermochromic paint phantom models?",
+        "A": "To reduce costs and hurdles associated with animal use",
+        "B": "To create a more precise assessment of ablative techniques",
+        "C": "To facilitate clinical translation of device and procedure optimization",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Therefore, the application and use of tissue mimicking thermosensitive, thermochromic liquid crystal and thermochromic paint phantom models may reduce costs and hurdles associated with animal use. Further, their homogenous composition may enable more precise assessment of ablative techniques."
+    },
+    "Question_2": {
+        "Context": "Thermal ablation devices have emerged as important surgical, laparoscopic, percutaneous, and minimally-invasive hyperthermia treatment modalities for cancer.",
+        "Question": "What is the goal of delivering therapeutic energy in thermal ablation procedures?",
+        "A": "To eradicate small lesions in various tissues",
+        "B": "To induce reversible tissue damage",
+        "C": "To minimize off-target thermal damage",
+        "D": "To maintain patient safety and efficacy",
+        "Answer": "A",
+        "Source": "TA is a clinical procedure that delivers therapeutic energy (target temperature > 60 \u00b0C) into soft or bone tissues with the goal of eradicating small lesions in lung, kidney, liver, bone and other tissues."
+    },
+    "Question_3": {
+        "Context": "The Arrhenius model has been used for many decades to describe protein denaturation and cell death processes.",
+        "Question": "What does the Arrhenius model describe?",
+        "A": "The relationship between temperature and duration of thermal application",
+        "B": "The energy of activation in thermal ablation procedures",
+        "C": "The gas constant in thermal therapy",
+        "D": "The frequency factor in tissue mimicking phantoms",
+        "Answer": "A",
+        "Source": "Irreversible tissue damage from temperature effects depends on temperature and duration of thermal application, in an Arrhenius-like non-linear relationship between temperature and duration."
+    },
+    "Question_4": {
+        "Context": "Thermal isoeffective dose (TID) is a method based on time-temperature relationships for complete cell killing.",
+        "Question": "What is the thermal dose in units of cumulative equivalent minutes at 43 \u00b0C (CEM43) based on?",
+        "A": "The temperature applied to the target tissue",
+        "B": "The gas constant in the thermal ablation process",
+        "C": "The time at temperature T",
+        "D": "The factor to compensate for a 1 \u00b0C temperature change",
+        "Answer": "C",
+        "Source": "TID is the thermal dose in units of cumulative equivalent minutes at 43 \u00b0C (CEM43), where T represents the temperature applied to the target tissue, R is the factor to compensate for a 1 \u00b0C temperature change, and dt is the time at temperature T (\u00b0C)."
+    },
+    "Question_5": {
+        "Context": "Thermochromic materials exhibit thermochromism, a unique color-changing property displayed upon change in temperature.",
+        "Question": "Which materials are commonly used for accurate temperature management in various applications?",
+        "A": "Quantum dots",
+        "B": "Polymers",
+        "C": "Liquid crystals",
+        "D": "Inorganic thermochromic materials",
+        "Answer": "C",
+        "Source": "Among these, liquid crystals and leuco dyes are most commonly used for accurate temperature management in industry, medicine, personal care, and engineering applications."
+    },
+    "Question_6": {
+        "Context": "Reversible thermochromic inks change their color upon heating and regain their original color on cooling.",
+        "Question": "What are the components of reversible thermochromic inks?",
+        "A": "Color former, color developer, and solvent",
+        "B": "Frequency factor, energy of activation, and gas constant",
+        "C": "Color former, developer, and hydrophobic solvent",
+        "D": "Color developer, solvent, and color enhancer",
+        "Answer": "A",
+        "Source": "Reversible thermochromic inks change their color upon heating and regain their original color on cooling. They consist of three components: namely a color former, color developer, and solvent."
+    },
+    "Question_7": {
+        "Context": "Thermal ablation techniques are being studied for their potential to induce immunogenic cell death and augment systemic immune responses to immunotherapies.",
+        "Question": "What is the purpose of using tissue mimicking thermosensitive, thermochromic liquid crystal, and thermochromic paint phantom models?",
+        "A": "To reduce costs and hurdles associated with animal use",
+        "B": "To create a more precise assessment of ablative techniques",
+        "C": "To facilitate clinical translation of device and procedure optimization",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "Therefore, the application and use of tissue mimicking thermosensitive, thermochromic liquid crystal and thermochromic paint phantom models may reduce costs and hurdles associated with animal use. Further, their homogenous composition may enable more precise assessment of ablative techniques."
+    },
+    "Question_8": {
+        "Context": "Thermal ablation devices have emerged as important surgical, laparoscopic, percutaneous, and minimally-invasive hyperthermia treatment modalities for cancer.",
+        "Question": "What is the goal of delivering therapeutic energy in thermal ablation procedures?",
+        "A": "To eradicate small lesions in various tissues",
+        "B": "To induce reversible tissue damage",
+        "C": "To minimize off-target thermal damage",
+        "D": "To maintain patient safety and efficacy",
+        "Answer": "A",
+        "Source": "TA is a clinical procedure that delivers therapeutic energy (target temperature > 60 \u00b0C) into soft or bone tissues with the goal of eradicating small lesions in lung, kidney, liver, bone and other tissues."
+    },
+    "Question_9": {
+        "Context": "The Arrhenius model has been used for many decades to describe protein denaturation and cell death processes.",
+        "Question": "What does the Arrhenius model describe?",
+        "A": "The relationship between temperature and duration of thermal application",
+        "B": "The energy of activation in thermal ablation procedures",
+        "C": "The gas constant in thermal therapy",
+        "D": "The frequency factor in tissue mimicking phantoms",
+        "Answer": "A",
+        "Source": "Irreversible tissue damage from temperature effects depends on temperature and duration of thermal application, in an Arrhenius-like non-linear relationship between temperature and duration."
+    },
+    "Question_10": {
+        "Context": "Thermal isoeffective dose (TID) is a method based on time-temperature relationships for complete cell killing.",
+        "Question": "What is the thermal dose in units of cumulative equivalent minutes at 43 \u00b0C (CEM43) based on?",
+        "A": "The temperature applied to the target tissue",
+        "B": "The gas constant in the thermal ablation process",
+        "C": "The time at temperature T",
+        "D": "The factor to compensate for a 1 \u00b0C temperature change",
+        "Answer": "C",
+        "Source": "TID is the thermal dose in units of cumulative equivalent minutes at 43 \u00b0C (CEM43), where T represents the temperature applied to the target tissue, R is the factor to compensate for a 1 \u00b0C temperature change, and dt is the time at temperature T (\u00b0C)."
+    }
+}

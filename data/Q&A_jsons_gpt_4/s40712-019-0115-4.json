@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In thermoelastic analysis, the temperature field acting over a domain can be acquired using thermal imaging techniques. This temperature data can then be used as input for numerical methods to evaluate the resultant thermoelastic displacement.",
+        "Question": "What is the primary purpose of using thermal imaging in thermoelastic analysis?",
+        "A": "To measure the electrical conductivity of a material",
+        "B": "To acquire steady-state temperature data for numerical analysis",
+        "C": "To observe the chemical composition of a material",
+        "D": "To measure the magnetic properties of a material",
+        "Answer": "B",
+        "Source": "The temperature data was acquired using thermal imaging and used as the input for a boundary element method (BEM) routine to evaluate its consequent thermoelastic displacement."
+    },
+    "Question_2": {
+        "Context": "The boundary element method (BEM) is a numerical simulation method that has gained popularity for solving various engineering problems. It is particularly noted for its ability to solve problems using exclusively boundary discretization.",
+        "Question": "What is a key characteristic of the boundary element method (BEM) in numerical simulations?",
+        "A": "It requires extensive domain discretization",
+        "B": "It is only applicable to electrical engineering problems",
+        "C": "It solves problems using exclusively boundary discretization",
+        "D": "It is less accurate than other numerical methods",
+        "Answer": "C",
+        "Source": "The presence of a domain term compromises the BEM\u2019s main characteristic, which is the solution of problems using exclusively boundary discretization."
+    },
+    "Question_3": {
+        "Context": "In the context of thermoelastic problems, the thermal component of displacement arises naturally as a domain integral in the mathematical development of BEM formulations.",
+        "Question": "How does the thermal component of displacement typically arise in BEM formulations for thermoelastic problems?",
+        "A": "As a boundary integral",
+        "B": "As a domain integral",
+        "C": "As a point function",
+        "D": "As a vector field",
+        "Answer": "B",
+        "Source": "During its mathematical development, the thermal component of displacement arises naturally as a domain integral."
+    },
+    "Question_4": {
+        "Context": "The radial integration method (RIM) is a mathematical approach used in BEM formulations to convert domain integrals into equivalent boundary integrals, thus avoiding domain discretization.",
+        "Question": "What is the purpose of the radial integration method (RIM) in BEM formulations?",
+        "A": "To increase the complexity of the numerical model",
+        "B": "To convert domain integrals into equivalent boundary integrals",
+        "C": "To discretize the domain into smaller elements",
+        "D": "To approximate the effects of body forces using radial base functions",
+        "Answer": "B",
+        "Source": "To avoid the necessity of domain discretization, the radial integration method (RIM) was applied to convert the thermoelastic domain integral into an equivalent boundary integral."
+    },
+    "Question_5": {
+        "Context": "Digital image correlation (DIC) is an optical metrology technique that relies on the comparison between digital images of a target surface before and after deformation to calculate full-field displacement solutions.",
+        "Question": "What does digital image correlation (DIC) rely on to evaluate resultant displacement fields?",
+        "A": "The comparison between digital images of a target surface before and after deformation",
+        "B": "The electrical resistance change of the target surface",
+        "C": "The spectral analysis of the target surface",
+        "D": "The thermal conductivity measurements of the target surface",
+        "Answer": "A",
+        "Source": "This optical metrology technique, detailed in Pan, et al. (2009), relies on the comparison between digital images of the target surface in a non-loaded situation and after the application of a deformational loading."
+    },
+    "Question_6": {
+        "Context": "The quality of the speckle pattern used in DIC analysis has a considerable influence on the quality of the obtained results. The speckle pattern must be marked on the surface under investigation to serve as a reference for displacement evaluation.",
+        "Question": "Why is the quality of the speckle pattern important in DIC analysis?",
+        "A": "It affects the accuracy of the displacement data obtained",
+        "B": "It changes the chemical properties of the surface",
+        "C": "It determines the electrical conductivity of the surface",
+        "D": "It influences the magnetic field around the surface",
+        "Answer": "A",
+        "Source": "Thus, as stated in several works, such as Barranger et al. (2010), Lecompte et al. (2006), Lecompte, Sol, and Vantomme (2006), and Pan et al. (2009), the quality of the marked pattern has considerable influence on the quality of the obtained results."
+    },
+    "Question_7": {
+        "Context": "Thermoelastic problems involve the simultaneous occurrence of temperature and elasticity fields within a body, leading to strain due to thermal expansion.",
+        "Question": "What causes strain in thermoelastic problems?",
+        "A": "Electromagnetic fields",
+        "B": "Gravitational forces",
+        "C": "Thermal expansion",
+        "D": "Chemical reactions",
+        "Answer": "C",
+        "Source": "Temperature-elasticity fields occurring simultaneously on a body give rise to thermoelastic problems."
+    },
+    "Question_8": {
+        "Context": "The boundary integral formulation for thermoelastic problems can describe a wide range of engineering problems, and it is characterized by its ability to provide a complete problem solution in terms of boundary values only.",
+        "Question": "What does the boundary integral formulation for thermoelastic problems characterize by?",
+        "A": "Its requirement for extensive domain values",
+        "B": "Its ability to provide a complete problem solution in terms of boundary values only",
+        "C": "Its exclusive use in chemical engineering",
+        "D": "Its focus on electromagnetic problems",
+        "Answer": "B",
+        "Source": "One of the main features of BEM is to provide a complete problem solution in terms of boundary values only, making it a low-cost computational method and suitable to be straightforwardly used with CAD platforms."
+    },
+    "Question_9": {
+        "Context": "The steady-state thermoelasticity formulation is used to model a variety of engineering problems where a body is subjected to a distributed thermal load, leading to volumetric expansion and stress effects.",
+        "Question": "What does the steady-state thermoelasticity formulation model?",
+        "A": "The flow of electric current in conductive materials",
+        "B": "The interaction of magnetic fields with materials",
+        "C": "The volumetric expansion and stress effects in a body due to distributed thermal load",
+        "D": "The chemical reaction rates in reactive materials",
+        "Answer": "C",
+        "Source": "The steady-state thermoelasticity formulation can be used to describe a broad range of engineering problems."
+    },
+    "Question_10": {
+        "Context": "In the analysis of thermoelastic problems, the body force is represented by the temperature field generated within the domain due to heating, which causes strains as a result of thermal expansion.",
+        "Question": "In thermoelastic problems, what does the body force represent?",
+        "A": "The gravitational force acting on the body",
+        "B": "The centrifugal force due to rotation",
+        "C": "The temperature field generated within the domain",
+        "D": "The magnetic force acting on the body",
+        "Answer": "C",
+        "Source": "The body forces herein are represented by the temperature field due to the cartridge resistance heating."
+    }
+}

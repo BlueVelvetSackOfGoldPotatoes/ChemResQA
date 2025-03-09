@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on investigating the developing structure and chemistry of bone using correlative light and electron microscopy (CLEM) techniques.",
+        "Question": "What is the main technique used in the study for producing high contrast images from materials composed of light elements?",
+        "A": "Transmission electron microscopy (TEM)",
+        "B": "Reflective light microscopy (RLM)",
+        "C": "Scanning electron microscopy (SEM)",
+        "D": "Scanning transmission electron microscopy (STEM)",
+        "Answer": "D",
+        "Source": "This technique is particularly useful considering the complex hierarchical arrangement of bioapatite and collagen fibrils which may vary according to specific bone tissue types and different growth stages. Scanning electron microscopy (SEM) accompanied with the attachment of the scanning transmission electron microscopy (STEM) detector, referred to as the STEM-in-SEM can be utilized to produce high contrast images from materials composed of light elements."
+    },
+    "Question_2": {
+        "Context": "The study aims to emphasize the efficacy of CLEM techniques through applying STEM-in-SEM and EDS analyses.",
+        "Question": "What does the STEM-in-SEM technique allow for in terms of accelerating voltages?",
+        "A": "High accelerating voltages",
+        "B": "Variable accelerating voltages",
+        "C": "Low accelerating voltages",
+        "D": "Constant accelerating voltages",
+        "Answer": "C",
+        "Source": "As a SEM instrument equipped with a STEM detector (referred to as STEM-in-SEM) uses lower accelerating voltages; usually below 30 kV, it has the advantage of producing high contrast images for materials composed of light elements compared to TEM."
+    },
+    "Question_3": {
+        "Context": "The study involves the design of a new grid-holder for CLEM analysis.",
+        "Question": "What is the purpose of the new multi-grid-holder designed for CLEM?",
+        "A": "To reduce the number of TEM grids loaded",
+        "B": "To increase fault signals from the holder",
+        "C": "To allow for loading nine TEM grids",
+        "D": "To limit the utilization in light microscopy",
+        "Answer": "C",
+        "Source": "In this study, a new multi-grid-holder called as the \u2018CLEM holder\u2019 has been designed to broaden its utilization for CLEM of biological samples, which is capable of loading nine TEM grids and can be used to reliably perform EDS analysis."
+    },
+    "Question_4": {
+        "Context": "The study emphasizes the importance of gradual observation from micro- to nanometer scales via correlative light and electron microscopy (CLEM).",
+        "Question": "What is the main advantage of using STEM-in-SEM for imaging materials composed of light elements?",
+        "A": "High resolution images",
+        "B": "High contrast images",
+        "C": "Variable accelerating voltages",
+        "D": "High specimen penetration levels",
+        "Answer": "B",
+        "Source": "As a SEM instrument equipped with a STEM detector (referred to as STEM-in-SEM) uses lower accelerating voltages; usually below 30 kV, it has the advantage of producing high contrast images from materials composed of light elements compared to TEM."
+    },
+    "Question_5": {
+        "Context": "The study involves comparative chemical analysis on femoral bones from 1- to 16-week-old SD rats.",
+        "Question": "What is the main mineral phase of bone mentioned in the study?",
+        "A": "Hydroxyapatite",
+        "B": "Calcium carbonate",
+        "C": "Phosphorus",
+        "D": "Carbon",
+        "Answer": "A",
+        "Source": "The main mineral phase of bone is mainly composed of bioapatite, a biological derivative of hydroxyapatite (Ca5(PO4)3(OH)), which is aligned along with collagen fibers."
+    },
+    "Question_6": {
+        "Context": "The study discusses the application of STEM-in-SEM EDS analysis for bone investigation.",
+        "Question": "What is the advantage of using STEM-in-SEM for chemical analysis?",
+        "A": "Flexibility in selecting accelerating voltages",
+        "B": "High specimen penetration levels",
+        "C": "High resolution images",
+        "D": "High contrast images",
+        "Answer": "A",
+        "Source": "In chemical analysis, STEM-in-SEM excels with the flexibility of voltage selection below 30 kV, which is particularly advantageous for EDS analysis."
+    },
+    "Question_7": {
+        "Context": "The study presents the development of a new CLEM holder for biological samples.",
+        "Question": "What is the primary feature of the CLEM holder designed for loading TEM grids?",
+        "A": "Can load up to four TEM grids",
+        "B": "Reduces fault signals from the holder",
+        "C": "Can be used only for light microscopy",
+        "D": "Can load up to nine TEM grids",
+        "Answer": "D",
+        "Source": "The CLEM holder can simultaneously load up to nine TEM grids and is composed of thin upper and lower plates to reduce the fault (noise) signals generated from the holder itself."
+    },
+    "Question_8": {
+        "Context": "The study discusses the chemical analysis of bone matrices during femoral bone development.",
+        "Question": "What elements were compared through their counts to estimate bone mineral density?",
+        "A": "Carbon and Oxygen",
+        "B": "Calcium and Phosphorus",
+        "C": "Nitrogen and Oxygen",
+        "D": "Calcium and Carbon",
+        "Answer": "B",
+        "Source": "Variations of bone mineral density according to growth were more clearly displayed in the ratio between Ca and P counts and total counts (Ca, P, C, and O)."
+    },
+    "Question_9": {
+        "Context": "The study presents the results of STEM-in-SEM EDS analysis on femoral bones at different growth stages.",
+        "Question": "What does the decrease of the C/O ratio generally indicate in the study?",
+        "A": "Increase of organic phases",
+        "B": "Decrease of inorganic phases",
+        "C": "Increase of inorganic phases",
+        "D": "Decrease of organic phases",
+        "Answer": "D",
+        "Source": "The decrease of the C/O ratio generally indicates the decrease of organic phases and the increase of inorganic phases, since O is involved in both organic and inorganic phases."
+    },
+    "Question_10": {
+        "Context": "The study provides insight into the growth mechanism of neonatal femoral bone.",
+        "Question": "What is the main feature observed in the femoral bone of 5-week-old rats related to oxygen content?",
+        "A": "High nitrogen values",
+        "B": "High carbon content",
+        "C": "Enrichment of oxygen",
+        "D": "Presence of labile phases",
+        "Answer": "C",
+        "Source": "In the case of the 5-week-old rat, the high oxygen proportion is a peculiar feature compared to other rats. To discern factors that may cause such outliers, a deeper understanding of the remodeling cycle of bone involved in resorption, reversal, and formation is necessary."
+    }
+}

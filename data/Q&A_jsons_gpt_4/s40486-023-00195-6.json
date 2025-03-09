@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of nanotechnology, nanofluids are colloidal suspensions of nanoparticles in a base fluid. These fluids are engineered to exhibit enhanced thermal properties compared to the base fluid alone.",
+        "Question": "What is the typical size range for the solid particles constituting a nanofluid?",
+        "A": "Less than 10 nm",
+        "B": "Less than 100 nm",
+        "C": "Less than 1000 nm",
+        "D": "Less than 10,000 nm",
+        "Answer": "B",
+        "Source": "The suspension liquid, in which the constituent solid particle is less than 100 nm is nanofluid (NF)."
+    },
+    "Question_2": {
+        "Context": "The thermal conductivity of a fluid can be enhanced by adding nanoparticles to it. This property is crucial for applications in heat transfer.",
+        "Question": "What is the effect on thermal conductivity when nanoparticles are added to a base fluid?",
+        "A": "It decreases significantly",
+        "B": "It remains unchanged",
+        "C": "It increases slightly",
+        "D": "It increases up to a certain percentage",
+        "Answer": "D",
+        "Source": "The thermal conductivity (TC) that is acquired using adding nanoparticles to the base fluid, the basis for many innovations is in heat transfer intensification."
+    },
+    "Question_3": {
+        "Context": "Artificial Neural Networks (ANNs) are computational models inspired by the human brain's neural networks, capable of modeling complex functions and patterns.",
+        "Question": "Which algorithm was utilized to predict data in the context of evaluating thermal conductivity ratio using ANN?",
+        "A": "Backpropagation algorithm",
+        "B": "Lundberg-Marquardt algorithm",
+        "C": "Genetic algorithm",
+        "D": "Simulated annealing",
+        "Answer": "B",
+        "Source": "MLP network with Lundberg-Marquardt algorithm (LMA) was utilized to predict data (TCR) by ANN."
+    },
+    "Question_4": {
+        "Context": "In the context of ANN, the structure of the network, including the number of hidden layers and neurons, can significantly affect the model's performance.",
+        "Question": "What is an optimal structure for an ANN when predicting thermal conductivity ratio?",
+        "A": "One hidden layer with 10 neurons",
+        "B": "Two hidden layers with 5 and 7 neurons respectively",
+        "C": "Three hidden layers with 10 neurons each",
+        "D": "Four hidden layers with 15 neurons each",
+        "Answer": "B",
+        "Source": "In the best case, from the set of various structures of ANN for this nanofluid, the optimal structure was chosen, which consists of 2 hidden layers, the first layer with the optimal structure consisting of 5 neurons and the second layer containing 7 neurons."
+    },
+    "Question_5": {
+        "Context": "The coefficient of determination, denoted as R2, is a statistical measure that represents the proportion of variance for a dependent variable that's explained by an independent variable or variables in a regression model.",
+        "Question": "What does an R2 coefficient value close to 1 indicate in the context of ANN performance?",
+        "A": "Poor correlation between predicted and actual data",
+        "B": "No correlation between predicted and actual data",
+        "C": "Moderate correlation between predicted and actual data",
+        "D": "Strong correlation between predicted and actual data",
+        "Answer": "D",
+        "Source": "Eventually, for the optimal structure, the R2 coefficient and MSE are 0.9999029 and 6.33377E-06, respectively."
+    },
+    "Question_6": {
+        "Context": "The Mean Squared Error (MSE) is a measure of the quality of an estimator\u2014it is always non-negative, and values closer to zero are better.",
+        "Question": "In the context of ANN predictions, what does a lower MSE value signify?",
+        "A": "Less accurate predictions",
+        "B": "More accurate predictions",
+        "C": "Overfitting of the model",
+        "D": "Underfitting of the model",
+        "Answer": "B",
+        "Source": "Eventually, for the optimal structure, the R2 coefficient and MSE are 0.9999029 and 6.33377E-06, respectively."
+    },
+    "Question_7": {
+        "Context": "In the study of nanofluids, the solid volume fraction (SVF) is a measure of the concentration of nanoparticles within the base fluid.",
+        "Question": "What is the range of solid volume fraction (SVF) used in the evaluation of the thermal conductivity ratio for SWCNT-CuO/Water nanofluid?",
+        "A": "0.01% to 0.5%",
+        "B": "0.03% to 1.15%",
+        "C": "1% to 5%",
+        "D": "5% to 10%",
+        "Answer": "B",
+        "Source": "Using experimental data in the T range of 28\u201350 \u2103 and solid volume fraction range of SVF = 0.03 to 1.15%."
+    },
+    "Question_8": {
+        "Context": "The temperature range can affect the thermal properties of nanofluids. When studying such properties, it is important to specify the temperature conditions.",
+        "Question": "What was the temperature range used in the evaluation of the thermal conductivity ratio for SWCNT-CuO/Water nanofluid?",
+        "A": "0\u201330 \u2103",
+        "B": "15\u201340 \u2103",
+        "C": "28\u201350 \u2103",
+        "D": "50\u201370 \u2103",
+        "Answer": "C",
+        "Source": "Using experimental data in the T range of 28\u201350 \u2103 and solid volume fraction range of SVF = 0.03 to 1.15%."
+    },
+    "Question_9": {
+        "Context": "In the context of heat transfer, the enhancement of thermal conductivity in nanofluids can lead to more efficient cooling and heating systems.",
+        "Question": "What is one potential impact of nanofluids on heat inverters?",
+        "A": "Increasing the size of the heating system",
+        "B": "Reducing the size of the heating system",
+        "C": "Eliminating the need for a heating system",
+        "D": "No impact on the heating system",
+        "Answer": "B",
+        "Source": "The impact of NF on heat inverters can be reducing the size of the heating system and reducing the amount of fluid in circulation."
+    },
+    "Question_10": {
+        "Context": "The thermal conductivity ratio (TCR) is a dimensionless number that compares the thermal conductivity of a nanofluid to that of the base fluid without nanoparticles.",
+        "Question": "What does the thermal conductivity ratio (TCR) represent in the study of nanofluids?",
+        "A": "The ratio of heat transfer between the solid particles and the base fluid",
+        "B": "The ratio of thermal conductivity of the nanofluid to the base fluid",
+        "C": "The ratio of the solid volume fraction to the temperature range",
+        "D": "The ratio of the temperature change to the heat transfer rate",
+        "Answer": "B",
+        "Source": "This investigation aimed to evaluate the thermal conductivity ratio (TCR) of SWCNT-CuO/Water nanofluid."
+    }
+}

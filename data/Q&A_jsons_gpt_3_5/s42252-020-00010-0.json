@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to identify the effect of material type and process parameters on the mechanical properties of 3D printed long-fibre reinforced polymer composites.",
+        "Question": "Which reinforcement type offered the largest increase in both Ultimate Tensile Strength (UTS) and Flexural Modulus for Onyx material?",
+        "A": "Glass Fibre",
+        "B": "Carbon Fibre",
+        "C": "Kevlar\u00ae Fibre",
+        "D": "No significant increase observed",
+        "Answer": "B",
+        "Source": "For Onyx, carbon fibre reinforcement offered the largest increase in both UTS and Flexural Modulus over unreinforced material."
+    },
+    "Question_2": {
+        "Context": "The study investigated the effect of matrix material, reinforcement type, volume of reinforcement, and reinforcement lay-up orientation on UTS and Flexural Modulus.",
+        "Question": "Which parameter had the largest impact on both UTS and Flexural Strength?",
+        "A": "Matrix Material",
+        "B": "Reinforcement Type",
+        "C": "Number of Fibre Layers",
+        "D": "Fibre Orientation",
+        "Answer": "C",
+        "Source": "Statistical analysis indicated that changing the number of layers of reinforcement had the largest impact on both UTS and Flexural Strength."
+    },
+    "Question_3": {
+        "Context": "The study focused on the mechanical performance of two common matrix materials employed in Material Extrusion with a range of fibre reinforcements.",
+        "Question": "Which reinforcement material showed the highest increase in Flexural Modulus over Nylon material?",
+        "A": "Glass Fibre",
+        "B": "Carbon Fibre",
+        "C": "Kevlar\u00ae Fibre",
+        "D": "No significant increase observed",
+        "Answer": "B",
+        "Source": "Similarly, for Nylon, the UTS and Flexural Modulus were increased by 1431 \u00b1 56% and 1924 \u00b1 5% by the addition of carbon fibre reinforcement."
+    },
+    "Question_4": {
+        "Context": "The study analyzed the mechanical properties of different composite components manufactured using a Material Extrusion process.",
+        "Question": "Which parameter had a minor effect on the mechanical properties of the composites?",
+        "A": "Matrix Material",
+        "B": "Reinforcement Type",
+        "C": "Number of Fibre Layers",
+        "D": "Fibre Orientation",
+        "Answer": "D",
+        "Source": "'Fibre orientation' within the bounds of these trials had very little impact on either UTS or E."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the cost to strength ratio for different composite materials.",
+        "Question": "Which composite material achieved the lowest cost to strength ratio for Ultimate Tensile Strength (UTS)?",
+        "A": "GF reinforced Nylon with 12 layers and (0,90) lay-up",
+        "B": "CF reinforced Onyx with 12 layers and (0,90) lay-up",
+        "C": "KF reinforced Nylon with 12 layers and (0,45) lay-up",
+        "D": "CF reinforced Onyx with 12 layers and (0,45) lay-up",
+        "Answer": "A",
+        "Source": "The lowest cost to strength ratio (most desirable) is achieved using a GF reinforced Nylon with 12 layers and (0,90) lay-up."
+    },
+    "Question_6": {
+        "Context": "The study compared the experimental values for UTS and E against the calculated values for different composite materials.",
+        "Question": "Which composite material achieved the highest Ultimate Tensile Strength (UTS) compared to the calculated value?",
+        "A": "CF reinforced Onyx with 12 layers and (0,90) lay-up",
+        "B": "GF reinforced Nylon with 12 layers and (0,90) lay-up",
+        "C": "KF reinforced Nylon with 12 layers and (0,45) lay-up",
+        "D": "KF reinforced Onyx with 12 layers and (0,90) lay-up",
+        "Answer": "A",
+        "Source": "The highest UTS (278 \u00b1 8 MPa) and stiffest material is CF reinforced Onyx with 12 layers and (0,90)."
+    },
+    "Question_7": {
+        "Context": "The study analyzed the mechanical capabilities of continuous fibre thermoplastic composite AM technology.",
+        "Question": "Which parameter was found to have a minor effect on determining both tensile and flexural properties?",
+        "A": "Matrix Material",
+        "B": "Reinforcement Type",
+        "C": "Number of Fibre Layers",
+        "D": "Fibre Orientation",
+        "Answer": "D",
+        "Source": "'Fibre layup angle and matrix material have a minor effect on the mechanical properties.'"
+    },
+    "Question_8": {
+        "Context": "The study evaluated the effect of key process parameters on the strength and stiffness of composite materials.",
+        "Question": "Which reinforcement material showed the lowest increase in both Ultimate Tensile Strength (UTS) and Flexural Modulus over Nylon material?",
+        "A": "Glass Fibre",
+        "B": "Carbon Fibre",
+        "C": "Kevlar\u00ae Fibre",
+        "D": "No significant increase observed",
+        "Answer": "C",
+        "Source": "KF can improve the tensile and flexural modulus of Nylon by 960 \u00b1 243% and 1027 \u00b1 53% and of Onyx by 810 \u00b1 83% and 627 \u00b1 37%."
+    },
+    "Question_9": {
+        "Context": "The study investigated the mechanical properties of different composite components manufactured using a Material Extrusion process.",
+        "Question": "Which parameter had the largest influence over the mechanical properties of the composites?",
+        "A": "Matrix Material",
+        "B": "Reinforcement Type",
+        "C": "Number of Fibre Layers",
+        "D": "Fibre Orientation",
+        "Answer": "C",
+        "Source": "'Layers' parameter has the largest influence over the mechanical properties."
+    },
+    "Question_10": {
+        "Context": "The study analyzed the cost to strength ratio for different composite materials.",
+        "Question": "Which composite material achieved the highest Ultimate Tensile Strength (UTS) compared to the calculated value?",
+        "A": "CF reinforced Onyx with 12 layers and (0,90) lay-up",
+        "B": "GF reinforced Nylon with 12 layers and (0,90) lay-up",
+        "C": "KF reinforced Nylon with 12 layers and (0,45) lay-up",
+        "D": "KF reinforced Onyx with 12 layers and (0,90) lay-up",
+        "Answer": "A",
+        "Source": "The highest UTS (278 \u00b1 8 MPa) and stiffest material is CF reinforced Onyx with 12 layers and (0,90)."
+    }
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "Peptidic radiotracers are often used for imaging and therapeutic purposes. However, their use can be limited by high renal retention of radioactivity, which poses a risk of nephrotoxicity and can interfere with diagnostic imaging.",
+            "Question": "What is a common issue with peptidic radiotracers that can limit their clinical translation?",
+            "A": "Low stability in plasma",
+            "B": "High renal retention of radioactivity",
+            "C": "Rapid degradation by gastric enzymes",
+            "D": "Poor binding to target receptors",
+            "Answer": "B",
+            "Source": "Peptidic radiotracers are preferentially excreted through the kidneys, which often results in high persistent renal retention of radioactivity, limiting or even preventing therapeutic clinical translation of these radiotracers."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "Exendin-4 is a drug that targets the glucagon-like-peptide 1 receptor (GLP-1R), which is overexpressed in certain medical conditions. It is used for imaging and therapeutic purposes.",
+            "Question": "What medical conditions is the GLP-1R, targeted by Exendin-4, associated with?",
+            "A": "Insulinomas and congenital hyperinsulinism",
+            "B": "Hypothyroidism",
+            "C": "Chronic kidney disease",
+            "D": "Hepatitis",
+            "Answer": "A",
+            "Source": "Exendin-4, which targets the glucagon-like-peptide 1 receptor (GLP-1R) overexpressed in insulinomas and in congenital hyperinsulinism, is an example thereof."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "The tripeptide MVK has been used to reduce kidney uptake of radiotracers. It is cleaved by neprilysin, an enzyme present at the renal brush border membrane.",
+            "Question": "Which enzyme is responsible for cleaving the tripeptide MVK at the renal brush border membrane?",
+            "A": "Renin",
+            "B": "Angiotensin-converting enzyme",
+            "C": "Neprilysin",
+            "D": "Glucokinase",
+            "Answer": "C",
+            "Source": "The use of the tripeptide MVK, which is readily cleaved between methionine and valine by neprilysin at the renal brush border membrane, already showed promising results in reducing kidney uptake as reported in the literature."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "Linker variants with multiple copies of the MV-motive have been investigated to influence renal washout of radiolabelled exendin-4.",
+            "Question": "What is the purpose of using linker variants with multiple copies of the MV-motive in radiolabelled exendin-4?",
+            "A": "To increase plasma stability",
+            "B": "To enhance tumour targeting",
+            "C": "To influence renal washout",
+            "D": "To improve visualization on imaging",
+            "Answer": "C",
+            "Source": "Based on our previous findings we were interested how linker variants with multiple copies of the MV-motive influence renal washout of radiolabelled exendin-4."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "In vivo studies involving biodistribution in tumour-bearing mice can provide insight into the renal retention and tumour uptake of radiolabelled compounds.",
+            "Question": "What was the observed effect of 111In-labeled exendin-4 compounds with a cleavable linker on renal retention in tumour-bearing mice?",
+            "A": "No change in renal retention",
+            "B": "Increased renal retention",
+            "C": "Decreased renal retention",
+            "D": "Variable renal retention depending on the tumour type",
+            "Answer": "C",
+            "Source": "In vivo results of a biodistribution in GLP-1R overexpressing tumour bearing mice at 24 h post-injection demonstrated a significant reduction (at least 57%) of renal retention of all 111In-labeled exendin-4 compounds equipped with a cleavable linker compared to the reference compound."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "The introduction of cleavable linkers to radiolabelled compounds can affect their affinity towards target receptors, as measured by IC50 values in in vitro studies.",
+            "Question": "How did the introduction of cleavable linkers to exendin-4 derivatives affect their affinity towards the GLP-1R?",
+            "A": "Increased affinity",
+            "B": "Decreased affinity",
+            "C": "No change in affinity",
+            "D": "Variable affinity depending on the linker",
+            "Answer": "B",
+            "Source": "Insertion of the cleavable linker sequences MVK, MV-MVK and MVK-MVK resulted in significantly higher IC50 values compared to the reference compound [111In]In-Ex4."
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "The stability of radiolabelled peptides in human plasma is an important factor in determining their suitability for clinical use.",
+            "Question": "What was the stability of the reference compound Ex4 after 24 hours of incubation in human plasma?",
+            "A": "20% intact",
+            "B": "50% intact",
+            "C": "80% intact",
+            "D": "100% intact",
+            "Answer": "C",
+            "Source": "While Ex4 was 80% intact after 24 h incubation in human plasma at 37 \u00b0C, all Ex4 derivatives equipped with a cleavable linker displayed lower plasma stabilities."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "The biodistribution of radiolabelled compounds in mice can reveal the extent of their uptake in various organs, including tumours and kidneys.",
+            "Question": "What was the effect of cleavable linker derivatives on tumour uptake in mice compared to the reference compound?",
+            "A": "Significantly increased tumour uptake",
+            "B": "Significantly decreased tumour uptake",
+            "C": "No significant difference in tumour uptake",
+            "D": "Tumour uptake was not measured",
+            "Answer": "C",
+            "Source": "In contrast to the kidney uptake, there was no significant difference in tumour uptake after 24 h, suggesting that the instillation of the cleavable linkers does not affect in vivo activation of the receptor and subsequent internalization into tumour cells."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "The use of cleavable linkers in radiopharmaceuticals is a strategy to reduce the retention of radioactivity in the kidneys.",
+            "Question": "What is the potential benefit of using cleavable linkers in radiopharmaceuticals?",
+            "A": "To increase the half-life of the radiopharmaceutical",
+            "B": "To enhance the imaging quality",
+            "C": "To reduce the radiation burden in the kidney",
+            "D": "To increase the absorption of the drug in the gastrointestinal tract",
+            "Answer": "C",
+            "Source": "Cleavable linkers are highly efficient in reducing the radioactivity burden in the kidney."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "The introduction of cleavable linkers to radiolabelled peptides can result in the formation of hydrophilic metabolites that are excreted through the urine.",
+            "Question": "What is the result of cleaving a cleavable linker like MVK in the context of radiolabelled peptides?",
+            "A": "Formation of a hydrophobic metabolite",
+            "B": "Formation of a hydrophilic metabolite",
+            "C": "Inhibition of renal excretion",
+            "D": "Increased retention in the liver",
+            "Answer": "B",
+            "Source": "The cleavable linker MVK interspaced between the NOTA-chelator and the peptide is cleaved at the Met-Val bond by neprilysin at the apical brush border, generating the hydrophilic radiometal-chelator-Met metabolite, which is readily excreted through the urine."
+        }
+    }
+]

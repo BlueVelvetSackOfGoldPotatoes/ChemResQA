@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Soil salinization can have adverse effects on seed germination, growth, flowering, and fruiting of plants due to salt stress.",
+        "Question": "What is a consequence of soil salinization on plants?",
+        "A": "Increased nutrient absorption",
+        "B": "Enhanced water intake",
+        "C": "Adverse effects on seed germination and growth",
+        "D": "Stimulation of photosynthesis",
+        "Answer": "C",
+        "Source": "However, plants cannot grow up normally in the soil with high salt content due to the occurrence of salt stress exerting adverse effects on seed germination, growth, flowering, and fruiting."
+    },
+    "Question_2": {
+        "Context": "Brassinolide (BR) is a plant hormone that can regulate various growth stages and enhance plant tolerance against environmental stresses, including salt stress.",
+        "Question": "What role does brassinolide (BR) play in plant development?",
+        "A": "It inhibits plant growth",
+        "B": "It acts as a broad-spectrum plant growth regulator",
+        "C": "It decreases plant tolerance to environmental stresses",
+        "D": "It is only involved in the flowering stage",
+        "Answer": "B",
+        "Source": "Among brassinosteroid derivatives and conjugates, BR possesses the most biological activity, and generally regarded as an efficient, broad-spectrum, and non-toxic plant growth regulator, regulating seed germination, flowering and other growth stages, playing important role in the growth and development of plants."
+    },
+    "Question_3": {
+        "Context": "Mesoporous silica nanoparticles (MSN) have been used in agriculture as nanocarriers to protect pesticides and enhance their efficacy.",
+        "Question": "What is one of the applications of mesoporous silica nanoparticles (MSN) in agriculture?",
+        "A": "Decreasing soil pH",
+        "B": "Enhancing pesticide efficacy",
+        "C": "Increasing water retention in soil",
+        "D": "Reducing plant growth",
+        "Answer": "B",
+        "Source": "Of note, MSN has been widely utilized in agricultural field as a nanocarrier to protect pesticides from photodegration and prolong pest control."
+    },
+    "Question_4": {
+        "Context": "The synthesis of mesoporous silica nanoparticles (MSN) involves the hydrolysis and condensation of a silica source under certain conditions.",
+        "Question": "What is involved in the synthesis process of mesoporous silica nanoparticles (MSN)?",
+        "A": "Oxidation and reduction of silicon",
+        "B": "Hydrolysis and condensation of tetraethyl orthosilicate",
+        "C": "Polymerization of ethylene",
+        "D": "Deposition of silicon from silane gases",
+        "Answer": "B",
+        "Source": "The nanocarrier was synthesized via the hydrolysis and condensation of tetraethyl orthosilicate (TEOS) under alkaline condition using cetyl trimethyl ammonium bromide (CTAB) as a template."
+    },
+    "Question_5": {
+        "Context": "The loading of a substance into mesoporous silica nanoparticles can be confirmed by various characterization techniques, including Fourier Transform Infrared (FTIR) spectroscopy.",
+        "Question": "Which characterization technique can confirm the loading of a substance into mesoporous silica nanoparticles?",
+        "A": "Mass spectrometry",
+        "B": "X-ray diffraction",
+        "C": "Fourier Transform Infrared (FTIR) spectroscopy",
+        "D": "Nuclear magnetic resonance",
+        "Answer": "C",
+        "Source": "The successful preparation of BR@MSN was confirmed by Fourier Transform Infrared (FTIR) and thermogravimetric (TG) characterizations."
+    },
+    "Question_6": {
+        "Context": "The thermal stability of a compound can be analyzed by observing the temperature at which the compound begins to decompose.",
+        "Question": "What does the thermal stability analysis of a compound typically involve?",
+        "A": "Determining the melting point",
+        "B": "Observing the boiling point",
+        "C": "Analyzing the decomposition temperature",
+        "D": "Measuring the freezing point",
+        "Answer": "C",
+        "Source": "In the case of BR@MSN, an obvious weight loss peak was found at 428 \u2103, which was mainly attributed to the decomposition of BR in BR@MSN."
+    },
+    "Question_7": {
+        "Context": "The sustained release behavior of a compound from a carrier can be described by various kinetic models, which help to understand the release mechanism.",
+        "Question": "Which kinetic model might describe the sustained release behavior of a compound from a carrier?",
+        "A": "Zero-order model",
+        "B": "First-order model",
+        "C": "Second-order model",
+        "D": "Third-order model",
+        "Answer": "B",
+        "Source": "According to the regression coefficient (R2) values of the kinetic fitting curves, the sustained release behaviors of BR from BR@MSN followed the first-order model."
+    },
+    "Question_8": {
+        "Context": "Superoxide dismutase (SOD) is an enzyme that plays a crucial role in protecting cells from oxidative damage by converting superoxide radicals into less harmful molecules.",
+        "Question": "What is the function of superoxide dismutase (SOD) in plants?",
+        "A": "Promotes photosynthesis",
+        "B": "Converts superoxide radicals into less harmful molecules",
+        "C": "Enhances water absorption",
+        "D": "Increases carbon dioxide fixation",
+        "Answer": "B",
+        "Source": "In addition, after the foliar application of BR@MSN, SOD activity increased by 234.11%, MDA content decreased by 61.30%, and chlorophyll content increased by 110.88%, which further confirmed the improvement of cucumber seedlings against salt stress."
+    },
+    "Question_9": {
+        "Context": "Malondialdehyde (MDA) is a biomarker for oxidative stress in plants, indicating the level of lipid peroxidation in cell membranes.",
+        "Question": "What does an increased content of malondialdehyde (MDA) in plants indicate?",
+        "A": "Enhanced nutrient uptake",
+        "B": "Increased resistance to pests",
+        "C": "Higher rate of photosynthesis",
+        "D": "Oxidative stress and lipid peroxidation",
+        "Answer": "D",
+        "Source": "As a product of membrane lipid peroxidation, MDA content is highly relevant with the growth status of plants and thus utilized to evaluate the level of salt stress."
+    },
+    "Question_10": {
+        "Context": "Chlorophyll content in plants is an important indicator of their health and photosynthetic efficiency, which can be affected by environmental stresses.",
+        "Question": "What does chlorophyll content in plants generally indicate?",
+        "A": "Soil nutrient levels",
+        "B": "Water use efficiency",
+        "C": "Health and photosynthetic efficiency",
+        "D": "Resistance to soil pathogens",
+        "Answer": "C",
+        "Source": "In addition, the foliar application of BR@MSN brought about the increase in chlorophyll contents. Total chlorophyll content is the sum of chlorophyll a content and chlorophyll b content."
+    }
+}

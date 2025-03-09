@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on investigating the effect of deceleration on an infant incubator and crash dummy test. The research aimed to predict the behavior of the crash dummy and incubator under various conditions.",
+        "Question": "What is the purpose of the developed finite element model in the study?",
+        "A": "To analyze the impact of acceleration on the crash dummy",
+        "B": "To predict the behavior of the incubator under deceleration",
+        "C": "To study the effect of velocity on the infant incubator",
+        "D": "To investigate the material properties of the safety belts",
+        "Answer": "B",
+        "Source": "The infant or neonate differs structurally from the adult in a number of ways which is critical to the design for protection against impact forces and for adequate occupant restraint systems; they have higher centre of gravity than child and adults, and this also depends on how premature the newborn or infant is."
+    },
+    "Question_2": {
+        "Context": "The study involved experimental studies conducted at Cranfield Impact Centre to validate the developed numerical model. The experiments included deceleration tests with specific negative acceleration impulses.",
+        "Question": "What was the required negative acceleration impulse set for the experimental studies?",
+        "A": "6 g",
+        "B": "10 g",
+        "C": "12 g",
+        "D": "15 g",
+        "Answer": "B",
+        "Source": "The Decelerator facility is connected to any components or dummies to predetermined deceleration (negative acceleration) pulses. According to BS EN 1789:2007, the required negative acceleration impulse is set at 10 g."
+    },
+    "Question_3": {
+        "Context": "The study compared the acceleration rates experienced by the dummy and incubator under different impulses. The research aimed to understand the impact of varying deceleration rates on the crash test results.",
+        "Question": "What was the velocity set for the 12-g impulse scenario?",
+        "A": "30 km/h",
+        "B": "31 km/h",
+        "C": "32 km/h",
+        "D": "33 km/h",
+        "Answer": "C",
+        "Source": "At 12-g impulse, the velocity is set to 32 km/h as stated in the standard."
+    },
+    "Question_4": {
+        "Context": "The study discussed the importance of the loading and unloading input curves for the belts and incubator. These curves were crucial for determining the Young's modulus in the simulation setup.",
+        "Question": "What is the significance of the loading and unloading curves in the FE model?",
+        "A": "To calculate the mass of the crash dummy",
+        "B": "To determine the acceleration of the incubator",
+        "C": "To calculate the Young's modulus",
+        "D": "To predict the velocity of the sled",
+        "Answer": "C",
+        "Source": "The loading and unloading input curves are followed, and LS-DYNA calculates the Young\u2019s modulus."
+    },
+    "Question_5": {
+        "Context": "The study emphasized the differences in body segment proportions, muscle, bone, and ligament strengths between infants and adults. These differences were crucial for designing effective crash protection systems.",
+        "Question": "Why is it important to consider the differences in body segment proportions between infants and adults in crash protection design?",
+        "A": "To determine the acceleration rate of the crash dummy",
+        "B": "To predict the behavior of the incubator under acceleration",
+        "C": "To ensure effective occupant restraint systems",
+        "D": "To calculate the mass of the infant incubator",
+        "Answer": "C",
+        "Source": "The infant or neonate differs structurally from the adult in a number of ways which is critical to the design for protection against impact forces and for adequate occupant restraint systems."
+    },
+    "Question_6": {
+        "Context": "The study discussed the impact of varying dummy masses on acceleration rates. It highlighted the relationship between mass reduction and increased acceleration experienced by the dummy.",
+        "Question": "What effect does reducing the mass of the crash dummy have on acceleration?",
+        "A": "Acceleration decreases",
+        "B": "Acceleration remains constant",
+        "C": "Acceleration increases",
+        "D": "Acceleration becomes negative",
+        "Answer": "C",
+        "Source": "By reducing the mass of the dummy, the acceleration increases. This is because the force remains the same, and acceleration increases by reducing the mass."
+    },
+    "Question_7": {
+        "Context": "The study compared the acceleration rates experienced by the dummy under different impulses. It aimed to understand the impact of varying deceleration rates on the crash test results.",
+        "Question": "What was the maximum peak acceleration experienced by the dummy under the 12-g impulse scenario?",
+        "A": "31 g",
+        "B": "38 g",
+        "C": "25 g",
+        "D": "40 g",
+        "Answer": "B",
+        "Source": "At 12-g impulse, the acceleration duration is increased and the peak reaches a spike of 38 g at 0.094 s."
+    },
+    "Question_8": {
+        "Context": "The study discussed the importance of the loading and unloading input curves for determining the Young's modulus in the simulation setup. These curves were crucial for maintaining the reliability of the model predictions.",
+        "Question": "What is the role of the loading and unloading curves in ensuring the reliability of the FE model predictions?",
+        "A": "To calculate the mass of the crash dummy",
+        "B": "To determine the acceleration of the incubator",
+        "C": "To calculate the Young's modulus",
+        "D": "To predict the velocity of the sled",
+        "Answer": "C",
+        "Source": "The loading and unloading input curves are followed, and LS-DYNA calculates the Young\u2019s modulus."
+    },
+    "Question_9": {
+        "Context": "The study highlighted the differences in survivability between neonates with lower body mass and heavier infants. It emphasized the importance of considering bone density and joint stiffness in crash protection design.",
+        "Question": "Why is the survivability of neonates with lower body mass lower than that of heavier infants in crash scenarios?",
+        "A": "Due to higher muscle strength",
+        "B": "Due to lower bone density",
+        "C": "Due to higher center of gravity",
+        "D": "Due to lower joint stiffness",
+        "Answer": "C",
+        "Source": "The differences between 8 and 2 kg is severe, and it is necessary to account for the bone density and joint stiffness of a neonate that experiences higher force than a heavier infant; therefore, the survivability of a neonate with lower body mass is lower."
+    },
+    "Question_10": {
+        "Context": "The study discussed the impact of varying deceleration rates on the crash test results. It aimed to understand the differences in acceleration rates experienced by the dummy and incubator under different impulses.",
+        "Question": "What is the significance of the loading and unloading curves for the belts and incubator in the FE model?",
+        "A": "To determine the acceleration of the crash dummy",
+        "B": "To predict the behavior of the incubator under deceleration",
+        "C": "To calculate the Young's modulus",
+        "D": "To analyze the impact of velocity on the infant incubator",
+        "Answer": "C",
+        "Source": "The loading and unloading input curves are followed, and LS-DYNA calculates the Young\u2019s modulus."
+    }
+}

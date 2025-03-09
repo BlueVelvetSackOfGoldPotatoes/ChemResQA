@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the air-curing process of tobacco leaves, certain compounds are monitored for their changes, which include phenols, polyacids, carbohydrates, nitrogenous compounds, plastid pigments, and specific ions.",
+        "Question": "Which ions are specifically monitored during the air-curing of tobacco leaves?",
+        "A": "Sodium ions and sulfate ions",
+        "B": "Potassium ions and chloride ions",
+        "C": "Calcium ions and phosphate ions",
+        "D": "Magnesium ions and nitrate ions",
+        "Answer": "B",
+        "Source": "During the air-curing of CTLs, phenols (A), polyacids (B), carbohydrates (C), nitrogenous compounds (D), plastid pigments (E), and potassium ions and chloride ions (F) were monitored."
+    },
+    "Question_2": {
+        "Context": "Principal Component Analysis (PCA) can be used to observe metabolite differences between groups of samples in a biological study.",
+        "Question": "What does a 95% confidence interval of biological replicate samples within a group indicate in PCA?",
+        "A": "Poor reproducibility within the group",
+        "B": "No significant variation between samples within groups",
+        "C": "Significant variation between samples within groups",
+        "D": "Good reproducibility within the group",
+        "Answer": "D",
+        "Source": "The results showed that the confidence intervals of the three biological replicate samples within the group were all within 95%, indicating good reproducibility within the group."
+    },
+    "Question_3": {
+        "Context": "In metabolomic studies, the identification of differentially abundant metabolites (DAMs) between sample groups can reveal significant up-regulation or down-regulation of these metabolites.",
+        "Question": "What does it mean if a metabolite is significantly up-regulated in a comparison between two sample groups?",
+        "A": "The metabolite is present in lower quantities in the first group",
+        "B": "The metabolite is present in higher quantities in the first group",
+        "C": "The metabolite is present in equal quantities in both groups",
+        "D": "The metabolite is not present in either group",
+        "Answer": "B",
+        "Source": "A total of 824 DAMs were identified in the WrC0 vs WrC6 group, of which 194 were significantly down-regulated and 630 were significantly up-regulated."
+    },
+    "Question_4": {
+        "Context": "Metabolomic analysis can classify and count differentially abundant metabolites (DAMs) based on their superclass categories.",
+        "Question": "Which superclass of DAMs had the highest content in the WrC12 vs. WrC20 group during the air-curing process of tobacco leaves?",
+        "A": "Lipids and lipid-like molecules",
+        "B": "Nucleosides, nucleotides, and analogs",
+        "C": "Organic acids and derivatives",
+        "D": "Amino acids, peptides, and analogs",
+        "Answer": "C",
+        "Source": "The WrC12 vs. WrC20 group had the highest contents of organic acids and derivatives (17.02%)."
+    },
+    "Question_5": {
+        "Context": "Hierarchical clustering heatmaps are utilized in metabolomic studies to show the association of differentially abundant metabolites (DAMs) with certain biological processes.",
+        "Question": "Which compounds were mainly enriched in fresh tobacco leaves as opposed to during air-curing according to hierarchical clustering heatmaps?",
+        "A": "Amino acids and polyphenols",
+        "B": "Derivatives of amino acids and phenols",
+        "C": "Formic acid and methyl ester polyphenolic substances",
+        "D": "Phenolics, salicylic acid, butyric acid, and berberine",
+        "Answer": "A",
+        "Source": "Amino acids and polyphenols were enriched mainly in fresh tobacco leaves, while derivatives of amino acids and phenols were mainly aggregated during air-curing."
+    },
+    "Question_6": {
+        "Context": "During the air-curing process of tobacco leaves, the types of amino acids enriched in the leaves can vary at different periods.",
+        "Question": "Which amino acid was mainly enriched in fresh tobacco leaves but not in later air-curing periods?",
+        "A": "L-aspartic acid",
+        "B": "Proline",
+        "C": "L-phenylalanine",
+        "D": "Arginine",
+        "Answer": "A",
+        "Source": "Among them, fresh tobacco leaves were mainly enriched in L-aspartic acid, methionine, proline, serine, L-lysine, L-threonine, and L-cysteine."
+    },
+    "Question_7": {
+        "Context": "Metabolomic studies can reveal the enrichment of specific metabolites in plant tissues during various stages of processing.",
+        "Question": "Which metabolite was found to be mainly enriched in the WrC26 period of air-curing tobacco leaves?",
+        "A": "L-phenylalanine",
+        "B": "4-hydroxyproline",
+        "C": "D-proline",
+        "D": "Arginine",
+        "Answer": "B",
+        "Source": "WrC26 was mainly enriched in 4-hydroxyproline, D-proline, and arginine."
+    },
+    "Question_8": {
+        "Context": "In the study of plant metabolomics, differentially abundant metabolites (DAMs) can be classified into various superclasses, which reflect their chemical nature.",
+        "Question": "Which superclass of DAMs was found to have the highest content in the WrC0 vs. WrC6 group during the air-curing process of tobacco leaves?",
+        "A": "Lipids and lipid-like molecules",
+        "B": "Organic acids and derivatives",
+        "C": "Organic heterocyclic components",
+        "D": "Carbohydrates and carbohydrate conjugates",
+        "Answer": "A",
+        "Source": "The WrC0 vs. WrC6 group and WrC6 vs. WrC12 group had the highest contents of lipids and lipid-like molecules (15.66% and 12.06%)."
+    },
+    "Question_9": {
+        "Context": "The Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis can annotate metabolites and major metabolic pathways involved in plant physiological processes.",
+        "Question": "Which metabolic pathway was NOT enriched according to KEGG analysis during the air-curing of tobacco leaves?",
+        "A": "Arginine biosynthesis",
+        "B": "Aminoacyl tRNA biosynthesis",
+        "C": "Histidine metabolism",
+        "D": "Chlorophyll biosynthesis",
+        "Answer": "D",
+        "Source": "The results showed that DAMs were mainly enriched in the pathways of arginine biosynthesis, aminoacyl tRNA biosynthesis, histidine metabolism, purine metabolism, phenylalanine metabolism, and pyrimidine metabolism."
+    },
+    "Question_10": {
+        "Context": "The browning reaction in plant tissues can be influenced by the activities of specific enzymes, which are involved in the metabolism of phenylpropane.",
+        "Question": "Which enzyme is a key component in the metabolism of phenylpropane and is involved in the synthesis of polyphenols?",
+        "A": "Polyphenol oxidase",
+        "B": "Peroxidase",
+        "C": "Phenylalanine ammonia lyase",
+        "D": "Lipoxygenase",
+        "Answer": "C",
+        "Source": "PAL is a key enzyme in the metabolism of phenylpropane and is involved in the synthesis of polyphenols."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Interleukin-33 (IL-33) is a protein that can induce a type-2 immune response when released from epithelial cells in response to cell damage or allergen stimulation.",
+        "Question": "What is the primary function of IL-33 in the immune system?",
+        "A": "Inducing a type-1 immune response",
+        "B": "Inducing a type-2 immune response",
+        "C": "Suppressing immune cell signaling",
+        "D": "Acting as a protease inhibitor",
+        "Answer": "B",
+        "Source": "Interleukin-33 (IL-33) is an IL-1 family protein that induces a type-2 immune response. IL-33 is constitutively expressed in epithelial cells and released in response to the cell damage or stimulation by an allergen."
+    },
+    "Question_2": {
+        "Context": "The active form of IL-33 signals downstream immune cells by binding to a specific receptor complex on the cell surface.",
+        "Question": "Which receptor complex does IL-33 bind to in order to signal downstream immune cells?",
+        "A": "ST2:IL-1RAcP",
+        "B": "IL-6R:gp130",
+        "C": "TNFR1:TNFR2",
+        "D": "CD28:B7",
+        "Answer": "A",
+        "Source": "The active form signals downstream immune cells, such as eosinophils, by binding to the heterodimeric ST2:IL-1RAcP receptor complex on the cell surface."
+    },
+    "Question_3": {
+        "Context": "IL-33 is activated by proteolytic cleavage, which is a common post-translational modification that can activate or deactivate proteins.",
+        "Question": "How is IL-33 activated?",
+        "A": "By phosphorylation",
+        "B": "By glycosylation",
+        "C": "By ubiquitination",
+        "D": "By proteolytic cleavage",
+        "Answer": "D",
+        "Source": "The secreted protein is activated when the N-terminal domain is cleaved by a protease."
+    },
+    "Question_4": {
+        "Context": "In the context of protein-protein interactions, the binding pocket of a protein can influence the ease of drug discovery.",
+        "Question": "What is a characteristic of the IL-33 and ST2 binding pocket that makes drug discovery challenging?",
+        "A": "Highly flexible",
+        "B": "Relatively wide and shallow",
+        "C": "Extremely deep and narrow",
+        "D": "Composed of rigid beta-sheets",
+        "Answer": "B",
+        "Source": "However, discovering the chemical moieties that bind to the protein-protein interaction interface is a challenging task due to the relatively wide and shallow binding pocket compared to the enzyme's active site."
+    },
+    "Question_5": {
+        "Context": "Mutagenesis is a technique used to alter the protein structure to study protein functions or interactions.",
+        "Question": "Why were intrinsic cysteine residues of IL-33 mutated in the study?",
+        "A": "To increase the stability of IL-33",
+        "B": "To introduce a fluorescent tag",
+        "C": "To enhance the binding affinity for ST2",
+        "D": "To allow specific compound binding at the hydrophobic surface",
+        "Answer": "D",
+        "Source": "To make compound binding occur at the hydrophobic binding surface specifically, the intrinsic cysteines were mutated to Ala or Ser, and a single cysteine was introduced near the binding interface by site-directed mutagenesis."
+    },
+    "Question_6": {
+        "Context": "Nuclear magnetic resonance (NMR) spectroscopy is a powerful tool in structural biology for studying the structure and dynamics of proteins.",
+        "Question": "What information can be derived from the backbone resonance assignments of IL-33 mutants using NMR spectroscopy?",
+        "A": "The electrical charge of the protein",
+        "B": "The lipid composition of the protein",
+        "C": "The binding site of a compound",
+        "D": "The optical activity of the protein",
+        "Answer": "C",
+        "Source": "Based on the assignments, the binding site of a selected compound by this approach was determined by 2D NMR."
+    },
+    "Question_7": {
+        "Context": "Chemical shift perturbation (CSP) is a method used in NMR spectroscopy to study protein-ligand interactions.",
+        "Question": "What does a significant chemical shift perturbation (CSP) in NMR spectra indicate?",
+        "A": "Protein denaturation",
+        "B": "Protein-ligand interaction",
+        "C": "Change in protein pH",
+        "D": "Protein degradation",
+        "Answer": "B",
+        "Source": "The site-specific interactions between the IL-33 protein and the compound were visualized by a CSP measurements based on the 1H-15N HSQC spectra."
+    },
+    "Question_8": {
+        "Context": "Protein stability can be a critical factor in experimental studies, especially when dealing with potential oxidation of amino acid residues.",
+        "Question": "Why was the IL-33 (117 to 270) C259A mutant chosen for further binding studies with non-covalent inhibitors?",
+        "A": "Because it has a higher affinity for ST2",
+        "B": "Because it is more stable against oxidation",
+        "C": "Because it has a higher expression level",
+        "D": "Because it forms a more stable complex with ligands",
+        "Answer": "B",
+        "Source": "We tested the stabilities of the mutants and found that IL-33 (117 to 270) C259A was stable against the oxidation."
+    },
+    "Question_9": {
+        "Context": "The introduction of mutations in proteins can be used to study the effects on protein function or stability.",
+        "Question": "What was the result of mutating the C259 residue in IL-33?",
+        "A": "Increased binding to the ST2 receptor",
+        "B": "Decreased stability due to oxidation",
+        "C": "Increased enzymatic activity",
+        "D": "Stability against oxidation",
+        "Answer": "D",
+        "Source": "Although wild-type IL-33 (117 to 270) can be used for the binding study, the wild-type protein is known to be very unstable due to oxidation of the cysteine residues in the protein."
+    },
+    "Question_10": {
+        "Context": "The discovery of protein-protein interaction (PPI) inhibitors is a complex task due to the nature of the binding surfaces involved.",
+        "Question": "What is a major challenge in discovering PPI inhibitors for IL-33 and ST2 interaction?",
+        "A": "The binding surface is highly charged",
+        "B": "The binding surface is wide and shallow",
+        "C": "The binding surface is composed of alpha-helices",
+        "D": "The binding surface is highly hydrophilic",
+        "Answer": "B",
+        "Source": "Protein-protein interaction (PPI) inhibitor discovery is very challenging because the binding surface is wide and shallow."
+    }
+}

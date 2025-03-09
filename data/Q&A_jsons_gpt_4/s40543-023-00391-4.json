@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Ribavirin is a synthetic guanosine analog nucleoside with broad-spectrum virustatic activity, acting against various DNA and RNA viruses.",
+        "Question": "What is the chemical structure of Ribavirin?",
+        "A": "(1-(3,4-dihydroxy-5-hydroxymethyl-tetrahydrofuran-2-yl)-1H-triazole-3-carboxylic acid amide)",
+        "B": "(2-(3,4-dihydroxy-5-hydroxymethyl-tetrahydrofuran-2-yl)-2H-triazole-4-carboxylic acid amide)",
+        "C": "(1-(2,3-dihydroxy-4-hydroxymethyl-tetrahydrofuran-5-yl)-1H-triazole-3-carboxylic acid amide)",
+        "D": "(3-(3,4-dihydroxy-5-hydroxymethyl-tetrahydrofuran-2-yl)-3H-triazole-1-carboxylic acid amide)",
+        "Answer": "A",
+        "Source": "Ribavirin is a synthetic guanosine analog nucleoside of broad-spectrum virustatic activity. Chemically, it is (1-(3,4-dihydroxy-5-hydroxymethyl-tetrahydrofuran-2-yl)-1H-triazole-3-carboxylic acid amide), Fig. 1."
+    },
+    "Question_2": {
+        "Context": "Fluorescence spectroscopy can be used to determine the concentration of non-fluorescent molecules through quenching of fluorescent probes.",
+        "Question": "At which wavelength does Ribavirin quench the emission band of phosphorus and nitrogen co-doped carbon quantum dots?",
+        "A": "350 nm",
+        "B": "245 nm",
+        "C": "401 nm",
+        "D": "260 nm",
+        "Answer": "C",
+        "Source": "The RIB molecules have shown excellent sensitivity by quenching of the emission band at 401 nm upon excitation at 245 nm throughout a linear range of 0.06\u201310.00 \u00b5g/mL."
+    },
+    "Question_3": {
+        "Context": "In fluorescence spectroscopy, the interaction between molecules and quantum dots can be monitored by changes in fluorescence intensity.",
+        "Question": "What is the excitation wavelength used to monitor the interaction between Ribavirin molecules and synthesized quantum dots?",
+        "A": "350 nm",
+        "B": "245 nm",
+        "C": "401 nm",
+        "D": "260 nm",
+        "Answer": "B",
+        "Source": "The RIB molecules have shown excellent sensitivity by quenching of the emission band at 401 nm upon excitation at 245 nm throughout a linear range of 0.06\u201310.00 \u00b5g/mL."
+    },
+    "Question_4": {
+        "Context": "The quenching mode in fluorescence spectroscopy can be either static or dynamic, which are distinguished by the rate constants of the quenching process.",
+        "Question": "What is the quenching rate constant for Ribavirin in raw samples when interacting with quantum dots?",
+        "A": "1.30 \u00d7 1010 L M\u22121 S\u22121",
+        "B": "1.30 \u00d7 1011 L M\u22121 S\u22121",
+        "C": "1.30 \u00d7 1012 L M\u22121 S\u22121",
+        "D": "1.30 \u00d7 1013 L M\u22121 S\u22121",
+        "Answer": "C",
+        "Source": "The quenching mode was proven to be static in raw samples and samples extracted of spiked plasma for quenching rate constants of 1.30 \u00d7 1012 L M\u22121 S\u22121 and 1.73 \u00d7 1012 L M\u22121 S\u22121, respectively."
+    },
+    "Question_5": {
+        "Context": "The interaction between small molecules and DNA can be assessed by monitoring changes in fluorescence when a fluorescent probe is used.",
+        "Question": "What is the binding constant of Ribavirin with salmon sperm DNA (ssDNA) as indicated by fluorescence spectroscopy?",
+        "A": "2.38 \u00d7 102 mol\u22121/L",
+        "B": "2.38 \u00d7 103 mol\u22121/L",
+        "C": "2.38 \u00d7 104 mol\u22121/L",
+        "D": "2.38 \u00d7 105 mol\u22121/L",
+        "Answer": "C",
+        "Source": "It was evidenced a strong binding interaction with a binding constant of 2.38 \u00d7 104 mol\u22121/L."
+    },
+    "Question_6": {
+        "Context": "Quantum dots can be synthesized from natural sources and doped with elements to enhance their properties for specific applications.",
+        "Question": "What natural source is used for the synthesis of the carbon quantum dots mentioned in the context?",
+        "A": "Grape juice",
+        "B": "Orange juice",
+        "C": "Apple juice",
+        "D": "Lemon juice",
+        "Answer": "B",
+        "Source": "This research has afforded for the first time the synthesized eco-friendly carbon QDs derived from orange juice doped with phosphorus and nitrogen as a fluorescent facility for determination of RIB as well as its interaction with the ssDNA."
+    },
+    "Question_7": {
+        "Context": "The fluorescence quantum yield of a material is a measure of its efficiency in emitting light upon excitation.",
+        "Question": "What is the calculated quantum yield (QY) of the synthesized phosphorus and nitrogen co-doped carbon quantum dots?",
+        "A": "3.50%",
+        "B": "35.00%",
+        "C": "54.00%",
+        "D": "75.00%",
+        "Answer": "A",
+        "Source": "The calculated QY (\u03c6c) was found to be 3.50%."
+    },
+    "Question_8": {
+        "Context": "The size of quantum dots is an important characteristic that can be determined using transmission electron microscopy (TEM).",
+        "Question": "What is the average diameter of the synthesized phosphorus and nitrogen co-doped carbon quantum dots as determined by TEM?",
+        "A": "2.50 nm",
+        "B": "4.78 nm",
+        "C": "7.50 nm",
+        "D": "9.50 nm",
+        "Answer": "B",
+        "Source": "The PNQDs are well dispersed and have shown almost typically spherical particles with a narrow particle size distribution mainly located in the range 3.68\u20136.52 nm with an average diameter of 4.78 nm."
+    },
+    "Question_9": {
+        "Context": "The zeta potential of nanoparticles can provide information about their surface charge and stability in colloidal solutions.",
+        "Question": "What effect does the addition of Ribavirin have on the zeta potential of phosphorus and nitrogen co-doped carbon quantum dots?",
+        "A": "It increases the zeta potential, indicating decreased colloidal stability.",
+        "B": "It decreases the zeta potential, indicating increased colloidal stability.",
+        "C": "It increases the zeta potential, indicating increased colloidal stability.",
+        "D": "It decreases the zeta potential, indicating decreased colloidal stability.",
+        "Answer": "D",
+        "Source": "The binding interaction between RIB and PNQDs was clearly exhibited from zeta potential measurements that have shown continuous decrease in the numerical value of the negative potential by increasing the added concentrations of RIB."
+    },
+    "Question_10": {
+        "Context": "In fluorescence spectroscopy, the interaction between a fluorescent probe and a target molecule can be quantitatively analyzed by constructing a calibration curve.",
+        "Question": "What is the linear range for Ribavirin detection using fluorescence spectroscopy with phosphorus and nitrogen co-doped carbon quantum dots?",
+        "A": "0.06\u20131.00 \u00b5g/mL",
+        "B": "0.06\u20135.00 \u00b5g/mL",
+        "C": "0.06\u201310.00 \u00b5g/mL",
+        "D": "0.06\u201320.00 \u00b5g/mL",
+        "Answer": "C",
+        "Source": "The RIB molecules have shown excellent sensitivity by quenching of the emission band at 401 nm upon excitation at 245 nm throughout a linear range of 0.06\u201310.00 \u00b5g/mL."
+    }
+}

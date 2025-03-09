@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Epoxy is a thermosetting polymer known for its strong adhesive qualities and chemical resistance. However, it can be brittle and prone to failure under certain conditions. To improve its toughness, various methods such as adding a second phase material can be employed.",
+        "Question": "What is a common approach to enhance the toughness of epoxy?",
+        "A": "Heating to high temperatures",
+        "B": "Adding rubber tougheners",
+        "C": "Decreasing the curing time",
+        "D": "Exposure to UV light",
+        "Answer": "B",
+        "Source": "In order to enhance fracture toughness in composite materials, rubber tougheners like core-shell rubber or liquid rubbers are added to the polymer matrix. These tougheners help absorb energy during deformation and reduce stress concentration."
+    },
+    "Question_2": {
+        "Context": "When rubber tougheners are added to polymer matrices to enhance fracture toughness, there is a threshold concentration beyond which the mechanical properties can deteriorate due to particle clumping.",
+        "Question": "What is a potential downside of adding too much rubber toughener to polymer matrices?",
+        "A": "Increased brittleness",
+        "B": "Color change of the material",
+        "C": "Particle clumping leading to mechanical deterioration",
+        "D": "Improved electrical conductivity",
+        "Answer": "C",
+        "Source": "While adding rubber tougheners to polymer matrices in composite materials can enhance fracture toughness, exceeding a certain concentration threshold can result in particle clumping, leading to mechanical deterioration and reduced strength."
+    },
+    "Question_3": {
+        "Context": "Silane coupling agents are used to modify the surface of nanoparticles to improve their dispersion in a polymer matrix, which can affect the mechanical properties of the resulting composite.",
+        "Question": "What is the role of silane coupling agents in nanoparticle-modified epoxy composites?",
+        "A": "To initiate the curing process",
+        "B": "To improve nanoparticle dispersion",
+        "C": "To increase the curing temperature",
+        "D": "To reduce the viscosity of the epoxy",
+        "Answer": "B",
+        "Source": "To prevent agglomeration of rubber tougheners in polymer matrices, surface modifications and multiple toughening agents can be employed. Coupling agents can improve bonding between particles and the matrix in epoxy composites."
+    },
+    "Question_4": {
+        "Context": "The addition of nanoparticles to a polymer matrix can enhance its mechanical properties, but achieving a uniform dispersion of these nanoparticles is crucial for the desired improvement.",
+        "Question": "Why is uniform dispersion of nanoparticles important in polymer nanocomposites?",
+        "A": "To increase the weight of the composite",
+        "B": "To enhance the thermal conductivity",
+        "C": "To improve the mechanical properties",
+        "D": "To change the color of the composite",
+        "Answer": "C",
+        "Source": "By incorporating rubber tougheners, nanoparticles, silica particles, carbon nanoparticles, clay, and fibre coating into the polymer matrix, and modifying the curing process, researchers can tailor the mechanical properties of fibre-reinforced composites."
+    },
+    "Question_5": {
+        "Context": "Raman spectroscopy is a technique used to characterize materials by observing vibrational modes, which can provide insights into molecular and crystalline structures as well as residual strains.",
+        "Question": "What information can Raman spectroscopy provide about a material?",
+        "A": "Electrical resistance",
+        "B": "Vibrational modes and molecular structure",
+        "C": "Magnetic properties",
+        "D": "Thermal expansion coefficient",
+        "Answer": "B",
+        "Source": "Raman spectroscopy is a non-destructive technique that enables the probing of the vibrational modes of a material. It is widely used for the characterization of materials as it can provide information on their molecular and crystalline structure, as well as any residual strain present."
+    },
+    "Question_6": {
+        "Context": "The application of an electric field to a material can induce changes in its molecular structure, which can be detected by shifts in the Raman spectral peaks.",
+        "Question": "What effect does the application of an electric field have on the Raman spectral peaks of a material?",
+        "A": "It causes a decrease in peak intensity",
+        "B": "It results in a shift in wave number",
+        "C": "It changes the color of the Raman spectrum",
+        "D": "It reduces the resolution of the spectrum",
+        "Answer": "B",
+        "Source": "Under the application of an electric field (induce by applied voltage), the Raman peaks exhibit a shift in wave number, indicating the existence of residual strains induced by the applied voltage."
+    },
+    "Question_7": {
+        "Context": "Silane coupling agents are used to functionalize the surface of nanoparticles like BaTiO3 to improve their compatibility and dispersion within a polymer matrix.",
+        "Question": "What is the purpose of using 3-glycidoxypropyl trimethoxy silane (3-GPS) in the modification of BaTiO3 nanoparticles?",
+        "A": "To increase the electrical conductivity of BaTiO3",
+        "B": "To decrease the size of BaTiO3 nanoparticles",
+        "C": "To improve the dispersion of BaTiO3 in the nanocomposite",
+        "D": "To initiate the polymerization of the epoxy resin",
+        "Answer": "C",
+        "Source": "The purpose of using 3-glycidoxypropyl trimethoxy silane (3-GPS) was to improve the processability and dispersion of BaTiO3 nanoparticles in the nanocomposite."
+    },
+    "Question_8": {
+        "Context": "In the context of polymer composites, the term 'functional material' refers to a material that possesses specific properties which can be activated or controlled under certain conditions.",
+        "Question": "What does the term 'functional material' imply in polymer composites?",
+        "A": "A material that can be easily molded",
+        "B": "A material with properties that can be activated or controlled",
+        "C": "A material that is biodegradable",
+        "D": "A material that is solely used for structural purposes",
+        "Answer": "B",
+        "Source": "Such approach falls into the category of active toughening but has not been extensively investigated. In this research, Si-BaTiO3 nanoparticles were used to modify the electro-mechanical properties of a high-performance aerospace-grade epoxy."
+    },
+    "Question_9": {
+        "Context": "Dielectric polymers are insulating materials that can store and release electrical energy through the process of electric field polarisation.",
+        "Question": "What is a dielectric polymer?",
+        "A": "A polymer that conducts electricity",
+        "B": "A polymer that is used as a semiconductor",
+        "C": "An insulating polymer that can store and release electrical energy",
+        "D": "A polymer that changes color when an electric field is applied",
+        "Answer": "C",
+        "Source": "In this research, Si-BaTiO3 nanoparticles were used to modify the electro-mechanical properties of a high-performance aerospace-grade epoxy so as to study its response to electric fields, specifically low field strengths."
+    },
+    "Question_10": {
+        "Context": "The glass transition temperature of a polymer is the temperature at which the polymer transitions from a hard, glassy state to a soft, rubbery state.",
+        "Question": "What can be a consequence of modifying the surface of nanoparticles with coupling agents in epoxy composites?",
+        "A": "Increased glass transition temperature",
+        "B": "Decreased density of the composite",
+        "C": "Reduced elastic modulus and tensile strength",
+        "D": "Enhanced electrical insulation",
+        "Answer": "C",
+        "Source": "Coupling agents can improve bonding between particles and the matrix in epoxy composites, but can also lead to reduced elastic modulus, tensile strength, and glass transition temperature."
+    }
+}

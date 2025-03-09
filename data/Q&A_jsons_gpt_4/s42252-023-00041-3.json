@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the context of electrical conduction in composite materials, factors such as electrical currents, temperatures, and mechanical pressures can influence the conductivity.",
+        "Question": "What effect does increasing the electrical current have on the electrical conductivity of carbon/epoxy laminates?",
+        "A": "Increases the electrical conductivity exponentially",
+        "B": "Decreases the electrical conductivity significantly",
+        "C": "Has no effect on the electrical conductivity",
+        "D": "First decreases then increases the electrical conductivity",
+        "Answer": "B",
+        "Source": "From the average test results of 18 groups, aided with qualitative predictions, the milliampere-to-ampere increases of current led to significant reductions in electrical conductivities in both in-plane and through-the-thickness directions."
+    },
+    "Question_2": {
+        "Context": "The application of conductive paint on contact faces of specimens is a common practice in measuring electrical conductivities to minimize envisaged resistance.",
+        "Question": "Does applying conductive paint to the contact faces of carbon/epoxy laminate specimens affect the contact resistance?",
+        "A": "Yes, it significantly reduces contact resistance",
+        "B": "Yes, but only by a negligible amount",
+        "C": "No, it does not affect the contact resistance",
+        "D": "No, it increases the contact resistance",
+        "Answer": "C",
+        "Source": "Applying conductive paint to the contact faces did not appear to affect the contact resistance."
+    },
+    "Question_3": {
+        "Context": "In anisotropic materials like carbon/epoxy laminates, the direction of electrical conduction can affect the measured electrical conductivity.",
+        "Question": "How does the direction of electrical conduction (in-plane vs through-the-thickness) affect the electrical conductivity of carbon/epoxy laminates?",
+        "A": "In-plane direction shows higher conductivity than through-the-thickness",
+        "B": "Through-the-thickness direction shows higher conductivity than in-plane",
+        "C": "Both directions show the same conductivity",
+        "D": "Direction of conduction has no effect on electrical conductivity",
+        "Answer": "A",
+        "Source": "The milliampere-to-ampere increases of current led to significant reductions in electrical conductivities in both in-plane and through-the-thickness directions."
+    },
+    "Question_4": {
+        "Context": "The effect of temperature on the electrical resistance of materials can vary, influencing the overall electrical conductivity.",
+        "Question": "What is the effect of rising temperatures on the electrical conductivity of carbon/epoxy laminates?",
+        "A": "Increases the electrical conductivity",
+        "B": "Decreases the electrical conductivity",
+        "C": "Has no effect on the electrical conductivity",
+        "D": "First increases then decreases the electrical conductivity",
+        "Answer": "B",
+        "Source": "The rises of temperatures resulted in the similar reductions in electrical conductivity due to the increased resistance."
+    },
+    "Question_5": {
+        "Context": "Clamping pressure is known to influence the electrical properties of composite materials during testing.",
+        "Question": "What effect does increasing clamping torque have on the electrical conductivity of carbon/epoxy laminates?",
+        "A": "Increases the electrical conductivity",
+        "B": "Decreases the electrical conductivity",
+        "C": "Has no effect on the electrical conductivity",
+        "D": "First decreases then increases the electrical conductivity",
+        "Answer": "A",
+        "Source": "The increase in clamping torque increased the electrical conductivity values in both directions."
+    },
+    "Question_6": {
+        "Context": "The electrical resistance of a composite material can be affected by its interaction with physical imperfections and lattice vibrations.",
+        "Question": "Which component of electrical resistance is characterized by electrons' interaction with phonons in non-metals like composite laminates?",
+        "A": "Residual resistance",
+        "B": "Intrinsic resistance",
+        "C": "Clamping pressure resistance",
+        "D": "Contact face resistance",
+        "Answer": "B",
+        "Source": "For non-metals such as composite laminates with relatively few free electrons, the 2nd and 3rd parts become dominant."
+    },
+    "Question_7": {
+        "Context": "In composite materials, the volume electrical resistance can be influenced by mechanical compression.",
+        "Question": "What assumption is made about the compression of a clamped composite specimen when considering its volume electrical resistance?",
+        "A": "Biaxial compression",
+        "B": "Uniaxial compression",
+        "C": "Isotropic compression",
+        "D": "Hydrostatic compression",
+        "Answer": "B",
+        "Source": "The 3rd part corresponds to the contribution of a clamping pressure to the specimens, with assumption of uniaxial compression."
+    },
+    "Question_8": {
+        "Context": "The electrical conductivity of materials can be affected by the application of electrical currents, which in turn can induce thermal behavior.",
+        "Question": "What is the relationship between the application of electrical currents and the temperature rise in carbon/epoxy laminates?",
+        "A": "Directly proportional",
+        "B": "Inversely proportional",
+        "C": "Exponential",
+        "D": "Non-linear parabolic",
+        "Answer": "D",
+        "Source": "As applied current was increased by at least two orders of magnitude from 10 mA up to 3 A, resistance in the in-plane direction specimens increased, as expected."
+    },
+    "Question_9": {
+        "Context": "The electrical conductivity of anisotropic materials can be measured using a two-probe method.",
+        "Question": "What is the primary aim of using a two-probe method (2PM) in the measurement of electrical conductivity for anisotropic fibre-reinforced composite laminates?",
+        "A": "To ensure the materials are isotropic",
+        "B": "To ensure the materials at both current and voltage probe contact locations are the same",
+        "C": "To apply a uniform clamping pressure",
+        "D": "To increase the temperature of the material",
+        "Answer": "B",
+        "Source": "The aim is to ensure that the composite materials at both current and voltage probe contact locations were the same not only in the in-plane but also in the TTT measurements."
+    },
+    "Question_10": {
+        "Context": "The volume electrical conductivity of a material can be calculated using Ohm's law, taking into account various factors.",
+        "Question": "According to Ohm's law, how is the volume electrical conductivity 'k' of a material calculated?",
+        "A": "k = I/R",
+        "B": "k = IR",
+        "C": "k = l/(bwR)",
+        "D": "k = bw/(lR)",
+        "Answer": "C",
+        "Source": "With the known specimens dimensions, the volume electrical conductivity k in S/m was calculated by Ohm\u2019s law as k = l/(bwR)."
+    }
+}

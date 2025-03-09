@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the Portevin\u2013Le Chatelier (PLC) effect and its implications in materials deformation.",
+        "Question": "What is the main experimental feature of the fluctuations in the PLC effect?",
+        "A": "Increase with strain and decrease with strain rate",
+        "B": "Increase with strain rate and decrease with strain",
+        "C": "Increase with temperature and strain rate",
+        "D": "Decrease with strain and increase with strain rate",
+        "Answer": "A",
+        "Source": "The main experimental features of the fluctuations are a reduction with strain and increase with the strain rate which is reproduced by a model of plastic deformation with Dynamic Strain Aging, including disorder as a key parameter."
+    },
+    "Question_2": {
+        "Context": "The paper delves into the phenomenon of shear bands in materials deformation.",
+        "Question": "What determines whether deformation bands in the PLC effect propagate or not?",
+        "A": "Temperature",
+        "B": "Strain rate",
+        "C": "Class of PLC instability",
+        "D": "Material composition",
+        "Answer": "C",
+        "Source": "Recall that such bands nucleate, and may or may not propagate depending on the class of PLC instability present (type A denotes propagating bands, type B bands that propagate in an intermittent, \u2019hopping\u2019 fashion, and type C non-propagating bands)."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the role of Dynamic Strain Aging (DSA) in the PLC effect.",
+        "Question": "What is the PLC effect attributed to?",
+        "A": "Dislocation interactions with solute atoms",
+        "B": "Temperature fluctuations",
+        "C": "Strain rate fluctuations",
+        "D": "Material composition",
+        "Answer": "A",
+        "Source": "The PLC effect is attributed to Dynamic Strain Aging (DSA), and the crucial physics is in the interaction of the dislocations as the fundamental source of plastic deformation with the solute atoms in the metal alloy."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the modeling of plastic deformation in the PLC effect.",
+        "Question": "What is the key parameter in the model of plastic deformation with Dynamic Strain Aging?",
+        "A": "Temperature",
+        "B": "Disorder",
+        "C": "Strain rate",
+        "D": "Material composition",
+        "Answer": "B",
+        "Source": "The main experimental features of the fluctuations are a reduction with strain and increase with the strain rate which is reproduced by a model of plastic deformation with Dynamic Strain Aging, including disorder as a key parameter."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the experimental setup for observing the PLC effect.",
+        "Question": "What technique was used to observe the bands in a commercial aluminum alloy sample?",
+        "A": "Electron microscopy",
+        "B": "X-ray diffraction",
+        "C": "Laser speckle technique",
+        "D": "Atomic force microscopy",
+        "Answer": "C",
+        "Source": "The laser speckle technique was used to observe the bands in a commercial aluminum alloy AW-5754 sample."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the modeling of plastic deformation in the PLC effect.",
+        "Question": "What is the activation enthalpy without aging in the model of plastic deformation with Dynamic Strain Aging?",
+        "A": "Gag",
+        "B": "Gag \u221e",
+        "C": "G0",
+        "D": "S0",
+        "Answer": "C",
+        "Source": "G0 the activation enthalpy without aging."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the modeling of plastic deformation in the PLC effect.",
+        "Question": "What model was used to reproduce traveling waves or bands in the plastic deformation model?",
+        "A": "Voce hardening model",
+        "B": "H\u00e4hner-Rizzi model",
+        "C": "Kubin-Estrin model",
+        "D": "Ananthakrishna model",
+        "Answer": "B",
+        "Source": "This approach reproduces traveling waves or bands."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the experimental setup for observing the PLC effect.",
+        "Question": "What was the sample length used in the experiments?",
+        "A": "4 mm",
+        "B": "0.5 mm",
+        "C": "28 mm",
+        "D": "2 mm",
+        "Answer": "C",
+        "Source": "The samples were tensile loaded with Instron ElectroPuls E1000 using an Instron Dynacell load cell with a constant displacement rate. The stress and strain were recorded with an acquisition rate of 500 Hz. The speckle pattern was recorded with a acquisition rates varying around 0.5-2.0 kHz and finally processed to a 1D projection (Fig. 1)."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the modeling of plastic deformation in the PLC effect.",
+        "Question": "What is the diffusion coefficient in the model of plastic deformation with Dynamic Strain Aging?",
+        "A": "D0",
+        "B": "\u03b7",
+        "C": "Gag",
+        "D": "Gag \u221e",
+        "Answer": "A",
+        "Source": "To reproduce the band velocity variation and its dependence on the applied strain rate we introduced a random initial condition, by a Gaussian distribution of the plastic strain rate around a mean \u03f50 p,t and with a standard deviation \ufffd\u03f50 p,t, together with fully aged dislocations Gag 0 = Gag \u221e and an initial external stress \u03c3 0 ext."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the comparison between experimental data and model simulations.",
+        "Question": "What model reproduces the avalanche sizes or distances of band propagation more closely to the experimental data?",
+        "A": "H\u00e4hner-Rizzi model",
+        "B": "Kubin-Estrin model",
+        "C": "Ananthakrishna model",
+        "D": "Alessandro\u2013Beatrice\u2013Bertotti\u2013Montorsi (ABBM) model",
+        "Answer": "D",
+        "Source": "We finally present in Fig. 5 a comparison of the experimental data with the current model and the ABBM one for the avalanche sizes or distances of band propagation S. The ABBM approach has a formal expression for P(S) which nicely reproduces the experiment while the H\u00e4hner-Rizzi model variant nevertheless produces a wide distribution which is also surprisingly close to the experimental one."
+    }
+}

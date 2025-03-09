@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the experimental observation of electronic behavior in nanocomposite films due to the spatial influence of disorder induced by ZrO2 nanopillars.",
+        "Question": "What is the precursor effect of Anderson localization that occurs in disordered electronic systems at low temperatures?",
+        "A": "Quantum interference effects",
+        "B": "Metallic conduction",
+        "C": "Localized behavior",
+        "D": "Back scattering",
+        "Answer": "A",
+        "Source": "Weak localization, to be distinguished from AL, is the precursor effect of AL, that occurs in disordered electronic systems at low temperatures due to back scattering. The effect manifests itself as a positive correction to the resistivity of a metal or semiconductor."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the emergence of novel electronic states and magnetic reconstructions at the interface of LSMO and another perovskite oxide.",
+        "Question": "What is the role of vertical interfical strain (VIS) in the properties of LSMO?",
+        "A": "Enhancing carrier density",
+        "B": "Tuning the interfacial orbital and lattice order parameters",
+        "C": "Reducing Fermi energy",
+        "D": "Increasing Fermi surface",
+        "Answer": "B",
+        "Source": "The emergence of novel electronic states and magnetic reconstructions at the interface of LSMO and another perovskite oxide has been intensively studied, including electronic, magnetic and orbital reconstructions, and interfical magnetism et al. To achieve these fascinating properties, the vertical interfical strain (VIS) plays an important role through tunning the interfical orbital, lattice order parameters and resulted film functionality."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the experimental results related to the transition localization state observed in the nanocomposite films.",
+        "Question": "What is the characteristic dimensionless conductance that signals the mobility edge in a 3D system?",
+        "A": "\u03c0",
+        "B": "\u03c0/2",
+        "C": "\u03c0^2",
+        "D": "\u03c0^-2",
+        "Answer": "D",
+        "Source": "Based on one parameter scaling theory, Gc \u2248 e2/\u045b is an unstable fixed point in a 3D system, which signals the mobility edge."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the experimental results regarding the dimensionality of weak localization in the nanocomposite films.",
+        "Question": "What is the characteristic length at T = 2 K for the nanocomposite film with x = 0.2?",
+        "A": "3.04 nm",
+        "B": "9.0 nm",
+        "C": "12.46 nm",
+        "D": "20.48 nm",
+        "Answer": "A",
+        "Source": "The characteristic length at T = 2 K is L\u03c6(x=0.2) = 3.04 nm, which is comparable to the average pillar distances of d(x=0.2) = 9.0 \u00b1 0.3 nm, in good agreement with the critical condition of 2D and 3D WL coexistence."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the experimental results related to the electrical behavior in the nanocomposite films under the influence of magnetic fields.",
+        "Question": "What behavior is illustrated by the log(T) dependence of conductivity under various magnetic fields for the nanocomposite film with x = 0.3?",
+        "A": "Linear",
+        "B": "Exponential",
+        "C": "Quadratic",
+        "D": "Logarithmic",
+        "Answer": "D",
+        "Source": "The positive magnetoconductivity shown here illustrates the dominant localization origin. To examine the effective dimensionality of localization, the \u03c3(T) under \u03bc0H = 0 are fitted with the perturbation theory of the singular back scattering, which is given by \u03c33D = \u03c30 + e2 \u210f\u03c03 1 aT p/2 for 3D localization and \u03c32D = \u03c30 + p 2 e2 \u210f\u03c02 ln \ufffd T T0 \ufffd for 2D localization, respectively."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the experimental results related to the dimensionality of weak localization in the nanocomposite films.",
+        "Question": "What is the critical magnetic field value determined for the nanocomposite film with x = 0.3 at 2K?",
+        "A": "4.4 T",
+        "B": "6.7 T",
+        "C": "9.0 T",
+        "D": "12.32 T",
+        "Answer": "A",
+        "Source": "We take 4.4 T (at 2K) as Hc, LH = (eHc/\u210fc)\u22121/2 = 12.32nm can be obtained. This value is comparable to L\u03c6(x=0.3) = 12.46 nm, further evidenced the good 2D electrical character in x = 0.3."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the experimental results related to the strain dependence of the electronic properties of LSMO thin films.",
+        "Question": "What effect does less than 1% tensile strain have on La0.7Ba0.3MnO3 according to virtual crystal calculations?",
+        "A": "Converts the transport half metal to a true half metal",
+        "B": "Increases the density of localized minority carriers",
+        "C": "Reduces the effective Fermi level",
+        "D": "Enhances the carrier mobility",
+        "Answer": "A",
+        "Source": "We find that less than 1% tensile strain of La0.7Ba0.3MnO3 converts the transport half metal to a true half metal with no minority carriers."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the experimental results related to the dimensionality of weak localization in the nanocomposite films.",
+        "Question": "What is the index 'p' in the formula for 2D localization conductivity?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "Answer": "B",
+        "Source": "The fitting results and fitted parameters (a and p) according to 3D and 2D scaling theory are shown in Fig. 5c for x = 0.2 and Fig. 5d for x = 0.3, respectively."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the experimental results related to the electrical behavior in the nanocomposite films under the influence of magnetic fields.",
+        "Question": "What behavior is illustrated by the log(H) dependence of conductivity under various temperatures for the nanocomposite film with x = 0.3?",
+        "A": "Linear",
+        "B": "Exponential",
+        "C": "Quadratic",
+        "D": "Logarithmic",
+        "Answer": "D",
+        "Source": "The good agreement of \ufffd\u03c3 versus H under different T (below Tmin) with lnH behavior as expected illustrates the 2D electrical character in x = 0.3 compound."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the experimental results related to the electrical behavior in the nanocomposite films under the influence of magnetic fields.",
+        "Question": "What is the value of the characteristic length L\u03c6 for the nanocomposite film with x = 0.2 at T = 2 K?",
+        "A": "3.04 nm",
+        "B": "6.7 nm",
+        "C": "9.0 nm",
+        "D": "12.46 nm",
+        "Answer": "A",
+        "Source": "Using the well fitted a and p parameters for both x = 0.2 shown in Fig. 5c, the characteristic length at T = 2 K is L\u03c6(x=0.2) = 3.04 nm."
+    }
+}

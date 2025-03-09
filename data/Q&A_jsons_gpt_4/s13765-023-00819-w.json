@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Osteoporosis is a condition characterized by weakened bones due to an imbalance between bone formation and bone resorption, often leading to fractures. Osteoclasts are cells that play a crucial role in bone resorption.",
+        "Question": "What is the main function of osteoclasts in bone homeostasis?",
+        "A": "Bone formation",
+        "B": "Bone resorption",
+        "C": "Bone mineralization",
+        "D": "Bone marrow production",
+        "Answer": "B",
+        "Source": "Bone homeostasis is maintained by the continuous formation and resorption of bone tissue. However, an imbalance in this process because of excessive bone resorption can lead to bone loss and osteoporosis."
+    },
+    "Question_2": {
+        "Context": "Osteoclastogenesis is the process by which osteoclasts are formed from precursor cells. This process is regulated by several cytokines, including macrophage colony-stimulating factor (M-CSF) and receptor activator of nuclear factor \u03baB ligand (RANKL).",
+        "Question": "Which two cytokines are necessary for osteoclast differentiation?",
+        "A": "Interleukin-6 and Interleukin-10",
+        "B": "Interferon-gamma and Tumor Necrosis Factor-alpha",
+        "C": "Macrophage colony-stimulating factor (M-CSF) and receptor activator of nuclear factor \u03baB ligand (RANKL)",
+        "D": "Interleukin-1beta and Interleukin-12",
+        "Answer": "C",
+        "Source": "Osteoclastogenesis is a series of processes including differentiation, fusion, and activation of osteoclasts and is tightly regulated by many cytokines; both macrophage colony-stimulating factor (M-CSF) and receptor activator of nuclear factor \u03baB ligand (RANKL) are necessary for osteoclast differentiation."
+    },
+    "Question_3": {
+        "Context": "In the signaling pathway involved in osteoclast differentiation, the binding of RANKL to its receptor RANK on osteoclast precursors activates several kinases including AKT and mitogen-activated protein kinases (MAPKs).",
+        "Question": "Which kinases are activated by the binding of RANKL to RANK in osteoclast precursors?",
+        "A": "AKT and MAPKs",
+        "B": "CDKs and JAKs",
+        "C": "PI3K and mTOR",
+        "D": "Src and Syk",
+        "Answer": "A",
+        "Source": "RANKL binds to a receptor called RANK on the surface of osteoclast precursors and activates AKT and mitogen-activated protein kinases (MAPKs), including the c-Jun N-terminal kinase (JNK), extracellular signal-regulated kinase (ERK), and p38 pathways."
+    },
+    "Question_4": {
+        "Context": "NFATc1 is a master transcription factor that regulates the expression of genes essential for osteoclast differentiation, such as tartrate-resistant acid phosphatase (TRAP), cathepsin K, dendritic cell-specific transmembrane protein (DC-STAMP), and osteoclast-associated receptor (OSCAR).",
+        "Question": "What is the role of NFATc1 in osteoclast differentiation?",
+        "A": "Inhibits osteoclast differentiation",
+        "B": "Promotes osteoblast differentiation",
+        "C": "Drives terminal differentiation of osteoclasts",
+        "D": "Regulates bone mineralization",
+        "Answer": "C",
+        "Source": "NFATc1 is a master transcription factor that drives terminal differentiation of osteoclasts by regulating specific genes such as TRAP (tartrate-resistant acid phosphatase), cathepsin K, DC-STAMP (dendritic cell-specific transmembrane protein) and OSCAR (osteoclast-associated receptor)."
+    },
+    "Question_5": {
+        "Context": "Wheat seedlings contain bioactive components that may have health benefits. These include amino acids, minerals, vitamins, chlorophyll, and phenolic compounds such as gallic acid, epigallocatechin, epicatechin, and \u03c1-coumaric acid.",
+        "Question": "Which of the following compounds are found in wheat seedlings?",
+        "A": "Gallic acid, epigallocatechin, epicatechin, and \u03c1-coumaric acid",
+        "B": "Caffeine, theobromine, theophylline, and chlorogenic acid",
+        "C": "Curcumin, resveratrol, quercetin, and piperine",
+        "D": "Capsaicin, gingerol, eugenol, and silymarin",
+        "Answer": "A",
+        "Source": "Wheat seedlings are used as health functional supplement as they are rich in nutrients, such as amino acids, minerals, vitamins, and chlorophyll. It also produces gallic acid, epigallocatechin, epicatechin, and \u03c1-coumaric acid, which are undetected in wheat seed."
+    },
+    "Question_6": {
+        "Context": "The differentiation of osteoclasts from bone marrow macrophages can be visualized by staining for tartrate-resistant acid phosphatase (TRAP), which is a biomarker of osteoclast differentiation.",
+        "Question": "What is TRAP staining used for in the context of bone cells?",
+        "A": "Identifying osteoblasts",
+        "B": "Identifying osteocytes",
+        "C": "Identifying osteoclasts",
+        "D": "Identifying chondrocytes",
+        "Answer": "C",
+        "Source": "The mature osteoclasts were visualized by staining for TRAP, a biomarker of osteoclast differentiation."
+    },
+    "Question_7": {
+        "Context": "During osteoclast differentiation, the expression of certain genes such as c-Fos and NFATc1 is upregulated. These transcription factors are crucial for the development of osteoclasts.",
+        "Question": "Which transcription factors are upregulated during osteoclast differentiation?",
+        "A": "c-Myc and p53",
+        "B": "c-Fos and NFATc1",
+        "C": "HIF-1alpha and Nrf2",
+        "D": "STAT3 and STAT5",
+        "Answer": "B",
+        "Source": "RANKL stimulates the continuous activation of different transcription factors such as c-Fos and nuclear factor-activated T cells c1 (NFATc1)."
+    },
+    "Question_8": {
+        "Context": "The process of osteoclast fusion is necessary for the formation of multinucleated osteoclasts, which are involved in bone resorption. DC-STAMP is a molecule that is essential for osteoclast fusion.",
+        "Question": "What is the role of DC-STAMP in osteoclasts?",
+        "A": "Promotes osteoblast differentiation",
+        "B": "Inhibits osteoclast apoptosis",
+        "C": "Essential for osteoclast fusion",
+        "D": "Regulates bone mineral density",
+        "Answer": "C",
+        "Source": "DC-STAMP and cathepsin K, which are essential for cell fusion and bone degradation, were also inhibited by WSE."
+    },
+    "Question_9": {
+        "Context": "Cathepsin K is a protease that is highly expressed in osteoclasts and plays a critical role in the degradation of the bone matrix during bone resorption.",
+        "Question": "What is the function of cathepsin K in osteoclasts?",
+        "A": "Promotes bone formation",
+        "B": "Regulates calcium absorption",
+        "C": "Involved in bone matrix degradation",
+        "D": "Inhibits osteoclast differentiation",
+        "Answer": "C",
+        "Source": "Cathepsin K, which plays a vital role in bone resorption by osteoclasts."
+    },
+    "Question_10": {
+        "Context": "Phenolic compounds found in natural products, such as those from wheat seedlings, have been studied for their potential health benefits, including anti-inflammatory and antioxidant effects.",
+        "Question": "What are the potential health benefits of phenolic compounds found in wheat seedlings?",
+        "A": "Antimicrobial and neuroprotective effects",
+        "B": "Antioxidant and anti-inflammatory effects",
+        "C": "Cardioprotective and antidiabetic effects",
+        "D": "Anticarcinogenic and antiviral effects",
+        "Answer": "B",
+        "Source": "Therefore, various studies have been conducted to examine the functionality, anti-mutagenicity [13], anti-cancer [14], and anti-oxidant effects of the compounds from wheat seedlings [15]."
+    }
+}

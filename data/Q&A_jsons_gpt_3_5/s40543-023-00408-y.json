@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on developing and validating a method for the quantitative analysis of bile acids in rat plasma.",
+        "Question": "What was the primary purpose of the study described in the text?",
+        "A": "To investigate the effect of Ivermectin on lipid metabolism",
+        "B": "To explore the effect of Ivermectin on plasma bile acid levels in rats",
+        "C": "To study the enterohepatic circulation of bile acids",
+        "D": "To analyze the impact of bile acids on liver function",
+        "Answer": "B",
+        "Source": "To explore the effect of IVM on plasma BA levels in rat, an ultra-high performance liquid chromatography-tandem mass spectrometry (UHPLC\u2013MS/MS) method was developed and validated for simultaneous determination of seven major BAs in rat plasma."
+    },
+    "Question_2": {
+        "Context": "The study involved administering Ivermectin to rats and analyzing the changes in plasma bile acid levels.",
+        "Question": "What method was developed and validated for the simultaneous determination of seven major bile acids in rat plasma?",
+        "A": "Ultra-high performance liquid chromatography-tandem mass spectrometry (UHPLC\u2013MS/MS)",
+        "B": "Gas chromatography",
+        "C": "High-performance liquid chromatography (HPLC)",
+        "D": "Thin-layer chromatography (TLC)",
+        "Answer": "A",
+        "Source": "an ultra-high performance liquid chromatography-tandem mass spectrometry (UHPLC\u2013MS/MS) method was developed and validated for simultaneous determination of seven major BAs in rat plasma."
+    },
+    "Question_3": {
+        "Context": "The study explored the effect of Ivermectin on plasma bile acid levels in rats.",
+        "Question": "Which receptor is primarily involved in the homeostasis and enterohepatic circulation of bile acids?",
+        "A": "Farnesoid X receptor (FXR)",
+        "B": "Peroxisome proliferator-activated receptor (PPAR)",
+        "C": "Liver X receptor (LXR)",
+        "D": "Retinoic acid receptor (RAR)",
+        "Answer": "A",
+        "Source": "Farnesoid X receptor (FXR) is the crucial nuclear receptor expressed mainly in the liver and intestine which involves in the homeostasis and enterohepatic circulation of BAs."
+    },
+    "Question_4": {
+        "Context": "The study revealed significant changes in specific bile acid levels after administering Ivermectin to rats.",
+        "Question": "Which bile acid levels were significantly reduced after 14 days of Ivermectin administration?",
+        "A": "Cholic acid and deoxycholic acid",
+        "B": "Glycodeoxycholic acid and taurodeoxycholic acid",
+        "C": "Tauro-\u03b1-muricholic acid and tauro-\u03b2-muricholic acid",
+        "D": "Chenodeoxycholic acid and glycodeoxycholic acid",
+        "Answer": "A",
+        "Source": "Once-daily administration of IVM for 14 days resulted in significant reduction in cholic acid and deoxycholic acid levels."
+    },
+    "Question_5": {
+        "Context": "The study highlighted the impact of Ivermectin on specific bile acid profiles in rats.",
+        "Question": "Which bile acid levels were significantly increased after 14 days of Ivermectin administration?",
+        "A": "Cholic acid and glycodeoxycholic acid",
+        "B": "Deoxycholic acid and taurodeoxycholic acid",
+        "C": "Chenodeoxycholic acid and deoxycholic acid",
+        "D": "Tauro-\u03b1-muricholic acid and tauro-\u03b2-muricholic acid",
+        "Answer": "D",
+        "Source": "Interestingly, tauro-\u03b1-muricholic acid and tauro-\u03b2-muricholic acid levels were significantly increased."
+    },
+    "Question_6": {
+        "Context": "The study provided insights into the effects of Ivermectin on bile acid homeostasis in rats.",
+        "Question": "Which nuclear receptor is considered a promising target in the management of various liver and metabolic diseases?",
+        "A": "Peroxisome proliferator-activated receptor (PPAR)",
+        "B": "Farnesoid X receptor (FXR)",
+        "C": "Liver X receptor (LXR)",
+        "D": "Retinoic acid receptor (RAR)",
+        "Answer": "B",
+        "Source": "FXR also involves in the homeostasis of lipid and glucose and has become a promising target in the management of hyperlipidemia, diabetes, non-alcoholic fatty liver disease, cholestasis, primary biliary cholangitis and chronic inflammatory diseases of the liver and intestine."
+    },
+    "Question_7": {
+        "Context": "The study discussed the importance of bile acids in metabolic diseases and the impact of Ivermectin on bile acid profiles.",
+        "Question": "Which bile acid is synthesized from cholesterol and conjugated to glycine or taurine to form bile salts?",
+        "A": "Cholic acid",
+        "B": "Deoxycholic acid",
+        "C": "Glycodeoxycholic acid",
+        "D": "Taurodeoxycholic acid",
+        "Answer": "A",
+        "Source": "Bile acids (BAs) are synthesized from cholesterol and then conjugated to glycine or taurine to form bile salts."
+    },
+    "Question_8": {
+        "Context": "The study emphasized the role of bile acids in regulating lipid and glucose metabolism.",
+        "Question": "Which bile acid is considered a secondary bile acid produced in the intestine by gut microbiota?",
+        "A": "Cholic acid",
+        "B": "Chenodeoxycholic acid",
+        "C": "Deoxycholic acid",
+        "D": "Glycodeoxycholic acid",
+        "Answer": "C",
+        "Source": "Some BAs are converted to secondary BAs in the intestine by gut microbiota."
+    },
+    "Question_9": {
+        "Context": "The study highlighted the importance of bile acids in various diseases and the impact of Ivermectin on bile acid levels.",
+        "Question": "Which bile acid is reabsorbed into the systemic circulation from the terminal ileum?",
+        "A": "Cholic acid",
+        "B": "Chenodeoxycholic acid",
+        "C": "Deoxycholic acid",
+        "D": "Glycodeoxycholic acid",
+        "Answer": "B",
+        "Source": "Most of the BAs are reabsorbed into the systemic circulation from the terminal ileum."
+    },
+    "Question_10": {
+        "Context": "The study provided insights into the effects of Ivermectin on bile acid profiles in rats.",
+        "Question": "Which bile acid levels were not significantly affected after 14 days of Ivermectin administration?",
+        "A": "Cholic acid and deoxycholic acid",
+        "B": "Glycodeoxycholic acid and taurodeoxycholic acid",
+        "C": "Chenodeoxycholic acid and deoxycholic acid",
+        "D": "Tauro-\u03b1-muricholic acid and tauro-\u03b2-muricholic acid",
+        "Answer": "B",
+        "Source": "While glycodeoxycholic acid and taurodeoxycholic acid levels were not affected."
+    }
+}

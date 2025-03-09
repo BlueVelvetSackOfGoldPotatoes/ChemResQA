@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Plasma stability of Ex4 derivatives",
+        "Question": "Which Ex4 derivative displayed the lowest plasma stability after 24 hours incubation in human plasma at 37\u00b0C?",
+        "A": "MVK-Ex4",
+        "B": "MV-MVK-Ex4",
+        "C": "MVK-MVK-Ex4",
+        "D": "Ex4",
+        "Answer": "MV-MVK-Ex4",
+        "Source": "all Ex4 derivatives equipped with a cleavable linker displayed lower plasma stabilities with 76%, 63% and 66% intact radiotracer for [111In] In-MVK-Ex4, [111In]In- MV-MVK-Ex4 and [111In]In-MVK-MVK-Ex4, respectively"
+    },
+    "Question_2": {
+        "Context": "Cell uptake and IC50 determination",
+        "Question": "Which Ex4 derivative exhibited significantly lower cell uptake after 120 minutes compared to the reference compound [111In]In-Ex4?",
+        "A": "MVK-Ex4",
+        "B": "MV-MVK-Ex4",
+        "C": "MVK-MVK-Ex4",
+        "D": "Ex4",
+        "Answer": "MV-MVK-Ex4",
+        "Source": "Interestingly, the loss in affinity of the Ex4 derivatives did not correspond to a reduced cell uptake, with the exception of [111In]In-MV-MVK-Ex4, which displayed significantly lower uptake into the cell at 120 min compared to [111In]In-Ex4"
+    },
+    "Question_3": {
+        "Context": "Biodistribution study",
+        "Question": "Which Ex4 derivative showed the highest reduction in kidney uptake compared to the reference [111In]In-Ex4 in the biodistribution study?",
+        "A": "MVK-Ex4",
+        "B": "MV-MVK-Ex4",
+        "C": "MVK-MVK-Ex4",
+        "D": "Ex4",
+        "Answer": "MV-MVK-Ex4",
+        "Source": "Highest reduction was achieved with [111In]In-MV-MVK Ex4, which displayed a 77% lower kidney uptake compared to [111In]In-Ex4"
+    },
+    "Question_4": {
+        "Context": "Biodistribution study",
+        "Question": "Which Ex4 derivative displayed the highest tumour-to-kidney ratio in the biodistribution study?",
+        "A": "MVK-Ex4",
+        "B": "MV-MVK-Ex4",
+        "C": "MVK-MVK-Ex4",
+        "D": "Ex4",
+        "Answer": "MV-MVK-Ex4",
+        "Source": "[111In]In-MV-MVK-Ex4 displays the highest tumour-to-kidney ratio, slightly outperforming [111In]In-MVK-Ex4 with only one cleavable sequence"
+    },
+    "Question_5": {
+        "Context": "Conclusion of the study",
+        "Question": "According to the study, what is a key factor in determining the efficiency of the dual MVK cleavable linker approach?",
+        "A": "Structural characteristics",
+        "B": "Binding modes",
+        "C": "Pharmacokinetics",
+        "D": "All of the above",
+        "Answer": "All of the above",
+        "Source": "our study shows that though the dual MVK cleavable linker approach is advantageous for some targeting moieties, structural characteristics as well as binding modes and the pharmacokinetics of the targeting moiety play a crucial role in determining whether it is efficient or not"
+    },
+    "Question_6": {
+        "Context": "Conclusion of the study",
+        "Question": "What is suggested as a potential strategy to further decrease radioactive kidney burden in the conclusion of the study?",
+        "A": "Optimization in terms of length and form of the linking entity",
+        "B": "Combination of an MVK sequence with other cleavable linker sequences",
+        "C": "Combination of cleavable linkers and albumin binding moieties",
+        "D": "All of the above",
+        "Answer": "All of the above",
+        "Source": "Optimization in terms of length and form of the linking entity between the dual MVK linker and the targeting structure as well as the combination of an MVK sequence with other cleavable linker sequences such as GFK or MWK are conceivable"
+    },
+    "Question_7": {
+        "Context": "Plasma stability of Ex4 derivatives",
+        "Question": "Which Ex4 derivative displayed the highest plasma stability after 24 hours incubation in human plasma at 37\u00b0C?",
+        "A": "MVK-Ex4",
+        "B": "MV-MVK-Ex4",
+        "C": "MVK-MVK-Ex4",
+        "D": "Ex4",
+        "Answer": "Ex4",
+        "Source": "Ex4 was 80% intact after 24 h incubation in human plasma at 37 \u00b0C"
+    },
+    "Question_8": {
+        "Context": "Cell uptake and IC50 determination",
+        "Question": "Which Ex4 derivative exhibited the highest IC50 value in the study?",
+        "A": "MVK-Ex4",
+        "B": "MV-MVK-Ex4",
+        "C": "MVK-MVK-Ex4",
+        "D": "Ex4",
+        "Answer": "MV-MVK-Ex4",
+        "Source": "[111In]In-MV-MVK-Ex4 displayed the lowest yet significantly increased IC50 value of 38 \u00b1 10 nM compared to 19 \u00b1 5 nM of [111In]In-Ex4"
+    },
+    "Question_9": {
+        "Context": "Biodistribution study",
+        "Question": "Which Ex4 derivative showed the lowest kidney uptake reduction compared to the reference [111In]In-Ex4 in the biodistribution study?",
+        "A": "MVK-Ex4",
+        "B": "MV-MVK-Ex4",
+        "C": "MVK-MVK-Ex4",
+        "D": "Ex4",
+        "Answer": "MVK-MVK-Ex4",
+        "Source": "In contrast to the kidney uptake, there was no significant difference in tumour uptake after 24 h, suggesting that the instillation of the cleavable linkers does not affect in vivo activation of the receptor and subsequent internalization into tumour cells"
+    },
+    "Question_10": {
+        "Context": "Conclusion of the study",
+        "Question": "What is emphasized as a crucial aspect to consider in the design of novel cleavable-linker bearing radiopharmaceuticals?",
+        "A": "Linker position",
+        "B": "Linker size",
+        "C": "Enzyme recognition and stability",
+        "D": "All of the above",
+        "Answer": "All of the above",
+        "Source": "in the design of novel cleavable-linker bearing radiopharmaceuticals, it is key to consider and test the linker position, the linker size, enzyme recognition and stability"
+    }
+}

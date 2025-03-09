@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to investigate the application of Lactobacillus plantarum (LP) and wheat bran (WB) on the fermentation characteristics, chemical composition, and microbial community of paper mulberry silage.",
+        "Question": "What was the objective of the study?",
+        "A": "To evaluate the effects of Lactobacillus plantarum and wheat bran on the growth of paper mulberry.",
+        "B": "To analyze the chemical composition of paper mulberry silage.",
+        "C": "To investigate the application of LP and WB on the fermentation quality of paper mulberry silage.",
+        "D": "To study the effects of different additives on the color of paper mulberry silage.",
+        "Answer": "C",
+        "Source": "The objective of this study was to evaluate the effects of Lactobacillus plantarum and wheat bran alone or combination (LP + WB) addition on the fermentation quality and bacterial community of paper mulberry silage."
+    },
+    "Question_2": {
+        "Context": "The study conducted an experiment on paper mulberry silage with different treatments including control, LP, WB, and LP + WB.",
+        "Question": "What were the treatments used in the experiment?",
+        "A": "Only LP and WB.",
+        "B": "Control, LP, and WB.",
+        "C": "Control, LP, WB, and LP + WB.",
+        "D": "Control and LP.",
+        "Answer": "C",
+        "Source": "The silage treatments were as followed: (i) no additives (control group, CK); (ii) application of L. plantarum (LP silage); (iii) application of wheat bran additives (WB silage); (iv) combination of L. plantarum and wheat bran (LP + WB silage)."
+    },
+    "Question_3": {
+        "Context": "The study analyzed the chemical composition of paper mulberry silage after 60 days of ensiling.",
+        "Question": "What was the main difference observed in the chemical composition of paper mulberry silage among the treatments?",
+        "A": "No difference in any chemical composition.",
+        "B": "Higher NDF content in all treatments.",
+        "C": "Lower ADF content in WB and LP + WB treatments.",
+        "D": "Higher WSC content in LP treatment.",
+        "Answer": "C",
+        "Source": "The WB and LP + WB treatments had higher ADF content changes rate than control and LP treatment, which could be due to acidolysis during ensiling process."
+    },
+    "Question_4": {
+        "Context": "The study investigated the microbial population in paper mulberry silage after 60 days of ensiling.",
+        "Question": "Which treatment showed a significant increase in lactic acid bacteria (LAB) counts?",
+        "A": "Control",
+        "B": "LP",
+        "C": "WB",
+        "D": "LP + WB",
+        "Answer": "B",
+        "Source": "The WB and LP + WB treatments significantly increased LA content and decreased pH, the contents of NH3-N, AA, BA and the amount of LAB compared with control and LP treatments."
+    },
+    "Question_5": {
+        "Context": "The study analyzed the bacterial community in paper mulberry silage after ensiling.",
+        "Question": "Which genus was the dominant in all silages?",
+        "A": "Weissella",
+        "B": "Lactobacillus",
+        "C": "Streptococcus",
+        "D": "Bacillus",
+        "Answer": "B",
+        "Source": "At the genus levels, Lactobacillus was the dominant genus in all silages, and the proportion of Lactobacillus in LP, WB and LP + WB were 84.45%, 89.27% and 86.10%, respectively."
+    },
+    "Question_6": {
+        "Context": "The study analyzed the bacterial community at the species level in paper mulberry silage.",
+        "Question": "Which species was positively correlated with lactic acid content and negatively correlated with pH?",
+        "A": "Lactobacillus farciminis",
+        "B": "Lactobacillus ginsenosidimutans",
+        "C": "Lactobacillus brevis",
+        "D": "Weissella cibaria",
+        "Answer": "C",
+        "Source": "Lactobacillus brevis was positively correlated to LA and negatively to pH, indicating that the production of LA was largely attributable to L. brevis."
+    },
+    "Question_7": {
+        "Context": "The study analyzed the dynamic changes in chemical composition of paper mulberry silage before and after ensiling.",
+        "Question": "Which treatment had the lowest dynamic change in dry matter content?",
+        "A": "Control",
+        "B": "LP",
+        "C": "WB",
+        "D": "LP + WB",
+        "Answer": "C",
+        "Source": "The dynamic change of DM, CP and WSC losses before and after ensiling in WB and LP + WB treatments was significantly lower than control and LP treatments."
+    },
+    "Question_8": {
+        "Context": "The study investigated the fermentation characteristics of paper mulberry silage.",
+        "Question": "Which treatment had the highest lactic acid content?",
+        "A": "Control",
+        "B": "LP",
+        "C": "WB",
+        "D": "LP + WB",
+        "Answer": "C",
+        "Source": "The WB and LP + WB treatments significantly increased LA content and decreased pH, the contents of NH3-N, AA, BA and the amount of LAB compared with control and LP treatments."
+    },
+    "Question_9": {
+        "Context": "The study analyzed the microbial diversity in paper mulberry silage.",
+        "Question": "Which treatment showed the highest Shannon index?",
+        "A": "Control",
+        "B": "LP",
+        "C": "WB",
+        "D": "LP + WB",
+        "Answer": "D",
+        "Source": "Compared with control, inoculations with treatments significantly increased Shannon, while the highest was 2.43 of LP + WB treatment."
+    },
+    "Question_10": {
+        "Context": "The study investigated the correlation between bacterial community and fermentation products in paper mulberry silage.",
+        "Question": "Which species was negatively correlated with lactic acid content and positively correlated with ammonia nitrogen content?",
+        "A": "Lactobacillus farciminis",
+        "B": "Lactobacillus ginsenosidimutans",
+        "C": "Lactobacillus brevis",
+        "D": "Weissella cibaria",
+        "Answer": "A",
+        "Source": "L. farciminis, L. ginsenosidimutans, L. maninotivorans, and L. dextrinicus were positively correlated to pH, AA content and AN/TN, but were negatively correlated to LA, WSC content and ratio of LA and AA."
+    }
+}

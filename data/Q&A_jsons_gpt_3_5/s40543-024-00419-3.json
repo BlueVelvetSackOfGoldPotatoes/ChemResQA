@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the pharmaceutical efficacy of Res and Res/CD on different cell cultures.",
+        "Question": "What is the abbreviation for Cyclodextrins used in the study?",
+        "A": "CDs",
+        "B": "Res",
+        "C": "ppOMBTSTS",
+        "D": "ASC",
+        "Answer": "A",
+        "Source": "Abbreviations: CDs Cyclodextrins"
+    },
+    "Question_2": {
+        "Context": "The study involved the modification of culture dishes using plasma-enhanced chemical vapor deposition.",
+        "Question": "What technique was used to modify the surface of culture dishes in the study?",
+        "A": "FTIR",
+        "B": "XPS",
+        "C": "PECVD",
+        "D": "WCA",
+        "Answer": "C",
+        "Source": "Surface modification of polystyrene Petri dishes via plasma polymerization Plasma modification experiments were conducted using the precursor octamethyl-3,5-bis(trimethylsiloxyl) tetrasiloxane (OMBTSTS) in a PECVD system."
+    },
+    "Question_3": {
+        "Context": "The study investigated the growth of HeLa cell spheroids on modified culture dishes.",
+        "Question": "What was the optimal monomer for enhancing surface construction in spheroid formation?",
+        "A": "DMCPS",
+        "B": "TMSS",
+        "C": "OMBTSTS",
+        "D": "BAEC",
+        "Answer": "C",
+        "Source": "Table 1 summarizes that OMBTSTS is an optimal monomer for enhancing surface construction, resulting in improved spheroid formation and the decreased proliferation of monolayered (2D) cells."
+    },
+    "Question_4": {
+        "Context": "The study examined the water contact angle of the treated surfaces.",
+        "Question": "What does WCA stand for in the context of the study?",
+        "A": "Water Contact Analysis",
+        "B": "Water Contact Angle",
+        "C": "Water Chemical Analysis",
+        "D": "Wet Contact Angle",
+        "Answer": "B",
+        "Source": "Water contact angle measurement The fixed-drop method (FM40 Easy Drop; KRUS GmbH, Germany) was used to measure WCA."
+    },
+    "Question_5": {
+        "Context": "The study involved the characterization of ppOMBTSTS and ppTMSS surface coatings.",
+        "Question": "What does FTIR stand for in the context of the study?",
+        "A": "Fourier Transform Infrared Spectroscopy",
+        "B": "Fast Transmission Infrared",
+        "C": "Freeze-Thaw Infrared",
+        "D": "Functional Thermal Infrared",
+        "Answer": "A",
+        "Source": "FTIR spectroscopy (Vertex 70, Bruker, USA) was performed using the attenuated total reflectance technique."
+    },
+    "Question_6": {
+        "Context": "The study examined the X-ray photoelectron spectroscopy measurements of the samples.",
+        "Question": "What technique was used to perform XPS analysis in the study?",
+        "A": "X-ray Photoelectric Spectroscopy",
+        "B": "X-ray Photon Spectroscopy",
+        "C": "X-ray Photoelectron Spectroscopy",
+        "D": "X-ray Photonic Spectroscopy",
+        "Answer": "C",
+        "Source": "X-ray photoelectron spectroscopy measurement A photoelectron spectrometer (AXIS Supra, Kratos, UK) with monochromatic Al K\u03b1 X-ray sources at 1486.6 eV was used to perform XPS analysis."
+    },
+    "Question_7": {
+        "Context": "The study focused on the generation of spheroids using different precursor types.",
+        "Question": "What was the carrier gas flow rate optimized for 3D spheroid formation?",
+        "A": "60 SCCM",
+        "B": "73 SCCM",
+        "C": "90 SCCM",
+        "D": "20 W",
+        "Answer": "A",
+        "Source": "Moreover, our data revealed that a lower carrier flow rate was more conducive to spheroid generation than a higher flow rate (60 vs. 90 SCCM) (Table 1)."
+    },
+    "Question_8": {
+        "Context": "The study investigated the apoptosis of HeLa cell spheroids.",
+        "Question": "What was used to measure caspase-3 activity in the HeLa cell spheroids?",
+        "A": "FITC",
+        "B": "DEVD",
+        "C": "FMK",
+        "D": "PI",
+        "Answer": "B",
+        "Source": "To measure caspase-3 activity, HeLa cell spheroids were treated with various reagents mentioned in the Materials and Methods sections. FITC fluorescent intensity (excitation wavelength: 485 nm, emission wavelength: 525 nm) indicates caspase-3 activity."
+    },
+    "Question_9": {
+        "Context": "The study examined the viability of cells treated with Res and Res/CD.",
+        "Question": "What was used to measure the viability of cells treated with Res and Res/CD?",
+        "A": "WST-1",
+        "B": "FTIR",
+        "C": "XPS",
+        "D": "PI",
+        "Answer": "A",
+        "Source": "To assess cell viability, cells were treated with 0\u2013100 \u03bcM Res (Sigma- Aldrich, St. Louis, MO, USA) or Res/CD and cobalt chlo- ride (CoCl2, Sigma-Aldrich) for 24 h."
+    },
+    "Question_10": {
+        "Context": "The study focused on the construction of 3D spheroids for drug evaluation.",
+        "Question": "What was the main conclusion drawn from the study regarding the efficacy of Res/CD on tumor spheroids?",
+        "A": "Res/CD selectively induced necroptosis in tumor spheroids.",
+        "B": "Res/CD was not effective in inducing cell death.",
+        "C": "Res was more effective than Res/CD in inducing apoptosis.",
+        "D": "Res/CD had no impact on 3D spheroids.",
+        "Answer": "A",
+        "Source": "Furthermore, this study reveals that non-toxic concentrations of Res/ CD selectively induce necroptosis in tumor spheroids, as opposed to 2D cancer cells."
+    }
+}

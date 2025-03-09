@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study introduces the concept of utilizing 109Pd in the form of a 109Pd/109mAg in vivo generator. The system involves beta particles and Auger electrons emitted from the radionuclides.",
+        "Question": "What is the primary advantage of using the 109Pd/109mAg in vivo generator?",
+        "A": "High tissue penetration",
+        "B": "Simultaneous emission of low- and high-LET radiation",
+        "C": "Long half-life of the radionuclides",
+        "D": "Ease of production through neutron irradiation",
+        "Answer": "B",
+        "Source": "In our concept, the 109Pd/109mAg in-vivo generator was applied in the form of Au@109Pd core\u2013shell nanoparticles. We found that complete retention of 109mAg was accomplished following the nuclear decay of the immobilized 109Pd on the AuNPs surface."
+    },
+    "Question_2": {
+        "Context": "The study discusses the synthesis of Au@109Pd nanoparticles and their stability in physiological conditions.",
+        "Question": "What was the result of the stability studies of the Au@109Pd nanoparticles in PBS and saline solutions?",
+        "A": "Agglomeration and decomposition occurred",
+        "B": "No significant changes were observed",
+        "C": "Decrease in hydrodynamic diameter",
+        "D": "Increase in zeta potential",
+        "Answer": "B",
+        "Source": "Our results revealed that no tendency to agglomeration or bioconjugate decomposition occurs during the evaluation time, thus confirming high stability of the obtained product."
+    },
+    "Question_3": {
+        "Context": "The study discusses the internalization of trastuzumab-conjugated Au@109Pd nanoparticles into cancer cells.",
+        "Question": "What is the role of trastuzumab in the internalization of Au@109Pd nanoparticles into cancer cells?",
+        "A": "Inducing cell death",
+        "B": "Facilitating cell membrane penetration",
+        "C": "Enhancing cytotoxicity of beta particles",
+        "D": "Targeting and internalization into specific cells",
+        "Answer": "D",
+        "Source": "Once we confirmed that synthesized Au@Pd-PEG-trastuzumab radiobioconjugate similarly as Au@Pt-PEG-trastuzumab and Au@-PEG-trastuzumab show its ability to recognize and specifically bind to transmembrane HER2 receptors, we investigated whether they are able to penetrate the cell membrane and successfully localize inside target cells."
+    },
+    "Question_4": {
+        "Context": "The study compares the cytotoxicity of radiobioconjugates labeled with different radionuclides.",
+        "Question": "What was the observed cytotoxicity of the Au@109Pd-trastuzumab radiobioconjugate compared to those labeled with 125I and 198Au?",
+        "A": "Lower cytotoxicity",
+        "B": "Similar cytotoxicity",
+        "C": "Higher cytotoxicity",
+        "D": "No cytotoxic effect",
+        "Answer": "C",
+        "Source": "The obtained results clearly reveal that the cytotoxicity of the 109Pd/109mAg in vivo generator-based conjugate is significantly higher than that of the conjugates radiolabeled with the same activities of beta or Auger electron emitters."
+    },
+    "Question_5": {
+        "Context": "The study discusses the advantages and challenges of using the 109Pd/109mAg in vivo generator.",
+        "Question": "What is one potential challenge mentioned in the study regarding the application of the 109Pd/109mAg in vivo generator?",
+        "A": "Limited tumor uptake",
+        "B": "High blood clearance",
+        "C": "Toxic radiation exposure of organs",
+        "D": "Ease of production",
+        "Answer": "C",
+        "Source": "Due to the quite large size and considerable accumulation of the radiolabeled nanoconstructs in the liver, lungs, and spleen, as well as fast blood clearance, toxic radiation exposure of these organs, and reduced tumor uptake, intravenous administration route of Au@109Pd-trastuzumab is excluded."
+    },
+    "Question_6": {
+        "Context": "The study mentions the potential of the 109Pd/109mAg in vivo generator for targeted radionuclide therapy.",
+        "Question": "What is the primary advantage of using the 109Pd/109mAg in vivo generator for therapy?",
+        "A": "High tissue penetration",
+        "B": "Simultaneous emission of low- and high-LET radiation",
+        "C": "Long half-life of the radionuclides",
+        "D": "Ease of production through neutron irradiation",
+        "Answer": "B",
+        "Source": "Due to both components decay (beta and conversion/Auger electrons), the 109Pd/109mAg in vivo generator presents unique potential in this field."
+    },
+    "Question_7": {
+        "Context": "The study discusses the stability of the synthesized radiobioconjugates in physiological conditions.",
+        "Question": "What was the result of the chemical stability studies of the bioconjugate in PBS and saline solutions?",
+        "A": "Agglomeration and decomposition occurred",
+        "B": "No significant changes were observed",
+        "C": "Decrease in hydrodynamic diameter",
+        "D": "Increase in zeta potential",
+        "Answer": "B",
+        "Source": "Our results revealed that no tendency to agglomeration or bioconjugate decomposition occurs during the evaluation time, thus confirming high stability of the obtained product."
+    },
+    "Question_8": {
+        "Context": "The study discusses the internalization of radiobioconjugates into cancer cells.",
+        "Question": "What is the role of trastuzumab in the internalization of Au@109Pd-trastuzumab into cancer cells?",
+        "A": "Inducing cell death",
+        "B": "Facilitating cell membrane penetration",
+        "C": "Enhancing cytotoxicity of beta particles",
+        "D": "Targeting and internalization into specific cells",
+        "Answer": "D",
+        "Source": "Once we confirmed that synthesized Au@Pd-PEG-trastuzumab radiobioconjugate similarly as Au@Pt-PEG-trastuzumab and Au@-PEG-trastuzumab show its ability to recognize and specifically bind to transmembrane HER2 receptors, we investigated whether they are able to penetrate the cell membrane and successfully localize inside target cells."
+    },
+    "Question_9": {
+        "Context": "The study compares the cytotoxicity of radiobioconjugates labeled with different radionuclides.",
+        "Question": "What was the observed cytotoxicity of the Au@109Pd-trastuzumab radiobioconjugate compared to those labeled with 125I and 198Au?",
+        "A": "Lower cytotoxicity",
+        "B": "Similar cytotoxicity",
+        "C": "Higher cytotoxicity",
+        "D": "No cytotoxic effect",
+        "Answer": "C",
+        "Source": "The obtained results clearly reveal that the cytotoxicity of the 109Pd/109mAg in vivo generator-based conjugate is significantly higher than that of the conjugates radiolabeled with the same activities of beta or Auger electron emitters."
+    },
+    "Question_10": {
+        "Context": "The study discusses the advantages and challenges of using the 109Pd/109mAg in vivo generator.",
+        "Question": "What is one potential challenge mentioned in the study regarding the application of the 109Pd/109mAg in vivo generator?",
+        "A": "Limited tumor uptake",
+        "B": "High blood clearance",
+        "C": "Toxic radiation exposure of organs",
+        "D": "Ease of production",
+        "Answer": "C",
+        "Source": "Due to the quite large size and considerable accumulation of the radiolabeled nanoconstructs in the liver, lungs, and spleen, as well as fast blood clearance, toxic radiation exposure of these organs, and reduced tumor uptake, intravenous administration route of Au@109Pd-trastuzumab is excluded."
+    }
+}

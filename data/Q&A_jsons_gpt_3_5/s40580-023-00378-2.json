@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the evolution and performance of polymer MRR design for ultrasound detection. ",
+        "Question": "What is a key advantage of using polymer micro-ring resonators (MRRs) for ultrasound detection?",
+        "A": "High cost-effectiveness",
+        "B": "Low sensitivity",
+        "C": "Broad detection frequency range",
+        "D": "Limited detection bandwidth",
+        "Answer": "C",
+        "Source": "In particular, polymer micro-ring resonators (MRRs) in the form of integrated photonic circuits (IPC) enable significant reduction for the sensing area to 80 \u03bcm in diameter, while maintaining highly sensitive ultrasound detection with noise equivalent pressure (NEP) of 0.49 Pa and a broad detection frequency range up to 250 MHz."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the fabrication methods and performance of polymer MRRs for ultrasound detection.",
+        "Question": "Which fabrication method was used to achieve a Q-factor of 1.0 \u00d7 105 at 1.55 \u03bcm for the polymer MRR ultrasound detector?",
+        "A": "Nanoimprint lithography (NIL)",
+        "B": "Electron beam lithography (EBL)",
+        "C": "Soft nanoimprint lithography (sNIL)",
+        "D": "Maskless nanolithography",
+        "Answer": "C",
+        "Source": "They further improved the Q-factor of the MRR from 3.5 \u00d7 104 to 4.6 \u00d7 104 by changing the protection material from PDMS to the low refractive index polymer (MY-131-MC, MY Polymer)."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the application of polymer MRRs for photoacoustic microscopy.",
+        "Question": "What is the axial resolution achieved in photoacoustic imaging using the polymer MRR ultrasound detector?",
+        "A": "2.12 \u03bcm",
+        "B": "5.3 \u03bcm",
+        "C": "6.8 \u03bcm",
+        "D": "10 \u03bcm",
+        "Answer": "A",
+        "Source": "The MRR ultrasound detector used in this study exhibited detection frequency bandwidth from DC to 140 MHz, which resulted in a significantly improved axial resolution of 2.12 \u03bcm."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the advantages of using polymer MRRs for ultrasound detection.",
+        "Question": "What is a key benefit of the polymer MRR ultrasound detector for PA imaging applications?",
+        "A": "High scattering loss",
+        "B": "Low detection sensitivity",
+        "C": "Improved lateral resolution",
+        "D": "Narrow detection frequency range",
+        "Answer": "C",
+        "Source": "The thin form-factor of the MRR ultrasound detector can be used with the high-NA objective lens, enabling improved lateral resolution of 0.73 \u03bcm."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the performance of polymer MRRs for ultrasound detection in various applications.",
+        "Question": "What was the NEP achieved by the polymer MRR ultrasound detector for PA endoscopy?",
+        "A": "6.8 Pa",
+        "B": "352 Pa",
+        "C": "0.49 Pa",
+        "D": "21.4 Pa",
+        "Answer": "C",
+        "Source": "Their MRR ultrasound detector achieved the axial resolution of 3.57 \u03bcm and the NEP of 0.49 Pa in the frequency bandwidth of 166 MHz."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the advancements in polymer MRR design for ultrasound detection.",
+        "Question": "What was the Q-factor achieved at 780 nm for the polymer MRR ultrasound detector?",
+        "A": "3.0 \u00d7 105",
+        "B": "1.0 \u00d7 104",
+        "C": "6.0 \u00d7 103",
+        "D": "5.0 \u00d7 103",
+        "Answer": "A",
+        "Source": "They further improved the Q-factor of the MRR from 3.5 \u00d7 104 to 4.6 \u00d7 104 by changing the protection material from PDMS to the low refractive index polymer (MY-131-MC, MY Polymer)."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the application of polymer MRRs for photoacoustic computed tomography.",
+        "Question": "What was the lateral resolution achieved in photoacoustic computed tomography using the polymer MRR ultrasound detector?",
+        "A": "114 \u03bcm",
+        "B": "209 \u03bcm",
+        "C": "305 \u03bcm",
+        "D": "150 \u03bcm",
+        "Answer": "A",
+        "Source": "They further improved the Q-factor of the MRR from 3.5 \u00d7 104 to 4.6 \u00d7 104 by changing the protection material from PDMS to the low refractive index polymer (MY-131-MC, MY Polymer)."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the performance of polymer MRRs for in vivo imaging applications.",
+        "Question": "What was the NEP achieved by the polymer MRR ultrasound detector for in vivo PACT imaging?",
+        "A": "0.49 Pa",
+        "B": "21.4 Pa",
+        "C": "88 Pa",
+        "D": "100 Pa",
+        "Answer": "A",
+        "Source": "Their MRR ultrasound detector achieved the axial resolution of 3.57 \u03bcm and the NEP of 0.49 Pa in the frequency bandwidth of 166 MHz."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the long-term stability of polymer MRRs for in vivo imaging applications.",
+        "Question": "What was the marginal reduction in the Q-factor of the MRR mounted on the mouse's forehead over a 28-day period?",
+        "A": "3.5 \u00d7 104 to 4.6 \u00d7 104",
+        "B": "4.2 \u00d7 104 to 3.6 \u00d7 104",
+        "C": "1.0 \u00d7 105 to 1.4 \u00d7 105",
+        "D": "6.0 \u00d7 103 to 7.0 \u00d7 103",
+        "Answer": "B",
+        "Source": "The Q-factor of the MRR shows marginal reduction from 4.2 \u00d7 104 to 3.6 \u00d7 104 over the 28-day-period, which confirms the stability of the ultrasound detector for in vivo applications."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the advancements in polymer MRR design for in vivo imaging applications.",
+        "Question": "What was the lateral resolution achieved in in vivo PACT imaging using the polymer MRR ultrasound detector?",
+        "A": "114 \u03bcm",
+        "B": "209 \u03bcm",
+        "C": "305 \u03bcm",
+        "D": "150 \u03bcm",
+        "Answer": "A",
+        "Source": "They achieved the lateral resolution of 114 \u03bcm and the axial resolution of 57 \u03bcm in the frequency bandwidth of 23 MHz using the PS MRR with the Q-factor of 4.6 \u00d7 104."
+    }
+}

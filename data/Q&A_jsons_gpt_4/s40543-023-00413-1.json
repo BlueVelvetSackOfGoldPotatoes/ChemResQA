@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In the field of zoology and related sciences, identifying the ontogenetic age of animals is crucial for understanding their life history. One method to assess the age of vertebrates is through the examination of bone surface textures, which change as the animal grows.",
+        "Question": "What is textural ageing in the context of vertebrate bones?",
+        "A": "The process of bone erosion due to environmental factors",
+        "B": "The identification of age-related bone surface textures",
+        "C": "The fossilization process of bone material",
+        "D": "The genetic changes in bone composition over time",
+        "Answer": "B",
+        "Source": "Textural ageing\u2014the identification of age-related bone surface textures\u2014provides a size-independent method for age assessment of vertebrate material."
+    },
+    "Question_2": {
+        "Context": "In vertebrate ontogeny, bone surface textures can serve as indicators of age. These textures are influenced by the bone's vascular network, which changes as the animal matures.",
+        "Question": "How does the vascular network of bones affect their surface texture during ontogeny?",
+        "A": "A dense vascular network leads to decreased bone surface roughness",
+        "B": "A dense vascular network has no effect on bone surface roughness",
+        "C": "A dense vascular network leads to increased bone surface roughness",
+        "D": "The vascular network only affects bone color, not texture",
+        "Answer": "C",
+        "Source": "Bones of skeletally immature (i.e. younger) individuals have generally higher growth rates, thus producing a dense vascular network for nutrient transport which translates to increased bone surface roughness."
+    },
+    "Question_3": {
+        "Context": "The roughness of bone surfaces can be quantified using various parameters. Two commonly applied roughness parameters are 'average roughness' for 2D surfaces (Ra) and for 3D surfaces (Sa).",
+        "Question": "What do higher Ra and Sa values indicate about a bone's surface?",
+        "A": "Smoother surface with fewer peaks and valleys",
+        "B": "Rougher surface with more pronounced valleys and peaks",
+        "C": "The bone is more likely to be from a marine animal",
+        "D": "The bone has undergone fossilization",
+        "Answer": "B",
+        "Source": "Ra and Sa values are calculated as the arithmetical mean deviation of valleys and peaks in a measured surface profile. Higher Ra/Sa values correspond to more pronounced valleys and peaks, and thus a rougher surface topography."
+    },
+    "Question_4": {
+        "Context": "In the study of bone surface textures, peak (Rp) and valley (Rv) heights, as well as their difference (Rz), are analyzed to provide an accurate quantification of bone surface roughness.",
+        "Question": "What does a higher Rz value signify in the context of bone surface roughness?",
+        "A": "A smoother bone surface with less pronounced features",
+        "B": "A more uniform bone surface with consistent textural patterns",
+        "C": "A rougher bone surface with greater variation in peak and valley heights",
+        "D": "The bone is less likely to be from a terrestrial animal",
+        "Answer": "C",
+        "Source": "Likewise, we incorporate peak (Rp) and valley (Rv) heights as well as their difference (Rz) when analysing the different roughness patterns to provide an accurate quantification of bone surface roughness."
+    },
+    "Question_5": {
+        "Context": "The roughness of bone surfaces can be indicative of different ontogenetic stages in vertebrates. This roughness is quantified using various parameters that reflect the topography of the bone surface.",
+        "Question": "Which ontogenetic stage is typically characterized by the highest roughness in bone surface textures?",
+        "A": "Skeletally mature adults",
+        "B": "Juveniles transitioning to adulthood",
+        "C": "Hatchlings shortly after birth",
+        "D": "Chicks showing rapid growth",
+        "Answer": "D",
+        "Source": "Chicks have the highest average Ra (11.5 \u00b5m) and adults the lowest (3.4 \u00b5m). Hatchlings and juveniles both have intermediate Ra values (5.4 and 8.8 \u00b5m, respectively)."
+    },
+    "Question_6": {
+        "Context": "In vertebrate ontogeny, the growth rate of an animal can be reflected in the roughness of its bone surfaces. This relationship is often observed in the changing roughness values throughout the animal's development.",
+        "Question": "How does the growth rate of a vertebrate typically correlate with bone surface roughness?",
+        "A": "Higher growth rates are associated with smoother bone surfaces",
+        "B": "Growth rate has no correlation with bone surface roughness",
+        "C": "Higher growth rates are associated with rougher bone surfaces",
+        "D": "Bone surface roughness only correlates with the animal's diet",
+        "Answer": "C",
+        "Source": "The observed decrease coincides with the loss of superficial grooves and pits during the attainment of skeletal maturity. This pattern is not only observed in the ontogenetic series of Ardea cinerea (Figs. 3 and 4), but it even shows within the adult stage of Branta canadensis (Fig. 6) where qualitative inspection fails to distinguish the subtle roughness differences."
+    },
+    "Question_7": {
+        "Context": "The study of bone surface textures involves the use of digital microscopy, which allows for high-resolution measurements of surface topography. This technology is used to quantify roughness parameters in accordance with international standards.",
+        "Question": "What role does digital microscopy play in the analysis of bone surface textures?",
+        "A": "It is used to determine the color variations in bone surfaces",
+        "B": "It is used to identify the presence of bone marrow",
+        "C": "It is used for high-resolution measurements of surface topography",
+        "D": "It is used to estimate the weight of the bone",
+        "Answer": "C",
+        "Source": "A Keyence VHX-6000 digital microscope housed at the Department of Imaging Physics, Faculty of Applied Sciences of the Delft University of Technology was used for the analysis of bone surface roughness. This setup allows for high resolution 2D and 3D measurements to register small variations in surface topography."
+    },
+    "Question_8": {
+        "Context": "In the quantitative analysis of bone surface roughness, the standardization of measuring protocols is important to ensure consistency and accuracy across different samples and studies.",
+        "Question": "Why is standardization of measuring protocols important in the quantitative analysis of bone surface roughness?",
+        "A": "To ensure that the bone remains intact during measurement",
+        "B": "To guarantee that the measurements are consistent and accurate",
+        "C": "To prevent the bone from being classified as a fossil",
+        "D": "To increase the speed of the measurement process",
+        "Answer": "B",
+        "Source": "This work further highlights the importance of following a standardised measuring protocol when analysing quantitative roughness data, at least when using digital microscopy."
+    },
+    "Question_9": {
+        "Context": "The roughness of bone surfaces can be affected by taphonomic processes, such as erosion and weathering, which may alter the original texture of the bone.",
+        "Question": "What are taphonomic processes, and how might they affect bone surface roughness?",
+        "A": "Processes related to bone growth that increase roughness",
+        "B": "Processes related to bone healing that smooth out the surface",
+        "C": "Environmental processes that can alter the original bone texture",
+        "D": "Genetic processes that change bone density",
+        "Answer": "C",
+        "Source": "As taphonomic processes such as long-term erosion and weathering damage may significantly compromise the bone surface texture on fossil specimens, our dataset focusses first on modern taxa of which textural ageing patterns have already been established in previous studies."
+    },
+    "Question_10": {
+        "Context": "In the context of bone analysis, the roughness parameters Ra and Sa are used to quantify the average roughness of 2D and 3D bone surfaces, respectively.",
+        "Question": "What is the difference between Ra and Sa roughness parameters?",
+        "A": "Ra measures the color variation, while Sa measures the texture variation",
+        "B": "Ra measures the density of the bone, while Sa measures the porosity",
+        "C": "Ra is used for 2D surfaces, while Sa is for 3D surfaces",
+        "D": "Ra represents the age of the bone, while Sa represents the growth rate",
+        "Answer": "C",
+        "Source": "While these ISO standards provide a wide range of parameters quantifying surface textures, we chose to focus on the commonly applied roughness parameters including the \u2018average roughness\u2019 (\u2018Ra\u2019 for 2D surfaces and \u2018Sa\u2019 for 3D surfaces)."
+    }
+}

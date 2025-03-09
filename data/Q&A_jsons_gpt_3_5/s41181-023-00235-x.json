@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study aimed to develop a radiolabeled anti-TROP-2 antibody for immunoPET and SPECT imaging in TNBC tumor-bearing models. Results showed high binding affinity of NY003 to TROP-2 through ELISA.",
+        "Question": "What is the main purpose of developing the radiolabeled anti-TROP-2 antibody NY003?",
+        "A": "To study the biodistribution of TROP-2 in tumors",
+        "B": "To predict the response to immunotherapy in TNBC patients",
+        "C": "To non-invasively detect TROP-2 expression in tumors",
+        "D": "To evaluate the efficacy of chemotherapy in TNBC",
+        "Answer": "C",
+        "Source": "The study aimed to develop a 89Zr/177Lu-radiolabeled anti-TROP-2 antibody NY003 for immunoPET and SPECT imaging in TNBC tumor-bearing model."
+    },
+    "Question_2": {
+        "Context": "The radiolabeling synthesis methods for [89Zr]Zr-DFO-NY003 and [177Lu]Lu-DTPA-NY003 were similar to the previous reports of NY004. The radiochemical purity of [89Zr]Zr-DFO-NY003/[177Lu]Lu-DTPA-NY003 exceeded 95% and remained stable within 144h p.i. in vitro.",
+        "Question": "What was the radiochemical purity of [89Zr]Zr-DFO-NY003/[177Lu]Lu-DTPA-NY003?",
+        "A": "Less than 50%",
+        "B": "Around 70%",
+        "C": "Exceeded 95%",
+        "D": "Exactly 100%",
+        "Answer": "C",
+        "Source": "The radiochemical purity of [89Zr]Zr-DFO-NY003/[177Lu]Lu-DTPA-NY003 exceeded 95% and remained stable within 144h p.i. in vitro."
+    },
+    "Question_3": {
+        "Context": "MDA-MB-231 xenograft tumor-bearing models were established for imaging and therapeutic efficacy investigation. The expression level of xenograft tumors was determined by IHC, all the samples demonstrated weak to moderate positive TROP-2 expression.",
+        "Question": "How was the TROP-2 expression level in the MDA-MB-231 xenograft tumors characterized?",
+        "A": "Strong positive expression",
+        "B": "Negative expression",
+        "C": "Moderate positive expression",
+        "D": "Variable expression",
+        "Answer": "C",
+        "Source": "The expression level of xenograft tumors was determined by IHC, all the samples demonstrated weak to moderate positive TROP-2 expression."
+    },
+    "Question_4": {
+        "Context": "The mice were intravenously injected with 5.55\u20137.4 MBq of [89Zr]Zr-DFO-NY003 via the tail vein, and the Micro-PET scans were performed at different time points p.i.. The representative Micro-PET images of tumor-bearing mice were summarized.",
+        "Question": "What was the main advantage of using 89Zr for radiolabeling in the study?",
+        "A": "Short half-life",
+        "B": "Low \u03b2 energy",
+        "C": "High \u03b3-energy",
+        "D": "Good spatial resolution",
+        "Answer": "D",
+        "Source": "89Zr is one of the most ideal choices because of its relatively long physical half-life, which is a good match for antibody pharmacokinetics. Moreover, the high \u03b3-energy and good spatial resolution of 89Zr result in high-resolution and excellent-quality PET images."
+    },
+    "Question_5": {
+        "Context": "The mice in the low-dose and high-dose groups were injected with [177Lu] Lu-DTPA-NY003 of 11.1 or 18.5 MBq (200 \u03bcL), and the three control groups were injected with 177LuCl3 solution, non-labeled NY003 antibody, or saline, respectively.",
+        "Question": "What was the purpose of injecting the mice with [177Lu]Lu-DTPA-NY003?",
+        "A": "To study the biodistribution of TROP-2 in tumors",
+        "B": "To evaluate the efficacy of chemotherapy in TNBC",
+        "C": "To predict the response to immunotherapy in TNBC patients",
+        "D": "To suppress tumor growth through RIT",
+        "Answer": "D",
+        "Source": "To evaluate the anti-tumor efficacy of [177Lu]Lu-DTPA-NY003, a pilot experiment was conducted using five groups of the TROP-2-overexpressing MDA-MB-231 tumor-bearing mice."
+    },
+    "Question_6": {
+        "Context": "The hematological analysis and histological staining results proved that [177Lu]Lu-DTPA-NY003 could kill tumor cells while causing minimal toxicity to other healthy tissues and organs.",
+        "Question": "What was observed in the liver and spleen after treatment with [177Lu]Lu-DTPA-NY003?",
+        "A": "Necrosis",
+        "B": "Hemorrhage",
+        "C": "Congestion",
+        "D": "Fibrosis",
+        "Answer": "C",
+        "Source": "Hepatic congestion and splenic white pulp atrophy were observed in low- and high-dose and NY003-only groups, illustrating some toxic effects after RIT treatment."
+    },
+    "Question_7": {
+        "Context": "The study demonstrated that [89Zr]Zr-DFO-NY003/[177Lu]Lu-DTPA-NY003 could non-invasively detect the expression of TROP-2 in tumors through specific immun- oPET and SPECT imaging.",
+        "Question": "What was the main advantage of using immunoPET and SPECT imaging in the study?",
+        "A": "Invasiveness",
+        "B": "Specificity",
+        "C": "Resolution",
+        "D": "Sensitivity",
+        "Answer": "B",
+        "Source": "The study demonstrated that [89Zr]Zr-DFO-NY003/[177Lu]Lu-DTPA-NY003 could non-invasively detect the expression of TROP-2 in tumors through specific immunoPET and SPECT imaging."
+    },
+    "Question_8": {
+        "Context": "The study aimed to develop a radiolabeled anti-TROP-2 antibody for immunoPET and SPECT imaging in TNBC tumor-bearing models. Results showed high binding affinity of NY003 to TROP-2 through ELISA.",
+        "Question": "What was the method used to determine the binding affinity of NY003 to TROP-2?",
+        "A": "Immunohistochemistry",
+        "B": "Flow cytometry",
+        "C": "ELISA",
+        "D": "Western blot",
+        "Answer": "C",
+        "Source": "The high binding affinity of NY003 to TROP-2 was verified through ELISA."
+    },
+    "Question_9": {
+        "Context": "The mice were anesthetized with 3% (v/v) isoflurane and underwent Micro-PET or Micro-SPECT scans with continuous 1% (v/v) isoflurane. The images were acquired at different time points p.i..",
+        "Question": "What was the purpose of anesthetizing the mice during the imaging scans?",
+        "A": "To reduce pain",
+        "B": "To improve image quality",
+        "C": "To prevent movement artifacts",
+        "D": "To enhance contrast",
+        "Answer": "C",
+        "Source": "The mice were anesthetized with 3% (v/v) isoflurane and underwent Micro-PET or Micro-SPECT scans with continuous 1% (v/v) isoflurane."
+    },
+    "Question_10": {
+        "Context": "The study demonstrated that [89Zr]Zr-DFO-NY003/[177Lu]Lu-DTPA-NY003 could non-invasively detect the expression of TROP-2 in tumors through specific immun- oPET and SPECT imaging.",
+        "Question": "What was the main benefit of using [177Lu]Lu-DTPA-NY003 in the study?",
+        "A": "To study the biodistribution of TROP-2 in tumors",
+        "B": "To predict the response to immunotherapy in TNBC patients",
+        "C": "To suppress tumor growth through RIT",
+        "D": "To evaluate the efficacy of chemotherapy in TNBC",
+        "Answer": "C",
+        "Source": "The study demonstrated that [177Lu]Lu-DTPA-NY003 could suppress tumor growth through RIT in TROP-2 over-expression TNBC models."
+    }
+}

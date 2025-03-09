@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Polyethylene terephthalate (PET) is a common plastic material that accumulates as waste, posing environmental threats. Biodegradation of PET using enzymes is a green approach to mitigate this issue.",
+        "Question": "What is the primary product of PET hydrolysis by PETase?",
+        "A": "Bis(2-hydroxyethyl) terephthalate (BHET)",
+        "B": "Mono(2-hydroxyethyl) terephthalate (MHET)",
+        "C": "Terephthalic acid (TPA)",
+        "D": "Ethylene glycol",
+        "Answer": "B",
+        "Source": "IsPETase could efficiently hydrolyse the ester bond of PET under ambient temperatures to generate bis(2-hydroxyethyl) terephthalate (BHET), mono(2-hydroxyethyl) terephthalate (MHET) and terephthalic acid (TPA), and the most abundant hydrolytic product MHET could be further broken down into TPA and ethylene glycol by another enzyme, MHETase."
+    },
+    "Question_2": {
+        "Context": "Enzymes that degrade PET, known as PETases, can be displayed on the surface of microbial cells to facilitate PET biodegradation.",
+        "Question": "Which protein is commonly used as an anchor for displaying proteins on the surface of E. coli cells?",
+        "A": "Ice-nucleation protein (INP)",
+        "B": "AIDA-I",
+        "C": "YeeJ",
+        "D": "OmpA",
+        "Answer": "A",
+        "Source": "To achieve effective surface display of these adhesive proteins, ice-nucleation protein (INP), an outer membrane protein of Pseudomonas syringae, was employed to facilitate the process."
+    },
+    "Question_3": {
+        "Context": "Adhesive proteins can be used to enhance the binding of enzymes to PET surfaces, which is a critical step in the enzymatic degradation of PET.",
+        "Question": "What type of interactions do mussel adhesive proteins form with polymer surfaces?",
+        "A": "Hydrogen bonding",
+        "B": "Hydrophobic interactions",
+        "C": "\u03c0-\u03c0 and cation-\u03c0 interactions",
+        "D": "Ionic bonding",
+        "Answer": "C",
+        "Source": "The other is mfp-3, a type of mussel adhesive protein with only 46 amino acids. This protein is known to form strong \u03c0-\u03c0 and cation-\u03c0 interactions with polystyrene (PS) and polymethylmethacrylate (PMMA)."
+    },
+    "Question_4": {
+        "Context": "In the context of PET biodegradation, the substrate binding process is crucial for the enzymatic hydrolysis of PET.",
+        "Question": "What is the main limitation of PETases in binding to the PET substrate?",
+        "A": "Lack of specific substrate binding domains",
+        "B": "Insufficient hydrolytic activity",
+        "C": "Inability to function at ambient temperatures",
+        "D": "Rapid degradation by environmental factors",
+        "Answer": "A",
+        "Source": "Yet, it remains as a difficult task because all available PETases lack specific substrate binding domains."
+    },
+    "Question_5": {
+        "Context": "The degradation of PET by enzymes results in the formation of intermediate and final degradation products.",
+        "Question": "Which enzyme is responsible for further breaking down MHET into TPA and ethylene glycol?",
+        "A": "PETase",
+        "B": "INPase",
+        "C": "MHETase",
+        "D": "AIDAase",
+        "Answer": "C",
+        "Source": "IsPETase could efficiently hydrolyse the ester bond of PET under ambient temperatures to generate bis(2-hydroxyethyl) terephthalate (BHET), mono(2-hydroxyethyl) terephthalate (MHET) and terephthalic acid (TPA), and the most abundant hydrolytic product MHET could be further broken down into TPA and ethylene glycol by another enzyme, MHETase."
+    },
+    "Question_6": {
+        "Context": "The efficiency of PET biodegradation systems can be improved by engineering microbial cells to display both adhesive proteins and PET-degrading enzymes.",
+        "Question": "What is the expected outcome of co-displaying adhesive proteins and PETase on the surface of E. coli cells?",
+        "A": "Reduced adhesion to PET",
+        "B": "Increased PET degradation efficiency",
+        "C": "Decreased stability of PETase",
+        "D": "Inhibition of PETase activity",
+        "Answer": "B",
+        "Source": "Through the engineering of co-display systems in E. coli cells, PET degradation efficiency was significantly increased compared to E. coli cells with sole display of Fast-PETase and free enzyme."
+    },
+    "Question_7": {
+        "Context": "The use of whole cell systems for PET biodegradation offers several advantages over free enzymes.",
+        "Question": "Which of the following is NOT a limitation of using free enzymes for PET biodegradation?",
+        "A": "Instability",
+        "B": "Time-consuming purification process",
+        "C": "High efficiency in substrate binding",
+        "D": "Production of environmentally harmful effluent",
+        "Answer": "C",
+        "Source": "To overcome the limitations of using free enzymes, such as instability and time-consuming purification process, various whole cell systems have been constructed for PET biodegradation using the PETases from different sources."
+    },
+    "Question_8": {
+        "Context": "The surface properties of PET influence the binding and degradation by PETases.",
+        "Question": "Why is it necessary for PETases to bind with the surface of PET before hydrolysis can occur?",
+        "A": "To prevent the PET from dissolving in water",
+        "B": "To facilitate the surface erosion process for enzymatic PET hydrolysis",
+        "C": "To enhance the solubility of PET in organic solvents",
+        "D": "To increase the thermal stability of PET",
+        "Answer": "B",
+        "Source": "Because PET is an insoluble polymer with a hydrophobic and smooth surface, it is necessary for PETases to bind with the surface of PET before hydrolysis taking place based on the surface erosion process for enzymatic PET hydrolysis."
+    },
+    "Question_9": {
+        "Context": "Marine organism-derived adhesive proteins have been explored for their potential to enhance the biodegradation of PET by facilitating stronger adhesion to PET surfaces.",
+        "Question": "Which marine organism-derived adhesive protein is known for its strong underwater adhesion ability?",
+        "A": "cp52k from stalked barnacle",
+        "B": "mfp-3 from mussels",
+        "C": "INP from Pseudomonas syringae",
+        "D": "AIDA-I from E. coli",
+        "Answer": "A",
+        "Source": "The first one is cp52k from stalked barnacle Pollicipes pollicipes, a hydrophobic protein belonging to barnacle cement proteins (CP) and vital for the underwater adhesion of stalked barnacles."
+    },
+    "Question_10": {
+        "Context": "The degradation rate of PET by engineered microbial systems can be quantified to evaluate their efficiency.",
+        "Question": "How is the degradation rate of PET typically calculated in enzymatic biodegradation studies?",
+        "A": "By measuring the increase in biomass of the microbial cells",
+        "B": "By quantifying the residual PET after a certain period",
+        "C": "By determining the molar amount of degradation products",
+        "D": "By assessing the change in molecular weight of PET",
+        "Answer": "C",
+        "Source": "The degradation rate (%) of PET was calculated according to following equation: [n(TPA) + n(MHET) + n(BHET)] \u00d7 [M(MHET) \u2212 M(H2O)] / m(PET) \u00d7 100 = Degradation(%)"
+    }
+}

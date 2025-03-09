@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the impact of different parameters on the morphological stability of a solidification front.",
+        "Question": "What is the necessary requirement for purification in a solidification process?",
+        "A": "Morphologically stable solidification front",
+        "B": "High solidification velocity",
+        "C": "Low temperature gradient",
+        "D": "Cellular growth morphology",
+        "Answer": "A",
+        "Source": "This is the only way to enable macroscopic separation of the impurities, e.g. by convection."
+    },
+    "Question_2": {
+        "Context": "The paper explores the impact of temperature gradient and solidification velocity on the refinement process.",
+        "Question": "What thermodynamic property is crucial for the morphological stability of a solid/liquid interface in a multicomponent system?",
+        "A": "Diffusion length",
+        "B": "Diffusion coefficient",
+        "C": "Segregation coefficient",
+        "D": "Interface energy",
+        "Answer": "C",
+        "Source": "The morphological stability of the growth front depends on the temperature gradient G at the solidification front, the velocity of the solidification front V, the solidification interval \u0394T0, the diffusion length lD, and the diffusion coefficient in the melt Dl."
+    },
+    "Question_3": {
+        "Context": "The study investigates the refinement process of aluminum with impurities.",
+        "Question": "What is the main factor that determines whether a solidification front remains planar or transitions to a cellular morphology?",
+        "A": "Temperature gradient",
+        "B": "Solidification velocity",
+        "C": "Diffusion length",
+        "D": "Diffusion coefficient",
+        "Answer": "A",
+        "Source": "A high temperature gradient and a low velocity of the solidification front have a stabilizing effect on the interface."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the energy efficiency of the refinement process.",
+        "Question": "How can the energy efficiency of the process be estimated?",
+        "A": "By calculating the solid thermal conductivity",
+        "B": "By measuring the solidification interval",
+        "C": "By determining the heat flux through the cooling finger device",
+        "D": "By analyzing the diffusion coefficient in the melt",
+        "Answer": "C",
+        "Source": "The energy efficiency of the process can be estimated by the heat flux through the cooling finger device."
+    },
+    "Question_5": {
+        "Context": "The study focuses on the impact of the initial transient on the refinement process.",
+        "Question": "What leads to larger initial growth velocities compared to the final steady state?",
+        "A": "Nucleation undercooling",
+        "B": "High solidification velocity",
+        "C": "Low temperature gradient",
+        "D": "Cellular growth morphology",
+        "Answer": "A",
+        "Source": "The nucleation undercooling leads to larger initial growth velocities compared to the final steady state."
+    },
+    "Question_6": {
+        "Context": "The paper investigates the refinement process using phase field simulations.",
+        "Question": "What is the key condition for a stable planar growth front in the refinement process?",
+        "A": "High solidification velocity",
+        "B": "Low temperature gradient",
+        "C": "Large diffusion length",
+        "D": "High diffusion coefficient",
+        "Answer": "B",
+        "Source": "The morphological stability criteria from solidification theory suggests large temperature gradients and low solidification velocities for a planar front."
+    },
+    "Question_7": {
+        "Context": "The study explores the impact of the boundary layer thickness on the refinement process.",
+        "Question": "What is essential for long-range impurity transport in the melt?",
+        "A": "Diffusion length",
+        "B": "Diffusion coefficient",
+        "C": "Convection",
+        "D": "Interface energy",
+        "Answer": "C",
+        "Source": "Long-range transport by melt convection is essential for the refinement process."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the refinement process using a 1D temperature field calculation.",
+        "Question": "What leads to a morphological instability in the early stages of the process?",
+        "A": "High solidification velocity",
+        "B": "Low temperature gradient",
+        "C": "Nucleation undercooling",
+        "D": "Cellular growth pattern",
+        "Answer": "D",
+        "Source": "The nucleation undercooling leads to larger initial growth velocities compared to the final steady state and thus may lead to a morphological instability in the early stages."
+    },
+    "Question_9": {
+        "Context": "The study investigates the impact of the initial transient on the refinement process.",
+        "Question": "What is crucial for the refinement process efficiency in terms of the initial growth period?",
+        "A": "High nucleation undercooling",
+        "B": "Large solidification interval",
+        "C": "Stable planar growth front",
+        "D": "Cellular growth morphology",
+        "Answer": "C",
+        "Source": "The results demonstrate the impact of the initial transient on the refinement, hence on the process efficiency."
+    },
+    "Question_10": {
+        "Context": "The paper explores the refinement process using phase field simulations.",
+        "Question": "What is necessary to prevent cellular growth patterns in the early stages of the process?",
+        "A": "Low temperature gradient",
+        "B": "High solidification velocity",
+        "C": "Large diffusion length",
+        "D": "High diffusion coefficient",
+        "Answer": "A",
+        "Source": "The transition between planar and cellular morphologies is clearly visible, with a demarcation between planar and cellular growth pattern with decreasing G and increasing Vfront."
+    }
+}

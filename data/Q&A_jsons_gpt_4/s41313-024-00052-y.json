@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In peridynamics, a nonlocal continuum theory, the deformation of a continuous body is described by the displacement field where material coordinates are used. The force balance equation for a material point is given without directly involving classical concepts such as stress and strain.",
+        "Question": "What is the force balance equation for a material point in peridynamics based on?",
+        "A": "Stress and strain",
+        "B": "Displacement field",
+        "C": "Temperature gradient",
+        "D": "Electrical field",
+        "Answer": "B",
+        "Source": "In bond-based peridynamics model, as originally defined by Silling (2000), the deformation of a D dimensional continuous body B of density \u03c1(x) is described by the displacement field u(x) where x are material coordinates."
+    },
+    "Question_2": {
+        "Context": "In the context of peridynamics, the pair force density between two material points is specified constitutively by defining the bond stretch, which is a function of the bond vector and the relative bond displacement.",
+        "Question": "What determines the pair force density between two material points in peridynamics?",
+        "A": "Temperature difference",
+        "B": "Electrical charge",
+        "C": "Bond stretch",
+        "D": "Magnetic field",
+        "Answer": "C",
+        "Source": "The pair force density is specified constitutively. To this end, the bond stretch is defined as where \u03be = x\u2032 \u2212 x is the bond vector and \u03b7 = u\u2032 \u2212 u is the relative bond displacement."
+    },
+    "Question_3": {
+        "Context": "In peridynamics, the total elastic energy of a body is obtained by integrating over all pairs of interacting material points, which involves the bond energy density, bond length, and bond stretch.",
+        "Question": "How is the total elastic energy of a body calculated in peridynamics?",
+        "A": "By integrating the bond energy density over all pairs of interacting material points",
+        "B": "By summing the potential energy of individual atoms",
+        "C": "By calculating the kinetic energy of moving dislocations",
+        "D": "By measuring the heat flow within the material",
+        "Answer": "A",
+        "Source": "The total elastic energy of the body B is obtained by integrating over all pairs of interacting material points: E = 1/2 \u222bB \u222bHx w(x, x\u2032) dx\u2032dx = \u222bB Wp(x)dx."
+    },
+    "Question_4": {
+        "Context": "In peridynamics, the strain energy density associated with a material point is expressed in terms of the bond length and bond stretch, which are related to the displacement field.",
+        "Question": "What is the strain energy density in peridynamics a function of?",
+        "A": "Temperature and pressure",
+        "B": "Electrical charge and magnetic field",
+        "C": "Bond length and bond stretch",
+        "D": "Atomic weight and density",
+        "Answer": "C",
+        "Source": "The strain energy density Wp(x) associated with the point x is then written as Wp(x) = 1/4 \u222bHx c(\u03be) \u03be [e\u03be \u00b7 [u(x\u2032) \u2212 u(x)]]^2dx\u2032."
+    },
+    "Question_5": {
+        "Context": "In peridynamics, the bond-based model relates the micro-modulus and length scale parameter ('horizon') to the elastic constants and higher-order elastic constants of gradient elasticity.",
+        "Question": "What does the bond-based peridynamics model relate to the elastic constants and higher-order elastic constants of gradient elasticity?",
+        "A": "Temperature coefficient",
+        "B": "Micro-modulus and length scale parameter ('horizon')",
+        "C": "Electrical conductivity",
+        "D": "Magnetic permeability",
+        "Answer": "B",
+        "Source": "In particular, we show how to relate the micromodulus and length scale parameter ('horizon') of peridynamics to the elastic constants and higher-order elastic constants of Mindlin's first strain gradient elasticity."
+    },
+    "Question_6": {
+        "Context": "In the theory of peridynamics, the displacement field is expanded into a Taylor series around a material point to establish a relationship with higher-order strain gradient elasticity.",
+        "Question": "How is the relationship between peridynamics and higher-order strain gradient elasticity established?",
+        "A": "By using Fourier transform of the displacement field",
+        "B": "By expanding the displacement field into a Taylor series around a material point",
+        "C": "By applying the principle of virtual work",
+        "D": "By measuring the electrical resistance change",
+        "Answer": "B",
+        "Source": "To establish the relationship between bond-based peridynamics and higher-order strain gradient elasticity, we expand the displacement u into a Taylor series around the point x."
+    },
+    "Question_7": {
+        "Context": "In peridynamics, the energy functional up to first-order strain gradients corresponds to a special case of Mindlin's energy functional for isotropic first gradient elasticity.",
+        "Question": "To which energy functional does the peridynamics energy functional correspond when considering up to first-order strain gradients?",
+        "A": "Gibbs free energy functional",
+        "B": "Helmholtz free energy functional",
+        "C": "Mindlin's energy functional for isotropic first gradient elasticity",
+        "D": "Van der Waals energy functional",
+        "Answer": "C",
+        "Source": "Either way, we find that up to first-order strain gradients the energy functional corresponds to a special case of Mindlin's energy functional for isotropic first gradient elasticity."
+    },
+    "Question_8": {
+        "Context": "In the continuum theory of dislocations, dislocations are related to gradients of the plastic distortion, which is envisaged in terms of slip on crystallographic slip planes.",
+        "Question": "In the continuum theory of dislocations, what are dislocations related to?",
+        "A": "Gradients of the plastic distortion",
+        "B": "Temperature gradients across slip planes",
+        "C": "Electrical potential differences",
+        "D": "Magnetic field variations",
+        "Answer": "A",
+        "Source": "The approach to constructing dislocations in peridynamics builds upon concepts from the classical continuum theory of dislocations. This theory relates dislocations to gradients of the plastic distortion, which in turn is envisaged in terms of slip on crystallographic slip planes."
+    },
+    "Question_9": {
+        "Context": "In peridynamics, the plastic distortion represents a stress-free deformation which can be understood in terms of the force-free deformation of bonds.",
+        "Question": "What does the plastic distortion represent in peridynamics?",
+        "A": "A deformation that generates maximum stress",
+        "B": "A deformation that is independent of temperature",
+        "C": "A stress-free deformation",
+        "D": "A deformation caused by magnetic forces",
+        "Answer": "C",
+        "Source": "The plastic distortion represents a stress-free deformation which, in bond-based peridynamics, can be understood in terms of the force-free deformation of bonds."
+    },
+    "Question_10": {
+        "Context": "In peridynamics, the bond vector in the plastically deformed configuration is evaluated by integrating the plastic distortion along the bond, which does not create a force but changes the bond vector entering the force calculation.",
+        "Question": "What is the effect of plastic distortion on the bond vector in the plastically deformed configuration in peridynamics?",
+        "A": "It creates a force proportional to the distortion",
+        "B": "It changes the bond vector entering the force calculation",
+        "C": "It increases the temperature along the bond",
+        "D": "It induces an electrical charge along the bond",
+        "Answer": "B",
+        "Source": "The bond vector in the plastically deformed configuration is then evaluated as \u03be\u2032 = \u03be + \u222b\u03be0 \u03b2pl(r(s)) \u00b7 e\u03be ds, with length \u03be\u2032 = |\u03be\u2032|. The plastic bond deformation does not create a force but simply changes the bond vector and bond vector length entering the force calculation."
+    }
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "The paper discusses the transition from notch-induced crack initiation to disorder-induced crack nucleation in brittle metals. ",
+            "Question": "What is proposed as an investigational tool in the paper to study crack initiation?",
+            "A": "Curvature of a circular notch",
+            "B": "Curvature of an ellipsoidal notch",
+            "C": "Width of a circular notch",
+            "D": "Width of an ellipsoidal notch",
+            "Answer": "B",
+            "Source": "In this paper, we propose an investigational tool in the form of the curvature of an ellipsoidal notch: As the radius of curvature at the notch increases, there is a dynamic phase transition from notch-induced crack initiation to disorder-induced crack nucleation."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "The paper discusses the characterization of structural uncertainty in microstructures.",
+            "Question": "What is lacking in the characterization of the structural uncertainty in the original microstructure?",
+            "A": "Empirical protocols",
+            "B": "Systematic characterization protocols",
+            "C": "Statistical analysis",
+            "D": "Experimental data",
+            "Answer": "B",
+            "Source": "The characterization of the structural uncertainty in the original microstructure is typically empirical and systematic characterization protocols are lacking."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "The paper explores the effects of microstructural disorder and notch width variations in simulations.",
+            "Question": "What is systematically varied in the simulations conducted in the paper?",
+            "A": "Material composition",
+            "B": "Notch depth",
+            "C": "Microstructural disorder and notch width",
+            "D": "Temperature",
+            "Answer": "C",
+            "Source": "We perform extensive and realistic simulations, using a phase-field approach coupled to crystal plasticity, where microstructural disorder and notch width are systematically varied."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "The paper discusses the stochastic fracture characteristics of alloys.",
+            "Question": "What is a characteristic of alloys due to the presence of structural disorder?",
+            "A": "Predictable fracture patterns",
+            "B": "Uniform fracture behavior",
+            "C": "Stochastic fracture characteristics",
+            "D": "High ductility",
+            "Answer": "C",
+            "Source": "Due to the very presence of this structural disorder, alloys display stochastic fracture characteristics, especially when cracks can be labeled 'short'."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "The paper discusses the concept of quasi-brittle fracture in materials.",
+            "Question": "What is a key feature of quasi-brittle materials?",
+            "A": "Homogeneous structure",
+            "B": "Negligible inhomogeneities",
+            "C": "Fracture strength independent of size",
+            "D": "Inhomogeneities that cannot be considered negligible",
+            "Answer": "D",
+            "Source": "Quasi-brittle materials contain inhomogeneities that cannot be considered negligible when compared to the structure size."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "The paper discusses the scaling relation for fracture strength in materials.",
+            "Question": "What is the scaling relation for predicting fracture strength in quasi-brittle materials?",
+            "A": "\u03c3F = Bf0t",
+            "B": "\u03c3F = Bf0t1+a/a0",
+            "C": "\u03c3F = Bf0t + a",
+            "D": "\u03c3F = Bf0t - a",
+            "Answer": "B",
+            "Source": "it was suggested that quasi-brittle materials can be characterized using a scaling relation for which fracture strength could be predicted, \u03c3F = Bf0t1+a/a0"
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "The paper discusses the experimental protocol for identifying precursor events to fracture.",
+            "Question": "What technique is mentioned as enabling the machining of precise-dimensioned notches at micron and submicron scales?",
+            "A": "Laser cutting",
+            "B": "Water jet cutting",
+            "C": "Focused ion beam (FIB)",
+            "D": "Plasma cutting",
+            "Answer": "C",
+            "Source": "Due to advances in microfabrication techniques, namely focused ion beam (FIB), it is now possible to machine precise-dimensioned notches at the micron and submicron scale to a sub-10 nm resolution."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "The paper discusses the transition from brittle to quasi-brittle fracture behavior.",
+            "Question": "What parameter is varied to observe the transition from notch-driven crack initiation to bulk-induced crack nucleation?",
+            "A": "Notch depth",
+            "B": "Notch width",
+            "C": "Material composition",
+            "D": "Temperature",
+            "Answer": "B",
+            "Source": "In order to observe the transition from notch-driven crack initiation to bulk-induced crack nucleation, the notch width, W, is varied from 16 \u03bcm to 0.5 mm, by decreasing the radius of curvature."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "The paper discusses the modeling of structural disorder in materials.",
+            "Question": "How is the structural disorder modeled in the continuum field in the paper?",
+            "A": "As a discrete field",
+            "B": "As a continuous field",
+            "C": "As a binary field",
+            "D": "As a random field",
+            "Answer": "B",
+            "Source": "We model this structural disorder as a continuum field that influences the critical strain energy release rate in the material."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "The paper discusses the simulation of a transition from notch-driven crack initiation to bulk crack nucleation.",
+            "Question": "What software is used to couple the phase-field approach to crystal plasticity in the simulations?",
+            "A": "MATLAB",
+            "B": "DAMASK",
+            "C": "ANSYS",
+            "D": "COMSOL",
+            "Answer": "B",
+            "Source": "We use an integrated spectral phase field approach coupled constitutively to elastoplasticity through the D\u00fcsseldorf Advanced MAterial Simulation Kit (DAMASK) software."
+        }
+    }
+]

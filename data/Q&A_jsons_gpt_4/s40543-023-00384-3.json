@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Tomatoes undergo various metabolic changes during the ripening process, which includes the regulation of gene expression and the transformation of green fruits into edible ones with enhanced flavor.",
+        "Question": "Which hormone is considered a major factor related to ripening in tomatoes?",
+        "A": "Auxin",
+        "B": "Gibberellin",
+        "C": "Ethylene",
+        "D": "Cytokinin",
+        "Answer": "C",
+        "Source": "Ethylene is considered a major factor related to ripening in tomatoes and has been widely investigated. It is a plant hormone that is involved in senescence and affects growth, development, and ripening."
+    },
+    "Question_2": {
+        "Context": "In the process of tomato ripening, the expression of certain genes increases dramatically, indicating their role as key regulators of this process.",
+        "Question": "Which of the following genes are key regulators of ripening in tomatoes?",
+        "A": "LeACS2, LeACS4, and LeACO1",
+        "B": "LeAFB2, LeTIR1, and LeIAA4",
+        "C": "LePIN1, LePIN2, and LePIN3",
+        "D": "LeCYP79B2, LeCYP79B3, and LeSUR1",
+        "Answer": "A",
+        "Source": "In the process of ripening, the expression of several ethylene biosynthesis-related genes, including LeACS2, LeACS4, and LeACO1, dramatically increases, indicating that these genes are key regulators of ripening."
+    },
+    "Question_3": {
+        "Context": "Tomatoes contain various metabolites that can be identified and quantified using different mass spectrometry techniques.",
+        "Question": "Which mass spectrometry technique is used to identify and quantify metabolites in tomatoes?",
+        "A": "Nuclear magnetic resonance spectroscopy",
+        "B": "Infrared spectroscopy",
+        "C": "Liquid chromatography\u2013mass spectrometry",
+        "D": "Ultraviolet-visible spectroscopy",
+        "Answer": "C",
+        "Source": "Metabolomics studies using liquid chromatography-mass spectrometry (LC\u2013MS) and gas chromatography-mass spectrometry (GC\u2013MS) have been widely performed to identify and quantify metabolites from various sources."
+    },
+    "Question_4": {
+        "Context": "During the analysis of metabolites in tomatoes, certain metabolites were quantified based on their peak areas in mass spectrometry data.",
+        "Question": "Which metabolite showed decreasing levels upon sound-wave treatment according to LC\u2013MS analysis?",
+        "A": "Adenosine",
+        "B": "Glucose",
+        "C": "Fructose",
+        "D": "Sucrose",
+        "Answer": "A",
+        "Source": "The quantification of metabolites with LC\u2013MS showed decreasing levels of adenosine, tryptophan, and phytosphingosine upon sound-wave treatment."
+    },
+    "Question_5": {
+        "Context": "The ripening process of tomatoes can be influenced by external treatments, which can be studied by analyzing changes in metabolite levels.",
+        "Question": "What effect did sound-wave treatment have on the levels of malic acid, citric acid, and sucrose in tomatoes?",
+        "A": "Decreased levels of all three",
+        "B": "Increased levels of all three",
+        "C": "Decreased levels of malic acid and citric acid, increased levels of sucrose",
+        "D": "Increased levels of malic acid and citric acid, decreased levels of sucrose",
+        "Answer": "B",
+        "Source": "On the other way, the quantity of malic acid, citric acid, and sucrose was increased with the treatment."
+    },
+    "Question_6": {
+        "Context": "In the study of tomato ripening, the role of certain transcription factors and their influence on gene expression is crucial.",
+        "Question": "Which transcription factor is known to play an important role upstream of the ethylene production pathway in fruit ripening?",
+        "A": "RIN",
+        "B": "TAGL1",
+        "C": "HB-1",
+        "D": "NOR",
+        "Answer": "A",
+        "Source": "In particular, RINs regulate gene expression by binding to the promoters of ACS and ACO in tomatoes."
+    },
+    "Question_7": {
+        "Context": "Tomato ripening involves the synthesis of ethylene, which is regulated by the conversion of certain compounds through enzymatic reactions.",
+        "Question": "What is the precursor for ethylene biosynthesis in tomatoes?",
+        "A": "ACC",
+        "B": "S-adenosylmethionine",
+        "C": "Ethanol",
+        "D": "Methionine",
+        "Answer": "B",
+        "Source": "S-adenosylmethionine is a precursor for ethylene biosynthesis and is converted into 1-aminocyclopropane-1-carboxylic acid (ACC) by ACC synthase (ACS) and ACC oxidase (ACO), which catalyze the synthesis of ethylene associated with the ripening process in tomatoes."
+    },
+    "Question_8": {
+        "Context": "The ripening of tomatoes is associated with the expression of ethylene-inducible genes, which respond differently to the presence of ethylene.",
+        "Question": "Which ethylene-inducible gene shows increased expression in response to ethylene during tomato ripening?",
+        "A": "E4",
+        "B": "E8",
+        "C": "LeACS2",
+        "D": "LeACO1",
+        "Answer": "B",
+        "Source": "As other key factors for tomato ripening, ethylene-inducible genes, E4 and E8, show decreased and increased expression in response to ethylene, respectively."
+    },
+    "Question_9": {
+        "Context": "Tomato ripening is a complex process that involves the regulation of various genes, including those related to ethylene biosynthesis.",
+        "Question": "Which gene is involved in the synthesis of ethylene and is associated with the ripening process in tomatoes?",
+        "A": "LeACS2",
+        "B": "LeACO1",
+        "C": "LeE8",
+        "D": "LeRIN",
+        "Answer": "B",
+        "Source": "In the process of ripening, the expression of several ethylene biosynthesis-related genes, including LeACS2, LeACS4, and LeACO1, dramatically increases, indicating that these genes are key regulators of ripening."
+    },
+    "Question_10": {
+        "Context": "The application of external treatments to plants, such as sound-wave treatment, can influence the production of metabolites and gene expression.",
+        "Question": "What is the effect of sound-wave treatment on the ripening process of tomatoes?",
+        "A": "It accelerates the ripening process",
+        "B": "It has no effect on the ripening process",
+        "C": "It delays the ripening process",
+        "D": "It only affects the color of the tomatoes",
+        "Answer": "C",
+        "Source": "Our previous work proved that negatively regulating ethylene biosynthesis via sound-wave treatment delays tomato ripening."
+    }
+}

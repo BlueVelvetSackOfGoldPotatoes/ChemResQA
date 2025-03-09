@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Radiopharmaceuticals require special regulatory consideration due to their distinct characteristics. What is the defining attribute of radiopharmaceuticals and their principal mechanism of action?",
+        "Question": "What is the defining attribute of radiopharmaceuticals and their principal mechanism of action?",
+        "A": "Antibacterial properties",
+        "B": "Anti-inflammatory effects",
+        "C": "Emission of ionizing radiation",
+        "D": "Antioxidant properties",
+        "Answer": "C",
+        "Source": "Emission of ionizing radiation is the defining attribute of radiopharmaceuticals and their principal mechanism of action."
+    },
+    "Question_2": {
+        "Context": "What is the purpose of the 'vector' or 'carrier molecule' in radiopharmaceuticals?",
+        "Question": "What is the purpose of the 'vector' or 'carrier molecule' in radiopharmaceuticals?",
+        "A": "To provide color to the radiopharmaceutical",
+        "B": "To enhance the taste of the radiopharmaceutical",
+        "C": "To carry or deliver the radioactive nuclide to the desired location",
+        "D": "To increase the shelf life of the radiopharmaceutical",
+        "Answer": "C",
+        "Source": "The vector or carrier molecule in radiopharmaceuticals is capable of carrying or delivering the radioactive nuclide to the desired location, the targeted organ, tissue, or lesion."
+    },
+    "Question_3": {
+        "Context": "What is a significant advantage of using radioactivity in medicine in terms of the amount of active pharmaceutical substance required?",
+        "Question": "What is a significant advantage of using radioactivity in medicine in terms of the amount of active pharmaceutical substance required?",
+        "A": "Higher dosage required for pharmacological effect",
+        "B": "Lower dosage required for pharmacological effect",
+        "C": "No dosage required for pharmacological effect",
+        "D": "Unchanged dosage required for pharmacological effect",
+        "Answer": "B",
+        "Source": "A great advantage of using radioactivity in medicine is the very low amount of active pharmaceutical substance required to supply sufficient radioactivity for the purpose."
+    },
+    "Question_4": {
+        "Context": "What is a limitation of the shelf life of radiopharmaceuticals?",
+        "Question": "What is a limitation of the shelf life of radiopharmaceuticals?",
+        "A": "Limited by the physical half-life of the radionuclide",
+        "B": "Unlimited shelf life due to radioactivity",
+        "C": "Limited by the presence of stabilizers",
+        "D": "Unlimited shelf life due to radiolysis",
+        "Answer": "A",
+        "Source": "The shelf life of radiopharmaceuticals is naturally limited by the physical half-life of the radionuclide."
+    },
+    "Question_5": {
+        "Context": "What is a challenge related to the production of radiopharmaceuticals in terms of batch sizes and volumes?",
+        "Question": "What is a challenge related to the production of radiopharmaceuticals in terms of batch sizes and volumes?",
+        "A": "Unlimited availability of commercial suppliers",
+        "B": "Limited shipment of radiopharmaceuticals from external sources",
+        "C": "High stability of radiopharmaceuticals",
+        "D": "Large injection volumes for patients",
+        "Answer": "B",
+        "Source": "The shipment of radiopharmaceuticals from external sources (commercial suppliers) is limited for various reasons, one being the very short half-life or shelf-life of the products."
+    },
+    "Question_6": {
+        "Context": "What is a unique aspect of radiopharmaceutical preparation that differs from conventional drugs?",
+        "Question": "What is a unique aspect of radiopharmaceutical preparation that differs from conventional drugs?",
+        "A": "Separate manufacturing of 'drug substance' and 'drug product'",
+        "B": "Isolation and testing of the radioactive molecule prior to formulation",
+        "C": "Continuous and highly integrated production process",
+        "D": "Use of stabilizers in the final formulation",
+        "Answer": "C",
+        "Source": "The classical pharmaceutical approach of separate manufacturing of 'drug substance' and 'drug product' is hardly possible for radiopharmaceuticals, because the real drug substance, the radioactive molecule or ion, cannot be isolated, characterized, and tested prior to formulation of the drug product."
+    },
+    "Question_7": {
+        "Context": "What is a key consideration for the preparation of radiopharmaceuticals in terms of starting materials?",
+        "Question": "What is a key consideration for the preparation of radiopharmaceuticals in terms of starting materials?",
+        "A": "Use of non-approved medicinal products",
+        "B": "Use of radioactive precursors",
+        "C": "Use of GMP quality precursors",
+        "D": "Use of non-GMP quality precursors",
+        "Answer": "C",
+        "Source": "For complex radiopharmaceutical preparations, starting materials can be many. GMP quality precursors allow the reliance on the certified quality of the precursor for many of the essential quality control parameters for identity and purity."
+    },
+    "Question_8": {
+        "Context": "What is a significant requirement for the quality control of complex radiopharmaceutical preparations?",
+        "Question": "What is a significant requirement for the quality control of complex radiopharmaceutical preparations?",
+        "A": "Simple non-instrumental techniques",
+        "B": "Extensive quality control according to pharmacopoeia standards",
+        "C": "No quality control required",
+        "D": "Limited quality control for radioactive impurities",
+        "Answer": "B",
+        "Source": "For complex radiopharmaceutical preparations, extensive quality control according to pharmacopoeia or equivalent standards is required."
+    },
+    "Question_9": {
+        "Context": "What is a key aspect of personnel requirements for radiopharmaceutical production?",
+        "Question": "What is a key aspect of personnel requirements for radiopharmaceutical production?",
+        "A": "Only pharmacists are allowed to be involved in production",
+        "B": "Personnel should have in-depth knowledge of radiochemistry",
+        "C": "No specific qualifications are required",
+        "D": "Personnel should have experience in conventional drug production",
+        "Answer": "B",
+        "Source": "Personnel requirements for radiopharmaceutical production will depend on the workload and nature of the production method. In all cases, it is important that appropriately trained and experienced persons take responsibility for quality assurance, production, and quality control."
+    },
+    "Question_10": {
+        "Context": "What is a significant requirement for the manufacturing practices and quality assurance of radiopharmaceuticals?",
+        "Question": "What is a significant requirement for the manufacturing practices and quality assurance of radiopharmaceuticals?",
+        "A": "Adherence to Good Laboratory Practice (GLP)",
+        "B": "Implementation of a Quality Management System (QMS)",
+        "C": "No specific requirements for quality assurance",
+        "D": "Use of non-pharmacopoeial standards",
+        "Answer": "B",
+        "Source": "In the production or preparation of any pharmaceuticals, including RPs, manufacturing aspects are always of paramount importance, as they provide the necessary safety and traceability framework, which ultimately guarantee that radiopharmaceuticals are prepared with characteristics suitable for the intended purpose."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Based on the biodistribution study in mice after the injection of [18F]ADPM06,",
+        "Question": "Which organ showed the highest mean radioactivity level among all the investigated organs?",
+        "A": "Heart",
+        "B": "Liver",
+        "C": "Thighbone",
+        "D": "Brain",
+        "Answer": "C",
+        "Source": "The mean radioactivity level in the thighbone was the highest among all organs investigated and increased for 120 min after injection."
+    },
+    "Question_2": {
+        "Context": "Regarding the effects of co-injection with ADPM06 on radioactivity biodistribution in mice after the injection of [18F]ADPM06,",
+        "Question": "Which organ showed a significant increase in radioactivity levels upon co-injection with ADPM06?",
+        "A": "Heart",
+        "B": "Lung",
+        "C": "Brain",
+        "D": "Thighbone",
+        "Answer": "C",
+        "Source": "Upon co-injection with ADPM06, the radioactivity levels in the blood and brain significantly increased."
+    },
+    "Question_3": {
+        "Context": "From the metabolite analysis of plasma in mice after the injection of [18F]ADPM06,",
+        "Question": "What percentage of radioactivity corresponding to [18F]ADPM06 was found in the plasma?",
+        "A": "95.6%",
+        "B": "79.8%",
+        "C": "76.3%",
+        "D": "20%",
+        "Answer": "C",
+        "Source": "The percentage of radioactivity corresponding to [18F]ADPM06 in the plasma of mice was 76.3 \u00b1 1.6%."
+    },
+    "Question_4": {
+        "Context": "In the PET study in a tumor-bearing mouse after the injection of [18F]ADPM06,",
+        "Question": "Where did the radioactivity accumulate to a relatively high level?",
+        "A": "Tumor",
+        "B": "Bone",
+        "C": "Liver",
+        "D": "Lung",
+        "Answer": "B",
+        "Source": "A relatively high accumulation of radioactivity was observed in the bone."
+    },
+    "Question_5": {
+        "Context": "Regarding the optimized conditions for the radiosynthesis of [18F]ADPM06,",
+        "Question": "What was the concentration ratio of SnCl4 to ADPM06 that resulted in the highest RCY of [18F]ADPM06 from [18F]TBAF at the start of synthesis?",
+        "A": "50:1",
+        "B": "500:1",
+        "C": "1000:1",
+        "D": "200:1",
+        "Answer": "B",
+        "Source": "Among the investigated ratios of SnCl4 to ADPM06 ranging from 50:1 to 1000:1, the RCY of [18F]ADPM06 from [18F]TBAF at the SOS was the highest when an SnCl4/ADPM06 concentration ratio of 500:1 was used."
+    },
+    "Question_6": {
+        "Context": "In the biodistribution study in mice after the injection of [18F]ADPM06,",
+        "Question": "Which organ showed a relatively fast accumulation for 15 min after the initial uptake?",
+        "A": "Heart",
+        "B": "Liver",
+        "C": "Spleen",
+        "D": "Kidney",
+        "Answer": "B",
+        "Source": "The radioactivity level in the liver showed relatively fast accumulation for 15 min after the initial uptake."
+    },
+    "Question_7": {
+        "Context": "Regarding the effects of co-injection with ADPM06 on radioactivity biodistribution in mice after the injection of [18F]ADPM06,",
+        "Question": "Which organ showed no alteration in radioactivity levels upon co-injection with ADPM06?",
+        "A": "Thighbone",
+        "B": "Lung",
+        "C": "Liver",
+        "D": "Brain",
+        "Answer": "A",
+        "Source": "The radioactivity levels at 30 min after the co-injection of [18F]ADPM06 with ADPM06 were not altered in the heart, lungs, liver, pancreas, spleen, kidney, small intestine, muscle, or thighbone."
+    },
+    "Question_8": {
+        "Context": "From the metabolite analysis of plasma in mice after the injection of [18F]ADPM06,",
+        "Question": "What was the recovery of radioactivity from HPLC waste as measured by quantitative radio-HPLC analysis?",
+        "A": "95.6%",
+        "B": "79.8%",
+        "C": "76.3%",
+        "D": "98.4%",
+        "Answer": "D",
+        "Source": "The recovery of radioactivity from plasma into supernatant for deproteinized-treatment was 98.4 \u00b1 0.1%."
+    },
+    "Question_9": {
+        "Context": "In the PET study in a tumor-bearing mouse after the injection of [18F]ADPM06,",
+        "Question": "What was the decay-corrected radioactivity expressed as in the PET scan?",
+        "A": "Standardized uptake value (SUV)",
+        "B": "Percentage of the injected dose per gram of tissue (% ID/g)",
+        "C": "Tissue radioactivity/tissue volume/injected radioactivity \u00d7 total body weight",
+        "D": "Radioactivity level in the tumor",
+        "Answer": "A",
+        "Source": "The decay-corrected radioactivity was expressed as a standardized uptake value (SUV)."
+    },
+    "Question_10": {
+        "Context": "Based on the conclusions of the study,",
+        "Question": "What was the purpose of evaluating the initial uptake using biodistribution studies of [18F]ADPM06 in mice?",
+        "A": "To guide PDT with light irradiation",
+        "B": "To determine the side effects on normal tissues",
+        "C": "To predict the pharmacokinetics of ADPM06",
+        "D": "To evaluate the efficiency of PDT",
+        "Answer": "A",
+        "Source": "We evaluated the initial uptake using biodistribution studies of [18F]ADPM06 in mice to guide PDT with light irradiation."
+    }
+}

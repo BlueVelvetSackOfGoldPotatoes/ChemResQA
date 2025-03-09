@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Fluorine-18 is a positron emitting isotope with properties suitable for PET imaging. It can be produced in a cyclotron by bombarding enriched water targets with protons.",
+        "Question": "What is the typical energy range of protons used to bombard 18O water targets to produce fluorine-18?",
+        "A": "1 to 4 MeV",
+        "B": "5 to 20 MeV",
+        "C": "21 to 30 MeV",
+        "D": "31 to 40 MeV",
+        "Answer": "B",
+        "Source": "18F in its nucleophilic anionic 18F\u2212 form is usually prepared by bombarding an enriched 18O water target with protons of various energies between 5 and 20 MeV depending on the technical specifications of the cyclotron."
+    },
+    "Question_2": {
+        "Context": "In the context of PET imaging, the half-life of a radionuclide is an important factor that determines its suitability for clinical use.",
+        "Question": "What is the half-life of fluorine-18, making it suitable for clinical diagnostic PET imaging?",
+        "A": "20 minutes",
+        "B": "60 minutes",
+        "C": "110 minutes",
+        "D": "240 minutes",
+        "Answer": "C",
+        "Source": "Its simple and efficient production via the high-yield 18O(p,n)18F nuclear reaction, the simple yet highly efficient radiochemistries available to perform high-yield labeling reactions of even complex precursors, and 18F\u2019s almost ideal physicochemical properties, such as clinically suitable half-life (t\u00bd = 110 min), a low positron energy (0.635 MeV, maximum range in water = 2.4 mm) and high positron emission ratio (97%), make 18F the most frequently applied radionuclide in clinical diagnostic PET imaging."
+    },
+    "Question_3": {
+        "Context": "The von der Waals radius of an atom is a measure of how closely it can approach other atoms or molecules. This property is significant when substituting atoms in molecular structures.",
+        "Question": "What is the von der Waals radius of fluorine, which allows it to replace hydrogen in molecules without significantly altering molecular dimensions?",
+        "A": "1.2 \u00c5",
+        "B": "1.47 \u00c5",
+        "C": "1.67 \u00c5",
+        "D": "2.0 \u00c5",
+        "Answer": "B",
+        "Source": "Fluorine has a small von der Waals radius of 1.47 \u00c5, close to that of hydrogen (1.2 \u00c5) and can therefore replace hydrogen in any molecule without dramatically altering its molecular dimensions."
+    },
+    "Question_4": {
+        "Context": "The strength of the bond between fluorine and carbon is an important consideration in the stability of radiotracers under various conditions.",
+        "Question": "What is the bond strength of the fluorine-carbon bond, which contributes to its resistance to oxidation and heat?",
+        "A": "85 kcal/mol",
+        "B": "95 kcal/mol",
+        "C": "112 kcal/mol",
+        "D": "130 kcal/mol",
+        "Answer": "C",
+        "Source": "The fluorine-carbon bond strength (112 kcal/mol) is very high despite fluorine\u2019s high electronegativity and resists oxidation and heat exposure, ideal prerequisites for the often harsh conditions used in PET tracer synthesis."
+    },
+    "Question_5": {
+        "Context": "In the production of radiotracers, the yield of the target radionuclide is critical for determining the number of clinical doses that can be prepared.",
+        "Question": "What is the typical thick-target yield range for fluorine-18 when bombarding 18O-water targets with protons?",
+        "A": "1-3 GBq/\u00b5A",
+        "B": "3-5 GBq/\u00b5A",
+        "C": "5-14 GBq/\u00b5A",
+        "D": "15-20 GBq/\u00b5A",
+        "Answer": "C",
+        "Source": "Utilizing proton energies between 5 and 20 MeV for the bombardment of 18O-water targets, thick-target yields of 5\u201314 GBq/\u00b5A are possible."
+    },
+    "Question_6": {
+        "Context": "Silicon Fluoride Acceptor (SiFA) chemistry is a method used in the development of peptide-based 18F-radiotracers for PET imaging.",
+        "Question": "What is the key characteristic of the SiFA chemistry that allows for high radiofluorination yields?",
+        "A": "High temperature reactions",
+        "B": "Isotopic exchange",
+        "C": "Electrophilic substitution",
+        "D": "Nucleophilic aromatic substitution",
+        "Answer": "B",
+        "Source": "The SiFA chemistry was the first radiochemical approach invalidating the common believe that a radiolabeling reaction based on isotopic exchange (IE) only yields compounds of low molar activity (Am)."
+    },
+    "Question_7": {
+        "Context": "The ability to automate the synthesis of radiotracers is a significant factor in their clinical success.",
+        "Question": "Which feature of SiFA chemistry has been proven to be automatable for the production of large batches of 18F-radiotracers?",
+        "A": "Isotopic exchange",
+        "B": "Electrophilic fluorination",
+        "C": "Nucleophilic aromatic substitution",
+        "D": "Metal-organic framework synthesis",
+        "Answer": "A",
+        "Source": "Due to its simplicity, the SiFA chemistry, which is based on isotopic exchange (18F for 19F), does not only work in a manual setup but has been proven to be automatable, yielding large batches of 18F-radiotracers of high molar activity (Am)."
+    },
+    "Question_8": {
+        "Context": "The production and distribution model for radiopharmaceuticals can be centralized, with one facility serving multiple clinical sites.",
+        "Question": "What principle describes the centralized production and distribution model for radiopharmaceuticals?",
+        "A": "Hub and spoke",
+        "B": "Satellite principle",
+        "C": "Centralized distribution",
+        "D": "Decentralized production",
+        "Answer": "B",
+        "Source": "The production of SiFA radiotracer can be centralized and the radiopharmaceutical be distributed via the \u201csatellite\u201d principle, where one production facility economically serves multiple clinical application sites."
+    },
+    "Question_9": {
+        "Context": "In the context of radiopharmaceuticals, the molar activity (Am) is a measure of the amount of radioactivity per amount of substance and is an important parameter for clinical applications.",
+        "Question": "What is the typical molar activity range for 18F-radiotracers produced using SiFA chemistry?",
+        "A": "100-300 GBq/\u00b5mol",
+        "B": "300-500 GBq/\u00b5mol",
+        "C": "500-700 GBq/\u00b5mol",
+        "D": "600-800 GBq/\u00b5mol",
+        "Answer": "D",
+        "Source": "Molar activities were calculated to be 664 \u00b1 145 GBq/\u00b5mol, based on the starting amount of precursor and starting activities of 63 \u00b1 9 GBq."
+    },
+    "Question_10": {
+        "Context": "The stability of radiopharmaceuticals is crucial for their safe and effective use in clinical settings. Stabilizers are often added to the formulation to prevent degradation.",
+        "Question": "Which stabilizer is commonly added to SiFA radiopharmaceutical formulations to prevent radiolytic degradation?",
+        "A": "Ethanol",
+        "B": "Ascorbic acid",
+        "C": "Sodium chloride",
+        "D": "Phosphate buffer",
+        "Answer": "B",
+        "Source": "It is important to stabilize the product with ascorbate to prevent radiolytic degradation, since the radioactivity concentration can be extremely high on the cartridge during workup and in the product solution after elution from the cartridge."
+    }
+}

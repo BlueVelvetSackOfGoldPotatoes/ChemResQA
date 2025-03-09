@@ -1,0 +1,122 @@
+[
+    {
+        "Question_1": {
+            "Context": "Ion sputtering leads to the formation of surface roughness and patterns at the nanoscale. What did Habenicht study regarding the effect of ion fluence on surface dynamics?",
+            "Question": "What did Habenicht study regarding the effect of ion fluence on surface dynamics?",
+            "A": "The influence of ion energy on surface roughness.",
+            "B": "The influence of ion angle on surface morphology.",
+            "C": "The influence of ion fluence on surface roughness.",
+            "D": "The influence of substrate temperature on surface patterns.",
+            "Answer": "C",
+            "Source": "Habenicht studied the effect of ion fluence on surface dynamics by exposing a highly ordered pyrolytic graphite (HOPG) surface with (0001) orientation to increasing levels of ion fluence."
+        }
+    },
+    {
+        "Question_2": {
+            "Context": "What is the orientation of ripple structures observed on a silver surface when ion bombardment occurs at low temperatures?",
+            "Question": "What is the orientation of ripple structures observed on a silver surface when ion bombardment occurs at low temperatures?",
+            "A": "Aligned along the < 001 > direction.",
+            "B": "Aligned along the < 110 > direction.",
+            "C": "Aligned along the < 100 > direction.",
+            "D": "Aligned along the < 1\u00af10 > direction.",
+            "Answer": "D",
+            "Source": "The results showed that ion bombardment at low temperatures (160K) resulted in a rough surface, but as the temperature was raised to 290 K and above, a ripple structure began to appear aligned along the < 1\u00af10 > direction."
+        }
+    },
+    {
+        "Question_3": {
+            "Context": "What is the main objective of the present work in the context of ion-induced surface instabilities?",
+            "Question": "What is the main objective of the present work in the context of ion-induced surface instabilities?",
+            "A": "To develop analytical and computational methods to further the understanding of surface pattern evolution under ion bombardment.",
+            "B": "To study the effects of stochastic noise on surface morphology.",
+            "C": "To investigate the role of surface stress in pattern formation.",
+            "D": "To analyze the impact of subsurface point defect generation on surface roughness.",
+            "Answer": "A",
+            "Source": "The main objective of the present work is to develop analytical and computational methods to further the understanding of surface pattern evolution under ion bombardment."
+        }
+    },
+    {
+        "Question_4": {
+            "Context": "What did the study by Navez et al. observe regarding the morphology of a clean glass surface when bombarded with an ion beam at different angles?",
+            "Question": "What did the study by Navez et al. observe regarding the morphology of a clean glass surface when bombarded with an ion beam at different angles?",
+            "A": "Formation of ripple structures at all angles.",
+            "B": "Formation of parallel ripple structures at all angles.",
+            "C": "Formation of ripple structures perpendicular to the ion beam at normal incidence angles and parallel at grazing angles.",
+            "D": "Formation of concentric circular patterns at all angles.",
+            "Answer": "C",
+            "Source": "The observed morphology was the formation of ripple structures oriented perpendicular to the ion beam for incidence angles close to normal (\u03b8 = 0), and parallel to the ion beam for incidence angles close to grazing."
+        }
+    },
+    {
+        "Question_5": {
+            "Context": "What is the basis for the continuum equation for surface evolution developed by Bradley and Harper?",
+            "Question": "What is the basis for the continuum equation for surface evolution developed by Bradley and Harper?",
+            "A": "Early ideas of Sigmund.",
+            "B": "Experimental observations by Navez et al.",
+            "C": "The influence of ion fluence on surface roughness.",
+            "D": "The effects of stochastic noise on surface morphology.",
+            "Answer": "A",
+            "Source": "The early ideas of Sigmund provided the basis for Bradley and Harper to develop a continuum equation for surface evolution."
+        }
+    },
+    {
+        "Question_6": {
+            "Context": "What did the study by Rusponi et al. show regarding the influence of temperature on the surface morphology of ion-bombarded silver?",
+            "Question": "What did the study by Rusponi et al. show regarding the influence of temperature on the surface morphology of ion-bombarded silver?",
+            "A": "Ripple structures at all temperatures.",
+            "B": "Rough surface at low temperatures and aligned ripple structures at higher temperatures.",
+            "C": "Concentric circular patterns at all temperatures.",
+            "D": "Parallel ripple structures at all temperatures.",
+            "Answer": "B",
+            "Source": "The results of their work showed that ion bombardment at low temperatures (160K) resulted in a rough surface, but as the temperature was raised to 290 K and above, a ripple structure began to appear aligned along the < 1\u00af10 > direction."
+        }
+    },
+    {
+        "Question_7": {
+            "Context": "What is the direction along which ripple structures tend to organize on the surface of metals like Ag(110) and Cu(110) at higher temperatures?",
+            "Question": "What is the direction along which ripple structures tend to organize on the surface of metals like Ag(110) and Cu(110) at higher temperatures?",
+            "A": "Cross-channel direction.",
+            "B": "In-channel direction.",
+            "C": "Vertical direction.",
+            "D": "Horizontal direction.",
+            "Answer": "B",
+            "Source": "On the surface of metals such as Ag(110) and Cu(110), the in-channel direction, < 1\u00af10 > is an easy pathway for the diffusion of ad-atoms and vacancies compared with the cross-channel, or < 001 > direction."
+        }
+    },
+    {
+        "Question_8": {
+            "Context": "What did the study by Costantini et al. show regarding the orientation of ripple structures on metal surfaces?",
+            "Question": "What did the study by Costantini et al. show regarding the orientation of ripple structures on metal surfaces?",
+            "A": "Aligned along the < 001 > direction.",
+            "B": "Aligned along the < 110 > direction.",
+            "C": "Aligned along the < 100 > direction.",
+            "D": "Aligned along the < 1\u00af10 > direction.",
+            "Answer": "D",
+            "Source": "Therefore, at higher temperatures where anisotropic surface diffusion is enhanced, the ripple structures have a quicker path to organize in that orientation."
+        }
+    },
+    {
+        "Question_9": {
+            "Context": "What is excluded from the efforts in the present work regarding ion-induced surface instabilities?",
+            "Question": "What is excluded from the efforts in the present work regarding ion-induced surface instabilities?",
+            "A": "Surface stress.",
+            "B": "Subsurface point defect generation.",
+            "C": "Stochastic noise.",
+            "D": "Ion energy.",
+            "Answer": "C",
+            "Source": "Our efforts are confined to the main aspects of ion-induced surface instabilities, where the effects of surface stress, subsurface point defect generation, surface composition, impurities, mass redistribution, hydrodynamic effects, stochastic noise, and other contributing processes are excluded."
+        }
+    },
+    {
+        "Question_10": {
+            "Context": "What is the focus of the present work in terms of surface pattern evolution under ion bombardment?",
+            "Question": "What is the focus of the present work in terms of surface pattern evolution under ion bombardment?",
+            "A": "Determining the impact of subsurface point defect generation.",
+            "B": "Developing analytical and computational methods for understanding surface pattern evolution.",
+            "C": "Analyzing the role of surface stress in pattern formation.",
+            "D": "Investigating the effects of stochastic noise on surface morphology.",
+            "Answer": "B",
+            "Source": "Specifically, we aim at determination of the pattern wavelength and spatial symmetry at the later stages of surface evolution beyond the linear regime."
+        }
+    }
+]

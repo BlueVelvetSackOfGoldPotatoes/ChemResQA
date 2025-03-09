@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Amphipathic \u03b1-helical peptides (AHPs) are known for their antimicrobial properties, which they exert by interacting with bacterial membranes. These peptides have both hydrophilic and hydrophobic regions that allow them to insert into lipid bilayers, causing disruption and cell death.",
+        "Question": "What is the primary mechanism by which amphipathic \u03b1-helical peptides (AHPs) exhibit antimicrobial activity?",
+        "A": "Inhibition of bacterial DNA replication",
+        "B": "Disruption of bacterial membranes",
+        "C": "Blocking bacterial protein synthesis",
+        "D": "Preventing bacterial cell wall synthesis",
+        "Answer": "B",
+        "Source": "Once bound, the hydrophobic face of the \u03b1-helix structure inserts into the hydrophobic region of the lipid bilayers, causing membrane disruption and ultimately leading to the death of the bacterial cell."
+    },
+    "Question_2": {
+        "Context": "The interaction of amphipathic \u03b1-helical peptides with mammalian cell membranes can result in cytotoxicity due to their nonspecific binding properties.",
+        "Question": "Why can amphipathic \u03b1-helical peptides be cytotoxic to mammalian cells?",
+        "A": "They specifically target mammalian DNA",
+        "B": "They induce an immune response in mammalian cells",
+        "C": "They nonspecifically interact with mammalian cell membranes",
+        "D": "They are ingested by mammalian cells",
+        "Answer": "C",
+        "Source": "However, their nonspecific interactions with membranes can often result in cytotoxicity toward mammalian cells, thereby limiting their clinical potential."
+    },
+    "Question_3": {
+        "Context": "The PxxP motif in antimicrobial peptides is a sequence that can induce flexibility in the peptide structure, which is important for interaction with microbial membranes.",
+        "Question": "What is the role of the PxxP motif in antimicrobial peptides?",
+        "A": "To stabilize the \u03b1-helical structure",
+        "B": "To induce flexibility and enhance interaction with microbial membranes",
+        "C": "To increase the hydrophobicity of the peptide",
+        "D": "To target the peptide to bacterial DNA",
+        "Answer": "B",
+        "Source": "The central PxxP motif, which consists of a proline (P) followed by any two amino acids (x) and another proline (P), induces a hinge that significantly affects the antimicrobial activity of some AHPs."
+    },
+    "Question_4": {
+        "Context": "The amphipathic nature of \u03b1-helical peptides contributes to their ability to bind to bacterial membranes, which are typically negatively charged.",
+        "Question": "Why are amphipathic \u03b1-helical peptides effective at binding to bacterial membranes?",
+        "A": "Due to their uniformly hydrophobic nature",
+        "B": "Because they are positively charged",
+        "C": "Due to their cationic nature allowing binding to negatively charged membranes",
+        "D": "Because they contain sugar moieties that bind to bacteria",
+        "Answer": "C",
+        "Source": "AHPs possess a cationic nature that enables them to bind to bacterial membranes that are negatively charged."
+    },
+    "Question_5": {
+        "Context": "In the study of antimicrobial peptides, the helical content of a peptide in a membrane-mimetic environment can be indicative of its structure and potential function.",
+        "Question": "What does a higher helical content of an antimicrobial peptide in a membrane-mimetic environment suggest?",
+        "A": "Increased disordered structure",
+        "B": "Decreased ability to form an \u03b1-helical structure",
+        "C": "Increased stability of the \u03b1-helical structure",
+        "D": "Decreased antimicrobial activity",
+        "Answer": "C",
+        "Source": "In a membrane\u2011mimetic environment, we observed that KL18 had a much higher helical content compared to KL\u2011PxxP."
+    },
+    "Question_6": {
+        "Context": "The hemolytic activity of peptides is a measure of their potential to cause damage to red blood cells, which is an important consideration in evaluating their therapeutic safety.",
+        "Question": "What does the hemolytic activity of a peptide indicate?",
+        "A": "Its ability to transport oxygen",
+        "B": "Its potential to cause damage to red blood cells",
+        "C": "Its ability to bind to hemoglobin",
+        "D": "Its potential to prevent blood clotting",
+        "Answer": "B",
+        "Source": "These findings suggest that the dynamic conformational behaviors caused by the central PxxP motif conferred the anti\u2011 bacterial selectivity of AHPs."
+    },
+    "Question_7": {
+        "Context": "The binding affinity of peptides to anionic versus zwitterionic liposomes can provide insight into their selectivity for bacterial over mammalian cells.",
+        "Question": "What does strong binding of a peptide to anionic liposomes and weak binding to zwitterionic liposomes indicate?",
+        "A": "High selectivity for mammalian cells",
+        "B": "Low selectivity for bacterial cells",
+        "C": "High selectivity for bacterial cells",
+        "D": "Non-selective binding to all cell types",
+        "Answer": "C",
+        "Source": "Additionally, KL\u2011PxxP showed strong binding to anionic liposomes and weak binding to zwitterionic liposomes, explaining its selectivity for bacteria over mammalian cells."
+    },
+    "Question_8": {
+        "Context": "The ability of peptides to dissipate bacterial membrane potential is one aspect of their mode of action, which can be assessed using specific fluorescent dyes.",
+        "Question": "What does the ability of a peptide to dissipate bacterial membrane potential indicate about its mode of action?",
+        "A": "It suggests the peptide acts by inhibiting bacterial protein synthesis",
+        "B": "It suggests the peptide acts by disrupting the bacterial cell wall",
+        "C": "It suggests the peptide acts by depolarizing the cytoplasmic membrane",
+        "D": "It suggests the peptide acts by blocking bacterial DNA replication",
+        "Answer": "C",
+        "Source": "To investigate whether the peptides kill bacteria by depolarizing the cytoplasmic membrane, we used DiSC3(5), a membrane potential-sensitive fluorescent dye, to determine their ability to depolarize the cytoplasmic membrane of S. aureus."
+    },
+    "Question_9": {
+        "Context": "The translocation of peptides across lipid bilayers is a process that can contribute to their antimicrobial efficacy, as it may allow them to reach intracellular targets.",
+        "Question": "What is the significance of a peptide's ability to translocate across lipid bilayers in terms of its antimicrobial efficacy?",
+        "A": "It indicates the peptide can only act on the surface of bacterial cells",
+        "B": "It suggests the peptide may reach intracellular targets within bacterial cells",
+        "C": "It shows the peptide is ineffective against bacteria",
+        "D": "It indicates the peptide can cause toxicity in mammalian cells",
+        "Answer": "B",
+        "Source": "Despite having a low ability to dissipate the bacterial membrane potential, KL\u2011PxxP translocated efficiently across lipid membranes."
+    },
+    "Question_10": {
+        "Context": "The secondary structure of peptides, such as \u03b1-helicity, can be estimated using circular dichroism (CD) spectroscopy, which provides information about the peptide's conformation in different environments.",
+        "Question": "What information can be obtained from the circular dichroism (CD) spectra of peptides?",
+        "A": "The exact sequence of amino acids in the peptide",
+        "B": "The lipid composition of the membrane the peptide interacts with",
+        "C": "The presence and extent of \u03b1-helical structures in the peptide",
+        "D": "The concentration of the peptide in solution",
+        "Answer": "C",
+        "Source": "The secondary structure of the peptides was estimated using circular dichroism (CD) spectroscopy."
+    }
+}

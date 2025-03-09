@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Dislocations in crystals are defects that play a significant role in determining the mechanical properties of materials.",
+        "Question": "What is the primary behavior of dislocations in a material under mechanical load?",
+        "A": "They behave like point particles.",
+        "B": "They behave like twigs in a bird's nest.",
+        "C": "They behave like rigid rods.",
+        "D": "They behave like isolated atoms.",
+        "Answer": "B",
+        "Source": "However, as characterization techniques improved, it became clear that dislocations do not obey the physics of point-like particles, but rather behave like the twigs of a bird\u2019s nest."
+    },
+    "Question_2": {
+        "Context": "Dislocation density is a concept used to describe the amount of dislocations within a material and is linked to its mechanical behavior.",
+        "Question": "What is the role of dislocation density in materials?",
+        "A": "It is an external variable unrelated to mechanical behavior.",
+        "B": "It is a measure of electrical conductivity.",
+        "C": "It is an internal variable governing aspects of mechanical behavior.",
+        "D": "It is a measure of optical transparency.",
+        "Answer": "C",
+        "Source": "While dislocation density has long been used as an internal variable governing important aspects of mechanical behavior."
+    },
+    "Question_3": {
+        "Context": "Dislocations in materials can form complex networks that influence mechanical properties.",
+        "Question": "Which mechanical property is NOT typically controlled by dislocation networks?",
+        "A": "Yield strength",
+        "B": "Work hardening",
+        "C": "Optical reflectivity",
+        "D": "Ductile fracture toughness",
+        "Answer": "C",
+        "Source": "Their loop topology and capacity for multiplication lead to immense defect configurational complexity, typically manifesting in patterning at finite strains, and control key mechanical properties such as yield strength, work hardening, ductile fracture toughness."
+    },
+    "Question_4": {
+        "Context": "The complexity of dislocation networks in materials requires advanced tools for proper characterization.",
+        "Question": "Which tool has been commonly used for characterizing dislocation networks?",
+        "A": "Nye's dislocation density tensor",
+        "B": "Fourier transform infrared spectroscopy",
+        "C": "X-ray diffraction",
+        "D": "Atomic force microscopy",
+        "Answer": "A",
+        "Source": "The characterization of the dislocation ensembles\u2019 complexity has long been under development, with a common tool being Nye\u2019s dislocation density tensor."
+    },
+    "Question_5": {
+        "Context": "Dislocation networks can exhibit complex patterns that are not fully captured by average behavior and global correlations.",
+        "Question": "What additional complexity is observed in dislocation networks beyond classical density metrics?",
+        "A": "Uniform distribution of dislocations",
+        "B": "Simplified network topology",
+        "C": "Multiscale complexity",
+        "D": "Decreased defect configurational complexity",
+        "Answer": "C",
+        "Source": "However, upon zooming into a dislocation network it becomes clear that there is additional complexity which goes beyond the average behavior and global correlations embedded in these classical density metrics."
+    },
+    "Question_6": {
+        "Context": "Dislocation networks can form cellular patterns that have a strong impact on the mechanical properties of materials.",
+        "Question": "What morphology is often exhibited by dislocation networks at higher length scales?",
+        "A": "Granular",
+        "B": "Cellular",
+        "C": "Linear",
+        "D": "Amorphous",
+        "Answer": "B",
+        "Source": "At higher length scales, dislocation networks often exhibit a patterned, cellular morphology which is known to strongly influence mechanical properties."
+    },
+    "Question_7": {
+        "Context": "The behavior of single dislocations in solid solutions can be complex and influenced by stress.",
+        "Question": "How do single dislocations in solid solutions behave when stress pushes them towards yield?",
+        "A": "They move in a smooth and predictable manner.",
+        "B": "They become immobile.",
+        "C": "They display irregular and jerky line shapes.",
+        "D": "They align in a parallel configuration.",
+        "Answer": "C",
+        "Source": "P\u00e9terffy and colleagues demonstrated that single dislocations in the important material class of solid solutions, which includes steels and high entropy alloys, display irregular and jerky line shapes from the nanoscale up to a quite large spatial correlation length (> 100 nm) that actually diverges when stress pushes dislocations towards yield."
+    },
+    "Question_8": {
+        "Context": "Dislocation networks can undergo topological changes that affect their complexity.",
+        "Question": "What can drive significant dislocation multiplication in dislocation networks?",
+        "A": "Topological changes in binary junctions",
+        "B": "Uniform temperature distribution",
+        "C": "Application of magnetic fields",
+        "D": "Decrease in external pressure",
+        "Answer": "A",
+        "Source": "Akhondzadeh and colleagues demonstrated how topological changes in binary junctions drive significant dislocation multiplication on inactive slip systems, while producing a network topology that is more complex than previous theories suggest."
+    },
+    "Question_9": {
+        "Context": "Machine learning can be used to classify and understand dislocation networks in materials.",
+        "Question": "What aspect of dislocation networks has been captured through machine learning?",
+        "A": "Electrical conductivity patterns",
+        "B": "Complexity encoded in dislocation networks",
+        "C": "Chemical composition of the material",
+        "D": "Thermal expansion coefficients",
+        "Answer": "B",
+        "Source": "Salmenjoki and colleagues demonstrated that the complexity encoded in dislocation networks can be captured through machine learning in the case of a transition that takes place in materials with increasing amounts of precipitates."
+    },
+    "Question_10": {
+        "Context": "Advances in the understanding of dislocation networks contribute to the development of materials with improved properties.",
+        "Question": "What is a fundamental prerequisite for the design of microstructures that achieve superior mechanical responses?",
+        "A": "High thermal conductivity",
+        "B": "Proper classification measures",
+        "C": "Increased electrical resistance",
+        "D": "Decreased density",
+        "Answer": "B",
+        "Source": "A systematic path to these advances requires proper classification measures as a fundamental prerequisite for the design of microstructures that achieve superior mechanical responses."
+    }
+}

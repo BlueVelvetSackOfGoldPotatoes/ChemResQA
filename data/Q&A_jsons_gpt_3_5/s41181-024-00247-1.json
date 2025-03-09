@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the optimization of the production of [18F]AlF-P16-093 using a custom automated synthesis platform. The sensitivity of the radiochemical yield of [18F]AlF-P16-093 to reaction parameters was investigated.",
+        "Question": "What was the optimized none-decay-corrected yield of [18F]AlF-P16-093?",
+        "A": "17.5 GBq",
+        "B": "18.3 GBq",
+        "C": "19.3 GBq",
+        "D": "15 GBq",
+        "Answer": "A",
+        "Source": "The optimized none-decay-corrected yield of [18F]AlF-P16-093 was 17.5 \u00b1 2.2 GBq."
+    },
+    "Question_2": {
+        "Context": "The paper mentions the use of a custom automated radiosynthesis platform called PiBOX for the production of [18F]AlF-P16-093. The system is described as low-cost and cassette-based.",
+        "Question": "What is the name of the custom automated radiosynthesis platform used for the production of [18F]AlF-P16-093?",
+        "A": "SynthraF-CHOL",
+        "B": "TracerLab FX",
+        "C": "PiBOX",
+        "D": "Custom remote",
+        "Answer": "C",
+        "Source": "The automated radiosynthesis system used for the production of [18F]AlF-P16-093 is called PiBOX."
+    },
+    "Question_3": {
+        "Context": "The paper discusses the stability of the final product solution of [18F]AlF-P16-093. The stability was determined by sampling the product vial for up to 5 hours after the end of synthesis.",
+        "Question": "What was the rate of decline in radiochemical purity of [18F]AlF-P16-093 when stored at room temperature?",
+        "A": "1.4%/h",
+        "B": "0.4%/h",
+        "C": "2.5%/h",
+        "D": "0.8%/h",
+        "Answer": "A",
+        "Source": "The rate of decline in radiochemical purity of ~ 1.4%/h was observed when [18F]AlF-P16-093 was stored at room temperature."
+    },
+    "Question_4": {
+        "Context": "The paper mentions the use of Thin Layer Chromatography (TLC) for determining the stability of the final product solution of [18F]AlF-P16-093. Stability was evaluated for storage at room temperature and at 4\u00b0C.",
+        "Question": "How did the rate of decline in radiochemical purity of [18F]AlF-P16-093 differ between storage at room temperature and at 4\u00b0C?",
+        "A": "1.4%/h at room temperature and 0.4%/h at 4\u00b0C",
+        "B": "0.4%/h at room temperature and 1.4%/h at 4\u00b0C",
+        "C": "2%/h at room temperature and 1%/h at 4\u00b0C",
+        "D": "0.8%/h at room temperature and 0.8%/h at 4\u00b0C",
+        "Answer": "A",
+        "Source": "The rate of decline in radiochemical purity was ~ 1.4%/h at room temperature and ~ 0.4%/h when stored at 4\u00b0C."
+    },
+    "Question_5": {
+        "Context": "The paper discusses the large-scale production of [18F]AlF-P16-093 using the optimized PiBOX conditions. The results of the large-scale syntheses were compared with high activity production of similar compounds.",
+        "Question": "What was the molar activity of [18F]AlF-P16-093 produced in the large-scale runs?",
+        "A": "109 GBq/\u00b5mole",
+        "B": "120 GBq/\u00b5mole",
+        "C": "140 GBq/\u00b5mole",
+        "D": "145 GBq/\u00b5mole",
+        "Answer": "C",
+        "Source": "The molar activity of [18F]AlF-P16-093 produced in the large-scale runs was 140 \u00b1 11 GBq/\u00b5mole."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the efficiency of the QMA extraction during the optimization runs for [18F]AlF-P16-093 production. Two different types of QMA were used with different elution solutions.",
+        "Question": "Which type of QMA showed higher efficiency for [18F]F\u2212 extraction during the optimization runs?",
+        "A": "QMA carb",
+        "B": "QMA (Cl\u2212)",
+        "C": "Both showed similar efficiency",
+        "D": "None of the above",
+        "Answer": "B",
+        "Source": "QMA (Cl\u2212) showed higher efficiency for [18F]F\u2212 extraction compared to QMA carb during the optimization runs."
+    },
+    "Question_7": {
+        "Context": "The paper mentions the use of flow-controlled solid phase extraction (SPE) for purification of the reaction mixture during the production of [18F]AlF-P16-093. The efficiency of the SPE purification was evaluated.",
+        "Question": "What was the average efficiency of recovery of [18F]AlF-P16-093 using the HLB cartridge for purification?",
+        "A": "85.8%",
+        "B": "91.2%",
+        "C": "97.5%",
+        "D": "90.5%",
+        "Answer": "C",
+        "Source": "The average efficiency of recovery of [18F]AlF-P16-093 using the HLB cartridge for purification was 97.5%."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the effect of starting P16-093 amount and the mole ratio of P16-093: AlCl3\u00b76H2O on the yield of [18F]AlF-P16-093 during the optimization runs.",
+        "Question": "What was the impact of decreasing the mole ratio of P16-093: AlCl3\u00b76H2O from 2:1 to 1:1 on the yield of [18F]AlF-P16-093?",
+        "A": "No impact on yield",
+        "B": "Increase in yield",
+        "C": "Decrease in yield",
+        "D": "Significant increase in yield",
+        "Answer": "C",
+        "Source": "There was a significant decrease in yield of [18F]AlF-P16-093 when the mole ratio of P16-093: AlCl3\u00b76H2O was decreased from 2:1 to 1:1."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the time dependence of 18F-incorporation into P16-093 after [18F]AlF2+ formation. The effect of incubation time on 18F-incorporation was evaluated.",
+        "Question": "What was the impact of increasing the incubation time from 2 to 10 minutes on the percent of 18F-activity present as [18F]AlF-P16-093?",
+        "A": "No impact",
+        "B": "Decrease in 18F-activity",
+        "C": "Increase in 18F-activity",
+        "D": "Significant decrease in 18F-activity",
+        "Answer": "A",
+        "Source": "There was no difference in the percent of 18F-activity present as [18F]AlF-P16-093 when increasing the incubation time from 2 to 10 minutes."
+    },
+    "Question_10": {
+        "Context": "The paper mentions the comparison of the large-scale production of [18F]AlF-P16-093 with high activity production of similar compounds. The results of the large-scale syntheses were evaluated.",
+        "Question": "How did the yield of [18F]AlF-P16-093 in the large-scale runs compare to the yield of similar compounds produced in high activity production?",
+        "A": "Lower yield",
+        "B": "Higher yield",
+        "C": "Similar yield",
+        "D": "Not enough information provided",
+        "Answer": "B",
+        "Source": "The yield of [18F]AlF-P16-093 in the large-scale runs was approximately 2 times higher than the yield of similar compounds produced in high activity production."
+    }
+}

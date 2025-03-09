@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study discusses the fabrication of non-toxic, water-stable, and eco-friendly luminescent fiber paper. It mentions the incorporation of CsPbBr3@SiO2 core-shell perovskite nanocrystals in the fibers.",
+        "Question": "What is the composition of the luminescent fiber paper discussed in the study?",
+        "A": "Polycaprolactone (PCL) polymer and CsPbBr3 nanocrystals",
+        "B": "Polycaprolactone (PCL) polymer and CsPbI3 nanocrystals",
+        "C": "Polycaprolactone (PCL) polymer and CsPbBr3@SiO2 core-shell perovskite nanocrystals",
+        "D": "Polycaprolactone (PCL) polymer and CsPbCl3 nanocrystals",
+        "Answer": "C",
+        "Source": "PCL-perovskite fiber paper was fabricated using a conventional electrospinning process. Transmission electron microscopy (TEM) clearly revealed incorporation of CsPbBr3@SiO2 nanocrystals in the fibers."
+    },
+    "Question_2": {
+        "Context": "The study mentions the bright green emission exhibited by the fabricated PCL-perovskite fiber paper upon excitation by UV light.",
+        "Question": "What is the color of the emission exhibited by the PCL-perovskite fiber paper under UV light excitation?",
+        "A": "Red",
+        "B": "Blue",
+        "C": "Green",
+        "D": "Yellow",
+        "Answer": "C",
+        "Source": "The fabricated PCL-perovskite fiber paper exhibited a bright green emission centered at 520 nm upon excitation by ultra-violet (UV) light (374 nm)."
+    },
+    "Question_3": {
+        "Context": "The study discusses the thermal and water stability of the PCL-perovskite fibers.",
+        "Question": "What analysis was performed to evaluate the thermal properties of the PCL and PCL-perovskite fibers?",
+        "A": "Transmission electron microscopy (TEM)",
+        "B": "Scanning electron microscopy (SEM)",
+        "C": "Thermogravimetric analysis (TGA)",
+        "D": "Contact angle measurements",
+        "Answer": "C",
+        "Source": "TGA of the PCL and PCL-perovskite fibers were performed to evaluate their thermal properties."
+    },
+    "Question_4": {
+        "Context": "The study mentions the use of PCL-perovskite fiber paper for anti-counterfeiting applications.",
+        "Question": "What method was used to print various patterns on the PCL-perovskite fiber paper for anti-counterfeiting purposes?",
+        "A": "Inkjet printing",
+        "B": "Laser engraving",
+        "C": "Screen printing",
+        "D": "Offset printing",
+        "Answer": "A",
+        "Source": "We have investigated the use of fluorescent PCL-perovskite-based fiber white paper (fluorescent paper) in anti-counterfeiting applications. Invisible patterns were stamped on PCL-perovskite-based fiber white paper using commercially available white ink."
+    },
+    "Question_5": {
+        "Context": "The study discusses the biocompatibility of the PCL-perovskite fibers.",
+        "Question": "What type of cells were used to determine the biocompatibility of the PCL-perovskite fibers?",
+        "A": "Cancer cells",
+        "B": "Stem cells",
+        "C": "Bacterial cells",
+        "D": "Red blood cells",
+        "Answer": "B",
+        "Source": "The biocompatibility of the PCL-perovskite fibers was determined using a CCK assay utilizing ADSC."
+    },
+    "Question_6": {
+        "Context": "The study mentions the alignment of fibers during the electrospinning process.",
+        "Question": "What is the benefit of aligning the fibers during the electrospinning process?",
+        "A": "Increased water solubility",
+        "B": "Enhanced mechanical properties",
+        "C": "Improved thermal stability",
+        "D": "Reduced biocompatibility",
+        "Answer": "B",
+        "Source": "Control over the fiber alignment is highly desirable for producing anisotropic meshes with increased complexity and performance. In addition, aligned fibers can improve the mechanical properties because crystallinity is increased during the electrospinning process."
+    },
+    "Question_7": {
+        "Context": "The study discusses the use of luminescent materials for anti-counterfeiting applications.",
+        "Question": "What is the advantage of using luminescent paper for anti-counterfeiting compared to traditional methods?",
+        "A": "Higher cost",
+        "B": "Complex synthesis route",
+        "C": "Low water solubility",
+        "D": "High photostability",
+        "Answer": "D",
+        "Source": "In most of these efforts, luminescent paper based on organic compounds and dyes have many drawbacks such as photostability."
+    },
+    "Question_8": {
+        "Context": "The study mentions the incorporation of CsPbBr3@SiO2 nanocrystals in the PCL fibers.",
+        "Question": "What technique was used to confirm the incorporation of CsPbBr3@SiO2 nanocrystals in the fibers?",
+        "A": "Scanning electron microscopy (SEM)",
+        "B": "Transmission electron microscopy (TEM)",
+        "C": "Thermogravimetric analysis (TGA)",
+        "D": "Contact angle measurements",
+        "Answer": "B",
+        "Source": "The TEM image of the PCL-perovskite fibers is shown, which confirmed that CsPbBr3@SiO2 nanocrystals were embedded inside the fibers."
+    },
+    "Question_9": {
+        "Context": "The study discusses the stability of the printed patterns on the PCL-perovskite fiber paper.",
+        "Question": "How long was the stability test conducted for the printed QR code on the PCL-perovskite fiber paper?",
+        "A": "1 month",
+        "B": "3 months",
+        "C": "6 months",
+        "D": "12 months",
+        "Answer": "C",
+        "Source": "For the time-dependent stability of fluorescent PCL-perovskite fiber paper, a comparative analysis was conducted between a newly generated QR code and one that is over 6 months old."
+    },
+    "Question_10": {
+        "Context": "The study mentions the use of CsPbBr3@SiO2 nanocrystals for biomedical applications.",
+        "Question": "What property of CsPbBr3@SiO2 nanocrystals makes them suitable for biomedical applications?",
+        "A": "High toxicity",
+        "B": "Low stability",
+        "C": "Biocompatibility",
+        "D": "Low emission intensity",
+        "Answer": "C",
+        "Source": "Moreover, CsPbBr3@SiO2 nanocrystals have been for explored for bio-medical application due to their biocompatibility."
+    }
+}

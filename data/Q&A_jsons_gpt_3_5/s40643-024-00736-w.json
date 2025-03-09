@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on optimizing the conditions for the biotransformation of hemin into biliverdin using recombinant P. pastoris GS115-HO1 cells. ",
+        "Question": "What was the optimal pH of the BMMY medium for the expression of HO1?",
+        "A": "pH 4.5",
+        "B": "pH 5.0",
+        "C": "pH 6.0",
+        "D": "pH 7.0",
+        "Answer": "C",
+        "Source": "The optimal expression conditions were obtained as follows: BMMY medium with a pH of 6.0..."
+    },
+    "Question_2": {
+        "Context": "The study investigated the impact of different inducer concentrations on the expression of HO1.",
+        "Question": "What was the optimal concentration of the inducer methanol for the expression of HO1?",
+        "A": "0.5%",
+        "B": "1.0%",
+        "C": "1.5%",
+        "D": "2.0%",
+        "Answer": "B",
+        "Source": "The optimal expression conditions were obtained as follows: ...addition of 1% methanol..."
+    },
+    "Question_3": {
+        "Context": "The study explored the effect of sorbitol addition on the expression of HO1.",
+        "Question": "What was the optimal molar ratio of sorbitol to methanol for the expression of HO1?",
+        "A": "1.25%",
+        "B": "2.5%",
+        "C": "5.0%",
+        "D": "10%",
+        "Answer": "B",
+        "Source": "The optimal expression conditions were obtained as follows: ...a 2.5% molar ratio of sorbitol to methanol..."
+    },
+    "Question_4": {
+        "Context": "The study investigated the impact of the duration of the induction period on the expression of HO1.",
+        "Question": "What was the optimal duration of the induction period for the expression of HO1?",
+        "A": "1 day",
+        "B": "2 days",
+        "C": "3 days",
+        "D": "4 days",
+        "Answer": "C",
+        "Source": "The optimal expression conditions were obtained as follows: ...The induction process was conducted for 3 days..."
+    },
+    "Question_5": {
+        "Context": "The study focused on optimizing the conditions for the biotransformation of hemin into biliverdin using recombinant P. pastoris GS115-HO1 cells.",
+        "Question": "What was the optimal time for the biotransformation of hemin into biliverdin?",
+        "A": "2 hours",
+        "B": "4 hours",
+        "C": "6 hours",
+        "D": "8 hours",
+        "Answer": "B",
+        "Source": "The optimal biotransformation time was 4 hours, resulting in an enzyme activity of 0.560 U/mL in the GS115-HO1 culture."
+    },
+    "Question_6": {
+        "Context": "The study explored the impact of different solvents on the biotransformation of hemin into biliverdin.",
+        "Question": "Which solvent yielded the highest conversion yield of biliverdin?",
+        "A": "Na2CO3",
+        "B": "NaOH",
+        "C": "DMSO",
+        "D": "Acidic acetone",
+        "Answer": "B",
+        "Source": "The conversion yield of biliverdin was highest when 0.05 mol/L NaOH aqueous solution was used as the solvent..."
+    },
+    "Question_7": {
+        "Context": "The study investigated the impact of different hemin concentrations on the biotransformation of hemin into biliverdin.",
+        "Question": "What was the conversion yield of biliverdin when the hemin concentration was 0.8 g/L?",
+        "A": "12.3%",
+        "B": "15.7%",
+        "C": "18.5%",
+        "D": "21.2%",
+        "Answer": "C",
+        "Source": "When the concentration of hemin reached 0.8 g/L or above, the concentration of biliverdin remained almost constant at 132 mg/L, resulting in a conversion yield of 18.5% at 0.8 g/L hemin."
+    },
+    "Question_8": {
+        "Context": "The study aimed to optimize the conditions for the biotransformation of hemin into biliverdin using recombinant P. pastoris GS115-HO1 cells.",
+        "Question": "What was the concentration of biliverdin in the mixture when the substrate hemin concentration was 0.05 g/L?",
+        "A": "10.3 mg/L",
+        "B": "15.7 mg/L",
+        "C": "21.9 mg/L",
+        "D": "28.4 mg/L",
+        "Answer": "C",
+        "Source": "Even when the substrate hemin concentration was as low as 0.05 g/L, the conversion yield of biliverdin was only 48.7%, and the concentration of biliverdin in the mixture was 21.9 mg/L."
+    },
+    "Question_9": {
+        "Context": "The study focused on optimizing the conditions for the biotransformation of hemin into biliverdin using recombinant P. pastoris GS115-HO1 cells.",
+        "Question": "What was the conversion yield of biliverdin when the biotransformation time was 6 hours?",
+        "A": "15.2%",
+        "B": "18.9%",
+        "C": "22.4%",
+        "D": "25.1%",
+        "Answer": "A",
+        "Source": "The conversion yield of biliverdin was highest when 0.05 mol/L NaOH aqueous solution was used as the solvent..."
+    },
+    "Question_10": {
+        "Context": "The study aimed to optimize the conditions for the biotransformation of hemin into biliverdin using recombinant P. pastoris GS115-HO1 cells.",
+        "Question": "What was the enzyme activity in the culture of the GS115-HO1 after the optimization process?",
+        "A": "0.437 U/mL",
+        "B": "0.500 U/mL",
+        "C": "0.560 U/mL",
+        "D": "0.625 U/mL",
+        "Answer": "C",
+        "Source": "The optimal expression conditions were obtained as follows: ...resulting in an enzyme activity of 0.560 U/mL in the GS115-HO1 culture."
+    }
+}

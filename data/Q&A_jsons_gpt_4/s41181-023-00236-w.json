@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In pharmacokinetics, models are used to simulate the distribution of pharmaceuticals among different organs in the body. Each organ can be treated as a collection of compartments, each associated with a different spatial structure of the organs, such as vascular structure, interstitial space, and the internal space of cells.",
+        "Question": "What governs the interchange of material between compartments in pharmacokinetic models?",
+        "A": "Chemical reactions",
+        "B": "Ordinary differential equations (ODE)",
+        "C": "Physical barriers",
+        "D": "Temperature gradients",
+        "Answer": "B",
+        "Source": "Each organ is treated as a collection of compartments, each associated with a different spacial structure of the organs (i.e. vascular structure, interstitial space, PSMA binding sites, and the internal space of cells). The interchange of material between these compartments is governed by ordinary differential equations (ODE)."
+    },
+    "Question_2": {
+        "Context": "In the context of radiopharmaceutical therapies, the term 'hot' refers to molecules labeled with radioisotopes, whereas 'cold' refers to unlabeled molecules. These molecules compete for binding sites, which can affect the delivered dose to tumors and organs at risk.",
+        "Question": "What is the effect of increasing the number of cold molecules on the delivered dose to the tumor when the amount of injected hot activity is fixed?",
+        "A": "Increases the delivered dose",
+        "B": "Decreases the delivered dose",
+        "C": "Has no effect on the delivered dose",
+        "D": "Changes the type of radiation emitted",
+        "Answer": "B",
+        "Source": "In Fig. 1 we observe that for a fixed amount of injected activity (i.e. fixed hot amount), increasing the number of cold molecules (i.e. decreasing specific activities, and moving up on the dashed line in Fig. 1), will result in lower delivered doses to the tumor."
+    },
+    "Question_3": {
+        "Context": "The concept of 'twist' in pharmacokinetic modeling is a geometrical measure used to describe the tilt of iso-dose curves, which represent the relationship between injected activities and delivered doses to tumors.",
+        "Question": "What does a decreasing 'twist' value indicate in the context of iso-dose curves for tumors?",
+        "A": "Increased competition between hot and cold species",
+        "B": "Decreased competition between hot and cold species",
+        "C": "Constant competition regardless of injected activities",
+        "D": "Iso-dose curves are not related to competition between species",
+        "Answer": "B",
+        "Source": "Furthermore, the figure shows that moving from the iso-dose curve corresponding to the lowest dose (the leftmost) to the iso-dose curve with the highest dose value (the rightmost), the curves become more horizontal. Figures 2 and 3 show the effects of varying tumor receptor densities and tumor volumes on the tumor absorbed doses, respectively. It is observed that by increasing the tumor receptor density or tumor volume, the average delivered dose to the tumor increases. Furthermore, in doing so, the iso-dose curves become less tilted (horizontal) as we move from the iso-dose curve with the lowest dose value to the one with the highest dose value."
+    },
+    "Question_4": {
+        "Context": "In radiopharmaceutical therapies, multi-bolus injection refers to the administration of the therapeutic agent in smaller portions over time, as opposed to a single bolus injection where the entire dose is administered at once.",
+        "Question": "What is the effect of fractionating injections (multi-bolus) compared to a single bolus injection on the delivered dose to the tumor?",
+        "A": "Decreases the delivered dose",
+        "B": "Increases the delivered dose",
+        "C": "Has no effect on the delivered dose",
+        "D": "Changes the type of radiation emitted",
+        "Answer": "B",
+        "Source": "These figures show that under a fixed tumor volume or tumor receptor density, more fractionation (higher number of injections or higher time between injections) translates to a higher delivered dose to the tumor."
+    },
+    "Question_5": {
+        "Context": "In pharmacokinetic models, the parameter 'Kd' refers to the dissociation constant, which is an indicator of the affinity between a ligand and a protein such as albumin. A lower Kd value indicates a higher affinity.",
+        "Question": "How does an increased albumin-binding affinity (lower Kd) affect the blood residence time of radiopharmaceuticals?",
+        "A": "Decreases the blood residence time",
+        "B": "Increases the blood residence time",
+        "C": "Has no effect on the blood residence time",
+        "D": "Causes immediate clearance from the blood",
+        "Answer": "B",
+        "Source": "Figure 9 shows that the blood residence time is increased with a higher affinity of the radiopharmaceutical to the albumin."
+    },
+    "Question_6": {
+        "Context": "The 'enhancement factor' in pharmacokinetic modeling is a metric used to quantify the effectiveness of a therapeutic intervention, such as the binding of a ligand to albumin, in delivering a differential dose to a target organ relative to other organs.",
+        "Question": "What does an enhancement factor greater than one signify in the context of albumin binding in radiopharmaceutical therapies?",
+        "A": "Decreased dose delivery to the tumor",
+        "B": "Increased dose delivery to organs at risk",
+        "C": "Increased differential dose delivery to the tumor",
+        "D": "No change in dose delivery to any organ",
+        "Answer": "C",
+        "Source": "Intuitively speaking, EF quantifies the effectiveness of albumin binding in delivering differential dose to tumor (relative to OAR). For instance, for a given value of K alb D , EF = 4 means that enabling albumin binding with the given K alb D , delivered 4 times more dose to the tumor relative to OAR, compared to the situation where albumin binding was off (i.e. K alb D = \u221e)."
+    },
+    "Question_7": {
+        "Context": "In radiopharmaceutical therapies, the term 'specific activity' refers to the amount of radioactivity per unit mass of a compound, indicating the proportion of 'hot' (radioactive) to 'cold' (non-radioactive) molecules.",
+        "Question": "What is the relationship between specific activity and the delivered dose to a tumor when the amount of injected hot activity is fixed?",
+        "A": "Higher specific activity increases the delivered dose",
+        "B": "Lower specific activity increases the delivered dose",
+        "C": "Specific activity has no effect on the delivered dose",
+        "D": "Specific activity only affects the type of radiation emitted",
+        "Answer": "A",
+        "Source": "In Fig. 1 we observe that for a fixed amount of injected activity (i.e. fixed hot amount), increasing the number of cold molecules (i.e. decreasing specific activities, and moving up on the dashed line in Fig. 1), will result in lower delivered doses to the tumor."
+    },
+    "Question_8": {
+        "Context": "In pharmacokinetic modeling, the term 'tumor sink effect' refers to the phenomenon where a tumor with certain characteristics, such as a larger volume or higher receptor density, can absorb more of the administered therapeutic agent, potentially affecting the distribution to other organs.",
+        "Question": "How does an increase in tumor volume affect the competition between hot and cold species for binding sites?",
+        "A": "Increases competition in the tumor",
+        "B": "Decreases competition in the tumor",
+        "C": "Has no effect on competition in the tumor",
+        "D": "Only affects competition in organs at risk",
+        "Answer": "B",
+        "Source": "Furthermore, in doing so, the iso-dose curves become less tilted (horizontal) as we move from the iso-dose curve with the lowest dose value to the one with the highest dose value. This translates to the decreasing 'twist' value is shown in Figs. 4 and 5. Overall, tumor receptors and volumes have an important interplay with injected radioactivities and specific activities."
+    },
+    "Question_9": {
+        "Context": "In pharmacokinetic models, the parameter 'tumor receptor density' refers to the concentration of binding sites within a tumor that can be targeted by radiopharmaceuticals.",
+        "Question": "What is the effect of increasing tumor receptor density on the delivered dose to the tumor?",
+        "A": "Decreases the delivered dose",
+        "B": "Increases the delivered dose",
+        "C": "Has no effect on the delivered dose",
+        "D": "Changes the type of radiation emitted",
+        "Answer": "B",
+        "Source": "Figures 2 and 3 show the effects of varying tumor receptor densities and tumor volumes on the tumor absorbed doses, respectively. It is observed that by increasing the tumor receptor density or tumor volume, the average delivered dose to the tumor increases."
+    },
+    "Question_10": {
+        "Context": "In the context of radiopharmaceutical therapies, the term 'time-integrated activity' (TIA) refers to the total amount of radioactivity that an organ is exposed to over a period of time, which is directly related to the absorbed dose.",
+        "Question": "What does the term 'maximum relative TIA change' (MRDC) represent in pharmacokinetic modeling?",
+        "A": "The change in TIA due to variations in temperature",
+        "B": "The change in TIA due to variations in organ size",
+        "C": "The maximum change in TIA relative to a baseline injection strategy",
+        "D": "The change in TIA due to variations in radiation type",
+        "Answer": "C",
+        "Source": "To quantify the effect of multi-bolus injection in contrast to the single bolus injection, we found the injection strategy yielding the highest delivered dose to each organ and tumor, and then calculated the relative change in dose compared to the bolus injection (we call it the maximum relative dose change or MRDC). Note that since dose and TIA are different up to a multiplicative constant, the maximum relative dose change is the same as the maximum relative TIA change."
+    }
+}

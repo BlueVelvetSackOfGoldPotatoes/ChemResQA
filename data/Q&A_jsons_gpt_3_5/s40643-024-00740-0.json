@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on examining hydrolysis in plug-flow reactors using on-line monitoring of pH, conductivity, and ORP. The impact of changes in feedstock composition, HRT, and bioaugmentation on acidogenesis was investigated.",
+        "Question": "What parameter showed the most stable correlation to acidogenesis under dynamic operation?",
+        "A": "pH-value",
+        "B": "Conductivity",
+        "C": "ORP",
+        "D": "Hydraulic retention time",
+        "Answer": "C",
+        "Source": "The ORP (measured at the inlet) showed the most stable correlation to acidogenesis under dynamic operation."
+    },
+    "Question_2": {
+        "Context": "The study explored the correlations between on-line measurements and metabolite concentrations in the reactors. The measurements included pH, conductivity, ORP, sCOD, and SCCA.",
+        "Question": "Which parameter showed a good linear correlation with the concentration of SCCAs depending on the feedstock composition?",
+        "A": "pH-value",
+        "B": "Conductivity",
+        "C": "ORP",
+        "D": "Hydraulic retention time",
+        "Answer": "B",
+        "Source": "The correlation of the SCCA concentration and conductivity was more profound (Pearson R \u2265 0.7) even under different states of acid metabolisms."
+    },
+    "Question_3": {
+        "Context": "The study investigated the relation between specific hydrolysis yield and the pH-value at the inlet and outlet ports for different feedstock compositions.",
+        "Question": "How did the specific hydrolysis yield correlate with the pH-value at the inlet and outlet ports?",
+        "A": "Higher pH-value increased hydrolysis yield for all feedstock compositions.",
+        "B": "Higher pH-value increased hydrolysis yield for maize silage but decreased it for straw.",
+        "C": "Lower pH-value increased hydrolysis yield for all feedstock compositions.",
+        "D": "Lower pH-value increased hydrolysis yield for maize silage but decreased it for straw.",
+        "Answer": "D",
+        "Source": "For MS, a higher pH-value was found to generally increase the hydrolysis yield. A reverse trend was found when the feedstock consisted of 66% of bedding straw."
+    },
+    "Question_4": {
+        "Context": "The study examined the robustness of on-line monitoring for acidogenesis-related parameters over 123 weeks of continuous operation.",
+        "Question": "Which parameter showed a direct correlation with acidification, butyric acid, and lactic acid concentration?",
+        "A": "pH-value",
+        "B": "Conductivity",
+        "C": "ORP",
+        "D": "CO2 concentration",
+        "Answer": "C",
+        "Source": "The ORP measurement at the inlet showed a direct correlation with the acidification, butyric acid, and lactic acid concentration."
+    },
+    "Question_5": {
+        "Context": "The study evaluated the overall data collected from the two PFRs to identify the most robust and versatile sensor parameters and positions within the system.",
+        "Question": "Which parameter was less relevant for quantifying acidification in the PFR?",
+        "A": "pH-value",
+        "B": "Conductivity",
+        "C": "ORP",
+        "D": "Hydraulic retention time",
+        "Answer": "A",
+        "Source": "The on-line measurement of the pH-value and the conductivity were less relevant for quantifying acidification."
+    },
+    "Question_6": {
+        "Context": "The study investigated the relation between on-line measurements and acidogenesis-related parameters during continuous fermentation over 123 weeks.",
+        "Question": "Which parameter was related to the CO2 concentration, indicating its potential use for the indirect determination of SCCA concentration?",
+        "A": "pH-value",
+        "B": "Conductivity",
+        "C": "ORP",
+        "D": "Hydraulic retention time",
+        "Answer": "C",
+        "Source": "The SCCA concentration itself was also related to the CO2 concentration, which shows that off-gas measurement can be used for the indirect determination of the SCCA concentration."
+    },
+    "Question_7": {
+        "Context": "The study examined the correlations between on-line measurements and acidogenesis-related parameters during continuous fermentation over 123 weeks.",
+        "Question": "Which parameter, when combined with on-line CO2 production, could potentially serve as a soft sensor for the on-line determination of acid yield and SCCA concentration?",
+        "A": "pH-value",
+        "B": "Conductivity",
+        "C": "ORP",
+        "D": "Hydraulic retention time",
+        "Answer": "C",
+        "Source": "Combined with the concurrent monitoring of the on-line CO2 production, the ORP measurement at the inlet could serve as a soft sensor for the on-line determination of acid yield and SCCA concentration."
+    },
+    "Question_8": {
+        "Context": "The study explored the correlations between on-line measurements and metabolite concentrations in the reactors. The measurements included pH, conductivity, ORP, sCOD, and SCCA.",
+        "Question": "Which parameter showed a good linear correlation with the concentration of sCOD depending on the feedstock composition?",
+        "A": "pH-value",
+        "B": "Conductivity",
+        "C": "ORP",
+        "D": "Hydraulic retention time",
+        "Answer": "B",
+        "Source": "The correlation of the sCOD and the conductivity expresses different linear slopes in dependence on the acid metabolism, whether it is directed towards lactic acid or butyric acid."
+    },
+    "Question_9": {
+        "Context": "The study investigated the relation between specific hydrolysis yield and the pH-value at the inlet and outlet ports for different feedstock compositions.",
+        "Question": "How did the specific hydrolysis yield correlate with the pH-value at the inlet and outlet ports?",
+        "A": "Higher pH-value increased hydrolysis yield for all feedstock compositions.",
+        "B": "Higher pH-value increased hydrolysis yield for maize silage but decreased it for straw.",
+        "C": "Lower pH-value increased hydrolysis yield for all feedstock compositions.",
+        "D": "Lower pH-value increased hydrolysis yield for maize silage but decreased it for straw.",
+        "Answer": "D",
+        "Source": "For MS, a higher pH-value was found to generally increase the hydrolysis yield. A reverse trend was found when the feedstock consisted of 66% of bedding straw."
+    },
+    "Question_10": {
+        "Context": "The study examined the robustness of on-line monitoring for acidogenesis-related parameters over 123 weeks of continuous operation.",
+        "Question": "Which parameter showed a direct correlation with acidification, butyric acid, and lactic acid concentration?",
+        "A": "pH-value",
+        "B": "Conductivity",
+        "C": "ORP",
+        "D": "CO2 concentration",
+        "Answer": "C",
+        "Source": "The ORP measurement at the inlet showed a direct correlation with the acidification, butyric acid, and lactic acid concentration."
+    }
+}

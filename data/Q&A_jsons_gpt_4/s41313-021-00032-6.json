@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The variational quantum eigensolver (VQE) is a hybrid quantum-classical algorithm used to find eigenvalues of a Hamiltonian, which is particularly useful in quantum chemistry for solving the electronic Schr\u00f6dinger equation.",
+        "Question": "What is the primary reason for considering the variational quantum eigensolver (VQE) as an alternative to fully quantum algorithms?",
+        "A": "VQE provides more accurate results than fully quantum algorithms.",
+        "B": "VQE requires less computational power than classical algorithms.",
+        "C": "Fully quantum algorithms require quantum hardware that is not yet accessible.",
+        "D": "VQE is the only algorithm that can solve the electronic Schr\u00f6dinger equation.",
+        "Answer": "C",
+        "Source": "VQE has been proposed as an alternative to fully quantum algorithms such as quantum phase estimation (QPE) because fully quantum algorithms require quantum hardware that will not be accessible in the near future."
+    },
+    "Question_2": {
+        "Context": "In quantum chemistry, solving the electronic Schr\u00f6dinger equation is essential for predicting various properties of molecules. The variational quantum eigensolver (VQE) has been applied to this problem using a hybrid quantum-classical approach.",
+        "Question": "What limits the scalability of the variational quantum eigensolver (VQE) method?",
+        "A": "The simplicity of the quantum circuits",
+        "B": "The complexity of the quantum circuits and the classical optimization problem",
+        "C": "The accuracy of the quantum phase estimation (QPE) algorithm",
+        "D": "The availability of digital computers",
+        "Answer": "B",
+        "Source": "However, the scalability of this method is limited by two factors: the complexity of the quantum circuits and the complexity of the classical optimization problem."
+    },
+    "Question_3": {
+        "Context": "The variational ansatz is a critical component in the variational quantum eigensolver (VQE) method, representing the trial wave function used to approximate the ground state of a molecule.",
+        "Question": "What affects the complexity of the quantum circuits and the classical optimization problem in VQE?",
+        "A": "The choice of the variational ansatz",
+        "B": "The size of the molecule being simulated",
+        "C": "The precision of the quantum phase estimation (QPE) algorithm",
+        "D": "The number of electrons in the molecule",
+        "Answer": "A",
+        "Source": "Both of these factors are affected by the choice of the variational ansatz used to represent the trial wave function."
+    },
+    "Question_4": {
+        "Context": "The electronic structure Hamiltonian is a key element in quantum chemistry, allowing for the description of properties of interacting electrons in the presence of stationary nuclei.",
+        "Question": "What is the purpose of solving the electronic structure Hamiltonian in quantum chemistry?",
+        "A": "To predict the rates of chemical reactions",
+        "B": "To determine molecular structure",
+        "C": "To understand the properties of materials and molecules",
+        "D": "All of the above",
+        "Answer": "D",
+        "Source": "For example, one can predict the rates of chemical reactions, determine molecular structure, and the properties of materials and molecules."
+    },
+    "Question_5": {
+        "Context": "Quantum phase estimation (QPE) is a fully quantum algorithm that can extract eigenvalues of a unitary operator and is known for its potential to achieve exponential speedup in finding the eigenspectrum of unitary operators.",
+        "Question": "Why is quantum phase estimation (QPE) not currently feasible for solving the electronic Schr\u00f6dinger equation on quantum computers?",
+        "A": "It requires millions of qubits and gates even for relatively small systems.",
+        "B": "It is less accurate than classical algorithms.",
+        "C": "It cannot handle the complexity of molecular systems.",
+        "D": "It is not compatible with the variational quantum eigensolver (VQE).",
+        "Answer": "A",
+        "Source": "However, the problem with QPE, and IQFT in particular, is that it requires millions of qubits and gates even for relatively small systems, a requirement far beyond the capabilities of present NISQ hardware."
+    },
+    "Question_6": {
+        "Context": "In the context of the variational quantum eigensolver (VQE), the ground state trial wave function of a molecule is often constructed from operators generating single- and double-excitation configurations from a precomputed Hartree-Fock wave function.",
+        "Question": "What is the commonly used ansatz in VQE experiments for representing the trial state prepared from the initial Hartree\u2013Fock mean-field wave function?",
+        "A": "Hardware-efficient ansatz",
+        "B": "Chemistry-inspired ansatz",
+        "C": "Unitary coupled cluster with singles and doubles (UCCSD) ansatz",
+        "D": "Quantum phase estimation (QPE) ansatz",
+        "Answer": "C",
+        "Source": "In a typical setup, the ground state trial wave function of the molecule is constructed from operators generating single- and double-excitation configurations from a Hartree-Fock wave function precomputed on a classical computer (UCCSD (Pal 1984; Hoffmann and Simons 1988; Kutzelnigg 1991; Taube and Bartlett 2006; Sur et al. 2008; Cooper and Knowles 2010; Harsha et al. 2018; Evangelista et al. 2019) ansatz)."
+    },
+    "Question_7": {
+        "Context": "The unitary coupled cluster with singles and doubles (UCCSD) ansatz is a chemistry-inspired ansatz used in the variational quantum eigensolver (VQE) method, which includes single and double excitations.",
+        "Question": "What is a major challenge associated with the standard UCCSD ansatz for VQE simulations?",
+        "A": "It requires a small number of operators in the ansatz.",
+        "B": "It produces many redundant terms contributing little to the correlation energy.",
+        "C": "It is not capable of representing the trial wave function accurately.",
+        "D": "It is too simple to be run on modern quantum hardware.",
+        "Answer": "B",
+        "Source": "The standard version of UCCSD has unfavorable scaling of the number of gates required for implementation with an increasing number of electrons and spin orbitals."
+    },
+    "Question_8": {
+        "Context": "The quantum subspace expansion (QSE) method is a quantum-classical hybrid approach that involves diagonalizing the Hamiltonian in a non-orthogonal basis of many-body states.",
+        "Question": "What is a practical issue associated with the quantum subspace expansion (QSE) methods?",
+        "A": "They require a large number of quantum gates.",
+        "B": "They suffer from the linearly dependent basis generated from the procedure.",
+        "C": "They cannot capture the important multideterminantal features of the wave function.",
+        "D": "They are less accurate than the variational quantum eigensolver (VQE).",
+        "Answer": "B",
+        "Source": "For example, almost all the above-mentioned QSE methods suffer from the linearly dependent basis that is generated from the procedure, which would cause numerical instabilities when solving the eigenvalue problem."
+    },
+    "Question_9": {
+        "Context": "The qubit coupled cluster (QCC) method is a hardware-efficient approach that constructs the ansatz directly in the qubit space, as opposed to using fermionic excitations.",
+        "Question": "What is the main advantage of the qubit coupled cluster (QCC) method over traditional fermionic excitation-based methods?",
+        "A": "It requires fewer multi-qubit gates.",
+        "B": "It uses a larger number of variational parameters.",
+        "C": "It is based on the quantum phase estimation (QPE) algorithm.",
+        "D": "It can only be used for small molecular systems.",
+        "Answer": "A",
+        "Source": "The QCC wave function is of the form |\ufffd(\u03c4, \ufffd)\u27e9 = \u02c6U(\u03c4)|\ufffd\u27e9. Entanglement is introduced by the multi-qubit rotations with real amplitudes \u03c4."
+    },
+    "Question_10": {
+        "Context": "The adaptive derivative-assembled pseudo-Trotter ansatz variational quantum eigensolver (ADAPT-VQE) is an approach that constructs the ansatz by adding operators that recover the most correlation energy with the least number of fermionic operators.",
+        "Question": "What is the key idea behind the ADAPT-VQE method?",
+        "A": "To use as many fermionic operators as possible to ensure accuracy.",
+        "B": "To construct an ansatz that recovers the most correlation energy with the least number of fermionic operators.",
+        "C": "To rely solely on classical optimization without using a quantum computer.",
+        "D": "To implement the quantum phase estimation (QPE) algorithm more efficiently.",
+        "Answer": "B",
+        "Source": "The key idea of the method is to construct an ansatz that would recover the most correlation energy with the least number of fermionic operators and variational parameters."
+    }
+}

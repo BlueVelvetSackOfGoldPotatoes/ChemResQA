@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Finish</title>
+  <style>
+    header {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    body {
+        margin: 0;
+        padding-top: 50px; /* Adjust this value based on the height of your header image */
+    }
+</style>
+</head>
+
+<body>
+  <header>
+    <img src="{{ url_for('static', filename='pollice.png') }}" alt="Pollice Image">
+  </header>
+  <h1>Thank you for participating!</h1>
+  <p>Your score: {{ score }}/10</p>
+  <button onclick="window.location='/';">Restart</button>
+</body>
+</html>

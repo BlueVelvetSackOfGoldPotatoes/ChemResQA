@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on the modeling of grain boundary migration in metallic alloys using an overdamped Langevin dynamics approach. The model is tested and compared with molecular dynamics simulations.",
+        "Question": "What is the main advantage of using overdamped Langevin dynamics for atomistic modeling in this study?",
+        "A": "Allows for the simulation of large systems with longer time steps",
+        "B": "Provides accurate representation of lattice vibrations",
+        "C": "Enables the study of high-frequency phonon interactions",
+        "D": "Facilitates the modeling of dislocation dynamics",
+        "Answer": "A",
+        "Source": "The overdamped Langevin dynamics approach is used to avoid crystal vibrations that limit the time-step size to be used in the integration of equations, allowing for the simulation of larger systems with longer time steps."
+    },
+    "Question_2": {
+        "Context": "The study compares the results obtained from the overdamped Langevin dynamics simulations with those from molecular dynamics simulations for grain boundary migration.",
+        "Question": "What is the primary reason for the good agreement between the results of the Langevin dynamics and molecular dynamics simulations?",
+        "A": "Similar initial conditions and parameters",
+        "B": "Consistent treatment of interatomic forces",
+        "C": "Accurate representation of lattice vibrations",
+        "D": "Effective handling of thermal effects",
+        "Answer": "B",
+        "Source": "The good agreement between the Langevin dynamics and molecular dynamics simulations confirms the applicability of the overdamped Langevin dynamics for modeling the microstructural evolutions in crystalline materials, indicating a consistent treatment of interatomic forces."
+    },
+    "Question_3": {
+        "Context": "The study investigates the mechanisms driving grain boundary migration for both low and high misorientation cases.",
+        "Question": "What is the main mechanism driving grain boundary migration for low misorientation angles?",
+        "A": "Effective climb of dislocations",
+        "B": "Annihilation of dislocations",
+        "C": "Dislocation glide",
+        "D": "Structural unit rearrangement",
+        "Answer": "C",
+        "Source": "For low angle GB, the migration proceeds by a combination of dislocation glide, effective climb, and annihilation reaction."
+    },
+    "Question_4": {
+        "Context": "The study analyzes the behavior of grain boundaries with high misorientation angles, specifically focusing on the case of \u03b80 = 21.8\u00b0.",
+        "Question": "What is the characteristic behavior observed for grain boundaries with high misorientation angles?",
+        "A": "Rigid rotation of atoms around fixed positions",
+        "B": "Dislocation glide along the boundary",
+        "C": "Effective climb of structural units",
+        "D": "Annihilation of structural units",
+        "Answer": "A",
+        "Source": "For the special case of \u03b80 = 21.8\u00b0, the migration of the boundary occurs by local adjustment of atoms rotating around fixed positions, suggesting a rigid rotation of atoms."
+    },
+    "Question_5": {
+        "Context": "The study presents a numerical analysis of the atomic movements during grain boundary migration.",
+        "Question": "How are the atomic movements around atoms located on coincidence sites described?",
+        "A": "Dislocation glide",
+        "B": "Effective climb",
+        "C": "Rigid rotation",
+        "D": "Structural unit rearrangement",
+        "Answer": "C",
+        "Source": "The movements of atoms surrounding the ones sitting on the coincidence sites positions can be interpreted as rigid rotation, with the associated rotation angle being approximately equal to the misorientation angle."
+    },
+    "Question_6": {
+        "Context": "The study focuses on the migration mechanisms of grain boundaries with low misorientation angles.",
+        "Question": "What is the composition of the grain boundary structure for low initial misorientations?",
+        "A": "Single 5-7 pairs",
+        "B": "Multiple dislocation cores",
+        "C": "Homogeneous dislocation arrays",
+        "D": "Faceted dislocation arrangements",
+        "Answer": "A",
+        "Source": "For low initial misorientations, the GB structure is composed of several well-spaced single 5-7 pairs, interpreted as dislocation cores."
+    },
+    "Question_7": {
+        "Context": "The study investigates the evolution of dislocation density and misorientation angle during grain shrinkage.",
+        "Question": "How does the dislocation density change during grain shrinkage for an initial misorientation angle of \u03b80 = 10\u00b0?",
+        "A": "Decreases by approximately 40%",
+        "B": "Remains constant",
+        "C": "Increases linearly with the misorientation angle",
+        "D": "Varies inversely with the grain area",
+        "Answer": "A",
+        "Source": "We can see that \u03c1D increases by approximately 40% from its initial value as the grain shrinks, strictly following the change in the misorientation angle."
+    },
+    "Question_8": {
+        "Context": "The study analyzes the microscopic processes driving grain boundary migration.",
+        "Question": "What is the first observed reaction between dislocations in the simulations?",
+        "A": "Partial or total annihilation",
+        "B": "Effective climb",
+        "C": "Dislocation interaction",
+        "D": "Dislocation splitting",
+        "Answer": "A",
+        "Source": "The first observed reaction between dislocations is the partial or total annihilation between two or more dislocations."
+    },
+    "Question_9": {
+        "Context": "The study presents a simplified model to explain grain boundary migration.",
+        "Question": "What process is referred to as 'effective climb' in the simplified model?",
+        "A": "Dislocation glide",
+        "B": "Dislocation annihilation",
+        "C": "Dislocation interaction",
+        "D": "Dislocation rotation",
+        "Answer": "D",
+        "Source": "The final result can be interpreted as a crossing of two dislocations supplemented by a displacement outside their gliding planes, without the need of a vacancy assisted climb with a pre-existing surrounding atom vacancy. For this reason, we will refer to this first mechanism as 'effective climb'."
+    },
+    "Question_10": {
+        "Context": "The study discusses the evolution of the misorientation angle and grain area during grain boundary migration.",
+        "Question": "How is the transition from one hexagon to the next described in the model?",
+        "A": "Dislocation glide perpendicularly to the facets",
+        "B": "Effective climb at the corners",
+        "C": "Propagation of effective climb along each side",
+        "D": "Annihilation event per facet",
+        "Answer": "C",
+        "Source": "The dislocations at the corners propagate along the sides by a chain of effective climb events, leading to the closure of a first hexagonal shaped ring by a partial annihilation between two or more dislocations."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Information about SiFA chemistry and its application in radiotracer production.",
+        "Question": "What is the main advantage of SiFA chemistry in radiotracer production?",
+        "A": "High cost efficiency",
+        "B": "Low molar activity",
+        "C": "Complex workup procedures",
+        "D": "Adverse patient reactions",
+        "Answer": "A",
+        "Source": "The SiFA radiochemistry has successfully made its entry into clinical radiotracer application demonstrating a high tracer production reliability, a lack of adverse patient reaction after injection and an unprecedented cost efficiency for large batch production."
+    },
+    "Question_2": {
+        "Context": "Details about the production of SiFA radiotracers.",
+        "Question": "What is the purpose of the elution cocktail in the automated synthesis of SiFA radiotracers?",
+        "A": "To neutralize the base",
+        "B": "To increase the reaction time",
+        "C": "To reduce the radiochemical yield",
+        "D": "To enhance the purification process",
+        "Answer": "A",
+        "Source": "The elution cocktail consists of a K222/KOH complex, which has to be prepared in advance by lyophilisation of respective aqueous solutions to dryness. 50 nmol precursor and oxalic acid, required to neutralize the amount of base, is pre-filled in the reactor before elution."
+    },
+    "Question_3": {
+        "Context": "Information about the automated synthesis of [18F]SiTATE.",
+        "Question": "What is the advantage of the cartridge-based drying method in the synthesis of [18F]SiTATE?",
+        "A": "Reduces losses of radioactivity",
+        "B": "Increases hardware complexity",
+        "C": "Requires longer synthesis time",
+        "D": "Minimizes intermediary steps",
+        "Answer": "A",
+        "Source": "The advantage of this method lies in a significant reduction of hardware complexity and time-consuming intermediary steps prior to labeling. By this, losses of radioactivity due to radioactive decay and overall complexity are minimized."
+    },
+    "Question_4": {
+        "Context": "Details about the automated synthesis of [18F]Ga-rhPSMA-7/-7.3.",
+        "Question": "What is the purpose of using an Oasis HLB cartridge in the synthesis of [18F]Ga-rhPSMA-7/-7.3?",
+        "A": "To increase extraction efficiency",
+        "B": "To reduce radiochemical yield",
+        "C": "To prolong the synthesis time",
+        "D": "To enhance the purification process",
+        "Answer": "A",
+        "Source": "The purification is performed using an Oasis HLB cartridge, which revealed a higher extraction efficiency compared to SepPak C18 materials."
+    },
+    "Question_5": {
+        "Context": "Information about the quality control of SiFA radiopharmaceuticals.",
+        "Question": "How is the radiochemical purity of SiFA radiopharmaceuticals determined?",
+        "A": "By visual inspection",
+        "B": "By gas chromatography",
+        "C": "By gamma spectrometry",
+        "D": "By high-performance liquid chromatography",
+        "Answer": "D",
+        "Source": "The radiochemical purity and identity of the products is determined by ultra- or high-performance liquid chromatography (UPLC/HPLC) with a suitable radioactivity and UV detector."
+    },
+    "Question_6": {
+        "Context": "Details about the stability of [18F]SiTATE.",
+        "Question": "What is added to [18F]SiTATE to prevent radiolytic degradation?",
+        "A": "Ascorbic acid",
+        "B": "Ethanol",
+        "C": "K222",
+        "D": "Oxalic acid",
+        "Answer": "A",
+        "Source": "It is recommended to adjust the pH of the formulation buffer to 6 by the addition of phosphoric acid. Under basic conditions, partial hydrolysis and a release of [18F]fluoride is found over time. A slightly acidic pH in the final formulation and the addition of ascorbic acid as stabilizer effectively prevents radiolytic and hydrolytic degradation."
+    },
+    "Question_7": {
+        "Context": "Information about SiFA chemistry and its application in radiotracer production.",
+        "Question": "What is the main challenge encountered in SiFA automation?",
+        "A": "Complex workup procedures",
+        "B": "Radiolytic degradation",
+        "C": "Eluent cocktail optimization",
+        "D": "Precursor purity",
+        "Answer": "C",
+        "Source": "Most problems encountered using SiFA chemistry can be attributed to the eluent cocktail. Aqueous solutions of KOH and K222 are mixed at the desired ratio and lyophilized to dryness."
+    },
+    "Question_8": {
+        "Context": "Details about the automated synthesis of [18F]SiTATE.",
+        "Question": "What is the purpose of the K222/KOH complex in the synthesis of [18F]SiTATE?",
+        "A": "To neutralize the base",
+        "B": "To increase the reaction time",
+        "C": "To reduce the radiochemical yield",
+        "D": "To enhance the purification process",
+        "Answer": "A",
+        "Source": "The elution cocktail consists of a K222/KOH complex, which has to be prepared in advance by lyophilisation of respective aqueous solutions to dryness. 50 nmol precursor and oxalic acid, required to neutralize the amount of base, is pre-filled in the reactor before elution."
+    },
+    "Question_9": {
+        "Context": "Information about SiFA chemistry and its application in radiotracer production.",
+        "Question": "What is the advantage of SiFA chemistry in radiotracer production?",
+        "A": "High tracer production reliability",
+        "B": "Adverse patient reactions",
+        "C": "Low molar activity",
+        "D": "Complex workup procedures",
+        "Answer": "A",
+        "Source": "The SiFA radiochemistry has successfully made its entry into clinical radiotracer application demonstrating a high tracer production reliability, a lack of adverse patient reaction after injection and an unprecedented cost efficiency for large batch production."
+    },
+    "Question_10": {
+        "Context": "Details about the automated synthesis of [18F]Ga-rhPSMA-7/-7.3.",
+        "Question": "What is the purpose of using an Oasis HLB cartridge in the synthesis of [18F]Ga-rhPSMA-7/-7.3?",
+        "A": "To increase extraction efficiency",
+        "B": "To reduce radiochemical yield",
+        "C": "To prolong the synthesis time",
+        "D": "To enhance the purification process",
+        "Answer": "A",
+        "Source": "The purification is performed using an Oasis HLB cartridge, which revealed a higher extraction efficiency compared to SepPak C18 materials."
+    }
+}

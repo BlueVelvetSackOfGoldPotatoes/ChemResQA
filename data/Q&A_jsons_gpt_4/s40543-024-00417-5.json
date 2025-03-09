@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Glyphosate (GLY) is a herbicide that is used to control weeds in agricultural settings. It is known to be persistent in ecosystems and can have harmful effects on non-target animal species.",
+        "Question": "What is the environmental half-life of Glyphosate (GLY)?",
+        "A": "Approximately 2 \u00b1 1 months",
+        "B": "Approximately 4 \u00b1 2 months",
+        "C": "Approximately 6 \u00b1 3 months",
+        "D": "Approximately 8 \u00b1 4 months",
+        "Answer": "B",
+        "Source": "The environmental half-life of GLY is approximately 4 \u00b1 2 months."
+    },
+    "Question_2": {
+        "Context": "Glyphosate (GLY) can have various harmful effects on higher vertebrates, including damage to organs and disruption of biological processes.",
+        "Question": "Which of the following is NOT a reported effect of Glyphosate (GLY) on non-target animal species?",
+        "A": "Liver and kidney damage",
+        "B": "Endocrine disruption",
+        "C": "Increased cognitive function",
+        "D": "DNA damage",
+        "Answer": "C",
+        "Source": "This has harmful effects on non-target animal species, including liver and kidney damage, endocrine disruption, neurotoxicity, chromosomal aberrations and DNA damage in higher vertebrates."
+    },
+    "Question_3": {
+        "Context": "Glyphosate (GLY) residues can accumulate in the food chain, raising concerns about its impact on human health.",
+        "Question": "What is the acceptable daily intake (ADI) of Glyphosate (GLY) proposed by the US Environmental Protection Agency (EPA) in Europe?",
+        "A": "0.5 mg/kg/day",
+        "B": "1.0 mg/kg/day",
+        "C": "1.5 mg/kg/day",
+        "D": "2.0 mg/kg/day",
+        "Answer": "B",
+        "Source": "As a result, the US Environmental Protection Agency (EPA) in Europe has proposed a chronic reference dose (RfD) for glyphosate or acceptable daily intake (ADI) of 1.0 mg/kg/day."
+    },
+    "Question_4": {
+        "Context": "Glyphosate (GLY) can enter the human body through various routes, potentially leading to adverse health effects.",
+        "Question": "Which of the following is NOT a route through which Glyphosate (GLY) can enter the human body?",
+        "A": "Inhalation during spray application",
+        "B": "Consumption of contaminated agricultural products",
+        "C": "Skin absorption during swimming",
+        "D": "Contaminated maternal serum",
+        "Answer": "C",
+        "Source": "GLY can enter the human body through contaminated agricultural products or inhalation during spray application."
+    },
+    "Question_5": {
+        "Context": "Conventional methods for detecting Glyphosate (GLY) residues can be complex and costly.",
+        "Question": "Which of the following is NOT a conventional method for the detection of Glyphosate (GLY) residues?",
+        "A": "Gas chromatography (GC)",
+        "B": "High-performance liquid chromatography (HPLC)",
+        "C": "Capillary electrophoresis",
+        "D": "Polymerase chain reaction (PCR)",
+        "Answer": "D",
+        "Source": "These classical methods include gas chromatography (GC), high-performance liquid chromatography (HPLC), capillary electrophoresis, spectrophotometry, Nuclear magnetic resonance spectroscopy (NMR), diffuse reflectance spectroscopy, and fluorescence resonance energy transfer (FRET) between carbon spots."
+    },
+    "Question_6": {
+        "Context": "Molecularly imprinted polymers (MIPs) are used in the development of electrochemical sensors due to their high selectivity and sensitivity.",
+        "Question": "What is the role of methacrylic acid (MAA) in the preparation of molecularly imprinted polymers (MIPs) for detecting Glyphosate (GLY)?",
+        "A": "It acts as a cross-linking agent",
+        "B": "It serves as a solvent",
+        "C": "It functions as a functional monomer",
+        "D": "It is used as a catalyst",
+        "Answer": "C",
+        "Source": "However, successful preparation of various molecularly imprinted polymers (MIPs) has been achieved using methacrylic acid (MAA) to specifically interact with phosphate ions and phosphonic acid groups."
+    },
+    "Question_7": {
+        "Context": "The stability of polymers in electrochemical cells is crucial for the performance of polymer-modified electrodes.",
+        "Question": "Which polymer is known for its excellent stability and is used as a support material for electrochemical molecularly imprinted polymer (MIP) sensors?",
+        "A": "Polyethylene terephthalate (PET)",
+        "B": "Polyvinyl chloride (PVC)",
+        "C": "Polypropylene (PP)",
+        "D": "Polystyrene (PS)",
+        "Answer": "B",
+        "Source": "Polyvinyl chloride (PVC) is an attractive support material that offers excellent stability for electrochemical molecularly imprinted polymer (MIP) sensors over extended periods of time."
+    },
+    "Question_8": {
+        "Context": "Gold nanoparticles (AuNPs) are incorporated into electrochemical sensors to enhance their performance.",
+        "Question": "What property of gold nanoparticles (AuNPs) significantly enhances the electron transfer rate in electrochemical sensors?",
+        "A": "Magnetic susceptibility",
+        "B": "Conductivity",
+        "C": "Optical transparency",
+        "D": "Thermal resistance",
+        "Answer": "B",
+        "Source": "Of these properties, conductivity stands out as one of the most remarkable features of these nanoparticles, significantly enhancing the electron transfer rate between the analyte\u2019s active centres and the sensor surface."
+    },
+    "Question_9": {
+        "Context": "The detection limit of a sensor is an important parameter that indicates the sensor's sensitivity.",
+        "Question": "What is the detection limit of Glyphosate (GLY) by differential pulse voltammetry (DPV) using the developed electrochemical sensor?",
+        "A": "0.8 pg/mL",
+        "B": "0.001 pg/mL",
+        "C": "1.0 pg/mL",
+        "D": "0.5 pg/mL",
+        "Answer": "A",
+        "Source": "It boasts a low detection limit of 0.8 pg/mL (signal-to-noise ratio S/N = 3) by DPV."
+    },
+    "Question_10": {
+        "Context": "Recovery rates are used to evaluate the accuracy of a sensor in various sample types.",
+        "Question": "What is the reported recovery rate for Glyphosate (GLY) detection in environmental and agri-food samples using the developed sensor?",
+        "A": "Greater than 86.05%",
+        "B": "Greater than 90.05%",
+        "C": "Greater than 96.05%",
+        "D": "Greater than 99.05%",
+        "Answer": "C",
+        "Source": "The developed MIP sensor is proven to be a valuable tool for rapid and highly sensitive detection of GLY in diverse environmental and agri-food samples, demonstrating high recovery rates (> 96.05%)."
+    }
+}

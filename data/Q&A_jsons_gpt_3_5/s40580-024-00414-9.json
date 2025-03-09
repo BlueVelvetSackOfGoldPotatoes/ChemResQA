@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the therapeutic effects of DNase-NZ in a DSS-induced colitis model in mice.",
+        "Question": "What was the primary indicator of colitis development monitored daily during the study?",
+        "A": "Colon length",
+        "B": "Pro-inflammatory cytokine levels",
+        "C": "Disease activity index",
+        "D": "Body weight",
+        "Answer": "D",
+        "Source": "Body weights of mice treated with DNase-NZ were monitored daily and used as the primary indicator of colitis development."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the therapeutic efficacy of DNase-NZ in a DSS-induced colitis model.",
+        "Question": "What was the therapeutic effect of DNase-NZ treatment on pro-inflammatory cytokine levels in the colon tissues?",
+        "A": "Increased IL-1\u03b2 levels",
+        "B": "Decreased IL-6 levels",
+        "C": "Increased IL-6 levels",
+        "D": "Decreased IL-1\u03b2 levels",
+        "Answer": "D",
+        "Source": "DNase-NZ treatment significantly reduced the levels of IL-1\u03b2 in the colon tissues."
+    },
+    "Question_3": {
+        "Context": "The study examined the effects of DNase-NZ treatment on neutrophil infiltration and NETosis in a DSS-induced colitis model.",
+        "Question": "What was the primary indicator used to identify neutrophils in the lamina propria of mice?",
+        "A": "CD45",
+        "B": "Ly6G",
+        "C": "CD11c",
+        "D": "CD45 and Ly6G",
+        "Answer": "D",
+        "Source": "Neutrophils were identified from leukocytes as cells positive for both CD11c and Ly6G."
+    },
+    "Question_4": {
+        "Context": "The study investigated the therapeutic effects of DNase-NZ in a DSS-induced colitis model in mice.",
+        "Question": "What was the mRNA expression level used as an indicator of NETosis activity in the colon tissues?",
+        "A": "Cxcl5",
+        "B": "Elane",
+        "C": "Padi4",
+        "D": "Gapdh",
+        "Answer": "C",
+        "Source": "The mRNA expression levels of Padi4 were determined to examine whether changes in neutrophil population were correlated to NETosis activity."
+    },
+    "Question_5": {
+        "Context": "The study assessed the cytotoxicity of DNase-NZ on mouse fibroblast cells.",
+        "Question": "What was the maximum bio-compatible dose of DNase-NZ in vitro?",
+        "A": "100 \u00b5g/mL",
+        "B": "500 \u00b5g/mL",
+        "C": "10 \u00b5g/mL",
+        "D": "50 \u00b5g/mL",
+        "Answer": "A",
+        "Source": "At higher concentrations, the viability of cells started to decrease rapidly, making 100 \u00b5g/mL the maximal bio-compatible dose in vitro."
+    },
+    "Question_6": {
+        "Context": "The study investigated the stability of DNase-NZ in a simulated biological fluid.",
+        "Question": "For how long was the enzymatic activity of DNase-NZ successfully preserved after prolonged incubations at 37 \u2103?",
+        "A": "1 hour",
+        "B": "6 hours",
+        "C": "24 hours",
+        "D": "48 hours",
+        "Answer": "D",
+        "Source": "DNase-NZ successfully preserved its enzymatic activities even after 48 hours of incubation at 37 \u2103."
+    },
+    "Question_7": {
+        "Context": "The study examined the therapeutic effects of DNase-NZ in a DSS-induced colitis model.",
+        "Question": "What was the primary indicator used to assess the disease activity index (DAI) in the mice?",
+        "A": "Colon length",
+        "B": "Weight loss",
+        "C": "Stool consistency",
+        "D": "Rectal bleeding",
+        "Answer": "B",
+        "Source": "The disease activity index (DAI) was scored daily based on weight loss, stool consistency, and rectal bleeding."
+    },
+    "Question_8": {
+        "Context": "The study evaluated the therapeutic efficacy of DNase-NZ in a DSS-induced colitis model.",
+        "Question": "What was the therapeutic effect of DNase-NZ treatment on MPO activity in the colon tissues?",
+        "A": "Increased MPO activity",
+        "B": "No effect on MPO activity",
+        "C": "Decreased MPO activity",
+        "D": "MPO activity was not measured",
+        "Answer": "C",
+        "Source": "Mice treated with DNase-NZ showed significantly decreased levels of MPO activity compared to mice treated with PBS."
+    },
+    "Question_9": {
+        "Context": "The study investigated the therapeutic effects of DNase-NZ in a DSS-induced colitis model.",
+        "Question": "What was the primary indicator used to monitor the therapeutic effects of DNase-NZ on colon tissues?",
+        "A": "Histological scores",
+        "B": "Pro-inflammatory cytokine levels",
+        "C": "MPO activity",
+        "D": "Colon length",
+        "Answer": "A",
+        "Source": "Histological analyses of H&E or AB/PAS stained colon sections were performed to confirm the therapeutic effect of DNase-NZ."
+    },
+    "Question_10": {
+        "Context": "The study examined the effects of DNase-NZ treatment on neutrophil infiltration and NETosis in a DSS-induced colitis model.",
+        "Question": "What was the mRNA expression level used as an indicator of neutrophil-specific protease activity in the colon tissues?",
+        "A": "Cxcl5",
+        "B": "Elane",
+        "C": "Padi4",
+        "D": "Gapdh",
+        "Answer": "B",
+        "Source": "The mRNA expression levels of Elane were determined to examine whether changes in neutrophil population were correlated to NETosis activity."
+    }
+}

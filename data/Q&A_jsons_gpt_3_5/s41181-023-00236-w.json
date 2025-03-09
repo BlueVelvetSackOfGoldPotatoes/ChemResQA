@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the competition between hot and cold species in radiopharmaceutical therapies. ",
+        "Question": "What effect does increasing the number of cold molecules (decreasing specific activities) have on the delivered doses to the tumor?",
+        "A": "Increases the delivered doses",
+        "B": "Decreases the delivered doses",
+        "C": "No effect on the delivered doses",
+        "D": "Increases the specific activities",
+        "Answer": "B",
+        "Source": "increasing the number of cold molecules (i.e. decreasing specific activities, and moving up on the dashed line in Fig. 1), will result in lower delivered doses to the tumor."
+    },
+    "Question_2": {
+        "Context": "The study explores the impact of tumor receptor densities on radiopharmaceutical therapies.",
+        "Question": "How does increasing the tumor receptor density affect the average delivered dose to the tumor?",
+        "A": "Decreases the delivered dose",
+        "B": "Increases the delivered dose",
+        "C": "No effect on the delivered dose",
+        "D": "Increases the specific activities",
+        "Answer": "B",
+        "Source": "by increasing the tumor receptor density, the average delivered dose to the tumor increases."
+    },
+    "Question_3": {
+        "Context": "The paper investigates the impact of tumor volumes on radiopharmaceutical therapies.",
+        "Question": "What effect does increasing the tumor volume have on the average delivered dose to the tumor?",
+        "A": "Decreases the delivered dose",
+        "B": "Increases the delivered dose",
+        "C": "No effect on the delivered dose",
+        "D": "Increases the specific activities",
+        "Answer": "B",
+        "Source": "by increasing the tumor volume, the average delivered dose to the tumor increases."
+    },
+    "Question_4": {
+        "Context": "The study analyzes the effect of multi-bolus injections on radiopharmaceutical therapies.",
+        "Question": "How does fractionating the injection affect the delivered dose to the tumor?",
+        "A": "Decreases the delivered dose",
+        "B": "Increases the delivered dose",
+        "C": "No effect on the delivered dose",
+        "D": "Increases the specific activities",
+        "Answer": "B",
+        "Source": "more fractionation (higher number of injections or higher time between injections) translates to a higher delivered dose to the tumor."
+    },
+    "Question_5": {
+        "Context": "The paper explores the impact of albumin affinity on radiopharmaceutical kinetics.",
+        "Question": "What effect does increasing the albumin affinity have on the blood residence time of activity?",
+        "A": "Decreases the blood residence time",
+        "B": "Increases the blood residence time",
+        "C": "No effect on the blood residence time",
+        "D": "Increases the specific activities",
+        "Answer": "B",
+        "Source": "the blood residence time is increased with a higher affinity of the radiopharmaceutical to the albumin."
+    },
+    "Question_6": {
+        "Context": "The study investigates the impact of albumin affinity on dose delivery to organs.",
+        "Question": "How does increasing the albumin affinity affect the absorbed dose by the tumor and organs at risk?",
+        "A": "Decreases the dose to the tumor and organs at risk",
+        "B": "Increases the dose to the tumor and organs at risk",
+        "C": "No effect on the dose to the tumor and organs at risk",
+        "D": "Increases the specific activities",
+        "Answer": "B",
+        "Source": "the absorbed dose by tumor and OARs as a function of dissociation constant. The vertical lines in this figure show different regions of the plot in which dose to tumor and OAR exhibit different behaviors in terms of decreases and increases."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the concept of twist in radiopharmaceutical therapies.",
+        "Question": "What does the twist measure in the context of radiopharmaceutical therapies?",
+        "A": "The absorbed dose by the tumor",
+        "B": "The angle between iso-dose curves",
+        "C": "The specific activities of injected ligands",
+        "D": "The blood residence time",
+        "Answer": "B",
+        "Source": "we developed the concept of twist, which is a geometrical measure of the tiltedness of the iso-dose curves."
+    },
+    "Question_8": {
+        "Context": "The study evaluates the effectiveness of injection fractionation in radiopharmaceutical therapies.",
+        "Question": "What trend is observed with higher tumor receptor density or tumor volume in relation to the dose to the tumor?",
+        "A": "Decreases systematically",
+        "B": "Increases systematically",
+        "C": "Remains constant",
+        "D": "Increases the specific activities",
+        "Answer": "B",
+        "Source": "more fractionation (higher number of injections or higher time between injections) translates to a higher delivered dose to the tumor."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the impact of multi-bolus injections on dose delivery to the tumor.",
+        "Question": "How does the relative delivered dose to the tumor change with higher tumor receptor density?",
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Increases the specific activities",
+        "Answer": "B",
+        "Source": "by fractionating the injection, the relative delivered dose to the tumor (compared to the baseline bolus injection) decreases with higher tumor receptor density."
+    },
+    "Question_10": {
+        "Context": "The study investigates the enhancement factor in radiopharmaceutical therapies.",
+        "Question": "What does the enhancement factor quantify in terms of albumin binding?",
+        "A": "The effectiveness of albumin binding in delivering more dose to the tumor",
+        "B": "The effectiveness of albumin binding in delivering more dose to organs at risk",
+        "C": "The effectiveness of albumin binding in reducing dose to the tumor",
+        "D": "The effectiveness of albumin binding in reducing dose to organs at risk",
+        "Answer": "A",
+        "Source": "EF quantifies the effectiveness of albumin binding in delivering more doses to tumors, and this can be attributed to several factors that PBRPK modeling allows us to probe."
+    }
+}

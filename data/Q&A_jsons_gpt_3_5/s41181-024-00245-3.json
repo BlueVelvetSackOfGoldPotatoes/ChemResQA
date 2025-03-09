@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focused on the radiolabeling of ACooP peptide with fluorine-18 for PET imaging applications. The prosthetic compound used for radiolabeling was 6-[18F]fluoronicotinic acid 4-nitrophenyl ester.",
+        "Question": "What was the radiochemical yield of the prosthetic compound 6-[18F]fluoronicotinic acid 4-nitrophenyl ester?",
+        "A": "49%",
+        "B": "29.9%",
+        "C": "45%",
+        "D": "88%",
+        "Answer": "B",
+        "Source": "The decay-corrected radiochemical yield was 29.9% \u00b1 2.3 (n = 4) and radiochemical purity was 96.6% \u00b1 2.3."
+    },
+    "Question_2": {
+        "Context": "The study involved the synthesis of FNA-S-ACooP and its comparison with FNA-N-ACooP.",
+        "Question": "How was the chemical structure of FNA-S-ACooP confirmed?",
+        "A": "By LC-MS and NMR analyzes",
+        "B": "By radiolabeling experiments",
+        "C": "By immunofluorescence staining",
+        "D": "By autoradiography",
+        "Answer": "A",
+        "Source": "The chemical structure of FNA-S-ACooP was characterized by LC\u2013MS and NMR analyzes."
+    },
+    "Question_3": {
+        "Context": "The study involved the preparation of the prosthetic compound [18F]1 for radiolabeling.",
+        "Question": "How was [18F]1 synthesized?",
+        "A": "By passing through an anion-exchange cartridge",
+        "B": "By direct fluorination",
+        "C": "By precipitation",
+        "D": "By sublimation",
+        "Answer": "A",
+        "Source": "The cartridge was dried by passing through dry CH3CN followed by nitrogen gas. A mixture of precursor 4 and DABCO in CH3CN/tert-BuOH was pushed through the cartridge, and we indeed observed [18F]1 as the only radioactive product."
+    },
+    "Question_4": {
+        "Context": "The study involved the stability assessment of [18F]FNA-S-ACooP.",
+        "Question": "What was the LogD7.4 value of [18F]FNA-S-ACooP?",
+        "A": "-0.55",
+        "B": "0.55",
+        "C": "1.0",
+        "D": "-1.0",
+        "Answer": "A",
+        "Source": "LogD7.4 of [18F]FNA-S-ACooP was \u2212 0.55 \u00b1 0.01 (n = 3)."
+    },
+    "Question_5": {
+        "Context": "The study involved in vitro tissue binding and autoradiography experiments.",
+        "Question": "How was the radioactivity binding in the tissue samples quantified?",
+        "A": "In PSL/mm2",
+        "B": "In Bq",
+        "C": "In mCi",
+        "D": "In Gy",
+        "Answer": "A",
+        "Source": "The radioactivity binding in the tissue samples was quantified as photostimulated luminescence units per square millimeter (PSL/mm2) with the background radioactivity corrected."
+    },
+    "Question_6": {
+        "Context": "The study involved the synthesis of the prosthetic compound 1 for radiolabeling.",
+        "Question": "What was the molar activity of [18F]1 at the end of synthesis?",
+        "A": "22.0 MBq/nmol",
+        "B": "36.2 MBq/nmol",
+        "C": "50.0 MBq/nmol",
+        "D": "10.5 MBq/nmol",
+        "Answer": "B",
+        "Source": "The molar activity was 36.2 \u00b1 22.0 MBq/nmol at the end of synthesis."
+    },
+    "Question_7": {
+        "Context": "The study involved the stability assessment of [18F]FNA-S-ACooP.",
+        "Question": "How long was the stability of [18F]FNA-S-ACooP in the injectable formulation?",
+        "A": "2 hours",
+        "B": "4 hours",
+        "C": "6 hours",
+        "D": "8 hours",
+        "Answer": "B",
+        "Source": "The stability of [18F]FNA-S-ACooP in the injectable formulation (PBS with 14 mM ascorbic acid) was at least 4 h at r.t."
+    },
+    "Question_8": {
+        "Context": "The study involved the synthesis of FNA-S-ACooP and its comparison with FNA-N-ACooP.",
+        "Question": "How was the chemical structure of FNA-N-ACooP confirmed?",
+        "A": "By LC-MS and NMR analyzes",
+        "B": "By autoradiography",
+        "C": "By immunofluorescence staining",
+        "D": "By stability assessment",
+        "Answer": "A",
+        "Source": "The chemical structure of FNA-N-ACooP was characterized by LC\u2013MS and NMR analyzes."
+    },
+    "Question_9": {
+        "Context": "The study involved the preparation of the prosthetic compound [18F]1 for radiolabeling.",
+        "Question": "What was the radiochemical purity of [18F]1?",
+        "A": "96.6%",
+        "B": "88.8%",
+        "C": "75.5%",
+        "D": "100%",
+        "Answer": "A",
+        "Source": "The decay-corrected radiochemical yield was 29.9% \u00b1 2.3 (n = 4) and radiochemical purity was 96.6% \u00b1 2.3."
+    },
+    "Question_10": {
+        "Context": "The study involved the stability assessment of [18F]FNA-S-ACooP.",
+        "Question": "What was the LogD7.4 value of [18F]FNA-S-ACooP?",
+        "A": "-0.55",
+        "B": "0.55",
+        "C": "1.0",
+        "D": "-1.0",
+        "Answer": "A",
+        "Source": "LogD7.4 of [18F]FNA-S-ACooP was \u2212 0.55 \u00b1 0.01 (n = 3)."
+    }
+}

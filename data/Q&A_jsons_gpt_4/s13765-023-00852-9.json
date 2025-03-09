@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Non-thermal plasma (NTP) technologies have been applied in various fields, including agriculture, where they have been used to enhance plant growth under stress conditions.",
+        "Question": "What is the primary effect of low-temperature stress on rice during its germination and reproductive stages?",
+        "A": "Increased crop yield",
+        "B": "Reduced crop yield",
+        "C": "No impact on crop yield",
+        "D": "Increased resistance to pests",
+        "Answer": "B",
+        "Source": "Notably, low\u2011temperature stress primarily affects the germination and reproduc\u2011 tive stages of rice, often leading to reduced crop yield."
+    },
+    "Question_2": {
+        "Context": "In the context of plant biology, certain enzymes are known to play a role in protecting the plant from oxidative damage by scavenging reactive oxygen species.",
+        "Question": "Which enzyme is not typically associated with the antioxidant defense system in plants?",
+        "A": "Superoxide dismutase (SOD)",
+        "B": "Catalase (CAT)",
+        "C": "Peroxidase (POD)",
+        "D": "Lipase",
+        "Answer": "D",
+        "Source": "Furthermore, NTP treatment increases the activity and expression of antioxidant enzymes, such as superoxide dismutase (SOD), catalase (CAT), and peroxidase (POD), under low\u2011temperature conditions."
+    },
+    "Question_3": {
+        "Context": "Gene expression can be influenced by various treatments in plants, leading to changes in the plant's ability to cope with stress.",
+        "Question": "Which gene is upregulated in rice roots after low-temperature stress and is associated with the alternative oxidase pathway?",
+        "A": "KASI",
+        "B": "NCED3",
+        "C": "AOX1B",
+        "D": "Lipase",
+        "Answer": "C",
+        "Source": "Moreover, it downregu\u2011 lates the expression of \u03b2\u2011ketoacyl\u2011[acyl carrier protein] synthase I (KASI) and cis\u2011epoxy carotenoid dioxygenase 3 (NCED3) and upregulates the expression of alternative oxidase (AOX1B), BREVIS RADIX\u2011like homologous gene (BRXL2), WRKY transcription factor 29 (WRKY29), and EREBP transcription factor 2 (EREBP2) in roots after tandem 7 days low\u2011 temperature (16 \u2103) and 7 days room\u2011temperature (28 \u2103) treatments."
+    },
+    "Question_4": {
+        "Context": "The root system of rice plants is crucial for water and nutrient uptake and is also involved in the synthesis of important phytohormones.",
+        "Question": "Which phytohormone, synthesized by the rice root system, is known to enhance leaf photosynthesis and seed-filling capacity?",
+        "A": "Ethylene",
+        "B": "Gibberellin",
+        "C": "Abscisic acid",
+        "D": "Trans-zeatin",
+        "Answer": "D",
+        "Source": "The rice root system synthesizes trans-zeatin, a phytohormone and potent cytokinin, which enhances leaf photosynthesis and seed-filling capacity."
+    },
+    "Question_5": {
+        "Context": "Low-temperature (non-thermal) plasma is a state of matter that can be used in agriculture to improve plant performance.",
+        "Question": "What is the primary composition of non-thermal plasma?",
+        "A": "A mixture of electrons, ions, atoms, and free radicals",
+        "B": "Only free radicals",
+        "C": "Only ions and atoms",
+        "D": "Only electrons",
+        "Answer": "A",
+        "Source": "Gas molecules typically disperse at ignition volt\u2011 age, producing a mixture of states encompassing elec\u2011 trons, ions, atoms, and free radicals."
+    },
+    "Question_6": {
+        "Context": "In plant biology, certain genes are involved in the metabolic processes related to phosphates.",
+        "Question": "Which activity is associated with key genes involved in phosphate-containing compound metabolic processes in plants?",
+        "A": "Phosphotransferase activity",
+        "B": "Lipase activity",
+        "C": "Amylase activity",
+        "D": "Protease activity",
+        "Answer": "A",
+        "Source": "Transcriptomic analysis revealed the involve\u2011 ment of various key genes in phosphotransferase activity, phosphate\u2011containing compound metabolic processes, and defense responses."
+    },
+    "Question_7": {
+        "Context": "Reactive oxygen species (ROS) and reactive nitrogen species (RNS) produced through certain treatments can affect plant hormone pathways.",
+        "Question": "Which plant hormone pathways can be affected by reactive oxygen species (ROS) or reactive nitrogen species (RNS) produced through treatments?",
+        "A": "Abscisic acid and gibberellin pathways",
+        "B": "Cytokinin and auxin pathways",
+        "C": "Ethylene and jasmonic acid pathways",
+        "D": "Salicylic acid and strigolactone pathways",
+        "Answer": "A",
+        "Source": "Furthermore, free radicals, such as reactive oxygen species (ROS) or reactive nitrogen species (RNS), produced through NTP treatments can interfere with the abscisic acid and gibberellin path\u2011 ways, affecting redox homeostasis and breaking dor\u2011 mancy."
+    },
+    "Question_8": {
+        "Context": "Seed dormancy is a protective mechanism in plants that ensures seed survival under unfavorable conditions.",
+        "Question": "What is the primary purpose of seed dormancy in plants?",
+        "A": "To facilitate rapid germination",
+        "B": "To ensure seed survival in harsh environments",
+        "C": "To increase seed nutrient content",
+        "D": "To promote early flowering",
+        "Answer": "B",
+        "Source": "Seed dormancy is a protective mechanism that facilitates seed survival in harsh environments."
+    },
+    "Question_9": {
+        "Context": "Certain treatments can alter the physical properties of seeds, influencing their germination and growth.",
+        "Question": "What is one of the effects of treatments that can accelerate the germination process in seeds?",
+        "A": "Decreasing water absorption",
+        "B": "Altering the seed coat",
+        "C": "Reducing root production",
+        "D": "Inhibiting stem development",
+        "Answer": "B",
+        "Source": "Following NTP treatments, UV radiation, chemical radical production, and chemical reactions alter the seed coat, promote root and stem development, stimulate root production, and accelerate the germination process."
+    },
+    "Question_10": {
+        "Context": "In plant biology, the activity of certain enzymes is a measure of the plant's ability to cope with oxidative stress.",
+        "Question": "Which enzyme activity is meticulously regulated by the upregulation of its activity, ultimately promoting the germination and growth of rice seedlings?",
+        "A": "Lipase",
+        "B": "Amylase",
+        "C": "Catalase (CAT)",
+        "D": "Protease",
+        "Answer": "C",
+        "Source": "The increase in ROS, which is meticulously regulated by the upregulation of CAT activ\u2011 ity, ultimately promotes the germination and growth of rice seedlings."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study investigated the inhibitory effect of C. longa and demethoxycurcumin on cancer cell growth in a colorectal cancer cell line (HCT116) using NMR spectroscopy-based metabolomics.",
+        "Question": "What was the positive control used in the experiment?",
+        "A": "Doxorubicin",
+        "B": "Curcumin",
+        "C": "Betaine",
+        "D": "Glutathione",
+        "Answer": "A",
+        "Source": "HCT116 cells were treated with doxorubicin (positive control), C. longa extract, or demethoxycurcumin."
+    },
+    "Question_2": {
+        "Context": "The study analyzed metabolites of colorectal cancer cells treated with extract of C. longa and demethoxycurcumin using nuclear magnetic resonance (NMR) spectroscopy.",
+        "Question": "How many metabolites were identified and quantified in the HCT116 cell extract?",
+        "A": "35",
+        "B": "45",
+        "C": "55",
+        "D": "65",
+        "Answer": "B",
+        "Source": "In the NMR spectra of the HCT116 cell extract, 45 metabolites were identified and quantified."
+    },
+    "Question_3": {
+        "Context": "The study conducted multivariate statistical analysis of NMR spectra to confirm the distribution among groups.",
+        "Question": "What statistical analysis method was used to confirm the difference between the control group and the C. longa extract treated group?",
+        "A": "Principal component analysis (PCA)",
+        "B": "Orthogonal partial least square discriminant analysis (OPLS-DA)",
+        "C": "Receiver operating characteristic (ROC) curve",
+        "D": "Multivariate analysis of variance (MANOVA)",
+        "Answer": "B",
+        "Source": "OPLS-DA was performed to confirm the difference between the control group and the C. longa extract treated group."
+    },
+    "Question_4": {
+        "Context": "The study investigated the cytotoxic effects of C. longa extract and demethoxycurcumin on the HCT116 cell line.",
+        "Question": "What was the IC50 value of demethoxycurcumin?",
+        "A": "12 \u00b5M",
+        "B": "20 \u00b5M",
+        "C": "30 \u00b5M",
+        "D": "40 \u00b5M",
+        "Answer": "A",
+        "Source": "The IC50 of demethoxycurcumin was 12 \u00b5M."
+    },
+    "Question_5": {
+        "Context": "The study analyzed metabolites in HCT116 cells treated with C. longa extract and demethoxycurcumin using NMR spectroscopy.",
+        "Question": "Which metabolite showed a significant increase after treatment with C. longa extract and demethoxycurcumin 60 \u03bcM?",
+        "A": "Lactate",
+        "B": "Uracil",
+        "C": "Glutamate",
+        "D": "Betaine",
+        "Answer": "A",
+        "Source": "The result showed that lactate was increased after treatment with C. longa extract and demethoxycurcumin 60 \u03bcM."
+    },
+    "Question_6": {
+        "Context": "The study examined the expression of apoptosis-related proteins in HCT116 cells following demethoxycurcumin treatment.",
+        "Question": "Which protein was upregulated following demethoxycurcumin treatment at 40 and 60 \u03bcM?",
+        "A": "Bcl-2",
+        "B": "PARP",
+        "C": "Caspase-3",
+        "D": "Caspase-9",
+        "Answer": "B",
+        "Source": "Bax was upregulated following demethoxycurcumin treatment at 40 and 60 \u03bcM, whereas Bcl-2 was suppressed."
+    },
+    "Question_7": {
+        "Context": "The study analyzed metabolites in HCT116 cells treated with doxorubicin, C. longa extract, and demethoxycurcumin.",
+        "Question": "Which amino acids showed a pattern of decreasing with doxorubicin treatment?",
+        "A": "Tyrosine, Methionine, Isoleucine",
+        "B": "Leucine, Arginine, Phenylalanine",
+        "C": "Valine, Serine, ADP",
+        "D": "Taurine, 4HP, DMA",
+        "Answer": "A",
+        "Source": "In particular, the amino acids tyrosine, methionine, isoleucine, leucine, arginine, phenylalanine, and valine showed a pattern of decreasing with doxorubicin treatment."
+    },
+    "Question_8": {
+        "Context": "The study investigated the inhibitory effect of C. longa extract and demethoxycurcumin on cancer cell growth.",
+        "Question": "Which pathway was considered to be blocked by treatment with demethoxycurcumin?",
+        "A": "Glycolysis pathway",
+        "B": "TCA cycle",
+        "C": "CDP-choline pathway",
+        "D": "Pentose phosphate pathway",
+        "Answer": "C",
+        "Source": "It is considered that the CDP-choline pathway, which is activated for the survival of cancer cells, is blocked by treatment with demethoxycurcumin."
+    },
+    "Question_9": {
+        "Context": "The study analyzed metabolites in HCT116 cells treated with doxorubicin, C. longa extract, and demethoxycurcumin.",
+        "Question": "Which metabolite was part of the CDP-choline pathway and decreased after treatment with doxorubicin and demethoxycurcumin?",
+        "A": "Choline",
+        "B": "Glycerophosphocholine",
+        "C": "Phosphocholine",
+        "D": "Phosphatidylcholine",
+        "Answer": "A",
+        "Source": "Among them, choline and glycerophosphocholine are part of the CDP-choline pathway, which is activated in cancer, and it was reported that glycerophosphocholine levels are characteristically high in cancer."
+    },
+    "Question_10": {
+        "Context": "The study examined the expression of apoptosis-related proteins in HCT116 cells following demethoxycurcumin treatment.",
+        "Question": "Which protein was significantly increased with doxorubicin treatment compared to the demethoxycurcumin treated groups?",
+        "A": "PARP",
+        "B": "Caspase-3",
+        "C": "Caspase-9",
+        "D": "p53",
+        "Answer": "D",
+        "Source": "In this result, the doxorubicin treated group showed a significant increase in p53 compared to the demethoxycurcumin treated groups."
+    }
+}

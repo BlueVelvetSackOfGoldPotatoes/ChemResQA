@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "Researchers improved the electrical conductivities of Carbon-Fiber-PEEK composites by nanomaterial functionalization. ",
+        "Question": "How did the addition of graphene in the interlayers affect the electrical properties of Carbon-Fiber-PEEK composites?",
+        "A": "Decreased the electrical conductivity",
+        "B": "Had no effect on the electrical properties",
+        "C": "Increased the transverse electrical properties significantly",
+        "D": "Increased the in-plane electrical properties slightly",
+        "Answer": "C",
+        "Source": "Adding only a few wt% graphene in the interlayers of structural CF-PEEK composites by this technique led to more than 60% increase in transverse electrical properties, and much more in plane."
+    },
+    "Question_2": {
+        "Context": "A study focused on improving the longitudinal electrical conductivity of structural composites.",
+        "Question": "How was the longitudinal electrical conductivity of structural composites improved?",
+        "A": "By adding metallic fibers only",
+        "B": "By tufting conductive fibers into the braided structure",
+        "C": "By using a thermoplastic interlayer",
+        "D": "By incorporating graphene nanosuspensions",
+        "Answer": "B",
+        "Source": "The through-thickness conductivity was achieved by tufting conductive fibers into the braided fibrous structure, bringing both functional and structural benefits for through thickness properties."
+    },
+    "Question_3": {
+        "Context": "A study investigated the through-thickness mechanical strength of flax fiber reinforced green bio composites.",
+        "Question": "How was the through-thickness mechanical strength of flax fiber reinforced green bio composites improved?",
+        "A": "By adding glass fibers",
+        "B": "By incorporating carbon fibers",
+        "C": "By using a thermoplastic interlayer",
+        "D": "By applying a plasma treatment",
+        "Answer": "A",
+        "Source": "The tufting technology was used to improve the through-thickness mechanical strength of flax fiber reinforced green bio composites, using glass fibers."
+    },
+    "Question_4": {
+        "Context": "A study focused on the fusion welding of thermoset to thermoplastic polymer composites.",
+        "Question": "What was used to ensure chemical compatibility in the fusion welding of dissimilar materials?",
+        "A": "Plasma treatment",
+        "B": "Graphene nanosuspensions",
+        "C": "A thermoplastic interlayer",
+        "D": "Metallic fibers",
+        "Answer": "C",
+        "Source": "This point is illustrated for the fusion welding of thermoset to thermoplastic polymer composites. The thermoset side needs to be functionalized through co-curing with a thin thermoplastic interlayer."
+    },
+    "Question_5": {
+        "Context": "A study monitored the structural health of polymer composites using carbon fiber rovings.",
+        "Question": "How is crack formation monitored in polymer composites?",
+        "A": "By measuring the weight loss",
+        "B": "By analyzing the color change",
+        "C": "By monitoring the capacitance decrease",
+        "D": "By observing the surface roughness",
+        "Answer": "C",
+        "Source": "It was shown that the capacitance decrease is highly correlated to the crack formation, as the permittivity of air gaps is lower than that of the composite."
+    },
+    "Question_6": {
+        "Context": "A study focused on developing more reliable magnetic sensors.",
+        "Question": "How were more reliable magnetic sensors developed?",
+        "A": "By bonding permanent magnets to metal substrates",
+        "B": "By using torsional ultrasonic welding",
+        "C": "By embedding the sensors in polymer composites",
+        "D": "By applying a plasma treatment",
+        "Answer": "B",
+        "Source": "The authors show that it is possible to develop more reliable sensors by torsional ultrasonic welding of the magnets to stainless steel substrates."
+    },
+    "Question_7": {
+        "Context": "A study analyzed the mechanical and hygroscopic properties of thermoformed Chemi-Thermo-Mechanical Pulp.",
+        "Question": "What was the key focus of the analysis on Chemi-Thermo-Mechanical Pulp?",
+        "A": "Mechanical properties",
+        "B": "Chemical composition",
+        "C": "Hygroscopic properties",
+        "D": "Thermal conductivity",
+        "Answer": "C",
+        "Source": "These functional properties are key for packaging applications. Results showed that a careful optimization of the process parameters led to a lower water uptake of the material."
+    },
+    "Question_8": {
+        "Context": "A study investigated the impact of solar radiation on cellulose-based humidity-sensing material.",
+        "Question": "What type of shape changes can be induced in cellulose Cottonid based on the study?",
+        "A": "Temperature-induced shape changes",
+        "B": "Moisture-induced shape changes",
+        "C": "Pressure-induced shape changes",
+        "D": "Light-induced shape changes",
+        "Answer": "B",
+        "Source": "Application-oriented adaptive elements based on cellulose Cottonid capable of complex, passive, moisture-induced shape changes with adjustable amplitude."
+    },
+    "Question_9": {
+        "Context": "A study examined the effects of temperature and humidity on curing cold mix asphalts.",
+        "Question": "How do warm and dry temperatures affect the mechanical performance of cold mix asphalts?",
+        "A": "Decrease stiffness and aging of the binder material",
+        "B": "Increase stiffness and aging of the binder material",
+        "C": "Have no effect on the mechanical properties",
+        "D": "Increase fume production",
+        "Answer": "B",
+        "Source": "Results of the presented study showed that warm and dry temperatures tend to increase the material stiffness as well as the aging of the binder material."
+    },
+    "Question_10": {
+        "Context": "A study focused on the development of sensors adapted to various applications.",
+        "Question": "What was the focus of the study on the development of sensors?",
+        "A": "Improving structural properties",
+        "B": "Monitoring environmental conditions",
+        "C": "Enhancing electrical conductivity",
+        "D": "Optimizing manufacturing processes",
+        "Answer": "C",
+        "Source": "The structural health of polymer composites was monitored by inserting carbon fiber rovings into glass non-crimp fabrics."
+    }
+}

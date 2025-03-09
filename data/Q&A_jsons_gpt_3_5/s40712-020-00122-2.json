@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study focuses on examining memory-dependent derivatives in a 2D transversely isotropic homogeneous magneto thermoelastic medium with two temperatures.",
+        "Question": "What is the aim of the present investigation?",
+        "A": "To analyze the stress distribution in a magneto-thermoelastic medium",
+        "B": "To study the effect of memory-dependent derivatives in a transversely isotropic medium",
+        "C": "To explore the behavior of displacement components in a homogeneous medium",
+        "D": "To investigate the temperature distribution in a magneto-thermoelastic solid",
+        "Answer": "B",
+        "Source": "The aim of the present investigation is to examine the memory-dependent derivatives in 2D transversely isotropic homogeneous magneto thermoelastic medium with two temperatures."
+    },
+    "Question_2": {
+        "Context": "The study discusses the generalized thermoelasticity models and their application in various engineering fields.",
+        "Question": "What is the wide application of magneto-thermoelasticity mentioned in the text?",
+        "A": "Studying the behavior of stress in nuclear devices",
+        "B": "Analyzing the effects of the earth's magnetic field on seismic waves",
+        "C": "Investigating the emission of electromagnetic radiations from geophysics",
+        "D": "Exploring the damping of acoustic waves in a magnetic field",
+        "Answer": "B",
+        "Source": "Magneto-thermoelasticity deals with the relations of the magnetic field, strain and temperature. It has wide applications such as geophysics, examining the effects of the earth's magnetic field on seismic waves."
+    },
+    "Question_3": {
+        "Context": "The study introduces the concept of memory-dependent derivatives and their application in thermoelastic materials.",
+        "Question": "What is the significance of the memory-dependent derivatives introduced in the study?",
+        "A": "To simplify numerical calculations in thermoelastic materials",
+        "B": "To represent memory dependence in heat conductive sense",
+        "C": "To analyze the behavior of magnetic fields in magneto-thermoelastic materials",
+        "D": "To study the effects of radiation in nuclear devices",
+        "Answer": "B",
+        "Source": "Generalized thermoelasticity models have been further comprehensive into temporal fractional ones to express memory dependence in heat conductive sense."
+    },
+    "Question_4": {
+        "Context": "The study discusses the mathematical models of electro-thermoelasticity and their application in heat conduction.",
+        "Question": "What did Ezzat et al. propose in their mathematical model of electro-thermoelasticity?",
+        "A": "A new model of heat conduction with time delay",
+        "B": "A model of stress distribution in magneto-thermoelastic materials",
+        "C": "A theory of electromagnetic radiation in nuclear devices",
+        "D": "A concept of memory-dependent derivatives in thermoelastic materials",
+        "Answer": "A",
+        "Source": "Ezzat et al. proposed a mathematical model of electro-thermoelasticity for heat conduction with a memory-dependent derivative."
+    },
+    "Question_5": {
+        "Context": "The study mentions the proposal of a new mathematical model of generalized magneto-thermo-viscoelasticity.",
+        "Question": "What did Aldawody et al. propose in their mathematical model?",
+        "A": "A new theory of stress distribution in magneto-thermoelastic materials",
+        "B": "A model of heat conduction with memory-dependent derivatives",
+        "C": "A concept of dual-phase-lag heat conduction law",
+        "D": "A mathematical model of electro-thermoelasticity",
+        "Answer": "C",
+        "Source": "Aldawody et al. proposed a new mathematical model of generalized magneto-thermo-viscoelasticity theories with memory-dependent derivatives of dual-phase-lag heat conduction law."
+    },
+    "Question_6": {
+        "Context": "The study highlights the lack of research in memory-dependent derivative approach for transversely isotropic magneto-thermoelastic medium.",
+        "Question": "What is the main gap identified in the research?",
+        "A": "Lack of studies on the behavior of stress in magneto-thermoelastic materials",
+        "B": "Insufficient exploration of temperature distribution in transversely isotropic materials",
+        "C": "Limited research on memory-dependent derivative approach in magneto-thermoelastic medium",
+        "D": "Inadequate analysis of displacement components in homogeneous media",
+        "Answer": "C",
+        "Source": "In spite of these, not much work has been carried out in memory-dependent derivative approach for transversely isotropic magneto-thermoelastic medium with two temperatures."
+    },
+    "Question_7": {
+        "Context": "The study discusses the method and solution of the problem using Laplace transforms and Fourier transform technique.",
+        "Question": "What technique is adopted to estimate the nature of displacements, stresses, and temperature distributions?",
+        "A": "Numerical integration method",
+        "B": "Fourier transform technique",
+        "C": "Laplace transforms",
+        "D": "Finite element analysis",
+        "Answer": "B",
+        "Source": "In order to estimate the nature of the displacements, stresses and temperature distributions in the physical domain, an efficient approximate numerical inverse Fourier and Laplace transform technique is adopted."
+    },
+    "Question_8": {
+        "Context": "The study discusses the effect of memory-dependent derivatives on the physical quantities in the magneto-thermoelastic medium.",
+        "Question": "What is the motivation for introducing the concept of memory-dependent derivatives?",
+        "A": "To simplify the numerical calculations in thermoelastic materials",
+        "B": "To provide more insight into the memory effect in physical phenomena",
+        "C": "To study the behavior of magnetic fields in magneto-thermoelastic materials",
+        "D": "To explore the damping of acoustic waves in a magnetic field",
+        "Answer": "B",
+        "Source": "The motivation for such a new definition is that it provides more insight into the memory effect (the instantaneous change rate depends on the past state) and also better physical meaning."
+    },
+    "Question_9": {
+        "Context": "The study discusses the choice of kernel function and time delay parameter in the memory-dependent derivative model.",
+        "Question": "What is the significance of the kernel function in the MDD model?",
+        "A": "It represents the degree of past effect on the present",
+        "B": "It simplifies the numerical calculations in the model",
+        "C": "It determines the rate of change in stress components",
+        "D": "It controls the behavior of temperature distribution",
+        "Answer": "A",
+        "Source": "The kernel function can be understood as the degree of the past effect on the present."
+    },
+    "Question_10": {
+        "Context": "The study presents the method for inverting the Laplace and Fourier transforms to obtain the physical quantities.",
+        "Question": "How is the Laplace transform function inverted to obtain the physical domain solution?",
+        "A": "By applying numerical integration techniques",
+        "B": "By replacing s with \u03c9 in the Fourier transform",
+        "C": "By evaluating the integral using specific methods",
+        "D": "By using the Fourier inverse transform",
+        "Answer": "C",
+        "Source": "The method for evaluating this integral is described in Press (1986)."
+    }
+}

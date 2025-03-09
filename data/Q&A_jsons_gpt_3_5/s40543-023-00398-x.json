@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study compared two peptides, KL18 and KL-PxxP, to examine their effects on structure, antibiotic activity, and mode of action.",
+        "Question": "What was observed about the helical content of KL18 compared to KL-PxxP in a membrane-mimetic environment?",
+        "A": "KL18 had lower helical content than KL-PxxP.",
+        "B": "KL18 had higher helical content than KL-PxxP.",
+        "C": "KL18 and KL-PxxP had similar helical content.",
+        "D": "KL-PxxP had no helical content.",
+        "Answer": "B",
+        "Source": "In a membrane-mimetic environment, we observed that KL18 had a much higher helical content compared to KL-PxxP."
+    },
+    "Question_2": {
+        "Context": "The study investigated the antibacterial activity of KL18 and KL-PxxP against various bacteria.",
+        "Question": "Which peptide exhibited 4\u201316 times higher antibacterial activity than the other across tested strains?",
+        "A": "KL18",
+        "B": "KL-PxxP",
+        "C": "Both peptides showed similar antibacterial activity.",
+        "D": "Neither peptide showed antibacterial activity.",
+        "Answer": "B",
+        "Source": "We found that KL-PxxP exhibited 4\u201316 times higher antibacterial activity than KL18."
+    },
+    "Question_3": {
+        "Context": "The study evaluated the hemolytic activity of KL18 and KL-PxxP.",
+        "Question": "How did the hemolytic activity of KL-PxxP compare to KL18?",
+        "A": "KL-PxxP was more hemolytic than KL18.",
+        "B": "KL-PxxP was less hemolytic than KL18.",
+        "C": "KL-PxxP had no hemolytic activity.",
+        "D": "KL-PxxP and KL18 had similar hemolytic activity.",
+        "Answer": "C",
+        "Source": "KL-PxxP was almost no hemolytic."
+    },
+    "Question_4": {
+        "Context": "The study examined the membrane depolarization induced by the peptides.",
+        "Question": "Which peptide caused a significant reduction in the membrane potential of S. aureus?",
+        "A": "KL18",
+        "B": "KL-PxxP",
+        "C": "Both peptides caused a reduction in membrane potential.",
+        "D": "Neither peptide affected the membrane potential.",
+        "Answer": "A",
+        "Source": "KL18 effectively dissipated the membrane potential of S. aureus."
+    },
+    "Question_5": {
+        "Context": "The study investigated the membrane disruption induced by the peptides.",
+        "Question": "Which peptide exhibited strong membrane-lytic activity by causing 67% leakage from PC/PG vesicles?",
+        "A": "KL18",
+        "B": "KL-PxxP",
+        "C": "Both peptides caused similar membrane leakage.",
+        "D": "Neither peptide caused membrane leakage.",
+        "Answer": "A",
+        "Source": "KL18 strongly induced calcein release from the PC/PG (1:1) vesicles, causing 67% leakage."
+    },
+    "Question_6": {
+        "Context": "The study assessed the SYTOX Green uptake in bacterial cells caused by the peptides.",
+        "Question": "Which peptide significantly induced SYTOX Green influx into S. aureus cells?",
+        "A": "KL18",
+        "B": "KL-PxxP",
+        "C": "Both peptides caused SYTOX Green influx.",
+        "D": "Neither peptide affected SYTOX Green influx.",
+        "Answer": "A",
+        "Source": "KL18 significantly induced SYTOX Green influx, while KL-PxxP had no effect on the influx of SYTOX Green into the cells."
+    },
+    "Question_7": {
+        "Context": "The study evaluated the ability of the peptides to translocate across lipid bilayers.",
+        "Question": "Which peptide showed a time-dependent reduction in fluorescence intensity, indicating successful translocation across the lipid bilayer?",
+        "A": "KL18",
+        "B": "KL-PxxP",
+        "C": "Both peptides translocated across the lipid bilayer.",
+        "D": "Neither peptide translocated across the lipid bilayer.",
+        "Answer": "B",
+        "Source": "KL-PxxP led to a time-dependent reduction in fluorescence intensity, suggesting successful crossing of the lipid bilayer and entry into vesicles."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the binding of the peptides to membranes using Trp fluorescence analysis.",
+        "Question": "Which peptide exhibited a significant blue shift in Trp emission maxima upon addition to anionic liposomes?",
+        "A": "KL18",
+        "B": "KL-PxxP",
+        "C": "Both peptides showed a blue shift in Trp emission maxima.",
+        "D": "Neither peptide showed a blue shift in Trp emission maxima.",
+        "Answer": "B",
+        "Source": "While KL18 exhibited an intermediate blue shift, KL-PxxP caused only a minor shift (0\u20132 nm) in Trp emission maxima upon addition to PC liposomes."
+    },
+    "Question_9": {
+        "Context": "The study discussed the implications of the central PxxP motif in AHPs for antimicrobial efficacy.",
+        "Question": "What was proposed as a result of the study regarding the central PxxP motif in AHPs?",
+        "A": "The PxxP motif has no impact on antimicrobial efficacy.",
+        "B": "The PxxP motif reduces antibacterial potency.",
+        "C": "The PxxP motif enhances antibacterial potency and selectivity.",
+        "D": "The PxxP motif increases hemolytic activity.",
+        "Answer": "C",
+        "Source": "Our findings suggest that the central PxxP motif provides dynamic conformational behavior in both aqueous and membrane-mimetic environments, enhancing binding to anionic membranes and translocation across lipid bilayers, resulting in improved antibacterial potency and selectivity."
+    },
+    "Question_10": {
+        "Context": "The study concluded by highlighting the potential of the central PxxP motif in AHPs for developing novel antimicrobial peptides.",
+        "Question": "What was the proposed application of the central PxxP motif in AHPs?",
+        "A": "To reduce antimicrobial efficacy.",
+        "B": "To increase cytotoxic effects on mammalian cells.",
+        "C": "To facilitate the development of new antibiotic agents.",
+        "D": "To enhance resistance in bacteria.",
+        "Answer": "C",
+        "Source": "Therefore, our findings suggest that the central PxxP motif in AHPs provides dynamic conformational behavior in both aqueous and membrane-mimetic environments, enhancing binding to anionic membranes and translocation across lipid bilayers, resulting in improved antibacterial potency and selectivity."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The paper discusses the mechanical behavior of braided carbon nanotube yarns (CNTYs) on an elastomeric core to produce stretchable conductive materials.",
+        "Question": "What was the innovative aspect included in the model related to the friction between the braid and the core?",
+        "A": "The model accounted for the friction stresses between the braid and the core.",
+        "B": "The model ignored the effect of friction between the braid and the core.",
+        "C": "The model only considered the mechanical properties of the core.",
+        "D": "The model focused solely on the conductive properties of the CNTYs.",
+        "Answer": "A",
+        "Source": "The addition of the friction stresses made a significant contribution to the overall stresses and the accuracy of the theoretical simulation, and its agreement with the experimental results."
+    },
+    "Question_2": {
+        "Context": "The paper discusses the fabrication and characterization of composite materials based on braiding carbon nanotube yarns (CNTYs) on an elastomeric core.",
+        "Question": "What was the resistivity of the stretchable conductive composite obtained?",
+        "A": "9.05 \u00d7 10\u20134 Ohm*cm",
+        "B": "1.2 \u00d7 10+3 Ohm*cm",
+        "C": "6.8 \u00d7 10\u20136 Ohm*cm",
+        "D": "1.0 \u00d7 10+3 Ohm*cm",
+        "Answer": "A",
+        "Source": "As the CNTYs are conductive, a stretchable conductive composite was obtained having a resistivity of 9.05 \u00d7 10\u20134 Ohm*cm."
+    },
+    "Question_3": {
+        "Context": "The paper presents experimental results on the tensile behavior of a composite-based stiff yarns braided on an elastomeric core.",
+        "Question": "What were the three failure modes identified during the tensile testing?",
+        "A": "Failure of the yarns, failure of the rubber core, and stretching of the braid.",
+        "B": "Squeezing out of the rubber core, failure of the yarns, and failure of the rubber core.",
+        "C": "Failure of the rubber core, stretching of the braid, and failure of the yarns.",
+        "D": "Failure of the yarns, squeezing out of the rubber core, and failure of the rubber core.",
+        "Answer": "B",
+        "Source": "Three failure modes were found as depicted in Fig. 7. In failure mode 1 the rubber squeezes out of the braid, in failure mode 2 there is failure of the yarn(s), and in failure mode 3 there is failure of the rubber core."
+    },
+    "Question_4": {
+        "Context": "The paper discusses the electrical resistance measurements of the braided composite during tensile testing.",
+        "Question": "What was the resistance ratio between the 8 and 16 braided yarns?",
+        "A": "1",
+        "B": "2",
+        "C": "0.5",
+        "D": "4",
+        "Answer": "B",
+        "Source": "The resistance ratio between 8 and 16 yarns is 2."
+    },
+    "Question_5": {
+        "Context": "The paper presents the calculated resistivity and conductivity values for the braided composite.",
+        "Question": "What was the resistivity of the composite with 16 braided yarns?",
+        "A": "8.4 \u00d7 10\u20134 Ohm*cm",
+        "B": "9.7 \u00d7 10\u20134 Ohm*cm",
+        "C": "6.8 \u00d7 10\u20136 Ohm*cm",
+        "D": "1.0 \u00d7 10+3 Ohm*cm",
+        "Answer": "B",
+        "Source": "The resistivity for 16 yarns was 9.7 \u00d7 10\u20134 Ohm*cm."
+    },
+    "Question_6": {
+        "Context": "The paper discusses the experimental stability of the composite's electrical resistance during stretching.",
+        "Question": "What was observed regarding the electrical resistance during 15 cycles of stretching/relaxation?",
+        "A": "Significant changes in resistance were observed.",
+        "B": "The composite showed stable electrical performance without a change in resistance.",
+        "C": "The resistance increased with each cycle.",
+        "D": "The resistance decreased with each cycle.",
+        "Answer": "B",
+        "Source": "Furthermore, during 15 cycles, the composite shows stable electrical performance without a change in resistance."
+    },
+    "Question_7": {
+        "Context": "The paper discusses the experimental results on the stress-strain behavior of the composite.",
+        "Question": "What was the behavior of the rubber core under strain between 0 to 30%?",
+        "A": "The rubber core exhibited nonlinear behavior.",
+        "B": "The rubber core exhibited linear behavior.",
+        "C": "The rubber core showed no change in behavior.",
+        "D": "The rubber core exhibited strain hardening.",
+        "Answer": "B",
+        "Source": "Figure 18 presents experimental results for the rubber that was used under the range of strain between 0 to 30%, as can be seen the behavior of the rubber linear at the range which aligns with the assumption for the model."
+    },
+    "Question_8": {
+        "Context": "The paper discusses the calculated apparent friction coefficient during stretching of the composite braid.",
+        "Question": "How does the apparent friction coefficient change with strain?",
+        "A": "The apparent friction coefficient decreases with increasing strain.",
+        "B": "The apparent friction coefficient remains constant throughout the strain.",
+        "C": "The apparent friction coefficient increases linearly with stretching of the composite braid.",
+        "D": "The apparent friction coefficient is not affected by strain.",
+        "Answer": "C",
+        "Source": "Figure 13 shows that the calculated apparent friction coefficient increases linearly with stretching of the composite braid."
+    },
+    "Question_9": {
+        "Context": "The paper discusses the comparison between the proposed model and Rawals' model.",
+        "Question": "What was observed when comparing the theoretical stress-strain curves for different friction coefficients?",
+        "A": "The proposed model showed no difference compared to Rawals' model.",
+        "B": "The difference between the curves was almost 40% before failure mode 1.",
+        "C": "The proposed model was inaccurate compared to Rawals' model.",
+        "D": "The friction coefficient had no impact on the stress-strain curves.",
+        "Answer": "B",
+        "Source": "The results also indicate that when the coefficient friction is almost zero, the proposed model is similar to Rawals\u2019 model. The difference between the curves (0.001 to 0.5) before failure mode 1 is almost 40%, indicating that the friction cannot be neglected."
+    },
+    "Question_10": {
+        "Context": "The paper discusses the resistivity and conductivity values of the braided composite.",
+        "Question": "What was the conductivity of the composite with 8 braided yarns?",
+        "A": "1.2 \u00d7 10+3 S*cm\u22121",
+        "B": "1.0 \u00d7 10+3 S*cm\u22121",
+        "C": "6.8 \u00d7 10\u20136 S*cm\u22121",
+        "D": "1.2 \u00d7 10+3 Ohm*cm",
+        "Answer": "A",
+        "Source": "The conductivity for 8 yarns was 1.2 \u00d7 10+3 S*cm\u22121."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "The study involved fabricating thermoplastic wheat starch\u2013sugarcane bagasse biocomposites through a melt mixing method. The effect of sorbitol:glycerol weight ratio and bagasse concentration on physicomechanical properties was evaluated.",
+        "Question": "What effect did increasing the weight ratio of sorbitol to glycerol have on the tensile strength and modulus of the biocomposites?",
+        "A": "Decreased tensile strength and modulus",
+        "B": "Increased tensile strength and modulus",
+        "C": "No effect on tensile strength and modulus",
+        "D": "Increased tensile strength but decreased modulus",
+        "Answer": "B",
+        "Source": "The results indicated that increasing both the weight ratio of sorbitol to glycerol generally led to a significant increase in tensile strength and modulus."
+    },
+    "Question_2": {
+        "Context": "The study evaluated the equilibrium moisture content of biocomposites based on different weight ratios of sorbitol to glycerol and bagasse concentrations.",
+        "Question": "How did increasing the bagasse concentration affect the equilibrium moisture content of the biocomposites?",
+        "A": "Decreased equilibrium moisture content",
+        "B": "Increased equilibrium moisture content",
+        "C": "No effect on equilibrium moisture content",
+        "D": "Initially increased then decreased equilibrium moisture content",
+        "Answer": "A",
+        "Source": "For each weight ratio of sorbitol to glycerol, with increasing bagasse concentration, the equilibrium moisture content of biocomposite decreased."
+    },
+    "Question_3": {
+        "Context": "The study analyzed the moisture absorption behavior of biocomposites using the Peleg model.",
+        "Question": "What does a lower k1 value in the Peleg model indicate for the biocomposites?",
+        "A": "Higher initial moisture absorption rate",
+        "B": "Lower initial moisture absorption rate",
+        "C": "Higher moisture absorption capacity",
+        "D": "Lower moisture absorption capacity",
+        "Answer": "A",
+        "Source": "The constant k1 is related to mass transfer and a lower k1 indicates a higher initial moisture absorption rate."
+    },
+    "Question_4": {
+        "Context": "The study conducted FTIR spectroscopy on starch, bagasse, and biocomposite samples.",
+        "Question": "What does the FTIR spectrum reveal about the bonding in the biocomposite compared to starch and bagasse?",
+        "A": "New bonding not present in starch and bagasse",
+        "B": "Decrease in hydrogen and polar bonds",
+        "C": "Increase in hydrogen and polar bonds",
+        "D": "No change in bonding",
+        "Answer": "C",
+        "Source": "The FTIR spectrum revealed an increase in hydrogen and polar bonds in the biocomposites compared to pure starch."
+    },
+    "Question_5": {
+        "Context": "The study assessed the thermal stability of the biocomposites through thermogravimetric analysis.",
+        "Question": "How did increasing the weight ratio of sorbitol to glycerol affect the thermal stability of the biocomposites?",
+        "A": "Decreased thermal stability",
+        "B": "No effect on thermal stability",
+        "C": "Increased thermal stability",
+        "D": "Initially decreased then increased thermal stability",
+        "Answer": "C",
+        "Source": "Increasing the weight ratio of sorbitol to glycerol in thermoplastic starch increases thermal stability."
+    },
+    "Question_6": {
+        "Context": "The study prepared biocomposite sheets to investigate the effect of sorbitol:glycerol weight ratios and bagasse concentrations on physicomechanical properties.",
+        "Question": "What was the effect of increasing the sorbitol:glycerol weight ratio on the elongation at break of the biocomposites?",
+        "A": "Decreased elongation at break",
+        "B": "Increased elongation at break",
+        "C": "No effect on elongation at break",
+        "D": "Initially increased then decreased elongation at break",
+        "Answer": "A",
+        "Source": "Increasing the weight ratio of sorbitol to glycerol generally led to a significant increase in tensile strength and modulus, but a decrease in elongation at break."
+    },
+    "Question_7": {
+        "Context": "The study evaluated the tensile properties of the biocomposites based on different weight ratios of sorbitol to glycerol and bagasse concentrations.",
+        "Question": "How did increasing the bagasse concentration affect the tensile strength of the biocomposites?",
+        "A": "Decreased tensile strength",
+        "B": "Increased tensile strength",
+        "C": "No effect on tensile strength",
+        "D": "Initially increased then decreased tensile strength",
+        "Answer": "B",
+        "Source": "For each weight ratio of sorbitol to glycerol, with the increase in bagasse concentration, the tensile strength of the biocomposite increased."
+    },
+    "Question_8": {
+        "Context": "The study analyzed the moisture absorption behavior of biocomposites using the Peleg model.",
+        "Question": "What does a lower k2 value in the Peleg model indicate for the biocomposites?",
+        "A": "Higher initial moisture absorption rate",
+        "B": "Lower initial moisture absorption rate",
+        "C": "Higher moisture absorption capacity",
+        "D": "Lower moisture absorption capacity",
+        "Answer": "C",
+        "Source": "Constant k2 corresponds to the maximum moisture absorption capacity and lower k2 indicates more moisture absorption capacity."
+    },
+    "Question_9": {
+        "Context": "The study conducted FTIR spectroscopy on starch, bagasse, and biocomposite samples.",
+        "Question": "What does the FTIR spectrum reveal about the bonding in the biocomposite compared to starch and bagasse?",
+        "A": "New bonding not present in starch and bagasse",
+        "B": "Decrease in hydrogen and polar bonds",
+        "C": "Increase in hydrogen and polar bonds",
+        "D": "No change in bonding",
+        "Answer": "C",
+        "Source": "The FTIR spectrum revealed an increase in hydrogen and polar bonds in the biocomposites compared to pure starch."
+    },
+    "Question_10": {
+        "Context": "The study assessed the thermal stability of the biocomposites through thermogravimetric analysis.",
+        "Question": "How did increasing the bagasse concentration affect the thermal stability of the biocomposites?",
+        "A": "Decreased thermal stability",
+        "B": "No effect on thermal stability",
+        "C": "Increased thermal stability",
+        "D": "Initially decreased then increased thermal stability",
+        "Answer": "C",
+        "Source": "Increasing sugarcane bagasse concentration led to an increase in thermal stability of the biocomposites."
+    }
+}

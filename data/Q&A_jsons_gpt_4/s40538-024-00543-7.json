@@ -1,0 +1,102 @@
+{
+    "Question_1": {
+        "Context": "In plants, cinnamyl alcohol dehydrogenase (CAD) is an enzyme that plays a crucial role in the biosynthesis of lignin by catalyzing the conversion of cinnamaldehydes into their corresponding alcohols.",
+        "Question": "What is the primary function of cinnamyl alcohol dehydrogenase (CAD) in plants?",
+        "A": "It assists in the breakdown of starches.",
+        "B": "It catalyzes the last step of lignin biosynthesis.",
+        "C": "It aids in the synthesis of chlorophyll.",
+        "D": "It is involved in the absorption of nutrients from the soil.",
+        "Answer": "B",
+        "Source": "Cinnamyl alcohol dehydrogenase (CAD) is a key enzyme in lignin synthesis, which can catalyze the last step of the lignin specific synthesis pathway and play an important regulatory function in lignin biosynthesis."
+    },
+    "Question_2": {
+        "Context": "The StCAD gene family in potatoes is divided into subfamilies based on the presence of conserved motifs, which are short, recurring sequence patterns that are often indicative of a protein's function.",
+        "Question": "Which subfamily of the StCAD gene family in potatoes is characterized by having all conserved motifs except Motif 9?",
+        "A": "Subfamily I",
+        "B": "Subfamily II",
+        "C": "Subfamily III",
+        "D": "Subfamily VI",
+        "Answer": "A",
+        "Source": "Among them, subfamily I contained all conserved motifs except Motif 9 which contained more conserved motifs than other subfamilies."
+    },
+    "Question_3": {
+        "Context": "In the study of gene families, the distribution of genes across chromosomes can provide insights into the evolutionary history and functional diversification of the genes.",
+        "Question": "How are the genes of the potato CAD family distributed across the chromosomes?",
+        "A": "Clustered on a single chromosome",
+        "B": "Evenly distributed across all chromosomes",
+        "C": "Irregularly distributed on 12 chromosomes",
+        "D": "Located only on chromosomes 1 and 2",
+        "Answer": "C",
+        "Source": "Chromosome localization analysis of potato CAD family genes showed that each gene was irregularly distributed on 12 chromosomes."
+    },
+    "Question_4": {
+        "Context": "In the analysis of gene promoters, cis-elements are specific DNA sequences that can bind transcription factors and regulate gene expression in response to various stimuli, including stress.",
+        "Question": "Which type of cis-elements are found in the promoter region of the StCAD gene family related to stress?",
+        "A": "Only metal response elements",
+        "B": "Only salicylic acid response elements",
+        "C": "Only gibberellin response elements",
+        "D": "Multiple phytohormone response elements",
+        "Answer": "D",
+        "Source": "The results showed that the 50 CAD genes contained multiple phytohormone response elements, including auxin response element (TGA-element), auxin response element (AuxRR-core), salicylic acid response element (TCA-element), gibberellin response element (GARE-motif), abscisic acid responsive element (ABRE); methyl jasmonate response element (TGACG-motif and CGTCA-motif); methyl jasmonate response element."
+    },
+    "Question_5": {
+        "Context": "The analysis of gene expression patterns in response to environmental stressors, such as heavy metals, can reveal how genes are regulated and contribute to the plant's stress response mechanisms.",
+        "Question": "What was observed about the expression patterns of the StCAD gene family in response to cadmium (Cd) stress?",
+        "A": "All genes were downregulated",
+        "B": "All genes were upregulated",
+        "C": "Most genes were upregulated except for a few",
+        "D": "No significant changes in gene expression were observed",
+        "Answer": "C",
+        "Source": "Except for StCAD9, StCAD10 and StCAD27, other genes were upregulated after Cd stress."
+    },
+    "Question_6": {
+        "Context": "The activities of certain enzymes and the content of compounds like lignin in plants can be altered in response to heavy metal stress, which may reflect the plant's adaptive mechanisms.",
+        "Question": "What changes were observed in the activities of peroxidase (POD), CAD, and lignin content in potatoes after cadmium (Cd) stress?",
+        "A": "Decreased POD and CAD activities and lignin content",
+        "B": "Increased POD and CAD activities and lignin content",
+        "C": "Decreased POD activity but increased CAD activity and lignin content",
+        "D": "Increased POD activity but decreased CAD activity and lignin content",
+        "Answer": "B",
+        "Source": "The activities of POD, CAD and lignin in potato were significantly changed after Cd stress. The POD activity increased with the increase of Cd stress time, and the POD activity of the T3 treatment was significantly higher than that of other treatments. CAD activity increased significantly after Cd stress and CAD activity of the T0 treatment was significantly lower than that of other treatments. The lignin content showed a gradually increasing trend, and the lignin content of the T0 treatment was the lowest, while that of the T3 treatment was significantly higher than that of T0 and T1."
+    },
+    "Question_7": {
+        "Context": "Lignin is a crucial secondary metabolite in plants that contributes to mechanical strength, stress resistance, and the transport of minerals and water.",
+        "Question": "What role does lignin play in plant growth and stress resistance?",
+        "A": "It decreases mechanical strength and stress resistance",
+        "B": "It has no impact on the transport of minerals and water",
+        "C": "It enhances mechanical strength and stress resistance",
+        "D": "It only contributes to the defense against biotic stress",
+        "Answer": "C",
+        "Source": "Lignin is widely regarded as an important secondary metabolite involved in plant stress resistance, which can enhance the mechanical strength and stress resistance of plants, is conducive to the transport of minerals and water in plants and the defense of an adverse external environment."
+    },
+    "Question_8": {
+        "Context": "The number of exons and introns in a gene can affect the speed of gene expression, with genes having fewer introns potentially being able to leave the nucleus faster to start the translation process.",
+        "Question": "How does the number of introns in a gene affect its expression?",
+        "A": "More introns increase the speed of gene expression",
+        "B": "The number of introns has no effect on gene expression",
+        "C": "Fewer introns may allow the gene to be expressed more quickly",
+        "D": "Introns prevent the gene from being expressed",
+        "Answer": "C",
+        "Source": "It was stated that intron number can impact the speed of gene expression and genes with less number of introns can leave the nucleus faster to start the translation process."
+    },
+    "Question_9": {
+        "Context": "The cis-elements in the promoter regions of genes are indicative of the gene's potential functions and responses to various stimuli, including abiotic stress.",
+        "Question": "What do the cis-elements in the promoter regions of the StCAD gene family suggest about their functions?",
+        "A": "They are involved in fruit ripening",
+        "B": "They play a role in flower coloration",
+        "C": "They are related to growth and development",
+        "D": "They may play an important role in response to abiotic stress",
+        "Answer": "D",
+        "Source": "The cis-element analysis of potato CAD family genes showed that the promoter region was rich in cis-elements related to plant response to stress, including metal response elements, salicylic acid response elements and abscisic acid response elements, suggesting that it may play an important role in response to abiotic stress."
+    },
+    "Question_10": {
+        "Context": "The expression of CAD family genes in response to stress can be correlated with changes in physiological indicators such as enzyme activities and lignin content.",
+        "Question": "What correlation was found between the expression of most StCAD genes and physiological indicators after cadmium (Cd) stress?",
+        "A": "Negative correlation with all physiological indicators",
+        "B": "No correlation with any physiological indicators",
+        "C": "Positive correlation with all physiological indicators",
+        "D": "Positive correlation with some and negative with others",
+        "Answer": "C",
+        "Source": "To explore the relationship between the StCAD gene and related physiological indicators, correlation analysis was conducted on the StCAD gene, POD and CAD activities and lignin content, and the results showed that except for StCAD9, StCAD10 and StCAD27, the other genes were positively correlated with physiological indicators."
+    }
+}
