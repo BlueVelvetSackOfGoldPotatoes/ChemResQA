@@ -138,7 +138,17 @@ def filter_questions(data, include_keywords=None, exclude_keywords=None, fields=
         for question_key, question_value in item.items():
             if isinstance(question_value, dict):
                 content_to_search = {field: question_value.get(field, '') for field in (fields if fields else question_value.keys())}
-                content_string = ' '.join(content_to_search.values())
+                content_parts = []
+                for value in content_to_search.values():
+                    if isinstance(value, list):
+                        content_parts.append(' '.join(str(item) for item in value))
+                    elif isinstance(value, dict):
+                        content_parts.append(' '.join(str(item) for item in value.values()))
+                    elif value is None:
+                        content_parts.append('')
+                    else:
+                        content_parts.append(str(value))
+                content_string = ' '.join(content_parts)
                 content_string = content_string if case_sensitive else content_string.lower()
 
                 if include_keywords and not any((keyword if case_sensitive else keyword.lower()) in content_string for keyword in include_keywords):
@@ -200,8 +210,15 @@ if __name__ == '__main__':
     
     if args.command == 'filter':
         data = load_dataset(args.data_file)
-        filtered_data = filter_questions(data, include_keywords=args.include_keywords, exclude_keywords=args.exclude_keywords, fields=args.fields, max_results=args.max_results, case_sensitive=args.case_sensitive)
-        output = format_output(filtered_data, args.output_format)
+        output = filter_questions(
+            data,
+            include_keywords=args.include_keywords,
+            exclude_keywords=args.exclude_keywords,
+            fields=args.fields,
+            max_results=args.max_results,
+            case_sensitive=args.case_sensitive,
+            output_format=args.output_format
+        )
         print(output)
     elif args.command == 'wordcloud':
         data = load_dataset(args.data_file)
