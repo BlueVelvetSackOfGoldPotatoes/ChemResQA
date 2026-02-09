@@ -1,10 +1,20 @@
 import json
 import csv
+import argparse
+import sys
+from pathlib import Path
 from tqdm import tqdm
 from transformers import pipeline
-import torch
+try:
+    import torch
+except ImportError:
+    torch = None
 import os
 import logging
+
+ROOT_DIR = Path(__file__).resolve().parents[1]
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
 
 from api_keys.api_keys import key_openai
 from openai import OpenAI
@@ -12,9 +22,11 @@ from openai import OpenAI
 # Setting up logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-client = OpenAI(api_key=key_openai)
+DEFAULT_DATASET_PATH = ROOT_DIR / "data" / "chem_mqa_dataset.json"
+DEFAULT_OUTPUT_DIR = ROOT_DIR / "results" / "Binary"
+client = None
 
-device = 0 if torch.cuda.is_available() else -1
+device = 0 if torch and torch.cuda.is_available() else -1
 logging.debug(f"Using device: {device}")
 
 model_types = {
@@ -53,6 +65,18 @@ model_types = {
 }
 
 def gpt_evaluate(question, model_answer):
+    """
+    Ask GPT to classify a generated true/false statement.
+
+    Args:
+        question (dict): Question object with context and options.
+        model_answer (str): Model answer text to classify.
+
+    Returns:
+        str | None: Lowercase GPT classification or None on failure.
+    """
+    if client is None:
+        return None
     full_prompt = [
         {"role": "system", "content": "Classify the response as 'True' or 'False'."},
         {"role": "user", "content": f"Question: {question}. Model's response: {model_answer}"},
@@ -60,7 +84,7 @@ def gpt_evaluate(question, model_answer):
     try:
         completion = client.chat.completions.create(
                         model="gpt-3.5-turbo",
-                        prompt=full_prompt,
+                        messages=full_prompt,
                         max_tokens=5,
                         temperature=0.0
                     )
@@ -146,14 +170,69 @@ def evaluate_model(model_name, modality, questions):
 
     return correct_count, wrong_count, unparsable_count, results, gpt_results
 
-def main(save_files=1):
+def parse_arguments():
+    """
+    Parse command line arguments for binary benchmarking.
+
+    Args:
+        None
+
+    Returns:
+        argparse.Namespace: Parsed argument namespace.
+    """
+    parser = argparse.ArgumentParser(description="Benchmark ChemResQA with binary true/false framing.")
+    parser.add_argument("--dataset", default=str(DEFAULT_DATASET_PATH), help="Path to dataset JSON file.")
+    parser.add_argument("--output_dir", default=str(DEFAULT_OUTPUT_DIR), help="Directory to store benchmark outputs.")
+    parser.add_argument("--save_files", type=int, default=1, choices=[0, 1], help="Whether to persist CSV and JSON outputs.")
+    parser.add_argument("--limit", type=int, default=0, help="Optional number of questions to evaluate.")
+    parser.add_argument("--dry_run", action="store_true", help="Validate paths without loading models.")
+    return parser.parse_args()
+
+
+def load_dataset(dataset_path, limit):
+    """
+    Load question dataset and optionally limit question count.
+
+    Args:
+        dataset_path (Path): Path to dataset JSON.
+        limit (int): Maximum number of items to keep. Zero keeps all.
+
+    Returns:
+        list: Dataset entries.
+    """
+    with open(dataset_path, "r", encoding="utf-8") as file:
+        dataset = json.load(file)
+    if limit and limit > 0:
+        return dataset[:limit]
+    return dataset
+
+
+def main():
+    """
+    Run binary benchmark across configured model families.
+
+    Args:
+        None
+
+    Returns:
+        None
+    """
+    args = parse_arguments()
+    api_key = os.environ.get("OPENAI_KEY") or key_openai
+    global client
+    if api_key:
+        client = OpenAI(api_key=api_key)
     logging.debug("Loading dataset")
-    with open("./data/chem_mqa_dataset.json", "r") as f:
-        dataset = json.load(f)
+    dataset = load_dataset(Path(args.dataset), args.limit)
+    if args.dry_run:
+        print(f"Dry run complete. Loaded {len(dataset)} questions from {args.dataset}.")
+        return
 
     overall_stats = {}
+    output_dir = Path(args.output_dir)
+    save_files = bool(args.save_files)
     if save_files:
-        os.makedirs('./results/Binary', exist_ok=True)
+        os.makedirs(output_dir, exist_ok=True)
 
     for modality, models in model_types.items():
         modality_results = []
@@ -168,8 +247,8 @@ def main(save_files=1):
                 })
 
                 if save_files:
-                    csv_filename = f"./results/Binary/{model_name.replace('/', '_')}_results.csv"
-                    gpt_csv_filename = f"./results/Binary/{model_name.replace('/', '_')}_gpt4_results.csv"
+                    csv_filename = output_dir / f"{model_name.replace('/', '_')}_results.csv"
+                    gpt_csv_filename = output_dir / f"{model_name.replace('/', '_')}_gpt4_results.csv"
                     save_results(csv_filename, results)
                     save_results(gpt_csv_filename, gpt_results)
 
@@ -179,11 +258,23 @@ def main(save_files=1):
         overall_stats[modality] = modality_results
 
     if save_files:
-        with open('./results/Binary/overall_stats.json', 'w') as f:
+        with open(output_dir / "overall_stats.json", 'w', encoding="utf-8") as f:
             json.dump(overall_stats, f, indent=4)
 
 def save_results(filename, data):
+    """
+    Save tabular benchmark results as CSV.
+
+    Args:
+        filename (Path | str): Output CSV path.
+        data (list[dict]): Rows to write.
+
+    Returns:
+        None
+    """
     logging.debug(f"Saving results to {filename}")
+    if not data:
+        return
     with open(filename, 'w', newline='') as csvfile:
         fieldnames = list(data[0].keys())
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -192,4 +283,4 @@ def save_results(filename, data):
             writer.writerow(result)
 
 if __name__ == '__main__':
-    main(1)
+    main()

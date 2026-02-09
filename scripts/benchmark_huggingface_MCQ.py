@@ -1,11 +1,16 @@
 import os
 import json
+import argparse
+from pathlib import Path
 import matplotlib.pyplot as plt
 import numpy as np
 import csv
 from transformers import pipeline
 from tqdm import tqdm
-import torch
+try:
+    import torch
+except ImportError:
+    torch = None
 
 """TODO
 - We need to save the model's answer.
@@ -15,7 +20,10 @@ import torch
 - For every question just ask if it is true or false - this might make it parsable.
 """
 
-device = 0 if torch.cuda.is_available() else -1
+ROOT_DIR = Path(__file__).resolve().parents[1]
+DEFAULT_DATASET_PATH = ROOT_DIR / "data" / "chem_mqa_dataset.json"
+DEFAULT_OUTPUT_DIR = ROOT_DIR / "results" / "HuggingFace"
+device = 0 if torch and torch.cuda.is_available() else -1
 model_types = {
     "question-answering": [
         "deepset/roberta-base-squad2",
@@ -120,13 +128,62 @@ def evaluate_model(model_name, modality, questions):
 
     return correct_count, wrong_count, unparsable_count, results
 
+def parse_arguments():
+    """
+    Parse command line arguments for Hugging Face MCQ benchmarking.
+
+    Args:
+        None
+
+    Returns:
+        argparse.Namespace: Parsed argument namespace.
+    """
+    parser = argparse.ArgumentParser(description="Benchmark ChemResQA MCQs with Hugging Face models.")
+    parser.add_argument("--dataset", default=str(DEFAULT_DATASET_PATH), help="Path to dataset JSON file.")
+    parser.add_argument("--output_dir", default=str(DEFAULT_OUTPUT_DIR), help="Directory to store benchmark outputs.")
+    parser.add_argument("--limit", type=int, default=0, help="Optional number of questions to evaluate.")
+    parser.add_argument("--dry_run", action="store_true", help="Validate paths without loading models.")
+    return parser.parse_args()
+
+
+def load_dataset(dataset_path, limit):
+    """
+    Load question dataset and optionally limit question count.
+
+    Args:
+        dataset_path (Path): Path to dataset JSON.
+        limit (int): Maximum number of items to keep. Zero keeps all.
+
+    Returns:
+        list: Dataset entries.
+    """
+    with open(dataset_path, "r", encoding="utf-8") as file:
+        dataset = json.load(file)
+    if limit and limit > 0:
+        return dataset[:limit]
+    return dataset
+
+
 def main():
-    with open("./data/chem_mqa_dataset.json", "r") as f:
-        dataset = json.load(f)
+    """
+    Run Hugging Face multiple-choice benchmarking.
+
+    Args:
+        None
+
+    Returns:
+        None
+    """
+    args = parse_arguments()
+    dataset = load_dataset(Path(args.dataset), args.limit)
+    if args.dry_run:
+        print(f"Dry run complete. Loaded {len(dataset)} questions from {args.dataset}.")
+        return
 
     overall_stats = {}
-    os.makedirs('./results/HuggingFace', exist_ok=True)
-    unavailable_models_file = "./results/HuggingFace/unavailable_models.txt"
+    output_dir = Path(args.output_dir)
+    os.makedirs(output_dir, exist_ok=True)
+    unavailable_models_file = output_dir / "unavailable_models.txt"
 
     for modality, models in model_types.items():
         modality_results = []
@@ -142,8 +199,8 @@ def main():
                 })
 
                 # Save individual model results to CSV
-                csv_filename = f"./results/HuggingFace/{model_name.replace('/', '_')}_results.csv"
-                with open(csv_filename, 'w', newline='') as csvfile:
+                csv_filename = output_dir / f"{model_name.replace('/', '_')}_results.csv"
+                with open(csv_filename, 'w', newline='', encoding="utf-8") as csvfile:
                     fieldnames = ['question_id', 'prompt', 'generated_answer', 'is_correct', 'is_unparsable']
                     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
@@ -152,10 +209,12 @@ def main():
                         writer.writerow(result)
             except Exception as e:
                 print(f"Failed to evaluate model {model_name} due to: {e}")
-                with open(unavailable_models_file, "a") as log_file:
+                with open(unavailable_models_file, "a", encoding="utf-8") as log_file:
                     log_file.write(f"{model_name} could not be loaded.\n")
 
         overall_stats[modality] = modality_results
+        if not modality_results:
+            continue
 
         # Plotting and saving results with standard deviation
         labels = [res['model_name'].split('/')[-1] for res in modality_results]
@@ -185,13 +244,12 @@ def main():
         ax.set_xticklabels(labels, rotation=45, ha="right")
         ax.legend()
 
-        plot_filename = f"./results/HuggingFace/{modality}_performance.png"
+        plot_filename = output_dir / f"{modality}_performance.png"
         plt.tight_layout()
         plt.savefig(plot_filename)
         plt.close()
 
-    # Save overall statistics
-    with open('./results/HuggingFace/overall_stats.json', 'w') as f:
+    with open(output_dir / "overall_stats.json", 'w', encoding="utf-8") as f:
         json.dump(overall_stats, f, indent=4)
 
 if __name__ == '__main__':
