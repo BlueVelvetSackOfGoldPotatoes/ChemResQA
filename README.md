@@ -1,7 +1,5 @@
 # ChemResQA
 
-![Molecular graph to ASCII representation](docs/images/molecular-graph-to-ascii.png)
-
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: CC BY 4.0 (dataset)](https://img.shields.io/badge/Dataset%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Open Source](https://img.shields.io/badge/Open%20Access-Yes-brightgreen.svg)](#data-provenance-and-access)
